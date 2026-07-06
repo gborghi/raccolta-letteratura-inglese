@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_13">part 13 ›</a></div>
@@ -219,3 +221,218 @@ believe it?
 us sit down and talk about it. Let me take your cloak.
 
 CONJURER. I will take off my cloak when you take off your coat.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_13">part 13 ›</a></div>
+</nav>
+
+     [_Entra il_ DUCA _con delle carte in mano. La sua consueta giovialità di
+
+     modi ha un'aria piuttosto forzata, per il fatto che, per certe
+
+     vaghe associazioni da camera di malato, cammina come in punta di piedi e comincia
+
+     a parlare in una sorta di sussurro alto e stridulo. Per fortuna se ne
+
+     dimentica e ricade nella sua voce più naturale._
+
+DUCA. [_Al_ PRESTIGIATORE.] Tanto gentile da parte sua aver aspettato, Professore.
+
+Immagino che il dottor Grimthorpe le abbia spiegato la piccola difficoltà in cui ci troviamo
+
+assai meglio di quanto potrei io. Niente di meglio della mente medica per un'affermazione
+
+scientifica. [_Vagamente._] Guardi Ibsen.
+
+     [_Silenzio._
+
+DOTTORE. Naturalmente [[The Professor|il Professore]] prova una notevole riluttanza nella
+
+faccenda. Fa notare che i suoi [[Secrets|segreti]] sono parte essenziale della sua
+
+professione.
+
+DUCA. Naturalmente, naturalmente. Segreti del mestiere, eh? Più che giusto,
+
+certo. Proprio un caso di _noblesse oblige_. [_Silenzio._] Ma oserei dire che
+
+troveremo una via d'uscita dalla faccenda. [_Si volge al_
+
+PRESTIGIATORE.] Dunque, mio caro signore, [[Hope|spero]] che non si offenderà se dico
+
+che questa dovrebbe essere una questione d'affari. Le stiamo chiedendo un pezzo
+
+del suo lavoro e del suo sapere professionale, e se posso avere il piacere
+
+di farle un assegno....
+
+PRESTIGIATORE. Ringrazio Vostra Grazia, ho già ricevuto il mio assegno dal
+
+suo segretario. Lo troverà sulla matrice subito dopo l'assegno
+
+che lei ha così gentilmente dato alla Società per la Soppressione della
+
+Prestidigitazione.
+
+DUCA. Ora non voglio che la prenda in quel modo. Voglio che la prenda
+
+in un modo più ampio. Liberamente, sa. [_Con un gesto espansivo._]
+
+Moderno e via dicendo! Uomo straordinario, Bernard [[Shaw]]!
+
+     [_Silenzio._
+
+DOTTORE. [_Con un lieve colpo di tosse, riprendendo._] Se prova qualche scrupolo, il
+
+pagamento non deve necessariamente essere fatto a lei soltanto. Rispetto pienamente i suoi sentimenti nella
+
+faccenda.
+
+DUCA. [_In tono d'approvazione._] Proprio così, proprio così. Non ha una Causa o
+
+qualcosa? Tutti hanno una causa ormai, sa. Vedove di prestigiatori o
+
+qualcosa del genere.
+
+PRESTIGIATORE. [_Con ritegno._] No; non ho vedove.
+
+DUCA. Allora qualcosa come una pensione o una rendita per le eventuali vedove che lei
+
+potrà... ehm... procurarsi. [_Aprendo allegramente il libretto degli assegni e parlando in gergo per
+
+mostrare che non c'è rancore._] Su, diciamo un paio di sacchi.
+
+     [_Il_ PRESTIGIATORE _prende l'assegno e lo guarda in modo [[Grave|grave]] e
+
+     dubbioso. Mentre lo fa il_ RETTORE _entra lentamente nella
+
+     stanza._
+
+PRESTIGIATORE. Sarebbe davvero disposto a pagare una somma simile per sapere
+
+il modo in cui ho fatto quel trucco?
+
+DUCA. Pagherei volentieri molto di più.
+
+DOTTORE. Credo di averle spiegato che il caso è serio.
+
+PRESTIGIATORE. [_Sempre più pensieroso._] Pagherebbe molto di più....
+
+[_D'improvviso._] Ma supponga che le riveli il segreto e lei scopra che non c'è
+
+nulla dietro?
+
+DOTTORE. Intende dire che in realtà è molto semplice? Ma direi che
+
+sarebbe la cosa migliore che potesse capitare. Un po'
+
+di sana risata è la miglior cosa possibile per la convalescenza.
+
+PRESTIGIATORE. [_Sempre fissando cupo l'assegno._] Non credo che
+
+riderà.
+
+DUCA. [_Ragionando bonariamente._] Ma come dice lei è qualcosa di molto
+
+semplice.
+
+PRESTIGIATORE. È la cosa più semplice che ci sia al mondo. Ecco perché
+
+non riderà.
+
+DOTTORE. [_Quasi nervosamente._] Ma... che cosa intende? Che cosa dobbiamo fare?
+
+PRESTIGIATORE. [_Con gravità._] Non ci crederete.
+
+DOTTORE. E perché?
+
+PRESTIGIATORE. Perché è così semplice. [_Balza d'improvviso in piedi,
+
+l'assegno ancora in mano._] Mi chiedete come ho fatto davvero l'ultimo
+
+trucco. Vi dirò come ho fatto l'ultimo trucco. L'ho fatto con la [[Magic|magia]].
+
+     [_Il_ DUCA _e il_ DOTTORE _lo fissano immobili; ma il_ REV.
+
+     [[smith|SMITH]] _trasalisce e fa un passo verso il tavolo. Il_ PRESTIGIATORE
+
+     _si stringe il mantello intorno alle spalle. Questo gesto, come di
+
+     partenza, riporta il_ DOTTORE _in piedi._
+
+DOTTORE. [_Stupito e adirato._] Intende davvero dire che prende
+
+l'assegno e poi ci dice che era solo [[Magic|magia]]?
+
+PRESTIGIATORE. [_Facendo a pezzi l'assegno._] Straccio l'assegno, e vi
+
+dico che era solo [[Magic|magia]].
+
+DOTTORE. [_Con violenta sincerità._] Ma diamine, una cosa simile non
+
+esiste.
+
+PRESTIGIATORE. Sì che esiste. Volesse Iddio che non sapessi che esiste.
+
+DUCA. [_Alzandosi anch'egli._] Ma davvero, la [[Magic|magia]]....
+
+PRESTIGIATORE. [_Con disprezzo._] Sì, Vostra Grazia, una di quelle leggi più vaste
+
+di cui ci parlava.
+
+     [_Si abbottona il mantello alla gola e prende la sua borsa. Mentre
+
+     lo fa il_ REV. [[smith|SMITH]] _si frappone tra lui e la porta e lo
+
+     ferma per un momento._
+
+[[smith|SMITH]]. [_A voce bassa._] Un momento, signore.
+
+PRESTIGIATORE. Che cosa vuole?
+
+[[smith|SMITH]]. Voglio scusarmi con lei. Intendo a nome dei presenti. Penso
+
+che sia stato sbagliato offrirle del denaro. Penso che sia stato ancor più sbagliato
+
+confonderla con un linguaggio medico e chiamare la cosa delirio. Ho
+
+più rispetto per la ciarla del prestigiatore che per la ciarla del medico. Sono
+
+entrambe fatte per stordire; ma la sua solo per stordire un istante. Ora glielo
+
+pongo in parole schiette e su schietti fondamenti umani e cristiani. Ecco un
+
+povero ragazzo che forse sta impazzendo. Supponga di avere un figlio in una simile condizione,
+
+non si aspetterebbe che la gente le dicesse tutta la [[Truth|verità]] se potesse
+
+aiutarla?
+
+PRESTIGIATORE. Sì. E io vi ho detto tutta la [[Truth|verità]]. Andate a scoprire se
+
+vi aiuta.
+
+     [_Si volge di nuovo per andarsene, ma più irresoluto._
+
+[[smith|SMITH]]. Lo sa [[Well|bene]] che non ci aiuterà.
+
+PRESTIGIATORE. Perché no?
+
+[[smith|SMITH]]. Lo sa [[Well|bene]] perché no. Lei è un uomo onesto; e l'ha
+
+detto lei stesso. Perché lui non ci crederebbe.
+
+PRESTIGIATORE. [_Con una sorta di furia._] [[Well|Beh]], c'è forse qualcuno che ci crede? Lei ci
+
+crede?
+
+[[smith|SMITH]]. [_Con grande ritegno._] La sua domanda è del tutto legittima. Su,
+
+sediamoci e parliamone. Mi lasci prendere il suo mantello.
+
+PRESTIGIATORE. Mi toglierò il mantello quando lei si toglierà l'abito.

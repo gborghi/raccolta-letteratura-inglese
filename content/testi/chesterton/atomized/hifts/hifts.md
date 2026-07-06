@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/hifts-(chesterton)">HIFTS</a></div>
 </nav>
@@ -151,6 +153,71 @@ the frustration of its most magnificent birth.'  But I thought
 that there was a hoot of laughter in the high wail of the [[Wind|wind]].
 
 Thanks to John Morgan for typing in this story.
+-------------------------------------------------------------------------------
+Last modified: 3rd July, 1996
+Martin Ward, Software Technology Research Lab,
+De Montfort University, Leicester.
+Email: martin@gkc.org.uk
+-------------------------------------------------------------------------------
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/hifts-(chesterton)">HIFTS</a></div>
+</nav>
+
+Come trovai il Superuomo
+
+G. K. Chesterton
+
+Daily News, 1909
+
+-------------------------------------------------------------------------------
+I lettori del signor Bernard [[Shaw]] e di altri scrittori moderni saranno forse interessati a sapere che il Superuomo è stato trovato. L'ho trovato io; abita a South Croydon. Il mio [[success|successo]] sarà un duro colpo per il signor [[Shaw]], che ha seguito una pista del tutto falsa e ora cerca la creatura a Blackpool; e quanto all'idea del signor Wells di generarlo a partire da certi gas in un laboratorio privato, l'ho sempre giudicata votata al fallimento. Assicuro al signor Wells che il Superuomo di Croydon è nato nel modo consueto, per quanto egli stesso, s'intende, sia tutt'altro che consueto.
+
+Né i suoi genitori sono indegni del mirabile essere che hanno donato al mondo. Il nome di Lady Hypatia Smythe-Brown (ora Lady Hypatia Hagg) non sarà mai dimenticato nell'East End, dove ella compì un'opera sociale tanto splendida. Il suo grido incessante di «Salvate i bambini!» si riferiva alla crudele incuria per la vista infantile che si commetteva lasciandoli giocare con giocattoli dipinti in modo rozzo. Citava statistiche inconfutabili per dimostrare che i bambini ai quali si permetteva di guardare il violetto e il vermiglio soffrivano spesso di indebolimento della vista nella loro estrema vecchiaia; e fu grazie alla sua incessante crociata che la pestilenza della Scimmietta-sul-Bastone venne quasi spazzata via da Hoxton.
+
+L'operosa devota batteva le strade senza posa, sottraendo i giocattoli a tutti i bambini poveri, che spesso venivano mossi alle [[Tears|lacrime]] dalla sua bontà. La sua buona opera fu interrotta, in parte da un nuovo interesse per il credo di Zoroastro, in parte da un feroce colpo d'ombrello. Glielo inflisse una dissoluta venditrice di mele irlandese la quale, tornando da non so quale orgia alla propria dimora malandata, trovò Lady Hypatia in camera da letto intenta a staccare una certa oleografia che, a dir poco, non poteva davvero elevare lo spirito.
+
+A questo l'ignorante e alquanto ebbra celtica assestò alla riformatrice sociale un colpo violento, aggiungendovi un'assurda accusa di furto. La mente squisitamente equilibrata della dama ricevette uno choc; e fu durante una breve infermità mentale che ella sposò il dottor Hagg.
+
+Del dottor Hagg stesso mi [[Hope|auguro]] non vi sia bisogno di parlare. Chiunque abbia anche solo una vaga conoscenza di quegli arditi esperimenti di [[Eugenics|Eugenetica]] Neo-Individualista, che sono ormai l'unico interesse assorbente della [[democracy|democrazia]] inglese, deve conoscerne il nome e spesso raccomandarlo alla protezione personale di un potere impersonale. Fin da giovane egli portò sull'argomento quella spietata perspicacia nella [[history|storia]] delle religioni che aveva acquisito da ragazzo come ingegnere elettrotecnico. Più tardi divenne uno dei nostri massimi geologi; e conseguì quella prospettiva ardita e luminosa sull'avvenire del Socialismo che soltanto la geologia può dare. In un primo momento sembra profilarsi qualcosa come una spaccatura, una lieve ma percettibile fenditura, tra le sue vedute e quelle dell'aristocratica moglie.
+
+Ella infatti era favorevole (per usare il suo stesso vigoroso [[Epigram|epigramma]]) a proteggere i poveri contro sé stessi; mentre egli dichiarava senza pietà, con una metafora nuova e sorprendente, che il più debole deve soccombere. Alla fine, tuttavia, la coppia coniugale scorse un'essenziale [[Union|unione]] nel carattere inconfondibilmente moderno di entrambe le loro vedute; e in questa espressione illuminante e onnicomprensiva le loro anime trovarono pace. Ne risulta che questa [[Union|unione]] dei due tipi più elevati della nostra civiltà, la dama di moda e il medico quasi volgare, è stata benedetta dalla nascita del Superuomo, quell'essere che tutti gli operai di Battersea attendono con tanta ansia [[Night|notte]] e giorno.
+
+Trovai la [[house|casa]] del dottor Hagg e di Lady Hypatia senza troppa difficoltà; sorge in una delle ultime strade sparpagliate di Croydon, dominata da un filare di pioppi. Raggiunsi la porta sul far del crepuscolo, ed era naturale che vedessi fantasticando qualcosa di cupo e mostruoso nella mole indistinta di quella [[house|casa]] che racchiudeva la creatura più prodigiosa dei figli degli uomini. Quando entrai nella [[house|casa]] fui accolto con squisita cortesia da Lady Hypatia e dal marito; ma trovai assai maggior difficoltà nel vedere davvero il Superuomo, che ora ha circa quindici anni ed è tenuto in disparte in una stanza silenziosa. Nemmeno la mia conversazione col padre e con la madre chiarì del tutto il carattere del misterioso essere. Lady Hypatia, che ha un volto pallido e struggente, ed è vestita di quei grigi e verdi impalpabili e patetici coi quali ha rallegrato tanti focolari a Hoxton, non sembrava parlare della propria prole con nulla della volgare [[Vanity|vanità]] di una comune madre umana. Feci un passo ardito e chiesi se il Superuomo fosse di bell'aspetto.
+
+«Egli crea il proprio canone, vede,» rispose ella con un lieve sospiro. «Su quel piano è più di [[Apollo]]. Visto dal nostro piano inferiore, s'intende...» E sospirò di nuovo.
+
+Ebbi un impulso orribile e dissi d'improvviso: «Ha i capelli?»
+
+Vi fu un lungo e penoso [[Silence|silenzio]], poi il dottor Hagg disse con dolcezza: «Tutto, su quel piano, è diverso; ciò che egli ha non è... [[Well|be']], non è, s'intende, quel che noi chiamiamo capelli... ma...»
+
+«Non pensa,» disse la moglie con grande soavità, «non pensa che davvero, per amor di discorso, parlando al semplice pubblico, si potrebbe chiamarli capelli?»
+
+«Forse ha ragione,» disse il dottore dopo qualche istante di riflessione. «A proposito di capelli come quelli si deve parlare per parabole.»
+
+«[[Well|Be']], che diamine sono allora,» chiesi con una certa irritazione, «se non sono capelli? Sono penne?»
+
+«Non penne, nel senso in cui noi intendiamo le penne,» rispose Hagg con voce spaventosa.
+
+Mi alzai con una certa irritazione. «Posso vederlo, almeno?» chiesi. «Sono un giornalista, e non ho altro movente terreno che la curiosità e la [[Vanity|vanità]] personale. Mi piacerebbe poter dire di aver stretto la mano al Superuomo.»
+
+Marito e moglie si erano entrambi alzati pesantemente in piedi, e stavano imbarazzati.
+
+«[[Well|Be']], naturalmente, sa,» disse Lady Hypatia con quel sorriso davvero incantevole della padrona di casa aristocratica. «Sa, non può proprio stringere la mano... non ha mani, capisce... La struttura, s'intende...»
+
+Ruppi ogni limite di convenienza e mi precipitai alla porta della stanza che credevo contenesse l'incredibile creatura. La spalancai; la stanza era buia pesta. Ma dinanzi a me giunse un piccolo triste guaito, e dietro a me un [[Double|doppio]] strillo.
+
+«Ora l'ha combinata!» gridò il dottor Hagg, affondando la fronte calva tra le mani. «Ha lasciato entrare una corrente d'aria su di lui; ed egli è morto.»
+
+Mentre mi allontanavo da Croydon quella [[Night|notte]], vidi uomini in nero portar fuori una bara che non aveva alcuna forma umana. Il [[Wind|vento]] gemeva sopra di me, facendo turbinare i pioppi, che si piegavano e chinavano come i pennacchi di un qualche funerale cosmico.
+
+«È, invero,» disse il dottor Hagg, «l'intero universo che piange sulla frustrazione della sua più magnifica nascita.» Ma a me parve che vi fosse un ghigno di riso nell'alto gemito del [[Wind|vento]].
+
+Si ringrazia John Morgan per aver trascritto questo racconto.
 -------------------------------------------------------------------------------
 Last modified: 3rd July, 1996
 Martin Ward, Software Technology Research Lab,

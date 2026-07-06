@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_11">part 11 ›</a></div>
@@ -225,3 +227,224 @@ DOCTOR. Weren't there as many who believed passionately in [[Apollo]]?
 [[smith|SMITH]]. And what harm came of believing in [[Apollo]]? And what a mass of
 
 harm may have come of not believing in [[Apollo]]? Does it never strike you
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_11">part 11 ›</a></div>
+</nav>
+
+MORRIS. [_Con violenza._] No, Prete, non lo lascerò [[Alone|stare]]. [_Percorrendo di nuovo
+
+la stanza._] Si potrebbe fare con degli specchi? [_Si stringe la fronte._] Lei
+
+ha uno [[Mirror|specchio]].... [_D'improvviso, con un grido._] Ci sono! Ci sono!
+
+Mescolanza di luci! Perché no? Se getti una luce verde su una luce
+
+rossa....
+
+     [_[[Silence|Silenzio]] improvviso._
+
+[[smith|SMITH]]. [_Sottovoce al_ DOTTORE.] Non ottieni il blu.
+
+DOTTORE. [_Avvicinandosi al_ PRESTIGIATORE.] Se ha fatto lei questo
+
+trucco, per l'amor di Dio lo disfi.
+
+     [_Dopo un [[Silence|silenzio]], la luce ridiventa rossa._
+
+MORRIS. [_Precipitandosi d'un tratto alle porte a vetri ed esaminandole._] È
+
+il vetro! Ha combinato qualcosa al vetro!
+
+     [_Si ferma di colpo e cala un lungo [[Silence|silenzio]]._
+
+PRESTIGIATORE. [_Sempre senza muoversi._] Non credo che troverà nulla
+
+di sbagliato nel vetro.
+
+MORRIS. [_Spalancando le porte a vetri con fracasso._] Allora scoprirò
+
+cosa c'è di sbagliato nella lampada.
+
+     [_Scompare nel [[Garden|giardino]]._
+
+DOTTORE. È ancora una [[Night|notte]] umida, temo.
+
+[[smith|SMITH]]. Sì. E ora qualcun altro andrà errando per il [[Garden|giardino]].
+
+     [_Attraverso le porte a vetri infrante si vede_ MORRIS _andare
+
+     avanti e indietro a passi sempre più rapidi._
+
+[[smith|SMITH]]. Suppongo che in questo caso il crepuscolo celtico non gli si poserà sul
+
+petto.
+
+DOTTORE. Oh, se fosse solo il petto!
+
+     _Entra_ PATRICIA.
+
+PATRICIA. Dov'è mio fratello?
+
+     [_Cala un [[Silence|silenzio]] imbarazzato, nel quale il_ PRESTIGIATORE
+
+     _risponde._
+
+PRESTIGIATORE. Temo che stia passeggiando nel Paese delle Fate.
+
+PATRICIA. Ma non deve uscire in una [[Night|notte]] come questa; è molto
+
+pericoloso!
+
+PRESTIGIATORE. Sì, è molto pericoloso. Potrebbe incontrare una fata.
+
+PATRICIA. Che cosa volete dire?
+
+PRESTIGIATORE. Lei è uscita con un tempo come questo e ha incontrato una fata come
+
+questa, e finora le ha portato soltanto dolore.
+
+PATRICIA. Esco a cercare mio fratello.
+
+     [_Esce nel [[Garden|giardino]] attraverso le porte aperte._
+
+[[smith|SMITH]]. [_Dopo un [[Silence|silenzio]], all'improvviso._] Che cos'è quel rumore? Non gli
+
+starà mica cantando quelle [[songs|canzoni]], vero?
+
+PRESTIGIATORE. No. Lui non capisce la lingua degli elfi.
+
+[[smith|SMITH]]. Ma cosa sono tutte quelle grida e quegli ansiti che sento?
+
+PRESTIGIATORE. I normali rumori, credo, di un tranquillo uomo d'affari.
+
+DOTTORE. Signore, posso capire la sua amarezza, poiché ammetto che è stato
+
+accolto in modo incivile; ma parlare così proprio ora....
+
+     [PATRICIA _ricompare alle porte del [[Garden|giardino]], molto pallida._
+
+PATRICIA. Posso parlare col Dottore?
+
+DOTTORE. Mia cara signora, certamente. Devo chiamare il Duca?
+
+PATRICIA. Preferirei il Dottore.
+
+[[smith|SMITH]]. Posso essere d'aiuto?
+
+PATRICIA. Voglio soltanto il Dottore.
+
+     [_Esce di nuovo, seguita dal_ DR. GRIMTHORPE. _Gli altri si
+
+     guardano l'un l'altro._
+
+[[smith|SMITH]]. [_Sottovoce._] Quest'ultimo è stato un trucco meraviglioso, il suo.
+
+PRESTIGIATORE. Grazie. Suppongo che intenda dire che è stato l'unico che non ha
+
+smascherato.
+
+[[smith|SMITH]]. Qualcosa del genere, lo confesso. Il suo ultimo trucco è stato il miglior
+
+trucco che io abbia mai visto. È così bello che vorrei non l'avesse fatto.
+
+PRESTIGIATORE. E lo vorrei anch'io.
+
+[[smith|SMITH]]. Come sarebbe? Vorrebbe non essere mai stato un prestigiatore?
+
+PRESTIGIATORE. Vorrei non essere mai nato.
+
+     [_Esce_ PRESTIGIATORE.
+
+     [_Un [[Silence|silenzio]]. Il_ DOTTORE _entra, molto [[Grave|grave]]._
+
+DOTTORE. Per ora va tutto bene. L'abbiamo riportato indietro.
+
+[[smith|SMITH]]. [_Avvicinandosi a lui._] Mi aveva detto che c'era un disturbo mentale
+
+nella ragazza.
+
+DOTTORE. [_Guardandolo fisso._] No. Le ho detto che c'era un disturbo
+
+mentale nella famiglia.
+
+[[smith|SMITH]]. [_Dopo un [[Silence|silenzio]]._] Dov'è il signor Morris Carleon?
+
+DOTTORE. L'ho messo a letto nella stanza accanto. Sua sorella si sta
+
+prendendo cura di lui.
+
+[[smith|SMITH]]. Sua sorella! Oh, allora lei crede nelle fate?
+
+DOTTORE. Credere nelle fate? Che cosa intende?
+
+[[smith|SMITH]]. Quantomeno ha affidato la persona che ci crede alla custodia
+
+della persona che non ci crede.
+
+DOTTORE. [[Well|Beh]], suppongo di sì.
+
+[[smith|SMITH]]. Non teme che lo terrà sveglio tutta la [[Night|notte]] con le fiabe?
+
+DOTTORE. Certamente no.
+
+[[smith|SMITH]]. Non teme che getterà la boccetta della medicina dalla [[Window|finestra]]
+
+e gli somministrerà... ehm... una goccia di rugiada, o qualcosa del genere? O un
+
+quadrifoglio, mettiamo?
+
+DOTTORE. No; certo che no.
+
+[[smith|SMITH]]. Lo chiedo solo perché voi uomini di scienza siete un po' duri con noi
+
+ecclesiastici. Voi non credete in un sacerdozio; ma ammetterà che io sono più
+
+davvero prete di quanto questo Prestigiatore sia davvero un mago. Avete
+
+parlato molto della [[Bible|Bibbia]] e dell'Alta Critica. Ma perfino secondo l'Alta
+
+Critica la [[Bible|Bibbia]] è più antica della lingua degli
+
+elfi... che, per quel che ne capisco, è stata inventata questo pomeriggio. Ma
+
+la signorina Carleon credeva nel mago. La signorina Carleon credeva nella
+
+lingua degli elfi. E lei l'ha messa a custodia di un malato senza
+
+un'ombra di [[Doubt|dubbio]]: perché si fida delle donne.
+
+DOTTORE. [_Molto serio._] Sì, mi fido delle donne.
+
+[[smith|SMITH]]. Affida a una donna le questioni pratiche della vita e della [[Death|morte]],
+
+lungo ore insonni in cui una mano tremante o un grano di troppo
+
+ucciderebbero.
+
+DOTTORE. Sì.
+
+[[smith|SMITH]]. Ma se la donna si alza per andare alla prima funzione nella mia chiesa, la
+
+chiama debole di mente e dice che nessuno tranne le donne può credere nella
+
+religione.
+
+DOTTORE. Non chiamerei mai debole di mente questa donna... no, per Dio, nemmeno
+
+se andasse in chiesa.
+
+[[smith|SMITH]]. Eppure ce ne sono molte altrettanto salde di mente che credono con passione
+
+nell'andare in chiesa.
+
+DOTTORE. Non ce n'erano altrettante che credevano con passione in [[Apollo]]?
+
+[[smith|SMITH]]. E che male venne dal credere in [[Apollo]]? E quale massa di
+
+male può essere venuta dal non credere in [[Apollo]]? Non le viene mai in mente

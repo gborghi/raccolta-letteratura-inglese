@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/balladstbarbara-(chesterton)">BalladStBarbara</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/balladstbarbara/part/part_02">part 02 ›</a></div>
@@ -573,3 +575,572 @@ by The Internet Archive/Canadian Libraries)
     While that that the east held hard and hot like pincers in a forge,  
 
     Came like the west [[Wind|wind]] roaring up the cannon of St. George,  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/balladstbarbara-(chesterton)">BalladStBarbara</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/balladstbarbara/part/part_02">part 02 ›</a></div>
+</nav>
+
+The Ballad of St. Barbara del Project Gutenberg, di Gilbert Keith Chesterton  
+
+Questo eBook è destinato all'uso di chiunque, ovunque, senza alcun costo e con
+
+quasi nessuna restrizione di sorta.  Potete copiarlo, regalarlo o
+
+riutilizzarlo secondo i termini della Licenza Project Gutenberg inclusa
+
+con questo eBook o disponibile online all'indirizzo www.gutenberg.org
+
+Titolo: The Ballad of St. Barbara  
+
+       E altri versi  
+
+Autore: Gilbert Keith Chesterton  
+
+Data di pubblicazione: 28 aprile 2010 [EBook #32167]  
+
+Lingua: inglese  
+
+Codifica del set di caratteri: ISO-8859-1  
+
+*** INIZIO DI QUESTO EBOOK PROJECT GUTENBERG THE BALLAD OF ST. BARBARA ***  
+
+Prodotto da Irma Spehar, Markus Brenner e il Team di  
+
+Distributed Proofreading Team at http://www.pgdp.net (This
+
+file was produced from images generously made available
+
+by The Internet Archive/Canadian Libraries)
+
+                       La Ballata di Santa Barbara  
+
+                           E ALTRI VERSI  
+
+                                  BY  
+
+                       GILBERT KEITH CHESTERTON  
+
+                                [[London|LONDRA]]  
+
+                             CECIL PALMER  
+
+                 OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
+
+                                 PRIMA  
+
+                                EDIZIONE  
+
+                                 1922  
+
+                               COPYRIGHT  
+
+    A F. C. IN MEMORIAM PALESTINA, '19  
+
+    Ricordi tu un immortale  
+
+    attimo perduto fuori dal [[Time|tempo]] e dallo spazio,  
+
+    nell'[[Time|ora]] in cui pensammo, noi che varcammo la soglia  
+
+    di quel luogo divino e disastroso  
+
+    dove la Vita fu uccisa e la [[Truth|Verità]] calunniata  
+
+    su quell'unico [[Hill|colle]] più santo di Roma,  
+
+    quanto lontano vagarono i nostri corpi  
+
+    quella sera in cui le nostre anime tornarono a [[Home|casa]]?  
+
+    La mistica [[City|città]] dalle molte porte,  
+
+    dalle colonne mostruose, era la tua:  
+
+    pietre erodiane caddero e attesero  
+
+    duemila anni per farsi tuo trono.  
+
+    Fra le rocce grigie il fiore ardente  
+
+    splendeva terribile come il sacro [[Blood|sangue]]:  
+
+    non era più estraneo al tuo seno  
+
+    delle campanule di un bosco inglese.  
+
+    Ricordi tu una [[Road|strada]] che segue  
+
+    il cammino di piedi non dimenticati,  
+
+    dove dal deserto di rocce e di cavità  
+
+    s'inerpica su per la via tortuosa e strisciante  
+
+    le stazioni di un unico dramma torreggiante  
+
+    sempre più avanti e fuori dalla vista...  
+
+    Ricordi tu Aceldama  
+
+    e lo sciacallo che latrava nella [[Night|notte]]?  
+
+    La vita non è vuota, né materia per gli schernitori:  
+
+    abbiamo riso forte e serbato il nostro [[Love|amore]],  
+
+    abbiamo udito cantori negli angoli delle taverne  
+
+    e non dimenticato gli [[Birds|uccelli]] lassù:  
+
+    abbiamo conosciuto percussori e figli del tuono  
+
+    e non indegnamente camminato con loro,  
+
+    siamo divenuti più saggi senza perdere lo [[Wonder|stupore]];  
+
+    e abbiamo veduto Gerusalemme.  
+
+    INDICE  
+
+                                                  PAG.  
+
+    A F. C. In Memoriam Palestina, '19             vii  
+
+    La Ballata di Santa Barbara                      1  
+
+    [[elegy|Elegia]] in un cimitero di campagna             13  
+
+    La [[Sword|Spada]] della Sorpresa                       14  
+
+    Nozze in [[Time|tempo]] di guerra                       15  
+
+    Il Mistero                                      18  
+
+    «Il Mito di [[Arthur|Artù]]»                            19  
+
+    La Vecchia [[Song|Canzone]]                             20  
+
+    I Ninnoli                                       24  
+
+    Il Filantropo                                   26  
+
+    Sulle Downs                                     27  
+
+    Il Mar Rosso                                    30  
+
+    Per un Monumento ai Caduti                      32  
+
+    [[Memory|Memoria]]                                     33  
+
+    Le Tombe Inglesi                                35  
+
+    [[nightmare|Incubo]]                                   37  
+
+    Una Seconda [[Childhood|Infanzia]]                     40  
+
+    «Medievalismo»                                  43  
+
+    Polonia                                         46  
+
+    La Caccia al Drago                              48  
+
+    [[Sonnet|Sonetto]]                                    51  
+
+    Fantasia                                        52  
+
+    Un [[carol|Canto]] di Natale                          54  
+
+    Al Capitano Fryatt                              56  
+
+    Per Quattro Corporazioni:  
+
+        I. I Maestri Vetrai                         57  
+
+       II. I Costruttori di Ponti                   59  
+
+      III. Gli Scalpellini                          62  
+
+       IV. I Campanari                              64  
+
+    Il [[convert|Convertito]]                              67  
+
+    [[songs|Canti]] dell'[[Education|Educazione]]:  
+
+        I. [[history|Storia]]                             71  
+
+       II. Geografia                               74  
+
+      III. Per l'Asilo                             76  
+
+       IV. Cittadinanza                            78  
+
+        V. Le Alte Matematiche                     80  
+
+       VI. Igiene                                  82  
+
+    LA BALLATA DI SANTA BARBARA  
+
+    _(Santa Barbara è la patrona dell'artiglieria e di coloro che sono in  
+
+    pericolo di [[Death|morte]] improvvisa.)_  
+
+    Quando le lunghe file grigie dilagarono su [[Paris|Parigi]] nella pianura,  
+
+    ci fermammo e bevemmo l'ultima aria libera che mai più avremmo gustato:  
+
+    ci avevano ricondotti dalla battaglia perduta, a fermarci non sapevamo dove  
+
+    e ci acquietarono; e i nostri cannoni spalancati tacevano per la nostra [[Despair|disperazione]].  
+
+    Le tribù grigie fluivano senza fine dalle infinite terre senza vita  
+
+    e un Normanno parlò a un Bretone, il mento sulle mani.  
+
+    «Vi fu una fine per Ilio; e una fine venne per Roma;  
+
+    e un uomo recita su un palco dipinto nella terra che chiama [[Home|casa]];  
+
+    Arco dopo arco di trionfo, ma piano oltre piano che rovina,  
+
+    che conducono infine a una porta bassa; e oltre non v'è porta».  
+
+    E il Bretone parlò al Normanno, come un piccolo [[Child|fanciullo]] parlò,  
+
+    e i suoi occhi azzurri come il mare erano vuoti come la sua [[Home|casa]] presso il mare:  
+
+    «Vi sono più finestre in una [[house|casa]] che occhi per vedere,  
+
+    vi sono più porte nella [[house|casa]] di un uomo, ma Dio ne ha nascosto la chiave:  
+
+    La rovina è costruttrice di finestre; la sua leggenda ne fa fede,  
+
+    Barbara, la santa dei cannonieri, e sostegno nella [[Death|morte]] improvvisa».  
+
+    Parve che la [[Wheel|ruota]] del mondo si fermasse un istante nel suo girare,  
+
+    più dei re della terra che giravano col volgere del mulino di  
+
+      Valmy:  
+
+    Mentre stillava l'ozioso racconto e gli occhi azzurri come il mare ardevano,  
+
+    Immoto come il cuore di un turbine, il cuore del mondo si fermò.  
+
+        «Barbara la bella  
+
+        ebbe lode di liuto e di penna:  
+
+        i suoi capelli erano come una [[Night|notte]] d'[[Summer|estate]]  
+
+        scura e desiderata dagli uomini.  
+
+        I suoi piedi come [[Birds|uccelli]] venuti da lontano  
+
+        che indugiano e si posano nel [[Doubt|dubbio]];  
+
+        e il suo volto era come una [[Window|finestra]]  
+
+        donde s'affacciava il primo [[Love|amore]] di un uomo.  
+
+        Suo padre era signore di molti schiavi,  
+
+        uomo duro e di mano pesante;  
+
+        le eressero attorno una torre  
+
+        nelle desolate terre dorate,  
+
+        sigillata come i tiranni sigillavano le loro tombe,  
+
+        disegnata secondo un antico disegno,  
+
+        e posero due finestre nella torre  
+
+        come i due occhi di un uomo».  
+
+    I nostri cannoni erano puntati verso il nemico; non avevamo ordine di far fuoco.  
+
+    Grigia nel varco di St. Gond splendeva la Guardia del [[Tyrant|tiranno]];  
+
+    Cupa del destino di una stella cadente, ritirandosi e ritirandosi,  
+
+    la linea bretone indietreggiava e il racconto bretone proseguiva.  
+
+        «Suo padre aveva veleggiato oltre il mare  
+
+        dal porto d'Africa  
+
+        quando tutti gli schiavi ripresero gli attrezzi  
+
+        al comando di Barbara.  
+
+        Ella percosse il nudo muro con la mano  
+
+        e ordinò loro di percuotere ancora;  
+
+        versò loro ricchezza di vino e di carne  
+
+        per sostenerli nella loro [[Pain|pena]].  
+
+        E gridò tra il tuono levato  
+
+        del martello e della gerla accalcati  
+
+        'Spalancate la terza [[Window|finestra]]  
+
+        nel terzo nome di Dio.'  
+
+        Allora i cuori vennero meno e gli attrezzi caddero,  
+
+        e lontano verso la spuma,  
+
+        gli uomini videro un'[[Shadow|ombra]] sulle sabbie  
+
+        e suo padre che tornava a [[Home|casa]]».  
+
+    Parlate piano, sempre più piano, lungo la linea vola la parola sussurrata  
+
+    prima del tocco, prima del [[Time|momento]], non possiamo esalare un respiro:  
+
+    i loro cannoni devono schiacciarci nel fango, e non vi sia risposta,  
+
+    finché la mano si levi a gettarci come dado finale verso la [[Death|morte]].  
+
+        «Vi erano due finestre nella tua torre,  
+
+        Barbara, Barbara,  
+
+        per tutto ciò che è tra il sole e la [[Moon|luna]]  
+
+        nelle terre d'Africa.  
+
+        Ha forse tre occhi un uomo, Barbara,  
+
+        un uccello tre ali,  
+
+        che tu abbia squarciato tetto e muro  
+
+        per contemplare cose vane?»  
+
+        La sua voce era come cosa vagante  
+
+        che vacilla eppure è libera,  
+
+        la cui [[Soul|anima]] ha bevuto in una terra lontana  
+
+        ai fiumi della libertà.  
+
+        «Vi sono più ali di quante ne sappia il [[Wind|vento]]  
+
+        o più occhi di quanti vedano il sole  
+
+        nella luce della [[Window|finestra]] perduta  
+
+        e nel [[Wind|vento]] delle porte disserrate.  
+
+        Ché dalla prima grata  
+
+        sono le terre rosse che si spezzano  
+
+        e dalla seconda grata  
+
+        il mare come un serpente verde,  
+
+        ma dalla terza grata  
+
+        sotto bassi cornicioni come ali  
+
+        è un nuovo angolo del cielo  
+
+        e l'altro lato delle cose».  
+
+    Si aprì nel luogo più intimo un istante al di là di ogni parola,  
+
+    un'imposta e un abisso e un tuono di porte disserrate,  
+
+    la forte ala di un serafino scosse via l'urto del suo spalancarsi,  
+
+    che divise la luce del sole frantumata da una luce dietro il sole.  
+
+        «Allora egli sguainò la [[Sword|spada]] e la sospinse  
+
+        dove sedevano i giudici, e disse  
+
+        'Cesare siede al di sopra degli dèi,  
+
+        Barbara, fanciulla.  
+
+        Cesare ha stretto un patto  
+
+        con la [[Moon|luna]] e con il sole,  
+
+        tutti gli dèi che gli uomini possono lodare  
+
+        lo lodano a uno a uno.  
+
+        Vi è pace con l'unto  
+
+        degli oli scarlatti di Bel,  
+
+        con il Dio Pesce, là dove il gorgo  
+
+        è una scala tortuosa verso l'inferno,  
+
+        con le piramidi di melma senza sentieri,  
+
+        dove il negro mitrato leva  
+
+        al suo nero cherubino nella nube  
+
+        doni abominevoli,  
+
+        con le lebbrose città d'argento  
+
+        dove i muti sacerdoti [[Dance|danzano]] e chinano il capo,  
+
+        ma non con le tre finestre  
+
+        e l'ultimo nome di Dio.'»  
+
+    Sparano, noi cadiamo, e i cieli rossi ci squarciano e ci fanno tremare,  
+
+    Barbara, Barbara, non possiamo esalare un respiro—  
+
+    Sii alle porte che scoppiano del destino, e nel buio liberaci,  
+
+    noi che disserriamo l'ultima [[Window|finestra]] sul sole della [[Death|morte]] improvvisa.  
+
+        «Barbara la bella  
+
+        si levò come [[Queen|regina]] resa libera,  
+
+        la cui bocca è accostata a una coppa terribile  
+
+        e alla tromba della libertà.  
+
+        'Ho guardato fuori da una [[Window|finestra]]  
+
+        che nessun uomo ormai sbarrerà,  
+
+        le vacillanti torri da guerra di Cesare  
+
+        non giungeranno mai tanto lontano.  
+
+        Gli schiavi danzano nelle loro [[Chains|catene]],  
+
+        il [[Child|fanciullo]] ride della verga,  
+
+        per via dell'uccello dalle tre ali,  
+
+        e del terzo volto di Dio.'  
+
+        La [[Sword|spada]] sulla sua spalla  
+
+        si mosse e brillò e cadde,  
+
+        e Barbara giacque piccolissima  
+
+        e accartocciata come un guscio».  
+
+    Quale muro su quali cardini girato sta aperto come una porta?  
+
+    Troppo semplice per lo sguardo della [[Faith|fede]], troppo immenso per occhi umani,  
+
+    quale luce su quale antica via risplende verso un pavimento lontano,  
+
+    la linea della terra perduta di Francia o le pianure del Paradiso?  
+
+        «Cesare sorrise al di sopra degli dèi,  
+
+        il suo labbro di pietra era arricciato,  
+
+        i suoi eserciti di ferro si avvolgevano come [[Chains|catene]]  
+
+        intorno e intorno al mondo,  
+
+        e il forte uccisore dei suoi stessi  
+
+        che falciava la carne come erba,  
+
+        sorrise anch'egli, e andò alla propria torre  
+
+        come una torre di bronzo che cammina,  
+
+        e i [[songs|canti]] cessarono e gli schiavi ammutolirono;  
+
+        e lontano verso la spuma  
+
+        gli uomini videro un'[[Shadow|ombra]] sulle sabbie;  
+
+        e suo padre che tornava a [[Home|casa]]....  
+
+        [[Blood|Sangue]] del suo [[Blood|sangue]] sulla [[Sword|spada]]  
+
+        stava rosso ma mai asciutto.  
+
+        Egli la terse lentamente, finché la lama  
+
+        fu azzurra come l'azzurro cielo.  
+
+        Ma il cielo azzurro si spaccò con uno schianto di tuono,  
+
+        sputò giù un tizzone accecante,  
+
+        e tutto di lui giacque riverso e disteso  
+
+        come la sua [[Shadow|ombra]] sulla sabbia».  
+
+    Il tocco e il turbine; tutti i nostri cannoni danno voce insieme  
+
+    Santa Barbara per l'artiglieria e Dio difenda il diritto,  
+
+    Sono fermati e squarciati e martoriati mentre spazziamo via il tempo con le cannonate.  
+
+    Erigendo [[Window|finestra]] su [[Window|finestra]] alla nostra signora della luce.  
+
+    Ché la luce è venuta sulla Libertà, i suoi nemici cadono, cadono,  
+
+    barcollano, fuggono, come sono fuggiti gli anni vergognosi,  
+
+    Ella è risorta per tutti gli umili, ha udito i vinti che chiamano,  
+
+    Santa Barbara dei Cannonieri, con la mano sul cannone.  
+
+    Sono squarciati nel mezzo coloro che si nutrono delle proprie adulazioni,  
+
+    il cui labbro è arricciato su comando come sono arricciati i loro capelli curati....  
+
+    Deflagrazione della [[Beauty|bellezza]] della [[Death|morte]] improvvisa, Santa Barbara delle batterie!  
+
+    che aprono col fuoco la nuova bianca [[Window|finestra]] nel muro di tutto il mondo.  
+
+    Ché la mano è levata dietro di noi, e il fulmine colpisce duro  
+
+    attraverso lo squarcio delle porte, attraverso la breccia di [[Death|morte]] della  
+
+      Guardia,  
+
+    Ché il grido dei Tre Colori è a Condé e oltre  
+
+    e la Guardia è gettata come carogna nel cimitero di St. Gond,  
+
+    attraverso Mondemont e fuori di esso, attraverso la palude del Morin e avanti  
+
+    Con un terremoto di saluto la cosa impossibile se n'è andata,  
+
+    la Gallia, sul carro e alla carica, la grande Gallia sopra un cannone,  
+
+    in punta di piedi su tutti i suoi mille anni e squillante verso il sole:  
+
+    Come torna il giorno, come torna la [[Death|morte]], scagliato indietro e scagliato a [[Home|casa]],  
+
+    sul barbaro regno ritorna l'ariete di Roma.  
+
+    Mentre a oriente si stringeva duro e rovente come tenaglie in una fucina,  
+
+    venne come il [[Wind|vento]] d'occidente ruggendo il cannone di San Giorgio,  

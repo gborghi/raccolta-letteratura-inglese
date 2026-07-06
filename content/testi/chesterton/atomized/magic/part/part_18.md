@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_17">‹ part 17</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_19">part 19 ›</a></div>
@@ -199,3 +201,198 @@ Section 3.  Information about the Project Gutenberg Literary Archive
 Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_17">‹ part 17</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_19">part 19 ›</a></div>
+</nav>
+
+     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
+
+     non accetta i termini della completa  
+
+     Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
+
+     distrugga tutte le copie delle opere possedute su supporto fisico  
+
+     e cessi ogni uso di e ogni accesso ad altre copie delle  
+
+     opere Project Gutenberg-tm.  
+
+- Forniate, in conformità al paragrafo 1.F.3, un rimborso completo di ogni
+
+     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
+
+     opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
+
+     dal ricevimento dell'opera.  
+
+- Rispettiate tutti gli altri termini di questo accordo per la libera
+
+     distribuzione delle opere Project Gutenberg-tm.  
+
+1.E.9.  Se desiderate far pagare una tassa o distribuire un'opera elettronica  
+
+Project Gutenberg-tm o un gruppo di opere a termini diversi da quelli  
+
+esposti in questo accordo, dovete ottenere il permesso per iscritto da  
+
+sia la Project Gutenberg Literary Archive Foundation sia [[Michael]]  
+
+Hart, il titolare del marchio Project Gutenberg-tm.  Contattate la  
+
+Fondazione come esposto nella Sezione 3 più sotto.  
+
+1.F.
+
+1.F.1.  I volontari e i dipendenti di Project Gutenberg dedicano considerevole  
+
+impegno a identificare, svolgere ricerche sul copyright, trascrivere e correggere  
+
+le opere di pubblico dominio nel creare la raccolta  
+
+Project Gutenberg-tm.  Nonostante questi sforzi, le opere elettroniche  
+
+Project Gutenberg-tm, e il supporto su cui possono essere archiviate, possono contenere  
+
+«Difetti», quali, ma non solo, dati incompleti, inesatti o  
+
+corrotti, errori di trascrizione, una violazione di copyright o altra proprietà  
+
+intellettuale, un disco o altro supporto difettoso o danneggiato, un  
+
+virus informatico, o codici informatici che danneggiano o non possono essere letti dalla  
+
+vostra apparecchiatura.  
+
+1.F.2.  GARANZIA LIMITATA, ESCLUSIONE DI DANNI - Salvo il «Diritto  
+
+di Sostituzione o Rimborso» descritto nel paragrafo 1.F.3, la Project  
+
+Gutenberg Literary Archive Foundation, il titolare del marchio Project  
+
+Gutenberg-tm, e qualsiasi altra parte che distribuisca un'opera elettronica  
+
+Project Gutenberg-tm secondo questo accordo, declinano ogni  
+
+responsabilità verso di voi per danni, costi e spese, comprese le spese  
+
+legali.  ACCETTATE DI NON AVERE ALCUN RIMEDIO PER NEGLIGENZA, RESPONSABILITÀ  
+
+OGGETTIVA, VIOLAZIONE DI GARANZIA O INADEMPIMENTO CONTRATTUALE SALVO QUELLI  
+
+PREVISTI NEL PARAGRAFO F3.  ACCETTATE CHE LA FONDAZIONE, IL  
+
+TITOLARE DEL MARCHIO, E QUALSIASI DISTRIBUTORE SECONDO QUESTO ACCORDO NON SARANNO  
+
+RESPONSABILI VERSO DI VOI PER DANNI EFFETTIVI, DIRETTI, INDIRETTI, CONSEQUENZIALI, PUNITIVI O  
+
+INCIDENTALI ANCHE SE AVVISATE DELLA POSSIBILITÀ DI TALE  
+
+DANNO.  
+
+1.F.3.  DIRITTO LIMITATO DI SOSTITUZIONE O RIMBORSO - Se scoprite un  
+
+difetto in quest'opera elettronica entro 90 giorni dal riceverla, potete  
+
+ricevere un rimborso della somma (se pagata) versata per essa inviando una  
+
+spiegazione scritta alla persona da cui avete ricevuto l'opera.  Se  
+
+avete ricevuto l'opera su supporto fisico, dovete restituire il supporto con  
+
+la vostra spiegazione scritta.  La persona o entità che vi ha fornito  
+
+l'opera difettosa può scegliere di fornire una copia sostitutiva in luogo d'un  
+
+rimborso.  Se avete ricevuto l'opera per via elettronica, la persona o entità  
+
+che ve la fornisce può scegliere di darvi una seconda opportunità di  
+
+ricevere l'opera per via elettronica in luogo d'un rimborso.  Se anche la seconda copia  
+
+è difettosa, potete esigere un rimborso per iscritto senza ulteriori  
+
+opportunità di risolvere il problema.  
+
+1.F.4.  Salvo il diritto limitato di sostituzione o rimborso esposto  
+
+nel paragrafo 1.F.3, quest'opera vi è fornita 'COSÌ COM'È' SENZA ALCUN'ALTRA  
+
+GARANZIA DI ALCUN GENERE, ESPRESSA O IMPLICITA, COMPRESE MA NON SOLO LE  
+
+GARANZIE DI COMMERCIABILITÀ O IDONEITÀ A QUALSIASI SCOPO.  
+
+1.F.5.  Alcuni stati non consentono l'esclusione di certe garanzie  
+
+implicite o l'esclusione o limitazione di certi tipi di danni.  
+
+Se una qualsiasi esclusione o limitazione esposta in questo accordo viola la  
+
+legge dello stato applicabile a questo accordo, l'accordo sarà  
+
+interpretato in modo da attuare la massima esclusione o limitazione consentita dalla  
+
+legge statale applicabile.  L'invalidità o l'inapplicabilità di una qualsiasi  
+
+disposizione di questo accordo non annullerà le restanti disposizioni.  
+
+1.F.6.  MANLEVA - Accettate di indennizzare e tenere indenni la Fondazione, il  
+
+titolare del marchio, qualsiasi agente o dipendente della Fondazione, chiunque  
+
+fornisca copie delle opere elettroniche Project Gutenberg-tm in conformità  
+
+a questo accordo, e qualsiasi volontario associato alla produzione,  
+
+promozione e distribuzione delle opere elettroniche Project Gutenberg-tm,  
+
+da ogni responsabilità, costo e spesa, comprese le spese legali,  
+
+che sorgano direttamente o indirettamente da una qualsiasi delle seguenti cose che voi fate  
+
+o causate: (a) distribuzione di questa o di qualsiasi opera Project Gutenberg-tm  
+
+opera, (b) alterazione, modifica, o aggiunte o cancellazioni a qualsiasi  
+
+opera Project Gutenberg-tm, e (c) qualsiasi Difetto che causate.  
+
+Sezione 2. Informazioni sulla Missione del Project Gutenberg-tm
+
+Project Gutenberg-tm è sinonimo di libera distribuzione di  
+
+opere elettroniche in formati leggibili dalla più ampia varietà di computer  
+
+compresi i computer obsoleti, vecchi, di mezza età e nuovi. Esiste
+
+grazie all'impegno di centinaia di volontari e alle donazioni di
+
+persone di ogni ceto sociale.
+
+I volontari e il sostegno finanziario necessario a fornire ai volontari
+
+l'assistenza di cui hanno bisogno sono essenziali per il raggiungimento
+
+degli obiettivi di Project Gutenberg-tm e per garantire che la raccolta
+
+di Project Gutenberg-tm resti liberamente disponibile per le generazioni a venire. Nel 2001 fu costituita la Project
+
+Gutenberg Literary Archive Foundation al fine di assicurare un futuro sicuro
+
+e duraturo a Project Gutenberg-tm e alle generazioni future.
+
+Per saperne di più sulla Project Gutenberg Literary Archive Foundation
+
+e su come il vostro impegno e le vostre donazioni possano essere d'aiuto, si vedano le Sezioni 3 e 4
+
+e la pagina web della Fondazione all'indirizzo http://www.pglaf.org.
+
+Sezione 3. Informazioni sulla Project Gutenberg Literary Archive
+
+Foundation
+
+La Project Gutenberg Literary Archive Foundation è una società senza scopo di lucro

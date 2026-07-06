@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/god-in-the-cave-(chesterton)">God in the Cave</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/god_in_the_cave/part/part_01">‹ part 01</a><span></span></div>
@@ -104,3 +106,103 @@ him filling the dome of [[Night|night]] and hovering for the last [[Time|time]] 
 that vast and fearful fact that was Moloch of the Carthaginians;
 awaiting his last tribute from a ruler of the races of Shem.  The demons
 in that first festival of Christmas, feasted also in their own fashion.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/god-in-the-cave-(chesterton)">God in the Cave</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/god_in_the_cave/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+E la cosa che trovarono era della stessa natura delle cose che cercavano.
+Il popolino aveva avuto torto in molte cose; ma non aveva avuto
+torto nel credere che le cose sante potessero avere una dimora
+e che la divinità non dovesse disdegnare i limiti del [[Time|tempo]] e dello spazio.
+E il barbaro che concepì la più rozza fantasticheria sul sole
+rubato e nascosto in una scatola, o il più sfrenato mito sul
+dio salvato e sul suo nemico ingannato con una pietra,
+era più vicino al segreto della [[Cave|grotta]] e sapeva di più sulla crisi
+del mondo, di tutti coloro che, nella cerchia delle città intorno
+al Mediterraneo, s'erano fatti paghi di fredde astrazioni
+o di generalizzazioni cosmopolite; di tutti coloro che filavano
+fili di pensiero sempre più sottili dal trascendentalismo
+di Platone o dall'orientalismo di Pitagora. Il luogo che
+i pastori trovarono non era un'accademia né una repubblica astratta;
+non era un luogo di miti allegorizzati o sezionati o spiegati
+o spiegati via. Era un luogo di [[Dreams|sogni]] avverati.
+Da quell'ora nessuna mitologia è più stata fatta al mondo.
+La mitologia è una ricerca....
+
+Anche i filosofi avevano udito. È tuttora una storia strana,
+benché antica, di come vennero da terre d'[[Orient|Oriente]], coronati
+della maestà dei re e ammantati di qualcosa del mistero
+dei maghi. Quella [[Truth|verità]] che è la tradizione li ha saggiamente ricordati
+quasi come quantità ignote, misteriose quanto i loro misteriosi
+e melodiosi nomi: Melchiorre, Gaspare, Baldassarre. Ma con loro giunse
+tutto quel mondo di sapienza che aveva osservato le [[Stars|stelle]]
+in Caldea e il sole in Persia; e non erreremo
+se vedremo in loro la stessa curiosità che muove tutti i sapienti.
+Rappresenterebbero lo stesso ideale umano se i loro nomi fossero davvero
+stati Confucio o Pitagora o Platone. Erano coloro che cercavano
+non racconti ma la [[Truth|verità]] delle cose; e poiché la loro sete di [[Truth|verità]]
+era essa stessa una sete di Dio, anch'essi hanno avuto la loro ricompensa.
+Ma persino per comprendere quella ricompensa, dobbiamo comprendere che
+per la [[philosophy|filosofia]] non meno che per la mitologia quella ricompensa fu il compimento
+dell'incompleto....
+
+I Magi, che stanno per il misticismo e la [[philosophy|filosofia]], sono veramente concepiti
+come cercatori di qualcosa di nuovo e persino come scopritori di qualcosa d'inatteso.
+Quel senso di crisi che ancora freme nel racconto natalizio e
+persino in ogni celebrazione del Natale accentua l'idea di una ricerca
+e di una scoperta. Per le altre figure mistiche della sacra rappresentazione,
+per l'angelo e la madre, i pastori e i soldati di Erode,
+possono esservi aspetti insieme più semplici e più [[Supernatural|soprannaturali]], più elementari
+o più emotivi. Ma i Magi devono cercare la sapienza; e per loro
+dev'esservi una luce anche nell'intelletto. Ed ecco la luce:
+che il credo cattolico è cattolico e che nient'altro è cattolico.
+La [[philosophy|filosofia]] della Chiesa è universale. La [[philosophy|filosofia]] dei filosofi
+non era universale. Se Platone e Pitagora e Aristotele
+fossero stati per un istante nella luce che veniva da quella piccola [[Cave|grotta]],
+avrebbero saputo che la loro propria luce non era universale.
+È ben lungi dall'essere certo, invero, che non lo sapessero già.
+Anche la [[philosophy|filosofia]], come la mitologia, aveva del tutto l'aria di una ricerca.
+È la presa di coscienza di questa [[Truth|verità]] che conferisce la sua tradizionale maestà
+e il suo mistero alle figure dei Tre Re; la scoperta che la religione
+è più ampia della [[philosophy|filosofia]] e che questa è la più ampia delle religioni,
+contenuta entro questo angusto spazio....
+
+Potremmo [[Well|ben]] accontentarci di dire che la mitologia era venuta con
+i pastori e la [[philosophy|filosofia]] con i filosofi; e che
+non restava loro che combinarsi nel riconoscimento della religione.
+Ma vi era un terzo elemento che non va ignorato e uno che quella
+religione per sempre rifiuta di ignorare, in ogni tripudio o [[Reconciliation|riconciliazione]].
+Era presente nelle scene primarie del dramma quel Nemico che
+aveva imputridito le leggende con la libidine e gelato le teorie nell'ateismo,
+ma che rispondeva alla sfida diretta con qualcosa di quel metodo più
+diretto che abbiamo visto nel culto consapevole dei dèmoni.
+Nella descrizione di quel culto demoniaco, della divorante detestazione
+dell'[[innocence|innocenza]] mostrata nelle opere della sua stregoneria e nel più disumano
+dei suoi sacrifici umani, ho detto meno della sua indiretta e segreta
+penetrazione nel paganesimo più sano; dell'imbibizione di sesso dell'[[Imagination|immaginazione]]
+mitologica; dell'ascesa dell'[[Pride|orgoglio]] imperiale fino alla follia.
+Ma tanto l'influsso indiretto quanto quello diretto si fanno sentire
+nel dramma di Betlemme. Un sovrano sotto la sovranità romana,
+probabilmente fornito e circondato dell'ornamento e dell'ordine romano
+benché egli stesso di [[Blood|sangue]] orientale, sembra in quell'ora aver sentito
+agitarsi dentro di sé lo spirito di cose strane. Tutti conosciamo
+la storia di come Erode, allarmato da qualche voce d'un misterioso rivale,
+ricordò il gesto selvaggio dei capricciosi despoti d'Asia e
+ordinò un massacro dei sospetti della nuova generazione del popolino.
+Tutti conoscono la storia; ma non tutti forse ne hanno colto il posto
+nella storia delle strane religioni degli uomini. Non tutti hanno visto
+il significato persino del suo stesso contrasto con le colonne corinzie
+e il selciato romano di quel mondo conquistato e superficialmente civilizzato.
+Soltanto, mentre il proposito in questo tetro spirito cominciava a mostrarsi e a splendere
+negli occhi dell'Idumeo, un veggente avrebbe forse potuto scorgere qualcosa
+come un grande grigio [[Ghost|spettro]] che guardava di sopra la sua spalla; avrebbe visto dietro
+di lui, che riempiva la volta della [[Night|notte]] e aleggiava per l'ultima [[Time|volta]] sopra la [[history|storia]],
+quel vasto e pauroso fatto che era il Moloch dei Cartaginesi;
+in attesa del suo ultimo tributo da un sovrano delle stirpi di Sem. I dèmoni
+in quel primo festino di Natale banchettarono anch'essi a modo loro.

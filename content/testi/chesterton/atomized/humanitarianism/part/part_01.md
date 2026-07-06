@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/humanitarianism-(chesterton)">Humanitarianism</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/humanitarianism/part/part_02">part 02 ›</a></div>
@@ -105,3 +107,26 @@ of shooting it are murderers, Apollyons, enemies of life.
 And so in exactly the same way it is possible to take the part
 of the man ruthlessly, and say that all people who condemn his action
 are kill-joys, misanthropes, enemies of life.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/humanitarianism-(chesterton)">Humanitarianism</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/humanitarianism/part/part_02">part 02 ›</a></div>
+</nav>
+
+[[Humanitarianism|L'umanitarismo]] vero e falso
+
+(The Humane Review, gennaio 1903)
+
+Sono persona di tendenza quasi eccessiva alla moderazione. Sono anzi ben disposto, a dir la verità, a difendere la moderazione, cosa che di questi tempi richiede una certa audacia. L'Ibis sta sempre più sicuro nel mezzo. Quell'Ibis sono io. Ma in realtà il motto latino è piuttosto malaugurato, perché se c'è una cosa che l'uomo moderato non è, quella è sicuro. Di tutti i mestieri pericolosi per i quali l'[[Humanitarianism|umanitarismo]] invoca la protezione dello Stato, tutti sappiamo che il più pericoloso al mondo è quello del paciere.
+
+Ma prima di intraprendere una difesa della moderazione nel senso vero della parola, mi sia concesso di fare qualche osservazione sulla penosa [[Parody|parodia]] di moderazione assai corrente nelle faccende inglesi. L'idea inglese di moderazione, quale si mostra per esempio negli articoli di fondo su qualche argomento come la guerra sudafricana, mi sembra una delle cose più straordinarie mai esistite al mondo. L'idea inglese di moderazione pare consistere nell'essere vaghi nelle idee ma violenti nel linguaggio. Cento leggi di necessità di partito e di decoro ci vietano di dire in modo chiaro e dogmatico ciò che noi stessi pensiamo; per compenso ci è permesso di dire qualunque cosa, per quanto sciocca e indecente, su chi la pensa altrimenti. Si giudica impossibile, nella politica pratica, che un uomo si alzi in piedi e dichiari di ritenere l'annessione del Transvaal (mettiamo) cattiva per un principio inalterabile, ma gli è consentito dire che tutti i politici che la sostengono o sono in cerca di una carica o fanno uso di droghe. Non gli è concesso di dire ciò che è vero, cioè che egli stesso ha in gioco un principio, ma gli è concesso di dire ciò che non è vero, cioè che i suoi avversari non hanno alcun principio. Al giornalista radicale è vietato dire che egli personalmente detesta l'Imperialismo. E allora si consola dicendo che il signor Chamberlain veste in modo assai volgare. Deve essere personale nel senso di essere sgarbato, perché non gli è permesso di essere personale nel senso di essere sincero.
+
+Ora, la vera moderazione è tutt'altra cosa. La credenza corrente vuole che la moderazione abbia in sé qualcosa di gelido, che sia una cosa fredda e disumanizzata. In realtà la moderazione è per sua [[Nature|natura]] una cosa calda e ardente. È il frutto del sentire fortemente. Poiché, se sentiamo fortemente, siamo portati a sentire con forza per gli uomini buoni e per i cattivi, per le cause giuste e per quelle ingiuste, per la posizione più difendibile e per quella meno difendibile. È abbastanza facile per un uomo essere un partigiano a testa bassa, schiumare di rabbia, battere i tamburi, invocare il [[Fire|fuoco]] dal Cielo, a una sola condizione: che non abbia sentimenti forti. I sentimenti lo renderebbero un po' grato ai benevoli vecchi compromessi che hanno tenuto in piedi il mondo per tanto tempo. I sentimenti lo renderebbero un po' compassionevole verso i tesori di valore illuso che venivano spazzati via dalla sua vittoriosa monomania; i sentimenti lo renderebbero un po' reverente dinanzi all'[[Riddle|enigma]] del fallimento e del [[success|successo]] umano. Ma il cattivo umanitario (che esiste davvero, ed è, come il cattivo cristiano, davvero orribile) è colui che riesce a perpetuare in sé una specie di collera fredda, una collera dell'intelletto contro certe mode o certi fatti, o certe istituzioni, e che riesce a tenere il suo occhio di basilisco fisso su di esse perché è uno che non può mai essere distratto dalle sconcertanti vicissitudini e dalle innominabili agonie dei milioni di anime degli uomini. L'obiezione al vero umanitario (se pure gliene si può muovere una) può essere che è troppo emotivo, o fiducioso, o temerario. Ma l'obiezione all'umanitario di cui parlavo in primo luogo è semplicemente questa: che, di tutti i figli di Adamo, egli è il più inumano.
+
+Supponiamo per esempio che in qualche remoto paese barbaro un uomo desideri sparare a una pernice per divertimento. È assai facile assumere una posizione violenta su un simile incidente, purché chi la assume abbia la fortuna di essere per natura privo di simpatia. È assai facile dire che un uomo capace di prendere deliberatamente un ingegnoso strumento di ferro che sputa piombo, per strappar la vita a un povero piccolo essere piumato lungo un palmo, dev'essere un demonio misterioso col cuore duro come la mola inferiore. Logicamente, in verità, a ogni apparenza deve esserlo, e per giunta uno sciocco vecchio [[Fool|stolto]], perché quell'atto, visto con chiarezza e dal di fuori, è quanto di più meschino e puerile l'[[Imagination|immaginazione]] possa concepire.
+
+Ma all'uomo che voglia assumere questa posizione verso chi spara alle pernici occorre una cosa sola: che non conosca alcuno di coloro che sparano alle pernici. Se ne conosce qualcuno, è subito turbato da un afflusso di simpatia. I suoi sentimenti si ammutinano, ed egli è sospinto sulle punte delle loro lance, dibattendosi disperatamente, nelle maledette regioni della moderazione. Questi uomini manifestamente non sono in sé demoni, e cosa ancor più prodigiosa non sono nemmeno sciocchi, e nulla di buono può venire dal dire che lo sono, come nulla verrebbe dal dire che il [[Fire|fuoco]] è fresco o che gli Irlandesi [[Love|amano]] l'Atto di [[Union|Unione]]. Vale a dire: è facile prendere le parti della pernice senza pietà e sostenere che tutti coloro che approvano lo spararle sono assassini, Apollioni, nemici della vita. E così, esattamente allo stesso modo, è possibile prendere le parti dell'uomo senza pietà, e dire che tutti coloro che condannano il suo gesto sono guastafeste, misantropi, nemici della vita.

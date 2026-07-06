@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_13">‹ part 13</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_15">part 15 ›</a></div>
@@ -223,3 +225,222 @@ such a good story of how the trick was done.
      _Enter_ CONJURER.
 
 DUKE. Professor, we owe you a thousand thanks!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_13">‹ part 13</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_15">part 15 ›</a></div>
+</nav>
+
+PRESTIGIATORE. Cominciò col darmi mal di testa. E scoprii che ogni
+
+mattina, dopo una _seance_ spiritica, provavo una strana sensazione di abiezione
+
+e degradazione, d'essere stato insozzato; assai simile alla sensazione, immagino,
+
+che si prova il mattino dopo essersi ubriacati. Ma
+
+il caso vuole che io abbia quella che si chiama una testa forte; e non mi sono mai
+
+ubriacato davvero.
+
+PATRICIA. Ne sono lieta.
+
+PRESTIGIATORE. Non è stato per mancanza di tentativi. Ma non passò molto prima che
+
+gli spiriti con cui avevo giocato ai tavoli giranti facessero ciò che
+
+credo facciano di solito alla fine di ogni gioco di tavoli giranti.
+
+PATRICIA. Che cosa fecero?
+
+PRESTIGIATORE. Rivoltarono i tavoli. Rivoltarono i tavoli contro di me. Non
+
+mi [[Wonder|stupisco]] che lei creda nelle fate. Finché queste cose furono
+
+mie serve, mi parvero come fate. Quando cercarono di essere miei
+
+padroni.... Scoprii che non erano fate. Scoprii che gli spiriti con cui
+
+io almeno ero venuto a contatto erano malvagi... spaventosamente, innaturalmente malvagi.
+
+PATRICIA. Lo dissero?
+
+PRESTIGIATORE. Non parliamo di ciò che dissero. Ero un tipo dissoluto, ma non ero
+
+caduto tanto in basso quanto simili cose. Resistei loro; e dopo un [[Time|periodo]]
+
+piuttosto brutto, psicologicamente parlando, troncai il legame. Ma erano
+
+sempre a tentarmi perché usassi il potere [[Supernatural|soprannaturale]] che avevo ricevuto da loro.
+
+Non era grandissimo, ma bastava a spostare le cose, a mutare
+
+le luci, e così via. Non so se lei si renda conto che è piuttosto una
+
+tortura per un uomo bere pessimo caffè a un chiosco quando sa di
+
+avere in sé giusto quel tanto di [[Magic|magia]] da far uscire una bottiglia di champagne da
+
+un negozio vuoto.
+
+PATRICIA. Credo che lei si sia comportato molto [[Well|bene]].
+
+PRESTIGIATORE. [_Con amarezza._] E quando alla fine caddi, non fu per nulla di
+
+tanto pulito e cristiano quanto lo champagne. In un cieco e nero [[Pride|orgoglio]], nell'ira e in
+
+ogni sorta di paganesimo, per via dell'impudenza di uno scolaretto,
+
+invocai i demoni ed essi obbedirono.
+
+PATRICIA. [_Gli tocca il braccio._] Pover'uomo!
+
+PRESTIGIATORE. La sua bontà è l'unica bontà che non sbaglia mai.
+
+PATRICIA. E che cosa _dobbiamo_ fare con Morris? Io... io ora le credo, mio
+
+caro. Ma lui... lui non crederà mai.
+
+PRESTIGIATORE. Non c'è bigotto peggiore dell'ateo. Devo riflettere.
+
+     [_Cammina verso le finestre del [[Garden|giardino]]. Gli altri uomini ricompaiono per
+
+     arrestare il suo movimento._
+
+DOTTORE. Dove va?
+
+PRESTIGIATORE. Vado a chiedere al Dio i cui nemici ho servito se sono
+
+ancora degno di salvare un [[Child|fanciullo]].
+
+     [_Esce nel [[Garden|giardino]]. Cammina avanti e indietro esattamente come_ MORRIS _ha
+
+     fatto. Mentre lo fa_, PATRICIA _esce lentamente; e segue un lungo [[Silence|silenzio]]
+
+     durante il quale gli uomini rimasti si agitano e pestano i piedi con grande
+
+     irrequietezza. L'oscurità aumenta. Passa molto tempo prima che qualcuno
+
+     parla._
+
+DOTTORE. [_Bruscamente._] Uomo notevole, quel Prestigiatore. Uomo abile. Uomo
+
+curioso. Uomo molto curioso. Un tipo d'uomo, sa.... Dio ci benedica! Cos'è
+
+quello?
+
+DUCA. Cos'è cosa, eh? Cos'è cosa?
+
+DOTTORE. Giuro che ho sentito un passo.
+
+     _Entra_ [[Hastings|HASTINGS]] _con delle carte._
+
+DUCA. Ma, [[Hastings]]... [[Hastings]]... la credevamo un [[Ghost|fantasma]]. Deve
+
+essere... ehm... pallido o qualcosa del genere.
+
+[[Hastings|HASTINGS]]. Ho riportato la risposta degli Anti-Vegetariani... intendo
+
+i Vegetariani.
+
+     [_Lascia cadere una o due carte._
+
+DUCA. Ma davvero, [[Hastings]], lei _è_ pallido.
+
+[[Hastings|HASTINGS]]. Chiedo scusa a Vostra Grazia. Ho avuto un lieve turbamento entrando
+
+nella stanza.
+
+DOTTORE. Un turbamento? Quale turbamento?
+
+[[Hastings|HASTINGS]]. È la prima [[Time|volta]], credo, che il lavoro di Vostra Grazia venga
+
+disturbato da qualche mio sentimento privato. Non affliggerò Vostra
+
+Grazia con essi. Non accadrà più.
+
+     [_Esce_ [[Hastings|HASTINGS]].
+
+DUCA. Che tipo straordinario. Mi [[Wonder|domando]] se....
+
+     [_Smette di colpo di parlare._
+
+DOTTORE. [_Dopo un lungo [[Silence|silenzio]], a voce bassa a_ [[smith|SMITH]].] Come si
+
+sente?
+
+[[smith|SMITH]]. Sento che devo far chiudere una [[Window|finestra]] o devo farla aprire, e non
+
+so quale delle due.
+
+     [_Un altro lungo [[Silence|silenzio]]._
+
+[[smith|SMITH]]. [_Gridando d'improvviso nel buio._] In nome di Dio, va' via!
+
+DOTTORE. [_Balzando in piedi tutto tremante._] Davvero, signore, non sono abituato
+
+a sentirmi parlare così....
+
+[[smith|SMITH]]. Non era a lei che dicevo di andarsene.
+
+DOTTORE. No. [_Pausa._] Ma credo che me ne andrò. Questa stanza è semplicemente
+
+orribile.
+
+     [_Marcia verso la porta._
+
+DUCA. [_Balzando in piedi e affaccendandosi, spostando carte, fogli, ecc., sui
+
+tavoli._] Stanza orribile? Stanza orribile? No, no, no. [_Comincia a correre
+
+più svelto per la stanza, agitando le mani come pinne._] Soltanto un po'
+
+affollata. Un po' affollata. E mi pare di non conoscere tutti i presenti. Non
+
+possiamo piacere a tutti. Questi grandi ricevimenti....
+
+     [_Crolla su una sedia._
+
+PRESTIGIATORE. [_Ricomparendo alle porte del [[Garden|giardino]]._] Tornate all'inferno da cui
+
+vi ho chiamati. È l'ultimo ordine che darò.
+
+DOTTORE. [_Alzandosi piuttosto malfermo._] E lei che cosa intende fare?
+
+PRESTIGIATORE. Vado a dire una bugia a quel povero ragazzino. Ho trovato
+
+nel [[Garden|giardino]] ciò che lui non trovò nel [[Garden|giardino]]. Sono riuscito a
+
+pensare a una spiegazione naturale di quel trucco.
+
+DOTTORE. [_Commosso calorosamente._] Credo che lei sia qualcosa come un grand'uomo.
+
+Posso portargli ora la sua spiegazione?
+
+PRESTIGIATORE. [_Cupamente._] No, grazie. La porterò io stesso.
+
+     [_Esce nell'altra stanza._
+
+DUCA. [_A disagio._] Ci siamo sentiti tutti diabolicamente strani poco fa. Cose
+
+straordinarie ci sono al mondo. [_Dopo una pausa._] Suppongo che sia tutta
+
+elettricità.
+
+     [_Silenzio come al solito._
+
+[[smith|SMITH]]. Credo che ci sia stato più che elettricità in tutto questo.
+
+     _Entra_ PATRICIA, _ancora pallida, ma raggiante._
+
+PATRICIA. Oh, Morris sta tanto meglio! Il Prestigiatore gli ha raccontato
+
+una così bella storia di come fu fatto il trucco.
+
+     _Entra il_ PRESTIGIATORE.
+
+DUCA. Professore, le dobbiamo mille grazie!

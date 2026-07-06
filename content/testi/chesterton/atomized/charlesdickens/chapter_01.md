@@ -46,7 +46,7 @@ CONTENTS
 
 PARTE PRIMA
 
-INDICE
+    INDICE  
 
                  * CAPITOLO I
                    L'EPOCA DI DICKENS

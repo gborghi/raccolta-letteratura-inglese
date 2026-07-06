@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_116_assimilation_and_rejection">‹ Story 116 Assimilation And Rejection</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_118_the_three_gifts">Story 118 The Three Gifts ›</a></div>
@@ -87,3 +89,86 @@ Then we shall draw on the driving force of many thousand years,
 and call up a real humanitarianism out of the depths of humanity.
 
                                          G. K.'s Weekly, January 2nd, 1936
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_116_assimilation_and_rejection">‹ Story 116 Assimilation And Rejection</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_118_the_three_gifts">Story 118 The Three Gifts ›</a></div>
+</nav>
+
+LA FESTA D'INVERNO
+
+È la più grande gloria della tradizione cristiana l'aver
+incorporato tante tradizioni pagane.  Ma è ancor più
+glorioso di tutto, a mio parere, quando si tratta di tradizioni popolari.
+E l'esempio migliore e più evidente è il modo in cui
+il Cristianesimo incorporò davvero, nella misura in cui la incorporò,
+l'antica concezione umana e pagana della Festa d'inverno.  ...
+
+Vi è un parallelo perfettamente naturale tra una religione
+che sfida il mondo e un rito che sfida il tempo atmosferico.
+Il paganesimo nel senso dell'edonismo, la concentrazione
+della mente sul puro piacere in quanto tale, si concentrerebbe soprattutto
+sulla concezione di una Festa d'estate.  Ma in inverno perfino un uomo
+ricco riceve qualche debole accenno del problema dell'uomo povero;
+potrà evitare di aver fame, ma non sempre potrà evitare di aver freddo.
+Scegliere quel momento di comune gelo per l'affermazione
+di una comune fraternità è, per sua stessa intrinseca natura,
+un preannuncio di ciò che chiamiamo l'idea cristiana.  Comporta
+il suggerimento che la gioia venga da dentro e non da fuori.
+Comporta il suggerimento che il pericolo e la potenzialità
+del dolore siano essi stessi un motivo di gratitudine e di esultanza.
+Comporta il suggerimento che anche quando siamo semplicemente pagani,
+non siamo semplicemente panteisti.  Non siamo semplicemente adoratori della natura,
+perché un uomo sorride quando la natura aggrotta le ciglia.  Ha sempre comportato,
+sotto limiti mutevoli in società mutevoli, l'idea dell'ospitalità,
+specie l'ospitalità verso lo straniero e in generale verso il povero.
+Naturalmente vi sono ragioni perfettamente naturali per voler
+bere vino o scaldarsi al fuoco d'inverno;
+ma questa non è una risposta, se non per coloro che nutrono il malinformato
+pregiudizio secondo cui il Cristianesimo debba opporsi alle cose semplicemente
+perché sono naturali.  Il punto sta nel farne un punto;
+l'interesse speciale sta nell'occasione speciale, nel fatto che
+durante la Festa d'inverno, pagana o cristiana che fosse, vi era sempre
+in qualche misura l'idea di estendere la gioia agli altri,
+di far girare il vino o di far sedere il viandante accanto al focolare.
+Non è affatto un argomento polemico contro i cristiani il fatto che ritenessero
+di poter riprendere e continuare simili tradizioni tra i pagani;
+mostra soltanto che i cristiani sapevano riconoscere una cosa cristiana quando
+la vedevano.
+
+La vera storia del Natale è quanto mai pertinente alla vera crisi
+della Cristianità.  Viviamo in un tempo terribile di guerra e di voci di guerra;
+con un pericolo barbarico di quella vera reazione che riporta indietro, non
+all'antica forma, ma all'antica informità.  L'idealismo internazionale,
+nel suo sforzo di tenere insieme il mondo in una pace capace di resistere
+alle guerre e alle rivoluzioni, è riconosciutamente indebolito e spesso deluso.
+Direi semplicemente che non va abbastanza in profondità.
+Il Cristianesimo poteva trarre vita dalle profondità del paganesimo;
+ma il mero modernismo non può attingere alle profondità né dell'uno né dell'altro.
+La carità è troppo un articolo di fabbrica e troppo poco un
+prodotto naturale.  La Società delle Nazioni è troppo nuova per essere naturale.
+Il moderno umanitarismo materialistico è troppo giovane per essere vigoroso.
+Se davvero vogliamo rendere vivi gli orrori della distruzione e del mero
+omicidio disciplinato, dobbiamo vederli più semplicemente come attacchi
+al focolare e alla famiglia umana.  Se vogliamo parlare di povertà,
+dobbiamo parlarne come della fame di un essere umano, un dolore tanto
+positivo quanto un mal di denti; e non come della caduta dei salari o del venir meno
+delle importazioni o perfino dell'abbassamento del tenore di vita economico.
+Del mendicante dobbiamo dire prima di tutto, non che l'alloggio
+è insufficiente, ma che non ha dove posare il capo.
+Della famiglia umana dobbiamo dire prima di tutto, non che non ci sono lavori
+per essa nella fabbrica, ma che non c'è posto per essa nella locanda.
+Vale a dire, dobbiamo parlare della famiglia umana in un linguaggio tanto piano
+e pratico e positivo quanto quello con cui i mistici parlavano un tempo
+della Sacra Famiglia.  Dobbiamo imparare di nuovo a usare le parole nude
+che descrivono una cosa naturale, e fare a meno per un momento di
+tutti quei polisillabi sociologici con cui una società
+artificiale ha imparato a parlarne come di una cosa artificiale.
+Allora attingeremo alla forza motrice di molte migliaia di anni,
+e chiameremo in vita un vero umanitarismo dalle profondità dell'umanità.
+
+                                         G. K.'s Weekly, 2 gennaio 1936

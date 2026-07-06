@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_118_the_three_gifts">‹ Story 118 The Three Gifts</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_120_the_person_of_jesus_christ">Story 120 The Person Of Jesus Christ ›</a></div>
@@ -118,3 +120,33 @@ A Revolution is a mild thing compared with a Resurrection;
 and nothing less can raise us from the dead.
 
                                           G. K.'s Weekly, March 26th, 1932
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_118_the_three_gifts">‹ Story 118 The Three Gifts</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_120_the_person_of_jesus_christ">Story 120 The Person Of Jesus Christ ›</a></div>
+</nav>
+
+LA PRIMAVERA NELL'ANIMA
+
+La Pasqua, che sulla terra dischiude la soglia della Primavera, è stata per tutta la nostra stirpe e la nostra civiltà la stagione della Resurrezione. Ma in condizioni malate come le nostre è sorta una perpetua contesa fra due scuole intorno all'ordine delle due idee. I cristiani e tutti coloro che abitano l'antica civiltà sentono che la Primavera è il simbolo della Pasqua. I materialisti, e in particolare gli antropologi atei d'ogni risma, sostengono che la Pasqua fu soltanto un simbolo della primavera. I professori di folclore insistevano che l'uomo primitivo (col quale parevano trovarsi in confidenza assai intima) avesse imbastito una mascherata di mito piuttosto innaturale, al solo scopo di velare i naturali fatti dell'esperienza. Quando il buon senso cominciò a farsi coraggio e a mettere in dubbio ciò che veniva chiamato le Conclusioni della Scienza, si vide chiaramente che c'erano parecchie domande a cui la scienza non sapeva rispondere, e parecchi punti sui quali le sue conclusioni erano tutt'altro che conclusive. Perché mai qualcuno dovrebbe voler coprire fatti ordinari con una storia straordinaria? Perché mai si dovrebbe credere di poter tenere segreta l'erba inventando un dio dell'erba? E perché l'uomo primitivo non poteva essere abbastanza primitivo da lasciare i fatti semplici così com'erano? Non era assai più naturale immaginare fiori o fronde come ornamenti di un dio o di un eroe, che immaginare un idolo cavo inventato solo per frapporsi fra gli uomini e i fiori? Non è più sensato dire che il visibile rinnovarsi della terra offre accenni o segni a coloro che già credono nel cielo? Ma qualunque mistero fosse accolto dagli antichi pagani è diventato mera mistificazione nella mente dei moderni panteisti. Immagino che nessuna mente umana sia mai stata in così completa confusione come la mente del grande poeta Shelley quando scrisse il celebre verso: «Se giunge l'[[Winter|inverno]], può la [[spring|primavera]] essere lontana?»
+
+Per cominciare, i più freddolosi hanno l'abitudine di ricordare al poeta che, quando giunge l'[[Winter|inverno]], la [[spring|Primavera]] è distante almeno un quarto dell'anno. Ma verrà pure in mente all'uomo naturale (a differenza di quell'uomo quanto mai innaturale che chiamiamo adoratore della [[Nature|natura]]) che sarebbe altrettanto facile volgere la frase dall'ottimismo al pessimismo scegliendo un'altra sezione dell'anno. Sarebbe altrettanto sensato dire: «Se giunge l'estate, può l'autunno essere lontano?» Ed è probabilmente alla portata dell'intelligenza, persino di un panteista che passi in rassegna l'intero universo, prevedere che l'Inverno non solo verrà, ma tornerà di certo a venire. Non c'è dunque che sciocchezza in ogni pretesa che il semplice giro della Natura sia di per sé la sorgente delle nostre speranze più alte, o che possa da solo aver generato tutto ciò che si intende per Resurrezione. È l'anima, che ha ricevuto dal cielo un segreto indicibile, a poterlo esprimere soltanto in immagini della terra, e a esprimerlo naturalmente nei termini delle resurrezioni temporanee della terra. In altre parole, essa usa la Primavera come simbolo della Pasqua; non la Pasqua come simbolo della Primavera. Chiunque vorrà mettere a confronto i bei versi di Shelley con altri versi ugualmente belli di uno dei sonetti del signor Belloc misurerà la differenza che fa una filosofia la quale per avventura abbia senso.
+
+  Poiché al tuo passare, la vita naturale delle cose
+  Proclama la Resurrezione; al tuo passare,
+  L'estate ricordata risplende lungo l'erba
+  E qualcosa in me d'immortale canta.
+
+Qui il poeta non parla come se la prossima primavera dovesse durare in eterno; al contrario, parla dell'estate scorsa che è già morta. Ma di entrambe può cantare in virtù di qualcosa di diverso, in lui, che non muore.
+
+In questa Primavera più che in tutte le altre Primavere, in questa Pasqua più che in tutte le altre Pasque, ci tocca affrontare la tremenda esaltazione di quella verità. Intendo la verità che la Resurrezione è cosa di fede, e non di alcuna falsa analogia con i sensi o con le stagioni. Almeno tre cose, proprie del tempo presente, ci impediscono di identificare quella speranza con un risveglio o un tripudio di vegetazione. Primo, la bella condizione a cui pochi secoli di progresso hanno ridotto la metà dei paesaggi del paese. L'estate ricordata non risplende lungo l'erba a Pudsey o a Wigan, perché non c'è erba che risplenda. La vita naturale delle cose non proclama la Resurrezione a Sheffield e a Huddersfield, perché la vita delle cose non è naturale. È soltanto la vita soprannaturale che osa proclamarla laggiù. I poeti non possono descrivere i paesaggi cittadini come mutevoli con la primavera. Non possono dire che in primavera uno scarlatto più vivo risplende nella cassetta postale suburbana, o che in primavera il capriccioso poliziotto si procura un altro cimiero, o addirittura un altro elmo. È solo la speranza umana a poter vedere qualche speranza nell'umana istituzione della cassetta postale; e soltanto con un grande atto di fede affermiamo che i poliziotti risorgeranno dai morti. La Natura non può soccorrerci ora, neppure come simbolo; poiché l'industrialismo ha distrutto il naturale, ma non può distruggere il soprannaturale.
+
+Secondo, non cadremo nella fallacia panteista di Shelley, perché è fin troppo probabile che la Natura, nel senso delle immediate risorse materiali, assuma un aspetto più severo nei giorni più tardi e più oscuri; i giorni in cui gli adoratori della natura diventano adoratori del diavolo. Gli ottimisti meramente naturali diventeranno pessimisti quanto mai innaturali... e sarà cosa del tutto naturale.
+
+Da ultimo, il compito stesso che ci sta dinanzi basta a provare che le cose cominciano nella mente, e che lo spirito deve suonare la sua tromba prima di ogni resurrezione. Poiché stiamo cercando di ricondurre una Primavera che finora esiste soltanto nello spirito; di creare erba e verzure che devono esistere in un sogno prima di poter esistere in un paesaggio; il cui germogliare sarà un miracolo nel senso di qualcosa che inverte l'intero corso e movimento della terra. Una Rivoluzione è cosa mite in confronto a una Resurrezione; e nulla di meno può risollevarci dai morti.
+
+                                          G. K.'s Weekly, 26 marzo 1932

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/a-shy-bird-(chesterton)">A Shy Bird</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/a_shy_bird/part/part_02">part 02 ›</a></div>
@@ -98,3 +100,97 @@ We have had perhaps two poets, of very different scale, who had by [[Nature|natu
 that sort of impersonal grandeur that might have given dignity, as did
 the French classic poets, to an accepted loyalty to a great monarchy.
 And Landor was a Radical and [[Milton]] was a regicide.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/a-shy-bird-(chesterton)">A Shy Bird</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/a_shy_bird/part/part_02">part 02 ›</a></div>
+</nav>
+
+# «A_Shy_Bird»
+
+UN UCCELLO TIMIDO
+
+di G.K. Chesterton
+
+[Da «The Empire Review», ottobre 1923,
+ristampato in «A Handful of Authors», 1927]
+
+I
+
+Il problema di presentare la cultura inglese a quella più vasta cultura
+europea, di cui essa dev'essere pur sempre parte, è reso più
+spinoso da un fatto pratico, che è in parte un caso.
+È la circostanza che proprio le migliori cose inglesi debbano
+essere tradotte. E chiunque abbia mai tentato di tradurre qualcosa sa
+che vi è un continuo pericolo di una sorta di [[Despair|disperazione]]; è tentato di dire
+che ciò che dev'essere tradotto è sempre ciò che non può essere tradotto.
+Dal punto di vista di chi sappia vederle dall'interno,
+ma vederle con lucidità, le cose migliori d'Inghilterra sono la poesia e l'[[Humour|umorismo]];
+e accade che entrambe siano rinchiuse in una lingua.
+Il Continente può essere più cosmopolita, in parte perché i paesi
+continentali hanno prodotto capolavori in arti più cosmopolite.
+Non occorre un dizionario italiano o un frasario spagnolo
+per apprezzare una statua di Donatello o un dipinto di Velázquez.
+E le altre due grandi culture dell'Europa occidentale sfuggono entrambe,
+in un certo senso, alla lingua, benché sfuggano, per così dire,
+agli estremi opposti, ossia alle estremità opposte; l'una all'estremo della ragione
+e l'altra all'estremo dell'emozione. La Francia ha influenzato e
+mutato tutte le nazioni con una [[logic|logica]] quasi astratta come la matematica;
+e la [[Germany|Germania]] ha commosso tutte le nazioni con la potenza senza parole della musica.
+Ora, l'argomentazione scientifica può essere tradotta; e la musica non ha
+bisogno di essere tradotta. Ma una qualche lieve familiarità con la lingua
+parlata in un particolare angolo del Continente europeo è
+necessaria per rendersi conto che «le candele della [[Night|notte]] sono ormai arse»
+è poesia piuttosto squisita, o che la gazzella del signor Swiveller, la quale sposò
+un ortolano, è decisamente buffa.
+
+Ma ciò ha una sorta di conseguenza secondaria, anche nei rapporti necessariamente
+cosmopoliti o internazionali. Anche noi, s'intende, dobbiamo avere una
+lingua diplomatica; ma non abbiamo mai avuto l'abilità di mettere molto
+di ciò che è nazionale in ciò che è ufficiale. È un [[Paradox|paradosso]]; o parrebbe
+alle nazioni più logiche un [[Paradox|paradosso]], giacché significa che vi
+è meno di ciò che è nazionale in ciò che si dice in nome della nazione.
+È un [[Paradox|paradosso]] dire che ciò che è responsabile non è rappresentativo.
+Ma gli inglesi sono il più paradossale di tutti i popoli della terra.
+E quale che ne sia la ragione, è certo un fatto che gli organi
+dello Stato assai di rado sono i veri organi organici del popolo.
+Fra tutti i popoli noi inglesi siamo forse il più puramente patriottico,
+forse patriottico in modo eccessivo e angusto, ma comunque tacitamente
+inclini a prendere la nazione come una sorta di religione o surrogato della religione.
+E tuttavia non abbiamo quasi una sola [[Song|canzone]] patriottica decorosa a nostro nome, e nulla
+di nulla in fatto di Inno Nazionale o di [[Song|canzone]] patriottica ufficiale
+che alcuna delle nazioni che cantano o marciano tollererebbe
+per dieci versi. Se un qualche straniero intelligente volesse cogliere un barlume
+del [[Paradox|paradosso]] che è il segreto degli inglesi, confronti egli
+il livello letterario stupefacentemente basso della [[Song|canzone]] patriottica da caffè-concerto,
+quella sullo sventolare la [[Flag|bandiera]], con il livello letterario altissimo
+della [[Song|canzone]] domestica da caffè-concerto, quella sullo stendere il bucato.
+Come si è detto, la poesia e l'[[Humour|umorismo]] sono le buone fate d'Inghilterra;
+e la poesia si può trovare nel [[Garden|giardino]] anteriore del povero
+e l'[[Humour|umorismo]] nel suo cortile di dietro. Per un'altra bizzarra
+perversità noi [[Alone|soli]] conserviamo un Poeta Laureato, mentre abbiamo perso ogni contatto
+con quelle antiche tradizioni classiche o medievali che renderebbero
+assai più comprensibile al Continente l'idea di un'ode
+ufficiale, o di un bardo nazionale, o di un menestrello che canti dinanzi al [[King|re]].
+Uno o due dei nostri migliori poeti sono stati Laureati, e una
+o due delle loro peggiori [[Poems|poesie]] sono state Odi da Poeta Laureato.
+Ma il nostro poeta più grande in assoluto venne dal nulla, e assomiglia moltissimo al nostro
+massimo umorista; ché in tal senso tanto Shakespeare quanto Dickens
+furono poeti, e poeti venuti dal nulla e che al nulla per giunta andavano.
+Nessuno dei due si può ben concepire mentre entra al servizio del [[government|Governo]]
+e diventa la voce ufficiale dello Stato inglese.
+Mancava loro qualcosa di quella solidità classica che [[Alone|sola]]
+può dar dignità a un'istituzione del tutto collettiva come
+l'Académie Française o persino la Comédie Française. Anche quando talenti
+di quel tipo classico esistono fra noi, essi esistono in condizioni
+così individualistiche, così frammentarie o settarie, che è
+difficile impiegarli come venivano impiegati nel grande secolo classico
+in Francia da un drammaturgo classico che poteva disporre di un [[Chorus|coro]].
+Abbiamo avuto forse due poeti, di ben diversa statura, che possedevano per [[Nature|natura]]
+quella sorta di grandezza impersonale che avrebbe potuto conferire dignità, come fecero
+i poeti classici francesi, a una lealtà accettata verso una grande monarchia.
+Eppure Landor era un Radicale e [[Milton]] era un regicida.

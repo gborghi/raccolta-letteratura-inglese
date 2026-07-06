@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_108_fairy_tales">‹ Story 108 Fairy Tales</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_110_divine_immanence">Story 110 Divine Immanence ›</a></div>
@@ -108,3 +110,107 @@ For the fairy tale is only the [[history]] of man himself, at once
 the weakest and the strongest of the creatures.
 
                                            The Speaker, October 12th, 1901
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_108_fairy_tales">‹ Story 108 Fairy Tales</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_110_divine_immanence">Story 110 Divine Immanence ›</a></div>
+</nav>
+
+L'ETICA DEL PAESE DELLE FATE
+
+Di tutte le forme di letteratura, mi pare, le fiabe danno
+il ritratto più veritiero della vita.  Vi potranno essere errori nei particolari,
+ma in un mondo così pieno di cose strane essi hanno ben poca importanza.
+Giganti a due teste e fusti di fagiolo che si arrampicano fino al cielo potranno anche
+non essere veri, ma di certo non sono troppo meravigliosi per essere veri.
+L'atmosfera della fiaba, invece, è sorprendentemente fedele alla vita.
+Ha a che fare con la silenziosa magia che si annida nelle cose comuni,
+il grano e le pietre e i meli e il [[Fire|fuoco]].  Ce le presenta,
+senza [[Doubt|dubbio]], come pietre [[Magic|magiche]] e meli [[Magic|magici]], e se qualcuno
+le fisserà a lungo in un campo al crepuscolo, si troverà
+del tutto incapace di affermare che non siano [[Magic|magiche]].
+
+Prenderò un esempio del tutto pratico della [[Truth|verità]] delle fiabe.
+In queste storie il [[success|successo]] è fatto dipendere da una quantità di piccoli
+oggetti e osservanze materiali; la vita è una catena di talismani.
+Se un uomo tocca tre alberi passando, è salvo; se ne tocca quattro,
+è rovinato.  Se l'[[Hero|eroe]] incontra un mugnaio senza barba, non deve rispondere
+a nessuna delle sue domande.  Se coglie un fiore rosso in un dato prato,
+avrà potere sui possenti re di qualche lontana [[City|città]].
+Ora, questo senso poetico del carattere decisivo di un qualche dettaglio fuggevole è
+mille volte più genuino e pratico della pomposa insistenza su
+qualche legge morale o scientifica che sta a fondamento della maggior parte dei romanzi realistici.
+Nessuno di noi sa quando abbia compiuto qualcosa di irrevocabile.  Il nostro destino è
+stato spesso deciso dalla svolta di una [[Road|strada]] o dalla forma di un albero.
+Anzi, è stato spesso deciso da un omnibus o da un'inserzione,
+e non vi può essere dunque gran motivo per negare che si tratti di un omnibus [[Magic|magico]]
+o di un'inserzione [[Magic|magica]].
+
+La grande [[Truth|verità]] e il valore della visione fiabesca della vita non possono
+essere meglio espressi che dicendo che essa scaturisce soprattutto
+dalla totale assenza del [[Supernatural|soprannaturale]] nelle fiabe.
+Là non esiste alcun reparto miracoloso, nulla di concepito
+come oltraggioso o eccezionale, nulla che richiami la lettura nella sfera di cristallo
+e la planchette.  Non v'è traccia né sentore di quel moderno
+«mondo spirituale» che implica che questo mondo non sia spirituale.
+Nelle fiabe i prodigi sono ordinati e inevitabili;
+fanno parte della trama stessa della vita naturale.
+In un luogo tanto strano come questa terra è naturale imbattersi
+in grifoni e streghe e cani a tre teste quanto imbattersi in oche
+e buoi.  Questa nostra terra è concepita come un luogo pieno
+di innumerevoli meraviglie ... L'eroe della fiaba resta colpito,
+senza dubbio, quando la zucca si muta in carrozza o il castello
+si leva in aria.  Ma non resta colpito per il gretto
+e stupido motivo di aver creduto che il mondo fosse prosaico.
+Per lui la vita è un mare sconfinato di mostri.
+È spesso stupito, ma, se posso servirmi della frase,
+sarebbe più stupito se non fosse stupito.
+
+È un grave errore immaginare che le fiabe siano
+immorali o amorali.  Non coincidono con le trivialità
+di ogni particolare codice morale, ma sotto questo aspetto esse
+somigliano a tutte le opere d'arte.  ... In esse vediamo le grandi linee
+delle leggi e degli ideali elementari come non le vediamo in nessun altro luogo.
+Impariamo, prima e soprattutto, che tutte le porte si spalancano al coraggio
+e alla speranza.  Impariamo che il mondo è tenuto insieme
+da misteriosi vincoli di fiducia, di patto e di previdenza,
+e che perfino i draghi verdi mantengono le loro promesse.
+Impariamo che nulla va sprecato nei mulini del mondo,
+che un gioiello gettato in mare, una gentilezza a un uccello ferito,
+una parola oziosa a un vagabondo cencioso, hanno in sé un qualche terribile
+valore e sono qui legati al destino degli uomini.
+Nulla è più tipico e ricorrente nell'etica
+della fiaba della grande idea che nulla può andare perduto.
+... Il mondo è retto da una sublime parsimonia; non esiste
+cosa come una pattumiera nella casa di Dio.
+
+Questa è una morale assai caratteristica delle fiabe,
+l'idea dell'indistruttibilità di un'essenza o di un atto.
+Un'altra altrettanto comune e ancor più essenziale è la grande idea
+che sta nel cuore della storia della «[[Beauty|Bella]] e la bestia»
+e di un centinaio di racconti affini; l'idea che amando una cosa
+la rendiamo bella.  La fiaba ci ammonisce a stare in
+guardia contro i travestimenti delle cose e a considerare ogni esteriorità
+brutta e repellente con un sospetto pieno di speranza e divino.
+
+Ma tutti questi massicci frammenti di [[morality|moralità]] primitiva sono secondari
+rispetto al grande spirito morale che è il cuore stesso delle fiabe.
+Quello spirito è il principio che appare e riappare in mille
+storie del folklore, secondo cui nulla può nuocere a un uomo se egli non lo teme.
+In nessun [[Time|tempo]] della [[history|storia]] della civiltà, forse, vi è stato
+tanto bisogno di richiamare l'etica dell'antica guerra di Jack
+contro il Gigante, del piccolo contro il gigantesco.  Coloro che ai
+nostri giorni esprimono una peculiare simpatia per il debole nella sua lotta
+contro il forte sono spesso accusati di indulgere a un [[Humanitarianism|umanitarismo]]
+ipersensibile, ignoto alle più robuste [[Ages of the World|età del mondo]].
+La cosa è un'illusione.  La simpatia per il debole contro il forte
+parla dal più antico crepuscolo; è la spina dorsale stessa
+delle storie più selvagge di cui abbiamo a che fare nell'antropologia.
+Poiché la fiaba non è altro che la [[history|storia]] dell'uomo stesso, a un tempo
+la più debole e la più forte delle creature.
+
+                                           The Speaker, 12 ottobre 1901

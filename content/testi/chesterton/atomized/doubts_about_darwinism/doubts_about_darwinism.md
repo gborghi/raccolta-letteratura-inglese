@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/doubts-about-darwinism-(chesterton)">Doubts About Darwinism</a></div>
 </nav>
@@ -164,3 +166,163 @@ When they have no explanation to offer, they give short dignified replies,
 disdainful of the ignorance of the multitude.
 
 === End ==
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/doubts-about-darwinism-(chesterton)">Doubts About Darwinism</a></div>
+</nav>
+
+# Dubbi sul darwinismo
+
+Dubbi sul darwinismo
+
+di G. K. Chesterton
+
+Pubblicato originariamente su The Illustrated [[London|London]] News, 17 luglio 1920
+
+(Fonte: G. K. Chesterton, Collected Works, Volume XXXII,
+The Illustrated [[London|London]] News 1920-1922,
+Ignatius Press, San Francisco, 1989. Pagine 55-59.)
+
+Poiché sono state sollevate obiezioni contro certe mie osservazioni,
+qui e altrove, in materia di scienza e del sistema dell'evoluzione,
+credo sia giusto riconoscerle in questa sede esponendo
+più compiutamente il mio pensiero. Tanto per cominciare, naturalmente, mi trovo
+di fronte a una replica assai ragionevole: che io non so nulla dell'argomento.
+Non sono un biologo; non sono nemmeno il più dilettante dei naturalisti.
+C'è una disposizione non innaturale a far notare questo fatto, quando
+adopero frasi che indicano come l'idea darwiniana abbia subìto una disfatta.
+È vero, e sarebbe altrettanto vero se osassi lanciare
+il suggerimento che il Kaiser ha subìto una disfatta. Se io
+insinuassi che gli eserciti dell'Impero germanico furono da ultimo
+superati nella manovra e costretti alla resa, si potrebbe dire che ero
+del tutto ignaro della strategia tecnica del mestiere delle armi, e non
+sapevo che cosa significasse la metà delle manovre; e ciò sarebbe perfettamente vero.
+Mi duole dire che non fui in grado di essere un soldato; e sono ben lieto
+di dire che ricusai di essere un critico dei particolari del mestiere delle armi.
+Oppure ancora, se osassi accennare che v'è ora una situazione finanziaria
+piuttosto difficile, che i prezzi sono piuttosto alti e la casa piuttosto scarsa,
+mi si potrebbe rammentare che non sono un esperto in materia finanziaria;
+che non sono un professore di economia politica, e nemmeno un attento
+studioso di economia politica. E anche questo sarebbe del tutto vero.
+Mi duole dire che non sono un economista; e sono ben lieto di non essere
+un finanziere. Ma questi casi da [[Alone|soli]] basteranno a suggerire,
+a chiunque abbia un briciolo di buon senso, che c'è una fallacia
+da qualche parte nel semplice ragionamento secondo cui soltanto un esperto del particolare
+può accorgersi che esiste una difficoltà, o dichiarare che c'è
+stata una disfatta.
+
+Ora disporrò all'incirca in ordine i fatti di comune conoscenza che
+mi sembrano avvalorare le mie conclusioni in quanto materia di buon senso. Prima
+di tutto, c'è qualcosa che riuscirà assai suggestivo a chiunque abbia
+il senso della [[Nature|natura]] umana; intendo il tono degli stessi darwiniani.
+Possiamo [[Well|ben]] cominciare dal primo e più grande dei darwiniani.
+Huxley disse, nei suoi ultimi anni, che il suggerimento di Darwin non
+si era mai rivelato incompatibile con alcuna nuova scoperta;
+e chiunque abbia dimestichezza con quell'atmosfera sarà colpito
+dalla singolare nota di negazione che ciò racchiude. Quando Huxley cominciò a scrivere,
+si aspettava di certo che, entro la fine della sua vita, il suggerimento di Darwin
+sarebbe stato confermato da una folla di scoperte positive.
+Ora nessuno ne parla al presente come di una legge scientifica acquisita.
+Perfino il critico che si lagnava di una mia osservazione ha chiamato il darwinismo
+un'«ipotesi», e ha ammesso che esso era stato «profondamente
+modificato». E ha aggiunto la frase quanto mai singolare e significativa:
+che l'ipotesi darwiniana era pur sempre «quella più solida al
+[[Bottom|fondo]]». Se qualcuno non ode la nota negativa che vi risuona,
+credo che non conosca il suono della voce umana. Insomma,
+questo darwiniano è già sulla difensiva, come perfino Huxley, a uno
+stadio anteriore e in grado minore, era già sulla difensiva.
+V'è evidentemente, quantomeno, una delusione subcosciente
+per il fatto che l'ipotesi sia ancora, del tutto, un'ipotesi. Mettendo da parte
+i punti positivi addotti contro di essa, avrebbe dovuto da tempo
+avere cento punti positivi addotti a suo favore. L'unico di quei
+cento che Huxley tentò davvero di addurre, la genealogia del [[Horse|cavallo]],
+si rivelerà a un esame quanto mai esile e malfermo.
+La mia preoccupazione del momento, tuttavia, riguarda soltanto un certo
+tono polemico; il tono di un gentiluomo che mi osservò,
+con voce stoica e quasi tragica: «Io sono l'Ultimo Darwiniano». Non
+intendo affatto suggerire che questi darwiniani non siano più darwiniani.
+Ma se questo è il modo in cui parlano i darwiniani mentre sono ancora darwiniani,
+come supponete che parlino gli anti-darwiniani?
+
+Poi coglierò un altro spunto. Coglierò gli esempi
+scelti al fine di esporre l'ipotesi, da parte di coloro che ancora si
+accontentano di esporla. C'è sempre uno sforzo di selezione, conscio o
+inconscio. E non è affatto una Selezione Naturale.
+È generalmente, a dispetto della frase che è il loro motto,
+una selezione assai innaturale. La cosa semplice e naturale da fare,
+se si crede di poter spiegare le variazioni biologiche, è
+spiegare le variazioni là dove sono più manifestamente varie.
+Se steste spiegando a un [[Child|bambino]], per esempio, prendereste
+cose come il corno del rinoceronte o la gobba del dromedario.
+Di fatto, dareste una versione corretta e scientifica delle
+«Just-So Stories». E così farebbero, se avessero qualcosa di più corretto
+e scientifico delle «Just-So Stories». Ma queste corna e queste gobbe,
+questi alti tratti sporgenti della variazione, sono esattamente le cose
+che generalmente non vengono scelte come esempi, e non vengono spiegate da questa
+spiegazione universale. E la [[Truth|verità]] è che assai spesso
+sono precisamente queste cose evidenti che la spiegazione non riesce a spiegare.
+In quasi ogni caso si può notare che l'espositore, consciamente
+o inconsciamente, sceglie un solo e speciale caso di sua elezione,
+come Huxley scelse il [[Horse|cavallo]]; l'unico caso in cui egli pensa,
+o spera, che l'ipotesi davvero REGGERÀ all'[[Water|acqua]].
+
+Così il signor H. G. Wells, nel suo mirabilmente interessante e prezioso
+«Outline of [[history|History]]», prende un caso innaturalmente semplificato della
+crescita del pelo, o del cambiamento del colore del pelo. Poi lascia intendere
+che tutti gli altri casi di selezione naturale sono dello stesso genere.
+Ma essi non sono dello stesso genere, bensì di un genere estremamente
+diverso e perfino opposto. Se il pelo protegge dal freddo,
+il pelo più lungo sarà una protezione nel freddo più intenso.
+Ma qualunque pelo sarà una protezione in qualunque freddo. Qualunque pelo sarà meglio
+di nessun pelo; qualunque pelo servirà ad alcuni degli scopi del pelo.
+Ma non è certo che qualunque corno sia meglio di nessun corno;
+è ben lungi dall'essere certo che qualunque gobba sia meglio di nessuna gobba.
+È ben lungi dall'essere ovvio che il primo rudimentale abbozzo
+di un corno, il primo tenue ispessimento che potrebbe condurre, attraverso innumerevoli
+generazioni, alla crescita di un corno, sarebbe di una qualche particolare
+utilità in quanto corno. E dobbiamo supporre, secondo l'ipotesi darwiniana,
+che l'animale privo di corno pervenisse al suo corno attraverso impensabili
+gradazioni di quelli che erano, a tutti gli effetti pratici, animali privi di corno.
+Perché mai un rinoceronte dovrebbe essere un Futurista tanto benevolo da avviare
+un miglioramento che potrebbe soltanto aiutare qualche rinoceronte assai più tardo
+a sopravvivere? E perché mai la sua semplice prefigurazione dovrebbe aiutare
+il rinoceronte più antico a sopravvivere? Questa tesi non sa spiegare
+le variazioni se non quando esse discretamente si astengono dal variare troppo.
+Ai veri enigmi che arrestano lo sguardo, essa non ha risposta che possa
+soddisfare l'intelligenza. Per qualunque [[Child|bambino]] o uomo che tenga gli occhi aperti,
+immagino, non c'è creatura che chieda davvero una risposta,
+come un vivente [[Riddle|enigma]], tanto chiaramente quanto il pipistrello. Ma se evocherete
+la visione darwiniana, di migliaia di creature intermedie con
+piedi palmati che non sono ancora ali, la loro [[Survival|sopravvivenza]] sembrerà incredibile.
+Un topo può correre, e sopravvivere; e un pipistrello può volare, e sopravvivere.
+Ma una creatura che non sa ancora volare, e non sa più correre,
+avrebbe dovuto ovviamente perire, per la stessa dottrina darwiniana
+che è costretta a supporre che sia sopravvissuta.
+
+Vi sono molti altri segni di questa confessione di fallimento, per i quali a stento
+mi son lasciato spazio. C'è un [[Chorus|coro]] di dubbi continentali;
+c'è una moltitudine di critiche demolitrici con cui da [[Alone|solo]] potrei
+riempire questo articolo, anche solo attingendo alle mie letture assai vaghe e generiche.
+Ma aggiungerò una terza ragione dello stesso genere più generale.
+I darwiniani hanno questo marchio dei combattenti per una causa perduta,
+che perpetuamente si appellano al sentimento e all'autorità.
+Ponete il vostro pipistrello o il vostro rinoceronte, semplicemente e innocentemente come un [[Child|bambino]]
+li potrebbe porre, dinanzi al darwiniano, ed egli risponderà con un appello
+all'autorità. Risponderà probabilmente con i nomi di svariati
+professori tedeschi; non risponderà con alcuna comune parola inglese,
+che chiarisca il punto in questione. Dio si degnò di discutere con Giobbe,
+ma l'ultimo darwiniano non si degnerà di discutere con voi.
+Vi informerà della vostra ignoranza; non rischiarerà
+la vostra ignoranza.
+
+E aggiungerò questo punto di mera esperienza personale dell'umanità:
+quando gli uomini hanno una spiegazione vera la spiegano, con ardore e con abbondanza
+e in linguaggio comune, come Huxley la diede liberamente quando credette di averla.
+Quando non hanno alcuna spiegazione da offrire, danno brevi risposte dignitose,
+sdegnose dell'ignoranza della moltitudine.
+
+=== Fine ==

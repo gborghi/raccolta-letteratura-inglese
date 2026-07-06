@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/for-a-war-memorial-(chesterton)">For a War Memorial</a></div>
 </nav>
@@ -38,5 +40,41 @@ For a War Memorial
       Upon this stone be read  
       How many men of England died  
       To prove they were not dead.  
+
+          G.K. Chesterton
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/for-a-war-memorial-(chesterton)">For a War Memorial</a></div>
+</nav>
+
+# Per un monumento ai caduti
+
+Per un monumento ai caduti  
+
+[Proposta d'[[Inscription|iscrizione]], probabilmente non prescelta dal Comitato.]  
+
+      I merciai contrattano al mercato  
+      Passano i carri e le carrozze;  
+      Senati e scuole tirano avanti monotoni;  
+      Ché le cose morte non sanno morire.  
+
+      Una [[Storm|tempesta]] calò sul luogo dei sepolcri  
+      Con folgori a schiantare e squarciare;  
+      Ma questi sono nomi di molti uomini  
+      Che il [[Lightning|fulmine]] trovò vivi.  
+
+      Se gli usurai regneranno e i diritti [[Decay|marciranno]]  
+      E le visioni scorgeranno ancora una volta  
+      La grande Cartagine, come aurea conchiglia,  
+      Spalancarsi vuota sulla riva,  
+
+      Ancora fino all'ultimo del [[Time|tempo]] che si sgretola  
+      Su questa pietra sia letto  
+      Quanti uomini d'Inghilterra morirono  
+      Per provare che non erano morti.  
 
           G.K. Chesterton

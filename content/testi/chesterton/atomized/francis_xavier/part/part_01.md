@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/francis-xavier-(chesterton)">Francis Xavier</a></div>
 </nav>
@@ -77,3 +79,76 @@ Since he had bravely looked on [[Death|death]] and [[Pain|pain]]
 For what he chose to worship and adore,  
 Cast boldly down his life for loss or gain  
 In the eternal lottery: not to be in vain.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/francis-xavier-(chesterton)">Francis Xavier</a></div>
+</nav>
+
+# Francesco Saverio
+
+«San Francesco Saverio»  
+L'Apostolo delle Indie  
+
+Lasciò la sua [[Dust|polvere]], dal miriade calpestìo  
+Di quelle folte moltitudini pigiata sul lido,  
+O sotto qualche [[Cross|croce]] dimenticata posa il capo  
+Dove mari oscuri biancheggiano su una terra solitaria:  
+Lasciò la sua opera, ciò che tutta la vita aveva disegnato,  
+Fiamma morente a guizzare e a cadere,  
+Fra gli immani miti che la sua fatica a stento poté fronteggiare,  
+E la luce morì nel tempio e nella sala,  
+E l'antico crepuscolo scese e si posò su ogni cosa.  
+
+Lasciò il suo nome, un mormorio in Oriente,  
+Che si spegne nel [[Silence|silenzio]] fra credi più antichi,  
+Contro cui lottò invano: il sacerdote infuocato  
+Di fedi meno acconce ai loro più rozzi bisogni:  
+Come qualche [[Pilgrim|pellegrino]] solitario, col suo bordone e i suoi grani,  
+Fra le bestie della foresta che l'ignoranza rende mansuete,  
+Egli dimorò, e sparse i semi d'una Chiesa d'Oriente  
+Egli regnò, maestro e sacerdote di fama:  
+Morì, e morendo lasciò un mormorio e un nome.  
+
+Morì: ed essa, la Chiesa che gli ordinò d'andare,  
+Quella fosca Incantatrice con la sua mistica pretesa,  
+Ha cinto la sua fronte del bagliore della sua aureola,  
+E miti monacali, e tutta la fama sussurrata  
+Del miracolo, s'è avvinta attorno al suo nome:  
+Così ha detto Roma: ma noi, che cosa rispondiamo  
+Noi che in truci dèi indiani e riti d'infamia  
+Per tutto l'Oriente vediamo il fallimento del maestro,  
+La sua Chiesa d'Oriente [[A Dream|un sogno]], la sua fatica una [[Vanity|vanità]].  
+
+Questo dunque diciamo: mentre il volto oscuro del [[Time|Tempo]] da ultimo  
+Muove le sue labbra di tuono a decretare  
+La condanna che crebbe per tutto il mormorante passato  
+Fino a farsi il canone dei tempi che verranno:  
+Non [[Child|figlio]] della [[Truth|verità]] né sacerdote del progresso egli fu,  
+Eppure non meno un [[Hero|eroe]] delle sue guerre  
+Sforzandosi di spegnere la luce che non poteva vedere,  
+E Dio, che conosce tutto ciò che crea e distrugge,  
+Giudica la sua [[Soul|anima]] invisibile che palpita fra le [[Stars|stelle]].  
+
+Dio solo sa, fallendo l'uomo nella sua scelta,  
+Fin dove l'apparente fallimento possa riuscire,  
+Dio solo sa quale eco della Sua voce  
+Viva nel gergo di più d'un credo caduto,  
+Dio solo dà all'operaio la sua mercede  
+Per tutto l'indugiante influsso largamente diffuso,  
+Ramificato ampio in più d'una parola e più d'un atto  
+Quando il fosco oblio vela la sorgente;  
+Così vive e s'attarda lo spirito dei morti.  
+
+Questo dunque diciamo: che ogni altra cosa riposi  
+E questa vita valorosa, con molte altre migliaia,  
+Sia raccolta nel petto dell'eterno  
+In quel fosco passato su cui il suo [[Love|Amore]] si china:  
+Sanando ogni speranza infranta e ogni aspro fallimento:  
+Poiché egli valorosamente aveva guardato in volto la [[Death|morte]] e il [[Pain|dolore]]  
+Per ciò che scelse di venerare e adorare,  
+Gettò arditamente giù la sua vita per perdita o guadagno  
+Nella lotteria eterna: per non essere invano.

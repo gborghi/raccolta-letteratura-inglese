@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gloria-in-profundis-(chesterton)">Gloria in Profundis</a></div>
 </nav>
@@ -54,3 +56,53 @@ The fallen star has found it
 In the cavern of Bethlehem.  
 
                         Gilbert Keith Chesterton
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gloria-in-profundis-(chesterton)">Gloria in Profundis</a></div>
+</nav>
+
+# Gloria in Profundis
+
+GLORIA IN PROFUNDIS  
+
+È caduto sulla terra come segno  
+Un dio troppo grande per il cielo.  
+È prorotto fuori da tutte le cose e ha infranto  
+I confini dell'[[Eternity|eternità]]:  
+Nel [[Time|tempo]] e nella terra ultima  
+S'è smarrito come un ladro o un [[Lover|amante]],  
+Ché il vino del mondo trabocca,  
+Il suo splendore è versato sulla sabbia.  
+
+Chi è superbo quando i cieli s'umiliano,  
+Chi s'innalza se le [[Mountains|montagne]] cadono,  
+Se le fisse [[Stars|stelle]] vacillano e rovinano  
+E un [[deluge|diluvio]] d'[[Love|amore]] tutto sommerge—  
+Chi leva alto il capo per una [[Crown|corona]],  
+Chi leva alta la volontà per un mandato,  
+Chi lotta col torrente stellato,  
+Quando tutto ciò che è buono va giù?  
+
+Ché per terrore di tal cadere e venir meno  
+Gli angeli caduti caddero  
+Capovolti nell'insolenza, scalando  
+La pendula montagna dell'inferno:  
+Ma non misurata da scandaglio né da pertica  
+Troppo profonda perché il loro sguardo la scruti,  
+Trascorrendo oltre la caduta dell'uomo  
+È l'altezza della caduta di Dio.  
+
+Gloria a Dio nell'Infimo  
+Lo zampillo delle [[Stars|stelle]] in piena—  
+Là dove il fulmine crede d'esser più tardo  
+E il [[Lightning|lampo]] teme d'essere in ritardo:  
+Come gli uomini si tuffano per la gemma sommersa  
+Inseguendola, la cacciamo e le diamo la caccia,  
+La stella caduta l'ha trovata  
+Nella caverna di Betlemme.  
+
+Gilbert Keith Chesterton  

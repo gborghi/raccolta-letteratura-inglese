@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/jones-(chesterton)">Jones</a></div>
 </nav>
@@ -77,3 +79,76 @@ Note:  Tennyson lived on the Isle of Wight for the last 40
 years of his life.  The lines "A land ... precedent' are from  
 Tennyson's "You Ask Me, Why, Tho' Ill at Ease"  
 (see http://eir.library.utoronto.ca/rpo/display/poem2192.html)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/jones-(chesterton)">Jones</a></div>
+</nav>
+
+La Terribile [[history|Storia]] di [[Jones]]  
+
+di G.K. Chesterton
+
+[[Jones]] aveva un cane; questi una catena,  
+di rado indossata, non causa di [[Pain|pena]];  
+ma, poiché l'I.K.L. aveva infine varato  
+la sua «Legge sui Cugini Sguinzagliati»,  
+gli ispettori portarono via la catena;  
+al che il canide abbaiò «Urrà!»  
+Per cui, s'intende, la S.P.U.  
+(la cui Legge sui Motoristi Nervosi era passata)  
+fu costretta a denunciare il cane  
+per essere Udibilmente a Piede Libero.  
+Nessuno, direte, ne era ormai seccato,  
+salvo, forse, [[Jones]] — il cortile era vuoto.  
+Ma poiché nel contratto d'affitto v'era  
+qualcosa sugli «allarmi in aiuto alla polizia»,  
+la U.S.U. annesse il cortile  
+per non avere sorveglianza sufficiente.  
+Ora, se c'è una condizione  
+su cui il C.C.P. non transige  
+è che ogni [[house|casa]] che si compra  
+debba avere un cortile per l'esercizio;  
+sicché [[Jones]], come inquilino, era inidoneo,  
+e il suo stato di salute ne era la prova.  
+Due medici della T.T.U.  
+gli dissero che le gambe, per lungo disuso,  
+s'erano atrofizzate; e dicendo: «Così,  
+di gradino in gradino più alto saliamo  
+finché tutto sia Nuovo e Vero»,  
+gli tagliarono le gambe e si ritirarono.  
+Sapete che le vedute della E.T.S.T.  
+sono più risolute di quelle della T.T.U.:  
+e presto (per così dire) presero il volo  
+le Braccia, seppur non l'Uomo, che io canto.  
+Vederlo là seduto privo di membra  
+era più di quanto la K.K. potesse sopportare.  
+«Per [[Mercy|Pietà]], si faccia [[Silence|tacere]] con ogni [[Speed|prontezza]]  
+quella bocca che non ha mani da nutrirla;  
+quale crudele sentimentalista,  
+o [[Jones]], ti condannerebbe a esistere —  
+ancora aggrappato a un egoistico Sé?  
+Debole! Un tal ragionamento potrebbe sconvolgere  
+la Legge sulle Pompe, e l'accumulo  
+di tutta la legislazione costruttiva;  
+lascia che ti costruiamo su un poco —»  
+La testa cadde quando fu colpita:  
+allora sorsero parole e onesto [[Doubt|dubbio]],  
+e quattro Commissari si riunirono  
+per stabilire se il fendente che lo lasciò morto  
+gli avesse reciso il [[Body|corpo]] o la testa.  
+
+Un autore nell'Isola di Wight  
+osservò con non celato diletto  
+una terra di giusta e antica rinomanza  
+dove la [[Freedom|Libertà]] lentamente si allargava  
+di Precedente in Precedente.  
+E questo, credo, era ciò che intendeva.  
+
+Nota:  Tennyson visse nell'Isola di Wight negli ultimi 40  
+anni della sua vita.  I versi «A land ... precedent» sono tratti  
+da «You Ask Me, Why, Tho' Ill at Ease» di Tennyson  
+(si veda http://eir.library.utoronto.ca/rpo/display/poem2192.html)

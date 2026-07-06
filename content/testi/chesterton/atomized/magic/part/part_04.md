@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_05">part 05 ›</a></div>
@@ -219,3 +221,218 @@ PATRICIA. [_Somewhat affected._] Yes, I know you are good to everybody.
 But don't you think there may be floating and spiritual [[Stars|stars]] which will
 
 last longer than the red lamps?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_05">part 05 ›</a></div>
+</nav>
+
+tutto quanto.
+
+     [_Silenzio._
+
+MORRIS. [_Fissando._] Tutto quale?
+
+DUCA. [_Continuando a pontificare con entusiasmo._] Ma via, tutto è
+
+temperamento, sapete! È il suo temperamento vedere le fate. È il mio
+
+temperamento non vedere le fate. Ecco, ho fatto il giro della
+
+tenuta venti volte e non ho mai visto una fata. [[Well|Beh]], è lo stesso con
+
+questo mago o come lo chiama lei. Per lei c'è qualcuno lì.
+
+Per noi non ci sarebbe nessuno lì. Non capite?
+
+MORRIS. [_Avanzando con eccitazione._] Qualcuno lì! Che cosa volete dire?
+
+DUCA. [_Con leggerezza._] [[Well|Beh]], non si può proprio chiamarlo un uomo.
+
+MORRIS. [_Con violenza._] Un uomo!
+
+DUCA. [[Well|Beh]], come diceva il vecchio Buffle, che cos'è un uomo?
+
+MORRIS. [_Con un forte impennarsi dell'accento americano._] Col vostro
+
+permesso, Duca, elimino il vecchio Buffle. Volete dire che qualcuno ha
+
+avuto la maledetta sfrontatezza di insinuare che un qualche uomo....
+
+DUCA. Oh, non un _uomo_, sapete. Un mago, qualcosa di mitico, sapete
+
+sapete.
+
+[[smith|SMITH]]. Non un _uomo_, ma un uomo di medicina.
+
+DOTTORE. [_Cupamente._] Io sono un uomo di medicina.
+
+MORRIS. E non avete un aspetto mitico, Dottore.
+
+     [_Si morde il dito e comincia a camminare irrequieto avanti e indietro per la
+
+     stanza._
+
+DUCA. [[Well|Beh]], sapete, il temperamento artistico....
+
+MORRIS. [_Voltandosi di scatto._] Sentite, Duca! In quasi tutte le cose commerciali
+
+siamo un paese piuttosto avanzato. In queste cose morali ci accontentiamo di essere
+
+un paese piuttosto arretrato. E se mi chiedete se mi piace che mia sorella
+
+vada in giro per i boschi in una [[Night|notte]] come questa! [[Well|Beh]], no.
+
+DUCA. Temo che voi americani non siate così avanzati come speravo. Ma via! come
+
+diceva il vecchio Buffle....
+
+     [_Mentre parla si ode una voce lontana cantare nel [[Garden|giardino]]; si
+
+     avvicina sempre di più, e_ [[smith|SMITH]] _si volge di scatto verso il_ DOTTORE.
+
+[[smith|SMITH]]. Di chi è quella voce?
+
+DOTTORE. Non spetta a me deciderlo!
+
+MORRIS. [_Camminando verso la [[Window|finestra]]._] Non dovete disturbarvi. So chi
+
+is.
+
+     _Entra_ PATRICIA CARLEON
+
+[_Ancora agitato._] Patricia, dove sei stata?
+
+PATRICIA. [_Piuttosto stancamente._] Oh! nel Paese delle Fate.
+
+DOTTORE. [_Cordialmente._] E dove sarebbe?
+
+PATRICIA. È piuttosto diverso dagli altri luoghi. O è in nessun luogo
+
+oppure è ovunque tu sia.
+
+MORRIS. [_Seccamente._] Ha degli abitanti?
+
+PATRICIA. Di solito solo due. Se stessi e la propria [[Shadow|ombra]]. Ma se lui
+
+sia la mia [[Shadow|ombra]] o io sia la sua [[Shadow|ombra]] non si scopre mai.
+
+MORRIS. Lui? Chi?
+
+PATRICIA. [_Sembrando comprendere il suo fastidio per la prima [[Time|volta]], e
+
+sorridendo._] Oh, non c'è bisogno di essere convenzionale al riguardo, Morris. Lui non è
+
+un mortale.
+
+MORRIS. Come si chiama?
+
+PATRICIA. Là non abbiamo nomi. Non conosci mai davvero qualcuno se ne
+
+conosci il nome.
+
+MORRIS. Che aspetto ha?
+
+PATRICIA. L'ho incontrato solo nel crepuscolo. Sembra avvolto in un lungo
+
+mantello, con un berretto a punta o cappuccio come gli elfi nelle mie storie d'infanzia.
+
+A volte, quando guardo fuori dalla [[Window|finestra]] qui, lo vedo aggirarsi attorno a
+
+questa [[house|casa]] come un'[[Shadow|ombra]]; e vedo il suo cappuccio a punta, scuro contro il
+
+tramonto o il sorgere della [[Moon|luna]].
+
+[[smith|SMITH]]. Di che cosa parla?
+
+PATRICIA. Mi dice la [[Truth|verità]]. Moltissime cose vere. È un mago.
+
+MORRIS. Come sai che è un mago? Immagino che ti giochi qualche trucco
+
+addosso.
+
+PATRICIA. Saprei che è un mago se non giocasse alcun trucco. Ma una volta
+
+si chinò e raccolse una pietra e la lanciò in aria, ed essa volò
+
+su nel cielo di Dio come un uccello.
+
+MORRIS. Fu questo a farti pensare per la prima volta che fosse un mago?
+
+PATRICIA. Oh, no. Quando lo vidi la prima volta stava tracciando cerchi e
+
+pentacoli nell'erba e parlava la lingua degli elfi.
+
+MORRIS. [_Con scetticismo._] Conosci la lingua degli elfi?
+
+PATRICIA. Non finché non l'ho udita.
+
+MORRIS. [_Abbassando la voce come per la sorella, ma perdendo la pazienza
+
+così completamente da parlare molto più forte di quanto immagini._] Senti,
+
+Patricia, credo che questo genere di cose stia per diventare il colmo. Non
+
+ho alcuna intenzione di lasciarti abbindolare da qualche maledetto vagabondo o indovino
+
+solo perché scegli di leggere poesia minore sulle fate. Se questo zingaro
+
+o qualunque cosa sia ti disturba ancora....
+
+DOTTORE. [_Posando la mano sulla spalla di_ MORRIS.] Suvvia, dovete
+
+concedere un po' di più alla poesia. Non possiamo tutti nutrirci solo di petrolio.
+
+DUCA. Giustissimo, giustissimo. Ed essendo irlandese, non è vero, celtico,
+
+come diceva il vecchio Buffle, deliziose [[songs|canzoni]], sapete, sulla ragazza
+
+irlandese che ha uno scialle scozzese--e una Banshee. [_Sospira profondamente._] Povero
+
+vecchio Gladstone!
+
+     [_Silenzio come al solito._
+
+[[smith|SMITH]]. [_Parlando al_ DOTTORE.] Credevo che voi stesso consideraste la
+
+superstizione di famiglia dannosa per la salute?
+
+DOTTORE. Ritengo che una superstizione di famiglia sia meglio per la salute di una
+
+lite di famiglia. [_Attraversa con noncuranza verso_ PATRICIA.] [[Well|Beh]], dev'essere
+
+bello essere giovani e vedere ancora tutte quelle [[Stars|stelle]] e quei tramonti. Noi vecchi
+
+brontoloni non saremo troppo severi con voi se la vostra visione delle cose a volte
+
+si fa un po'--confusa, diciamo? Se le [[Stars|stelle]] si sparpagliano sull'
+
+erba per errore; o se, una volta o due, il tramonto finisce a oriente.
+
+Diremmo soltanto: «Sognate quanto volete. Sognate per tutta l'umanità.
+
+Sognate per noi che non possiamo più sognare. Ma non dimenticate del tutto la
+
+differenza».
+
+PATRICIA. Quale differenza?
+
+DOTTORE. La differenza tra le cose che sono belle e le
+
+cose che ci sono. Quella lampada rossa sopra la mia porta non è bella; ma
+
+c'è. Potreste perfino arrivare a esser lieta che ci sia, quando le [[Stars|stelle]]
+
+d'oro e d'argento saranno sbiadite. Sono un uomo vecchio ormai, ma alcuni uomini sono
+
+ancora lieti di trovare la mia stella rossa. Non dico che siano i saggi.
+
+PATRICIA. [_Alquanto commossa._] Sì, so che siete buono con tutti.
+
+Ma non pensate che possano esistere [[Stars|stelle]] fluttuanti e spirituali che
+
+dureranno più a lungo delle lampade rosse?

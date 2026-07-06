@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_22_neurosis">‹ Story 22 Neurosis</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_24_the_sage">Story 24 The Sage ›</a></div>
@@ -18,3 +20,17 @@ SURPRISE
 THE PHILOSOPHY OF PUMPKINS
 
 `IN THE BEGINNING'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_22_neurosis">‹ Story 22 Neurosis</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_24_the_sage">Story 24 The Sage ›</a></div>
+</nav>
+
+SORPRESA
+LA FILOSOFIA DELLE ZUCCHE
+
+`IN PRINCIPIO'

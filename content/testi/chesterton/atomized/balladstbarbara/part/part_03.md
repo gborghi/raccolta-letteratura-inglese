@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/balladstbarbara-(chesterton)">BalladStBarbara</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/balladstbarbara/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/balladstbarbara/part/part_04">part 04 ›</a></div>
@@ -633,3 +635,632 @@ tags:
       Never in cup or can,  
 
       The [[Death|death]] of a deathless Dragon,  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/balladstbarbara-(chesterton)">BalladStBarbara</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/balladstbarbara/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/balladstbarbara/part/part_04">part 04 ›</a></div>
+</nav>
+
+    Solo il tuo volto indimenticato:  
+
+    e il tuo capo levato ai cieli [[Alone|solo]]  
+
+    quando venivi oltre la collina.  
+
+    IL MAR ROSSO  
+
+    Le nostre anime saranno Leviatani  
+
+    in purpurei mari di vino  
+
+    quando l'ebbrezza sarà morta con la [[Death|morte]],  
+
+    e il bere sarà tutto divino;  
+
+    apprendendo in quei tini immortali  
+
+    che cosa significhino i vigneti mortali;  
+
+    poiché solo in cielo sapremo  
+
+    quanto siamo stati felici.  
+
+    Come nubi che si rotolano nel [[Wind|vento]]  
+
+    siate liberi di andare alla deriva e bere;  
+
+    torreggiare senza insolenza quando sorgiamo,  
+
+    senza resa affondare:  
+
+    [[Dreams|Sogni]] vertiginosi e folli conosceremo  
+
+    e non avremo bisogno di scrivere  
+
+    le nostre innocenti bestemmie di lode,  
+
+    i nostri incubi di delizia.  
+
+    Poiché così, in forma tanto deforme,  
+
+    la visione mi venne,  
+
+    dove tali delfini titanici e oscuri  
+
+    si rotolano in un mare al tramonto:  
+
+    cupi di colori densi, strani e forti  
+
+    come il terribile e vero [[Love|amore]],  
+
+    aureolati come pesci in luce di fosforo  
+
+    si muovono i mostri santi.  
+
+    Qui è misura e legge, da apprendere,  
+
+    quando l'[[Honour|onore]] così comanda,  
+
+    alzare il calice e posarlo  
+
+    o spezzare il calice e andare.  
+
+    Ma quando il Nuovo [[deluge|Diluvio]] del mondo ribollirà  
+
+    dalla vigna del Nuovo Noè,  
+
+    Le nostre anime saranno Leviatani  
+
+    in sanguigni mari di vino.  
+
+    PER UN MONUMENTO AI CADUTI  
+
+    _([[Inscription|Iscrizione]] suggerita, probabilmente non scelta dalla_  
+
+    _Commissione.)_  
+
+    I merciai mercanteggiano al mercato,  
+
+    le auto e i carri passano;  
+
+    senati e scuole proseguono ronzando;  
+
+    poiché le cose morte non possono morire.  
+
+    Una [[Storm|tempesta]] calò sul luogo delle tombe  
+
+    con folgori per schiantare e squarciare;  
+
+    ma questi sono nomi di molti uomini  
+
+    che il [[Lightning|fulmine]] trovò vivi.  
+
+    Se gli usurai regnano e i diritti [[Decay|decadono]]  
+
+    e le visioni scorgono ancora una volta  
+
+    la grande Cartagine come una conchiglia d'oro  
+
+    spalancarsi vuota sulla riva,  
+
+    fino all'ultimo del [[Time|tempo]] che si sgretola  
+
+    su questa pietra si legga  
+
+    quanti uomini d'Inghilterra morirono  
+
+    per provare che non erano morti.  
+
+    [[Memory|MEMORIA]]  
+
+    Se mai tornerò a Baltimora,  
+
+    la [[City|città]] del Maryland,  
+
+    di nuovo mi mancheranno, come già mi mancarono,  
+
+    mille cose che il mondo tiene in serbo,  
+
+    la storia che sta in ogni porta  
+
+    e con ogni mano fa cenno.  
+
+    Non saprò dove i legami furono spezzati  
+
+    e cento fedi liberate,  
+
+    dove un cavaliere errante aveva dato  
+
+    il suo centesimo nome alla [[Queen|Regina]] del Cielo,  
+
+    e fece oblazione di faide perdonate  
+
+    a Nostra Signora della Libertà.  
+
+    Non percorrerò i sentieri della gloria  
+
+    dove la guerra non arrise ai forti;  
+
+    quando Lee, l'ultimo degli eroi, venne  
+
+    con gli Uomini del Sud e una [[Flag|bandiera]] come fiamma,  
+
+    e chiamò la terra col suo dolce nome  
+
+    nel [[Song|canto]] indimenticato.  
+
+    Se mai [[Cross|attraverserò]] il mare e vagherò  
+
+    fino alla [[City|città]] del Maryland,  
+
+    siederò su una pietra a vegliare o pregare  
+
+    per il [[Child|bambino]] d'uno straniero che vi fu un giorno:  
+
+    e il [[Child|bambino]] non tornerà mai più a giocare,  
+
+    e nessuno capirà.  
+
+    LE TOMBE INGLESI  
+
+    Fossi io quel cittadino errante la cui [[City|città]] è il mondo,  
+
+    non piangerei tutto ciò che cadde prima che le bandiere fossero ammainate;  
+
+    non lascerei che un solo mormorio guastasse le trombe che squillano  
+
+    come Dio si stancò dei re, e del freddo inferno del nord.  
+
+    Ma noi, i cui cuori sono [[Birds|uccelli]] che tornano al nido, abbiamo pensieri più gravi della [[Home|casa]],  
+
+    benché le grandi aquile ardano d'oro su [[Paris|Parigi]] o su Roma,  
+
+    noi che stiamo presso i nostri morti e fissiamo, come veggenti a un'eclissi,  
+
+    l'[[Riddle|enigma]] della storia dell'isola e il crepuscolo delle navi.  
+
+    Poiché questi erano uomini semplici che amavano con mani e piedi e occhi,  
+
+    le cui anime s'umiliavano alle colline e si restringevano ai cieli,  
+
+    le cento piccole terre che giacciono dentro un'unica piccola terra,  
+
+    dove il Severn cerca le isole del tramonto o il Sussex scala il cielo.  
+
+    E ciò che è loro, benché i vessilli sventolino su Varsavia risorta,  
+
+    o l'antico riso cammini in oro tra le vigne della Lorena,  
+
+    i loro morti sono segnati su pietre inglesi, i loro amori su alberi inglesi,  
+
+    quanto è piccolo il premio che vincono, quanto misera moneta per costoro--  
+
+    quanto piccola una foglia d'alloro avvizzita giace qui, sgualcita e arricciata:  
+
+    morirono per salvare il loro paese e salvarono soltanto il mondo.  
+
+    [[nightmare|INCUBO]]  
+
+    Il leopardo d'argento e viola della [[Night|notte]]  
+
+    chiazzato di [[Stars|stelle]] e liscio di [[Silence|silenzio]] balzò;  
+
+    e benché tre porte fossero aperte, la fine della luce  
+
+    si chiuse come una trappola; e l'immobilità fu un clangore.  
+
+    Sotto il cielo di leopardo dalle [[Stars|stelle]] fosche  
+
+    lottai col malvagio [[Sleep|sonno]] per tutta la calda [[Night|notte]],  
+
+    [[Dreams|Sogni]] muti e gonfi di trionfi senza guerre,  
+
+    di tromba senza lingua e gong che non risponde.  
+
+    Vidi passare un pallido fasto imperiale,  
+
+    elmo e mitra cornuta e pesante corona;  
+
+    le loro alte e strane insegne pendevano dal cielo  
+
+    e i loro grandi scudi erano come le porte della [[Death|morte]].  
+
+    Le loro mitre erano come piramidi in cammino  
+
+    e tutte le loro corone alte come torri in marcia;  
+
+    i loro occhi erano freddi sotto le palpebre scolpite  
+
+    e lo stesso sorriso scolpito era su tutti loro.  
+
+    Su una pianura lastricata che pareva senza fine  
+
+    passavano senza vacillare finché essa trovò un termine  
+
+    in un lungo e basso gradino; e costoro, scendendo,  
+
+    ripresero il cammino, di nuovo con lunga via da percorrere.  
+
+    Pensai che viaggiassero da mille anni;  
+
+    e alla fine non v'era nulla per tutti loro,  
+
+    malgrado tutto quello splendore di scettri e di lance,  
+
+    se non un nuovo gradino, un'altra facile caduta.  
+
+    Il sorriso di pietra pareva solo un poco meno,  
+
+    il carico d'argento solo un poco più:  
+
+    e sempre v'era quella desolazione a terrazze  
+
+    e la pianura digradante lastricata come il pavimento d'un palazzo.  
+
+    Ruggine rossa come sangue strisciava sulle loro armi possenti  
+
+    e sui loro volti rughe e non cicatrici:  
+
+    finché il sogno d'un tratto finì; rumore e luce  
+
+    sciolsero la tirannia delle [[Stars|stelle]] tropicali.  
+
+    Ma sopra di loro, come un sole sotterraneo,  
+
+    vidi il segno di tutti i demoni caduti;  
+
+    e una voce selvaggia gridò «Affrèttati e finiscila,  
+
+    non v'è ripidezza nelle scale dell'inferno?»  
+
+    Colui che ritorna, Colui che rimane il medesimo,  
+
+    girò il mondo reale e rotondo, la Sua morsa di ferro;  
+
+    giù per i grigi sentieri del [[Garden|giardino]] un uccello chiamò due volte,  
+
+    e attraverso tre porte entrò la misteriosa luce del giorno.  
+
+    UNA SECONDA [[Childhood|INFANZIA]]  
+
+    Quando tutti i miei giorni finiranno  
+
+    e non avrò più [[Song|canto]] da cantare,  
+
+    penso che non sarò troppo vecchio  
+
+    per fissare ogni cosa;  
+
+    come un tempo fissavo la porta d'una stanza di bimbi  
+
+    o un albero alto e un'altalena.  
+
+    In cui la ponderosa [[Mercy|misericordia]] di Dio pende  
+
+    su tutti i miei peccati e su me,  
+
+    perché Egli non toglie  
+
+    il terrore dall'albero  
+
+    e le pietre ancora brillano lungo la [[Road|strada]]  
+
+    che sono e non possono essere.  
+
+    Gli uomini invecchiano troppo per l'[[Love|amore]], [[Love|amore]] mio,  
+
+    gli uomini invecchiano troppo per il vino,  
+
+    ma io non invecchierò troppo per vedere  
+
+    splendere una luce ultraterrena,  
+
+    mutando la [[Dust|polvere]] della mia stanza in [[Snow|neve]]  
+
+    finché [[Doubt|dubito]] che sia mia.  
+
+    Ecco, le supreme misericordie si sciolgono,  
+
+    le prime meraviglie restano;  
+
+    e nella mia scoria è caduto un dono  
+
+    per il quale non oso pregare:  
+
+    che un uomo s'abitui al dolore e alla gioia  
+
+    ma non alla [[Night|notte]] e al giorno.  
+
+    Gli uomini invecchiano troppo per l'[[Love|amore]], [[Love|amore]] mio,  
+
+    gli uomini invecchiano troppo per le menzogne;  
+
+    ma io non invecchierò troppo per vedere  
+
+    sorgere l'enorme [[Night|notte]],  
+
+    una nube più grande del mondo  
+
+    e un [[Monster|mostro]] fatto di occhi.  
+
+    Né son degno di sciogliere  
+
+    il legaccio del mio calzare;  
+
+    o scuotere la [[Dust|polvere]] dai miei piedi  
+
+    o il bastone che mi sorregge  
+
+    su un suolo troppo bello per durare,  
+
+    troppo solido per esser vero.  
+
+    Gli uomini invecchiano troppo per corteggiare, [[Love|amore]] mio,  
+
+    gli uomini invecchiano troppo per sposarsi:  
+
+    ma io non invecchierò troppo per vedere  
+
+    appese follemente lassù  
+
+    incredibili travi quando mi desto  
+
+    e scopro che non sono morto.  
+
+    Un brivido di tuono tra i capelli:  
+
+    benché nubi che s'anneriscono siano manifeste,  
+
+    ancora sono punto e trasalisco  
+
+    alla prima goccia di pioggia:  
+
+    [[Romance|il romanzesco]] e l'[[Pride|orgoglio]] e la passione passano  
+
+    e questi sono ciò che resta.  
+
+    Strani tappeti striscianti dell'erba,  
+
+    ampie finestre del cielo:  
+
+    così, in questa perigliosa grazia di Dio,  
+
+    con tutti i miei peccati io vado:  
+
+    e le cose si fanno nuove benché io invecchi,  
+
+    benché io invecchi e muoia.  
+
+    «MEDIEVALISMO»  
+
+    Se gli uomini sorgessero e tornassero al frastuono e al [[Time|tempo]] del torneo,  
+
+    al nome e alla fama della tabarda, all'intrico di rosso e d'oro,  
+
+    reggerebbero queste cose e basterebbero come meta d'un [[Journey|viaggio]]  
+
+      all'indietro,  
+
+    una luce che ritorna sui nostri giorni, come era nei giorni antichi?  
+
+    No, nessuno cavalca indietro a raccogliere un guanto o una piuma,  
+
+    benché il guanto d'arme risuonasse d'[[Honour|onore]] o il pennacchio valesse più d'una  
+
+      [[Crown|corona]]:  
+
+    e tace la tromba santa che chiamava a raccolta le nazioni  
+
+    e sotto i Corni di Hattin la [[Hope|speranza]] del mondo tramontò.  
+
+    Ah, non serbata nel ricordo, ma balzando fuori dall'oblio,  
+
+    perché avete cercato nuove dimore e tutto ciò che cercaste è così,  
+
+    perché avevate calpestato il [[Fire|fuoco]] e sbarrato la porta nel partire,  
+
+    ritorna nel vostro [[Exile|esilio]] prescelto la gloria di tanto tempo fa.  
+
+    Non allora, quando sbarraste la porta, non allora, quando calpestaste le braci,  
+
+    ma ora, al termine della vostra nuova [[Road|strada]], avete visto il volto d'un fato,  
+
+    che non come un [[Child|bambino]] guarda indietro, e non come uno [[Fool|sciocco]] ricorda,  
+
+    tutto ciò che gli uomini presero troppo alla leggera e tutto ciò che [[Love|amano]] troppo tardi.  
+
+    Siete voi che non avete fatto rubrica per i santi, né veste per gli [[lovers|amanti]],  
+
+    i vostri berretti che invocano una piuma, i vostri tetti che sospirano una guglia:  
+
+    è forse [[A Dream|un sogno]] dei morti se il vostro stesso [[Decay|disfacimento]] scopre  
+
+    vivo nel vostro cimitero in putrefazione il verme del [[Desire|desiderio]] del mondo?  
+
+    Perciò i vecchi alberi torreggiano, perché i verdi alberi crescano e restino  
+
+      stentati:  
+
+    perciò questi morti vi deridono, perché voi, i vivi, siete morti:  
+
+    da quando percuoteste i santi e gli strumenti dei vostri mestieri furono  
+
+      spuntati,  
+
+    o frantumaste il vetro nella sua gloria e vi caricaste del  
+
+      piombo.  
+
+    Quando l'usuraio dà la caccia allo scudiero come lo scudiero ha dato la caccia al contadino,  
+
+    come pecore divorate dai vermi là dove gli uomini furono divorati dalle pecore:  
+
+    ora è il giudizio della terra, e la pesatura del passato e del presente,  
+
+    voi che sdegnate di piangere sulle rovine, contemplate la vostra rovina e piangete.  
+
+    Non avete saputo, o sciocchi, voi che avete fatto del presente una [[Prison|prigione]],  
+
+    che la sete può ricordare l'[[Water|acqua]] e la fame ricordare il pane?  
+
+    Non andammo a raccogliere [[Ghosts|fantasmi]]; ma lo strido della vostra vergogna si è levato  
+
+    dalla vostra stessa nera Babele troppo forte; e ha destato i morti.  
+
+    POLONIA  
+
+    Gli àuguri che osservavano [[Birds|uccelli]] arcaici  
+
+    potrebbero leggere tali prodigi piumati,  
+
+    le aquile che erano a [[Double|doppia]] faccia,  
+
+    l'aquila che era nera davvero;  
+
+    e quando gli [[Birds|uccelli]] da battaglia caddero  
+
+    e sulla loro scia vengono gli avvoltoi,  
+
+    sappiamo quale perdono e quale pace  
+
+    terranno muti i nostri piccoli padroni.  
+
+    Gli uomini che vendono ciò che altri fanno,  
+
+    come gli avvoltoi mangiano ciò che altri uccidono,  
+
+    proveranno, accostando piuma a piuma,  
+
+    che nulla è nero e tutto è grigio;  
+
+    grigio come quelle squallide colombe che un tempo,  
+
+    palpate e prezzate dai cambiavalute,  
+
+    tra il fracasso dei tavoli sbatterono le ali  
+
+    e s'accalcarono per sfuggire all'ira di [[Christ|Cristo]].  
+
+    Ma innalzata per sempre come un segno,  
+
+    da quando Dio rese gloriosa l'ira,  
+
+    là dove aquile nere e avvoltoi grigi  
+
+    tornarono a stormo intorno all'eroica [[house|casa]],  
+
+    dove la guerra è più santa della pace,  
+
+    dove l'odio è più santo dell'[[Love|amore]],  
+
+    splendette, terribile come lo [[Ghost|Spirito]] Santo,  
+
+    un'aquila più bianca d'una colomba.  
+
+    LA CACCIA AL DRAGO  
+
+    Quando andavamo a caccia del Drago  
+
+    nei giorni in cui eravamo giovani,  
+
+    ci gettammo il mondo lucente sulla spalla  
+
+    come corno e budriere a tracolla;  
+
+    mai vi fu mondo così selvaggio e bello  
+
+    come quello che passava sul [[Wind|vento]],  
+
+    mai tali campi di paradiso  
+
+    come i campi che lasciammo dietro:  
+
+      poiché questo è il meglio d'un riposo per gli uomini,  
+
+      che gli uomini sorgano e cavalchino  
+
+      facendo una fatata terra volante  
+
+      di mercato e di campagna,  
+
+      ali sul casolare, ali sul bosco,  
+
+      ali su pentola e tegame,  
+
+      per la caccia al Drago:  
+
+      questa è la vita d'un uomo.  
+
+    Poiché gli uomini si stancano della terra fatata  
+
+    quando il Drago è [[A Dream|un sogno]],  
+
+    e si stancano dell'uccello parlante sull'albero,  
+
+    del pesce che canta nel ruscello;  
+
+    e le [[Stars|stelle]] erranti si fanno stantie, si fanno stantie,  
+
+    e la [[Wonder|meraviglia]] s'irrigidisce di scherno;  
+
+    poiché questo è l'[[Honour|onore]] della terra fatata  
+
+    e il seguire del corno;  
+
+      [[Beauty|Bellezza]] su [[Beauty|bellezza]] ci richiamava  
+
+      quando potevamo sorgere e cavalcare,  
+
+      e una donna s'affacciava a ogni [[Window|finestra]]  
+
+      meravigliosa come una sposa:  
+
+      e l'insegna della taverna sfolgorava come una tabarda,  
+
+      e i bambini esultavano e correvano,  
+
+      per l'[[Love|amore]] dell'odio del Drago:  
+
+      questo è l'[[Pride|orgoglio]] d'un uomo.  
+
+    I sapienti lo chiamarono un'[[Shadow|ombra]]  
+
+    e la luce si spense dal sole:  
+
+    e i savi ci dissero che tutto andava [[Well|bene]]  
+
+    e tutto era stanco e uno solo:  
+
+    e allora, e allora, nel quieto [[Garden|giardino]],  
+
+    senza mai un'erbaccia da estirpare,  
+
+    sapemmo che la sua coda lucente aveva brillato  
+
+    nella bianca [[Road|strada]] oltre la [[Hill|collina]]:  
+
+    sapemmo che le nubi erano falde di fiamma,  
+
+    sapemmo che il [[Fire|fuoco]] del tramonto  
+
+    era rosso del [[Blood|sangue]] del Drago  
+
+    la cui [[Death|morte]] è il [[Desire|desiderio]] del mondo.  
+
+      Poiché il corno fu suonato nel cuore della [[Night|notte]],  
+
+      che gli uomini sorgano e cavalchino,  
+
+      mantenendo il convegno d'un terribile scherzo  
+
+      mai a lungo lasciato intentato;  
+
+      bevendo un tremendo [[Blood|sangue]] per vino,  
+
+      mai in coppa o in boccale,  
+
+      la [[Death|morte]] d'un Drago senza morte,  

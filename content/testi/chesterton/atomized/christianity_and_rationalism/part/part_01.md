@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/christianity-and-rationalism-(chesterton)">Christianity and Rationalism</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/christianity_and_rationalism/part/part_02">part 02 ›</a></div>
@@ -112,3 +114,111 @@ I like [[Paradox|paradox]], but I am not prepared to [[Dance|dance]] and dazzle 
 extent of Nunquam, who points to humanity crying out to a thing,
 and pointing to it from immemorial ages, as a proof that it
 cannot be there.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/christianity-and-rationalism-(chesterton)">Christianity and Rationalism</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/christianity_and_rationalism/part/part_02">part 02 ›</a></div>
+</nav>
+
+Questo testo è tratto da uno dei quattro saggi di Chesterton nella raccolta
+citata qui sotto.  Maisie Ward indica queste pagine come tra le sue
+migliori e, ironicamente, anche tra le sue più precoci.  Haw, George, a cura di.
+The Religious Doubts of [[democracy|Democracy]].  [[London|Londra]]:  MacMillan, 1904.
+
+                        [[Christianity]] e il Razionalismo
+
+Il mio amico, il signor George Haw, mi ha chiesto di esporre, in uno o due articoli,
+la mia opinione generale in materia di [[Christianity|Cristianesimo]], da pubblicarsi
+nel Clarion.  Non fingerò alcuna particolare riluttanza a farlo;
+ma non dovrei accingermi all'impresa senza prima offrire al signor Blatchford
+la nostra gratitudine, e qualcosa che vale più della gratitudine,
+le nostre congratulazioni, per il gesto assai magnanimo che egli ha compiuto
+nel mettere così questo giornale nelle mani degli avversari religiosi.
+Così facendo egli ha segnato, con generosa inconsapevolezza,
+un punto reale.
+
+La maggior parte delle terribili rivelazioni sul male e sull'ignoranza dei cristiani non mi
+turba, temo, in modo tanto grave quanto dovrebbe.
+Quando sento dire che un professore tedesco ha scoperto la quattrocentesima
+esatta origine del protoplasma, mi sforzo invano di provare entusiasmo;
+quando leggo che i selvaggi si dipingono il volto di verde per compiacere i [[Ghosts|fantasmi]]
+(o che so io), non provo nulla al di là di un vago piacere e di una vaga simpatia.
+Tanto il professore tedesco quanto il selvaggio dal volto verde mi paiono
+fare la stessa cosa: cioè cadere sotto l'influsso
+di quell'impulso siderale che spinge gli uomini a darsi un gran daffare
+per cose del tutto inutili.
+
+Ma simili cose non mutano granché la mia idea del [[Christianity|Cristianesimo]].
+In tutta questa controversia ho sentito la forza di una cosa sola,
+che ha colpito davvero il [[Christianity|Cristianesimo]] pratico; la ritengo
+una buona argomentazione; la ritengo un'argomentazione terribile.  Non sta
+nel fatto che questa controversia si conduca su un giornale non cristiano.
+È senza dubbio un punto legittimo segnato contro una religione il fatto che coloro
+i quali paiono più interessati a essa siano proprio quelli che la credono
+una frode.  Penso, dunque, che la magnanimità del signor Blatchford,
+come ogni magnanimità, sia profondamente filosofica e saggia.
+
+Né lo biasimo, come alcuni hanno fatto, per averne discusso
+a lungo; poiché il soggetto è la [[Nature|natura]] dell'Universo,
+esso è necessariamente vasto quanto l'Universo, e ricco quanto l'Universo,
+e, aggiungerei, divertente quanto l'Universo.
+
+Anzi, immagino che debba esistere qualcosa come l'[[Immortality|Immortalità]],
+non fosse che perché il signor Blatchford e io abbiamo il [[Time|tempo]] di discutere se
+essa sia vera.
+
+Prima di tracciare un abbozzo della mia posizione, c'è un'altra cosa
+da dire, nella quale non posso evitare la nota personale.
+Ho cominciato a rendermi conto che vi sono parecchie persone alle quali il mio
+modo di parlare di queste cose pare indizio che io
+sia frivolo o imperfettamente sincero.  Poiché, di fatto,
+in questa faccenda sono più sicuro di me stesso di quanto lo sia dell'esistenza
+della [[Moon|luna]], ciò naturalmente mi procura un notevole rammarico;
+ma credo di scorgere la naturalezza dell'equivoco e come esso
+sia sorto in persone assai lontane dall'atmosfera cristiana.
+Il [[Christianity|Cristianesimo]] è di per sé cosa tanto gioiosa che riempie chi lo possiede
+di una certa sciocca esuberanza, che i Razionalisti tristi e nobili
+d'animo potrebbero ragionevolmente scambiare per mera buffoneria e bestemmia;
+proprio come i loro prototipi, i tristi e nobili Stoici dell'antica Roma,
+scambiarono la gioia cristiana per buffoneria e bestemmia.
+
+Questa differenza vale ovunque: nella fredda architettura pagana
+e nei [[gargoyles|gargoyle]] ghignanti della Cristianità, nell'assurda screziatura
+del Medioevo e nell'abito smorto di questo secolo razionalista.
+E se il signor Blatchford desidera sapere perché dovremmo stupirci qualora
+il Duca di Devonshire andasse in giro con una gamba rossa e l'altra gialla
+(come un nobiluomo avrebbe potuto fare nel tredicesimo secolo), posso
+cortesemente informarlo che ciò è dovuto al [[Decay|declino]] della nostra [[Faith|fede]].
+In nessun luogo della [[history|storia]] vi è mai stata alcuna allegria
+e gaiezza popolare senza religione.
+
+La prima fra tutte le difficoltà che incontro nel confutare
+il signor Blatchford è semplicemente questa: che mi troverò in gran parte
+a ripercorrere il suo stesso terreno.  Il mio manuale di teologia
+prediletto è God and my Neighbour, ma non posso riportarlo per esteso.
+Se esponessi ciascuna delle mie ragioni per essere cristiano, un gran numero
+di esse sarebbero le ragioni del signor Blatchford per non esserlo.
+
+Per esempio, il signor Blatchford e la sua scuola fanno notare che esistono
+molti miti paralleli alla vicenda cristiana; che vi furono
+Cristi pagani, e Incarnazioni fra i Pellirosse, e Crocifissioni in Patagonia,
+per quanto ne so o me ne curi.  Ma il signor Blatchford non vede l'altra
+faccia di questo fatto?  Se il Dio cristiano ha davvero creato il genere umano,
+non tenderebbe il genere umano a dicerie e travisamenti del
+Dio cristiano?  Se il centro della nostra vita è un certo fatto,
+non ne avrebbero una versione confusa le genti lontane dal centro?
+Se siamo fatti in modo che un Figlio di Dio debba redimerci, è strano
+che i Patagoni sognino un Figlio di Dio?
+
+La posizione blatchfordiana si riduce in realtà a questo: che, poiché una
+certa cosa ha impresso in milioni di persone diverse l'idea che sia probabile
+o necessaria, essa perciò non può essere vera.  E poi questo essere schivo,
+velando i propri talenti, dichiara il malcapitato G.K.C. colpevole di [[Paradox|paradosso]]!
+A me il [[Paradox|paradosso]] piace, ma non sono disposto a [[Dance|danzare]] e ad abbagliare fino al
+punto di Nunquam, il quale addita l'umanità che invoca a gran voce una cosa,
+e la indica da tempi immemorabili, come prova che essa
+non può esservi.

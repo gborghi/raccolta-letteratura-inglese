@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/iln-1930-04-19-(chesterton)">ILN-1930-04-19</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/iln-1930-04-19/part/part_01">‹ part 01</a><span></span></div>
@@ -53,3 +55,16 @@ We are civilised men, acquainted with mathematics and metaphysics,
 and presumably capable of thinking in terms of thought.
 Certainly if we ever lose that power, it will be a worse relapse
 into barbarism than the worst war in the world.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/iln-1930-04-19-(chesterton)">ILN-1930-04-19</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/iln-1930-04-19/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+In terzo luogo, ricorderei rispettosamente alla maggior parte di coloro che hanno scritto, scrivono e risolutamente e incessantemente continueranno a scrivere romanzi e drammi sulla Guerra e sull'Armistizio e su Dieci Anni Dopo, che dovrebbero cercare di incoraggiare una vera [[Friendship|amicizia]] con gli stranieri.  E un'[[Friendship|amicizia]] con gli stranieri non significa un'[[Friendship|amicizia]] con i tedeschi.  Significa un'[[Friendship|amicizia]] con i tedeschi e con tutti gli altri, compresi coloro che con ogni probabilità litigheranno con i tedeschi.  Vorrei suggerire loro, ciò che paiono aver del tutto dimenticato, che se descrivono la reazione verso la Pace come se fosse unicamente e interamente una reazione verso i Prussiani, non incoraggeranno la Pace, ma incoraggeranno assai decisamente la Guerra.  Faranno, in forma assai più pericolosa, esattamente ciò che essi stessi denunciarono nel [[government|Governo]] quando ci legò in un'alleanza unilaterale; con l'aggiunta (a mio avviso) di esserci legati alla parte sbagliata anziché a quella giusta.  Ma il punto è che, qualunque cosa possano favorire i loro romantici suggerimenti di [[Reconciliation|riconciliazione]], essi non favoriscono la causa della Pace.  Quello stesso genere d'uomo che sapeva combattere soltanto scrivendo menzogne sentimentali contro tutti i tedeschi ora scrive narrativa sentimentale in favore di tutti i tedeschi.  Ma non la scrive in favore della Pace.  L'unica possibilità di pace nel mondo sta nella possibilità che comprendiamo anche l'altra parte.  E finché sarà moda del momento parlare come se tutti gli italiani fossero prepotenti, tutti i francesi spacconi, tutti i polacchi inutili forsennati, e via dicendo, è forse una certa forzatura del linguaggio dire che ci stiamo facendo amici gli stranieri.  In realtà, non ci stiamo facendo amici affatto.  Stiamo facendo qualcosa di assai più terribile e sinistro.  Ci stiamo facendo degli Alleati.
+
+Da ultimo, ricordiamo come principio generale che le opinioni vanno enunciate come opinioni e le convinzioni come convinzioni.  Non dobbiamo spazientirci perché tali affermazioni vengono dette astratte.  Mentre qualche affascinante [[Romance|racconto]] su fango e [[Blood|sangue]] e cavalli sventrati è al confronto splendidamente concreto.  Non siamo selvaggi, da esprimerci soltanto per scrittura figurata.  Siamo uomini civili, versati nella matematica e nella metafisica, e presumibilmente capaci di pensare in termini di pensiero.  Certamente, se mai perdessimo quella facoltà, sarà una ricaduta nella barbarie peggiore della peggiore guerra del mondo.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/jane-austen-ge-(chesterton)">Jane Austen GE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/jane_austen_ge/part/part_01">‹ part 01</a><span></span></div>
@@ -61,3 +63,16 @@ and he might become a Cabinet Minister while poor old Darcy was
 sulking in the provinces, a decent, truthful, honourable Diehard,
 cursing the taxes and swearing the country was going to the [[dogs]]
 and especially to the puppies.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/jane-austen-ge-(chesterton)">Jane Austen GE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/jane_austen_ge/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Ma la piuttosto bizzarra applicazione di tutto ciò al caso delle Elezioni Generali non è priva di una morale, dopotutto.  Il giornalista ottimista, che si gloriava dell'infallibile intuito del Voto delle Maschiette, scelse un esempio assai sfortunato per il proprio scopo quando scelse l'ingegnoso signor Wickham.  Poiché il signor Wickham era, o è, esattamente il genere d'uomo che fa un [[success|successo]] delle elezioni politiche.  Talvolta ha giusto un po' troppo successo per riuscire.  Talvolta viene addirittura scoperto, per qualche accidente, mentre compie cose assai destre nell'arte della finanza; e scompare all'improvviso, ma anche allora in silenzio.  Ma nel complesso è fatto per la vita parlamentare.  E deve il suo [[success|successo]] a due qualità, entrambe esibite nel [[Novel|romanzo]] in cui figura.  Primo, il talento di dire una menzogna dicendo metà della [[Truth|verità]].  E secondo, l'arte di dire una menzogna non ad alta voce e in modo offensivo, ma con un'apparenza di signorile e garbato rammarico.  Fu un giorno assai fortunato per i politici di professione quando certi reazionari cominciarono ad accusarli di essere demagoghi.  La [[Truth|verità]] è che di rado osano essere demagoghi; e il loro massimo [[success|successo]] è quando parlano con delicatezza e riserbo come diplomatici.  Un dittatore deve essere un demagogo; un uomo come Mussolini non può vergognarsi di gridare.  Non può permettersi di essere un mero gentiluomo.  Tutto il suo potere dipende dal convincere la plebe che egli sa ciò che vuole, e lo vuole ardentemente.  Ma un politico sarà assai più saggio se si traveste da gentiluomo.  Il suo potere consiste in gran parte nell'indurre la gente a prendere le cose alla leggera.  Consiste nell'indurla ad accontentarsi della sua abbozzata e superficiale versione del reale stato delle cose.  Nulla tende più felicemente a questo risultato delle fulgide qualità del signor Wickham: le buone maniere e la buona [[Nature|indole]] e il tocco lieve.  Ogni sorta di risposte vengono date dai Ministri alle interrogazioni poste in Parlamento, risposte che potrebbero essere pronunciate soltanto in questo modo.  Se simili palpabili sciocchezze fossero tuonate da un oratore, o gridate da un demagogo, o in qualunque modo rese vistose e recise, perfino la [[house|Camera]] dei Comuni insorgerebbe in tumulto o proromperebbe in risa.  Sciocchezze tanto insensate come quelle possono essere proferite soltanto nei toni di un uomo assennato.
+
+Tanto vividamente vedo il signor Wickham come politico che mi sento incline a riscrivere l'intero [[Pride and Prejudice]] per adattarlo alla politica dei giorni nostri.  Sarebbe divertente mandare le ragazze Bennett a correre di qua e di là a far propaganda elettorale: Elizabeth con divertimento, e Jane con dignitosa riluttanza.  Quanto a Lydia, sarebbe un gran [[success|successo]] nella politica moderna.  Ma suo marito sarebbe il più grande [[success|successo]] di tutti; e potrebbe diventare Ministro del Gabinetto mentre il povero vecchio Darcy se ne starebbe imbronciato in provincia, un dignitoso, veritiero, onorevole Irriducibile, a maledire le tasse e a giurare che il paese stava andando ai [[dogs|cani]], e in specie ai cuccioli.

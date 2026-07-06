@@ -6393,13 +6393,13 @@ of the world.
 
 ----------------------------------------------------------------------------
 
-Gilbert Keith Chesterton
+Gilbert Keith Chesterton  
 
 Charles Dickens
 
 PARTE PRIMA
 
-INDICE
+    INDICE  
 
                  * CAPITOLO I
                    L'EPOCA DI DICKENS
@@ -7240,13 +7240,13 @@ PARTE SECONDA
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 
-Gilbert Keith Chesterton
+Gilbert Keith Chesterton  
 
 Charles Dickens
 
 PARTE SECONDA
 
-INDICE
+    INDICE  
 
                  * CAPITOLO VII
                    DICKENS E IL NATALE

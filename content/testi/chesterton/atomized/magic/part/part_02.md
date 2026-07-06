@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_03">part 03 ›</a></div>
@@ -211,3 +213,210 @@ DOCTOR. Oh, she wanders about the park and the woods in the evenings.
 Damp evenings for choice. She calls it the Celtic twilight. I've no use
 
 for the Celtic twilight myself. It has a tendency to get on the chest.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_03">part 03 ›</a></div>
+</nav>
+
+     vestito con grande cura in uno stile lievemente antiquato. Ha circa
+
+     sessant'anni e avrebbe potuto essere un amico di Huxley._
+
+DOTTORE. [_Ripiegando la carta._] Vi chiedo scusa, signore, non avevo
+
+notato che ci fosse qualcuno qui.
+
+[[smith|SMITH]]. [_Amichevolmente._] Scusate voi. Un nuovo ecclesiastico non può aspettarsi di essere
+
+atteso. Sono venuto solo per vedere il Duca a proposito di certe faccende locali.
+
+DOTTORE. [_Sorridendo._] E, per strano che sia, anch'io. Ma suppongo che
+
+entrambi vorremmo prenderlo per un orecchio ciascuno.
+
+[[smith|SMITH]]. Oh, per quanto mi riguarda non c'è alcun mistero. Mi sono unito a questa
+
+lega per l'apertura di un'[[house|osteria]] modello nella parrocchia; e in parole
+
+povere, sono venuto a chiedere a Sua Grazia una sottoscrizione.
+
+DOTTORE. [_Cupamente._] E, guarda caso, io mi sono unito alla petizione
+
+contro l'erezione di un'[[house|osteria]] modello in questa parrocchia. La
+
+somiglianza della nostra posizione cresce a ogni istante.
+
+[[smith|SMITH]]. Sì, credo che dobbiamo essere stati gemelli.
+
+DOTTORE. [_Con più buonumore._] [[Well|Beh]], che cos'è un'[[house|osteria]] modello? Volete
+
+forse dire un giocattolo?
+
+[[smith|SMITH]]. Intendo un luogo dove gli inglesi possano bere qualcosa di decente e berlo
+
+decentemente. Voi lo chiamate un giocattolo?
+
+DOTTORE. No; lo chiamerei un gioco di prestigio. O, in omaggio al vostro
+
+abito, dirò un miracolo.
+
+[[smith|SMITH]]. Accetto l'omaggio al mio abito. Sto facendo il mio dovere di sacerdote.
+
+Come può la Chiesa avere il diritto di far digiunare gli uomini se non permette
+
+loro di banchettare?
+
+DOTTORE. [_Con amarezza._] E quando avrete finito di banchettarli, li
+
+manderete da me a farsi curare.
+
+[[smith|SMITH]]. Sì; e quando voi avrete finito di curarli li manderete da me a
+
+farsi seppellire.
+
+DOTTORE. [_Dopo una pausa, ridendo._] [[Well|Beh]], voi avete tutte le vecchie
+
+dottrine. È giusto che abbiate anche tutte le vecchie battute.
+
+[[smith|SMITH]]. [_Ridendo anche lui._] A proposito, chiamate gioco di prestigio il fatto che
+
+la povera gente beva con moderazione.
+
+DOTTORE. La chiamo una scoperta chimica: che l'alcol non è un alimento.
+
+[[smith|SMITH]]. Voi non bevete vino?
+
+DOTTORE. [_Lievemente trasalendo._] Bere vino! [[Well|Beh]]--che altro c'è da
+
+bere?
+
+[[smith|SMITH]]. Dunque bere decentemente è un gioco di prestigio che voi comunque sapete
+
+fare?
+
+DOTTORE. [_Sempre di buonumore._] [[Well|Beh]], [[Well|beh]], [[Hope|speriamo]] di sì. A proposito
+
+di giochi di prestigio, ci saranno prestidigitazione e ogni sorta di cose
+
+qui questo pomeriggio.
+
+[[smith|SMITH]]. Prestidigitazione? Davvero? E perché mai?
+
+     _Entra_ [[Hastings|HASTINGS]] _con una lettera in ciascuna mano._
+
+[[Hastings|HASTINGS]]. Sua Grazia sarà da voi tra poco. Mi ha chiesto di sbrigare
+
+prima di tutto la questione d'affari.
+
+     [_Consegna un biglietto a ciascuno di loro._
+
+[[smith|SMITH]]. [_Voltandosi con entusiasmo verso il_ DOTTORE.] Ma questo è davvero splendido.
+
+Il Duca ha dato 50 sterline alla nuova [[house|osteria]].
+
+[[Hastings|HASTINGS]]. Il Duca è molto liberale.
+
+     [_Raccoglie le carte._
+
+DOTTORE. [_Esaminando il proprio assegno._] Moltissimo. Ma questo è piuttosto curioso. Ha
+
+dato anche 50 sterline alla lega che si oppone alla nuova [[house|osteria]].
+
+[[Hastings|HASTINGS]]. Il Duca è di mentalità molto liberale.
+
+     [_Esce._
+
+[[smith|SMITH]]. [_Fissando il proprio assegno._] Di mentalità liberale!... Distratto di mente, lo
+
+chiamerei io.
+
+DOTTORE. [_Sedendosi e accendendo un sigaro._] [[Well|Beh]], sì. Il Duca soffre
+
+un poco di assenza [_si mette il sigaro in bocca e tira
+
+durante la pausa_] di mente. È tutto per il compromesso. Non conoscete il
+
+tipo d'uomo che, quando gli parlate delle cinque migliori razze di cane,
+
+finisce sempre per comprare un bastardo? Il Duca è il più gentile degli uomini, e
+
+cerca sempre di accontentare tutti. In genere finisce per non accontentare
+
+nessuno.
+
+[[smith|SMITH]]. Sì; credo di sapere di che genere di cosa si tratta.
+
+DOTTORE. Prendete questa faccenda della prestidigitazione, per esempio. Sapete che il Duca ha due
+
+pupilli che ora devono vivere con lui?
+
+[[smith|SMITH]]. Sì. Ho sentito qualcosa a proposito di un nipote e di una nipote dall'Irlanda.
+
+DOTTORE. La nipote è venuta dall'Irlanda alcuni mesi fa, ma il nipote
+
+torna dall'[[America]] [[Night|stasera]]. [_Si alza bruscamente e cammina per
+
+la stanza._] Credo che vi racconterò tutto. Nonostante la vostra
+
+preziosa [[house|osteria]], voi mi sembrate un uomo assennato. E credo che
+
+avrò bisogno di tutti gli uomini assennati che potrò trovare [[Night|stasera]].
+
+[[smith|SMITH]]. [_Alzandosi anche lui._] Sono al vostro servizio. Sapete, avevo un po'
+
+indovinato che non eravate venuto qui solo per protestare contro la mia preziosa
+
+[[house|osteria]].
+
+DOTTORE. [_Camminando avanti e indietro in un'eccitazione contenuta._] [[Well|Beh]], avete indovinato
+
+giusto. Ero il medico di famiglia del fratello del Duca in Irlanda. Conoscevo
+
+la famiglia piuttosto [[Well|bene]].
+
+[[smith|SMITH]]. [_Sommessamente._] Suppongo vogliate dire che sapevate qualcosa di strano sulla
+
+famiglia?
+
+DOTTORE. [[Well|Beh]], vedevano fate e cose di quel genere.
+
+[[smith|SMITH]]. E suppongo che, per la mente medica, vedere fate significhi più o meno lo
+
+stesso che vedere serpenti?
+
+DOTTORE. [_Con un sorriso acido._] [[Well|Beh]], le vedevano in Irlanda. Suppongo
+
+sia del tutto corretto vedere fate in Irlanda. È come giocare d'azzardo a
+
+Monte Carlo. È del tutto rispettabile. Ma traccio una linea quando si tratta del
+
+vederle in Inghilterra. Mi oppongo al fatto che portino i loro [[Ghosts|fantasmi]]
+
+e folletti e streghe nel [[Garden|giardino]] sul retro del povero Duca stesso e a un
+
+iarda dalla mia stessa lampada rossa. Dimostra una mancanza di tatto.
+
+[[smith|SMITH]]. Ma io ho ben capito che il nipote e la nipote del Duca vedono streghe
+
+e fate tra qui e la vostra lampada.
+
+     [_Cammina verso la [[Window|finestra]] del [[Garden|giardino]] e guarda fuori._
+
+DOTTORE. [[Well|Beh]], il nipote è stato in [[America]]. Va da sé che non si
+
+possono vedere fate in [[America]]. Ma c'è questa specie di superstizione in
+
+famiglia, e non sono tranquillo riguardo alla ragazza.
+
+[[smith|SMITH]]. Perché, che cosa fa?
+
+DOTTORE. Oh, vaga per il parco e per i boschi la sera.
+
+Sere umide, di preferenza. Lo chiama il crepuscolo celtico. Io non so che farmene
+
+del crepuscolo celtico. Ha la tendenza a posarsi sul petto.

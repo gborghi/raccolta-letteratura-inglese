@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/god-in-the-cave-(chesterton)">God in the Cave</a></div>
 </nav>
@@ -190,3 +192,189 @@ him filling the dome of [[Night|night]] and hovering for the last [[Time|time]] 
 that vast and fearful fact that was Moloch of the Carthaginians;
 awaiting his last tribute from a ruler of the races of Shem.  The demons
 in that first festival of Christmas, feasted also in their own fashion.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/god-in-the-cave-(chesterton)">God in the Cave</a></div>
+</nav>
+
+# Dio nella [[Cave|Grotta]]
+
+Il Dio nella [[Cave|Grotta]]
+
+			       G.K. CHESTERTON
+
+«Il luogo che i pastori trovarono non era un'accademia né una
+repubblica astratta; non era un luogo di miti... spiegati
+o spiegati via. Era un luogo di [[Dreams|sogni]] avverati.»
+Chesterton indugia sul tema di Betlemme in questo brano tratto
+dal libro che molti considerano il suo capolavoro.
+
+Le tradizioni nell'arte e nella letteratura e nella [[Fable|favola]] popolare hanno
+attestato a sufficienza, come s'è detto, questo particolare
+[[Paradox|paradosso]] dell'essere divino nella culla. Forse non
+hanno posto in così chiaro rilievo il significato dell'essere
+divino nella [[Cave|grotta]]. Ben stranamente, invero, la tradizione non
+ha posto in rilievo con molta chiarezza la [[Cave|grotta]]. È un fatto
+noto che la scena di Betlemme sia stata rappresentata in ogni possibile
+ambientazione di [[Time|epoca]] e di paese, di paesaggio e d'architettura;
+ed è un fatto del tutto felice e mirabile che gli uomini l'abbiano concepita
+in modo del tutto diverso a seconda delle loro diverse tradizioni
+e dei loro diversi gusti individuali. Ma mentre tutti hanno inteso che
+si trattava di una stalla, non tanti hanno inteso che era una [[Cave|grotta]].
+Certi critici sono stati perfino tanto sciocchi da supporre che vi fosse
+qualche contraddizione tra la stalla e la [[Cave|grotta]];
+nel qual caso non possono sapere granché di grotte o di stalle
+in Palestina. Poiché vedono differenze che non ci sono, è
+superfluo aggiungere che non vedono differenze che ci sono.
+Quando un [[Well|noto]] critico dice, per esempio, che [[Christ|Cristo]] nato
+in una caverna rocciosa è come Mitra balzato vivo fuori
+da una roccia, ciò suona come una [[Parody|parodia]] della religione comparata.
+Esiste una cosa come il senso di una storia, anche se è una
+storia nel senso di una menzogna. E l'idea di un [[Hero|eroe]] che appare,
+come Pallade dal cervello di Zeus, adulto e senza madre,
+è manifestamente l'esatto contrario dell'idea di un dio che nasce
+come un bimbo qualunque e interamente dipendente da una madre.
+Quale che sia l'ideale che possiamo preferire, dovremmo di certo vedere che si tratta
+di ideali contrari. È tanto stupido connetterli perché
+entrambi contengono una sostanza chiamata pietra quanto identificare
+il castigo del [[deluge|Diluvio]] con il battesimo nel Giordano
+perché entrambi contengono una sostanza chiamata [[Water|acqua]].
+Sia come mito sia come mistero, [[Christ|Cristo]] fu manifestamente concepito
+come nato in una cavità nelle rocce anzitutto perché essa segnava
+la posizione di un reietto e di un senzatetto....
+
+Sarebbe vano tentare di dire alcunché di adeguato, o alcunché di nuovo,
+sul mutamento che questa concezione di una divinità nata come un
+reietto o addirittura come un fuorilegge produsse sull'intera concezione della legge
+e dei suoi doveri verso i poveri e i reietti. È profondamente
+vero affermare che dopo quel momento non poterono più esservi schiavi.
+Vi poterono essere, e vi furono, persone che portavano quel titolo legale,
+finché la Chiesa non fu abbastanza forte da estirparle, ma non poté più esservi
+nulla della pagana quiete nel mero vantaggio, per lo Stato,
+di mantenersi Stato servile. Gli individui divennero importanti,
+in un senso in cui nessuno strumento può essere importante. Un uomo non
+poteva essere un mezzo per un fine, quantomeno per il fine di un altro uomo.
+Tutto questo elemento popolare e fraterno della vicenda è stato giustamente
+attribuito dalla tradizione all'episodio dei Pastori; i bifolchi
+che si ritrovarono a parlare faccia a faccia con i principi del cielo.
+Ma v'è un altro aspetto dell'elemento popolare rappresentato
+dai pastori che forse non è stato così pienamente sviluppato;
+e che qui è più direttamente pertinente.
+
+Gli uomini del popolo, come i pastori, gli uomini della tradizione popolare,
+erano stati dovunque gli artefici delle mitologie.
+Erano stati essi ad avvertire più direttamente, con minor freno o gelo
+da parte della [[philosophy|filosofia]] o dei culti corrotti della civiltà, il bisogno
+che abbiamo già considerato; le immagini che erano avventure
+dell'[[Imagination|immaginazione]]; la mitologia che era una sorta di ricerca;
+gli allettanti e stuzzicanti accenni a qualcosa di semiumano
+nella [[Nature|natura]]; il muto significato delle [[Seasons|stagioni]] e dei luoghi speciali.
+Essi avevano inteso meglio d'ogni altro che l'[[Soul|anima]] di un paesaggio
+è una storia, e l'[[Soul|anima]] di una storia è una personalità.
+Ma il razionalismo aveva già cominciato a corrodere questi davvero
+irrazionali seppur fantasiosi tesori del contadino;
+proprio come una [[Slavery|schiavitù]] sistematica aveva divorato il contadino
+strappandolo di [[house|casa]] e di [[Home|focolare]]. Su tutte le contadinerie di ovunque
+stava scendendo un vespro e un crepuscolo di disillusione,
+nell'ora in cui questi pochi uomini scoprirono ciò che cercavano.
+Dovunque altrove l'Arcadia svaniva dalla foresta.
+Pan era morto e i pastori erano dispersi come pecore.
+E, benché nessuno lo sapesse, s'appressava l'ora che doveva porre fine
+e compimento a tutte le cose; e, benché nessuno lo udisse, vi fu
+un grido lontano in una lingua ignota sopra l'ondeggiante deserto
+delle [[Mountains|montagne]]. I pastori avevano trovato il loro Pastore.
+
+E la cosa che trovarono era della stessa natura delle cose che cercavano.
+Il popolino aveva avuto torto in molte cose; ma non aveva avuto
+torto nel credere che le cose sante potessero avere una dimora
+e che la divinità non dovesse disdegnare i limiti del [[Time|tempo]] e dello spazio.
+E il barbaro che concepì la più rozza fantasticheria sul sole
+rubato e nascosto in una scatola, o il più sfrenato mito sul
+dio salvato e sul suo nemico ingannato con una pietra,
+era più vicino al segreto della [[Cave|grotta]] e sapeva di più sulla crisi
+del mondo, di tutti coloro che, nella cerchia delle città intorno
+al Mediterraneo, s'erano fatti paghi di fredde astrazioni
+o di generalizzazioni cosmopolite; di tutti coloro che filavano
+fili di pensiero sempre più sottili dal trascendentalismo
+di Platone o dall'orientalismo di Pitagora. Il luogo che
+i pastori trovarono non era un'accademia né una repubblica astratta;
+non era un luogo di miti allegorizzati o sezionati o spiegati
+o spiegati via. Era un luogo di [[Dreams|sogni]] avverati.
+Da quell'ora nessuna mitologia è più stata fatta al mondo.
+La mitologia è una ricerca....
+
+Anche i filosofi avevano udito. È tuttora una storia strana,
+benché antica, di come vennero da terre d'[[Orient|Oriente]], coronati
+della maestà dei re e ammantati di qualcosa del mistero
+dei maghi. Quella [[Truth|verità]] che è la tradizione li ha saggiamente ricordati
+quasi come quantità ignote, misteriose quanto i loro misteriosi
+e melodiosi nomi: Melchiorre, Gaspare, Baldassarre. Ma con loro giunse
+tutto quel mondo di sapienza che aveva osservato le [[Stars|stelle]]
+in Caldea e il sole in Persia; e non erreremo
+se vedremo in loro la stessa curiosità che muove tutti i sapienti.
+Rappresenterebbero lo stesso ideale umano se i loro nomi fossero davvero
+stati Confucio o Pitagora o Platone. Erano coloro che cercavano
+non racconti ma la [[Truth|verità]] delle cose; e poiché la loro sete di [[Truth|verità]]
+era essa stessa una sete di Dio, anch'essi hanno avuto la loro ricompensa.
+Ma persino per comprendere quella ricompensa, dobbiamo comprendere che
+per la [[philosophy|filosofia]] non meno che per la mitologia quella ricompensa fu il compimento
+dell'incompleto....
+
+I Magi, che stanno per il misticismo e la [[philosophy|filosofia]], sono veramente concepiti
+come cercatori di qualcosa di nuovo e persino come scopritori di qualcosa d'inatteso.
+Quel senso di crisi che ancora freme nel racconto natalizio e
+persino in ogni celebrazione del Natale accentua l'idea di una ricerca
+e di una scoperta. Per le altre figure mistiche della sacra rappresentazione,
+per l'angelo e la madre, i pastori e i soldati di Erode,
+possono esservi aspetti insieme più semplici e più [[Supernatural|soprannaturali]], più elementari
+o più emotivi. Ma i Magi devono cercare la sapienza; e per loro
+dev'esservi una luce anche nell'intelletto. Ed ecco la luce:
+che il credo cattolico è cattolico e che nient'altro è cattolico.
+La [[philosophy|filosofia]] della Chiesa è universale. La [[philosophy|filosofia]] dei filosofi
+non era universale. Se Platone e Pitagora e Aristotele
+fossero stati per un istante nella luce che veniva da quella piccola [[Cave|grotta]],
+avrebbero saputo che la loro propria luce non era universale.
+È ben lungi dall'essere certo, invero, che non lo sapessero già.
+Anche la [[philosophy|filosofia]], come la mitologia, aveva del tutto l'aria di una ricerca.
+È la presa di coscienza di questa [[Truth|verità]] che conferisce la sua tradizionale maestà
+e il suo mistero alle figure dei Tre Re; la scoperta che la religione
+è più ampia della [[philosophy|filosofia]] e che questa è la più ampia delle religioni,
+contenuta entro questo angusto spazio....
+
+Potremmo [[Well|ben]] accontentarci di dire che la mitologia era venuta con
+i pastori e la [[philosophy|filosofia]] con i filosofi; e che
+non restava loro che combinarsi nel riconoscimento della religione.
+Ma vi era un terzo elemento che non va ignorato e uno che quella
+religione per sempre rifiuta di ignorare, in ogni tripudio o [[Reconciliation|riconciliazione]].
+Era presente nelle scene primarie del dramma quel Nemico che
+aveva imputridito le leggende con la libidine e gelato le teorie nell'ateismo,
+ma che rispondeva alla sfida diretta con qualcosa di quel metodo più
+diretto che abbiamo visto nel culto consapevole dei dèmoni.
+Nella descrizione di quel culto demoniaco, della divorante detestazione
+dell'[[innocence|innocenza]] mostrata nelle opere della sua stregoneria e nel più disumano
+dei suoi sacrifici umani, ho detto meno della sua indiretta e segreta
+penetrazione nel paganesimo più sano; dell'imbibizione di sesso dell'[[Imagination|immaginazione]]
+mitologica; dell'ascesa dell'[[Pride|orgoglio]] imperiale fino alla follia.
+Ma tanto l'influsso indiretto quanto quello diretto si fanno sentire
+nel dramma di Betlemme. Un sovrano sotto la sovranità romana,
+probabilmente fornito e circondato dell'ornamento e dell'ordine romano
+benché egli stesso di [[Blood|sangue]] orientale, sembra in quell'ora aver sentito
+agitarsi dentro di sé lo spirito di cose strane. Tutti conosciamo
+la storia di come Erode, allarmato da qualche voce d'un misterioso rivale,
+ricordò il gesto selvaggio dei capricciosi despoti d'Asia e
+ordinò un massacro dei sospetti della nuova generazione del popolino.
+Tutti conoscono la storia; ma non tutti forse ne hanno colto il posto
+nella storia delle strane religioni degli uomini. Non tutti hanno visto
+il significato persino del suo stesso contrasto con le colonne corinzie
+e il selciato romano di quel mondo conquistato e superficialmente civilizzato.
+Soltanto, mentre il proposito in questo tetro spirito cominciava a mostrarsi e a splendere
+negli occhi dell'Idumeo, un veggente avrebbe forse potuto scorgere qualcosa
+come un grande grigio [[Ghost|spettro]] che guardava di sopra la sua spalla; avrebbe visto dietro
+di lui, che riempiva la volta della [[Night|notte]] e aleggiava per l'ultima [[Time|volta]] sopra la [[history|storia]],
+quel vasto e pauroso fatto che era il Moloch dei Cartaginesi;
+in attesa del suo ultimo tributo da un sovrano delle stirpi di Sem. I dèmoni
+in quel primo festino di Natale banchettarono anch'essi a modo loro.

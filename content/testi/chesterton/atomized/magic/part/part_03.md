@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_04">part 04 ›</a></div>
@@ -205,3 +207,204 @@ all weathers like this.
 DUKE. [_Expansively waving his hands about._] The [[Artist|artist]] temperament!
 
 What I always call the artistic temperament! Wordsworth, you know, and
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_04">part 04 ›</a></div>
+</nav>
+
+Ma quel che è peggio, parla sempre di incontrare qualcuno, un qualche
+
+elfo o mago o cosa simile. Non mi piace affatto.
+
+[[smith|SMITH]]. L'avete detto al Duca?
+
+DOTTORE. [_Con un sorriso torvo._] Oh, sì, l'ho detto al Duca. Il risultato è stato
+
+il prestigiatore.
+
+[[smith|SMITH]]. [_Con stupore._] Il _prestigiatore_?
+
+DOTTORE. [_Posa il sigaro nel portacenere._] Il Duca è
+
+indescrivibile. Sarà qui tra poco, e potrete giudicare da
+
+voi. Mettetegli davanti due o tre fatti o idee, e ciò che egli
+
+ne ricava è sempre qualcosa che sembra non avere nulla a che
+
+fare con essi. Raccontate a un qualsiasi altro essere umano di una ragazza che sogna le fate
+
+e del suo pratico fratello dall'[[America]], ed egli sistemerebbe la cosa in qualche
+
+modo ovvio, accontentando qualcuno: mandarla in [[America]] o lasciarle
+
+le sue fate in Irlanda. Ora il Duca pensa che un prestigiatore andrebbe giusto
+
+a proposito. Suppongo che pensi vagamente che ravviverebbe le cose, e
+
+in qualche modo soddisferebbe l'interesse dei credenti per le cose [[Supernatural|soprannaturali]] e
+
+l'interesse dei non credenti per le cose brillanti. In realtà il
+
+non credente pensa che il prestigiatore sia un impostore, e il credente pensa che sia
+
+un impostore anche lui. Il prestigiatore non accontenta nessuno. Ecco perché accontenta il
+
+Duca.
+
+     [_Entra il_ DUCA, _con_ [[Hastings|HASTINGS]], _che porta delle carte. Il_ DUCA _è
+
+     un uomo sano e gioviale in tweed, con l'occhio piuttosto vagante. Nello
+
+     stato presente del ceto nobiliare è necessario spiegare che
+
+     il_ DUCA, _benché sciocco, è un gentiluomo._
+
+DUCA. Buongiorno, signor [[smith|Smith]]. Mi dispiace tanto avervi fatto aspettare, ma
+
+oggi siamo un po' di fretta. [_Si volge verso_ [[Hastings|HASTINGS]], _che si è portato
+
+a un tavolo con le carte._] Sapete che il signor Carleon arriva questo
+
+pomeriggio?
+
+[[Hastings|HASTINGS]]. Sì, Vostra Grazia. Il suo treno dovrebbe essere in arrivo ormai. Ho mandato il
+
+calesse.
+
+DUCA. Grazie. [_Voltandosi verso gli altri due._] Mio nipote, il Dr.
+
+Grimthorpe, Morris, sapete, il fratello di Miss Carleon dall'[[America]]. Mi
+
+dicono che laggiù abbia fatto grandi cose. Petrolio, o qualcosa del genere. Bisogna
+
+stare al passo coi tempi, eh?
+
+DOTTORE. Temo che il signor [[smith|Smith]] non sia sempre d'accordo con lo stare al passo coi
+
+tempi.
+
+DUCA. Oh, suvvia, suvvia! Progresso, sapete, progresso! Certo, so quanto
+
+siete indaffarato; non dovete strapazzarvi, sapete. [[Hastings]] mi
+
+raccontava che avete riso di quelle mie sottoscrizioni. [[Well|Beh]], [[Well|beh]], io
+
+credo nel guardare entrambi i lati di una questione, sapete. Aspetti, come
+
+il vecchio Buffle li chiamava. Aspetti. [_Con un gesto del braccio che tutto
+
+abbraccia._] Voi rappresentate la tendenza a bere con moderazione, e fate
+
+del bene a _modo vostro_. Il Dottore rappresenta la tendenza a non bere
+
+affatto; e fa del bene a _modo suo_. Non possiamo essere Antichi Britanni,
+
+sapete.
+
+     [_Un [[Silence|silenzio]] prolungato e perplesso, come sempre segue le più
+
+     brusche associazioni o dissociazioni di pensiero del_ DUCA.
+
+[[smith|SMITH]]. [_Alla fine, con voce fioca._] Antichi Britanni....
+
+DOTTORE. [_Al_ [[smith|SMITH]] _a bassa voce._] Non fateci caso. È solo la sua
+
+larghezza di vedute.
+
+DUCA. [_Con immutata giovialità._] Ho visto il luogo che state costruendo
+
+a tale scopo, signor [[smith|Smith]]. Ottimo lavoro. Ottimo lavoro, davvero. L'arte per il
+
+popolo, eh? Mi è piaciuto in particolare quel lavoro in legno sopra la porta ovest--sono
+
+lieto di vedere che usate il nuovo tipo di venatura ... ecco, tutto
+
+ricorda la [[French Revolution|Rivoluzione francese]].
+
+     [_Un altro [[Silence|silenzio]]. Mentre il_ DUCA _gironzola vigile per la stanza_,
+
+     [[smith|SMITH]] _parla al_ DOTTORE _sottovoce._
+
+[[smith|SMITH]]. Vi ricorda la [[French Revolution|Rivoluzione francese]]?
+
+DOTTORE. Quanto qualunque altra cosa. Sua Grazia non mi ricorda mai
+
+nulla.
+
+     [_Si ode una voce americana giovane e acutissima chiamare nel
+
+     [[Garden|giardino]]. «Ehi, qualcuno potrebbe occuparsi di uno di questi bauli?»_
+
+     [MR. [[Hastings|HASTINGS]] _esce nel [[Garden|giardino]]. Torna con_ MORRIS
+
+     CARLEON, _un giovanissimo: poco più di un ragazzo, ma con abiti e modi
+
+     americani molto adulti. È bruno, piuttosto piccolo e
+
+     attivo; e il tipo razziale sotto il suo americanismo è irlandese._
+
+MORRIS. [_Con umorismo, mentre affaccia la testa alla [[Window|finestra]]._] Sentite un po',
+
+abita qui un Duca?
+
+DOTTORE. [_Che gli è più vicino, con grande gravità._] Sì, uno solo.
+
+MORRIS. Immagino sia proprio quello che cerco, comunque. Sono suo nipote.
+
+     [_Il_ DUCA, _che rumina in primo piano, con un occhio
+
+     piuttosto altrove, si volge alla voce e stringe_ MORRIS _calorosamente per la
+
+     mano._
+
+DUCA. Lieto di vedervi, mio caro ragazzo. Sento che ve la siete cavata molto
+
+[[Well|bene]] per conto vostro.
+
+MORRIS. [_Ridendo._] [[Well|Beh]], piuttosto [[Well|bene]], Duca; e ancor meglio per Paul
+
+T. Vandam, immagino. Gestisco le miniere del vecchio giù in Arizona,
+
+sapete.
+
+DUCA. [_Scuotendo il capo con aria saggia._] Ah, un uomo molto intraprendente! Metodi
+
+molto intraprendenti, mi dicono. [[Well|Beh]], oserei dire che fa un gran
+
+bene col suo denaro. E non possiamo tornare all'[[Spanish Inquisition|Inquisizione spagnola]].
+
+     [_Silenzio, durante il quale i tre uomini si guardano l'un l'altro._
+
+MORRIS. [_Bruscamente._] E come sta Patricia?
+
+DUCA. [_Un po' vagamente._] Oh, sta molto [[Well|bene]], credo. Lei....
+
+     [_Esita lievemente._
+
+MORRIS. [_Sorridendo._] [[Well|Beh]], allora, dov'è Patricia?
+
+     [_C'è una pausa lievemente imbarazzata, e il_ DOTTORE _parla._
+
+DOTTORE. Miss Carleon sta passeggiando per la tenuta, credo.
+
+     [MORRIS _va alle porte del [[Garden|giardino]] e guarda fuori._
+
+MORRIS. È una [[Night|notte]] parecchio gelida da scegliere. Mia sorella suole di solito
+
+scegliere serate simili per prendere aria--e umidità?
+
+DOTTORE. [_Dopo una pausa._] Se posso dirlo, sono del tutto d'accordo con voi. Ho
+
+spesso preso la libertà di ammonire vostra sorella a non uscire con
+
+tutti i tempi come questi.
+
+DUCA. [_Agitando le mani con enfasi._] Il temperamento dell'[[Artist|artista]]!
+
+Quello che io chiamo sempre il temperamento artistico! Wordsworth, sapete, e

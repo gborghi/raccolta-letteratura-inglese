@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/balladstbarbara-(chesterton)">BalladStBarbara</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/balladstbarbara/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/balladstbarbara/part/part_05">part 05 ›</a></div>
@@ -705,3 +707,704 @@ tags:
     Our principal exports, all labelled and packed,  
 
     At the ends of the earth are delivered intact:  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/balladstbarbara-(chesterton)">BalladStBarbara</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/balladstbarbara/part/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/balladstbarbara/part/part_05">part 05 ›</a></div>
+</nav>
+
+      questa è la vita d'un uomo.  
+
+    [[Sonnet|SONETTO]]  
+
+    In alto sul muro che cinge Gerusalemme  
+
+    vidi uno stare sotto le [[Stars|stelle]] come pietra.  
+
+    E quando perirò non si saprà  
+
+    se egli visse, qualche vagante figlio di Sem,  
+
+    o fu qualche grande [[Ghost|spettro]] che portava il diadema  
+
+    di Salomone o del Saladino su un trono:  
+
+    so soltanto, restando i lineamenti nascosti,  
+
+    che non osai avvicinarmi e guardarli.  
+
+    Non indovinaste... che il diadema potesse essere  
+
+    intrecciato in foggia più strana da mani d'odio...  
+
+    Ma quando guardai, il muro era desolato  
+
+    e la grigia luce delle stelle incipriava torre e albero:  
+
+    e vasto e vago oltre la Porta d'Oro  
+
+    s'ergeva Moab dei [[Mountains|monti]] come un mare.  
+
+    FANTASIA  
+
+    Gli uomini felici che perdono la testa  
+
+    ritrovano la loro testa in cielo,  
+
+    come teste di cherubino con ali di cherubino,  
+
+    e persino aureole di cherubino:  
+
+    dalle infinite terre della sera  
+
+    lungo il mare del tramonto,  
+
+    lasciandosi dietro i campi purpurei,  
+
+    le ali di cherubino battono giù per il [[Wind|vento]]  
+
+    verso il [[Body|corpo]] brancolante e cieco  
+
+    come l'uccello all'albero.  
+
+    Che le piume siano rosse di passione  
+
+    per colui che davvero muore  
+
+    per lama del boia o per scure di guerra,  
+
+    o azzurre come farfalle,  
+
+    per colui che la perdette in un viottolo  
+
+    tra gli scatti e i sussulti d'aprile,  
+
+    la sua follia è allora perdonata:  
+
+    ma più in alto, e assai oltre il nostro sguardo,  
+
+    è la guarigione degli uomini infelici,  
+
+    gli uomini che perdettero il cuore.  
+
+    Non v'è perdono per i valorosi  
+
+    e ampia liberazione lassù,  
+
+    per chi perse la testa per la libertà  
+
+    o perse il cuore per [[Love|amore]]?  
+
+    O è forse davvero saggio il saggio  
+
+    che pensieri più ampi mantengono intero?  
+
+    che vede la vita uniforme come una carta,  
+
+    fatto forte per recitare la parte più assennata,  
+
+    e serba la testa e serba il cuore,  
+
+    e perde soltanto l'[[Soul|anima]].  
+
+    UN [[carol|CANTO]] DI NATALE  
+
+    _(Il Capo della Polizia ha diramato un comunicato in cui dichiara che_  
+
+    _il cantare [[carol|canti]] per le strade da parte dei bambini è illegale, e moralmente_  
+
+    _e fisicamente nocivo. Egli si appella al pubblico perché scoraggi_  
+
+    _tale usanza.--Quotidiano.)_  
+
+    Dio vi conservi lieti, o signori,  
+
+    nulla vi sgomenti;  
+
+    gli Angeli Araldi non possono cantare,  
+
+    i poliziotti li arrestano a volo,  
+
+    e li ammoniscono della registrazione  
+
+    di qualunque cosa dicano.  
+
+    Dio vi conservi lieti, o signori,  
+
+    che nulla vi sgomenti:  
+
+    sulle vostre città riposanti giace  
+
+    un profondo [[Silence|silenzio]], rotto solo  
+
+    dal grido melodioso del clacson,  
+
+    dal lieto raglio della sirena.  
+
+    Così, quando il [[Song|canto]] dei bambini cessò  
+
+    ed Erode fu obbedito,  
+
+    nella sua alta sala corinzia  
+
+    con la porpora e col ventaglio di pavone,  
+
+    riposava quel lieto signore;  
+
+    e nulla lo sgomentava.  
+
+    AL CAPITANO FRYATT  
+
+    Calpestata eppur rossa è l'ultima delle braci,  
+
+    rossa l'ultima nube d'un sole tramontato;  
+
+    che importa del tuo dormire, se pur le Fiandre ricordano,  
+
+    che importa del tuo destarti, se l'Inghilterra dimentica?  
+
+    Perché dovresti aver parte nei cuori che induriamo,  
+
+    nella vergogna della nostra [[Nature|natura]], noi che la vediamo e viviamo?  
+
+    Quanto più dei pii sanno perdonare gli avidi,  
+
+    quanto [[Well|bene]] e quanto presto perdonano gli affamati.  
+
+    Ah, [[Well|bene]] sarebbe stato se il suolo dello straniero t'avesse avvolto,  
+
+    mentre i signori che servisti e gli amici che conoscesti  
+
+    vendono per i mercati dei tiranni che t'intrapparono,  
+
+    fanno i procacciatori nelle botteghe dei macellai che uccisero.  
+
+    Perché dovresti destarti per un regno che è marcio,  
+
+    rimpinzato delle loro tangenti e morto ai loro debiti?  
+
+    [[Sleep|Dormi]] e dimenticaci, come noi abbiamo dimenticato;  
+
+    poiché le Fiandre ricordano e l'Inghilterra dimentica.  
+
+    PER QUATTRO CORPORAZIONI  
+
+    PER QUATTRO CORPORAZIONI:  
+
+    I. I MAESTRI DELLE VETRATE  
+
+    A ogni Uomo il suo Mistero,  
+
+    un mestiere e uno solo:  
+
+    i muratori fanno gli alveari degli uomini,  
+
+    le cupole grigie o fosche,  
+
+    ma noi abbiamo foggiato in [[Rose|rosa]] e oro  
+
+    le case del sole.  
+
+    I maestri d'ascia costruiscono le case alte,  
+
+    le cui verdi fondamenta ondeggiano  
+
+    vive di pesci come piccole fiamme,  
+
+    quando il [[Wind|vento]] esce a uccidere.  
+
+    Ma noi sfidiamo con vele dipinte  
+
+    il ciclone del giorno.  
+
+    I tessitori fanno le vesti degli uomini  
+
+    e mantelli per tutti;  
+
+    camminano per le vie come nubi del tramonto;  
+
+    ma noi abbiamo tessuto e filato  
+
+    in scarlatto o in verde dorato  
+
+    i gai mantelli del sole.  
+
+    Voi che gli usurai e i signori  
+
+    con insolenti livree calpestarono,  
+
+    nel fondo della buia chiesa mirate, sopra  
+
+    le loro lance d'una pertica,  
+
+    dove noi abbiamo blasonato la tabarda  
+
+    del trombettiere di Dio.  
+
+    PER QUATTRO CORPORAZIONI:  
+
+    II. I COSTRUTTORI DI PONTI  
+
+    Nel più bianco mattino del mondo  
+
+    canuto di [[Hope|speranza]],  
+
+    il Costruttore di Ponti  
+
+    era prete ed era papa:  
+
+    e la mitra del mistero  
+
+    e il baldacchino erano suoi,  
+
+    lui che oscurava gli abissi  
+
+    e incupolava la voragine.  
+
+    A oriente e a occidente  
+
+    spiegava le ali al suo comando  
+
+    l'arco con la chiave di volta  
+
+    che si china come un uccello;  
+
+    che cavalca l'aria selvaggia  
+
+    e la luce del giorno gettata sotto;  
+
+    la via maestra del pericolo,  
+
+    il portale della [[Wonder|meraviglia]].  
+
+    Del suo trono erano i tuoni  
+
+    che inchiodano e fissano  
+
+    selvagge nozze di stranieri  
+
+    che s'incontrano e non si mescolano;  
+
+    la città e il campo di grano;  
+
+    la sposa e lo sposo:  
+
+    nello spezzarsi dei ponti  
+
+    è tradimento e rovina.  
+
+    Ma egli ci comandò, noi che foggiamo  
+
+    la [[Road|strada]] che sa volare,  
+
+    di non costruire troppo pesante  
+
+    e di non costruire troppo alto:  
+
+    vedendo sempre che sotto  
+
+    la curva dell'arco oscuro  
+
+    brillano la [[Death|morte]] e la bianca luce del giorno  
+
+    immutate fino alla fine.  
+
+    Chi cammina sulla sua [[Mercy|misericordia]]  
+
+    cammina leggero, com'egli dice,  
+
+    vedendo che la nostra vita  
+
+    è un ponte sopra la [[Death|morte]];  
+
+    e il mondo e i suoi giardini  
+
+    e i colli, come udiste,  
+
+    sono nati sopra lo spazio  
+
+    sulle ali d'un uccello.  
+
+    Non alto e non pesante  
+
+    è il costruire di lui:  
+
+    quando sigillate la piena  
+
+    e dimenticate l'abisso,  
+
+    quando le vostre torri sono innalzate,  
+
+    i vostri vessilli spiegati,  
+
+    nello spezzarsi dei ponti  
+
+    è la fine del mondo.  
+
+    PER QUATTRO CORPORAZIONI:  
+
+    III. GLI SCALPELLINI  
+
+    Abbiamo scolpito la montagna di Dio con le mani,  
+
+    come le nostre mani furono scolpite da Dio, dicono,  
+
+    dove i serafini ardono nel sole come tizzoni  
+
+    e i diavoli portano via le piogge;  
+
+    facendo tesoro delle gole dell'inferno,  
+
+    i nostri [[gargoyles|doccioni]] raccolgono la pioggia ruggente,  
+
+    il cui sbadiglio è più d'un urlo congelato  
+
+    e il cui stesso vomitare non è vano.  
+
+    Più selvagge di tutto ciò che una lingua può proferire,  
+
+    più sagge di tutto ciò che è detto in parole,  
+
+    le ali di pietra della grondaia che s'innalza  
+
+    volano fuori e seguono il volo degli [[Birds|uccelli]];  
+
+    l'impeto e la disfatta delle guerre angeliche  
+
+    si stagliano sopra la via stupefatta,  
+
+    dove scagliammo le nostre grondaie contro le [[Stars|stelle]]  
+
+    in segno che il primo e l'ultimo s'incontreranno.  
+
+    Abbiamo scolpito la foresta del cielo con le mani,  
+
+    grandi d'un'allegria troppo greve per l'[[Pride|orgoglio]],  
+
+    nella pietra che lo percosse sta Stefano  
+
+    e Pietro stesso è pietrificato:  
+
+    mani come quelle che frugarono la zolla per il pane  
+
+    hanno comandato alla nuda roccia di fiorire e prosperare,  
+
+    mani come quelle che colpirono a morte un uomo vivo  
+
+    hanno colpito, e destato in vita i morti.  
+
+    Giungete le mani davanti al cielo pregando,  
+
+    levate le mani al cielo e gridate;  
+
+    ma guardate dove le nostre guglie più vertiginose dicono  
+
+    ciò che le mani d'un uomo fecero lassù nel cielo:  
+
+    fradici prima che abbiate udito il tuono,  
+
+    bianchi prima che abbiate sentito la [[Snow|neve]];  
+
+    poiché i giganti levano le mani a [[Wonder|meravigliarsi]]  
+
+    di quanto in alto le mani d'un uomo potessero salire.  
+
+    PER QUATTRO CORPORAZIONI:  
+
+    IV. I CAMPANARI  
+
+    Gli angeli cantano come [[Birds|uccelli]] su un albero  
+
+    nell'organo della buona santa Cecilia:  
+
+    e il parroco legge con la mano posata  
+
+    sull'aquila scolpita del grande san Giovanni:  
+
+    ma mai le canne scanalate andranno  
+
+    come i pifferi d'un esercito tutto in fila,  
+
+    marciando allegri giù per la via  
+
+    verso i mercati dove s'incontrano l'affaccendato e l'ozioso;  
+
+    e mai l'uccello di bronzo volerà  
+
+    fuori dalla [[Window|finestra]] e su nel cielo,  
+
+    finché gli uomini in città e contee e navi  
+
+    guardino in alto la vivente [[Apocalypse|Apocalisse]].  
+
+    Ma tutti possono ascoltare nel buio della sera  
+
+    [[The Bells|le campane]] che latrano come i mastini del cielo,  
+
+    rintoccando e annunciando che sopra e sotto,  
+
+    per le vie dell'aria come un tuono errante,  
+
+    la caccia è aperta su colli mai calcati:  
+
+    poiché il [[Wind|vento]] è la via dei [[dogs|cani]] di Dio:  
+
+    dalla torre del [[Tyrant|tiranno]] alla tana del fuorilegge  
+
+    cacciando le anime dei figli degli uomini.  
+
+    Sovrano e ladro e merciaio e pari,  
+
+    che non vogliono ascoltare e pure udranno;  
+
+    riempiendo le teste degli uomini di fretta e ronzio  
+
+    rendendoli benvenuti prima che vengano.  
+
+    E noi, poveri uomini, stiamo sotto il campanile  
+
+    tirando le corde che sanno tirare il popolo,  
+
+    e al nostro guinzaglio come i [[dogs|cani]] che balzano  
+
+    siamo i più assordanti demagoghi di Dio:  
+
+    e siamo ben piccoli, come nani sottoterra,  
+
+    mentre pendono su nel cielo le case del suono,  
+
+    muovendosi come [[Mountains|monti]] che la [[Faith|fede]] libera,  
+
+    sbadigliando come caverne che rombano col mare,  
+
+    così tremendamente cariche, così ariosamente sospese,  
+
+    arcangeli corazzati che calpestano il vuoto:  
+
+    selvagge come in una danza e greve di fati,  
+
+    pesanti come la loro panoplia, lievi come le loro piume.  
+
+    Né predicatori né preti siamo:  
+
+    ogni uomo salga al proprio grado:  
+
+    solo ricordate che proprio una tal corda  
+
+    scaglia in cielo la tromba e la [[Sword|spada]];  
+
+    anime sulle loro terrazze, santi sulle loro torri,  
+
+    sorgono in armi a un allarme come il nostro:  
+
+    risplendono come grandi fuochi di vedetta che arrossano i cieli  
+
+    Titani le cui ali sono una gloria di occhi,  
+
+    costellazioni coronate a dodici e a sette,  
+
+    dominazioni incupolate più antiche dei cieli,  
+
+    Virtù che tuonano e Troni che durano  
+
+    oscillano come una campana alle preghiere dei poveri.  
+
+    IL [[convert|CONVERTITO]]  
+
+    Dopo un solo istante in cui chinai il capo  
+
+    e il mondo intero si capovolse e si rimise ritto,  
+
+    e uscii là dove la vecchia [[Road|strada]] biancheggiava,  
+
+    percorsi le vie e udii ciò che tutti dicevano,  
+
+    foreste di lingue, come [[Leaves|foglie]] d'[[Autumn|autunno]] non cadute,  
+
+    non prive d'amabilità, ma strane e lievi;  
+
+    vecchi enigmi e nuovi credi, non per dispetto  
+
+    ma dolcemente, come si sorride dei morti.  
+
+    I sapienti hanno cento mappe da dare  
+
+    che tracciano il loro cosmo strisciante come un albero,  
+
+    scuotono fuori la ragione attraverso più d'un vaglio  
+
+    che serba la sabbia e lascia libero l'oro:  
+
+    e tutte queste cose sono meno della [[Dust|polvere]] per me  
+
+    perché il mio nome è Lazzaro e io vivo.  
+
+    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]  
+
+    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+
+    I. [[history|STORIA]]  
+
+    _Modulo 991785, Sottosezione D_  
+
+    Il Romano ci gettò una [[Road|strada]], una [[Road|strada]],  
+
+    e sospirò e se ne andò a passeggio:  
+
+    il Sassone ci diede una scorreria, una scorreria,  
+
+    una scorreria venuta per restare;  
+
+    il Danese andò a ovest, ma il Danese confessò  
+
+    d'essere andato un po' troppo oltre;  
+
+    e tutti diventammo, sotto un altro nome,  
+
+    la razza Imperiale che siamo.  
+
+    _Coro_  
+
+    La razza Imperiale, la razza imperscrutabile,  
+
+    la razza invincibile che siamo.  
+
+    Benché i colli del Sussex siano nudi, nudi,  
+
+    e ampia la boscaglia del Sussex,  
+
+    da Chichester a Chester  
+
+    gli uomini videro il Normanno cavalcare;  
+
+    gettò la sua [[Sword|spada]] in aria e cantò  
+
+    a una specie di leggera chitarra;  
+
+    fu tutt'uno, poiché tutti diventammo  
+
+    gli identici gran signori che siamo.  
+
+    _Coro_  
+
+    Gli identici gran signori, i singolari gran signori,  
+
+    gl'inconfondibili gran signori che siamo.  
+
+    Il popolo viveva sulla terra, sulla terra,  
+
+    s'affaccendava alla meglio e pregava;  
+
+    costruivano una [[Cathedral|cattedrale]] qua e là  
+
+    o andavano a una piccola crociata:  
+
+    finché le ossa di Becket furono sbattute fuori  
+
+    per lo spasso d'un grasso Zar Bianco,  
+
+    e tutti diventammo, tra saccheggio e fiamma,  
+
+    la razza intelligente che siamo.  
+
+    _Coro_  
+
+    La razza intelligente, la razza intuitiva,  
+
+    la razza infallibile che siamo.  
+
+    Oh, i boschi di Warwick son verdi, son verdi,  
+
+    ma gli alberi di Warwick possono cadere:  
+
+    e Birmingham crebbe così grande, così grande,  
+
+    e Stratford rimase così piccola.  
+
+    finché la sirena ululò all'allodola mattutina  
+
+    che cantava alla stella del mattino;  
+
+    e tutti diventammo, in nome della [[Freedom|libertà]],  
+
+    i fortunati tizi che siamo.  
+
+    _Coro_  
+
+    I fortunati tizi, i felici tizi,  
+
+    i fatati tizi che siamo.  
+
+    Il popolo lasciò la terra, la terra,  
+
+    ma continuò a lavorare sodo;  
+
+    e il prato del villaggio che s'era smarrito  
+
+    spuntò nel cortile del signorotto:  
+
+    ma venti di noi trovammo lavoro  
+
+    su un pezzo della sua automobile;  
+
+    e tutti diventammo, col plauso del mondo,  
+
+    i meravigliosi gonzi che siamo:  
+
+    _Coro_  
+
+    I meravigliosi gonzi, i miracolosi gonzi,  
+
+    i mistici gonzi che siamo.  
+
+    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+
+    II. GEOGRAFIA  
+
+    _Modulo 17955301, Sottosezione Z_  
+
+    La terra è un luogo dove si trova l'Inghilterra,  
+
+    e la si trova comunque si faccia roteare il globo;  
+
+    poiché le macchie sono tutte rosse e il resto è tutto grigio,  
+
+    e questo è il senso del Giorno dell'Impero.  
+
+    Gibilterra è una rocca che si vede benissimo,  
+
+    e attaccato alla sua base è il distretto della Spagna.  
+
+    E l'isola di Malta è segnata più in là,  
+
+    dove certi nativi erano noti come i Cavalieri di San Giovanni.  
+
+    Poi Cipro, e a est fino al Canale di Suez,  
+
+    che fu conquistato da Dizzy e da Rothschild suo compare  
+
+    con la [[Sword|Spada]] del Signore alla vecchia maniera inglese;  
+
+    e questo è il senso del Giorno dell'Impero.  
+
+    Le nostre principali importazioni vengono da lontano come Capo Horn;  
+
+    per necessità, cacao; per lussi, grano;  
+
+    così i Bramini nascono per la risaia, e così  
+
+    gli Dèi fecero i Greci perché coltivassero uva passa per noi;  
+
+    Tabacco e benzina e Jazz ed Ebrei:  
+
+    il Jazz passerà ma gli Ebrei resteranno;  
+
+    e questo è il senso del Giorno dell'Impero.  
+
+    Le nostre principali esportazioni, tutte etichettate e imballate,  
+
+    ai confini della terra sono consegnate intatte:  

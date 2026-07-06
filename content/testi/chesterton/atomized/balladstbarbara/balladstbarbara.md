@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/balladstbarbara-(chesterton)">BalladStBarbara</a></div>
 </nav>
@@ -3394,3 +3396,3393 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to  
 
 subscribe to our email newsletter to hear about new eBooks.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/balladstbarbara-(chesterton)">BalladStBarbara</a></div>
+</nav>
+
+The Ballad of St. Barbara del Project Gutenberg, di Gilbert Keith Chesterton  
+
+Questo eBook è destinato all'uso di chiunque, ovunque, senza alcun costo e con
+
+quasi nessuna restrizione di sorta.  Potete copiarlo, regalarlo o
+
+riutilizzarlo secondo i termini della Licenza Project Gutenberg inclusa
+
+con questo eBook o disponibile online all'indirizzo www.gutenberg.org
+
+Titolo: The Ballad of St. Barbara  
+
+       E altri versi  
+
+Autore: Gilbert Keith Chesterton  
+
+Data di pubblicazione: 28 aprile 2010 [EBook #32167]  
+
+Lingua: inglese  
+
+Codifica del set di caratteri: ISO-8859-1  
+
+*** INIZIO DI QUESTO EBOOK PROJECT GUTENBERG THE BALLAD OF ST. BARBARA ***  
+
+Prodotto da Irma Spehar, Markus Brenner e il Team di  
+
+Distributed Proofreading Team at http://www.pgdp.net (This
+
+file was produced from images generously made available
+
+by The Internet Archive/Canadian Libraries)
+
+                       La Ballata di Santa Barbara  
+
+                           E ALTRI VERSI  
+
+                                  BY  
+
+                       GILBERT KEITH CHESTERTON  
+
+                                [[London|LONDRA]]  
+
+                             CECIL PALMER  
+
+                 OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
+
+                                 PRIMA  
+
+                                EDIZIONE  
+
+                                 1922  
+
+                               COPYRIGHT  
+
+    A F. C. IN MEMORIAM PALESTINA, '19  
+
+    Ricordi tu un immortale  
+
+    attimo perduto fuori dal [[Time|tempo]] e dallo spazio,  
+
+    nell'[[Time|ora]] in cui pensammo, noi che varcammo la soglia  
+
+    di quel luogo divino e disastroso  
+
+    dove la Vita fu uccisa e la [[Truth|Verità]] calunniata  
+
+    su quell'unico [[Hill|colle]] più santo di Roma,  
+
+    quanto lontano vagarono i nostri corpi  
+
+    quella sera in cui le nostre anime tornarono a [[Home|casa]]?  
+
+    La mistica [[City|città]] dalle molte porte,  
+
+    dalle colonne mostruose, era la tua:  
+
+    pietre erodiane caddero e attesero  
+
+    duemila anni per farsi tuo trono.  
+
+    Fra le rocce grigie il fiore ardente  
+
+    splendeva terribile come il sacro [[Blood|sangue]]:  
+
+    non era più estraneo al tuo seno  
+
+    delle campanule di un bosco inglese.  
+
+    Ricordi tu una [[Road|strada]] che segue  
+
+    il cammino di piedi non dimenticati,  
+
+    dove dal deserto di rocce e di cavità  
+
+    s'inerpica su per la via tortuosa e strisciante  
+
+    le stazioni di un unico dramma torreggiante  
+
+    sempre più avanti e fuori dalla vista...  
+
+    Ricordi tu Aceldama  
+
+    e lo sciacallo che latrava nella [[Night|notte]]?  
+
+    La vita non è vuota, né materia per gli schernitori:  
+
+    abbiamo riso forte e serbato il nostro [[Love|amore]],  
+
+    abbiamo udito cantori negli angoli delle taverne  
+
+    e non dimenticato gli [[Birds|uccelli]] lassù:  
+
+    abbiamo conosciuto percussori e figli del tuono  
+
+    e non indegnamente camminato con loro,  
+
+    siamo divenuti più saggi senza perdere lo [[Wonder|stupore]];  
+
+    e abbiamo veduto Gerusalemme.  
+
+    INDICE  
+
+                                                  PAG.  
+
+    A F. C. In Memoriam Palestina, '19             vii  
+
+    La Ballata di Santa Barbara                      1  
+
+    [[elegy|Elegia]] in un cimitero di campagna             13  
+
+    La [[Sword|Spada]] della Sorpresa                       14  
+
+    Nozze in [[Time|tempo]] di guerra                       15  
+
+    Il Mistero                                      18  
+
+    «Il Mito di [[Arthur|Artù]]»                            19  
+
+    La Vecchia [[Song|Canzone]]                             20  
+
+    I Ninnoli                                       24  
+
+    Il Filantropo                                   26  
+
+    Sulle Downs                                     27  
+
+    Il Mar Rosso                                    30  
+
+    Per un Monumento ai Caduti                      32  
+
+    [[Memory|Memoria]]                                     33  
+
+    Le Tombe Inglesi                                35  
+
+    [[nightmare|Incubo]]                                   37  
+
+    Una Seconda [[Childhood|Infanzia]]                     40  
+
+    «Medievalismo»                                  43  
+
+    Polonia                                         46  
+
+    La Caccia al Drago                              48  
+
+    [[Sonnet|Sonetto]]                                    51  
+
+    Fantasia                                        52  
+
+    Un [[carol|Canto]] di Natale                          54  
+
+    Al Capitano Fryatt                              56  
+
+    Per Quattro Corporazioni:  
+
+        I. I Maestri Vetrai                         57  
+
+       II. I Costruttori di Ponti                   59  
+
+      III. Gli Scalpellini                          62  
+
+       IV. I Campanari                              64  
+
+    Il [[convert|Convertito]]                              67  
+
+    [[songs|Canti]] dell'[[Education|Educazione]]:  
+
+        I. [[history|Storia]]                             71  
+
+       II. Geografia                               74  
+
+      III. Per l'Asilo                             76  
+
+       IV. Cittadinanza                            78  
+
+        V. Le Alte Matematiche                     80  
+
+       VI. Igiene                                  82  
+
+    LA BALLATA DI SANTA BARBARA  
+
+    _(Santa Barbara è la patrona dell'artiglieria e di coloro che sono in  
+
+    pericolo di [[Death|morte]] improvvisa.)_  
+
+    Quando le lunghe file grigie dilagarono su [[Paris|Parigi]] nella pianura,  
+
+    ci fermammo e bevemmo l'ultima aria libera che mai più avremmo gustato:  
+
+    ci avevano ricondotti dalla battaglia perduta, a fermarci non sapevamo dove  
+
+    e ci acquietarono; e i nostri cannoni spalancati tacevano per la nostra [[Despair|disperazione]].  
+
+    Le tribù grigie fluivano senza fine dalle infinite terre senza vita  
+
+    e un Normanno parlò a un Bretone, il mento sulle mani.  
+
+    «Vi fu una fine per Ilio; e una fine venne per Roma;  
+
+    e un uomo recita su un palco dipinto nella terra che chiama [[Home|casa]];  
+
+    Arco dopo arco di trionfo, ma piano oltre piano che rovina,  
+
+    che conducono infine a una porta bassa; e oltre non v'è porta».  
+
+    E il Bretone parlò al Normanno, come un piccolo [[Child|fanciullo]] parlò,  
+
+    e i suoi occhi azzurri come il mare erano vuoti come la sua [[Home|casa]] presso il mare:  
+
+    «Vi sono più finestre in una [[house|casa]] che occhi per vedere,  
+
+    vi sono più porte nella [[house|casa]] di un uomo, ma Dio ne ha nascosto la chiave:  
+
+    La rovina è costruttrice di finestre; la sua leggenda ne fa fede,  
+
+    Barbara, la santa dei cannonieri, e sostegno nella [[Death|morte]] improvvisa».  
+
+    Parve che la [[Wheel|ruota]] del mondo si fermasse un istante nel suo girare,  
+
+    più dei re della terra che giravano col volgere del mulino di  
+
+      Valmy:  
+
+    Mentre stillava l'ozioso racconto e gli occhi azzurri come il mare ardevano,  
+
+    Immoto come il cuore di un turbine, il cuore del mondo si fermò.  
+
+        «Barbara la bella  
+
+        ebbe lode di liuto e di penna:  
+
+        i suoi capelli erano come una [[Night|notte]] d'[[Summer|estate]]  
+
+        scura e desiderata dagli uomini.  
+
+        I suoi piedi come [[Birds|uccelli]] venuti da lontano  
+
+        che indugiano e si posano nel [[Doubt|dubbio]];  
+
+        e il suo volto era come una [[Window|finestra]]  
+
+        donde s'affacciava il primo [[Love|amore]] di un uomo.  
+
+        Suo padre era signore di molti schiavi,  
+
+        uomo duro e di mano pesante;  
+
+        le eressero attorno una torre  
+
+        nelle desolate terre dorate,  
+
+        sigillata come i tiranni sigillavano le loro tombe,  
+
+        disegnata secondo un antico disegno,  
+
+        e posero due finestre nella torre  
+
+        come i due occhi di un uomo».  
+
+    I nostri cannoni erano puntati verso il nemico; non avevamo ordine di far fuoco.  
+
+    Grigia nel varco di St. Gond splendeva la Guardia del [[Tyrant|tiranno]];  
+
+    Cupa del destino di una stella cadente, ritirandosi e ritirandosi,  
+
+    la linea bretone indietreggiava e il racconto bretone proseguiva.  
+
+        «Suo padre aveva veleggiato oltre il mare  
+
+        dal porto d'Africa  
+
+        quando tutti gli schiavi ripresero gli attrezzi  
+
+        al comando di Barbara.  
+
+        Ella percosse il nudo muro con la mano  
+
+        e ordinò loro di percuotere ancora;  
+
+        versò loro ricchezza di vino e di carne  
+
+        per sostenerli nella loro [[Pain|pena]].  
+
+        E gridò tra il tuono levato  
+
+        del martello e della gerla accalcati  
+
+        'Spalancate la terza [[Window|finestra]]  
+
+        nel terzo nome di Dio.'  
+
+        Allora i cuori vennero meno e gli attrezzi caddero,  
+
+        e lontano verso la spuma,  
+
+        gli uomini videro un'[[Shadow|ombra]] sulle sabbie  
+
+        e suo padre che tornava a [[Home|casa]]».  
+
+    Parlate piano, sempre più piano, lungo la linea vola la parola sussurrata  
+
+    prima del tocco, prima del [[Time|momento]], non possiamo esalare un respiro:  
+
+    i loro cannoni devono schiacciarci nel fango, e non vi sia risposta,  
+
+    finché la mano si levi a gettarci come dado finale verso la [[Death|morte]].  
+
+        «Vi erano due finestre nella tua torre,  
+
+        Barbara, Barbara,  
+
+        per tutto ciò che è tra il sole e la [[Moon|luna]]  
+
+        nelle terre d'Africa.  
+
+        Ha forse tre occhi un uomo, Barbara,  
+
+        un uccello tre ali,  
+
+        che tu abbia squarciato tetto e muro  
+
+        per contemplare cose vane?»  
+
+        La sua voce era come cosa vagante  
+
+        che vacilla eppure è libera,  
+
+        la cui [[Soul|anima]] ha bevuto in una terra lontana  
+
+        ai fiumi della libertà.  
+
+        «Vi sono più ali di quante ne sappia il [[Wind|vento]]  
+
+        o più occhi di quanti vedano il sole  
+
+        nella luce della [[Window|finestra]] perduta  
+
+        e nel [[Wind|vento]] delle porte disserrate.  
+
+        Ché dalla prima grata  
+
+        sono le terre rosse che si spezzano  
+
+        e dalla seconda grata  
+
+        il mare come un serpente verde,  
+
+        ma dalla terza grata  
+
+        sotto bassi cornicioni come ali  
+
+        è un nuovo angolo del cielo  
+
+        e l'altro lato delle cose».  
+
+    Si aprì nel luogo più intimo un istante al di là di ogni parola,  
+
+    un'imposta e un abisso e un tuono di porte disserrate,  
+
+    la forte ala di un serafino scosse via l'urto del suo spalancarsi,  
+
+    che divise la luce del sole frantumata da una luce dietro il sole.  
+
+        «Allora egli sguainò la [[Sword|spada]] e la sospinse  
+
+        dove sedevano i giudici, e disse  
+
+        'Cesare siede al di sopra degli dèi,  
+
+        Barbara, fanciulla.  
+
+        Cesare ha stretto un patto  
+
+        con la [[Moon|luna]] e con il sole,  
+
+        tutti gli dèi che gli uomini possono lodare  
+
+        lo lodano a uno a uno.  
+
+        Vi è pace con l'unto  
+
+        degli oli scarlatti di Bel,  
+
+        con il Dio Pesce, là dove il gorgo  
+
+        è una scala tortuosa verso l'inferno,  
+
+        con le piramidi di melma senza sentieri,  
+
+        dove il negro mitrato leva  
+
+        al suo nero cherubino nella nube  
+
+        doni abominevoli,  
+
+        con le lebbrose città d'argento  
+
+        dove i muti sacerdoti [[Dance|danzano]] e chinano il capo,  
+
+        ma non con le tre finestre  
+
+        e l'ultimo nome di Dio.'»  
+
+    Sparano, noi cadiamo, e i cieli rossi ci squarciano e ci fanno tremare,  
+
+    Barbara, Barbara, non possiamo esalare un respiro—  
+
+    Sii alle porte che scoppiano del destino, e nel buio liberaci,  
+
+    noi che disserriamo l'ultima [[Window|finestra]] sul sole della [[Death|morte]] improvvisa.  
+
+        «Barbara la bella  
+
+        si levò come [[Queen|regina]] resa libera,  
+
+        la cui bocca è accostata a una coppa terribile  
+
+        e alla tromba della libertà.  
+
+        'Ho guardato fuori da una [[Window|finestra]]  
+
+        che nessun uomo ormai sbarrerà,  
+
+        le vacillanti torri da guerra di Cesare  
+
+        non giungeranno mai tanto lontano.  
+
+        Gli schiavi danzano nelle loro [[Chains|catene]],  
+
+        il [[Child|fanciullo]] ride della verga,  
+
+        per via dell'uccello dalle tre ali,  
+
+        e del terzo volto di Dio.'  
+
+        La [[Sword|spada]] sulla sua spalla  
+
+        si mosse e brillò e cadde,  
+
+        e Barbara giacque piccolissima  
+
+        e accartocciata come un guscio».  
+
+    Quale muro su quali cardini girato sta aperto come una porta?  
+
+    Troppo semplice per lo sguardo della [[Faith|fede]], troppo immenso per occhi umani,  
+
+    quale luce su quale antica via risplende verso un pavimento lontano,  
+
+    la linea della terra perduta di Francia o le pianure del Paradiso?  
+
+        «Cesare sorrise al di sopra degli dèi,  
+
+        il suo labbro di pietra era arricciato,  
+
+        i suoi eserciti di ferro si avvolgevano come [[Chains|catene]]  
+
+        intorno e intorno al mondo,  
+
+        e il forte uccisore dei suoi stessi  
+
+        che falciava la carne come erba,  
+
+        sorrise anch'egli, e andò alla propria torre  
+
+        come una torre di bronzo che cammina,  
+
+        e i [[songs|canti]] cessarono e gli schiavi ammutolirono;  
+
+        e lontano verso la spuma  
+
+        gli uomini videro un'[[Shadow|ombra]] sulle sabbie;  
+
+        e suo padre che tornava a [[Home|casa]]....  
+
+        [[Blood|Sangue]] del suo [[Blood|sangue]] sulla [[Sword|spada]]  
+
+        stava rosso ma mai asciutto.  
+
+        Egli la terse lentamente, finché la lama  
+
+        fu azzurra come l'azzurro cielo.  
+
+        Ma il cielo azzurro si spaccò con uno schianto di tuono,  
+
+        sputò giù un tizzone accecante,  
+
+        e tutto di lui giacque riverso e disteso  
+
+        come la sua [[Shadow|ombra]] sulla sabbia».  
+
+    Il tocco e il turbine; tutti i nostri cannoni danno voce insieme  
+
+    Santa Barbara per l'artiglieria e Dio difenda il diritto,  
+
+    Sono fermati e squarciati e martoriati mentre spazziamo via il tempo con le cannonate.  
+
+    Erigendo [[Window|finestra]] su [[Window|finestra]] alla nostra signora della luce.  
+
+    Ché la luce è venuta sulla Libertà, i suoi nemici cadono, cadono,  
+
+    barcollano, fuggono, come sono fuggiti gli anni vergognosi,  
+
+    Ella è risorta per tutti gli umili, ha udito i vinti che chiamano,  
+
+    Santa Barbara dei Cannonieri, con la mano sul cannone.  
+
+    Sono squarciati nel mezzo coloro che si nutrono delle proprie adulazioni,  
+
+    il cui labbro è arricciato su comando come sono arricciati i loro capelli curati....  
+
+    Deflagrazione della [[Beauty|bellezza]] della [[Death|morte]] improvvisa, Santa Barbara delle batterie!  
+
+    che aprono col fuoco la nuova bianca [[Window|finestra]] nel muro di tutto il mondo.  
+
+    Ché la mano è levata dietro di noi, e il fulmine colpisce duro  
+
+    attraverso lo squarcio delle porte, attraverso la breccia di [[Death|morte]] della  
+
+      Guardia,  
+
+    Ché il grido dei Tre Colori è a Condé e oltre  
+
+    e la Guardia è gettata come carogna nel cimitero di St. Gond,  
+
+    attraverso Mondemont e fuori di esso, attraverso la palude del Morin e avanti  
+
+    Con un terremoto di saluto la cosa impossibile se n'è andata,  
+
+    la Gallia, sul carro e alla carica, la grande Gallia sopra un cannone,  
+
+    in punta di piedi su tutti i suoi mille anni e squillante verso il sole:  
+
+    Come torna il giorno, come torna la [[Death|morte]], scagliato indietro e scagliato a [[Home|casa]],  
+
+    sul barbaro regno ritorna l'ariete di Roma.  
+
+    Mentre a oriente si stringeva duro e rovente come tenaglie in una fucina,  
+
+    venne come il [[Wind|vento]] d'occidente ruggendo il cannone di San Giorgio,  
+
+    dove la caccia è aperta e corre su torrente e palude e laghetto  
+
+    e le loro batterie, nere di battaglia, tengono le teste di ponte della  
+
+      Marna  
+
+    e attraverso la carneficina della Guardia, presso [[Paris|Parigi]] nella pianura,  
+
+    i Normanni gridarono ai Bretoni e i Bretoni esultarono di nuovo....  
+
+    Ma colui che narrò il racconto tornò a [[Home|casa]], alla sua [[house|dimora]] presso il mare  
+
+    e arse dinanzi a Santa Barbara la luce delle tre finestre,  
+
+    tre candele per una cosa ignota, mai più a tornare,  
+
+    che s'era aperta come l'occhio di Dio su [[Paris|Parigi]] nella pianura.  
+
+    [[elegy|ELEGIA]] IN UN CIMITERO DI CAMPAGNA  
+
+    Gli uomini che lavorarono per l'Inghilterra  
+
+    hanno le loro tombe in [[Home|patria]]:  
+
+    e le [[Bees|api]] e gli [[Birds|uccelli]] d'Inghilterra  
+
+    possono errare attorno alla [[Cross|croce]].  
+
+    Ma coloro che combatterono per l'Inghilterra,  
+
+    seguendo una stella cadente,  
+
+    ahimè, ahimè per l'Inghilterra,  
+
+    hanno le loro tombe lontano.  
+
+    E coloro che governano l'Inghilterra,  
+
+    riuniti in solenne concilio,  
+
+    ahimè, ahimè per l'Inghilterra,  
+
+    non hanno ancora tombe.  
+
+    LA [[Sword|SPADA]] DELLA SORPRESA  
+
+    Dividimi dalle mie ossa, o [[Sword|spada]] di Dio,  
+
+    finché stiano nude e strane come gli alberi;  
+
+    perché io, il cui cuore s'innalza con i boschi svettanti,  
+
+    possa stupirmi altrettanto di esse.  
+
+    Dividimi dal mio [[Blood|sangue]], affinché nel buio  
+
+    io oda scorrere quel rosso [[River|fiume]] ancestrale,  
+
+    come sepolte fiumane ramificate che trovano il mare  
+
+    ma non vedono mai il sole.  
+
+    Dammi occhi miracolosi per vedere i miei occhi,  
+
+    quegli specchi [[rolling|roteanti]] resi vivi in me,  
+
+    terribile cristallo più incredibile  
+
+    di tutte le cose che vedono.  
+
+    Dividimi dalla mia [[Soul|anima]], affinché io veda  
+
+    i peccati come ferite grondanti, il coraggioso pulsare della vita;  
+
+    finché io salvi me stesso, come vorrei salvare  
+
+    un estraneo per la strada.  
+
+    NOZZE IN [[Time|TEMPO]] DI GUERRA  
+
+    Dio nostro, che facesti due [[lovers|amanti]] in un [[Garden|giardino]],  
+
+    e li percuotesti separandoli e li rendesti liberi,  
+
+    i loro quattro occhi folli di [[Wonder|meraviglia]] e d'ira e di perdono  
+
+    e il loro bacio un tuono come labbra di terra e di mare:  
+
+    ciascuno rapito senza fine oltre l'altro,  
+
+    due mondi stellati di dèi ignoti in guerra,  
+
+    moglie e non compagna, un uomo e non un fratello,  
+
+    ti ringraziamo d'averci fatti ciò che siamo.  
+
+    Non fare che la grigia melma dell'infinito  
+
+    sommerga questi [[Flowers|fiori]] che creasti a uno a uno;  
+
+    non permettere che la [[Night|notte]], che ti fu nemica,  
+
+    mescoli un folle crepuscolo di [[Moon|luna]] e sole;  
+
+    Ridesta ancora, in scoppio di tuono e clamore,  
+
+    la [[Wonder|meraviglia]] del nostro dividerci e il [[Song|canto]],  
+
+    o spezzaci i cuori col tuo martello che frantuma l'inferno  
+
+    ma lascia un'ombra fra noi per tutto il giorno.  
+
+    Ombra di alta vergogna e onorevole cecità  
+
+    quando la giovinezza, nella [[Storm|tempesta]] di cose vertiginose e lontane,  
+
+    trova il selvaggio dono improvviso di una piccola gentilezza  
+
+    e trema al pensiero che tutto il mondo abbia ali.  
+
+    Quando l'unico capo che, volgendosi, volge i cieli  
+
+    si muove tuttavia lieve come un uccello che indugia,  
+
+    e rosso e casuale, sospinto fuori rotta ma ardente,  
+
+    come una favilla perduta passa la gloriosa parola.  
+
+    Non fare di questo sesso, quest'altro lato delle cose,  
+
+    una cosa meno distante del [[Desire|desiderio]] del mondo;  
+
+    Quale colore si aggrappa alla fine della sera  
+
+    e quale lontano grido di frontiere e quale [[Fire|fuoco]]  
+
+    caduto troppo lontano oltre il sole per esser cercato,  
+
+    ci divida pure, benché venga il nostro regno;  
+
+    con un segnale lontano nel nostro parlare segreto  
+
+    per appendere il fiero orizzonte nella nostra [[Home|casa]].  
+
+    Un tempo eravamo uno, informe nube che indugia  
+
+    gravando i mari e serrando fuori i cieli,  
+
+    uno con i boschi, un [[Monster|mostro]] dalle miriadi di dita,  
+
+    non posasti su di me alcun dito di sorpresa.  
+
+    Uno con le [[Stars|stelle]], un dio dalle miriadi di occhi,  
+
+    non ti vidi in alcun luogo e fui cieco per disprezzo:  
+
+    uno finché il mondo fu squarciato e il sorgere  
+
+    dei bianchi giorni in cui io e te nascemmo.  
+
+    Si oscura il mondo: tintinnano i ceppi antichi quanto il mondo;  
+
+    e questi che non hanno [[Hope|speranza]] dietro il sole  
+
+    possono nutrirsi come servi e figliare come bestiame,  
+
+    uno nelle tenebre come sono uno i morti;  
+
+    Noi, se la [[Grave|tomba]] squarciata renderà la sua gloria,  
+
+    le trombe ci chiameranno l'uno dall'altro e faccia a faccia:  
+
+    saremo estranei in una storia così strana  
+
+    e [[Wonder|stupiremo]], incontrandoci in un luogo così selvaggio.  
+
+    Ah, non invano né interamente in perdita  
+
+    vengono persino la nera [[Flag|bandiera]] e le orde di battaglia,  
+
+    se questi grigi demoni fuggono il segno della [[Cross|croce]]  
+
+    anche nel simbolo delle spade incrociate.  
+
+    Né la [[Death|morte]] porrà in [[Doubt|dubbio]] Colui che rese vive le nostre anime  
+
+    spade che si incontrano e non pali affiancati,  
+
+    ci comandò di prosperare nel prorompere del sole e nel tuono,  
+
+    terremoto e [[Dawn|Aurora]]; lo sposo e la sposa.  
+
+    [[Death|Morte]] e non [[Dreams|sogni]] né [[Doubt|dubbio]] di cose che non muoiono,  
+
+    di chi sia il sacro focolare o di chi la [[Sword|spada]];  
+
+    benché sacri spiriti si dividano in forte grido  
+
+    nelle Tue mani, ma le Tue due mani, o Signore,  
+
+    benché non sulla Terra come un tempo ritti in Eden  
+
+    così chiaramente di nuovo Ti vediamo qual sei,  
+
+    come in questa vampa, la deflagrazione e il marchio  
+
+    di queste selvagge nozze dove ci incontriamo e ci separiamo.  
+
+    IL MISTERO  
+
+    Se le nubi del tramonto potessero crescere sugli alberi  
+
+    non farebbero che pareggiare il biancospino in fiore;  
+
+    e se i cieli stessero sotto i mari  
+
+    non sarebbe più a rovescio d'un acquazzone.  
+
+    Se i [[Mountains|monti]] si [[Rose|levassero]] su ali a vagare  
+
+    non sarebbero più selvaggi d'una nube;  
+
+    eppure ogni mia lode è meschina come una calunnia,  
+
+    meschina come queste meschine parole dette ad alta voce.  
+
+    E mai più di ora io so  
+
+    che il primo cielo dell'uomo è assai lontano dietro di noi;  
+
+    a meno che il colpo del serafino fiammeggiante  
+
+    non l'abbia lasciato cieco nel [[Garden|giardino]].  
+
+    Sii testimone, o Sole che accechi i nostri occhi,  
+
+    impensabile e irringraziabile [[King|Re]],  
+
+    che, benché ogni altra [[Wonder|meraviglia]] muoia,  
+
+    io mi [[Wonder|stupisco]] di non stupirmi.  
+
+    «IL MITO DI [[Arthur|ARTÙ]]»  
+
+    O dotto che mai imparasti a imparare,  
+
+    se non a dedurre, con timidi e piccoli passi,  
+
+    dal fumo torreggiante che il [[Fire|fuoco]] non può mai bruciare  
+
+    e da racconti alti che gli uomini non furono mai alti.  
+
+    Dimmi, hai tu pensato quale sorta d'uomo sia  
+
+    colui di cui gli uomini dicono «Egli poteva abbattere i giganti»?  
+
+    O quali forti memorie sull'abisso del [[Time|tempo]]  
+
+    sostennero la pompa di Camelot e la [[Crown|corona]].  
+
+    E perché un solo stendardo riempie tutto lo sfondo,  
+
+    oltre i cortei di tante lance,  
+
+    e per quale stregoneria fra le colline occidentali  
+
+    un trono sta vuoto da mille anni.  
+
+    Voi che ritenete, incuranti di questo immenso impatto,  
+
+    la storia immortale un peccato mortale;  
+
+    per timore che l'umana [[Fable|favola]] tocchi il fatto storico,  
+
+    inseguite i miti come falene, e combatteteli con uno spillo.  
+
+    Consolatevi; riposate—non occorre tanto affanno.  
+
+    Non sarete un mito, ve lo prometto.  
+
+    LA VECCHIA [[Song|CANZONE]]  
+
+    _(Sull'Embankment in tempo di tempesta.)_  
+
+    Un cielo livido su [[London|Londra]]  
+
+    e come destrieri di ferro che s'impennano  
+
+    un urto di macchine fermatesi,  
+
+    e seppi che la fine era vicina:  
+
+    e qualcosa disse che lontano, oltre i colli e lontano,  
+
+    veniva un tuono strisciante e la fine di ogni cosa quaggiù.  
+
+    Ché il Ponte di [[London|Londra]] è crollato, crollato, crollato,  
+
+    come lo scavo lascia entrare la luce sulle vie sommerse d'un tempo,  
+
+    il [[Lightning|lampo]] guardò la città di [[London|Londra]], il ponte spezzato della città di [[London|Londra]],  
+
+    la fine di una [[Road|strada]] spezzata dove gli uomini non andranno più.  
+
+    Vidi i re della città di [[London|Londra]],  
+
+    i re che comprano e vendono,  
+
+    che la edificarono con pagnotte da un penny  
+
+    e con menzogne da un penny [[Well|pure]]:  
+
+    E dove le vie erano lastricate d'oro, la carta avvizzita brillava  
+
+      come oro,  
+
+    la luce cocente delle promesse che lastricano le vie dell'inferno.  
+
+    Ché le pagnotte da un penny si scioglieranno, si scioglieranno, si scioglieranno,  
+
+    schernendo i meschini che mercanteggiarono il grano che non coltivarono;  
+
+    Con volti affamati alla porta, centomila alla porta,  
+
+    un lampo di tuono su [[London|Londra]] e il ritrovamento del nemico.  
+
+    Udii i cento fabbricanti di spilli  
+
+    rallentare il loro fragore straziante,  
+
+    finché nel silenzio si poté udire  
+
+    il cadere dello spillo:  
+
+    E in qualche luogo, uomini fuori le mura, sotto il bosco, fuori le mura,  
+
+    avevano trovato il luogo dove [[London|Londra]] finisce e l'Inghilterra può cominciare.  
+
+    Ché spilli e aghi si piegano e si spezzano, si piegano e si spezzano, si piegano e si spezzano,  
+
+    più in fretta delle lance che si rompono o del piegarsi dell'arco  
+
+    di cortei pallidi nella luce del tuono, tra il carico del tuono e  
+
+      la luce del tuono,  
+
+    le Centurie in marcia sui colli nelle guerre di tanto tempo fa.  
+
+    Vidi il grande Cobbett cavalcare,  
+
+    il cavaliere delle contee;  
+
+    e il suo volto era rosso di giudizio  
+
+    e d'una luce di fuochi luddisti:  
+
+    e a sud verso il Sussex e il mare i lumi balzarono su per la libertà,  
+
+    la tromba dei liberi coltivatori, il martello dei signorotti;  
+
+    Ché le sbarre di ferro s'arrugginiscono, s'arrugginiscono, s'arrugginiscono,  
+
+    si squarciano dinanzi al martello e al cavaliere che irrompe,  
+
+    gridando che tutti gli uomini alla fine, e al peggio e alla fine,  
+
+    hanno trovato il luogo dove l'Inghilterra finisce e l'Inghilterra può cominciare.  
+
+    Gli zoccoli del suo [[Horse|cavallo]] ti precedono,  
+
+    assai oltre le vostre gomme che scoppiano;  
+
+    e il [[Time|tempo]] è ricongiunto dietro di lui  
+
+    e i nostri figli sono con i nostri padri.  
+
+    Meteora scia sulle Downs, egli cavalca sopra le città in putrefazione,  
+
+    il Cavaliere dell'[[Apocalypse|Apocalisse]], il Cavalcatore delle Contee.  
+
+    Ché il Ponte di [[London|Londra]] è crollato, crollato, crollato;  
+
+    Suonate il corno di Huntingdon dalla Scozia al mare—  
+
+    ... Solo un lampo di luce di tuono, un sogno fuggente di luce di tuono,  
+
+    aveva mostrato sotto il cielo frantumato un popolo che era libero.  
+
+    I NINNOLI  
+
+    Un mondo errante di fiumi,  
+
+    un mondo tremulo di alberi,  
+
+    se il mondo si fa fosco e vertiginoso  
+
+    con tutti i mutamenti e i gradi,  
+
+    non è che lo [[Mirror|Specchio]] della Madonna  
+
+    appeso a sognare al suo posto,  
+
+    che riluce di sole ombre  
+
+    finché ella lo desta col suo volto.  
+
+    Il gorgo immoto delle [[Stars|stelle]],  
+
+    la [[Wheel|ruota]] di tutto il mondo,  
+
+    è un anello al dito della Madonna  
+
+    con i soli e le lune imperlati  
+
+    con [[Stars|stelle]] per gemme a farle piacere  
+
+    a lei che siede giocando con i suoi anelli  
+
+    col gran cuore che ha una donna  
+
+    e l'[[Love|amore]] delle piccole cose.  
+
+    Ali del turbine del mondo  
+
+    di qui fino a Ispahan,  
+
+    sdegnando le foreste volanti  
+
+    sono lievi come il ventaglio della Madonna:  
+
+    Ché tutte le cose qui violente e vane  
+
+    giacciono aperte e del tutto quiete  
+
+    là dove Dio ha cinto il cielo a custodire  
+
+    le sue sante vanità.  
+
+IL FILANTROPO  
+
+    _(Con le nostre scuse a una bella poesia.)_  
+
+    Abou Ben Adhem (possa la sua tribù decrescere  
+
+    per prudente controllo delle nascite, e morire in pace)  
+
+    mite di dottrina, prese con leggerezza la parola  
+
+    che non lo iscriveva fra coloro che [[Love|amano]] il Signore,  
+
+    e disse all'angelo del libro e della penna  
+
+    «Iscrivimi come uno che ama i suoi simili:  
+
+    per essi [[Alone|soli]] io m'affatico; per ricondurre  
+
+    il cencioso Beduino vagabondo, e per domarlo  
+
+    a un ordinato servizio; per sradicare la vite di coloro  
+
+    che scherniscono il [[Prophet|Profeta]], folli di vino,  
+
+    per lasciar entrare la luce del giorno nelle loro tende e nelle loro vite,  
+
+    contare i loro cammelli, e persino le loro mogli,  
+
+    tracciare il [[Desert|deserto]] in strade e piazze;  
+
+    e stimarlo opera più feconda di quella di coloro  
+
+    che innalzano un vano e visionario [[Love|amore]]  
+
+    al vostro vago Allah nei cieli lassù».  
+
+    Dolcemente rispose l'angelo della penna:  
+
+    «Affaticati in pace e [[Love|ama]] i tuoi simili:  
+
+    e non [[Love|amare]] Dio, poiché [[Alone|soltanto]] gli uomini sono cari,  
+
+    soltanto [[Fear|temi]] Dio; ché hai ragione di [[Fear|temere]].»  
+
+    SULLE DOWNS  
+
+    Quando venisti oltre il colmo del mondo  
+
+    nel gran giorno sulle Downs,  
+
+    l'aria era frizzante e le nubi arricciate,  
+
+    quando venisti oltre il colmo del mondo,  
+
+    e sotto i tuoi piedi erano guglia e via  
+
+    e sette città inglesi.  
+
+    E non potevo credere che l'[[Pride|orgoglio]] fosse perito  
+
+    mentre venivi oltre la down;  
+
+    Libertà, cavalleria, tutto ciò che ci fu caro,  
+
+    perduto in un tintinnio di lucro e perito;  
+
+    o la terra che [[Love|amiamo]], sopra la quale camminavi,  
+
+    che avvizziva città dopo città.  
+
+    Ché tu spuntasti sulla cupola della terra  
+
+    come una visione di vittoria,  
+
+    fuori sulla grande verde cupola della terra  
+
+    come la grande azzurra cupola del cielo per cintura,  
+
+    e sotto i tuoi piedi le contee potevano incontrarsi  
+
+    e i tuoi occhi si spingevano al mare.  
+
+    Sotto i tuoi piedi le città erano sette,  
+
+    vive e [[Alone|sole]] nell'alto,  
+
+    la schiena all'ampio bianco muro del cielo;  
+
+    tu eri una e le città erano sette,  
+
+    unica e sola come il sole che s'innalza  
+
+    e il tuo capo sorreggeva il cielo.  
+
+    E pensai a una tonante [[Flag|bandiera]] spiegata  
+
+    e al fragore della campana dei borghesi:  
+
+    i fanali crepitavano e i dardi erano scagliati  
+
+    mentre venivi oltre il colmo del mondo;  
+
+    e sotto i tuoi piedi erano sorte e inganno  
+
+    e la melma dei pendii dell'inferno.  
+
+    Non è andata come parlò il gran [[Wind|vento]]  
+
+    sulla grande verde down quel giorno:  
+
+    Abbiamo visto, ovunque parlasse l'ampio [[Wind|vento]],  
+
+    la [[Slavery|Schiavitù]] che uccide la gente inglese:  
+
+    i ladri di terra li abbiamo visti comandare  
+
+    i signori della terra obbedire.  
+
+    Abbiamo visto i giganteschi vermi dorati  
+
+    nel [[Garden|giardino]] del paradiso:  
+
+    Abbiamo visto i grandi e i saggi venire a patti  
+
+    con la pace dei serpenti e l'[[Pride|orgoglio]] dei vermi,  
+
+    e coloro che piantano stringere alleanza  
+
+    con la locusta e i pidocchi.  
+
+    E il [[Wind|vento]] soffia e il mondo va avanti  
+
+    e il mondo può dire che noi,  
+
+    che stemmo sulle scogliere dove brillavano le cave,  
+
+    stemmo su nubi su cui splendeva il sole:  
+
+    e le nubi si dissolvono e affogano nel tuono  
+
+    la notizia che mai sarà.  
+
+    Signora di tutti coloro che hanno amato il popolo,  
+
+    luce sopra le strade smarrite,  
+
+    labirinto di poderi e vie e campanili,  
+
+    grande come un cuore che ha amato il popolo:  
+
+    Stai sulla [[Crown|sommità]] della down svettante,  
+
+    leva le braccia e prega.  
+
+    Te sola non ho dimenticato  
+
+    per il naufragio della fama del mondo,  
+
+    lacerarsi e finire di cose imputridite,  
+
+    Solo il tuo volto indimenticato:  
+
+    e il tuo capo levato ai cieli [[Alone|solo]]  
+
+    quando venivi oltre la collina.  
+
+    IL MAR ROSSO  
+
+    Le nostre anime saranno Leviatani  
+
+    in purpurei mari di vino  
+
+    quando l'ebbrezza sarà morta con la [[Death|morte]],  
+
+    e il bere sarà tutto divino;  
+
+    apprendendo in quei tini immortali  
+
+    che cosa significhino i vigneti mortali;  
+
+    poiché solo in cielo sapremo  
+
+    quanto siamo stati felici.  
+
+    Come nubi che si rotolano nel [[Wind|vento]]  
+
+    siate liberi di andare alla deriva e bere;  
+
+    torreggiare senza insolenza quando sorgiamo,  
+
+    senza resa affondare:  
+
+    [[Dreams|Sogni]] vertiginosi e folli conosceremo  
+
+    e non avremo bisogno di scrivere  
+
+    le nostre innocenti bestemmie di lode,  
+
+    i nostri incubi di delizia.  
+
+    Poiché così, in forma tanto deforme,  
+
+    la visione mi venne,  
+
+    dove tali delfini titanici e oscuri  
+
+    si rotolano in un mare al tramonto:  
+
+    cupi di colori densi, strani e forti  
+
+    come il terribile e vero [[Love|amore]],  
+
+    aureolati come pesci in luce di fosforo  
+
+    si muovono i mostri santi.  
+
+    Qui è misura e legge, da apprendere,  
+
+    quando l'[[Honour|onore]] così comanda,  
+
+    alzare il calice e posarlo  
+
+    o spezzare il calice e andare.  
+
+    Ma quando il Nuovo [[deluge|Diluvio]] del mondo ribollirà  
+
+    dalla vigna del Nuovo Noè,  
+
+    Le nostre anime saranno Leviatani  
+
+    in sanguigni mari di vino.  
+
+    PER UN MONUMENTO AI CADUTI  
+
+    _([[Inscription|Iscrizione]] suggerita, probabilmente non scelta dalla_  
+
+    _Commissione.)_  
+
+    I merciai mercanteggiano al mercato,  
+
+    le auto e i carri passano;  
+
+    senati e scuole proseguono ronzando;  
+
+    poiché le cose morte non possono morire.  
+
+    Una [[Storm|tempesta]] calò sul luogo delle tombe  
+
+    con folgori per schiantare e squarciare;  
+
+    ma questi sono nomi di molti uomini  
+
+    che il [[Lightning|fulmine]] trovò vivi.  
+
+    Se gli usurai regnano e i diritti [[Decay|decadono]]  
+
+    e le visioni scorgono ancora una volta  
+
+    la grande Cartagine come una conchiglia d'oro  
+
+    spalancarsi vuota sulla riva,  
+
+    fino all'ultimo del [[Time|tempo]] che si sgretola  
+
+    su questa pietra si legga  
+
+    quanti uomini d'Inghilterra morirono  
+
+    per provare che non erano morti.  
+
+    [[Memory|MEMORIA]]  
+
+    Se mai tornerò a Baltimora,  
+
+    la [[City|città]] del Maryland,  
+
+    di nuovo mi mancheranno, come già mi mancarono,  
+
+    mille cose che il mondo tiene in serbo,  
+
+    la storia che sta in ogni porta  
+
+    e con ogni mano fa cenno.  
+
+    Non saprò dove i legami furono spezzati  
+
+    e cento fedi liberate,  
+
+    dove un cavaliere errante aveva dato  
+
+    il suo centesimo nome alla [[Queen|Regina]] del Cielo,  
+
+    e fece oblazione di faide perdonate  
+
+    a Nostra Signora della Libertà.  
+
+    Non percorrerò i sentieri della gloria  
+
+    dove la guerra non arrise ai forti;  
+
+    quando Lee, l'ultimo degli eroi, venne  
+
+    con gli Uomini del Sud e una [[Flag|bandiera]] come fiamma,  
+
+    e chiamò la terra col suo dolce nome  
+
+    nel [[Song|canto]] indimenticato.  
+
+    Se mai [[Cross|attraverserò]] il mare e vagherò  
+
+    fino alla [[City|città]] del Maryland,  
+
+    siederò su una pietra a vegliare o pregare  
+
+    per il [[Child|bambino]] d'uno straniero che vi fu un giorno:  
+
+    e il [[Child|bambino]] non tornerà mai più a giocare,  
+
+    e nessuno capirà.  
+
+    LE TOMBE INGLESI  
+
+    Fossi io quel cittadino errante la cui [[City|città]] è il mondo,  
+
+    non piangerei tutto ciò che cadde prima che le bandiere fossero ammainate;  
+
+    non lascerei che un solo mormorio guastasse le trombe che squillano  
+
+    come Dio si stancò dei re, e del freddo inferno del nord.  
+
+    Ma noi, i cui cuori sono [[Birds|uccelli]] che tornano al nido, abbiamo pensieri più gravi della [[Home|casa]],  
+
+    benché le grandi aquile ardano d'oro su [[Paris|Parigi]] o su Roma,  
+
+    noi che stiamo presso i nostri morti e fissiamo, come veggenti a un'eclissi,  
+
+    l'[[Riddle|enigma]] della storia dell'isola e il crepuscolo delle navi.  
+
+    Poiché questi erano uomini semplici che amavano con mani e piedi e occhi,  
+
+    le cui anime s'umiliavano alle colline e si restringevano ai cieli,  
+
+    le cento piccole terre che giacciono dentro un'unica piccola terra,  
+
+    dove il Severn cerca le isole del tramonto o il Sussex scala il cielo.  
+
+    E ciò che è loro, benché i vessilli sventolino su Varsavia risorta,  
+
+    o l'antico riso cammini in oro tra le vigne della Lorena,  
+
+    i loro morti sono segnati su pietre inglesi, i loro amori su alberi inglesi,  
+
+    quanto è piccolo il premio che vincono, quanto misera moneta per costoro--  
+
+    quanto piccola una foglia d'alloro avvizzita giace qui, sgualcita e arricciata:  
+
+    morirono per salvare il loro paese e salvarono soltanto il mondo.  
+
+    [[nightmare|INCUBO]]  
+
+    Il leopardo d'argento e viola della [[Night|notte]]  
+
+    chiazzato di [[Stars|stelle]] e liscio di [[Silence|silenzio]] balzò;  
+
+    e benché tre porte fossero aperte, la fine della luce  
+
+    si chiuse come una trappola; e l'immobilità fu un clangore.  
+
+    Sotto il cielo di leopardo dalle [[Stars|stelle]] fosche  
+
+    lottai col malvagio [[Sleep|sonno]] per tutta la calda [[Night|notte]],  
+
+    [[Dreams|Sogni]] muti e gonfi di trionfi senza guerre,  
+
+    di tromba senza lingua e gong che non risponde.  
+
+    Vidi passare un pallido fasto imperiale,  
+
+    elmo e mitra cornuta e pesante corona;  
+
+    le loro alte e strane insegne pendevano dal cielo  
+
+    e i loro grandi scudi erano come le porte della [[Death|morte]].  
+
+    Le loro mitre erano come piramidi in cammino  
+
+    e tutte le loro corone alte come torri in marcia;  
+
+    i loro occhi erano freddi sotto le palpebre scolpite  
+
+    e lo stesso sorriso scolpito era su tutti loro.  
+
+    Su una pianura lastricata che pareva senza fine  
+
+    passavano senza vacillare finché essa trovò un termine  
+
+    in un lungo e basso gradino; e costoro, scendendo,  
+
+    ripresero il cammino, di nuovo con lunga via da percorrere.  
+
+    Pensai che viaggiassero da mille anni;  
+
+    e alla fine non v'era nulla per tutti loro,  
+
+    malgrado tutto quello splendore di scettri e di lance,  
+
+    se non un nuovo gradino, un'altra facile caduta.  
+
+    Il sorriso di pietra pareva solo un poco meno,  
+
+    il carico d'argento solo un poco più:  
+
+    e sempre v'era quella desolazione a terrazze  
+
+    e la pianura digradante lastricata come il pavimento d'un palazzo.  
+
+    Ruggine rossa come sangue strisciava sulle loro armi possenti  
+
+    e sui loro volti rughe e non cicatrici:  
+
+    finché il sogno d'un tratto finì; rumore e luce  
+
+    sciolsero la tirannia delle [[Stars|stelle]] tropicali.  
+
+    Ma sopra di loro, come un sole sotterraneo,  
+
+    vidi il segno di tutti i demoni caduti;  
+
+    e una voce selvaggia gridò «Affrèttati e finiscila,  
+
+    non v'è ripidezza nelle scale dell'inferno?»  
+
+    Colui che ritorna, Colui che rimane il medesimo,  
+
+    girò il mondo reale e rotondo, la Sua morsa di ferro;  
+
+    giù per i grigi sentieri del [[Garden|giardino]] un uccello chiamò due volte,  
+
+    e attraverso tre porte entrò la misteriosa luce del giorno.  
+
+    UNA SECONDA [[Childhood|INFANZIA]]  
+
+    Quando tutti i miei giorni finiranno  
+
+    e non avrò più [[Song|canto]] da cantare,  
+
+    penso che non sarò troppo vecchio  
+
+    per fissare ogni cosa;  
+
+    come un tempo fissavo la porta d'una stanza di bimbi  
+
+    o un albero alto e un'altalena.  
+
+    In cui la ponderosa [[Mercy|misericordia]] di Dio pende  
+
+    su tutti i miei peccati e su me,  
+
+    perché Egli non toglie  
+
+    il terrore dall'albero  
+
+    e le pietre ancora brillano lungo la [[Road|strada]]  
+
+    che sono e non possono essere.  
+
+    Gli uomini invecchiano troppo per l'[[Love|amore]], [[Love|amore]] mio,  
+
+    gli uomini invecchiano troppo per il vino,  
+
+    ma io non invecchierò troppo per vedere  
+
+    splendere una luce ultraterrena,  
+
+    mutando la [[Dust|polvere]] della mia stanza in [[Snow|neve]]  
+
+    finché [[Doubt|dubito]] che sia mia.  
+
+    Ecco, le supreme misericordie si sciolgono,  
+
+    le prime meraviglie restano;  
+
+    e nella mia scoria è caduto un dono  
+
+    per il quale non oso pregare:  
+
+    che un uomo s'abitui al dolore e alla gioia  
+
+    ma non alla [[Night|notte]] e al giorno.  
+
+    Gli uomini invecchiano troppo per l'[[Love|amore]], [[Love|amore]] mio,  
+
+    gli uomini invecchiano troppo per le menzogne;  
+
+    ma io non invecchierò troppo per vedere  
+
+    sorgere l'enorme [[Night|notte]],  
+
+    una nube più grande del mondo  
+
+    e un [[Monster|mostro]] fatto di occhi.  
+
+    Né son degno di sciogliere  
+
+    il legaccio del mio calzare;  
+
+    o scuotere la [[Dust|polvere]] dai miei piedi  
+
+    o il bastone che mi sorregge  
+
+    su un suolo troppo bello per durare,  
+
+    troppo solido per esser vero.  
+
+    Gli uomini invecchiano troppo per corteggiare, [[Love|amore]] mio,  
+
+    gli uomini invecchiano troppo per sposarsi:  
+
+    ma io non invecchierò troppo per vedere  
+
+    appese follemente lassù  
+
+    incredibili travi quando mi desto  
+
+    e scopro che non sono morto.  
+
+    Un brivido di tuono tra i capelli:  
+
+    benché nubi che s'anneriscono siano manifeste,  
+
+    ancora sono punto e trasalisco  
+
+    alla prima goccia di pioggia:  
+
+    [[Romance|il romanzesco]] e l'[[Pride|orgoglio]] e la passione passano  
+
+    e questi sono ciò che resta.  
+
+    Strani tappeti striscianti dell'erba,  
+
+    ampie finestre del cielo:  
+
+    così, in questa perigliosa grazia di Dio,  
+
+    con tutti i miei peccati io vado:  
+
+    e le cose si fanno nuove benché io invecchi,  
+
+    benché io invecchi e muoia.  
+
+    «MEDIEVALISMO»  
+
+    Se gli uomini sorgessero e tornassero al frastuono e al [[Time|tempo]] del torneo,  
+
+    al nome e alla fama della tabarda, all'intrico di rosso e d'oro,  
+
+    reggerebbero queste cose e basterebbero come meta d'un [[Journey|viaggio]]  
+
+      all'indietro,  
+
+    una luce che ritorna sui nostri giorni, come era nei giorni antichi?  
+
+    No, nessuno cavalca indietro a raccogliere un guanto o una piuma,  
+
+    benché il guanto d'arme risuonasse d'[[Honour|onore]] o il pennacchio valesse più d'una  
+
+      [[Crown|corona]]:  
+
+    e tace la tromba santa che chiamava a raccolta le nazioni  
+
+    e sotto i Corni di Hattin la [[Hope|speranza]] del mondo tramontò.  
+
+    Ah, non serbata nel ricordo, ma balzando fuori dall'oblio,  
+
+    perché avete cercato nuove dimore e tutto ciò che cercaste è così,  
+
+    perché avevate calpestato il [[Fire|fuoco]] e sbarrato la porta nel partire,  
+
+    ritorna nel vostro [[Exile|esilio]] prescelto la gloria di tanto tempo fa.  
+
+    Non allora, quando sbarraste la porta, non allora, quando calpestaste le braci,  
+
+    ma ora, al termine della vostra nuova [[Road|strada]], avete visto il volto d'un fato,  
+
+    che non come un [[Child|bambino]] guarda indietro, e non come uno [[Fool|sciocco]] ricorda,  
+
+    tutto ciò che gli uomini presero troppo alla leggera e tutto ciò che [[Love|amano]] troppo tardi.  
+
+    Siete voi che non avete fatto rubrica per i santi, né veste per gli [[lovers|amanti]],  
+
+    i vostri berretti che invocano una piuma, i vostri tetti che sospirano una guglia:  
+
+    è forse [[A Dream|un sogno]] dei morti se il vostro stesso [[Decay|disfacimento]] scopre  
+
+    vivo nel vostro cimitero in putrefazione il verme del [[Desire|desiderio]] del mondo?  
+
+    Perciò i vecchi alberi torreggiano, perché i verdi alberi crescano e restino  
+
+      stentati:  
+
+    perciò questi morti vi deridono, perché voi, i vivi, siete morti:  
+
+    da quando percuoteste i santi e gli strumenti dei vostri mestieri furono  
+
+      spuntati,  
+
+    o frantumaste il vetro nella sua gloria e vi caricaste del  
+
+      piombo.  
+
+    Quando l'usuraio dà la caccia allo scudiero come lo scudiero ha dato la caccia al contadino,  
+
+    come pecore divorate dai vermi là dove gli uomini furono divorati dalle pecore:  
+
+    ora è il giudizio della terra, e la pesatura del passato e del presente,  
+
+    voi che sdegnate di piangere sulle rovine, contemplate la vostra rovina e piangete.  
+
+    Non avete saputo, o sciocchi, voi che avete fatto del presente una [[Prison|prigione]],  
+
+    che la sete può ricordare l'[[Water|acqua]] e la fame ricordare il pane?  
+
+    Non andammo a raccogliere [[Ghosts|fantasmi]]; ma lo strido della vostra vergogna si è levato  
+
+    dalla vostra stessa nera Babele troppo forte; e ha destato i morti.  
+
+    POLONIA  
+
+    Gli àuguri che osservavano [[Birds|uccelli]] arcaici  
+
+    potrebbero leggere tali prodigi piumati,  
+
+    le aquile che erano a [[Double|doppia]] faccia,  
+
+    l'aquila che era nera davvero;  
+
+    e quando gli [[Birds|uccelli]] da battaglia caddero  
+
+    e sulla loro scia vengono gli avvoltoi,  
+
+    sappiamo quale perdono e quale pace  
+
+    terranno muti i nostri piccoli padroni.  
+
+    Gli uomini che vendono ciò che altri fanno,  
+
+    come gli avvoltoi mangiano ciò che altri uccidono,  
+
+    proveranno, accostando piuma a piuma,  
+
+    che nulla è nero e tutto è grigio;  
+
+    grigio come quelle squallide colombe che un tempo,  
+
+    palpate e prezzate dai cambiavalute,  
+
+    tra il fracasso dei tavoli sbatterono le ali  
+
+    e s'accalcarono per sfuggire all'ira di [[Christ|Cristo]].  
+
+    Ma innalzata per sempre come un segno,  
+
+    da quando Dio rese gloriosa l'ira,  
+
+    là dove aquile nere e avvoltoi grigi  
+
+    tornarono a stormo intorno all'eroica [[house|casa]],  
+
+    dove la guerra è più santa della pace,  
+
+    dove l'odio è più santo dell'[[Love|amore]],  
+
+    splendette, terribile come lo [[Ghost|Spirito]] Santo,  
+
+    un'aquila più bianca d'una colomba.  
+
+    LA CACCIA AL DRAGO  
+
+    Quando andavamo a caccia del Drago  
+
+    nei giorni in cui eravamo giovani,  
+
+    ci gettammo il mondo lucente sulla spalla  
+
+    come corno e budriere a tracolla;  
+
+    mai vi fu mondo così selvaggio e bello  
+
+    come quello che passava sul [[Wind|vento]],  
+
+    mai tali campi di paradiso  
+
+    come i campi che lasciammo dietro:  
+
+      poiché questo è il meglio d'un riposo per gli uomini,  
+
+      che gli uomini sorgano e cavalchino  
+
+      facendo una fatata terra volante  
+
+      di mercato e di campagna,  
+
+      ali sul casolare, ali sul bosco,  
+
+      ali su pentola e tegame,  
+
+      per la caccia al Drago:  
+
+      questa è la vita d'un uomo.  
+
+    Poiché gli uomini si stancano della terra fatata  
+
+    quando il Drago è [[A Dream|un sogno]],  
+
+    e si stancano dell'uccello parlante sull'albero,  
+
+    del pesce che canta nel ruscello;  
+
+    e le [[Stars|stelle]] erranti si fanno stantie, si fanno stantie,  
+
+    e la [[Wonder|meraviglia]] s'irrigidisce di scherno;  
+
+    poiché questo è l'[[Honour|onore]] della terra fatata  
+
+    e il seguire del corno;  
+
+      [[Beauty|Bellezza]] su [[Beauty|bellezza]] ci richiamava  
+
+      quando potevamo sorgere e cavalcare,  
+
+      e una donna s'affacciava a ogni [[Window|finestra]]  
+
+      meravigliosa come una sposa:  
+
+      e l'insegna della taverna sfolgorava come una tabarda,  
+
+      e i bambini esultavano e correvano,  
+
+      per l'[[Love|amore]] dell'odio del Drago:  
+
+      questo è l'[[Pride|orgoglio]] d'un uomo.  
+
+    I sapienti lo chiamarono un'[[Shadow|ombra]]  
+
+    e la luce si spense dal sole:  
+
+    e i savi ci dissero che tutto andava [[Well|bene]]  
+
+    e tutto era stanco e uno solo:  
+
+    e allora, e allora, nel quieto [[Garden|giardino]],  
+
+    senza mai un'erbaccia da estirpare,  
+
+    sapemmo che la sua coda lucente aveva brillato  
+
+    nella bianca [[Road|strada]] oltre la [[Hill|collina]]:  
+
+    sapemmo che le nubi erano falde di fiamma,  
+
+    sapemmo che il [[Fire|fuoco]] del tramonto  
+
+    era rosso del [[Blood|sangue]] del Drago  
+
+    la cui [[Death|morte]] è il [[Desire|desiderio]] del mondo.  
+
+      Poiché il corno fu suonato nel cuore della [[Night|notte]],  
+
+      che gli uomini sorgano e cavalchino,  
+
+      mantenendo il convegno d'un terribile scherzo  
+
+      mai a lungo lasciato intentato;  
+
+      bevendo un tremendo [[Blood|sangue]] per vino,  
+
+      mai in coppa o in boccale,  
+
+      la [[Death|morte]] d'un Drago senza morte,  
+
+      questa è la vita d'un uomo.  
+
+    [[Sonnet|SONETTO]]  
+
+    In alto sul muro che cinge Gerusalemme  
+
+    vidi uno stare sotto le [[Stars|stelle]] come pietra.  
+
+    E quando perirò non si saprà  
+
+    se egli visse, qualche vagante figlio di Sem,  
+
+    o fu qualche grande [[Ghost|spettro]] che portava il diadema  
+
+    di Salomone o del Saladino su un trono:  
+
+    so soltanto, restando i lineamenti nascosti,  
+
+    che non osai avvicinarmi e guardarli.  
+
+    Non indovinaste... che il diadema potesse essere  
+
+    intrecciato in foggia più strana da mani d'odio...  
+
+    Ma quando guardai, il muro era desolato  
+
+    e la grigia luce delle stelle incipriava torre e albero:  
+
+    e vasto e vago oltre la Porta d'Oro  
+
+    s'ergeva Moab dei [[Mountains|monti]] come un mare.  
+
+    FANTASIA  
+
+    Gli uomini felici che perdono la testa  
+
+    ritrovano la loro testa in cielo,  
+
+    come teste di cherubino con ali di cherubino,  
+
+    e persino aureole di cherubino:  
+
+    dalle infinite terre della sera  
+
+    lungo il mare del tramonto,  
+
+    lasciandosi dietro i campi purpurei,  
+
+    le ali di cherubino battono giù per il [[Wind|vento]]  
+
+    verso il [[Body|corpo]] brancolante e cieco  
+
+    come l'uccello all'albero.  
+
+    Che le piume siano rosse di passione  
+
+    per colui che davvero muore  
+
+    per lama del boia o per scure di guerra,  
+
+    o azzurre come farfalle,  
+
+    per colui che la perdette in un viottolo  
+
+    tra gli scatti e i sussulti d'aprile,  
+
+    la sua follia è allora perdonata:  
+
+    ma più in alto, e assai oltre il nostro sguardo,  
+
+    è la guarigione degli uomini infelici,  
+
+    gli uomini che perdettero il cuore.  
+
+    Non v'è perdono per i valorosi  
+
+    e ampia liberazione lassù,  
+
+    per chi perse la testa per la libertà  
+
+    o perse il cuore per [[Love|amore]]?  
+
+    O è forse davvero saggio il saggio  
+
+    che pensieri più ampi mantengono intero?  
+
+    che vede la vita uniforme come una carta,  
+
+    fatto forte per recitare la parte più assennata,  
+
+    e serba la testa e serba il cuore,  
+
+    e perde soltanto l'[[Soul|anima]].  
+
+    UN [[carol|CANTO]] DI NATALE  
+
+    _(Il Capo della Polizia ha diramato un comunicato in cui dichiara che_  
+
+    _il cantare [[carol|canti]] per le strade da parte dei bambini è illegale, e moralmente_  
+
+    _e fisicamente nocivo. Egli si appella al pubblico perché scoraggi_  
+
+    _tale usanza.--Quotidiano.)_  
+
+    Dio vi conservi lieti, o signori,  
+
+    nulla vi sgomenti;  
+
+    gli Angeli Araldi non possono cantare,  
+
+    i poliziotti li arrestano a volo,  
+
+    e li ammoniscono della registrazione  
+
+    di qualunque cosa dicano.  
+
+    Dio vi conservi lieti, o signori,  
+
+    che nulla vi sgomenti:  
+
+    sulle vostre città riposanti giace  
+
+    un profondo [[Silence|silenzio]], rotto solo  
+
+    dal grido melodioso del clacson,  
+
+    dal lieto raglio della sirena.  
+
+    Così, quando il [[Song|canto]] dei bambini cessò  
+
+    ed Erode fu obbedito,  
+
+    nella sua alta sala corinzia  
+
+    con la porpora e col ventaglio di pavone,  
+
+    riposava quel lieto signore;  
+
+    e nulla lo sgomentava.  
+
+    AL CAPITANO FRYATT  
+
+    Calpestata eppur rossa è l'ultima delle braci,  
+
+    rossa l'ultima nube d'un sole tramontato;  
+
+    che importa del tuo dormire, se pur le Fiandre ricordano,  
+
+    che importa del tuo destarti, se l'Inghilterra dimentica?  
+
+    Perché dovresti aver parte nei cuori che induriamo,  
+
+    nella vergogna della nostra [[Nature|natura]], noi che la vediamo e viviamo?  
+
+    Quanto più dei pii sanno perdonare gli avidi,  
+
+    quanto [[Well|bene]] e quanto presto perdonano gli affamati.  
+
+    Ah, [[Well|bene]] sarebbe stato se il suolo dello straniero t'avesse avvolto,  
+
+    mentre i signori che servisti e gli amici che conoscesti  
+
+    vendono per i mercati dei tiranni che t'intrapparono,  
+
+    fanno i procacciatori nelle botteghe dei macellai che uccisero.  
+
+    Perché dovresti destarti per un regno che è marcio,  
+
+    rimpinzato delle loro tangenti e morto ai loro debiti?  
+
+    [[Sleep|Dormi]] e dimenticaci, come noi abbiamo dimenticato;  
+
+    poiché le Fiandre ricordano e l'Inghilterra dimentica.  
+
+    PER QUATTRO CORPORAZIONI  
+
+    PER QUATTRO CORPORAZIONI:  
+
+    I. I MAESTRI DELLE VETRATE  
+
+    A ogni Uomo il suo Mistero,  
+
+    un mestiere e uno solo:  
+
+    i muratori fanno gli alveari degli uomini,  
+
+    le cupole grigie o fosche,  
+
+    ma noi abbiamo foggiato in [[Rose|rosa]] e oro  
+
+    le case del sole.  
+
+    I maestri d'ascia costruiscono le case alte,  
+
+    le cui verdi fondamenta ondeggiano  
+
+    vive di pesci come piccole fiamme,  
+
+    quando il [[Wind|vento]] esce a uccidere.  
+
+    Ma noi sfidiamo con vele dipinte  
+
+    il ciclone del giorno.  
+
+    I tessitori fanno le vesti degli uomini  
+
+    e mantelli per tutti;  
+
+    camminano per le vie come nubi del tramonto;  
+
+    ma noi abbiamo tessuto e filato  
+
+    in scarlatto o in verde dorato  
+
+    i gai mantelli del sole.  
+
+    Voi che gli usurai e i signori  
+
+    con insolenti livree calpestarono,  
+
+    nel fondo della buia chiesa mirate, sopra  
+
+    le loro lance d'una pertica,  
+
+    dove noi abbiamo blasonato la tabarda  
+
+    del trombettiere di Dio.  
+
+    PER QUATTRO CORPORAZIONI:  
+
+    II. I COSTRUTTORI DI PONTI  
+
+    Nel più bianco mattino del mondo  
+
+    canuto di [[Hope|speranza]],  
+
+    il Costruttore di Ponti  
+
+    era prete ed era papa:  
+
+    e la mitra del mistero  
+
+    e il baldacchino erano suoi,  
+
+    lui che oscurava gli abissi  
+
+    e incupolava la voragine.  
+
+    A oriente e a occidente  
+
+    spiegava le ali al suo comando  
+
+    l'arco con la chiave di volta  
+
+    che si china come un uccello;  
+
+    che cavalca l'aria selvaggia  
+
+    e la luce del giorno gettata sotto;  
+
+    la via maestra del pericolo,  
+
+    il portale della [[Wonder|meraviglia]].  
+
+    Del suo trono erano i tuoni  
+
+    che inchiodano e fissano  
+
+    selvagge nozze di stranieri  
+
+    che s'incontrano e non si mescolano;  
+
+    la città e il campo di grano;  
+
+    la sposa e lo sposo:  
+
+    nello spezzarsi dei ponti  
+
+    è tradimento e rovina.  
+
+    Ma egli ci comandò, noi che foggiamo  
+
+    la [[Road|strada]] che sa volare,  
+
+    di non costruire troppo pesante  
+
+    e di non costruire troppo alto:  
+
+    vedendo sempre che sotto  
+
+    la curva dell'arco oscuro  
+
+    brillano la [[Death|morte]] e la bianca luce del giorno  
+
+    immutate fino alla fine.  
+
+    Chi cammina sulla sua [[Mercy|misericordia]]  
+
+    cammina leggero, com'egli dice,  
+
+    vedendo che la nostra vita  
+
+    è un ponte sopra la [[Death|morte]];  
+
+    e il mondo e i suoi giardini  
+
+    e i colli, come udiste,  
+
+    sono nati sopra lo spazio  
+
+    sulle ali d'un uccello.  
+
+    Non alto e non pesante  
+
+    è il costruire di lui:  
+
+    quando sigillate la piena  
+
+    e dimenticate l'abisso,  
+
+    quando le vostre torri sono innalzate,  
+
+    i vostri vessilli spiegati,  
+
+    nello spezzarsi dei ponti  
+
+    è la fine del mondo.  
+
+    PER QUATTRO CORPORAZIONI:  
+
+    III. GLI SCALPELLINI  
+
+    Abbiamo scolpito la montagna di Dio con le mani,  
+
+    come le nostre mani furono scolpite da Dio, dicono,  
+
+    dove i serafini ardono nel sole come tizzoni  
+
+    e i diavoli portano via le piogge;  
+
+    facendo tesoro delle gole dell'inferno,  
+
+    i nostri [[gargoyles|doccioni]] raccolgono la pioggia ruggente,  
+
+    il cui sbadiglio è più d'un urlo congelato  
+
+    e il cui stesso vomitare non è vano.  
+
+    Più selvagge di tutto ciò che una lingua può proferire,  
+
+    più sagge di tutto ciò che è detto in parole,  
+
+    le ali di pietra della grondaia che s'innalza  
+
+    volano fuori e seguono il volo degli [[Birds|uccelli]];  
+
+    l'impeto e la disfatta delle guerre angeliche  
+
+    si stagliano sopra la via stupefatta,  
+
+    dove scagliammo le nostre grondaie contro le [[Stars|stelle]]  
+
+    in segno che il primo e l'ultimo s'incontreranno.  
+
+    Abbiamo scolpito la foresta del cielo con le mani,  
+
+    grandi d'un'allegria troppo greve per l'[[Pride|orgoglio]],  
+
+    nella pietra che lo percosse sta Stefano  
+
+    e Pietro stesso è pietrificato:  
+
+    mani come quelle che frugarono la zolla per il pane  
+
+    hanno comandato alla nuda roccia di fiorire e prosperare,  
+
+    mani come quelle che colpirono a morte un uomo vivo  
+
+    hanno colpito, e destato in vita i morti.  
+
+    Giungete le mani davanti al cielo pregando,  
+
+    levate le mani al cielo e gridate;  
+
+    ma guardate dove le nostre guglie più vertiginose dicono  
+
+    ciò che le mani d'un uomo fecero lassù nel cielo:  
+
+    fradici prima che abbiate udito il tuono,  
+
+    bianchi prima che abbiate sentito la [[Snow|neve]];  
+
+    poiché i giganti levano le mani a [[Wonder|meravigliarsi]]  
+
+    di quanto in alto le mani d'un uomo potessero salire.  
+
+    PER QUATTRO CORPORAZIONI:  
+
+    IV. I CAMPANARI  
+
+    Gli angeli cantano come [[Birds|uccelli]] su un albero  
+
+    nell'organo della buona santa Cecilia:  
+
+    e il parroco legge con la mano posata  
+
+    sull'aquila scolpita del grande san Giovanni:  
+
+    ma mai le canne scanalate andranno  
+
+    come i pifferi d'un esercito tutto in fila,  
+
+    marciando allegri giù per la via  
+
+    verso i mercati dove s'incontrano l'affaccendato e l'ozioso;  
+
+    e mai l'uccello di bronzo volerà  
+
+    fuori dalla [[Window|finestra]] e su nel cielo,  
+
+    finché gli uomini in città e contee e navi  
+
+    guardino in alto la vivente [[Apocalypse|Apocalisse]].  
+
+    Ma tutti possono ascoltare nel buio della sera  
+
+    [[The Bells|le campane]] che latrano come i mastini del cielo,  
+
+    rintoccando e annunciando che sopra e sotto,  
+
+    per le vie dell'aria come un tuono errante,  
+
+    la caccia è aperta su colli mai calcati:  
+
+    poiché il [[Wind|vento]] è la via dei [[dogs|cani]] di Dio:  
+
+    dalla torre del [[Tyrant|tiranno]] alla tana del fuorilegge  
+
+    cacciando le anime dei figli degli uomini.  
+
+    Sovrano e ladro e merciaio e pari,  
+
+    che non vogliono ascoltare e pure udranno;  
+
+    riempiendo le teste degli uomini di fretta e ronzio  
+
+    rendendoli benvenuti prima che vengano.  
+
+    E noi, poveri uomini, stiamo sotto il campanile  
+
+    tirando le corde che sanno tirare il popolo,  
+
+    e al nostro guinzaglio come i [[dogs|cani]] che balzano  
+
+    siamo i più assordanti demagoghi di Dio:  
+
+    e siamo ben piccoli, come nani sottoterra,  
+
+    mentre pendono su nel cielo le case del suono,  
+
+    muovendosi come [[Mountains|monti]] che la [[Faith|fede]] libera,  
+
+    sbadigliando come caverne che rombano col mare,  
+
+    così tremendamente cariche, così ariosamente sospese,  
+
+    arcangeli corazzati che calpestano il vuoto:  
+
+    selvagge come in una danza e greve di fati,  
+
+    pesanti come la loro panoplia, lievi come le loro piume.  
+
+    Né predicatori né preti siamo:  
+
+    ogni uomo salga al proprio grado:  
+
+    solo ricordate che proprio una tal corda  
+
+    scaglia in cielo la tromba e la [[Sword|spada]];  
+
+    anime sulle loro terrazze, santi sulle loro torri,  
+
+    sorgono in armi a un allarme come il nostro:  
+
+    risplendono come grandi fuochi di vedetta che arrossano i cieli  
+
+    Titani le cui ali sono una gloria di occhi,  
+
+    costellazioni coronate a dodici e a sette,  
+
+    dominazioni incupolate più antiche dei cieli,  
+
+    Virtù che tuonano e Troni che durano  
+
+    oscillano come una campana alle preghiere dei poveri.  
+
+    IL [[convert|CONVERTITO]]  
+
+    Dopo un solo istante in cui chinai il capo  
+
+    e il mondo intero si capovolse e si rimise ritto,  
+
+    e uscii là dove la vecchia [[Road|strada]] biancheggiava,  
+
+    percorsi le vie e udii ciò che tutti dicevano,  
+
+    foreste di lingue, come [[Leaves|foglie]] d'[[Autumn|autunno]] non cadute,  
+
+    non prive d'amabilità, ma strane e lievi;  
+
+    vecchi enigmi e nuovi credi, non per dispetto  
+
+    ma dolcemente, come si sorride dei morti.  
+
+    I sapienti hanno cento mappe da dare  
+
+    che tracciano il loro cosmo strisciante come un albero,  
+
+    scuotono fuori la ragione attraverso più d'un vaglio  
+
+    che serba la sabbia e lascia libero l'oro:  
+
+    e tutte queste cose sono meno della [[Dust|polvere]] per me  
+
+    perché il mio nome è Lazzaro e io vivo.  
+
+    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]  
+
+    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+
+    I. [[history|STORIA]]  
+
+    _Modulo 991785, Sottosezione D_  
+
+    Il Romano ci gettò una [[Road|strada]], una [[Road|strada]],  
+
+    e sospirò e se ne andò a passeggio:  
+
+    il Sassone ci diede una scorreria, una scorreria,  
+
+    una scorreria venuta per restare;  
+
+    il Danese andò a ovest, ma il Danese confessò  
+
+    d'essere andato un po' troppo oltre;  
+
+    e tutti diventammo, sotto un altro nome,  
+
+    la razza Imperiale che siamo.  
+
+    _Coro_  
+
+    La razza Imperiale, la razza imperscrutabile,  
+
+    la razza invincibile che siamo.  
+
+    Benché i colli del Sussex siano nudi, nudi,  
+
+    e ampia la boscaglia del Sussex,  
+
+    da Chichester a Chester  
+
+    gli uomini videro il Normanno cavalcare;  
+
+    gettò la sua [[Sword|spada]] in aria e cantò  
+
+    a una specie di leggera chitarra;  
+
+    fu tutt'uno, poiché tutti diventammo  
+
+    gli identici gran signori che siamo.  
+
+    _Coro_  
+
+    Gli identici gran signori, i singolari gran signori,  
+
+    gl'inconfondibili gran signori che siamo.  
+
+    Il popolo viveva sulla terra, sulla terra,  
+
+    s'affaccendava alla meglio e pregava;  
+
+    costruivano una [[Cathedral|cattedrale]] qua e là  
+
+    o andavano a una piccola crociata:  
+
+    finché le ossa di Becket furono sbattute fuori  
+
+    per lo spasso d'un grasso Zar Bianco,  
+
+    e tutti diventammo, tra saccheggio e fiamma,  
+
+    la razza intelligente che siamo.  
+
+    _Coro_  
+
+    La razza intelligente, la razza intuitiva,  
+
+    la razza infallibile che siamo.  
+
+    Oh, i boschi di Warwick son verdi, son verdi,  
+
+    ma gli alberi di Warwick possono cadere:  
+
+    e Birmingham crebbe così grande, così grande,  
+
+    e Stratford rimase così piccola.  
+
+    finché la sirena ululò all'allodola mattutina  
+
+    che cantava alla stella del mattino;  
+
+    e tutti diventammo, in nome della [[Freedom|libertà]],  
+
+    i fortunati tizi che siamo.  
+
+    _Coro_  
+
+    I fortunati tizi, i felici tizi,  
+
+    i fatati tizi che siamo.  
+
+    Il popolo lasciò la terra, la terra,  
+
+    ma continuò a lavorare sodo;  
+
+    e il prato del villaggio che s'era smarrito  
+
+    spuntò nel cortile del signorotto:  
+
+    ma venti di noi trovammo lavoro  
+
+    su un pezzo della sua automobile;  
+
+    e tutti diventammo, col plauso del mondo,  
+
+    i meravigliosi gonzi che siamo:  
+
+    _Coro_  
+
+    I meravigliosi gonzi, i miracolosi gonzi,  
+
+    i mistici gonzi che siamo.  
+
+    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+
+    II. GEOGRAFIA  
+
+    _Modulo 17955301, Sottosezione Z_  
+
+    La terra è un luogo dove si trova l'Inghilterra,  
+
+    e la si trova comunque si faccia roteare il globo;  
+
+    poiché le macchie sono tutte rosse e il resto è tutto grigio,  
+
+    e questo è il senso del Giorno dell'Impero.  
+
+    Gibilterra è una rocca che si vede benissimo,  
+
+    e attaccato alla sua base è il distretto della Spagna.  
+
+    E l'isola di Malta è segnata più in là,  
+
+    dove certi nativi erano noti come i Cavalieri di San Giovanni.  
+
+    Poi Cipro, e a est fino al Canale di Suez,  
+
+    che fu conquistato da Dizzy e da Rothschild suo compare  
+
+    con la [[Sword|Spada]] del Signore alla vecchia maniera inglese;  
+
+    e questo è il senso del Giorno dell'Impero.  
+
+    Le nostre principali importazioni vengono da lontano come Capo Horn;  
+
+    per necessità, cacao; per lussi, grano;  
+
+    così i Bramini nascono per la risaia, e così  
+
+    gli Dèi fecero i Greci perché coltivassero uva passa per noi;  
+
+    Tabacco e benzina e Jazz ed Ebrei:  
+
+    il Jazz passerà ma gli Ebrei resteranno;  
+
+    e questo è il senso del Giorno dell'Impero.  
+
+    Le nostre principali esportazioni, tutte etichettate e imballate,  
+
+    ai confini della terra sono consegnate intatte:  
+
+    Il nostro sapone o il nostro salmone possono viaggiare in scatola  
+
+    tra i due poli e uguali come due spilli;  
+
+    così che i mercanti del Lancashire, quando vogliono,  
+
+    possono [[Water|annacquare]] la birra d'un uomo nel Klondike  
+
+    o [[Poison|avvelenare]] la carne d'un uomo a Bombay;  
+
+    e questo è il senso del Giorno dell'Impero.  
+
+    Il giorno di San Giorgio è una faccenda ammuffita  
+
+    che a Russi e Greci è concesso di spartire;  
+
+    il giorno di Trafalgar è spagnolo di nome  
+
+    e gli Spagnoli rifiutano di pronunciarlo allo stesso modo;  
+
+    ma il Giorno dell'Impero venne dal Canada  
+
+    con Morden e Borden e la fama di Beaverbrook  
+
+    e anime sante e serafiche come loro:  
+
+    e questo è il senso del Giorno dell'Impero.  
+
+    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+
+    III. PER L'ASILO NIDO  
+
+    _Modulo 8277059, Sottosezione K_  
+
+    Ricordo mia madre, il giorno che c'incontrammo,  
+
+    una cosa che non dimenticherò mai del tutto;  
+
+    e mi diverto a fantasticare che, per quanto giovane io sia,  
+
+    la riconoscerei se c'incontrassimo in un tram.  
+
+      Ma la mamma è felice di girare una manovella  
+
+      che accresce il saldo nella banca di qualcuno;  
+
+      e provo soddisfazione che la mamma sia libera  
+
+      dal sinistro compito d'occuparsi di me.  
+
+    Hanno rallegrato la nostra stanza, spaziosa e fresca,  
+
+    con diagrammi usati nella Scuola per Idioti,  
+
+    e Libri per Ciechi che c'insegneranno a vedere;  
+
+    ma la mamma è felice, perché la mamma è libera.  
+
+      Poiché la mamma danza su per quarantotto piani,  
+
+      per [[Love|amore]] dei Leeds International Stores,  
+
+      e la fiamma di quella [[Faith|fede]] forse si sarebbe raffreddata,  
+
+      con la cura d'un bimbo di sette settimane.  
+
+    Poiché la mamma è felice d'ingrassare una [[Wheel|ruota]]  
+
+    per qualcun altro, che accaparra l'Acciaio;  
+
+    e benché il nostro unico incontro non fosse molto lungo,  
+
+    colse l'occasione di cantarmi questo [[Song|canto]]:  
+
+      «Oh, taci, bimbo mio, presto verrà il [[Time|tempo]]  
+
+      in cui il tuo [[Sleep|sonno]] sarà rotto da fischi e ronzii;  
+
+      ci sono manovelle da girare e girare tutto il giorno,  
+
+      e bottoni da premere nel solito modo;  
+
+    oh, taci, bimbo mio, riposa mentre canto sommessa,  
+
+    poiché il Progresso viene presto, e la [[Freedom|Libertà]] troppo presto.»  
+
+    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+
+    IV. CITTADINANZA  
+
+    _Modulo 8889512, Sottosezione Q_  
+
+    Con quanta lentezza impara il [[Child|fanciullo]] a scuola  
+
+    i nomi di tutti i gran signori che governano  
+
+    da Ponsonby a Pennant;  
+
+    prima che la sua mente smarrita trovi requie,  
+
+    sapendo che il suo ospitante può essere un Guest,  
+
+    il suo padrone di casa è un Tennant.  
+
+    Non sapeva, all'età di tre anni,  
+
+    che cosa Lord St. Leger diventerà poi  
+
+    o che cosa fu prima;  
+
+    una Primrose nel vortice mondano  
+
+    è per lui solo un signor Primrose,  
+
+    e null'altro egli è.  
+
+    Ma presto, verso i dieci anni,  
+
+    scopre d'essere un Cittadino,  
+
+    e sa muoversi nel mondo;  
+
+    sa fermarsi entro, o appena oltre,  
+
+    la linea tra il Mond e il Demi-Mond,  
+
+    tra il Farsi Strada--o il Farsi Fuori.  
+
+    Il Cittadino prenderà la sua parte  
+
+    (in ogni senso) come rialzista e ribassista;  
+
+    né occorre a questa canzonetta orale  
+
+    invocare la penna del filologo  
+
+    per mostrarvi che un Cittadino  
+
+    significa Qualcosa nella [[City|Città]].  
+
+    Così egli guadagna, con la toga virile,  
+
+    i fasci e la [[Crown|corona]] civica,  
+
+    il foro dei liberi;  
+
+    non più alla legge suprema di Roma alleato  
+
+    è Devonport in tutto il suo [[Pride|orgoglio]]  
+
+    o Lipton in [[Self|persona]] di quanto lo sia lui.  
+
+    Poiché egli imparerà, se ci proverà,  
+
+    le profonde verità intime per cui  
+
+    governiamo il Commonwealth;  
+
+    qual è l'onorario del Controllore degli Alimenti  
+
+    e se il Ministero della Salute  
+
+    ci stia per la propria salute.  
+
+    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+
+    V. LE MATEMATICHE SUPERIORI  
+
+    _Modulo 339125, Sottosezione M_  
+
+            Due volte uno fa due,  
+
+            due volte due fa quattro,  
+
+    ma due volte due fa novantasei se sai come far punti.  
+
+            La metà di due è uno,  
+
+            la metà di quattro è due,  
+
+    ma la metà di quattro è il quaranta per cento se ti chiami Montagu:  
+
+      poiché ogni altra cosa è in squadra  
+
+      se fatta con le migliori quadratiche;  
+
+      e nulla è basso nell'Alta Finanza  
+
+      o nelle Matematiche Superiori.  
+
+            Una linea retta è retta  
+
+            e un miglio quadrato è piatto:  
+
+    ma nella trigonometria impari un trucco che ne vale due.  
+
+            Due linee rette  
+
+            non possono racchiudere uno Spazio,  
+
+    ma possono racchiudere un Angolo per sostenere la Razza Eletta:  
+
+      poiché non sai mai che cosa faccia la Dinamica  
+
+      con le verità inferiori della Statica;  
+
+      e la metà di due è un'automobile da turismo  
+
+      nelle Matematiche Superiori.  
+
+            C'è un luogo appartato  
+
+            oltre il raggio solare,  
+
+    dove rette parallele possono incontrarsi in modo ufficioso.  
+
+            C'è una stanza che ospita  
+
+            l'esaminatore o i suoi scrivani,  
+
+    dove puoi quadrare il cerchio, o l'uomo che assegna i voti.  
+
+      dove ti nascondi in cantina e poi guardi dall'alto  
+
+      i poeti che vivono nelle soffitte;  
+
+      poiché tutta la [[house|casa]] è a rovescio  
+
+      nelle Matematiche Superiori.  
+
+    [[songs|CANZONI]] DELL'[[Education|EDUCAZIONE]]:  
+
+    VI. IGIENE  
+
+    _Modulo 394411102, Sottosezione X_  
+
+    _«Tutti gli eugenisti pratici concordano sull'importanza del_  
+
+    _[[Sleep|sonno]].»--Il Congresso Eugenetico._  
+
+    Quando la Scienza insegnò all'umanità a respirare  
+
+    poco tempo fa,  
+
+    solo pochi savi e riflessivi  
+
+    erano davvero al corrente:  
+
+    né il Giovane poteva atteggiare il volto,  
+
+    sbuffando da tutti i polmoni di sotto:  
+
+    quando il Dovere sussurrò piano «Respira!»  
+
+    il Giovane rispondeva «E soffia!»  
+
+    Quando la Scienza provò con lucida cura  
+
+    la necessità dell'Esercizio,  
+
+    il nostro sventato Giovane s'arrampicava sugli alberi  
+
+    o pestava allegramente gli occhi altrui:  
+
+    per gli sconsiderati sfaccendati che sforavano i limiti  
+
+    per il football o per la caccia alla lepre,  
+
+    o battendosi accanitamente per quattordici riprese,  
+
+    giunse come una sorpresa.  
+
+    Ma quando essa arditamente consiglia il [[Sleep|Sonno]]  
+
+    alle persone quando sono a letto,  
+
+    allora, allora sì che gli uomini arrossiscono nel vedere  
+
+    l'alba arrossire di rosso:  
+
+    i mattinieri che noi chiamiamo  
+
+    sani, si fanno malaticci e infermi;  
+
+    l'Uccello Mattiniero che acchiappava il Verme  
+
+    acchiapperà invece il Germe.  
+
+    Per questo almeno sia lodata la Scienza,  
+
+    se tutto il resto è fandonia,  
+
+    che ora essa rimbrotta il [[Child|fanciullo]] presuntuoso  
+
+    che lascia troppo presto la culla:  
+
+    il pachiderma farisaico  
+
+    dell'[[Pride|orgoglio]] spirituale si contorcerà:  
+
+    l'Uccello Mattiniero acchiappa il verme,  
+
+    il Verme che non muore.  
+
+                            THE ARDEN PRESS  
+
+                     STAMFORD STREET [[London|LONDRA]], S.E.1  
+
+Fine dell'eBook del Progetto Gutenberg The Ballad of St. Barbara, di  
+
+Gilbert Keith Chesterton  
+
+*** FINE DI QUESTO EBOOK DEL PROGETTO GUTENBERG THE BALLAD OF ST. BARBARA ***  
+
+***** Questo file dovrebbe chiamarsi 32167-8.txt o 32167-8.zip *****  
+
+This and all associated files of various formats will be found in:
+
+        http://www.gutenberg.org/3/2/1/6/32167/  
+
+Prodotto da Irma Spehar, Markus Brenner e il Team di  
+
+Distributed Proofreading Team at http://www.pgdp.net (This
+
+file was produced from images generously made available
+
+by The Internet Archive/Canadian Libraries)
+
+Updated editions will replace the previous one--the old editions
+
+will be renamed.
+
+Creating the works from public domain print editions means that no
+
+one owns a United States copyright in these works, so the Foundation
+
+(and you!) can copy and distribute it in the United States without
+
+permission and without paying copyright royalties.  Special rules,
+
+set forth in the General Terms of Use part of this license, apply to
+
+copying and distributing Project Gutenberg-tm electronic works to
+
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+
+Gutenberg is a registered trademark, and may not be used if you
+
+charge for the eBooks, unless you receive specific permission.  If you
+
+do not charge anything for copies of this eBook, complying with the
+
+rules is very easy.  You may use this eBook for nearly any purpose
+
+such as creation of derivative works, reports, performances and
+
+research.  They may be modified and printed and given away--you may do
+
+practically ANYTHING with public domain eBooks.  Redistribution is
+
+subject to the trademark license, especially commercial
+
+redistribution.
+
+*** INIZIO: LICENZA COMPLETA ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+
+distribution of electronic works, by using or distributing this work
+
+(or any other work associated in any way with the phrase "Project
+
+Gutenberg"), you agree to comply with all the terms of the Full Project
+
+Gutenberg-tm License (available with this file or online at
+
+http://gutenberg.org/license).
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+
+electronic work, you indicate that you have read, understand, agree to
+
+and accept all the terms of this license and intellectual property
+
+accordo (di marchio/copyright).  Se non acconsentite a rispettare tutti
+
+i termini del presente accordo, dovete cessare l'uso e restituire o distruggere
+
+tutte le copie delle opere elettroniche Project Gutenberg-tm in vostro possesso.
+
+Se avete pagato una tariffa per ottenere una copia di, o l'accesso a, un'opera
+
+elettronica Project Gutenberg-tm e non acconsentite a essere vincolati dai
+
+termini del presente accordo, potete ottenere il rimborso dalla persona o
+
+dall'ente al quale avete versato la tariffa, secondo quanto stabilito al paragrafo 1.E.8.
+
+1.B.  «Project Gutenberg» è un marchio registrato.  Può essere
+
+usato o associato in qualsiasi modo a un'opera elettronica soltanto da persone che
+
+acconsentono a essere vincolate dai termini del presente accordo.  Vi sono alcune
+
+cose che potete fare con la maggior parte delle opere elettroniche Project Gutenberg-tm
+
+anche senza attenervi ai termini integrali del presente accordo.  Si veda il
+
+paragrafo 1.C più sotto.  Vi sono molte cose che potete fare con le opere elettroniche
+
+Project Gutenberg-tm se seguite i termini del presente accordo
+
+e contribuite a preservare il libero accesso futuro alle opere elettroniche
+
+Project Gutenberg-tm.  Si veda il paragrafo 1.E più sotto.
+
+1.C.  La Project Gutenberg Literary Archive Foundation («la Fondazione»
+
+o PGLAF) detiene un copyright di raccolta sulla collezione di opere elettroniche
+
+Project Gutenberg-tm.  Quasi tutte le singole opere della
+
+collezione sono di pubblico dominio negli Stati Uniti.  Se una
+
+singola opera è di pubblico dominio negli Stati Uniti e voi vi
+
+trovate negli Stati Uniti, non rivendichiamo alcun diritto di impedirvi di
+
+copiare, distribuire, eseguire, esporre o creare opere derivate
+
+basate sull'opera, purché siano rimossi tutti i riferimenti a Project Gutenberg.
+
+Naturalmente, [[Hope|speriamo]] che vorrete sostenere la missione
+
+Project Gutenberg-tm di promuovere il libero accesso alle opere elettroniche
+
+condividendo liberamente le opere Project Gutenberg-tm nel rispetto dei termini del
+
+presente accordo, così da mantenere il nome Project Gutenberg-tm associato
+
+all'opera.  Potete facilmente attenervi ai termini del presente accordo
+
+conservando quest'opera nel medesimo formato con l'allegata Licenza integrale Project
+
+Gutenberg-tm quando la condividete gratuitamente con altri.
+
+1.D.  Anche le leggi sul copyright del luogo in cui vi trovate disciplinano
+
+ciò che potete fare con quest'opera.  Le leggi sul copyright della maggior parte dei paesi sono in
+
+un costante stato di mutamento.  Se vi trovate fuori dagli Stati Uniti, controllate
+
+le leggi del vostro paese oltre ai termini del presente accordo
+
+prima di scaricare, copiare, esporre, eseguire, distribuire o
+
+creare opere derivate basate su quest'opera o su qualsiasi altra opera Project
+
+Gutenberg-tm.  La Fondazione non rilascia alcuna dichiarazione riguardo
+
+allo stato di copyright di qualsivoglia opera in qualsivoglia paese fuori dagli Stati
+
+Uniti.
+
+1.E. A meno che non abbiate rimosso tutti i riferimenti a Project Gutenberg:
+
+1.E.1.  La seguente frase, con collegamenti attivi a, o altro accesso immediato
+
+a, la Licenza integrale Project Gutenberg-tm deve comparire in evidenza
+
+ogniqualvolta qualsiasi copia di un'opera Project Gutenberg-tm (qualsiasi opera su cui la
+
+locuzione «Project Gutenberg» compaia, o alla quale la locuzione «Project
+
+Gutenberg» sia associata) venga consultata, esposta, eseguita, visualizzata,
+
+copiata o distribuita:
+
+Questo eBook è destinato all'uso di chiunque, ovunque, senza alcun costo e con
+
+quasi nessuna restrizione di sorta.  Potete copiarlo, regalarlo o
+
+riutilizzarlo secondo i termini della Licenza Project Gutenberg inclusa
+
+con questo eBook o disponibile online all'indirizzo www.gutenberg.org
+
+1.E.2.  Se una singola opera elettronica Project Gutenberg-tm deriva
+
+dal pubblico dominio (non contiene un avviso che indichi che essa è
+
+pubblicata con il permesso del titolare del copyright), l'opera può essere copiata
+
+e distribuita a chiunque negli Stati Uniti senza pagare alcuna tariffa
+
+o onere.  Se ridistribuite o fornite l'accesso a un'opera
+
+alla quale sia associata, o sulla quale compaia, la locuzione «Project Gutenberg»,
+
+dovete attenervi o ai requisiti dei paragrafi da 1.E.1
+
+a 1.E.7 oppure ottenere il permesso per l'uso dell'opera e del
+
+marchio Project Gutenberg-tm secondo quanto stabilito ai paragrafi 1.E.8 o
+
+1.E.9.  
+
+1.E.3.  Se una singola opera elettronica Project Gutenberg-tm è pubblicata
+
+con il permesso del titolare del copyright, il vostro uso e la vostra distribuzione
+
+devono attenersi sia ai paragrafi da 1.E.1 a 1.E.7 sia a qualsiasi ulteriore
+
+termine imposto dal titolare del copyright.  I termini aggiuntivi saranno collegati
+
+alla Licenza Project Gutenberg-tm per tutte le opere pubblicate con il
+
+permesso del titolare del copyright, reperibile all'inizio di quest'opera.
+
+1.E.4.  Non scollegate né staccate né rimuovete i termini integrali della Licenza
+
+Project Gutenberg-tm da quest'opera, o da qualsiasi file contenente una parte di quest'
+
+opera o qualsiasi altra opera associata a Project Gutenberg-tm.
+
+1.E.5.  Non copiate, esponete, eseguite, distribuite o ridistribuite questa
+
+opera elettronica, o qualsiasi parte di questa opera elettronica, senza
+
+esporre in evidenza la frase stabilita al paragrafo 1.E.1 con
+
+collegamenti attivi o accesso immediato ai termini integrali della Licenza
+
+Project Gutenberg-tm.
+
+1.E.6.  Potete [[convert|convertire]] e distribuire quest'opera in qualsiasi forma binaria,
+
+compressa, marcata, non proprietaria o proprietaria, ivi compresa qualsiasi
+
+forma di elaborazione di testo o di ipertesto.  Tuttavia, se fornite l'accesso a, o
+
+distribuite copie di, un'opera Project Gutenberg-tm in un formato diverso dal
+
+«Plain Vanilla ASCII» o da altro formato usato nella versione ufficiale
+
+pubblicata sul sito web ufficiale Project Gutenberg-tm (www.gutenberg.org),
+
+dovete, senza costo, tariffa o spesa aggiuntivi per l'utente, fornire una
+
+copia, un mezzo per esportare una copia, o un mezzo per ottenere una copia su
+
+richiesta, dell'opera nel suo originale «Plain Vanilla ASCII» o altra
+
+forma.  Qualsiasi formato alternativo deve includere la Licenza integrale Project Gutenberg-tm
+
+come specificato al paragrafo 1.E.1.
+
+1.E.7.  Non applicate una tariffa per l'accesso a, la visualizzazione, l'esposizione,
+
+l'esecuzione, la copia o la distribuzione di qualsiasi opera Project Gutenberg-tm
+
+a meno che non vi atteniate al paragrafo 1.E.8 o 1.E.9.
+
+1.E.8.  Potete applicare una tariffa ragionevole per le copie di, o per la fornitura di
+
+l'accesso a o distribuire le opere elettroniche Project Gutenberg-tm a condizione  
+
+che  
+
+- Paghiate una tassa di diritti d'autore pari al 20% dei profitti lordi che ricavate
+
+     dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
+
+     che già usate per calcolare le vostre imposte applicabili.  La tassa è  
+
+     dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
+
+     ha acconsentito a donare i diritti previsti da questo paragrafo alla  
+
+     Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
+
+     devono essere versati entro 60 giorni successivi a ciascuna data in cui  
+
+     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
+
+     fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
+
+     inviati alla Project Gutenberg Literary Archive Foundation all'  
+
+     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
+
+     Project Gutenberg Literary Archive Foundation.»  
+
+- Forniate un rimborso completo di ogni somma pagata da un utente che vi notifichi
+
+     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
+
+     non accetta i termini della completa  
+
+     Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
+
+     distrugga tutte le copie delle opere possedute su supporto fisico  
+
+     e cessi ogni uso di e ogni accesso ad altre copie delle  
+
+     opere Project Gutenberg-tm.  
+
+- Forniate, in conformità al paragrafo 1.F.3, un rimborso completo di ogni
+
+     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
+
+     opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
+
+     dal ricevimento dell'opera.  
+
+- Rispettiate tutti gli altri termini di questo accordo per la libera
+
+     distribuzione delle opere Project Gutenberg-tm.  
+
+1.E.9.  Se desiderate far pagare una tassa o distribuire un'opera elettronica  
+
+Project Gutenberg-tm o un gruppo di opere a termini diversi da quelli  
+
+esposti in questo accordo, dovete ottenere il permesso per iscritto da  
+
+sia la Project Gutenberg Literary Archive Foundation sia [[Michael]]  
+
+Hart, il titolare del marchio Project Gutenberg-tm.  Contattate la  
+
+Fondazione come esposto nella Sezione 3 più sotto.  
+
+1.F.  
+
+1.F.1.  I volontari e i dipendenti di Project Gutenberg dedicano considerevole  
+
+impegno a identificare, svolgere ricerche sul copyright, trascrivere e correggere  
+
+le opere di pubblico dominio nel creare la raccolta  
+
+Project Gutenberg-tm.  Nonostante questi sforzi, le opere elettroniche  
+
+Project Gutenberg-tm, e il supporto su cui possono essere archiviate, possono contenere  
+
+«Difetti», quali, ma non solo, dati incompleti, inesatti o  
+
+corrotti, errori di trascrizione, una violazione di copyright o altra proprietà  
+
+intellettuale, un disco o altro supporto difettoso o danneggiato, un  
+
+virus informatico, o codici informatici che danneggiano o non possono essere letti dalla  
+
+vostra apparecchiatura.  
+
+1.F.2.  GARANZIA LIMITATA, ESCLUSIONE DI DANNI - Salvo il «Diritto  
+
+di Sostituzione o Rimborso» descritto nel paragrafo 1.F.3, la Project  
+
+Gutenberg Literary Archive Foundation, il titolare del marchio Project  
+
+Gutenberg-tm, e qualsiasi altra parte che distribuisca un'opera elettronica  
+
+Project Gutenberg-tm secondo questo accordo, declinano ogni  
+
+responsabilità verso di voi per danni, costi e spese, comprese le spese  
+
+legali.  ACCETTATE DI NON AVERE ALCUN RIMEDIO PER NEGLIGENZA, RESPONSABILITÀ  
+
+OGGETTIVA, VIOLAZIONE DI GARANZIA O INADEMPIMENTO CONTRATTUALE SALVO QUELLI  
+
+PREVISTI NEL PARAGRAFO F3.  ACCETTATE CHE LA FONDAZIONE, IL  
+
+TITOLARE DEL MARCHIO, E QUALSIASI DISTRIBUTORE SECONDO QUESTO ACCORDO NON SARANNO  
+
+RESPONSABILI VERSO DI VOI PER DANNI EFFETTIVI, DIRETTI, INDIRETTI, CONSEQUENZIALI, PUNITIVI O  
+
+INCIDENTALI ANCHE SE AVVISATE DELLA POSSIBILITÀ DI TALE  
+
+DANNO.  
+
+1.F.3.  DIRITTO LIMITATO DI SOSTITUZIONE O RIMBORSO - Se scoprite un  
+
+difetto in quest'opera elettronica entro 90 giorni dal riceverla, potete  
+
+ricevere un rimborso della somma (se pagata) versata per essa inviando una  
+
+spiegazione scritta alla persona da cui avete ricevuto l'opera.  Se  
+
+avete ricevuto l'opera su supporto fisico, dovete restituire il supporto con  
+
+la vostra spiegazione scritta.  La persona o entità che vi ha fornito  
+
+l'opera difettosa può scegliere di fornire una copia sostitutiva in luogo d'un  
+
+rimborso.  Se avete ricevuto l'opera per via elettronica, la persona o entità  
+
+che ve la fornisce può scegliere di darvi una seconda opportunità di  
+
+ricevere l'opera per via elettronica in luogo d'un rimborso.  Se anche la seconda copia  
+
+è difettosa, potete esigere un rimborso per iscritto senza ulteriori  
+
+opportunità di risolvere il problema.  
+
+1.F.4.  Salvo il diritto limitato di sostituzione o rimborso esposto  
+
+nel paragrafo 1.F.3, quest'opera vi è fornita 'COSÌ COM'È' SENZA ALCUN'ALTRA  
+
+GARANZIA DI ALCUN GENERE, ESPRESSA O IMPLICITA, COMPRESE MA NON SOLO LE  
+
+GARANZIE DI COMMERCIABILITÀ O IDONEITÀ A QUALSIASI SCOPO.  
+
+1.F.5.  Alcuni stati non consentono l'esclusione di certe garanzie  
+
+implicite o l'esclusione o limitazione di certi tipi di danni.  
+
+Se una qualsiasi esclusione o limitazione esposta in questo accordo viola la  
+
+legge dello stato applicabile a questo accordo, l'accordo sarà  
+
+interpretato in modo da attuare la massima esclusione o limitazione consentita dalla  
+
+legge statale applicabile.  L'invalidità o l'inapplicabilità di una qualsiasi  
+
+disposizione di questo accordo non annullerà le restanti disposizioni.  
+
+1.F.6.  MANLEVA - Accettate di indennizzare e tenere indenni la Fondazione, il  
+
+titolare del marchio, qualsiasi agente o dipendente della Fondazione, chiunque  
+
+fornisca copie delle opere elettroniche Project Gutenberg-tm in conformità  
+
+a questo accordo, e qualsiasi volontario associato alla produzione,  
+
+promozione e distribuzione delle opere elettroniche Project Gutenberg-tm,  
+
+da ogni responsabilità, costo e spesa, comprese le spese legali,  
+
+che sorgano direttamente o indirettamente da una qualsiasi delle seguenti cose che voi fate  
+
+o causate: (a) distribuzione di questa o di qualsiasi opera Project Gutenberg-tm  
+
+opera, (b) alterazione, modifica, o aggiunte o cancellazioni a qualsiasi  
+
+opera Project Gutenberg-tm, e (c) qualsiasi Difetto che causate.  
+
+Sezione 2. Informazioni sulla Missione del Project Gutenberg-tm
+
+Project Gutenberg-tm è sinonimo di libera distribuzione di  
+
+opere elettroniche in formati leggibili dalla più ampia varietà di computer  
+
+compresi i computer obsoleti, vecchi, di mezza età e nuovi. Esiste
+
+grazie all'impegno di centinaia di volontari e alle donazioni di
+
+persone di ogni ceto sociale.
+
+I volontari e il sostegno finanziario necessario a fornire ai volontari
+
+assistenza di cui hanno bisogno sono essenziali per raggiungere gli obiettivi  
+
+degli obiettivi di Project Gutenberg-tm e per garantire che la raccolta
+
+di Project Gutenberg-tm resti liberamente disponibile per le generazioni a venire. Nel 2001 fu costituita la Project
+
+Gutenberg Literary Archive Foundation al fine di assicurare un futuro sicuro
+
+e duraturo a Project Gutenberg-tm e alle generazioni future.
+
+Per saperne di più sulla Project Gutenberg Literary Archive Foundation
+
+e su come il vostro impegno e le vostre donazioni possano essere d'aiuto, si vedano le Sezioni 3 e 4
+
+e la pagina web della Fondazione all'indirizzo http://www.pglaf.org.
+
+Sezione 3. Informazioni sulla Project Gutenberg Literary Archive
+
+Foundation
+
+La Project Gutenberg Literary Archive Foundation è una società senza scopo di lucro
+
+di tipo 501(c)(3), a carattere educativo, costituita secondo le leggi dello
+
+stato del Mississippi e riconosciuta esente da imposte dall'Internal
+
+Revenue Service. Il numero EIN, ossia il codice fiscale federale della Fondazione,
+
+è 64-6221541. La sua lettera 501(c)(3) è pubblicata all'indirizzo
+
+http://pglaf.org/fundraising. Le contribuzioni alla Project Gutenberg
+
+Literary Archive Foundation sono deducibili dalle imposte nella misura massima
+
+consentita dalle leggi federali statunitensi e dalle leggi del vostro stato.
+
+La sede principale della Fondazione si trova al 4557 Melan Dr. S.
+
+Fairbanks, AK, 99712., ma i suoi volontari e dipendenti sono sparsi
+
+in numerose località. I suoi uffici amministrativi si trovano al
+
+809 North 1500 West, Salt Lake [[City|City]], UT 84116, (801) 596-1887, email
+
+business@pglaf.org. I collegamenti per il contatto via email e le informazioni di contatto
+
+aggiornate si possono trovare sul sito web della Fondazione e sulla sua pagina
+
+ufficiale all'indirizzo http://pglaf.org
+
+Per ulteriori informazioni di contatto:
+
+     Dr. Gregory B. Newby
+
+     Chief Executive and Director
+
+     gbnewby@pglaf.org
+
+Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
+
+Literary Archive Foundation
+
+Project Gutenberg-tm dipende da un ampio sostegno pubblico e dalle donazioni,
+
+e non può sopravvivere senza di essi, per portare avanti la sua missione di
+
+accrescere il numero di opere di pubblico dominio e sotto licenza che possano essere
+
+liberamente distribuite in forma leggibile dalla [[Machine|macchina]] e accessibile alla più vasta
+
+gamma di apparecchiature, comprese quelle ormai superate. Le numerose piccole donazioni
+
+(da 1 a 5.000 dollari) sono particolarmente importanti per mantenere lo status di esenzione fiscale
+
+presso l'IRS.
+
+La Fondazione si impegna a rispettare le leggi che regolano
+
+gli enti di beneficenza e le donazioni benefiche in tutti i 50 stati degli Stati
+
+Uniti. I requisiti di conformità non sono uniformi ed è necessario un
+
+impegno considerevole, molta documentazione e molte spese per soddisfarli e per restare al passo
+
+con essi. Non sollecitiamo donazioni in località
+
+nelle quali non abbiamo ricevuto conferma scritta della conformità. Per
+
+INVIARE DONAZIONI o per verificare lo stato di conformità di un
+
+particolare stato, visitate http://pglaf.org
+
+Sebbene non possiamo e non sollecitiamo contribuzioni da stati nei quali non
+
+abbiamo soddisfatto i requisiti di sollecitazione, non siamo a conoscenza di alcun divieto
+
+di accettare donazioni non sollecitate da donatori di tali stati che
+
+si rivolgano a noi con offerte di donazione.
+
+Le donazioni internazionali sono accolte con gratitudine, ma non possiamo rilasciare
+
+alcuna dichiarazione riguardo al trattamento fiscale delle donazioni ricevute da
+
+fuori degli Stati Uniti. Le leggi statunitensi [[Alone|da sole]] sommergono il nostro piccolo personale.
+
+Vi preghiamo di consultare le pagine web di Project Gutenberg per conoscere gli attuali
+
+metodi e indirizzi per le donazioni. Le donazioni sono accettate in svariati altri
+
+modi, tra cui assegni, pagamenti online e donazioni con carta di credito.
+
+Per donare, vi preghiamo di visitare: http://pglaf.org/donate
+
+Sezione 5. Informazioni Generali sulle opere elettroniche di Project
+
+Gutenberg-tm.
+
+Il Professor [[Michael]] S. Hart è l'ideatore del concetto di Project Gutenberg-tm
+
+di una biblioteca di opere elettroniche che potessero essere liberamente condivise
+
+con chiunque. Per trent'anni ha prodotto e distribuito eBook di Project
+
+Gutenberg-tm con il solo sostegno di una rete informale di volontari.
+
+Gli eBook di Project Gutenberg-tm sono spesso realizzati a partire da diverse edizioni
+
+a stampa, tutte confermate come di Pubblico Dominio negli Stati Uniti
+
+a meno che non sia incluso un avviso di copyright. Pertanto, non necessariamente
+
+manteniamo gli eBook conformi a una particolare edizione cartacea.
+
+La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
+
+     http://www.gutenberg.org
+
+Questo sito web contiene informazioni su Project Gutenberg-tm,
+
+comprese le modalità per fare donazioni alla Project Gutenberg Literary
+
+Archive Foundation, come contribuire a produrre i nostri nuovi eBook, e come
+
+abbonarsi alla nostra newsletter via email per essere informati sui nuovi eBook.

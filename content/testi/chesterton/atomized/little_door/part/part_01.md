@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/little-door-(chesterton)">Little Door</a></div>
 </nav>
@@ -35,5 +37,38 @@ Myrrh for the honoured happy dead;
 Gifts for his children terrible and sweet,  
 Touched by such tiny hands and  
 Oh such tiny feet.  
+
+Frances Chesterton
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/little-door-(chesterton)">Little Door</a></div>
+</nav>
+
+# La piccola porta
+
+Ecco la piccola porta  
+
+Ecco la piccola porta, solleva il chiavistello, oh solleva!  
+Non dobbiamo più errare, ma entrare col nostro dono;  
+il nostro dono d'oro finissimo,  
+oro che mai fu comprato né venduto;  
+mirra da spargere intorno al suo giaciglio;  
+incenso a nuvole intorno al suo capo;  
+tutto per il [[Child|Bambino]] che non si desta nel suo [[Sleep|sonno]],  
+ma un sacro sopore lo tiene con l'asino e la pecora.  
+
+Chinàti intorno al suo giaciglio, ché per ciascuno ha un dono;  
+guarda come i suoi occhi si destano, levate le mani, oh levate!  
+Per l'oro, egli dona una [[Sword|spada]] affilata  
+(difendi con essa il tuo piccolo Signore!),  
+per l'incenso, il fumo rosso della battaglia.  
+Mirra per gli onorati, felici morti;  
+doni per i suoi figli, terribili e dolci,  
+toccati da mani così minute e  
+oh da così minuti piedi.  
 
 Frances Chesterton

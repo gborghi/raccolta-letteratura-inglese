@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/compulsory-education-(chesterton)">Compulsory Education</a></div>
 </nav>
@@ -171,5 +173,86 @@ of [[Education|education]] with the exclusion of religious [[Education|education
 But if the Fundamentalists say that some secularists abuse the right
 of secular [[Education|education]], they say what is exceedingly probable--
 and, if they say it is intolerable, they tell the [[Truth|truth]].
+
+=== end ==
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/compulsory-education-(chesterton)">Compulsory Education</a></div>
+</nav>
+
+# [[Education|Istruzione]] obbligatoria
+
+[[Education|Istruzione]] obbligatoria e il Processo della Scimmia
+
+di G. K. Chesterton
+
+Pubblicato originariamente su The Illustrated [[London]] News, 8 agosto 1925.
+
+(Fonte: G. K. Chesterton, Collected Works, Volume XXXIII,
+The Illustrated [[London]] News 1923-1925,
+Ignatius Press, San Francisco, 1990. Pagine 602-606.)
+
+Le mie osservazioni della settimana scorsa sulla controversia di Dayton furono scritte
+poco prima, benché pubblicate poco dopo, della clamorosa
+notizia della triste [[Death|morte]] del signor Bryan.  Vorrei dichiarare questo fatto,
+nel caso vi fossero stati sconvenienti tocchi di leggerezza,
+su una faccenda a proposito della quale la maggior parte della gente di questo paese fu leggera.
+E anzi, in ogni caso, penso che molti in questo paese
+siano stati un po' troppo leggeri.  Vi era davvero una morale in «Monkeyville»,
+e non era la morale che i più di noi eravamo tentati di trarne;
+e ancor meno la facezia che i più di noi eravamo tentati di farne.  È qualcosa
+che resta dopo la [[Comedy|commedia]] di Dayton e dopo la [[Tragedy|tragedia]] di Bryan.
+Anzi, è qualcosa che c'era già prima che sopraggiungesse questa crisi comica e tragica,
+e che ci sarebbe ancora se non fosse mai sopraggiunta.
+Alla fin fine, vi era e vi è davvero un problema moderno,
+che era il vero problema che turbava gli onesti giurati del Tennessee.
+
+Perché il problema è destinato con ogni probabilità a rivelarsi una seccatura.  Non sarà meno
+una seccatura in futuro per il fatto che nel presente nessuno si dà pena
+particolare di affrontarlo.  Nella politica pratica la [[Survival|sopravvivenza]]
+del più adatto significa spesso soltanto la [[Survival|sopravvivenza]] del più molesto.
+E immagino di poter prevedere un baccano assai considerevole, nel prossimo futuro,
+intorno alla difficoltà di Dayton, che taluni hanno deriso come mera cosa
+del passato.  La questione particolare se gli Americani stiano
+dalla parte degli angeli o dalla parte delle scimmie, nel solo
+scandalo del presunto materialismo di «Monkeyville», può in effetti
+essere cosa del passato.  Comunque sia, i giornalisti possono ormai essere scusati
+se la trattano come cosa del passato; per quanto, cosa curiosa,
+vi siano due ragioni del tutto opposte per chiamarla così.
+Un gruppo di scienziati dirà che è una faccenda vecchia perché
+la Selezione Naturale è ormai stabilita.  Un altro gruppo di scienziati dirà
+che è una faccenda vecchia perché la Selezione Naturale è ormai demolita.
+I vecchi biologi possono ancora ritenere il darwinismo troppo nuovo per essere contestato.
+I giovani biologi spesso lo riterranno troppo vecchio per essere difeso.
+Ma quelli che ritengono Darwin troppo nel giusto per essere messo in dubbio,
+e quelli che ritengono Darwin troppo dubbio per essere seguito,
+possono [[Well|bene]] convenire nel ritenerlo un argomento assai vecchio di cui discutere.
+Possono [[Well|bene]], perciò, declinare ogni ulteriore discussione; e, anche se
+non sono annoiati da Darwin, possono [[Well|bene]] essere annoiati da Dayton.
+
+Ma il vero problema che rimane non ha necessariamente nulla a che fare
+né con Dayton né con Darwin.  È un vero problema perché ha
+a che fare con il mondo reale dell'[[Education|istruzione]] e della politica esistenti.
+Non riguarda i professori di cinquant'anni fa, ma
+i maestri di oggi.  È un problema delle scuole;
+un problema d'[[Education|istruzione]]; non riguarda le scimmie, ma gli uomini.
+E se «Monkeyville» non l'ha risolto esattamente, la maggior parte di coloro
+che si fanno beffe di «Monkeyville» non pare nemmeno sapere che esso
+esiste per essere risolto.  Ben lungi dall'aver scoperto la soluzione,
+non hanno ancora scoperto il problema.  E sotto questo riguardo,
+tutti gli illuminati Evoluzionisti che hanno sorriso della faccenda
+sono in realtà assai meno avanzati, assai meno al passo con i [[Time|tempi]],
+assai meno consapevoli del nuovo mondo del ventesimo secolo,
+dei selvaggi Fondamentalisti del Tennessee.
+
+Il problema nasce dall'[[Education|istruzione]] obbligatoria. È il grande [[Paradox|paradosso]] del mondo moderno. È il fatto che, proprio nel [[Time|momento]] in cui il mondo decideva che gli uomini non dovessero essere costretti quanto alla loro forma di religione, decideva altresì che dovessero essere costretti quanto alla loro [[Education|istruzione]]. La [[Queen Elizabeth|regina Elisabetta]] promulgò un Atto di Conformità in virtù del quale tutto il popolo doveva andare in chiesa; la [[Queen|regina]] Vittoria vide farsi un altro Atto di Conformità in virtù del quale tutto il popolo doveva andare a scuola. Ora, in pura ragione, è del tutto chiaro e del tutto certo che entrambi erano, nel medesimo senso, una persecuzione. Entrambi davano per vere certe cose, e punivano chiunque agisse come se fossero false. Ma questo riconoscimento razionale fu per qualche [[Time|tempo]] coperto e confuso da due fatti — o finzioni. Il primo fu ciò che si potrebbe chiamare la Teoria delle Tre R. Vale a dire, era una teoria secondo cui l'istruzione poteva limitarsi a cose tanto semplici e tanto [[Self|evidenti]] di per sé che nessuno, tranne un pazzo, sarebbe stato minimamente incline a contestarle. L'altro fu ciò che si potrebbe chiamare la Teoria dell'[[Education|Istruzione]] Laica, che le menti più confuse chiamavano [[Education|Istruzione]] Aconfessionale, o [[Education|Istruzione]] Interconfessionale. Vale a dire, era una teoria secondo cui la religione, nel senso stretto della teologia, era l'unica cosa su cui perfino i pazzi avrebbero avuto qualche probabilità di litigare. In breve, la teoria era che un cristiano e un maomettano potessero apprendere le stesse lezioni nella stessa classe, su novantanove materie su cento, purché nessuno nominasse Maometto o nominasse [[Christ|Cristo]]. Pare strano che nessuno si accorgesse dei limiti di una simile visione. Gli uomini, in verità, non parlano incessantemente a ogni [[Dance|ballo]] o cena a proposito di Maometto. Ma gli uomini, di quando in quando, parlano di vino. Gli uomini, perfino nei loro momenti più sfrenati, parlano di mogli. E il musulmano e il cristiano o devono essere istruiti separatamente circa il vino e le mogli; oppure devono essere istruiti insieme a spese dell'una o dell'altra religione; oppure non devono mai essere istruiti circa il vino o le mogli, in alcun modo. Quest'ultima cosa è ciò che dovrebbe logicamente conseguire dall'[[Education|istruzione]] aconfessionale, per quanto paia un poco carente come dettagliato programma di istruzione intorno alla vita. In pratica, poche persone escludono davvero questi argomenti in quanto teologici. Poche persone dicono, quando venga loro offerto un bicchiere di sherry: «Non sia così confessionale». Pochi considerano l'osservazione: «Mia moglie è a Brighton» come una riflessione provocatoria e offensiva sul Corano. Ma ciò non avveniva perché i disaccordi religiosi non contino, bensì perché su questi punti la maggior parte degli inglesi non era in realtà in disaccordo in fatto di religione. Ma con il crescere di nuove filosofie e teorie, essi sono davvero in disaccordo in fatto di religione. Il proibizionista ritiene davvero che sia non soltanto confessionale, ma disdicevole, bere quel bicchiere di sherry. L'[[Lover|Amante]] Libero non ritiene disdicevole, e forse nemmeno confessionale, l'essere legato a cinque donne invece che a una. In altre parole, non possiamo più sentire che la controversia religiosa nascerà soltanto dalla conversazione religiosa. In tal senso, non possiamo più essere certi che la religione possa nascere soltanto dalla religione.
+
+Ora, è un'assurdità dire che una simile [[philosophy|filosofia]] non possa essere inculcata se non attraverso la teologia. È un'assurdità dire che si sono tenute simili cose fuori dalle scuole semplicemente tenendo il prete fuori dalla scuola, quando si ammette [[The Professor|il professore]] nella scuola. [[The Professor|Il professore]] può predicare qualsiasi idea settaria, non nel nome di una setta, ma nel nome di una scienza. [[The Professor|Il professore]] può predicare la diabolica distruttività del bicchiere di sherry, e chiamarla una lezione di psicologia o di patologia. [[The Professor|Il professore]] può predicare i vantaggi della poligamia, e chiamarla una lezione di antropologia o di [[history|storia]]. [[The Professor|Il professore]] può insinuare qualsiasi idea sulla vita, perché la biologia è lo studio della vita. [[The Professor|Il professore]] può suggerire qualsiasi veduta sulla [[Nature|natura]] dell'uomo, perché la [[history|storia]] è il racconto dell'uomo. E il caso è complicato dal fatto che gli educatori insegnano sempre più materie, pur fingendo di predicare sempre meno credi. È impossibile ricorrere al vecchio argomento del carattere [[Self|evidente]] di per sé delle Tre R, quando le Tre R stanno in realtà per Ragione, Religione e Razionalismo. È impossibile sostenere al tempo stesso che il maestro debba insegnare ogni cosa, e sostenere che non insegnerà nulla che non piaccia a tutti. In pratica, gli basta insegnare qualunque cosa piaccia a qualcuno; e quel qualcuno è lui stesso. E se le sue private opinioni si dànno a essere di quella sorta piuttosto rozza che comunemente è contemporanea alle nuove scienze o pseudo-scienze, e a esse legata, egli può insegnare una qualsiasi di esse sotto la copertura di quelle scienze. È contro questo che la gente di Dayton, nel Tennessee, era davvero in rivolta. Ed è in ciò che la gente di Dayton, nel Tennessee, aveva davvero e completamente ragione.
+
+È evidentemente ingiustissimo che al vecchio credente sia proibito insegnare le sue vecchie credenze, mentre il nuovo credente è libero di insegnare le sue nuove credenze. È vero che il culto della [[Bible|Bibbia]] dei Fondamentalisti non è in realtà molto antico. È vero che la Selezione Naturale dei Darwiniani non è in realtà molto nuova. Ma in quelle condizioni americane le cose stanno in qualche siffatta relazione; e, comunque stiano, l'argomento generale resta in piedi. È evidentemente iniquo e irragionevole che l'[[Education|istruzione]] laica proibisca a un uomo di dire che una religione è vera e permetta a un altro di dire che è falsa. È evidentemente essenziale alla giustizia che l'[[Education|istruzione]] non settaria tagli da entrambe le parti; e che se l'ortodosso deve cancellare l'affermazione di avere un'origine divina, il materialista deve cancellare l'affermazione che l'uomo ha un'origine interamente ed esclusivamente bestiale. La difficoltà nasce dalla combinazione dell'ampliamento dell'[[Education|istruzione]] con l'esclusione dell'[[Education|istruzione]] religiosa. Ma se i Fondamentalisti dicono che certi laicisti abusano del diritto all'[[Education|istruzione]] laica, dicono cosa oltremodo probabile; e, se dicono che ciò è intollerabile, dicono la [[Truth|verità]].
 
 === end ==

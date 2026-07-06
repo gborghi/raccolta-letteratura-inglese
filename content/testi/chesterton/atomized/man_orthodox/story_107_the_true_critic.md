@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_106_the_lesson">‹ Story 106 The Lesson</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_108_fairy_tales">Story 108 Fairy Tales ›</a></div>
@@ -49,3 +51,48 @@ His praise will almost certainly be sound; his blame should always
 remain to his own mind a little dubious.
 
                                                 The Speaker, May 3rd, 1902
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_106_the_lesson">‹ Story 106 The Lesson</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_108_fairy_tales">Story 108 Fairy Tales ›</a></div>
+</nav>
+
+IL VERO CRITICO
+
+Si dice che l'ottimismo sia impopolare proprio di questi tempi, e che l'ottimismo
+in materia di critica giaccia sotto un disprezzo particolarmente sferzante.
+Eppure, malgrado tutto, la critica dovrà farsi più
+ottimista, o perdere del tutto la sua presa sull'avvenire.
+L'unica cosa cattiva della critica è il suo nome.
+Esso deriva da una parola che significa giudice penale,
+e di conseguenza si è finora supposto che la critica
+abbia a che fare con delitti letterari.  Il giudizio favorevole
+del critico è sempre stato, nell'opinione corrente,
+un assolvere un uomo dal peccato, non un riconoscergli un merito.
+Se la critica fosse in buona salute, avrebbe scoperto
+un solo epiteto per esprimere il valore di Coleridge, invece di una
+mezza centuria di epiteti per esprimere l'inutilità di Marie Corelli.
+
+L'ottimismo, ossia la più alta lode possibile di tutte le cose, dovrebbe essere
+la nota dominante della critica.  Può sembrare un'affermazione audace,
+ma la si può mettere alla prova con un procedimento molto ampio e semplice.
+Si confronti la genuinità della critica di un uomo quando loda qualcosa
+con la sua genuinità quando esclude qualcosa, e tutti sentiremo
+quanto più spesso concordiamo con la prima che con la seconda
+... Nel lodare i grandi uomini acconsentiamo di buon grado a un superlativo,
+ma rifiutiamo recisamente un comparativo.  Ci accostiamo assai
+all'ottimismo di quel superlativo universale che, nel mattino
+del mondo, dichiarò tutte le cose molto buone.
+
+Uno dei risultati di questo fatto è che, quando un critico è davvero
+di larghe vedute, davvero comprensivo e simpatetico, e davvero
+possiede un'idea che lo guida e lo illumina, egli dovrebbe pur sempre sorvegliare
+con il più grande sospetto i propri limiti e i propri rifiuti.
+La sua lode sarà quasi certamente fondata; il suo biasimo dovrebbe sempre
+restare, alla sua stessa mente, un poco dubbio.
+
+                                                The Speaker, 3 maggio 1902

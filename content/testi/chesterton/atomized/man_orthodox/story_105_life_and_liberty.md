@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_104_autobiography">‹ Story 104 Autobiography</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_106_the_lesson">Story 106 The Lesson ›</a></div>
@@ -148,3 +150,94 @@ These things endure:  life and liberty and the boundless [[Magic|magic]]
 of [[Night|night]] and day--and what comes after.
 
                                               Daily [[Sketch]], May 14th, 1931
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_104_autobiography">‹ Story 104 Autobiography</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_106_the_lesson">Story 106 The Lesson ›</a></div>
+</nav>
+
+VITA E LIBERTÀ
+
+    (Questo brano evidentemente non fu scritto da Chesterton. Si tratta
+    presumibilmente della trascrizione di un'intervista con lui, ma vale la pena
+    includerlo qui per il suo interesse intrinseco.)
+
+Fui allevato in una famiglia inglese borghese abbastanza tipica. Mio padre era stato un uomo d'affari prospero e aveva sentito che occorreva qualcosa di più degli affari per mettersi in pace con l'universo.
+
+Era un unitariano.
+
+Non c'era una tradizione unitariana in famiglia. Ma era quella la moda dell'epoca.
+
+E credo che fin dalla mia primissima giovinezza sentissi che occorreva qualcosa di più.
+
+Non credo di essere mai cambiato io stesso.
+
+Fin dal principio, credo, fui sbalordito dallo stupendo prodigio dell'esistenza: dal miracolo della luce del sole che entra da una [[Window|finestra]], dal miracolo della gente che cammina sulle proprie gambe per le strade, dal miracolo della gente che si parla l'un l'altro.
+
+Questo prodigio mi affascinava, come mi affascina ancora oggi.
+
+E dissi a me stesso—o avrei potuto dire a me stesso—[[Well|ebbene]], non basta questo? E l'Eco avrebbe potuto rispondere:
+
+«Sì, basta. Se lo vedi. E se saprai vederlo sempre.» Un bel bocconcino, per un'Eco! Ma, in verità, è proprio questo che l'Eco disse.
+
+Il che mi porta a quello che fu un evento importante della mia vita, benché, come dico, vi conducesse il pensiero.
+
+Mi capitò tra le mani Leaves of Grass di Watt Whitman; allora la chiamai una rivelazione. Metteva nero su bianco le cose che avevo sempre saputo. La gloria e la magia dell'universo di Dio: gli spettacoli della notte e del giorno, e «nel mezzo, la bella mano destra di Dio».
+
+[[Well|Ebbene]], ben presto scoprii che coloro i quali imitavano i versi irregolari di Whitman tralasciavano la [[Magic|magia]] dell'universo ed erano decisamente ostili alla bella mano destra di Dio. Ciò era inquietante. Dio andava bene, l'universo andava bene, Whitman andava bene. Ma qualcosa era andato storto.
+
+Poi, di nuovo, da giovanissimo, fui socialista.
+
+Credo di aver sempre detestato l'idea che le cose vengano fatte a partire da un centro.
+
+Odiavo la burocrazia.
+
+Ma mi dissero che, se volevo sbarazzarmi delle molteplici iniquità del capitale aggressivo, dell'interesse, dovevo sbarazzarmi della proprietà privata.
+
+E così credetti loro.
+
+Sebbene ciò in cui davvero credevo fosse quel genere di cosa che raffigura William Morris, con ogni artigiano padrone della propria bottega.
+
+Forse l'evento catastrofico—se ne volete uno—fu la guerra sudafricana.
+
+Vi scorsi qualcosa che mi parve la più meschina forma di rapina finanziaria, sostenuta da persone perbene e sincere come Stopford Brooke (ai cui piedi mi ero seduto da [[Child|bambino]]), York Powell e i Fabiani—a quanto pareva unicamente perché l'Impero britannico era grande e la Repubblica del Transvaal era piccola.
+
+Ciò mi turbò profondamente. Perché tutti questi uomini e queste donne per bene sbagliavano?
+
+E ancora: ho sempre creduto nella Libertà.
+
+Ma notai che tutti coloro i quali dicevano di credere nella Libertà e in nient'altro si affrettavano subito a incatenarsi.
+
+Si guardino i vecchi militanti della S.D.F. Uomini splendidi come Hyndman e Bax!
+
+Ma ciò che fecero fu adottare un credo economico (quello che oggi professano i russi) secondo cui tutto ciò che accade deve accadere—che, in realtà, nessuno può essere libero. Mi parve un modo ben misero di usare la propria [[Freedom|libertà]].
+
+E, badate bene, ho notato che l'idea moderna di [[Freedom|libertà]] pare consistere in questo: che non vi sia consentito allevare la vostra famiglia come volete, che non vi sia consentito sposarvi come volete, che non vi sia consentito bere come volete.
+
+Ben presto compresi che la libertà era cosa più complicata di quanto avessi immaginato, e che pareva aver bisogno di qualcuno (forse Dio) che stesse fuori dalla vita umana come arbitro.
+
+Una delle cose che hanno fatto la differenza per me è il possedere un mio luogo in campagna. Ero nato e cresciuto Cockney. Ero del tutto cittadino. E poi mi trasferii in campagna e comprai un campo. Il mio campo! Tutto mio!
+
+E poi vi costruii uno studio. Il mio studio, tutto mio. In quello studio potevo mettere in scena i miei drammi (o quelli di mia moglie), e chiunque mi dicesse di no poteva andare al diavolo. E poi la [[house|casa]] crebbe attorno allo studio.
+
+E ora sono orgoglioso di poter dire che riesco a coltivare nel mio [[Garden|giardino]] abbastanza da tenere in vita la mia famiglia, se il nostro traballante sistema del credito andasse in pezzi e le nostre grandi città fossero colpite dalla carestia.
+
+Sì, ho appreso il significato della proprietà. So che cosa significhi davvero la libertà.
+
+Ma non posso escludere Dio. Perché ho visto tante cose andare storte quando escludevano Dio.
+
+La libertà divenne licenza—licenza disperata, sordida—oppure divenne pura e semplice [[Slavery|schiavitù]], la proprietà divenne monopolio. E il miracolo della vita quotidiana non contò più nulla.
+
+E così io, che cominciai come protestante, tale rimango da cattolico—un protestante contro la distruzione di tutte le cose materiali e semplici.
+
+Non sono cambiato. Dio mi fece; ed eccomi qui. Il socialismo mi deluse e gli ho voltato le spalle, perché non era sociale.
+
+Il protestantesimo mi deluse e gli ho voltato le spalle, perché non protestava.
+
+Queste cose durano: la vita e la libertà e la sconfinata [[Magic|magia]] della [[Night|notte]] e del giorno—e ciò che viene dopo.
+
+                                              Daily [[Sketch]], 14 maggio 1931

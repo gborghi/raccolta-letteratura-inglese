@@ -78,7 +78,7 @@ PREFAZIONE
 
                                                 Gilbert K. Chesterton.
 
-INDICE
+    INDICE  
 
 I.    Introduzione in difesa di tutto il resto
 

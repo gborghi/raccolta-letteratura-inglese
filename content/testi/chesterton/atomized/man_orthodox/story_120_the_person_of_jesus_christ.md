@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_119_the_spring_in_the_soul">‹ Story 119 The Spring In The Soul</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_121_the_dragon">Story 121 The Dragon ›</a></div>
@@ -109,3 +111,28 @@ there is always going forward one ancient mystery play in which there
 are only two characters.
 
                                            The Speaker, February 9th, 1901
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_119_the_spring_in_the_soul">‹ Story 119 The Spring In The Soul</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_121_the_dragon">Story 121 The Dragon ›</a></div>
+</nav>
+
+LA PERSONA DI GESÙ CRISTO
+
+Chesterton era stato invitato a rispondere a un articolo dell'Hibbert Journal, che aveva messo in dubbio la divinità di nostro Signore e attribuito fallibilità ed errore umani al suo insegnamento. Egli comincia dicendo che intende parlare del «Gesù reale quale appare nel Nuovo Testamento; non come appare a un credente, ma come appare a chiunque; come apparve a me quando ero agnostico; come apparve e ancora appare ai pagani quando per la prima volta leggono di lui». Se dunque, dice, io parlo di lui in questo articolo con qualcosa che suona persino come leggerezza, si intenda che parlo, per amore di argomentazione, di un ipotetico Gesù umano nei documenti siriaci, e non di quella divina personalità in cui credo.»
+
+«Ora, la cosa che più mi colpisce di [chi critica] è che ha torto sui fatti. Ha torto soprattutto sul fatto primario, ossia quale sorta di persona appaia essere il Gesù dei Vangeli. Tutta la [sua] tesi si riduce in ultima analisi a questo: che quando guardiamo, per così dire, attraverso le quattro finestre degli Evangelisti questa misteriosa figura, vi scorgiamo un riconoscibile ebreo del primo secolo, con i tracciabili limiti di un uomo simile. Ora, questo è esattamente ciò che non vediamo. Se dobbiamo dire la cosa in modo profano e senza simpatia, ciò che vediamo è questo: un essere straordinario che sarebbe certamente sembrato folle in un secolo come in un altro, che avanza una vaga e vasta pretesa di divinità, che si contraddice di continuo, che impone comandi impossibili, che laddove ci sembra in torto sarebbe certamente sembrato altrettanto in torto a chiunque altro, e che laddove ci sembra nel giusto è spesso in sintonia con cose non antiche ma moderne, come, per esempio, l'adorazione dei bambini. Per alcune delle sue affermazioni gli uomini potrebbero a buon diritto chiamarlo maniaco; per altre, gli uomini di lunghi secoli posteriori potrebbero giustamente chiamarlo profeta. Ma ciò che nessuno può in alcun modo chiamarlo è un galileo del tempo di Tiberio. Non così apparve alla sua stessa famiglia, che tentò di rinchiuderlo come un pazzo. Non così apparve alla sua stessa nazione, che lo linciò, ancora rabbrividendo alle sue bestemmie che scuotevano la terra. L'impressione prodotta sugli scettici, antichi e moderni, non è quella di limiti, ma piuttosto di una pericolosa assenza di limiti; una certa informità e un mistero di cui non si può dire fino a che punto arriverà. ... La cosa da dire di Gesù, se non vi piace, è che fu un megalomane come Nerone o un mistagogo come Cagliostro. Ma sia stato piccolo o no, è chiaro che i Vangeli sono troppo piccoli per lui. Sia grande o no, egli è troppo grande per la scena. ...
+
+Se do per scontato (come fa la maggior parte della gente moderna) che Gesù di Nazareth fu uno degli ordinari maestri degli uomini, allora lo trovo splendido e suggestivo davvero, ma pieno di enigmi e di pretese oltraggiose, tutt'altro che un consigliere così pratico e quotidiano come molti pagani e molti gesuiti. Ma se mi pongo ipoteticamente nell'altro atteggiamento, il caso diventa curiosamente avvincente e persino emozionante. Se dico: «Supponiamo che il Divino abbia davvero camminato e parlato sulla terra: che cosa saremmo portati a pensarne?» — allora le fondamenta stesse della mia mente sono scosse. Per quanto io possa formulare una congettura, penso che vedremmo in un tale essere esattamente le perplessità che vediamo nella figura centrale dei Vangeli: penso che ci sembrerebbe estremo e violento, perché vedrebbe qualche ulteriore sviluppo nella virtù che per noi sarebbe non sperimentato. Penso che ci sembrerebbe contraddirsi, perché, guardando dall'alto la vita come una mappa, vedrebbe una connessione fra cose che per noi sono sconnesse. Penso, tuttavia, che egli suonerebbe sempre vero al nostro stesso senso del giusto, ma suonerebbe (per così dire) troppo forte e troppo chiaro. Sarebbe troppo buono, ma mai troppo cattivo per noi: «Siate perfetti». Penso che vi sarebbe, nella [[Nature|natura]] delle cose, qualche tragica collisione fra lui e l'umanità che aveva creato, culminante in qualcosa che sarebbe a un tempo un delitto e un'espiazione. Penso che sarebbe biasimato come un duro [[Prophet|profeta]] per aver abbattuto i superbi, e biasimato anche come un debole sentimentale per aver amato le cose che si stringono negli angoli, i bambini o i mendicanti. Penso, in breve, che ci darebbe la sensazione di capovolgere tutti i nostri criteri, e insieme la sensazione di averli innegabilmente rimessi nel verso giusto. Così, se fossi stato un saggio greco o un poeta arabo prima di [[Christ|Cristo]], mi sarei figurato, in [[A Dream|un sogno]], che cosa accadrebbe davvero se questa terra portasse segretamente il padre degli dèi e degli uomini. In astratto, può darsi che sia ancora soltanto [[A Dream|un sogno]]. Fra coloro che pensano sia [[A Dream|un sogno]] e coloro che non lo pensano si combatterà la grande guerra del nostro futuro, nella quale tutte queste frivolezze saranno dimenticate.
+
+                                               Hibbert Journal, luglio 1909
+
+LA DIVINA [[Comedy|COMMEDIA]]
+
+Al principio e al termine di ogni vita, dotta e ignorante, permane la [[Truth|verità]] che nell'intimo teatro dell'[[Soul|anima]] dell'uomo, con una scenografia di infiniti senza fondo e di spaventose astrazioni, si svolge sempre un antico dramma sacro in cui non vi sono che due personaggi.
+
+                                           The Speaker, 9 febbraio 1901

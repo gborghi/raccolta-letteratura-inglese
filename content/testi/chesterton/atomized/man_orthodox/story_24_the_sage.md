@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_23_surprise">‹ Story 23 Surprise</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_25_the_hippopotamus_and_the_crocodile">Story 25 The Hippopotamus And The Crocodile ›</a></div>
@@ -19,3 +21,18 @@ INTIMATIONS
 THE LITTLE THINGS
 
 `MERE PARADOX'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_23_surprise">‹ Story 23 Surprise</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_25_the_hippopotamus_and_the_crocodile">Story 25 The Hippopotamus And The Crocodile ›</a></div>
+</nav>
+
+IL SAGGIO
+PRESENTIMENTI
+LE PICCOLE COSE
+
+`MERO PARADOSSO'

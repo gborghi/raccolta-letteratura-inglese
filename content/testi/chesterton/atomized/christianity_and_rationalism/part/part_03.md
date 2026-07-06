@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/christianity-and-rationalism-(chesterton)">Christianity and Rationalism</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/christianity_and_rationalism/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/christianity_and_rationalism/part/part_04">part 04 ›</a></div>
@@ -110,3 +112,109 @@ for [[Christianity]].  And, oddly enough, the two or three arguments
 he has omitted to state are the really vital and essential ones.
 Without them, even the excellent four facts which he and I have
 respectively explained may apprear superficially unitelligible.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/christianity-and-rationalism-(chesterton)">Christianity and Rationalism</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/christianity_and_rationalism/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/christianity_and_rationalism/part/part_04">part 04 ›</a></div>
+</nav>
+
+Non occorre andar lontano per trovare esempi del tutto estranei a quelli
+della religione.  Quando le moderne dottrine di fratellanza e libertà
+furono predicate in Francia nel diciottesimo secolo, i [[Time|tempi]] erano
+maturi per esse, le classi colte ovunque erano andate maturando
+verso di esse, il mondo in misura assai considerevole le accolse.
+Eppure tutta quella preparazione e quell'apertura non valsero a impedire
+lo scoppio d'ira e d'angoscia che accoglie ogni cosa buona.
+E se la lenta e cortese predicazione della fraternità razionale in un'epoca
+razionale finì nei massacri di settembre, che a fortiori è mai questo!
+Quale sarebbe verosimilmente l'effetto della caduta improvvisa
+in un secolo spaventosamente malvagio di una [[Truth|verità]] spaventosamente perfetta?
+Che cosa accadrebbe se un mondo più abietto del mondo di Sade fosse
+posto di fronte a un vangelo più puro del vangelo di Rousseau?
+
+Il solo gettare il levigato ciottolo dell'Idealismo repubblicano nel
+lago artificiale dell'Europa del diciottesimo secolo produsse uno spruzzo
+che parve schizzare i cieli, e una [[Storm|tempesta]] che annegò diecimila
+uomini.  Che cosa accadrebbe se una stella dal cielo cadesse davvero
+nella pozza melmosa e sanguinosa di un'umanità disperata e decadente?
+Gli uomini spazzarono una [[City|città]] con la ghigliottina, un continente con la sciabola,
+perché Libertà, Uguaglianza e Fraternità erano troppo preziose per essere perdute.
+E se il [[Christianity|Cristianesimo]] fosse ancora più esaltante perché era
+ancora più prezioso?
+
+Ma perché insistere sul punto, quando Colui che conobbe la [[Nature|natura]] umana come
+essa si può davvero apprendere, da pescatori e donne e gente semplice,
+scorse dal suo quieto villaggio la traccia di questa [[Truth|verità]] attraverso la [[history|storia]],
+e, dicendo di esser venuto a portare non la pace ma una [[Sword|spada]], eresse
+in eterno il suo colossale realismo contro l'eterno sentimentalismo
+del Secolarista?
+
+Così, dunque, nel terzo caso, quando il dotto scettico dice:
+«Il Cristianesimo ha prodotto guerre e persecuzioni», risponderemo:
+«Naturalmente».
+
+E, da ultimo, permettetemi di prendere un esempio che mi conduce direttamente
+alla questione generale che desidero trattare nello spazio che ancora mi resta
+degli articoli a mia disposizione.  Il Secolarista fa costantemente notare
+che le religioni ebraica e cristiana cominciarono come cose locali;
+che il loro dio era un dio tribale; che gli diedero forma materiale,
+e lo legarono a luoghi particolari.
+
+Questo è un eccellente esempio di una di quelle cose che, se io
+conducessi una campagna dettagliata, userei come argomento
+a favore della validità dell'esperienza biblica.  Perché se davvero
+esistono altri esseri più alti di noi, e se essi,
+in qualche strano modo, in qualche crisi emotiva, davvero si rivelarono
+a rozzi poeti o sognatori in tempi assai semplici,
+che quella gente rozza consideri la rivelazione come locale,
+e la colleghi al particolare [[Hill|colle]] o [[River|fiume]] dove essa avvenne,
+mi pare esattamente ciò che ogni essere umano ragionevole si aspetterebbe.
+Ha un'aria assai più credibile che se avessero discettato di [[philosophy|filosofia]] cosmica
+fin dal principio.  Se l'avessero fatto, avrei sospettato «arte sacerdotale»
+e falsificazioni e gnosticismo di terzo secolo.
+
+Se esiste un essere come Dio, ed Egli può parlare a un [[Child|bambino]],
+e se Dio parlò a un [[Child|bambino]] nel [[Garden|giardino]], il [[Child|bambino]] direbbe, ovviamente,
+che Dio abitava nel [[Garden|giardino]].  Non per questo la riterrei meno
+probabilmente vera.  Se il [[Child|bambino]] dicesse:  «Dio è dappertutto:
+un'essenza impalpabile che pervade e sostiene allo stesso modo tutti i costituenti
+del Cosmo» — se, dico, il fanciullo mi si rivolgesse nei
+termini suddetti, penserei che assai più probabilmente sia stato
+con la governante che con Dio.
+
+Così, se Mosè avesse detto che Dio era un'Energia Infinita, sarei certo
+che non aveva visto nulla di straordinario.  Poiché disse ch'Egli era un Roveto Ardente,
+ritengo assai probabile che qualcosa di straordinario l'abbia visto.
+Poiché, quale che sia il Segreto Divino, e che esso abbia o no
+(come tutti gli uomini hanno creduto) talvolta rotto gli argini e fatto irruzione
+nella nostra opera, esso giace almeno dalla parte più lontana dai pedanti
+e dalle loro definizioni, e più vicina alle anime d'argento della gente tranquilla,
+alla [[Beauty|bellezza]] dei cespugli, e all'[[Love|amore]] per il proprio luogo natale.
+
+Così, dunque, nel nostro ultimo caso (fra le centinaia che si potrebbero prendere),
+concludiamo allo stesso modo.  Quando il dotto scettico dice:
+«Le visioni dell'Antico Testamento erano locali, e rustiche, e [[Grotesque|grottesche]]»,
+risponderemo:  «Naturalmente.  Erano autentiche».
+
+Così, come ho detto all'inizio, mi trovo, per cominciare,
+faccia a faccia con la difficoltà che menzionare le ragioni che io
+ho per credere nel [[Christianity|Cristianesimo]] è, in moltissimi casi, ripetere
+quegli argomenti che il signor Blatchford, in qualche strano modo, pare
+considerare argomenti contro di esso.  Il suo libro è davvero ricco e potente.
+Egli ha indubbiamente piazzato questi quattro grossi cannoni di cui ho parlato.
+Non ho nulla da dire contro la mole e le munizioni dei cannoni.
+Dico soltanto che, per qualche accidente di disposizione, ha piazzato quei quattro
+pezzi d'artiglieria con le culatte puntate verso di me e le bocche
+puntate verso di sé.  Se non fossi tanto umano, direi:
+«Signori della Guardia Secolarista, [[Fire|fate fuoco]] per primi».
+
+Ma c'è dell'altro da dire.  Il signor Blatchford, per una ragione o per l'altra
+(forse per mancanza di spazio), ha trascurato di addurre tutti gli argomenti
+a favore del [[Christianity|Cristianesimo]].  E, cosa curiosa, i due o tre argomenti
+che ha omesso di esporre sono quelli davvero vitali ed essenziali.
+Senza di essi, perfino gli eccellenti quattro fatti che egli e io abbiamo
+rispettivamente spiegato possono apparire superficialmente inintelligibili.

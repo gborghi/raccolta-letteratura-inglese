@@ -148,7 +148,7 @@ but the principle is the right one.
 BOOK MANUFACTURERS
 RAHWAY  NEW JERSEY
 
-INDICE
+    INDICE  
 
 INTRODUZIONE
 IL [[Romance|ROMANZO]] DELLA RIMA

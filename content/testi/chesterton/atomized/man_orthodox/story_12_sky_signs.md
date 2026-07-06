@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_11_automatic_evil">‹ Story 11 Automatic Evil</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_13_against_divine_discontent">Story 13 Against Divine Discontent ›</a></div>
@@ -17,3 +19,16 @@ tags:
 SKY SIGNS
 THE MONSTROSITY
 POLITICS AND DISCONTENT
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_11_automatic_evil">‹ Story 11 Automatic Evil</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_13_against_divine_discontent">Story 13 Against Divine Discontent ›</a></div>
+</nav>
+
+INSEGNE NEL CIELO
+LA MOSTRUOSITÀ
+POLITICA E SCONTENTO

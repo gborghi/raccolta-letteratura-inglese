@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/jealousy-(chesterton)">Jealousy</a></div>
 </nav>
@@ -76,3 +78,75 @@ But still she mourns the only thing
 She ever really wanted badly;  
 The sympathy of Conan Doyle  
 The patronage of Dennis Bradley.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/jealousy-(chesterton)">Jealousy</a></div>
+</nav>
+
+[[Jealousy|GELOSIA]]  
+
+«La [[Catholic Church|Chiesa Cattolica Romana]] non ci ha mai  
+perdonato d'aver convertito Sir [[arthur|Arthur]] Conan  
+Doyle dal suo Agnosticismo; e quando Uomini  
+come il signor Dennis Bradley non sanno più  
+accontentarsi dell'antica [[Faith|Fede]], uno Spirito di  
+[[Jealousy|Gelosia]] naturalmente si desta.»  
+--Un giornale spiritista  
+
+Sedeva sui suoi Sette Colli,  
+si stracciava indosso le vesti scarlatte,  
+né mai nei suoi duemila anni  
+s'era doluta che gli uomini la mettessero in [[Doubt|dubbio]];  
+ma quale nuovo orrore le scuote la mente  
+e la fa gemere e farneticare da folle;  
+ecco! l'alto cuore di Roma è infine spezzato,  
+i suoi nemici le hanno carpito Dennis Bradley.  
+
+Se deve appoggiarsi a puntelli minori  
+di fama terrena o d'arte antica,  
+arrangiarsi con Raffaello e con Racine,  
+rassegnarsi a [[Dante]] e a Cartesio,  
+non del tutto sa mascherare il suo dolore,  
+ma tocca la ferita e mormora mesta:  
+«Queste cose minori sono da [[Love|amare]] per coloro  
+che perdono l'[[Love|amore]] del signor Bradley.»  
+
+Vide il grande Origene andarsene  
+e Fozio lacerare il mondo in due,  
+il suo grido a tutto l'Oriente le tornò indietro  
+nell'[[Islam]] come suo ironico tuono,  
+perdette Gerusalemme e il Nord  
+accettando di buon grado questi accomodamenti  
+finché non si giunse al caso  
+di Conan Doyle contro Dennis Bradley.  
+
+O tenere e folli speranze che ancora  
+nei cuori spezzati ardono indomite,  
+e se, stanco delle vie nuove,  
+il prezioso ramingo dovesse tornare,  
+la Tromba il cui suono incerto  
+ha appena preso a incrinarsi piuttosto male  
+potrebbe ancora restare entro le sue corti,  
+la sua Tromba — soffiata da Dennis Bradley.  
+
+La sua e la di lei Tromba soffiata dinanzi  
+alla battaglia dove la buona causa vince,  
+più forte di tutte le arpe irlandesi  
+o dei violini italiani;  
+quando, armata e a cavallo come Santa Giovanna,  
+ella incontra il folle mondo che folle cavalca  
+sotto l'Orifiamma d'un tempo  
+gridando: «Mont-joie San Dennis Bradley!»  
+
+Ma in quest'ora ella ancora si duole,  
+benché tutte di nuovo le generazioni  
+si levino e la dicano beata, rivendichino  
+il suo nome sopra le Nazioni appena nate;  
+ma ancora piange l'unica cosa  
+che davvero abbia mai ardentemente voluto:  
+la simpatia di Conan Doyle,  
+il patrocinio di Dennis Bradley.

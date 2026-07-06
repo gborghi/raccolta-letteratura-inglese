@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_08">part 08 ›</a></div>
@@ -201,3 +203,200 @@ high-toned conjurer because you can't any longer take all the sidewalk
 as a fairy.
 
 PATRICIA. [_Crossing the room and speaking seriously to her brother._]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_08">part 08 ›</a></div>
+</nav>
+
+PRESTIGIATORE. [_Venendo davanti al tavolo e appoggiandovisi
+
+contro._] La risposta a me. Voi pensate che io sia un bugiardo perché ho passeggiato per i
+
+campi con voi e ho detto che sapevo far sparire le pietre. [[Well|Beh]], è vero, so farlo.
+
+Sono un prestigiatore. A rigor di fatti, non era una bugia. Ma se fosse
+
+stata una bugia l'avrei detta lo stesso. Ne avrei dette venti
+
+di bugie simili. Potete sapere o no perché.
+
+PATRICIA. Non so nulla di simili bugie.
+
+     [_Posa la mano sulla maniglia della porta, ma il_ PRESTIGIATORE,
+
+     _che siede sul tavolo e fissa i propri stivali, non
+
+     nota il gesto, e prosegue come in un sincero soliloquio._
+
+PRESTIGIATORE. Non so se abbiate la minima idea di che cosa significhi per un
+
+uomo come me parlare con una signora come voi, anche con false pretese. Sono un
+
+avventuriero. Sono una canaglia, se ci si può guadagnare il titolo stando in tutte
+
+le società di canaglie del mondo. Ho ragionato ogni cosa da
+
+solo, quando ero un monello di strada in Fleet Street, o, più in basso ancora, un
+
+giornalista in Fleet Street. Prima di incontrarvi non avevo mai immaginato che i ricchi
+
+pensassero affatto. [[Well|Beh]], questo è tutto ciò che ho da dire. Abbiamo avuto delle
+
+belle conversazioni, non è vero? Sono un bugiardo. Ma vi ho detto una gran quantità
+
+di [[Truth|verità]].
+
+     [_Si volge e riprende a sistemare il tavolo._
+
+PATRICIA. [_Pensando._] Sì, mi avete detto una gran quantità di [[Truth|verità]].
+
+Mi avete detto centinaia e migliaia di verità. Ma non mi avete mai detto la
+
+[[Truth|verità]] che si desidera conoscere.
+
+PRESTIGIATORE. E quale sarebbe?
+
+PATRICIA. [_Rientrando nella stanza._] Non mi avete mai detto la [[Truth|verità]]
+
+su voi stesso. Non mi avete mai detto che eravate soltanto il Prestigiatore.
+
+PRESTIGIATORE. Non ve l'ho detto perché non lo so nemmeno io. Non
+
+so se io sia soltanto il Prestigiatore....
+
+PATRICIA. Che cosa volete dire?
+
+PRESTIGIATORE. A volte temo di essere qualcosa di peggio del Prestigiatore.
+
+PATRICIA. [_Con serietà._] Non riesco a pensare a nulla di peggio di un
+
+prestigiatore che non si dà il nome di prestigiatore.
+
+PRESTIGIATORE. [_Cupamente._] C'è qualcosa di peggio. [_Riprendendosi._]
+
+Ma non è questo che voglio dire. Trovate davvero la cosa così
+
+imperdonabile? Suvvia, lasciate che vi ponga un caso. Non importa se
+
+sia il nostro caso. Un uomo passa il proprio [[Time|tempo]] incessantemente andando in giro in
+
+vagoni di terza classe verso alloggi di quint'ordine. Deve inventare nuovi
+
+trucchi, nuove chiacchiere, nuove sciocchezze, a volte ogni [[Night|notte]] della sua vita.
+
+Perlopiù deve farlo nelle bestiali città nere delle Midlands e
+
+del Nord, dove non può uscire in campagna. Di tanto in tanto lo
+
+fa in una [[house|casa]] di campagna di qualche gentiluomo, dove può uscire in
+
+campagna. [[Well|Beh]], sapete che attori e oratori e ogni sorta di persone
+
+amano provare i loro effetti all'aria aperta se possono. [_Sorride._]
+
+Conoscete quella storia del grande statista che fu udito dal proprio
+
+giardiniere dire, mentre passeggiava per il [[Garden|giardino]]: «Se io, signor Presidente, avessi ricevuto
+
+il più piccolo cenno che avrei potuto essere chiamato a parlare questa
+
+sera....» [PATRICIA _trattiene un sorriso, ed egli prosegue con
+
+entusiasmo travolgente._] [[Well|Beh]], i prestigiatori sono proprio uguali. Ci vuole
+
+un po' di [[Time|tempo]] per preparare un'improvvisata. Un uomo così va in giro per i
+
+boschi e i campi facendo tutti i suoi trucchi in anticipo, e dicendo ogni sorta
+
+di farfugliamenti perché crede di essere [[Alone|solo]]. Una sera quest'uomo scoprì
+
+di non essere [[Alone|solo]]. Scoprì che una bellissima [[Child|fanciulla]] lo stava osservando.
+
+PATRICIA. Una [[Child|fanciulla]]?
+
+PRESTIGIATORE. Sì. Fu questa la sua prima impressione. È un intimo amico
+
+mio. Lo conosco da tutta la vita. Mi dice che da allora ha
+
+scoperto che lei non è una [[Child|fanciulla]]. Non risponde alla definizione.
+
+PATRICIA. Qual è la definizione di [[Child|fanciulla]]?
+
+PRESTIGIATORE. Qualcuno con cui si può giocare.
+
+PATRICIA. [_Bruscamente._] Perché portavate quel mantello col cappuccio alzato?
+
+PRESTIGIATORE. [_Sorridendo._] Credo vi sia sfuggito che stava
+
+piovendo.
+
+PATRICIA. [_Sorridendo debolmente._] E che cosa fece questo vostro amico?
+
+PRESTIGIATORE. Me l'avete già detto voi che cosa fece. Distrusse una
+
+fiaba, perché creò una fiaba che era destinato a distruggere.
+
+[_Girandosi di scatto sul tavolo._] Ma biasimate voi molto un
+
+uomo, Miss Carleon, se ha goduto dell'unica fiaba che avesse avuto nella sua
+
+vita? Supponete che dicesse che gli sciocchi cerchi che tracciava per esercizio
+
+erano davvero cerchi [[Magic|magici]]? Supponete che dicesse che le fandonie che diceva erano
+
+la lingua degli elfi? Ricordate, ha letto fiabe tanto quanto
+
+ne avete lette voi. Le fiabe sono le sole istituzioni democratiche. Tutte le
+
+classi hanno udito tutte le fiabe. Lo biasimate molto se
+
+anche lui ha cercato di prendersi una vacanza nel paese delle fate?
+
+PATRICIA. [_Con semplicità._] Lo biasimo meno di prima. Ma continuo a dire che
+
+non ci può essere nulla di peggio della falsa [[Magic|magia]]. E, dopotutto, fu lui a
+
+portare la falsa [[Magic|magia]].
+
+PRESTIGIATORE. [_Alzandosi dal suo posto._] Sì. Fu lei a portare la vera
+
+[[Magic|magia]].
+
+     [_Entra_ MORRIS, _in abito da sera. Cammina dritto verso il
+
+     tavolo della prestidigitazione; e prende un oggetto dopo l'altro, posando
+
+     ciascuno con un commento._
+
+MORRIS. Conosco quello. Conosco quello. Conosco quello. Vediamo, quello è il
+
+doppio [[Bottom|fondo]], credo. Quello funziona con un filo. Conosco quello; risale
+
+su per la manica. Quello è di nuovo il doppio [[Bottom|fondo]]. Quello è il mazzo di carte
+
+sostituito--quello....
+
+PATRICIA. Davvero, Morris, non devi parlare come se sapessi tutto.
+
+PRESTIGIATORE. Oh, non m'importa che qualcuno sappia tutto, Miss Carleon.
+
+C'è qualcosa che è molto più importante del sapere come si fa una
+
+cosa.
+
+MORRIS. E che cosa sarebbe?
+
+PRESTIGIATORE. Saperla fare.
+
+MORRIS. [_Tornando nasale nell'ira._] Ah sì, eh? Fare il
+
+prestigiatore altezzoso perché non potete più prendere tutto il marciapiede
+
+per una fata.
+
+PATRICIA. [_Attraversando la stanza e parlando seriamente a suo fratello._]

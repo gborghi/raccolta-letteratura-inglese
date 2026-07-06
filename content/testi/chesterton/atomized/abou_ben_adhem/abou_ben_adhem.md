@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/abou-ben-adhem-(chesterton)">Abou ben Adhem</a></div>
 </nav>
@@ -40,3 +42,39 @@ Gently replied the angel of the pen:
 "Labour in peace and [[Love|love]] your fellow-men:  
 And [[Love|love]] not God, since men [[Alone|alone]] are dear,  
 Only [[Fear|fear]] God; for you have Cause to [[Fear|fear]]."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/abou-ben-adhem-(chesterton)">Abou ben Adhem</a></div>
+</nav>
+
+# «Abou_ben_Adhem»
+
+IL FILANTROPO  
+
+(Con le nostre scuse a una Bella Poesia)  
+
+ABOU BEN ADHEM (possa la sua tribù decrescere  
+per prudente controllo delle nascite, e morire in pace)  
+mite di dottrina, prese con leggerezza la parola  
+che non lo iscriveva fra coloro che [[Love|amano]] il Signore,  
+e disse all'angelo del libro e della penna  
+«Iscrivimi come uno che ama i suoi simili:  
+per essi [[Alone|soli]] io m'affatico; per ricondurre  
+il cencioso Beduino vagabondo, e per domarlo  
+a un ordinato servizio; per sradicare la vite di coloro  
+che scherniscono il [[Prophet|Profeta]], folli di vino,  
+per lasciar entrare la luce del giorno nelle loro tende e nelle loro vite,  
+contare i loro cammelli, e persino le loro mogli;  
+tracciare il [[Desert|deserto]] in strade e piazze,  
+e stimarlo opera più feconda di quella di coloro  
+che innalzano un vano e visionario [[Love|amore]]  
+al vostro vago Allah nei cieli lassù».  
+
+Dolcemente rispose l'angelo della penna:  
+«Affaticati in pace e [[Love|ama]] i tuoi simili:  
+e non [[Love|amare]] Dio, poiché [[Alone|soltanto]] gli uomini sono cari,  
+soltanto [[Fear|temi]] Dio; ché hai Ragione di [[Fear|temere]].»

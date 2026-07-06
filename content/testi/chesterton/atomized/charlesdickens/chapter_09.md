@@ -46,7 +46,7 @@ CONTENTS
 
 PARTE SECONDA
 
-INDICE
+    INDICE  
 
                  * CAPITOLO VII
                    DICKENS E IL NATALE

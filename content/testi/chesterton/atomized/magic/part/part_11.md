@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_12">part 12 ›</a></div>
@@ -213,3 +215,212 @@ DOCTOR. [[Well]]? And why shouldn't you tell me?
 CONJURER. Because you wouldn't believe me if I did.
 
      [_A [[Silence|silence]], the_ DOCTOR _looking at him curiously._
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/magic-(chesterton)">Magic</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/magic/part/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/magic/part/part_12">part 12 ›</a></div>
+</nav>
+
+che il [[Doubt|dubbio]] può essere [[Madness|follia]], [[Well|così come]] può esserlo la [[Faith|fede]]? Che porre domande possa
+
+essere una malattia, [[Well|tanto]] quanto proclamare dottrine? Lei parla di mania
+
+religiosa! Non esiste forse una mania irreligiosa? Non c'è forse una simile
+
+cosa in questa [[house|casa]] in questo momento?
+
+DOTTORE. Allora lei pensa che nessuno dovrebbe mai mettere in questione nulla.
+
+[[smith|SMITH]]. [_Con passione, indicando la stanza accanto._] Io penso che _quello_ sia
+
+ciò che viene dal mettere in questione! Perché non potete lasciare [[Alone|in pace]] l'universo e
+
+lasciargli significare ciò che vuole? Perché il tuono non dovrebbe essere Giove? Più
+
+uomini si sono resi sciocchi domandandosi che diavolo fosse se non
+
+era Giove.
+
+DOTTORE. [_Guardandolo._] Lei crede nella sua stessa religione?
+
+[[smith|SMITH]]. [_Ricambiando lo sguardo con altrettanta fermezza._] Supponga di no: sarei
+
+comunque uno [[Fool|sciocco]] a metterla in questione. Il [[Child|bambino]] che dubita di Babbo
+
+Natale soffre d'insonnia. Il [[Child|bambino]] che crede dorme una buona [[Night|notte]].
+
+DOTTORE. Lei è un Pragmatista.
+
+     _Entra il_ DUCA, _distrattamente._
+
+[[smith|SMITH]]. È ciò che gli avvocati chiamano ingiuria volgare. Ma io mi appello davvero
+
+alla pratica. Ecco una famiglia sulla quale lei mi dice che incombe una
+
+calamità mentale. Ecco il ragazzo che mette in questione tutto e una ragazza che può
+
+credere a qualunque cosa. Su quale dei due è caduta la maledizione?
+
+DUCA. A proposito dei Pragmatisti. Sono lieto di sentire.... Ah, movimento
+
+molto all'avanguardia! Suppongo che ora Roosevelt.... [_Silenzio._] [[Well|Beh]], noi progrediamo
+
+sa, noi progrediamo! Prima c'era l'Anello Mancante. [_Silenzio._] No!
+
+_Prima_ c'era il Protoplasma... e _poi_ c'era l'Anello Mancante; e
+
+la Magna Carta e così via. [_Silenzio._] Ma guardi la Legge sulle Assicurazioni!
+
+DOTTORE. Preferirei di no.
+
+DUCA. [_Agitando verso di lui un dito scherzoso._] Ah, pregiudizio, pregiudizio! Voi
+
+dottori, si sa! [[Well|Beh]], io non ne ho mai avuti.
+
+     [_Silenzio._
+
+DOTTORE. [_Rompendo il [[Silence|silenzio]] con insolita esasperazione._] Mai avuti che cosa?
+
+DUCA. [_Con fermezza._] Mai avute azioni Marconi, io. Non le toccherei.
+
+[_Silenzio._] [[Well|Beh]], devo parlare con [[Hastings]].
+
+     [_Esce il_ DUCA, _senza meta._
+
+DOTTORE. [_Esplodendo._] [[Well|Ma]], questa poi.... [_Si volge a_ [[smith|SMITH]].] Lei
+
+mi ha chiesto poco fa quale membro della famiglia avesse ereditato la
+
+[[Madness|follia]] di famiglia.
+
+[[smith|SMITH]]. Sì; gliel'ho chiesto.
+
+DOTTORE. [_A voce bassa ed enfatica._] Sulla mia [[Soul|anima]] viva, credo che
+
+debba essere il Duca.
+
+     SIPARIO
+
+ATTO III
+
+     _Stanza in parte oscurata, un tavolo con sopra una lampada, e una
+
+     sedia vuota. Dalla stanza accanto giungono suoni fiochi e saltuari
+
+     dell'agitarsi o del parlare del malato._
+
+     _Entra il_ DOTTOR GRIMTHORPE _con un'aria piuttosto afflitta, e una
+
+     boccetta di medicina in mano. La posa sul tavolo, e si siede
+
+     sulla sedia come a vegliare._
+
+     _Entra il_ PRESTIGIATORE, _con la sua borsa, e col mantello pronto per partire. Mentre
+
+     attraversa la stanza il_ DOTTORE _si alza e lo richiama._
+
+DOTTORE. Mi perdoni, ma posso trattenerla un momento? Suppongo che lei
+
+sappia che... [_esita_] che ci sono stati sviluppi piuttosto [[Grave|gravi]]
+
+nel caso di malattia sopraggiunto dopo la sua
+
+esibizione. Non direi, certo, a causa della sua esibizione.
+
+PRESTIGIATORE. Grazie.
+
+DOTTORE. [_Un poco incoraggiato, ma parlando con molta cautela._]
+
+Nondimeno, l'eccitazione mentale è necessariamente un elemento di rilievo
+
+nei disturbi fisiologici, e i suoi trionfi di questa sera sono stati davvero così
+
+straordinari che non posso fingere di escluderli dal caso del mio
+
+paziente. Al momento egli è in uno stato per certi versi analogo al delirio, ma nel
+
+quale può ancora in parte porre domande e rispondere. La domanda che
+
+continuamente pone è come lei sia riuscito a fare il suo ultimo trucco.
+
+PRESTIGIATORE. Ah! Il mio ultimo trucco!
+
+DOTTORE. Ora mi domandavo se potessimo trovare un accordo che
+
+fosse equo verso di lei nella faccenda. Le sarebbe possibile darmi
+
+in confidenza il modo di soddisfare questa... questa idea fissa che pare
+
+essersi cacciato in testa. [_Esita di nuovo, e sceglie le parole più lentamente._]
+
+Questa particolare condizione di disputa semidelirante è rara, ed è
+
+collegata, nella mia esperienza, a casi piuttosto infausti.
+
+PRESTIGIATORE. [_Guardandolo fisso._] Intende dire che sta impazzendo?
+
+DOTTORE. [_Piuttosto sconcertato per la prima [[Time|volta]]._] Davvero, lei mi pone una
+
+domanda ingiusta. Non potrei spiegare le sottili sfumature di queste cose a
+
+un profano. E anche se... se ciò che lei suggerisce fosse vero, dovrei
+
+considerarlo un segreto professionale.
+
+PRESTIGIATORE. [_Sempre guardandolo._] E non crede di pormi una
+
+domanda piuttosto ingiusta, dottor Grimthorpe? Se il suo è un segreto
+
+professionale, non è forse anche il mio un segreto professionale? Se lei può nascondere la [[Truth|verità]]
+
+al mondo, perché non potrei io? Lei non svela i suoi trucchi. Io non svelo
+
+i miei trucchi.
+
+DOTTORE. [_Con un certo calore._] I nostri non sono trucchi.
+
+PRESTIGIATORE. [_Riflessivo._] Ah, nessuno può esserne certo finché i
+
+trucchi non vengono svelati.
+
+DOTTORE. Ma il pubblico può vedere le guarigioni di un medico chiare come....
+
+PRESTIGIATORE. Sì. Chiare come hanno visto la lampada rossa sopra la sua porta questa
+
+sera.
+
+DOTTORE. [_Dopo una pausa._] Il suo segreto, naturalmente, sarebbe custodito
+
+rigorosamente da tutti i coinvolti.
+
+PRESTIGIATORE. Oh, naturalmente. Chi è in delirio custodisce sempre i [[Secrets|segreti]]
+
+con rigore.
+
+DOTTORE. Nessuno vede il paziente all'infuori di sua sorella e di me.
+
+PRESTIGIATORE. [_Trasalendo lievemente._] Sì, sua sorella. È molto in ansia?
+
+DOTTORE. [_A voce più bassa._] Che cosa suppone lei?
+
+     [Il PRESTIGIATORE _si getta sulla sedia, il mantello scivolandogli
+
+     via dall'abito da sera. Rumina per un breve spazio e poi
+
+     parla._
+
+PRESTIGIATORE. Dottore, ci sono all'incirca mille ragioni per cui non dovrei
+
+dirle come ho fatto davvero quel trucco. Ma una sola basterà, perché è
+
+la più pratica di tutte.
+
+DOTTORE. [[Well|Ebbene]]? E perché non dovrebbe dirmelo?
+
+PRESTIGIATORE. Perché non mi crederebbe se lo facessi.
+
+     [_Un [[Silence|silenzio]], il_ DOTTORE _che lo guarda incuriosito._

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/humanitarianism-(chesterton)">Humanitarianism</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/humanitarianism/part/part_01">‹ part 01</a><span></span></div>
@@ -70,5 +72,24 @@ It is exactly that point which will decide whether we are a part
 of a great elemental movement, having in it something of the [[Greatness|greatness]]
 of a new religion, or whether we are a knot of intransigeant pessimists,
 having nothing in our lives but the miserable pleasure of [[logic]].
+
+G. K. Chesterton.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/humanitarianism-(chesterton)">Humanitarianism</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/humanitarianism/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Gli avversari dell'[[Humanitarianism|umanitarismo]] arrivano davvero a dire che l'umanitario è questo fuorilegge morale, questo caput lupinum. Arrivano davvero a dire che l'umanitario è una specie di Puritano effeminato, che non sa comprendere l'energia e il buon [[Humour|umore]] del dare-e-avere della vita. È abbastanza facile per un uomo dire questo, ma anche qui c'è una condizione: che non abbia mai incontrato alcun umanitario. Se un uomo simile capitasse per un momento in una riunione della Lega Umanitaria, come capitò a me in un'occasione non estranea a questo scritto, resterebbe turbato nel trovarvi moltissime persone dall'aria allegra proprio come se passassero l'intera giornata ad ammazzare qualcosa. E dalle loro discussioni potrebbe apprendere che molte di quelle persone si interessavano davvero alla pernice e la giudicavano più graziosa e assai più divertente senza alcuna parte della sua anatomia fracassata. In altre parole, la simpatia è indubbiamente cosa molto pericolosa, tanto per i cacciatori quanto per gli umanitari.
+
+Ma il vero umanitario (il socio della «Lega di Battersea per l'Incoraggiamento delle Cose in Generale», che io mi [[Hope|auguro]] di fondare) non avrà alcun fondamento, e di nessuno si accontenterà, tranne questa simpatia reale, universale e sommamente inquietante, che nasce dal toccare la vita in molti punti. La sua ospitalità sociale mal sopporta l'esclusivismo che chiude fuori o la pernice o l'uomo. L'uomo è sciocco esattamente quanto la pernice ed è consapevole tanto poco quanto lei di ciò che fa o del perché lo fa, e se la pernice potesse sparare all'uomo, di certo lo farebbe.
+
+Ora, sono perfettamente [[Well|ben]] consapevole che qui si affaccia l'ovvia replica a tutto questo. Ed è che nulla si farebbe mai per i bambini oppressi e torturati della terra, se cercassimo di stare da entrambe le parti di ogni questione. E naturalmente queste osservazioni sconnesse non intendono essere nulla di così impertinente come una critica ai metodi legali e polemici effettivi della Lega Umanitaria. Di questi non dico nulla, in primo luogo perché nutro per essi una profonda, anzi abietta, reverenza, e in secondo luogo perché non ne so nulla. Questo articolo intende additare alcuni dei pericoli morali insiti nell'atteggiamento morale dell'umanitario; non suggerire che egli debba mutare questa o quella particolare linea di condotta in rapporto a questa o quella particolare doglianza.
+
+È del tutto evidente che vi debba essere una grande differenza tra la simpatia pratica accordata all'una e all'altra parte. Noi predichiamo all'uomo (per continuare la mia [[Parable|parabola]] iniziale) in primo luogo perché, quali che siano i desideri delle due parti, è lui che effettivamente spara, e in secondo luogo perché è un essere morale e intelligente, per quanto non sempre ne abbia l'aria. Non predichiamo alla pernice, in primo luogo perché non ha ancora commesso alcun crimine palese, e in secondo luogo perché qualunque sermone potessimo predicarle sarebbe accolto con un grado di disattenzione rasente il languore. In breve, è facilissimo vedere che nella pratica dobbiamo essere partigiani. Ma credo che commetteremmo un errore assai reale se supponessimo che non importi nulla essere quelli che potrei chiamare umanitari partigiani, oppure quelli che potrei chiamare umanitari universali. È proprio questo il punto che deciderà se siamo parte di un grande movimento elementare, che ha in sé qualcosa della [[Greatness|grandezza]] di una nuova religione, oppure se siamo un manipolo di pessimisti intransigenti, che non hanno nella vita altro che il misero piacere della [[logic|logica]].
 
 G. K. Chesterton.

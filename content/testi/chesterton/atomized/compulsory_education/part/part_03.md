@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/compulsory-education-(chesterton)">Compulsory Education</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/compulsory_education/part/part_02">‹ part 02</a><span></span></div>
@@ -32,5 +34,18 @@ of [[Education|education]] with the exclusion of religious [[Education|education
 But if the Fundamentalists say that some secularists abuse the right
 of secular [[Education|education]], they say what is exceedingly probable--
 and, if they say it is intolerable, they tell the [[Truth|truth]].
+
+=== end ==
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/compulsory-education-(chesterton)">Compulsory Education</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/compulsory_education/part/part_02">‹ part 02</a><span></span></div>
+</nav>
+
+È evidentemente ingiustissimo che al vecchio credente sia proibito insegnare le sue vecchie credenze, mentre il nuovo credente è libero di insegnare le sue nuove credenze. È vero che il culto della [[Bible|Bibbia]] dei Fondamentalisti non è in realtà molto antico. È vero che la Selezione Naturale dei Darwiniani non è in realtà molto nuova. Ma in quelle condizioni americane le cose stanno in qualche siffatta relazione; e, comunque stiano, l'argomento generale resta in piedi. È evidentemente iniquo e irragionevole che l'[[Education|istruzione]] laica proibisca a un uomo di dire che una religione è vera e permetta a un altro di dire che è falsa. È evidentemente essenziale alla giustizia che l'[[Education|istruzione]] non settaria tagli da entrambe le parti; e che se l'ortodosso deve cancellare l'affermazione di avere un'origine divina, il materialista deve cancellare l'affermazione che l'uomo ha un'origine interamente ed esclusivamente bestiale. La difficoltà nasce dalla combinazione dell'ampliamento dell'[[Education|istruzione]] con l'esclusione dell'[[Education|istruzione]] religiosa. Ma se i Fondamentalisti dicono che certi laicisti abusano del diritto all'[[Education|istruzione]] laica, dicono cosa oltremodo probabile; e, se dicono che ciò è intollerabile, dicono la [[Truth|verità]].
 
 === end ==

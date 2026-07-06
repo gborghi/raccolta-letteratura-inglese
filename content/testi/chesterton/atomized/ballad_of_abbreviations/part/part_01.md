@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ballad-of-abbreviations-(chesterton)">Ballad Of Abbreviations</a></div>
 </nav>
@@ -52,3 +54,51 @@ When he substitutes, I freely make admission,
   One shorter and much easier to spell ;  
 If you ask him what he thinks of Prohibition,  
   He may tell you quite succinctly it is Hell.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ballad-of-abbreviations-(chesterton)">Ballad Of Abbreviations</a></div>
+</nav>
+
+# «Ballad_Of_Abbreviations»
+
+UNA BALLATA DELLE ABBREVIAZIONI  
+
+L'Americano è un tipo sbrigativo, poiché lo dice lui,  
+  e di certo l'Americano deve saperlo.  
+Ti proverà con le cifre perché conviene tanto,  
+  cominciando dalla sua fanciullezza di tanto tempo fa.  
+Quando l'aneddoto a lenta maturazione è più maturo,  
+  lo detterà come un Rapporto della Camera di Commercio,  
+e poiché non ha [[Time|tempo]] di chiamarla dattilografa,  
+  la chiama Stenografa, per far prima.  
+
+Non lo si vede mai gingillarsi o battere la fiacca,  
+  corre, poiché sa d'avere «un appuntamento»;  
+è sempre sul posto e pieno di brio,  
+  ed è per questo che è immancabilmente in ritardo.  
+Quando intuisce che si sta facendo ancora più tardi,  
+  il suo vocabolario è veemente e rapido,  
+e reclama a gran voce ciò che chiama l'Elevatore,  
+  un'abbreviazione gergale per ascensore.  
+
+Poi nulla può esser più lindo o più grazioso,  
+  per chi ama uno stile lieve e rapido,  
+che baloccarsi con un'opera del signor Dreiser  
+  mentre arriva su carri a miglia intere.  
+Ci ha insegnato che cosa fosse una rapida arte selettiva  
+  con la descrizione delle sue cene e via dicendo,  
+e della sua dimora, che egli chiama un Appartamento,  
+  perché non può fermarsi a dire un alloggio.  
+
+Possiamo bisbigliare della sua sfrenata precipitazione,  
+  che è [[Speed|velocità]] protratta ben oltre una breve spanna,  
+ma c'è davvero un'occasione precisa  
+  in cui non usa la parola più lunga che può.  
+Quando sostituisce, lo ammetto candidamente,  
+  una più breve e assai più facile da compitare;  
+se gli chiedi che cosa pensa del Proibizionismo,  
+  può dirti assai succintamente che è un Inferno.

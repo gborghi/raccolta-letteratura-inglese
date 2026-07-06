@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/balladstbarbara-(chesterton)">BalladStBarbara</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/balladstbarbara/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/balladstbarbara/part/part_03">part 03 ›</a></div>
@@ -611,3 +613,610 @@ tags:
     For wreck of the world's renown,  
 
     Rending and ending of things gone rotten,  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/balladstbarbara-(chesterton)">BalladStBarbara</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/balladstbarbara/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/balladstbarbara/part/part_03">part 03 ›</a></div>
+</nav>
+
+    dove la caccia è aperta e corre su torrente e palude e laghetto  
+
+    e le loro batterie, nere di battaglia, tengono le teste di ponte della  
+
+      Marna  
+
+    e attraverso la carneficina della Guardia, presso [[Paris|Parigi]] nella pianura,  
+
+    i Normanni gridarono ai Bretoni e i Bretoni esultarono di nuovo....  
+
+    Ma colui che narrò il racconto tornò a [[Home|casa]], alla sua [[house|dimora]] presso il mare  
+
+    e arse dinanzi a Santa Barbara la luce delle tre finestre,  
+
+    tre candele per una cosa ignota, mai più a tornare,  
+
+    che s'era aperta come l'occhio di Dio su [[Paris|Parigi]] nella pianura.  
+
+    [[elegy|ELEGIA]] IN UN CIMITERO DI CAMPAGNA  
+
+    Gli uomini che lavorarono per l'Inghilterra  
+
+    hanno le loro tombe in [[Home|patria]]:  
+
+    e le [[Bees|api]] e gli [[Birds|uccelli]] d'Inghilterra  
+
+    possono errare attorno alla [[Cross|croce]].  
+
+    Ma coloro che combatterono per l'Inghilterra,  
+
+    seguendo una stella cadente,  
+
+    ahimè, ahimè per l'Inghilterra,  
+
+    hanno le loro tombe lontano.  
+
+    E coloro che governano l'Inghilterra,  
+
+    riuniti in solenne concilio,  
+
+    ahimè, ahimè per l'Inghilterra,  
+
+    non hanno ancora tombe.  
+
+    LA [[Sword|SPADA]] DELLA SORPRESA  
+
+    Dividimi dalle mie ossa, o [[Sword|spada]] di Dio,  
+
+    finché stiano nude e strane come gli alberi;  
+
+    perché io, il cui cuore s'innalza con i boschi svettanti,  
+
+    possa stupirmi altrettanto di esse.  
+
+    Dividimi dal mio [[Blood|sangue]], affinché nel buio  
+
+    io oda scorrere quel rosso [[River|fiume]] ancestrale,  
+
+    come sepolte fiumane ramificate che trovano il mare  
+
+    ma non vedono mai il sole.  
+
+    Dammi occhi miracolosi per vedere i miei occhi,  
+
+    quegli specchi [[rolling|roteanti]] resi vivi in me,  
+
+    terribile cristallo più incredibile  
+
+    di tutte le cose che vedono.  
+
+    Dividimi dalla mia [[Soul|anima]], affinché io veda  
+
+    i peccati come ferite grondanti, il coraggioso pulsare della vita;  
+
+    finché io salvi me stesso, come vorrei salvare  
+
+    un estraneo per la strada.  
+
+    NOZZE IN [[Time|TEMPO]] DI GUERRA  
+
+    Dio nostro, che facesti due [[lovers|amanti]] in un [[Garden|giardino]],  
+
+    e li percuotesti separandoli e li rendesti liberi,  
+
+    i loro quattro occhi folli di [[Wonder|meraviglia]] e d'ira e di perdono  
+
+    e il loro bacio un tuono come labbra di terra e di mare:  
+
+    ciascuno rapito senza fine oltre l'altro,  
+
+    due mondi stellati di dèi ignoti in guerra,  
+
+    moglie e non compagna, un uomo e non un fratello,  
+
+    ti ringraziamo d'averci fatti ciò che siamo.  
+
+    Non fare che la grigia melma dell'infinito  
+
+    sommerga questi [[Flowers|fiori]] che creasti a uno a uno;  
+
+    non permettere che la [[Night|notte]], che ti fu nemica,  
+
+    mescoli un folle crepuscolo di [[Moon|luna]] e sole;  
+
+    Ridesta ancora, in scoppio di tuono e clamore,  
+
+    la [[Wonder|meraviglia]] del nostro dividerci e il [[Song|canto]],  
+
+    o spezzaci i cuori col tuo martello che frantuma l'inferno  
+
+    ma lascia un'ombra fra noi per tutto il giorno.  
+
+    Ombra di alta vergogna e onorevole cecità  
+
+    quando la giovinezza, nella [[Storm|tempesta]] di cose vertiginose e lontane,  
+
+    trova il selvaggio dono improvviso di una piccola gentilezza  
+
+    e trema al pensiero che tutto il mondo abbia ali.  
+
+    Quando l'unico capo che, volgendosi, volge i cieli  
+
+    si muove tuttavia lieve come un uccello che indugia,  
+
+    e rosso e casuale, sospinto fuori rotta ma ardente,  
+
+    come una favilla perduta passa la gloriosa parola.  
+
+    Non fare di questo sesso, quest'altro lato delle cose,  
+
+    una cosa meno distante del [[Desire|desiderio]] del mondo;  
+
+    Quale colore si aggrappa alla fine della sera  
+
+    e quale lontano grido di frontiere e quale [[Fire|fuoco]]  
+
+    caduto troppo lontano oltre il sole per esser cercato,  
+
+    ci divida pure, benché venga il nostro regno;  
+
+    con un segnale lontano nel nostro parlare segreto  
+
+    per appendere il fiero orizzonte nella nostra [[Home|casa]].  
+
+    Un tempo eravamo uno, informe nube che indugia  
+
+    gravando i mari e serrando fuori i cieli,  
+
+    uno con i boschi, un [[Monster|mostro]] dalle miriadi di dita,  
+
+    non posasti su di me alcun dito di sorpresa.  
+
+    Uno con le [[Stars|stelle]], un dio dalle miriadi di occhi,  
+
+    non ti vidi in alcun luogo e fui cieco per disprezzo:  
+
+    uno finché il mondo fu squarciato e il sorgere  
+
+    dei bianchi giorni in cui io e te nascemmo.  
+
+    Si oscura il mondo: tintinnano i ceppi antichi quanto il mondo;  
+
+    e questi che non hanno [[Hope|speranza]] dietro il sole  
+
+    possono nutrirsi come servi e figliare come bestiame,  
+
+    uno nelle tenebre come sono uno i morti;  
+
+    Noi, se la [[Grave|tomba]] squarciata renderà la sua gloria,  
+
+    le trombe ci chiameranno l'uno dall'altro e faccia a faccia:  
+
+    saremo estranei in una storia così strana  
+
+    e [[Wonder|stupiremo]], incontrandoci in un luogo così selvaggio.  
+
+    Ah, non invano né interamente in perdita  
+
+    vengono persino la nera [[Flag|bandiera]] e le orde di battaglia,  
+
+    se questi grigi demoni fuggono il segno della [[Cross|croce]]  
+
+    anche nel simbolo delle spade incrociate.  
+
+    Né la [[Death|morte]] porrà in [[Doubt|dubbio]] Colui che rese vive le nostre anime  
+
+    spade che si incontrano e non pali affiancati,  
+
+    ci comandò di prosperare nel prorompere del sole e nel tuono,  
+
+    terremoto e [[Dawn|Aurora]]; lo sposo e la sposa.  
+
+    [[Death|Morte]] e non [[Dreams|sogni]] né [[Doubt|dubbio]] di cose che non muoiono,  
+
+    di chi sia il sacro focolare o di chi la [[Sword|spada]];  
+
+    benché sacri spiriti si dividano in forte grido  
+
+    nelle Tue mani, ma le Tue due mani, o Signore,  
+
+    benché non sulla Terra come un tempo ritti in Eden  
+
+    così chiaramente di nuovo Ti vediamo qual sei,  
+
+    come in questa vampa, la deflagrazione e il marchio  
+
+    di queste selvagge nozze dove ci incontriamo e ci separiamo.  
+
+    IL MISTERO  
+
+    Se le nubi del tramonto potessero crescere sugli alberi  
+
+    non farebbero che pareggiare il biancospino in fiore;  
+
+    e se i cieli stessero sotto i mari  
+
+    non sarebbe più a rovescio d'un acquazzone.  
+
+    Se i [[Mountains|monti]] si [[Rose|levassero]] su ali a vagare  
+
+    non sarebbero più selvaggi d'una nube;  
+
+    eppure ogni mia lode è meschina come una calunnia,  
+
+    meschina come queste meschine parole dette ad alta voce.  
+
+    E mai più di ora io so  
+
+    che il primo cielo dell'uomo è assai lontano dietro di noi;  
+
+    a meno che il colpo del serafino fiammeggiante  
+
+    non l'abbia lasciato cieco nel [[Garden|giardino]].  
+
+    Sii testimone, o Sole che accechi i nostri occhi,  
+
+    impensabile e irringraziabile [[King|Re]],  
+
+    che, benché ogni altra [[Wonder|meraviglia]] muoia,  
+
+    io mi [[Wonder|stupisco]] di non stupirmi.  
+
+    «IL MITO DI [[Arthur|ARTÙ]]»  
+
+    O dotto che mai imparasti a imparare,  
+
+    se non a dedurre, con timidi e piccoli passi,  
+
+    dal fumo torreggiante che il [[Fire|fuoco]] non può mai bruciare  
+
+    e da racconti alti che gli uomini non furono mai alti.  
+
+    Dimmi, hai tu pensato quale sorta d'uomo sia  
+
+    colui di cui gli uomini dicono «Egli poteva abbattere i giganti»?  
+
+    O quali forti memorie sull'abisso del [[Time|tempo]]  
+
+    sostennero la pompa di Camelot e la [[Crown|corona]].  
+
+    E perché un solo stendardo riempie tutto lo sfondo,  
+
+    oltre i cortei di tante lance,  
+
+    e per quale stregoneria fra le colline occidentali  
+
+    un trono sta vuoto da mille anni.  
+
+    Voi che ritenete, incuranti di questo immenso impatto,  
+
+    la storia immortale un peccato mortale;  
+
+    per timore che l'umana [[Fable|favola]] tocchi il fatto storico,  
+
+    inseguite i miti come falene, e combatteteli con uno spillo.  
+
+    Consolatevi; riposate—non occorre tanto affanno.  
+
+    Non sarete un mito, ve lo prometto.  
+
+    LA VECCHIA [[Song|CANZONE]]  
+
+    _(Sull'Embankment in tempo di tempesta.)_  
+
+    Un cielo livido su [[London|Londra]]  
+
+    e come destrieri di ferro che s'impennano  
+
+    un urto di macchine fermatesi,  
+
+    e seppi che la fine era vicina:  
+
+    e qualcosa disse che lontano, oltre i colli e lontano,  
+
+    veniva un tuono strisciante e la fine di ogni cosa quaggiù.  
+
+    Ché il Ponte di [[London|Londra]] è crollato, crollato, crollato,  
+
+    come lo scavo lascia entrare la luce sulle vie sommerse d'un tempo,  
+
+    il [[Lightning|lampo]] guardò la città di [[London|Londra]], il ponte spezzato della città di [[London|Londra]],  
+
+    la fine di una [[Road|strada]] spezzata dove gli uomini non andranno più.  
+
+    Vidi i re della città di [[London|Londra]],  
+
+    i re che comprano e vendono,  
+
+    che la edificarono con pagnotte da un penny  
+
+    e con menzogne da un penny [[Well|pure]]:  
+
+    E dove le vie erano lastricate d'oro, la carta avvizzita brillava  
+
+      come oro,  
+
+    la luce cocente delle promesse che lastricano le vie dell'inferno.  
+
+    Ché le pagnotte da un penny si scioglieranno, si scioglieranno, si scioglieranno,  
+
+    schernendo i meschini che mercanteggiarono il grano che non coltivarono;  
+
+    Con volti affamati alla porta, centomila alla porta,  
+
+    un lampo di tuono su [[London|Londra]] e il ritrovamento del nemico.  
+
+    Udii i cento fabbricanti di spilli  
+
+    rallentare il loro fragore straziante,  
+
+    finché nel silenzio si poté udire  
+
+    il cadere dello spillo:  
+
+    E in qualche luogo, uomini fuori le mura, sotto il bosco, fuori le mura,  
+
+    avevano trovato il luogo dove [[London|Londra]] finisce e l'Inghilterra può cominciare.  
+
+    Ché spilli e aghi si piegano e si spezzano, si piegano e si spezzano, si piegano e si spezzano,  
+
+    più in fretta delle lance che si rompono o del piegarsi dell'arco  
+
+    di cortei pallidi nella luce del tuono, tra il carico del tuono e  
+
+      la luce del tuono,  
+
+    le Centurie in marcia sui colli nelle guerre di tanto tempo fa.  
+
+    Vidi il grande Cobbett cavalcare,  
+
+    il cavaliere delle contee;  
+
+    e il suo volto era rosso di giudizio  
+
+    e d'una luce di fuochi luddisti:  
+
+    e a sud verso il Sussex e il mare i lumi balzarono su per la libertà,  
+
+    la tromba dei liberi coltivatori, il martello dei signorotti;  
+
+    Ché le sbarre di ferro s'arrugginiscono, s'arrugginiscono, s'arrugginiscono,  
+
+    si squarciano dinanzi al martello e al cavaliere che irrompe,  
+
+    gridando che tutti gli uomini alla fine, e al peggio e alla fine,  
+
+    hanno trovato il luogo dove l'Inghilterra finisce e l'Inghilterra può cominciare.  
+
+    Gli zoccoli del suo [[Horse|cavallo]] ti precedono,  
+
+    assai oltre le vostre gomme che scoppiano;  
+
+    e il [[Time|tempo]] è ricongiunto dietro di lui  
+
+    e i nostri figli sono con i nostri padri.  
+
+    Meteora scia sulle Downs, egli cavalca sopra le città in putrefazione,  
+
+    il Cavaliere dell'[[Apocalypse|Apocalisse]], il Cavalcatore delle Contee.  
+
+    Ché il Ponte di [[London|Londra]] è crollato, crollato, crollato;  
+
+    Suonate il corno di Huntingdon dalla Scozia al mare—  
+
+    ... Solo un lampo di luce di tuono, un sogno fuggente di luce di tuono,  
+
+    aveva mostrato sotto il cielo frantumato un popolo che era libero.  
+
+    I NINNOLI  
+
+    Un mondo errante di fiumi,  
+
+    un mondo tremulo di alberi,  
+
+    se il mondo si fa fosco e vertiginoso  
+
+    con tutti i mutamenti e i gradi,  
+
+    non è che lo [[Mirror|Specchio]] della Madonna  
+
+    appeso a sognare al suo posto,  
+
+    che riluce di sole ombre  
+
+    finché ella lo desta col suo volto.  
+
+    Il gorgo immoto delle [[Stars|stelle]],  
+
+    la [[Wheel|ruota]] di tutto il mondo,  
+
+    è un anello al dito della Madonna  
+
+    con i soli e le lune imperlati  
+
+    con [[Stars|stelle]] per gemme a farle piacere  
+
+    a lei che siede giocando con i suoi anelli  
+
+    col gran cuore che ha una donna  
+
+    e l'[[Love|amore]] delle piccole cose.  
+
+    Ali del turbine del mondo  
+
+    di qui fino a Ispahan,  
+
+    sdegnando le foreste volanti  
+
+    sono lievi come il ventaglio della Madonna:  
+
+    Ché tutte le cose qui violente e vane  
+
+    giacciono aperte e del tutto quiete  
+
+    là dove Dio ha cinto il cielo a custodire  
+
+    le sue sante vanità.  
+
+IL FILANTROPO  
+
+    _(Con le nostre scuse a una bella poesia.)_  
+
+    Abou Ben Adhem (possa la sua tribù decrescere  
+
+    per prudente controllo delle nascite, e morire in pace)  
+
+    mite di dottrina, prese con leggerezza la parola  
+
+    che non lo iscriveva fra coloro che [[Love|amano]] il Signore,  
+
+    e disse all'angelo del libro e della penna  
+
+    «Iscrivimi come uno che ama i suoi simili:  
+
+    per essi [[Alone|soli]] io m'affatico; per ricondurre  
+
+    il cencioso Beduino vagabondo, e per domarlo  
+
+    a un ordinato servizio; per sradicare la vite di coloro  
+
+    che scherniscono il [[Prophet|Profeta]], folli di vino,  
+
+    per lasciar entrare la luce del giorno nelle loro tende e nelle loro vite,  
+
+    contare i loro cammelli, e persino le loro mogli,  
+
+    tracciare il [[Desert|deserto]] in strade e piazze;  
+
+    e stimarlo opera più feconda di quella di coloro  
+
+    che innalzano un vano e visionario [[Love|amore]]  
+
+    al vostro vago Allah nei cieli lassù».  
+
+    Dolcemente rispose l'angelo della penna:  
+
+    «Affaticati in pace e [[Love|ama]] i tuoi simili:  
+
+    e non [[Love|amare]] Dio, poiché [[Alone|soltanto]] gli uomini sono cari,  
+
+    soltanto [[Fear|temi]] Dio; ché hai ragione di [[Fear|temere]].»  
+
+    SULLE DOWNS  
+
+    Quando venisti oltre il colmo del mondo  
+
+    nel gran giorno sulle Downs,  
+
+    l'aria era frizzante e le nubi arricciate,  
+
+    quando venisti oltre il colmo del mondo,  
+
+    e sotto i tuoi piedi erano guglia e via  
+
+    e sette città inglesi.  
+
+    E non potevo credere che l'[[Pride|orgoglio]] fosse perito  
+
+    mentre venivi oltre la down;  
+
+    Libertà, cavalleria, tutto ciò che ci fu caro,  
+
+    perduto in un tintinnio di lucro e perito;  
+
+    o la terra che [[Love|amiamo]], sopra la quale camminavi,  
+
+    che avvizziva città dopo città.  
+
+    Ché tu spuntasti sulla cupola della terra  
+
+    come una visione di vittoria,  
+
+    fuori sulla grande verde cupola della terra  
+
+    come la grande azzurra cupola del cielo per cintura,  
+
+    e sotto i tuoi piedi le contee potevano incontrarsi  
+
+    e i tuoi occhi si spingevano al mare.  
+
+    Sotto i tuoi piedi le città erano sette,  
+
+    vive e [[Alone|sole]] nell'alto,  
+
+    la schiena all'ampio bianco muro del cielo;  
+
+    tu eri una e le città erano sette,  
+
+    unica e sola come il sole che s'innalza  
+
+    e il tuo capo sorreggeva il cielo.  
+
+    E pensai a una tonante [[Flag|bandiera]] spiegata  
+
+    e al fragore della campana dei borghesi:  
+
+    i fanali crepitavano e i dardi erano scagliati  
+
+    mentre venivi oltre il colmo del mondo;  
+
+    e sotto i tuoi piedi erano sorte e inganno  
+
+    e la melma dei pendii dell'inferno.  
+
+    Non è andata come parlò il gran [[Wind|vento]]  
+
+    sulla grande verde down quel giorno:  
+
+    Abbiamo visto, ovunque parlasse l'ampio [[Wind|vento]],  
+
+    la [[Slavery|Schiavitù]] che uccide la gente inglese:  
+
+    i ladri di terra li abbiamo visti comandare  
+
+    i signori della terra obbedire.  
+
+    Abbiamo visto i giganteschi vermi dorati  
+
+    nel [[Garden|giardino]] del paradiso:  
+
+    Abbiamo visto i grandi e i saggi venire a patti  
+
+    con la pace dei serpenti e l'[[Pride|orgoglio]] dei vermi,  
+
+    e coloro che piantano stringere alleanza  
+
+    con la locusta e i pidocchi.  
+
+    E il [[Wind|vento]] soffia e il mondo va avanti  
+
+    e il mondo può dire che noi,  
+
+    che stemmo sulle scogliere dove brillavano le cave,  
+
+    stemmo su nubi su cui splendeva il sole:  
+
+    e le nubi si dissolvono e affogano nel tuono  
+
+    la notizia che mai sarà.  
+
+    Signora di tutti coloro che hanno amato il popolo,  
+
+    luce sopra le strade smarrite,  
+
+    labirinto di poderi e vie e campanili,  
+
+    grande come un cuore che ha amato il popolo:  
+
+    Stai sulla [[Crown|sommità]] della down svettante,  
+
+    leva le braccia e prega.  
+
+    Te sola non ho dimenticato  
+
+    per il naufragio della fama del mondo,  
+
+    lacerarsi e finire di cose imputridite,  
