@@ -81,7 +81,7 @@ tags:
 **Characters:** [[Kitchener]], [[Charles Gordon]], [[Marchand]], [[Botha]], [[The Mahdi]]
 
 **Archetypes:** [[Hero]], [[Tragic Hero]], [[Avenger]], [[Prophet]], [[Martyr Saint]]
-**Motifs:** [[Sea]], [[Crown]], [[Machine]], [[Silence]], [[Drums and Bugles]], [[River]], [[Ship (2)]], [[Light and Dark]], [[Blood]]
+**Motifs:** [[Sea]], [[Crown]], [[Machine]], [[Silence]], [[Drums and Bugles]], [[River]], [[Ship]], [[Light and Dark]], [[Blood]]
 **Themes & Concepts:** [[Heroism]], [[Honour]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Common Man]], [[Fanaticism]], [[Friendship]], [[Fate and Free Will]], [[Conversion]], [[Masculinity and the Male Code]], [[Self-Sacrifice]], [[Reconciliation]], [[Greatness]], [[Silence (2)]], [[Martyrdom]]
 **Forms & Genres:** [[Biography]], [[Sketch]], [[Elegy]]
 **Historical References:** [[First World War]], [[Islam and the East]], [[Crusades]], [[Irish Question]]

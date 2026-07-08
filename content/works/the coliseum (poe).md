@@ -31,7 +31,7 @@ tags:
 **Themes & Concepts:** [[Transience]], [[Immortality of Art Fame]]
 **Forms & Genres:** [[Lyric]]
 **Historical References:** [[Ancient Rome]]
-**Settings:** [[Ancient Rome (2)]]
+**Settings:** [[Ancient Rome]]
 
 ## Testo integrale / Full text
 

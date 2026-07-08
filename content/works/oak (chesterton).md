@@ -58,7 +58,7 @@ tags:
 
 **Characters:** [[Lord Ivywood]], [[King Charles II]], [[Collingwood]]
 
-**Motifs:** [[Nature]], [[Blood]], [[Seed and Germination]], [[Decay]], [[Sea]], [[Ship (2)]], [[Concealment Hidden Identity]]
+**Motifs:** [[Nature]], [[Blood]], [[Seed and Germination]], [[Decay]], [[Sea]], [[Ship]], [[Concealment Hidden Identity]]
 **Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Critique of Progress]], [[Nature vs Civilization]], [[Natural Order]], [[Regeneration]], [[Kingship and Legitimacy]], [[Paganism and Classical Revival]], [[Power and Corruption]]
 **Forms & Genres:** [[Ballad Ballade]], [[Allegory]], [[Comic Verse Song]]
 

@@ -45,7 +45,7 @@ tags:
 
 **Historical References:** [[Crusades]]
 
-**Motifs:** [[Chains]], [[Ship (2)]]
+**Motifs:** [[Chains]], [[Ship]]
 
 **Topoi:** [[Love as Religion]], [[Quest]]
 **Themes & Concepts:** [[Marriage and Fidelity]], [[Identity]], [[Self-Knowledge]], [[Critique of Progress]], [[Disillusionment]], [[Heroism]], [[Romantic Love]], [[Freedom and Liberty]], [[Self-Sacrifice]], [[Paradox]], [[Honour]]

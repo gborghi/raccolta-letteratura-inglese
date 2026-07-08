@@ -54,7 +54,7 @@ tags:
 
 **Characters:** [[Sylvia Pankhurst]], [[W. T. Stead]]
 
-**Motifs:** [[Ship (2)]], [[Sea]]
+**Motifs:** [[Ship]], [[Sea]]
 **Themes & Concepts:** [[Critique of Progress]], [[Satire of Society]], [[Class Conflict]], [[Mortality]], [[Heroism]], [[Equality in Death]], [[Self-Sacrifice]], [[Democracy]], [[Comradeship]], [[Conscience]], [[Courage]]
 **Forms & Genres:** [[Essay]]
 **Settings:** [[Ship]], [[Sea (2)]]

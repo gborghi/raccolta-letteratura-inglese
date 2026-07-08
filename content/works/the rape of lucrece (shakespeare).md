@@ -43,7 +43,7 @@ tags:
 **Themes & Concepts:** [[Lust Sexual Desire]], [[Honour]], [[Guilt]], [[Justice Right and Wrong]], [[Revenge]], [[Grief and Loss]], [[Power and Corruption]], [[Marriage and Fidelity]]
 **Forms & Genres:** [[Narrative Poem]], [[Rhyme Royal]]
 **Historical References:** [[Roman History]]
-**Settings:** [[Ancient Rome (2)]]
+**Settings:** [[Ancient Rome]]
 **Characters:** [[Lucrece]], [[Tarquin]], [[Collatine]]
 
 ## Testo integrale / Full text

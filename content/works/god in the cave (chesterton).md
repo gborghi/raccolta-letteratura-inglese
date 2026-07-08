@@ -67,7 +67,7 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Divine Love]], [[Humility]], [[Faith and Doubt]], [[Wonder and Gratitude]], [[Common Man]], [[Slavery]], [[Individualism]], [[Paganism and Classical Revival]], [[Good vs Evil]], [[Truth]]
 **Forms & Genres:** [[Apologetics]], [[Essay]]
 **Historical References:** [[Christianity]], [[Greek Mythology]], [[Bible]], [[Ancient Greece]], [[Ancient Rome]], [[Eastern Religion Comparative Religion]]
-**Settings:** [[Underworld Cave]], [[Orient]], [[Ancient Rome (2)]], [[Ancient Greece (2)]]
+**Settings:** [[Underworld Cave]], [[Orient]], [[Ancient Rome]], [[Ancient Greece (2)]]
 **Characters:** [[Christ]], [[Herod]], [[Magi]], [[Shepherds]]
 
 ## Testo integrale / Full text

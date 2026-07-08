@@ -80,7 +80,7 @@ tags:
 **Themes & Concepts:** [[Pride]], [[Honour]], [[Heroism]], [[Class Conflict]], [[Power and Corruption]], [[Revenge]], [[War and its Cost]], [[Exile]]
 **Forms & Genres:** [[Tragedy]], [[Blank Verse]]
 **Historical References:** [[Ancient Rome]], [[Roman History]]
-**Settings:** [[Ancient Rome (2)]], [[Battlefield]]
+**Settings:** [[Ancient Rome]], [[Battlefield]]
 **Characters:** [[Coriolanus]], [[Volumnia]], [[Menenius]], [[Aufidius]], [[Virgilia]], [[Sicinius]], [[Brutus the Tribune]], [[Cominius]]
 
 ## Testo integrale / Full text

@@ -48,7 +48,7 @@ tags:
 
 **Archetypes:** [[Common Man (2)]]
 
-**Motifs:** [[Ship (2)]]
+**Motifs:** [[Ship]]
 
 **Characters:** [[Mr. Robinson]]
 

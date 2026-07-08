@@ -6,7 +6,7 @@ tags:
   - graph/form
 ---
 
-*Form/Genre* — appears in **2** work(s).
+*Form/Genre* — appears in **5** work(s).
 
 ## Works
 

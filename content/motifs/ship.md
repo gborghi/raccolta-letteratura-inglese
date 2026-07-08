@@ -6,7 +6,7 @@ tags:
   - graph/motif
 ---
 
-*Motif* — appears in **1** work(s).
+*Motif* — appears in **52** work(s).
 
 Ship — referenced in Chesterton's work.
 

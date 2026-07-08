@@ -6,7 +6,7 @@ tags:
   - graph/setting
 ---
 
-*Setting* — appears in **1** work(s).
+*Setting* — appears in **36** work(s).
 
 Ancient Rome — referenced in Chesterton's work.
 

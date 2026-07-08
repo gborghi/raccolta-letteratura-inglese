@@ -73,7 +73,7 @@ tags:
 **Themes & Concepts:** [[Revenge]], [[Ambition]], [[Power and Corruption]], [[Fate and Free Will]], [[Conscience]], [[Honour]], [[Justice Right and Wrong]]
 **Forms & Genres:** [[Tragedy]], [[Verse Drama]], [[Blank Verse]]
 **Historical References:** [[Ancient Rome]], [[Roman History]]
-**Settings:** [[Ancient Rome (2)]]
+**Settings:** [[Ancient Rome]]
 **Characters:** [[Julius Caesar]], [[Brutus]], [[Cassius]], [[Mark Antony]], [[Octavius Caesar]], [[Casca]], [[Portia]], [[Calpurnia]]
 
 ## Testo integrale / Full text

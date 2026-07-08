@@ -21,7 +21,7 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Death]], [[Sea]], [[Ship (2)]], [[Journey]]
+**Motifs:** [[Death]], [[Sea]], [[Ship]], [[Journey]]
 **Themes & Concepts:** [[Joy]]
 
 ## Testo integrale / Full text

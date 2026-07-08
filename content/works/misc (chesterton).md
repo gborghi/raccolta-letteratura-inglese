@@ -110,7 +110,7 @@ tags:
 
 **Historical References:** [[French Revolution]], [[Medieval England]], [[Bible]], [[Industrial Revolution]], [[Islam]], [[Greek Mythology]], [[Christianity]]
 
-**Settings:** [[Medieval England (2)]], [[Rural England]], [[Scotland the Highlands]], [[Industrial City]], [[London]], [[Ancient Rome (2)]]
+**Settings:** [[Medieval England (2)]], [[Rural England]], [[Scotland the Highlands]], [[Industrial City]], [[London]], [[Ancient Rome]]
 
 **Motifs:** [[Fire]], [[Money and Gold]], [[Wind]], [[Garden]], [[Animals]], [[Water]]
 

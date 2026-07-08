@@ -24,7 +24,7 @@ tags:
 ## Connections
 
 **Topoi:** [[Last Stand]]
-**Motifs:** [[Sea]], [[Ship (2)]]
+**Motifs:** [[Sea]], [[Ship]]
 **Themes & Concepts:** [[Mortality]], [[Heroism]]
 **Forms & Genres:** [[Free Verse]]
 **Settings:** [[Ship]]

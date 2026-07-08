@@ -59,7 +59,7 @@ tags:
 **Motifs:** [[Blood]], [[Swords and Weapons]]
 **Themes & Concepts:** [[Revenge]], [[Grotesque]], [[Terror and Horror]], [[Justice Right and Wrong]], [[Madness]], [[War and its Cost]]
 **Forms & Genres:** [[Tragedy]], [[Blank Verse]]
-**Settings:** [[Ancient Rome (2)]]
+**Settings:** [[Ancient Rome]]
 **Characters:** [[Titus Andronicus]], [[Tamora]], [[Aaron]], [[Lavinia]], [[Saturninus]], [[Bassianus]], [[Marcus Andronicus]], [[Lucius]]
 
 ## Testo integrale / Full text

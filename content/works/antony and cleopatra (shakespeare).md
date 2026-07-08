@@ -96,7 +96,7 @@ tags:
 **Themes & Concepts:** [[Romantic Love]], [[Lust Sexual Desire]], [[Power and Corruption]], [[Ambition]], [[Honour]], [[Mortality]]
 **Forms & Genres:** [[Tragedy]], [[Blank Verse]]
 **Historical References:** [[Ancient Rome]], [[Roman History]]
-**Settings:** [[Ancient Rome (2)]], [[Egypt]]
+**Settings:** [[Ancient Rome]], [[Egypt]]
 **Characters:** [[Mark Antony]], [[Cleopatra]], [[Octavius Caesar]], [[Enobarbus]], [[Lepidus]], [[Octavia]], [[Charmian]]
 
 ## Testo integrale / Full text

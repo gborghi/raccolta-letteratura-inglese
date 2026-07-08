@@ -108,7 +108,7 @@ tags:
 
 **Archetypes:** [[Common Man (2)]], [[Rebel]]
 
-**Settings:** [[Ancient Rome (2)]], [[Rural England]]
+**Settings:** [[Ancient Rome]], [[Rural England]]
 
 **Characters:** [[Jonathan Swift]], [[Thomas Gray]], [[Geoffrey Chaucer]], [[Sir Walter Scott]], [[Vachel Lindsay]], [[Charles II]], [[Robert Louis Stevenson]], [[Lord Byron]]
 

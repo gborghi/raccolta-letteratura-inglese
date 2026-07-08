@@ -34,7 +34,7 @@ tags:
 ## Connections
 
 **Archetypes:** [[Outsider]]
-**Motifs:** [[Supernatural]], [[Sea]], [[Ship (2)]], [[Ghosts]], [[Memory]]
+**Motifs:** [[Supernatural]], [[Sea]], [[Ship]], [[Ghosts]], [[Memory]]
 **Themes & Concepts:** [[Guilt]], [[Grace and Redemption]], [[Imagination]], [[Grief and Loss]], [[Romantic Love]], [[Sublime]]
 **Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]], [[Ode]]
 **Settings:** [[Ship]]

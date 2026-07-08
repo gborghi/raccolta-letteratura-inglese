@@ -24,7 +24,7 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Sea]], [[Journey]], [[Ship (2)]]
+**Motifs:** [[Sea]], [[Journey]], [[Ship]]
 **Themes & Concepts:** [[Mortality]], [[Self-Knowledge]], [[Immortality]]
 **Forms & Genres:** [[Free Verse]]
 **Settings:** [[Ship]]

@@ -26,7 +26,7 @@ tags:
 ## Connections
 
 **Archetypes:** [[Martyr Saint]]
-**Motifs:** [[Ship (2)]], [[Blood]], [[Bells]]
+**Motifs:** [[Ship]], [[Blood]], [[Bells]]
 **Themes & Concepts:** [[Grief and Loss]], [[Mortality]]
 **Forms & Genres:** [[Elegy]], [[Ballad Ballade]]
 **Characters:** [[Abraham Lincoln]]

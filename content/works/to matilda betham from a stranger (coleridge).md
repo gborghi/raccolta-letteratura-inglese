@@ -24,7 +24,7 @@ tags:
 
 **Motifs:** [[Music and Song]], [[Nightingale]]
 **Themes & Concepts:** [[Artist and Society]], [[Truth]], [[Imagination]]
-**Forms & Genres:** [[Verse Epistle (2)]]
+**Forms & Genres:** [[Verse Epistle]]
 
 ## Testo integrale / Full text
 

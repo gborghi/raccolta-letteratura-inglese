@@ -101,7 +101,7 @@ tags:
 **Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Nationalism and Patriotism]], [[Exile]], [[Paradox]], [[Slavery]], [[Democracy]], [[Fanaticism]], [[Class Conflict]], [[Supernatural (2)]], [[War and its Cost]], [[Distributism]], [[Money and Avarice]], [[Anti-Industrialism]], [[Zionism]]
 **Forms & Genres:** [[Travel Writing]], [[Essay]], [[Apologetics]]
 **Historical References:** [[Christianity]], [[Bible]], [[Crusades]], [[Eastern Religion Comparative Religion]], [[Islam]], [[Orient Arabia]], [[First World War]], [[French Revolution]], [[Ancient Rome]]
-**Settings:** [[Orient]], [[Desert]], [[Egypt]], [[Ancient Rome (2)]], [[Paris]], [[London]]
+**Settings:** [[Orient]], [[Desert]], [[Egypt]], [[Ancient Rome]], [[Paris]], [[London]]
 
 ## Testo integrale / Full text
 

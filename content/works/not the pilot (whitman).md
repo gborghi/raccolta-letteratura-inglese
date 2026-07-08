@@ -22,7 +22,7 @@ tags:
 ## Connections
 
 **Topoi:** [[Poet as Prophet]], [[Immortality Through Verse]]
-**Motifs:** [[Ship (2)]], [[Journey]]
+**Motifs:** [[Ship]], [[Journey]]
 **Themes & Concepts:** [[Nationalism and Patriotism]]
 
 ## Testo integrale / Full text

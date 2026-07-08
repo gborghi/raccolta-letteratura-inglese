@@ -22,7 +22,7 @@ tags:
 
 ## Connections
 
-**Motifs:** [[City]], [[Ship (2)]], [[Sea]]
+**Motifs:** [[City]], [[Ship]], [[Sea]]
 **Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]]
 **Settings:** [[Manhattan]]
 

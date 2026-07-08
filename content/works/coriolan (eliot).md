@@ -37,7 +37,7 @@ tags:
 **Themes & Concepts:** [[Power and Corruption]], [[Spiritual Emptiness]], [[Satire of Society]], [[War and its Cost]]
 **Forms & Genres:** [[Verse Drama]], [[Fragment]]
 **Historical References:** [[Ancient Rome]]
-**Settings:** [[Ancient Rome (2)]]
+**Settings:** [[Ancient Rome]]
 
 ## Testo integrale / Full text
 

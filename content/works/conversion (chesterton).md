@@ -64,7 +64,7 @@ tags:
 
 **Archetypes:** [[Pilgrim]]
 
-**Motifs:** [[Prison]], [[Window]], [[Ship (2)]]
+**Motifs:** [[Prison]], [[Window]], [[Ship]]
 
 **Topoi:** [[World Upside Down]], [[Journey of Life]]
 

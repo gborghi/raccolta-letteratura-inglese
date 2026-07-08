@@ -91,7 +91,7 @@ tags:
 
 **Archetypes:** [[Rebel]], [[Tyrant]], [[Martyr Saint]]
 
-**Settings:** [[London]], [[Medieval England (2)]], [[America]], [[New England America]], [[Venice]], [[Denmark]], [[Ancient Rome (2)]]
+**Settings:** [[London]], [[Medieval England (2)]], [[America]], [[New England America]], [[Venice]], [[Denmark]], [[Ancient Rome]]
 
 **Motifs:** [[Food and Feasting]], [[Clothing and Costume]], [[Swords and Weapons]], [[Imprisonment (2)]], [[Ghosts]], [[Wheel]]
 

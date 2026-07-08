@@ -44,7 +44,7 @@ tags:
 
 **Archetypes:** [[Great Mother]]
 
-**Settings:** [[Ancient Rome (2)]]
+**Settings:** [[Ancient Rome]]
 
 **Motifs:** [[Drums and Bugles]], [[Flags and Banners]]
 
