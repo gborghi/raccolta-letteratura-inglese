@@ -146,6 +146,11 @@ plugins:
     enabled: true
   - source: github:quartz-community/folder-page
     enabled: true
+    options:
+      # Folder landing pages (forms, concepts, characters, motifs, …) list entries
+      # alphabetically by title instead of the plugin default (modified-date desc).
+      # The `sort` SortFn is revived from this string by the config loader.
+      sort: '(a, b) => { const af = (a.slug ?? "").endsWith("/index"), bf = (b.slug ?? "").endsWith("/index"); if (af && !bf) return -1; if (!af && bf) return 1; return (a.frontmatter?.title ?? "").localeCompare(b.frontmatter?.title ?? "", undefined, { numeric: true, sensitivity: "base" }); }'
   - source: github:quartz-community/tag-page
     enabled: true
   # ---- layout components ----

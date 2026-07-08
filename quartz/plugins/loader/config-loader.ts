@@ -371,6 +371,26 @@ export async function loadQuartzConfig(
   emitters.sort(sortByOrder)
   pageTypes.sort(sortByOrder)
 
+  // Revive option values authored as arrow-function source strings (YAML cannot hold
+  // functions) into real functions, so server-side plugins (e.g. folder-page `sort`)
+  // accept them just like the client-side explorer already does. Backward compatible:
+  // a function round-trips through `.toString()` to the same source. Config is trusted.
+  const ARROW_FN = /^\s*(async\s+)?(\([^)]*\)|[A-Za-z_$][\w$]*)\s*=>/
+  const reviveFnStrings = (val: any): any => {
+    if (typeof val === "string" && ARROW_FN.test(val)) {
+      try {
+        return new Function(`return (${val})`)()
+      } catch {
+        return val
+      }
+    }
+    if (Array.isArray(val)) return val.map(reviveFnStrings)
+    if (val && typeof val === "object") {
+      return Object.fromEntries(Object.entries(val).map(([k, v]) => [k, reviveFnStrings(v)]))
+    }
+    return val
+  }
+
   // Instantiate plugins
   const instantiate = async (
     items: { entry: PluginJsonEntry; manifest: PluginManifest | undefined }[],
@@ -397,7 +417,7 @@ export async function loadQuartzConfig(
           )
           continue
         }
-        const options = { ...manifest?.defaultOptions, ...entry.options }
+        const options = reviveFnStrings({ ...manifest?.defaultOptions, ...entry.options })
         instances.push(factory(Object.keys(options).length > 0 ? options : undefined))
       } catch (err) {
         console.error(
