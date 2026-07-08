@@ -80,7 +80,7 @@ def page(author, s, bio):
 title: {author}
 ---
 {STYLE}
-<div class="author-hero"><h1>{esc(author)}</h1>
+<div class="author-hero">
 <p class="author-tagline">{s['works']:,} works · {s['words']:,} words · {s['sentences']:,} sentences · literary footprint below</p></div>
 
 {cloud}
