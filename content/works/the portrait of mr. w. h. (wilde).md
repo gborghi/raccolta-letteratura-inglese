@@ -47,6 +47,12 @@ tags:
 ## Testo / Text
 
 - [The Portrait of Mr. W. H.](/testi/wilde/atomized/010_the_portrait_of_mr_w_h/010_the_portrait_of_mr_w_h)
+## Parti / Parts
+
+- [Part 1](/testi/wilde/atomized/010_the_portrait_of_mr_w_h/part/part_01)
+- [Part 2](/testi/wilde/atomized/010_the_portrait_of_mr_w_h/part/part_02)
+- [Part 3](/testi/wilde/atomized/010_the_portrait_of_mr_w_h/part/part_03)
+
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">67.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">9.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.2</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">9%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">21.6</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

@@ -53,6 +53,28 @@ tags:
 ## Testo / Text
 
 - [Magic](/testi/chesterton/atomized/magic/magic)
+## Parti / Parts
+
+- [Part 1](/testi/chesterton/atomized/magic/part/part_01)
+- [Part 2](/testi/chesterton/atomized/magic/part/part_02)
+- [Part 3](/testi/chesterton/atomized/magic/part/part_03)
+- [Part 4](/testi/chesterton/atomized/magic/part/part_04)
+- [Part 5](/testi/chesterton/atomized/magic/part/part_05)
+- [Part 6](/testi/chesterton/atomized/magic/part/part_06)
+- [Part 7](/testi/chesterton/atomized/magic/part/part_07)
+- [Part 8](/testi/chesterton/atomized/magic/part/part_08)
+- [Part 9](/testi/chesterton/atomized/magic/part/part_09)
+- [Part 10](/testi/chesterton/atomized/magic/part/part_10)
+- [Part 11](/testi/chesterton/atomized/magic/part/part_11)
+- [Part 12](/testi/chesterton/atomized/magic/part/part_12)
+- [Part 13](/testi/chesterton/atomized/magic/part/part_13)
+- [Part 14](/testi/chesterton/atomized/magic/part/part_14)
+- [Part 15](/testi/chesterton/atomized/magic/part/part_15)
+- [Part 16](/testi/chesterton/atomized/magic/part/part_16)
+- [Part 17](/testi/chesterton/atomized/magic/part/part_17)
+- [Part 18](/testi/chesterton/atomized/magic/part/part_18)
+- [Part 19](/testi/chesterton/atomized/magic/part/part_19)
+
 
 ## Connections
 

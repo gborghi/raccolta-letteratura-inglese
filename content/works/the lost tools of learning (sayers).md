@@ -45,6 +45,17 @@ tags:
 ## Testo / Text
 
 - [The Lost Tools of Learning](/testi/sayers/atomized/the_lost_tools_of_learning/the_lost_tools_of_learning)
+## Parti / Parts
+
+- [Part 1](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_01)
+- [Part 2](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_02)
+- [Part 3](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_03)
+- [Part 4](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_04)
+- [Part 5](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_05)
+- [Part 6](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_06)
+- [Part 7](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_07)
+- [Part 8](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_08)
+
 
 ## Connections
 
@@ -67,6 +78,17 @@ tags:
 ## Testo / Text
 
 - [The Lost Tools of Learning](/testi/sayers/atomized/the_lost_tools_of_learning/the_lost_tools_of_learning)
+## Parti / Parts
+
+- [Part 1](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_01)
+- [Part 2](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_02)
+- [Part 3](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_03)
+- [Part 4](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_04)
+- [Part 5](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_05)
+- [Part 6](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_06)
+- [Part 7](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_07)
+- [Part 8](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_08)
+
 
 ## Connections
 

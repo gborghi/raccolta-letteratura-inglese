@@ -36,6 +36,11 @@ tags:
 ## Testo / Text
 
 - [Two_Kinds_of_Paradox](/testi/chesterton/atomized/two_kinds_of_paradox/two_kinds_of_paradox)
+## Parti / Parts
+
+- [Part 1](/testi/chesterton/atomized/two_kinds_of_paradox/part/part_01)
+- [Part 2](/testi/chesterton/atomized/two_kinds_of_paradox/part/part_02)
+
 
 ## Connections
 

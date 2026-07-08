@@ -42,6 +42,13 @@ tags:
 ## Testo / Text
 
 - [job](/testi/chesterton/atomized/job/job)
+## Parti / Parts
+
+- [Part 1](/testi/chesterton/atomized/job/part/part_01)
+- [Part 2](/testi/chesterton/atomized/job/part/part_02)
+- [Part 3](/testi/chesterton/atomized/job/part/part_03)
+- [Part 4](/testi/chesterton/atomized/job/part/part_04)
+
 
 ## Connections
 

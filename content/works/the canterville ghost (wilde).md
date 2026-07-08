@@ -52,6 +52,16 @@ tags:
 ## Testo / Text
 
 - [The Canterville Ghost](/testi/wilde/atomized/021_the_canterville_ghost/021_the_canterville_ghost)
+## Parti / Parts
+
+- [Part 1](/testi/wilde/atomized/021_the_canterville_ghost/part/part_01)
+- [Part 2](/testi/wilde/atomized/021_the_canterville_ghost/part/part_02)
+- [Part 3](/testi/wilde/atomized/021_the_canterville_ghost/part/part_03)
+- [Part 4](/testi/wilde/atomized/021_the_canterville_ghost/part/part_04)
+- [Part 5](/testi/wilde/atomized/021_the_canterville_ghost/part/part_05)
+- [Part 6](/testi/wilde/atomized/021_the_canterville_ghost/part/part_06)
+- [Part 7](/testi/wilde/atomized/021_the_canterville_ghost/part/part_07)
+
 
 ## Connections
 

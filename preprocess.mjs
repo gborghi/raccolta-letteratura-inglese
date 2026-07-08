@@ -408,6 +408,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
   const excerptsKw = {}
   const workUnits = new Map() // work href -> [{ slug, title, relU }] reading units (TOC)
   const workContainers = new Map() // work href -> { slug, title, relU } full-text page (single-essay fallback)
+  const workParts = new Map() // work href -> [{ slug, order, relU }] flat "part_NN" excerpts (no chapter layer)
   let copied = 0
 
   const authors = await fs.readdir(AUTHORS_DIR, { withFileTypes: true })
@@ -508,6 +509,14 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
           // chapters/scenes. Keep it as a fallback so the work note can link to it.
           if (parentWorkHref && it.unitType === "work") {
             workContainers.set(parentWorkHref, { slug: it.slug, title, relU: it.relU })
+          }
+          // Flat "part_NN" excerpts of a work that has NO chapter layer (their slug
+          // parent is a bare "part/" dir, so they have no parentItem). These would
+          // otherwise be reachable only as backlinks — collect them so the work page
+          // can list them alongside the full text.
+          if (parentWorkHref && it.unitType === "excerpt" && !it.parentItem) {
+            if (!workParts.has(parentWorkHref)) workParts.set(parentWorkHref, [])
+            workParts.get(parentWorkHref).push({ slug: it.slug, order: it.order, relU: it.relU })
           }
 
           // prev/next within the reading sequence
@@ -633,7 +642,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
       }
     }
   }
-  return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers }
+  return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers, workParts }
 }
 
 async function main() {
@@ -732,7 +741,7 @@ async function main() {
   }
 
   // ---- Publish atomized excerpts / play scenes / long-poem sections ----
-  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers } = await publishUnits(rawSourceToWork, translations)
+  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts } = await publishUnits(rawSourceToWork, translations)
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "excerpts.json"),
     JSON.stringify(excerpts),
@@ -815,6 +824,19 @@ async function main() {
             })
             .join("\n") +
           "\n\n"
+        // Works split straight into "part_NN" excerpts (no chapter layer) get the
+        // full-text link above plus an explicit parts list, so the parts are reachable
+        // from the work page instead of only as backlinks. Skip single-part works
+        // (part_01 just mirrors the full text).
+        const parts = (workParts.get(slugFromRel(rel)) || [])
+          .slice()
+          .sort((a, b) => a.order - b.order)
+        if (parts.length > 1) {
+          workTocMd +=
+            `## Parti / Parts\n\n` +
+            parts.map((p) => `- [Part ${p.order}](/${p.slug})`).join("\n") +
+            "\n\n"
+        }
         // The KG note may already carry a "## Chapters / scenes / sections" list;
         // drop it so the generated "## Capitoli / Chapters" TOC is not duplicated.
         newContent = newContent.replace(
