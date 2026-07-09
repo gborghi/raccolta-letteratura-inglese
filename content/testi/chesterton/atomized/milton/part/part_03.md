@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/milton-(chesterton)">Milton</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/milton/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/milton/part/part_04">part 04 ›</a></div>
@@ -193,3 +195,192 @@ It is possible, I fancy, to frame a fair statement that shall
 admit this element of the [[Pride|pride]] of the elect while doing justice
 
 to the democratic germ in [[Puritanism]].  It was the misfortune
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/milton-(chesterton)">Milton</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/milton/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/milton/part/part_04">part 04 ›</a></div>
+</nav>
+
+che in qualche modo tenne quieta l'enorme folla chiamata Inghilterra.
+
+In breve, la sua grande gloria non fu il capeggiare la Grande Ribellione,
+
+ma l'evitare la Grande Ribellione.  Poiché la Grande Ribellione davvero
+
+grande fu quella che non avvenne mai.  Ma, in verità, è superfluo persino
+
+sostenere una congettura tanto generalmente accolta come questa.  Qualunque cosa sia vera
+
+della ribellione nel suo insieme, nessuno negherà che in certi momenti
+
+il [[Puritanism|Puritanesimo]] apparve in politica arrogante, schizzinoso e antipopolare;
+
+pieno dell'[[Pride|orgoglio]] della predestinazione e del disprezzo per ogni carne.
+
+Persino il più entusiasta sostenitore della teoria whig o repubblicana
+
+del [[Puritanism|Puritanesimo]] difficilmente pretenderà che, quando il colonnello [[Pride]] cacciò
+
+dal Parlamento sulla punta della picca tutti i membri che
+
+osarono dissentire da lui, la sua [[Soul|anima]] fosse in quel momento infiammata
+
+da un entusiasmo per la libera discussione o il [[government|governo]] rappresentativo.
+
+Non fu affatto democratico; ma fu altamente calvinista.
+
+Fu una sorta di pantomima pubblica della dottrina dell'elezione;
+
+dell'elezione nel senso teologico, ma per nulla in quello politico.
+
+È ancora chiamata "l'Epurazione di [[Pride]]"; e la frase ha un fine
+
+sapore allegorico, come se venisse dal _Pilgrim's Progress_.
+
+Di fatto, una delle coincidenze davvero felici dell'epoca
+
+storica fu che un ufficiale distinto, quantomeno, aveva in qualche modo
+
+trovato il cognome giusto.  E su basi più larghe l'alleanza
+
+tra oligarchia e protestantesimo è divenuta fin troppo evidente.
+
+Per quel che ne sappiamo la [[Reformation|Riforma]] può aver tentato di fare
+
+una [[democracy|democrazia]]; tutto ciò che sappiamo per certo è che fece
+
+un'aristocrazia, la più potente aristocrazia dei tempi moderni.
+
+I grandi proprietari terrieri inglesi, che sono i pari, sorsero dopo la
+
+distruzione dei piccoli proprietari terrieri inglesi, che erano gli abati.
+
+Le scuole pubbliche, che nel Medioevo erano per il popolo,
+
+divennero aristocratiche dopo la [[Reformation|Riforma]].  Le università, che erano
+
+popolari nel Medioevo, divennero aristocratiche dopo la [[Reformation|Riforma]].
+
+Il vagabondo che andava a una locanda monastica nel Medioevo,
+
+andò in prigione e alla gogna dopo la [[Reformation|Riforma]].
+
+Tutto ciò è a stento negato.
+
+Eppure contro tutto ciò si devono porre, per equità, certi fatti importanti;
+
+specialmente due fatti illustrati nella figura e nella carriera di [[Milton]].
+
+Quando avremo chiaramente visto che il calvinismo favorisce sempre l'aristocrazia
+
+in teoria e spesso la favorisce in pratica, restano due grandi fatti
+
+da spiegare o da spiegare via.  Primo, che i Puritani
+
+favorirono davvero un metodo deliberativo o sinodale di [[government|governo]] ecclesiastico,
+
+un [[government|governo]] per [[debate|dibattito]]; e, secondo, che la maggior parte degli astratti
+
+repubblicani del diciassettesimo secolo erano o Puritani o dalla
+
+parte puritana.  Non sto, naturalmente, discutendo il sinodo come modo
+
+di [[government|governo]] ecclesiastico, né la repubblica come modo di [[government|governo]] nazionale.
+
+Dico soltanto che il clamore per queste cose deve aver corrisposto
+
+a una qualche specie di entusiasmo per la libertà e l'uguaglianza, estraneo alle più
+
+ovvie lezioni del calvinismo.  Ma il repubblicanesimo era di una specie peculiare
+
+e frigida; c'era ben poca fraternità umana in esso.
+
+Fletcher di Saltoun fu l'autore di certi epigrammi sul
+
+bene pubblico che si leggono come quelli di qualche grande pagano;
+
+ma fu anche l'autore di una proposta di ridurre gli abitanti più poveri
+
+della Scozia a una condizione di [[Slavery|schiavitù]] personale.
+
+C'era un sapore di Fletcher di Saltoun in [[Milton]].
+
+Shakespeare mette in bocca a qualche personaggio (di solito uno
+
+sciocco) qualche discorso sprezzante sull'unta plebaglia,
+
+discorso comune a tutta l'opera letteraria, ma specialmente comune in un'opera
+
+che, come quella di Shakespeare, era destinata a compiacere l'unta plebaglia.
+
+Ogni volta che ciò accade i critici lo additano e dicono: "Guardate i pregiudizi
+
+Tory dello Shakespeare monarchico!  Osservate la servilità
+
+giacobita del seguace di Giacomo I!"  Ma di fatto
+
+[[Milton]] disprezzava il popolino assai più di Shakespeare;
+
+e [[Milton]] pose il suo disprezzo per gli uomini comuni non in bocca a personaggi
+
+sciocchi o stupidi, ma in quella dell'unico personaggio saggio,
+
+il [[Chorus|Coro]], che si suppone esprima la morale di un dramma:
+
+  Nor do I name of men the common rout...
+
+  But such as thou hast solemnly elected.
+
+Non posso fare a meno di pensare che [[Milton]] riuscì bene con [[Satan|Satana]],
+
+perché era piuttosto simile a [[Satan|Satana]] stesso.  Intendo il suo
+
+proprio [[Satan|Satana]]: non sarò così intemperante da dire che somigliasse
+
+all'articolo genuino.  Il tipo di forza che sostenne [[Milton]]
+
+nella cecità e nel bando era assai simile al tipo di forza
+
+che sostenne [[Satan|Satana]] sulla marna fiammeggiante; è la stessa qualità,
+
+e per meri scopi letterari non occorre litigare sul se
+
+debba chiamarsi nobiltà spirituale o [[Pride|orgoglio]] spirituale.
+
+Era quasi del tutto intellettuale; era priva di sorriso ed era vuota
+
+d'affetto.  E per rendere giustizia alla gente geniale, se pur alquanto vaga,
+
+che formava il grosso del partito monarchico e probabilmente
+
+il grosso del popolo inglese, dobbiamo ricordare che c'era, intorno
+
+all'alto tipo repubblicano, il tipo di Vane, o di Sydney, o di [[Milton]],
+
+qualcosa di questa austerità che raggelava e persino allarmava.
+
+C'era qualcosa in questi repubblicani che non era fraterno;
+
+c'era qualcosa in questi repubblicani che non era democratico.
+
+Il composto del nuovo Puritano e del vecchio cittadino pagano non produsse
+
+nessuno di quei cordiali o casalinghi bevitori, soldati, o furfanti,
+
+uomini come Danton o Dumouriez, che prestarono riso ai terrori
+
+della [[French Revolution|Rivoluzione francese]].  La più profonda avversione che i Cavalieri
+
+provavano per i Puritani, e non un'avversione ingiusta, aveva riferimento
+
+a questo sentimento senza nome.
+
+È possibile, credo, formulare un giusto enunciato che riconosca
+
+questo elemento dell'[[Pride|orgoglio]] degli eletti pur rendendo giustizia
+
+al germe democratico nel [[Puritanism|Puritanesimo]].  Fu la sventura

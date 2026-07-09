@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10">Chapter 10</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_04">part 04 ›</a></div>
@@ -122,3 +124,121 @@ as a vast [[Machine|machine]].  My God, what's this?"  And he clapped his hands
 to his eyes and staggered back.
 
 Then through the darkness he cried in a dreadful voice:
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10">Chapter 10</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_04">part 04 ›</a></div>
+</nav>
+
+Il cielo era particolarmente nero, e su questo [[Alone|soltanto]] si levò una falsa
+protesta contro l'ottimismo trionfante del Prevosto di
+North Kensington.  Egli la scavalcò col suo contagioso buon senso.
+
+«Non esiste,» disse, «cosa come la [[Night|notte]] a [[London|Londra]].
+Basta seguire la fila dei lampioni.  Guardate, ecco la mappa.
+Duecento soldati purpurei di North Kensington al mio comando marciano
+su per Ossington Street, altri duecento sotto il Capitano Bruce,
+della Guardia di North Kensington, su per Clanricarde Gardens.
+[Clanricarde Gardens a quel [[Time|tempo]] non era più un vicolo cieco,
+ma era collegata da Pump Street a Pembridge Square.  Vedi mappa.]  Duecento
+gialli di West Kensington sotto il Prevosto Swindon attaccano da
+Pembridge [[Road]].  Altri duecento dei miei uomini dalle vie orientali,
+in partenza da [[Queen|Queen's]] [[Road]].  Due distaccamenti di gialli entrano
+per due strade da Westbourne Grove.  Infine, duecento verdi
+di Bayswater scendono da Nord attraverso Chepstow Place,
+e altri duecento sotto lo stesso Prevosto Wilson, per la parte alta
+di Pembridge [[Road]].  Signori, è scacco matto in due mosse.
+Il nemico deve o ammassarsi a Pump Street ed essere fatto a pezzi... o
+deve ripiegare oltre la Gaslight & Coke Co.... e piombare sui miei quattro
+cento... o deve ripiegare oltre la chiesa di St. Luke e piombare sui
+seicento da Ovest.  A meno che non siamo tutti pazzi, è chiaro.
+Avanti.  Ai vostri posti e attendete il segnale d'avanzata del Capitano Bruce.
+Poi non dovrete che risalire una fila di lampioni a gas e schiacciare quest'assurdità
+con pura matematica.  Domani saremo di nuovo tutti civili.»
+
+Il suo ottimismo ardeva come un gran [[Fire|fuoco]] nella [[Night|notte]], e correva
+attorno al terribile cerchio in cui Wayne era ora tenuto impotente.
+La battaglia era già finita.  L'energia di un uomo per un'ora aveva salvato
+la [[City|città]] dalla guerra.
+
+Per i dieci minuti seguenti Buck camminò avanti e indietro in silenzio accanto
+al gruppo immobile dei suoi duecento.  Non aveva mutato in alcun
+modo il proprio aspetto, se non per gettarsi a tracolla sul soprabito giallo
+una fondina con dentro una rivoltella.  Sicché la sua figura moderna dagli abiti leggeri
+spiccava stranamente accanto alle pompose uniformi purpuree dei suoi alabardieri,
+che coloravano cupamente ma riccamente la nera [[Night|notte]].
+
+Alla fine una tromba stridula risuonò da qualche punto più su per la strada;
+era il segnale dell'avanzata.  Buck diede brevemente l'ordine, e l'intera
+fila purpurea, col suo acciaio fiocamente luccicante, risalì per il vicolo laterale.
+Davanti a essa c'era un declivio di strada, lungo, dritto e lucente nel buio.
+Era una [[Sword|spada]] puntata verso Pump Street, il cuore verso cui nove
+altre spade erano puntate quella [[Night|notte]].
+
+Un quarto d'ora di marcia silenziosa li portò quasi a portata
+d'orecchio di qualsiasi tumulto nella cittadella condannata.  Ma ancora non
+c'era suono né segno del nemico.  Questa [[Time|volta]], in ogni caso,
+sapevano che vi si stringevano attorno meccanicamente, e
+marciarono sotto la luce dei lampioni e il buio senza alcuno di quel misterioso
+senso d'ignoranza che Barker aveva provato entrando nel paese
+nemico per un'unica via da [[Alone|solo]].
+
+«Alt... armi in resta!» gridò Buck, all'improvviso, e mentre
+parlava giunse un frastuono di piedi che ruzzolavano sulle pietre.
+Ma le alabarde furono spianate invano.  La figura che si precipitò
+era un messaggero del contingente del Nord.
+
+«Vittoria, signor Buck!» gridò, ansimando, «sono stati scacciati.
+Il Prevosto Wilson di Bayswater ha preso Pump Street.»
+
+Buck corse avanti nell'eccitazione.
+
+«Allora, da che parte ripiegano?  Dev'essere o per St. Luke
+per raggiungere Swindon, o per la Compagnia del Gas per raggiungere noi.  Corri come un pazzo
+da Swindon e assicurati che i gialli tengano la [[Road|strada]] di St. Luke.
+Noi terremo questa, non [[Fear|temere]].  Li abbiamo in una trappola di ferro.  Corri!»
+
+Mentre il messaggero si precipitava via nell'oscurità, la grande guardia
+di North Kensington proseguì con la certezza di una [[Machine|macchina]].
+Eppure a malapena cento iarde più oltre le punte delle loro alabarde caddero di nuovo
+in fila luccicando alla luce del gas.  Poiché di nuovo si udì un frastuono di piedi
+sulle pietre, e di nuovo si rivelò essere soltanto il messaggero.
+
+«Signor Prevosto,» disse, «i gialli di West Kensington tengono
+la [[Road|strada]] presso St. Luke da venti minuti, dalla cattura
+di Pump Street.  Pump Street non è a duecento iarde di distanza,
+non possono ripiegare per quella [[Road|strada]].»
+
+«Allora ripiegano per questa!» disse il Prevosto Buck, con una
+allegria finale, «e per buona sorte per una [[Road|strada]] [[Well|ben]] illuminata,
+per quanto si contorca.  Avanti!»
+
+Mentre procedevano lungo le ultime trecento iarde del loro [[Journey|cammino]],
+Buck cadde, forse per la prima [[Time|volta]] in vita sua, in una specie
+di fantasticheria filosofica, poiché gli uomini del suo tipo sono sempre resi benevoli,
+e come dire [[Melancholy|malinconici]], dal [[success|successo]].
+
+«Mi dispiace per il povero vecchio Wayne, davvero,» pensò.
+«Ha parlato splendidamente in mio favore a quel Consiglio.
+E ha pestato un occhio al vecchio Barker con notevole brio.
+Ma non vedo cosa un uomo possa aspettarsi quando combatte contro l'aritmetica,
+per non dire della civiltà.  E che meravigliosa burla è tutto
+questo genio militare.  Sospetto di aver appena scoperto quel che
+Cromwell scoprì, che un assennato commerciante è il miglior generale,
+e che un uomo capace di comprare uomini e vendere uomini sa condurli e ucciderli.
+La cosa è semplicemente come sommare una colonna in un registro.  Se Wayne ha
+duecento uomini, non può mettere duecento uomini in nove luoghi in una volta.
+Se sono scacciati da Pump Street, fuggono da qualche parte.
+Se non fuggono oltre la chiesa, fuggono oltre lo Stabilimento.
+E così li abbiamo in pugno.  Noi uomini d'affari non avremmo alcuna possibilità
+se non che gente più astuta di noi si mette [[Bees|grilli]] per la testa
+che le impediscono di ragionare come si deve... e così ragioniamo [[Alone|noi soli]].
+E così io, che sono comparativamente stupido, vedo le cose come le vede Dio,
+come una vasta [[Machine|macchina]].  Dio mio, cos'è questo?»  E si portò le mani
+agli occhi e barcollò all'indietro.
+
+Poi attraverso l'oscurità gridò con voce spaventosa:

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_12">part 12 ›</a></div>
@@ -217,3 +219,216 @@ There was no particular reason, at that stage, for comparing the
 story to a [[nightmare]]; except that the two principal incidents
 
 happened at [[Night|night]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_12">part 12 ›</a></div>
+</nav>
+
+palesemente per cambiare argomento.
+
+Proseguì nel suo modo mite e scorrevole: "Voglio dire che finché una gamba
+
+non è abbastanza lunga per correre o arrampicarsi, sarebbe solo un peso in più
+
+da portare per chi corre o si arrampica."
+
+"È piuttosto strano," disse il dottore, "che abbiamo cominciato
+
+a parlare di correre e arrampicarsi. Non sono venuto qui per
+
+discutere di darwinismo o di alcunché di altrettanto sano e sensato.
+
+Ma se pensi che io sia sospetto, come l'atroce ateo, posso spiegarti
+
+che al momento non voglio che tu ascolti me, ma il mio amico
+
+il vicario di Hanging Burgess, il reverendo Cyprian Whiteways, le cui
+
+vedute sono probabilmente altrettanto anti-scientifiche delle tue. Non
+
+suppongo che sia darwiniano; ma, comunque, ho promesso di presentartelo,
+
+e vuole raccontarti di cose accadute piuttosto
+
+più tardi della tarda Età della Pietra."
+
+"Allora, che cosa intendi," chiese Pond, "col parlare di correre e
+
+arrampicarsi?"
+
+"Intendevo, mi dispiace dirlo," replicò il dottor Green, "che il vicario
+
+ha una storia piuttosto brutta su quel tuo amico, il capitano Gahagan,
+
+le cui gambe sembrano molto brave ad arrampicarsi, e ancor più brave a
+
+scappare."
+
+"È una cosa seria," disse Pond, gravemente, "accusare un soldato di
+
+scappare."
+
+"È una cosa ben più seria quella di cui il vicario lo accusa,"
+
+disse Green. "Lo accusa di essersi arrampicato su un balcone e di aver ucciso
+
+un rivale, e poi di essere scappato. Ma non è la mia storia; io non sono
+
+la storia, ma solo l'introduzione."
+
+"Arrampicarsi su un balcone," meditò il signor Pond; "per un vicario suona
+
+una storia piuttosto romantica."
+
+"Lo so," disse il dottore, "il genere di storia che comincia con una
+
+scala di corda e finisce con una corda."
+
+Il signor Pond, mentre udiva il passo ineguale del suo amico zoppo echeggiare
+
+lungo i sentieri lastricati del [[Garden|giardino]], ricadde in un umore
+
+cupo. Era del tutto disposto ad accettare l'amico medico come semplice
+
+lettera di presentazione. Ma era una lettera di presentazione piuttosto
+
+listata a lutto e tragica. Qualunque storia il rev.
+
+Cyprian stesse per raccontare, era un'altra storia contro il suo
+
+sventurato amico Peter Gahagan. E Gahagan era così
+
+sfortunato da suggerire ad alcuni un selvaggio [[Doubt|dubbio]] sul fatto che fosse
+
+soltanto sfortunato. Alcuni ebbero l'improvviso e orribile pensiero che,
+
+forse, fosse fortunato. Due volte prima era stato immischiato in
+
+faccende che comportavano una misteriosa e violenta [[Death|morte]]; con, almeno, un
+
+sentore di omicidio. In entrambi i casi era stato scagionato. Ma tre è
+
+un numero sfortunato.
+
+Infine, il rev. Cyprian Whiteways fu una sorpresa; una sorpresa per la
+
+sua franchezza e imparzialità.
+
+Il signor Pond non si sarebbe mai, in nessun [[Time|momento]], abbassato alla stupida idea
+
+che gli ecclesiastici siano stupidi. Non traeva le sue idee sulla vita reale
+
+da farse come The Private Secretary. Ma il rev. Cyprian era
+
+talmente il contrario di stupido; un uomo dal volto rugoso come
+
+la vecchia arenaria rossa; e, in verità, faceva pensare a una roccia di quella ricca
+
+colorazione che risplende del passato; portava con sé la sua
+
+campagna inglese in un'indescrivibile suggestione di profondità e
+
+sfondo; non poteva parlare di cose comuni senza, in qualche modo,
+
+evocare il tempo o il volgere della [[Night|notte]] o del giorno; era uno
+
+scrittore descrittivo nato che si limitava a parlare. Ma nessuno poteva [[Doubt|dubitare]] che fosse
+
+[[Truth|verità]]; o, almeno, veridicità.
+
+Fu un testimone tanto solido a raccontare al signor Pond con notevole
+
+dettaglio la nera e sanguinosa storia del peccato nascosto di Gahagan. E il
+
+curioso effetto di tutto ciò sul signor Pond fu di farlo balzare su
+
+svelto con un ampio sorriso di sollievo sul volto barbuto e alquanto
+
+civettesco; dichiarando con insolita giovialità che andava tutto
+
+benissimo, non c'era che da chiederlo a Gahagan stesso, ed egli avrebbe
+
+raccontato loro tutto. Confronto, lo si chiamava talvolta.
+
+Quanto al dottor Green, con la lettera di presentazione, il suo compito era
+
+fatto, ed era piuttosto impaziente delle formalità di Pond; se ne andò
+
+zoppicando, limitandosi ad avvertire il vicario che avrebbe fatto meglio ad avere un
+
+avvocato, se voleva affrontare quel plausibile briccone irlandese.
+
+Così, quando lo scienziato era già lontano, riassorbito nello
+
+studio di un pitecantropo come animale da compagnia, tutto ciò che restava del suo
+
+intervento era un procuratore di nome Luke Little, molto sul
+
+posto.
+
+L'amico del signor Pond, Sir [[Hubert]] Wotton, il [[Well|noto]] diplomatico,
+
+assunse la presidenza; ma al signor Little non importava chi presiedesse, purché
+
+fosse lui a prendere le redini.
+
+"Questa è un'inchiesta molto irregolare, signori," disse. "Solo una
+
+speciale assicurazione mi avrebbe indotto a esporre il caso del mio cliente
+
+davanti a essa. Sir [[Hubert]] e il signor Pond dichiarano, se ho ben capito, che una
+
+spiegazione sarà richiesta qui e ora."
+
+Poi aggiunse: "È una faccenda penosa, come credo che il signor Pond
+
+converrà."
+
+"È una faccenda molto penosa, davvero," replicò Pond, gravemente, "che
+
+un mio vecchio amico si trovi sotto il sospetto di un'azione
+
+orribile."
+
+Il suo amico, Wotton, guardò Pond per un momento con uno sguardo gelido
+
+di sorpresa; ma sgranò molto di più gli occhi quando fu colto di sorpresa
+
+da Gahagan stesso, che parlava, d'improvviso, per la prima e ultima [[Time|volta]]
+
+in tutte le prime ore del colloquio.
+
+"Sì," disse, col volto arcigno e imperscrutabile. "È
+
+certamente una storia orribile."
+
+"In ogni caso, allora," riprese l'avvocato, "posso ora chiedere al mio cliente,
+
+senza pregiudizio, di ripetere la storia."
+
+"È una brutta storia," disse l'ecclesiastico nel suo modo onesto, "e
+
+la racconterò nel modo più breve possibile."
+
+Pond aveva udito la storia, già, raccontata in un modo insieme più sciolto e
+
+più elaborato, e che concedeva più dettaglio descrittivo o
+
+deduzione della deposizione fatta sotto una tanto rigorosa
+
+sorveglianza legale. Ma persino nel riudirla in forma più esatta,
+
+non poteva liberarsi della sensazione che la scena descritta gli fosse
+
+innaturalmente vivida, ma con la vividezza di un [[nightmare|incubo]].
+
+Non c'era una ragione particolare, a quel punto, per paragonare la
+
+storia a un [[nightmare|incubo]]; se non che i due incidenti principali
+
+accaddero di [[Night|notte]].

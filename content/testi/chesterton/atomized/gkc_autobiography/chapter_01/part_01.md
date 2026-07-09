@@ -143,26 +143,115 @@ a sort of shrine, with profound bows and reverential apostrophes.
 
 I
 
-TESTIMONIANZA PER SENTITO DIRE
+TESTIMONIANZE PER SENTITO DIRE
 
-Inchinandomi in cieca credulità, come è mia abitudine, dinanzi alla pura autorità e alla tradizione degli antichi, ingoiando superstiziosamente una storia che al [[Time|tempo]] non potevo verificare né con l'esperimento né col giudizio privato, sono fermamente dell'opinione di essere nato il 29 maggio 1874, su Campden [[Hill]], a Kensington; e battezzato secondo i formulari della Chiesa d'Inghilterra nella chiesetta di St. George, di fronte alla grande Torre dell'Acquedotto che dominava quel crinale. Non pretendo che vi sia alcun significato nella relazione fra i due edifici; e nego con indignazione che la chiesa sia stata scelta perché occorreva l'intera potenza dell'[[Water|acqua]] della [[London|Londra]] occidentale per fare di me un cristiano.
+Prostrandomi in cieca credulità, com'è mia consuetudine, dinanzi alla mera autorità
+e alla tradizione degli anziani, inghiottendo superstiziosamente una storia
+che al [[Time|momento]] non potevo verificare per esperimento o giudizio privato,
+sono fermamente dell'opinione di essere nato il 29 maggio 1874,
+su Campden [[Hill]], a Kensington; e battezzato secondo i formulari
+della Chiesa d'Inghilterra nella chiesetta di San Giorgio,
+di fronte alla grande Torre dell'Acquedotto che dominava quel crinale.
+Non pretendo alcun significato nella relazione tra i due edifici;
+e nego con indignazione che la chiesa sia stata scelta perché occorreva
+tutta la potenza dell'[[Water|acqua]] della [[London|Londra]] occidentale per fare di me un cristiano.
 
-Ciononostante, la grande Torre dell'Acquedotto era destinata a recitare la sua parte nella mia vita, come narrerò in una pagina successiva; ma quella storia è legata alle mie stesse esperienze, mentre la mia nascita (come ho detto) è un fatto che accetto, al pari di qualche povero ignorante contadino, solo perché mi è stato tramandato dalla tradizione orale. E prima di giungere a una qualunque delle mie esperienze, sarà [[Well|bene]] dedicare questo breve capitolo ad alcuni degli altri fatti della mia famiglia e del mio ambiente, che io tengo per fermi con altrettanta precarietà sulla sola prova del sentito dire. Naturalmente ciò che molti chiamano prova per sentito dire, o ciò che io chiamo prova umana, potrebbe in teoria essere messo in dubbio, come nella controversia baconiana o in buona parte dell'Alta Critica. La storia della mia nascita potrebbe essere falsa. Potrei essere l'erede perduto da tempo del Sacro Romano Impero, oppure un neonato abbandonato da furfanti di Limehouse sulla soglia di una porta a Kensington, destinato a sviluppare più tardi nella vita un'orribile eredità criminale. Alcuni dei metodi scettici applicati all'origine del mondo potrebbero essere applicati alla mia origine, e un indagatore [[Grave|grave]] e coscienzioso giungere alla conclusione che io non sono mai nato affatto. Ma preferisco credere che il buon senso sia qualcosa che i miei lettori e io abbiamo in comune; e che avranno pazienza con un noioso riassunto dei fatti.
+Ciononostante, la grande Torre dell'Acquedotto era destinata a recitare la sua parte
+nella mia vita, come narrerò in una pagina successiva; ma quella storia
+è legata alle mie stesse esperienze, mentre la mia nascita (come ho detto)
+è un episodio che accetto, al pari di qualche povero e ignorante contadino,
+solo perché mi è stato tramandato dalla tradizione orale.
+E prima di venire a una qualunque delle mie esperienze, sarà [[Well|bene]]
+dedicare questo breve capitolo ad alcuni degli altri fatti relativi alla mia
+famiglia e al mio ambiente, che ritengo con altrettanta precarietà su una mera
+testimonianza per sentito dire. Naturalmente ciò che molti chiamano testimonianza per sentito dire,
+o ciò che io chiamo testimonianza umana, potrebbe essere messo in dubbio in teoria,
+come nella controversia baconiana o in buona parte dell'Alta Critica.
+La storia della mia nascita potrebbe essere falsa. Potrei essere l'erede perduto da tempo
+del Sacro Romano Impero, o un bambino abbandonato da certi malandrini di
+Limehouse su una soglia di casa a Kensington, per sviluppare più tardi nella vita
+un'orrenda ereditarietà criminale. Alcuni dei metodi scettici applicati
+all'origine del mondo potrebbero applicarsi alla mia origine, e un [[Grave|serio]] e
+zelante indagatore potrebbe giungere alla conclusione che io non sia mai nato affatto.
+Ma preferisco credere che il buonsenso sia qualcosa che i miei lettori
+e io abbiamo in comune; e che essi avranno pazienza con un noioso
+riassunto dei fatti.
 
-Nacqui da genitori rispettabili ma onesti; vale a dire, in un mondo in cui la parola «rispettabilità» non era ancora esclusivamente un termine ingiurioso, ma conservava qualche vago legame filologico con l'idea di essere rispettati. È vero che perfino nella mia giovinezza il senso della parola stava mutando; come ricordo in una conversazione tra i miei genitori, in cui essa fu usata con entrambe le accezioni. Mio padre, che era sereno, arguto e pieno di passatempi, osservò con noncuranza di essere stato invitato a entrare in quella che allora si chiamava The Vestry. A ciò mia madre, che era più svelta, più inquieta e in genere più Radicale nei suoi istinti, emise qualcosa come un grido di [[Pain|dolore]]; disse: «Oh, Edward, non farlo! Diventerai così rispettabile! Non siamo mai stati rispettabili finora; non cominciamo adesso». E ricordo mio padre che replicava mitemente: «Mia cara, presenti un quadro piuttosto allarmante della nostra vita, se dici che non siamo mai stati rispettabili neppure per un solo istante». I lettori di [[Pride and Prejudice]] si accorgeranno che c'era qualcosa di Mr. Bennet in mio padre; benché non ci fosse certamente nulla di Mrs. Bennet in mia madre.
+Sono nato da genitori rispettabili ma onesti; vale a dire, in un mondo
+in cui la parola «rispettabilità» non era ancora esclusivamente un termine
+d'ingiuria, ma conservava qualche vaga connessione filologica con
+l'idea dell'essere rispettati. È vero che perfino nella mia stessa giovinezza
+il senso della parola stava mutando; come ricordo in una conversazione
+tra i miei genitori, in cui essa fu usata con entrambe le implicazioni.
+Mio padre, che era sereno, spiritoso e pieno di passatempi, osservò con noncuranza
+di essere stato invitato a entrare in quella che allora si chiamava La Fabbriceria.
+A questo mia madre, che era più svelta, irrequieta e in genere
+Radicale nei suoi istinti, emise qualcosa come un grido di [[Pain|dolore]];
+disse: «Oh, Edward, non farlo! Diventerai così rispettabile!
+Noi non siamo mai stati rispettabili finora; non cominciamo adesso.»
+E ricordo mio padre replicare mitemente: «Mia cara, tu offri un quadro piuttosto
+allarmante delle nostre vite, se dici che non siamo mai stati per un solo
+istante rispettabili.» I lettori di [[Pride and Prejudice]]
+scorgeranno che c'era qualcosa del signor Bennet in mio padre;
+benché non ci fosse di certo nulla della signora Bennet in mia madre.
 
-Comunque, quel che intendo qui è che la mia gente apparteneva a quella classe media inglese piuttosto all'antica; in cui a un uomo d'affari era ancora concesso di badare ai propri affari. Non era stato loro concesso alcun barlume della nostra più tarda e più elevata visione, di quella concezione più avanzata e avventurosa del commercio, in cui si suppone che un uomo d'affari debba rivaleggiare con gli affari di tutti gli altri, rovinarli, distruggerli, assorbirli e [[Swallow|inghiottirli]]. Mio padre era un Liberale della scuola che esisteva prima dell'ascesa del Socialismo; dava per scontato che tutte le persone sane di mente credessero nella proprietà privata; ma non si dava la pena di tradurla in libera impresa. La sua gente era del genere che aveva sempre un successo sufficiente; ma non era, nel senso moderno, intraprendente. Mio padre era a capo di un'azienda ereditaria di agenti [[house|immobiliari]] e geometri, che era già stata fondata da circa tre generazioni a Kensington; e ricordo che vi era una sorta di patriottismo locale al riguardo e una certa riluttanza nei membri più anziani, quando i più giovani proposero per la prima volta che essa avesse filiali fuori di Kensington. Questa particolare specie di discreto [[Pride|orgoglio]] era assai caratteristica di questa specie di uomini d'affari all'antica. Ricordo che una volta essa creò una [[Comedy|commedia]] di [[Cross|equivoci]], che difficilmente avrebbe potuto verificarsi se non ci fosse stato qualche segreto [[Self|auto]]compiacimento per ogni accrescimento di status locale. L'episodio è, in più di un senso, uno scorcio del tono e delle conversazioni di quei giorni lontani.
+Comunque sia, ciò che intendo dire qui è che la mia gente apparteneva
+a quella piuttosto antiquata classe media inglese; in cui a un
+uomo d'affari era ancora consentito di badare ai propri affari.
+Non era stato loro concesso alcun barlume della nostra più tarda e più elevata visione,
+di quella più avanzata e avventurosa concezione del commercio,
+in cui si suppone che un uomo d'affari rivaleggi, rovini, distrugga, assorba e
+[[Swallow|inghiotta]] gli affari di tutti gli altri. Mio padre era un Liberale
+della scuola che esisteva prima dell'ascesa del Socialismo; dava
+per scontato che tutte le persone sane di mente credessero nella proprietà privata;
+ma non si dava la pena di tradurla in libera impresa.
+La sua gente era del genere che aveva sempre abbastanza successo;
+ma quasi mai, nel senso moderno, intraprendente. Mio padre era
+il capo di un'attività ereditaria di [[house|agenti immobiliari]] e periti,
+già stabilita da circa tre generazioni
+a Kensington; e ricordo che c'era una sorta di patriottismo locale
+al riguardo e una certa riluttanza nei membri più anziani,
+quando i più giovani proposero per la prima volta di aprire filiali
+fuori Kensington. Questo particolare genere di discreto [[Pride|orgoglio]]
+era assai caratteristico di questo genere di uomini d'affari più anziani.
+Ricordo che una volta diede origine a una [[Comedy|commedia]] di [[Cross|equivoci]],
+che difficilmente sarebbe potuta accadere se non ci fosse stato un simile
+segreto [[Self|autocompiacimento]] per ogni accrescimento dello status locale.
+L'episodio è, sotto più di un aspetto, uno scorcio del tono e delle chiacchiere
+di quei giorni lontani.
 
-Mio nonno, il padre di mio padre, era un bel vecchio dall'aspetto distinto, con capelli e barba bianchi e modi che avevano qualcosa di quella compassata solennità che si accompagnava alle usanze all'antica di proporre brindisi e sentimenti. Manteneva l'antica usanza cristiana di cantare a tavola, e non pareva incongruo quando cantava «The Fine Old English Gentleman» e [[Well|altresì]] [[songs|canzoni]] più pompose del periodo di Waterloo e Trafalgar. E posso osservare di sfuggita che, essendo vissuto fino a vedere la [[Night|notte]] di Mafeking e i più tardi versi sciovinisti, ho conservato un notevole rispetto per quelle vecchie e pompose [[songs|canzoni]] patriottiche. Sono piuttosto propenso a credere che fosse meglio, per la tradizione della lingua inglese, udire versi retorici come questi, su Wellington al letto di morte di Guglielmo Quarto,
+Mio nonno, il padre di mio padre, era un bell'uomo anziano
+dai capelli e dalla barba bianchi e dai modi che avevano qualcosa
+di quella rotonda solennità che si accompagnava alle usanze antiquate
+del proporre brindisi e sentimenti. Manteneva l'antica
+usanza cristiana di cantare a tavola, e non
+pareva incongruo quando cantava «The Fine Old English Gentleman»
+[[Well|così]] come [[songs|canzoni]] più pompose del periodo di Waterloo e Trafalgar.
+E posso osservare per inciso che, essendo vissuto fino a vedere
+la [[Night|notte]] di Mafeking e le successive liriche jingoiste, ho conservato
+un considerevole rispetto per quelle vecchie e pompose [[songs|canzoni]] patriottiche.
+Sono piuttosto incline a credere che fosse meglio per la tradizione della lingua
+inglese udire versi retorici come questi, su Wellington
+al letto di morte di Guglielmo Quarto,
 
-  Poiché egli venne sull'ala dell'Angelo della Vittoria
+  Poiché egli giunse sull'ala dell'Angelo della Vittoria
   Ma l'Angelo della [[Death|Morte]] attendeva il [[King|Re]],
 
-che essere del tutto soddisfatti nell'urlare i versi seguenti, uditi in tutti i music-hall una ventina d'anni più tardi:
+che non essere del tutto appagati dall'urlare i versi seguenti,
+uditi in tutti i music-hall una ventina d'anni dopo:
 
-  E quando diciamo che abbiamo sempre vinto
+  E quando diciamo d'aver sempre vinto
   E quando ci chiedono come si sia fatto
-  Additiamo con orgoglio ciascuno
-  Dei soldati inglesi della [[Queen|Regina]].
+  Indichiamo con fierezza ognuno
+  Dei soldati della [[Queen|Regina]] d'Inghilterra.
 
-Non posso fare a meno di nutrire il vago sospetto che la dignità abbia qualcosa a che vedere con lo stile; ma comunque i gesti, come le [[songs|canzoni]], del [[Time|tempo]] e del tipo di mio nonno avevano molto a che vedere con la dignità. Ma, avvezzo com'era ai modi cerimoniosi, dovette rimanere assai sconcertato da uno strano gentiluomo che entrò nell'ufficio e, dopo aver conferito brevemente con mio padre per affari, chiese a voce sommessa se potesse avere l'alto privilegio di essere presentato al più antico o ancestrale capo della ditta. Si avvicinò poi a mio nonno come se il vecchio signore fosse stato una sorta di reliquiario, con profondi inchini e riverenti apostrofi.
+Non posso fare a meno di avere il vago sospetto che la dignità abbia qualcosa
+a che fare con lo stile; ma comunque i gesti, come le [[songs|canzoni]], del
+[[Time|tempo]] e del tipo di mio nonno avevano molto a che fare con la dignità.
+Ma, avvezzo com'era ai modi cerimoniosi, deve essere stato assai
+sconcertato da uno strano gentiluomo che entrò nell'ufficio e,
+dopo aver conferito brevemente con mio padre per affari, chiese
+a bassa voce se potesse avere l'alto privilegio di essere
+presentato al più antico o ancestrale capo della ditta.
+Si avvicinò poi a mio nonno come se il vecchio gentiluomo fosse stato
+una sorta di reliquiario, con profondi inchini e reverenti apostrofi.

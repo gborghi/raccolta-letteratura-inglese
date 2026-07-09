@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09">‹ Chapter 09</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11">Chapter 11 ›</a></div>
@@ -469,3 +471,468 @@ They found that in those horrible eyeless encounters,
 the North Kensingtons and the Bayswaters and the West Kensingtons
 had again and again met and butchered each other, and they heard
 that [[Adam Wayne]] was barricaded in Pump Street.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09">‹ Chapter 09</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11">Chapter 11 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_04">Part 4</a></li></ul>
+</nav>
+
+LIBRO IV
+CAPITOLO I
+
+LA BATTAGLIA DEI LAMPIONI
+
+IL SIGNOR BUCK, il quale, benché ritirato, si recava spesso ai suoi
+grandi magazzini di tessuti in Kensington High Street, stava chiudendo
+quei locali, essendo l'ultimo ad andarsene.  Era una meravigliosa
+serata di verde e d'oro, ma ciò non lo turbava granché.
+Se glielo aveste fatto notare, avrebbe convenuto seriamente,
+poiché i ricchi [[Desire|desiderano]] sempre essere artistici.
+
+Uscì nell'aria fresca, abbottonandosi la giacca leggera,
+e sbuffando grandi nuvole dal sigaro, quando una figura si precipitò verso di lui
+in un altro soprabito giallo, ma sbottonato e svolazzante dietro di sé.
+
+«Ehilà, Barker!» disse il merciaio.  «Qualche nostro articolo [[Summer|estivo]]?
+Sei troppo in ritardo.  Leggi di fabbrica, Barker.  Umanità e progresso, ragazzo mio.»
+
+«Oh, non chiacchierare,» gridò Barker, pestando i piedi.  «Siamo stati sconfitti.»
+
+«Sconfitti... da chi?» chiese Buck, sconcertato.
+
+«Da Wayne.»
+
+Buck guardò per la prima [[Time|volta]] il feroce volto bianco di Barker,
+mentre riluceva alla luce del lampione.
+
+«Vieni a bere qualcosa,» disse.
+
+Si ritirarono in un buffet imbottito e sgargiante, e Buck si sistemò
+lentamente e pigramente su una sedia, e tirò fuori il portasigari.
+
+«Fatti una fumata,» disse.
+
+Barker era ancora in piedi, e sulle spine, ma dopo un momento di
+esitazione, si sedette, come se potesse [[spring|balzare]] su di nuovo il minuto dopo.
+Ordinarono da bere in [[Silence|silenzio]].
+
+«Com'è successo?» chiese Buck, volgendo su di lui i grandi occhi arditi.
+
+«Come diavolo faccio a saperlo?» gridò Barker.  «È successo
+come... come [[A Dream|un sogno]].  Come possono duecento uomini battere seicento?
+Come possono?»
+
+«[[Well|Bene]],» disse Buck, freddamente.  «Come hanno fatto?  Dovresti saperlo tu.»
+
+«Non lo so.  Non so descriverlo,» disse l'altro, tamburellando sul tavolo.
+«È stato così.  Eravamo seicento e marciavamo con quelle
+maledette asce di Auberon... le uniche armi che abbiamo.
+Marciavamo in doppia fila.  Salimmo per Holland Walk, tra le alte
+palizzate che mi parevano puntare dritte come una freccia verso Pump Street.
+Ero vicino alla coda della fila ed era lunga.
+Quando la fine di essa era ancora tra le alte palizzate,
+la testa della fila stava già attraversando Holland Park Avenue.
+Poi la testa si tuffò nella rete di viuzze strette dall'altra
+parte, e la coda e io stesso sbucammo sul grande incrocio.
+Quando anche noi avemmo raggiunto il lato settentrionale e ci infilammo per una
+stradina che punta, tortuosa com'è, verso Pump Street,
+tutto parve diverso.  La via schivava e si piegava
+così tanto che la testa della nostra fila pareva perduta del tutto:
+poteva altrettanto [[Well|bene]] trovarsi nel Nord [[America]].  E per tutto questo [[Time|tempo]] non
+avevamo visto un'[[Soul|anima]].»
+
+Buck, che tamponava oziosamente la cenere del sigaro sul portacenere,
+cominciò a muoverla deliberatamente sul tavolo, tracciando piumose
+linee grigie, una specie di mappa.
+
+«Ma sebbene le viuzze fossero tutte deserte (cosa che un poco
+mi innervosiva), man mano che ci addentravamo sempre più in esse, una cosa
+cominciò ad accadere che non riuscivo a capire.  A volte molto
+avanti... a tre svolte o cantoni di distanza, per così dire... scoppiava all'improvviso
+una specie di rumore, un tramestìo, e grida confuse, e poi cessava.
+Poi, quando accadeva, qualcosa, non so descriverlo... una specie di scossa
+o di barcollamento correva lungo la fila, come se la fila fosse una cosa viva,
+la cui testa fosse stata colpita, o fosse un cavo elettrico.
+Nessuno di noi sapeva perché ci muovevamo, ma ci muovevamo e ci spingevamo.
+Poi ci riprendevamo, e proseguivamo per le sporche viuzze,
+attorno ai cantoni, e su per i vicoli contorti.  Le piccole vie storte
+cominciarono a darmi una sensazione che non so spiegare... come se fosse [[A Dream|un sogno]].
+Sentivo come se le cose avessero perso la ragione, e non dovessimo
+mai più uscire dal labirinto.  Strano sentirmi parlare così, non è vero?
+Le vie erano vie assai [[Well|ben]] note, tutte segnate sulla mappa.
+Ma il fatto rimane.  Non avevo paura che accadesse qualcosa.
+Avevo paura che non accadesse mai nulla... che non accadesse mai nulla
+per tutta l'[[Eternity|eternità]] di Dio.»
+
+Vuotò il bicchiere e chiese dell'altro whisky.  Lo bevve
+e proseguì.
+
+«E poi qualcosa accadde davvero.  Buck, è la solenne [[Truth|verità]]:
+nulla è mai accaduto a te nella tua vita.  Nulla era
+mai accaduto a me nella mia vita.»
+
+«Non è mai accaduto nulla!» disse Buck, fissandolo.  «Che vuoi dire?»
+
+«Non è mai accaduto nulla,» ripeté Barker, con una
+morbosa ostinazione.  «Non sai cosa significa che una cosa accada?
+Siedi nel tuo ufficio aspettando i clienti, e i clienti vengono;
+cammini per strada aspettando gli amici, e gli amici ti incontrano;
+vuoi da bere e l'ottieni; ti senti incline a una scommessa e la fai.
+Ti aspetti o di vincere o di perdere, e fai o l'uno o l'altro.
+Ma le cose che accadono!» e rabbrividì incontrollabilmente.
+
+«Continua,» disse Buck, seccamente.  «Vai avanti.»
+
+«Mentre camminavamo spossati attorno ai cantoni, qualcosa accadde.
+Quando qualcosa accade, accade prima, e tu la vedi dopo.
+Accade da sé, e tu non c'entri nulla.  Prova
+una cosa spaventosa... che esistono altre cose oltre il proprio [[Self|io]].
+Posso metterla solo in questo modo.  Girammo una svolta, due svolte,
+tre svolte, quattro svolte, cinque.  Poi mi sollevai lentamente
+dal rigagnolo dove ero stato scagliato mezzo tramortito, e fui
+di nuovo abbattuto da uomini vivi che mi piombavano addosso, e il mondo
+era pieno di ruggiti, e uomini enormi che [[rolling|rotolavano]] come birilli.»
+
+Buck guardò la sua mappa con le sopracciglia aggrottate.
+
+«Era quella Portobello [[Road]]?» chiese.
+
+«Sì,» disse Barker.  «Sì; Portobello [[Road]]... l'ho capito dopo;
+ma, mio Dio... che posto era!  Buck, ti sei mai fermato
+a lasciare che un pezzo d'uomo di due metri ti sferzasse e sferzasse la testa con due metri
+di palo con tre chili d'acciaio in cima?  Perché, quando
+hai fatto quell'esperienza, come dice Walt Whitman, 'riesamini
+filosofie e religioni.'  »
+
+«Non ho alcun [[Doubt|dubbio]],» disse Buck.  «Se quella era Portobello [[Road]],
+non vedi cos'è successo?»
+
+«So [[Well|benissimo]] cos'è successo.  Sono stato buttato a terra quattro volte;
+un'esperienza che, come dico, ha un effetto sull'atteggiamento mentale.
+E accadde anche un'altra cosa.  Buttai a terra due uomini.
+Dopo la quarta caduta (non ci fu molto spargimento di sangue... più brutale
+il precipitarsi e lo spintonarsi... poiché nessuno poteva usare le armi),
+dopo la quarta caduta, dico, mi rialzai come un diavolo,
+e strappai un'ascia dalle mani di un uomo e colpii dove
+vedevo lo scarlatto dei compari di Wayne, colpii ancora e ancora.
+Due di loro caddero, sanguinando sulle pietre, grazie a Dio... e io
+risi e mi ritrovai di nuovo lungo disteso nel rigagnolo, e mi rialzai
+di nuovo, e colpii di nuovo, e ridussi in pezzi la mia alabarda.
+Ma ferii la testa di un uomo.»
+
+Buck posò il bicchiere con un colpo secco, e sputò imprecazioni attraverso
+i folti baffi.
+
+«Cosa c'è?» chiese Barker, interrompendosi, poiché l'uomo era
+stato calmo fino ad allora, e ora la sua agitazione era assai più violenta
+della propria.
+
+«Cosa c'è?» disse Buck, amaramente; «non vedi come questi maniaci
+ci hanno preso?  Perché due idioti, uno un pagliaccio e l'altro
+un pazzo urlante, dovrebbero rendere uomini sani di mente così diversi da sé stessi?
+Guarda qui, Barker; ti faccio un quadro.  Un giovanotto assai [[Well|ben]] educato
+di questo secolo saltella in giro in finanziera.  Ha
+in mano un'assurda alabarda del diciassettesimo secolo,
+con la quale cerca di ammazzare uomini per strada a Notting [[Hill]].
+Maledizione! non vedi come ci hanno preso?  Non importa come ti
+sei sentito... è così che apparivi.  Il [[King|Re]] piegherebbe la sua maledetta testa
+da un lato e la chiamerebbe squisita.  Il Prevosto di Notting [[Hill]]
+storcerebbe il suo maledetto naso all'insù e la chiamerebbe eroica.
+Ma in nome del Cielo come l'avresti chiamata tu... due giorni prima?»
+
+Barker si morse il labbro.
+
+«Tu non ci sei passato, Buck,» disse.  «Tu non
+capisci il combattere... l'atmosfera.»
+
+«Non nego l'atmosfera,» disse Buck, battendo sul tavolo.
+«Dico soltanto che è la loro atmosfera.  È l'atmosfera di [[Adam Wayne]].
+È l'atmosfera che io e te credevamo svanita
+da un mondo civile per sempre.»
+
+«[[Well|Ebbene]], non è così,» disse Barker; «e se hai qualche dubbio persistente,
+prestami un'ascia e te lo dimostrerò.»
+
+Ci fu un lungo [[Silence|silenzio]], e poi Buck si volse al suo vicino
+e parlò con quel tono bonario che nasce dalla capacità di guardare
+i fatti in faccia; il tono con cui concludeva i grandi affari.
+
+«Barker,» disse, «hai ragione.  Questa vecchia cosa... questo combattere,
+è tornata.  È tornata all'improvviso e ci ha colti di sorpresa.
+Dunque è primo [[Blood|sangue]] per [[Adam Wayne]].  Ma, a meno che ragione e aritmetica
+e tutto il resto siano impazziti, dev'essere prossimo e ultimo
+[[Blood|sangue]] per noi.  Ma quando una questione è davvero sorta, non c'è che
+una cosa da fare... studiare quella questione come tale e vincerla.
+Barker, poiché si tratta di combattere, dobbiamo capire il combattere.
+Io devo capire il combattere con la stessa freddezza e completezza con cui
+capisco la merceria; tu devi capire il combattere con la stessa freddezza e
+completezza con cui capisci la politica.  Ora, guarda i fatti.
+Mi attengo senza esitazione alla mia formula originaria.  Il combattere, quando
+abbiamo la forza maggiore, è solo questione di aritmetica.  Dev'esserlo.
+Mi hai appena chiesto come duecento uomini potessero sconfiggerne seicento.
+Te lo posso dire.  Duecento uomini possono sconfiggerne seicento quando i sei
+cento si comportano da sciocchi.  Quando dimenticano le stesse condizioni in cui
+combattono; quando combattono in una palude come se fosse una montagna;
+quando combattono in una foresta come se fosse una pianura; quando combattono
+per le strade senza ricordare a cosa servano le strade.»
+
+«A cosa serve una strada?» chiese Barker.
+
+«A cosa serve una cena?» gridò Buck, furiosamente.
+«Non è ovvio?  Questa scienza militare è puro buon senso.
+Lo scopo di una strada è condurre da un luogo a un altro;
+perciò tutte le strade si congiungono; perciò combattere per le strade è cosa
+assai particolare.  Tu sei avanzato in quell'alveare di strade come se
+stessi avanzando in una pianura aperta dove potevi vedere tutto.
+Invece stavi avanzando nelle viscere di una fortezza,
+con strade che ti puntavano contro, strade che ti si voltavano contro,
+strade che ti balzavano addosso, e tutte in mano al nemico.
+Sai cos'è Portobello [[Road]]?  È l'unico punto del
+tuo [[Journey|percorso]] dove due vie laterali s'incontrano l'una di fronte all'altra.
+Wayne ammassò i suoi uomini sui due lati, e quando ebbe lasciato
+passare abbastanza della tua fila, la tagliò in due come un verme.
+Non vedi cosa ti avrebbe salvato?»
+
+Barker scosse la testa.
+
+«Non può aiutarti la tua 'atmosfera'?» chiese Buck, amaramente.
+«Devo tentare spiegazioni alla maniera romantica?  Supponi che,
+mentre combattevi alla cieca coi rossi di Notting Hill che
+ti imprigionavano da entrambi i lati, tu avessi udito un grido alle loro spalle.
+Supponi, oh romantico Barker! che dietro le tuniche rosse tu avessi
+visto l'azzurro e l'oro di South Kensington coglierli alle spalle,
+circondarli a loro volta e scagliarli sulle tue alabarde.»
+
+«Se la cosa fosse stata possibile,» cominciò Barker, imprecando.
+
+«La cosa sarebbe stata tanto possibile,» disse Buck, semplicemente; «quanto semplice
+è l'aritmetica.  C'è un certo numero di imbocchi di strada che conducono
+a Pump Street.  Non sono novecento; non sono nove milioni.
+Non spuntano di [[Night|notte]].  Non si moltiplicano come funghi.
+Dev'essere possibile con una forza schiacciante come la nostra
+avanzare per tutti quanti in una volta.  In ognuna delle arterie,
+o vie d'accesso, possiamo mettere quasi tanti uomini quanti Wayne può schierarne
+in campo in tutto.  Fatto ciò, l'abbiamo in pugno per dimostrazione.
+È come una proposizione di Euclide.»
+
+«Tu credi che sia certo,» disse Barker, ansioso ma
+deliziosamente dominato.
+
+«Ti dico cosa penso,» disse Buck, alzandosi gioviale.
+«Penso che [[Adam Wayne]] abbia dato una battaglietta di rara vivacità.
+E penso di essere maledettamente dispiaciuto per lui.»
+
+«Buck, sei un grand'uomo,» gridò Barker, alzandosi anche lui.
+«Mi hai ricondotto alla ragione.  Mi vergogno a dirlo,
+ma stavo diventando romantico.  Certo, quel che dici è
+buon senso adamantino.  Il combattere, essendo fisico, dev'essere matematico.
+Siamo stati sconfitti perché non eravamo né matematici né
+fisici né altro... perché meritavamo di essere sconfitti.
+Teniamo tutte le vie d'accesso, e con la nostra forza dobbiamo averlo.
+Quando apriamo la prossima campagna?»
+
+«Ora,» disse Buck, e uscì dal bar.
+
+«Ora!» gridò Barker, seguendolo con impazienza.  «Vuoi dire ora?
+È così tardi.»
+
+Buck si voltò verso di lui, pestando i piedi.
+
+«Credi che il combattere sia soggetto alle Leggi di fabbrica?» disse.
+E chiamò una carrozza.  «Stazione di Notting [[Hill]] Gate,» disse,
+e i due partirono.
+
+. . . . .
+
+Una genuina reputazione si può talvolta costruire in un'ora.  Buck, nei successivi
+sessanta o ottanta minuti si rivelò un uomo d'azione davvero grande.
+La sua carrozza lo portò come un fulmine dal [[King|Re]] a Wilson,
+da Wilson a Swindon, da Swindon di nuovo a Barker;
+se il suo tragitto era frastagliato, aveva la frastagliatura del [[Lightning|fulmine]].
+Solo due cose portava con sé, il suo immancabile sigaro
+e la mappa di North Kensington e Notting [[Hill]].  C'erano,
+come faceva notare più e più volte, con ogni varietà di [[Persuasion|persuasione]]
+e violenza, soltanto nove modi possibili di avvicinarsi a Pump Street
+entro un quarto di miglio all'intorno; tre da Westbourne Grove,
+due da Ladbroke Grove, e quattro da Notting [[Hill]] High Street.
+E aveva distaccamenti di duecento ciascuno, appostati a ognuno
+degli ingressi prima che l'ultimo verde di quello strano tramonto
+fosse sprofondato dal cielo nero.
+
+Il cielo era particolarmente nero, e su questo [[Alone|soltanto]] si levò una falsa
+protesta contro l'ottimismo trionfante del Prevosto di
+North Kensington.  Egli la scavalcò col suo contagioso buon senso.
+
+«Non esiste,» disse, «cosa come la [[Night|notte]] a [[London|Londra]].
+Basta seguire la fila dei lampioni.  Guardate, ecco la mappa.
+Duecento soldati purpurei di North Kensington al mio comando marciano
+su per Ossington Street, altri duecento sotto il Capitano Bruce,
+della Guardia di North Kensington, su per Clanricarde Gardens.
+[Clanricarde Gardens a quel [[Time|tempo]] non era più un vicolo cieco,
+ma era collegata da Pump Street a Pembridge Square.  Vedi mappa.]  Duecento
+gialli di West Kensington sotto il Prevosto Swindon attaccano da
+Pembridge [[Road]].  Altri duecento dei miei uomini dalle vie orientali,
+in partenza da [[Queen|Queen's]] [[Road]].  Due distaccamenti di gialli entrano
+per due strade da Westbourne Grove.  Infine, duecento verdi
+di Bayswater scendono da Nord attraverso Chepstow Place,
+e altri duecento sotto lo stesso Prevosto Wilson, per la parte alta
+di Pembridge [[Road]].  Signori, è scacco matto in due mosse.
+Il nemico deve o ammassarsi a Pump Street ed essere fatto a pezzi... o
+deve ripiegare oltre la Gaslight & Coke Co.... e piombare sui miei quattro
+cento... o deve ripiegare oltre la chiesa di St. Luke e piombare sui
+seicento da Ovest.  A meno che non siamo tutti pazzi, è chiaro.
+Avanti.  Ai vostri posti e attendete il segnale d'avanzata del Capitano Bruce.
+Poi non dovrete che risalire una fila di lampioni a gas e schiacciare quest'assurdità
+con pura matematica.  Domani saremo di nuovo tutti civili.»
+
+Il suo ottimismo ardeva come un gran [[Fire|fuoco]] nella [[Night|notte]], e correva
+attorno al terribile cerchio in cui Wayne era ora tenuto impotente.
+La battaglia era già finita.  L'energia di un uomo per un'ora aveva salvato
+la [[City|città]] dalla guerra.
+
+Per i dieci minuti seguenti Buck camminò avanti e indietro in silenzio accanto
+al gruppo immobile dei suoi duecento.  Non aveva mutato in alcun
+modo il proprio aspetto, se non per gettarsi a tracolla sul soprabito giallo
+una fondina con dentro una rivoltella.  Sicché la sua figura moderna dagli abiti leggeri
+spiccava stranamente accanto alle pompose uniformi purpuree dei suoi alabardieri,
+che coloravano cupamente ma riccamente la nera [[Night|notte]].
+
+Alla fine una tromba stridula risuonò da qualche punto più su per la strada;
+era il segnale dell'avanzata.  Buck diede brevemente l'ordine, e l'intera
+fila purpurea, col suo acciaio fiocamente luccicante, risalì per il vicolo laterale.
+Davanti a essa c'era un declivio di strada, lungo, dritto e lucente nel buio.
+Era una [[Sword|spada]] puntata verso Pump Street, il cuore verso cui nove
+altre spade erano puntate quella [[Night|notte]].
+
+Un quarto d'ora di marcia silenziosa li portò quasi a portata
+d'orecchio di qualsiasi tumulto nella cittadella condannata.  Ma ancora non
+c'era suono né segno del nemico.  Questa [[Time|volta]], in ogni caso,
+sapevano che vi si stringevano attorno meccanicamente, e
+marciarono sotto la luce dei lampioni e il buio senza alcuno di quel misterioso
+senso d'ignoranza che Barker aveva provato entrando nel paese
+nemico per un'unica via da [[Alone|solo]].
+
+«Alt... armi in resta!» gridò Buck, all'improvviso, e mentre
+parlava giunse un frastuono di piedi che ruzzolavano sulle pietre.
+Ma le alabarde furono spianate invano.  La figura che si precipitò
+era un messaggero del contingente del Nord.
+
+«Vittoria, signor Buck!» gridò, ansimando, «sono stati scacciati.
+Il Prevosto Wilson di Bayswater ha preso Pump Street.»
+
+Buck corse avanti nell'eccitazione.
+
+«Allora, da che parte ripiegano?  Dev'essere o per St. Luke
+per raggiungere Swindon, o per la Compagnia del Gas per raggiungere noi.  Corri come un pazzo
+da Swindon e assicurati che i gialli tengano la [[Road|strada]] di St. Luke.
+Noi terremo questa, non [[Fear|temere]].  Li abbiamo in una trappola di ferro.  Corri!»
+
+Mentre il messaggero si precipitava via nell'oscurità, la grande guardia
+di North Kensington proseguì con la certezza di una [[Machine|macchina]].
+Eppure a malapena cento iarde più oltre le punte delle loro alabarde caddero di nuovo
+in fila luccicando alla luce del gas.  Poiché di nuovo si udì un frastuono di piedi
+sulle pietre, e di nuovo si rivelò essere soltanto il messaggero.
+
+«Signor Prevosto,» disse, «i gialli di West Kensington tengono
+la [[Road|strada]] presso St. Luke da venti minuti, dalla cattura
+di Pump Street.  Pump Street non è a duecento iarde di distanza,
+non possono ripiegare per quella [[Road|strada]].»
+
+«Allora ripiegano per questa!» disse il Prevosto Buck, con una
+allegria finale, «e per buona sorte per una [[Road|strada]] [[Well|ben]] illuminata,
+per quanto si contorca.  Avanti!»
+
+Mentre procedevano lungo le ultime trecento iarde del loro [[Journey|cammino]],
+Buck cadde, forse per la prima [[Time|volta]] in vita sua, in una specie
+di fantasticheria filosofica, poiché gli uomini del suo tipo sono sempre resi benevoli,
+e come dire [[Melancholy|malinconici]], dal [[success|successo]].
+
+«Mi dispiace per il povero vecchio Wayne, davvero,» pensò.
+«Ha parlato splendidamente in mio favore a quel Consiglio.
+E ha pestato un occhio al vecchio Barker con notevole brio.
+Ma non vedo cosa un uomo possa aspettarsi quando combatte contro l'aritmetica,
+per non dire della civiltà.  E che meravigliosa burla è tutto
+questo genio militare.  Sospetto di aver appena scoperto quel che
+Cromwell scoprì, che un assennato commerciante è il miglior generale,
+e che un uomo capace di comprare uomini e vendere uomini sa condurli e ucciderli.
+La cosa è semplicemente come sommare una colonna in un registro.  Se Wayne ha
+duecento uomini, non può mettere duecento uomini in nove luoghi in una volta.
+Se sono scacciati da Pump Street, fuggono da qualche parte.
+Se non fuggono oltre la chiesa, fuggono oltre lo Stabilimento.
+E così li abbiamo in pugno.  Noi uomini d'affari non avremmo alcuna possibilità
+se non che gente più astuta di noi si mette [[Bees|grilli]] per la testa
+che le impediscono di ragionare come si deve... e così ragioniamo [[Alone|noi soli]].
+E così io, che sono comparativamente stupido, vedo le cose come le vede Dio,
+come una vasta [[Machine|macchina]].  Dio mio, cos'è questo?»  E si portò le mani
+agli occhi e barcollò all'indietro.
+
+Poi attraverso l'oscurità gridò con voce spaventosa:
+
+«Ho bestemmiato Dio?... Sono stato colpito da cecità.»
+
+«Cosa?» gemette un'altra voce dietro di lui, la voce di un certo
+Wilfred Jarvis di North Kensington.
+
+«Cieco!» gridò Buck; «cieco!»
+
+«Anch'io sono cieco!» gridò Jarvis, in un'agonia.
+
+«Sciocchi, tutti voi,» disse una voce grossolana dietro di loro; «siamo tutti ciechi.
+I lampioni si sono spenti.»
+
+«I lampioni... ma perché? dove?» gridò Buck, voltandosi furiosamente
+nell'oscurità.  «Come faremo ad avanzare?  Come faremo a inseguire il nemico?
+Dove sono andati?»
+
+«Il nemico è andato...» disse la voce rude dietro,
+e poi si fermò, dubbioso.
+
+«Dove?» urlò Buck, pestando i piedi come un pazzo.
+
+«Sono andati,» disse la voce burbera, «oltre lo Stabilimento del Gas, e hanno
+colto la loro occasione.»
+
+«Gran Dio!» tuonò Buck, e afferrò la rivoltella;
+«vuoi dire che hanno spento...»
+
+Ma quasi prima che avesse pronunciato le parole, fu scagliato come una pietra
+da una catapulta in mezzo ai suoi stessi uomini.
+
+«Notting [[Hill]]!  Notting [[Hill]]!» gridavano voci spaventose fuori dall'oscurità,
+e parevano venire da ogni lato, poiché gli uomini di North Kensington,
+ignari della [[Road|strada]], avevano perso ogni orientamento nel nero
+mondo della cecità.
+
+«Notting [[Hill]]!  Notting [[Hill]]!» gridava la gente invisibile,
+e gli invasori venivano abbattuti orribilmente con acciaio nero,
+con acciaio che non dava alcun luccichio contro nessuna luce.
+
+. . . . .
+
+Buck, benché gravemente mutilato dal colpo di un'alabarda, conservò una furiosa
+ma splendida [[Sanity|lucidità]].  Brancolò all'impazzata verso il muro e lo trovò.
+Lottando con dita striscianti lungo di esso, trovò un'apertura
+laterale e vi si ritirò coi resti dei suoi uomini.
+Le loro avventure durante quella prodigiosa [[Night|notte]] non si possono descrivere.
+Non sapevano se stessero andando verso il nemico o allontanandosene.
+Non sapendo dove essi stessi fossero, né dove fossero i loro avversari,
+era mera ironia chiedersi dove fosse il resto del loro esercito.
+Poiché era calata su di loro una cosa che [[London|Londra]] non
+conosce... l'oscurità, che esisteva prima che le [[Stars|stelle]] fossero fatte, ed essi
+vi erano tanto perduti come se fossero stati fatti prima delle [[Stars|stelle]].
+Di tanto in tanto, mentre quelle terribili ore trascorrevano, urtavano
+nell'oscurità contro uomini vivi, che colpivano loro e che essi
+colpivano, con una furia da idioti.  Quando alla fine giunse la grigia [[Dawn|alba]],
+si accorsero di aver vagato indietro fino al margine della Uxbridge [[Road]].
+Scoprirono che in quegli orribili scontri senz'occhi,
+i North Kensington e i Bayswater e i West Kensington
+si erano più e più volte incontrati e trucidati a vicenda, e udirono
+che [[Adam Wayne]] era barricato in Pump Street.

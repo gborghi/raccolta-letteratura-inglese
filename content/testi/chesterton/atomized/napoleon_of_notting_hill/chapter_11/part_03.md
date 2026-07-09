@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11">Chapter 11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_01">part 01 ›</a></div>
@@ -122,3 +124,121 @@ gang lose touch with them."
 of O company.
 
 "I am always good," said Mr. Pinker.  "Lead on."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11">Chapter 11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_01">part 01 ›</a></div>
+</nav>
+
+Alla fine Barker disse improvvisamente:
+
+«Buck, ti [[Cross|passa]] mai per la mente di cosa si tratti tutto questo?
+La strada di scorrimento da Hammersmith a Maida Vale era una speculazione
+straordinariamente buona.  Io e te speravamo un gran che da essa.  Ma ne
+vale la pena?  Ci costerà migliaia schiacciare questa ridicola sommossa.
+Supponi di lasciarla [[Alone|stare]]?»
+
+«E farci bastonare in pubblico da un pazzo dai capelli rossi che due
+medici qualsiasi rinchiuderebbero?» esclamò Buck, balzando in piedi.
+«Cosa proponi di fare, signor Barker?  Di scusarti con l'ammirevole
+signor Wayne?  D'inginocchiarti alla Carta delle Città?  Di stringerti al
+petto la [[Flag|bandiera]] del [[Lion|Leone]] Rosso?  Di baciare a uno a uno ogni sacro
+lampione che salvò Notting [[Hill]]?  No, per Dio!  I miei uomini hanno combattuto assai
+[[Well|bene]]... sono stati sconfitti con un trucco.  E combatteranno di nuovo.»
+
+«Buck,» disse Barker, «ti ho sempre ammirato.  E avevi perfettamente
+ragione in quel che dicesti l'altro giorno.»
+
+«In cosa?»
+
+«Nel dire,» disse Barker, alzandosi quietamente, «che eravamo tutti finiti nell'
+atmosfera di [[Adam Wayne]] e fuori dalla nostra.  Amico mio, l'intero
+regno territoriale di [[Adam Wayne]] si estende a circa nove strade,
+con barricate all'estremità.  Ma il regno spirituale
+di [[Adam Wayne]] si estende, Dio sa dove... si estende a quest'ufficio
+in ogni caso.  Il pazzo dai capelli rossi che due medici qualsiasi
+rinchiuderebbero sta riempiendo questa stanza con la sua ruggente, irragionevole [[Soul|anima]].
+Ed è stato il pazzo dai capelli rossi a dire l'ultima parola che hai pronunciato.»
+
+Buck andò alla [[Window|finestra]] senza rispondere.
+
+«Tu capisci, naturalmente,» disse infine, «che non mi sogno
+di cedere.»
+
+. . . . .
+
+Il [[King|Re]], intanto, procedeva sferragliando sull'imperiale del suo omnibus blu.
+Il traffico di [[London|Londra]] nel suo complesso non era stato, ovviamente, gran
+disturbato da questi eventi, poiché la faccenda era trattata come una
+sommossa di Notting [[Hill]], e quell'area era stata delimitata come se fosse
+in mano a una banda di riconosciuti rivoltosi.  Gli omnibus blu
+giravano semplicemente attorno come avrebbero fatto se una [[Road|strada]] fosse in riparazione,
+e l'omnibus su cui sedeva il corrispondente del [[Court]] Journal
+svoltava attorno all'angolo di [[Queen|Queen's]] [[Road]], a Bayswater.
+
+Il [[King|Re]] era [[Alone|solo]] sull'imperiale del veicolo, e godeva
+della [[Speed|velocità]] con cui procedeva.
+
+«Avanti, mia [[Beauty|bellezza]], mio Arabo,» disse, dando pacche incoraggianti all'omnibus,
+«il più veloce di tutta la tua tribù balzante.  Sono i tuoi rapporti col
+tuo conducente, mi [[Wonder|domando]], quelli del Beduino col suo destriero?
+[[Sleep|Dorme]] egli fianco a fianco con te...»
+
+Le sue meditazioni furono interrotte da un arresto improvviso e stridente.
+Guardando oltre il bordo, vide che le teste dei cavalli venivano
+trattenute da uomini in uniforme dell'esercito di Wayne, e udì la voce
+di un ufficiale che gridava ordini.
+
+[[King|Re]] Auberon discese dall'omnibus con dignità.
+La guardia o picchetto di alabardieri rossi che aveva fermato il veicolo
+non contava più di venti uomini, ed erano al comando
+di un giovane basso, bruno, dall'aria intelligente, cospicuo tra
+gli altri per essere vestito di un'ordinaria finanziera, ma cinto
+alla vita da una fascia rossa e da una lunga [[Sword|spada]] del diciassettesimo secolo.
+Un lucido cilindro di seta e gli occhiali completavano l'abbigliamento in modo piacevole.
+
+«Con chi ho l'[[Honour|onore]] di parlare?» disse il [[King|Re]], sforzandosi di
+somigliare a Carlo I, malgrado difficoltà personali.
+
+L'uomo bruno con gli occhiali si sollevò il cappello con pari gravità.
+
+«Mi chiamo Bowles,» disse.  «Sono un farmacista.  Sono anche un capitano
+della compagnia O dell'esercito di Notting [[Hill]].  Sono desolato di dover
+incomodarvi fermando l'omnibus, ma quest'area è coperta
+dalla nostra proclamazione, e intercettiamo ogni traffico.  Posso chiedere con chi
+ho l'[[Honour|onore]]... Ma, santo cielo, chiedo perdono a vostra Maestà.
+Sono del tutto sopraffatto nel trovarmi ad avere a che fare col [[King|Re]].»
+
+Auberon alzò le mani con indescrivibile grandiosità.
+
+«Non col [[King|Re]],» disse; «col corrispondente speciale di guerra
+del [[Court]] Journal.»
+
+«Chiedo perdono a vostra Maestà,» cominciò il signor Bowles, dubbioso.
+
+«Mi chiamate Maestà?  Ripeto,» disse Auberon fermamente, «sono
+un rappresentante della stampa.  Ho scelto, con un profondo senso
+di responsabilità, il nome di Pinker.  [[Desire|Desidererei]] che si tirasse un velo
+sul passato.»
+
+«[[Well|Benissimo]], signore,» disse il signor Bowles, con aria di sottomissione, «ai nostri occhi
+la sacralità della stampa è almeno pari a quella del trono.
+Non [[Desire|desideriamo]] nulla di meglio che i nostri torti e le nostre glorie siano
+ampiamente conosciuti.  Posso chiedere, signor Pinker, se avete qualche obiezione
+a essere presentato al Prevosto e al Generale Turnbull?»
+
+«Il Prevosto ho avuto l'[[Honour|onore]] di conoscerlo,»
+disse Auberon, con disinvoltura.  «Noi vecchi giornalisti, sapete, conosciamo tutti.
+Sarei lietissimo di avere di nuovo lo stesso [[Honour|onore]].
+Anche il Generale Turnbull, sarebbe una gratificazione conoscerlo.
+I più giovani sono così interessanti.  Noi della vecchia banda
+di Fleet Street perdiamo i contatti con loro.»
+
+«Volete essere così gentile da farvi da questa parte?» disse il capo
+della compagnia O.
+
+«Sono sempre gentile,» disse il signor Pinker.  «Fate strada.»

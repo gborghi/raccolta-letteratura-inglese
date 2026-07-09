@@ -153,10 +153,130 @@ but I feel something like that about Gosse.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_06">part 06 ›</a></div>
 </nav>
 
-In [[Truth|verità]], la storia di ciò che veniva chiamato il mio Ottimismo fu piuttosto singolare. Quando fui stato per qualche [[Time|tempo]] in queste, le più oscure profondità del pessimismo contemporaneo, ebbi un forte impulso interiore a ribellarmi; a scacciare questo incubo o a scrollarmi di dosso questo [[nightmare|incubo notturno]]. Ma poiché stavo ancora pensando la cosa da me solo, con poco aiuto dalla [[philosophy|filosofia]] e nessun aiuto reale dalla religione, inventai una rudimentale e improvvisata teoria mistica tutta mia. Era in sostanza questa; che perfino la mera esistenza, ridotta ai suoi limiti più primari, era abbastanza straordinaria da essere eccitante. Qualsiasi cosa era magnifica se paragonata al nulla. Anche se la luce stessa del giorno fosse stata [[A Dream|un sogno]], era un sogno diurno; non era un [[nightmare|incubo]]. Il semplice fatto che si potessero agitare braccia e gambe (o quei dubbi oggetti esterni nel paesaggio che venivano chiamati le proprie braccia e le proprie gambe) mostrava che non aveva la mera paralisi di un [[nightmare|incubo]]. O se era un [[nightmare|incubo]], era un [[nightmare|incubo]] godibile. Di fatto, ero approdato a una posizione non molto lontana dalla frase del mio nonno puritano, quando disse che avrebbe reso grazie a Dio per la propria creazione anche se fosse stato un'[[Soul|anima]] perduta. Mi aggrappavo ai resti della religione con un unico sottile filo di gratitudine. Ringraziavo quali che fossero gli dèi, non come Swinburne, perché nessuna vita dura in eterno, ma perché una vita comunque era stata vissuta; non, come Henley, per la mia indomabile [[Soul|anima]] (poiché non sono mai stato così ottimista riguardo alla mia [[Soul|anima]] fino a tal punto) ma per la mia [[Soul|anima]] e per il mio [[Body|corpo]], anche se potevano essere vinti. Questo modo di guardare le cose, con una sorta di mistico minimo di gratitudine, fu naturalmente, in una certa misura, favorito da quei pochi degli scrittori alla moda che non erano pessimisti; specialmente da Walt Whitman, da Browning e da Stevenson; il «Dio dev'essere lieto che uno ami tanto il suo mondo» di Browning, o la «fede nell'ultima decenza delle cose» di Stevenson. Ma non credo di dire troppo affermando che lo presi a modo mio; anche se era un modo che non riuscivo a vedere chiaramente né a rendere molto chiaro. Ciò che intendevo, che riuscissi o no a dirlo, era questo; che nessun uomo sa quanto sia ottimista, anche quando si dice pessimista, perché non ha realmente misurato la profondità del proprio debito verso chiunque lo abbia creato e reso capace di dirsi qualsiasi cosa. In fondo al nostro cervello, per così dire, c'era un dimenticato bagliore o scoppio di stupore per la nostra stessa esistenza. Lo scopo della vita artistica e spirituale era scavare in cerca di questa sommersa alba di [[Wonder|meraviglia]]; così che un uomo seduto su una sedia potesse improvvisamente comprendere di essere realmente vivo, ed essere felice. C'erano altri aspetti di questo sentimento, e altri argomenti intorno a esso, su cui dovrò ritornare. Qui esso è soltanto una parte necessaria della narrazione; poiché implica il fatto che, quando cominciai davvero a scrivere, ero pieno di una nuova e ardente risoluzione di scrivere contro i Decadenti e i Pessimisti che dominavano la cultura dell'epoca.
+In [[Truth|Verità]], la storia di ciò che si chiamò il mio Ottimismo fu piuttosto strana.
+Quando fui stato per qualche [[Time|tempo]] in queste, le più oscure profondità
+del pessimismo contemporaneo, ebbi un forte impulso interiore
+a ribellarmi; a dislocare questo incubo o a scrollarmi di dosso questo [[nightmare|incubo]].
+Ma poiché stavo ancora elaborando la cosa da me,
+con poco aiuto dalla [[philosophy|filosofia]] e nessun vero aiuto dalla religione,
+inventai una rudimentale e raffazzonata teoria mistica tutta mia.
+Era sostanzialmente questa; che perfino la mera esistenza, ridotta ai suoi
+limiti più primari, era abbastanza straordinaria da essere eccitante.
+Qualsiasi cosa era magnifica in confronto al nulla. Anche se la luce stessa
+del giorno fosse stata [[A Dream|un sogno]], era un sogno a occhi aperti; non era un [[nightmare|incubo]].
+Il mero fatto che si potessero agitare le braccia e le gambe
+(o quei dubbi oggetti esterni nel paesaggio che venivano
+chiamati le proprie braccia e gambe) mostrava che non aveva la mera
+paralisi di un [[nightmare|incubo]]. O se era un [[nightmare|incubo]], era un
+[[nightmare|incubo]] godibile. In effetti, ero approdato a una posizione non
+molto lontana dalla frase di mio nonno puritano, quando disse
+che avrebbe ringraziato Dio per la sua creazione se fosse stato un'[[Soul|anima]] perduta.
+Mi aggrappavo ai resti della religione con un solo esile filo di ringraziamento.
+Ringraziavo quali che fossero gli dèi, non come Swinburne, perché nessuna vita
+vive per sempre, ma perché una qualunque vita fosse vissuta affatto; non, come Henley,
+per la mia indomabile [[Soul|Anima]] (poiché non sono mai stato così ottimista
+sulla mia stessa [[Soul|Anima]] fino a quel punto) ma per la mia stessa [[Soul|Anima]] e il mio stesso [[Body|Corpo]],
+anche se potevano essere sconfitti. Questo modo di guardare le cose,
+con una sorta di mistico minimo di gratitudine, fu, s'intende,
+in una certa misura aiutato da quei pochi degli scrittori alla moda
+che non erano pessimisti; specialmente da Walt Whitman, da Browning
+e da Stevenson; il «Dio dev'essere lieto che si ami tanto il suo mondo»
+di Browning, o la «fede nell'ultima decenza delle cose» di Stevenson.
+Ma non credo sia troppo dire che lo presi in un modo
+mio; anche se era un modo che non riuscivo a vedere chiaramente o a rendere assai chiaro.
+Ciò che intendevo, che riuscissi o no a dirlo, era questo;
+che nessun uomo sa quanto sia ottimista, anche quando si chiama
+pessimista, perché non ha davvero misurato le profondità
+del suo debito verso ciò che lo creò e lo mise in grado di chiamarsi
+alcunché. Sul fondo dei nostri cervelli, per così dire, c'era
+un dimenticato bagliore o scoppio di stupore per la nostra stessa esistenza.
+L'oggetto della vita artistica e spirituale era scavare per questa
+sommersa aurora di [[Wonder|Stupore]]; così che un uomo seduto su una sedia
+potesse d'improvviso capire di essere davvero vivo, ed essere felice.
+C'erano altri aspetti di questo sentimento, e altri argomenti al riguardo,
+su cui dovrò tornare. Qui esso è solo una parte necessaria
+della narrazione; poiché comporta il fatto che, quando cominciai davvero
+a scrivere, ero pieno di una nuova e infuocata risoluzione di scrivere contro
+i Decadenti e i Pessimisti che governavano la cultura dell'età.
 
-Così, tra i versi giovanili che cominciai a scrivere intorno a quel [[Time|tempo]] ce n'era uno intitolato «Il Bimbo [[unborn|Non Nato]]», che immaginava la creatura increata gridare per l'esistenza e promettere ogni virtù pur di poter avere l'esperienza della vita. Un altro concepiva lo schernitore che implorava Dio di dargli occhi e labbra e una lingua con cui potesse schernire il donatore di essi; una versione più adirata della stessa fantasia. E credo che fu intorno a quel [[Time|tempo]] che pensai all'idea introdotta in seguito in un racconto intitolato [[manalive|Manalive]]; di un essere benevolo che se ne andava in giro con una [[Pistol|pistola]], che improvvisamente puntava contro un pessimista, quando quel filosofo affermava che la vita non valeva la pena di essere vissuta. Questo non fu stampato se non molto tempo dopo; ma i versi furono raccolti in un piccolo volume; e mio padre fu tanto imprudente da aiutarmi a farli pubblicare sotto il titolo di The Wild Knight. E questa è una parte importante della storia, nella misura in cui una qualsiasi parte della storia è importante, perché comportò davvero la mia introduzione alla letteratura e perfino agli uomini di lettere.
+Così, tra i versi giovanili che cominciai a scrivere in quel [[Time|periodo]] ce n'era
+uno intitolato «Il Bimbo [[unborn|Non Nato]]», che immaginava la creatura increata
+gridare per l'esistenza e promettere ogni virtù se potesse
+solo avere l'esperienza della vita. Un altro concepiva lo schernitore
+come supplicante Dio di dargli occhi e labbra e una lingua per poter
+schernire chi glieli dava; una versione più adirata della stessa fantasia.
+E credo che fu in quel [[Time|periodo]] che pensai alla nozione
+poi introdotta in un racconto chiamato [[manalive|Manalive]]; di un essere
+benevolo che andava in giro con una [[Pistol|Pistola]], che d'improvviso puntava contro
+un pessimista, quando quel filosofo diceva che la vita non valeva la pena di essere vissuta.
+Questo non fu stampato che molto tempo dopo; ma i versi furono
+raccolti in un volumetto; e mio padre fu così imprudente da
+aiutarmi a farli pubblicare col titolo di The Wild Knight.
+E questa è una parte importante della storia, in quanto qualsiasi parte
+della storia sia importante, perché comportò davvero la mia introduzione
+alla letteratura e persino agli uomini di lettere.
 
-Il mio piccolo volume di versi fu recensito con calorosa e quasi travolgente generosità dal signor James Douglas, allora quasi interamente noto come un eminente critico letterario. L'impetuosità, [[Well|non meno]] che la generosità, fu sempre una delle qualità più attraenti del signor Douglas. Ed egli insistette, per qualche ragione, nell'affermare positivamente che non esisteva persona alcuna col nome di G. K. Chesterton; che il nome era con ogni evidenza uno pseudonimo; che l'opera con ogni evidenza non era quella di un novizio ma di uno scrittore affermato; e infine che non poteva essere altri che il signor John Davidson. Questo suscitò naturalmente un'indignata smentita da parte del signor John Davidson. Quel focoso poeta ringraziò assai legittimamente il Signore di non aver mai scritto simili scempiaggini; e io per primo simpatizzai assai di cuore con lui. Non molto tempo dopo, quando il signor John Lane ebbe accettato il manoscritto di The Napoleon of Notting [[Hill]], stavo pranzando con quell'editore e caddi in una conversazione assai piacevole con un giovane biondo alla mia sinistra, un po' più anziano di me. Un uomo dall'aspetto più bizzarro, un po' come un elfo, calvo, dai capelli neri e con un ciuffo mefistofelico e un monocolo, si unì alla conversazione dall'altro lato del tavolo; e scoprimmo di concordare su un gran numero di argomenti letterari e stringemmo, credo di poterlo dire, una duratura simpatia reciproca. Fu soltanto in seguito che scoprii che il primo uomo era il signor James Douglas e il secondo il signor John Davidson.
+Il mio volumetto di versi fu recensito con calorosa e quasi soverchiante
+generosità dal signor James Douglas, allora conosciuto quasi interamente come
+un critico letterario di primo piano. L'impetuosità oltre [[Well|che]] la generosità fu sempre
+una delle qualità più attraenti del signor Douglas. Ed egli insistette,
+per qualche ragione, nell'affermare positivamente che non esisteva alcuna persona
+come G. K. Chesterton; che il nome era palesemente uno pseudonimo;
+che l'opera non era palesemente quella di un novizio ma di uno scrittore di successo;
+e infine che non poteva essere altri che il signor John Davidson.
+Ciò naturalmente portò un'indignata smentita da parte del signor John Davidson.
+Quello spirito poetico assai legittimamente ringraziò il Signore di non aver mai
+scritto simili sciocchezze; e io per primo simpatizzai assai di cuore con lui.
+Non molto tempo dopo, quando il signor John Lane ebbe accettato il manoscritto
+di The Napoleon of Notting [[Hill]], stavo pranzando con quell'editore
+e caddi in una conversazione assai piacevole con un giovane dai capelli
+biondi alla mia sinistra, un po' più vecchio di me. Un uomo dall'aspetto più strano,
+un po' simile a un elfo, calvo, dai capelli neri e con un ciuffo
+mefistofelico e un monocolo, si unì alla conversazione dall'altra parte del tavolo;
+e scoprimmo di concordare su un gran numero di soggetti letterari
+e formammo, credo di poter dire, una duratura simpatia l'uno per l'altro.
+Fu solo in seguito che scoprii che il primo uomo era
+il signor James Douglas e il secondo uomo era il signor John Davidson.
 
-Sto qui portando avanti la mia storia lungo la linea letteraria, fino a un punto che non ho ancora raggiunto su altre linee, piuttosto politiche o sociali; ma, per comodità, tanto [[Well|vale]] che completi qui questa parte del mio sviluppo piuttosto erratico. Forse il successivo accidente più importante che mi favorì, e mi mise in relazione con il mondo delle lettere, fu il fatto che scrissi una lunga recensione su un libro intorno a Stevenson; forse il primo dei libri piuttosto stupidi scritti per sminuire Stevenson. Difesi Stevenson con tanta veemenza, per non dire violenza, che ebbi la buona sorte di attirare l'attenzione di scrittori assai illustri che, pur non essendo essi stessi certamente né violenti né veementi, erano stevensoniani in modo assai speciale. Ricevetti una deliziosa lettera, e più tardi una gran quantità di ospitalità e di incoraggiamento, da Sir Sidney Colvin; alla cui [[house|casa]] mi recai spesso, dove ebbi il piacere di incontrare la signora che fu poi Lady Colvin, e dove udii Stephen Phillips leggere ad alta voce il suo dramma «[[Ulysses]]». Nessuno avrebbe potuto essere più magnanimo e premuroso di quanto Colvin fu sempre con me; ma credo che non avremmo mai potuto essere in accordo, come egli era in accordo con Stevenson o perfino con Stephen Phillips. Poiché, tranne che sull'argomento Stevenson, divergevamo su ogni argomento in terra e in cielo; egli era insieme imperialista in politica e razionalista in religione; e con tutta la sua frigida raffinatezza, era ciò che era con una inestinguibile pertinacia. Odiava i Radicali e i mistici cristiani e i romantici simpatizzanti delle piccole nazionalità, e in effetti tutto ciò che io avevo una qualche tendenza a essere. Ma lo stesso legame dell'[[Love|amore]] per Stevenson mi legò un po' più tardi a un altro assai eminente uomo di lettere; Sir [[Edmund]] Gosse. In qualche modo mi sentii sempre assai più a mio [[Home|agio]] con Sir [[Edmund]] Gosse; perché egli disprezzava tutte le opinioni e non soltanto le mie opinioni. Aveva una straordinaria profondità di gioviale cordialità nel suo imparziale cinismo. Possedeva l'arte di dare uno smacco senza sogghignare. Sentivamo sempre che egli non aveva gustato il dare lo smacco ma lo smacco in sé, come una sorta di arte per l'arte, a un milione di miglia da ogni malizia personale. Era tanto più artistico per via dei modi cortesi e serici che comunemente assumeva. Gli ero assai affezionato; e mi dà grande felicità pensare che una delle ultime cose che egli deve aver fatto sia stata scrivermi una lettera per ringraziarmi di un'altra e assai più tarda difesa di Stevenson, in un libro che scrissi molto tempo dopo, anzi soltanto pochi anni fa. In questa lettera egli disse di Stevenson, con una semplicità assai possente proveniente da un tale uomo: «Lo amavo; lo [[Love|amo]] ancora». Non ho il diritto di usare termini così forti nel mio caso; ma provo qualcosa di simile riguardo a Gosse.
+Sto qui facendo avanzare la mia storia lungo la linea letteraria, fino a un punto
+che non ho ancora raggiunto su altre linee che erano piuttosto
+politiche o sociali; ma, per comodità, tanto vale
+[[Well|che]] io completi qui questa parte del mio piuttosto erratico sviluppo.
+Forse il successivo più importante accidente che mi favorì,
+e mi mise in relazione col mondo delle lettere, fu il fatto
+che scrissi una lunga recensione su un libro su Stevenson; forse il
+primo dei libri piuttosto stupidi scritti per sminuire Stevenson.
+Difesi Stevenson con tanta veemenza, per non dire violenza,
+che ebbi la buona sorte di attirare l'attenzione di scrittori assai
+distinti che, benché essi stessi di certo né violenti né veementi,
+erano in modo assai speciale stevensoniani.
+Ricevetti una lettera incantevole, e più tardi una gran quantità di ospitalità
+e di incoraggiamento, da Sir Sidney Colvin; alla cui [[house|casa]] andavo spesso,
+dove ebbi il piacere di incontrare la signora che fu in seguito
+Lady Colvin, e dove udii Stephen Phillips leggere ad alta voce il suo dramma
+«[[Ulysses|Ulisse]]». Nessuno avrebbe potuto essere più magnanimo e premuroso
+di quanto Colvin fosse sempre con me; ma credo che non avremmo mai potuto essere
+d'accordo, come egli era d'accordo con Stevenson o persino con Stephen Phillips.
+Poiché, tranne che sul soggetto di Stevenson, differivamo su ogni
+soggetto in terra e in cielo; egli era sia Imperialista in politica
+sia Razionalista in religione; e con tutta la sua frigida raffinatezza,
+egli era qualunque cosa fosse con un'inestinguibile pertinacia. Odiava
+i Radicali e i mistici cristiani e i romantici simpatizzanti delle piccole
+nazionalità, e in effetti tutto ciò che io avessi una qualche tendenza a essere.
+Ma lo stesso legame dell'[[Love|Amore]] per Stevenson mi legò un poco
+più tardi a un altro assai eminente uomo di lettere; Sir [[Edmund]] Gosse.
+In qualche modo mi sentii sempre assai più a mio [[Home|agio]] con Sir [[Edmund]] Gosse;
+perché egli disprezzava tutte le opinioni e non meramente le mie opinioni.
+Aveva una straordinaria profondità di cordialità nel suo imparziale cinismo.
+Aveva l'arte di dare rimbrotti senza sogghignare. Sentivamo sempre
+che non aveva goduto del rimbrotto ma del rimbrotto stesso, come una sorta
+di arte per l'arte, a un milione di miglia da ogni malizia personale.
+Era tanto più artistico per il modo cortese e serico
+che comunemente assumeva. Ero assai affezionato a lui; e mi dà
+gran felicità pensare che una delle ultime cose che egli deve
+aver fatto fu scrivermi una lettera per ringraziarmi di un'altra e assai
+più tarda rivendicazione di Stevenson, in un libro che scrissi molto tempo dopo,
+in effetti solo pochi anni fa. In questa lettera egli disse di Stevenson,
+con una potentissima semplicità proveniente da un tale uomo: «Lo amavo;
+lo [[Love|amo]] ancora.» Non ho alcun diritto di usare termini così forti nel mio caso;
+ma sento qualcosa di simile riguardo a Gosse.

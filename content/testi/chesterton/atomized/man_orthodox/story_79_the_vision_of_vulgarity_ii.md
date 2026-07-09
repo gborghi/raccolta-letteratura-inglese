@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_78_the_vision_of_vulgarity_i">‹ Story 78 The Vision Of Vulgarity I</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_80_the_humblest_animal">Story 80 The Humblest Animal ›</a></div>
@@ -97,3 +99,96 @@ And this flower will overrun our garden like a weed,
 when that culture has fully come into its own.
 
                                          G. K.'s Weekly, January 1st, 1927
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_78_the_vision_of_vulgarity_i">‹ Story 78 The Vision Of Vulgarity I</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_80_the_humblest_animal">Story 80 The Humblest Animal ›</a></div>
+</nav>
+
+LA VISIONE DELLA VOLGARITÀ, II
+
+Non so gran che del movimento o dell'istituzione che va
+sotto il nome di Toc H.  Ma conosco l'uomo che lo ispirò, il mio vecchio
+compagno di scuola Philip Bayard Clayton; e benché alcuni altri miei amici
+abbiano dissentito da una parte della sua sociologia, sono certo che in lui
+e nel suo seguito più immediato il movimento fu generoso e genuino.
+E posso testimoniare che in una certa occasione, mentre assistevo
+a una delle sue adunanze, la cerimonia in commemorazione dei caduti in guerra
+fu una cosa tanto dignitosa, sobria e virile quanto poche altre io abbia mai conosciuto.
+Fu l'unico cerimoniale moderno soddisfacente che io abbia mai conosciuto.
+Mi piacque tanto più in quanto non era religioso nel senso vago
+del moderno.  Era stato composto da soldati tra loro,
+e avrebbe potuto essere composto da nobili pagani del mondo antico.
+Per quanto ricordi, consisteva soltanto nel consumarsi di una candela e,
+quando essa si spense, nel fatto che qualcuno recitava quei versi di Laurence Binyon
+che meritano di passare in un rito impersonale e immortale.
+
+  Essi non invecchieranno, come noi che restiamo invecchiamo:
+  l'età non li affaticherà, né gli anni li condanneranno.
+  Al calare del sole e nel mattino
+       noi li ricorderemo.
+
+Questo era tutto, ed era una buona cosa da ricordare.
+
+Ora apro il grande giornale domenicale del gruppo Express
+e la prima cosa che mi colpisce in un occhio è un enorme
+titolo sulla cerimonia del Toc H come recentemente celebrata.
+È un annuncio a lettere gigantesche «Un D.S.O. singhiozza alla cerimonia»
+e subito sotto, a lettere leggermente più piccole,
+«Il Principe di Galles accende la Lampada».  Il giornalista
+stampa sì le parole della poesia del signor Binyon; ma poiché le stampa
+in prosa, presumibilmente ignora che siano versi.
+Non mi aspetto che sappia che sono poesia.
+Prende posto accanto a quel celebre giornalista che scrisse:
+«L'onorevole gentiluomo concluse dicendo che i cuori gentili
+erano, a suo avviso, migliori delle corone e che una semplice [[Faith|fede]] è di gran lunga
+preferibile al [[Blood|sangue]] normanno».  Solo che nel caso più vecchio c'era
+maggiore scusante; perché non posso non pensare che la poesia fosse più prosaica.
+Tennyson poteva essere virgiliano come Laurence Binyon; ma difficilmente
+sceglierei quel passo per dimostrarlo.
+
+Ora, se mi si chiede che cosa detesto nel dominio di questo
+tipo di giornalismo dei Trust, rispondo che detesto «Un D.S.O. singhiozza»
+e l'uomo che non detesta «Un D.S.O. singhiozza» e il dominio
+dell'uomo capace di scrivere «Un D.S.O. singhiozza» e il tipo
+di società che si suppone favorevolmente colpita
+da «Un D.S.O. singhiozza» e l'intera orribile idea del pathos umano
+che insulta te e me con la supposizione che «Un D.S.O. singhiozza»
+possa concepibilmente commuoverci a qualcosa che non sia ilarità o assassinio.
+E se il giornalista non lo capisce, tanto più
+protesto contro il potere e l'influenza dell'uomo che non
+lo capisce.  E se qualcuno dice che gli piace, tanto più
+piango e mi lamento sull'esistenza di chiunque a cui piaccia.
+Se era falso, lo denuncio; e se era vero,
+lo denuncio ancora di più.  La mia tradizione non fa alcun patto con l'uomo
+che potrebbe prima spiare le lacrime di un uomo, poi annotarne
+minuziosamente il grado, e poi ammassare le due cose in lettere colossali
+in cima alla colonna prima ancora di aver raccontato la storia;
+strombazzando la propria straordinaria fortuna come se avesse avvistato uno squalo
+al largo di Margate o l'uomo che sbancò il casinò di Montecarlo.
+È perché quello è il tono del Trust e di tutta la sua
+letteratura e visione della vita che io spero di resistergli
+fino alla morte.  La rozzezza sulle cose rozze non è volgare.
+Non è di per sé immorale; è in vari gradi sconveniente
+o inopportuna a seconda delle condizioni e dell'occasione e,
+soprattutto, del movente.  Ma in ogni caso, parlare grossolanamente di un
+argomento grossolano non è necessariamente essere il minimo del volgare.
+Ma parlare grossolanamente di un argomento sensibile e austero,
+parlare ad alta voce di qualcosa che rimane in un silenzio teso
+come la corda di un'arpa, scoprire ciò che è deliberatamente invisibile
+e restarne a bocca aperta, udire ciò che non si può dire e sbraitarlo—
+questa è la vergogna che non si trova tra gli uomini rudi e semplici.
+Non è da nessuna parte nei racconti o nelle tradizioni popolari;
+non si trova nelle vecchie ballate o nei canti di Natale;
+è un miscuglio di debole curiosità e attenzione forzata
+e mente atrofizzata e idiota spensieratezza, che è
+del tutto peculiare alla nostra civiltà.  ... Noi soli abbiamo
+avuto l'onore di produrre questo fine fiore del progresso.
+E questo fiore invaderà il nostro giardino come un'erbaccia,
+quando quella cultura sarà pienamente giunta a sé stessa.
+
+                                         G. K.'s Weekly, 1° gennaio 1927

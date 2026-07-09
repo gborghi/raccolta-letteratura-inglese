@@ -17,7 +17,7 @@ title: English Literature — A Knowledge Graph
   <div class="hero-text">
     <p class="hero-kicker">A connected reading of the English canon</p>
     <h1 class="hero-title">English Literature</h1>
-    <p class="hero-lead">2,938 works by 14 authors, woven together through shared <em>topoi, archetypes, motifs, themes, forms, settings and characters</em>. Open a work to follow its connections; open a concept to see every work that shares it.</p>
+    <p class="hero-lead">2,937 works by 14 authors, woven together through shared <em>topoi, archetypes, motifs, themes, forms, settings and characters</em>. Open a work to follow its connections; open a concept to see every work that shares it.</p>
     <p class="hero-actions">
       <a class="btn btn-primary" href="opere">Browse all works</a>
       <a class="btn" href="cerca">Search by theme</a>

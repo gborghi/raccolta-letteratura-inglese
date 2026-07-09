@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12">Chapter 12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_06">part 06 ›</a></div>
@@ -124,3 +126,123 @@ a thousand men.  Say that we have four thousand.  It is very simple.
 Of the thousand fighting, they have at the very most, three hundred,
 so that, with those three hundred, they have now to fight four
 thousand seven hundred men.  Let them do it if it amuses them."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12">Chapter 12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_06">part 06 ›</a></div>
+</nav>
+
+"Più tardi... Il tocco finale è stato dato a tutta questa terribile futilità.
+Le ore sono passate; il mattino è spuntato; gli uomini ancora ondeggiano e
+combattono ai piedi della torre e attorno all'angolo di Aubrey [[Road]];
+la lotta non è finita. Ma so che è una farsa.
+
+"È giunta or ora notizia a mostrare che la stupefacente sortita di Wayne,
+seguita dalla stupefacente resistenza per un'intera [[Night|notte]]
+sul muro dell'Acquedotto, è come se non fosse mai stata.
+Quale fosse lo scopo di quello strano esodo probabilmente non lo sapremo mai,
+per la semplice ragione che chiunque lo sapesse sarà probabilmente fatto
+a pezzi nel corso delle prossime due o tre ore.
+
+"Ho udito, circa tre minuti fa, che Buck e i metodi di Buck
+hanno vinto dopotutto. Aveva perfettamente ragione, s'intende,
+a ben pensarci, nel sostenere che era fisicamente
+impossibile per una strada sconfiggere una [[City|città]]. Mentre credevamo
+che pattugliasse le porte orientali col suo esercito Purpureo; mentre noi
+ci precipitavamo per le strade agitando alabarde e lanterne;
+mentre il povero vecchio Wilson tramava come Moltke e combatteva come
+[[Achilles|Achille]] per intrappolare il selvaggio Provosto di Notting [[Hill]]... il signor Buck,
+merciaio a riposo, ha semplicemente sceso in carrozza da nolo e ha fatto
+qualcosa di piatto come il burro e altrettanto utile e sgradevole.
+È sceso a South Kensington, Brompton e Fulham, e
+spendendo circa quattromila sterline dei suoi mezzi privati, ha levato un
+esercito di quasi altrettanti uomini; vale a dire, un esercito abbastanza grande da battere,
+non solo Wayne, ma Wayne e tutti i suoi presenti nemici messi insieme.
+L'esercito, a quanto capisco, è accampato lungo High Street, Kensington,
+e la riempie dalla Chiesa al Ponte di Addison [[Road]].
+Deve avanzare per dieci strade diverse in salita verso nord.
+
+"Non posso sopportare di restare qui. Ogni cosa la rende peggiore di quanto
+occorra. L'[[Dawn|alba]], per esempio, è spuntata attorno a Campden [[Hill]];
+splendidi spazi d'argento, orlati d'oro, sono strappati dal cielo.
+Peggio ancora, Wayne e i suoi uomini sentono l'[[Dawn|alba]]; i loro volti,
+per quanto insanguinati e pallidi, sono stranamente pieni di speranza... insopportabilmente patetici.
+Peggio di tutto, per il momento stanno vincendo. Se non fosse
+per Buck e il nuovo esercito potrebbero appena, e appena appena, vincere.
+
+"Ripeto, non lo posso sopportare. È come guardare quel meraviglioso
+dramma del vecchio Maeterlinck (conoscete la mia predilezione per i sani,
+gioviali vecchi autori del diciannovesimo secolo), nel quale si deve guardare
+la quieta condotta di persone dentro un salotto, pur sapendo che proprio gli
+uomini la cui parola può far esplodere tutto in [[Tragedy|tragedia]] sono fuori dalla porta.
+E questo è peggio, perché gli uomini non parlano, ma si contorcono e
+sanguinano e cadono morti per una cosa che è già decisa... e
+decisa contro di loro. Le grandi grigie masse di uomini ancora s'affaticano
+e si strattonano e ondeggiano qua e là attorno alla grande grigia torre;
+e la torre è ancora immobile, come sarà sempre immobile.
+Questi uomini saranno schiacciati prima che il sole tramonti; e nuovi uomini
+sorgeranno e saranno schiacciati, e nuovi torti fatti, e la tirannia sempre
+risorgerà come il sole, e l'ingiustizia sarà sempre fresca
+come i [[Flowers|fiori]] di [[spring|primavera]]. E la torre di pietra sempre guarderà
+dall'alto su di essa. La materia, nella sua brutale [[Beauty|bellezza]], sempre guarderà dall'alto
+su coloro che sono tanto pazzi da acconsentire a morire, e ancor più pazzi,
+poiché acconsentono a vivere."
+
+Così finì bruscamente il primo e ultimo contributo del
+Corrispondente Speciale del [[Court]] Journal a quel pregiato periodico.
+
+Il Corrispondente stesso, come s'è detto, era semplicemente
+nauseato e cupo all'ultima notizia del trionfo di Buck.
+Scese sconsolato la ripida Aubrey [[Road]], su per la quale aveva
+la [[Night|notte]] precedente corso in così insolita eccitazione, e uscì
+girovagando nella vuota [[Road|strada]] maestra illuminata dall'[[Dawn|alba]], cercando vagamente una carrozza.
+Non vide nulla nello spazio deserto tranne una cosa
+scintillante d'azzurro e oro, che correva velocissima, che a prima vista sembrava
+uno scarafaggio altissimo, ma si rivelò, con suo grande stupore,
+essere Barker.
+
+"Avete sentito la buona notizia?" chiese quel signore.
+
+"Sì," disse Quin, con voce misurata. "Ho udito il lieto annuncio
+di gran gioia. Prendiamo una carrozza per Kensington? Ne vedo
+una laggiù."
+
+Presero la carrozza, e furono, in quattro minuti, di fronte alle file
+del moltitudinario e invincibile esercito. Quin non aveva pronunciato parola
+per tutto il tragitto, e qualcosa in lui aveva impedito all'essenzialmente
+impressionabile Barker di parlare a sua volta.
+
+Il grande esercito, mentre risaliva Kensington High Street, richiamava molte
+teste alle innumerevoli finestre, perché era lungo davvero... più lungo
+delle vite di quasi tutti i discretamente giovani... da quando un tale esercito
+si era visto a [[London|Londra]]. Paragonata alla vasta organizzazione che
+ora inghiottiva i miglia, con Buck alla sua testa come condottiero,
+e il [[King|Re]] penzolante alla sua coda come giornalista, l'intera storia
+del nostro problema era insignificante. Al cospetto di quell'esercito
+le rosse Notting Hill e le verdi Bayswater erano ugualmente minuscoli
+e sparuti gruppi. Al suo cospetto l'intera lotta attorno a
+Pump Street era come un [[Hill|formicaio]] sotto lo zoccolo di un bue.
+Ogni uomo che sentì o guardò quell'infinità di uomini seppe che
+era il trionfo della brutale aritmetica di Buck. Se Wayne avesse ragione
+o torto, fosse saggio o sciocco, era del tutto una lecita materia di discussione.
+Ma era una questione di [[history|storia]]. Ai piedi di Church Street,
+di fronte alla Chiesa di Kensington, si fermarono nel loro raggiante buon [[Humour|umore]].
+
+"Mandiamo su da loro una specie di messaggero o araldo," disse Buck,
+voltandosi verso Barker e il [[King|Re]]. "Mandiamo a chiedere loro di [[Cave|cedere]]
+senza ulteriore confusione."
+
+"Cosa diremo loro?" disse Barker, dubbioso.
+
+"I fatti del caso sono del tutto sufficienti," ribatté Buck.
+"Sono i fatti del caso che fanno arrendere un esercito.
+Diciamo semplicemente che il nostro esercito che sta combattendo il loro esercito,
+e il loro esercito che sta combattendo il nostro esercito, ammontano in tutto a circa
+un migliaio di uomini. Diciamo che noi ne abbiamo quattromila. È molto semplice.
+Dei mille che combattono, loro ne hanno al massimo trecento,
+sicché, con quei trecento, devono ora combattere quattromila
+settecento uomini. Che lo facciano se li diverte."

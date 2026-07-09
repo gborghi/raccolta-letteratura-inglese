@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/part/part_06">part 06 ›</a></div>
@@ -144,3 +146,52 @@ a modern materialist civilization rise, but we have seen it fall.  We have
 seen industrial imperialism and [[Individualism|individualism]] a _practical_ failure.
 It is no longer a question of using the modern machinery;
 but of cutting loose from the wreck of it.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/part/part_06">part 06 ›</a></div>
+</nav>
+
+_V. A proposito del Censore_
+
+PER TUTTA la mia vita il frastuono della battaglia è rimbombato, soprattutto fra critici teatrali e impresari, intorno ai torti e alle ragioni della Censura sulle opere teatrali; e non ho alcun [[Doubt|dubbio]] che quel frastuono continui tuttora a proposito di una qualsiasi corrispondente Censura sui Film. Ma per quanto vi fossero incessanti divergenze fra coloro che davano ragione al Censore e coloro che gliela negavano, nessuna di quelle divergenze era così grande quanto la differenza fra due ragioni per negargliela. C'era chi pareva sostenere che qualunque esperimento artistico, per quanto anarchico o abnorme, o manifestamente e persino clinicamente folle, avesse un misterioso diritto proprio a scavalcare qualsiasi consuetudine o comodità sociale, qualsiasi buon senso o ordinaria dignità civica. L'esperimento artistico aveva questo diritto in quanto era un esperimento artistico; non già perché l'arte fosse artistica; e ancor meno perché l'esperimento fosse riuscito. Persino la peggiore delle opere doveva avere la precedenza sulla migliore delle leggi. Se gli artisti avessero voluto avere del [[Blood|sangue]] vero nei loro delitti, così come altri artisti usavano fango vero sui loro paesaggi, non si può che supporre che questi critici avrebbero acconsentito a sacrificare qualche vita umana al brivido del realismo. Se l'attore-impresario lavorasse ancora secondo l'antica scala sfarzosa, lo si potrebbe incoraggiare a trasformare il teatro in un anfiteatro. Potrebbe farne attrazione con leoni veri, che sarebbero costosi; e con cristiani veri, che sarebbero rari.
+
+Comunque sia, la teoria della faccenda pareva essere che la suprema autorità spirituale in questo mondo appartenga all'arte, o piuttosto a chiunque scelga di dichiarare che sta tentando qualcosa di nuovo in arte. Non fui mai capace di accettare questa concezione tanto moderna e credulona; perché sono incapace di immaginare un essere umano che accetti un'autorità alla quale non sia originariamente pervenuto attraverso la ragione. E non riesco a concepire quale ragione mai potrebbe esservi per accettare l'autorità degli artisti; per non parlare dei cattivi artisti. Ma era un atteggiamento assai diffuso trenta o quarant'anni fa; e ricopre tuttora vasti spazi della società. C'è molto di divertente in questa arbitraria specie di [[artist|artista]], così [[Well|come]] nello scherzo più evidente della sua arte. Forse la cosa più buffa di tutte a suo riguardo è che talvolta si definisce un Pagano. È il genere d'uomo che potrebbe venire assassinato pressoché ovunque, persino in una rivoluzione socialista inglese; ma se c'è un luogo dove verrebbe ucciso all'istante per aver sfidato gli dèi e disprezzato la dignità della repubblica, è una [[City|città]] dei Pagani.
+
+Ma vi fu sempre, e vi è tuttora, un argomento esattamente contrario contro il Censore e la Censura. Ed è che le regole della Censura incoraggiano l'anarchia, e per giunta la peggiore specie di anarchia, che è l'anarchia della mente. Ce n'è un esempio lampante, che citai molto tempo fa, quando questo [[debate|dibattito]] era più d'attualità. Secondo la vecchia regola della Censura, non ci è lecito portare Gesù sulla scena. Sarebbe assai più facile portare Giuda sulla scena. Sarebbe perfettamente facile giustificare Giuda sulla scena. Non esiste ormai forma di bestemmia o di cattiva morale che a chiunque sia realmente vietato giustificare sulla scena. Un dramma moderno può essere una sola sfrenata [[Dance|danza]] di tutti i diavoli e di tutti i porci. Può contenere qualsiasi cosa o chiunque, tranne chi sia capace di scacciare i diavoli o di distruggere i porci. In linea generale, in tutto lo spirito della faccenda, l'unica cosa che il Censore possa davvero tagliar via è Dio. Non ha alcuna particolare ragione di tagliar via [[Satan]]; e nessuna ragione al mondo di tagliar via il satanismo. Non ho alcun [[Doubt|dubbio]] che gli effettivi detentori di simili poteri cerchino di attenuare i loro folli regolamenti comportandosi il più sanamente che possono. Ma io non sto parlando del Censore, bensì delle regole della Censura. E per quanto esse siano a questo [[Time|punto]] un vecchio esempio, sono forse tuttora l'esempio più netto e discutibile di un certo pasticcio morale in cui questo paese è riuscito a inciampare nel corso dell'ultimo mezzo secolo. Un altro esempio è la «[[divorce|Riforma]] della Legge sul [[Reform|Divorzio]]». Si può ritenere il [[divorce|divorzio]] una cosa ingiusta; e tuttavia sentirlo quasi peggiore se gli uomini non possono nemmeno fare il male senza un groviglio di cavilli e di menzogne.
+
+Ora, dai giorni in cui la disputa sulla Censura esisteva in quella forma, l'intera situazione sociale è mutata. Stavo per dire che molta [[Water|acqua]] è passata sotto i ponti; ma sarebbe forse più veritiero dire che è passata sopra i ponti e ha sommerso il mondo con un diluvio. In quei giorni più antichi cui ho appena accennato, c'era una quantità sterminata di quella rivolta e di quel tumulto artistico che ho appena descritto. Ma la rivolta degli artisti era quasi interamente una rivolta di artisti; o, meglio, di una minoranza di artisti. C'era anche, come ho detto, una minoranza ancor più piccola di coloro che si ribellavano, come feci io, non tanto perché riverissimo l'arte quanto perché rispettavamo la ragione. Ma tutto il resto della gente, cioè la stragrande maggioranza della gente, era ancora tradizionale nella propria etica, per quanto piuttosto vaga nella propria religione. Fatta la tara a ogni esagerazione, possiamo con giustizia dire della nuova generazione che è l'etica a essere vaga; salvo in certi casi in cui è decisamente vivida. E sorge un problema reale, su ciò che dovremmo fare, di fronte a un tale mutamento di proporzioni persino nella vaga opinione morale della società moderna. Quando dico un problema, non intendo affatto ciò che si intende con un [[Doubt|dubbio]]. Non intendo dire di avere l'[[Shadow|ombra]] di un [[Doubt|dubbio]] su ciò che noi personalmente dovremmo fare; e specialmente su ciò che non dovremmo fare. Non dovremmo fare come fanno loro; non più di quanto dovremmo bastonare gli ebrei perché ci troviamo in Prussia, o assassinare i preti perché ci troviamo in Messico. Non c'è alcuna questione di [[Doubt|dubbio]] su ciò che è giusto che noi facciamo, o diciamo; è piuttosto una questione di ciò che ci è possibile impedire. Ora, io penso che coloro i quali sostengono l'antica veduta del giusto debbano tener duro, tenersi in disparte e persino rendersi conto di stare [[Alone|soli]]. Dovrebbero attaccare. L'Inghilterra appare assai più promettente come paese pagano che invoca la [[conversion|conversione]] che come paese cristiano che invoca il compromesso. Il roast beef della Vecchia Inghilterra durerà più a lungo quando sarà carne sotto sale. Ma se il sale perde il suo sapore, con che cosa lo si salerà?
+
+Possiamo ripiegare sul fondamento storico del progresso moderno, sui princìpi
+che non sono ancora stati formalmente rovesciati; e vi è un argomento a favore.
+Potremmo dire che se sei omicidi impuniti quest'anno diventeranno
+sessanta omicidi impuniti l'anno venturo, il bene comune riposa
+nondimeno sull'idea che l'omicidio sia male. Possiamo dire
+che tre ladri oggi e trenta domani e trecento
+il giorno dopo domani non ci trasformano in una società comunista.
+D'altra parte, possiamo ammettere che, pur non essendo una società comunista,
+essa non è più una società cristiana. E allora, se siamo cristiani,
+possiamo bandire una crociata per [[convert|convertirla]] o soggiogarla. Ora io penso,
+dopo qualche sincera riflessione, che quest'ultima via sia di gran lunga la migliore.
+Non credo che si debba ignorare la morale pagana che ci circonda:
+ciò non diminuisce il paganesimo; e non fa che privarci
+del piacere e del vantaggio di denunciarlo come pagano.
+La presunzione che la tradizione, e persino la convenzione, che la virtù
+e persino la virtù vittoriana, siano ancora la regola, e ogni altra cosa
+un'eccezione, sta tutta dalla parte dei sofisti che difendono il vizio.
+È una regola in forza della quale noi portiamo tutte le impopolari insegne del potere,
+mentre essi godono di tutti i frutti pratici della vittoria. Essi possono
+farsi beffe di noi, perché professano che non vi è nulla da nascondere;
+e noi non possiamo combatterli, perché fingiamo che non vi sia nulla
+da combattere. Ma, soprattutto, dal punto di vista dell'onesto ortodosso,
+l'attuale tregua unilaterale ha questo enorme svantaggio:
+ci impedisce di indicare l'unico fatto solido, sfacciato, stupendo
+che sta dinanzi a tutti i nostri occhi. È il fatto che non solo abbiamo visto
+sorgere una moderna civiltà materialista, ma l'abbiamo vista cadere. Abbiamo
+visto l'imperialismo industriale e l'[[Individualism|individualismo]] fallire _in pratica_.
+Non è più questione di servirsi delle macchine moderne;
+ma di staccarsi dal loro relitto.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_43_no_such_thing">‹ Story 43 No Such Thing</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_45_the_englishman_s_religion">Story 45 The Englishman S Religion ›</a></div>
@@ -82,3 +84,81 @@ a mere slush of likes and dislikes, and choose to fancy angels
 only with white wings because he prefers them to black ones.
 
                                  Illustrated [[London]] News, March 15th, 1919
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_43_no_such_thing">‹ Story 43 No Such Thing</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_45_the_englishman_s_religion">Story 45 The Englishman S Religion ›</a></div>
+</nav>
+
+SPIRITISMO
+
+Ci si dice oggi che staremmo meglio con una religione
+senza teologia.  Io credo che i nostri cervelli starebbero meglio
+persino con una teologia senza religione.
+
+Il segno particolare del mondo moderno non è che sia scettico,
+ma che è dogmatico senza saperlo.  Dice, per farsi beffe
+degli antichi devoti, che essi credevano senza sapere perché credessero.
+Ma i moderni credono senza sapere che cosa credono —
+e senza nemmeno sapere di crederlo.
+La loro [[Freedom|libertà]] consiste nell'assumere dapprima liberamente un credo,
+e poi nel dimenticare liberamente di assumerlo.
+In breve, hanno sempre un dogma inconsapevole; e un dogma
+inconsapevole è la definizione di pregiudizio.  ...
+
+Il [[debate|dibattito]] sull'etica dello Spiritismo ne è un forte esempio.
+Gli spiritisti agiscono in base a un dogma, che non sanno
+enunciare dogmaticamente; e che perciò assumono soltanto dogmaticamente.
+Anche gran parte degli antispiritisti, posso aggiungere, assume un dogma senza
+saperlo — e un dogma assai più stantio e stolto per giunta.
+Ma il punto qui è che essi differiscono dai vecchi credi
+per il fatto di non essere mai enunciati chiaramente come credi.  Ciò che uno spiritista
+assume è in pratica questo; non è soltanto l'esistenza
+degli spiriti, ma la non-esistenza degli spiriti maligni —
+o almeno del male estremo fattoci dagli spiriti maligni.
+A dirlo in modo popolare, gli spiritisti sono ottimisti riguardo al
+mondo spirituale.  I puritani e la gente del diciassettesimo
+secolo in generale erano pessimisti riguardo al mondo spirituale.
+Ritenevano mille contro uno che chiunque avesse a che fare con
+gli spiriti avesse a che fare con spiriti cattivi.  Perciò trasformarono
+persino il peggior genere di rogo delle [[Witch|streghe]] da omicidio in massacro.
+Erano deduzioni assai spaventose da un solo assioma: che la [[Nature|natura]]
+umana è più vicina agli spiriti malvagi che a quelli buoni.
+Ma almeno i puritani sapevano enunciare il loro assioma pessimistico
+come un assioma.  Gli spiritisti non sanno enunciare affatto il loro
+assioma ottimistico come un assioma; non sanno nemmeno che è ottimistico.
+Lo sentono semplicemente in modo inconsapevole come lo spirito del loro [[Time|tempo]] —
+cioè come qualcosa di neppure solido quanto il clima, ma piuttosto
+mutevole quanto il tempo atmosferico.
+
+Ora, l'obiezione principale allo Spiritismo è quasi identica
+alla pretesa dello Spiritismo.  L'obiezione è che esso
+pone un uomo sotto il controllo di forze spirituali,
+o che lo mette in contatto con l'ignoto.
+In effetti è quasi impossibile trovare una lode
+di una simile credenza negli spiriti che non serva da
+condanna in bocca a chi crede negli spiriti cattivi.
+Le parole stesse `medium' o `controllo' agiranno certo su molti
+di noi come parole immorali — direi parole indecenti.  Implicano
+una resa spirituale che è dubbia anche se lo spirito è buono,
+e sconvolgente se è cattivo.  Ora, non è certo [[Self|auto]]-evidente,
+per analogia con tutto ciò che sappiamo, che esso non possa essere cattivo.
+... Che gli investigatori non insistano su questo pericolo,
+o non insistano su di esso come pericoloso, è dovuto semplicemente
+a quel primo principio dimenticato a cui ho fatto riferimento.
+Agli spiritisti è vietato accettare la deduzione
+dal parallelo spiritista perché comporterebbe una negazione
+del dogma spiritista.  E non per questo esso è meno sentito
+come un dogma infallibile per il fatto di essere un dogma inconsapevole.
+... Se la visione dell'universo di un uomo gli consente di essere il medium
+di non sa che cosa e sotto il controllo di non sa chi,
+che lo dica e enunci chiaramente la sua visione dell'universo,
+come i suoi padri prima di lui.  Allora almeno non cadrà in
+un mero pantano di simpatie e antipatie, e non sceglierà di figurarsi angeli
+soltanto dalle ali bianche perché li preferisce a quelle nere.
+
+                                 Illustrated [[London]] News, 15 marzo 1919

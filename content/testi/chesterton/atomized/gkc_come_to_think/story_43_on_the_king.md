@@ -296,265 +296,265 @@ time in such cases the modern curiosity is not an intrusion.
 <ul><li><a href="/testi/chesterton/atomized/gkc_come_to_think/story_43_on_the_king/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/gkc_come_to_think/story_43_on_the_king/part_02">Part 2</a></li></ul>
 </nav>
 
-XLIII.  Sul [[King|Re]]
+XLIII. Sul [[King|Re]]
 
 UN ringraziamento nazionale per la guarigione del [[King|Re]] illustra
-in [[Double|duplice]] maniera ciò che possiamo chiamare l'intera teoria del rendimento di grazie.
-In primo luogo, per il concentrarsi di così vasta moltitudine di
-solidali sull'esito di una singola vicenda, il caldo rispetto
-provato per il sofferente da tutti coloro che lo conoscevano, foss'anche di fama,
-e il senso vero in cui egli stava per tutti i suoi sudditi come simbolo
-di responsabilità e d'[[Honour|onore]].  E in secondo luogo, per l'intensità del tutto
-insolita del dramma e per la vicinanza del pericolo;
-come se una vera voce umana avesse risposto annunciando la [[Survival|sopravvivenza]],
-quando avevamo già udito, scoccata e sibilante, il fischio
-della freccia della [[Death|Morte]].  Ci devono essere stati pochissimi esseri umani
-accanto ai quali quella freccia fosse passata così vicino; anche quando non era
-il mondo a guardare o un grande impero a tornare a respirare.
-E questi due aspetti del rendimento di grazie stanno per verità tanto
-profonde quanto la [[Tragedy|tragedia]] e lo scampato pericolo che essi illustrano.
+in [[Double|duplice]] maniera ciò che possiamo chiamare l'intera teoria del ringraziamento.
+Primo, per via della concentrazione di un così vasto concorso di
+simpatizzanti sulla vicenda di un'unica storia, il caldo rispetto
+provato per il sofferente da tutti coloro che lo conoscevano, anche solo di fama,
+e il vero senso in cui egli stava per tutti i suoi sudditi come un simbolo
+di responsabilità e [[Honour|Onore]]. E secondo, per via della affatto
+insolita intensità del dramma e vicinanza del pericolo;
+come se una veritiera voce umana avesse risposto annunciando la [[Survival|Sopravvivenza]],
+quando avevamo già udito, scoccata e sibilante, il rumore
+della freccia della [[Death|Morte]]. Devono esserci stati assai pochi esseri umani
+a cui quella freccia fosse passata così vicino; anche quando non era
+il mondo a guardare o un grande impero a respirare di nuovo.
+E questi due aspetti del ringraziamento stanno per verità tanto
+profonde quanto la [[Tragedy|tragedia]] e lo scampo che essi illustrano.
 Nulla illustra più chiaramente quanto sia naturale la religione naturale,
-e quanto sia innaturale la pura negazione, del sollevarsi del cuore
-al termine di una simile veglia.  È di moda parlare dell'uomo
-impigliato in credi e riti, come nelle [[Chains|catene]] della mente.
-Ma di fatto lo scettico è impedito da [[Chains|catene]] invisibili, nei suoi
-movimenti più umani, più del più infimo schiavo della superstizione.
-L'uomo che non può alzare gli occhi al cielo, né piegare il ginocchio
-alla terra, è mutilato e impigliato in una rete di negazioni.
-Fu Rossetti, credo, a dire che il momento peggiore per
-l'ateo era quando si sentiva grato e non aveva nessuno da ringraziare.
-Tutto ciò che è simboleggiato, al meglio, da un [[King|re]] e da un regno,
-l'intero cerchio dell'ordine e dell'armonia del vivere, dovrebbe per sua
-[[Nature|natura]] produrre questo grande raccolto di gratitudine.  Ma gli uomini son fatti
-in modo che comunemente occorre qualcosa di drammatico e di pericoloso per destare questa
-saggia meraviglia; e ci vuole qualcosa di una crisi per renderci conto della creazione.
-Dobbiamo vedere il sole e la [[Moon|luna]] e tutte le [[Seasons|stagioni]] rese a un uomo,
-come se egli fosse risuscitato dai morti.  In termini più volgari, gli uomini hanno bisogno
-di brividi per produrre ringraziamenti, e vanno colti di sorpresa perché si stupiscano.
-È l'intero fine della religione, dell'[[Imagination|immaginazione]], della poesia e
+e quanto sia innaturale la mera negazione, del sollevarsi del cuore
+al termine di una simile veglia. È di moda parlare dell'uomo
+impigliato in credi e riti, come nelle [[Chains|Catene]] della mente.
+Ma di fatto lo scettico è ostacolato da invisibili [[Chains|Catene]], nei suoi
+più umani movimenti, più del più basso schiavo della superstizione.
+L'uomo che non può alzare gli occhi al cielo, o piegare il ginocchio
+alla terra, è storpiato e preso in una rete di negazioni.
+Fu Rossetti, credo, a dire che il peggior momento
+dell'ateo era quando si sentiva grato e non aveva nessuno da ringraziare.
+Tutto ciò è simboleggiato, al suo meglio, da un [[King|re]] e da un regno,
+l'intero cerchio dell'ordine e dell'armonia del vivere, che dovrebbero nella loro
+[[Nature|natura]] produrre questo grande raccolto di gratitudine. Ma gli uomini sono fatti così
+che qualcosa di dramma e di pericoli è comunemente necessario per destare questo
+saggio stupore; e abbiamo bisogno di qualcosa di crisi per renderci conto della creazione.
+Dobbiamo vedere il sole e la [[Moon|luna]] e tutte le [[Seasons|Stagioni]] restituiti a un uomo,
+come se egli fosse risorto dai morti. In un linguaggio più volgare, gli uomini hanno bisogno
+di brividi per produrre ringraziamenti, e devono essere sorpresi fino a sorprendersi.
+È l'intero scopo della religione, dell'[[Imagination|Immaginazione]], della poesia e
 delle arti, destare quel senso di qualcosa salvato dal nulla.
-Ma nessuna poesia può farlo come lo fa una storia vera a questo livello di
-significato e di solennità; quando un dramma che nessun uomo ha scritto
+Ma nessun poema può farlo come fa una vera storia su questo livello di
+significato e solennità; quando un dramma che nessun uomo ha scritto
 è recitato sul palcoscenico dell'umanità.
 
-Non è frase rituale dire che il [[King|Re]] esce dalle porte stesse
-della [[Death|Morte]] come simbolo dell'[[unity|unità]] nazionale, in una nazione divisa
-su molte altre cose.  In più sensi d'uno egli esce alla
-piena luce del giorno; in un mondo dove la monarchia si fa più forte anziché
-più debole, per molte e spesso imperscrutabili ragioni, tutte
-illustrate nella vicenda personale e nella risposta popolare a essa.
-Senza addentrarci più a fondo in tali materie, possiamo dire che gli uomini in molte
-età hanno sentito, in qualche modo istintivo, che la pienezza
+Non è alcuna frase rituale dire che il [[King|Re]] esce dalle porte stesse
+della [[Death|Morte]] come simbolo di [[unity|unità]] nazionale, in una nazione divisa
+su molte altre cose. In più sensi di uno egli esce alla
+larga luce del giorno; in un mondo dove la monarchia si fa più forte piuttosto
+che più debole, per molte e spesso imperscrutabili ragioni, tutte
+illustrate nella vicenda personale e nella risposta popolare ad essa.
+Senza andare più a fondo in simili questioni, possiamo dire che gli uomini in molte
+epoche hanno sentito, in una qualche istintiva maniera, che la pienezza
 dell'umanità era meglio espressa in un uomo che in una folla;
-specialmente se si trattava di una folla di nobili.  In Inghilterra ciò è stato
-profondamente modificato da tradizioni aristocratiche, sia di libertà
+specialmente se era una folla di nobili. In Inghilterra questo è stato
+profondamente modificato dalle tradizioni aristocratiche, sia di libertà
 sia di licenza; e ci fu un [[Time|tempo]] in cui la vita della monarchia,
-come la vita di questo monarca, pendeva da un capello.  Nel caso istituzionale,
+come la vita di questo monarca, pendeva da un capello. Nel caso istituzionale,
 come in quello individuale, quel momento sembra essere passato.
-Nella reazione dell'affetto personale, che in questo caso è
-molto personale, c'è probabilmente una corrente sotterranea di forze impersonali
-che ovunque ora spingono verso un [[government|governo]] più personale.
+Nella reazione d'affetto personale, che in questo caso è
+assai personale, c'è probabilmente una corrente sotterranea d'impersonali
+forze che ovunque spingono ora verso un [[government|governo]] più personale.
 In qualunque forma la prossima generazione tenti la riunione di lealtà
-e libertà, ci sarà probabilmente meno che mai della semplice
-[[Jealousy|gelosia]] oligarchica per la popolarità del principe popolare.
+e libertà, ci sarà probabilmente meno che mai della mera
+oligarchica [[Jealousy|gelosia]] verso la popolarità del principe popolare.
 
-C'è una maniera unica e imprevista in cui il [[King|Re]] Giorgio
-Quinto è arrivato a stare, nelle nuove condizioni, per qualcosa di nuovo.
-Ciò è dovuto in parte alla sua stessa personalità e in parte allo strano e
+C'è un'unica e imprevista maniera in cui [[King|Re]] Giorgio
+Quinto è venuto a stare, nelle nuove condizioni, per qualcosa di nuovo.
+È dovuto in parte alla sua stessa personalità e in parte allo strano e
 piuttosto indescrivibile stato d'animo che ha segnato l'Inghilterra dopo la Guerra.
 Si è sempre detto, in tempi recenti, che il Sovrano britannico
-è il capo sociale piuttosto che il capo politico.
-Vi insistevano specialmente i cauti scrittori costituzionali,
-di scuola liberale, come garanzia contro il dispotismo
-e come [[Reconciliation|riconciliazione]] tra regalità e [[democracy|democrazia]].
-Lo si è detto del Sovrano almeno durante gli ultimi quattro regni;
-e durante quei quattro regni fu vero in un senso speciale, ma non
-esattamente nel senso in cui è vero ora.  Il linguaggio stesso
-che usiamo, sulla [[history|storia]] delle mode, dei costumi e persino della morale,
-lo registra come già in gran parte vero.  Quando vogliamo
-descrivere un certo interessante intermezzo, che segnò la fine
-del Settecento, un periodo di abbigliamento moderno ma piuttosto rococò,
+è il leader sociale piuttosto che il leader politico.
+Ci si è specialmente insistito da parte di cauti scrittori costituzionali,
+della scuola liberale, come una garanzia contro il dispotismo
+e una [[Reconciliation|Riconciliazione]] tra la regalità e la [[democracy|democrazia]].
+Si è detto del Sovrano durante almeno gli ultimi quattro regni;
+e durante quei quattro regni era vero in un senso speciale, eppure non
+esattamente nel senso in cui è vero ora. Il linguaggio stesso
+che usiamo, sulla [[history|storia]] delle mode, delle maniere e persino dei costumi,
+lo registra come essendo già stato in gran parte vero. Quando desideriamo
+descrivere un certo interessante interludio, che segnò la fine
+del diciottesimo secolo, un periodo di abbigliamento moderno ma piuttosto rococò,
 un periodo di architettura florida e talvolta piuttosto bulbosa,
 un periodo in cui cappelli e case e uniformi militari esibivano
-molte cose che sono ancora formali in una fase di essere fantastiche,
-non chiamiamo quel bizzarro periodo (caro al signor Max Beerbohm)
-col nome di alcuno dei suoi naturali capofila, nemmeno tra i dandy.
-Non lo chiamiamo l'età di Byron e neppure l'età di Brummell.
-Lo chiamiamo la Reggenza.  E abbiamo ragione, perché il principe
-reale che vi regnò lo rappresentava davvero.  Egli era un capo
-sociale a prescindere dall'essere un capo politico; anzi, prima ancora d'essere
-in condizione di essere pienamente un capo politico.  Altre frasi
-comuni illustrano la stessa cosa; compresa una frase che è ora
-scagliata avanti e indietro nella polemica più di qualunque altra.
-Tutti attaccano o difendono le cose che sono vittoriane.
+molte cose che sono ancora formali in una fase dell'essere fantastiche,
+non chiamiamo quel bizzarro periodo (amato dal signor Max Beerbohm)
+col nome di alcuno dei suoi naturali leader nemmeno tra i dandy.
+Non lo chiamiamo l'età di Byron o persino l'età di Brummell.
+Lo chiamiamo la Reggenza. E abbiamo ragione, perché il regio
+principe che vi regnò lo rappresentava davvero. Era un leader
+sociale a parte l'essere un leader politico; anzi, prima d'essere
+in posizione d'essere pienamente un leader politico. Altre ordinarie
+frasi illustrano la stessa cosa; inclusa una frase che è ora
+scagliata avanti e indietro nella controversia più di qualsiasi altra.
+Tutti stanno attaccando o difendendo cose che sono vittoriane.
 E quando parliamo di cose vittoriane pensiamo davvero a Vittoria,
-e non semplicemente a ciò che accadde nel regno di Vittoria.
-Ella fu in quel senso un capo sociale anche quando rifiutò d'essere mondana,
-o d'andare in società.  Pensiamo ancora alla vecchia [[Queen|Regina]] come a una vera
-rappresentante di certe idee; proprio come pensavamo al Reggente nella vecchia
-Regent Street, o davanti al Padiglione di Brighton.  Anzi, mi ha spesso
-colpito come ironico che le stesse persone che denunciano l'Età Vittoriana
-come soffocatrice delle donne debbano riferirvisi col nome di una donna.
-E persino coloro che chiamano le donne vittoriane deboli e leziose
+e non solo a ciò che accadde nel regno di Vittoria.
+Ella era in quel senso una leader sociale anche quando rifiutava d'essere sociale,
+o di andare in società. Pensiamo ancora alla vecchia [[Queen|Regina]] come a una reale
+rappresentante di certe nozioni; proprio come pensavamo al Reggente nella vecchia
+Regent Street, o dinanzi al Padiglione di Brighton. Anzi, mi ha spesso
+colpito come ironico che proprio le persone che denunciano l'Età Vittoriana
+come soppressione delle donne debbano riferirvisi col nome di una donna.
+E persino coloro che chiamano le donne vittoriane deboli e smorfiose
 e languide difficilmente direbbero lo stesso di Vittoria.
 
-È superfluo notare ciò che è abbastanza ovvio: che il regno successivo
-proseguì la tradizione del capo puramente sociale.  È vero
-che in Edoardo Settimo ciò che era sociale sfiorava l'essere politico;
+È inutile notare ciò che è abbastanza ovvio--che il regno seguente
+portò avanti la tradizione del leader puramente sociale. È vero
+che in Edoardo Settimo ciò che era sociale rasentava l'essere politico;
 perché egli era una sorta di dilettante di grande successo in ciò che si può chiamare
-il lato sociale della politica: la diplomazia.  È [[Well|risaputo]] che,
-proprio come si disse di certi re che uno fu il proprio Primo Ministro
-o un altro il proprio Ministro degli Esteri, il [[King|Re]] Edoardo fu in molte
-capitali straniere il proprio Ambasciatore.  Ma nel complesso l'Ottocento
-mantenne la sua distinzione col significato che aveva sempre avuto.
-Il [[King|Re]] Edoardo stesso incoraggiava la generale, atmosferica suggestione che
-la guida sociale fosse anzitutto qualcosa di piacevole, mentre la guida
+il lato sociale della politica: la diplomazia. È [[Well|ben]] noto che,
+proprio come si diceva di certi Re che uno era il proprio Primo Ministro
+o un altro il proprio Ministro degli Esteri, [[King|Re]] Edoardo era in molte
+capitali straniere il proprio Ambasciatore. Ma nel complesso la distinzione
+del diciannovesimo secolo continuò a significare ciò che aveva sempre significato.
+[[King|Re]] Edoardo stesso incoraggiava la generale suggestione atmosferica che
+la leadership sociale fosse primariamente qualcosa di piacevole, mentre la leadership
 politica potesse essere assai spiacevole; e che in quel senso persino
 il lato sociale della diplomazia dovesse avere un elemento di frivolezza.
-Ma nel mondo moderno si andava lentamente insinuando una situazione nuova,
-che nessuno nell'Ottocento comprese o previde;
-e che ha reso questa funzione sociale una cosa alquanto diversa;
-non tanto in sé quanto nel suo rapporto con la società.
+Ma c'era una nuova situazione che lentamente s'insinuava nel mondo moderno,
+che nessuno nel diciannovesimo secolo comprese o si aspettò;
+e che ha reso questa funzione sociale una cosa piuttosto diversa;
+non tanto in se stessa quanto nella sua relazione con la società.
 
-Ciò che nessuno previde fu questo: che le cose politiche potessero diventare
-meno serie delle cose sociali.  O, in altre parole, che la vera
-battaglia dell'età potesse trasferirsi dal senato al salotto.
-I monarchi precedenti che ho menzionato, i quali hanno dato il proprio nome
-al genere di moda sociale che incoraggiavano, vissero fianco a fianco
-con serie forze politiche che non erano semplici mode, e che non avevano
-bisogno d'incoraggiamento.  Waterloo e Peterloo e l'Emancipazione cattolica furono
-veri punti di svolta della [[history|storia]].  Il Reggente era il sovrano della Reggenza;
-e in quel senso il [[King|Re]] non incoronato d'Inghilterra; ma Daniel O'Connell
-era il [[King|Re]] non incoronato d'Irlanda.  Fox e Burke e Brougham
-stavano per le tendenze più serie del loro [[Time|tempo]].  Cobbett stava
-per tutto ciò che avrebbe potuto accadere, in rivoluzione o in reazione.
-Peel stava per tutto ciò che accadde, tanto in conversazione quanto in progresso.
+Ciò che nessuno si aspettava era questo: che le cose politiche potessero divenire
+meno serie delle cose sociali. O, in altre parole, che la vera
+battaglia dell'età potesse essere trasferita dal senato al salotto.
+I precedenti monarchi che ho menzionato, che hanno dato i propri nomi
+al tipo di moda sociale che incoraggiarono, vissero fianco a fianco
+con serie forze politiche che non erano mere mode, e non avevano
+bisogno d'incoraggiamento. Waterloo e Peterloo e l'Emancipazione Cattolica furono
+veri punti di svolta della [[history|storia]]. Il Reggente era il sovrano della Reggenza;
+e in quel senso il [[King|Re]] non coronato d'Inghilterra; ma Daniel O'Connell
+era il [[King|Re]] non coronato d'Irlanda. Fox e Burke e Brougham
+stavano per le più serie tendenze del loro [[Time|tempo]]. Cobbett stava
+per tutto ciò che sarebbe potuto accadere, o in rivoluzione o in reazione.
+Peel stava per tutto ciò che accadde davvero, sia in conversazione sia in progresso.
 Così fu, naturalmente, con l'Età di Vittoria, quando la politica
 parlamentare fu presa più sul serio che mai prima o dopo.
 Ciò che il mondo guardava era il duello di Gladstone e Disraeli;
-e in un senso era davvero un duello alla [[Death|morte]].  Le questioni di mera
-forma e abitudine sociale erano tenute secondarie alle serie controversie.
-La gente scherzava sui colletti di Gladstone o sui riccioli
-di Disraeli; ma sulla loro politica era seria.
+e in un senso era davvero un duello alla [[Death|Morte]]. Questioni di mera
+forma e abitudine sociale erano considerate secondarie rispetto a serie controversie.
+La gente scherzava sui colletti di Gladstone o i riccioli
+di Disraeli; ma era seria sulla propria politica.
 La tradizione s'attardò sotto Edoardo Settimo, e poi
-venne lentamente in essere la nuova e curiosa condizione.
+venne lentamente a esistere la nuova e curiosa condizione.
 La gente trova piuttosto difficile essere seria sulla politica.
 
-D'altra parte, tutti coloro che sono seri su qualcosa sono seri
-sulla società.  È questa la situazione che dà un nuovo significato
-alla guida sociale del [[King|Re]].  Nel conflitto di partito
-egli è tanto costituzionale e imparziale quanto lo fu suo padre,
-e quanto si supponeva che fossero tutti i monarchi moderni della sua [[house|casata]].
-Ma il conflitto di partito stesso è diventato meno importante.
+D'altro canto, tutti coloro che sono seri riguardo a qualcosa sono seri
+riguardo alla società. Ecco la situazione che dà un nuovo significato
+alla leadership sociale del [[King|Re]]. Nel conflitto di partito
+egli è costituzionale e imparziale quanto lo era suo padre,
+e quanto si supponeva lo fossero tutti i moderni monarchi della sua [[house|casata]].
+Ma il conflitto di partito stesso è divenuto meno importante.
 Egli non vive, come i suoi antenati, in un [[Time|tempo]] in cui qualcosa
-come la [[French Revolution|Rivoluzione francese]] o la Prima Legge di [[Reform|Riforma]], o un qualche
-mutamento politico, sia supremamente importante.  D'altra parte, il mutamento
-sociale è incommensurabilmente importante.  La vecchia questione dei Diritti
-dell'Uomo fu dibattuta a fondo nei Parlamenti e nelle riunioni politiche.
+come la [[French Revolution|Rivoluzione Francese]] o il Primo Bill di [[Reform|Riforma]], o un qualche
+mutamento politico, sia supremamente importante. D'altro canto, il mutamento
+sociale è incommensurabilmente importante. La vecchia questione dei Diritti
+dell'Uomo fu dibattuta a fondo nei Parlamenti e nei comizi politici.
 Le nuove questioni, come quelle sui Diritti della Donna,
-vengono in realtà dibattute a fondo nei salotti e nelle cene,
-per non dire nei cabaret e nei club [[Night|notturni]].  I mutamenti nel costume femminile,
-i mutamenti nella cerimonia domestica, sono diventati simbolici.  Gli uomini che discutevano
-di [[Reform|Riforma]] o di Abrogazione non ritenevano particolarmente simbolico che
-il signor Brummell avesse un paio di calzoni nuovi, o che il Reggente avesse favorito
-un nuovo tipo di cappello.  Non pensavano che l'avvenire della Donna,
-che erano soliti descrivere come Amabile Donzella, sarebbe stato
-determinato dal fatto ch'ella portasse una crinolina o una gonna all'Impero.
-Ma chiunque avverta l'atmosfera della nostra età sa che ogni
-sorta di significati morali o immorali vengono letti nell'accorciamento
-dei capelli o nella scorciatura delle gonne.  E persino coloro che sentono
-queste cose come incongruamente frivole hanno una strana sensazione,
-dentro di sé, che queste cose frivole non siano poi così frivole
-quanto gran parte della politica seria.
+sono in realtà dibattute a fondo nei salotti e nei pranzi,
+per non dire nei cabaret e nei locali [[Night|notturni]]. Mutamenti nel costume femminile,
+mutamenti nel cerimoniale domestico, sono divenuti simbolici. Gli uomini che discutevano
+di [[Reform|Riforma]] o di Abrogazione non pensavano fosse particolarmente simbolico che
+il signor Brummell avesse un paio nuovo di pantaloni, o che il Reggente avesse patrocinato
+un nuovo tipo di cappello. Non pensavano che il futuro della Donna,
+che avevano l'abitudine di descrivere come Leggiadra Donzella, sarebbe stato
+determinato dal fatto che ella indossasse una crinolina o una gonna Impero.
+Ma chiunque avverta l'atmosfera della nostra stessa età sa che ogni
+sorta di significati morali o immorali vengono letti nel taglio corto
+dei capelli o nell'accorciarsi delle gonne. E persino coloro che sentono
+queste cose come incongruamente frivole hanno una bizzarra sensazione
+dentro di sé che queste frivole cose non siano proprio così frivole
+come una gran quantità di seria politica.
 
-Il [[King|Re]] Giorgio Quinto sta per qualcosa di solido, chiaro e coerente
-nelle cose sociali, in un modo in cui la vecchia consuetudine costituzionale
-non permetteva ai nostri Principi di stare per qualcosa nelle cose puramente
-politiche.  E, come ho detto, il netto mutamento è qui:
-che la maggior parte della gente pensa al mutamento sociale più che al
-mutamento politico.  Nelle cose che al momento più contano,
-il [[King|Re]] Giorgio ha avuto assai decisamente una linea: una linea di disprezzo
-per il lusso stravagante e per l'innovazione indiscriminata; di conservazione
-di quella vecchia [[Sanity|assennatezza]] sociale che si soleva considerare specialmente inglese.
+[[King|Re]] Giorgio Quinto sta per qualcosa di solido, chiaro e coerente
+nelle cose sociali, in un modo in cui la vecchia usanza costituzionale
+non permetteva ai nostri Principi di stare per qualcosa in cose puramente
+politiche. E, come ho detto, il netto mutamento è qui:
+che la maggior parte della gente sta pensando al mutamento sociale più che al
+mutamento politico. Nelle cose che contano di più al momento,
+[[King|Re]] Giorgio ha avuto assai decisamente una politica: una politica di disprezzo per
+il lusso fantastico e l'innovazione indiscriminata; di preservazione
+della vecchia [[Sanity|Sanità]] sociale che soleva essere considerata specialmente inglese.
 È stato suo destino vivere esattamente nel momento della [[history|storia]]
-in cui la rovina o la restaurazione di questa particolare abitudine normale e
-nazionale sarà certamente compiuta.  Ha probabilmente fatto una enorme
+in cui la rovina o la restaurazione di questa particolare normale e nazionale
+abitudine sarà di certo compiuta. Ha probabilmente fatto una vasta
 differenza che la prima famiglia della nazione sia stata così saldamente
-fissata su quel fondamento.  Ha reso impossibile che la moderazione
-e la modestia e il buon senso nel costume e nell'abito si estinguessero nella
-piccola borghesia come cose interamente sciatte e screditate.
-Una mera aristocrazia è sempre pronta alla novità più recente.
+fissata su quel fondamento. Ha reso impossibile che la moderazione
+e la modestia e il senso comune nel costume e nell'abbigliamento morissero
+nelle classi medio-basse come cose del tutto sciatte e screditate.
+Una mera aristocrazia è sempre pronta per l'ultima novità.
 L'aristocrazia, quali che siano le sue altre virtù o vizi, è stata
-prontissima a tenere l'andatura e a dettarla.  La monarchia ha
-ripreso su di sé qualcosa dell'antica sua guida in materie
-che un tempo erano tenute per leggere e insignificanti, ma che sono diventate,
+del tutto pronta a tenere l'andatura e a dettare l'andatura. La monarchia ha
+ripreso qualcosa della sua antica leadership in materie
+che un tempo erano considerate lievi e triviali, ma che sono divenute,
 in questa strana stagione e agli occhi di tutti i saggi, assai gravi.
 
-Devono essere quasi duecent'anni da quando il grande Bolingbroke scrisse, come
-testamento, la sua sfida a tutte le tendenze del suo [[Time|tempo]]; il suo disprezzo
-per l'aristocrazia e il suo rimpianto per il tramonto dei Re.
+Devono essere quasi duecento anni da quando il grande Bolingbroke scrisse come
+testamento la sua sfida a tutte le tendenze del suo [[Time|tempo]]; la sua sfida
+all'aristocrazia e il suo rimpianto per il tramonto dei Re.
 «Il Parlamento è il Parlamento di una classe; il [[King|Re]] è il [[King|Re]]
-di tutto il popolo.»  Qualunque cosa pensiamo di quella grande tesi,
-possiamo convenire che ciò che egli disse del Parlamento è almeno
-vero del Bel Mondo.  In molti modi assai vitali, il [[King|Re]] ha
-potuto rappresentare tutta quella società che sta fuori dalla Società.
-Ha dovuto essere il protettore di qualcosa a un tempo immenso e nascosto;
-rappresentare il normale quando l'anormale è più in vista;
-difendere una folla di inarticolate decenze che non sanno difendersi da sole.
-La tradizione è del popolino; non è mai stata e mai sarà
+dell'intero popolo». Qualunque cosa pensiamo di quella grande tesi,
+possiamo convenire che ciò che egli disse sul Parlamento è almeno
+vero riguardo al Bel Mondo. In molte assai vitali maniere, il [[King|Re]] ha
+saputo rappresentare tutta quella società che è al di fuori della Società.
+Ha dovuto essere il protettore di qualcosa a un tempo enorme e nascosto;
+rappresentare il normale quando l'anormale è più in evidenza;
+difendere una folla d'inarticolate decenze che non sanno difendersi.
+La tradizione è del popolino; non è mai stata e non sarà mai
 davvero tramandata attraverso le età se non dai poveri ai poveri.
-In quel senso i ricchi sono sempre i rivoluzionari.  È così persino
-nelle cose insignificanti già menzionate, di etichetta e di abbigliamento,
-perché la moda è un'eterna rivoluzione.  Tutte le aristocrazie si buttano
-da una mascherata all'altra; mentre esistono
-costumi contadini, non solo pittoreschi ma elaborati e persino sfarzosi,
-che sono rimasti immutati da prima delle prime testimonianze sull'uomo.
-Ora che la rivoluzione è arrivata a essere non solo di abito ma
-di costumi, non solo di costumi ma di morale, dovremmo aspettarci di trovare,
-e infatti troviamo, che il mero [[Pride|orgoglio]] della ricchezza, o persino del lignaggio,
-non salva gli esseri umani da una furiosa fame di mutamento.
-Non è alla piccola nobiltà, nemmeno alla genuina piccola nobiltà, non è
-ai nobili, nemmeno a quelli che non sono ancora ignobili, che possiamo guardare
+In quel senso i ricchi sono sempre i rivoluzionari. È così persino
+nelle triviali materie già menzionate, dell'etichetta e dell'abbigliamento,
+poiché la moda è un'eterna rivoluzione. Tutte le aristocrazie si gettano
+in un abito mascherato dopo l'altro; mentre ci sono
+costumi contadini, non solo pittoreschi ma elaborati e persino sgargianti,
+che sono rimasti inalterati da prima delle prime testimonianze dell'uomo.
+Ora che la rivoluzione è venuta a essere una non solo d'abito ma
+di maniere, non solo di maniere ma di costumi, dovremmo aspettarci di trovare,
+e troviamo davvero, che il mero [[Pride|orgoglio]] della ricchezza, o persino del lignaggio,
+non salva gli esseri umani da una smaniosa fame di mutamento.
+Non è alla gentry, nemmeno l'autentica gentry, non è ai
+nobili, nemmeno a quelli che non sono ancora ignobili, che possiamo guardare
 per la protezione delle pazienti e non registrate virtù dell'umanità.
-Ma nei tempi incalcolabili che ci stanno davanti, non è impossibile
-che possa ritornare all'istituzione mistica della [[Crown|Corona]]
-qualcosa di quell'immemore leggenda che la legava alla religione,
-e faceva un solo barone, [[Alone|solo]] fra tutta la baronia, misteriosamente responsabile
+Ma negli incalcolabili tempi dinanzi a noi, non è impossibile
+che possa tornare alla mistica istituzione della [[Crown|Corona]]
+qualcosa di quell'immemorabile leggenda che la legava alla religione,
+e faceva un barone, [[Alone|solo]] fra tutta la baronia, misteriosamente responsabile
 dinanzi a Dio per il popolo.
 
-Di questi tempi ci sono altre forme di distinzione falsa e accidentale,
-oltre a quella del privilegio o della ricchezza.  I giornali devono ravvivare le proprie
-colonne con tragedie, e consolare i propri lettori con delitti e [[Madness|follia]].
+In questi giorni ci sono altre forme di falsa e accidentale distinzione,
+oltre a quella del privilegio o della ricchezza. I giornali devono ravvivare le loro
+colonne con tragedie, e confortare i loro lettori con delitto e [[Madness|Follia]].
 La letteratura, ora specialmente e sempre in qualche misura, deve essere una sorta
-di poetica cronaca nera.  È [[Well|bene]] quando le istituzioni centrali
+di poetica cronaca nera. È [[Well|ben]] quando le istituzioni centrali
 o gli individui di una società rappresentano tutta la trascurata normalità.
-La popolarità del [[King|Re]] Giorgio starà almeno come una sorta di
+La popolarità di [[King|Re]] Giorgio starà almeno come una sorta di
 solido richiamo alle proporzioni delle cose; dirà al mondo
 che non siamo tutti divorziati, che non siamo tutti degenerati,
-che non stiamo tutti assillando il mondo con filosofie folli e
-perversioni estetiche; che la vita umana è una cosa che si può, in sobria
-realtà, vivere; e come aggiunse il regale saggio, con nobile ironia:
-«La vita si può vivere bene anche in un palazzo».
+che non stiamo tutti assillando il mondo con folli filosofie e
+perversioni estetiche; che la vita umana è una cosa che può in sobria
+realtà essere vissuta; e come aggiunse il regio saggio, con una nobile ironia:
+«La vita si può vivere bene persino in un palazzo».
 
-Ecco perché c'è, nella simpatia popolare, e persino
-nella curiosità popolare, riguardo alla malattia di Re Giorgio,
+Ecco perché c'è nella simpatia popolare, e persino
+nella curiosità popolare, nel caso della malattia di Re Giorgio,
 qualcosa che non è meramente volgare come le notizie del Bel Mondo.
 Anzi, è proprio perché è popolare che non è volgare.
-È volgare essere spaventosamente eccitati nel sentire che la Duchessa
-di Dulwich ha un diadema di diamanti costato mezzo milione, quando noi
-stessi non potremmo permetterci una pietra per un bottone da colletto o un gemello;
-perché è idolatria, o adorazione di un dio di pietra estraneo
-ai nostri stessi dèi domestici.  Ma non è volgare compatire
-una Regina la cui casa è ottenebrata dalla malattia; perché per
+È volgare essere tremendamente eccitati sentendo che la Duchessa
+di Dulwich ha una tiara di diamanti che costa mezzo milione quando noi
+stessi non potremmo permetterci una pietra per uno spillo o un gemello;
+perché è idolatria, o l'adorazione di un dio di pietra alieno
+ai nostri stessi dèi domestici. Ma non è volgare simpatizzare
+con una Regina la cui casa è oscurata dalla malattia; perché per
 quell'alto momento i suoi dèi domestici e i nostri sono i medesimi.
 È volgare fremere di gioia perché un milionario ha
-costruito un panfilo gigantesco, abbastanza grande da contenere una piscina;
-perché sappiamo in cuor nostro che lui e noi saremmo entrambi
+costruito un gigantesco yacht abbastanza grande da contenere una piscina;
+perché sappiamo nel nostro cuore che egli e noi saremmo entrambi
 più sani e più felici se ci accontentassimo di nuotare nel mare.
-Ma non è volgare essere toccati da un uomo che siede e guarda
-il mare, quando appena sperava di rivedere il sole,
-anche se l'uomo è un Re non meno che un marinaio.  È perché la storia
-di questa perigliosa guarigione ci è giunta così tanto nei comuni
-lineamenti di innumerevoli storie del genere che, per la prima
-volta in casi simili, la moderna curiosità non è un'intrusione.
-«Il [[King|Re]] è il [[King|Re]] di tutto il popolo.»
+Ma non è volgare essere commossi da un uomo seduto a guardare
+il mare, quando a stento pensava di guardare di nuovo il sole,
+anche se l'uomo è un Re oltre che un marinaio. È perché la storia
+di questa pericolosa guarigione ci è giunta così tanto nei comuni
+lineamenti di innumerevoli storie del genere che per la prima
+volta in simili casi la moderna curiosità non è un'intrusione.
+«Il [[King|Re]] è il [[King|Re]] dell'intero popolo».

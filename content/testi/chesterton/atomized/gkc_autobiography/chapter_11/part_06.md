@@ -156,133 +156,21 @@ As the [[Ancient Mariner]] remarked, in a moment of [[Melancholy|melancholy]] co
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_11/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_12/part_01">part 01 ›</a></div>
 </nav>
 
-Quando egli se ne fu andato, Belloc e io attraversammo il Parco con gli ultimi
-brontolii che ancora echeggiavano nel cielo, e udimmo il segnale di cessato allarme mentre
-uscivamo presso [[Buckingham]] Gate, come il suono di trombe di trionfo.
-E parlammo un poco delle prospettive della guerra, che erano allora
-nella fase di transizione fra l'ultimo pericolo e l'ultima liberazione;
-e ci separammo, non senza una certa tardiva emozione di eccitamento;
-e io m'incamminai lungo Kensington High [[Road|Road]] verso la [[Home|casa]] di mia madre.
+Quando egli se ne fu andato, Belloc e io attraversammo il Parco con gli ultimi rombi ancora echeggianti nel cielo, e udimmo il segnale del cessato allarme mentre uscivamo presso [[Buckingham|Buckingham]] Gate, come il suono di trombe di trionfo. E parlammo un poco delle prospettive della Guerra, che erano allora nella fase di transizione fra l'ultimo pericolo e l'ultima liberazione; e ci separammo, non senza una certa tardiva emozione di eccitazione; e io percorsi Kensington High [[Road|Road]] fino alla [[Home|casa]] di mia madre.
 
-Fra le leggende, per non dire le menzogne, che presero a circolare su Belloc
-tra la gente che non sapeva nulla di lui, c'era la leggenda che egli fosse ciò
-che si chiamava un ottimista riguardo alla guerra; o che esagerasse le perdite
-tedesche per costruire un caso a favore di puro conforto e rassicurazione.
-Per chiunque conosca Belloc quest'idea è [[Grotesque|grottesca]] all'ultimo grado.
-Anzitutto, essendo un animale dotato del potere del pensiero,
-egli è del tutto incapace di supporre che importi qualcosa se tu sia un
-ottimista o un pessimista su una questione di fatto; o di raccomandare
-a chicchessia di essere allegro e gioviale affinché domani non piova.
-In secondo luogo, in quanto l'umore e l'emozione hanno il loro legittimo posto
-nella vita, il suo umore e la sua emozione non sono in genere abbastanza ottimistici.
-E in terzo luogo, quelle persone che si sono prese la briga di esaminare gli effettivi
-fatti e cifre sulla [[Mortality|mortalità]] nemica hanno convenuto che i suoi calcoli
-erano sostanzialmente corretti e quelli dell'altra parte selvaggiamente scorretti.
-La [[Truth|verità]] è che, proprio all'inizio di un tipo [[Novel|inedito]] di
-guerra di trincea, i calcoli di tutti furono per un [[Time|certo tempo]] scorretti;
-ma i suoi furono corretti tanto per tempo quanto quelli di chiunque, e furono in seguito
-di continuo giusti mentre quelli opposti erano di continuo sbagliati.
-Del resto, ciò che mandò all'aria ogni stima scientifica della guerra
-fu un fattore che era morale e non scientifico; un esempio permanente
-del mutare di tutte le cose materiali sul perno della volontà umana.
-Fu la rivolta in [[Russia]]. Nessuno degno di menzione la predisse;
-ma Belloc stesso disse la cosa più saggia, in forma generale, riguardo
-a faccende del genere. In uno dei suoi articoli su Land and [[Water]],
-egli deve aver piuttosto sconcertato molti dei suoi lettori, [[Fear|temo]], con un'
-elaborata ricostruzione storica della prospettiva sul futuro,
-nella mente di un funzionario greco a Bisanzio, all'inizio
-del sesto secolo, che calcolava e combinava tutte le forze
-dell'Impero Romano e della [[Catholic Church|Chiesa Cattolica]]. Egli osservò quanto un uomo
-potesse credere di aver messo in conto tutte le possibilità, il pericolo
-di una scissione religiosa fra Oriente e Occidente, il pericolo delle incursioni
-barbariche sulla Gallia o sulla Britannia, la situazione in Africa e in Spagna, e così via;
-e poi dire di avere in mano tutti i materiali del mutamento.
-«In quel momento, lontano lontano in un villaggetto d'Arabia, Maometto aveva
-diciotto anni.»
+Fra le leggende, per non dire le menzogne, che divennero correnti su Belloc fra persone che non sapevano nulla di lui, vi era la leggenda che egli fosse ciò che si chiamava un Ottimista sulla Guerra; o che esagerasse le perdite tedesche per costruire un caso di mero conforto e rassicurazione. Per chiunque conosca Belloc questa idea è [[Grotesque|grottesca]] al massimo grado. Per cominciare, essendo un animale dotato del potere del pensiero, egli è del tutto incapace di supporre che importi se tu sia un Ottimista o un Pessimista su una questione di fatto; o di raccomandare a chiunque di essere gaio e allegro affinché non piova domani. In secondo luogo, in quanto l'umore e l'emozione hanno il loro legittimo posto nella vita, il suo umore e la sua emozione generalmente non sono abbastanza ottimistici. E in terzo luogo, quelle persone che si sono prese la briga di entrare nei fatti e nelle cifre effettivi sulla [[Mortality|mortalità]] nemica hanno convenuto che i suoi calcoli erano sostanzialmente corretti e quelli dell'altra parte selvaggiamente scorretti. La [[Truth|verità]] è che, al principio stesso di un tipo [[Novel|inedito]] di guerra di trincea, i calcoli di tutti furono per un certo [[Time|tempo]] scorretti; ma i suoi furono corretti così presto come quelli di chiunque e furono in seguito continuamente giusti mentre quelli opposti erano continuamente sbagliati. Per il resto, ciò che sconvolse ogni stima scientifica della guerra fu un fattore che era morale e non scientifico; un esempio permanente del cambiamento di tutte le cose materiali sul perno della volontà umana. Fu la rivolta in [[Russia]]. Nessuno degno di menzione la predisse; ma Belloc stesso disse la cosa più saggia in modo generale su faccende del genere. In uno dei suoi articoli in Land and [[Water]], egli deve aver piuttosto sconcertato molti dei suoi lettori, [[Fear|temo]], con un'elaborata ricostruzione storica delle prospettive sul futuro, nella mente di un funzionario greco a Bisanzio, all'inizio del sesto secolo, che calcolava e combinava tutte le forze dell'Impero Romano e della [[Catholic Church|Chiesa cattolica]]. Egli notava quanto un uomo potesse pensare di aver reso conto di tutte le possibilità, il pericolo di una spaccatura religiosa fra Oriente e Occidente, il pericolo delle incursioni barbariche sulla Gallia o sulla Britannia, la situazione in Africa e in Spagna, e così via; e poi dire di avere in mano tutti i materiali del cambiamento. «In quel momento, lontano lontano in un piccolo villaggio d'Arabia, Maometto aveva diciotto anni.»
 
-Non ho bisogno di soffermarmi oltre su quella vecchia e oziosa contesa; se gli uomini
-che sbraitavano sull'ottimismo saranno mai ricordati nella [[history|storia]] seria,
-saranno ricordati perché litigarono con Belloc.
-Erano i semi-istruiti proprietari della stampa scandalistica di quel [[Time|tempo]],
-irritati con lui per certe pertinenti osservazioni che aveva fatto
-sulla vendita dei titoli nobiliari. Ma vale la pena di indugiarvi un momento
-per sottolineare ciò che era certamente vero di tutti i miei amici,
-e credo di tutti i più degni amici dell'Inghilterra; che noi
-non fondammo mai le nostre convinzioni su una gretta spavalderia riguardo al [[success|Successo]];
-che lavorammo per la vittoria pur essendo del tutto pronti alla sconfitta;
-e non predicemmo mai nulla sulla fine della guerra, o su qualunque altro
-evento futuro; Belloc meno di tutti; come quando lo udii dire nella prima
-delle sue conferenze [[London|londinesi]]: «Non spetta a nessun oratore o scrittore parlare
-di vittorie rese certe in anticipo da questo o da quello.
-Dio [[Alone|solo]] dà la vittoria.»
+Non occorre soffermarmi oltre su quella vecchia e oziosa disputa; se gli uomini che sbraitavano sull'Ottimismo sono ricordati affatto nella seria [[history|storia]], saranno ricordati perché litigarono con Belloc. Erano i semi-istruiti proprietari della Stampa Gialla di quel [[Time|tempo]], che erano seccati con lui per certe pertinenti osservazioni che egli aveva fatto sulla Vendita dei Titoli Nobiliari. Ma vale la pena soffermarcisi un momento per sottolineare ciò che era certamente vero di tutti i miei amici, e credo di tutti i più degni amici dell'Inghilterra; che noi non basammo mai le nostre convinzioni su una gretta spavalderia riguardo al [[success|Successo]]; che lavorammo per la vittoria pur essendo interamente pronti alla sconfitta; e non predicemmo mai nulla sulla fine della guerra, o su qualsiasi altro evento futuro; Belloc meno di tutti; come quando lo udii dire nella prima delle sue conferenze di [[London|Londra]]: «Non è compito di alcun oratore o scrittore parlare di vittorie rese certe in anticipo da questo o quello. Dio [[Alone|solo]] dà la vittoria».
 
-C'è un altro aspetto del modo in cui la stampa scandalistica
-diffondeva il panico e l'ammutinamento politico e li chiamava patriottismo
-e intraprendenza giornalistica. Si supponeva a quanto pare
-che l'Inghilterra avesse bisogno di essere pungolata da dietro.
-Il mio amico Bentley, che faceva un ottimo lavoro sul Daily Telegraph,
-lo descrisse più veracemente come l'Inghilterra pugnalata alla schiena.
-Il Daily Telegraph, in effetti, in quei giorni di febbre,
-compì un mirabile lavoro di risanamento medico e morale.
-Ma per me e il mio piccolo gruppo la contesa ebbe un altro effetto;
-che noi eravamo, in proporzioni assai varie, in lotta su due fronti;
-considerando gli Hohenzollern e gli Harmsworth come inserzionisti
-ugualmente ben riusciti e uomini di Stato ugualmente mal riusciti.
-E toccò a me dare piena espressione a questo [[Double|duplice]] atteggiamento,
-per una ragione che in condizioni normali non avrei mai potuto prevedere.
+Vi è un altro aspetto del modo in cui la Stampa Gialla diffondeva panico e ammutinamento politico e li chiamava patriottismo e intraprendenza giornalistica. Si supponeva a quanto pare che l'Inghilterra avesse bisogno di essere pungolata da dietro. Il mio amico Bentley, che faceva un eccellente lavoro sul Daily Telegraph, lo descrisse più veracemente come l'Inghilterra pugnalata alla schiena. Il Daily Telegraph, invero, durante quei giorni di febbre, fece un ammirevole lavoro di risanamento medicinale e morale. Ma per me e il mio piccolo gruppo la disputa ebbe un altro effetto; che noi eravamo, in proporzioni assai variabili, in lotta su due fronti; considerando gli Hohenzollern e gli Harmsworth come pubblicitari egualmente di successo e statisti egualmente falliti. E toccò a me dare piena espressione a questo [[Double|duplice]] atteggiamento, per una ragione che non avrei mai in condizioni ordinarie potuto prevedere.
 
-Diventai direttore. In qualunque [[Time|momento]] mi sarebbe parso
-press'a poco tanto probabile o promettente quanto il diventare editore
-o banchiere o articolista di fondo del Times. Ma la necessità
-nacque dal continuato esistere del nostro piccolo giornale,
-il New Witness, che era appassionatamente patriottico e filo-Alleato
-ma con altrettanta enfasi opposto allo sciovinismo del Daily Mail.
-Non c'erano poi troppe persone di cui ci si potesse fidare per mantenere
-queste due distinte indignazioni, senza combinarle
-con il disgustoso espediente di essere moderati. Non c'erano
-poi troppe persone di tal fatta; ma io in certo modo ero una di esse.
-E quando mio fratello partì per il fronte, lasciò il suo giornale nelle mie mani,
-pregandomi di dirigerlo finché non fosse tornato. Ma continuai a dirigerlo
-perché egli non tornò. Poiché mio fratello era destinato a dimostrare,
-in un'oscura ora di sventura, che egli [[Alone|solo]] fra tutti gli uomini del nostro [[Time|tempo]]
-possedeva le due specie di [[Courage|coraggio]] che hanno nutrito la nazione;
-il [[Courage|coraggio]] del foro e quello del campo. Nel secondo caso egli soffrì
-con migliaia di uomini ugualmente valorosi; nel primo soffrì [[Alone|solo]].
-Poiché è un altro esempio dell'ironia umana che sembri
-più facile morire in battaglia che dire la [[Truth|verità]] in politica.
-La [[Nature|natura]] umana è in ogni caso una faccenda strana; e alla notizia
-della [[Death|morte]] di mio fratello, io, come direttore del suo giornale, fui mosso a una bizzarra
-reazione che non so del tutto spiegare, ma che potei esprimere soltanto
-scrivendo una lettera aperta a Rufus Isaacs, Lord Reading,
-sui ricordi della nostra grande contesa Marconi. Cercai di dirgli,
-con tutto il ritegno possibile, che credevo che egli avesse davvero agito contro
-la mia nazione, ma in favore del suo proprio [[Blood|sangue]]; e che colui che aveva declamato,
-e senza dubbio disprezzava perfino nel declamarla, la tediosa buffonata
-parlamentare dell'aver un tempo incontrato suo fratello a una riunione di famiglia,
-aveva in [[Truth|verità]] agito da capo a fondo mosso da quelle profonde lealtà domestiche
-che erano la mia stessa [[Tragedy|tragedia]] in quell'ora. Ma aggiunsi: «Voi siete assai
-più infelice; poiché vostro fratello è ancora vivo.»
+Divenni direttore. Mi sarebbe in qualsiasi [[Time|momento]] parso improbabile o promettente circa quanto che io diventassi editore o banchiere o articolista di fondo del Times. Ma la necessità sorse dalla continuata esistenza del nostro piccolo giornale, il New Witness, che era appassionatamente patriottico e Pro-Alleato ma altrettanto enfaticamente opposto al giingoismo del Daily Mail. Non c'erano troppe persone di cui ci si potesse fidare per mantenere queste due distinte indignazioni, senza combinarle col disgustoso espediente di essere moderati. Non c'erano troppe di tali persone; ma io ero in un certo modo una di esse. E quando mio fratello andò al fronte, lasciò il suo giornale nelle mie mani, chiedendomi di dirigerlo finché non fosse tornato. Ma continuai a dirigerlo perché egli non tornò. Poiché mio fratello era destinato a provare, in un'ora buia di rovina, che egli [[Alone|solo]] fra tutti gli uomini del nostro [[Time|tempo]] possedeva i due tipi di [[Courage|coraggio]] che hanno nutrito la nazione; il [[Courage|coraggio]] del foro e quello del campo. Nel secondo caso egli soffrì con migliaia di uomini egualmente coraggiosi; nel primo soffrì [[Alone|solo]]. Poiché è un altro esempio dell'ironia umana che pare più facile morire in battaglia che dire la [[Truth|verità]] in politica. La [[Nature|natura]] umana è in ogni caso una strana faccenda; e alla notizia della [[Death|morte]] di mio fratello, io come direttore del suo giornale fui mosso a una strana reazione che non posso del tutto spiegare, ma che potei solo esprimere scrivendo una lettera aperta a Rufus Isaacs, Lord Reading, sulle memorie della nostra grande disputa Marconi. Cercai di dirgli, con tutto il ritegno, che credevo che egli avesse davvero agito contro la mia nazione, ma in favore del suo proprio [[Blood|sangue]]; e che egli, che aveva detto, e indubbiamente disprezzato perfino nel dirlo, la tediosa buffoneria parlamentare sull'aver incontrato una volta suo fratello a una funzione di famiglia, aveva in [[Truth|verità]] agito per tutto il tempo da quelle profonde lealtà domestiche che erano la mia stessa [[Tragedy|tragedia]] in quell'ora. Ma aggiunsi: «Voi siete assai più infelice; poiché vostro fratello è ancora vivo».
 
-È strano, come ho detto, che di lì a poco anche suo fratello fosse
-morto, e nella stessa confessione religiosa di quella del mio proprio fratello.
-Così terminò, abbastanza simbolicamente, il grande duello Marconi; e io continuai
-la direzione del giornale di mio fratello, se così si può chiamare;
-e tutti gli altri finanzieri e politici non diedero segno di morire
-in alcuna [[Faith|fede]], né invero di morire affatto. La guerra procedette verso la sua fine,
-in cui furono spente tante vite; i tedeschi sferrarono i loro ultimi vasti
-e vani assalti e Foch vibrò il suo colpo finale davanti a Châlons,
-dove la cristianità aveva spezzato gli Unni mille anni prima.
-Ma in Inghilterra i politici continuarono a sorriderci benevolmente;
-nuovi nobiluomini continuarono a [[spring|balzare]] alla vita da suoli commerciali
-alquanto oscuri; c'erano innumerevoli fiorenti imprese economiche,
-sostenute da vigorosa pubblicità e magnetica personalità;
-e tutte le potenze delle fusioni scientifiche e dei consorzi giornalistici,
-che ora governano lo Stato, [[Rose|s'innalzarono]] lentamente all'attuale loro potere e pace.
-Come osservò il [[Ancient Mariner|Vecchio Marinaio]], in un momento di [[Melancholy|malinconico]] confronto:
+È strano, come ho detto, che in breve tempo anche suo fratello fu morto e nella stessa confessione religiosa di quella del mio proprio fratello. Così finì, abbastanza simbolicamente, il grande duello Marconi; e io continuai la direzione del giornale di mio fratello, se così si può chiamare il dirigere; e tutti gli altri finanzieri e politici non mostrarono alcun segno di morire in una qualche [[Faith|fede]], o invero di morire affatto. La Guerra lavorò verso la sua fine, in cui tante vite furono finite; i Tedeschi fecero i loro ultimi vasti e vani assalti e Foch vibrò il suo colpo finale davanti a Châlons, dove la cristianità aveva spezzato gli Unni mille anni prima. Ma in Inghilterra i politici continuarono a irraggiare benevolenza su di noi; nuovi nobili continuarono a [[spring|sbocciare]] alla vita da suoli commerciali alquanto oscuri; vi furono un qualsiasi numero di fiorenti imprese economiche, sostenute da forte pubblicità e magnetica personalità; e tutti i poteri delle fusioni scientifiche e delle combinazioni giornalistiche, che ora reggono lo Stato, [[Rose|salirono]] lentamente al loro presente potere e alla loro presente pace. Come osservò il [[Ancient Mariner|Vecchio Marinaio]], in un momento di [[Melancholy|malinconico]] paragone:
 
   I molti uomini così belli
-  giacevano tutti morti;
-  e mille e mille cose viscide
-  vivevano ancora; e così anch'io.
+  E tutti giacevano morti;
+  E mille mila cose viscide
+  Vivevano ancora; e così anch'io.
 
 *****

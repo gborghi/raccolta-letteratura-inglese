@@ -161,136 +161,136 @@ in the casket of a creed.
 </nav>
 
 Non c'è mai stato un autore popolare dopo Dickens.
-Ci sono stati campioni di vendite che venivano letti e disprezzati,
+Ci sono stati bestseller che venivano letti e disprezzati,
 e autori famosi che venivano rispettati e non letti.
-Ma Dickens era davvero un autore, nel senso di un creatore.
-E Dickens era davvero famoso, non come il signor Osbert Sitwell,
-ma come Napoleone.  Eppure, con tutto ciò, Dickens non lasciò alcun successore —
-non solo del suo genio, ma neppure del suo umore.  Proprio come Walt Whitman
-non lasciò alcun successore — non solo del suo genio, ma neppure del suo umore.
-Dickens e Whitman potranno sembrare abbastanza diversi, ma erano uniti in una
-enorme premessa: che gli esseri umani debbano entusiasmarsi per l'umanità.
-E oggi vediamo assai vividamente la loro premessa comune, proprio perché è svanita.
-Comunque sia, non lasciarono eredi.  Mi sembra che questo sia stato assai più
-spesso vero delle opere originali o significative di quanto comunemente si supponga.
+Ma Dickens fu davvero un autore, nel senso di un creatore.
+E Dickens fu davvero famoso, non come il signor Osbert Sitwell,
+ma come Napoleone. Ma, ciononostante, Dickens non lasciò alcun successore--
+non solo del suo genio, ma persino del suo umore. Proprio come Walt Whitman
+non lasciò alcun successore--non solo del suo genio, ma persino del suo umore.
+Dickens e Whitman possono sembrare abbastanza diversi, ma erano uniti in una
+enorme assunzione che gli esseri umani debbano essere entusiasti dell'umanità.
+E vediamo la loro comune assunzione assai vividamente ora, perché se n'è andata.
+Comunque, essi non lasciarono eredi. Mi pare che questo sia stato assai più
+spesso vero di opere originali o significative di quanto comunemente si supponga.
 Tutta la mia generazione parlava, e molti persino della generazione nascente
-parlano ancora, di progresso in termini di profezia.  Ci fu insegnato
-che qualcuno come Wycliffe era una Stella del Mattino della [[Reformation|Riforma]];
-e da lì scivolammo nell'abitudine di pensare a tutti i grandi
-come ad anticipatori, a tutti i poeti come a profeti, a tutti i cantori come a
-[[Stars|stelle]] del mattino che cantano insieme.  Ma mi sembra che la maggior parte di quelle
-[[Stars|stelle]] del mattino fossero in realtà [[Stars|stelle]] della sera.  Fummo fuorviati in questo,
-come in quasi tutto il resto, dalla cattiva applicazione di una vecchia e mistica
+parlano ancora, del progresso in termini di profezia. Ci fu insegnato
+che qualcuno come Wycliffe fu una Stella Mattutina della [[Reformation|Riforma]];
+e da ciò scivolammo nell'abitudine di pensare a tutti i grandi
+come anticipatori, a tutti i poeti come profeti, a tutti i cantori come [[Stars|stelle]]
+mattutine che cantano insieme. Ma mi pare che la maggior parte di quelle
+[[Stars|stelle]] mattutine fossero in realtà [[Stars|stelle]] della sera. Fummo fuorviati in questo,
+come nella maggior parte delle altre cose, dall'erronea applicazione di una vecchia e mistica
 idea cristiana come se fosse una nuova e scientifica idea sociale.
-Tutto l'Ottocento era pieno di un rumore di piedi in corsa;
-i piedi belli sui [[Mountains|monti]]; i piedi del Precursore.
-Se avevamo un santo patrono, era San Giovanni Battista.
-Ma servivamo il nostro santo patrono come gli Ateniesi servivano il loro dio ignoto;
-senza saperne granché.  E la maggior parte della gente resta in quello
-stato d'ignorante venerazione, e non sa granché del processo
+Tutto il diciannovesimo secolo era pieno di un rumore di piedi correnti;
+i piedi belli sui [[Mountains|Monti]]; i piedi del Precursore.
+Se avessimo avuto un santo patrono, sarebbe stato san Giovanni Battista.
+Ma servimmo il nostro santo patrono come gli Ateniesi servirono il loro dio ignoto;
+senza saper granché di lui. E la maggior parte della gente rimane in quello
+stato di ignorante venerazione, e non sa granché del processo
 che chiama un progresso.
 
-Ora, se guardiamo alle grandissime opere, diciamo, della letteratura inglese,
-vedremo che ciascuna di esse ha qualcosa di quell'aria di dare inizio a
-grandi cose; ma di fatto la grande cosa finisce dove è cominciata.
-Shakespeare ha tutto il gesto del [[Renaissance|Rinascimento]] di spalancare
-porte d'oro su un nuovo mondo di aurora e di [[Song|canto]].  È colmo,
-come lo fu tutto il Cinquecento, di quelle radiose prospettive
-di ricchezza e tesoro, che talvolta erano degne di essere chiamate,
-in un senso quasi [[Sublime|sublime]], i [[Dreams|sogni]] dell'avarizia.  È colmo
+Ora, se guardiamo alle grandissime opere, diciamo della letteratura inglese,
+vedremo che ciascuna di esse ha qualcosa di quell'aria d'iniziare
+grandi cose; ma di fatto la grande cosa finisce dove cominciò.
+Shakespeare ha tutto il [[Renaissance|rinascimentale]] gesto di spalancare
+auree porte su un nuovo mondo d'aurora e di [[Song|canto]]. Egli è colmo,
+com'era tutto il sedicesimo secolo, di quelle radiose prospettive
+di ricchezza e tesoro, che erano talvolta degne d'essere chiamate,
+in un senso quasi [[Sublime|sublime]], i [[Dreams|Sogni]] dell'avarizia. Egli è colmo
 di tutto quel colore ardente che appartiene alla pittura veneziana,
-come quando con un tocco muta tutti i mari del mondo in cremisi.
-E quando confrontiamo tutta questa ampiezza e gloria con le rigide
-imitazioni di Seneca o con le rozze recite paesane di Quince e [[Bottom]],
-non possiamo non sentire che Shakespeare sta edificando una [[City|città]], sta creando
-un mondo, è l'inizio di qualcosa di più grande persino di lui stesso.
+come quando con un tocco tramuta tutti i mari del mondo in cremisi.
+E quando paragoniamo tutta questa ampiezza e gloria con le rigide
+imitazioni di Seneca o le rozze commediole di villaggio di Cotogno e [[Bottom]],
+non possiamo non sentire che Shakespeare stia costruendo una [[City|città]], stia facendo
+un mondo, sia l'inizio di qualcosa di più grande persino di lui stesso.
 Ma non abbiamo avuto nulla di più grande di lui stesso.
-Il dramma del [[Renaissance|Rinascimento]], fatto di [[Blood|sangue]] e d'oro, di re e usurpatori,
+Il dramma [[Renaissance|rinascimentale]] di [[Blood|Sangue]] e oro, di re e usurpatori,
 non è un inizio ma una fine; il suo oro e il suo cremisi sono i colori
-del tramonto e non dell'[[Dawn|alba]].  Lo stesso è vero, in altra maniera,
-di [[Milton]].  [[Milton]], benché venisse davvero da una cultura cattolica,
-prese deliberatamente le parti di tutte le idee nuove, delle nuove nozioni
-dei Puritani, e di parecchie nuove nozioni sue proprie,
+del tramonto e non dell'[[Dawn|alba]]. Lo stesso è vero, in altra maniera,
+di [[Milton]]. [[Milton]], benché venisse davvero da una cultura cattolica,
+prese deliberatamente le parti di tutte le nuove idee, le nuove nozioni
+dei Puritani, e parecchie nuove nozioni sue proprie,
 che non sarebbero state affatto approvate dai Puritani.
-La sua teologia ariana probabilmente la considerava una teologia più illuminata.
-Credeva nel [[divorce|divorzio]] e nella stampa e in ogni sorta di buffe cose moderne.
-Quando un uomo con questo atteggiamento scrive un [[Sublime|sublime]] poema [[Epic|epico]] sui
-lineamenti della nuova religione, potremmo naturalmente supporre
-che egli fonderebbe una scuola.  Potremmo aspettarci che fosse l'inizio
-di una tradizione di [[Poems|poemi]] [[Epic|epici]], di grandi, o almeno ragionevolmente buoni,
-[[Poems|poemi]] [[Epic|epici]].  Ma non fu il primo di una nuova scuola di poemi epici.
-Fu l'ultimo [[Epic|epos]] del mondo.
+La sua teologia ariana la considerava probabilmente una teologia più illuminata.
+Egli credeva nel [[divorce|divorzio]] e nella stampa e in ogni sorta di bizzarre cose moderne.
+Quando un uomo in questo atteggiamento scrive un [[Sublime|sublime]] poema [[Epic|epico]]
+sui lineamenti della nuova religione, potremmo naturalmente supporre
+che egli fonderebbe una scuola. Potremmo aspettarci che fosse l'inizio
+di una tradizione di [[Epic|epici]] [[Poems|poemi]], di grandi, o almeno ragionevolmente buoni,
+[[Epic|epici]] [[Poems|poemi]]. Ma non fu il primo di una nuova scuola di epopee.
+Fu l'ultima [[Epic|epopea]] del mondo.
 
-Non dobbiamo perciò stupirci troppo se Dickens o Whitman
-non riuscirono a fare ciò che Shakespeare e [[Milton]] non riuscirono a fare.
-Ma in tutti e tre i casi è all'opera un principio che, io credo,
-è stato alquanto trascurato, e da molti forse mai scoperto.
-La difficoltà con l'arte è che l'[[Artist|artista]] dà espressione permanente
-a un umore passeggero.  Può darsi che egli stia, e generalmente sta,
-anche testimoniando una [[Truth|verità]] che sta permanentemente dietro quell'umore.
-Ma non può rendere l'umore stesso tanto popolare in un [[Time|tempo]] quanto in un altro.
-Non può essere certo, in un dato momento, se l'umore sia
-anche il modo.  Perciò, mentre l'opera può rimanere come un classico,
-non può rimanere, come rimane, per esempio, una religione, continuando a
-produrre i propri tipi di santo o di mistico generazione dopo generazione.
-Ciò può accadere solo quando le verità si cristallizzano in un credo,
-e vengono considerate dal popolo verità e non umori transitori.
-Ma una cosa come il fasto di colore del Cinquecento era
-davvero un umore transitorio.  Affascinava Shakespeare guardare
-uomini vestiti d'oro su un palco purpureo, e sotto baldacchini araldici,
-recitare fantastiche pantomime davanti all'alto cielo.  Ma quando col [[Time|tempo]] arriviamo
-a [[Milton]] la generazione successiva si è stancata di quelle tragedie dorate;
-il [[King|re]] è detronizzato di fatto e non soltanto nelle finzioni teatrali;
-il palco purpureo si è oscurato in un nero patibolo; e dopo quel giorno
-c'è stato uno sbiadire di tutto l'antico splendore araldico e brillante
-del costume; e gli uomini sono andati in grigio e in nero per un secolo o giù di lì,
-come se portassero il lutto per la [[Death|morte]] dell'ultimo [[King|Re]].
+Non dobbiamo, perciò, essere molto sorpresi se Dickens o Whitman
+non riuscirono a fare ciò che Shakespeare e [[Milton]] mancarono di fare.
+Ma in tutti e tre i casi c'è un principio all'opera che credo
+sia stato in qualche modo trascurato, e da molti forse mai scoperto.
+La difficoltà con l'arte è che l'[[Artist|artista]] dà permanente
+espressione a un umore passeggero. Egli può, e generalmente è così,
+testimoniare anche a una [[Truth|verità]] che sta permanentemente dietro quell'umore.
+Ma egli non può rendere l'umore stesso popolare in un [[Time|tempo]] quanto in un altro.
+Egli non può essere certo, in un dato momento, che l'umore sia
+anche la moda. Perciò, mentre l'opera può rimanere come un classico,
+essa non può rimanere, come rimane, per esempio, una religione, continuando a
+produrre i propri tipi di santo o mistico generazione dopo generazione.
+Questo può accadere solo quando le verità sono cristallizzate in un credo,
+e sono considerate dal popolo come verità e non come umori transitori.
+Ma una cosa come il pageant di colore del sedicesimo secolo era
+davvero un umore transitorio. Affascinava Shakespeare guardare
+uomini vestiti d'oro su un baldacchino purpureo, e sotto araldici padiglioni,
+recitare fantastici scherzi dinanzi all'alto cielo. Ma nel [[Time|tempo]] in cui giungiamo
+a [[Milton]] la generazione seguente si è stancata di quelle auree tragedie;
+il [[King|re]] è detronizzato di fatto e non solo nelle rappresentazioni;
+il baldacchino purpureo si è oscurato in un nero patibolo; e dopo quel giorno
+c'è stato uno sbiadire di tutta la vecchia araldica e brillantezza
+di costume; e gli uomini sono andati in grigio e nero per un secolo o giù di lì,
+come se fossero in lutto per la [[Death|Morte]] dell'Ultimo [[King|Re]].
 
-Ma sebbene, in fatto di abito, il mondo che divenne grigio con
-il [[Puritanism|Puritanesimo]] sia da allora divenuto nero con l'Industrialismo, in altri modi
-anche quegli umori più severi erano umori destinati a passare.  [[Milton]] non
-perpetuò, non più di Shakespeare, ciò che vi era di eroico nel proprio punto
-di vista.  Abbiamo così ancora una volta la curiosa situazione storica:
-che i Puritani non ebbero appena dato inizio al [[Puritanism|Puritanesimo]]
-che sembrano d'un tratto giungere alla fine del [[Puritanism|Puritanesimo]].
-Parve un nudo splendore appena nato ai principali nemici di
-Carlo I.  Era già una superstizione morta per i principali nemici
-di Carlo II.  A quel [[Time|tempo]] uomini come Shaftesbury e Halifax non
+Ma benché, in fatto d'abito, il mondo che si fece grigio col
+[[Puritanism|Puritanesimo]] si sia da allora fatto nero con l'Industrialismo, in altri modi
+questi umori più severi erano anch'essi umori che potevano passare. [[Milton]] non
+perpetuò, non più di Shakespeare, ciò che era eroico nel proprio punto
+di vista. Abbiamo così ancora una volta la curiosa situazione storica:
+che i Puritani non hanno appena avviato l'inizio del [[Puritanism|Puritanesimo]]
+che sembrano improvvisamente giungere alla fine del [[Puritanism|Puritanesimo]].
+Sembrò un nudo neonato splendore ai principali nemici di
+Carlo I. Era già una morta superstizione per i principali nemici
+di Carlo II. Entro quel [[Time|tempo]] uomini come Shaftesbury e Halifax non
 fingevano più di condividere lo zelo di uomini come Cromwell e Vane.
 Queste cose, che si staccarono dalla vecchia tradizione centrale della cultura,
-sembrarono nel loro primo capriccio precipitarsi via a vivere una vita propria.
-Ma in verità sarebbe più vicino alla [[Truth|verità]] dire che si trascinarono
-via a morire.  Le possenti cose partorite dalla convulsione
+sembrarono nella loro prima fantasia precipitarsi via a vivere la propria vita.
+Ma in verità sarebbe più vicino alla [[Truth|verità]] dire che strisciarono
+via a morire. Le poderose cose partorite dalla convulsione
 del [[Renaissance|Rinascimento]] e della [[Reformation|Riforma]] sono come enormi storpi di
-giganti feriti; sono opere che s'interrompono di colpo e restano
-colossali e incompiute.  Il Dramma elisabettiano s'interruppe di colpo.
-Il Movimento puritano s'interruppe di colpo.  Il primo viene sostituito, dopo
-un intervallo, da una [[Comedy|commedia]] straniera senza traccia della poesia autoctona.
-Il secondo esibisce ciò che un tempo era stato un Parlamento puritano
-mutarsi con stupefacente rapidità in un'oligarchia pagana.
-E come questo strano, brusco crollo accadde all'entusiasmo del [[Renaissance|Rinascimento]]
-del Cinquecento, e all'entusiasmo puritano
-del Seicento, così accadde più lentamente ma con altrettanta certezza
-a Rousseau e allo spirito romantico e popolare nel Settecento,
-e al suo ultimo grande esponente nell'Ottocento.  Il suo ultimo grande
-esponente fu Walt Whitman; ed egli pure credeva di aprire
+giganti feriti; sono opere che s'interrompono bruscamente e restano
+colossali e incomplete. Il Dramma Elisabettiano s'interruppe di colpo.
+Il Movimento Puritano s'interruppe di colpo. Il primo è rimpiazzato, dopo
+un intervallo, da una [[Comedy|commedia]] straniera senza traccia della poesia nativa.
+Il secondo mostra ciò che era stato un Parlamento Puritano
+mutarsi con stupefacente rapidità in un'oligarchia Pagana.
+E come questo bizzarro, brusco crollo accadde all'entusiasmo [[Renaissance|rinascimentale]]
+del sedicesimo secolo, e all'entusiasmo Puritano
+del diciassettesimo secolo, così accadde più lentamente ma egualmente sicuramente
+a Rousseau e al romantico spirito popolare nel diciottesimo secolo,
+e al suo ultimo grande esponente nel diciannovesimo. Il suo ultimo grande
+esponente fu Walt Whitman; ed egli pure credeva di stare aprendo
 le porte della [[democracy|democrazia]], quando in realtà le stava chiudendo.
 
 Nessuno comprende il mondo d'oggi se non comprende che
-l'intero ideale della [[democracy|democrazia]] si trova ora nello stesso diretto pericolo
-in cui si trovò l'ideale della monarchia sotto la penna di [[Milton]], o l'ideale
-dell'aristocrazia sotto la penna di Rousseau.  La [[democracy|Democrazia]] è oggi minacciata
-dalle penne più disparate, ma tutte notevolmente di un nuovo tipo;
+l'intero ideale della [[democracy|democrazia]] è ora nello stesso diretto pericolo
+in cui era l'ideale della monarchia sotto la penna di [[Milton]], o l'ideale
+dell'aristocrazia sotto la penna di Rousseau. La [[democracy|Democrazia]] è minacciata
+oggi dalle penne più diverse, ma tutte notevolmente di un nuovo tipo;
 dalla penna di Maurras in Francia alla penna di Mencken in [[America]].
-Sono forse tra i pochi che se ne rendono conto e anche se ne dolgono.
-Credo davvero che l'[[Self|auto]][[government|governo]] sia il più normale
-e il più nobile genere di [[government|governo]], quando lo si può ottenere,
-per quanto sia forse il più difficile da ottenere.  Ma d'altra parte,
+Sono forse tra i pochi che lo comprendono e anche lo rimpiangono.
+Credo davvero che l'[[Self|auto]]-[[government|governo]] sia la più normale
+e la più nobile sorta di [[government|governo]], quando puoi ottenerla,
+benché sia forse la più difficile da ottenere. Ma poi,
 io sono uno di quegli oggetti polverosi e antiquati che hanno credi
-e dogmi e convinzioni precise con ragioni precise a sostegno.
-Per quanto valga la mia [[democracy|democrazia]], se non fu mai tanto sfrenata quanto l'ottimismo
-di Whitman, resterà imperturbata dal pessimismo di Mencken.
-Ma non è in questo modo che la libera fantasia dell'età presente
-va fluttuando.  Il puro umore e la moda della [[democracy|democrazia]] stanno rapidamente passando;
-e chi desideri conservarne una qualche idea deve rinchiuderla
+e dogmi e definite credenze con definite ragioni per esse.
+Tale quale la mia [[democracy|democrazia]] è, se non fu mai così sfrenata come l'ottimismo
+di Whitman, rimarrà indisturbata dal pessimismo di Mencken.
+Ma non è questo il modo in cui la libera fantasia dell'età presente
+galleggia. Il mero umore e la moda della [[democracy|democrazia]] stanno rapidamente passando;
+e chi desidera preservarne una qualche idea deve rinchiuderla
 nello scrigno di un credo.

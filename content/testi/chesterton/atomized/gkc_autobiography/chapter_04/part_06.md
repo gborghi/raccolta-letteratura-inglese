@@ -159,10 +159,136 @@ and the answer to a good many critical questions.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_07">part 07 ›</a></div>
 </nav>
 
-Intorno a quel [[Time|tempo]] scoprii il segreto dell'amabilità in un'altra persona con una fama piuttosto fuorviante di acredine. Il signor Max Beerbohm mi invitò a pranzo; e da allora ho sempre saputo che egli è lui stesso il più sottile dei suoi paradossi. Un uomo con la sua reputazione potrebbe [[Well|bene]] trovare offensiva la parola amabilità; posso soltanto spiegare a uno spirito così erudito che la metto in latino o in francese perché non oso metterla in inglese. Max recitò nella mascherata del suo [[Time|tempo]], che egli ha descritto in modo così brillante; e vestì, o sopravvestì, la parte. Il suo nome si supponeva fosse sinonimo di Impudenza; dello studente che sfoggiava la sfrontatezza di un monello di strada nell'abbigliamento di un dandy. Si supponeva che egli suonasse la propria tromba a ogni squillo di [[Self|auto]]elogio; innumerevoli storie si raccontavano sulla sfacciata placidità del suo egoismo. Come, quando non aveva scritto poco più di qualche saggio scolastico, li rilegasse sotto l'imponente titolo di «Le Opere di Max Beerbohm». Come progettasse una serie di biografie chiamata «Fratelli di Grandi Uomini»; il primo volume essendo «Herbert Beerbohm Tree». E il primo istante in cui udii la sua voce, o colsi l'espressione dei suoi occhi, seppi che tutto questo era l'esatto contrario della [[Truth|verità]]. Max era ed è un uomo notevolmente umile, per un uomo dei suoi doni e della sua epoca. Non l'ho mai conosciuto pretendere, con una sola frase o intonazione, di sapere di più o di giudicare meglio di quanto faccia; e nemmeno metà di quanto o così [[Well|bene]] quanto fa. La maggior parte degli uomini si dilata un poco nella conversazione, e ha le sue irreali vittorie e vanità; ma egli mi sembra più moderato e realistico riguardo a se stesso che a qualsiasi altra cosa. È più scettico su ogni cosa di quanto lo sia io, per temperamento; ma certamente non indulge nella bassa idolatria di credere in se stesso. Su questo punto vorrei essere un cristiano buono quanto lui. [[Hope|Spero]], per amore della sua personalità ufficiale o pubblica, che egli riuscirà a far dimenticare quest'ultimo affronto. Ma le persone che non riuscivano a vedere questo fatto, perché uno studente intelligente si godeva una goliardata intellettuale, hanno qualcosa da imparare sulla possibile combinazione di [[Humility|umiltà]] e di [[Humour|humour]].
+In quel [[Time|periodo]] scoprii il segreto dell'amabilità in un'altra
+persona con una reputazione piuttosto fuorviante di acidità.
+Il signor Max Beerbohm mi invitò a pranzo; e da allora ho sempre saputo
+che egli è esso stesso il più sottile dei suoi paradossi. Un uomo con
+la sua reputazione potrebbe [[Well|ben]] trovare offensiva la parola amabilità;
+posso solo spiegare a un arguto tanto erudito che la metto in latino
+o in francese perché non oso metterla in inglese. Max recitò nella
+mascherata del suo [[Time|tempo]], che egli ha descritto così brillantemente;
+e vestì o sopravvestì la parte. Il suo nome era ritenuto
+sinonimo di Impudenza; per lo studente universitario che esibiva
+la sfacciataggine di un monello nell'abito di un dandy. Si riteneva che
+suonasse la propria tromba a ogni svolazzo di [[Self|auto]]lode;
+si raccontavano innumerevoli storie sulla sfrontata placidità del suo egoismo.
+Come, quando aveva scritto a stento poco più di qualche saggio scolastico,
+li rilegasse sotto il maestoso titolo di «Le Opere di Max Beerbohm».
+Come progettasse una serie di biografie chiamata «Fratelli di Grandi Uomini»;
+il primo volume essendo «Herbert Beerbohm Tree». E il primo momento
+in cui udii la sua voce, o scorsi l'espressione dei suoi occhi,
+seppi che tutto questo era il piatto contrario della [[Truth|Verità]]. Max era ed
+è un uomo notevolmente umile, per un uomo dei suoi doni e del suo periodo.
+Non l'ho mai conosciuto, con una sola frase o intonazione, pretendere di sapere
+di più o giudicare meglio di quanto faccia; o in verità neppure la metà o tanto [[Well|bene]]
+quanto fa. La maggior parte degli uomini si spande un poco in conversazione,
+e ha le sue irreali vittorie e vanità; ma egli mi pare
+più moderato e realistico su se stesso che su qualsiasi altra cosa.
+È più scettico su tutto di me, per temperamento;
+ma di certo non indulge nella bassa idolatria di credere
+in se stesso. Su questo punto vorrei essere un buon cristiano quanto lui.
+[[Hope|Spero]], per il bene della sua personalità ufficiale o pubblica,
+che egli riesca a sopravvivere a quest'ultimo affronto.
+Ma le persone che non riuscivano a vedere questo fatto, perché uno studente
+universitario intelligente si godeva uno spasso intellettuale, hanno qualcosa da imparare
+sulla possibile combinazione di [[Humility|Umiltà]] e [[Humour|Umorismo]].
 
-Infine, una [[Crown|corona]] di ciò che posso soltanto chiamare rispettabilità mi venne dalla casa editrice Macmillan; nella forma di un lusinghiero invito a scrivere lo studio su Browning per la English Men of Letters Series. Esso era appena arrivato quando stavo pranzando con Max Beerbohm, ed egli mi disse in modo pensoso: «Un uomo dovrebbe scrivere su Browning finché è giovane». Nessun uomo sa di essere giovane finché è giovane. Non capii in quel [[Time|momento]] che cosa intendesse Max; ma vedo ora che aveva ragione; come generalmente ha. Comunque, non ho bisogno di dire che accettai l'invito a scrivere un libro su Browning. Non dirò che scrissi un libro su Browning; ma scrissi un libro sull'[[Love|amore]], la libertà, la poesia, le mie personali vedute su Dio e la religione (assai poco sviluppate), e varie mie teorie sull'ottimismo e il pessimismo e la [[Hope|speranza]] del mondo; un libro in cui il nome di Browning veniva introdotto di [[Time|tempo]] in [[Time|tempo]], direi quasi con considerevole arte, o per lo meno con qualche decorosa apparenza di regolarità. C'erano pochissimi fatti biografici nel libro, e quelli erano quasi tutti sbagliati. Ma c'è qualcosa di sepolto da qualche parte nel libro; benché io creda che sia piuttosto la mia fanciullezza che la [[Biography|biografia]] di Browning.
+Infine, una [[Crown|Corona]] di ciò che posso solo chiamare rispettabilità mi venne
+dalla ditta Macmillan; nella forma di un invito assai lusinghiero
+a scrivere lo studio su Browning per la English Men of Letters Series.
+Era appena arrivato quando stavo pranzando con Max Beerbohm,
+ed egli mi disse in modo pensoso: «Un uomo dovrebbe scrivere su Browning
+mentre è giovane.» Nessun uomo sa di essere giovane mentre è giovane.
+Non capii che cosa intendesse Max al [[Time|momento]]; ma vedo ora
+che aveva ragione; come in genere ha. Comunque, non ho bisogno di dire
+che accettai l'invito a scrivere un libro su Browning.
+Non dirò che scrissi un libro su Browning; ma scrissi
+un libro sull'[[Love|Amore]], sulla libertà, sulla poesia, sulle mie stesse vedute su Dio e sulla religione
+(altamente non sviluppate), e varie teorie mie sull'ottimismo
+e sul pessimismo e sulla [[Hope|Speranza]] del mondo; un libro in cui il nome
+di Browning era introdotto di [[Time|tanto]] in [[Time|tanto]], potrei quasi dire
+con considerevole arte, o quanto meno con una certa decente apparenza
+di regolarità. C'erano pochissimi fatti biografici nel libro,
+e quelli erano quasi tutti sbagliati. Ma c'è qualcosa di sepolto
+da qualche parte nel libro; benché credo sia piuttosto la mia fanciullezza
+che la [[Biography|Biografia]] di Browning.
 
-Ho seguito questa parte letteraria della mia stessa [[Biography|biografia]] in anticipo sul resto. Ma molto prima di ciò era divenuto evidente che il centro di gravità della mia esistenza si era spostato da ciò che chiameremo (per cortesia) Arte a ciò che chiameremo (per cortesia) Letteratura. L'artefice di questo mutamento di intenzione fu, in prima istanza, il mio amico Ernest Hodder Williams, in seguito il capo della [[Well|ben]] nota casa editrice. Egli seguiva lezioni di latino e di inglese all'University College mentre io seguivo, o non seguivo, le istruzioni d'arte della Slade School. Mi unii a lui nel frequentare il corso di inglese; e per questa ragione posso vantarmi tra i molti allievi che sono grati allo straordinariamente vivace e stimolante sapere del professor W. P. Ker. La maggior parte degli altri studenti studiava per gli esami; ma io non avevo nemmeno quello scopo in quel periodo senza scopo della mia vita. Il risultato fu che mi guadagnai una del tutto immeritata fama di disinteressata devozione alla cultura per se stessa; e una volta ebbi l'[[Honour|onore]] di costituire l'intero uditorio del professor Ker. Ma egli tenne una lezione tanto accurata e meditata quanto ne abbia mai udita tenere, in uno stile leggermente più colloquiale; mi rivolse alcune domande sulle mie letture; e, avendo io menzionato qualcosa dalla poesia di Pope, disse con grande soddisfazione: «Ah, vedo che siete stato [[Well|ben]] educato». Pope ebbe assai meno che giustizia da quella generazione di ammiratori di Shelley e Swinburne. Hodder Williams e io parlavamo spesso di letteratura, sulla scia di queste lezioni letterarie; ed egli si formò la fissa convinzione che io sapessi scrivere; una illusione che conservò fino al giorno della sua [[Death|morte]]. In conseguenza di ciò, e in connessione con i miei studi d'arte, mi diede alcuni libri d'arte da recensire per il Bookman, il famoso organo della sua ditta e della sua famiglia. Non ho bisogno di dire che, avendo interamente fallito nell'imparare a disegnare o a dipingere, buttai giù abbastanza facilmente qualche critica sui punti deboli di Rubens o sui talenti mal indirizzati di Tintoretto. Avevo scoperto la più facile di tutte le professioni; che ho esercitato da allora in poi.
+Ho perseguito questa parte letteraria della mia stessa [[Biography|Biografia]] in anticipo
+sul resto. Ma molto prima di questo era evidente che il centro
+di gravità della mia esistenza si era spostato da ciò che chiameremo (per amor
+di cortesia) Arte a ciò che chiameremo (per amor di cortesia)
+Letteratura. L'agente in questo mutamento d'intenzione fu,
+in prima istanza, il mio amico Ernest Hodder Williams, in seguito
+il capo della [[Well|ben]] nota casa editrice. Frequentava lezioni di latino
+e d'inglese all'University College mentre io frequentavo,
+o non frequentavo, le istruzioni d'arte della Slade School.
+Mi unii a lui nel seguire il corso d'inglese; e per questa ragione
+posso vantarmi tra i molti allievi che sono grati alla
+straordinariamente vivace e stimolante dottrina del Professor W.P. Ker.
+La maggior parte degli altri studenti studiava per gli esami;
+ma io non avevo neppure quell'obiettivo in questo periodo senza scopo della mia vita.
+Il risultato fu che guadagnai una reputazione del tutto immeritata
+di disinteressata devozione alla cultura per il suo stesso bene; e una volta
+ebbi l'[[Honour|Onore]] di costituire l'intero uditorio del Professor Ker.
+Ma egli tenne una lezione tanto accurata e ponderata quanto mai ne abbia
+udita tenere, in uno stile lievemente più colloquiale; mi pose
+alcune domande sulle mie letture; e, al mio menzionare qualcosa
+dalla poesia di Pope, disse con grande soddisfazione: «Ah, vedo
+che siete stato [[Well|ben]] educato.» Pope ebbe assai meno di giustizia
+da quella generazione di ammiratori di Shelley e Swinburne.
+Hodder Williams e io parlavamo spesso di letteratura, di seguito a
+queste lezioni letterarie; ed egli concepì la ferma nozione che io
+sapessi scrivere; una delusione che conservò fino al giorno della sua [[Death|Morte]].
+In conseguenza di ciò, e in connessione coi miei studi d'arte,
+mi diede alcuni libri sull'arte da recensire per il Bookman, il famoso
+organo della sua ditta e famiglia. Non ho bisogno di dire che, avendo interamente
+fallito nell'imparare a disegnare o dipingere, sfornai abbastanza agevolmente alcune
+critiche dei punti più deboli di Rubens o dei talenti mal diretti
+di Tintoretto. Avevo scoperto la più facile di tutte le professioni;
+che ho perseguito da allora.
 
-Quando ripenso a queste cose, e in verità alla mia vita in generale, la cosa che più mi colpisce è la mia straordinaria fortuna. Ho già perorato i meriti del Racconto Morale; ma è contro tutti i giusti principi che perfino una simile misura di buona sorte sarebbe dovuta toccare all'Apprendista Ozioso. Nel caso del mio sodalizio con Hodder Williams, era contro ogni ragione che una persona così poco portata agli affari avesse un amico così portato agli affari. Nel caso della scelta di un mestiere, era oltraggiosamente ingiusto che un uomo riuscisse a diventare giornalista semplicemente fallendo nel diventare un [[Artist|artista]]. Dico un mestiere e non una professione; poiché l'unica cosa che posso dire in mio favore, in connessione con entrambi i mestieri, è che non fui mai pomposo a loro riguardo. Se ho avuto una professione, per lo meno non sono mai stato un professore. Ma in un altro senso c'era, intorno a questi primi stadi, un elemento di fortuna, e perfino di accidente. Voglio dire che la mia mente rimase assai astratta e quasi stordita; e queste opportunità erano semplicemente cose che mi accadevano, quasi come calamità. Dire che non ero ambizioso lo fa suonare fin troppo simile a una virtù, quando in realtà era un difetto non molto disonorevole; era quella curiosa cecità della giovinezza che possiamo osservare negli altri e tuttavia non spiegare mai in noi stessi. Ma, soprattutto, lo menziono qui anche perché era connesso con la continuità di quel [[Riddle|enigma]] irrisolto della mente, che ho menzionato all'inizio di questo capitolo. La ragione essenziale era che i miei occhi erano rivolti all'interno piuttosto che all'esterno; conferendo alla mia personalità morale, immagino, uno strabismo assai poco attraente. Ero ancora oppresso dall'[[nightmare|incubo]] metafisico delle negazioni intorno alla mente e alla materia, dalla morbosa immaginazione del male, dal peso del mio stesso misterioso cervello e [[Body|corpo]]; ma a quel [[Time|tempo]] ero in rivolta contro di essi; e cercavo di costruire una più sana concezione della vita cosmica, anche se fosse stata una che peccasse dal lato della salute. Chiamai perfino me stesso ottimista, perché ero così orribilmente vicino a essere un pessimista. È l'unica scusa che posso offrire. Tutta questa parte del processo fu in seguito riversata nella informissima forma di un pezzo di narrativa intitolato The Man Who Was [[thursday|Thursday]]. Il titolo attirò una certa attenzione in quel [[Time|tempo]]; e ci furono molte facezie giornalistiche a suo riguardo. Alcuni, alludendo alle mie presunte vedute festaiole, fingevano di scambiarlo per «The Man Who Was Thirsty» — l'Uomo che aveva Sete. Altri supponevano naturalmente che l'Uomo [[thursday|Giovedì]] fosse il fratello nero dell'Uomo Venerdì. Altri ancora, con maggiore penetrazione, lo trattavano come un mero titolo del mondo alla rovescia; come se fosse stato «La Donna che era le Otto e Mezza», o «La Mucca che era Domani Sera». Ma ciò che mi interessa a suo riguardo era questo; che quasi nessuno che guardasse il titolo sembra mai aver guardato il sottotitolo; che era «Un [[nightmare|Incubo]]», e la risposta a un buon numero di domande critiche.
+Quando ripenso a queste cose, e in verità alla mia vita in generale,
+la cosa che mi colpisce di più è la mia straordinaria fortuna.
+Ho già perorato i meriti del Racconto Morale;
+ma è contro tutti i giusti princìpi che perfino una tale
+misura di buona sorte sia toccata all'Apprendista Sfaticato. Nel
+caso della mia associazione con Hodder Williams, era
+contro ogni ragione che una persona così poco pratica negli affari avesse
+un amico così pratico negli affari. Nel caso della scelta di un mestiere,
+era oltraggiosamente ingiusto che un uomo riuscisse a divenire
+giornalista solo per non essere riuscito a divenire [[Artist|Artista]]. Dico un mestiere
+e non una professione; poiché l'unica cosa che posso dire per me stesso,
+in connessione con entrambi i mestieri, è che non fui mai pomposo su di essi.
+Se ho avuto una professione, almeno non sono mai stato un professore.
+Ma in un altro senso c'era intorno a questi primi stadi un elemento
+di fortuna, e persino di accidente. Intendo che la mia mente rimase
+assai distratta e quasi stordita; e queste opportunità
+erano semplicemente cose che mi accadevano, quasi come calamità.
+Dire che non ero ambizioso lo fa suonare fin troppo simile a una virtù,
+quando era in realtà un difetto non molto disonorevole; era quella curiosa
+cecità della giovinezza che possiamo osservare negli altri eppure mai spiegare
+in noi stessi. Ma, soprattutto, lo menziono qui anche perché
+era connesso con la continuità di quell'irrisolto [[Riddle|Enigma]]
+della mente, che menzionai all'inizio di questo capitolo.
+La ragione essenziale era che i miei occhi erano rivolti all'interno piuttosto
+che all'esterno; conferendo alla mia personalità morale, immagino,
+uno strabismo assai poco attraente. Ero ancora oppresso dall'
+[[nightmare|incubo]] metafisico di negazioni sulla mente e sulla materia,
+dalla morbosa immaginifica del male, dal fardello del mio stesso misterioso
+cervello e [[Body|Corpo]]; ma a questo [[Time|punto]] ero in rivolta contro di essi;
+e cercavo di costruire una più sana concezione della vita cosmica,
+anche se fosse una che dovesse errare dal lato della salute.
+Mi chiamavo persino ottimista, perché ero così orribilmente
+vicino a essere pessimista. È l'unica scusa che posso offrire.
+Tutta questa parte del processo fu in seguito gettata nella assai informe
+forma di un pezzo di narrativa chiamato The Man Who Was [[thursday|Thursday]]. Il titolo
+attirò una certa attenzione al [[Time|momento]]; e vi furono molti scherzi
+giornalistici al riguardo. Alcuni, riferendosi alle mie presunte vedute festose,
+finsero di scambiarlo per «The Man Who Was Thirsty» [L'uomo che aveva sete].
+Altri naturalmente supposero che l'Uomo [[thursday|Giovedì]] fosse il fratello nero dell'Uomo Venerdì.
+Altri ancora, con più penetrazione, lo trattarono come un mero titolo
+da mondo alla rovescia; come se fosse stato «La Donna che Era Le Otto e Mezzo»,
+o «La Mucca che Era Domani Sera». Ma ciò che mi interessa
+al riguardo era questo; che quasi nessuno che guardasse il titolo pareva mai
+aver guardato il sottotitolo; che era «Un [[nightmare|Incubo]]»,
+e la risposta a parecchie questioni critiche.

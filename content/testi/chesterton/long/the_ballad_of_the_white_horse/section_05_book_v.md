@@ -334,303 +334,303 @@ LIBRO V
 ETHANDUNE: IL PRIMO  
 COLPO  
 
-E GUTHRUM era un tremendo [[King|re]],  
-       come [[Death|morte]] giunta dal nord;  
-     santuari senza nome e senza numero  
+RE GUTHRUM era un [[King|re]] tremendo,  
+       come [[Death|morte]] venuta dal nord;  
+     santuari senza nome né numero  
      squarciò e rotolò come legname,  
-     da Chester fino all’Humber [5]  
-       cacciò innanzi i suoi nemici.  
-     Le ville romane l’udirono  
+     da Chester fino allo Humber [5]  
+       cacciò innanzi a sé i nemici.  
+     Le ville romane l'udirono  
        nella valle del Tamigi,  
-     venire sui colli ruggendo  
-     sopra i loro tetti, e versare [10]  
-     su guglia e scala e pavimento  
+     venire oltre i colli ruggendo  
+     sopra i loro tetti, e versando [10]  
+     su guglia e scala e impiantito  
        zolfo e pece e fiamme.  
-     Dritto sui grandi altipiani di [[chalk|creta]]  
+     Dritto sui grandi altipiani di [[chalk|gesso]]  
        e sul [[Hill|colle]] del [[Horse|Cavallo]] passò,  
      finché alto sui fari dello Hampshire [15]  
        vide il mare del sud.  
      Alto sulle alture del Wessex  
-       vide la salsedine australe,  
+       vide la salsedine del sud,  
      e si volse a una terra conquistata,  
      e dove stanno i roveti del nord, [20]  
-     e la [[Road|strada]] si parte in due bracci,  
-       gli venne incontro un segno.  
-     Il [[King|re]] Guthrum era un capo di guerra,  
+     e la [[Road|strada]] si parte da due lati,  
+       là gli venne un segno.  
+     [[King|Re]] Guthrum era un capo di guerra,  
        un uomo saggio sul campo,  
      e benché prosperasse [[Well|bene]], e sapesse [25]  
-     quanto tristi e pochi eran quelli d’Alfred,  
-     non meno con grave cura tracciò  
-       lunghe file per picca e scudo.  
-     Il [[King|re]] Guthrum stava sull’alta terra,  
-       vigile su un’unica [[Road|strada]], [30]  
-     e il nemico doveva venire in magra schiera,  
-     su per il braccio manco della via biforcata,  
-       fino all’incontro delle vie.  
-     E assai prima del fragore d’armi,  
-       un’ora avanti il rompere della luce, [35]  
+     quanto tristi e pochi fossero gli uomini di Alfredo,  
+     non di meno con grave cura tracciò  
+       lunghe linee per picca e scudo.  
+     [[King|Re]] Guthrum stava sull'alta terra,  
+       in guardia su un'unica [[Road|strada]], [30]  
+     e il nemico doveva salire in magre file,  
+     su per il braccio sinistro della via biforcata,  
+       fino all'incontro delle vie.  
+     E assai prima del fragore delle armi,  
+       un'ora prima che spuntasse la luce, [35]  
      i boschi si destarono in schianto e grido,  
      e gli [[Birds|uccelli]] balzarono stridendo aspri e alti,  
-     e i conigli corsero come un esercito d’elfi  
-       prima che Alfred fosse in vista.  
+     e i conigli corsero come un esercito di elfi  
+       prima che Alfredo apparisse.  
      Il bosco vivo venne su Guthrum, [40]  
-       con zampa e artiglio e ala,  
+       con piede e artiglio e ala,  
      i nidi rumoreggiavano in alto,  
-     per Alfred e la stella rossa,  
+     per Alfredo e la stella rossa  
      ogni vita uscì, e la foresta fuggì  
        davanti al volto del [[King|Re]]. [45]  
      Ma fermi nei sentieri del bosco  
-       i pochi di [[Christ|Cristo]] eran torvi e grigi,  
-     e ognuno con vista piccola, lontana, d’uccello  
-     vide l’alta follia della battaglia;  
+       i pochi di [[Christ|Cristo]] erano torvi e grigi,  
+     e ognuno con vista piccola, lontana, d'uccello  
+     vide l'alta follia della battaglia;  
      e benché strane gioie fossero cresciute nella [[Night|notte]], [50]  
        la [[Despair|disperazione]] crebbe col giorno.  
      E quando la bianca [[Dawn|alba]] strisciò per il bosco,  
        come fredda schiuma di piena,  
-     si fiaccò l’animo d’ogni guerriero,  
-     nella [[Hope|speranza]], non nell’ardimento; [55]  
-     e ogni uomo si dolse là dov’era  
-       alla maniera del suo [[Blood|sangue]].  
-     Ché il libero colono sassone pianse  
-       le cose che furono belle,  
-     le care donne morte, vestite di cremisi, [60]  
-     e i gran banchetti e gli amici che ebbe;  
-     ma l’[[Soul|anima]] del principe celta era triste  
-       per le cose che mai non furono.  
+     allora s'indebolì l'animo d'ogni guerriero,  
+     nella [[Hope|speranza]], non però nell'ardire; [55]  
+     e ogni uomo si dolse, così come stava,  
+       secondo il modo del suo [[Blood|sangue]].  
+     Ché il franklin sassone si doleva  
+       per le cose che erano state belle,  
+     per le care donne morte, vestite di cremisi, [60]  
+     e le gran feste e gli amici che aveva;  
+     ma l'[[Soul|anima]] del principe celtico era triste  
+       per le cose che non furono mai.  
      Negli occhi italiani ogni cosa  
-       morì, fuorché un riso nero; [65]  
-     e Alfred gettò a terra lo scudo  
-       e si batté il petto e gridò—  
-     “Feci torto a un uomo fino alla sua morte,  
+       morì, fuor che un riso nero; [65]  
+     e Alfredo gettò a terra lo scudo  
+       e si percosse il petto e gridò—  
+     «Feci torto a un uomo fino a ucciderlo,  
        e a una donna fino alla vergogna,  
-     e una volta posai gli occhi su una vergine votata [70]  
-       ch’era sposa al Santo Nome.  
-     “E una volta presi la moglie del vicino,  
-       legata a un uomo d’oriente,  
+     e una volta posai gli occhi su una vergine giurata [70]  
+       ch'era sposa del santo Nome.  
+     «E una volta presi la moglie del vicino,  
+       legata a un uomo d'oriente,  
      nella crudezza della mia giovinezza malvagia,  
-       prima che iniziassero i miei dolori. [75]  
-     “Gente, se avete preghiere,  
+       prima che i miei dolori cominciassero. [75]  
+     «Gente, se avete preghiere,  
        dite preghiere per me:  
      e deponetemi sotto una pietra cristiana  
-     in quella terra perduta che credetti mia,  
-     ad attendere che suoni il santo corno, [80]  
-       e ogni povero sia libero.”  
-     Poi Eldred della pigra fattoria  
-       s’appoggiò alla sua antica [[Sword|spada]],  
-     mentre cadevan le sue parole gravi e poche;  
-     e i suoi occhi eran d’un azzurro così alieno [85]  
-     qual riluce dove l’uomo del Nord veleggia nuovo  
-       dentro un fiordo sconosciuto.  
-     “Fui un [[Fool|folle]] e sprecai la birra—  
-       i miei servi la trovaron dolce;  
-     fui un [[Fool|folle]] e sprecai il pane, [90]  
+     in quella terra perduta che credevo mia,  
+     ad attendere che suoni il corno santo, [80]  
+       e tutti i poveri siano liberi.»  
+     Allora Eldred della fattoria oziosa  
+       si appoggiò alla sua antica [[Sword|spada]],  
+     mentre cadevano le sue parole gravi e poche;  
+     e i suoi occhi erano d'un azzurro così straniero [85]  
+     quale brilla dove l'uomo del Nord veleggia nuovo  
+       in un fiordo sconosciuto.  
+     «Fui uno [[Fool|stolto]] e sprecai la birra—  
+       i miei servi la trovarono dolce;  
+     fui uno [[Fool|stolto]] e sprecai il pane, [90]  
        e gli [[Birds|uccelli]] ebbero pane da mangiare.  
-     “I re salgono e i re scendono,  
+     «I re salgono e i re scendono,  
      e chi sa chi regnerà;  
      la prossima [[Night|notte]] un [[King|re]] può patir fame o [[Sleep|dormire]],  
      ma uomini e [[Birds|uccelli]] e bestie piangeranno [95]  
-       al funerale d’un [[Fool|folle]].  
-     “O ubriaconi nella mia cantina,  
+       al funerale d'uno [[Fool|stolto]].  
+     «O ubriaconi nella mia cantina,  
        ragazzi sul mio melo,  
      il mondo si fa severo e strano e nuovo,  
      e uomini saggi vi governeranno, [100]  
        e voi piangerete per me.  
-     “Ma aggiogatemi i miei buoi,  
-       giù alla mia fattoria;  
+     «Ma aggiogatemi i miei buoi,  
+       giù verso la mia fattoria;  
      il mio cane guairà per me,  
      i miei amici piegheranno il ginocchio, [105]  
      e i nemici che uccisi apertamente  
-       non m’han mai voluto male.”  
-     E tutti furono un poco commossi,  
+       non mi hanno mai voluto male.»  
+     E tutti si commossero un poco,  
        ma Colan stava in disparte,  
-     provando prima pietà, e dopo [110]  
-     udendo, come ratto nella trave,  
+     provando dapprima pietà, e poi [110]  
+     udendo, come topo fra le travi,  
      quel piccolo verme di riso  
        che rode il cuore irlandese.  
-     E i suoi occhi grigioverdi eran crudeli,  
-       e il sorriso della bocca si fece duro, [115]  
-     e disse: “E quando mai Britannia  
-       divenne il vostro camposanto?  
-     “Prima che il Romano accendesse la terra,  
-       quando scuole e [[Monks|monaci]] non c’erano,  
-     alzammo al dio-sole tali pietre [120]  
+     E i suoi occhi grigioverdi erano crudeli,  
+       e il sorriso della sua bocca si fece duro, [115]  
+     e disse: «E quando mai la Britannia  
+       è divenuta il vostro camposanto?  
+     «Prima che il Romano accendesse la terra,  
+       quando non v'erano scuole né [[Monks|monaci]],  
+     alzammo al dio-sole pietre tali [120]  
        da poter spegnere il sole.  
-     “Gli alti alberi di Britannia  
-       adorammo, ed eravamo saggi,  
-     ma voi razzierete la terra intera  
+     «Gli alti alberi di Britannia  
+       adorammo, e fummo saggi,  
+     ma voi razzierete tutta la terra  
      e mai un albero vi parlerà, [125]  
-     benché ogni foglia sia lingua istruita al vero  
-       e la foresta sia piena d’occhi.  
-     “Su un tondo [[Hill|colle]] verso il mare  
+     benché ogni foglia sia lingua ammaestrata al vero  
+       e la foresta sia piena d'occhi.  
+     «Su un tondo [[Hill|colle]] verso il mare  
        gli alberi crescono alti e grigi  
-     e gli alberi parlano insieme [130]  
-       quando gli uomini sono lontani.  
-     “Su pochi tondi colli dimenticati  
+     e gli alberi parlano tra loro [130]  
+       quando tutti gli uomini sono lontani.  
+     «Su pochi tondi colli dimenticati  
        gli alberi crescono alti in cerchi,  
-     e gli alberi parlano insieme  
+     e gli alberi parlano tra loro  
        di molte cose pagane. [135]  
-     “Pure potrei giacere e ascoltare  
-       con una [[Cross|croce]] sulla mia argilla,  
+     «Eppure potrei giacere e ascoltare  
+       con una [[Cross|croce]] sopra la mia creta,  
      e udire illeso per sempre  
-       ciò che dicono gli alberi di Britannia.”  
-     Uomo fiero era il Romano, [140]  
-       il suo dire uno solo,  
-     ma i suoi occhi eran occhi d’aquila  
-       che fissa dritta il sole.  
-     “Scavate per me dove muoio,” disse,  
-       “se primo o ultimo io cada— [145]  
-     morto sul monte alla prima carica,  
+       ciò che dicono gli alberi di Britannia.»  
+     Un uomo fiero era il Romano, [140]  
+       il suo discorso uno solo,  
+     ma i suoi occhi erano come occhi d'aquila  
+       che sta fissando il sole.  
+     «Scavate per me dove morrò», disse,  
+       «ch'io cada per primo o per ultimo— [145]  
+     morto sul colle alla prima carica,  
        o morto sotto il muro di Wantage;  
-     “non alzate il mio capo dal suolo insanguinato,  
+     «non levate il mio capo dal suolo insanguinato,  
        non portate il mio [[Body|corpo]] a [[Home|casa]],  
      ché tutta la terra è terra romana [150]  
-       e io morirò in Roma.”  
-     Allora Alfred, [[King|Re]] d’Inghilterra,  
+       e io morirò a Roma.»  
+     Allora Alfredo, [[King|Re]] d'Inghilterra,  
        fece suonare i corni di guerra,  
-     e gettare al vento il Drago d’Oro,  
-     con crepitio e acclamo e grido, [155]  
-       tutto volute e fiamma e lontananza.  
-     E sotto il Drago d’Oro  
-       andò il Wessex tutto quanto,  
+     e gettare al vento il Drago d'Oro,  
+     tra crepitio e acclamazione e grido, [155]  
+       a volute, fiammeggiante e lontano.  
+     E sotto il Drago d'Oro  
+       andò il Wessex tutto intero,  
      oltre la punta acuta delle vie biforcate,  
-     fuori dal bosco nero nella vampa [160]  
+     fuori dal bosco nero dentro la vampa [160]  
        di sole e acciaio e [[Song|canto]].  
-     E quando giunsero alla terra aperta  
-       ruotarono, si spiegarono, e stettero;  
-     nel mezzo eran Marcus e il [[King|Re]],  
-     ed Eldred all’ala destra, [165]  
-     e a sinistra Colan oscuro,  
-       nell’ultima ombra del bosco.  
+     E quando giunsero al campo aperto  
+       ruotarono, si schierarono, e stettero;  
+     nel mezzo erano Marco e il [[King|Re]],  
+     ed Eldred sull'ala destra, [165]  
+     e a sinistra Colan, fosco,  
+       nell'ultima ombra del bosco.  
      Ma i Conti della Grande Armata  
-       giacevan come lunga mezza [[Moon|luna]],  
-     dieci pertiche avanti alle palizzate, [170]  
-     con elmi d’ampie ali e lame runiche,  
-     rossi giganti d’un’età di razzie,  
-       nella terra di spini di Ethandune.  
-     Nel mezzo le selle [[Rose|s’alzavano]] e ondeggiavano,  
+       giacevano come una lunga mezza [[Moon|luna]],  
+     dieci pertiche innanzi alle palizzate, [170]  
+     con elmi dalle ampie ali e lame runiche,  
+     rossi giganti d'un'età di razzie,  
+       nella terra di rovi di Ethandune.  
+     Nel mezzo le selle [[Rose|si levavano]] e ondeggiavano,  
        e un fremito di criniere, [175]  
      dove Guthrum e pochi cavalcavano alti  
      su cavalli presi in vittoria;  
-     ma Ogier andava a piedi a morire,  
-       all’antica maniera dei Danesi.  
-     Lungi alla destra del [[King|Re]] Elf il bardo [180]  
-       guidava l’ala d’occidente  
+     ma Ogier andò a piedi a morire,  
+       alla vecchia maniera dei Danesi.  
+     Lontano alla destra del [[King|Re]] Elf il bardo [180]  
+       guidava l'ala d'occidente  
      con [[songs|canti]] e incanti che mutano il [[Blood|sangue]];  
      e alla sinistra del [[King|Re]] stava Harold,  
        il congiunto del [[King|Re]].  
      Il giovane Harold, rozzo, dai colori gai, [185]  
-       fumante d’olio e di muschio,  
-     e della piacevole violenza dei giovani,  
-     si spinse tra la sua gente, dando voce  
+       fumante d'olio e di muschio,  
+     e con la piacevole violenza dei giovani,  
+     si spinse tra la sua gente, levando la voce  
      verso il nemico, dove, grigi come ragnatele, pendevano  
-       i vessilli dell’Usk. [190]  
+       gli stendardi dell'Usk. [190]  
      Ma come venne davanti alla sua linea  
        per un piccolo tratto,  
-     il viso imberbe gli si ruppe in riso,  
-     e gridò: “Che rotti pezzi di terra  
-     son questi? Per quanto valgono i lor panni [195]  
-       li venderei per una [[Song|canzone]].”  
+     il viso imberbe gli si aprì al riso,  
+     e gridò: «Che rotti pezzi di terra  
+     son questi? Per quel che valgono i panni [195]  
+       li venderei per una [[Song|canzone]].»  
      Ché Colan era vestito di panni  
-       stracciati come [[Leaves|foglie]] d’[[Autumn|autunno]],  
-     e i suoi uomini eran magri come santi,  
+       laceri come [[Leaves|foglie]] d'[[Autumn|autunno]],  
+     e i suoi uomini eran tutti magri come santi,  
        e tutti poveri come ladri. [200]  
-     Né archi né fionde né quadrelli portavano,  
+     Non portavano archi né fionde né quadrelli,  
        ma roncole e picche mal fatte;  
      e nessuno fuorché Colan portava una [[Sword|spada]],  
-       e rugginosa n’era la lama.  
+       e arrugginita era la sua lama.  
      E gli occhi di Colan di mistero [205]  
        e di ferreo riso fremettero,  
      e parlò ad alta voce, ma lieve,  
-       senza sforzarsi d’esser udito.  
-     “Oh, davvero siamo cuori spezzati,  
-       per questo, si dice, [210]  
-     accendiamo candele a quel Signore  
-       che Si spezzò come pane.  
-     “Ma benché teniamo con amarezza  
+       senza sforzarsi d'esser udito.  
+     «Oh, davvero siamo cuori spezzati,  
+       per questa causa, si dice, [210]  
+     accendiamo le nostre candele a quel Signore  
+       che spezzò Se stesso per farsi pane.  
+     «Ma benché teniamo solo amaramente  
        la terra che il Sassone [[Leaves|lascia]],  
-     benché l’Irlanda sia sol terra di santi, [215]  
+     benché l'Irlanda non sia che terra di santi, [215]  
        e il Galles terra di ladri,  
-     “io dico che vi stancherete ancora  
-       dell’opera della vostra parola,  
-     che spiriti percossi mai non percuotono,  
+     «io dico che ancora vi stancherete  
+       dell'opera della vostra parola,  
+     ché spiriti percossi non percuotono mai,  
        né magre mani reggono una [[Sword|spada]]. [220]  
-     “E se mai cavalcherete in Irlanda,  
-       la beffa potrà ancora dirsi:  
-     ecco la terra dei cuori spezzati,  
-       e la terra delle teste spezzate.”  
-     Non meno barbaro riso [225]  
-       soffocò Harold come una piena,  
-     “E dovrò battermi con spaventapasseri,  
+     «E se mai cavalcherete in Irlanda,  
+       il motto si potrà ancora dire:  
+     quella è la terra dei cuori spezzati,  
+       e la terra delle teste spezzate.»  
+     Non minore un riso barbaro [225]  
+       soffocò Harold come una piena:  
+     «E dovrò battermi con spaventapasseri,  
        io che sono del [[Blood|sangue]] di Guthrum?  
-     “Scontro può darsi fra uomini di guerra,  
-       dove vince il miglior guerriero; [230]  
-     ma tutta questa carogna un uomo la saetta  
-       prima che inizi la battaglia.”  
-     E fermando i suoi passi in avanti,  
-       afferrò un arco per scherno  
-     da un vile schiavo, e lo tese contro [235]  
-     Colan, il cui fato s’oscurò; e brillarono  
-     [[Stars|stelle]] maligne su Caerleon,  
-       nel luogo dov’egli nacque.  
+     «Incontro può esservi tra uomini di guerra,  
+       dove il miglior guerriero vince; [230]  
+     ma tutta questa carogna la si saetta  
+       prima che la battaglia cominci.»  
+     E arrestando i suoi passi in avanti,  
+       strappò con disprezzo un arco  
+     a un vile schiavo, e lo tese su [235]  
+     Colan, il cui destino s'oscurò; e brillarono  
+     [[Stars|stelle]] maligne sopra Caerleon,  
+       nel luogo dove era nato.  
      Ché Colan non aveva arco né fionda,  
-       su una [[Sword|spada]] solitaria posava, [240]  
+       su una [[Sword|spada]] solitaria si appoggiava, [240]  
      come [[Arthur|Artù]] su Excalibur  
        nella battaglia in riva al mare.  
-     Al suo grande orecchino d’oro Harold  
+     Fino al suo grande orecchino d'oro Harold  
        trasse indietro la coda impennata,  
      e rapida sarebbe scattata la freccia, [245]  
-       ma più rapido scattò il Gaelo.  
-     Roteando l’unica [[Sword|spada]] sopra il capo,  
-       gran [[Wheel|ruota]] nel sole,  
-     la scagliò splendida pel cielo,  
-     volante prima che il dardo volasse— [250]  
-     colpì il conte Harold sopra l’occhio,  
-       e il [[Blood|sangue]] prese a scorrere.  
-     Colan restò nudo e senz’armi,  
+       ma più rapido scattò il Gaelico.  
+     Roteando l'unica [[Sword|spada]] sopra il capo,  
+       grande [[Wheel|ruota]] nel sole,  
+     la mandò splendida per il cielo,  
+     in volo prima che il dardo potesse volare— [250]  
+     colpì il conte Harold sopra l'occhio,  
+       e il [[Blood|sangue]] cominciò a scorrere.  
+     Colan stava nudo e senz'armi,  
        il conte Harold, come in [[Pain|pena]],  
      tentò un sorriso, portò la mano al capo, [255]  
-     barcollò e d’improvviso cadde morto;  
-     e le piccole margherite bianche si fecero rosse  
-       del [[Blood|sangue]] del suo cervello.  
-     E tutti, a quel prodigio della [[Sword|spada]]  
-       lanciata come pietra a uccidere, [260]  
-     gridarono. Disse Alfred: “Chi vuol vedere  
+     vacillò e d'improvviso cadde morto;  
+     e le piccole margherite bianche si fecero tutte rosse  
+       del [[Blood|sangue]] uscito dal suo cervello.  
+     E tutti, a quel prodigio della [[Sword|spada]],  
+       scagliata come pietra per uccidere, [260]  
+     gridarono. Disse Alfredo: «Chi vuol vedere  
      segni, deve dare ogni cosa. In verità  
-     l’uomo non gusterà vittoria  
-       finché non getta via la sua [[Sword|spada]].”  
-     Allora Alfred, principe d’Inghilterra, [265]  
+     l'uomo non gusterà vittoria  
+       finché non getti via la sua [[Sword|spada]].»  
+     Allora Alfredo, principe d'Inghilterra, [265]  
        e tutti i conti cristiani,  
-     sganciarono le spade e le levarono alte,  
-     ognuna offerta a Colan, come una coppa  
+     sganciarono le spade e le levarono in alto,  
+     ciascuna offerta a Colan, come una coppa  
        di crisolito e di perle.  
-     E il [[King|Re]] disse: “Prendi tu la mia [[Sword|spada]] [270]  
-       tu che hai compiuto quest’atto di [[Fire|fuoco]],  
-     ché questa è la maniera dei cristiani,  
-     siano d’acciaio o di penna sacerdotale,  
-     gettare il cuore oltre il proprio sguardo  
-       per avere il [[Desire|desiderio]] del cuore. [275]  
-     “E sia che giuriate un alveare di [[Monks|monaci]],  
-       o una bella sposa ad amico,  
-     questa è la maniera dei cristiani,  
-       che il giuramento regga fino alla fine.  
-     “Ché l’[[Love|Amore]], nostro Signore, alla fine del mondo, [280]  
+     E il [[King|Re]] disse: «Prendi tu la mia [[Sword|spada]] [270]  
+       tu che hai compiuto quest'atto di [[Fire|fuoco]],  
+     ché questo è il costume degli uomini cristiani,  
+     siano essi d'acciaio o di penna sacerdotale:  
+     gettano i loro cuori fuori dal loro sguardo  
+       per avere il [[Desire|desiderio]] del loro cuore. [275]  
+     «E che giuriate un alveare di [[Monks|monaci]],  
+       o una sola bella sposa ad amica,  
+     questo è il costume degli uomini cristiani:  
+       il loro giuramento regge fino alla fine.  
+     «Ché l'[[Love|Amore]], nostro Signore, alla fine del mondo, [280]  
        siede un rosso [[Horse|cavallo]] come un trono,  
      con elmo di bronzo e arco di ferro,  
-       ma una freccia [[Alone|sola]].  
-     “L’[[Love|Amore]] con lo scudo del Cuore Spezzato  
-       sempre il suo arco tende, [285]  
+       ma una freccia [[Alone|soltanto]].  
+     «L'[[Love|Amore]] con lo scudo del Cuore Spezzato  
+       sempre tende il suo arco, [285]  
      con un solo dardo per un solo premio,  
-     e l’ultimo quadrello che si stacca e vola  
+     e l'ultimo strale che parte e vola  
      viene con un tuono di cieli squarciati,  
-       e un suono d’anime che si lacerano.  
-     “Così guadagnerete una [[Sword|spada]] di [[King|re]], [290]  
-       voi che la vostra [[Sword|spada]] gettaste via.”  
-     E il [[King|Re]] prese, con occhio a caso,  
-     una rozza ascia da un servo lì presso  
+       e un suono d'anime che si lacerano.  
+     «Così guadagnerai la [[Sword|spada]] d'un [[King|re]], [290]  
+       tu che la tua [[Sword|spada]] hai gettato via.»  
+     E il [[King|Re]] prese, con occhio distratto,  
+     una rozza ascia da un contadino lì presso  
        e si volse alla mischia.  
      Ché le spade dei Conti di Daneland [295]  
-       fiammeggiarono attorno al signore caduto.  
-     Il primo [[Blood|sangue]] destò il canto di tromba,  
+       fiammeggiarono intorno al signore caduto.  
+     Il primo [[Blood|sangue]] destò il canto delle trombe,  
      come in rima di monaco o runa di mago  
      comincia la Battaglia di Ethandune  
        col lancio della [[Sword|spada]]. [300]  

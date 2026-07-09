@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_04">part 04 ›</a></div>
@@ -145,3 +147,144 @@ off a hoarding and... er... cut yourself... and..."
 "To tell you that, Senor," answered the other, with a certain
 sad [[Pride|pride]], "involves merely telling you who I am.  I am Juan
 del Fuego, President of Nicaragua."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">Chapter 02</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_04">part 04 ›</a></div>
+</nav>
+
+La magnificenza con cui il signore vestito di verde camminava giù per
+il centro della [[Road|strada]] sarebbe qualcosa di difficile da esprimere
+in linguaggio umano. Poiché era una radicata semplicità e arroganza,
+qualcosa nel mero portamento della testa e del [[Body|corpo]], che faceva sì che i comuni
+moderni nella strada lo fissassero mentre passava; ma aveva relativamente poco
+a che fare con effettivi gesti o espressioni consapevoli. In fatto
+di questi movimenti meramente temporanei, l'uomo pareva piuttosto
+preoccupato e curioso, ma era curioso con la curiosità
+di un despota e preoccupato come per le responsabilità di un dio.
+Gli uomini che oziavano e si stupivano dietro di lui lo seguivano in parte
+con uno stupore per la sua brillante uniforme, vale a dire,
+in parte a causa di quell'istinto che ci fa tutti seguire chi
+ha l'aria di un pazzo, ma assai più a causa di quell'istinto che
+fa sì che tutti gli uomini seguano (e adorino) chiunque scelga di comportarsi
+come un [[King|re]]. Egli possedeva in modo così [[Sublime|sublime]] quella gran qualità
+della regalità... una quasi imbecille inconsapevolezza di chiunque,
+che la gente gli andava dietro come si fa dietro ai re... per vedere
+quale sarebbe stata la prima cosa o persona a cui avrebbe prestato attenzione.
+E per tutto il [[Time|tempo]], come abbiamo detto, a dispetto del suo quieto splendore,
+c'era in lui un'aria come se stesse cercando qualcuno;
+un'espressione di ricerca.
+
+Improvvisamente quell'espressione di ricerca svanì, nessuno poteva
+dire perché, e fu sostituita da un'espressione di contentezza.
+Tra l'attenzione rapita della folla di sfaccendati, il magnifico signore
+verde deviò dal suo corso diretto giù per il centro
+della [[Road|strada]] e camminò verso un lato di essa. Si fermò di fronte
+a un grande manifesto della Senape Colman eretto su una palizzata di legno.
+I suoi spettatori quasi trattennero il fiato.
+
+Trasse da una piccola tasca della sua uniforme un piccolo temperino;
+con esso fece un taglio nella carta tesa. Completando il resto
+dell'operazione con le dita, strappò una striscia o brandello
+di carta, giallo di colore e del tutto irregolare nei contorni.
+Poi per la prima [[Time|volta]] il grande essere si rivolse ai suoi adoranti spettatori:
+
+"Qualcuno di voi," disse, con un gradevole accento straniero,
+"può prestarmi uno spillo?"
+
+Il signor Lambert, che si dava il caso fosse il più vicino, e che portava innumerevoli
+spilli allo scopo di attaccare innumerevoli fiori all'occhiello,
+gliene prestò uno, che fu ricevuto con inchini stravaganti ma dignitosi,
+e iperboli di ringraziamento.
+
+Il signore in verde, quindi, con ogni apparenza di essere
+gratificato, e persino gonfio di orgoglio, appuntò il pezzo di carta gialla
+alle guarnizioni di seta verde e trina d'argento del suo petto.
+Poi volse di nuovo gli occhi all'intorno, cercando e insoddisfatto.
+
+"C'è altro che posso fare, signore?" chiese Lambert, con l'assurda
+cortesia dell'inglese quando una volta è imbarazzato.
+
+"Rosso," disse lo straniero, vagamente, "rosso."
+
+"Chiedo scusa?"
+
+"Chiedo scusa anch'io, Senor," disse lo straniero, inchinandosi. "Mi stavo
+chiedendo se qualcuno di voi avesse addosso del rosso."
+
+"Del rosso addosso a noi?... [[Well|Beh]], davvero... no, non credo di averne... una volta
+portavo un fazzoletto rosso a pois, ma..."
+
+"Barker," chiese [[Auberon Quin]], improvvisamente, "dov'è il tuo cacatua rosso?
+Dov'è il tuo cacatua rosso?"
+
+"Che cosa vuoi dire?" chiese Barker, disperatamente. "Che cacatua?
+Non mi hai mai visto con nessun cacatua."
+
+"Lo so," disse Auberon, vagamente rabbonito. "Dov'è stato
+per tutto il [[Time|tempo]]?"
+
+Barker si voltò di scatto, non senza risentimento.
+
+"Mi dispiace, signore," disse, brevemente ma cortesemente, "nessuno di noi pare
+avere qualcosa di rosso da prestarle. Ma perché, se è lecito chiedere..."
+
+"La ringrazio, Senor, non è nulla. Posso, dal momento che non c'è altro,
+soddisfare da me le mie esigenze."
+
+E rimanendo un secondo in pensiero con il temperino in mano,
+si pugnalò il palmo sinistro. Il [[Blood|sangue]] cadde con un fiotto così pieno
+che colpì i selci senza gocciolare. Lo straniero tirò
+fuori il fazzoletto e ne strappò un pezzo con i denti.
+Il brandello si intrise all'istante di scarlatto.
+
+"Poiché lei è così generoso, Senor," disse, "un altro spillo, forse."
+
+Lambert ne porse uno, con gli occhi sporgenti come quelli di una rana.
+
+Il lino rosso fu appuntato accanto alla carta gialla, e lo straniero
+si tolse il cappello.
+
+"Devo ringraziarvi tutti, signori," disse; e avvolgendo
+il rimanente del fazzoletto intorno alla mano sanguinante,
+riprese il suo cammino con una maestà travolgente.
+
+Mentre tutti gli altri si fermavano, in un certo scompiglio, il piccolo signor [[Auberon Quin]]
+corse dietro allo straniero e lo fermò, con il cappello in mano.
+Con considerevole stupore di tutti, gli si rivolse
+nel più puro spagnolo:
+
+"Senor," disse in quella lingua, "perdoni un'ospitalità,
+forse indiscreta, verso uno che sembra essere un ospite illustre,
+ma solitario, a [[London|Londra]]. Vorrà fare a me e ai miei amici,
+con cui ha scambiato qualche parola, l'[[Honour|onore]] di pranzare
+con noi nell'attiguo ristorante?"
+
+L'uomo nell'uniforme verde era diventato di un ardente colore di piacere
+al mero suono della propria lingua, e accettò l'invito
+con quella profusione di inchini che così spesso mostra, nel caso
+delle razze meridionali, la falsità dell'idea che la cerimonia
+non abbia nulla a che fare con il sentimento.
+
+"Senor," disse, "la sua lingua è la mia; ma tutto il mio [[Love|amore]] per il mio
+popolo non mi indurrà a negare al suo il possesso di un anfitrione così
+cavalleresco. Mi permetta di dire che la lingua è spagnola
+ma il cuore inglese." E passò con gli altri da Cicconani.
+
+"Ora, forse," disse Barker, davanti al pesce e allo sherry, intensamente cortese,
+ma bruciante di curiosità, "forse sarebbe scortese da parte mia chiedere
+perché ha fatto quello?"
+
+"Fatto cosa, Senor?" chiese l'ospite, che parlava inglese piuttosto [[Well|bene]],
+sebbene in un modo indefinibilmente americano.
+
+"[[Well|Beh]]," disse l'inglese, con una certa confusione, "intendo aver strappato una striscia
+da una palizzata e... ehm... essersi tagliato... e..."
+
+"Per dirle questo, Senor," rispose l'altro, con un certo
+triste [[Pride|orgoglio]], "occorre semplicemente dirle chi sono. Sono Juan
+del Fuego, Presidente del Nicaragua."

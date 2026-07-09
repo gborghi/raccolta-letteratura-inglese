@@ -141,118 +141,118 @@ by such fame, simply because nobody else has achieved such fame.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_11_on_mr_epstein/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_42_on_dickens_and_after/part_02">part 02 ›</a></div>
 </nav>
 
-XLII.  Su Dickens e dintorni
+XLII. Su Dickens e Dopo
 
-UN nuovo lavoro sull'inesauribile tema di Charles Dickens
-è un attacco che assume la forma di un romanzo.  Questo romanzo è certamente
-un esercizio di finzione.  È semplicemente un romanzesco su Dickens;
-e chi scrive non romanza di meno per il fatto di scegliere di trasformare
-Dickens in un cattivo romantico anziché in un eroe romantico.
+UN nuovo lavoro sull'inesauribile soggetto di Charles Dickens
+è un attacco che prende la forma di un romanzo. Questo romanzo è di certo
+un esercizio di finzione. È semplicemente un romanzo su Dickens;
+e lo scrittore non è meno romanzesco per il fatto di scegliere di trasformare
+Dickens in un romantico furfante anziché in un romantico eroe.
 Se ci sia molto vantaggio in queste arbitrarie e inevitabilmente
 irresponsabili resurrezioni del vecchio romanzo storico è discutibile.
-Ma è certo che molti romanzieri ora lo fanno con molti personaggi più
-o meno moderni, e che quasi ogni romanziere potrebbe farlo
-con quasi ogni personaggio; come questo romanziere con Charles Dickens.
-Ma perché mai qualcuno debba desiderare in modo particolare di mettere tanta amarezza
-nella versione di una personalità vittoriana, con una famiglia ancora in vita a
-testimoniare l'affetto che egli davvero ispirò, non riesco a immaginarlo.
-Il punto importante da capire, tuttavia, è che è ora venuta
-di moda una nuova specie di romanzo a tesi, che sembra avere uno
-scopo puramente personale, e uno scopo piuttosto meschino e malizioso.
-Un romanziere non scrive un romanzo unicamente per smascherare il proprio
-cattivo, e uno storico non scrive certo una storia unicamente per
-sminuire un grande uomo.  Ma la nuova forma ibrida, o tipo di scrittura,
-è irresponsabile e può fare qualunque cosa.  Di conseguenza, confesso
-che il primo pensiero che mi balenò in mente in proposito fu
-il ricordo di Leigh Hunt, alias Harold Skimpole.  Un eccellente studio
+Ma è certo che molti romanzieri lo stanno ora facendo su molti più
+o meno moderni personaggi, e che quasi ogni romanziere potrebbe farlo
+su quasi ogni personaggio; come questo romanziere con Charles Dickens.
+Ma perché qualcuno debba specialmente desiderare di mettere tanta amarezza nella
+versione di una personalità vittoriana, con una famiglia ancora viva
+a testimoniare l'affetto che egli davvero ispirò, non riesco a immaginarlo.
+Il punto importante da comprendere, tuttavia, è che è ora venuto
+di moda un nuovo tipo di romanzo con uno scopo, che pare essere uno
+scopo puramente personale, e uno scopo piuttosto triviale e malizioso.
+Un romanziere non scrive un romanzo solo allo scopo di smascherare il
+proprio furfante, e uno storico difficilmente scrive una storia solo allo scopo
+di sminuire un grande uomo. Ma la nuova forma o tipo ibrido di scrittura
+è irresponsabile e può fare qualsiasi cosa. Di conseguenza, confesso
+che il primo pensiero che mi balenò in mente nella faccenda fu
+un ricordo di Leigh Hunt, alias Harold Skimpole. Un eccellente studio
 critico del signor Brimley Johnson, insieme ad altri studi del genere,
-ha condotto a qualcosa come una riabilitazione pubblica di Leigh Hunt.
-Si è fatto notare che Skimpole era del tutto incapace delle azioni
+ha condotto a qualcosa come una pubblica riabilitazione di Leigh Hunt.
+Si è fatto notare che Skimpole era del tutto incapace degli atti
 di Leigh Hunt; per esempio, incapace di sfidare i tiranni per puro
-amore di libertà e di andare in prigione per il proprio coraggio politico.
-Si è anche fatto notare che Leigh Hunt era incapace delle azioni
-di Skimpole, incapace di tradire un povero ragazzino di strada
-consegnandolo ai suoi inseguitori per una mancia di mezza corona.  È verissimo che
-Leigh Hunt era incapace delle azioni di Skimpole.  È altrettanto
+amore della libertà e di andare in prigione per il proprio coraggio politico.
+Si è anche fatto notare che Leigh Hunt era incapace degli atti
+di Skimpole, incapace di tradire un povero monello di strada
+ai suoi inseguitori per una mancia di mezza corona. È del tutto vero che
+Leigh Hunt era incapace delle azioni di Skimpole. È egualmente
 vero che Skimpole era incapace delle azioni di Skimpole.
-Persino il personaggio così come tracciato da Dickens dovette essere annerito e persino
-cancellato da Dickens, prima di poter essere usato a questi fini
-nel romanzesco dickensiano.  Dickens non aveva originariamente descritto
-Skimpole come un intrigante, o alcunché di simile a un intrigante.  Lo mise a
-intrigare unicamente per assecondare l'intreccio.  Ora, la morale di quell'episodio
+Persino il personaggio come disegnato da Dickens dovette essere annerito e persino
+cancellato da Dickens, prima che potesse essere usato per questi scopi
+nel romanzo dickensiano. Dickens non aveva originariamente descritto
+Skimpole come un cospiratore, o alcunché di somigliante a un cospiratore. Lo mise
+a cospirare solo per assistere l'intreccio. Ora la morale di quell'episodio
 è che questo composto del capriccio della finzione e della responsabilità
 della biografia è un composto impossibile e persino intollerabile.
-Dickens almeno fu più fortunato dell'ultimo critico di Dickens.
-Perché Dickens si rese conto di aver preso un abbaglio.
+Dickens almeno fu più felice del più recente critico di Dickens.
+Poiché Dickens comprese di aver commesso un abbaglio.
 
-Comunque sia, si potrebbe dire in questo senso che Leigh Hunt è vendicato.
-Qualcuno ha fatto a Dickens pressappoco ciò che Dickens fece a Leigh Hunt.
-Il procedimento è molto semplice.  Consiste nel descrivere un uomo con
-tutte le debolezze notorie che egli davvero ebbe; nell'aggiungervi arbitrariamente
-tutte le debolezze più profonde e più oscure che egli non ebbe;
-e poi nel suggerire che questo è andare più a fondo della superficie.
-Il ritratto di Dickens è giusto verso Dickens all'incirca quanto il
-ritratto di uno strisciante delatore di polizia è giusto verso Leigh Hunt.
-Ma il procedimento in sé è abbastanza facile.  Consiste semplicemente
-nel suggerire che certi difetti superficiali andavano molto più a fondo
-di quanto andassero, o molto più a fondo di quanto chiunque possa sapere che andassero.
+Comunque, si potrebbe dire in questo senso che Leigh Hunt è vendicato.
+Qualcuno ha fatto a Dickens press'a poco ciò che Dickens fece a Leigh Hunt.
+Il processo è assai semplice. Consiste nel descrivere un uomo con
+tutte le notorie debolezze che egli davvero aveva; aggiungendovi
+arbitrariamente tutte le più profonde e più oscure debolezze che egli non aveva;
+e poi suggerendo che questo sia andare più a fondo della superficie.
+Il ritratto di Dickens è all'incirca tanto giusto verso Dickens quanto il
+ritratto di uno strisciante delatore della polizia è giusto verso Leigh Hunt.
+Ma il processo in sé è abbastanza facile. Consiste semplicemente
+nel suggerire che certe superficiali colpe siano andate assai più a fondo
+di quanto andarono, o assai più a fondo di quanto chiunque possa sapere che andarono.
 Ogni uomo ha cento aspetti; ogni uomo può essere il modello di
-cento ritratti; ogni uomo può all'occasione avere l'aspetto
-di essere cento uomini.
+cento ritratti; ogni uomo può avere all'occasione l'apparenza
+d'essere cento uomini.
 
-L'artista dichiaratamente si occupa dell'aspetto, del ritratto
-che deve dipingere — non della personalità che Dio deve giudicare.
-Il critico o il biografo deve fare qualche tentativo di giudizio;
-per quanto sarà bene che egli distingua anche tra il proprio giudizio
-e il Giorno del Giudizio.  Ma mescolando insieme tutte queste cose
-otteniamo possibilità di caricatura che ammontano a pura anarchia.
-Questo è ciò che intendo dicendo che Dickens scoprì il proprio abbaglio,
-sia pure troppo tardi.  Si rese conto che non poteva essere a un tempo
+L'artista dichiaratamente ha a che fare con l'aspetto, col ritratto
+che deve dipingere--non con la personalità che Dio deve giudicare.
+Il critico o biografo deve fare un qualche tentativo di giudizio;
+benché sarà bene se egli distingue anche tra il proprio giudizio
+e il Giorno del Giudizio. Ma mescolando tutte queste cose
+otteniamo possibilità di caricatura che equivalgono a mera anarchia.
+Ecco cosa intendo dicendo che Dickens scoprì il proprio abbaglio,
+seppur troppo tardi. Egli comprese di non poter essere a un tempo
 il creatore di Skimpole e il critico di Leigh Hunt.
-Ma la nuova caricatura di Dickens non è semplicemente una caricatura di Dickens;
-il personaggio è di nuovo sacrificato all'intreccio e all'intrigante.
+Ma la nuova caricatura di Dickens non è semplicemente una caricatura dickensiana;
+il personaggio è di nuovo sacrificato all'intreccio e al cospiratore.
 
-Non c'era nulla che non andasse in Dickens, tranne che, mentre
-era ancora un giovanissimo, un giovane vanitoso e non troppo ben istruito,
-egli divenne qualcosa di unico e di universale.  Divenne,
-in un senso che era speciale, effettivo e persino tremendo, un uomo pubblico.
-Pochi si rendono conto del senso in cui questo fu vero di Dickens, perché
-è una cosa che capita a pochissimi.  Comunemente, per comodità, chiamiamo
-uomo pubblico qualsiasi politico o uomo d'affari eminente.
-Ma per essere davvero un uomo pubblico è necessario, per inciso,
-essere un uomo.  Il politico o il plutocrate può talvolta essere chiamato
-un'istituzione pubblica.  Può talvolta essere chiamato un pubblico flagello.
-Talvolta non arriva a essere più di una sorta di diceria popolare.
-Ma era la completa umanità di Dickens a essere proprietà pubblica;
-talvolta troppo pubblica, eppure, come disse il filosofo, fin troppo umana.
-Persino tra i grandi vittoriani questa specie di grandezza intima
-restò irraggiunta.  Gli uomini conoscevano l'economia di Cobden o la politica
-estera di Palmerston, ma non gli uomini vivi e la loro piena
-visione della vita.  Ma Dickens sì, secondo la frase usata troppo a buon mercato,
-mise il cuore nel proprio lavoro.  Visse nei suoi personaggi e nelle
-folle che godevano dei suoi personaggi.  Ci furono moltissime
-disavventure che nacquero da questa vasta eppure familiare vita pubblica;
+Non c'era nulla che non andasse in Dickens, se non che mentre
+era ancora un uomo assai giovane, un giovane vanitoso e non molto ben educato,
+egli divenne qualcosa di unico e universale. Divenne,
+in un senso che era speciale, effettivo, e persino terribile, un uomo pubblico.
+Pochi comprendono il senso in cui questo fu vero di Dickens, perché è
+una cosa che accade a assai pochi. Comunemente chiamiamo, per comodità,
+qualsiasi politico o uomo di affari eminente un uomo pubblico.
+Ma per essere davvero un uomo pubblico è incidentalmente necessario
+essere un uomo. Il politico o il plutocrate può talvolta essere chiamato
+un'istituzione pubblica. Può talvolta essere chiamato una pubblica seccatura.
+Talvolta non ammonta a più di una sorta di diceria popolare.
+Ma fu la completa umanità di Dickens a essere proprietà pubblica;
+talvolta troppo pubblica eppure, come disse il filosofo, fin troppo umana.
+Persino tra i grandi Vittoriani questo genere d'intima grandezza
+rimase inconseguito. Gli uomini conoscevano l'economia di Cobden o la politica
+estera di Palmerston, ma non gli uomini viventi e la loro piena
+visione della vita. Ma Dickens, nella frase troppo a buon mercato usata,
+mise il cuore nella propria opera. Visse nei propri personaggi e nelle
+folle che godevano dei suoi personaggi. Ci furono moltissime
+sventure derivanti da questa vasta eppure familiare vita pubblica;
 e una di esse fu che egli fece un bel pasticcio della propria vita privata.
-Ai meriti di un simile guazzabuglio nessuno può rendere giustizia se non ha davvero
+Ai meriti di un simile garbuglio nessun uomo può rendere giustizia se non abbia effettivamente
 conosciuto le persone, udito le voci, e visto i gesti stessi;
-e non mi pare un sostituto sufficiente che qualcuno
-che non le ha viste se le inventi.  Ma sono abbastanza sicuro
-che quella prodigiosa popolarità fu la sorgente di tutte le follie.
-Dickens soffrì di una sorta di Grande Affare precoce,
-benché il termine sia indegno di lui al suo peggio, giacché era
+e non mi pare un sufficiente surrogato che qualcuno
+che non le abbia viste se le inventi. Ma sono abbastanza sicuro
+che quella stupefacente popolarità fu la fonte di tutte le follie.
+Dickens soffrì di una sorta di prematuro Grande Affare,
+benché il termine sia indegno di lui al suo peggio, poiché era
 l'affare di fare cose e non di comprarle e venderle.
-Ma egli si prefisse fin troppo di essere una specie di Fornitore Universale;
-di tenere una enorme fabbrica di narrativa ruggente notte e giorno; di «restare
+Ma egli si prefisse fin troppo di essere una sorta di Fornitore Universale;
+di tenere un'enorme fabbrica di narrativa ruggente notte e giorno; di «mantenersi
 in contatto» col proprio pubblico come un grande affare coi propri clienti.
-Da ciò venne quella specie di errori davvero da imputargli; come il suo
-tentativo di giustificarsi in stampa a proposito della faccenda della separazione.
-Egli pensava alle sue migliaia di lettori, ma con l'immaginazione e
-non semplicemente per grettezza.  Sentiva quale colpo sarebbe stato, presso mille
-focolari, pensare che il grande [[Prophet|profeta]] del focolare e della [[Home|casa]] fosse
-egli stesso diventato un naufrago.  Se avesse pensato di più a un solo focolare,
-e meno a mille, sarebbe stato un uomo più felice.
-Ma non era un uomo vuoto, né un uomo falso, né un uomo corrotto o crudele;
-e chiunque insinui che lo fosse sta dicendo sciocchezze sensazionalistiche.
+Da questo vennero il tipo di errori davvero da imputargli; come il suo
+tentativo di giustificarsi a stampa nella faccenda della separazione.
+Egli pensava alle proprie migliaia di lettori, ma immaginativamente e
+non meramente meschinamente. Sentiva quale shock sarebbe stato per un migliaio
+di focolari pensare che il grande [[Prophet|Profeta]] del focolare e della [[Home|casa]] fosse
+egli stesso divenuto un naufrago. Se avesse pensato più a un solo focolare,
+e meno a un migliaio, sarebbe stato un uomo più felice.
+Ma egli non era un uomo vacuo, o un uomo falso, o un uomo corrotto o crudele;
+e chiunque suggerisca che lo fosse dice sensazionali sciocchezze.
 E c'è solo una cosa da aggiungere al nostro apprezzamento della sua
-vera forza e debolezza.  Nessun altro è stato così inebriato
-da una simile fama, semplicemente perché nessun altro ha conseguito una simile fama.
+vera forza e debolezza. Nessun altro è stato così inebriato
+da simile fama, semplicemente perché nessun altro ha conseguito simile fama.

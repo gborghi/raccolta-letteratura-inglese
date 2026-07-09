@@ -123,98 +123,98 @@ G. K. C.
 </nav>
 
 DEDICA  
-I grandi arti crollati nel caos,  
-       Il gran volto reso a [[Night|notte]]—  
-     Perché chinarsi su informe sudario  
-     Cercando in tale nube arcaica  
-       Lume di forti signori e luce? [5]  
-     Dove sette Inghilterre affondate  
-       Giacciono sepolte una a una,  
-     Perché un'oziosa vanga, io [[Wonder|mi chiedo]],  
-     Solleva come tuono la [[Dust|polvere]] dei thane  
-       A fumare e soffocare il sole? [10]  
-     In nube d'argilla scagliata al cielo  
-     Quale forma discernerà l'uomo?  
-     Questi signori forse schiarano il mistero  
-     Di signoria o di vittoria,  
-     E alti cavalcano nella [[history|storia]], [15]  
-       Ma questi non torneranno.  
+Di grandi membra date al caos,  
+       di un gran volto fatto [[Night|notte]]—  
+     perché chinarsi su informe sudario  
+     cercando in nube così arcaica  
+       vista di forti signori e di luce? [5]  
+     Dove sette Inghilterre sommerse  
+       giacciono sepolte una ad una,  
+     perché mai un'oziosa vanga, io [[Wonder|mi chiedo]],  
+     dovrebbe levare come tuono la [[Dust|polvere]] dei thane  
+       a far fumo e soffocare il sole? [10]  
+     In nube d'argilla così scagliata al cielo  
+     quale forma discernerà l'uomo?  
+     Questi signori forse rischiarano il mistero  
+     del dominio o della vittoria,  
+     e alti cavalcano nella [[history|storia]], [15]  
+       ma questi non torneranno.  
      Trafitto sul gonfalone normanno  
-       Morì il Drago d'Oro;  
-     Non desteremo con corde di ballata  
-     Il buon [[Time|tempo]] delle cose più piccole, [20]  
-     Non vedremo i santi re  
-       Cavalcare lungo il Severn.  
+       morì il Drago d'Oro;  
+     non desteremo con corde di ballata  
+     il buon [[Time|tempo]] delle cose più piccole, [20]  
+     non vedremo i santi re  
+       scendere a cavallo lungo il Severn.  
      Rigida, strana, di curiosi colori  
-       Come il ricamo di Bayeux  
-     Resta l'Inghilterra di quell'[[Dawn|alba]], [25]  
-     E questa di Alfred e dei Danesi  
-     Pare fiaba che finge un'intera tribù  
-       Troppo inglese per esser vera.  
+       come il ricamo di Bayeux  
+     resta l'Inghilterra di quell'[[Dawn|alba]], [25]  
+     e questa di Alfredo e dei Danesi  
+     pare fiaba che un'intera tribù finge,  
+       troppo inglese per esser vera.  
      Di un buon [[King|re]] sopra un'isola  
-       Che regnò, c'era una volta, un [[Time|tempo]]; [30]  
-     E mentre passeggiava presso un melo  
-     Vennero diavoli verdi dal mare  
-     Con alghe marine a strascico greve  
-       E scie di bava d'opale.  
-     Ma Alfred non è fiaba; [35]  
-       I suoi giorni corsero come i nostri,  
-     Anch'egli guardò fuori per un'ora  
-     Su piane popolose e cieli cupi,  
-     Da quelle poche finestre della torre  
-       Che è la testa di un uomo. [40]  
-     Ma chi guarderà dal cappuccio di Alfred  
-       O respirerà vivo il suo respiro?  
+       che vi regnò, c'era una volta, un [[Time|tempo]]; [30]  
+     e mentre camminava presso un melo  
+     vennero diavoli verdi dal mare  
+     con alghe marine a strascico greve  
+       e scie di bava d'opale.  
+     Eppure Alfredo non è fiaba; [35]  
+       i suoi giorni corsero come i nostri,  
+     anch'egli guardò fuori per un'ora  
+     su piane popolose e cieli incombenti,  
+     da quelle poche finestre della torre  
+       che è la testa di un uomo. [40]  
+     Ma chi guarderà dal cappuccio di Alfredo  
+       o respirerà vivo il suo respiro?  
      Il suo secolo come piccola nube scura  
-     Fugge lontano; è folla senza occhi,  
-     Dove urlano forte le trombe torturate [45]  
-       E piombano fitte le frecce.  
+     va lontano alla deriva; è folla senza occhi,  
+     dove urlano alte le trombe torturate [45]  
+       e piombano fitte le frecce.  
      Signora, per una sola luce  
-       Guardiamo dagli occhi di Alfred,  
-     Sappiamo che vide attraverso la rovina  
-     Il segno che pende dal tuo collo, [50]  
-     Dove Uno più grande di Melchizedek  
-       È morto e mai non muore.  
+       guardiamo dagli occhi di Alfredo,  
+     sappiamo che vide, attraverso il naufragio,  
+     il segno che pende dal tuo collo, [50]  
+     dove Uno più grande di Melchisedec  
+       è morto e mai non muore.  
      Perciò ti porto queste rime,  
-       Tu che mi portasti la [[Cross|croce]],  
-     Poiché su te fiammante senza pecca [55]  
-     Vidi il segno che Guthrum vide  
-     Quando lasciò infrangere le sue navi tremende,  
-       E pose pace sul mare.  
+       tu che mi portasti la [[Cross|croce]],  
+     poiché su te, fiammante senza pecca, [55]  
+     vidi il segno che Guthrum vide  
+     quando lasciò infrangersi le sue navi tremende,  
+       e pose pace sul mare.  
      Ricordi quando andammo  
-       Sotto una [[Moon|luna]] di drago, [60]  
-     E fra tinte vulcaniche di [[Night|notte]]  
-     Camminammo dove fu combattuta l'ignota battaglia  
-     E vedemmo alberi neri sull'altura della lotta,  
-       Nero spino su Ethandune?  
+       sotto una [[Moon|luna]] di drago, [60]  
+     e fra tinte vulcaniche di [[Night|notte]]  
+     camminammo dove fu combattuta l'ignota battaglia  
+     e vedemmo alberi neri sull'altura della pugna,  
+       nero pruno su Ethandune?  
      E pensai: «Andrò con te, [65]  
-     Come l'uomo è andato con Dio,  
-     E vagherò con una stella errante,  
-     Il cuore errante delle cose che sono,  
-     La [[Cross|croce]] di fuoco di [[Love|amore]] e guerra  
-       Che, come te, va avanti». [70]  
+     come l'uomo è andato con Dio,  
+     e vagherò con una stella errante,  
+     il cuore errante delle cose che sono,  
+     la [[Cross|croce]] di fuoco d'[[Love|amore]] e di guerra  
+       che, come te, va avanti». [70]  
      O va' tu avanti; dove sei  
-       Saranno [[Honour|onore]] e riso,  
-     Oltre foresta purpurea e spuma di perla,  
-     Padiglione alato di Dio libero al vagare,  
-     Il tuo volto, che è errante [[Home|casa]], [75]  
-       Una [[Home|casa]] in volo per me.  
+       saranno [[Honour|onore]] e riso,  
+     oltre foresta purpurea e spuma imperlata,  
+     padiglione alato di Dio libero al vagare,  
+     il tuo volto, che è errante [[Home|casa]], [75]  
+       una [[Home|casa]] in volo per me.  
      Cavalca per le terre del muto terremoto,  
-       Vaste come è vasta una landa,  
-     Attraverso questi giorni come deserti, quando  
-     [[Pride|Orgoglio]] e una piccola penna che gratta [80]  
-     Hanno seccato e spaccato i cuori degli uomini,  
-       Cuore degli eroi, cavalca.  
+       vaste come è vasta una landa,  
+     attraverso questi giorni come deserti, quando  
+     l'[[Pride|orgoglio]] e una piccola penna che gratta [80]  
+     hanno seccato e spaccato i cuori degli uomini:  
+       cuore degli eroi, cavalca.  
      Su per una vuota [[house|casa]] di [[Stars|stelle]],  
-       Essendo il cuore che sei,  
-     Su per le inumane erte dello spazio [85]  
-     Come su una scala sali in grazia,  
-     Portando la luce del fuoco sul volto  
-       Oltre la stella più sola.  
+       essendo il cuore che sei,  
+     su per le inumane erte dello spazio [85]  
+     come su una scala sali in grazia,  
+     portando la luce del focolare sul volto  
+       oltre la stella più sola.  
      Prendi queste; in [[Memory|memoria]] dell'ora [90]  
-       Che vagammo un poco da [[Home|casa]]  
-     E vedemmo i borghi color fumo, curiosi  
-     Di [[King|re]] dell'Ovest e santo dell'Ovest,  
-     E guardammo svanire la gloria d'occidente  
-       Lungo la [[Road|strada]] per Frome.  
+       che vagammo un poco da [[Home|casa]]  
+     e vedemmo i borghi color fumo, pittoreschi  
+     di [[King|re]] dell'Ovest e di santo dell'Ovest,  
+     e guardammo svanire la gloria d'occidente  
+       lungo la [[Road|strada]] per Frome.  
 G. K. C.  

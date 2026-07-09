@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_77_northcliffe">‹ Story 77 Northcliffe</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_79_the_vision_of_vulgarity_ii">Story 79 The Vision Of Vulgarity Ii ›</a></div>
@@ -88,3 +90,87 @@ Both say the right thing because they would rather say
 nothing at all.
 
                                         New York American, July 22nd, 1933
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_77_northcliffe">‹ Story 77 Northcliffe</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_79_the_vision_of_vulgarity_ii">Story 79 The Vision Of Vulgarity Ii ›</a></div>
+</nav>
+
+LA VISIONE DELLA VOLGARITÀ, I
+
+La volgarità è una delle grandi invenzioni moderne, come il
+telefono o la radio.  Si potrebbe plausibilmente sostenere
+che il telefono sia uno strumento di tortura meno atroce
+della morsa o del cavalletto; e che, allo stesso modo, altre epoche
+ebbero altri vizi peggiori di questo vizio nuovo o moderno.
+Come possiamo trovare schizzi fantasiosi di aeroplani nei taccuini
+di Leonardo da Vinci, o speculazioni assai prossime alla fisica moderna
+nei filosofi dell'antica Grecia, così possiamo trovare qua e
+là nella storia un accenno o un presagio della grande e dorata
+visione della Volgarità che più tardi sarebbe esplosa sul mondo.
+Possiamo trovarla nel puzzo della plutocrazia punica che ammorbava
+le narici di Greci e Romani, o in un certo tocco di cattivo
+gusto in un esteta come Nerone.  Eppure la cosa è così
+nuova che il mondo nuovo non le ha ancora trovato un vero nome,
+ma ha dovuto prendere a prestito un nome piuttosto fuorviante che in realtà
+è la parola latina per qualcos'altro.  Così dobbiamo continuare a usare
+il nome greco dell'ambra come unico nome dell'elettricità, perché non
+abbiamo idea di quale sia il vero nome o la vera natura dell'elettricità.
+E così dobbiamo continuare a usare la parola latina vulgus, che significa soltanto
+il popolo comune, per descrivere qualcosa che non è particolarmente
+comune tra la gente comune.  Anzi, attraverso ampi spazi
+della storia umana e su vaste distese del globo abitabile,
+essa è assai poco comune tra la gente comune.  I contadini che vivono
+di lunghe tradizioni agricole, i villici dei villaggi normali,
+persino i selvaggi nelle tribù selvagge, non sono quasi mai volgari.
+Persino quando massacrano e riducono in schiavitù, persino quando offrono sacrifici
+umani o mangiano carne umana, non sono quasi mai volgari.
+Tutti i viaggiatori attestano la naturale dignità del loro
+portamento e la gravità cerimoniale dei loro costumi.
+Persino nelle città e civiltà moderne più complesse, i poveri
+in quanto tali non sono particolarmente volgari.  No; c'è una cosa nuova
+che ha davvero bisogno di un nome nuovo e ancor più di una definizione nuova.
+Non dico di saper definire la Volgarità; ma avendo appena
+finito di leggere un libro moderno sull'Amore, mi sento incline a buttare
+lì qualche suggerimento.
+
+Per quanto io riesca ad avvicinarmi alla sua essenza, essa consiste in gran parte
+di due elementi, che descriverei come Facilità e Familiarità.
+Il primo significa che un uomo, come si suol dire, «sdilinquisce»; ossia
+che la sua [[Self|autoespressione]] fluisce senza sforzo, scelta o controllo.
+Non esce da lui come parole scelte o appuntite, che passano attraverso
+un organo articolato; semplicemente scorre da lui come sudore.
+Non ha mai bisogno di smettere di spiegarsi, perché non comprende né
+sé stesso né i limiti della spiegazione.  È il genere d'uomo che
+capisce le donne; è l'uomo che va sempre d'accordo con i ragazzi;
+gli riesce facile parlare, facile scrivere, facile parlare in pubblico;
+poiché la sua stessa [[Self|autosoddisfazione]] porta con sé una specie di immensa nube
+e illusione d'applauso.
+
+E il secondo elemento è la Familiarità che, se ben compresa,
+andrebbe chiamata Profanità.  Orazio parlò del «volgo profano»;
+ed è vero che questa familiarità è la perdita del santo timore
+e un peccato contro il lato mistico dell'uomo.  In pratica
+significa maneggiare le cose con sicurezza e disprezzo,
+senza il senso che tutte le cose, a modo loro, siano cose sacre.
+Il suo modo più recente è la prontezza a scrivere torrenti
+di sciocchezze da entrambe le parti di qualunque argomento serio; perché
+quasi mai si trova vera volgarità su un argomento frivolo.
+Il punto è che lo sciocco è tanto soggettivo che non gli passa
+mai per la mente di aver timore dell'argomento.  Per esempio, può essere uno sciocco Pagano
+non meno che uno sciocco Puritano nel dibattito sulla morale moderna;
+ma nel primo caso ci saranno torrenti di sciocchezze su
+Amore e Passione e Diritto di Vivere, e nell'altro,
+torrenti di sciocchezze esattamente simili sulla Virilità Cristiana e
+la Sana Fanciullezza e la Nobile Maternità e tutto il resto.  Il guaio
+è che sono così infernalmente familiari con queste cose.
+Mai troverai quella nota in un vero innamorato che scrive della donna
+che ama, o in un vero santo che scrive del peccato che odia.
+Entrambi dicono la cosa giusta perché preferirebbero non dire
+nulla del tutto.
+
+                                        New York American, 22 luglio 1933

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_37_punch_and_judy_ii">‹ Story 37 Punch And Judy Ii</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_39_a_universal_relevance">Story 39 A Universal Relevance ›</a></div>
@@ -36,3 +38,35 @@ nor has there been any other battle since the beginning
 of the world.
 
                                                 Daily News, July 8th, 1905
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_37_punch_and_judy_ii">‹ Story 37 Punch And Judy Ii</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_39_a_universal_relevance">Story 39 A Universal Relevance ›</a></div>
+</nav>
+
+IL SANTO E IL DRAGO
+
+Le cose primarie nell'universo, prima di ogni lettera e
+di ogni linguaggio, sono un punto esclamativo e un punto interrogativo.
+Le loro stesse forme sono sorprendentemente simboliche; il primo
+diritto e semplice, il secondo storto e simile a un ghigno.
+Il punto ammirativo è l'Uomo, eretto e stupito,
+che adora il cielo meraviglioso. Il punto interrogativo è
+l'unica creatura pensante che fu con lui nell'Eden fin dal principio.
+Il punto interrogativo è il Serpente, ricurvo e insieme
+acquattato e insinuante. Il primo apprezza;
+il secondo deprezza. I due sono stati allegorizzati e
+ripetuti in ogni sconcertante blasone di mitologia e araldica.
+San Giorgio era il punto ammirativo; era Adamo in armatura.
+Il drago era il punto interrogativo splendidamente inciso,
+come un capolettera in un messale gotico. Si sono scontrati
+in molte epoche col suono dell'acciaio, le diritte spade
+della semplicità e le curve scimitarre dello scetticismo;
+né vi è stata altra battaglia dal principio
+del mondo.
+
+                                                Daily News, 8 luglio 1905

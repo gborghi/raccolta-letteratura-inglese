@@ -123,100 +123,100 @@ probably greater distinction than my other friends.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_07">part 07 ›</a></div>
 </nav>
 
-Forse lo stesso concorso di casi che dapprima mi mise sulla
+Forse lo stesso capitolo di incidenti che mi gettò per primo sulla
 via di queste curiosità umane fu responsabile di un altro
-incidente sociale, di cui sono assai lieto; perché mi condusse a vedere
-entrambe le facce di una questione sociale assai difficile; sulla quale si dicono
-moltissime sciocchezze da entrambe le parti; e le peggiori sciocchezze
-di tutte da chi parla come se non ci fosse alcuna questione. Bisogna
-spiegare che la St. Paul's School, nel linguaggio degli scolari,
-era più di quasi tutte le altre una scuola di «secchioni». Non ho certo bisogno
-di scagionarmi dall'accusa di secchioneria; e, naturalmente,
-c'erano molti ragazzi pigri, e qualcuno pigro quasi quanto me. Ma
-il tipo diligente era in proporzione maggiore del solito;
-perché la scuola era celebre soprattutto per la conquista di borse di studio
-alle Università, più che per l'atletica o altre forme di fama.
+incidente sociale, di cui sono assai lieto; poiché condusse a farmi vedere
+entrambi i lati di una questione sociale assai difficile; sulla quale una gran
+quantità di sciocchezze viene detta da entrambe le parti; e le peggiori sciocchezze
+di tutte da coloro che parlano come se non ci fosse alcuna questione affatto.
+Va spiegato che la St. Paul's School, nel linguaggio scolastico,
+era più della maggior parte delle altre una scuola di «secchioni». Non ho bisogno
+di scagionarmi dall'accusa di secchioneria; e, s'intende,
+c'erano molti ragazzi pigri, e alcuni quasi pigri quanto me. Ma
+il tipo diligente era in proporzione più larga del solito;
+poiché la scuola era celebrata soprattutto per vincere borse di studio alle
+Università, piuttosto che per l'atletica o altre forme di fama.
 E c'era un'altra ragione per cui questo tipo particolare era cospicuo.
-Per dirla in linguaggio popolare, c'erano moltissimi secchioni
-in parte perché c'erano moltissimi Ebrei.
+Per esporre il punto in linguaggio popolare, c'erano moltissimi secchioni
+in parte perché c'erano moltissimi ebrei.
 
-Per quanto strano, mi capitò di avere in seguito la fama di antisemita;
-mentre fin dai miei primi giorni di scuola ebbi in gran parte la fama di
-filosemita. Feci molte amicizie tra gli Ebrei, e alcune di esse le
-ho conservate come amicizie di tutta la vita; né i nostri rapporti sono mai stati
-turbati da divergenze sul problema politico o sociale.
-Sono lieto di aver cominciato da questo capo; ma non sono in realtà finito in modo alcuno
-diverso da quello in cui cominciai. Ritenevo per istinto allora,
+Curiosamente, vissi abbastanza da avere in seguito la fama di Antisemita;
+mentre dai miei primi giorni di scuola ebbi in gran parte la fama di
+Filosemita. Feci molti amici tra gli ebrei, e alcuni di questi li
+ho conservati come amici di tutta la vita; né le nostre relazioni sono mai state
+turbate da divergenze sul problema politico o sociale.
+Sono lieto di aver cominciato da questo capo; ma non ho davvero finito in modo
+diverso da come cominciai. Ritenevo per istinto allora,
 e ritengo per conoscenza ora, che la via giusta sia interessarsi
-agli Ebrei come Ebrei; e poi mettere in maggior rilievo le assai
-trascurate virtù ebraiche, che sono il complemento e talvolta
-persino la causa di ciò che il mondo avverte come i difetti ebraici.
+agli ebrei in quanto ebrei; e poi portare in maggior rilievo le assai
+neglette virtù ebraiche, che sono il complemento e talvolta
+addirittura la causa di ciò che il mondo sente come i difetti ebraici.
 Per esempio, una delle grandi virtù ebraiche è la gratitudine.
-Fui criticato nei primi tempi per donchisciottismo e presunzione nel
-proteggere gli Ebrei; e ricordo di aver una volta districato una strana creaturina bruna
-dal naso adunco dall'essere maltrattata, o piuttosto dall'essere tormentata;
-perché la peggiore tortura consisteva in realtà nel suo essere leggermente lanciato
-da un ragazzo all'altro tra selvaggi sguardi di sgranata curiosità
-scientifica e domande come: «Che cos'è?» e «È vivo?».
-Trent'anni dopo, quando quel piccolo folletto era un grande uomo cresciuto
-e barbuto, del tutto remoto da me per tipo, mestiere, interessi
-e opinioni, aveva una sorta di perenne sorgente di ringraziamenti per quel
+Fui criticato nei primi giorni per donchisciotteria e presunzione nel
+proteggere gli ebrei; e ricordo una volta di aver estratto una strana, scura creaturina
+dal naso adunco dall'essere angariata, o piuttosto derisa;
+poiché la peggiore tortura consisteva davvero nell'essere lievemente sballottato
+da un ragazzo all'altro fra sguardi selvaggi di sgranata curiosità
+scientifica e domande come «Che cos'è?» e «È vivo?»
+Trent'anni dopo, quando quel piccolo folletto era un grande adulto
+barbuto, del tutto remoto da me per tipo, mestiere, interessi
+e opinioni, egli aveva una sorta di perenne fontana di ringraziamenti per quel
 insignificante episodio, il che era piuttosto imbarazzante. Allo stesso modo,
-notai quel forte vincolo familiare tra gli Ebrei che, come riconobbi,
-non era soltanto dissimulato ma negato tra la maggior parte degli scolari normali.
-Senza dubbio giunsi a conoscere gli Ebrei perché in questo senso erano
-un po' anormali, come io stesso stavo allora diventando un po' anormale.
+notai quel forte legame familiare tra gli ebrei che, come riconobbi,
+non solo era dissimulato ma negato tra la maggior parte dei normali scolari.
+Senza dubbio giunsi a conoscere gli ebrei perché in questo senso essi erano
+un po' anomali, come io stesso stavo allora divenendo un po' anomalo.
 Eppure non c'è nulla che io sia giunto a considerare più normale,
-e nulla che io [[Desire|desideri]] più restituire al suo posto normale,
-di quelle due cose: la famiglia e la teoria del ringraziamento.
-E allora, alla luce di queste virtù viste dall'interno,
+e nulla che io [[Desire|Desideri]] di più ripristinare al suo normale posto,
+di quelle due cose; la famiglia e la teoria del ringraziamento.
+E poi, alla luce di queste virtù viste dall'interno,
 era spesso possibile comprendere l'origine e persino la
-giustificazione di gran parte della critica antisemita vista dall'esterno.
-Perché è spesso proprio la lealtà della famiglia ebraica ad apparire
-come slealtà verso lo stato cristiano. Come il lettore si renderà conto
-prima della fine, fu in parte ciò che ammiravo in amici privati,
-specialmente in due fratelli di nome Solomon, che giunsi infine
-a denunciare in nemici politici, in due fratelli di nome Isaacs.
-I primi erano buoni secondo ogni criterio, i secondi vulnerabili anche
+giustificazione di gran parte della critica antisemita dall'esterno.
+Poiché è spesso proprio la lealtà della famiglia ebraica ad apparire
+come slealtà verso lo stato cristiano. Come il lettore comprenderà
+prima della fine, fu in parte ciò che ammiravo negli amici privati,
+specialmente in due fratelli di nome Solomon, che alla fine giunsi
+a denunciare nei nemici politici, in due fratelli di nome Isaacs.
+I primi erano buoni secondo ogni criterio, i secondi vulnerabili perfino
 secondo il loro stesso criterio: eppure avevano la stessa virtù.
 
-Non mi vergogno affatto di aver chiesto agli Ariani più pazienza
-verso gli Ebrei o di aver chiesto agli anglosassoni più pazienza
-verso gli aizzatori di Ebrei. L'intero problema delle due culture
-e tradizioni intrecciate è troppo profondo e difficile, da entrambe le parti,
+Non mi vergogno affatto di aver chiesto agli Ariani di avere più pazienza
+con gli ebrei, o di aver chiesto agli Anglosassoni di avere più pazienza
+con gli aizzatori antiebraici. L'intero problema delle due culture
+e tradizioni ingarbugliate è troppo profondo e difficile, da entrambe le parti,
 per essere deciso con impazienza. Ma ho ben poca pazienza con
-coloro che non vogliono risolvere il problema, col pretesto che
-non c'è alcun problema da risolvere. Non so spiegare gli Ebrei; ma di certo
-non li spiegherò via. Né gli Ebrei hanno nemico peggiore
-di quella sorta di ebreo scettico che talvolta cerca di spiegare via se stesso.
+coloro che non vogliono risolvere il problema, con la scusa che non
+c'è alcun problema da risolvere. Non riesco a spiegare gli ebrei; ma di certo
+non li spiegherò via. Né gli ebrei hanno peggior nemico
+del genere di ebreo scettico che talvolta cerca di spiegare via se stesso.
 Ho visto un intero libro pieno di teorie alternative sulla particolare
 causa storica di una simile illusione riguardo a una differenza; che essa venisse
-da preti medievali o ci fosse stata impressa a fuoco dall'[[Inquisition|Inquisizione]];
-che fosse una teoria tribale nata dal teutonismo; che fosse
-invidia rivoluzionaria verso i pochi Ebrei che si dava il caso fossero i grandi
+da preti medievali o ci fosse impressa a fuoco dall'[[Inquisition|Inquisizione]];
+che fosse una teoria tribale nata dal Teutonismo; che fosse
+invidia rivoluzionaria per i pochi ebrei che si dava il caso fossero i grandi
 banchieri del Capitalismo; che fosse resistenza capitalista verso
-i pochi Ebrei che si dava il caso fossero i principali fondatori del Comunismo.
+i pochi ebrei che si dava il caso fossero i principali fondatori del Comunismo.
 Tutte queste teorie separate sono false in modi separati; come nel
-dimenticare che le cacce all'eresia medievali risparmiavano gli Ebrei più e non meno
-dei Cristiani; o che il Capitalismo e il Comunismo sono così assai prossimi
-alla stessa cosa, nella loro essenza etica, che non sarebbe strano
-se traessero i loro capi dai medesimi elementi etnologici.
-Ma in generale le evasioni sono contrarie al buon senso; come lo erano
-persino al buon senso di un ragazzo di tredici anni. Non credo
-che una folla su un ippodromo sia avvelenata
-dalla teologia medievale; o che gli sterratori in un pub di Mile End siano tratti in inganno
+dimenticare che le cacce all'eresia medievali risparmiavano gli ebrei più e non meno
+dei cristiani; o che il Capitalismo e il Comunismo sono così assai vicini
+alla stessa cosa, nell'essenza etica, che non sarebbe strano
+se traessero i loro capi dagli stessi elementi etnologici.
+Ma in generale, le evasioni sono contrarie al buonsenso; come erano
+contrarie perfino al buonsenso di un ragazzo di tredici anni.
+Non credo che una folla su un ippodromo sia avvelenata
+dalla teologia medievale; o gli sterratori in un pub di Mile End fuorviati
 dall'etnologia di Gobineau o di Max Müller; né credo che
-una folla di ragazzini appena usciti dal campo di cricket o dalla bottega dei dolciumi
-si tormentasse per l'economia marxista o la finanza internazionale.
-Eppure tutte queste persone riconoscono gli Ebrei come Ebrei quando li vedono;
+una masnada di ragazzini appena usciti dal campo di cricket o dalla drogheria
+si preoccupasse dell'economia marxista o della finanza internazionale.
+Eppure tutta questa gente riconosce gli ebrei come ebrei quando li vede;
 e gli scolari li riconoscevano, non con grande ostilità
-se non a tratti; ma con l'integrazione dell'istinto. Ciò che
-vedevano non erano Semiti o Scismatici o capitalisti o rivoluzionari,
+tranne che a tratti; ma con l'integrazione dell'istinto. Ciò che
+essi vedevano non erano Semiti o Scismatici o capitalisti o rivoluzionari,
 ma stranieri; solo stranieri che non venivano chiamati stranieri.
-Questo non impediva l'[[Friendship|amicizia]] e l'affetto, specialmente nel mio caso;
+Ciò non impediva l'[[Friendship|Amicizia]] e l'affetto, specialmente nel mio caso;
 ma d'altronde non l'ha mai impedito nel caso degli stranieri comuni.
 Uno di questi miei primi amici, ora Professore di Latino
 all'University College, si dava il caso avesse tutte le virtù ebraiche, e anche
-tutte le altre che esistono; divenne in seguito membro del piccolo
-club già descritto; e passò per [[Oxford]] con distinzione;
-probabilmente con maggiore distinzione dei miei altri amici.
+tutte le altre che esistono; egli in seguito divenne membro del piccolo
+circolo già descritto; e passò per [[Oxford]] con distinzione;
+probabilmente maggiore distinzione dei miei altri amici.

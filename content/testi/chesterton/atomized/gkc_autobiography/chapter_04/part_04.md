@@ -136,12 +136,113 @@ who really believed in devils.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_05">part 05 ›</a></div>
 </nav>
 
-Tutto questo, s'intende, accadde epoche più tardi: lo menziono qui soltanto per rinnegare ogni intenzione di prendere sul serio la mia esperienza psichica. Ma toccando quel primo periodo direttamente descritto in questo capitolo, ho la stessa ragione per accennare all'argomento. Comincio semplicemente con questo esempio di ricerca psichica dilettantesca, perché il fatto stesso che vi mi indulsi senza ragione e senza risultato, che non giunsi ad alcuna conclusione, né realmente tentai nemmeno di giungere ad alcuna conclusione, illustra il fatto che questo è un periodo della vita in cui la mente non fa che sognare e andare alla deriva; e spesso andare alla deriva verso scogli assai pericolosi.
+Tutto ciò, s'intende, accadde secoli dopo: lo menziono
+qui solo per declinare ogni intenzione di prendere sul serio la mia esperienza
+psichica. Ma toccando quel primo periodo direttamente descritto
+in questo capitolo, ho la stessa ragione per alludere all'argomento.
+Comincio semplicemente con questo esempio di ricerca psichica dilettantesca,
+perché proprio il fatto che vi indulsi senza ragione e
+senza risultato, che non giunsi ad alcuna conclusione, o davvero
+neppure tentai di giungere ad alcuna conclusione, illustra il fatto che questo
+è un periodo della vita in cui la mente meramente sogna e va alla deriva;
+e spesso va alla deriva su scogli assai pericolosi.
 
-In questo capitolo, il periodo coperto è grosso modo quello della mia frequentazione di una scuola d'arte, ed è indubbiamente anche colorito dalle condizioni di un simile luogo. Non c'è nulla di più difficile da imparare della pittura, e nulla di cui la maggior parte della gente si dia meno pena di imparare. Una scuola d'arte è un luogo dove tre persone circa lavorano con febbrile energia e tutti gli altri oziano a un grado che avrei creduto [[Unattainable|irraggiungibile]] dalla [[Nature|natura]] umana. E per giunta coloro che lavorano sono, non dirò i meno intelligenti, ma, per la [[Nature|natura]] stessa del caso, per il momento i più angusti; coloro la cui acuta intelligenza è per il [[Time|momento]] ristretta a un problema strettamente tecnico. Costoro non vogliono essere divaganti e filosofici; perché il trucco che stanno cercando di imparare è al tempo stesso incomunicabile e pratico; come suonare il violino. Così la [[philosophy|filosofia]] è generalmente lasciata agli oziosi; ed è generalmente una [[philosophy|filosofia]] assai oziosa. Nel [[Time|tempo]] di cui scrivo era anche una [[philosophy|filosofia]] assai negativa e perfino nichilista. E benché io non l'accettassi mai del tutto, essa gettò un'[[Shadow|ombra]] sulla mia mente e mi fece sentire che le idee più proficue e più degne erano, per così dire, sulla difensiva. Avrò altro da dire su questo aspetto della faccenda più avanti; il punto è per il momento che una scuola d'arte può essere un luogo assai ozioso e che io ero allora una persona assai oziosa.
+In questo capitolo, il periodo coperto è grossomodo quello del mio andare
+a una scuola d'arte ed è senza dubbio anche colorato dalle condizioni
+di un tale luogo. Non c'è nulla di più difficile da imparare della pittura
+e nulla di cui la maggior parte della gente si dia meno pena di imparare.
+Una scuola d'arte è un luogo dove circa tre persone lavorano con febbrile
+energia e tutti gli altri oziano a un grado che avrei
+concepito [[Unattainable|Irraggiungibile]] dalla [[Nature|Natura]] umana. Per giunta coloro che lavorano sono,
+non dirò i meno intelligenti, ma, per la stessa [[Nature|Natura]]
+del caso, per il momento i più angusti; coloro la cui acuta
+intelligenza è per il [[Time|momento]] ristretta a un problema strettamente tecnico.
+Non vogliono essere digressivi e filosofici; perché il trucco
+che stanno cercando di imparare è a un tempo incomunicabile e pratico;
+come suonare il violino. Così la [[philosophy|filosofia]] è in genere lasciata
+agli oziosi; ed è in genere una [[philosophy|filosofia]] assai oziosa.
+Nel [[Time|periodo]] di cui scrivo era anche una [[philosophy|filosofia]] assai negativa e persino
+nichilista. E benché io non l'accettassi mai del tutto,
+essa gettò un'[[Shadow|ombra]] sulla mia mente e mi fece sentire che le idee più
+proficue e degne erano, per così dire, sulla difensiva.
+Avrò più da dire su questo aspetto della faccenda più avanti;
+il punto è per il momento che una scuola d'arte può essere un luogo assai ozioso
+e che io ero allora una persona assai oziosa.
 
-L'arte può essere lunga, ma le scuole d'arte sono brevi e assai fugaci, e ce ne sono state cinque o sei da quando frequentai una scuola d'arte. La mia fu il [[Time|tempo]] dell'Impressionismo; e nessuno osava sognare che potesse esistere una cosa come il Post-Impressionismo o il Post-Post-Impressionismo. L'ultimissima novità era tenersi al passo con Whistler e prenderlo per il bianco ciuffo sulla fronte, come se egli fosse il [[Time|Tempo]] in persona. Da allora quel cospicuo ciuffo bianco è piuttosto sbiadito in un'armonia di bianco e grigio, e ciò che una volta era così giovane si è a sua volta incanutito. Ma credo che ci fosse un significato spirituale nell'Impressionismo, in rapporto con quest'epoca come epoca dello scetticismo. Voglio dire che esso illustrava lo scetticismo nel senso del soggettivismo. Il suo principio era che se tutto ciò che si poteva vedere di una mucca era una linea bianca e un'[[Shadow|ombra]] purpurea, dovevamo rendere soltanto la linea e l'[[Shadow|ombra]]; in un certo senso dovevamo credere soltanto nella linea e nell'[[Shadow|ombra]], piuttosto che nella mucca. In un certo senso lo scettico impressionista contraddiceva il poeta che disse di non aver mai visto una mucca purpurea. Egli tendeva piuttosto a dire di aver visto soltanto una mucca purpurea; o meglio di non aver visto la mucca ma soltanto il purpureo. Quali che siano i meriti di questo metodo d'arte, c'è evidentemente qualcosa di altamente soggettivo e scettico in esso come metodo di pensiero. Esso si presta naturalmente al suggerimento metafisico che le cose esistano soltanto in quanto le percepiamo, o che le cose non esistano affatto. La [[philosophy|filosofia]] dell'Impressionismo è necessariamente prossima alla [[philosophy|filosofia]] dell'Illusione. E anche questa atmosfera tendeva a contribuire, per quanto indirettamente, a un certo stato d'animo di irrealtà e di sterile isolamento che si posò in quel [[Time|tempo]] su di me; e credo su molti altri.
+L'arte può essere lunga, ma le scuole d'arte sono brevi e assai fugaci,
+e ce ne sono state cinque o sei da quando frequentai una scuola d'arte.
+La mia fu l'[[Time|epoca]] dell'Impressionismo; e nessuno osava sognare che vi
+potesse essere una cosa come il Post-Impressionismo o il Post-Post-Impressionismo.
+L'ultimissima novità era tenere il passo con Whistler e prenderlo
+per il bianco ciuffo frontale, come se fosse il [[Time|Tempo]] stesso. Da allora quel
+cospicuo ciuffo bianco è piuttosto sbiadito in un'armonia di bianco
+e grigio e ciò che una volta era così giovane è a sua volta divenuto canuto.
+Ma credo che ci fosse un significato spirituale nell'Impressionismo,
+in connessione con quest'età come età dello scetticismo.
+Intendo che esso illustrava lo scetticismo nel senso del soggettivismo.
+Il suo principio era che, se tutto ciò che si poteva vedere di una mucca era una linea bianca
+e un'[[Shadow|ombra]] purpurea, dovevamo rendere soltanto la linea e l'[[Shadow|ombra]];
+in un certo senso dovevamo credere soltanto nella linea e nell'[[Shadow|ombra]],
+piuttosto che nella mucca. In un certo senso lo scettico Impressionista
+contraddiceva il poeta che disse di non aver mai visto una mucca purpurea.
+Egli tendeva piuttosto a dire di aver visto soltanto una mucca purpurea; o piuttosto
+che non aveva visto la mucca ma soltanto il purpureo. Quali che siano i meriti
+di questo metodo dell'arte, c'è palesemente qualcosa
+di altamente soggettivo e scettico in esso come metodo di pensiero.
+Esso si presta naturalmente al suggerimento metafisico che le cose
+esistano solo in quanto le percepiamo, o che le cose non esistano affatto.
+La [[philosophy|filosofia]] dell'Impressionismo è necessariamente vicina alla [[philosophy|filosofia]]
+dell'Illusione. E anche quest'atmosfera tendeva a contribuire,
+per quanto indirettamente, a un certo umore d'irrealtà e di sterile isolamento
+che si posò in quel [[Time|periodo]] su di me; e credo su molti altri.
 
-Ciò che mi sorprende nel ripensare alla giovinezza, e perfino alla fanciullezza, è l'estrema rapidità con cui essa può pensare a ritroso fino alle cose fondamentali; e perfino fino alla negazione delle cose fondamentali. In età assai precoce avevo ripensato a ritroso fino al pensiero stesso. È una cosa assai terribile da fare; poiché può condurre a pensare che non vi sia nulla se non pensiero. In quel [[Time|tempo]] non distinguevo con molta chiarezza tra il sognare e il vegliare; non soltanto come stato d'animo ma come [[Doubt|dubbio]] metafisico, sentivo come se ogni cosa potesse essere [[A Dream|un sogno]]. Era come se avessi io stesso proiettato l'universo dall'interno, con i suoi alberi e le sue [[Stars|stelle]]; e questo è così vicino all'idea di essere Dio, che è manifestamente ancor più vicino all'impazzire. Eppure non ero pazzo, in alcun senso medico o fisico; stavo semplicemente portando lo scetticismo del mio [[Time|tempo]] tanto lontano quanto poteva arrivare. E presto scoprii che poteva arrivare assai più lontano di quanto arrivasse la maggior parte degli scettici. Mentre ottusi atei venivano a spiegarmi che non c'era nulla se non materia, io ascoltavo con una sorta di calmo orrore del distacco, sospettando che non ci fosse nulla se non mente. Da allora ho sempre sentito che c'era qualcosa di sottile e di terz'ordine nei materialisti e nel materialismo. L'ateo mi diceva con tanta pomposità di non credere che ci fosse alcun Dio; e c'erano momenti in cui io non credevo nemmeno che ci fosse alcun ateo.
+Ciò che mi sorprende nel ripensare alla giovinezza, e persino alla fanciullezza,
+è l'estrema rapidità con cui essa può ripensare fino alle
+cose fondamentali; e persino fino alla negazione delle cose fondamentali.
+In età assai precoce avevo ripensato fino al pensiero stesso.
+È una cosa assai terribile da fare; poiché può condurre a pensare che
+non ci sia nulla se non il pensiero. In quel [[Time|periodo]] non distinguevo assai chiaramente
+tra il sognare e il vegliare; non solo come umore ma come
+[[Doubt|Dubbio]] metafisico, sentivo come se tutto potesse essere [[A Dream|un sogno]].
+Era come se avessi io stesso proiettato l'universo dall'interno,
+coi suoi alberi e le sue [[Stars|stelle]]; e ciò è così vicino alla nozione
+di essere Dio che è palesemente ancor più vicino all'impazzire.
+Eppure non ero pazzo, in alcun senso medico o fisico; portavo semplicemente
+lo scetticismo del mio [[Time|tempo]] fin dove poteva arrivare.
+E scoprii presto che sarebbe arrivato assai più lontano di quanto la maggior parte degli
+scettici arrivasse. Mentre ottusi atei venivano a spiegarmi
+che non c'era nulla se non la materia, ascoltavo con una sorta di calmo
+orrore di distacco, sospettando che non ci fosse nulla se non la mente.
+Ho sempre sentito che c'era qualcosa di esile e di terz'ordine
+riguardo ai materialisti e al materialismo da allora. L'ateo mi disse
+così pomposamente che non credeva ci fosse alcun Dio; e ci
+furono momenti in cui io non credevo neppure ci fosse alcun ateo.
 
-E come per gli estremi mentali, così per quelli morali. C'è qualcosa di veramente minaccioso nel pensiero di quanto rapidamente potessi immaginare le cose più folli, quando non avevo mai commesso il più mite dei delitti. Qualcosa può essere stato dovuto all'atmosfera dei Decadenti, e ai loro perpetui accenni ai lussuriosi orrori del paganesimo; ma non sono disposto a indugiare molto su quella difesa; sospetto di aver fabbricato da me la maggior parte delle mie morbosità. Ma comunque, è vero che ci fu un [[Time|tempo]] in cui avevo raggiunto quella condizione di anarchia morale interiore, in cui un uomo dice, con le parole di Wilde, che «Attis con il coltello macchiato di [[Blood|sangue]] sarebbe meglio della cosa che io sono». Non ho mai in verità sentito la più debole [[Temptation|tentazione]] verso la particolare [[Madness|follia]] di Wilde; ma potevo in quel [[Time|tempo]] immaginare le più mostruose e sfrenate sproporzioni e distorsioni di una passione più normale; il punto è che l'intero stato d'animo era sopraffatto e oppresso da una sorta di congestione dell'[[Imagination|immaginazione]]. Come Bunyan, nel suo periodo morboso, descrisse se stesso come spinto a proferire bestemmie, io avevo un impulso soverchiante a registrare o a disegnare idee e immagini orribili; sprofondando sempre più giù come in un cieco [[suicide|suicidio]] spirituale. Non avevo mai sentito parlare della Confessione, in alcun senso serio, a quei tempi; ma è proprio quella ciò di cui si ha bisogno in tali casi. Immagino che non siano casi rari. Comunque, il punto qui è che scavai abbastanza in basso da scoprire il diavolo; e perfino, in qualche modo confuso, da riconoscere il diavolo. Almeno non mi abbandonai mai, nemmeno in questo primo stadio vago e scettico, agli argomenti correnti sulla relatività del male o sull'irrealtà del peccato. Forse, quando alla fine emersi come una sorta di teorico, e fui descritto come un Ottimista, fu perché ero una delle poche persone in quel mondo di diabolismo che credevano davvero nei diavoli.
+E come con gli estremi mentali, così con quelli morali. C'è qualcosa
+di davvero minaccioso nel pensiero di quanto rapidamente potevo immaginare
+il più folle, quando non avevo mai commesso il più mite crimine.
+Qualcosa può essere dovuto all'atmosfera dei Decadenti,
+e ai loro perpetui accenni agli orrori lussuriosi del paganesimo;
+ma non sono incline a soffermarmi molto su quella difesa; sospetto
+di aver fabbricato la maggior parte delle mie morbosità da me. Ma comunque,
+è vero che ci fu un [[Time|periodo]] in cui avevo raggiunto quella condizione
+di anarchia morale interiore, in cui un uomo dice, con le parole di Wilde,
+che «Atys col coltello macchiato di [[Blood|sangue]] sarebbe meglio della cosa che sono».
+Non ho in verità mai sentito la più debole [[Temptation|Tentazione]] verso la particolare
+[[Madness|Follia]] di Wilde; ma potevo in quel [[Time|periodo]] immaginare le peggiori
+e più sfrenate sproporzioni e distorsioni di una passione più normale;
+il punto è che l'intero umore era sopraffatto e oppresso da una
+sorta di congestione dell'[[Imagination|Immaginazione]]. Come Bunyan, nel suo periodo morboso,
+si descrisse come spinto a proferire bestemmie, io avevo un
+soverchiante impulso a registrare o disegnare idee e immagini orribili;
+sprofondando sempre più in giù come in un cieco [[suicide|suicidio]] spirituale.
+Non avevo mai sentito parlare della Confessione, in alcun senso serio, in quei giorni;
+ma è questo ciò che davvero occorre in tali casi. Immagino che non siano
+casi rari. Comunque, il punto è qui che scavai abbastanza in basso
+da scoprire il diavolo; e persino in qualche modo oscuro da riconoscere il diavolo.
+Almeno non indulsi mai, neppure in questo primo vago e scettico stadio,
+troppo negli argomenti correnti sulla relatività
+del male o sull'irrealtà del peccato. Forse, quando alla fine
+emersi come una sorta di teorico, e fui descritto come Ottimista,
+fu perché ero una delle poche persone in quel mondo di diabolismo
+che credevano davvero nei diavoli.

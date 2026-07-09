@@ -342,313 +342,313 @@ HICK thunder of the snorting swine,
 LIBRO IV  
 LA DONNA NELLA FORESTA  
 
-UPO tuono di porci sbuffanti,  
-       Enormi nella bruma,  
-     Che squarcian fra radici avvinghiate,  
-     E i cavalli selvaggi nitrenti,  
-     Eran voci della [[Night|notte]] quando il [[King|re]], [5]  
+Fitto tuono dei porci sbuffanti,  
+       Enormi nel crepuscolo,  
+     Che frugano fra radici avvinghiate,  
+     E il nitrire dei cavalli selvaggi,  
+     Erano i rumori della [[Night|notte]] quando il [[King|Re]], [5]  
        L'arpa in spalla, tornò a [[Home|casa]].  
      Con occhi di gufo e piedi di volpe,  
-       Andava colmo d'ogni pensiero;  
-     Notò le tende del campo pagano,  
-     Il pallore dei pini, il passo delle scolte, [10]  
+       Colmo d'ogni pensiero andava;  
+     Notò l'inclinarsi del campo pagano,  
+     Il pallore dei pini, il passo delle sentinelle, [10]  
      E la grande lampada d'altare rubata  
        Sopra Guthrum nella sua tenda.  
      Fra sterpi e spini a Ethandune  
-       Quella [[Night|notte]] giaceva il nemico;  
-     Donde correvan per la grigia brughiera [15]  
+       Quella [[Night|notte]] il nemico giaceva;  
+     Di là correvano per la grigia brughiera [15]  
      Le vecchie pietre d'una via romana;  
      E in un bosco poco lontano  
-       La pallida [[Road|strada]] si fendeva in due.  
+       La pallida [[Road|strada]] si spartiva in due.  
      Notò il bosco e le vie divise  
        Con occhi di vecchio capitano, [20]  
-     E pensò quante volte nel [[Time|tempo]]  
-     Cercò di scorgere il Fato che non vedeva;  
-     Come vennero rovina e vittoria,  
-       Ed entrambe furono sorpresa.  
-     Così aveva vegliato, stupito, [25]  
+     E pensò quante [[Time|volte]] aveva  
+     Cercato di vedere il Fato che non vedeva;  
+     Come erano giunte rovina e vittoria,  
+       E l'una e l'altra una sorpresa.  
+     Così aveva vegliato e atteso stupito [25]  
        Sotto Ashdown, dalle pianure;  
-     Con Ethelred che pregava in tenda,  
-     Finché il biancospino oscillò piegandosi,  
-     Quando Alfred lanciò le lance e squarciò  
+     Con Ethelred in preghiera nella tenda,  
+     Finché il biancospino ondeggiò e si piegò,  
+     Quando Alfredo scagliò le sue lance e squarciò  
        Il muro di scudi dei Danesi. [30]  
-     Così aveva vegliato, stupito,  
+     Così aveva vegliato e atteso stupito,  
        Non sapendo né meno né più,  
-     Finché i suoi signori giacquero morenti,  
-     E asce su asce menando  
-     Lo scagliaron via, cacciandolo in fuga [35]  
-       Come un pirata alla riva.  
+     Finché tutti i suoi signori giacquero morenti,  
+     E asce su asce menando colpi  
+     Lo scagliarono, lo cacciarono in fuga [35]  
+       Come un pirata verso la riva.  
      Saggio era stato prima della sconfitta,  
        E saggio prima del [[success|successo]];  
      Saggio in entrambe le ore, e ignaro,  
        Non sapendo né più né meno. [40]  
-     Scendendo alla capanna sul [[River|fiume]]  
-       Sentì un sentore d'ombra di [[Night|notte]],  
-     I gufi si levavan come cherubini malvagi,  
+     Scendendo verso la capanna sul [[River|fiume]]  
+       Sentì un profumo d'ombra [[Night|notturna]],  
+     I gufi si levavano come cherubini maligni,  
      Con piccole ali e occhi di lanterna,  
-     Come s'egli affondasse sotto i cieli inferi; [45]  
-       Ma giù e più giù scendeva.  
-     Scendendo alla capanna sul [[River|fiume]]  
-       Andava come chi cade;  
-     Vedendo dell'alta foresta cupole e travi,  
-     Verde cupo o squarciate da cicatrici d'oro, [50]  
-     Come i superbi guardano le [[Stars|stelle]] malvagie,  
-       Nei rossi cieli dell'inferno.  
+     Come se affondasse sotto i cieli inferi; [45]  
+       Ma giù e più giù andava.  
+     Scendendo verso la capanna sul [[River|fiume]]  
+       Andava come uno che cade;  
+     Vedendo le alte cupole e le antenne della foresta,  
+     Verde cupo o lacerate da cicatrici d'oro, [50]  
+     Come i superbi alzano gli occhi alle [[Stars|stelle]] maligne,  
+       Nei cieli rossi dell'inferno.  
      Ché doveva incontrare alla capanna sul [[River|fiume]]  
        Quelli che aveva chiamato alle armi,  
-     Mark dalle torri d'[[Italy|Italia]], [55]  
+     Marco dalle torri d'[[Italy|Italia]], [55]  
      E Colan dell'Albero Sacro,  
      Ed Eldred che presso il mare  
-       Reggeva grave la sua fattoria.  
-     Il tetto pendeva aperto sull'erba,  
+       Reggeva a fatica la sua fattoria.  
+     Il tetto pendeva spalancato sull'erba,  
        Come giace un fungo mostruoso; [60]  
      Echeggiante e vuoto pareva il luogo;  
-     Ma in un piccolo varco apparve  
+     Ma di lì a poco aprì l'uscio  
      Una grande donna grigia dal volto segnato  
-       E occhi forti e umiliati.  
+       E dagli occhi forti e umiliati.  
      [[King Alfred|Re Alfredo]] non era che un uomo scarno, [65]  
        Occhi vivi, ma magro e pallido,  
      E senza spada, con l'arpa e gli stracci,  
-     Pareva un mendicante, di quelli che indugiano  
-       In cerca di croste e di birra.  
+     Pareva un mendicante, di quelli che s'attardano  
+       In cerca di croste di pane e di birra.  
      E la donna, con occhi di donna [70]  
        Di pietà insieme e d'ira,  
      Disse, dopo averlo fissato un poco:  
-     «C'è una focaccia per ogni uomo  
-       Che vegli il [[Fire|fuoco]].»  
-     E Alfred, chinandosi grave, [75]  
+     «C'è una focaccia per chiunque  
+       Voglia badare al [[Fire|fuoco]]».  
+     E Alfredo, con grave inchino, [75]  
        Sedette ad attizzare il [[Fire|fuoco]],  
      E come la donna ebbe pietà di lui  
        Così egli ebbe pietà di lei.  
      Dicendo: «O gran cuore nella [[Night|notte]],  
        O migliore gettata fra i peggiori, [80]  
      Il crepuscolo si scioglierà, si desterà il mattino,  
-     E nessuna cosa gentile verrà a lei,  
+     E nulla di buono verrà a lei,  
      Finché Dio non capovolga il mondo  
-       E tutti gli ultimi siano i primi.  
+       E tutti gli ultimi siano primi.  
      «E [[Well|ben]] può Dio con la gente che serve [85]  
        Gettare la Sua sorte tremenda;  
      Non è anch'Egli un servo,  
-       E non è forse dimenticato?  
-     «Ché non fu Dio il mio giardiniere,  
-       E silenzioso come uno schiavo, [90]  
+       E non è anch'Egli dimenticato?  
+     «Non fu Dio il mio giardiniere,  
+       Silenzioso come uno schiavo, [90]  
      Che schiuse querce sugli altipiani  
        O diede macchia al camposanto?  
      «E non fu Dio il mio armaiolo,  
-       Tutto paziente e non pagato,  
-     Che saldò il mio cranio come elmo, [95]  
-       E fece le costole per usbergo?  
+       Tutto paziente e senza paga,  
+     Che saldò il mio cranio a elmo, [95]  
+       E delle costole fece un usbergo?  
      «Non fu un grande servo grigio  
-       Di tutti i miei padri e di me,  
-     A erigere questo padiglione di pini,  
-     A radunare i polli, a colmare le viti, [100]  
+       Di tutti i miei padri e mio  
+     A costruire questo padiglione di pini,  
+     A radunare gli uccelli, a colmare le viti, [100]  
      A faticare e passare senza lasciar segni  
-       Se non [[Mercy|misericordia]] e mistero?  
+       Fuorché [[Mercy|misericordia]] e mistero?  
      «Ché Dio è un grande servo,  
-       E [[Rose|sorse]] prima del giorno,  
+       E si [[Rose|levò]] prima del giorno,  
      Strappato a un sonno primordiale; [105]  
-     Ma noi tutti, viventi nati dopo,  
-     [[Sleep|Dormiamo]] ancora, e sorgiamo dopo il mattino,  
+     Ma noi tutti, vivi e nati dopo,  
+     [[Sleep|Dormiamo]] ancora, e ci alziamo dopo il mattino,  
        E il Signore se n'è andato.  
-     «Su cose per metà sorte dal sonno  
-     Han brillato tutti i soli assonnati, [110]  
-     Tendono braccia rigide gli alberi sbadiglianti,  
-     Le bestie ammiccano su mani e ginocchia,  
+     «Su cose a metà sorte dal sonno  
+       Hanno brillato tutti i soli assonnati, [110]  
+     Stirano braccia rigide gli alberi che sbadigliano,  
+     Le bestie sbattono le palpebre carponi,  
      L'uomo è desto e fa e vede—  
-       Ma il Cielo ha compiuto ed è andato.  
+       Ma il Cielo ha fatto, e se n'è andato.  
      «Ché chi indovinerà il buon [[Riddle|enigma]] [115]  
        O parlerà del Santissimo,  
-     Se non in fioche figure e parole manchevoli,  
-     Di Colui che ama, e ride fra le spade,  
+     Se non per pallide figure e parole che vengono meno,  
+     Di Colui che ama, eppure ride fra le spade,  
        Fatica, ed è in riposo?  
      «Ma alcuni vedono Dio come Guthrum, [120]  
        Coronato, con gran barba ricciuta,  
-     Ma io vedo Dio come un buon gigante,  
+     Io invece vedo Dio come un buon gigante,  
        Che, faticando, solleva il mondo.  
-     «Perciò fu Dio sul Golgota,  
+     «Perciò Dio fu sul Golgota,  
        Ucciso come si uccide un servo; [125]  
      E odio ebbe per principe e pari,  
-     E [[Love|amore]] ebbe e fece buona festa  
+     E [[Love|amore]] ebbe, e fece festa  
      Di quelli che, come questa donna qui,  
-       Vanno potenti nel [[Pain|dolore]].  
-     «Ma in questo grigio mattino della vita [130]  
-       Giunge talvolta alla mente  
+       Vanno possenti nel [[Pain|dolore]].  
+     «Ma in questo grigio mattino della vita dell'uomo [130]  
+       Viene talvolta alla mente  
      Una piccola luce che balza e vola,  
        Come stella soffiata sul [[Wind|vento]].  
-     «Stella di nessun luogo, stella senza nome,  
-       Luce che gira e turbina, [135]  
-     E grida che pur fra siepe e [[Hill|colle]],  
-     Pur sulla terra, può andar male  
-       Infine ai conti malvagi.  
+     «Una stella di nessun luogo, una stella senza nome,  
+       Una luce che gira e turbina, [135]  
+     E grida che perfino fra siepe e [[Hill|colle]],  
+     Perfino in terra, può andar male  
+       Alla fine per i conti malvagi.  
      «Scintilla danzante, stella dubbiosa,  
        Sul [[Wind|vento]] deserto travolta e sospinta, [140]  
-     Ma par che canti d'un valore più selvaggio,  
-     Un [[Time|tempo]] scoronato di fato e nascita,  
+     Ma pare cantare d'un valore più selvaggio,  
+     Un [[Time|tempo]] scoronato di fato e di nascita,  
      E il regno dei poveri in terra  
        Venuto, come è nei cieli.  
      «Ma pur se tali giorni durassero, [145]  
        Che gioverà a lei?  
      Che andrà gemendo alla [[Grave|tomba]],  
-     Con molti schiavi miti e possenti,  
-     Dissodatore e pescatore sull'onda,  
-       E boscaiolo e carrettiere. [150]  
-     «Cuocete di nuovo tutto il gran mondo,  
-       Focaccia di lievito più gentile;  
-     Pur questi restano tristi in eterno—  
+     Con tanti schiavi miti e possenti,  
+     Dissodatori di campi e pescatori sull'onda,  
+       E boscaioli e carrettieri. [150]  
+     «Cuocete pure il gran mondo tutto di nuovo,  
+       Focaccia con più benigno lievito;  
+     Questi restano tristi per sempre—  
      A meno che non vi sia una piccola porta,  
-       Una piccola porta in cielo.» [155]  
+       Una piccola porta in cielo». [155]  
      E mentre piangeva per la donna  
-       Trascurò il compito di lei,  
+       Trascurò la faccenda di lei,  
      E come il suo giuramento regale e avventato  
      Il buon cibo cadde sulla cenere  
        E annerì in un istante. [160]  
      Urlando, la donna afferrò una focaccia  
-       Ancora ardente dalla graticola,  
+       Ancora ardente dalla griglia,  
      E lo colpì d'improvviso sul volto,  
        Lasciando una cicatrice scarlatta.  
-     [[King Alfred|Re Alfredo]] si levò senza parola, [165]  
-       Uomo morto di sorpresa,  
+     [[King Alfred|Re Alfredo]] si alzò senza parola, [165]  
+       Uomo morto di stupore,  
      E la tortura stette, e le cose malvagie  
-     Che stanno nei cuori infantili dei re,  
+     Che sono nei cuori infantili dei re,  
        Un istante nei suoi occhi.  
      E mentre stava e fissava [170]  
-       Gli si strinsero intorno nel buio  
-     Quegli amici striscianti da fattorie lontane,  
-     Marcus con tutti i suoi schiavi in armi,  
-     E le strane lance ornate d'antichi amuleti  
+       Gli si strinsero intorno nel crepuscolo  
+     Quegli amici strisciando da fattorie lontane,  
+     Marco con tutti i suoi schiavi in armi,  
+     E le strane lance cariche d'antichi amuleti  
        Di Colan dell'Usk. [175]  
-     Con un'intera fattoria in marcia a piedi  
+     D'un'intera fattoria in marcia a piedi  
        Risuona la [[Road|strada]] calpestata,  
-     Braccianti e bestie passando a fatica,  
-     E giare di idromele e scorte di segale,  
+     Braccianti e bestie che passano goffi  
+     E giare d'idromele e scorte di segale,  
      Dove Eldred incedeva sopra i suoi alti [180]  
        Cani dalla gola di tuono.  
      E armenti grigi e argentei muggivano  
        Contro il mattino non ancora sorto,  
-     E paglia s'attaccava alle alte aste di lancia.  
-     E un fanciullo andava innanzi a tutti [185]  
-       Soffiando in un corno d'ariete.  
-     Quasi a beffa di tanta rozza festa,  
+     E la paglia s'attaccava alle alte aste delle lance.  
+     E un ragazzo andava davanti a tutti [185]  
+       Suonando un corno d'ariete.  
+     Come a beffare tale rozza baldoria,  
        L'oscuro clan dei Gaeli  
-     Venne come il funerale d'un cattivo [[King|re]],  
+     Venne come la fine del funerale d'un cattivo [[King|re]],  
      Con vesti lugubri che cadono e si strappano [190]  
-       E pive demoniache gementi—  
+       E cornamuse demoniache che gemono—  
      In lunghe vesti forestiere,  
-       Lacere, ma d'antico pregio,  
-     Con barbe druidiche e lance druidiche,  
+       Lacere, benché d'antico pregio,  
+     Con barbe di Druidi e lance di Druidi,  
      Come appare una razza risorta [195]  
        Da una terra più antica.  
-     E benché il [[King|re]] li avesse convocati  
-       E li conoscesse per suoi,  
-     Così fermo stava ogni occhio come gemma,  
+     E benché il [[King|Re]] li avesse chiamati  
+       E li sapesse suoi,  
+     Così fermo stava ogni occhio, come gemma,  
      Così spettrale pendeva ogni orlo ricamato, [200]  
-     Grigi uomini scolpiti gli parvero,  
+     Che li immaginò uomini grigi scolpiti,  
        Tagliati in un'età di pietra.  
      E i due popoli selvaggi del nord  
        Stavano a fronte nel crepuscolo,  
-     E udì e seppe ciascuno in cuore [205]  
-     Il terzo gran tuono sul [[Wind|vento]],  
+     E udì e riconobbe ciascuno in cuor suo [205]  
+     Il terzo grande tuono sul [[Wind|vento]],  
      Le mura vive che recingono il genere umano,  
-       Le mura camminanti di Roma.  
-     Di Mark eran le tribù miste dell'ovest,  
+       Le mura in cammino di Roma.  
+     Di Marco erano le tribù miste dell'ovest,  
        Di molti colori e stirpi, [210]  
-     Gurth, con folti capelli come erba gialla,  
+     Gurth, dai capelli folti come erba gialla,  
      E il pescatore di Cornovaglia, Gorlias,  
-     E Halmer, giunto dalla sua prima messa,  
+     E Halmer, venuto dalla sua prima messa,  
        Da poco battezzato, un Danese.  
      Ma come un sol uomo in armatura [215]  
        Quelle centinaia calcavano il campo,  
      Dalla rossa Arabia fino al Tyne  
      La terra aveva udito quella linea in marcia,  
-     Dal grido sul [[Hill|colle]] Capitolino,  
+     Fin dal grido sul [[Hill|colle]] Capitolino,  
        E dalla caduta dello scudo d'oro. [220]  
-     E la terra tremò e il [[King|re]] stette immoto  
-       Sotto il ramo della verde selva,  
+     E la terra tremò e il [[King|Re]] stette immobile  
+       Sotto il ramo del verde bosco,  
      E la focaccia fumante giaceva ai suoi piedi  
        E il colpo era sulla sua fronte.  
-     Allora Alfred rise d'improvviso, [225]  
+     Allora Alfredo rise d'improvviso, [225]  
        Come tuono in [[Spring|primavera]],  
      Finché tremarono forte le travi dell'architrave,  
      E gli scoiattoli si mossero in [[Dreams|sogni]] polverosi,  
-     E gli [[Birds|uccelli]] atterriti salirono a stormi,  
-       Per la risata del [[King|re]]. [230]  
-     E le bestie della terra e gli [[Birds|uccelli]] guardarono giù,  
+     E gli [[Birds|uccelli]] atterriti si levarono a stormi,  
+       Per la risata del [[King|Re]]. [230]  
+     E le bestie della terra e gli [[Birds|uccelli]] guardarono in giù,  
        In selvaggia solennità,  
-     Su vista più strana di silfo o elfo,  
+     Su vista più strana d'una silfide o d'un elfo,  
      Su un uomo che rideva di se stesso  
-       Sotto l'albero della verde selva— [235]  
+       Sotto l'albero del verde bosco— [235]  
      La risata gigante degli uomini cristiani  
        Che rugge per mille racconti,  
-     Dove l'[[Greed|avidità]] è scimmia e la [[Pride|superbia]] è asino,  
-     E Jack fugge con la ragazza del padrone,  
+     Dove l'[[Greed|avidità]] è una scimmia e l'[[Pride|orgoglio]] un asino,  
+     E Gianni scappa con la ragazza del padrone,  
      E l'avaro è bastonato con tutto il suo rame, [240]  
        Il fattore con tutti i suoi correggiati;  
-     Racconti che capitombolano e racconti che ingannano,  
+     Racconti che ruzzolano e racconti che ingannano,  
        Ma non finiscono tutti in scherno—  
      Di re e buffoni in lieto imbroglio,  
      E l'[[Clock|orologio]] guastato e il mondo raddrizzato, [245]  
      Che i mimi cantano nella [[Night|notte]] di Natale  
        E il giorno di Natale al mattino.  
-     «Ecco qui un buon pegno,»  
-       Gridò Alfred, «per la mia [[Sword|spada]];  
-     Ché chi è colpito come cattivo servo [250]  
-       Dovrà essere un signore gentile.  
+     «Ecco una buona garanzia»,  
+       Gridò Alfredo, «per la mia [[Sword|spada]];  
+     Ché chi è battuto da cattivo servo [250]  
+       Dev'essere un signore benigno.  
      «Chi è stato servo  
        Sa più di preti e di re,  
      Ma chi è stato un cattivo servo,  
        Sa tutte le cose terrene. [255]  
-     «La [[Pride|superbia]] scaglia fragili palazzi al cielo,  
-       Come un uomo getta in alto la sabbia,  
+     «L'[[Pride|Orgoglio]] scaglia fragili palazzi al cielo,  
+       Come un uomo getta in aria sabbia,  
      Ma i fermi piedi dell'[[Humility|umiltà]]  
-       Fanno presa sulla terra pesante.  
-     «La [[Pride|superbia]] gioca con le sue torri cadenti, [260]  
+       Fanno presa sulla terra greve.  
+     «L'[[Pride|Orgoglio]] gioca con le sue torri vacillanti, [260]  
        Toccano il sole e cessano,  
      Ma i fermi piedi dell'[[Humility|umiltà]]  
        Afferrano il suolo come alberi.  
      «Chi ha fallito in una piccola cosa  
-       Ha un segno sulla fronte; [265]  
+       Porta un segno sulla fronte; [265]  
      E i Conti della Grande Armata  
-       Non hanno tale sigillo da mostrare.  
+       Non hanno un tale sigillo da mostrare.  
      «L'impronta rossa sulla mia fronte,  
-       Piccola fiamma per stella rossa,  
+       Piccola fiamma per una stella rossa,  
      All'avanguardia della marcia violenta, allora [270]  
      Quando il cielo è squarciato dalle dieci trombe,  
-     E le mani degli uomini felici urlanti  
+     E le mani degli uomini felici e urlanti  
        Spalancano le porte della guerra.  
      «Questo colpo che non rendo  
-       Dieci volte renderò [275]  
+       Dieci volte lo renderò [275]  
      Su re e conti d'ogni grado,  
      E armate vaste come imperi  
-     Scivoleranno come frane al mare  
+     Scivoleranno come frane verso il mare  
        Se la stella rossa arde.  
-     «Un solo uomo ne scaccerà cento, [280]  
+     «Un uomo ne scaccerà cento, [280]  
        Come scacciavano i re morti;  
-     Davanti a me schiere vacillanti saranno infrante,  
-     E coorti martellanti respinte indietro,  
+     Davanti a me schiere vacillanti saranno squarciate,  
+     E coorti d'assalto respinte all'indietro,  
      Ché io sono il primo [[King|re]] noto al cielo  
        Che sia stato colpito come uno schiavo. [285]  
      «Su per la vecchia [[Road|strada]] bianca, fratelli,  
        Su per le mura romane!  
-     Ché questa è la [[Night|notte]] dello sguainar delle spade,  
+     Ché questa è la [[Night|notte]] in cui si sguainano le spade,  
      E la torre dipinta delle orde pagane  
-     Pende ai nostri martelli, fuochi e corde, [290]  
-       Pende un poco e cade.  
+     Pende verso i nostri martelli, fuochi e corde, [290]  
+       Pende un poco, e cade.  
      «Seguite la stella che vive e balza,  
        Seguite la [[Sword|spada]] che canta,  
      Ché andiamo a mietere uomini pagani,  
-     Messe terribile, dieci a dieci, [295]  
+     Un raccolto terribile, dieci a dieci, [295]  
      Come l'ira dell'ultimo rosso [[Autumn|autunno]]—allora  
-       Quando [[Christ|Cristo]] falcia i re.  
+       Quando [[Christ|Cristo]] falcerà i re.  
      «Seguite una luce che balza e gira,  
        Seguite il [[Fire|fuoco]] spiegato!  
      Ché si leva contro regno e scettro, [300]  
      Una cosa dimenticata, una cosa calpestata,  
      L'ultimo gigante perduto, Dio stesso,  
-       È risorto contro il mondo.»  
+       È risorto contro il mondo».  
      Ruggendo passarono il muro romano,  
        E ruggendo su per il sentiero, [305]  
      Le torce agitate, una scala di [[Fire|fuoco]],  
      Più alto s'udiva il loro [[Hymn|inno]], e più alto,  
-     Più dolce per l'odio e il [[Desire|desiderio]] del cuore,  
-     E su fra sterpi e rovi del nord  
+     Più dolce per l'odio e per il [[Desire|desiderio]] del cuore,  
+     E su fra gli sterpi e i rovi del nord  
        Piombarono sul Danese. [310]  

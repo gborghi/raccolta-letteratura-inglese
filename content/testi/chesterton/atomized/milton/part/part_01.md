@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/milton-(chesterton)">Milton</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/milton/part/part_02">part 02 ›</a></div>
@@ -207,3 +209,206 @@ and the century in which he lived.  He was not supremely classical;
 but he was classical in a [[Time|time]] when classicism was almost forgotten.
 
 He was not specially lucid; but he was moderately intelligible
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/milton-(chesterton)">Milton</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/milton/part/part_02">part 02 ›</a></div>
+</nav>
+
+[[Milton]]: l'uomo e il poeta
+
+			   G K Chesterton
+
+Tutta la mole di materia acuta e preziosa scritta o compilata
+
+su [[Milton]] [[Leaves|lascia]] in eterno una domanda senza risposta;
+
+una difficoltà avvertita da tutti i suoi lettori, se pur espressa da pochi.
+
+Quella difficoltà è un contrasto tra l'uomo e le sue [[Poems|poesie]].
+
+Esiste al mondo un gruppo di persone che perpetuamente cerca di dimostrare
+
+che Shakespeare fosse un villano e non potesse aver scritto di principi,
+
+o che fosse un ubriacone e non potesse aver scritto della virtù.
+
+Credo che vi sia una lieve fallacia nell'argomento.  Ma mi [[Wonder|stupisco]] che non
+
+abbiano tentato lo sport ben più allettante di separare l'autore
+
+de _L' Allegro_ dall'autore della _Defensus Populi Anglicani_.
+
+Poiché il contrasto tra l'uomo [[Milton]] e il poeta [[Milton]] è assai
+
+più grande di quanto comunemente si creda.  [[Fear|Temo]] che il modo più breve
+
+e più chiaro di enunciarlo sia questo: che, tutto sommato,
+
+egli è un poeta che non possiamo fare a meno di amare, e un uomo che non possiamo amare.
+
+Trovo assai più facile credere che uno Shakespeare ubriaco
+
+abbia scritto le parti marmoree di Shakespeare, piuttosto che un [[Milton]] marmoreo
+
+abbia scritto le parti inebriate, o meglio inebrianti, di [[Milton]].
+
+Il carattere di [[Milton]] era freddo; egli era uno di quegli uomini che avevano ogni
+
+virtù tranne l'unica virtù necessaria.  Mentre altri poeti possono essere
+
+stati poligami per passione, egli fu poligamo per principio.
+
+Mentre altri artisti erano meramente egoisti, egli era egotista.
+
+Il pubblico ha l'occhio pronto per i ritratti, un fiuto assai fine
+
+per la personalità; e attraverso due secoli l'immagine tradizionale
+
+di [[Milton]] che detta alle figlie fin quasi a sfinirle
+
+ha conservato la [[Truth|verità]] su [[Milton]]; non gli ha tolto il gelo.
+
+Ma benché la massa degli uomini avverta il fatto [[Milton]] dopo duecento anni,
+
+di rado leggono la poesia di [[Milton]].  E così, poiché [[Milton]]
+
+l'uomo era freddo, hanno aggirato la difficoltà dicendo
+
+che anche il poeta [[Milton]] è freddo; freddo, classico, marmoreo.
+
+Ma la poesia di [[Milton]] non è fredda.  Egli negli anni tardi,
+
+e in un accesso di malumore, scrisse un dramma classico, che è
+
+la sola delle sue opere davvero difficile da leggere.
+
+Ma preso nell'insieme egli è un poeta particolarmente poetico, tanto amante
+
+di simboli e stregonerie quanto Coleridge, tanto amante dei piaceri colorati
+
+quanto Keats.  È talora sufficientemente amoroso da poter essere detto tenero;
+
+è di frequente sufficientemente amoroso da poter essere detto sensuale.
+
+Persino la sua religione non è sempre pagana nella sua poesia.
+
+Se udiste per la prima [[Time|volta]] il verso,
+
+  By the dear might of Him that walked the waves,
+
+immaginereste soltanto che qualche cuore di autentico calore religioso
+
+e di [[Humility|umiltà]], come Crashaw o George Herbert, avesse per un istante
+
+conseguito un trionfo tecnico e trovato un verso senza pecca.
+
+Se leggeste per la prima [[Time|volta]],
+
+  But come, thou Goddess fair and free,
+
+  In heaven yclept Euphrosyne,
+
+pensereste che il più irresponsabile degli elisabettiani
+
+l'avesse pronunciato mentre scendeva danzando per la strada, credendosi
+
+già in Arcadia.  Se leggeste,
+
+  Blossoms and fruits at once of golden hue
+
+  Appeared, with gay enamelled colors mixed,
+
+or
+
+  [[Silence]] was pleased. Now glowed the firmament
+
+  With living sapphires,
+
+pensereste che tutte le ricche tinture dell'[[Orient|Oriente]] e
+
+del Medioevo si fossero incontrate, come avviene in qualche poeta assai moderno,
+
+come Keats o persino Swinburne.  Se leggeste il racconto
+
+della birra, dell'elfo e dei giochi natalizi in _L'Allegro_,
+
+lo credereste scritto dal più gioviale dei poeti campagnoli;
+
+se leggeste certi versi su Eva nel [[Paradise Lost]], li credereste
+
+scritti a un tempo dal più appassionato e dal più cavalleresco
+
+degli [[lovers|amanti]].  Il [[Paradise Lost]] non è tedioso; non è nemmeno frigido.
+
+Chiunque ricordi di aver letto i primi libri da ragazzo
+
+capirà cosa intendo; è un [[Romance|romanzo]], e persino un [[Romance|romanzo]] fantastico.
+
+Vi è in esso qualcosa del _Thalabe the Destroyer_; qualcosa di selvaggio
+
+e magico nell'immagine dell'impero nell'abisso che scala
+
+le torri del mago che è [[King|re]] del cosmo.
+
+Vi è qualcosa di orientale nel suo disegno e nei suoi strani colori.
+
+Non si può immaginare Flaxman che illustra [[Milton]] come illustrò Omero.
+
+Né è vero che i ricchi barbagli dei terrori tropicali siano
+
+resi in un limpido contorno di linguaggio.  Nessuno si prese più libertà
+
+con l'inglese, con la metrica, e persino col buon senso, di [[Milton]];
+
+un esempio, naturalmente, è il ben [[Well|noto]] superlativo su Adamo
+
+e i suoi figli.
+
+[[Milton]] non era un semplice poeta [[Epic|epico]] come Omero, né era neppure
+
+un poeta [[Epic|epico]] particolarmente chiaro come Virgilio.  Se questi due signori
+
+avessero studiato il suo verso, ne avrebbero certo riconosciuto
+
+la potenza; ma avrebbero rifuggito dalle sue inversioni,
+
+dalle sue brusche ellissi, dalle sue frasi che talora arrivano a coda avanti.
+
+Potrei dire perfino che Omero leggendo [[Milton]] avrebbe forse gli stessi
+
+sentimenti di [[Milton]] leggendo Browning.  Avrebbe trovato
+
+  Or of the eternal coeternal beam
+
+un po' oscuro, e
+
+  nor sometimes forget,
+
+  Those other two, equalled with me in fate, etc., etc.,
+
+quasi del tutto inintelligibile.  In questo senso è assurdo
+
+erigere [[Milton]] a poeta superlativamente chiaro e classico.
+
+Nell'arte di rivoltare le frasi come un guanto non ebbe mai eguali;
+
+e l'unica risposta è dire che il risultato è perfetto;
+
+benché sia rovesciato, in qualche modo è pur diritto per il verso giusto.
+
+Ciò nondimeno, la tradizione che pone [[Milton]] con Virgilio e i grandi
+
+e lucidi poeti deve possedere e possiede davvero qualche significato poetico.
+
+Sta, credo, in questo: nello sconcertante contrasto tra [[Milton]]
+
+e il secolo in cui visse.  Non fu supremamente classico;
+
+ma fu classico in un [[Time|tempo]] in cui il classicismo era quasi dimenticato.
+
+Non fu particolarmente lucido; ma fu moderatamente intelligibile

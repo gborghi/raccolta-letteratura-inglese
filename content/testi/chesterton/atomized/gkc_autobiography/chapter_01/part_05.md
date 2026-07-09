@@ -132,10 +132,109 @@ or whose money he would get.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_06">part 06 ›</a></div>
 </nav>
 
-Un'altra autentica virtù vittoriana, che le tante immaginarie virtù vittoriane non riescono a screditare, appartiene non tanto alla mia generazione quanto a quella di mio padre e di mio nonno; o almeno, se sono stato particolarmente fortunato, a mio padre e a mio nonno. Va dunque menzionata in questo luogo, giacché è illustrata da episodi che rientrano nella mia [[Memory|memoria]]. In ogni caso la mia gente possedeva un rigido codice di probità commerciale; ma ho l'impressione che quel codice fosse più rigido in tutta quella classe commerciale più massiccia e flemmatica che non in un [[Time|tempo]] posteriore, quando la nozione di [[success|successo]] finì per mescolarsi non soltanto al cinismo ma a una bizzarra specie di [[Romance|romanticismo]] piratesco. Il mutamento lo si può percepire, come nella parola «rispettabile», nell'atmosfera stessa di certe parole. L'ideale moderno prediletto in fatto di morale e persino di religione, specie la religione divulgata sui giornali per milioni di uomini d'affari moderni, è la parola «avventura». Il [[Monster|mostro]] più minaccioso in fatto di morale, per gli uomini d'affari della mia vecchia classe media, veniva marchiato col titolo di «avventuriero». In tempi più recenti, mi pare, il mondo ha difeso certi avventurieri assai poco difendibili lasciando intendere il fascino dell'avventura. Comunque sia, questa non è soltanto una mia opinione tardiva in un'epoca di reazione. Era l'opinione dei migliori persino tra i vecchi ottimisti ed economisti ortodossi, che vissero quando il mutamento cominciava, e credevano di vivere in un'età di [[Reform|riforme]]. Mio padre e i miei zii appartenevano interamente all'epoca che credeva nel progresso, e in generale nelle cose nuove, tanto più che trovavano sempre più difficile credere nelle cose antiche; e in certi casi in qualsiasi cosa. Ma se come liberali credevano nel progresso, come uomini onesti testimoniavano spesso il deterioramento.
+Un'altra vera virtù vittoriana, da non screditare a causa di molte immaginarie
+virtù vittoriane, appartiene non tanto alla mia generazione quanto a quella di mio
+padre e di mio nonno; o almeno, se fui particolarmente fortunato,
+a mio padre e a mio nonno. Dovrebbe, dunque, essere menzionata
+in questo luogo; se è illustrata da episodi entro la mia stessa [[Memory|Memoria]].
+La mia gente in ogni caso aveva un rigido criterio di probità commerciale;
+ma immagino che il criterio fosse più rigido in tutta quella più flemmatica classe
+commerciale che in un [[Time|tempo]] successivo, quando la nozione di [[success|successo]] si mescolò
+non solo al cinismo ma a una strana sorta di [[Romance|Romanticismo]] piratesco.
+Il mutamento si può avvertire, come nella parola «rispettabile», nella stessa
+atmosfera di certe parole. L'ideale moderno prediletto nella morale
+e perfino nella religione, specialmente la religione resa popolare nei giornali
+per milioni di uomini d'affari moderni, è la parola «avventura».
+Il più minaccioso [[Monster|Mostro]] nella morale, per gli uomini d'affari della mia
+vecchia classe media, era bollato col titolo di «avventuriero».
+In tempi successivi, immagino, il mondo ha difeso certi avventurieri
+piuttosto indifendibili insinuando il fascino dell'avventura.
+Comunque, questa non è soltanto la mia tardiva opinione in un'età di reazione.
+Era l'opinione dei migliori perfino tra i vecchi ottimisti e
+gli ortodossi economisti, che vissero quando il mutamento cominciava, e
+credevano di vivere in un'età di [[Reform|Riforma]]. Mio padre stesso
+e i miei zii erano interamente del periodo che credeva nel progresso,
+e in genere nelle cose nuove, tanto più perché trovavano
+sempre più difficile credere nelle cose vecchie; e in certi casi
+in qualsiasi cosa. Ma benché come Liberali credessero nel progresso,
+da uomini onesti testimoniavano spesso il deterioramento.
 
-Ricordo mio padre che mi raccontava di come avesse cominciato a essere assillato da grandi sciami di gente che pretendeva provvigioni private su transazioni nelle quali si supponeva rappresentassero un altro interesse. Ne parlava non soltanto col più profondo disgusto, ma più o meno come se fosse una novità [[Well|oltre]] che una seccatura. Egli stesso aveva l'abitudine di accogliere quegli individui sgradevoli con uno scoppio comicamente simulato di cordialità e persino di ilarità; ma era l'unica sorta di occasione in cui il suo [[Humour|umorismo]] poteva dirsi torvo e persino feroce. Quando l'agente, mercanteggiando per conto di qualche terzo, insinuava che un'accettabile inezia avrebbe agevolato le trattative, egli diceva con formidabile bonarietà: «Oh, certamente! certamente! Purché siamo tutti amici e tutto si svolga alla luce del sole! Sono certo che i vostri mandanti e datori di lavoro saranno lieti di sapere da me che vi sto pagando una piccola...» Veniva allora interrotto da una sorta di strillo di [[Fear|paura]], e il gentile signore diplomatico copriva le proprie tracce come meglio poteva, in preda al terrore. «E questo non vi dimostra», diceva mio padre con [[Innocent|innocente]] razionalismo, «l'immoralità di una simile proposta?»
+Ricordo mio padre raccontarmi quanto avesse cominciato a essere assediato
+da grandi sciami di persone che volevano commissioni private su transazioni
+in cui si supponeva rappresentassero un altro interesse.
+Lo menzionava non solo col più profondo disgusto, ma più
+o meno come se fosse una novità oltre [[Well|che]] una seccatura.
+Egli stesso era solito accogliere queste sgradevoli persone
+con un umoristico e simulato scoppio di cordialità e persino d'ilarità;
+ma era l'unico genere di occasione in cui il suo [[Humour|umorismo]] poteva dirsi
+tetro e persino feroce. Quando l'agente, mercanteggiando per qualche terza parte,
+accennava che una gradita inezia avrebbe agevolato le trattative,
+egli diceva con formidabile cordialità: «Oh, certamente! certamente!
+Finché siamo tutti amici e tutto è aperto e alla luce del sole!
+Sono sicuro che i vostri mandanti e datori di lavoro saranno lieti di sapere
+da me che vi sto pagando un piccolo...» A quel punto veniva interrotto
+da una sorta di strillo di [[Fear|paura]], e il gentile e diplomatico signore
+copriva le proprie tracce come meglio poteva, atterrito. «E non
+vi prova questo,» diceva mio padre con [[Innocent|innocente]] razionalismo,
+«l'immoralità di una simile proposta?»
 
-Mio zio Sidney, che era suo socio negli affari, era un testimone più incontrovertibile, perché più riluttante. Mio padre era assai universale nei suoi interessi e assai moderato nelle sue opinioni; era uno dei pochi uomini che io abbia mai conosciuto capaci di ascoltare davvero un ragionamento; inoltre era più tradizionalista di molti nell'età liberale; amava molte cose antiche, e nutriva in particolare una passione per le cattedrali francesi e per tutta l'architettura gotica dischiusa da Ruskin in quel [[Time|tempo]]. Non era poi tanto inconcepibile che egli ammettesse un altro lato del progresso moderno. Ma mio zio era l'esatto contrario di un laudator temporis acti. Era uno di quegli uomini sensibili e coscienziosi, assai tipici del mondo moderno, che avevano lo stesso scrupoloso senso del dovere di accettare le cose nuove, e di simpatizzare coi giovani, che i moralisti più antichi potevano aver avuto riguardo al preservare le cose antiche e all'obbedire agli anziani. Ricordo che mi assicurava con vero entusiasmo dei pensieri fiduciosi suscitati in lui dalle ottimistiche profezie ufficiali del libro intitolato Looking Backwards, titolo alquanto ironico, dato che l'unica cosa proibita a simili futuristi era appunto il Guardare Indietro. E l'intera [[philosophy|filosofia]], in seguito sublimata dal genio di Mr. Wells, era il dovere di Guardare Avanti. Mio zio, assai più di mio padre, era questo genere d'uomo scrupolosamente ottimista; e l'ultimo uomo al mondo a difendere i bei tempi andati. Ma era anche un uomo di trasparente sincerità; e ricordo che mi diceva, con quella ruga di preoccupazione sulla fronte che tradiva la sua ansia subconscia e sensibile: «Sono costretto a confessare che la [[morality|moralità]] commerciale è andata costantemente peggiorando nel corso della mia vita.»
+Mio Zio Sidney, che era suo socio nell'attività, era un
+testimone più inconfutabile, perché testimone più riluttante.
+Mio padre era assai universale nei suoi interessi e assai moderato
+nelle sue opinioni; era uno dei pochi uomini che io abbia mai conosciuto che davvero
+ascoltasse un ragionamento; per giunta, era più tradizionalista di
+molti nell'età liberale; amava molte cose antiche, e aveva
+in special modo una passione per le cattedrali francesi e per tutta l'architettura
+gotica dischiusa da Ruskin in quel [[Time|tempo]]. Non era del tutto
+inconcepibile che egli ammettesse un altro lato del progresso moderno.
+Ma mio zio era proprio l'opposto di un laudator temporis acti.
+Era uno di quegli uomini sensibili e scrupolosi, assai tipici del
+mondo moderno, che avevano lo stesso scrupoloso senso del dovere di accettare
+cose nuove, e di simpatizzare con i giovani, che i moralisti più anziani
+potevano aver avuto riguardo al preservare cose vecchie e all'obbedire agli anziani.
+Ricordo che mi assicurava con vera premura i pensieri di speranza
+suscitati in lui dalle ottimistiche profezie ufficiali del libro
+intitolato Looking Backwards, titolo piuttosto ironico, visto che
+l'unica cosa proibita a simili futuristi era il Guardare Indietro.
+E l'intera [[philosophy|filosofia]], sublimata più tardi dal genio
+del signor Wells, era il dovere di Guardare Avanti. Mio zio,
+assai più di mio padre, era questo tipo scrupolosamente sanguigno d'uomo;
+e l'ultimo uomo al mondo a difendere i bei tempi andati.
+Ma era anche un uomo veritiero con tutta trasparenza; e ricordo che egli mi
+diceva, con quella ruga di preoccupazione sulla fronte, che confessava
+la sua subconscia e sensibile ansia: «Sono costretto a confessare che
+la [[morality|moralità]] commerciale è peggiorata costantemente nell'arco della mia vita.»
 
-Naturalmente ammetto, anzi mi vanto, che in qualcosa come la simpatia per una simile Utopia quegli individui fossero in anticipo sui tempi. Ma mi vanto assai di più che, nella grande crescita moderna dell'alta finanza, fossero in ritardo sui tempi. La classe nel suo insieme era, in verità, pericolosamente sorda e cieca sulla prima questione, quella dello sfruttamento economico; ma era relativamente più vigile e sensibile sulla seconda questione, quella della decenza finanziaria. A quella gente non passava neppure per la mente che qualcuno potesse ammirare un uomo per essere ciò che noi chiamiamo «audace» nella speculazione, più di quanto potesse ammirare una donna per essere ciò che noi chiamiamo «audace» nell'abbigliamento. C'era qualcosa dello stesso mutamento atmosferico in entrambi i casi. L'assenza di [[Ambition|ambizione]] sociale vi aveva molta parte. Quando le restrizioni erano davvero soffocanti e stupide, erano in gran parte quelle dell'ignoranza; ma ciò non era affatto tanto malvagio e rovinoso quanto l'ignoranza dei veri torti e diritti delle classi lavoratrici. Il Cielo sa, ed è persino possibile che in certi casi lo sappia il lettore, che io non sono ammiratore della compiaciuta prosperità commerciale dell'Inghilterra nel diciannovesimo secolo. Nel migliore dei casi fu un [[Individualism|individualismo]] che finì col distruggere l'individualità; un industrialismo che non ha fatto altro che [[Poison|avvelenare]] il significato stesso della parola industria. Nel peggiore dei casi si trasformò infine in una volgare vittoria dello sfruttamento e dell'imbroglio. Sto soltanto rilevando un punto particolare a proposito di un particolare gruppo o classe, ormai estinto; e cioè che, se erano ignari, o spesso indifferenti, allo sfruttamento, erano invece davvero indignati per l'imbroglio. Allo stesso modo, pochi mi accuseranno di [[Puritanism|puritanesimo]]; ma credo sia doveroso, verso la tradizione puritana, dire che certe nozioni di sobrietà sociale ebbero qualcosa a che fare col ritardare il pieno trionfo della finanza vistosa e delle mere pagliacciate dell'avarizia. Comunque sia, c'è stato un passaggio da una classe media che si fidava di un uomo d'affari perché badasse al denaro in quanto era ottuso e prudente, a una che si fida di un uomo d'affari perché procuri più denaro in quanto è brillante e mondano. Non sempre si è chiesta per chi egli avrebbe procurato più denaro, o di chi sarebbe stato il denaro che avrebbe procurato.
+Naturalmente ammetto, o piuttosto mi vanto, che in qualcosa come la simpatia
+per una qualunque simile Utopia, tali individui erano in anticipo sui tempi.
+Ma mi vanto assai di più che, nella grande crescita moderna dell'alta
+finanza, essi erano indietro rispetto ai tempi. La classe nel suo insieme era,
+in effetti, pericolosamente sorda e cieca sulla prima questione
+dello sfruttamento economico; ma era relativamente più vigile
+e sensibile sulla seconda questione della decenza finanziaria.
+Non veniva mai in mente a questa gente che qualcuno potesse
+ammirare un uomo per essere ciò che chiamiamo «audace» nella speculazione,
+non più di quanto ammirasse una donna per essere ciò che chiamiamo «audace» nel vestire.
+C'era qualcosa dello stesso mutamento atmosferico in entrambi i casi.
+L'assenza di [[Ambition|Ambizione]] sociale aveva molto a che fare con ciò.
+Quando le restrizioni erano davvero soffocanti e stupide, erano in gran parte
+quelle dell'ignoranza; ma ciò non era affatto tanto malvagio e rovinoso
+quanto l'ignoranza dei veri torti e diritti delle classi lavoratrici.
+Il cielo sa, è persino possibile che in certi casi il lettore sappia,
+che io non sono un ammiratore della compiaciuta prosperità commerciale dell'Inghilterra
+nell'Ottocento. Nel migliore dei casi era un [[Individualism|Individualismo]] che finì
+col distruggere l'individualità; un industrialismo che non ha fatto nulla
+se non [[Poison|avvelenare]] il significato stesso della parola industria. Nel peggiore dei casi
+si tramutò infine in una volgare vittoria dello sfruttamento e della truffa.
+Sto solo additando un punto particolare riguardo a un particolare gruppo
+o classe, ora estinto; che, se erano ignari, o spesso indifferenti,
+allo sfruttamento, erano davvero indignati per la truffa.
+Allo stesso modo, pochi mi accuseranno di [[Puritanism|Puritanesimo]]; ma credo sia
+dovuto alla tradizione puritana dire che certe nozioni di sobrietà sociale
+ebbero davvero qualcosa a che fare col ritardare il pieno trionfo
+della finanza sgargiante e delle mere buffonate dell'avarizia. Comunque, c'è
+stato un mutamento da una classe media che si fidava di un uomo d'affari perché badasse
+al denaro in quanto ottuso e cauto, a una che si fida
+di un uomo d'affari perché faccia più denaro in quanto brillante e mondano.
+Non sempre si è chiesta per chi egli avrebbe fatto più denaro,
+o di chi fosse il denaro che avrebbe fatto.

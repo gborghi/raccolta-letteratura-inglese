@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_81_putting_the_clock_back">‹ Story 81 Putting The Clock Back</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_83_the_living_past">Story 83 The Living Past ›</a></div>
@@ -80,3 +82,79 @@ That is why the few mild and rational people are accused
 of standing on their heads.
 
                               Illustrated [[London]] News, February 24th, 1912
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_81_putting_the_clock_back">‹ Story 81 Putting The Clock Back</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_83_the_living_past">Story 83 The Living Past ›</a></div>
+</nav>
+
+IL NUMERO CHE AVEVI PENSATO ALL'INIZIO
+
+Coloro che vanno in giro per il mondo a proporre indovinelli e rompicapi
+(quei nemici del genere umano) avevano un tempo un gioco particolare che,
+dopo ramificazioni aritmetiche, si concludeva col «togliere il numero
+che avevi pensato all'inizio».  È un gioco sciocco e, come molti altri
+giochi sciocchi, è stato giocato da grandi imperi e su vasta scala.
+Quel tocco di ipercivilizzazione che è sempre il primo tocco [sic]
+di una barbarie di ritorno si può notare al meglio ogni volta che notiamo questo gioco
+di sottrarre il pensiero originario con cui tutto è cominciato.
+Voglio dire che gli uomini erigono istituzioni ed elaborazioni intorno
+al pilastro centrale di un pensiero.  Poi, dopo il trascorrere di secoli,
+il pilastro centrale crolla, ma il resto dell'edificio rimane.
+Un tale edificio non è sempre in pericolo, ma è in [[Decay|declino]].
+
+I nostri antenati, nel mattino del mondo, appaiono in certi
+atteggiamenti antichi e, come credo, eterni; nella postura del
+compimento di certi atti umani primordiali; come cacciare o danzare
+o banchettare o offrire sacrifici agli dèi.  È giusto e naturale
+che queste cose crescano più ricche e più complesse col [[Time|tempo]].
+Ma è decadente e pericoloso quando queste cose dimenticano la propria origine
+e alterano la propria [[Nature|natura]] più intima; quando, dopo un tratto di secoli,
+si sono trasformate in qualcos'altro, talvolta in qualcosa di opposto.
+
+Per evitare gli affascinanti temi del bere e della religione,
+prendiamo il caso della caccia.  Lo sport ha silenziosamente e sottilmente
+capovolto il suo antico carattere.  L'essenza del mutamento è questa;
+che gli uomini cominciarono con l'idea comparativamente generosa di uccidere
+le bestie selvagge e sono finiti con l'idea comparativamente meschina
+di preservarle.  ... Non intendo con ciò indicare
+che io ritenga sbagliato preservare o cacciare [[Birds|uccelli]]; non lo penso.
+Uso soltanto questo capovolgimento dell'eroico nella caccia come esempio
+del modo in cui le società troppo elaborate finiscono con la coda
+in bocca; in una postura non solo attorcigliata, ma rovesciata.
+
+Naturalmente, ci sono altri esempi.  C'era l'uomo primitivo
+che offriva sacrifici agli dèi.  Il sacrificante costruisce
+un altare e vi versa sopra vino o [[Blood|sangue]] o qualcos'altro e leva
+le mani al cielo e parla a qualcuno che non può vedere.
+Poi, col passare del [[Time|tempo]], egli trasforma le sue parole in un
+canto ordinato e poi, forse, in un libro scritto; e ha
+un tetto a coprire le persone che vengono a vederlo sacrificare,
+e un leggio da cui leggere il libro, e una sorta di foro o pulpito
+in cui stare a spiegare ciò che aveva fatto, e così via.
+E poi, quando la civiltà è cresciuta per qualche secolo,
+arriva una Società Etica—l'avanguardia della barbarie.
+La puoi riconoscere da questo fatto straordinario; che non toglie
+le aggiunte e le escrescenze intorno alla vecchia cosa umana;
+toglie la vecchia cosa umana stessa.  [[Leaves|Lascia]] il leggio
+e la cassetta delle chiacchiere e la gente seduta immobile su duri sedili.
+Ma toglie l'altare.  Toglie Dio.
+Toglie il numero che aveva pensato all'inizio.
+
+Avrei potuto fare molti altri esempi di questo rivoltare una cosa
+a rovescio, di questa sottrazione dello scopo originario.
+Ho fatto il caso del cacciatore che ora si preoccupa soprattutto
+di preservare le stesse creature che si era prefisso di distruggere.
+Ho fatto il caso dell'Idealista Etico, persona davvero
+riverente, che continua a insistere per inginocchiarsi anche quando non ha
+nulla dinanzi a cui inginocchiarsi.  Posso solo suggerire che in questo filo
+di pensiero si troverà davvero una chiave nella critica del
+mondo moderno, che è dal principio alla fine un mondo alla rovescia.
+È per questo che le poche persone miti e ragionevoli sono accusate
+di stare a testa in giù.
+
+                              Illustrated [[London]] News, 24 febbraio 1912

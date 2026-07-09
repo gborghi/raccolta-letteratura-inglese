@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_62_automatic_evil">‹ Story 62 Automatic Evil</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_64_the_shape_of_things_to_come">Story 64 The Shape Of Things To Come ›</a></div>
@@ -31,3 +33,30 @@ of all religions, good and bad; all philosophies, true and false.
 He is the tyrannical sceptic--and his name is Pilate.
 
                                           Black and White, March 7th, 1903
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_62_automatic_evil">‹ Story 62 Automatic Evil</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_64_the_shape_of_things_to_come">Story 64 The Shape Of Things To Come ›</a></div>
+</nav>
+
+LO SCETTICO TIRANNICO
+
+È un errore totale supporre che il possesso di convinzioni,
+di convinzioni salde, forti, inestinguibili, renda un uomo bigotto.
+È proprio il contrario. Le persone più bigotte al mondo
+sono quelle che non hanno convinzioni di sorta.
+Può sembrare un'affermazione estrema o bizzarra, ma è davvero
+vero che non vi sono al mondo argomenti su cui gli uomini
+siano tanto chiassosi, tanto aggressivi, tanto violenti e adirati fino
+perfino all'uccidere, quanto gli argomenti che non stanno loro a cuore.
+... Gli uomini hanno detto che il fondamento del bigottismo è l'ignoranza,
+ma più di questo è vero: il fondamento del bigottismo è l'indifferenza.
+C'è una figura che ha dominato la [[history|storia]] ed è stata l'oppressore
+di tutte le religioni, buone e cattive; di tutte le filosofie, vere e false.
+È lo scettico tirannico, e il suo nome è Pilato.
+
+                                          Black and White, 7 marzo 1903

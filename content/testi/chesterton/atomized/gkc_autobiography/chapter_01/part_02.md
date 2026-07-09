@@ -128,23 +128,105 @@ lay all my relations prostrate for miles around.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_03">part 03 ›</a></div>
 </nav>
 
-«Lei è un Monumento», disse lo strano gentiluomo, «Signore, lei è una Pietra Miliare».
+«Voi siete un Monumento,» disse lo strano gentiluomo, «Signore, voi
+siete un Punto di Riferimento.»
 
-Mio nonno, un poco lusingato, mormorò cortesemente che erano certamente stati a Kensington per un certo [[Time|tempo]].
+Mio nonno, lievemente lusingato, mormorò cortesemente che essi
+si trovavano di certo a Kensington da un certo [[Time|tempo]].
 
-«Lei è un Personaggio Storico», disse lo sconosciuto ammirato. «Ha mutato l'intero destino della Chiesa e dello Stato».
+«Voi siete un Personaggio Storico,» disse lo sconosciuto ammirato.
+«Avete mutato l'intero destino della Chiesa e dello Stato.»
 
-Mio nonno continuava a supporre con leggerezza che questa potesse essere una maniera poetica di descrivere una fiorente agenzia [[house|immobiliare]]. Ma una luce cominciò a farsi strada nella mente di mio padre, che aveva meditato a fondo su tutti i movimenti della High Church e della Broad Church ed era [[Well|ben]] ferrato in tali materie. Si ricordò all'improvviso del caso «Westerton contro Liddell», in cui un guardiano di chiesa protestante processò un parroco per uno dei più oscuri delitti del Papismo, forse quello di indossare una cotta.
+Mio nonno continuava a supporre con leggerezza che questo potesse essere un modo poetico
+di descrivere una fiorente [[house|agenzia]] immobiliare. Ma una luce cominciò a farsi
+in mio padre, che si era fatto strada attraverso tutti i movimenti dell'Alta Chiesa
+e della Chiesa Larga ed era assai [[Well|ferrato]] in tali cose.
+Ricordò d'improvviso il caso «Westerton contro Liddell»
+in cui un fabbriciere protestante perseguì un parroco per uno
+dei più oscuri crimini del papismo, forse l'indossare una cotta.
 
-«E [[Hope|spero]] soltanto», proseguì lo sconosciuto con fermezza, rivolgendosi ancora al Campione Protestante, «che le funzioni alla Chiesa Parrocchiale siano ora condotte in un modo che lei approva».
+«E [[Hope|spero]] soltanto,» proseguì con fermezza lo sconosciuto, rivolgendosi ancora
+al Campione Protestante, «che le funzioni alla Chiesa Parrocchiale
+siano ora condotte in un modo di cui voi approviate.»
 
-Mio nonno osservò in tono affabile che non gliene importava nulla di come fossero condotte. Queste notevoli parole del Campione Protestante indussero il suo adoratore a contemplarlo con una nuova [[Dawn|aurora]] di [[Wonder|meraviglia]], quando mio padre intervenne e spiegò l'equivoco, mettendo in luce la sottile sfumatura che divide Westerton da Chesterton. Posso aggiungere che mio nonno, quando si raccontava la storia, insisteva sempre di aver aggiunto alla frase «non m'importa come siano condotte» le parole qualificanti (ripetute con un [[Grave|grave]] gesto della mano) «purché sia con riverenza e sincerità». Ma mi addolora dire che gli scettici della generazione più giovane ritenevano che questo fosse un ripensamento.
+Mio nonno osservò con fare gioviale che non gli importava come
+fossero condotte. Queste notevoli parole del Campione Protestante
+indussero il suo adoratore a fissarlo con una nuova [[Dawn|alba]] di [[Wonder|stupore]],
+quando mio padre intervenne e spiegò l'errore, additando
+la sottile sfumatura che divide Westerton da Chesterton.
+Posso aggiungere che mio nonno, quando la storia veniva raccontata, insisteva sempre
+di aver aggiunto alla frase «Non m'importa come
+sono condotte» le parole di riserva (ripetute con un [[Grave|grave]] moto
+della mano) «purché sia con riverenza e sincerità».
+Ma mi affligge dire che gli scettici della generazione più giovane credevano
+che ciò fosse stato un ripensamento.
 
-Il punto è, tuttavia, che mio nonno fu compiaciuto, e non davvero molto stupito, di essere chiamato un monumento e una pietra miliare. E ciò era tipico di molti uomini del ceto medio, anche nei piccoli commerci, in quel mondo remoto. Poiché quella particolare specie di borghesia britannica di cui sto parlando è stata così tanto mutata o ridotta, che non si può dire esattamente che esista oggi. Nulla di esattamente simile ad essa, almeno, si può trovare in Inghilterra; nulla di lontanamente simile, immagino, si trovò mai in [[America]]. Una peculiarità di questo ceto medio era che esso era davvero un ceto ed era davvero nel mezzo. Sia nel bene sia nel male, e certo spesso fino all'eccesso, era separato tanto dalla classe che gli stava sopra quanto da quella che gli stava sotto. Conosceva assai troppo poco le classi lavoratrici, con [[Grave|grave]] pericolo per una generazione successiva. Conosceva assai troppo poco perfino i propri domestici. La mia gente fu sempre molto gentile con i domestici; ma nella classe nel suo insieme non c'era né la rozza familiarità nel lavoro, che appartiene alle democrazie e si può osservare nelle massaie schiamazzanti e imprecanti del Continente, né i resti di una cordialità feudale come quella che indugia nella vera aristocrazia. C'era una sorta di [[Silence|silenzio]] e di imbarazzo. Ciò fu illustrato in un altro aneddoto per sentito dire, che posso qui aggiungere all'aneddoto del Campione Protestante. Una signora della mia famiglia andò ad abitare nella [[house|casa]] di un'amica in assenza di quest'ultima, per essere servita da una sorta di domestica di rango superiore. La signora si era ficcata in testa che la domestica cucinasse i propri pasti separatamente, mentre la domestica era altrettanto ferma nella politica di mangiare ciò che avanzava dai pasti della signora. La domestica mandò in tavola, poniamo, cinque fette di pancetta per la colazione; il che era più di quanto la signora volesse. Ma la signora aveva un altro fisso capriccio di [[Conscience|coscienza]], comune alle signore dell'epoca. Riteneva che nulla dovesse essere sprecato; e non riusciva a vedere che perfino una cosa consumata è sprecata se non è desiderata. Mangiò le cinque fette e la domestica di conseguenza ne mandò in tavola sette. La signora impallidì un poco, ma seguì il sentiero del dovere e le mangiò tutte. La domestica, cominciando a sentire che anche a lei sarebbe piaciuta una piccola colazione, ne mandò su nove o dieci. La signora, radunando tutte le sue forze, le caricò a testa bassa e le spazzò via dal campo. E così, suppongo, la cosa proseguì; a causa del cortese [[Silence|silenzio]] tra le due classi sociali. Non oso pensare a come sia finita. La conclusione logica parrebbe essere che la domestica morì di fame e la signora scoppiò. Ma suppongo che, prima di giungere a quel punto, qualche comunicazione fosse stata aperta anche tra due persone che vivevano su due piani della stessa [[house|casa]]. Ma quello era certamente il lato debole di quel mondo; che esso non estendeva la propria confidenza domestica ai domestici. Sorrideva e si sentiva superiore leggendo dei vassalli del mondo antico che pranzavano sotto il sale, e continuava a sentirsi altrettanto superiore ai propri vassalli, che pranzavano sotto il pavimento.
+Il punto è, comunque, che mio nonno fu contento, e non
+troppo stupito, di essere chiamato un monumento e un punto di riferimento.
+E ciò era tipico di molti uomini della classe media, anche nei piccoli commerci,
+in quel mondo remoto. Poiché il particolare genere di borghesia britannica
+di cui parlo è stato talmente alterato o diminuito
+da non potersi dire esattamente che esista oggi. Nulla di esattamente simile ad esso,
+almeno, si può trovare in Inghilterra; nulla che vi somigli minimamente, immagino,
+si è mai trovato in [[America]]. Una peculiarità di questa classe media
+era che era davvero una classe ed era davvero nel mezzo.
+Sia nel bene che nel male, e certo spesso all'eccesso, era
+separata sia dalla classe superiore ad essa sia da quella inferiore.
+Sapeva assai troppo poco delle classi lavoratrici, con [[Grave|grave]] pericolo di una
+generazione successiva. Sapeva assai troppo poco perfino dei propri domestici.
+La mia gente fu sempre molto gentile con i domestici; ma nella classe
+nel suo insieme non c'era né la rozza familiarità nel lavoro,
+che appartiene alle democrazie e si può vedere nelle massaie schiamazzanti e imprecanti
+del Continente, né i resti di una cordialità feudale
+come indugia nella vera aristocrazia. C'era una sorta di [[Silence|silenzio]]
+e d'imbarazzo. Ciò fu illustrato in un altro aneddoto per sentito dire,
+che posso qui aggiungere all'aneddoto del Campione Protestante.
+Una signora della mia famiglia andò a vivere nella [[house|casa]] di un'amica in
+assenza dell'amica; per essere servita da una sorta di domestica superiore.
+La signora si era fissata in testa che la domestica si cucinasse
+i propri pasti separatamente, mentre la domestica era altrettanto fissata
+nella politica di mangiare ciò che avanzava dai pasti della signora.
+La domestica mandò su per la colazione, poniamo, cinque fette di pancetta;
+il che era più di quanto la signora volesse. Ma la signora aveva un'altra
+fissa bizzarria di [[Conscience|coscienza]], comune nelle signore del periodo.
+Riteneva che nulla dovesse essere sprecato; e non riusciva a vedere
+che perfino una cosa consumata è sprecata se non la si vuole.
+Mangiò le cinque fette, e di conseguenza la domestica mandò su
+sette fette. La signora impallidì un poco, ma seguì il sentiero
+del dovere e le mangiò tutte. La domestica, cominciando a sentire che anche lei
+avrebbe gradito un po' di colazione, mandò su nove o dieci fette.
+La signora, radunando tutte le sue forze, le caricò a testa bassa,
+e le spazzò via dal campo. E così, suppongo, andò avanti;
+a causa del cortese [[Silence|silenzio]] tra le due classi sociali.
+Non oso pensare come finì. La conclusione logica parrebbe
+essere che la domestica morì di fame e la signora scoppiò. Ma suppongo che,
+prima che giungessero a quel punto, si fossero aperte alcune comunicazioni
+anche tra due persone che vivevano su due piani della stessa [[house|casa]].
+Ma quello era di certo il lato debole di quel mondo; che
+non estendeva la sua confidenza domestica ai domestici.
+Sorrideva e si sentiva superiore leggendo dei vassalli del vecchio mondo
+che pranzavano al di sotto del sale, e continuava a sentirsi altrettanto superiore
+verso i propri vassalli, che pranzavano al di sotto del pavimento.
 
-Ma per quanto possiamo criticare il vecchio ceto medio, e per quanto di cuore possiamo unirci a quelle immortali parole del [[Song|Canto]] del Futuro, che si dice recitino:
+Ma per quanto si possa criticare la vecchia classe media, e per quanto di cuore
+ci si possa unire a quelle immortali parole della [[Song|Canzone]] del Futuro,
+che si dice suonino così:
 
-  Coscienti di classe siamo, coscienti di classe saremo;
-  Finché il nostro piede non sarà sul collo della borghesia,
+  Coscienti della classe siamo, coscienti della classe saremo;
+  Finché il nostro piede sarà sul collo della borghesia,
 
-esso ha diritto alla giustizia storica; e vi sono altri punti da ricordare. Un punto è che furono in parte le reali «conquiste culturali» di questo strato del ceto medio, e il fatto che esso fosse davvero una classe istruita, a renderlo indebitamente sospettoso dell'influenza dei domestici. Attribuiva anche troppa importanza allo scrivere correttamente; attribuiva enorme importanza al parlare correttamente. E scriveva e parlava davvero correttamente. C'era tutto un mondo in cui nessuno era più incline a lasciar cadere un'acca che a raccogliere un titolo nobiliare. Scoprii presto, con la malizia dell'infanzia, che ciò di cui i miei maggiori avevano davvero paura era qualsiasi [[Imitation|imitazione]] dell'intonazione e della dizione dei domestici. Mi si racconta (per citare un altro aneddoto per sentito dire) che, verso i tre o quattro anni, urlai per avere un cappello appeso a un gancio, e alla fine, in convulsioni di furore, pronunciai le tremende parole: «Se non me lo dai, dirò 'appello». Ero certo che ciò avrebbe steso al suolo tutti i miei parenti per miglia all'intorno.
+essa ha diritto alla giustizia storica; e ci sono altri punti
+da ricordare. Un punto è che fu in parte proprio la «conquista culturale»
+di questo strato della classe media, e il fatto che fosse davvero
+una classe istruita, a renderla indebitamente sospettosa dell'influenza
+dei domestici. Attribuiva un'importanza piuttosto eccessiva alla corretta ortografia;
+attribuiva un'enorme importanza al parlare correttamente.
+E scriveva e parlava davvero correttamente. C'era tutto un mondo in cui
+nessuno era più incline a perdere un'acca che a raccogliere un titolo.
+Scoprii presto, con la malizia dell'infanzia, che ciò di cui i miei maggiori
+avevano davvero paura era ogni [[Imitation|imitazione]] dell'intonazione e della dizione
+dei domestici. Mi si dice (per citare un altro aneddoto per sentito dire)
+che verso l'età di tre o quattro anni, strillai per un cappello appeso
+a un gancio, e alla fine, in convulsioni di furia, pronunciai le tremende parole:
+«Se non me lo dai, dirò 'appello.» Ero certo che ciò
+avrebbe steso a terra tutti i miei parenti per miglia intorno.

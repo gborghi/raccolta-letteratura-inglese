@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_97_surprise">‹ Story 97 Surprise</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_99_the_sage">Story 99 The Sage ›</a></div>
@@ -106,3 +108,105 @@ But anyone who shrinks from this is a traitor to the great scheme
 and experiment of being.
 
                                     T. P.'s Weekly, Christmas Number, 1910
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_97_surprise">‹ Story 97 Surprise</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_99_the_sage">Story 99 The Sage ›</a></div>
+</nav>
+
+LA FILOSOFIA DELLE ZUCCHE
+
+Non esiste argomento filosofico contro i miracoli.
+Esistono cose come le leggi della Natura, razionalmente parlando.
+Ciò che tutti sanno è soltanto questo: che nella natura c'è ripetizione.
+Ciò che tutti sanno è che le zucche producono zucche.
+Ciò che nessuno sa è perché non dovrebbero produrre elefanti e giraffe.
+
+La questione dei miracoli è semplicemente questa.  Sapete perché una zucca
+continua a essere una zucca?  Se non lo sapete, non potete affatto dire
+se una zucca possa trasformarsi in una carrozza o no.  Tutto qui.
+
+Tutte le altre espressioni scientifiche che avete l'abitudine di
+usare a colazione sono parole e vento.  Voi dite: «È una legge
+di [[Nature|natura]] che le zucche restino zucche».  Ciò significa soltanto
+che le zucche generalmente restano zucche, il che è ovvio;
+non dice perché.  Voi dite: «L'esperienza è contraria».
+Ciò significa soltanto: «Ho conosciuto intimamente molte zucche e nessuna
+di esse si è trasformata in carrozza».  ...
+
+Ciò che il [[Christianity|Cristianesimo]] dice è semplicemente questo: che questa ripetizione
+nella [[Nature|Natura]] ha la sua origine non in una cosa che somiglia a una legge,
+ma in una cosa che somiglia a una volontà.  Naturalmente la sua espressione
+di un Padre Celeste è tratta da un padre terreno.
+Del tutto ugualmente l'espressione di una legge universale è una metafora
+tratta da un Atto del Parlamento.  Ma il [[Christianity|Cristianesimo]] sostiene che il mondo
+e la sua ripetizione sono venuti per volontà o per [[Love|amore]], come i figli sono generati
+da un padre, e che perciò altre e diverse cose
+potrebbero venirne.  In breve, esso crede che un Dio capace di
+fare qualcosa di così straordinario come far continuare le zucche a essere
+zucche sia, come il [[Prophet|profeta]] Abacuc, capace de tout.
+Se non ritenete straordinario che una zucca sia sempre
+una zucca, ripensateci.  Non avete ancora nemmeno cominciato la [[philosophy|filosofia]].
+Non avete nemmeno visto una zucca.
+
+                                           Daily News, 2 settembre 1905
+
+«IN PRINCIPIO»
+
+Ciò che va bene nel mondo è il mondo.  In realtà, quasi ogni altra
+cosa in esso va storta.  Questa è quella grande verità nel tremendo
+racconto della Creazione, una verità che il nostro popolo deve ricordare o perire.
+È al principio che le cose sono buone, e non (come dicono i più
+pallidi progressisti) soltanto alla fine.  Le cose primordiali —
+l'esistenza, l'energia, il frutto — sono buone per quel che valgono.
+Non potete avere una vita malvagia, benché possiate avere notori viventi malvagi.
+La virilità e la femminilità sono cose buone, benché uomini e donne siano
+spesso perfettamente pestilenziali.  Potete usare i papaveri per drogare la gente,
+o le betulle per bastonarla, o le pietre per farne un idolo, o il grano
+per farne un monopolio; ma resta vero che, in astratto,
+prima di aver fatto qualsiasi cosa, ciascuna di queste quattro cose è
+in stretta verità una gloria, una benefica specialità e varietà.
+Noi lodiamo il Signore che vi siano betulle che crescono tra
+le rocce e papaveri tra il grano; noi lodiamo il Signore,
+anche se non crediamo in Lui.  Noi ammiriamo e applaudiamo
+il progetto di un mondo, proprio come se fossimo stati chiamati a consiglio
+nella tenebra primordiale e avessimo veduto il primo stellato disegno dei cieli.
+Siamo, di fatto, assai più certi che questa nostra vita
+sia un'impresa magnifica e stupefacente di quanto lo siamo che
+essa riuscirà.
+
+Sono molto più sicuro che ogni cosa sia buona al principio
+di quanto lo sia che ogni cosa sarà buona alla fine.
+... Che tutta questa impalcatura di cose, questa carne, queste pietre,
+siano cose buone, di ciò sono più brutalmente certo di quanto sappia dire.
+Ma quanto a ciò che accadrà loro, questo è fare
+un passo nel dogma e nella profezia.  Parlo qui, s'intende,
+unicamente dei miei sentimenti personali, e nemmeno del mio credo ragionato.
+Ma solo per i miei istinti non avrei idea di ciò che
+alla fine accadrà a questo mondo materiale che ritengo tanto magnifico.
+Sono un agnostico, come la maggior parte delle persone con una teologia positiva.
+Ma affermo, con tutto il peso della sincerità, che gli alberi
+e i fiori sono buoni al principio, qualunque cosa accada loro
+alla fine; che le vite umane erano buone al principio,
+qualunque cosa accada loro alla fine.  L'ordinaria posizione
+progressista moderna è che questo sia un universo cattivo, ma che
+certamente migliorerà.  Io dico che è certamente un universo buono,
+anche se peggiora.  Io dico che questi alberi e fiori,
+stelle e sessi, sono buoni in primo luogo, non soltanto in ultima istanza.
+In Principio la potenza al di là delle parole creò il cielo e la terra.
+In Principio Egli li guardò e vide che erano buoni.
+
+Tutta questa inevitabile teoria (poiché la teoria è sempre inevitabile)
+può essere popolarmente riassunta così.  Dobbiamo considerare l'esistenza
+come un'incursione o una grande avventura; essa va giudicata, dunque,
+non dalle calamità che incontra, ma dalla bandiera che segue
+e dall'alta città che assale.  La cosa più pericolosa al
+mondo è essere vivi; si è sempre in pericolo di vita.
+Ma chiunque si ritragga da questo è un traditore del grande disegno
+e dell'esperimento dell'essere.
+
+                                    T. P.'s Weekly, Numero di Natale, 1910

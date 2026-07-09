@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/myths-and-metaphors-(chesterton)">Myths and Metaphors</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/myths_and_metaphors/part/part_01">‹ part 01</a><span></span></div>
@@ -70,3 +72,69 @@ Footnote 1:  This is the title of a collection of Swinburne's [[Poems|poems]]
 (1871) with a strongly political cast.
 
 === End ===
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/myths-and-metaphors-(chesterton)">Myths and Metaphors</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/myths_and_metaphors/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Ma l'abitudine mitologica non è interamente ed esclusivamente
+confinata agli uomini di scienza, e nemmeno ai materialisti. Questa sorta
+di mitologia è piuttosto diffusa in generale nel mondo moderno.
+La forma popolare del mitologico è il metaforico.
+Certe figure retoriche sono fissate nella mente moderna, esattamente come le
+favole degli dèi e delle ninfe erano fissate nella mente dell'antichità pagana.
+È stupefacente notare quanto spesso, quando ci rivolgiamo a un uomo con
+qualcosa che somigli a un'idea, egli risponda con qualche metafora consacrata,
+che si suppone appropriata al caso. Se gli dite:
+"Io stesso preferisco il principio della Corporazione al principio
+del Trust," non vi risponderà parlando di principii.
+Si può contare sul fatto che dirà: "Non si può riportare indietro l'[[Clock|orologio]],"
+con tutta la regolarità di un [[Clock|orologio]] che ticchetta. Questo è un esempio molto estremo
+del crollo mentale che accompagna una ricaduta nella metafora.
+Poiché l'uomo sta effettivamente comprendendo il proprio caso per puro
+[[Love|amore]] della metafora. Può darsi che non si possa riportare indietro il [[Time|tempo]],
+ma si può riportare indietro l'[[Clock|orologio]]. Sarebbe in una posizione più solida
+se parlasse dell'astrazione chiamata [[Time|tempo]]; ma un appetito onnivoro
+per il linguaggio figurato lo costringe a parlare di orologi.
+Naturalmente la vera questione sollevata non ha nulla a che fare né con gli orologi
+né con il [[Time|tempo]]. È la questione se certi principii astratti,
+che possono o meno essere stati osservati in passato, debbano essere
+osservati in futuro. Ma il punto è qui: che perfino l'uomo che intende dire
+che non possiamo ricostruire il passato non riesce quasi mai a ricostruire
+la propria frase in altra forma se non in questa forma figurata.
+Senza il suo mito, o la sua metafora, è perduto.
+
+Un'altra massa di metafore è tratta dai fenomeni del mattino,
+o dal fatto che il sole sorge; o, piuttosto (mi prostro chiedendo scusa all'uomo
+di scienza), sembra sorgere. È una metafora perfettamente naturale
+per i poeti; o invero per tutti gli uomini, in quell'aspetto in cui tutti gli uomini
+sono mistici. Che vi sia mistero in queste cose naturali, che l'
+[[Imagination|immaginazione]] comprende più sottilmente della ragione, è abbastanza vero.
+Né provo alcun disprezzo neppure per la mitologia considerata come mitologia.
+Ma quando vogliamo sapere ciò che qualcuno vuole fare, quando
+chiediamo a un libero pensatore cosa pensa, e perché lo pensa, è
+un po' fastidioso sentirsi dire che sta aspettando l'[[Dawn|Alba]],
+o che è al momento intento a cantare [[songs|Songs]] Before Sunrise.
+[Nota 1] Si è tentati di ribattere che l'[[Dawn|alba]] non è sempre
+una cosa del tutto lieta, anche per coloro che hanno esercitato il loro
+libero pensiero sulla tradizione convenzionale della propria società.
+Esiste una cosa come l'essere fucilati all'[[Dawn|alba]].
+
+Non intendo affatto, si capisce, che dovremmo fare a meno del tutto
+di miti e metafore. Io stesso li uso di continuo,
+e continuerò a farlo. Ma penso che dovremmo tutti stare
+in guardia dal dipendere da essi come sostituto della ragione.
+Forse sarebbe [[Well|bene]] istituire un Giorno di Digiuno, in cui ci impegnassimo
+ad astenerci da tutto tranne che dai termini astratti. Mettiamoci tutti d'accordo
+che ogni venerdì faremo a meno delle metafore come della carne.
+Sono certo che gioverebbe alla digestione intellettuale.
+
+Nota 1: Questo è il titolo di una raccolta di [[Poems|poesie]] di Swinburne
+(1871) di forte impronta politica.
+
+=== Fine ===

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03/part_02">part 02 ›</a></div>
@@ -144,3 +146,139 @@ gradual mental processes, did not see any joke in them.
 But the finer sense of Barker perceived it."
 
 Barker turned a fierce red, but continued to stare at the horizon.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03">Chapter 03</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO III
+
+LA [[Hill|COLLINA]] DELL'[[Humour|UMORISMO]]
+
+"In un piccolo [[Garden|giardino]] quadrato di rose gialle, presso il mare,"
+disse [[Auberon Quin]], "c'era un pastore anticonformista che non era mai
+stato a Wimbledon.  La sua famiglia non capiva il suo dolore né lo strano
+sguardo nei suoi occhi.  Ma un giorno si pentirono della loro trascuratezza,
+perché udirono che un [[Body|corpo]] era stato trovato sulla riva, malconcio,
+ma che calzava stivali di vernice.  Come volle il caso, si scoprì che non era
+affatto il pastore.  Ma nella tasca del morto c'era un biglietto di andata e
+ritorno per Maidstone."
+
+Ci fu una breve pausa mentre Quin e i suoi amici Barker e Lambert proseguivano
+dondolando attraverso l'erba fangosa dei Kensington Gardens.  Poi Auberon
+riprese.
+
+"Quella storia," disse con reverenza, "è la prova dell'[[Humour|umorismo]]."
+
+Camminarono oltre, più lontano e più svelti, guadando erba più alta man mano
+che cominciavano a salire un pendio.
+
+"Mi accorgo," continuò Auberon, "che avete superato la prova, e trovate
+l'aneddoto atrocemente divertente; giacché non dite nulla.  Solo l'[[Humour|umorismo]]
+grossolano è accolto con applausi da [[house|osteria]].  Il grande aneddoto è
+accolto in [[Silence|silenzio]], come una benedizione.  Ti sei sentito proprio
+benedetto, vero, Barker?"
+
+"Ho colto il punto," disse Barker, un po' altezzosamente.
+
+"Sai," disse Quin, con una sorta di idiota gaiezza, "ho un mucchio di storie
+buone come quella.  Ascolta questa."
+
+E si schiarì lievemente la gola.
+
+"Il dottor Policarpo era, come tutti sapete, un bimetallista di un giallore
+inconsueto.  'Ecco,' dicevano le persone di larga esperienza, 'ecco che passa
+il più giallo bimetallista del Cheshire.'  Una volta ciò fu detto in modo che
+egli lo udì: fu detto da un attuario, sotto un tramonto di malva e grigio.
+Policarpo si voltò verso di lui.  'Giallo!' gridò con furia, 'giallo!  Quis
+tulerit Gracchos de seditione querentes.'  Si dice che nessun attuario si prese
+mai più gioco del dottor Policarpo."
+
+Barker annuì con una semplice sagacia.  Lambert si limitò a un grugnito.
+
+"Eccone un'altra," continuò l'insaziabile Quin.  "In un avvallamento delle
+colline grigioverdi della piovosa Irlanda, viveva una vecchia, vecchissima
+donna, il cui zio era sempre Cambridge alla Regata.  Ma nei suoi avvallamenti
+grigioverdi, ella nulla sapeva di questo: non sapeva che ci fosse una Regata.
+E neppure sapeva di avere uno zio.  Non aveva sentito parlare di nessuno,
+tranne che di Giorgio Primo, di cui aveva sentito parlare (non so perché), e
+nella cui storica [[Memory|memoria]] riponeva la sua semplice fiducia.  E a poco
+a poco, nel buon [[Time|tempo]] di Dio, si scoprì che questo suo zio non era in realtà suo
+zio, e vennero a dirglielo.  Ella sorrise tra le sue [[Tears|lacrime]], e disse
+soltanto: 'La virtù è premio a se stessa.'  "
+
+Di nuovo ci fu un [[Silence|silenzio]], e poi Lambert disse:
+
+"Pare un po' misteriosa."
+
+"Misteriosa!" gridò l'altro.  "Il vero [[Humour|umorismo]] è misterioso.  Non vi
+rendete conto dell'evento capitale del diciannovesimo e ventesimo secolo?"
+
+"E quale sarebbe?" chiese Lambert, secco.
+
+"È semplicissimo," rispose l'altro.  "Finora era la rovina di uno scherzo che
+la gente non lo cogliesse.  Ora è la [[Sublime|sublime]] vittoria di uno scherzo
+che la gente non lo colga.  L'[[Humour|umorismo]], amici miei, è l'unica
+sacralità rimasta all'umanità.  È l'unica cosa di cui abbiate una vera paura.
+Guardate quell'albero."
+
+I suoi interlocutori guardarono vagamente verso un faggio che si protendeva
+verso di loro dal crinale della [[Hill|collina]].
+
+"Se," disse il signor Quin, "vi dicessi che non vedete le grandi verità della
+scienza esibite da quell'albero, benché fissino in faccia ogni uomo d'ingegno,
+cosa pensereste o direste?  Mi considerereste semplicemente un pedante con
+qualche teoria di poco conto sulle cellule vegetali.  Se vi dicessi che non
+vedete in quell'albero la vile malagestione della politica locale, mi
+liquidereste come un maniaco socialista con una particolare fissazione sui
+parchi pubblici.  Se vi dicessi che siete colpevoli della suprema bestemmia di
+guardare quell'albero e di non vedervi una nuova religione, una speciale
+rivelazione di Dio, direste semplicemente che ero un mistico, e non pensereste
+più a me.  Ma se... e alzò una mano pontificale... se dico che non riuscite a
+vedere l'[[Humour|umorismo]] di quell'albero, e che io ne vedo l'[[Humour|umorismo]]...
+mio Dio! vi rotolerete ai miei piedi."
+
+Fece una pausa un istante, e poi riprese.
+
+"Sì; un senso dell'[[Humour|umorismo]], uno strano e delicato senso dell'[[Humour|umorismo]],
+è la nuova religione dell'umanità!  È verso quella che gli uomini si sforzeranno
+con l'ascesi dei santi.  Vi si stabiliranno esercizi, esercizi spirituali.  Si
+chiederà: 'Riuscite a vedere l'[[Humour|umorismo]] di questa ringhiera di ferro?'
+oppure 'Riuscite a vedere l'[[Humour|umorismo]] di questo campo di grano?  Riuscite
+a vedere l'[[Humour|umorismo]] delle [[Stars|stelle]]?  Riuscite a vedere
+l'[[Humour|umorismo]] dei tramonti?'  Quante volte mi sono addormentato
+dal ridere, sprofondando nel [[Sleep|sonno]] sopra un tramonto violetto."
+
+"Proprio così," disse il signor Barker, con un intelligente imbarazzo.
+
+"Lasciate che vi racconti un'altra storia.  Quanto spesso accade che i deputati
+dell'Essex siano meno puntuali di quanto si supporrebbe.  Il deputato meno
+puntuale dell'Essex, forse, era James Wilson, il quale disse, nell'atto stesso
+di cogliere un papavero..."
+
+Lambert di scatto si voltò e piantò il bastone nel terreno in un atteggiamento
+di sfida.
+
+"Auberon," disse, "piantala.  Non lo sopporto.  È tutta una sciocchezza."
+
+Entrambi gli uomini lo fissarono, perché c'era qualcosa di assai esplosivo in
+quelle parole, come se fossero state penosamente tappate dentro per un lungo
+[[Time|tempo]].
+
+"Tu non hai," cominciò Quin, "nessun..."
+
+"Non me ne importa un accidente," disse Lambert, con violenza, "se ho 'un
+delicato senso dell'[[Humour|umorismo]]' oppure no.  Non lo sopporto.  È tutta
+una maledetta frode.  In quei racconti infernali non c'è proprio nessuno scherzo.
+Lo sai tanto [[Well|bene]] quanto me che non c'è."
+
+"[[Well|Beh]]," rispose Quin, lentamente, "è vero che io, coi miei processi
+mentali piuttosto graduali, non ci ho visto nessuno scherzo.  Ma il senso più
+fine di Barker lo ha percepito."
+
+Barker si fece di un rosso acceso, ma continuò a fissare l'orizzonte.

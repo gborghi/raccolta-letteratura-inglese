@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08">Chapter 08</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08/part_03">part 03 ›</a></div>
@@ -146,3 +148,145 @@ out with tin soldiers.  One other thing had occurred to me.
 I thought it an amusing fancy to make a plan of how this
 district of ours ought to be defended if it were ever attacked.
 It seems to interest you too."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08">Chapter 08</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08/part_03">part 03 ›</a></div>
+</nav>
+
+"Signore," disse Wayne, "vado di [[house|casa]] in [[house|casa]] in questa nostra strada,
+cercando di suscitare qualche senso del pericolo che ora minaccia
+la nostra [[City|città]].  In nessun luogo ho sentito il mio compito tanto difficile quanto qui.
+Poiché il negoziante di giocattoli ha a che fare con tutto ciò che ci resta dell'Eden
+prima che cominciassero le prime guerre.  Voi sedete qui meditando di continuo
+sui desideri di quel meraviglioso [[Time|tempo]] in cui ogni scala conduce
+alle [[Stars|stelle]], e ogni sentiero del [[Garden|giardino]] all'altro capo del nulla.
+È forse sconsideratamente, credete voi, che batto il cupo vecchio tamburo
+del pericolo nel paradiso dei bambini?  Ma considerate un momento;
+non condannatemi frettolosamente.  Perfino quel paradiso stesso contiene
+la voce o l'inizio di quel pericolo, proprio come l'Eden che fu fatto
+per la perfezione conteneva l'albero terribile.  Poiché giudicate l'[[Childhood|infanzia]],
+anche solo dal vostro stesso arsenale dei suoi piaceri.  Voi tenete i mattoncini;
+vi fate così, senza dubbio, testimone dell'istinto costruttivo
+più antico di quello distruttivo.  Voi tenete le bambole; vi fate
+sacerdote di quella divina idolatria.  Voi tenete le Arche di Noè;
+perpetuate la [[Memory|memoria]] della salvezza di ogni vita come una cosa preziosa,
+insostituibile.  Ma tenete solo, signore, i simboli
+di questa preistorica [[Sanity|assennatezza]], di questa fanciullesca razionalità della terra?
+Non tenete forse cose più terribili?  Che cosa sono quelle scatole,
+in apparenza di soldatini di piombo, che vedo in quella vetrina?
+Non sono forse testimoni di quel terrore e di quella [[Beauty|bellezza]], di quel [[Desire|desiderio]] di una
+bella [[Death|morte]], che non poteva essere escluso nemmeno dall'[[Immortality|immortalità]]
+dell'Eden?  Non disprezzate i soldatini di piombo, signor Turnbull."
+
+"Non li disprezzo," disse il signor Turnbull, del negozio di giocattoli, brevemente,
+ma con grande enfasi.
+
+"Sono lieto di sentirlo," rispose Wayne.  "Confesso che temevo
+per i miei schemi militari la terribile [[innocence|innocenza]] della vostra professione.
+Come, mi dicevo, penserà quest'uomo, avvezzo solo alle spade
+di legno che danno piacere, alle spade d'acciaio che danno [[Pain|dolore]]?
+Ma sono almeno in parte rassicurato.  Il vostro tono mi suggerisce che ho
+almeno l'ingresso di una porta del vostro paese delle fate... la porta attraverso cui
+entrano i soldati, poiché non si può negare... non dovrei, signore, più a lungo
+negare, che è di soldati che vengo a parlare.  Che il vostro gentile
+impiego vi renda misericordioso verso i travagli del mondo.
+Che la vostra stessa argentea esperienza attenui i nostri sanguigni dolori.
+Poiché c'è guerra a Notting [[Hill]]."
+
+Il piccolo negoziante di giocattoli balzò in piedi d'improvviso, battendo le grasse
+mani come due ventagli sul banco.
+
+"Guerra?" gridò.  "Non davvero, signore?  È vero?  Oh, che spasso!
+Oh, che spettacolo per gli occhi affaticati!"
+
+Wayne fu quasi sconcertato da questo scoppio.
+
+"Ne sono deliziato," balbettò.  "Non avevo idea..."
+
+Balzò di lato appena in [[Time|tempo]] per evitare il signor Turnbull,
+che spiccò un salto volante oltre il banco e si precipitò verso il davanti
+del negozio.
+
+"Guardi qui, signore," disse; "guardi proprio qui."
+
+Tornò con due dei manifesti strappati in mano, che
+sventolavano fuori dal suo negozio.
+
+"Guardi quelli, signore," disse, e li scaraventò sul banco.
+
+Wayne si chinò su di essi, e lesse su uno:
+
+"ULTIMI COMBATTIMENTI.  RIDUZIONE DELLA [[City|CITTÀ]] CENTRALE DEI DERVISCI.  NOTEVOLE, ECC."
+
+Sull'altro lesse:
+
+"ULTIMA PICCOLA REPUBBLICA ANNESSA.  LA CAPITALE NICARAGUENSE SI ARRENDE DOPO
+UN MESE DI COMBATTIMENTI.  GRANDE STRAGE."
+
+Wayne si chinò di nuovo su di essi, evidentemente perplesso; poi guardò
+le date.  Erano entrambi datati nell'agosto di quindici anni prima.
+
+"Perché conserva queste vecchie cose?" disse, scosso del tutto
+fuori dal suo assurdo tatto di misticismo.  "Perché le appende
+fuori dal suo negozio?"
+
+"Perché," disse l'altro semplicemente, "sono i documenti dell'ultima guerra.
+Lei ha appena menzionato la guerra.  Si dà il caso che sia il mio passatempo."
+
+Wayne levò i suoi grandi occhi azzurri con un infantile [[Wonder|stupore]].
+
+"Venga con me," disse Turnbull, brevemente, e lo condusse in un salottino
+sul retro del negozio.
+
+Al centro del salottino stava un grande tavolo di abete.
+Su di esso erano disposte file e file dei soldatini di stagno e di piombo che facevano
+parte delle scorte del negoziante.  Il visitatore non vi avrebbe pensato
+nulla se non fosse stato per un certo curioso raggruppamento di essi,
+che non pareva né del tutto commerciale né del tutto casuale.
+
+"Lei conosce, senza [[Doubt|dubbio]]," disse Turnbull, volgendo i suoi grandi occhi
+su Wayne "lei conosce, senza [[Doubt|dubbio]], la disposizione
+delle truppe americane e nicaraguensi nell'ultima battaglia."
+E agitò la mano verso il tavolo.
+
+"Temo di no," disse Wayne.  "Io..."
+
+"Ah, lei era a quel [[Time|tempo]] troppo occupato, forse, con
+la faccenda dei dervisci.  La troverà in quest'angolo."
+E indicò una parte del pavimento dove c'era un'altra
+disposizione di soldatini per bambini raggruppati qua e là.
+
+"Lei sembra," disse Wayne, "interessato alle questioni militari."
+
+"Non sono interessato a nient'altro," rispose il negoziante di giocattoli, semplicemente.
+
+Wayne apparve scosso da una singolare, repressa eccitazione.
+
+"In tal caso," disse, "posso rivolgermi a lei con un insolito grado
+di fiducia.  Riguardo alla questione della difesa di Notting [[Hill]], io..."
+
+"Difesa di Notting [[Hill]]?  Sì, signore.  Da questa parte, signore," disse Turnbull,
+con grande agitazione.  "Passi giusto in questa stanza laterale;"
+e condusse Wayne in un altro ambiente, in cui il tavolo
+era interamente coperto da una disposizione di mattoncini per bambini.
+Una seconda occhiata rivelò a Wayne che i mattoncini erano disposti
+nella forma di una precisa e perfetta pianta di Notting [[Hill]].
+"Signore," disse Turnbull, con enfasi, "lei ha, per una specie di caso,
+colto l'intero segreto della mia vita.  Da ragazzo, crebbi tra le ultime
+guerre del mondo, quando il Nicaragua fu preso e i dervisci spazzati via.
+E lo adottai come passatempo, signore, come lei potrebbe adottare l'astronomia
+o l'imbalsamazione degli uccelli.  Non avevo malanimo verso nessuno, ma ero interessato
+alla guerra come scienza, come gioco.  E d'un tratto fui messo fuori causa.
+Le grandi Potenze del mondo, avendo inghiottito tutte le piccole,
+giunsero a quel maledetto accordo, e non ci fu più guerra.
+Non c'era più nulla da fare per me se non ciò che faccio ora... leggere
+le vecchie campagne su vecchi giornali sudici, ed elaborarle
+coi soldatini di stagno.  Un'altra cosa mi era venuta in mente.
+Ritenni un'idea divertente fare una pianta di come questo
+nostro distretto dovrebbe essere difeso se mai fosse attaccato.
+Pare che interessi anche lei."

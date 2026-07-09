@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_02">part 02 ›</a></div>
@@ -132,3 +134,131 @@ and the [[King]] was, with difficulty, restrained from going out
 in that capacity himself, being, in fact, found by the Groom
 of the Stole and Captain Bowler, struggling between two boards.
 His excitement had positively to be quieted like that of a [[Child|child]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05">Chapter 05</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO II
+
+IL CONSIGLIO DEI PREPOSTI
+
+IL [[King|Re]] si alzò di buon'ora la mattina seguente e scese le scale a tre gradini
+per [[Time|volta]] come uno scolaretto.  Consumata la colazione in fretta,
+ma con appetito, convocò uno dei più alti funzionari
+del Palazzo e gli consegnò uno scellino.  «Va' a comprarmi,»
+disse, «una scatola di colori da uno scellino, che troverai, a meno che le nebbie
+del [[Time|tempo]] non m'ingannino, in una bottega all'angolo della seconda e più sporca
+strada che si diparte da Rochester Row.  Ho già chiesto
+al Maestro dei Segugi di procurarmi del cartoncino.
+Mi è parso (non so perché) che rientrasse nel suo dipartimento.»
+
+Il [[King|Re]] fu felice tutta quella mattina con il suo cartoncino e la sua
+scatola di colori. Era impegnato a disegnare le divise e gli stemmi
+per i vari municipi di [[London|Londra]].  Gli davano una profonda
+e non trascurabile riflessione.  Ne sentiva la responsabilità.
+
+«Non riesco a capire,» disse, «perché la gente debba ritenere i nomi
+dei luoghi in campagna più poetici di quelli di [[London|Londra]].
+Superficiali romantici partono in treno e sostano in luoghi
+chiamati Hugmy-in-the-Hole, o Bumps-on-the-Puddle. E per tutto il [[Time|tempo]]
+potrebbero, se volessero, andare a vivere in un luogo dal nome vago e
+divino di St. John's Wood.  Non sono mai stato a St. John's Wood.
+Non oso.  Avrei paura degli innumerevoli abeti della [[Night|notte]],
+paura d'imbattermi in una coppa [[Blood|rosso sangue]] e nel battito delle ali
+dell'Aquila.  Ma tutte queste cose si possono immaginare rimanendo
+riverentemente sul treno di Harrow.»
+
+E ritoccò pensosamente il suo disegno per il copricapo
+dell'alabardiere di St. John's Wood, un disegno in nero e rosso,
+composto da un pino e dal piumaggio di un'aquila.
+Poi passò a un'altra carta.  «Pensiamo a cose più tenui,»
+disse.  «Lavender [[Hill|Hill]]!  Potrebbero le vostre glebe e vallate e
+tutto il resto produrre un'idea tanto fragrante?  Pensate a una montagna
+di lavanda che s'innalza in purpurea intensità nei cieli d'argento
+riempiendo le narici degli uomini di un nuovo soffio di vita...una purpurea [[Hill|collina]]
+d'incenso.  È vero che nelle mie poche escursioni esplorative
+su un tram da mezzo penny non sono riuscito a colpire il punto preciso.
+Ma dev'esserci; qualche poeta l'ha chiamata col suo nome.
+C'è quantomeno abbastanza fondamento per i solenni pennacchi purpurei
+(secondo la formazione botanica della lavanda) che ho
+imposto alla gente di portare nei dintorni di Clapham Junction.
+È così dappertutto, dopotutto.  Non sono mai stato effettivamente
+a Southfields, ma suppongo che uno schema di limoni e olive rappresenti
+i loro istinti australi.  Non ho mai visitato Parson's Green,
+né visto il Green o il Parson, ma di certo i cappelli a pala verde
+pallido che ho disegnato devono essere più o meno nello spirito.
+Devo lavorare al buio e lasciare che i miei istinti mi guidino.
+Il grande [[Love|amore]] che porto al mio popolo mi salverà di certo dal
+turbare il loro nobile spirito, o dal violare le loro grandi tradizioni.»
+
+Mentre rifletteva in questa vena, la porta fu spalancata,
+e un funzionario annunciò il signor Barker e il signor Lambert.
+
+Il signor Barker e il signor Lambert non furono particolarmente sorpresi di trovare
+il [[King|Re]] seduto per terra in mezzo a un disordine di schizzi ad [[Water|acquerello]].
+Non furono particolarmente sorpresi perché l'ultima [[Time|volta]] che erano
+venuti a trovarlo l'avevano trovato seduto per terra, circondato da
+un disordine di mattoncini per bambini, e la [[Time|volta]] prima circondato
+da un disordine di tentativi del tutto falliti di fare frecce di carta.
+Ma la piega delle osservazioni del regale infante, pronunciate in mezzo a questo
+infantile caos, non era proprio lo stesso affare.  Per un po' di [[Time|tempo]]
+lo lasciarono cianciare, convinti che le sue osservazioni non significassero nulla.
+E poi un pensiero orribile cominciò a insinuarsi nella mente di [[James Barker]].
+Cominciò a pensare che le osservazioni del [[King|Re]] non significassero nulla.
+
+«In nome di Dio, Auberon,» proruppe all'improvviso, facendo trasalire la
+tranquilla sala, «non vorrai dire che intendi davvero avere
+queste guardie [[City|cittadine]] e mura [[City|cittadine]] e cose del genere?»
+
+«Intendo, sì,» disse l'infante, con voce tranquilla.  «Perché non dovrei
+averle?  Le ho modellate esattamente sui tuoi principi politici.
+Sai che cosa ho fatto, Barker?  Mi sono comportato da vero Barkeriano.
+Ho... ma forse non t'interesserà, il resoconto
+della mia condotta Barkeriana.»
+
+«Oh, avanti, avanti,» gridò Barker.
+
+«Il resoconto della mia condotta Barkeriana,» disse Auberon, con calma, «pare non
+solo interessarti, ma allarmarti.  Eppure è molto semplice.
+Consiste semplicemente nello scegliere tutti i preposti sotto qualsiasi nuovo schema
+secondo lo stesso principio per cui tu hai fatto nominare il despota
+centrale.  Ogni preposto, di ogni [[City|città]], secondo la mia carta,
+dev'essere nominato a rotazione.  [[Sleep|Dormi]], dunque, Barker mio,
+un roseo [[Sleep|sonno]].»
+
+Gli occhi folli di Barker fiammeggiarono.
+
+«Ma, in nome di Dio, non vedi, Quin, che la cosa
+è del tutto diversa?  Al centro non importa poi tanto,
+proprio perché l'intero scopo del dispotismo è ottenere una qualche [[unity|unità]].
+Ma se una qualsiasi maledetta parrocchia può andare da un qualsiasi maledetto uomo...»
+
+«Vedo la tua difficoltà,» disse [[King|Re]] Auberon, con calma.  «Temi
+che i tuoi talenti possano essere trascurati.  Ascolta!»  E si [[Rose|levò]]
+con immensa magnificenza.  «Concedo solennemente al mio suddito fedele,
+[[James Barker]], il mio speciale e splendido favore, il diritto di scavalcare
+il testo evidente della Carta delle Città, e di essere,
+di suo pieno diritto, Lord Alto Preposto di South Kensington.
+E ora, mio caro James, sei a posto.  Buona giornata.»
+
+«Ma...» cominciò Barker.
+
+«L'udienza è terminata, Preposto,» disse il [[King|Re]], sorridendo.
+
+Fino a che punto la sua fiducia fosse giustificata, richiederebbe una descrizione
+alquanto complicata da spiegare.  «Il Grande Proclama della
+Carta delle Libere Città» comparve a suo tempo quella mattina,
+e fu affisso dagli attacchini su tutta la facciata del Palazzo, il [[King|Re]]
+li assisteva con animate direttive, e stava ritto in mezzo
+alla [[Road|strada]], la testa piegata di lato, contemplando il risultato.
+Fu anche portato su e giù per le arterie principali dagli uomini-sandwich,
+e il [[King|Re]] fu, con difficoltà, trattenuto dall'uscire
+in tale veste lui stesso, essendo, di fatto, trovato dal Groom
+della Stola e dal capitano Bowler mentre si dibatteva fra due cartelloni.
+La sua eccitazione dovette positivamente essere calmata come quella di un [[Child|bambino]].

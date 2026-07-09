@@ -213,173 +213,173 @@ friends, and so he became a sort of President of our little club."
 
 stesso pericolo. Ma il nostro amico è un anacoreta cristiano; e comprende il
 
-consiglio: 'Quando digiuni, ungiti il capo e lavati il viso.' Non è
+consiglio: 'Quando digiuni, ungiti il capo e lavati il viso.' Egli non è
 
 visto dagli uomini digiunare. Al contrario, è visto dagli uomini banchettare. Solo,
 
-non vedete, ha inventato un nuovo genere di digiuno.»
+non capite, ha inventato un nuovo genere di digiuno.»
 
-Il signor Pinion del Comet rise d'improvviso, una risata brusca e sorpresa, poiché
+Il signor Pinion del Comet rise d'improvviso, una risata secca e sorpresa, perché
 
-era molto sveglio e aveva già indovinato lo scherzo.
+era molto svelto e aveva già indovinato lo scherzo.
 
-«Non vorrete mica dire...» cominciò.
+«Non vorrete davvero dire...» cominciò.
 
-«[[Well|Ebbene]], è piuttosto semplice, no?» replicò il suo informatore. «Banchetta con
+«[[Well|Ebbene]], è molto semplice, no?» rispose il suo informatore. «Banchetta con
 
 tutte le cose più lussuose e costose che non gli piacciono.
 
-Specialmente con le cose che semplicemente detesta. Sotto quella copertura, nessuno
+Specialmente le cose che semplicemente detesta. Sotto quella copertura, nessuno
 
-può in alcun modo accusarlo di virtù. Resta impenetrabilmente protetto
+può accusarlo di virtù. Rimane impenetrabilmente protetto
 
-dietro un bastione di ostriche ripugnanti e aperitivi sgraditi. Insomma,
+dietro un bastione di ostriche ripugnanti e aperitivi sgraditi. In breve,
 
-l'eremita deve ora nascondersi ovunque tranne che nell'eremo. Di solito
+l'eremita oggi deve nascondersi ovunque tranne che nell'eremo. Di solito
 
 si nasconde negli ultimi lussuosi alberghi dorati, perché è lì che
 
 hanno la peggior cucina.»
 
-«Questo è un racconto assai straordinario», disse l'americano, inarcando le
+«Questa è una storia davvero straordinaria», disse l'americano, inarcando le
 
 sopracciglia.
 
-«Cominciate a vedere l'idea?» disse l'altro. «Se si fa portare venti diversi
+«Cominciate a cogliere l'idea?» disse l'altro. «Se gli portano venti diversi
 
-antipasti e prende le olive, chi mai potrà sapere che
+antipasti e lui prende le olive, chi mai può sapere che
 
-odia le olive? Se scorre pensosamente l'intera lista dei vini e
+detesta le olive? Se scorre pensosamente l'intera lista dei vini e
 
-alla fine seleziona un Hock piuttosto ricercato, chi indovinerà che tutta la sua
+alla fine sceglie un Hock piuttosto ricercato, chi indovinerà che tutta la sua
 
-[[Soul|anima]] insorge di disgusto al solo pensiero dell'Hock: e che egli sa
+[[Soul|anima]] si ribella disgustata alla sola idea dell'Hock: e che sa
 
-che quello è il più disgustoso — perfino tra gli Hock? Mentre, se dovesse chiedere
+che quello è il più sgradevole, perfino tra gli Hock? Laddove, se chiedesse piselli
 
-piselli secchi o una crosta ammuffita al Ritz, probabilmente attirerebbe l'attenzione.»
+secchi o una crosta ammuffita al Ritz, probabilmente attirerebbe l'attenzione.»
 
-«Non riesco mai a capire bene», disse l'uomo con gli occhiali con impazienza, «a che
+«Non riesco mai bene a capire», disse l'uomo con gli occhiali con impazienza, «quale sia
 
-serva tutto ciò.»
+l'utilità di tutto ciò.»
 
-L'altro uomo abbassò i suoi occhi magnetici e guardò in basso con un certo
+L'altro uomo abbassò gli occhi magnetici e guardò in basso con un certo
 
 imbarazzo. Alla fine disse: «Credo di poterlo capire, ma non credo
 
-di poterlo dire. Io stesso ne ebbi un tocco una volta, solo in una direzione
+di poterlo dire. Ne ebbi io stesso un tocco un tempo, solo in una particolare
 
-particolare, e trovai quasi impossibile spiegarlo a chiunque. Solo
+direzione, e trovai quasi impossibile spiegarlo a chicchessia. Solo
 
-c'è un segno del vero mistico e [[ascetic|asceta]] di questa sorta: che egli
+che vi è un segno del vero mistico e [[ascetic|asceta]] di questa specie: che egli
 
-vuole farlo soltanto a se stesso. Vuole che tutti gli altri abbiano quel vino
+vuole farlo solo a se stesso. Vuole che tutti gli altri abbiano il vino
 
-o quel tabacco che desiderano, e metterà a soqquadro il Ritz per procurarlo. Nel momento in cui vuole
+o il fumo che desiderano e metterebbe a soqquadro il Ritz per procurarglielo. Nel momento in cui vuole
 
-irreggimentare gli altri, il mistico sprofonda in un pantano di degradazione e
+spadroneggiare sugli altri, il mistico sprofonda in un pantano di degradazione e
 
 diventa il riformatore morale.»
 
-Vi fu una pausa, e poi il giornalista disse d'improvviso: «Ma, sentite
+Vi fu una pausa, e poi il giornalista disse d'improvviso: «Ma, sentite,
 
-un po', così non va. Non è solo lo sperperare il suo denaro in bevute e pranzi
+così non va. Non è solo lo sprecare il suo denaro in vini e banchetti
 
-che ha dato a Marillac cattiva fama. È tutto quanto. Perché è un tale
+che ha dato a Marillac una cattiva fama. È tutto quanto. Perché è tanto
 
 appassionato di queste marce commedie erotiche e simili? Perché va in giro con una
 
-donna come la signora Prague? Questo non sembra da eremita, comunque.»
+donna come la signora Prague? Non sembra affatto un eremita, questo.»
 
-L'uomo di fronte a Pinion sorrise e l'uomo più pesante alla sua destra si voltò a metà
+L'uomo di fronte a Pinion sorrise e l'uomo più corpulento alla sua destra si voltò a metà
 
-con una specie di grugnito di riso.
+con una sorta di grugnito di risata.
 
-«[[Well|Ebbene]]», disse, «è piuttosto evidente che non siete mai andato in giro con la signora
+«[[Well|Beh]]», disse, «è abbastanza evidente che non siete mai andato in giro con la signora
 
 Prague.»
 
-«Come, che intendete dire?» chiese Pinion; e questa [[Time|volta]] ci fu qualcosa
+«Come, che intendete?» chiese Pinion; e questa [[Time|volta]] ci fu qualcosa
 
 come una risata generale.
 
-«Alcuni dicono che è la sua Zia Zitella e che è suo dovere essere gentile con lei»,
+«Alcuni dicono che sia la sua zia zitella e che sia suo dovere essere gentile con lei»,
 
-cominciò il primo, ma il secondo lo interruppe burberamente: «Perché
+cominciò il primo uomo, ma il secondo lo interruppe burbero: «Perché
 
-la chiami Zia Zitella quando ha l'aria di una...»
+la chiami zia zitella quando ha l'aria di una...»
 
-«Proprio così, proprio così», disse il primo piuttosto in fretta, «e perché 'ha l'aria
+«Proprio così, proprio così», disse il primo uomo piuttosto in fretta, «e perché 'ha l'aria'
 
-di' — se è per questo?»
+... se è per questo?»
 
-«Ma la sua conversazione!» gemette il suo amico. «E Marillac la sopporta per
+«Ma la sua conversazione!» gemette l'amico. «E Marillac la sopporta per
 
 ore intere!»
 
-«E la sua commedia!» assentì l'altro. «Marillac se ne sta seduto per cinque mortali
+«E la sua commedia!» convenne l'altro. «Marillac se ne sta seduto per cinque mortali
 
-atti di quella roba. Se questo non è essere un martire...»
+atti. Se questo non è essere un martire...»
 
-«Non vedete?» esclamò l'uomo trasandato con qualcosa come eccitazione.
+«Non capite?» esclamò l'uomo trasandato con qualcosa come eccitazione.
 
-«Il Conte è un uomo colto e persino dotto; ed è inoltre un latino e
+«Il conte è un uomo colto e persino erudito; ed è inoltre un latino,
 
 logico fino all'impazienza. Eppure resiste. Sopporta cinque
 
 o sei atti di un Dramma Davvero Moderno Intellettuale Incisivo. Il Primo Atto
 
-in cui ella dice che la Donna non sarà più messa su un piedistallo; il
+in cui lei dice che la Donna non sarà più messa su un piedistallo; il
 
 Secondo Atto in cui la Donna non sarà più messa sotto una campana di vetro; il
 
 Terzo Atto in cui la Donna non sarà più un balocco per l'uomo, e il
 
-Quarto in cui ella non sarà più un bene mobile; tutti i luoghi comuni. Ed egli
+Quarto in cui non sarà più un bene mobile; tutti i luoghi comuni. E ha
 
-ha ancora due atti davanti a sé, in cui ella non sarà qualcos'altro,
+ancora due atti davanti a sé, in cui lei non sarà qualcos'altro,
 
 non sarà una schiava nella [[Home|casa]] o una reietta scacciata dalla [[Home|casa]]. L'ha
 
-vista sei volte senza batter ciglio; non lo si vede nemmeno digrignare
+vista sei volte senza batter ciglio; non lo vedi neppure digrignare
 
 i denti. E la conversazione della signora Prague! Come il suo primo marito non
 
-riuscisse mai a capire, e come il secondo marito sembrasse quasi che potesse
+riuscisse mai a capire, e il secondo marito sembrasse come se potesse
 
 capire, solo che il terzo marito la portò via come se ci fosse una vera
 
-comprensione — e così via, come se ci fosse qualcosa da comprendere. Voi
+comprensione... e così via, come se ci fosse qualcosa da capire. Sai
 
-sapete com'è fatto un [[Fool|sciocco]] assolutamente egotistico. Ed egli sopporta persino quegli
+com'è un [[Fool|sciocco]] del tutto egotista. Ed egli sopporta perfino quegli
 
-sciocchi volentieri.»
+sciocchi con gioia.»
 
-«Anzi», intervenne l'uomo corpulento nel suo modo cupo, «si potrebbe dire che egli
+«In effetti», intervenne l'uomo grosso nel suo modo cupo, «si potrebbe dire che egli
 
-ha inventato la Penitenza Moderna. La Penitenza della Noia. I cilici e
+abbia inventato la Penitenza Moderna. La Penitenza della Noia. I cilici e
 
-le grotte degli eremiti in una landa ululante non sarebbero così orribili ai nervi
+le grotte degli eremiti in un deserto ululante non sarebbero così orribili per i nervi
 
-moderni come quella.»
+moderni quanto quello.»
 
-«Stando a quel che dite», ruminò Pinion, «ho dato la caccia a un cercatore di piaceri
+«Stando al vostro racconto», ruminò Pinion, «ho dato la caccia a un gaudente
 
-che danzava sull'agile piede fantastico, e ho trovato soltanto un eremita ritto sulla
+che danzava con passo lieve e leggiadro e ho trovato solo un eremita che se ne sta
 
-sua testa.» Dopo un [[Silence|silenzio]] disse bruscamente: «Ma è davvero vero? Come
+a testa in giù.» Dopo un [[Silence|silenzio]] disse bruscamente: «È davvero vero questo? Come
 
 l'avete scoperto?»
 
-«È una storia piuttosto lunga», replicò l'uomo di fronte. «La [[Truth|verità]] è
+«È una storia piuttosto lunga», rispose l'uomo di fronte. «La [[Truth|verità]] è
 
-che Marillac si concede un banchetto all'anno, il giorno di Natale, e
+che Marillac si concede un banchetto l'anno, il giorno di Natale, e
 
-mangia e beve ciò che gli piace davvero. Lo trovai a bere birra e
+mangia e beve ciò che davvero gli piace. Lo trovai a bere birra e a
 
-a mangiare trippa e cipolle in un tranquillo pub di Hoxton, e in qualche modo fummo
+mangiare trippa e cipolle in un tranquillo pub di Hoxton, e in qualche modo fummo
 
-costretti a una conversazione confidenziale. Capirete, naturalmente,
+spinti a una conversazione confidenziale. Capirete, naturalmente,
 
 che questa è una conversazione confidenziale.»
 
@@ -387,12 +387,12 @@ che questa è una conversazione confidenziale.»
 
 considerato un pazzo se lo facessi. La gente non capisce quel genere di
 
-follia oggigiorno, e mi [[Wonder|meraviglio]] piuttosto che voi stesso ci prendiate tanto gusto.»
+follia oggigiorno, e piuttosto mi [[Wonder|stupisco]] che voi stesso vi ci appassioniate tanto.»
 
-«[[Well|Ebbene]], gli esposi il mio caso, vedete», rispose l'altro. «In
+«[[Well|Beh]], gli esposi il mio caso, vedete», rispose l'altro. «In
 
 piccola misura era un po' simile al suo. E poi lo presentai ai miei
 
-amici, e così egli divenne una specie di Presidente del nostro piccolo club.»
+amici, e così egli divenne una sorta di Presidente del nostro piccolo club.»
 
 «Oh», disse Pinion piuttosto interdetto, «non sapevo che foste un club.»

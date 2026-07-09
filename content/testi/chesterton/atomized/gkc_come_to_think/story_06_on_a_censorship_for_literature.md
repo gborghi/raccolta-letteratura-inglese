@@ -287,32 +287,256 @@ his Last Case and has refused to try again.
 <ul><li><a href="/testi/chesterton/atomized/gkc_come_to_think/story_06_on_a_censorship_for_literature/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/gkc_come_to_think/story_06_on_a_censorship_for_literature/part_02">Part 2</a></li></ul>
 </nav>
 
-V. Di una censura per la letteratura
+V. Su una Censura per la Letteratura
 
-La ricorrente discussione intorno a una censura per la letteratura o per le arti è un ottimo esempio dell'estrema difficoltà, di questi tempi, di discutere di alcunché. Nessuno pare sapere da dove cominciare. Nessuno pare capace di distinguere una cosa da un'altra. Per fare un esempio, e per toccare un punto secondario, un conto è credere in *una* censura, tutt'altro conto è credere ne *La* Censura. Se dovessi far censurare i miei libri, preferirei di gran lunga che li censurasse l'[[Spanish Inquisition|Inquisizione spagnola]] anziché il [[Home|Ministero degli Interni]] britannico. L'[[Spanish Inquisition|Inquisizione spagnola]] non era un'istituzione che io ammiri in modo particolare, eppure agiva secondo alcuni princìpi intelligenti; io so quali erano quei princìpi e ne condivido moltissimi. Quanto ai princìpi di Sir William Joynson-Hicks, la mia difficoltà è triplice. Non solo non li condivido, ma non so quali siano. Non solo non so quali siano, ma sono certo che nemmeno lui sappia quali siano.
+LA ricorrente discussione su una Censura per la Letteratura o
+le Arti è un buon esempio dell'estrema difficoltà, in questi giorni,
+di discutere qualsiasi cosa. Nessuno pare sapere da dove cominciare.
+Nessuno pare capace di distinguere una cosa dall'altra.
+Per esempio, per prendere un punto minore, una cosa è credere
+in Un Censore e tutt'altra cosa credere ne Il Censore.
+Se dovessi far censurare i miei libri, preferirei di gran lunga che fossero
+censurati dall'[[Spanish Inquisition|Inquisizione Spagnola]] piuttosto che dal britannico Ministero dell'[[Home|Interno]].
+L'[[Spanish Inquisition|Inquisizione Spagnola]] non era un'istituzione che io ammiri particolarmente,
+ma agiva pur su alcuni principii intelligenti; io so quali fossero i principii
+e sono d'accordo con moltissimi di essi. Quanto ai principii
+di Sir William Joynson-Hicks, la mia difficoltà è triplice.
+Non solo non sono d'accordo con essi, ma non so quali siano.
+Non solo non so quali siano, ma sono sicuro che nemmeno lui
+sappia quali siano.
 
-Per cominciare, ammesso che la censura si occupi soltanto del decoro sessuale (il che è ben lungi dall'essere generalmente il caso), vi sono almeno tre cose del tutto distinte che oggi si discutono comunemente sotto quella voce. In primo luogo, vi è la predicazione o la propaganda di una qualche teoria sul sesso ritenuta antisociale o anarchica. In secondo luogo, vi è un certo genere di scrittura descrittiva atta a eccitare appetiti che possono essere antisociali o anarchici. In terzo luogo, vi è l'uso di certi termini, spesso semplicemente fuori moda, per cose che una convenzione più recente vela in qualche altro modo. Posso capire chi non voglia veder censurata nessuna di queste cose. Posso capire chi voglia veder censurate tutte queste cose. Posso capire chi voglia vederne censurate alcune e non altre. Ma, comunque sia, esse non hanno nulla a che vedere l'una con l'altra. Non è necessario che due qualsiasi di esse si trovino insieme nella stessa frase o nello stesso libro. Un uomo potrebbe predicare l'anarchia sessuale in un linguaggio freddo come quello di un trattato di astronomia, e all'incirca seducente quanto una pagina di Bradshaw. Un uomo potrebbe descrivere cose sensuali con uno spregiudicato appello ai sensi, senza predicare alcuna teoria e senza usare alcuna parola grossolana. Infine, un uomo potrebbe usare tutte le parole grossolane di Rabelais e rendere il tema più ripugnante che attraente. Potrebbe usare tutte le parole grossolane della [[Bible|Bibbia]] ed essere morale quanto la [[Bible|Bibbia]], o persino puritano quanto il più arcigno esegeta della [[Bible|Bibbia]].
+Per cominciare, supponendo che la Censura si occupi solo del
+decoro sessuale (il che generalmente è ben lungi dall'essere il caso),
+ci sono almeno tre cose totalmente distinte che ora vengono
+generalmente discusse sotto quella voce. Primo, c'è il predicare
+o propagare qualche teoria sul sesso ritenuta anti-sociale
+o anarchica. Secondo, c'è un certo tipo di scrittura descrittiva
+atta a eccitare appetiti che possono essere anti-sociali o anarchici.
+Terzo, c'è l'uso di certi termini, spesso semplicemente all'antica,
+per cose che una convenzione più tarda copre in qualche altro modo.
+Posso capire un uomo che non vuole censurata nessuna di queste cose.
+Posso capirlo se le vuole tutte censurate.
+Posso capirlo se ne vuole alcune censurate e altre no.
+Ma, comunque, esse non hanno nulla a che fare l'una con l'altra. Nessuna due di esse
+ha bisogno di trovarsi insieme nella stessa frase o nello stesso libro.
+Un uomo potrebbe predicare l'anarchia sessuale in un linguaggio freddo come quello di un
+trattato astronomico, e seducente all'incirca quanto una pagina del Bradshaw.
+Un uomo potrebbe descrivere cose sensuali con uno spregiudicato appello
+ai sensi, senza predicare alcuna teoria e senza usare
+alcuna parola volgare. Infine, un uomo potrebbe usare tutte le parole volgari
+di Rabelais e rendere il tema più repellente che attraente.
+Potrebbe usare tutte le parole volgari della [[Bible|Bibbia]] ed essere in ogni singola parte
+morale quanto la [[Bible|Bibbia]], o persino Puritano quanto il più arcigno espositore
+della [[Bible|Bibbia]].
 
-Verrebbe da pensare che la primissima cosa che chiunque discuta la questione dovrebbe cogliere sia la distinzione tra questi tre criteri. Eppure, se leggiamo una colonna di giornale, o una pagina di un libro popolare, che pretenda di affrontare il problema, li troviamo generalmente tutti confusi insieme, tanto se lo scrittore denuncia la mescolanza quanto se la difende. La [[Truth|verità]] è che in questa materia le idee morali della maggior parte della gente sono ormai già confuse. Per prendere la prima categoria, e per reprimere la falsa dottrina, dobbiamo avere una definizione della vera dottrina. E ben poche persone sanno oggi con esattezza quale dottrina sia vera, anche se sentono che moltissime di quelle correnti sono false. Quanto alla seconda, è pur sempre una dottrina morale quella che dichiara errati i meri appelli ai meri appetiti. È una dottrina morale che la maggior parte delle persone perbene sente vagamente, ma ormai un po' troppo vagamente per applicarla con vigile fermezza. Ma, di queste prime due categorie, mi sia concesso aggiungere che esse implicano enfaticamente una [[Truth|verità]] immortale e immutabile. Il fatto che un'[[Time|epoca]] caotica e mal educata non sappia afferrare con chiarezza quella [[Truth|verità]] non muta il fatto che essa sarà sempre la [[Truth|verità]].
+Si penserebbe che la primissima cosa che chiunque discuta
+la questione dovrebbe comprendere sarebbe la distinzione tra
+questi tre criteri. Ma, se leggiamo una colonna in un giornale,
+o una pagina in un libro popolare, che dichiara di trattare il problema,
+generalmente li troviamo tutti mescolati insieme, sia che lo scrittore
+denunci la mescolanza o difenda la mescolanza. La [[Truth|verità]] è
+che in questa materia le idee morali della maggior parte della gente sono ormai già mescolate.
+Per prendere la prima sezione, allo scopo di sopprimere la falsa dottrina,
+dobbiamo avere una definizione di dottrina vera. E pochissima gente
+ora sa esattamente quale dottrina sia vera, anche se sente che moltissime
+di quelle correnti sono false. Quanto alla seconda, è, dopotutto,
+una dottrina morale quella che dichiara che i meri appelli ai meri appetiti
+sono sbagliati. È una dottrina morale che la maggior parte della gente per bene sente vagamente,
+ma ora un po' troppo vagamente per essere applicata con vigilanza.
+Ma, di queste prime due divisioni, mi sia permesso aggiungere che
+esse coinvolgono enfaticamente una [[Truth|verità]] immortale e inalterabile.
+Il fatto che un [[Time|tempo]] caotico e mal educato non possa afferrare chiaramente
+quella [[Truth|verità]] non altera il fatto che essa sarà sempre la [[Truth|verità]].
 
-Esiste una giusta relazione tra i sessi; esiste una giusta regola al riguardo; ed esiste un errato appello volto a incoraggiare una relazione errata. Ma della terza cosa non è così. Vale la pena osservare che questa terza categoria, quella del mero uso delle parole, è l'unica riguardo alla quale il discorso moderno è vero. Di essa è vero dire che è soltanto questione di convenzione, di costume, di epoche diverse della [[history|storia]], di stadi diversi del progresso. Non era così sconveniente per Shakespeare usare una certa parola in un teatro come sarebbe stato sconveniente per Dickens usarla in un salotto. Ma sarebbe stato altrettanto sbagliato per Shakespeare trascurare la propria moglie quanto per Dickens trascurare la propria. Non sto qui sollevando la delicata controversia se l'uno o l'altro di questi autori abbia effettivamente trascurato la moglie. Il punto è che, se lo fecero, sbagliarono; e scommetterei che sapevano di sbagliare, poiché erano uomini cristiani e tradizionali. L'idea che, poiché il linguaggio può cambiare, allora anche la vita e l'[[Love|amore]] possano cambiare, è uno dei tanti pasticci di una mente perfettamente impasticciata. Tanto [[Well|varrebbe]] dire che, poiché Shakespeare portava i calzoni a sbuffo e Dickens dei brutti pantaloni, sia del tutto naturale che il prossimo grande autore inglese debba avere tre gambe.
+C'è una giusta relazione dei sessi; c'è una giusta regola
+al riguardo; e c'è un appello sbagliato calcolato per incoraggiare
+una relazione sbagliata. Ma della terza cosa non è così.
+Vale la pena osservare che questa terza sezione, del mero uso delle parole,
+è l'unica di cui la moderna chiacchiera sia vera. Di questa è
+vero dire che è solo una questione di convenzione, di costume,
+di diversi periodi di [[history|storia]], di diversi stadi di progresso.
+Non era volgare in Shakespeare usare una certa parola in un teatro
+quanto lo sarebbe stato in Dickens usarla in un salotto.
+Ma sarebbe stato altrettanto sbagliato per Shakespeare trascurare la propria moglie
+quanto per Dickens trascurare la propria moglie. Non sto qui sollevando la delicata
+controversia sul se l'uno o l'altro di questi autori abbia davvero trascurato la propria moglie.
+Il punto è che se lo fecero avevano torto; e scommetto che
+sapevano di avere torto; poiché erano uomini cristiani tradizionali.
+L'idea che, poiché il linguaggio può cambiare, perciò la vita e l'[[Love|amore]]
+possano cambiare, è uno dei molti garbugli di una mente completamente ingarbugliata.
+Potremmo altrettanto [[Well|bene]] dire che poiché Shakespeare aveva le brache a sbuffo e Dickens
+brutti pantaloni, sia naturale che il prossimo grande autore inglese
+debba avere tre gambe.
 
-Finché il mondo moderno si trastulla con l'assurda idea che tutto cambi con la moda, è inutile che tenti di controllare i mutamenti di una cosa tanto capricciosa quanto la narrativa. La gente inseguirà l'attimo che sta appena passando; ma non sarà perseguitata per l'attimo che è appena passato. Puoi mandare un uomo in [[Prison|prigione]] per cinque anni per aver scritto un libro sciocco, se puoi dirgli: «Se tu restassi in prigione cinquecento anni, sarebbe pur sempre un libro sciocco». Ma non puoi dire a un uomo: «Se tu avessi aspettato quindici anni, questo genere di libro sarebbe forse stato di moda; ma, così com'è, ti mando in [[Prison|prigione]] nel frattempo per essere in anticipo sulla tua epoca». Quel genere di persecuzione non avrà mai alcun effetto, poiché unisce l'ingiustizia all'indifferenza. È a un tempo una condanna immeritata e un complimento immeritato. Ai fanatici del passato si rimprovera talvolta di aver fatto i [[Tyrant|tiranni]] pur appellandosi a una [[Truth|verità]] eterna. Ma è ben più intollerabile fare il [[Tyrant|tiranno]] senza appellarsi ad alcuna [[Truth|verità]] eterna. È intollerabile più di ogni altra cosa fare il [[Tyrant|tiranno]] appellandosi soltanto a una moda temporanea. Non ci si può aspettare che qualcuno sopporti l'inquisitore che dice: «Ti brucio vivo per quel che hai detto oggi, e per quel che probabilmente penserò domani». E questo è il tono di quasi tutte le tentennanti repressioni e rimostranze del nostro tempo.
+Finché il mondo moderno gioca con la preposterosa idea
+che tutto cambi con la moda, è inutile che esso
+tenti di controllare i cambiamenti in qualcosa di così fantasioso come la narrativa.
+La gente inseguirà il momento che sta appena passando; ma non
+sarà perseguitata per il momento che è appena passato.
+Puoi mandare un uomo in [[Prison|prigione]] per cinque anni per aver scritto un libro sciocco,
+se puoi dirgli: «Se fossi in prigione per cinquecento anni,
+sarebbe ancora un libro sciocco». Ma non puoi dire a un uomo:
+«Se avessi aspettato quindici anni, questo genere di libro sarebbe potuto
+essere di moda; ma, così com'è, ti mando in [[Prison|prigione]] nel frattempo
+per essere in anticipo sulla tua età». Quel genere di persecuzione non
+avrà mai alcun effetto; poiché combina l'ingiustizia con l'indifferenza.
+È a un tempo una condanna immeritata e un complimento immeritato.
+I fanatici del passato sono talvolta biasimati perché facevano
+i [[Tyrant|tiranni]] pur appellandosi a una [[Truth|verità]] eterna. Ma è assai più
+intollerabile fare il [[Tyrant|tiranno]] senza appellarsi a una [[Truth|verità]] eterna.
+È più intollerabile di tutto fare il [[Tyrant|tiranno]] appellandosi solo
+a una fiction temporanea. Nessuno può pretendere che si sopporti l'Inquisitore
+che dice: «Ti sto bruciando vivo per ciò che hai detto oggi,
+e ciò che probabilmente penserò domani». Ed è questo il tono
+di quasi tutte le tentative repressioni e rimostranze del nostro tempo.
 
-La pura verità è che la società moderna deve avere una morale prima di poter avere un censore dei costumi. Direi che deve avere una religione prima di poter avere una morale. Ma questa è un'altra questione, che non voglio discutere qui per intero. In ogni caso, il guaio è che la gente fa un gran chiasso attorno a romanzi irreali quando dovrebbe farlo attorno alla vita reale. È una faccenda in cui basta prendersi cura dei fatti, e le finzioni si prenderanno cura di se stesse. Se ripuliamo la comunità, la comunità ripulirà la sua poesia e la sua prosa. Ma è assurdo aspettarsi che persone le quali non rispettano le proprie promesse, fatte alle proprie nozze, si scandalizzino perché non ogni romanzo si conclude alla maniera vittoriana con lo scampanio nuziale. È ridicolo aspettarsi che la gente monti su tutte le furie per la condotta di Joan in Green Pyjamas o di Peter in Cocktail-Time, quando ha saputo rassegnarsi alla medesima condotta nelle proprie figlie o nei propri generi. Non intendo, s'intende, che tutta la nostra vita familiare sia così. Né che tutta la nostra narrativa sia così. Ma molti di coloro che reclamano una Censura in realtà reclamano che si tolleri nella vita ciò che non vogliamo tollerare nella letteratura.
+La schietta verità è che la società moderna deve avere una morale
+prima di poter avere un censore dei costumi. Direi che
+deve avere una religione prima di poter avere una morale.
+Ma questa è un'altra questione che non dovrei discutere pienamente qui.
+Comunque, il guaio è che la gente fa un gran chiasso su irreali
+romanzi quando dovrebbe far chiasso sulla vita reale.
+È un caso di prendersi cura dei fatti, e le finzioni
+si prenderanno cura di sé. Se purifichiamo la comunità,
+la comunità purificherà la sua poesia e la sua prosa. Ma è
+assurdo aspettarsi che gente che non rispetta le proprie promesse,
+fatte alle proprie nozze, si scandalizzi perché ogni romanzo non
+finisce alla maniera vittoriana con campane nuziali. È ridicolo
+aspettarsi che la gente sia punta al furore dal comportamento di Joan
+in Pigiama Verde o di Peter in Ora dell'Aperitivo, quando è riuscita
+a riconciliarcisi nelle proprie figlie o generi. Non
+intendo, naturalmente, che tutta la nostra vita di famiglia sia così.
+Né tutta la nostra narrativa è così. Ma molti che chiedono una Censura
+stanno in realtà chiedendo che tolleriamo nella vita ciò che non
+tollereremo nella letteratura.
 
-VI. Sugli scrittori di romanzi polizieschi
+VI. Sugli Scrittori di Storie Poliziesche
 
-L E primissime parole della storia di Trent's Last Case dovrebbero dire a qualunque persona intelligente e di solida tradizione che l'intera mente dello scrittore si muove a un livello più alto di quello dell'ordinario racconto d'assassinio. Senza far sfoggio di essere qualcosa di più di un narratore, egli è un narratore che intende lo stile e la distinzione e quella filosofia più profonda che non è mai una moda o un ismo; e, soprattutto, che intende quel peso e quel movimento delle parole in cui stile e distinzione e filosofia ed esperienza si fanno una cosa sola. Poiché le primissime parole di questo romanzo poliziesco, scritto per essere letto in treno, sono: «Fra ciò che conta e ciò che sembra contare, come potrebbe il mondo che conosciamo giudicare con saggezza?». Mi si vorrà scusare, [[Hope|spero]], se trovo una curiosa illustrazione di questa medesima domanda proprio nella pubblicità e persino negli omaggi letterari stampati in fondo al libro. Poiché fra coloro che hanno espresso il loro entusiastico ringraziamento al signor Bentley per aver scritto un vero racconto [[Detective|poliziesco]] che era anche un vero libro, vi sono alcuni dei più raffinati specialisti nel campo del [[Novel|romanzo]] criminale, e anche alcune delle prime menti nel dominio del pensiero e della cultura in generale. Da un lato, vi figurano veri esperti del trattamento scientifico ed esatto di simili problemi polizieschi, come il signor R. Austin Freeman e il signor Freeman Wills Crofts. Dall'altro, vi figurano uomini brillanti e insigni in campi del tutto diversi di seria speculazione e controversia, come padre Ronald Knox e il signor G. D. H. Cole. Ultime, ma tutt'altro che minime, vi figurano quelle scrittrici, e in special modo le signore, che, senza alcun particolare sfoggio di specialismo, hanno scritto racconti criminali costruiti alla perfezione e insieme divertenti commedie; notevoli fra tutte la signora [[Agatha]] Christie e la signorina Dorothy Sayers.
+LE primissime parole della storia dell'Ultimo Caso di Trent dovrebbero
+dire a qualsiasi persona intelligente e tradizionale che l'intera mente
+dello scrittore si muove su un piano più alto dell'ordinaria storia d'omicidio.
+Senza far alcuna ostentazione d'essere più di un narratore,
+egli è un narratore che comprende lo stile e la distinzione e la
+più profonda filosofia che non è mai una mania o un ismo; e, soprattutto,
+che comprende quel peso e movimento delle parole, in cui stile
+e distinzione e filosofia ed esperienza sono una cosa sola.
+Poiché le primissime parole di questa storia poliziesca, scritta per essere
+letta in un treno, sono: «Fra ciò che conta e ciò che
+sembra contare, come dovrebbe il mondo che conosciamo giudicare con saggezza?»
+[[Hope|Spero]] mi si perdoni se trovo un'interessante illustrazione di questa
+stessa questione nelle pubbliche inserzioni, e persino nei
+tributi letterari sul retro del libro. Poiché tra coloro che hanno espresso
+il loro entusiastico ringraziamento al signor Bentley per aver scritto una vera storia
+[[Detective|poliziesca]] che era anche un vero libro, ci sono alcuni dei più fini
+specialisti nel campo del [[Novel|romanzo]] criminale, e anche alcune
+delle prime menti nel dominio del pensiero e della cultura generale.
+Da un lato, essi includono veri esperti nel trattamento scientifico ed
+esatto di simili problemi polizieschi, come il signor R. Austin Freeman
+e il signor Freeman Wills Crofts. Dall'altro lato, essi includono
+uomini brillanti e insigni in campi totalmente diversi
+di seria speculazione e controversia, come Padre Ronald Knox,
+e il signor G. D. H. Cole. Ultimi, ma tutt'altro che minimi,
+essi includono quegli scrittori, e piuttosto specialmente scrittrici, che,
+senza alcuna speciale ostentazione di specialismo, hanno scritto storie criminali
+perfettamente costruite che sono anche divertenti commedie;
+in particolare la signora [[Agatha]] Christie e la signorina Dorothy Sayers.
 
-Oltre a queste autorità sarebbe facile, per mia personale conoscenza, citare decine di scrittori e pensatori celebri, professori e dottori e diplomatici e poeti della più classica tempra, che hanno posto questo libro accanto a The Wallet of Kai Lung o a The Diary of a Nobody sul piccolo e segreto scaffale dei Libri Migliori. Per menzionare solo a caso due dei miei amici, che non se ne avranno per la rivelazione: il signor Hilaire Belloc, che non legge mai racconti [[Detective|polizieschi]], ammira questo; e il signor Maurice Baring, che legge tutti i racconti [[Detective|polizieschi]] che si possano avere per [[Love|amore]] o per denaro, ammira questo più di ogni altro. Stando così le cose, non posso non essere incuriosito da un piccolo particolare della cerimoniosa ambasceria di ringraziamenti al signor Bentley; intendo il fatto che il primo nome ad essere annunciato di tutta quella missione, e stampato in cima a tutti quei nomi, è il nome del signor [[Edgar]] Wallace; e che il signor [[Edgar]] Wallace [[Alone|soltanto]] è ritenuto degno di veder proclamata la propria approvazione a caratteri cubitali per l'occasione. Evidentemente, è il suo complimento [[Alone|soltanto]] che conta davvero: «Fra ciò che conta e ciò che sembra contare, come potrebbe il mondo che conosciamo giudicare con saggezza?».
+Oltre a queste autorità sarebbe facile, a mia
+personale conoscenza, citare dozzine di famosi scrittori e pensatori,
+docenti e dottori e diplomatici e poeti della più classica inclinazione,
+che hanno messo questo libro insieme a La Bisaccia di Kai Lung o al Diario
+di un Signor Nessuno nella piccola e segreta mensola dei Migliori Libri. Per menzionare
+solo a caso due dei miei amici, che non si risentiranno della rivelazione:
+il signor Hilaire Belloc, che non legge mai storie [[Detective|poliziesche]], ammira questa;
+e il signor Maurice Baring, che legge tutte le storie [[Detective|poliziesche]]
+che si possano avere per [[Love|amore]] o per denaro, ammira questa più di tutte.
+Stando così le cose, non posso non essere interessato a un piccolo dettaglio
+della cerimoniale ambasceria di ringraziamento al signor Bentley; intendo il fatto
+che il primo nome ad essere annunciato di tutta quella missione e
+stampato in cima a tutti questi nomi, è il nome del signor [[Edgar]] Wallace;
+e che il signor [[Edgar]] Wallace [[Alone|soltanto]] è ritenuto degno di avere
+il suo proclama stampato a grandi lettere per l'occasione.
+Evidentemente, è il suo complimento [[Alone|soltanto]] che davvero conta «Fra
+ciò che conta e ciò che sembra contare, come dovrebbe il mondo che
+conosciamo giudicare con saggezza?»
 
-Dio non voglia che io o chiunque altro parli, con ingratitudine o con scortesia, del signor Edgar Wallace. Ho goduto centinaia delle sue storie e spero di goderne altre centinaia; e sembra assai probabile che continuerò ad avere l'occasione di un tale godimento. Disprezzare simili storie è, fra tutte le cose, la più spregevole. È come disprezzare le pantomime o le osterie o le canzoni comiche o i comuni divertimenti d'ogni sorta che ci legano nella fratellanza degli uomini. E quando trattiamo di letteratura popolare di questa specie sana e vivace, è cosa assai scortese lamentarsi della sbalorditiva moltiplicità della produzione che un uomo come il signor Wallace riesce a conseguire. È come lamentarsi che una birreria davvero buona fornisca troppa birra; il che parrebbe non solo una bestemmia ma quasi una contraddizione in termini. È come lamentarsi che un cantante popolare davvero bravo sappia cantare troppe canzoni diverse; lamentela che è tutta quanta un complimento. È irragionevole rimproverare il signor Wallace di averci troppo divertiti ed emozionati. È meschino risentirsi della generosità. Può ben essere un piacere aver dato piacere a così tanti; e dovrebbe essere un piacere, per costoro, riconoscerlo.
+Dio non voglia che io o chiunque altro parli, con ingratitudine o
+scortesia, del signor Edgar Wallace. Ho goduto di centinaia
+delle sue storie e spero di godere di centinaia altre; e pare abbastanza
+probabile che continuerò ad avere l'occasione di tale godimento.
+Disprezzare simili storie è di tutte le cose la più spregevole.
+È come disprezzare le pantomime o le osterie o le canzoni comiche o i comuni
+divertimenti d'ogni sorta che ci legano nella fratellanza degli uomini.
+E quando abbiamo a che fare con la letteratura popolare di questo genere sano e vivace,
+è assai scortese lamentarsi della stupefacente molteplicità
+della produzione che un uomo come il signor Wallace riesce a realizzare.
+È come lamentarsi che una birreria davvero buona fornisca troppa birra;
+il che parrebbe non solo una bestemmia ma quasi una contraddizione
+in termini. È come lamentarsi che un cantante popolare davvero buono sappia
+cantare troppe canzoni diverse; una lamentela che è interamente un complimento.
+È irragionevole rimproverare il signor Wallace d'averci intrattenuti
+ed eccitati troppo. È ingeneroso risentirsi della generosità.
+Può ben essere un piacere aver dato piacere a così tanti;
+e dovrebbe essere per loro un piacere riconoscerlo.
 
-Ma quando tutto ciò sia riconosciuto, resta pur sempre una ragionevole proporzione in queste cose; e la scelta del signor Edgar Wallace, fra tutte le altre autorità, come se fosse l'unica persona che conta davvero, non è ragionevole. Non v'è ragione possibile per essa, salvo una ragione volgare connessa alla mera mole o al rumore o alla notorietà o alla produzione in serie. La satira intitolata Reunion All Round è cosa che conta e continuerà a contare; potrà contare per i nostri discendenti fra cent'anni come la satira intitolata Gulliver's Travels conta per noi. È divertente ed è fatta per divertire; ma non è fatta soltanto per ammazzare il tempo, bensì per ammazzare la ciarpa e la menzogna. Sono lieto di notare che la signorina Dorothy Sayers, che è fra coloro i quali scrivono racconti d'assassinio come se sapessero scrivere anche qualcos'altro, mette alla prova la sua ammirazione per il libro del signor Bentley in questo modo, e dice: «È l'unico racconto [[Detective|poliziesco]] del secolo presente che sono certa passerà ai posteri come un classico. È un capolavoro». Un capolavoro è cosa che conta; e un uomo non può produrre, e probabilmente non pretende di produrre, capolavori o cose che contano, da vendersi a milioni o da riversarsi in un flusso perpetuo. Così un uomo come padre Ronald Knox, autore di Reunion All Round, nel conferire l'alloro a un'opera letteraria, ha a che fare con qualcosa al proprio livello, e può darsi che stia mettendo in serbo qualcosa destinato a essere ricordato; come noi ricordiamo il dignitoso [[Pride|orgoglio]] di Pope nel complimento dei suoi contemporanei:
+Ma quando tutto questo è riconosciuto, rimane una razionale
+proporzione in queste cose; e la scelta del signor Edgar Wallace,
+tra tutte le altre autorità, come se egli fosse l'unica persona
+che davvero conta, non è razionale. Non c'è alcuna possibile ragione
+per essa, tranne una volgare ragione connessa con la mera mole o il rumore
+o la notorietà o la produzione di massa. La satira intitolata Reunion All Round
+è una cosa che conta e continuerà a contare; potrà contare
+per i nostri discendenti fra cent'anni come la satira intitolata
+I Viaggi di Gulliver conta per noi. È divertente ed è intesa a divertire;
+ma non è solo intesa a uccidere il tempo, bensì a uccidere la robaccia e la falsità.
+Sono lieto di notare che la signorina Dorothy Sayers, che è una di coloro
+che scrivono storie d'omicidio come se sapessero scrivere qualcos'altro,
+mette alla prova la sua ammirazione per il libro del signor Bentley in questo modo,
+e dice: «È l'unica storia [[Detective|poliziesca]] del presente secolo
+che sono certa passerà ai posteri come un classico.
+È un capolavoro». Un capolavoro è una cosa che conta;
+e un uomo non può produrre, e probabilmente non pretende di produrre,
+capolavori o cose che contano, per venderli a milioni o versarli
+in un flusso perpetuo. Così un uomo come Padre Ronald Knox,
+l'autore di Reunion All Round, nel dare l'alloro a un'opera letteraria,
+ha a che fare con qualcosa al proprio livello, e può star mettendo da parte
+qualcosa da ricordare; come noi ricordiamo il decoroso [[Pride|orgoglio]] di Pope
+per il complimento dei suoi contemporanei:
 
-«E Congreve amò e Swift sopportò i miei versi.»
+«E Congreve amò e Swift sopportò i miei versi».
 
-Lo stesso vale, s'intende, per i tributi o i contributi di altri scrittori seri al romanzo sensazionale. Il movimento generale detto Guild Socialism potrà contare moltissimo fra cent'anni; ad ogni modo, conta ora; e un uomo che l'ha esposto con la chiarezza economica e la stringatezza del signor Cole certamente conta ora. Il solido, minuzioso, scientifico argomentare del dottor Thorndyke, nei romanzi del signor Austin Freeman, conta ora; e assai probabilmente continuerà a contare. In quel senso, tempestare il mondo con un numero prodigioso di romanzi sensazionali affatto leggibili non conta; e con ogni probabilità non è fatto per contare. In effetti, v'è una sezione dell'opera del signor Edgar Wallace, certi suoi bozzetti sull'Africa del Sud, che è davvero di tipo più solido e intrinsecamente prezioso. Forse egli era uno scrittore migliore prima di diventare un autore di successo, come Sir Hall Caine; forse descriveva i veri Cafri meglio degli irreali Cinesi, proprio come Sir Hall Caine era tanto migliore quando era confinato all'Isola di Man, e non lasciato libero di scorrazzare per l'Universo dell'Uomo.
+È lo stesso, naturalmente, coi tributi o contributi di
+altri seri scrittori al romanzo sensazionale. Il movimento generale
+chiamato Socialismo Gildista può contare moltissimo fra cent'anni;
+in ogni caso, conta ora; e un uomo che l'ha esposto con
+la chiarezza economica e il rigore del signor Cole di certo conta ora.
+Il solido, dettagliato, scientifico argomentare del dottor Thorndyke,
+nei romanzi del signor Austin Freeman, conta ora; e assai
+probabilmente potrà continuare a contare. In quel senso, sommergere il mondo
+con un prodigioso numero di romanzi sensazionali abbastanza leggibili
+non conta; e con ogni probabilità non è inteso a contare.
+Di fatto, c'è una sezione dell'opera del signor Edgar Wallace,
+alcuni dei suoi bozzetti sul Sudafrica, che è davvero di un tipo più
+solido e intrinsecamente prezioso. Forse egli era uno scrittore migliore
+prima di essere un bestseller, come Sir Hall Caine;
+forse descrisse veri Kaffir meglio che irreali Cinesi,
+proprio come Sir Hall Caine era assai migliore quando era confinato
+all'Isola di Man, e non lasciato libero sull'Universo dell'Uomo.
 
-Ma, in verità, v'è un'altra distinzione da fare. Persino nel loro meglio, le storie del signor Edgar Wallace non sono in genere racconti polizieschi, bensì racconti d'avventura. I due generi vengono troppo confusi sotto il vago titolo di shockers o romanzi sensazionali; e gli scrittori stessi sono spesso confusi su quale dei due stiano scrivendo. Ma il tipo di storia che può essere sfornato in tali quantità è normalmente la storia di svariate avventure; come la sfornavano Dumas o, se è per questo, Henty. Non è poi così difficile progettare, due o tre volte alla settimana, una specie di corsa a ostacoli fatta di trabocchetti e agguati, tale che un eroe si trovi in perpetuo pericolo. Grazie al Cielo è così facile da scrivere e così facile da leggere; non è alcun disonore essere annoverati con Dumas e ringraziati per una fertilità pari alla sua. Ma congegnare un solo trabocchetto che venga ispezionato da esperti per l'intera lunghezza di un libro, e mai riconosciuto come trabocchetto, questo è lavoro per un uomo di tutt'altra specie; e persino Trent lo chiamò il suo Ultimo Caso, e ha rifiutato di tentare ancora.
+Ma, in verità, c'è un'altra distinzione da fare.
+Persino al loro meglio, le storie del signor Edgar Wallace generalmente non sono
+storie poliziesche, bensì storie d'avventura. Le due sono troppo
+confuse sotto il vago titolo di shockers o romanzi sensazionali;
+e gli scrittori stessi spesso si confondono su quale delle
+due stiano scrivendo. Ma il tipo di storia che si può sfornare
+in tal numero è normalmente la storia di varia avventura;
+come la sfornavano Dumas, o, se è per questo, Henty.
+Non è così difficile pianificare, due o tre volte
+alla settimana, una sorta di corsa a ostacoli fatta di trappole e agguati,
+così che un eroe sia in perpetuo pericolo. Grazie al Cielo
+è così facile da scrivere e così facile da leggere; non è alcuna vergogna
+essere classificati con Dumas e ringraziati per una fertilità come la sua.
+Ma costruire un'unica trappola che venga ispezionata da esperti per
+l'intera lunghezza di un libro, e mai scoperta essere affatto una trappola,
+questo è lavoro per un tipo d'uomo diverso; e persino Trent lo chiamò
+il suo Ultimo Caso e ha rifiutato di riprovare.

@@ -127,104 +127,104 @@ and drooping would hardly say the same of Victoria.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_42_on_dickens_and_after/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_43_on_the_king/part_02">part 02 ›</a></div>
 </nav>
 
-XLIII.  Sul [[King|Re]]
+XLIII. Sul [[King|Re]]
 
 UN ringraziamento nazionale per la guarigione del [[King|Re]] illustra
-in [[Double|duplice]] maniera ciò che possiamo chiamare l'intera teoria del rendimento di grazie.
-In primo luogo, per il concentrarsi di così vasta moltitudine di
-solidali sull'esito di una singola vicenda, il caldo rispetto
-provato per il sofferente da tutti coloro che lo conoscevano, foss'anche di fama,
-e il senso vero in cui egli stava per tutti i suoi sudditi come simbolo
-di responsabilità e d'[[Honour|onore]].  E in secondo luogo, per l'intensità del tutto
-insolita del dramma e per la vicinanza del pericolo;
-come se una vera voce umana avesse risposto annunciando la [[Survival|sopravvivenza]],
-quando avevamo già udito, scoccata e sibilante, il fischio
-della freccia della [[Death|Morte]].  Ci devono essere stati pochissimi esseri umani
-accanto ai quali quella freccia fosse passata così vicino; anche quando non era
-il mondo a guardare o un grande impero a tornare a respirare.
-E questi due aspetti del rendimento di grazie stanno per verità tanto
-profonde quanto la [[Tragedy|tragedia]] e lo scampato pericolo che essi illustrano.
+in [[Double|duplice]] maniera ciò che possiamo chiamare l'intera teoria del ringraziamento.
+Primo, per via della concentrazione di un così vasto concorso di
+simpatizzanti sulla vicenda di un'unica storia, il caldo rispetto
+provato per il sofferente da tutti coloro che lo conoscevano, anche solo di fama,
+e il vero senso in cui egli stava per tutti i suoi sudditi come un simbolo
+di responsabilità e [[Honour|Onore]]. E secondo, per via della affatto
+insolita intensità del dramma e vicinanza del pericolo;
+come se una veritiera voce umana avesse risposto annunciando la [[Survival|Sopravvivenza]],
+quando avevamo già udito, scoccata e sibilante, il rumore
+della freccia della [[Death|Morte]]. Devono esserci stati assai pochi esseri umani
+a cui quella freccia fosse passata così vicino; anche quando non era
+il mondo a guardare o un grande impero a respirare di nuovo.
+E questi due aspetti del ringraziamento stanno per verità tanto
+profonde quanto la [[Tragedy|tragedia]] e lo scampo che essi illustrano.
 Nulla illustra più chiaramente quanto sia naturale la religione naturale,
-e quanto sia innaturale la pura negazione, del sollevarsi del cuore
-al termine di una simile veglia.  È di moda parlare dell'uomo
-impigliato in credi e riti, come nelle [[Chains|catene]] della mente.
-Ma di fatto lo scettico è impedito da [[Chains|catene]] invisibili, nei suoi
-movimenti più umani, più del più infimo schiavo della superstizione.
-L'uomo che non può alzare gli occhi al cielo, né piegare il ginocchio
-alla terra, è mutilato e impigliato in una rete di negazioni.
-Fu Rossetti, credo, a dire che il momento peggiore per
-l'ateo era quando si sentiva grato e non aveva nessuno da ringraziare.
-Tutto ciò che è simboleggiato, al meglio, da un [[King|re]] e da un regno,
-l'intero cerchio dell'ordine e dell'armonia del vivere, dovrebbe per sua
-[[Nature|natura]] produrre questo grande raccolto di gratitudine.  Ma gli uomini son fatti
-in modo che comunemente occorre qualcosa di drammatico e di pericoloso per destare questa
-saggia meraviglia; e ci vuole qualcosa di una crisi per renderci conto della creazione.
-Dobbiamo vedere il sole e la [[Moon|luna]] e tutte le [[Seasons|stagioni]] rese a un uomo,
-come se egli fosse risuscitato dai morti.  In termini più volgari, gli uomini hanno bisogno
-di brividi per produrre ringraziamenti, e vanno colti di sorpresa perché si stupiscano.
-È l'intero fine della religione, dell'[[Imagination|immaginazione]], della poesia e
+e quanto sia innaturale la mera negazione, del sollevarsi del cuore
+al termine di una simile veglia. È di moda parlare dell'uomo
+impigliato in credi e riti, come nelle [[Chains|Catene]] della mente.
+Ma di fatto lo scettico è ostacolato da invisibili [[Chains|Catene]], nei suoi
+più umani movimenti, più del più basso schiavo della superstizione.
+L'uomo che non può alzare gli occhi al cielo, o piegare il ginocchio
+alla terra, è storpiato e preso in una rete di negazioni.
+Fu Rossetti, credo, a dire che il peggior momento
+dell'ateo era quando si sentiva grato e non aveva nessuno da ringraziare.
+Tutto ciò è simboleggiato, al suo meglio, da un [[King|re]] e da un regno,
+l'intero cerchio dell'ordine e dell'armonia del vivere, che dovrebbero nella loro
+[[Nature|natura]] produrre questo grande raccolto di gratitudine. Ma gli uomini sono fatti così
+che qualcosa di dramma e di pericoli è comunemente necessario per destare questo
+saggio stupore; e abbiamo bisogno di qualcosa di crisi per renderci conto della creazione.
+Dobbiamo vedere il sole e la [[Moon|luna]] e tutte le [[Seasons|Stagioni]] restituiti a un uomo,
+come se egli fosse risorto dai morti. In un linguaggio più volgare, gli uomini hanno bisogno
+di brividi per produrre ringraziamenti, e devono essere sorpresi fino a sorprendersi.
+È l'intero scopo della religione, dell'[[Imagination|Immaginazione]], della poesia e
 delle arti, destare quel senso di qualcosa salvato dal nulla.
-Ma nessuna poesia può farlo come lo fa una storia vera a questo livello di
-significato e di solennità; quando un dramma che nessun uomo ha scritto
+Ma nessun poema può farlo come fa una vera storia su questo livello di
+significato e solennità; quando un dramma che nessun uomo ha scritto
 è recitato sul palcoscenico dell'umanità.
 
-Non è frase rituale dire che il [[King|Re]] esce dalle porte stesse
-della [[Death|Morte]] come simbolo dell'[[unity|unità]] nazionale, in una nazione divisa
-su molte altre cose.  In più sensi d'uno egli esce alla
-piena luce del giorno; in un mondo dove la monarchia si fa più forte anziché
-più debole, per molte e spesso imperscrutabili ragioni, tutte
-illustrate nella vicenda personale e nella risposta popolare a essa.
-Senza addentrarci più a fondo in tali materie, possiamo dire che gli uomini in molte
-età hanno sentito, in qualche modo istintivo, che la pienezza
+Non è alcuna frase rituale dire che il [[King|Re]] esce dalle porte stesse
+della [[Death|Morte]] come simbolo di [[unity|unità]] nazionale, in una nazione divisa
+su molte altre cose. In più sensi di uno egli esce alla
+larga luce del giorno; in un mondo dove la monarchia si fa più forte piuttosto
+che più debole, per molte e spesso imperscrutabili ragioni, tutte
+illustrate nella vicenda personale e nella risposta popolare ad essa.
+Senza andare più a fondo in simili questioni, possiamo dire che gli uomini in molte
+epoche hanno sentito, in una qualche istintiva maniera, che la pienezza
 dell'umanità era meglio espressa in un uomo che in una folla;
-specialmente se si trattava di una folla di nobili.  In Inghilterra ciò è stato
-profondamente modificato da tradizioni aristocratiche, sia di libertà
+specialmente se era una folla di nobili. In Inghilterra questo è stato
+profondamente modificato dalle tradizioni aristocratiche, sia di libertà
 sia di licenza; e ci fu un [[Time|tempo]] in cui la vita della monarchia,
-come la vita di questo monarca, pendeva da un capello.  Nel caso istituzionale,
+come la vita di questo monarca, pendeva da un capello. Nel caso istituzionale,
 come in quello individuale, quel momento sembra essere passato.
-Nella reazione dell'affetto personale, che in questo caso è
-molto personale, c'è probabilmente una corrente sotterranea di forze impersonali
-che ovunque ora spingono verso un [[government|governo]] più personale.
+Nella reazione d'affetto personale, che in questo caso è
+assai personale, c'è probabilmente una corrente sotterranea d'impersonali
+forze che ovunque spingono ora verso un [[government|governo]] più personale.
 In qualunque forma la prossima generazione tenti la riunione di lealtà
-e libertà, ci sarà probabilmente meno che mai della semplice
-[[Jealousy|gelosia]] oligarchica per la popolarità del principe popolare.
+e libertà, ci sarà probabilmente meno che mai della mera
+oligarchica [[Jealousy|gelosia]] verso la popolarità del principe popolare.
 
-C'è una maniera unica e imprevista in cui il [[King|Re]] Giorgio
-Quinto è arrivato a stare, nelle nuove condizioni, per qualcosa di nuovo.
-Ciò è dovuto in parte alla sua stessa personalità e in parte allo strano e
+C'è un'unica e imprevista maniera in cui [[King|Re]] Giorgio
+Quinto è venuto a stare, nelle nuove condizioni, per qualcosa di nuovo.
+È dovuto in parte alla sua stessa personalità e in parte allo strano e
 piuttosto indescrivibile stato d'animo che ha segnato l'Inghilterra dopo la Guerra.
 Si è sempre detto, in tempi recenti, che il Sovrano britannico
-è il capo sociale piuttosto che il capo politico.
-Vi insistevano specialmente i cauti scrittori costituzionali,
-di scuola liberale, come garanzia contro il dispotismo
-e come [[Reconciliation|riconciliazione]] tra regalità e [[democracy|democrazia]].
-Lo si è detto del Sovrano almeno durante gli ultimi quattro regni;
-e durante quei quattro regni fu vero in un senso speciale, ma non
-esattamente nel senso in cui è vero ora.  Il linguaggio stesso
-che usiamo, sulla [[history|storia]] delle mode, dei costumi e persino della morale,
-lo registra come già in gran parte vero.  Quando vogliamo
-descrivere un certo interessante intermezzo, che segnò la fine
-del Settecento, un periodo di abbigliamento moderno ma piuttosto rococò,
+è il leader sociale piuttosto che il leader politico.
+Ci si è specialmente insistito da parte di cauti scrittori costituzionali,
+della scuola liberale, come una garanzia contro il dispotismo
+e una [[Reconciliation|Riconciliazione]] tra la regalità e la [[democracy|democrazia]].
+Si è detto del Sovrano durante almeno gli ultimi quattro regni;
+e durante quei quattro regni era vero in un senso speciale, eppure non
+esattamente nel senso in cui è vero ora. Il linguaggio stesso
+che usiamo, sulla [[history|storia]] delle mode, delle maniere e persino dei costumi,
+lo registra come essendo già stato in gran parte vero. Quando desideriamo
+descrivere un certo interessante interludio, che segnò la fine
+del diciottesimo secolo, un periodo di abbigliamento moderno ma piuttosto rococò,
 un periodo di architettura florida e talvolta piuttosto bulbosa,
 un periodo in cui cappelli e case e uniformi militari esibivano
-molte cose che sono ancora formali in una fase di essere fantastiche,
-non chiamiamo quel bizzarro periodo (caro al signor Max Beerbohm)
-col nome di alcuno dei suoi naturali capofila, nemmeno tra i dandy.
-Non lo chiamiamo l'età di Byron e neppure l'età di Brummell.
-Lo chiamiamo la Reggenza.  E abbiamo ragione, perché il principe
-reale che vi regnò lo rappresentava davvero.  Egli era un capo
-sociale a prescindere dall'essere un capo politico; anzi, prima ancora d'essere
-in condizione di essere pienamente un capo politico.  Altre frasi
-comuni illustrano la stessa cosa; compresa una frase che è ora
-scagliata avanti e indietro nella polemica più di qualunque altra.
-Tutti attaccano o difendono le cose che sono vittoriane.
+molte cose che sono ancora formali in una fase dell'essere fantastiche,
+non chiamiamo quel bizzarro periodo (amato dal signor Max Beerbohm)
+col nome di alcuno dei suoi naturali leader nemmeno tra i dandy.
+Non lo chiamiamo l'età di Byron o persino l'età di Brummell.
+Lo chiamiamo la Reggenza. E abbiamo ragione, perché il regio
+principe che vi regnò lo rappresentava davvero. Era un leader
+sociale a parte l'essere un leader politico; anzi, prima d'essere
+in posizione d'essere pienamente un leader politico. Altre ordinarie
+frasi illustrano la stessa cosa; inclusa una frase che è ora
+scagliata avanti e indietro nella controversia più di qualsiasi altra.
+Tutti stanno attaccando o difendendo cose che sono vittoriane.
 E quando parliamo di cose vittoriane pensiamo davvero a Vittoria,
-e non semplicemente a ciò che accadde nel regno di Vittoria.
-Ella fu in quel senso un capo sociale anche quando rifiutò d'essere mondana,
-o d'andare in società.  Pensiamo ancora alla vecchia [[Queen|Regina]] come a una vera
-rappresentante di certe idee; proprio come pensavamo al Reggente nella vecchia
-Regent Street, o davanti al Padiglione di Brighton.  Anzi, mi ha spesso
-colpito come ironico che le stesse persone che denunciano l'Età Vittoriana
-come soffocatrice delle donne debbano riferirvisi col nome di una donna.
-E persino coloro che chiamano le donne vittoriane deboli e leziose
+e non solo a ciò che accadde nel regno di Vittoria.
+Ella era in quel senso una leader sociale anche quando rifiutava d'essere sociale,
+o di andare in società. Pensiamo ancora alla vecchia [[Queen|Regina]] come a una reale
+rappresentante di certe nozioni; proprio come pensavamo al Reggente nella vecchia
+Regent Street, o dinanzi al Padiglione di Brighton. Anzi, mi ha spesso
+colpito come ironico che proprio le persone che denunciano l'Età Vittoriana
+come soppressione delle donne debbano riferirvisi col nome di una donna.
+E persino coloro che chiamano le donne vittoriane deboli e smorfiose
 e languide difficilmente direbbero lo stesso di Vittoria.

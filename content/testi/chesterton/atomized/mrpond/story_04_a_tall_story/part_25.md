@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story">Story 04 A Tall Story</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_24">‹ part 24</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_26">part 26 ›</a></div>
@@ -201,3 +203,200 @@ Wotton, he stripped off his waterproof and appeared in a sort of
 white circus dress, but for retaining his shabby boots and
 
 trousers.  Then he dived into the bag and brought out a monstrous
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story">Story 04 A Tall Story</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_24">‹ part 24</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_26">part 26 ›</a></div>
+</nav>
+
+buio che si addensava fuori. E allora Pond osservò all'improvviso:
+
+"Immagino che siamo tornati al binario giusto."
+
+Il volto di Wotton esprimeva solo lo stolido sbigottimento naturale date le
+
+circostanze; ma nei suoi abissi, più profondi di quanto alcuni
+
+supponessero, un brivido ultraterreno lo sfiorò per la prima [[Time|volta]].
+
+L'[[nightmare|Incubo]] si agitò nel suo [[Sleep|sonno]]; non la mera perplessità pratica
+
+di un problema, ma tutti quei dubbi al di là della ragione che ruotano
+
+intorno al luogo e al [[Time|tempo]]. Prima che potesse parlare, Pond aggiunse:
+
+"Questo attizzatoio ha una forma diversa."
+
+"Che diavolo intendete?" esplose alla fine Wotton. "Hanno
+
+chiuso a chiave la stazione; e non c'è nessuno tranne noi;
+
+salvo quella ragazza al bancone. Non immaginerete mica che abbia messo un nuovo
+
+corredo di mobili e di ferri da [[Fire|camino]] in tutte le sale d'attesa?"
+
+"No," disse il signor Pond. "Non ho detto un nuovo attizzatoio. Ho detto una nuova
+
+forma di attizzatoio."
+
+Quasi mentre parlava, balzò via dal camino, lasciando l'
+
+attizzatoio nel [[Fire|fuoco]], e corse alla soglia, allungando il capo e
+
+tendendo l'orecchio. Anche il compagno tese l'orecchio; e riconobbe, come una
+
+realtà oggettiva, che non era alcun [[nightmare]], un rumore di passi
+
+trascinati da qualche parte sul binario. Ma, quando corsero fuori, il
+
+binario appariva perfettamente vuoto, ormai una piana e compatta
+
+lastra di [[Snow|neve]]; e cominciarono a rendersi conto che il rumore veniva da
+
+sotto i loro piedi. Guardando oltre la ringhiera, videro che l'
+
+intera armatura sopraelevata della stazione era interrotta in un punto
+
+da una fascia d'argine erboso, assai grigio e sporcato dal
+
+fumo; giunsero appena in [[Time|tempo]] a vedere una scura e magra figura arrampicarsi su
+
+quell'argine e tuffarsi sotto il binario, in modo tale da poter
+
+l'attimo dopo strisciare fuori sui binari. Poi montò con calma
+
+sulla banchina, e vi rimase come un passeggero in attesa di
+
+un treno.
+
+A parte il fatto che lo sconosciuto aveva praticamente scassinato la
+
+stazione, contro difficoltà tanto particolari, la mente di Wotton,
+
+già piena di sospetti, decise a colpo d'occhio che era proprio un
+
+[[Horse|cavallo]] su cui puntare al buio. Curiosamente, somigliava un po' a un
+
+[[Horse|cavallo]], avendo un lungo muso equino e una strana specie di curvatura; era
+
+fosco e smunto e i suoi occhi infossati erano macchie d'[[Shadow|ombra]]
+
+tanto dense che era una sorta di sussulto rendersi conto che gli occhi
+
+lì dentro fiammeggiavano. Era vestito col più estremo grado di
+
+miseria, in un lungo impermeabile logoro e quasi cencioso; e
+
+pensarono di non aver mai visto prima un volto e una figura tanto
+
+simbolici di desolazione e di tetra [[Tragedy|tragedia]]. Parve a Wotton
+
+di avere lui stesso il suo primo vero scorcio di quegli abissi in cui
+
+la [[Despair|disperazione]] fabbrica i molti moti rivoluzionari che era
+
+stato suo dovere combattere; ma, per forza di cose, il dovere prevalse.
+
+Si avvicinò all'uomo, chiedendogli chi e cosa fosse, e perché
+
+avesse così eluso il blocco della polizia. L'uomo parve ignorare
+
+le altre domande per il momento; ma in risposta alla domanda
+
+su cosa fosse, la sua tragica mascella prominente si mosse ed emise una
+
+risposta assai inattesa.
+
+"Sono un Pagliaccio," disse con voce depressa.
+
+A questa risposta il signor Pond parve trasalire con tutt'altra specie
+
+di sorpresa. Aveva rimuginato sugli enigmi fin lì, come chi
+
+persegue lo studio di cose che alcuni potrebbero trovare sorprendenti, ma
+
+di cui egli stesso non si sorprendeva più molto. Ma
+
+restò a bocca aperta di fronte a questo come un uomo davanti a un miracolo; o ancor più,
+
+in un caso come questo, davanti a una coincidenza. Poi un altro e ancor più
+
+indecoroso mutamento lo colse. Si può solo dire che, avendo
+
+cominciato a strabuzzare gli occhi, finì per sghignazzare.
+
+"Oh, Signore, questo è un fuori programma!" esclamò, e parve di nuovo
+
+squassato da un riso quasi senile. "Questo non c'entra nulla con
+
+la storia; ma è una meravigliosa aggiunta alla pantomima. Ho
+
+sempre notato che le parti principali della pantomima non c'entravano nulla
+
+con la storia."
+
+Ma Sir [[Hubert]] Wotton non ne voleva più sapere per il momento dei
+
+fantasiosi misteri del signor Pond; men che meno dell'ultimo e più
+
+misterioso, il mistero della sua ilarità. Aveva già cominciato a
+
+[[Cross|inter]]rogare lo sconosciuto alla maniera della polizia; e lo
+
+sconosciuto gli tenne testa con cupa ma incrollabile lucidità. Il suo
+
+nome, a suo dire, era Hankin, ed era un pubblico
+
+intrattenitore che dava anche intrattenimenti privati; anzi, era
+
+fin troppo lieto di dare qualsiasi intrattenimento, nella depressa
+
+condizione del suo stato di sussistenza. Aveva un ingaggio per
+
+esibirsi come pagliaccio a una festa di bambini quella sera, e aveva
+
+insistito sulla necessità di prendere un treno preciso; né
+
+era stato rincuorato dalla rassicurazione della polizia all'ingresso che
+
+i treni regolari per i passeggeri sarebbero ripartiti entro un'ora, a un
+
+[[Time|orario]] che l'avrebbe fatto arrivare troppo tardi all'appuntamento; e gli avrebbe fatto perdere
+
+i primi pochi scellini che avesse guadagnato in molti mesi. Aveva
+
+fatto ciò che molte persone simili sarebbero state probabilmente liete di fare, se
+
+ne avessero avuto la prontezza e l'audacia, ed era salito nella
+
+stazione da un varco incustodito. Questa dichiarazione fu fatta con
+
+fermezza e semplicità, e Pond evidentemente vi credette; ma Wotton
+
+covava ancora qualche sospetto.
+
+"Devo pregarvi di venire con noi nella sala d'attesa," disse.
+
+"Avete qualcosa con voi che confermi la vostra storia?"
+
+"Non ho il mio biglietto da visita," disse il tetro signor Hankin. "L'ho
+
+perso insieme alla mia Rolls-Royce e al mio piccolo [[Castle|castello]] in Scozia.
+
+Ma potete vedermi nel mio splendido e alla moda abito da sera,
+
+se volete. Credo che dovrebbe convincervi."
+
+L'uomo portava una borsa logora e sformata, che trascinò
+
+fino alla sala d'attesa; e lì, sotto gli occhi sbarrati di
+
+Wotton, si sfilò l'impermeabile e comparve in una sorta di
+
+bianco costume da circo, salvo conservare i logori stivali e
+
+i calzoni. Poi si tuffò nella borsa e ne trasse una mostruosa

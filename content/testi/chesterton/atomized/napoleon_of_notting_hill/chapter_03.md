@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">‹ Chapter 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04">Chapter 04 ›</a></div>
@@ -314,3 +316,301 @@ And when he had reached the great market-place opposite the church,
 Barker knew that he had reached it, though he was roods behind,
 because a cry went up such as had never before greeted any of the kings
 of the earth.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">‹ Chapter 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04">Chapter 04 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03/part_02">Part 2</a></li></ul>
+</nav>
+
+CAPITOLO III
+
+LA [[Hill|COLLINA]] DELL'[[Humour|UMORISMO]]
+
+"In un piccolo [[Garden|giardino]] quadrato di rose gialle, presso il mare,"
+disse [[Auberon Quin]], "c'era un pastore anticonformista che non era mai
+stato a Wimbledon.  La sua famiglia non capiva il suo dolore né lo strano
+sguardo nei suoi occhi.  Ma un giorno si pentirono della loro trascuratezza,
+perché udirono che un [[Body|corpo]] era stato trovato sulla riva, malconcio,
+ma che calzava stivali di vernice.  Come volle il caso, si scoprì che non era
+affatto il pastore.  Ma nella tasca del morto c'era un biglietto di andata e
+ritorno per Maidstone."
+
+Ci fu una breve pausa mentre Quin e i suoi amici Barker e Lambert proseguivano
+dondolando attraverso l'erba fangosa dei Kensington Gardens.  Poi Auberon
+riprese.
+
+"Quella storia," disse con reverenza, "è la prova dell'[[Humour|umorismo]]."
+
+Camminarono oltre, più lontano e più svelti, guadando erba più alta man mano
+che cominciavano a salire un pendio.
+
+"Mi accorgo," continuò Auberon, "che avete superato la prova, e trovate
+l'aneddoto atrocemente divertente; giacché non dite nulla.  Solo l'[[Humour|umorismo]]
+grossolano è accolto con applausi da [[house|osteria]].  Il grande aneddoto è
+accolto in [[Silence|silenzio]], come una benedizione.  Ti sei sentito proprio
+benedetto, vero, Barker?"
+
+"Ho colto il punto," disse Barker, un po' altezzosamente.
+
+"Sai," disse Quin, con una sorta di idiota gaiezza, "ho un mucchio di storie
+buone come quella.  Ascolta questa."
+
+E si schiarì lievemente la gola.
+
+"Il dottor Policarpo era, come tutti sapete, un bimetallista di un giallore
+inconsueto.  'Ecco,' dicevano le persone di larga esperienza, 'ecco che passa
+il più giallo bimetallista del Cheshire.'  Una volta ciò fu detto in modo che
+egli lo udì: fu detto da un attuario, sotto un tramonto di malva e grigio.
+Policarpo si voltò verso di lui.  'Giallo!' gridò con furia, 'giallo!  Quis
+tulerit Gracchos de seditione querentes.'  Si dice che nessun attuario si prese
+mai più gioco del dottor Policarpo."
+
+Barker annuì con una semplice sagacia.  Lambert si limitò a un grugnito.
+
+"Eccone un'altra," continuò l'insaziabile Quin.  "In un avvallamento delle
+colline grigioverdi della piovosa Irlanda, viveva una vecchia, vecchissima
+donna, il cui zio era sempre Cambridge alla Regata.  Ma nei suoi avvallamenti
+grigioverdi, ella nulla sapeva di questo: non sapeva che ci fosse una Regata.
+E neppure sapeva di avere uno zio.  Non aveva sentito parlare di nessuno,
+tranne che di Giorgio Primo, di cui aveva sentito parlare (non so perché), e
+nella cui storica [[Memory|memoria]] riponeva la sua semplice fiducia.  E a poco
+a poco, nel buon [[Time|tempo]] di Dio, si scoprì che questo suo zio non era in realtà suo
+zio, e vennero a dirglielo.  Ella sorrise tra le sue [[Tears|lacrime]], e disse
+soltanto: 'La virtù è premio a se stessa.'  "
+
+Di nuovo ci fu un [[Silence|silenzio]], e poi Lambert disse:
+
+"Pare un po' misteriosa."
+
+"Misteriosa!" gridò l'altro.  "Il vero [[Humour|umorismo]] è misterioso.  Non vi
+rendete conto dell'evento capitale del diciannovesimo e ventesimo secolo?"
+
+"E quale sarebbe?" chiese Lambert, secco.
+
+"È semplicissimo," rispose l'altro.  "Finora era la rovina di uno scherzo che
+la gente non lo cogliesse.  Ora è la [[Sublime|sublime]] vittoria di uno scherzo
+che la gente non lo colga.  L'[[Humour|umorismo]], amici miei, è l'unica
+sacralità rimasta all'umanità.  È l'unica cosa di cui abbiate una vera paura.
+Guardate quell'albero."
+
+I suoi interlocutori guardarono vagamente verso un faggio che si protendeva
+verso di loro dal crinale della [[Hill|collina]].
+
+"Se," disse il signor Quin, "vi dicessi che non vedete le grandi verità della
+scienza esibite da quell'albero, benché fissino in faccia ogni uomo d'ingegno,
+cosa pensereste o direste?  Mi considerereste semplicemente un pedante con
+qualche teoria di poco conto sulle cellule vegetali.  Se vi dicessi che non
+vedete in quell'albero la vile malagestione della politica locale, mi
+liquidereste come un maniaco socialista con una particolare fissazione sui
+parchi pubblici.  Se vi dicessi che siete colpevoli della suprema bestemmia di
+guardare quell'albero e di non vedervi una nuova religione, una speciale
+rivelazione di Dio, direste semplicemente che ero un mistico, e non pensereste
+più a me.  Ma se... e alzò una mano pontificale... se dico che non riuscite a
+vedere l'[[Humour|umorismo]] di quell'albero, e che io ne vedo l'[[Humour|umorismo]]...
+mio Dio! vi rotolerete ai miei piedi."
+
+Fece una pausa un istante, e poi riprese.
+
+"Sì; un senso dell'[[Humour|umorismo]], uno strano e delicato senso dell'[[Humour|umorismo]],
+è la nuova religione dell'umanità!  È verso quella che gli uomini si sforzeranno
+con l'ascesi dei santi.  Vi si stabiliranno esercizi, esercizi spirituali.  Si
+chiederà: 'Riuscite a vedere l'[[Humour|umorismo]] di questa ringhiera di ferro?'
+oppure 'Riuscite a vedere l'[[Humour|umorismo]] di questo campo di grano?  Riuscite
+a vedere l'[[Humour|umorismo]] delle [[Stars|stelle]]?  Riuscite a vedere
+l'[[Humour|umorismo]] dei tramonti?'  Quante volte mi sono addormentato
+dal ridere, sprofondando nel [[Sleep|sonno]] sopra un tramonto violetto."
+
+"Proprio così," disse il signor Barker, con un intelligente imbarazzo.
+
+"Lasciate che vi racconti un'altra storia.  Quanto spesso accade che i deputati
+dell'Essex siano meno puntuali di quanto si supporrebbe.  Il deputato meno
+puntuale dell'Essex, forse, era James Wilson, il quale disse, nell'atto stesso
+di cogliere un papavero..."
+
+Lambert di scatto si voltò e piantò il bastone nel terreno in un atteggiamento
+di sfida.
+
+"Auberon," disse, "piantala.  Non lo sopporto.  È tutta una sciocchezza."
+
+Entrambi gli uomini lo fissarono, perché c'era qualcosa di assai esplosivo in
+quelle parole, come se fossero state penosamente tappate dentro per un lungo
+[[Time|tempo]].
+
+"Tu non hai," cominciò Quin, "nessun..."
+
+"Non me ne importa un accidente," disse Lambert, con violenza, "se ho 'un
+delicato senso dell'[[Humour|umorismo]]' oppure no.  Non lo sopporto.  È tutta
+una maledetta frode.  In quei racconti infernali non c'è proprio nessuno scherzo.
+Lo sai tanto [[Well|bene]] quanto me che non c'è."
+
+"[[Well|Beh]]," rispose Quin, lentamente, "è vero che io, coi miei processi
+mentali piuttosto graduali, non ci ho visto nessuno scherzo.  Ma il senso più
+fine di Barker lo ha percepito."
+
+Barker si fece di un rosso acceso, ma continuò a fissare l'orizzonte.
+
+"Somaro," disse Lambert; "perché non puoi essere come gli altri?  Perché non
+puoi dire qualcosa di davvero divertente, o tenere a freno la lingua?  L'uomo
+che si siede sul proprio cappello in una pantomima è di gran lunga più
+divertente di te."
+
+Quin lo guardò fisso.  Avevano raggiunto la cima del crinale e il [[Wind|vento]]
+colpì loro il volto.
+
+"Lambert," disse Auberon, "tu sei un uomo grande e buono, anche se mi venga un
+accidente se lo dai a vedere.  Sei di più.  Sei un grande rivoluzionario o
+liberatore del mondo, e non vedo l'ora di vederti scolpito nel marmo tra Lutero
+e Danton, possibilmente nel tuo attuale atteggiamento, il cappello un po' su un
+lato.  Ho detto, mentre salivo la [[Hill|collina]], che il nuovo [[Humour|umorismo]]
+era l'ultima delle religioni.  Tu ne hai fatto l'ultima delle superstizioni.  Ma
+lascia che ti dia un ammonimento assai serio.  Bada bene a come mi chiedi di
+fare qualcosa di outré, di imitare l'uomo nella pantomima, e di sedermi sul mio
+cappello.  Perché io sono un uomo la cui [[Soul|anima]] è stata svuotata di ogni
+piacere tranne la follia.  E per due soldi lo farei."
+
+"Fallo allora," disse Lambert, agitando il bastone con impazienza.  "Sarebbe più
+divertente delle sciocchezze che tu e Barker raccontate."
+
+Quin, ritto sulla cima della [[Hill|collina]], protese la mano verso il viale
+principale dei Kensington Gardens.
+
+"A duecento metri da qui," disse, "ci sono tutte le vostre conoscenze alla moda
+che non hanno nulla al mondo da fare se non fissarsi a vicenda e fissare noi.
+Siamo ritti su un'altura sotto il cielo aperto, una vetta per così dire di
+fantasia, un Sinai dell'[[Humour|umorismo]].  Siamo su un grande pulpito o
+palco, illuminato dal sole, e mezza [[London|Londra]] può vederci.  Bada bene a
+come mi suggerisci le cose.  Perché c'è in me una [[Madness|follia]] che va oltre
+il [[Martyrdom|martirio]], la [[Madness|follia]] di un uomo del tutto ozioso."
+
+"Non so di cosa tu stia parlando," disse Lambert, con disprezzo.  "So solo che
+preferirei ti reggessi sulla tua sciocca testa piuttosto che parlassi tanto."
+
+"Auberon! per amor del cielo..." gridò Barker, balzando avanti; ma era troppo
+tardi.  I volti da tutte le panchine e i viali erano rivolti nella loro
+direzione.  I gruppi si fermavano e piccole folle si radunavano; e la luce acuta
+del sole ritagliava l'intera scena in azzurro, verde e nero, come un'illustrazione
+nel libro di giocattoli di un [[Child|bambino]].  E sulla cima della piccola
+[[Hill|collina]] il signor [[Auberon Quin]] stava con notevole precisione
+atletica sulla testa, e agitava in aria i suoi stivali di vernice.
+
+"Per amor di Dio, Quin, tirati su, e non fare l'idiota," gridò Barker,
+torcendosi le mani; "ci ritroveremo qui tutta la città."
+
+"Sì, tirati su, tirati su, amico," disse Lambert, divertito e infastidito.
+"Stavo solo scherzando; tirati su."
+
+Auberon lo fece con un balzo, e scagliando il cappello più in alto degli
+alberi, si mise a saltellare su una gamba sola con espressione grave.  Barker
+pestò i piedi come un forsennato.
+
+"Oh, andiamocene a [[Home|casa]], Barker, e lasciamolo qui," disse Lambert;
+"un po' della vostra corretta e regolamentare polizia si occuperà di lui.
+Eccoli che arrivano!"
+
+Due uomini dall'aria [[Grave|grave]] in sobrie uniformi salirono la
+[[Hill|collina]] verso di loro.  Uno teneva in mano un foglio.
+
+"Eccolo là, agente," disse Lambert, allegramente; "noi non siamo responsabili
+di lui."
+
+L'agente guardò con occhio tranquillo il signor Quin che faceva capriole.
+
+"Non siamo venuti, signori," disse, "per ciò a cui credo alludiate.  Siamo
+venuti dal quartier generale per annunciare la scelta di Sua Maestà il
+[[King|Re]].  È regola, ereditata dal vecchio regime, che la notizia sia recata
+al nuovo Sovrano immediatamente, ovunque egli sia; così vi abbiamo seguito
+attraverso i Kensington Gardens."
+
+Gli occhi di Barker fiammeggiavano nel suo volto pallido.  Fu consumato
+dall'[[Ambition|ambizione]] per tutta la vita.  Con una certa ottusa
+magnanimità dell'intelletto aveva davvero creduto nel metodo casuale di scegliere
+i despoti.  Ma questo improvviso suggerimento, che la scelta potesse essere caduta
+su di lui, lo scombussolò di piacere.
+
+"Chi di noi," cominciò, e il rispettoso funzionario lo interruppe.
+
+"Non voi, signore, mi spiace dirlo.  Se mi è concesso dirlo, conosciamo i
+vostri servigi al [[government|Governo]], e ne saremmo grati se lo fosse.  La
+scelta è caduta..."
+
+"Che Dio benedica l'[[Soul|anima]] mia!" disse Lambert, saltando indietro di due
+passi.  "Non io.  Non ditemi che sono autocrate di tutte le Russie."
+
+"No, signore," disse l'agente, con un lieve colpo di tosse e uno sguardo verso
+Auberon, che in quel momento si stava ficcando la testa tra le gambe e faceva un
+verso simile a quello di una mucca; "il gentiluomo che dobbiamo felicitare
+sembra al momento... ehm... ehm... occupato."
+
+"Non Quin!" strillò Barker, precipitandosi verso di lui; "non può essere.
+Auberon, per amor di Dio riprenditi.  Ti hanno fatto [[King|Re]]!"
+
+Con la testa ancora capovolta tra le gambe, il signor Quin rispose modestamente:
+
+"Non ne sono degno.  Non posso ragionevolmente pretendere di eguagliare i grandi
+uomini che prima di me hanno impugnato lo scettro di Britannia.  Forse l'unica
+particolarità che posso vantare è che sono probabilmente il primo monarca che
+abbia mai riversato la propria [[Soul|anima]] al popolo d'Inghilterra con la
+testa e il [[Body|corpo]] in questa posizione.  Ciò può in un certo senso darmi,
+per citare una poesia che scrissi in gioventù:
+
+ "Un ufficio più nobile sulla terra  
+  Di quanto valore, potere d'ingegno o nascita  
+  Potessero dare agli antichi re guerrieri.  
+  L'intelletto chiarificato da questa postura..."
+
+Lambert e Barker si lanciarono una specie di assalto verso di lui.
+
+"Non capisci?" gridò Lambert.  "Non è uno scherzo.  Ti hanno fatto davvero
+[[King|Re]].  Perbacco! devono avere dei gusti ben strani."
+
+"I grandi Vescovi del Medioevo," disse Quin, sferrando calci in aria, mentre
+veniva trascinato su più o meno a testa in giù, "avevano l'abitudine di
+rifiutare l'[[Honour|onore]] dell'elezione tre volte e poi di accettarlo.  Una
+mera questione di dettaglio mi separa da quei grandi uomini.  Accetterò la
+carica tre volte e la rifiuterò dopo.  Oh! io mi affannerò per voi, mio fedele
+popolo!  Avrete un banchetto di [[Humour|umorismo]]."
+
+A questo [[Time|punto]] era stato deposto per il verso giusto, e i due uomini stavano
+ancora cercando invano di impressionarlo con la gravità della situazione.
+
+"Non mi hai forse detto, Wilfrid Lambert," disse, "che sarei stato di maggior
+valore pubblico se avessi adottato una forma più popolare di [[Humour|umorismo]]?
+E quando dovrebbe una forma popolare di [[Humour|umorismo]] essermi più
+saldamente inchiodata addosso di adesso, che sono diventato il beniamino di un
+intero popolo?  Agente," proseguì, rivolgendosi al messaggero sbigottito, "non
+ci sono cerimonie per celebrare il mio ingresso nella [[City|città]]?"
+
+"Cerimonie," cominciò il funzionario, con imbarazzo, "sono state più o meno
+trascurate da un po' di [[Time|tempo]], e..."
+
+[[Auberon Quin]] cominciò gradualmente a togliersi la giacca.
+
+"Ogni cerimonia," disse, "consiste nel rovesciamento dell'ovvio.  Così gli
+uomini, quando vogliono essere preti o giudici, si vestono da donne.  Abbiate la
+cortesia di aiutarmi a infilare questa giacca."  E la porse.
+
+"Ma, Maestà," disse l'agente, dopo un attimo di sconcerto e di armeggìo, "la
+state indossando con le falde davanti."
+
+"Il rovesciamento dell'ovvio," disse il [[King|Re]], con calma, "è quanto di più
+vicino al rituale possiamo giungere col nostro imperfetto apparato.  Fate strada."
+
+Il resto di quel pomeriggio e di quella sera fu per Barker e Lambert un
+[[nightmare|incubo]], che non riuscirono a realizzare o a rammentare bene.  Il
+[[King|Re]], con la giacca al contrario, si avviò verso le strade che lo
+attendevano, e il vecchio Palazzo di Kensington che era la residenza reale.  Man
+mano che passava accanto a piccoli gruppi di uomini, i gruppi si mutavano in
+folle, ed emettevano suoni che parevano strani nell'accogliere un autocrate.
+Barker camminava dietro, la mente in tumulto, e, man mano che le folle si
+facevano sempre più fitte, i suoni diventavano sempre più insoliti.  E quando
+ebbe raggiunto la grande piazza del mercato di fronte alla chiesa, Barker seppe
+di averla raggiunta, benché fosse rimasto molto indietro, perché si levò un grido
+quale non aveva mai prima salutato alcuno dei re della terra.

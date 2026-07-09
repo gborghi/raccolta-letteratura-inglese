@@ -207,181 +207,181 @@ Stylites and some of the first hermits may have been touched with the
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_01_clue_of_the_pressman/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_01_clue_of_the_pressman/part_03">part 03 ›</a></div>
 </nav>
 
-occhiali, che aveva l'aspetto di ciò che era, un comune, indaffarato medico condotto
+con gli occhiali, che aveva l'aspetto di ciò che era, un comune e indaffarato
 
-di periferia. Il quarto degli incongrui intimi di Marillac era
+medico condotto di periferia. Il quarto degli incongrui intimi di Marillac era
 
-del tutto e francamente trasandato. Abiti grigi e logori pendevano flosci dalla sua magra figura,
+francamente trasandato. Abiti grigi e logori pendevano flosci sulla sua figura magra,
 
-e i suoi capelli scuri e la barba piuttosto arruffata potevano, al meglio, essere solo
+e i suoi capelli scuri e la barba piuttosto arruffata potevano, nel migliore dei casi, essere solo
 
-scusati come bohémien. Aveva occhi assai notevoli, infossati assai profondamente nella
+scusati come da bohémien. Aveva occhi assai notevoli, affondati molto in profondità nella
 
-testa eppure, per un [[Paradox|paradosso]], sporgenti come segnali. Il visitatore si trovava
+testa e tuttavia, per un [[Paradox|paradosso]], sporgenti come segnali. Il visitatore si sentiva
 
 continuamente attratto verso di essi, come se fossero calamite.
 
-Ma, tutti insieme, il gruppo lo infastidiva e lo sconcertava. Non era
+Ma, tutto sommato, il gruppo lo turbava e lo sconcertava. Non era
 
 semplicemente una differenza di classe sociale, era un'atmosfera di sobrietà e
 
-perfino di solido lavoro e valore, che sembrava appartenere a un altro mondo.
+perfino di solido lavoro e valore, che pareva appartenere a un altro mondo.
 
 I quattro uomini in questione erano cordiali in modo modesto e persino imbarazzato;
 
-attaccarono conversazione col giornalista come con un qualsiasi
+attaccarono discorso con il giornalista come con un qualsiasi
 
-comune pari su un tram o in metropolitana, e quando, circa un'ora dopo, lo
+pari qualunque su un tram o in metropolitana, e quando, circa un'ora dopo,
 
-invitarono a condividere la loro cena al club, egli non ebbe quel senso di
+lo invitarono a condividere la loro cena al club, egli non provò quel senso di
 
-tensione che avrebbe potuto provare di fronte a uno dei favolosi banchetti
+tensione che avrebbe potuto avvertire affrontando uno dei favolosi banchetti
 
 lucullici del loro amico, il conte de Marillac.
 
-Poiché, per quanto seriamente Marillac potesse o non potesse prendere il serio
+Perché, per quanto sul serio Marillac potesse o meno prendere il serio
 
-dramma del Sesso e della Scienza, non vi era [[Doubt|dubbio]] che avrebbe preso la
+dramma del Sesso e della Scienza, non v'era [[Doubt|dubbio]] che avrebbe preso
 
-cena ancor più sul serio. Era famoso come un epicureo di specie quasi
+la cena ancor più sul serio. Era famoso come buongustaio di stampo quasi
 
-classica e leggendaria, e tutti i buongustai d'Europa riverivano la sua
+classico e leggendario, e tutti i gastronomi d'Europa riverivano la sua
 
-reputazione. L'ometto con gli occhiali accennò a questo fatto,
+fama. L'ometto con gli occhiali accennò a questo fatto,
 
-in verità, mentre si sedevano a cena: «[[Hope|Spero]] che possiate accontentarvi della nostra semplice
+infatti, mentre si sedevano a cena: «[[Hope|Spero]] che possiate accontentarvi della nostra semplice
 
 cucina, signor Pinion», disse. «Avreste avuto un menù assai più accuratamente
 
-selezionato se Marillac fosse stato qui.»
+scelto se ci fosse stato Marillac.»
 
-L'americano lo rassicurò con cortesi espressioni sulla cena del club;
+L'americano lo rassicurò con espressioni cortesi sulla cena del club;
 
-ma aggiunse: «Suppongo sia vero che egli faccia piuttosto un'arte del
+ma aggiunse: «Suppongo sia vero che egli fa piuttosto un'arte del
 
-pranzare?»
+cenare?»
 
 «Oh, sì», disse l'uomo con gli occhiali. «Ha sempre tutte le cose giuste
 
-nei momenti sbagliati. È l'ideale, suppongo.»
+nei momenti sbagliati. È questo l'ideale, suppongo.»
 
-«Suppongo si dia un gran daffare?» disse Pinion.
+«Suppongo si dia molto da fare?» disse Pinion.
 
-«Sì», disse l'altro. «Sceglie i suoi pasti con gran cura. Non
+«Sì», disse l'altro. «Sceglie i suoi pasti con molta cura. Non con
 
-con cura dal mio punto di vista. Ma d'altronde io sono medico.»
+cura dal mio punto di vista. Ma d'altronde io sono un medico.»
 
-Pinion non riusciva a distogliere gli occhi dagli occhi magnetici dell'uomo dagli
+Pinion non riusciva a staccare gli occhi dagli occhi magnetici dell'uomo dagli
 
-abiti trasandati e i capelli arruffati. In quel momento l'uomo fissava attraverso la
+abiti trasandati e dai capelli arruffati. In quel momento l'uomo fissava dall'altra parte del
 
-tavola con una curiosa intensità, e nel [[Silence|silenzio]] che seguì, egli improvvisamente
+tavolo con una curiosa intensità, e nel [[Silence|silenzio]] che seguì, egli d'improvviso
 
 intervenne.
 
-«Tutti sanno che è molto esigente nello scegliere la sua cena. Ma scommetto
+«Tutti sanno che è molto esigente nello scegliere la cena. Ma scommetto che
 
-che non un uomo su un milione conosce il principio con cui la sceglie.»
+non un uomo su un milione conosce il principio secondo cui la sceglie.»
 
-«Dovete ricordare», disse Pinion, col suo morbido accento, «che io sono un
+«Dovete ricordare», disse Pinion, con il suo morbido accento, «che io sono un
 
-giornalista, e vorrei essere quell'unico uomo su un milione.»
+giornalista, e mi piacerebbe essere quell'unico uomo su un milione.»
 
-L'uomo di fronte lo guardò fisso e piuttosto stranamente per un
+L'uomo di fronte lo guardò fisso e in modo piuttosto strano per un
 
-istante, e poi disse: «Avrei quasi voglia... Sentite, avete voi una qualche
+istante, poi disse: «Ho quasi voglia... Sentite, avete una qualche
 
-curiosità umana [[Well|oltre]] che una curiosità giornalistica? Voglio dire, vorrebbe quell'unico
+curiosità umana [[Well|oltre]] che giornalistica? Voglio dire, l'unico
 
-uomo saperlo, anche se il milione non lo sapesse mai?»
+uomo vorrebbe sapere, anche se il milione non lo sapesse mai?»
 
-«Oh, sì», replicò il giornalista, «ho un mucchio di curiosità, perfino
+«Oh, sì», rispose il giornalista, «ho curiosità in abbondanza, anche
 
-riguardo a cose che mi si dicono in confidenza. Ma non vedo bene perché
+sulle cose che mi vengono confidate. Ma non riesco bene a capire perché
 
 il gusto di Marillac in fatto di champagne e ortolani debba essere così
 
 confidenziale.»
 
-«[[Well|Ebbene]]», rispose l'altro gravemente, «perché pensate che li scelga?»
+«[[Well|Ebbene]]», rispose l'altro con gravità, «perché pensate che li scelga?»
 
 «Immagino di avere una mente banale», disse l'americano, «ma sarei
 
-piuttosto propenso a sospettarlo di scegliere le cose che gli piacciono.»
+piuttosto propenso a sospettare che scelga le cose che gli piacciono.»
 
 «Au contraire, come disse l'altro buongustaio quando gli chiesero se avesse pranzato sul
 
 battello.»
 
-L'uomo dagli occhi singolari interruppe il suo discorso frivolo,
+L'uomo dagli occhi singolari s'interruppe nel suo discorso frivolo,
 
-sprofondò per qualche momento in un profondo [[Silence|silenzio]], e poi riprese in un tono così
+sprofondò per qualche istante in un profondo [[Silence|silenzio]], e poi riprese con un tono così
 
-diverso che era come se un altro uomo parlasse d'improvviso alla
+diverso che era come se un altro uomo parlasse all'improvviso al
 
-tavola.
+tavolo.
 
-«Ogni epoca ha la sua bigotteria, che è cieca a qualche particolare bisogno della
+«Ogni epoca ha il suo bigottismo, cieco verso qualche particolare bisogno della
 
-[[Nature|natura]] umana; i Puritani al bisogno di allegria, la Scuola di Manchester
+[[Nature|natura]] umana; i Puritani verso il bisogno di allegria, la Scuola di Manchester
 
-al bisogno di [[Beauty|bellezza]], e così via. C'è un bisogno nell'uomo, o almeno
+verso il bisogno di [[Beauty|bellezza]], e così via. Vi è un bisogno nell'uomo, o almeno
 
-in molti uomini, che non è di moda ammettere o considerare in
+in molti uomini, che non è di moda ammettere o riconoscere di questi
 
-questi giorni. La maggior parte della gente ne ha avuto un tocco nelle più serie
+tempi. La maggior parte della gente ne ha avuto un tocco nelle più serie
 
-emozioni della giovinezza; in pochi uomini brucia come una fiamma fino all'ultimo, come
+emozioni della giovinezza; in pochi uomini arde come una fiamma fino all'ultimo, come
 
-avviene qui. Il [[Christianity|cristianesimo]], specialmente il [[Christianity|cristianesimo]] cattolico, è stato
+fa qui. Il [[Christianity|Cristianesimo]], specialmente il [[Christianity|Cristianesimo]] cattolico, è stato
 
-biasimato per averlo imposto, ma in realtà esso piuttosto regolò e perfino
+accusato di imporlo, ma in verità esso piuttosto regolò e persino
 
-frenò la passione anziché forzarla. Esiste in tutte le religioni, a un
+frenò la passione anziché forzarla. Esiste in tutte le religioni, in
 
-grado selvaggio e frenetico in alcune delle religioni dell'Asia. Là gli uomini si straziano
+misura selvaggia e frenetica in alcune delle religioni dell'Asia. Là gli uomini si straziano
 
-con coltelli o si appendono a uncini, o attraversano la vita
+con i coltelli o si appendono a uncini, o attraversano la vita
 
-con braccia inaridite rigidamente levate, crocifissi sull'aria vuota. È
+con braccia avvizzite rigidamente levate, crocifissi sull'aria vuota. È
 
-l'appetito per ciò che non si ama. Marillac ce l'ha.»
+l'appetito per ciò che non piace. Marillac ce l'ha.»
 
-«Che diamine...» cominciò il giornalista sbalordito, ma l'altro continuò:
+«Ma che diavolo...» cominciò il giornalista sbalordito, ma l'altro proseguì:
 
-«Insomma, è ciò che la gente chiama Ascetismo, e uno degli errori
+«In breve, è ciò che la gente chiama Ascetismo, e uno degli errori moderni
 
-moderni è il non tener conto della sua reale esistenza in persone rare ma del tutto reali.
+è non tener conto della sua reale esistenza in persone rare ma affatto reali.
 
-Vivere una vita d'incessante austerità e [[Self|abnegazione]], come
+Vivere una vita di incessante austerità e di [[Self|abnegazione]], come
 
 fa Marillac, è circondato da straordinarie difficoltà e
 
-incomprensioni nella società moderna. La società può capire qualche
+fraintendimenti nella società moderna. La società può capire qualche
 
-particolare fissazione puritana, come il Proibizionismo, specialmente se è imposta ad
+particolare fisima puritana, come il Proibizionismo, specie se imposta ad
 
-altre persone, soprattutto ai poveri. Ma un uomo come Marillac,
+altri, soprattutto ai poveri. Ma un uomo come Marillac,
 
 che impone a se stesso, non l'astinenza dal vino, ma l'astinenza dai
 
 piaceri mondani di ogni sorta...»
 
-«Scusatemi», disse Pinion nei suoi toni più cortesi, «confido di non aver mai
+«Scusatemi», disse Pinion nei suoi toni più cortesi, «confido di non avere mai
 
-la sgarbatezza di insinuare che voi siate impazzito, perciò devo chiedervi
+la scortesia di suggerire che siate impazzito, perciò devo chiedervi
 
-di dirmi candidamente se lo sono io.»
+di dirmi con franchezza se lo sono io.»
 
-«La maggior parte della gente», replicò l'altro, «risponderebbe che è Marillac a
+«La maggior parte della gente», rispose l'altro, «risponderebbe che è Marillac ad
 
-essere impazzito. Forse lo è; comunque, se la [[Truth|verità]] fosse nota, egli sarebbe
+essere impazzito. Forse lo è; comunque, se la [[Truth|verità]] fosse nota, lo si
 
-certamente ritenuto tale. Ma non è soltanto per evitare d'essere messo in un
+penserebbe di certo. Ma non è solo per evitare di essere rinchiuso in un
 
-manicomio che egli nasconde il suo ideale d'eremita fingendosi un uomo
+manicomio che egli nasconde il suo ideale di eremita fingendosi un uomo
 
-di piacere. È parte dell'intera idea, nella sua unica forma tollerabile. Il
+di piacere. Fa parte dell'idea intera, nella sua unica forma tollerabile. Il
 
 peggio di quei fachiri orientali appesi agli uncini è che sono troppo
 

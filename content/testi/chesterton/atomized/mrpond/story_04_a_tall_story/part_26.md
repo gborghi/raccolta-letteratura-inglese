@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story">Story 04 A Tall Story</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_25">‹ part 25</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_27">part 27 ›</a></div>
@@ -199,3 +201,198 @@ the point is this.  I wasn't thinking about him particularly; I
 never thought of him at all until I found him wandering about
 
 inside the logical square or enclosure, like a rectangle in
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story">Story 04 A Tall Story</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_25">‹ part 25</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_27">part 27 ›</a></div>
+</nav>
+
+maschera bianca sogghignante e sfavillante, ornata di fregi rossi, e
+
+se la calzò sul capo. Ed ecco, solido e in apparenza incredibile
+
+davanti ai loro occhi, il genuino pagliaccio della vecchia
+
+pantomima, proprio come quella di cui avevano discusso.
+
+"Immagino dovremo dire che è salito da una botola," mormorò
+
+il signor Pond attonito. "Ma mi sento come se fosse caduto dal
+
+cielo come la [[Snow|neve]]. Il Fato o le fate hanno aggiunto quest'ultimo
+
+tocco; guardate come ci hanno eretto attorno a poco a poco l'intero palazzo della
+
+pantomima in questo deserto; prima la luce del fuoco e poi la [[Snow|neve]]
+
+e ora l'unico e originale 'Eccoci di nuovo qua!' Che accogliente e felice
+
+Natale! Strilli di gioia da tutti i marmocchi. . . . Oh, Dio
+
+mio, com'è tutto spettrale!"
+
+L'amico lo guardò e ricevette un secondo colpo nel rendersi conto
+
+che il volto barbuto, benché portasse ancora l'aria da folletto del suo
+
+primo divertimento all'incidente, era in realtà terribilmente pallido.
+
+"E la parte più spettrale," disse il signor Pond, "è che sto per
+
+completare il vostro costume, Signore."
+
+D'un tratto estrasse l'attizzatoio, da dove stava ritto nel
+
+[[Fire|fuoco]], e ne uscì già rovente. Lo porse cortesemente al
+
+Pagliaccio.
+
+"Io somiglierò a un pantalone," disse, "ma questo si addirà evidentemente
+
+di più al Pagliaccio. È l'attizzatoio rovente, con cui
+
+fate saltare il Poliziotto."
+
+Wotton fissava una scena di cui aveva ormai del tutto perduto il
+
+filo; e nel [[Silence|silenzio]] che seguì, il lungo binario là fuori
+
+risuonò di un passo fermo e pesante che si avvicinava sempre più.
+
+La grande figura di Dyer il [[Detective|detective]] comparve incorniciata nella
+
+soglia; ed egli si fermò come impietrito da ciò che vedeva.
+
+Wotton non si stupì del suo stupore. Presumeva che fosse
+
+uno stupore come il proprio, per l'irrilevante intrusione della
+
+figura di pantomima. Ma Pond osservava più da vicino; e per
+
+Pond quel momento fu la conferma dello strisciante sospetto
+
+che si era fatto strada nella sua mente nell'ultima ora circa.
+
+Nessuno si sarebbe stupito che Dyer fissasse il Pagliaccio. Ma
+
+Dyer non fissava il Pagliaccio. Né Dyer era semplicemente stupito;
+
+forse la cosa più stupefacente era che non fosse esattamente
+
+stupito. Fissava soltanto l'attizzatoio; ed evidentemente non ci
+
+vedeva nulla di comico. Il volto gli era stravolto da una [[Fear|paura]] e
+
+da una furia quasi demoniache; e guardava il rosso attizzatoio da pantomima come
+
+se fosse stata la fiammeggiante [[Sword|spada]] di un angelo accusatore.
+
+"Sì, è l'attizzatoio rovente," disse Pond, con voce bassa e quasi
+
+forzata, "e fa davvero saltare il poliziotto."
+
+Il poliziotto saltò; saltò indietro di tre passi, e mentre balzava
+
+sguainò una grossa rivoltella d'ordinanza e sparò al signor Pond più e
+
+più volte; le scosse delle esplosioni scuotevano la fragile baracca in cui
+
+stavano. Il primo colpo si conficcò nel muro a un pollice
+
+circa dalla fronte a cupola del signor Pond; gli altri quattro andarono piuttosto
+
+a vuoto; poiché Wotton e lo sconosciuto si erano destati alla situazione ed
+
+erano alle prese con l'aspirante assassino, e gli forzavano la mano
+
+lontano. Alla fine, egli riuscì a liberare di nuovo la mano con uno strattone e a torcere la
+
+[[Pistol|pistola]] verso di sé; il [[Body|corpo]] del grosso uomo s'irrigidì
+
+fra le loro braccia; e Dyer del servizio [[Detective|investigativo]] giacque morto sul
+
+pavimento davanti al [[Fire|fuoco]] danzante.
+
+La spiegazione degli eventi fu data dal signor Pond qualche [[Time|tempo]] dopo;
+
+poiché la sua prima azione dopo la catastrofe non lasciò [[Time|tempo]] per
+
+spiegazioni. Aveva ripetutamente, a intervalli, guardato l'[[Clock|orologio]]
+
+nella sala d'attesa, e pareva soddisfatto; ma non lasciava
+
+nulla al caso. Schizzò fuori dalla porta, corse lungo il
+
+binario, e trovò la via fino alla cabina telefonica che aveva usato
+
+prima quel giorno. Ne uscì tergendosi la fronte, malgrado il
+
+freddo; ma con un sorriso di relativo sollievo in mezzo alla
+
+[[Tragedy|tragedia]]. Quando gli chiesero cosa facesse, rispose semplicemente: "Stavo
+
+telefonando una descrizione del pacco. Ora andrà tutto bene;
+
+lo fermeranno."
+
+"Intendete IL pacco?" chiese Wotton. "Credevo fosse proprio
+
+come tutti gli altri."
+
+"Vi racconterò tutto tra poco," rispose Pond. "Andiamo
+
+a prendere un cortese congedo dal pubblico intrattenitore, che ci ha
+
+offerto un intrattenimento tanto delizioso. Credo davvero che dovremmo
+
+dargli un cinque sterline o giù di lì come compenso."
+
+Wotton era molto un gentiluomo, nel senso più generoso, e
+
+acconsentì di cuore a questo; e, benché fosse difficile per l'
+
+uomo [[Melancholy|malinconico]] dalla faccia di [[Horse|cavallo]] produrre qualcosa di più simile a un
+
+riso che a un nitrito, era manifestamente assai rincuorato dentro e
+
+il suo volto scarno era spaccato da un sorriso storto. Poi, per
+
+concludere il loro banchetto natalizio in quella curiosa scena di festa,
+
+i due amici si trasferirono nell'unico e solo buffet e
+
+sedettero dietro due alti bicchieri di birra; non avendo alcuna voglia di
+
+scaldarsi le mani a quel [[Fire|fuoco]] fin troppo rosso [[Blood|sangue]] che ancora
+
+ardeva nella sinistra sala d'attesa.
+
+"È stato curioso che siate riuscito a mettere Dyer così alle strette," disse
+
+Wotton. "Non mi era mai passato per la mente."
+
+"Nemmeno a me era passato per la mente," disse Pond, "ed è lui che si è messo
+
+alle strette da solo, proprio come si è ucciso da solo. Credo che molti cospiratori
+
+si caccino davvero in angoli così da soli. Non capite
+
+che si è rinchiuso in una [[Prison|prigione]] logica, quando volle svuotare
+
+e chiudere l'intera stazione, per impressionarci con la sua efficienza. A
+
+proposito, avrei dovuto intuire che c'era un [[Double|doppio]] senso nei suoi
+
+modi dittatoriali e nelle sue pretese di scavalcare la Costituzione; parlava
+
+esattamente come parlano i nostri nemici e i loro amici stranieri. Ma
+
+il punto è questo. Non pensavo a lui in particolare; non
+
+pensai affatto a lui finché non lo trovai aggirarsi
+
+dentro il quadrato o il recinto logico, come un rettangolo in

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10">‹ Chapter 10</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12">Chapter 12 ›</a></div>
@@ -383,3 +385,382 @@ gang lose touch with them."
 of O company.
 
 "I am always good," said Mr. Pinker.  "Lead on."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10">‹ Chapter 10</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12">Chapter 12 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11/part_03">Part 3</a></li></ul>
+</nav>
+
+CAPITOLO II
+
+IL CORRISPONDENTE DEL "[[Court|COURT]] JOURNAL"
+
+IL GIORNALISMO era divenuto come la maggior parte delle altre cose in Inghilterra,
+sotto il cauto [[government|governo]] e la [[philosophy|filosofia]] rappresentati da
+[[James Barker]], alquanto sonnolento e assai diminuito d'importanza.
+Ciò era dovuto in parte alla scomparsa del [[government|governo]] di partito
+e dei comizi pubblici, in parte al compromesso o allo stallo
+che aveva reso impossibili le guerre estere, ma soprattutto, naturalmente,
+al temperamento dell'intera nazione, che era quello di un popolo in una
+specie di acqua [[Water|stagnante]]. Forse il più [[Well|noto]] dei giornali
+superstiti era il [[Court]] Journal, che si pubblicava in un ufficio polveroso
+ma d'aspetto distinto, appena fuori da Kensington High Street.
+Poiché quando tutti i giornali di un popolo sono andati per anni facendosi
+sempre più smorti e compassati e ottimisti, il più smorto
+e più compassato e più ottimista ha ogni probabilità di vincere.
+Nella competizione giornalistica ancora in corso all'inizio
+del ventesimo secolo, il vincitore finale fu il [[Court]] Journal.
+
+Per qualche misteriosa ragione il [[King|Re]] aveva un grande affetto per il gironzolare
+attorno all'ufficio del [[Court]] Journal, fumando una sigaretta mattutina e
+scorrendo gli archivi.  Come tutti gli uomini invincibilmente oziosi, amava molto
+poltrire e chiacchierare nei luoghi dove altri lavoravano.
+Ma si sarebbe pensato che, perfino nella prosaica Inghilterra dei suoi giorni,
+avrebbe potuto trovare un centro più animato.
+
+In quella particolare mattina, però, uscì da Kensington Palace
+con passo più svelto e aria più indaffarata del solito.
+Indossava una finanziera stravagantemente lunga, un panciotto verde pallido,
+una cravatta nera assai ampia e sciolta, e curiosi guanti gialli.
+Questa era la sua uniforme di Colonnello di un reggimento di sua creazione,
+il 1° Verde dei Decadenti.  Era una bella vista vederlo
+addestrarli.  Attraversò rapidamente il Parco e la High Street,
+accendendosi la sigaretta mentre andava, e spalancò la porta
+dell'ufficio del [[Court]] Journal.
+
+«Hai sentito la notizia, Pally... hai sentito la notizia?» disse.
+
+Il Direttore si chiamava Hoskins, ma il [[King|Re]] lo chiamava Pally,
+che era un'abbreviazione di Palladio delle nostre Libertà.
+
+«[[Well|Ebbene]], Maestà,» disse Hoskins, lentamente (era una persona preoccupata,
+dall'aspetto signorile, con una barba castana disordinata)
+«... [[Well|ebbene]], Maestà, ho sentito cose piuttosto curiose, ma io...»
+
+«Ne sentirai di più,» disse il [[King|Re]], accennando qualche
+passo di una specie di shuffle da negro.  «Ne sentirai di più,
+mio [[Blood|sangue]]-e-tuono tribuno.  Sai cosa sto per
+fare per te?»
+
+«No, Maestà,» rispose il Palladio, vagamente.
+
+«Rendo il tuo giornale forte, ardito, intraprendente,»
+disse il [[King|Re]].  «Ora, dove sono i tuoi manifesti sulla disfatta di ieri [[Night|notte]]?»
+
+«Non mi proponevo, Maestà,» disse il Direttore, «di avere
+alcun manifesto, per l'esattezza...»
+
+«Carta, carta!» gridò il [[King|Re]], selvaggiamente; «portami carta grande
+come una [[house|casa]].  Ti faccio io i manifesti.  Ferma, devo togliermi la giacca.»
+Cominciò a togliersi quell'indumento con aria di ferma intensità, lo scagliò
+scherzosamente addosso alla testa del signor Hoskins, avvolgendolo interamente, e si guardò
+allo specchio.  «La giacca via,» disse, «e il cappello in testa.
+Questo somiglia a un vicedirettore.  È davvero l'essenza stessa
+del vicedirigere.  [[Well|Bene]],» proseguì, voltandosi di scatto,
+«forza, con quella carta.»
+
+Il Palladio si era appena districato con riverenza dalle
+pieghe della finanziera del [[King|Re]], e disse sconcertato:
+
+«Temo, Maestà...»
+
+«Oh, non hai spirito d'iniziativa,» disse Auberon.  «Cos'è quel rotolo
+nell'angolo?  Carta da parati?  Decorazioni per la tua dimora privata?
+L'Arte in [[Home|casa]], Pally?  Buttamela qua, e ti dipingerò
+manifesti tali sul retro che quando la appenderai nel tuo
+salotto incollerai il disegno originale contro il muro.»
+E il [[King|Re]] srotolò la carta da parati, stendendola su tutto il pavimento.
+«Ora dammi le forbici,» gridò, e le prese lui stesso prima
+che l'altro potesse muoversi.
+
+Tagliò la carta in circa cinque pezzi, ognuno grande quasi come una porta.
+Poi prese una grossa matita blu e si mise in ginocchio sull'
+incerata polverosa, e cominciò a scrivervi sopra, a lettere enormi:
+
+«DAL FRONTE.  IL GENERALE BUCK SCONFITTO.  TENEBRE, PERICOLO E [[Death|MORTE]].
+WAYNE SAREBBE A PUMP STREET.  FERMENTO NELLA [[City|CITTÀ]].»
+
+Lo contemplò per qualche [[Time|tempo]], con la testa da un lato,
+e si alzò, con un sospiro.
+
+«Non abbastanza intenso,» disse... non allarmante.
+«Voglio che il [[Court]] Journal sia temuto oltre che [[Well|amato]].  Proviamo
+qualcosa di più incisivo.»  E si rimise in ginocchio.
+Dopo aver succhiato la matita blu per qualche [[Time|tempo]], ricominciò
+a scrivere alacremente.  «Come va questo?» disse:
+
+«MERAVIGLIOSA VITTORIA DI WAYNE.»
+
+«Suppongo,» disse, alzando lo sguardo con aria supplichevole, e succhiando la matita
+«suppongo che non potremmo dire 'wittoria'... 'La meravigliosa wittoria di Wayne'?
+No, no.  Raffinatezza, Pally, raffinatezza.  Ci sono.»
+
+«WAYNE VINCE.  STUPEFACENTE BATTAGLIA NEL BUIO.  I lampioni a gas nel loro
+corso combatterono contro Buck.»
+
+«(Niente come la nostra bella vecchia [[Translation|traduzione]] inglese.)  Cos'altro possiamo dire?
+[[Well|Beh]], qualsiasi cosa per irritare il vecchio Buck;» e aggiunse, pensieroso,
+in lettere più piccole:
+
+«Si vocifera di una [[Court|Corte]] marziale sul Generale Buck.»
+
+«Questi andranno bene per il momento,» disse, e li rivoltò entrambi
+a faccia in giù.  «Colla, prego.»
+
+Il Palladio, con aria di gran terrore, portò la colla
+da una stanza interna.
+
+Il [[King|Re]] la spalmò col godimento di un [[Child|bambino]] che pasticcia
+con la melassa.  Poi, prendendo una delle sue enormi composizioni che svolazzavano
+in ciascuna mano, corse fuori, e cominciò ad affiggerle in posizioni
+ben visibili sulla facciata dell'ufficio.
+
+«E ora,» disse Auberon, rientrando con vivacità immutata
+«ora l'articolo di fondo.»
+
+Prese un'altra delle grandi strisce di carta da parati, e, stendendola
+su una scrivania, tirò fuori una penna stilografica e cominciò a scrivere con
+febbrile intensità, leggendo clausole e frammenti ad alta voce a sé stesso,
+e [[rolling|rigirandoseli]] sulla lingua come vino, per vedere se avessero
+il puro sapore giornalistico.
+
+«La notizia del disastro delle nostre forze a Notting [[Hill]], per quanto
+tremenda, per quanto tremenda... (no, angosciante quale essa è), può fare qualche
+bene se richiama l'attenzione sulla come-si-chiama inefficienza
+(scandalosa inefficienza, ovviamente) dei preparativi del [[government|Governo]].
+Nell'attuale nostro stato d'informazione, sarebbe prematuro
+(che parola deliziosa!)... sarebbe prematuro gettare qualsiasi ombra
+sulla condotta del Generale Buck, i cui servigi su tanti
+campi insanguinati (ah, ah!), e le cui onorevoli cicatrici e i cui allori
+gli danno diritto ad avere quantomeno sospeso ogni giudizio su di lui.
+Ma c'è una questione su cui dobbiamo parlare chiaro.  Siamo stati
+troppo a lungo silenziosi su di essa, per sentimenti, forse, di malintesa cautela,
+forse di malintesa lealtà.  Questa situazione non sarebbe mai sorta
+se non per quella che possiamo solo definire l'indifendibile condotta del [[King|Re]].
+Ci addolora dire tali cose, ma, parlando come parliamo nel
+pubblico interesse (plagio il celebre [[Epigram|epigramma]] di Barker), non ci
+tireremo indietro per l'angoscia che possiamo arrecare a qualsiasi individuo,
+per quanto altolocato.  In questo momento cruciale del nostro paese,
+la voce del Popolo domanda con una sola lingua: 'Dov'è
+il [[King|Re]]?'  Cosa fa mentre i suoi sudditi si dilaniano
+a pezzi per le strade di una grande [[City|città]]?  Sono i suoi svaghi
+e le sue dissipazioni (delle quali non possiamo fingere d'essere ignari)
+tanto assorbenti che non può risparmiare un pensiero per una nazione morente?
+È con un profondo senso della nostra responsabilità che avvertiamo quell'altolocata
+persona che né la sua grande posizione né i suoi incomparabili talenti
+lo salveranno, nell'ora del delirio, dalla sorte di tutti coloro che,
+nella [[Madness|follia]] del lusso o della tirannia, hanno incontrato il popolo inglese
+nel raro giorno della sua ira.»
+
+«Ora,» disse il [[King|Re]], «scriverò un resoconto della battaglia
+da parte di un testimone oculare.»  E prese un quarto foglio di carta da parati.
+Quasi nello stesso momento Buck entrò a grandi passi nell'ufficio.
+Aveva una benda intorno alla testa.
+
+«Mi è stato detto,» disse con la sua solita burbera cortesia, «che vostra
+Maestà era qui.»
+
+«E fra tutte le cose sulla terra,» gridò il [[King|Re]], con gioia,
+«ecco un testimone oculare!  Un testimone oculare che, mi dispiace osservare,
+al momento ha un solo occhio con cui testimoniare.  Puoi scriverci
+l'articolo speciale, Buck?  Hai uno stile ricco?»
+
+Buck, con un [[Self|autocontrollo]] che quasi rasentava la cortesia,
+non fece il minimo caso alla esasperante affabilità del [[King|Re]].
+
+«Mi sono preso la libertà, Maestà,» disse brevemente, «di chiedere
+al signor Barker di venire anche lui qui.»
+
+Mentre parlava, infatti, Barker entrò dondolando nell'ufficio,
+con la sua solita aria di fretta.
+
+«Cosa succede ora?» chiese Buck, voltandosi verso di lui con una
+specie di sollievo.
+
+«Si combatte ancora,» disse Barker.  «I quattrocento di
+West Kensington sono stati appena sfiorati ieri [[Night|notte]].  Non si sono quasi
+avvicinati al luogo.  I poveri uomini di Wilson, di Bayswater, sono stati fatti a pezzi, però.
+Hanno combattuto maledettamente [[Well|bene]].  Hanno preso Pump Street una volta.
+Che cose folli accadono al mondo.  Pensare che fra tutti noi
+sia stato il piccolo Wilson dalle fedine rosse a cavarsela meglio.»
+
+Il [[King|Re]] prese un appunto sulla sua carta:
+
+«Romantica Condotta del signor Wilson.»
+
+«Sì,» disse Buck, «fa sentire un po' meno fieri delle proprie 'acca.'  »
+
+Il [[King|Re]] improvvisamente piegò o accartocciò la carta, e se la mise
+in tasca.
+
+«Ho un'idea,» disse.  «Sarò io un testimone oculare.  Vi scriverò
+dal Fronte lettere tali che saranno più magnifiche della realtà.
+Datemi la giacca, Palladio.  Sono entrato in questa stanza semplice [[King|Re]] d'Inghilterra.
+La lascio Corrispondente Speciale di Guerra del [[Court]] Journal.
+È inutile fermarmi, Pally; è vano aggrapparsi alle
+mie ginocchia, Buck; è disperato, Barker, piangere sul mio collo.
+'Quando il dovere chiama'... il resto del sentimento mi sfugge.
+Riceverete il mio primo articolo stasera con la posta delle otto in [[Clock|punto]].»
+
+E, correndo fuori dall'ufficio, saltò su un omnibus blu di Bayswater
+che passava dondolando.
+
+«[[Well|Ebbene]],» disse Barker, cupamente, «[[Well|ebbene]].»
+
+«Barker,» disse Buck, «gli affari saranno pure inferiori alla politica, ma la guerra è,
+come ho scoperto ieri [[Night|notte]], di gran lunga più simile agli affari.
+Voi politici siete demagoghi tanto radicati che perfino quando
+avete un dispotismo non pensate ad altro che all'opinione pubblica.
+Così imparate a bordeggiare e a scappare, e avete paura della prima brezza.
+Noi invece ci teniamo attaccati a una cosa e la otteniamo.  E i nostri errori ci aiutano.
+Guarda qui! in questo momento abbiamo battuto Wayne.»
+
+«Battuto Wayne,» ripeté Barker.
+
+«Perché diavolo no?» gridò l'altro, spalancando le mani.
+«Guarda qui.  Ieri [[Night|notte]] ho detto che li avevamo in pugno tenendo i
+nove ingressi.  [[Well|Ebbene]], mi sbagliavo.  Li avremmo avuti se non fosse stato per
+un singolare evento... i lampioni si spensero.  Se non per quello, era certo.
+Ti è venuto in mente, mio brillante Barker, che un altro singolare
+evento è accaduto dopo quel singolare evento dello spegnersi dei lampioni?»
+
+«Quale evento?» chiese Barker.
+
+«Per una stupefacente coincidenza, il sole è sorto,» esclamò Buck,
+con un'aria selvaggia di pazienza.  «Perché diavolo non stiamo tenendo tutte
+quelle vie d'accesso ora, e passando di nuovo su di loro?  Andava
+fatto all'alba.  Quel maledetto dottore non mi ha lasciato uscire.
+Tu eri al comando.»
+
+Barker sorrise cupamente.
+
+«Mi è di soddisfazione, mio caro Buck, poter
+dire che abbiamo anticipato le tue proposte esattamente.
+Siamo andati il più presto possibile a perlustrare i nove ingressi.
+Sfortunatamente, mentre noi ci combattevamo a vicenda nel buio,
+come un mucchio di sterratori ubriachi, gli amici del signor Wayne lavoravano
+davvero sodo.  A trecento iarde da Pump Street, a ognuno
+di quegli ingressi, c'è una barricata alta quasi quanto le case.
+Stavano finendo l'ultima, in Pembridge [[Road]], quando arrivammo.
+I nostri errori,» gridò amaramente, e gettò la sigaretta a terra.
+«Non siamo noi a imparare da essi.»
+
+Ci fu un [[Silence|silenzio]] per qualche istante, e Barker si abbandonò stancamente
+su una sedia.  L'[[Clock|orologio]] dell'ufficio ticchettava netto nella quiete.
+
+Alla fine Barker disse improvvisamente:
+
+«Buck, ti [[Cross|passa]] mai per la mente di cosa si tratti tutto questo?
+La strada di scorrimento da Hammersmith a Maida Vale era una speculazione
+straordinariamente buona.  Io e te speravamo un gran che da essa.  Ma ne
+vale la pena?  Ci costerà migliaia schiacciare questa ridicola sommossa.
+Supponi di lasciarla [[Alone|stare]]?»
+
+«E farci bastonare in pubblico da un pazzo dai capelli rossi che due
+medici qualsiasi rinchiuderebbero?» esclamò Buck, balzando in piedi.
+«Cosa proponi di fare, signor Barker?  Di scusarti con l'ammirevole
+signor Wayne?  D'inginocchiarti alla Carta delle Città?  Di stringerti al
+petto la [[Flag|bandiera]] del [[Lion|Leone]] Rosso?  Di baciare a uno a uno ogni sacro
+lampione che salvò Notting [[Hill]]?  No, per Dio!  I miei uomini hanno combattuto assai
+[[Well|bene]]... sono stati sconfitti con un trucco.  E combatteranno di nuovo.»
+
+«Buck,» disse Barker, «ti ho sempre ammirato.  E avevi perfettamente
+ragione in quel che dicesti l'altro giorno.»
+
+«In cosa?»
+
+«Nel dire,» disse Barker, alzandosi quietamente, «che eravamo tutti finiti nell'
+atmosfera di [[Adam Wayne]] e fuori dalla nostra.  Amico mio, l'intero
+regno territoriale di [[Adam Wayne]] si estende a circa nove strade,
+con barricate all'estremità.  Ma il regno spirituale
+di [[Adam Wayne]] si estende, Dio sa dove... si estende a quest'ufficio
+in ogni caso.  Il pazzo dai capelli rossi che due medici qualsiasi
+rinchiuderebbero sta riempiendo questa stanza con la sua ruggente, irragionevole [[Soul|anima]].
+Ed è stato il pazzo dai capelli rossi a dire l'ultima parola che hai pronunciato.»
+
+Buck andò alla [[Window|finestra]] senza rispondere.
+
+«Tu capisci, naturalmente,» disse infine, «che non mi sogno
+di cedere.»
+
+. . . . .
+
+Il [[King|Re]], intanto, procedeva sferragliando sull'imperiale del suo omnibus blu.
+Il traffico di [[London|Londra]] nel suo complesso non era stato, ovviamente, gran
+disturbato da questi eventi, poiché la faccenda era trattata come una
+sommossa di Notting [[Hill]], e quell'area era stata delimitata come se fosse
+in mano a una banda di riconosciuti rivoltosi.  Gli omnibus blu
+giravano semplicemente attorno come avrebbero fatto se una [[Road|strada]] fosse in riparazione,
+e l'omnibus su cui sedeva il corrispondente del [[Court]] Journal
+svoltava attorno all'angolo di [[Queen|Queen's]] [[Road]], a Bayswater.
+
+Il [[King|Re]] era [[Alone|solo]] sull'imperiale del veicolo, e godeva
+della [[Speed|velocità]] con cui procedeva.
+
+«Avanti, mia [[Beauty|bellezza]], mio Arabo,» disse, dando pacche incoraggianti all'omnibus,
+«il più veloce di tutta la tua tribù balzante.  Sono i tuoi rapporti col
+tuo conducente, mi [[Wonder|domando]], quelli del Beduino col suo destriero?
+[[Sleep|Dorme]] egli fianco a fianco con te...»
+
+Le sue meditazioni furono interrotte da un arresto improvviso e stridente.
+Guardando oltre il bordo, vide che le teste dei cavalli venivano
+trattenute da uomini in uniforme dell'esercito di Wayne, e udì la voce
+di un ufficiale che gridava ordini.
+
+[[King|Re]] Auberon discese dall'omnibus con dignità.
+La guardia o picchetto di alabardieri rossi che aveva fermato il veicolo
+non contava più di venti uomini, ed erano al comando
+di un giovane basso, bruno, dall'aria intelligente, cospicuo tra
+gli altri per essere vestito di un'ordinaria finanziera, ma cinto
+alla vita da una fascia rossa e da una lunga [[Sword|spada]] del diciassettesimo secolo.
+Un lucido cilindro di seta e gli occhiali completavano l'abbigliamento in modo piacevole.
+
+«Con chi ho l'[[Honour|onore]] di parlare?» disse il [[King|Re]], sforzandosi di
+somigliare a Carlo I, malgrado difficoltà personali.
+
+L'uomo bruno con gli occhiali si sollevò il cappello con pari gravità.
+
+«Mi chiamo Bowles,» disse.  «Sono un farmacista.  Sono anche un capitano
+della compagnia O dell'esercito di Notting [[Hill]].  Sono desolato di dover
+incomodarvi fermando l'omnibus, ma quest'area è coperta
+dalla nostra proclamazione, e intercettiamo ogni traffico.  Posso chiedere con chi
+ho l'[[Honour|onore]]... Ma, santo cielo, chiedo perdono a vostra Maestà.
+Sono del tutto sopraffatto nel trovarmi ad avere a che fare col [[King|Re]].»
+
+Auberon alzò le mani con indescrivibile grandiosità.
+
+«Non col [[King|Re]],» disse; «col corrispondente speciale di guerra
+del [[Court]] Journal.»
+
+«Chiedo perdono a vostra Maestà,» cominciò il signor Bowles, dubbioso.
+
+«Mi chiamate Maestà?  Ripeto,» disse Auberon fermamente, «sono
+un rappresentante della stampa.  Ho scelto, con un profondo senso
+di responsabilità, il nome di Pinker.  [[Desire|Desidererei]] che si tirasse un velo
+sul passato.»
+
+«[[Well|Benissimo]], signore,» disse il signor Bowles, con aria di sottomissione, «ai nostri occhi
+la sacralità della stampa è almeno pari a quella del trono.
+Non [[Desire|desideriamo]] nulla di meglio che i nostri torti e le nostre glorie siano
+ampiamente conosciuti.  Posso chiedere, signor Pinker, se avete qualche obiezione
+a essere presentato al Prevosto e al Generale Turnbull?»
+
+«Il Prevosto ho avuto l'[[Honour|onore]] di conoscerlo,»
+disse Auberon, con disinvoltura.  «Noi vecchi giornalisti, sapete, conosciamo tutti.
+Sarei lietissimo di avere di nuovo lo stesso [[Honour|onore]].
+Anche il Generale Turnbull, sarebbe una gratificazione conoscerlo.
+I più giovani sono così interessanti.  Noi della vecchia banda
+di Fleet Street perdiamo i contatti con loro.»
+
+«Volete essere così gentile da farvi da questa parte?» disse il capo
+della compagnia O.
+
+«Sono sempre gentile,» disse il signor Pinker.  «Fate strada.»

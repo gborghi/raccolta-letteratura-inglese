@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story">Story 04 A Tall Story</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_21">‹ part 21</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_23">part 23 ›</a></div>
@@ -201,3 +203,200 @@ of the subject.  We're handicapped in this confounded constitutional
 country.  Now if we were in--"
 
 He shut his mouth rather sharply, as a discreet knock sounded on
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story">Story 04 A Tall Story</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_21">‹ part 21</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_23">part 23 ›</a></div>
+</nav>
+
+con aria nostalgica, "prima di rivolgere il sesto colpo contro se stesso."
+
+"[[Well|Beh]], che mi venga un colpo," disse il Capitano con eleganza. "Ho sempre pensato
+
+che Pond fosse la più deliziosa delle commedie da salotto; non l'avrei mai creduto
+
+protagonista di un [[Melodrama|melodramma]]. Tanto varrebbe immaginarlo
+
+nei panni di una pantomima delle fate. Eppure pare in qualche modo legato
+
+alle cose teatrali, di questi tempi. Mi ha chiesto lui stesso se
+
+somigliasse a [[Polonius|Polonio]]; e immagino che qualche malalingua direbbe che
+
+somiglia piuttosto a Pantalone. Mi piace l'idea di voi due magicamente
+
+trasportati in una pantomima natalizia: 'Arlecchino [[Hubert]] e lo
+
+Stagno delle Fate,' il tutto con una vera arlecchinata finale, col [[Fire|fuoco]] rosso
+
+e Pantalone che ruzzola addosso al Poliziotto. Perdonate le mie
+
+sciocchezze — sapete che la mia sventurata mente diventa feconda solo intorno alle
+
+cose impossibili."
+
+"È curioso che la definiate impossibile," disse Sir [[Hubert]]
+
+Wotton, aggrottando le sopracciglia, "perché è quasi esattamente ciò che
+
+ci accadde davvero."
+
+Sir [[Hubert]] Wotton mostrò una certa reticenza e una deliberata
+
+vaghezza sui dettagli ufficiali della vicenda; persino nel narrarla
+
+dopo tanti anni a un amico intimo. In Inghilterra
+
+soprattutto, vi sono eventi enormi che non finiscono mai sui
+
+giornali, e paiono destinati a non finire mai sui
+
+libri di [[history|storia]]. Basti dire qui che vi fu, a un certo
+
+[[Time|tempo]] sotto la superficie, ma assai vicino ad essa, una cospirazione
+
+mirante a un colpo di Stato, appoggiata da una Potenza continentale di
+
+simili inclinazioni. Contrabbando d'armi, addestramenti segreti e piani per
+
+rubare documenti di Stato erano in gioco; e si temeva che un
+
+certo numero di funzionari minori fosse stato corrotto o convertito
+
+dai cospiratori. Perciò, quando si trattò di inviare
+
+certi documenti ufficiali assai riservati (sulla [[Nature|natura]] dei quali
+
+Wotton rimase alquanto vago sino alla fine) da uno dei grandi
+
+porti settentrionali a un particolare dicastero del [[government|Governo]] a [[London|Londra]], il
+
+primo Consiglio fu assai ristretto e scelto, presieduto da Sir
+
+[[Hubert]] e tenuto nell'ufficio più piccolo del signor Pond. Anzi, il signor
+
+Pond era il funzionario incaricato del compito. L'unica altra persona
+
+presente in permanenza era uno dei più alti funzionari di Scotland
+
+Yard; Wotton aveva portato con sé il proprio impiegato per sistemare e spiegare
+
+certe faccende; ma aveva poi trovato un pretesto per mandarlo
+
+fuori a sbrigare una commissione. Dyer, il [[Detective|detective]] dello Yard, un uomo dalle
+
+spalle massicce e la testa dura, con baffetti a spazzolino,
+
+spiegò metodicamente, seppur un po' meccanicamente, le precauzioni
+
+e le disposizioni che riteneva necessarie per proteggere il
+
+trasporto delle carte fino a destinazione. Voleva un'
+
+auto blindata con una [[Machine|mitragliatrice]], un certo numero di uomini che portavano
+
+armi nascoste, una perquisizione di polizia su tutti coloro coinvolti nel primo
+
+invio e nella ricezione finale della scatola o del pacco — e svariate
+
+altre condizioni del genere.
+
+"Pond troverà tutto questo terribilmente dispendioso," disse Wotton, con un
+
+sorriso triste. "Pond è un vero Vecchio Liberale in fatto di economia
+
+e tagli di spesa. Ma converrà che siamo tutti tenuti a mostrare
+
+particolare cura in questo caso."
+
+"N-no," disse il signor Pond, storcendo le labbra dubbioso. "Non credo
+
+che mostrerei alcuna particolare cura in questo caso."
+
+"Non mostrare alcuna particolare cura!" ripeté lo stupito Wotton.
+
+"Di certo non la MOSTREREI," disse il signor Pond. "In casi simili,
+
+nessuno di buon senso prenderebbe precauzioni tanto particolari, non più
+
+di quanto spedirebbe una lettera importante per posta raccomandata."
+
+"[[Well|Beh]], dovete perdonare la mia ottusità," disse Sir [[Hubert]], "ma, in
+
+verità, ho sentito di gente che spedisce una lettera importante
+
+per posta raccomandata."
+
+"Si usa, credo," disse il signor Pond, con distaccato disprezzo.
+
+"Ma è quando si cerca di impedire che una lettera vada perduta.
+
+Ora invece cercate di impedire che una lettera venga trovata."
+
+"Interessante, questo," disse Dyer, con un certo contenuto
+
+divertimento.
+
+"Non capite? È semplicissimo," rispose Pond. "Se volete
+
+impedire che un documento venga gettato in un tombino, o buttato
+
+nella spazzatura, o usato per accendere il [[Fire|fuoco]] o per farne un nido d'uccello,
+
+o qualsiasi altro incidente di trascuratezza, allora è bene richiamare
+
+su di esso l'attenzione, timbrandolo o sigillandolo o proteggendolo in qualche
+
+modo particolare. Ma se volete impedire che venga rintracciato
+
+e individuato e strappato dalle vostre mani, con la violenza o
+
+con l'astuzia, allora è la peggior cosa al mondo contrassegnarlo in modo
+
+particolare. La raccomandazione, per esempio, non significa che il vostro
+
+messaggero non possa esser colpito in testa o alleggerito delle tasche.
+
+Significa solo che il vostro messaggero o il suo ufficio possono esser ritenuti
+
+responsabili; possono dover chiedere scusa o risarcire. Ma voi non
+
+volete scuse o risarcimenti; volete la lettera. Direi
+
+che sarebbe assai più al sicuro da un nemico vigile, se fosse anonima
+
+e spedita insieme ad altre mille dall'aspetto identico."
+
+È un omaggio all'acume di fondo, celato sotto
+
+l'apparente rigidezza di Wotton e Dyer, che il [[Paradox|paradosso]] di Pond
+
+prevalse. I documenti, tuttavia, erano troppo voluminosi per esser trattati come
+
+lettere ordinarie; e dopo qualche discussione, furono riposti in
+
+una di un gran numero di scatole di legno bianco, leggere e non molto
+
+grandi, comunemente usate per spedire cioccolato e altre
+
+provviste all'esercito o alla marina o a qualche ramo del pubblico
+
+servizio. L'unico punto del suo programma originario su cui il
+
+testardo Dyer continuò a insistere fu quello di porre guardie e
+
+controllori nei punti essenziali del percorso.
+
+"Immagino che dopo ci sarà un maledetto putiferio," disse
+
+"e la gente ci tormenterà per aver interferito con la libertà
+
+del cittadino. Siamo impacciati in questo dannato paese
+
+costituzionale. Ora, se fossimo in—"
+
+Chiuse la bocca di scatto, mentre un discreto bussare risuonava alla

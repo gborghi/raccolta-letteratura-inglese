@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06">Chapter 06</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_04">part 04 ›</a></div>
@@ -141,3 +143,140 @@ If I touch, with this fairy wand, the railways and the roads of
 Notting [[Hill]], men will [[Love|love]] them, and be afraid of them for ever."
 
 "What the devil are you talking about?" asked the [[King]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06">Chapter 06</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_04">part 04 ›</a></div>
+</nav>
+
+Il [[King|Re]] giaceva riverso sulla sedia, una sorta di relitto.
+
+«O Signore, Signore, Signore,» mormorò, «che vita! che vita!
+Tutta opera mia!  Pare che sia stato tutto io.  Così sei tu il ragazzo dai capelli rossi
+che mi colpì al panciotto.  Che cosa ho fatto?  Dio, che cosa ho fatto?
+Credevo di fare uno scherzo, e ho creato una passione.
+Cercavo di comporre un burlesque, e pare che si stia trasformando, a metà
+strada, in un [[Epic|Epos]].  Che farne di un mondo simile?
+In nome del Signore, non era ampio e ardito abbastanza, lo scherzo?
+Ho abbandonato il mio sottile [[Humour|umorismo]] per divertirti, e pare che ti abbia strappato
+[[Tears|lacrime]] dagli occhi.  Che farne della gente, quando scrivi
+una pantomima per essa... chiami le salsicce festoni classici, e il
+poliziotto tagliato in due una [[Tragedy|tragedia]] del pubblico dovere?  Ma perché parlo?
+Perché faccio domande a un simpatico giovane gentiluomo del tutto pazzo?
+A che serve?  A che serve qualsiasi cosa?
+O Signore, o Signore!»
+
+D'improvviso si tirò su diritto.
+
+«Non trovate davvero la sacra Notting [[Hill]] per nulla assurda?»
+
+«Assurda?» chiese Wayne, sbigottito.  «Perché mai dovrei?»
+
+Il [[King|Re]] lo fissò a sua volta ugualmente sbigottito.
+
+«Chiedo scusa?» disse.
+
+«Notting [[Hill]],» disse il Prevosto, semplicemente, «è un'altura o un terreno elevato
+della terra comune, sul quale gli uomini hanno costruito case per abitarvi,
+in cui nascono, si innamorano, [[Love|amano]], pregano, si sposano e muoiono.
+Perché mai dovrei trovarla assurda?»
+
+Il [[King|Re]] sorrise.
+
+«Perché, mio Leonida...» cominciò, poi d'improvviso, non sapeva come,
+si accorse che la sua mente era del tutto vuota.  Dopotutto, perché era assurda?
+Perché era assurda?  Si sentì come se il pavimento della sua mente avesse ceduto.
+Si sentì come si sentono tutti gli uomini quando i loro primi principî vengono colpiti duramente
+da una domanda.  Barker si sentiva sempre così quando il [[King|Re]] diceva:
+«Perché darsi pena della politica?»
+
+I pensieri del [[King|Re]] erano in una specie di rotta; non riusciva a raccoglierli.
+
+«In genere lo si sente un po' buffo,» disse, vagamente.
+
+«Suppongo,» disse Adam, voltandosi verso di lui con una fiera repentinità,
+«suppongo che voi immaginiate che la crocifissione fosse una cosa seria?»
+
+«[[Well|Beh]], io...» cominciò Auberon, «ammetto di aver in genere pensato che
+avesse il suo lato più grave.»
+
+«Allora vi sbagliate,» disse Wayne, con incredibile violenza.
+«La crocifissione è comica.  È squisitamente spassosa.
+Era una sorta di impalamento assurdo e osceno riservato a gente
+che era fatta per essere derisa... a schiavi e provinciali... a
+dentisti e piccoli bottegai, come direste voi.  Ho visto
+la [[Grotesque|grottesca]] forma del patibolo, che i piccoli monelli di strada romani
+scarabocchiavano sui muri come volgare scherzo, fiammeggiare sui pinnacoli
+dei templi del mondo.  E io dovrei tornare indietro?»
+
+Il [[King|Re]] non rispose.
+
+Adam proseguì, la voce che risuonava fino al soffitto.
+
+«Questa risata con cui gli uomini tiranneggiano non è il grande potere che voi
+credete.  Pietro fu crocifisso, e crocifisso a testa in giù.
+Che cosa poteva esservi di più buffo dell'idea di un rispettabile vecchio Apostolo
+a testa in giù?  Che cosa poteva esservi di più nello stile del vostro moderno [[Humour|umorismo]]?
+Ma a che servì?  A testa in giù o dritto,
+Pietro fu Pietro per l'umanità.  A testa in giù, egli pende ancora sull'Europa,
+e milioni si muovono e respirano soltanto nella vita della sua chiesa.»
+
+[[King|Re]] Auberon si alzò distrattamente.
+
+«C'è qualcosa in ciò che dite,» disse.  «Pare che abbiate
+riflettuto, giovanotto.»
+
+«Ho solo sentito, sire,» rispose il Prevosto.  «Sono nato,
+come gli altri uomini, in un angolo della terra che amavo perché
+vi avevo giocato ai giochi dei ragazzi, e mi ero [[Love|innamorato]], e avevo parlato
+con i miei amici per notti che erano notti degli dèi.
+E sento l'[[Riddle|enigma]].  Questi piccoli giardini dove ci confidammo
+i nostri amori.  Queste strade dove portammo fuori i nostri morti.
+Perché dovrebbero essere banali?  Perché dovrebbero essere assurdi?
+Perché dovrebbe essere [[Grotesque|grottesco]] dire che una buca delle lettere è poetica,
+quando per un anno non potei vedere una rossa buca delle lettere contro il giallo
+della sera in una certa via senza essere straziato da qualcosa
+di cui Dio custodisce il segreto, ma che è più forte del dolore o della gioia?
+Perché mai qualcuno dovrebbe poter suscitare una risata dicendo "la Causa
+di Notting [[Hill]]"?... Notting [[Hill]], dove migliaia di spiriti immortali
+fiammeggiano alternando [[Hope|speranza]] e [[Fear|paura]].»
+
+Auberon si stava spazzando via la [[Dust|polvere]] dalla manica con una serietà del tutto nuova
+sul volto, distinta dalla solennità da gufo che era la posa
+del suo [[Humour|umorismo]].
+
+«È molto difficile,» disse infine.  «È una cosa maledettamente
+difficile.  Capisco cosa intendete... concordo con voi
+persino fino a un certo punto... o vorrei concordare con voi,
+se fossi abbastanza giovane da essere un [[Prophet|profeta]] e un poeta.  Sento una [[Truth|verità]]
+in tutto ciò che dite, finché non arrivate alle parole "Notting [[Hill]]".
+E allora, mi dispiace dirlo, il vecchio Adamo si desta ruggendo di risate
+e fa presto giustizia del nuovo Adamo, il cui nome è Wayne.»
+
+Per la prima [[Time|volta]] il Prevosto Wayne tacque, e rimase a fissare
+sognante il pavimento.  La sera calava, e la sala
+si era fatta più buia.
+
+«Lo so,» disse, con una voce strana, quasi assonnata, «c'è
+[[Truth|verità]] anche in ciò che dite voi.  È difficile non ridere dei nomi
+comuni... dico solo che non dovremmo.  Ho pensato a un rimedio;
+ma tali pensieri sono piuttosto terribili.»
+
+«Quali pensieri?» chiese Auberon.
+
+Il Prevosto di Notting [[Hill]] pareva essere caduto in una sorta di trance;
+nei suoi occhi c'era una luce elfica.
+
+«Conosco una bacchetta [[Magic|magica]], ma è una bacchetta che solo uno o due possono
+usare rettamente, e solo di rado.  È una bacchetta fatata di grande [[Fear|paura]],
+più forte di coloro che la usano... spesso spaventosa, spesso malvagia a usarsi.
+Ma qualunque cosa ne sia toccata non è mai più del tutto comune.
+Qualunque cosa ne sia toccata prende una [[Magic|magia]] da fuori del mondo.
+Se io tocco, con questa bacchetta fatata, le ferrovie e le strade di
+Notting [[Hill]], gli uomini le [[Love|ameranno]], e ne avranno paura per sempre.»
+
+«Di che diavolo state parlando?» chiese il [[King|Re]].

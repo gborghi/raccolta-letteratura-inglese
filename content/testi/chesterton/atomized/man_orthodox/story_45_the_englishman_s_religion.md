@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_44_spiritualism">‹ Story 44 Spiritualism</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_46_the_english_way">Story 46 The English Way ›</a></div>
@@ -20,3 +22,19 @@ THE ENGLISHMAN'S RELIGION
 so hazy, so reverent, so illogical, so humane, so kindly, so vulgar.
 
                                              The Bystander, June 1st, 1904
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_44_spiritualism">‹ Story 44 Spiritualism</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_46_the_english_way">Story 46 The English Way ›</a></div>
+</nav>
+
+LA RELIGIONE DELL'INGLESE
+
+... quella cosa bizzarra, bella, risibile che è il sentimento religioso inglese,
+così nebuloso, così reverente, così illogico, così umano, così benevolo, così volgare.
+
+                                             The Bystander, 1º giugno 1904

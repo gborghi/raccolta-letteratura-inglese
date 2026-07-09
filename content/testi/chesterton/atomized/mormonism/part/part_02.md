@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mormonism-(chesterton)">Mormonism</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mormonism/part/part_01">‹ part 01</a><span></span></div>
@@ -82,3 +84,81 @@ hats, chin bears or mutton-chop whiskers, managed to reproduce in their
 own souls the richness and the peril of an ancient Oriental experience.
 If we think from this end we may possibly guess how it was that
 they added polygamy.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mormonism-(chesterton)">Mormonism</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mormonism/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Circa metà della [[history|storia]] ora insegnata nelle scuole e nei collegi è resa vuota
+e sterile da questa angusta idea di tralasciare le teorie teologiche.
+Le guerre e i Parlamenti dei Puritani non hanno assolutamente alcun senso se
+tralasciamo il fatto che il calvinismo appariva loro la [[Truth|verità]] metafisica
+assoluta, inconfutabile, insostituibile, e l'unica cosa
+degna di essere posseduta al mondo.  Le [[Crusades|Crociate]] e le contese dinastiche
+dei Re normanni e angioini non hanno assolutamente alcun senso se tralasciamo
+il fatto che quegli uomini (con tutti i loro vizi) erano entusiasti
+della dottrina, della disciplina e delle dotazioni del cattolicesimo.
+Eppure ho letto una [[history|storia]] dei Puritani scritta da un moderno Nonconformista
+in cui il nome di Calvino non era neppure menzionato, il che è come scrivere
+una [[history|storia]] degli Ebrei senza menzionare né Abramo né Mosè.
+E non ho mai letto alcuna [[history|storia]] popolare o scolastica dell'Inghilterra
+che desse il minimo accenno dei moventi nella mente umana
+che coprirono l'Inghilterra di abbazie e la Palestina di vessilli.
+Gli storici sembrano aver del tutto dimenticato i due fatti:
+primo, che gli uomini agiscono in base alle idee; e secondo, che potrebbe,
+dunque, essere [[Well|bene]] scoprire quali idee.  I medievali
+non credevano in primo luogo nella "cavalleria," ma nel cattolicesimo,
+in quanto produttore, tra le altre cose, della cavalleria.  I Puritani non
+credevano in primo luogo nella "rettitudine," ma nel calvinismo,
+in quanto produttore, tra le altre cose, della rettitudine.  Era il credo
+a tenere in pugno gli uomini rozzi o astuti del mondo in entrambe le epoche.
+Guglielmo il Conquistatore era per certi versi un soldato cinico e brutale,
+ma dava importanza al fatto che la Chiesa sostenesse
+la sua impresa; che Aroldo avesse giurato falsamente sulle ossa dei santi,
+e che il vessillo sopra le sue stesse lance fosse stato benedetto dal Papa.
+Cromwell era per certi versi un soldato cinico e brutale; ma dava
+importanza al fatto di aver ottenuto certezza dall'alto
+nello schema calvinista; che la [[Bible|Bibbia]] parve sostenerlo:
+in breve, il momento più importante della sua stessa vita, per lui,
+non fu quando Carlo I perse la testa, ma quando [[Oliver]] Cromwell non
+perse la sua [[Soul|anima]].  Se togliete queste cose dal racconto,
+state togliendo il racconto stesso.  Se Guglielmo il Rosso era soltanto
+un uomo dai capelli rossi cui piaceva la caccia, perché costrinse il capo di Anselmo
+sotto una mitra, invece di costringerne il capo sotto la scure del boia?
+Se John Bunyan si curava soltanto della "rettitudine," perché era in terrore
+di essere dannato, quando sapeva di essere razionalmente retto?
+Non caveremo mai nulla dai movimenti morali e religiosi nella [[history|storia]]
+finché non cominceremo a guardare alla loro teoria [[Well|oltre]] che alla loro pratica.
+Poiché la loro pratica (come nel caso dei Mormoni) è spesso così inconsueta
+e frenetica da risultare del tutto inintelligibile senza la loro teoria.
+
+Non ho lo spazio, e nemmeno se ne avessi la conoscenza, per descrivere
+le teorie fondamentali del [[Mormonism|Mormonismo]] sull'universo.  Ma esse
+sono straordinariamente interessanti; e una loro adeguata comprensione
+ci permetterebbe certo di veder chiaro attraverso i più sconcertanti
+o minacciosi costumi di questa comunità; e quindi di giudicare fino a che punto
+la poligamia fosse nel loro schema un principio permanente e [[Self|auto]]-rinnovante o
+(come è assai probabile) un accidente personale e senza scrupoli.
+La credenza mormone di base è una di quelle che vengono dal mattino della terra,
+dall'atteggiamento più primitivo e persino infantile.  Il loro principale
+dogma è che Dio è materiale, non che Egli sia stato materializzato una volta,
+come credono tutti i cristiani; né che sia materializzato in modo speciale,
+come credono tutti i cattolici; ma che sia stato materialmente incarnato
+da tutto il [[Time|tempo]]; che abbia una dimora locale [[Well|oltre]] a un nome.
+Sotto l'influenza di questa concezione barbarica ma violentemente vivida,
+queste persone attraversarono un grande [[Desert|deserto]] con i loro fucili e buoi,
+pazientemente, ostinatamente e coraggiosamente, come se seguissero
+un vasto e visibile gigante che avanzava a grandi passi per le pianure.
+In altre parole questa strana setta, immergendosi unicamente nelle
+Scritture Ebraiche, era davvero riuscita a riprodurre l'atmosfera di
+quelle Scritture come sono sentite dagli Ebrei piuttosto che dai Cristiani.
+Un certo numero di uomini ottusi, seri, ignoranti, in nera finanziera con cappelli
+a cilindro, barbe al mento o basette a costoletta, riuscirono a riprodurre nelle
+proprie anime la ricchezza e il pericolo di un'antica esperienza orientale.
+Se pensiamo da questo capo possiamo forse indovinare come mai
+essi vi aggiunsero la poligamia.

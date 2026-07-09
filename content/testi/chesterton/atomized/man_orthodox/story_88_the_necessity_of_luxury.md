@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_87_the_return_of_the_angels">‹ Story 87 The Return Of The Angels</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_89_the_club">Story 89 The Club ›</a></div>
@@ -38,3 +40,37 @@ and sense of humour to leave off talking about what people need
 and bestow more attention on what they want.
 
                                                The Open Review, July, 1906
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_87_the_return_of_the_angels">‹ Story 87 The Return Of The Angels</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_89_the_club">Story 89 The Club ›</a></div>
+</nav>
+
+LA NECESSITÀ DEL LUSSO
+
+Il gran numero di abusi propri del nostro attuale stato sociale risale
+a quell'unica grande eresia che è la perversione di Darwin; intendo
+l'eresia secondo cui l'uomo è prima un animale e poi uno spirito.
+La verità è che l'uomo è un animale e uno spirito simultaneamente,
+e la sua vita spirituale non è più un lusso della sua vita fisica;
+se non nel senso che egli non può spiegare razionalmente perché
+neghi l'una o l'altra.  Una felicità umana e civile
+è uno dei bisogni dell'uomo, non semplicemente uno dei suoi piaceri.
+Il lusso è esso stesso una necessità.  L'uomo non vive di solo pane ma,
+al più basso livello del pensiero, di pane e burro.
+Tutti gli argomenti sul trattamento dei poveri fondati
+sull'idea che possiamo farne dapprima animali contenti
+e poi passare alle loro anime sono falsi fin dalla radice.
+Dando a un uomo appena abbastanza aria, appena abbastanza avena,
+appena abbastanza esercizio, appena abbastanza cacao, non potete farne
+una bestia contenta; ma soltanto un uomo scontento.
+... Non faremo mai davvero alcun progresso con i nostri piani
+per il sollievo della miseria finché non avremo umiltà
+e senso dell'umorismo sufficienti a smettere di parlare di ciò di cui la gente ha bisogno
+e a dedicare più attenzione a ciò che la gente desidera.
+
+                                               The Open Review, luglio 1906

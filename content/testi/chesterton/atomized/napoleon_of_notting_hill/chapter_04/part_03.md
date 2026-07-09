@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04">Chapter 04</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_01">part 01 ›</a></div>
@@ -135,3 +137,134 @@ the great majority found their minds a blank.  There remains
 a tradition that one pale face with burning blue eyes remained
 fixed upon the lecturer, and after the lecture a red-haired boy
 ran out of the room.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04">Chapter 04</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_01">part 01 ›</a></div>
+</nav>
+
+Il [[King|Re]] cominciò col dire che questo discorso poteva essere considerato
+come la prima dichiarazione della sua nuova politica per la nazione.
+«In quest'ora suprema della mia vita sento che a nessuno se non ai membri
+della Società per il Recupero delle Antichità di [[London|Londra]] posso aprire
+il mio cuore (applausi). Se il mondo si rivolterà contro la mia politica, e le tempeste
+dell'ostilità popolare cominceranno a levarsi (no, no), sento che è qui,
+con i miei valorosi Recuperatori attorno a me, che meglio potrò affrontarle,
+[[Sword|spada]] alla mano» (grandi applausi).
+
+Sua Maestà proseguì poi spiegando che, ora che la vecchiaia gli stava
+strisciando addosso, si proponeva di dedicare le forze che gli restavano a suscitare
+un più vivo senso del patriottismo locale nei vari municipi
+di [[London|Londra]].  Quanto pochi di essi conoscevano le leggende dei propri borghi!
+Quanti erano coloro che non avevano mai sentito parlare della vera origine dell'Ammicco
+di Wandsworth!  Quale gran parte della giovane generazione
+a Chelsea trascurava di eseguire l'antico Chuff di Chelsea!  Pimlico non
+pompava più i Pimlie.  Battersea aveva dimenticato il nome di Blick.
+
+Vi fu un breve [[Silence|silenzio]], e poi una voce disse «Vergogna.»
+
+Il [[King|Re]] proseguì:  «Essendo chiamato, per quanto immeritatamente,
+a questo alto rango, ho deciso che, per quanto possibile,
+questa negligenza cessi.  Non [[Desire|desidero]] gloria militare.
+Non pretendo alcuna parità costituzionale con Giustiniano o Alfredo.
+Se potrò passare alla [[history|storia]] come l'uomo che salvò dall'estinzione alcune
+vecchie usanze inglesi, se i nostri discendenti potranno dire che fu grazie a quest'uomo,
+per quanto umile, che le Dieci Rape si mangiano ancora a Fulham,
+e il consigliere parrocchiale di Putney si rade ancora metà del capo,
+guarderò i miei grandi padri con riverenza ma senza timore in volto
+quando scenderò all'ultima [[house|dimora]] dei Re.»
+
+Il [[King|Re]] fece una pausa, visibilmente commosso, ma ricomponendosi,
+riprese ancora una volta.
+
+«Confido che a ben pochi di voi, almeno, debba dilungarmi sulle [[Sublime|sublimi]]
+origini di queste leggende.  I nomi stessi dei vostri borghi ne recano
+testimonianza.  Finché Hammersmith si chiamerà Hammersmith,
+la sua gente vivrà all'[[Shadow|ombra]] di quel primordiale [[Hero|eroe]], il Fabbro,
+che condusse la [[democracy|democrazia]] del Broadway in battaglia finché non spinse
+la cavalleria di Kensington dinanzi a sé e la travolse in quel luogo
+che in [[Honour|onore]] del miglior [[Blood|sangue]] dell'aristocrazia sconfitta è ancora
+chiamato Kensington Gore.  Gli uomini di Hammersmith non mancheranno di ricordare
+che il nome stesso di Kensington ebbe origine dalle labbra del loro [[Hero|eroe]].
+Poiché al grande banchetto della [[Reconciliation|Riconciliazione]] tenuto dopo la guerra,
+quando gli sdegnosi oligarchi rifiutarono di unirsi ai [[songs|canti]] degli uomini
+del Broadway (che sono a tutt'oggi di carattere rozzo e popolare),
+il grande capo repubblicano, col suo rude [[Humour|umorismo]], disse le parole
+che sono scritte in oro sul suo monumento: "Gli [[Birds|uccellini]]
+che sanno cantare e non vogliono cantare, si deve farli cantare."  Cosicché i
+Cavalieri Orientali furono chiamati Cansing o Kensing da allora in poi.
+Ma anche voi avete grandi memorie, o uomini di Kensington!  Voi mostraste
+che sapevate cantare, e cantare grandi [[songs|canti]] di guerra. Anche dopo l'oscuro
+giorno di Kensington Gore, la [[history|storia]] non dimenticherà quei tre Cavalieri
+che protessero la vostra scomposta ritirata da Hyde Park (così chiamato dal vostro
+nascondervi là), quei tre Cavalieri da cui prende nome Knightsbridge.
+Né dimenticherà il giorno del vostro riemergere, purgati nel [[Fire|fuoco]]
+della sventura, mondati dalle vostre corruzioni oligarchiche, quando, [[Sword|spada]] alla mano,
+respingeste l'Impero di Hammersmith miglio dopo miglio, lo spazzaste
+oltre il suo stesso Broadway, e infine lo spezzaste in una battaglia tanto lunga
+e sanguinosa che gli [[Birds|uccelli]] rapaci vi hanno lasciato il proprio nome.
+Gli uomini l'hanno chiamata, con austera ironia, la Ravenscourt.
+Non ferirò, confido, il patriottismo di Bayswater,
+né il più solitario [[Pride|orgoglio]] di Brompton, o quello di qualsiasi altra
+storica cittadina, prendendo questi due esempi particolari.
+Li scelgo non perché siano più gloriosi degli altri,
+ma in parte per associazione personale (io stesso discendo
+da uno dei tre eroi di Knightsbridge), e in parte per
+la consapevolezza di essere un antiquario dilettante e di non poter presumere
+di trattare di tempi e luoghi più remoti e più misteriosi.
+Non spetta a me risolvere la questione fra due uomini tali
+quali il professor Hugg e sir William Whisky, se cioè Notting [[Hill|Hill]]
+significhi Nutting [[Hill|Hill]] (in allusione ai ricchi boschi che non
+la ricoprono più), oppure se sia una corruzione di Nothing-ill,
+in riferimento alla sua reputazione fra gli antichi come Paradiso Terrestre.
+Quando un Podkins e un Jossy si confessano incerti sui
+confini di West Kensington (che si dice siano stati tracciati nel [[Blood|sangue]]
+dei Buoi), non ho da vergognarmi di confessare un [[Doubt|dubbio]] simile.
+Vi chiederò di scusarmi da ulteriore [[history|storia]], e di assistermi
+con il vostro incoraggiamento nell'affrontare il problema che ci sta
+dinanzi oggi. Deve estinguersi questo antico spirito delle cittadine
+di [[London|Londra]]?  Devono i nostri conducenti d'omnibus e i nostri poliziotti perdere del tutto quella luce
+che vediamo così spesso nei loro occhi, la luce sognante delle
+
+«"Vecchie infelici cose lontane / E battaglie di tanto tempo fa"
+
+«per citare le parole di un poeta poco noto che fu un amico della mia giovinezza?
+Ho deciso, come ho detto, per quanto possibile, di preservare gli occhi
+dei poliziotti e dei conducenti d'omnibus nel loro presente stato sognante.
+Poiché che cos'è uno Stato senza [[Dreams|sogni]]?  E il rimedio che propongo
+è il seguente:
+
+«Domattina alle dieci e venticinque,
+se il Cielo mi risparmierà la vita, mi propongo di emanare un Proclama.
+È stato l'opera della mia vita ed è circa a metà.
+Con l'aiuto di un whisky e soda, concluderò
+l'altra metà [[Night|stanotte]], e domani il mio popolo lo riceverà.
+Tutti questi borghi in cui siete nati, e dove [[Hope|sperate]] di far riposare le vostre ossa,
+saranno reintegrati nella loro antica magnificenza...Hammersmith,
+Kensington, Bayswater, Chelsea, Battersea, Clapham, Balham, e un
+centinaio d'altri.  Ciascuno costruirà immediatamente una cinta muraria [[City|cittadina]] con porte da
+chiudersi al tramonto.  Ciascuno avrà una guardia [[City|cittadina]], armata fino ai denti.
+Ciascuno avrà uno stendardo, uno stemma, e, se conveniente,
+un grido d'adunata.  Non entrerò nei dettagli ora, il mio cuore
+è troppo colmo.  Si troveranno nel proclama stesso.
+Tutti voi, tuttavia, sarete soggetti all'arruolamento nelle guardie
+[[City|cittadine]] locali, da convocarsi insieme mediante una cosa chiamata Tocsin,
+il cui significato sto studiando nelle mie ricerche sulla [[history|storia]].
+Personalmente, credo che un tocsin sia una specie di funzionario assai ben pagato.
+Se, pertanto, qualcuno di voi possiede per caso una cosa come un'alabarda
+in [[house|casa]], gli consiglierei di esercitarsi con essa in [[Garden|giardino]].»
+
+A questo punto il [[King|Re]] affondò il volto nel fazzoletto e in fretta
+lasciò il palco, sopraffatto dall'emozione.
+
+I membri della Società per il Recupero delle Antichità di [[London|Londra]]
+si [[Rose|levarono]] in uno stato indescrivibile di vaghezza.  Alcuni erano paonazzi
+d'indignazione; un ristretto numero d'intellettuali era paonazzo dal ridere;
+la grande maggioranza si ritrovò la mente vuota.  Resta
+una tradizione secondo cui un volto pallido dagli ardenti occhi azzurri rimase
+fisso sul conferenziere, e dopo la conferenza un ragazzo dai capelli rossi
+corse fuori dalla stanza.

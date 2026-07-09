@@ -144,113 +144,22 @@ XIV
 
 RITRATTO DI UN AMICO
 
-A parte la [[Vanity|vanità]] o la falsa modestia (di cui le persone sane si servono sempre
-come di scherzi), il mio vero giudizio sulla mia opera è che ho guastato un buon numero
-di ottime idee al mio [[Time|tempo]]. V'è una ragione di ciò; ed è
-davvero piuttosto un frammento di autobiografia che di [[Literary Criticism|critica letteraria]].
-Ritengo che Il Napoleone di Notting [[Hill]] fosse un libro davvero [[Well|ben]] degno d'esser scritto;
-ma non sono sicuro che sia mai stato scritto. Ritengo che un'arlecchinata
-come La Locanda Volante fosse un soggetto estremamente promettente, ma
-[[Doubt|dubito]] assai fortemente di aver mantenuto la promessa. Sono quasi tentato
-di dire che è tuttora un soggetto molto promettente — per qualcun altro.
-Ritengo che il racconto intitolato La Sfera e la [[Cross|Croce]] avesse una trama abbastanza buona,
-su due uomini perpetuamente impediti dalla polizia dal battersi
-a duello per la collisione tra bestemmia e adorazione, o quel che tutte
-le persone rispettabili chiamerebbero «una mera divergenza di religione».
-Credo che il suggerimento secondo cui il mondo moderno è organizzato
-in rapporto alla più ovvia e urgente di tutte le domande,
-non tanto per risponderle in modo sbagliato, quanto per impedire che le si risponda
-affatto, sia un suggerimento sociale che ha davvero molto in sé;
-ma sono assai più dubbioso sul fatto che io ne abbia ricavato molto,
-anche in confronto a ciò che se ne poteva ricavare.
-Considerate come storie, nel senso di aneddoti, queste cose mi paiono
-essere state più o meno fresche e personali; ma considerate
-come romanzi, esse non solo non erano buone quanto le avrebbe fatte un vero romanziere,
-ma non erano buone quanto avrei potuto farle
-io stesso, se avessi davvero anche solo cercato di essere un vero romanziere.
-E tra le molte più abiette ragioni per cui non sono capace di essere un romanziere,
-v'è il fatto che sono sempre stato e presumibilmente sarò sempre
-un giornalista.
+A parte la [[Vanity|vanità]] o la falsa modestia (che le persone sane usano sempre come scherzi) il mio reale giudizio sul mio proprio lavoro è che ho rovinato un certo numero di ottime idee nel mio [[Time|tempo]]. Vi è una ragione per questo; ed è davvero piuttosto un pezzo di autobiografia che di [[Literary Criticism|critica letteraria]]. Penso che Il Napoleone di Notting [[Hill]] fosse un libro assai [[Well|degno]] d'esser scritto; ma non sono sicuro che sia mai stato scritto. Penso che un arlecchinata come La Taverna Volante fosse un soggetto oltremodo promettente, ma [[Doubt|dubito]] assai fortemente di aver mantenuto la promessa. Sono quasi tentato di dire che è ancora un soggetto assai promettente—per qualcun altro. Penso che la storia intitolata La Sfera e la [[Cross|Croce]] avesse una trama del tutto buona, su due uomini perpetuamente impediti dalla polizia di combattere un duello sulla collisione fra bestemmia e adorazione, o ciò che tutte le persone rispettabili chiamerebbero «una mera differenza di religione». Credo che il suggerimento che il mondo moderno sia organizzato in relazione alla più ovvia e urgente di tutte le questioni, non tanto per rispondervi in modo sbagliato, quanto per impedire che vi si risponda affatto, sia un suggerimento sociale che davvero ha molto in sé; ma sono assai più dubbioso sul fatto se io ne abbia cavato molto, anche in confronto a ciò che se ne potrebbe cavare. Considerate come storie, nel senso di aneddoti, queste cose mi paiono essere state più o meno fresche e personali; ma considerate come romanzi, non solo non erano buone come le avrebbe fatte un vero romanziere, ma non erano buone come avrei potuto farle io stesso, se avessi davvero anche solo tentato di essere un vero romanziere. E fra le molte ragioni più abiette per non essere capace di essere un romanziere, c'è il fatto che io sono sempre stato e presumibilmente sempre sarò un giornalista.
 
-Ma non fu la parte superficiale o sciocca o gioviale di me
-a fare di me un giornalista. Al contrario, fu quella parte che ho
-in ciò che è serio o persino solenne. Un gusto per il puro divertimento avrebbe potuto
-condurmi a una public-[[house]], ma difficilmente a una publishing-[[house]].
-E se mi avesse condotto a una publishing-[[house]], per la pubblicazione
-di semplici filastrocche o fiabe, non avrebbe mai potuto in tal modo avermi
-condotto al mio deplorevole corso di infiniti articoli e lettere
-sui giornali. In breve, non potevo essere un romanziere; perché a me
-piace davvero vedere idee o nozioni lottare nude, per così dire,
-e non agghindate in mascherata da uomini e donne. Ma potevo
-essere un giornalista perché non potevo fare a meno di essere un polemista.
-Non so nemmeno se ciò si chiamerebbe falsa modestia o [[Vanity|vanità]],
-nella moderna scala dei valori; ma so che non è né l'una né l'altra.
-Mi viene in mente che il migliore e più salutare criterio, per giudicare
-fino a che punto la pura incompetenza o pigrizia, e fino a che punto un legittimo gusto
-per l'appello diretto e democratico, mi abbiano impedito di essere un vero
-uomo di lettere, potrebbe trovarsi in uno studio dell'uomo di lettere che mi capita
-di conoscere meglio; il quale aveva gli stessi moventi per produrre giornalismo,
-eppure non ha prodotto nient'altro che letteratura.
+Ma non fu la parte superficiale o sciocca o gioviale di me a fare di me un giornalista. Al contrario, fu quella parte che ho in ciò che è serio o perfino solenne. Un gusto per il mero divertimento avrebbe potuto condurmi a una [[house|casa]] pubblica, ma difficilmente a una [[house|casa editrice]]. E se mi avesse condotto a una [[house|casa editrice]], per la pubblicazione di mere filastrocche assurde o fiabe, non avrebbe mai potuto così condurmi al mio deplorevole corso di infiniti articoli e lettere sui giornali. In breve, non potevo essere un romanziere; perché mi piace davvero vedere le idee o le nozioni lottare nude, per così dire, e non travestite in mascherata da uomini e donne. Ma potevo essere un giornalista perché non potevo fare a meno di essere un polemista. Non so nemmeno se ciò verrebbe chiamato falsa modestia o [[Vanity|vanità]], nella scala di valori moderna; ma so che non è né l'una né l'altra. Mi viene in mente che la migliore e più salubre prova, per giudicare fino a che punto la mera incompetenza o pigrizia, e fino a che punto un legittimo gusto per il diretto appello democratico, mi abbiano impedito di essere un vero letterato, si potrebbe trovare in uno studio del letterato che si dà il caso io conosca meglio; il quale ebbe gli stessi moventi per produrre giornalismo, eppure non ha prodotto null'altro che letteratura.
 
-Nei giorni in cui Belloc era noto a Bentley e Oldershaw,
-ma non a me, quando erano tutti insieme nel gruppo radicale
-a [[Oxford]], Belloc stesso frequentava soprattutto un gruppo assai più piccolo
-che si chiamava il Club Repubblicano. Per quanto riesco a capire,
-il Club Repubblicano non fu mai composto di più di quattro membri,
-e in genere di meno; uno o più di essi essendo stato solennemente
-espulso o per torysmo o per socialismo. Fu questo il club
-che Belloc celebrò nella bella dedica del suo primo libro;
-di cui due versi sono passati a una certa celebrità popolare:
-«Nulla vale la fatica del conquistare, se non il riso e l'[[Love|amore]]
-degli amici»; ma nel corso della quale egli descrisse anche più
-in dettaglio gli ideali di questa fastidiosa confraternita.
+Nei giorni in cui Belloc era conosciuto da Bentley e Oldershaw, ma non da me, quando erano tutti insieme nel gruppo radicale a [[Oxford]], Belloc stesso frequentava principalmente un gruppo assai più piccolo che si chiamava il Club Repubblicano. Per quanto io possa capire, il Club Repubblicano non consistette mai di più di quattro membri, e generalmente di meno; uno o più di essi essendo stati solennemente espulsi o per Toryismo o per Socialismo. Questo era il club che Belloc celebrò nella bella dedica del suo primo libro; di cui due versi sono passati a una certa popolare celebrità: «Non v'è nulla che valga la spesa del conquistare tranne la risata e l'[[Love|amore]] degli amici»; ma nel corso della quale egli descrisse anche più in dettaglio gli ideali di questo schizzinoso sodalizio.
 
-  Tenemmo fede al piano rabelaisiano,
-  nobilitammo i delicati chiostri
-  con la Legge Naturale, i Diritti dell'Uomo,
-  il [[Song|Canto]], lo Stoicismo, il Vino e le Ostriche.
+  Tenemmo il piano rabelaisiano
+  Nobilitammo i delicati chiostri
+  Con la Legge Naturale, i Diritti dell'Uomo,
+  [[Song|Canto]], Stoicismo, Vino e Ostriche.
 
   Insegnammo l'arte di scrivere cose
-  su uomini che ancora vorremmo strozzare,
-  e dove procurarsi il [[Blood|sangue]] dei re
-  a soli mezzo [[Crown|scellino]] la bottiglia.
+  Su uomini che ancora vorremmo strozzare,
+  E dove ottenere il [[Blood|sangue]] dei re
+  A solo mezza [[Crown|corona]] la bottiglia.
 
-Dei tre altri angoli di questo assai Quadrato Vangelo della Cittadinanza,
-ossia dei tre costanti colleghi di Belloc nel vecchio club repubblicano,
-uno è tuttora, credo, un illustre [[Exile|esule]] e funzionario in Birmania;
-o come i suoi vecchi amici amavano dire con aspri sorrisi di affettuosa
-[[Resignation|rassegnazione]], «un Satrapo»; come se in qualche modo avesse medizzato, o si fosse abbassato
-alla barbarie orientale che noi chiamiamo Imperialismo. Non ho alcun
-[[Doubt|dubbio]] che di fatto egli fosse un felice e assai soddisfacente Satrapo;
-ma era l'unico membro del gruppo che io non conobbi mai. Gli altri
-due repubblicani, che erano gli amici più intimi di Belloc a [[Oxford]],
-hanno entrambi, in modi diversi, avuto una parte considerevole nella mia stessa vita.
-Uno era John Swinnerton Phillimore, figlio del vecchio Ammiraglio il cui nome
-faceva una sorta di sfondo alla Kensington della mia fanciullezza, in seguito
-professore di latino all'Università di Glasgow e una delle prime autorità classiche
-del suo [[Time|tempo]]; ora, ahimè, soltanto una [[Memory|memoria]] sempre più profonda.
-L'altro era Francis Yvon Eccles, l'illustre studioso di francese,
-che ora incontro fin troppo di rado a causa della sua gravitazione verso
-il vivere in Francia.
+Dei tre altri angoli di questo assai Quadrato Vangelo di Cittadinanza, cioè dei tre costanti colleghi di Belloc nel vecchio Club Repubblicano, uno è ancora, credo, un distinto [[Exile|Esule]] e funzionario in Birmania; o come i suoi vecchi amici amavano dire con acri sorrisi di affettuosa [[Resignation|Rassegnazione]], «un Satrapo»; come se egli avesse in qualche modo Medizzato, o condisceso alla barbarie orientale che noi chiamiamo Imperialismo. Non ho alcun [[Doubt|dubbio]] che in effetti egli fosse un felice e altamente soddisfacente Satrapo; ma era il solo membro del gruppo che io non incontrai mai. Gli altri due Repubblicani, che erano gli amici più intimi di Belloc a [[Oxford]], hanno entrambi in modi diversi recitato una parte considerevole nella mia stessa vita. Uno era John Swinnerton Phillimore, figlio del vecchio Ammiraglio il cui nome fece una sorta di sfondo per la Kensington della mia fanciullezza, poi Professore di Latino all'Università di Glasgow e una delle prime autorità classiche del suo [[Time|tempo]]; ora, ahimè, soltanto una [[Memory|memoria]] sempre più profonda. L'altro era Francis Yvon Eccles, il distinto studioso francese, che ora incontro fin troppo di rado a causa della sua gravitazione verso il vivere in Francia.
 
-Eccles, come Belloc, era il [[Child|figlio]] di un genitore francese e uno inglese;
-ma v'era una certa fuorviante [[Comedy|comicità]] nei nomi, come se fossero
-stati scambiati come etichette. Ché Eccles, che si dava il caso avesse
-il cognome inglese, somigliava molto più a un francese, e Belloc,
-con il cognome francese, somigliava molto più a un inglese;
-anzi finì per essere l'unico solitario ma simbolico inglese davvero
-somigliante al tradizionale John Bull. È vero che egli raggiunse
-questo tipo tradizionale grazie al possesso di un mento quadrato come
-quello del grande Imperatore dei Francesi, e alla successiva adozione
-di basette per soddisfare le convenzioni degli spagnoli.
-Ma l'effetto combinato di queste influenze straniere fu che
-egli somigliava esattamente a ciò a cui tutti i contadini inglesi dovrebbero somigliare;
-ed era, per così dire, un ritratto di Cobbett migliore di quanto Cobbett stesso fosse.
-Inoltre, il simbolo era vero; ché le radici che lo tengono
-alle Downs e alle profonde terre arate dell'Inghilterra meridionale erano
-persino più profonde, per quel che riguarda l'istinto, delle marmoree
-fondamenta dell'astratta Repubblica del Club Repubblicano.
-Ricordo di aver bevuto un boccale di birra con un oste non lontano da Horsham
-e di aver menzionato il nome del mio amico; e l'oste, che evidentemente
-non aveva mai sentito parlare di libri o di simili sciocchezze, si limitò a dire: «Coltiva un po' la terra,
-no?», e io pensai quanto Belloc ne sarebbe stato immensamente lusingato.
+Eccles, come Belloc, era il [[Child|figlio]] di un genitore francese e uno inglese; ma vi era una certa fuorviante [[Comedy|commedia]] riguardo ai nomi, come se fossero stati scambiati come etichette. Poiché Eccles, che si dava il caso avesse il cognome inglese, sembrava assai più un francese, e Belloc, col cognome francese, sembrava assai più un inglese; anzi egli finì per essere il solo solitario ma simbolico inglese che davvero somigliasse al tradizionale John Bull. È vero che egli raggiunse questo tipo tradizionale attraverso il possesso di un mento quadrato come quello del grande Imperatore dei Francesi, e la successiva assunzione di basette per soddisfare le convenzioni degli Spagnoli. Ma l'effetto combinato di queste influenze straniere fu che egli sembrava esattamente come tutti i contadini inglesi dovrebbero sembrare; ed era, per così dire, un miglior ritratto di Cobbett di quanto Cobbett stesso lo fosse. Inoltre, il simbolo era vero; poiché le radici che lo legano alle Downs e alle profonde terre arate dell'Inghilterra meridionale erano perfino più profonde, per quanto concerne l'istinto, delle marmoree fondamenta dell'astratta Repubblica del Club Repubblicano. Ricordo di aver bevuto un boccale di birra con un oste non lontano da Horsham e di aver menzionato il nome del mio amico; e l'oste, che ovviamente non aveva mai sentito parlare di libri o simili sciocchezze, disse semplicemente: «Fa un po' l'agricoltore, no?», e io pensai quanto Belloc ne sarebbe stato enormemente lusingato.

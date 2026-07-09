@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12">Chapter 12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_02">part 02 ›</a></div>
@@ -133,3 +135,132 @@ He does not, however, seem pleased with anything so much just now as
 he is with the wearing of a [[Sword|sword]].  I have it from the front on the best
 authority that General Wilson was not completely shaved yesterday.
 It is believed in military circles that he is growing a moustache....
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12">Chapter 12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO III
+
+IL GRANDE ESERCITO DI SOUTH KENSINGTON
+
+L'ARTICOLO del corrispondente speciale del [[Court]] Journal
+giunse a tempo debito, scritto su carta da minuta grossolanissima nell'arabesca
+calligrafia del [[King|Re]], nella quale tre parole riempivano una pagina, e tuttavia
+erano illeggibili. Per giunta, il contributo era tanto più sconcertante
+a prima vista in quanto si apriva con una successione di paragrafi cancellati.
+Lo scrittore pareva aver tentato l'articolo una o due volte
+in vari stili giornalistici. A margine di un esperimento
+era scritto: "Prova lo stile americano," e il [[Fragment|frammento]] cominciava:
+
+"Il [[King|Re]] deve andarsene. Vogliamo uomini di fegato. Le sciocchezze sono tutte molto...;"
+e poi s'interrompeva, seguito dalla nota: "Più sicuro il buon giornalismo solido.
+Provalo."
+
+L'esperimento di buon giornalismo solido pareva cominciare:
+
+"Il più grande dei poeti inglesi ha detto che una [[Rose|rosa]] con qualunque..."
+
+Anche questo si arrestava bruscamente. L'annotazione successiva a margine era
+quasi indecifrabile, ma sembrava essere qualcosa come:
+
+"Che ne dici del vecchio Steevens e del mot juste? Ad es. ..."
+
+"Il mattino mi ammiccava un poco stancamente sopra l'orlo elegante di Campden [[Hill]]
+e delle sue case dalle ombre nitide. Sotto il netto cartone nero
+del profilo, ci volle un certo [[Time|tempo]] per distinguere i colori;
+ma alla fine vidi un giallo brunastro spostarsi nell'oscurità,
+e capii che era la guardia dell'esercito di West Kensington di Swindon.
+Sono tenuti come riserva, e schierati lungo tutto il crinale
+sopra la Bayswater [[Road]]. Il loro campo e il loro grosso
+stanno sotto la grande torre dell'[[Water|acquedotto]] su Campden [[Hill]].
+Ho dimenticato di dire che la torre dell'[[Water|acquedotto]] pareva fosca.
+
+"Mentre li oltrepassavo e giungevo sulla curva di Silver Street, vidi
+le azzurre masse nuvolose degli uomini di Barker che bloccavano l'ingresso
+alla via maestra come un fumo di zaffiro (bello). La disposizione
+delle truppe alleate, sotto la gestione generale del signor Wilson,
+pare essere la seguente... L'Esercito Giallo (se così posso descrivere
+i westkensingtoniani) sta, come ho detto, in una striscia lungo il crinale;
+il suo punto più a ovest è il lato occidentale di Campden [[Hill]] [[Road]],
+il suo punto più a est l'inizio dei Kensington Gardens.
+L'Esercito Verde di Wilson schiera lungo la Notting [[Hill]] High [[Road]] stessa da
+[[Queen]]'s [[Road]] all'angolo di Pembridge [[Road]], curvando attorno a quest'ultima,
+e spingendosi per un trecento metri su verso Westbourne Grove.
+Westbourne Grove stessa è occupata da Barker di South Kensington.
+Il quarto lato di questo grezzo quadrato, il lato di [[Queen]]'s [[Road]],
+è tenuto da alcuni dei guerrieri Purpurei di Buck.
+
+"L'insieme somiglia a qualche antica e graziosa aiuola olandese. Lungo
+la cresta di Campden [[Hill]] giacciono i crochi dorati di West Kensington.
+Sono, per così dire, la prima frangia ardente del tutto.
+A nord giace il nostro giacinto Barker, con tutti i suoi giacinti azzurri.
+Verso sud-ovest corrono i verdi giunchi di Wilson di Bayswater,
+e una linea di iris violetti (aptamente simboleggiati dal signor Buck)
+completa il tutto. L'esterno argenteo... (Sto perdendo lo stile.
+Avrei dovuto dire 'Curvando con un frullo' invece del semplice 'Curvando.'
+Inoltre avrei dovuto chiamare i giacinti 'improvvisi.' Non riesco
+a tenere questo passo. La guerra è troppo rapida per questo stile di scrittura.
+Prego chiedere al fattorino d'ufficio d'inserire i mots justes.)
+
+"La [[Truth|verità]] è che non c'è nulla da riferire. Quell'elemento banale
+che è sempre pronto a divorare tutte le cose belle
+(come il Maiale Nero nella mitologia irlandese finirà per divorare
+le [[Stars|stelle]] e gli dèi); quell'elemento banale, come dico, ha alla
+sua maniera di Maiale Nero divorato infine le probabilità di qualsiasi [[Romance|romanticismo]]
+in questa faccenda; ciò che una volta consisteva in assurdi ma emozionanti
+combattimenti nelle strade, è degenerato in qualcosa che è
+la vera prosa della guerra... è degenerato in un assedio.
+Un assedio si può definire come una pace più gli inconvenienti della guerra.
+Naturalmente Wayne non può resistere. Non c'è più probabilità d'aiuto
+da qualunque altra parte che di navi dalla [[Moon|luna]]. E se il vecchio Wayne
+avesse riempito la sua strada di carne in scatola finché tutta la sua guarnigione
+avesse dovuto sedercisi sopra, non potrebbe resistere per più di un mese o due.
+Come fatto [[Melancholy|malinconico]], egli ha fatto qualcosa di piuttosto simile a questo.
+Ha riempito la sua strada di viveri finché non deve esserci insolitamente
+poco spazio per voltarsi. Ma a che pro? Resistere per
+tutto quel [[Time|tempo]] e poi cedere per necessità, cosa significa?
+Significa aspettare finché le vostre vittorie siano dimenticate e poi prendersi
+la briga di essere sconfitti. Non riesco a capire come Wayne possa
+essere così poco artistico.
+
+"E com'è strano che si veda una cosa in modo del tutto diverso quando si
+sa che è sconfitta. Ho sempre pensato che Wayne fosse piuttosto in gamba.
+Ma ora, quando so che è spacciato, pare non esserci
+nient'altro che Wayne. Tutte le strade paiono indicarlo,
+tutti i comignoli paiono piegarsi verso di lui. Suppongo sia una
+sensazione morbosa; ma Pump Street pare essere l'unica parte di [[London|Londra]]
+che sento fisicamente. Suppongo, dico, che sia morbosa.
+Suppongo sia esattamente come un uomo sente il proprio cuore
+quando il cuore è debole. 'Pump Street'—il cuore è una pompa.
+E sto vaneggiando.
+
+"Il nostro miglior comandante al fronte è, fuori di ogni dubbio, il generale Wilson.
+Ha adottato [[Alone|solo]] fra gli altri Provosti l'uniforme dei suoi
+propri alabardieri, sebbene quella bella vecchia foggia cinquecentesca
+non fosse originariamente destinata ad accompagnarsi a fedine rosse. Fu
+lui che, contro una difesa più ammirevole e disperata, irruppe ieri
+[[Night|notte]] in Pump Street e la tenne per almeno mezz'ora.
+Ne fu poi espulso dal generale Turnbull, di Notting [[Hill]],
+ma solo dopo una lotta disperata e la subitanea discesa di quella
+terribile oscurità che si dimostrò tanto più fatale alle forze
+del generale Buck e del generale Swindon.
+
+"Il Provosto Wayne stesso, col quale ebbi, per grande fortuna, un
+interessantissimo colloquio, rese la più eloquente testimonianza alla condotta
+del generale Wilson e dei suoi uomini. Le sue precise parole sono le seguenti:
+'Ho comprato dolciumi nella sua buffa botteguccia quando avevo quattro
+anni, e da allora sempre. Non notai mai nulla, mi vergogno
+a dirlo, tranne che parlava col naso e non si lavava
+particolarmente. E ci venne addosso sulla barricata come un diavolo
+dall'inferno.' Ripetei questo discorso al generale Wilson stesso,
+con qualche delicato miglioramento, ed egli parve compiaciuto.
+Non pare, tuttavia, compiaciuto di alcunché tanto in questo momento quanto
+lo è del portare una [[Sword|spada]]. Ho dal fronte, dalla migliore
+autorità, che il generale Wilson non era completamente rasato ieri.
+Nei circoli militari si crede che si stia facendo crescere i baffi....

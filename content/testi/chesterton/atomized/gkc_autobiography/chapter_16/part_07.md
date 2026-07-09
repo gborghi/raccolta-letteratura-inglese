@@ -96,10 +96,73 @@ fisher in a far province, beside a small and almost secret sea.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_16/part_06">‹ part 06</a><span></span></div>
 </nav>
 
-Ho detto che questa rude e primitiva religione della gratitudine non mi salvò dall'ingratitudine; dal peccato che è forse il più orribile per me proprio perché è ingratitudine. Ma anche qui ho trovato che la risposta mi attendeva. Precisamente perché il male era principalmente dell'[[Imagination|immaginazione]], esso poteva essere trafitto soltanto da quella concezione della confessione che è la fine della mera [[Solitude|solitudine]] e della segretezza. Avevo trovato una sola religione che osasse scendere con me nelle profondità di me stesso. So bene, naturalmente, che la pratica della Confessione, dopo essere stata vilipesa per tre o quattro secoli e per la maggior parte della mia stessa vita, è stata ora fatta rivivere in maniera tardiva. I materialisti scientifici, perennemente in ritardo sui tempi, hanno fatto rivivere tutto ciò che in essa veniva vilipeso come indecente e introspettivo. Ho sentito dire che una nuova setta ha ripreso ancora una volta la pratica dei più primitivi monasteri, e ha trattato il confessionale come comunitario. A differenza dei primitivi [[Monks|monaci]] del [[Desert|deserto]], pare che essa trovi una soddisfazione nel compiere il rito in abito da sera. In breve, non vorrei che mi si supponesse ignaro del fatto che il mondo moderno, in vari gruppi, è ora pronto a fornirci i vantaggi della Confessione. Nessuno dei gruppi, per quanto ne so, pretende di fornire il minore vantaggio dell'Assoluzione.
+Ho detto che questa rude e primitiva religione della gratitudine non mi
+salvò dall'ingratitudine; dal peccato che è forse per me più orribile
+perché è ingratitudine. Ma anche qui ho scoperto che la risposta
+mi attendeva. Proprio perché il male era principalmente dell'[[Imagination|Immaginazione]],
+esso poteva essere trafitto solo da quella concezione della confessione che
+è la fine della mera [[Solitude|Solitudine]] e segretezza. Avevo trovato una sola
+religione che osasse scendere con me nelle profondità di me stesso.
+So, naturalmente, che la pratica della Confessione, essendo stata
+vilipesa attraverso tre o quattro secoli e attraverso la maggior
+parte della mia stessa vita, è ora stata rianimata in modo tardivo.
+I materialisti scientifici, permanentemente indietro coi tempi,
+hanno rianimato tutto ciò che in essa era vilipeso come indecente e introspettivo.
+Ho sentito che una nuova setta ha ripreso ancora una volta la pratica dei
+più primitivi monasteri, e ha trattato il confessionale come comunale.
+A differenza dei primitivi [[Monks|Monaci]] del [[Desert|Deserto]], pare che trovi
+una soddisfazione nell'eseguire il rito in abito da sera. In breve,
+non vorrei essere ritenuto ignaro del fatto che il mondo moderno,
+in vari gruppi, è ora pronto a fornirci i vantaggi
+della Confessione. Nessuno dei gruppi, per quanto ne so, professa di
+fornire il minor vantaggio dell'Assoluzione.
 
-Ho detto che le mie morbosità erano mentali oltre che [[Well|morali]]; e sondavano le più spaventose profondità dello scetticismo e del solipsismo fondamentali. E anche là trovai che la Chiesa mi aveva preceduto e aveva stabilito le sue adamantine fondamenta; che aveva affermato l'attualità delle cose esterne; sicché perfino i pazzi potessero udire la sua voce; e, per una rivelazione nel loro stesso cervello, cominciare a credere ai propri occhi.
+Ho detto che le mie morbosità erano mentali oltre che [[Well|pure]] morali; e ho sondato
+le più spaventose profondità dello scetticismo fondamentale e del solipsismo.
+E anche là scoprii che la Chiesa era andata avanti a me e aveva stabilito
+le sue adamantine fondamenta; che aveva affermato l'attualità
+delle cose esterne; così che persino i pazzi potessero udire la sua voce;
+e per una rivelazione nel loro stesso cervello cominciare a credere ai propri occhi.
 
-Infine dissi che avevo cercato, per quanto imperfettamente, di servire la giustizia; e che vedevo la nostra civiltà industriale come radicata nell'ingiustizia, molto prima che ciò divenisse un'osservazione tanto comune quanto è oggi. Chiunque abbia voglia di andare a sfogliare le raccolte dei grandi giornali, perfino quelli che si suppone siano giornali Radicali, e vedere che cosa dissero a proposito dei Grandi Scioperi, e paragonarlo con ciò che i miei amici e io dicemmo alla medesima data, può facilmente verificare se questo sia un vanto o un fatto bruto. Ma chiunque legga questo libro (se qualcuno lo legge) vedrà che fin dal principio il mio istinto riguardo alla giustizia, alla libertà e all'uguaglianza, era alquanto diverso da quello corrente nella nostra epoca; e da tutte le tendenze verso la concentrazione e la generalizzazione. Era mio istinto difendere la libertà nelle piccole nazioni e nelle famiglie povere; ossia difendere i diritti dell'uomo come comprendenti i diritti di proprietà; specialmente la proprietà dei poveri. Non capii davvero che cosa intendessi per Libertà, finché non la udii chiamare col nuovo nome di Dignità Umana. Era un nome nuovo per me; benché fosse parte di un credo vecchio di quasi duemila anni. In breve, avevo ciecamente desiderato che un uomo fosse in possesso di qualcosa, foss'anche soltanto del suo proprio [[Body|corpo]]. Nella misura in cui procede la concentrazione materialistica, un uomo non sarà in possesso di nulla; neppure del suo proprio [[Body|corpo]]. Già si librano all'orizzonte travolgenti flagelli di sterilizzazione o di igiene sociale, applicati a tutti e imposti da nessuno. Perlomeno non discuterò qui con quelle che vengono bizzarramente chiamate le autorità scientifiche dall'altra parte. Ho trovato una sola autorità dalla mia parte.
+Infine dissi che avevo cercato, per quanto imperfettamente, di servire la giustizia;
+e che vedevo la nostra civiltà industriale come radicata nell'ingiustizia,
+molto prima che divenisse un commento così comune come lo è oggi.
+Chiunque abbia voglia di consultare gli archivi dei grandi giornali,
+persino di quelli supposti Radicali, e di vedere cosa dissero
+sui Grandi Scioperi, e di confrontarlo con ciò che i miei amici e io dicemmo alla
+stessa data, può facilmente verificare se questa sia una vanteria o un bruto fatto.
+Ma chiunque legga questo libro (se qualcuno lo legge) vedrà che
+fin dall'inizio il mio istinto sulla giustizia, sulla libertà
+e sull'uguaglianza, era in qualche modo diverso da quello corrente nella nostra età;
+e da tutte le tendenze verso la concentrazione e la generalizzazione.
+Era mio istinto difendere la libertà nelle piccole nazioni e
+nelle povere famiglie; ossia difendere i diritti dell'uomo comprendendo
+i diritti della proprietà; specialmente la proprietà dei poveri.
+Non capii davvero cosa intendessi per Libertà, finché non la sentii
+chiamare col nuovo nome di Dignità Umana. Era per me un nome nuovo;
+benché fosse parte di un credo vecchio quasi duemila anni.
+In breve, avevo ciecamente desiderato che un uomo fosse in possesso
+di qualcosa, fosse pure solo il proprio [[Body|corpo]]. Nella misura in cui la materialistica
+concentrazione procede, un uomo sarà in possesso di nulla;
+nemmeno del proprio [[Body|corpo]]. Già si profilano all'orizzonte spazzanti
+flagelli di sterilizzazione o igiene sociale, applicati a tutti
+e imposti da nessuno. Almeno non discuterò qui con ciò che
+vengono bizzarramente chiamate le autorità scientifiche dell'altra parte.
+Ho trovato un'autorità dalla mia parte.
 
-Questa storia, dunque, può finire soltanto come dovrebbe finire ogni storia [[Detective|poliziesca]], con le sue proprie particolari domande risolte e il suo proprio problema primario risolto. Migliaia di storie totalmente differenti, con problemi totalmente differenti, sono finite nel medesimo luogo con i loro problemi risolti. Ma per me la mia fine è il mio principio, come Maurice Baring citò a proposito di Maria Stuarda, e questa soverchiante convinzione che vi sia una sola chiave capace di aprire tutte le porte mi riporta il primo barlume del glorioso dono dei sensi; e la sensazionale esperienza della sensazione. E là si leva di nuovo davanti a me, ritta nitida e chiara nella sagoma come un tempo, la figura di un uomo che attraversa un ponte e reca una chiave; come lo vidi quando per la prima volta guardai nel paese delle fate attraverso la [[Window|finestra]] del teatrino di mio padre. Ma io so che colui che è chiamato Pontifex, il Costruttore del Ponte, è chiamato anche Claviger, il Portatore della Chiave; e che tali chiavi gli furono date per legare e sciogliere quando era un povero pescatore in una lontana provincia, presso un piccolo e quasi segreto mare.
+Questa storia, perciò, può concludersi solo come dovrebbe concludersi qualsiasi storia
+[[Detective|poliziesca]], con le sue proprie particolari domande risposte e il suo proprio
+problema primario risolto. Migliaia di storie totalmente diverse,
+con problemi totalmente diversi, sono finite nello stesso luogo
+coi loro problemi risolti. Ma per me la mia fine è il mio inizio,
+come Maurice Baring citò di Maria Stuarda, e questa travolgente
+convinzione che c'è una chiave che può aprire tutte le porte mi riporta
+il primo barlume del glorioso dono dei sensi;
+e la sensazionale esperienza della sensazione. E si erge
+di nuovo dinanzi a me, stagliandosi netta e chiara nella forma come un tempo,
+la figura di un uomo che attraversa un ponte e porta una chiave;
+come lo vidi quando per la prima volta scrutai nel paese delle fate attraverso l'[[Window|oblò]]
+del teatrino di mio padre. Ma so che colui che è chiamato Pontifex,
+il Costruttore del Ponte, è chiamato anche Claviger, il Portatore della Chiave;
+e che tali chiavi gli furono date per legare e sciogliere quando era un povero
+pescatore in una lontana provincia, presso un mare piccolo e quasi segreto.

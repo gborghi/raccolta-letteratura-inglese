@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_36_punch_and_judy">‹ Story 36 Punch And Judy</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_38_the_saint_and_the_dragon">Story 38 The Saint And The Dragon ›</a></div>
@@ -38,3 +40,37 @@ really popular, it is within the reach of comparatively poor men.
 Who can wonder that it is dying out?
 
                                 Illustrated London News, October 8th, 1921
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_36_punch_and_judy">‹ Story 36 Punch And Judy</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_38_the_saint_and_the_dragon">Story 38 The Saint And The Dragon ›</a></div>
+</nav>
+
+PUNCH E JUDY, II
+
+L'arte dello spettacolo di Punch e Judy, come l'arte delle antiche corporazioni,
+è un artigianato. È quella cosa umile chiamata lavoro manuale,
+come l'opera dello scultore, del violinista e del pittore
+della Trasfigurazione. Il suo interesse sta nel fatto
+che l'unico strumento realmente impiegato è la mano,
+e il costume della figura comica non è che una specie di guanto.
+Tutto è fatto con queste tre dita, o piuttosto
+due dita e un pollice, coi quali, in effetti, tutte le
+opere più poderose o più ingegnose dell'uomo sono state compiute.
+Tutto ruota attorno alla cooperazione di quella trinità di dita:
+la penna, la matita, l'archetto del violino, e perfino
+il fioretto o la spada. Sotto questo aspetto Punch e Judy
+possiede una purezza e una classica semplicità come forma d'arte,
+superiore perfino a ciò che più comunemente si chiama spettacolo di burattini —
+il più meccanico sistema delle marionette che si muovono su fili.
+E c'è questo ultimo tocco di vergogna nel trascurarlo:
+che mentre le marionette sono per lo più un divertimento straniero, Punch è
+diventato una sopravvivenza puramente inglese. È molto inglese, è
+davvero popolare, è alla portata di uomini relativamente poveri.
+Chi può stupirsi che stia scomparendo?
+
+                                Illustrated London News, 8 ottobre 1921

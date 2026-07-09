@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story">Story 04 A Tall Story</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_22">‹ part 22</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_24">part 24 ›</a></div>
@@ -199,3 +201,198 @@ were dying of depression; and I don't [[Wonder|wonder]]."
 He stirred up the neglected [[Fire|fire]], making quite a creditable blaze,
 
 with his usual instinct for the comforts of life; then he added:
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story">Story 04 A Tall Story</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_22">‹ part 22</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_24">part 24 ›</a></div>
+</nav>
+
+la porta, e l'impiegato di Sir [[Hubert]] entrò scivolando per riferire di aver assolto
+
+l'incarico. Sir [[Hubert]] dapprima non lo vide, con lo sguardo corrucciato
+
+fisso sulla mappa ferroviaria del percorso da seguire; e
+
+Dyer in quel momento stava esaminando molto da vicino la bianca
+
+scatola d'abete, già scelta e portata come campione.
+
+Ma il signor Pond notò l'impiegato; e non poté fare a meno di pensare che
+
+valeva davvero la pena di notarlo. Era un giovane di nome Franks, dai
+
+capelli chiari accuratamente lisciati, e abbastanza aggraziato di corpo e
+
+d'abito; ma il suo viso largo aveva quell'aria indescrivibile che
+
+talora si scorge, di cui possiamo dire soltanto che ricorda la grossa
+
+testa sul piccolo corpo di un [[Dwarf|nano]], o forse quella incassata
+
+tra le spalle di un gobbo; il volto non è normale, nemmeno
+
+su un corpo normale. Ma le altre cause che arrestarono per un attimo
+
+l'occhio del signor Pond furono, primo, il fatto che l'impiegato fosse
+
+visibilmente a disagio nel porgere in silenzio le carte al suo
+
+superiore; e, non ultimo, che avesse trasalito visibilmente quando
+
+vide il [[Detective|detective]] di Scotland Yard.
+
+Il secondo Consiglio, se così lo si può chiamare, si tenne in quello che tutti
+
+concordavano essere il centro strategico dell'intera manovra: un certo
+
+nodo ferroviario delle Midlands. Accadde che il
+
+carico di scatole, insieme a sacchi postali e cose simili, dovesse
+
+essere trasferito qui da un treno all'altro, che arrivava
+
+poco dopo allo stesso binario. Era a questo punto che vi era
+
+la maggior possibilità di un'interferenza dall'esterno; ed è
+
+da temere che Dyer forzasse parecchio la mano nel suo riluttante
+
+compromesso con la Costituzione britannica, in fatto di ordini
+
+di polizia che fermavano, trattenevano o esaminavano chiunque tentasse
+
+di entrare o uscire dalla stazione.
+
+"Ho detto ai nostri uomini che non devono lasciar uscire nemmeno NOI dalla
+
+stazione," disse, "senza un attento esame, per [[Fear|paura]] che a qualcuno
+
+venga la fantasia di travestirsi da signor Pond."
+
+"Ha un che di festoso, così vicino a Natale," disse il signor Pond
+
+lugubremente. "Deduco quindi che per ora dobbiamo restare in
+
+stazione; e non si può certo dire che abbia un'aria particolarmente festosa."
+
+Nulla, in verità, può [[Well|ben]] sembrare più desolato di uno dei
+
+numerosi binari laterali di una stazione ferroviaria deserta in una tetra
+
+giornata d'[[Winter|inverno]]; se non la vuota Sala d'Attesa di Terza Classe
+
+allestita per essere un rifugio umano dalla folata d'[[Winter|inverno]]. In qualche modo
+
+la sala d'attesa appare persino meno umana del binario da cui
+
+essa è rifugio; adorna di pochi avvisi stampati che nessuno
+
+potrebbe mai leggere, orari di treni o polverose piante di ferrovie,
+
+fornita in un angolo di penne rotte con cui nessuno potrebbe
+
+scrivere, e calamai secchi senza inchiostro per scrivere; con
+
+un'unica macchia di colori spenti, la sbiadita réclame di una
+
+compagnia di assicurazioni. Sembrava certo, alla mente distratta, un
+
+luogo dimenticato da Dio in cui trascorrere una parte del Natale; ma il signor Pond aveva
+
+una stoica allegria in tali circostanze, che alquanto
+
+sorprendeva chi conosceva soltanto il suo felino [[Love|amore]] per la comoda
+
+routine domestica.
+
+Entrò in quella stanza vuota e sgradevole con passo svelto,
+
+fermandosi un attimo a fissare pensieroso l'inchiostro secco e
+
+le penne rotte sul tavolino d'angolo.
+
+"[[Well|Beh]]," disse, voltandosi, "con quelle non potevano combinar granché,
+
+comunque sia; ma, certo, potevano avere matite o penne
+
+stilografiche. Sono piuttosto contento di averlo fatto, tutto sommato."
+
+"Pond," disse Wotton con gravità, "questo rientra comunque nelle vostre competenze;
+
+e sono certo che Dyer converrà che abbiamo fatto [[Well|bene]] a seguire
+
+il vostro consiglio finora. Ma [[Hope|spero]] non vi dispiaccia che io nutra una lieve
+
+curiosità su ciò che avete fatto."
+
+"Affatto," rispose Pond. "Forse avrei dovuto dirvelo
+
+prima. Molto probabilmente avrei dovuto farlo prima. Ma
+
+subito dopo che aveste la bontà di lasciarmi fare a modo mio, quanto
+
+all'inviarlo insieme a tutto il resto in scatole semplici e identiche,
+
+mi sedetti e riflettei a fondo su quale sarebbe stata la miglior
+
+precauzione successiva a quella. Sono quasi certo che se fosse
+
+stato portato in un'auto speciale da uomini armati, quell'auto sarebbe stata
+
+assaltata e quegli uomini armati magari rapinati con la forza delle armi;
+
+comunque, c'era troppo rischio in ciò. C'è un'organizzazione
+
+di gangster ben più elaborata già all'opera contro di noi di quanto
+
+la maggior parte della gente immagini; e moltiplicare acquisti e
+
+preparativi significa moltiplicare indizi e transazioni da seguire per le loro
+
+spie. Ma non credo che le bande potrebbero entrare qui in alcun modo,
+
+specie ora che la polizia presidia i cancelli di tutte queste
+
+stazioni come fortezze. Un uomo isolato o giù di lì potrebbe fare ben
+
+poco contro di loro. Ma cosa potrebbe fare un uomo isolato?"
+
+"[[Well|Beh]]," disse Wotton alquanto spazientito. "Cosa potrebbe fare?"
+
+"Come dicevo," proseguì il signor Pond con calma, "mi sedetti e riflettei
+
+per bene su cosa potrebbe fare una spia o un intruso di passaggio, senza clamore,
+
+senza alcun fragore di battaglia, di assassinio o di [[Death|morte]] improvvisa, se pur
+
+riuscisse in qualche modo a individuare la scatola giusta. Così mi attaccai al
+
+telefono privato del quartier generale; e dissi loro di badare che le autorità
+
+postali e dei trasporti fermassero ogni scatola o pacco su
+
+cui l'indirizzo sembrasse alterato; qualcosa cancellato
+
+o qualcosa sostituito. Un uomo potrebbe concepibilmente cogliere un attimo
+
+per re-indirizzare una scatola a qualcuno dei suoi amici a [[London|Londra]]; benché
+
+non possa mai portar fuori la scatola dalla stazione senza esser perquisito.
+
+Ecco cosa feci; e furono proprio questi portapenne sfasciati a
+
+ricordarmelo. È un posto piuttosto sfasciato in cui passare
+
+il Natale, come dite voi; ci hanno dato una specie di [[Fire|fuoco]],
+
+il che è più di quel che fanno certe sale d'attesa; ma pare quasi
+
+morente di sconforto; e non me ne [[Wonder|meraviglio]]."
+
+Attizzò il [[Fire|fuoco]] trascurato, ravvivando una fiammata più che decorosa,
+
+col suo consueto istinto per le comodità della vita; poi aggiunse:

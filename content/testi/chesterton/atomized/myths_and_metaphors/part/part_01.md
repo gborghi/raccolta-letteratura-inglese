@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/myths-and-metaphors-(chesterton)">Myths and Metaphors</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/myths_and_metaphors/part/part_02">part 02 ›</a></div>
@@ -93,3 +95,92 @@ control their rhetorical and romantic sentimentalism as to do it
 without perpetual reference to [[Nature]]?  Shall we make a bargain;
 that we will for the moment leave out our theology, if they will
 leave out their mythology?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/myths-and-metaphors-(chesterton)">Myths and Metaphors</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/myths_and_metaphors/part/part_02">part 02 ›</a></div>
+</nav>
+
+# Miti e metafore
+
+Miti e metafore
+
+di G. K. Chesterton
+
+Originariamente pubblicato su The Illustrated [[London]] News, 26 gennaio 1929.
+
+(Fonte: G. K. Chesterton, Collected Works, Volume XXXV,
+The Illustrated [[London]] News 1929-1931,
+Ignatius Press, San Francisco, 1991. Pagine 29-33.)
+
+Ciò che oso criticare in certi uomini, che alcuni chiamano scienziati
+e io chiamo materialisti, è il loro perpetuo uso della Mitologia.
+Metà di ciò che dicono è tanto vero da essere banale; l'altra
+metà di ciò che dicono è tanto falsa da essere trasparente.
+Ma entrambe le loro ovvietà e le loro impunture le ammantano
+con un'elaborata sfilata di immagini leggendarie e allegoriche.
+Ho letto questo in certe osservazioni sul darwinismo di uno degli ultimi
+darwiniani superstiti: "Tra gli individui di ogni specie
+si svolge, come Malthus aveva capito, una competizione di lotta
+per i mezzi di vita, e la [[Nature|Natura]] seleziona gli individui che variano
+nella direzione di maggiore successo." Ora, quando gli uomini delle antiche religioni
+dicevano che Dio scelse un popolo e suscitò un [[Prophet|profeta]], almeno
+intendevano qualcosa; e intendevano ciò che dicevano. Intendevano che
+un essere dotato di mente e di volontà li usava in un atto di selezione.
+Ma chi è la [[Nature|Natura]], e come fa lei, o lui, o esso, a selezionare
+qualcosa o qualcuno? Tutto ciò che lo scrittore ha realmente da dire è che
+alcuni individui emergono mentre altri individui vengono estinti.
+Non c'era certo bisogno di Darwin o dei darwiniani per dircelo.
+Ma la [[Nature|Natura]] che seleziona quelli che variano nella direzione di maggiore successo
+non significa assolutamente nulla, tranne che chi ha successo ha successo.
+Ma questo truismo tautologico è avvolto in nubi di mitologia,
+con l'introduzione di un essere mitico che perfino lo scrittore
+considera un mito. Il lettore deve restare impressionato e ingannato
+dalla visione di una vasta dea di pietra assisa su un trono montano,
+che addita una particolare rana o coniglio dicendo, con tono di tuono,
+che questa [[Alone|sola]] deve sopravvivere. Tutto ciò che sappiamo è che sopravvive
+(per il momento), e poi ci [[Pride|vantiamo]] di essere capaci
+di ripetere il mero fatto che sopravvive in una cinquantina
+di espressioni variopinte e fiorite: come che ha valore di [[Survival|sopravvivenza]];
+o che è naturalmente selezionata per la [[Survival|sopravvivenza]]; o che sopravvive
+perché è la più adatta alla [[Survival|sopravvivenza]]; o che la grande legge della [[Nature|Natura]]
+della [[Survival|sopravvivenza]] del più adatto le comanda severamente di sopravvivere.
+I critici della religione solevano dire che i suoi misteri erano buffonate;
+ma queste cose sono nel senso speciale e reale delle buffonate.
+Sono cose offerte a una congregazione credula da sacerdoti che le sanno
+buffonate. È impossibile provare che il sacerdote
+sappia che non c'è dio nel sacrario, o nessuna [[Truth|verità]] nell'oracolo.
+Ma sappiamo che il materialista sa che non esiste alcuna cosa simile
+a una grande e schizzinosa signora, chiamata [[Nature|Natura]], che punta un dito
+verso una rana.
+
+Il caso particolare in cui questa metafora mitologica fu usata è
+naturalmente un'altra faccenda. È, invero, una faccenda che ha coinvolto
+in varie epoche una gran quantità di questo elemento di mitologia materialista.
+Per vedere quale [[Truth|verità]] vi fosse davvero dentro dovremmo risalire al vecchio
+[[debate|dibattito]] darwiniano; cosa che non ho la minima intenzione di fare qui.
+Ma posso osservare, di passaggio, che questa nozione della [[Nature|Natura]] che seleziona
+le cose è specialmente incompatibile con tutto ciò che si può davvero dire
+a favore della loro stessa tesi; e che il nome stesso di selezione naturale
+è un nome quanto mai innaturale per essa. Poiché la loro intera tesi è che
+tutto è accaduto, nell'ordinario senso umano, per caso.
+Dovremmo piuttosto chiamarla coincidenza; e alcuni di noi la chiamano una coincidenza
+del tutto incredibile. Ma, comunque sia, l'intera tesi a suo favore è che
+un quadrupede si trovò ad avere un collo lungo, e si trovò a vivere
+in un momento in cui era necessario raggiungere un albero o un arbusto più alto.
+Se questi accadimenti si danno a caso un centinaio di volte di seguito,
+esattamente allo stesso modo, con quel processo si può trasformare qualche sorta
+di pecora o capra in una giraffa. Se ciò sia probabile o no è
+un'altra questione. Ma l'intero argomento darwiniano è che NON è
+un caso di [[Nature|Natura]] che seleziona, più di quanto sia un caso di Dio che seleziona, o di chiunque
+altro che seleziona, ma un caso di cose che capitano in quel modo.
+Siamo prontissimi a discutere di alberi e giraffe al posto loro,
+senza perpetui riferimenti a Dio. Non potrebbero i materialisti controllare
+almeno un poco il loro sentimentalismo retorico e romantico da farlo
+senza perpetui riferimenti alla [[Nature|Natura]]? Facciamo un patto:
+che noi per il momento tralasceremo la nostra teologia, se essi
+tralasceranno la loro mitologia?

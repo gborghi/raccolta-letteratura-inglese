@@ -143,120 +143,120 @@ But we no more anticipated that at our age, than we anticipated [[Death|death]].
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_03">part 03 ›</a></div>
 </nav>
 
-I ragazzi, ho detto, vagano in tre. Tre è certamente il
-numero simbolico del [[Comradeship|cameratismo]], anche se non è sempre esattamente
-la stessa cosa dell'[[Friendship|amicizia]]. Ho avuto la fortuna di godere di entrambi,
+I ragazzi, ho detto, vagano in tre. Tre è di certo il
+numero simbolico per il [[Comradeship|Cameratismo]], anche se non è sempre esattamente
+lo stesso dell'[[Friendship|Amicizia]]. Ho avuto la fortuna di godere di entrambi,
 come i Tre Moschettieri, o i Tre Soldati del signor Kipling.
 Il primo dei miei amici, con cui lottai nel campo,
-ha poi scritto il miglior romanzo [[Detective|poliziesco]] dei tempi moderni e
-tuttora cela un senso dell'[[Humour|umorismo]] assai potente sotto il quasi
-impenetrabile travestimento di articolista del Daily Telegraph. Era,
-e in verità è ancora, notevole per la combinazione di una straordinaria
-gravità di volto con un'estrema agilità e prontezza di movimento.
-Solevo dire che aveva la testa di un professore sul [[Body|corpo]]
-di un arlecchino. Era un piacere poetico vederlo camminare,
-un po' pomposamente, lungo la strada e poi a un tratto arrampicarsi su un lampione
-come una scimmia, con la presunta intenzione di accendersi una sigaretta,
-per poi lasciarsi cadere e riprendere il cammino con immutata
-espressione di serietà e serenità. Aveva un cervello straordinariamente
-[[Well|ben]] equilibrato e sapeva farne quasi qualsiasi cosa;
+ha da allora scritto la migliore [[Detective|storia poliziesca]] dei tempi moderni e
+cela ancora un potentissimo senso dell'[[Humour|Umorismo]] sotto il quasi
+impenetrabile travestimento di uno scrittore del Daily Telegraph. Era,
+e in effetti è ancora, notevole per la combinazione di una straordinaria
+gravità di volto con estrema agilità e rapidità di movimento.
+Ero solito dire che aveva la testa di un professore sul [[Body|corpo]]
+di un arlecchino. Era un poetico piacere vederlo camminare,
+un po' pomposamente, giù per la strada e d'improvviso scalare un lampione
+come una scimmia, con la presunta intenzione di accendere una sigaretta,
+e poi lasciarsi cadere e riprendere la sua passeggiata con un'immutata
+espressione di serietà e serenità. Aveva cervelli straordinariamente
+[[Well|ben]] bilanciati e poteva farci quasi qualsiasi cosa;
 persino scrivere un ordinario articolo di fondo per un quotidiano di [[London|Londra]].
-Ma sapeva scrivere sciocchezze limpide e pure con la stessa
-seria semplicità. Fu lui a inventare quella forma severa e solenne
-di [[Free Verse|verso libero]] poi conosciuta col suo secondo
+Ma poteva scrivere sciocchezze chiare e non adulterate con la medesima
+seria semplicità. Fu lui a inventare quella severa e maestosa
+forma di [[Free Verse|Verso Libero]] che è da allora nota col suo stesso secondo
 nome come «il Clerihew» (il suo nome è Edward Clerihew Bentley)
-o «[[Biography|Biografia]] per principianti»; che risale ai nostri giorni di scuola,
-quando sedeva ad ascoltare un'esposizione di chimica, con la sua aria piuttosto
-annoiata e un foglio bianco di carta assorbente davanti.
-Su questo scrisse, ispirato dal limpido spirito del [[Song|canto]],
-i versi disadorni,
+o «[[Biography|Biografia]] per Principianti»; che risale ai nostri giorni di scuola,
+quando sedeva ad ascoltare un'esposizione chimica, con la sua aria piuttosto
+annoiata e un foglio bianco di carta assorbente davanti a sé.
+Su questo scrisse, ispirato dal limpido spirito della [[Song|Canzone]],
+i disadorni versi,
 
   Sir Humphrey Davy
-  detestava il sugo d'arrosto.
-  Si attirò l'obbrobrio
-  d'aver scoperto il sodio.
+  Detestava il sugo grave.
+  Incorse nell'odio universale
+  Per aver scoperto il sodio metallico.
 
-Già in quei giorni solevo disegnare figure, o ciò che
-si chiamavano figure, per illustrare queste rime biografiche;
-benché naturalmente non fu che decenni dopo che a uno di noi
-venne l'idea di pubblicare un libro, o di pubblicare alcunché.
-Molto tempo dopo che eravamo diventati entrambi scribacchini incurabili, restammo
-scolari inosservati; non pensammo mai di poter essere altro;
-non credo ci rendessimo molto chiaramente conto che un giorno saremmo stati
-qualcos'altro; o che i nostri giorni di scuola sarebbero mai finiti. In quel senso
-eravamo tanto privi d'ambizione quanto bambini che si sussurrano una lingua segreta.
-Le nostre burle erano tutte domestiche o nascevano dalle vicende quotidiane
+Anche in quei giorni ero solito disegnare figure, o ciò che si
+chiamava figure, per illustrare queste rime biografiche;
+benché naturalmente non fu che decenni dopo che a uno di
+noi due venne l'idea di pubblicare un libro, o di pubblicare alcunché.
+Molto tempo dopo che eravamo entrambi divenuti inguaribili scribacchini, restavamo
+scolari senza spicco; non pensammo mai di poter essere alcunché di diverso;
+non credo che ci rendessimo affatto conto chiaramente che avremmo mai dovuto essere
+alcunché di diverso; o che i nostri giorni di scuola sarebbero mai finiti. In quel senso
+eravamo privi d'ambizione come bambini che sussurrano una lingua segreta.
+I nostri scherzi erano tutti domestici o sviluppati dalle faccende quotidiane
 della scuola; ma coprivano abbastanza carta straccia da rifornire una biblioteca.
-Ricordo un interminabile [[Romance|romanzo]], per il quale disegnavo sempre
-figure, e che ancora oggi penso avesse un tocco di sfrenata fantasia.
-Nacque semplicemente dal nostro camminare dietro tre dei professori;
-due di loro, giovani e alti, avevano fra sé un terzo,
-vecchio e assai piccolo; sicché pareva vagamente suggerito
-che lo stessero sostenendo. Su questo si fondò la grande teoria
-costruttiva che il professore più anziano (che era una delle persone più importanti
-della scuola) fosse in realtà solo una figura a [[Clock|orologeria]], che essi
-portavano in giro con sé e caricavano perché compisse il suo giro quotidiano.
-Il fantoccio e i due cospiratori venivano trascinati attraverso un'infinita
-sequenza di lunghe (e mal disegnate) avventure, alcuni frammenti
-delle quali devono ancora aggirarsi da qualche parte per il mondo.
-Ma inutile dire che non pensammo mai di farne alcunché,
-se non goderne. Talvolta mi è parso che non sia
-una cattiva cosa da fare, con le cose.
+Ricordo un interminabile [[Romance|Romanzo]], per il quale disegnavo di continuo
+figure, e che credo ancora avesse un tocco di sfrenata fantasia.
+Nacque semplicemente dal nostro camminare dietro tre dei maestri;
+due dei quali, giovani e alti, avevano fra loro un terzo,
+che era vecchio e assai piccolo; così che pareva vagamente suggerirsi
+che essi lo sorreggessero. Su questo si basò la grande teoria costruttiva
+secondo cui il maestro più anziano (che era una delle persone più importanti
+della scuola) era in realtà soltanto una figura a [[Clock|orologeria]], che essi
+portavano in giro con sé e caricavano per fargli compiere il suo giro quotidiano.
+Il fantoccio e i due cospiratori venivano trascinati attraverso una interminabile
+bobina di lunghe (e mal disegnate) avventure, alcuni frammenti
+delle quali devono ancora circolare da qualche parte per il mondo.
+Ma inutile dire che non pensammo mai di farne qualcosa,
+tranne che divertircene. Talvolta mi ha colpito come non sia
+una cattiva cosa da fare con le cose.
 
-Il mio amico Bentley, in verità, aveva e ha un talento naturale per
-queste elaborate mappe strategiche di nonsenso, o per la trama
-di intrecci tanto assurdi. È qualcosa di simile alla diligenza
-che accompagna la fantasia di padre Ronald Knox, quando traccia
+Il mio amico Bentley, in effetti, aveva e ha un talento naturale per
+queste elaborate mappe strategiche di nonsenso, o per il suggerimento
+di trame tanto assurde. È qualcosa di simile all'industria
+che accompagna la fantasia di Padre Ronald Knox, quando traccia
 una dettagliata mappa del Barsetshire di Trollope o elabora un incredibile
-crittogramma per dimostrare che la [[Queen|regina]] Vittoria scrisse «In Memoriam».
-Ricordo un giorno in cui l'intera scuola si radunò per un omaggio
-a un professore che ci lasciava per assumere un incarico al Peterhouse.
-Il discorso di congratulazioni fu tenuto da uno dei professori anziani
-che si dava il caso fosse un dotto ma pesante e assai solenne vecchio signore,
-i cui modi e la cui dizione erano del pari ponderosi e prosaici.
-Il mio amico ed io sedevamo l'uno accanto all'altro, senza speranza di alcun sollievo
-se non dalla solennità dell'oratore; quando l'intera assemblea fu
-trasalita come da un fulmine. Il vecchio signore aveva fatto una battuta.
-E, cosa ancor più sconvolgente, era una battuta piuttosto buona. Osservò che,
-mandando il nostro amico da questa scuola a quel collegio, stavamo derubando
-Paolo per pagare Pietro. Ci guardammo l'un l'altro con un selvaggio sgomento.
-Scuotemmo il capo gravemente. Non poteva spiegarsi. Ma Bentley
-in seguito produsse una spiegazione quanto mai convincente ed esauriente.
-Sostenne che il professore più anziano aveva dedicato la
-sua intera vita a progettare e a preparare quell'unica battuta.
-Si era servito della sua influenza sul Rettore per ottenere per
-il professore più giovane un posto nell'organico. Aveva intrigato con
-le autorità dell'Università per procurargli un incarico in quel collegio.
-Era vissuto per quell'ora. Aveva ora fatto la sua prima e ultima battuta;
-e probabilmente presto sarebbe trapassato in pace.
+crittogramma per dimostrare che la [[Queen|Regina]] Vittoria scrisse «In Memoriam».
+Ricordo un giorno in cui l'intera scuola si radunò per un dono
+a un maestro che ci lasciava per assumere una fellowship a Peterhouse.
+Il discorso di congratulazioni fu fatto da uno dei maestri anziani
+che si dava il caso fosse un vecchio gentiluomo dotto ma pesante e assai solenne,
+i cui modi e la cui dizione erano insieme ponderosi e prosaici.
+Il mio amico e io sedevamo fianco a fianco, senza speranza di alcun ravvivamento
+tranne che dalla solennità dell'oratore; quando l'intera assemblea fu
+fatta trasalire come da un tuono. Il vecchio gentiluomo aveva fatto uno scherzo.
+Ciò che era ancor più scioccante, era uno scherzo piuttosto buono. Osservò che,
+mandando il nostro amico da questa scuola a quel college, stavamo derubando
+Paolo per pagare Pietro. Ci guardammo l'un l'altro con selvaggia congettura.
+Scuotemmo il capo con gravità. Non si poteva spiegare. Ma Bentley
+in seguito produsse una spiegazione convincentissima ed esaustiva.
+Insistette che il maestro più anziano aveva dedicato la
+sua intera vita a progettare e a preparare quell'unico scherzo.
+Aveva usato la sua influenza presso l'Alto Maestro per ottenere per
+il maestro più giovane un posto nel corpo insegnante. Aveva intrigato con
+le autorità universitarie per procurargli una Fellowship a quel college.
+Aveva vissuto per quell'ora. Aveva ora fatto il suo primo e ultimo scherzo;
+e probabilmente sarebbe presto trapassato in pace.
 
 Fu il terzo membro del nostro trio originario a portare nei nostri
-[[Secrets|segreti]] il respiro dell'[[Ambition|ambizione]] e l'aria del gran mondo.
+[[Secrets|segreti]] il soffio dell'[[Ambition|Ambizione]] e l'aria del grande mondo.
 Era un giovane bruno e assai magro, di nome Lucian Oldershaw,
-che appariva e per certi versi era assai sensibile; ma su
-quelle questioni più grandi era assai meno timido di noi.
+che appariva ed era per certi versi assai sensibile; ma su
+quelle faccende più grandi era assai meno timido di noi.
 Era figlio di un attore e aveva girato il paese
-più di tutti noi; era stato in altre scuole e conosceva
-molto di più la varietà della vita. Soprattutto lo possedeva,
-quasi febbrilmente, un'idea vasta, sbalorditiva e devastante, l'idea
+più del resto di noi; era stato in altre scuole e conosceva
+assai di più la varietà della vita. Soprattutto, lo possedeva,
+quasi febbrilmente, una vasta, stupefacente e devastante idea, l'idea
 di fare qualcosa; di fare qualcosa alla maniera degli adulti,
-che erano le uniche persone concepibili come capaci di fare cose.
-Ricordo [[Well|bene]] come mi si rizzarono i capelli, quando parlò per la prima volta
-con noncuranza della rivista ufficiale della scuola; che per me era
-qualcosa come le preghiere della scuola o la fondazione della scuola.
-Nessuno di noi aveva mai sognato di collaborarvi, non più che
-all'Encyclopedia Britannica. E il mio nuovo amico, che era un po'
+che erano le uniche persone che si potessero concepire nel fare cose.
+Ricordo [[Well|bene]] come mi si rizzarono i capelli, quando egli parlò per la prima volta
+con noncuranza dell'ufficiale Rivista Scolastica; che per me era
+qualcosa come le Preghiere della Scuola o la Fondazione della Scuola.
+Nessuno di noi aveva mai sognato di contribuirvi, non più di quanto
+avesse sognato di contribuire all'Enciclopedia Britannica. E il mio nuovo amico, che era alquanto
 più giovane di me, parlò con leggerezza di una vecchia idea che aveva avuto di
-stabilire una qualche cooperazione fra tutte le grandi riviste scolastiche,
+stabilire una qualche cooperazione tra tutte le grandi riviste scolastiche,
 quelle di Eton, Harrow, Winchester e le altre. Se avesse proposto
-di conquistare e governare l'Impero Britannico, non sarei potuto restare
-più sbalordito; ma la liquidò con la stessa noncuranza con cui l'aveva evocata,
+che conquistassimo e governassimo l'Impero Britannico, non avrei potuto essere
+più sbalordito; ma egli la scartò con la stessa noncuranza con cui l'aveva evocata,
 e poi propose a [[Blood|sangue]] freddo che pubblicassimo una rivista
-tutta nostra; e che la facessimo stampare da un vero tipografo. Doveva
-possedere notevoli doti persuasive; perché lo facemmo davvero.
+tutta nostra; e la facessimo stampare da uno stampatore vero. Deve aver
+posseduto considerevoli poteri di persuasione; perché lo facemmo davvero.
 Fondammo anche una piccola società di ragazzi della nostra età, e la chiamammo
-Junior Debating Club; benché nessuno, per quanto ne so,
-abbia mai sentito parlare di un Senior Debating Club. C'era la [[Union]],
-cui appartenevi quando eri nella classe superiore, come facevi altre
-cose lecite e spaventose, come cenare col Rettore.
-Ma non lo prevedevamo, alla nostra età, più di quanto prevedessimo la [[Death|morte]].
+il Circolo Junior di Dibattito; benché nessuno, per quanto ne so,
+abbia mai sentito parlare del Circolo Senior di Dibattito. C'era l'[[Union|Unione]],
+a cui si apparteneva quando si era nella classe più alta, come si facevano altre
+cose lecite e terribili, come cenare con l'Alto Maestro.
+Ma noi non ci aspettavamo ciò più di quanto ci aspettassimo la [[Death|Morte]].

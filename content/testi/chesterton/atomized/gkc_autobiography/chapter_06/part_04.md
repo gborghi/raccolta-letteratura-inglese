@@ -125,10 +125,102 @@ of the world as it was then.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_06/part_05">part 05 ›</a></div>
 </nav>
 
-Lo sfondo generale di tutta la mia fanciullezza era agnostico. I miei stessi genitori erano piuttosto eccezionali, tra persone così intelligenti, nel credere comunque a un Dio personale o a un'[[Immortality|immortalità]] personale. Ricordo quando il mio amico Lucian Oldershaw, che mi introdusse in questa colonia bohémienne, mi disse d'un tratto, ripensando alle stancanti lezioni sul Nuovo Testamento in greco alla St. Paul's School: «Naturalmente, tu e io la nostra religione l'abbiamo appresa da agnostici»; e io, vedendo d'improvviso i volti di tutti i miei maestri, eccetto uno o due eccentrici ecclesiastici, seppi che aveva ragione. Non era propriamente la nostra generazione, era molto più la generazione precedente, a essere agnostica alla maniera di Huxley. Era il periodo del quale Mr. H. G. Wells, giocoso ma spirituale [[Child|figlio]] di Huxley, scrisse con sufficiente verità che era «pieno di quei silenzi ironici che seguono le grandi controversie»; e in quella controversia Huxley aveva riportato un successo superficiale. Un successo tale che Mr. Wells, nello stesso passo, giunse fino a dire che i Vescovi, «socialmente tanto in vista, sono intellettualmente nascosti». ... Come tutto ciò sembra caro e lontano! Ho vissuto abbastanza da vedere controversie biologiche, nelle quali è assai più vero dire che i darwiniani ufficiali sono nascosti. Il «[[Silence|silenzio]]» che seguì alla prima controversia evoluzionistica era assai più «ironico» di quanto Mr. Wells allora si avvedesse. Ma allora certamente il [[Silence|silenzio]] sembrava essere quello di una religione sconfitta; un [[Desert|deserto]] di materialismo. Gli uomini non si aspettavano le miriadi di reazioni mistiche che ora muovono tutte le nazioni più di quanto i palazzi dal petto piatto di Pimlico e Bloomsbury si fossero aspettati di vedere diffondersi per il paese i tetti crestati e i comignoli stravaganti di Bedford Park.
+Lo sfondo generale di tutta la mia fanciullezza era agnostico.
+I miei stessi genitori erano piuttosto eccezionali, tra gente così intelligente,
+nel credere affatto in un Dio personale o in una [[Immortality|Immortalità]] personale.
+Ricordo quando il mio amico Lucian Oldershaw, che mi introdusse a questa
+colonia bohémien, mi disse d'improvviso, ripensando alle stanche
+lezioni sul Testamento greco alla St. Paul's School: «Naturalmente,
+tu e io fummo istruiti nella nostra religione da agnostici;» e io, vedendo d'improvviso
+i volti di tutti i miei maestri, tranne uno o due ecclesiastici eccentrici,
+seppi che aveva ragione. Non era in modo speciale la nostra generazione,
+era assai più la generazione precedente, a essere agnostica secondo
+la moda di Huxley. Era il periodo di cui il signor H. G. Wells,
+un giocoso ma spirituale [[Child|Figlio]] di Huxley, scrisse abbastanza veritieramente che
+era «pieno degli ironici silenzi che seguono le grandi controversie;»
+e in quella controversia, Huxley era stato superficialmente vittorioso.
+Così vittorioso, che il signor Wells, nello stesso passo, arrivò
+fino a dire che i Vescovi, «socialmente così tanto in evidenza,
+sono intellettualmente nascosti.» ... Quanto caro e distante tutto ciò sembra!
+Sono vissuto abbastanza da vedere controversie biologiche, in cui è
+assai più vero dire che i Darwiniani ufficiali sono nascosti.
+Il «[[Silence|Silenzio]]» seguente alla prima controversia evoluzionistica
+era assai più «ironico» di quanto il signor Wells fosse allora consapevole.
+Ma allora di certo il [[Silence|Silenzio]] pareva essere uno di religione sconfitta;
+un [[Desert|Deserto]] di materialismo. Gli uomini non si aspettavano più le miriadi di mistiche
+reazioni che ora muovono tutte le nazioni di quanto le ville dal petto piatto
+di Pimlico e Bloomsbury si fossero aspettate di veder diffondersi per
+il paese i tetti crestati e i camini balzani di Bedford Park.
 
-Ma non era in questo che Bedford Park era eccentrica. Non v'era nulla di nuovo o di strano nel non avere una religione. Il socialismo, per lo più secondo lo schema alquanto da carta da parati di Morris, era una cosa relativamente nuova. Il socialismo, nello stile di Bernard [[Shaw]] e dei Fabiani, era una cosa in ascesa. Ma l'agnosticismo era una cosa consolidata. Potremmo quasi dire che l'agnosticismo era una chiesa costituita. Vi era una uniformità di miscredenza, come la esigenza elisabettiana di uniformità di fede; non tra la gente eccentrica, ma semplicemente tra la gente istruita. E, soprattutto, tra la gente istruita più anziana di me.
+Ma non era in questo che Bedford Park era eccentrica. Non c'era
+nulla di nuovo o strano nel non avere una religione. Il Socialismo, per lo più sul
+piuttosto tappezziero modello di Morris, era una cosa relativamente nuova.
+Il Socialismo, nello stile di Bernard [[Shaw]] e dei Fabiani,
+era una cosa nascente. Ma l'agnosticismo era una cosa stabilita.
+Potremmo quasi dire che l'agnosticismo era una chiesa stabilita.
+C'era un'uniformità di miscredenza, come la richiesta elisabettiana
+di uniformità di credenza; non tra persone eccentriche, ma semplicemente
+tra persone istruite. E, soprattutto, tra le persone istruite
+più vecchie di me.
 
-Vi erano, invero, valorosi atei combattenti. Ma per lo più combattevano qualcos'altro oltre al teismo. Non poteva esservi tipo più virile o valente di loro del mio vecchio amico Archie MacGregor, l'[[Artist|artista]], che combatteva la Guerra Boera. Poiché su questo eravamo d'accordo, stringemmo una forte amicizia; ma perfino in quei giorni mi rendevo conto che il suo ateismo non era realmente rivoluzionario in fatto di morale. Era proprio il contrario. Non era una qualche «nuova [[morality|morale]]», bensì assai decisamente la «vecchia [[morality|morale]]» che egli difendeva contro l'Imperialismo, per il solo motivo che era assassinio e furto. Difendeva contro la nuova etica di Nietzsche la vecchia etica di Naboth. Questo, Mr. Wells e i Fabiani lo videro con tipica lucidità; che i socialisti sentimentali erano incoerenti, nel dire che un contadino non ha diritto a un campo, ma un contadinato ha diritto a un giacimento petrolifero. Mr. Wells non è realmente un pacifista più di quanto sia un militarista; ma l'unica sorta di guerra che egli reputa giusta è l'unica sorta di guerra che io reputo ingiusta. Comunque sia, parlando in generale, è un errore completo supporre che i ribelli i quali denunciavano la Chiesa e la Cappella fossero quelli che denunciavano l'Impero e l'Esercito. Le divisioni si intersecavano; ma correvano principalmente nell'altro senso. Un Pro-Boero combattente come MacGregor era in una minoranza altrettanto esigua tra gli atei quanto tra gli artisti; perfino a Bedford Park. Lo scoprii ben presto, quando emersi nel più vasto mondo degli artisti e dei letterati. Non vi potevano essere due uomini più opposti di Henley e Colvin; e più tardi fui in un certo senso testimone del duello che combatterono sul [[Body|corpo]] morto di Stevenson. Ma erano entrambi ostinati materialisti ed erano entrambi ostinati militaristi. La [[Truth|verità]] è che per la maggior parte degli uomini di quel [[Time|tempo]] l'Imperialismo, o almeno il patriottismo, era un sostituto della religione. Gli uomini credevano nell'Impero Britannico proprio perché non avevano nient'altro in cui credere. Quei fuochi di segnalazione di una insularità imperiale gettarono un bagliore momentaneo sul buio paesaggio dello Shropshire Lad; benché io [[Fear|tema]] che molti [[Innocent|innocenti]] patrioti non percepissero lo scherno volterriano nei versi patriottici: «Genera i figli che generarono i tuoi padri, e Dio salverà la [[Queen|Regina]]». I miei attuali pregiudizi sarebbero soddisfatti dal dire che l'ultima [[Decay|decadenza]] del Protestantesimo prese la forma del Prussianesimo.
+C'erano, in verità, bravi atei combattivi. Ma per lo più combattevano
+qualcos'altro oltre al teismo. Non poteva esserci tipo più
+virile o valoroso di essi del mio vecchio amico Archie MacGregor,
+l'[[Artist|Artista]], che combatteva la Guerra Boera. Poiché concordavamo su questo,
+cademmo in una forte compagnia; ma perfino in quei giorni, mi resi conto
+che il suo ateismo non era davvero rivoluzionario in fatto di morale.
+Era proprio il contrario. Non era una qualche «nuova [[morality|moralità]]»,
+ma assai decisamente la «vecchia [[morality|moralità]]» che egli difendeva
+contro l'Imperialismo, meramente sulla base che era omicidio e furto.
+Difendeva contro la nuova etica di Nietzsche la vecchia etica
+di Nabot. Questo, il signor Wells e i Fabiani videro con tipica lucidità;
+che i Socialisti sentimentali erano incoerenti, nel dire
+che un contadino non ha diritto a un campo, ma un contadinato ha
+diritto a un giacimento di petrolio. Il signor Wells non è davvero un pacifista più
+di quanto sia un militarista; ma l'unica sorta di guerra che egli ritiene giusta
+è l'unica sorta di guerra che io ritengo sbagliata. Comunque, in generale,
+è un completo errore supporre che i ribelli che denunciavano
+la Chiesa e la Cappella fossero quelli che denunciavano l'Impero e l'Esercito.
+Le divisioni si intersecavano; ma tagliavano principalmente nell'altro senso.
+Un Pro-Boero combattivo come MacGregor era in una minoranza altrettanto grande tra
+gli atei quanto tra gli artisti; perfino a Bedford Park. Scoprii presto ciò,
+quando emersi nel più vasto mondo degli artisti e degli uomini di lettere.
+Due uomini non avrebbero potuto essere più opposti di Henley e Colvin;
+e io ero più tardi destinato a essere in un certo senso testimone del duello che essi
+combatterono sul [[Body|corpo]] morto di Stevenson. Ma erano entrambi
+ostinati materialisti ed erano entrambi ostinati militaristi.
+La [[Truth|Verità]] è che per la maggior parte degli uomini in quel [[Time|periodo]] l'Imperialismo,
+o quanto meno il patriottismo, era un sostituto della religione.
+Gli uomini credevano nell'Impero Britannico proprio perché non avevano
+null'altro in cui credere. Quei fuochi di segnalazione di un'insularità
+imperiale gettarono un momentaneo bagliore sul buio paesaggio
+dello Shropshire Lad; benché io [[Fear|tema]] che molti [[Innocent|innocenti]] patrioti
+non percepissero il sogghigno volterriano nei versi patriottici:
+«Generate i figli che i vostri padri generarono, e Dio salverà la [[Queen|Regina]].»
+I miei presenti pregiudizi sarebbero soddisfatti dal dire che l'ultimo
+[[Decay|Decadimento]] del Protestantesimo prese la forma del Prussianesimo.
 
-Ma qui sto descrivendo me stesso quale ero, quando puro e incontaminato da simili pregiudizi. E ciò che desidero attestare, meramente come testimone del fatto, è che lo sfondo di tutto quel mondo non era soltanto l'ateismo, ma l'ortodossia atea, e perfino la rispettabilità atea. Ciò era comune tanto a Belgravia quanto alla Bohème. Ciò era soprattutto normale nella Suburbia; e solo per questa ragione in questo particolare eccentrico sobborgo. In quel sobborgo, il tipo del [[Time|tempo]] non era un uomo come Archie MacGregor bensì un uomo come St. John Hankin. E il punto è che un uomo come St. John Hankin non era eccentrico ma centrico. Era un pessimista, il che è qualcosa di più ateistico di un ateo; era uno scettico fondamentale, cioè un uomo senza fondamenti; era uno che credeva ancor meno nell'Uomo di quanto credesse in Dio; disprezzava la [[democracy|democrazia]] ancor più della devozione; era dichiaratamente privo di entusiasmi di ogni genere; ma in tutto questo era centrico. Era assai vicino al centro della cultura e della [[philosophy|filosofia]] di [[London|Londra]] a quel [[Time|tempo]]. Era un uomo di reale talento; e il [[Memory|ricordo]] di alcune delle sue divertenti parodie letterarie ancora permane. Egli non mi era antipatico, benché lo fosse a molti; ma in un certo senso [[Despair|disperavo]] di lui, come egli disperava di ogni cosa. Ma è del tutto tipico del [[Time|tempo]] che il suo pessimismo riuscisse ad apparire sul Punch; e che, quasi [[Alone|solo]] tra quei costumi artistici laceri o ridicoli o affettati, egli indossasse sempre l'abito da sera. Aveva una bassa opinione del mondo, ma era un uomo di mondo; e specialmente del mondo com'era allora.
+Ma sto qui descrivendo me stesso come ero, quando puro e non inquinato
+da simili pregiudizi. E ciò che voglio attestare, meramente come testimone
+del fatto, è che lo sfondo di tutto quel mondo non era
+meramente ateismo, ma ortodossia atea, e persino rispettabilità atea.
+Ciò era altrettanto comune a Belgravia quanto in Bohème. Ciò era soprattutto
+normale in Suburbia; e solo per quella ragione in questo particolare
+eccentrico sobborgo. In quel sobborgo, il tipo dell'[[Time|epoca]] non era un uomo
+come Archie MacGregor ma un uomo come St. John Hankin. E il punto
+è che un uomo come St. John Hankin non era eccentrico ma centrico.
+Era un pessimista, che è qualcosa di più ateistico di un ateo;
+era uno scettico fondamentale, cioè un uomo senza fondamenti;
+era uno che diffidava dell'Uomo assai più di quanto diffidasse di Dio;
+disprezzava la [[democracy|democrazia]] persino più della devozione; era dichiaratamente
+privo di entusiasmi di ogni sorta; ma in tutto questo era centrico.
+Era assai vicino al centro della cultura e della [[philosophy|filosofia]] di
+[[London|Londra]] in quel [[Time|periodo]]. Era un uomo di reale talento; e la [[Memory|Memoria]]
+di alcune delle sue divertenti parodie letterarie rimane ancora.
+Non mi era antipatico, benché lo fosse a molti; ma in un certo senso [[Despair|disperavo]]
+di lui, come egli disperava di ogni cosa. Ma è del tutto
+tipico del [[Time|periodo]] che il suo pessimismo riuscisse ad apparire su Punch;
+e che, quasi [[Alone|solo]] tra quei laceri o ridicoli o affettati
+costumi artistici, egli indossasse sempre l'abito da sera. Aveva una bassa
+opinione del mondo, ma era un uomo di mondo; e specialmente
+del mondo com'era allora.

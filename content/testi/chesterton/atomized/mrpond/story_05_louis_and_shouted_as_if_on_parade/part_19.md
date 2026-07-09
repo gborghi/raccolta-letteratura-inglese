@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_18">‹ part 18</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_20">part 20 ›</a></div>
@@ -205,3 +207,204 @@ Mrs. Hartog-Haggard spoke she had once again forgotten, for the
 moment, her last cause of complaint.  But she was more excited than
 
 ever; she ducked under the frame of scaffolding and darted into the
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_18">‹ part 18</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_20">part 20 ›</a></div>
+</nav>
+
+operai impiegati nel lavoro; e quando ebbe [[Time|tempo]] di raggiungere il
+
+funzionario responsabile, una teoria si era pienamente formata e indurita nella sua
+
+mente.
+
+«Quell'uomo è un SOCIALISTA, signor Pond,» dichiarò all'orecchio di
+
+quello sventurato funzionario.  «L'ho sentito con le mie stesse orecchie borbottare
+
+qualcosa su cosa avrebbe detto il suo [[Union|Sindacato]].  Cosa fa
+
+così vicino al suo ufficio?»
+
+«Dobbiamo distinguere,» disse il signor Pond.  «Un sindacalista, anche un
+
+sindacalista militante, non è necessariamente un socialista; un
+
+socialista non è necessariamente un pacifista, tanto meno un filotedesco.
+
+A mio avviso, i capi principali della S.D.F. sono i marxisti più
+
+estremi d'Inghilterra; e sono tutti a favore degli Alleati.  Uno dei capi
+
+dello Sciopero dei Docker è dell'umore di tenere discorsi di arruolamento in tutto
+
+l'Impero.»
+
+«Sono sicura che non è inglese; non ha affatto l'aria inglese,» disse
+
+la signora, ancora pensando al suo malvagio proletario di fuori.
+
+«Grazie, signora Hartog-Haggard,» disse Pond, con pazienza.  «Prenderò
+
+certamente nota del suo avvertimento e farò in modo che si conducano
+
+indagini in merito.»
+
+E così fece, con la laboriosa precisione di chi non poteva
+
+lasciare senza guardia alcun varco.  Certamente l'uomo non aveva l'aria molto
+
+inglese; benché forse più scandinava che tedesca.  Il suo nome
+
+era Peterson: era possibile che fosse in realtà Petersen.  Ma
+
+non era tutto.  Il signor Pond aveva appreso l'ultima lezione del saggio:
+
+che lo [[Fool|sciocco]] a volte ha ragione.
+
+Presto dimenticò l'incidente nei dettagli del suo lavoro; e il giorno
+
+dopo fu con un sussulto che alzò lo sguardo dalla sua scrivania, o piuttosto
+
+dalla scrivania del signor Butt che stava usando in quel momento, e vide di
+
+nuovo la patriottica signora aleggiare come un'[[Shadow|ombra]] vendicatrice nel
+
+vano della porta.  Questa [[Time|volta]] scivolò dentro rapida, non fermata da alcuna
+
+barricata socialista, e lo avvertì che aveva notizie del genere
+
+più terribile.  Pareva aver dimenticato tutto delle sue ultime
+
+sospettosità; e, in [[Truth|verità]], le sue nuove erano naturalmente più
+
+importanti per lei.  Questa [[Time|volta]] aveva scaldato la vipera sul proprio
+
+focolare.  Si era d'improvviso resa conto dell'esistenza della
+
+propria istitutrice tedesca, che non aveva mai particolarmente notato prima.
+
+Pond stesso aveva notato la straniera in questione con un po' più di
+
+attenzione; l'aveva vista, una signora tozza dai capelli pallidi, tornare
+
+con le tre bambine e il bambino della signora Hartog-Haggard
+
+dalla pantomima del Gatto con gli Stivali che si dava sul
+
+molo.  Aveva persino udito lei istruire i suoi pupilli, e dire
+
+qualcosa di educativo su una fiaba popolare; e aveva sorriso debolmente a
+
+quel tocco di pedanteria teutonica che parla di fiaba popolare quando
+
+noi parleremmo di favola.  Ma sapeva parecchio della
+
+signora; e non vedeva ragione di muoversi nella faccenda.
+
+«Si chiude in camera per ore e non vuole uscire,»
+
+la signora Hartog-Haggard gli stava già ansimando roca all'orecchio.  «Crede
+
+che stia facendo segnali, o scende per la [[Fire|scala antincendio]]?
+
+Cosa crede che significhi, signor Pond?»
+
+«Isteria,» disse il signor Pond.  «Come, crede che la povera signora
+
+non possa essere isterica, perché non urla facendo tremare la [[house|casa]]?
+
+Ma qualsiasi medico le dirà che l'isteria è per lo più segreta e
+
+silenziosa.  E c'è davvero una vena d'isteria in moltissimi
+
+tedeschi; è all'estremo opposto dell'eccitabilità esteriore
+
+dei latini.  No, signora, non credo che stia
+
+scendendo per la [[Fire|scala antincendio]].  Credo che stia dicendo che i suoi
+
+allievi non l'[[Love|amano]], e pensando al weltschmerz e al [[suicide|suicidio]].
+
+E davvero, povera donna, si trova in una posizione assai difficile.»
+
+«Non viene alle preghiere in famiglia,» proseguì la patriottica matrona,
+
+non lasciandosi distogliere dal suo corso, «perché noi preghiamo per una vittoria
+
+britannica.»
+
+«Farebbe meglio a pregare,» disse il signor Pond, «per tutte le infelici
+
+inglesi bloccate in [[Germany|Germania]] dalla [[Poverty|povertà]] o dal dovere o dalla dipendenza.
+
+Se ella ama la sua terra natia, ciò mostra soltanto che è un essere umano.
+
+Se lo esprime con ostentate assenze o musi o sbattere di
+
+porte, ciò può mostrare che è troppo tedesca.  Mostra anche
+
+che non è granché come spia tedesca.»
+
+Anche qui, tuttavia, il signor Pond ebbe cura di non ignorare né del tutto
+
+disprezzare l'avvertimento; tenne d'occhio l'istitutrice tedesca, e
+
+perfino ingaggiò quella dotta signora in una conversazione con un pretesto banale —
+
+ammesso che qualcosa da lei toccato potesse restare banale.
+
+«Il suo studio del nostro dramma nazionale,» disse gravemente, «deve
+
+talvolta richiamarle alla mente la più grande e nobile opera mai
+
+uscita dalla [[Germany|Germania]].»
+
+«Lei allude al [[Faust]] di Goethe, presumo,» ella replicò.
+
+«Alludo alle Fiabe di Grimm,» disse il signor Pond.  «[[Fear|Temo]] di aver
+
+dimenticato per il momento se la storia che chiamiamo Gatto con gli Stivali
+
+esista nella raccolta di Grimm nella stessa forma; ma sono abbastanza
+
+certo che ne esista qualche variante.  Mi pare sempre press'a poco
+
+la migliore storia del mondo.»
+
+L'istitutrice tedesca lo compiacque con una breve conferenza sul
+
+parallelismo del folklore; e Pond non poté fare a meno di sentirsi debolmente
+
+divertito all'idea di questo trattamento etnologico e scientifico d'una
+
+fiaba popolare che era appena stata presentata sul molo dalla signorina Patsy
+
+Pickles, in luci e vari altri ornamenti, sostenuta da
+
+quel comico di fama mondiale che si faceva chiamare Alberto Tizzi ed era
+
+nato nella Blackfriars [[Road]].
+
+Quando tornò al suo ufficio all'imbrunire, e, voltandosi, scorse
+
+la figura della signora Hartog-Haggard di nuovo aleggiare fuori, il signor Pond
+
+cominciò a credere di essere in un [[nightmare|incubo]].  Si chiese follemente se
+
+ella avesse tratto qualche oscura conclusione dal suo stesso incontro con la
+
+teutonica maestra di gioventù.  Forse anche lui, il signor Pond, era una spia
+
+tedesca.  Ma avrebbe dovuto conoscere meglio la sua vicina; perché quando
+
+la signora Hartog-Haggard parlò aveva ancora una volta dimenticato, per il
+
+momento, il suo ultimo motivo di lagnanza.  Ma era più eccitata che
+
+mai; si chinò sotto l'intelaiatura dell'impalcatura e si precipitò nella

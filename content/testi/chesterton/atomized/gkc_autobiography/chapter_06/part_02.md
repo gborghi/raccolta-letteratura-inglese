@@ -150,16 +150,127 @@ vaguely perhaps, from [[Memory|memory]]:-
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_06/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_06/part_03">part 03 ›</a></div>
 </nav>
 
-Se ho in qualche modo suggerito le modeste virtù del mio gruppo e della mia famiglia di ceto medio, sarà già evidente, lo [[Hope|spero]], che eravamo brutti quanto le inferriate e i lampioni tra i quali passeggiavamo. Voglio dire che il nostro abbigliamento e il nostro arredamento erano ancora intatti da qualsiasi cosa «artistica», nonostante un interesse per l'arte assai decorosamente informato. Eravamo perfino più lontani dalla Bohème che da Belgravia. Quando mia madre diceva che non eravamo mai stati rispettabili, intendeva piuttosto che non eravamo mai stati eleganti, non già che non fossimo mai stati trasandati. In confronto all'estetismo che da allora è strisciato per [[London|Londra]], eravamo tutti quanti decisamente trasandati. E ciò ancor più nella mia stessa famiglia, perché mio padre, mio fratello e io eravamo negligenti riguardo agli aspetti esteriori che ritenevamo normali. Eravamo trascurati nel portare abiti curati. Gli esteti erano curati nel portare abiti trascurati. Io indossavo una giacca comune; era dovuto soltanto a un attrito o a un logorio non premeditato se essa diventava piuttosto una giacca fuori del comune. Il bohémien portava un cappello a falde molli; ma non vi si accasciava dentro. Io mi accasciavo dentro un cilindro; un cappello scandalosamente malandato, ma non concepito per scandalizzare il borghese. Io ero io stesso, in quel senso, interamente borghese. Talvolta quel cappello, o qualcosa come il suo [[Ghost|fantasma]], fa ancora una spettrale ricomparsa, ed è estratto dalla pattumiera o dal banco dei pegni o dal British Museum, per figurare al [[Garden|Garden]]-Party del [[King|Re]]. Certo, potrebbe non essere lo stesso. Il grande originale era senza dubbio più adatto a uno spaventapasseri in un [[Garden|orto]] che a un ospite nel [[Garden|giardino]] di un [[King|re]]. Ma il punto è che noi non pensavamo mai alle mode, o alle convenzioni, con sufficiente serietà né per assecondarle né per sfidarle. Mio padre fu, in cento modi felici e fecondi, un dilettante; ma in nessun modo un dilettantesco. E poiché queste memorie devono riguardare il suo assai meno stimabile discendente, che frequentò per davvero una scuola d'arte, gli sia almeno concesso di vantarsi che, se non riuscì a essere un [[Artist|artista]], non tentò mai di essere un esteta.
+Se ho in qualche modo suggerito le modeste virtù del mio stesso gruppo
+e della mia famiglia della classe media, sarà già ovvio, lo [[Hope|spero]], che eravamo
+brutti quanto le ringhiere e i lampioni tra cui camminavamo.
+Intendo che il nostro abbigliamento e il nostro mobilio erano ancora intoccati da
+qualsiasi cosa «artistica», malgrado un interesse per l'arte abbastanza decorosamente informato.
+Eravamo perfino più lontani dalla Bohème che da Belgravia.
+Quando mia madre diceva che non eravamo mai stati rispettabili, intendeva piuttosto
+che non eravamo mai stati eleganti che non fossimo mai stati sciatti.
+In confronto all'estetismo che è da allora strisciato per [[London|Londra]],
+eravamo tutti noi decisamente sciatti. Lo era ancor più nella mia stessa famiglia,
+perché mio padre e mio fratello e io eravamo negligenti riguardo agli esterni
+che consideravamo normali. Eravamo trascurati nell'indossare abiti curati.
+Gli esteti erano curati nell'indossare abiti trascurati.
+Io indossavo una giacca ordinaria; era dovuto meramente a inintenzionale attrito
+o logorio se essa diveniva una giacca piuttosto straordinaria.
+Il bohémien indossava un cappello a tesa floscia; ma non ci si affloscava dentro.
+Io mi afflosciavo in un cilindro; un pessimo cappello, ma non uno concepito per
+scioccare il borghese. Ero io stesso, in quel senso, interamente borghese.
+Talvolta quel cappello, o qualcosa come il [[Ghost|Fantasma]] di esso,
+fa ancora una spettrale ricomparsa, e viene estratto dalla
+pattumiera o dal banco dei pegni o dal British Museum, per figurare al
+[[Garden|Garden]]-Party del [[King|Re]]. Naturalmente, può non essere lo stesso.
+Il grande originale era di certo più adatto a uno spaventapasseri in un
+[[Garden|orto]] che a un ospite nel [[Garden|giardino]] di un [[King|re]]. Ma il punto
+è che non pensammo mai alle mode, o alle convenzioni,
+abbastanza seriamente né per adempierle né per sfidarle.
+Mio padre era in cento modi felici e fruttuosi un dilettante;
+ma in nessun modo affatto un dilettante da salotto. E poiché questo memoir deve riguardare
+il suo assai meno stimabile discendente, che andò davvero a una scuola d'arte,
+gli sia almeno concesso di vantarsi che, se fallì nell'essere un [[Artist|Artista]],
+non tentò mai di essere un esteta.
 
-In breve, il lettore (se ve n'è) non deve lasciarsi ingannare a questo punto da quella figura falstaffiana in cappello e mantello da brigante, apparsa in molte caricature. Quella figura fu un'opera d'arte più tarda; benché l'[[Artist|artista]] non fosse soltanto il caricaturista; bensì una signora [[Artist|artista]] sfiorata il più lievemente possibile in questa narrazione tanto vittoriana. Quella caricatura commemora soltanto ciò che il genio femminile seppe fare con i materiali meno promettenti. Ma quando ero ragazzo o scapolo, il mio abbigliamento e il mio aspetto erano proprio come quelli di tutti gli altri, solo peggiori. La mia [[Madness|follia]], che era considerevole, era tutta interiore. Ma quella [[Madness|follia]] si muoveva sempre più nella direzione di una qualche vaga e visionaria rivolta contro la prosaica piattezza di una [[City|città]] e di una civiltà ottocentesca; una immaginativa insofferenza per i cappelli cilindrici e le case rettangolari; in breve, quel movimento della mente che ho già associato al Napoleone di Notting [[Hill|Hill]] e all'imperfetto patriota di Clapham. Non ero forse andato più in là del sentimento che coloro i quali erano imprigionati dentro quei profili disumani erano esseri umani; che era una brutta cosa che anime viventi fossero così fiaccamente e crudamente rappresentate da case simili a diagrammi di Euclide mal disegnati, o da strade e ferrovie simili a squallide sezioni di macchinario. Ricordo di aver detto a Masterman, assai presto nella nostra conoscenza, mentre osservavamo le folle affannate riversarsi per i corridoi della Metropolitana verso il ferreo e simbolico Inner Circle, e di aver citato le parole di Kipling sulla corazzata fuori uso:—
+In breve, il lettore (se ce n'è alcuno) non deve essere fuorviato a questo stadio
+da quella figura falstaffiana in cappello e mantello da brigante, che è
+comparsa in molte caricature. Quella figura fu un'opera d'arte più tarda;
+benché l'[[Artist|Artista]] non fosse meramente il caricaturista; ma una [[Artist|Artista]] donna
+sfiorata il più lievemente possibile in questa assai vittoriana narrazione.
+Quella caricatura commemora meramente ciò che il genio femminile poteva fare
+coi materiali più poco promettenti. Ma quando ero ragazzo o scapolo,
+il mio abbigliamento e il mio aspetto erano proprio come quelli di tutti gli altri, solo peggiori.
+La mia [[Madness|Follia]], che era considerevole, era tutta interiore.
+Ma quella [[Madness|Follia]] si muoveva sempre più nella direzione
+di una qualche vaga e visionaria rivolta contro la prosaica piattezza
+di una [[City|città]] e civiltà ottocentesca; un'immaginativa
+impazienza coi cappelli cilindrici e le case rettangolari;
+in breve, quel movimento della mente che ho già associato con
+il Napoleone di Notting [[Hill]] e l'imperfetto patriota di Clapham.
+Non ero forse andato oltre la sensazione che coloro
+imprigionati in questi disumani contorni fossero esseri umani;
+che fosse una brutta cosa che anime viventi fossero così debolmente
+e crudamente rappresentate da case simili a diagrammi di Euclide mal disegnati,
+o strade e ferrovie simili a squallide sezioni di macchinari.
+Ricordo di aver parlato con Masterman, assai presto nella nostra conoscenza,
+mentre osservavamo le folle affannate riversarsi attraverso i passaggi
+della Metropolitana verso la ferrea e simbolica Inner Circle, e di aver citato
+le parole di Kipling sulla corazzata inabile:—
 
-  Poiché non si conviene che gente inglese
-  Dimori nel cuore di un [[Clock|orologio]] a otto giorni
-  La [[Death|morte]] che non possono vedere.
+  Poiché non è giusto che ceppo inglese
+  Debba dimorare nel cuore di un [[Clock|orologio]] da otto giorni
+  La [[Death|Morte]] che essi non possono vedere.
 
-Ma io conservai sempre un vago senso di qualcosa di sacro nella gente inglese, o nella gente umana, che mi separava dal mero pessimismo dell'epoca. Non ho mai dubitato che gli esseri umani dentro le case fossero essi stessi quasi miracolosi; come bambole [[Magic|magiche]] e talismaniche, in qualunque brutta casa di bambole. Per me, quelle scatole di mattoni bruni erano davvero scatole di Natale. Poiché, dopo tutto, i regali di Natale venivano spesso legati in carta bruna; e le realizzazioni dei costruttori raffazzonati in mattoni bruni erano spesso estremamente simili a carta bruna.
+Ma conservai sempre un vago senso di qualcosa di sacro
+nel ceppo inglese, o nel ceppo umano, che mi separava dal
+mero pessimismo del periodo. Non dubitai mai che gli esseri
+umani dentro le case fossero essi stessi quasi miracolosi;
+come bambole [[Magic|magiche]] e talismaniche, in qualunque brutta casa di bambole.
+Per me, quelle scatole di mattoni bruni erano davvero scatole natalizie.
+Poiché, dopo tutto, le scatole natalizie venivano spesso legate in carta bruna;
+e le imprese dei costruttori raffazzonati in mattoni bruni erano spesso
+estremamente simili a carta bruna.
 
-Per riassumere, io accettavo il mio ambiente e il fatto pratico che tutti i cappelli e tutte le case fossero come i nostri cappelli e le nostre case; e che questo cosmo cockney, per quanto un cockney potesse vedere, si stendesse fino ai confini della terra. Per questa ragione, accadde, come un accidente piuttosto determinante, che io vidi per la prima volta come da lontano il primo fantastico segnale di qualcosa di nuovo e ancora ben lungi dall'essere di moda; qualcosa come una nuova toppa di porpora su quella grigia distesa di vie. Non sarebbe notevole oggi, ma era notevole allora. In quei giorni avevo l'abitudine di camminare per distese e cerchie assai ampie di [[London|Londra]]; andavo e tornavo sempre a piedi dalla mia prima scuola d'arte a St. John's Wood; e darà qualche indizio di come [[London|Londra]] sia mutata il dire che comunemente camminavo da Kensington fino alla [[Cathedral|Cattedrale]] di St. Paul, e per gran parte del tragitto in mezzo alla [[Road|strada]]. Un giorno avevo rivolto i miei passi senza meta verso occidente, attraverso i grovigli di Hammersmith Broadway e lungo la [[Road|strada]] che va a Kew, quando svoltai per qualche ragione, o più probabilmente senza ragione, in una via laterale e vagai attraverso la polverosa zolla erbosa in cui correva una ferrovia, e attraverso la ferrovia uno di quei ponti sproporzionatamente alti che scavalcano quelle strette linee ferroviarie come trampoli. Per un culmine di futilità, salii su questo alto e praticamente inutilizzato ponte; era sera, e credo che fu allora che vidi in lontananza, in quel grigio paesaggio, simile a una lacera nube rossa di tramonto, lo strano villaggio artificiale di Bedford Park.
+Per riassumere, accettai il mio ambiente e il fatto pratico che
+tutti i cappelli e le case erano come i nostri cappelli e le nostre case; e che questo
+cosmo Cockney, per quanto un Cockney potesse vedere, si stendeva
+fino alle estremità della terra. Per questa ragione, càpitò, come un piuttosto
+determinante accidente, che vidi per la prima volta come da lontano il primo
+fantastico segnale di qualcosa di nuovo e ancora ben lungi dall'essere alla moda;
+qualcosa come una nuova macchia purpurea su quella grigia distesa di strade.
+Non sarebbe notevole ora, ma era notevole allora.
+In quei giorni avevo l'abitudine di camminare su assai ampie distese
+e cerchi di [[London|Londra]]; camminavo sempre da e verso la mia prima scuola d'arte
+a St. John's Wood; e darà qualche accenno di come [[London|Londra]] sia mutata
+il dire che comunemente camminavo da Kensington alla [[Cathedral|Cattedrale]] di St. Paul,
+e per gran parte del tragitto in mezzo alla [[Road|Strada]].
+Un giorno avevo volto i miei passi senza meta verso ovest, attraverso i grovigli
+di Hammersmith Broadway e lungo la [[Road|Strada]] che va a Kew,
+quando svoltai per qualche ragione, o più probabilmente senza ragione,
+in una via laterale e vagai attraverso il polveroso prato tra cui correva
+una ferrovia, e attraverso la ferrovia uno di quei ponti
+sproporzionatamente alti che scavalcano tali strette linee ferroviarie come su trampoli.
+Per un culmine di futilità, salii fino a questo alto e praticamente
+inutilizzato ponte; era sera, e credo fu allora che vidi in
+lontananza di quel grigio paesaggio, come una lacera nuvola rossa di tramonto,
+lo strano villaggio artificiale di Bedford Park.
 
-È difficile, come ho detto, spiegare come vi fosse allora qualcosa di fantasioso in ciò che ora è così familiare. Quella sorta di pittoresco manifatturiero ora è a stento perfino pittoresco; ma a quel [[Time|tempo]] era addirittura bizzarro. Bedford Park sembrava davvero ciò che in parte pretendeva di essere; una colonia per artisti che erano quasi stranieri; un rifugio per poeti e pittori perseguitati nascosti nelle loro catacombe di mattoni rossi o morenti dietro le loro barricate di mattoni rossi, quando il mondo avesse dovuto conquistare Bedford Park. In quel senso alquanto assurdo, è piuttosto Bedford Park ad aver conquistato il mondo. Oggi, casette modello, case popolari e botteghe artistico-artigiane—domani, per quel che ne so, prigioni e ospizi e manicomi potranno presentare (all'esterno) quel minimo di pittoresco, che allora era considerato la posa assurda di coloro dediti a dipingere quadri. Certo, se all'impiegato di Clapham fosse stata allora davvero presentata una simile casetta fantastica, egli avrebbe potuto pensare che la [[house|casa]] da fiaba fosse in realtà un manicomio. Questo esperimento estetico era assai recente; aveva alcuni elementi di reale indipendenza cooperativa e corporativa; i propri empori e ufficio postale e chiesa e locanda. Ma il tutto era vagamente sotto il patrocinio del vecchio Mr. Comyns-Carr, che non solo era considerato il patriarca o il più anziano abitante, ma in un certo senso il fondatore e padre della repubblica. Non era in realtà così molto vecchio; ma d'altronde la repubblica era assai nuova; molto più nuova della nuova repubblica di Mr. Mallock, benché colma di pettegolezzi filosofici press'a poco della stessa specie, sui quali il patriarca benevolmente sorrideva e rifletteva. Almeno, per citare una frase letteraria allora molto citata, egli era più vecchio delle rocce fra le quali sedeva, o dei tetti sotto i quali sedeva; e potremmo [[Well|ben]] aver mormorato un altro motto contemporaneo, un poco vagamente forse, a [[Memory|memoria]]:—
+È difficile, come ho detto, spiegare come ci fosse allora qualcosa
+di fantasioso in ciò che è ora così familiare. Quel genere di manufatta
+pittoreschezza è ora appena persino pittoresco; ma a quel [[Time|tempo]] era persino strano.
+Bedford Park sembrava davvero ciò che in parte professava di essere;
+una colonia per artisti che erano quasi alieni; un rifugio per poeti
+e pittori perseguitati che si nascondevano nelle loro catacombe di mattoni rossi o morivano dietro
+le loro barricate di mattoni rossi, quando il mondo dovesse conquistare Bedford Park.
+In quel senso alquanto insensato, è piuttosto Bedford Park ad aver
+conquistato il mondo. Oggi, cottage modello, case popolari e
+botteghe d'arte e artigianato — domani, per quanto ne so, prigioni e ospizi
+e manicomi possono presentare (all'esterno) quel minimo di pittoresco,
+che allora era considerato l'assurda posa di coloro dediti
+al dipingere quadri. Di certo, se all'impiegato di Clapham fosse allora
+stato effettivamente presentato un tale fantastico cottage, egli avrebbe potuto
+pensare che la [[house|casa]] da fiaba fosse in realtà un manicomio.
+Questo esperimento estetico era assai recente; aveva alcuni
+elementi di reale indipendenza cooperativa e corporativa;
+i suoi propri magazzini e ufficio postale e chiesa e locanda.
+Ma il tutto era vagamente sotto il patronato del vecchio signor Comyns-Carr,
+che non era solo considerato il patriarca o il più vecchio abitante,
+ma in un certo senso il fondatore e padre della repubblica.
+Non era davvero così molto vecchio; ma d'altronde la repubblica era
+assai nuova; assai più nuova della nuova repubblica del signor Mallock,
+benché piena di pettegolezzo filosofico assai dello stesso genere,
+su cui il patriarca benevolmente irradiava e rimuginava.
+Quanto meno, per citare una frase letteraria allora assai citata, egli era più vecchio
+delle rocce fra cui sedeva, o dei tetti sotto cui sedeva;
+e avremmo [[Well|ben]] potuto mormorare un altro motto contemporaneo, un po'
+vagamente forse, dalla [[Memory|Memoria]]:—

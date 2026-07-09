@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/part/part_30">‹ part 30</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/part/part_32">part 32 ›</a></div>
@@ -161,3 +163,160 @@ and we ourselves can only preserve our solemnity by not going
 near enough to laugh.  That is to make the thing a mere "film"
 on the eyes of official obscurantism; and to give a new secretive
 meaning to the title of "The Screen."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/part/part_30">‹ part 30</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/part/part_32">part 32 ›</a></div>
+</nav>
+
+_XXXI I film_
+
+È giunto il [[Time|momento]] di protestare contro certi pericoli assai [[Grave|gravi]] nel
+cinema e nei film popolari. Non intendo il pericolo dei film immorali,
+ma il pericolo di quelli morali. Ho, in verità, una precisa obiezione
+ai film immorali, ma diventa sempre più difficile discutere
+di una precisa [[morality|moralità]] con persone la cui stessa immoralità è indefinita.
+E, del resto, i film semplicemente di bassa lega mi paiono assai più
+morali di molti di quelli di alta lega. La pura pantomima da farsa,
+le comiche del crollo rovinoso e del capovolgimento sociale sono, semmai,
+decisamente salutari per l'[[Soul|anima]]. Vedere un banchiere o un agente di cambio o un prospero
+uomo d'affari correre dietro al proprio cappello, scacciato a pedate dalla propria [[house|casa]],
+scaraventato dalla cima di un grattacielo, appeso per una gamba a un aeroplano,
+messo nel mangano, spianato da un rullo compressore, o [[Suffering|soffrire]]
+un qualsiasi simile rovescio di fortuna, tende di per sé piuttosto all'edificazione;
+al senso della precarietà delle cose terrene e della follia
+di quell'[[Pride|orgoglio]] che si fonda sull'accidente della prosperità.
+Ma i film di cui mi lamento non sono quelli in cui persone celebri
+o alla moda diventano buffe e prive di dignità, bensì quelli in
+cui diventano fin troppo dignitose e buffe solo involontariamente.
+
+A questo riguardo, è specialmente il film educativo
+che minaccia di ottenebrare e indebolire l'intelligenza umana.
+Non intendo il film educativo nel senso tecnico o
+scientifico; la presentazione dei particolari precisi
+di qualche scienza o ramo di studio. In queste materie [[Innocent|innocenti]],
+persino l'[[Education|istruzione]] può fare relativamente poco danno al cervello umano.
+Vi sono, per esempio, alcuni film davvero deliziosi,
+che trattano dell'esplorazione e degli aspetti locali della biologia o della botanica.
+Nulla potrebbe essere più graziosamente fantasioso di una simile [[history|storia]] naturale;
+specialmente quando i suoi mostri sembrano gareggiare con lo Snark
+o con i Jumblies, e diventano figure di [[history|storia]] innaturale.
+Ma in quella sorta di [[history|storia]] innaturale non vi è nulla di innaturale.
+Gli Amori dei Pinguini sono senza dubbio tanto puri quanto gli Amori dei
+Triangoli; e vedere un film davvero pregevole in cui un elefante
+per gioco fa a pezzi quattro o cinque fiorenti città industriali
+o avamposti imperiali non fa che realizzare un sogno a occhi aperti già caro a ogni
+sano istinto umano. Dove il vero pericolo comincia a comparire
+non è nella [[history|storia]] naturale, ma nella [[history|storia]]. È nella vicenda
+di quei loquaci e inventivi pinguini di cui il signor Anatole France
+scrisse nel racconto di quella terribile e incalcolabile creatura,
+che è tanto più spietata e devastatrice del più selvaggio
+elefante solitario, giacché non distrugge le città industriali,
+ma le costruisce.
+
+In breve, è in rapporto alla vicenda dell'Uomo, il [[Monster|mostro]]
+di tutti i mostri e il mistero di tutti i misteri, che la nostra
+[[history|storia]] naturale può diventare innaturale nel senso pericoloso.
+E tutti sanno che il modo più comune in cui la [[history|storia]] può
+crescere storta, o diventare innaturale, è attraverso la faziosità e il pregiudizio,
+e il [[Desire|desiderio]] di trarre una morale troppo semplice da un solo lato
+della questione. Ora, è proprio qui che i film di maggior successo
+corrono il rischio di diventare in realtà antieducativi, pur professandosi
+in larga parte educativi. A questo riguardo, sarà [[Well|bene]]
+richiamare due o tre fatti determinanti della situazione generale
+della società e delle arti di oggi. Il primo fatto da comprendere è questo:
+che solo poco tempo fa i pregiudizi più ottusi
+della [[history|storia]] provinciale cominciavano a diventare un po' logori.
+Gli uomini avrebbero ancora preso, come avevano diritto di prendere,
+il proprio partito secondo le proprie simpatie. Ma cominciavano
+a rendersi conto che la [[history|storia]] è fatta di esseri umani,
+e non di eroi e furfanti usciti da un vecchio [[Melodrama|melodramma]] dell'Adelphi.
+Che gli uomini fossero pro o contro [[Queen Elizabeth|la regina Elisabetta]], cominciavano davvero
+a capire che ella era qualcosa di un po' più complesso
+della buona [[Queen|regina]] Bess; e che perfino la sua sventurata sorella si trovava in una situazione
+non del tutto semplificabile con l'uso di un'imprecazione popolare,
+come in Maria la Sanguinaria.
+
+Si cominciava ad ammettere che la grande contesa del Seicento,
+quella sul se l'Inghilterra dovesse essere una Monarchia o un'Aristocrazia,
+non potesse essere adoperata semplicemente per dimostrare che Cromwell non fu
+mai altro che un santo, né Carlo I mai altro che un martire.
+Questo grande mutamento in meglio era in larghissima misura connesso al tramonto
+del vecchio sistema bipartitico. C'era stato un [[Time|tempo]] in cui alla gente
+si diceva di scegliere, non tanto fra Gladstone e Disraeli,
+quanto fra una figura popolare che non era Gladstone e un'altra figura
+popolare che non era Disraeli. Il guardingo Vecchio Uomo di Parlamento,
+con le sue tradizioni tory del Movimento di [[Oxford]], veniva rappresentato
+come un idealista rivoluzionario e scatenato, che dappertutto pretendeva
+che i cieli precipitassero, purché si compisse qualche giustizia utopica.
+Il cinico avventuriero cosmopolita, con la sua romantica devozione
+a Israele e il suo aperto disprezzo per il comune punto di vista
+conservatore, veniva lodato come un gioviale gentiluomo di campagna inglese,
+innocentemente appassionato di raccolti che consistevano soprattutto in primule.
+Queste fatue finzioni elettorali cominciavano a dissolversi;
+in parte per una reazione verso le biografie piuttosto acide di Lytton Strachey,
+in parte per un più sano e liberale interesse storico
+verso personaggi storici che erano davvero esseri umani molto interessanti.
+E poi, quando la [[Truth|verità]] cominciava a trapelare nei libri,
+e persino nei giornali, tutta quella luce fu cancellata da un grande
+e alla moda film, astutamente scritto e brillantemente interpretato,
+in cui Disraeli riappariva ancora una volta come l'Inglese di Dio ricoperto di
+primule e spirante l'[[Innocent|innocente]] patriottismo dei nostri campi natii.
+
+Il secondo fatto da tenere a mente è un certo privilegio quasi analogo
+al monopolio, che appartiene per necessità a cose come il teatro
+e il cinema. In un senso più che metaforico, essi riempiono
+la scena; la dominano; creano il paesaggio.
+Ecco perché non occorre essere puritani per insistere su una
+responsabilità un po' più rigorosa in ogni sorta di recitazione
+che nella materia più sciolta e meno figurativa della letteratura.
+Se un uomo è respinto da un libro, può chiuderlo e aprirne un altro;
+ma non può chiudere un teatro in cui trova ripugnante uno spettacolo,
+né ordinare all'istante a uno dei mille altri teatri di adattarsi al suo gusto.
+Il numero dei teatri è limitato; e persino ai cinema
+c'è qualche limite. Di qui un pericolo reale che la falsità
+storica venga popolarizzata attraverso il film, perché non c'è
+la normale possibilità che un film sia corretto da un altro film.
+Quando compare un libro che espone un dubbio ritratto della [[Queen Elizabeth|regina Elisabetta]],
+generalmente si scoprirà che una mezza dozzina di altri studiosi di storia
+sono indotti a pubblicare altrettante versioni della [[Queen Elizabeth|regina Elisabetta]] nel
+medesimo momento. Possiamo comprare il libro del signor Belloc su Cromwell, e poi
+il libro del signor Buchan su Cromwell; e pagare il nostro denaro e fare la nostra scelta.
+Ma pochi di noi sono in condizione di sborsare il denaro necessario a mettere in scena
+una completa ed elaboratamente allestita versione filmica alternativa di Disraeli.
+La finzione sulla pellicola, la versione di parte nella commedia cinematografica,
+resterà incontraddetta e persino incriticata, in un modo in cui pochi
+libri provocatori possono davvero restare incontraddetti e incriticati.
+Non ci sarà occasione di affrontarla sul suo vasto
+[[Battlefield|campo di battaglia]] di scenografia dispendiosa e moltitudinosa ripetizione.
+E la maggior parte di coloro che ne sono influenzati saprà o si curerà ben poco
+del fatto che essa sia chiamata a render conto da altri critici e altri metodi critici.
+La stessa frase che ho usato con noncuranza, «chiamata a render conto»,
+illustra il punto. Un film falso potrebbe essere confutato in cento libri,
+senza per questo influire molto sul milione di illusi che non avevano mai letto
+i libri, ma soltanto visto il film. La protesta merita di essere sollevata,
+perché il pregiudizio provinciale di questa specie è terribilmente pericoloso
+nell'attuale problema internazionale del momento. È perfettamente
+naturale che le nazioni abbiano un'arte patriottica, e persino, entro certi limiti,
+un'[[Education|educazione]] patriottica. Essa insegna naturalmente alla gente, e specialmente ai giovani,
+a essere fieri dei grandi eroi della loro grande [[history|storia]];
+e a concepire il proprio passato in una sorta di modo poetico, come leggende.
+Ma è proprio qui che possiamo mettere alla prova la differenza fra una leggenda
+e una menzogna. I contorni di un vero [[Hero|eroe]], come Nelson o Sarsfield,
+non si alterano quando la figura viene riempita, negli stadi più maturi
+della conoscenza, dai fatti relativi ai suoi fallimenti, alle sue debolezze o ai suoi limiti.
+L'[[Hero|eroe]] rimane un [[Hero|eroe]]; sebbene il [[Child|fanciullo]], ormai cresciuto,
+sappia che un [[Hero|eroe]] è un uomo. Ma la figura del fittizio
+Beaconsfield non reggerà l'intrusione del vero Disraeli.
+Sarebbe distrutta da tutto ciò che vi era di più interessante
+in Disraeli; persino da tutto ciò che vi era di più genuino in Disraeli.
+Un fantoccio di quella specie non giova affatto al credito o alla gloria nazionale;
+tutti gli stranieri ne ridono, sapendone più di noi;
+e noi stessi possiamo conservare la nostra solennità soltanto non avvicinandoci
+abbastanza da metterci a ridere. È come stendere un mero «velo»
+sugli occhi dell'oscurantismo ufficiale; e dare un nuovo significato reticente
+al titolo di «Lo Schermo».

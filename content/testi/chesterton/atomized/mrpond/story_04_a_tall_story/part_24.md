@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story">Story 04 A Tall Story</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_23">‹ part 23</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_25">part 25 ›</a></div>
@@ -215,3 +217,214 @@ finished the business; and it's all over here."
 "that it's only just going to begin."
 
 There was another [[Silence|silence]] of growing [[Mystification|mystification]], like the
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story">Story 04 A Tall Story</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_23">‹ part 23</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_04_a_tall_story/part_25">part 25 ›</a></div>
+</nav>
+
+"[[Hope|Spero]] che non siate in disaccordo con questa mia seconda precauzione."
+
+"No; credo che anche quella sia una precauzione assai sensata; benché [[Hope|speri]]
+
+che non ci sia alcuna possibilità che qualcuno azzecchi la scatola giusta, foss'anche per
+
+caso." [[Hubert]] Wotton corrugò un attimo la fronte alla fiamma ravvivata e
+
+alle scintille danzanti, poi disse cupamente: "Questo è più o meno il [[Time|momento]]
+
+in cui, a Natale, la gente va alla pantomima. O, quantomeno,
+
+al cinema."
+
+Il signor Pond annuì; parve còlto d'un tratto da un accesso di
+
+astrazione. Alla fine disse:
+
+"Talvolta mi [[Wonder|domando]] se le cose non fossero migliori quando i quadri
+
+erano i quadri nel [[Fire|fuoco]], invece dei quadri sulla
+
+pellicola."
+
+Sir [[Hubert]] Wotton suggerì burberamente, in modo generico, che il
+
+fioco [[Fire|fuoco]] di una Sala d'Attesa di Terza Classe non era di quelli in cui
+
+avrebbe preferito cercare quadri.
+
+"I quadri del [[Fire|fuoco]], come i quadri delle nuvole," proseguì il signor Pond,
+
+"sono incompleti quanto basta per chiamare l'[[Imagination|immaginazione]] a completarli.
+
+Del resto," aggiunse, attizzando allegramente il [[Fire|fuoco]], "puoi
+
+ficcare un attizzatoio tra i carboni e romperli in un quadro
+
+diverso; mentre, se cacci una gran pertica attraverso lo schermo
+
+perché non ti piace la faccia di una diva del cinema, sono guai
+
+d'ogni sorta."
+
+Dyer, che era uscito impettito sul binario durante questo
+
+interludio fantasioso, tornò in quel momento con notizie assai
+
+pratiche. Esplorando molte gallerie e battendo molti
+
+binari di quel labirintico nodo, aveva scoperto che davvero
+
+esisteva un remoto buffet, in cui era possibile
+
+consumare una sorta di pranzo; il che era stato un tacito problema per tutti e
+
+tre i funzionari coinvolti.
+
+"Io resto su questo binario," disse; "anzi, resterò su
+
+questo binario tutta la [[Night|notte]] se necessario. È il mio compito preciso.
+
+Ma voi andate prima a pranzare e tornate; e vedrò se
+
+poi riuscirò a mangiare qualcosa anch'io. Non curatevi dei treni; ho
+
+sistemato tutto; e, comunque, sarò qui quando verrà l'unico
+
+possibile momento di pericolo."
+
+In effetti, le sue ultime parole furono quasi coperte dal fremito e dal fragore
+
+dell'arrivo del primo treno. Videro tutti i sacchi postali e
+
+le scatole e i pacchi debitamente scaricati sul binario; e allora Wotton, uomo
+
+di abitudini regolari, che cominciava a sentire un certo languorino,
+
+fu facilmente persuaso da Dyer ad accettare la sua proposta e ad andare
+
+in cerca di un boccone. Wotton e Pond sbrigarono il loro piuttosto
+
+magro pranzo con ragionevole rapidità; ma ebbero comunque motivo di
+
+affrettare il passo appena giunsero in vista del loro stesso
+
+binario di partenza; poiché un treno, che era a quanto pareva il secondo
+
+treno, cominciava a muoversi e a sbuffare fuori dalla stazione; e quando
+
+raggiunsero il compagno, il binario era già spoglio.
+
+"Tutto al sicuro," disse Dyer, con soddisfazione. "Ho visto io stesso caricare
+
+nel vagone tutte le scatole e le cose; e nessuno è venuto qui a interferire
+
+con esse. Il grosso dei nostri guai è ormai passato; e non mi
+
+dispiacerebbe pranzare un po' anch'io."
+
+Sorrise loro, fregandosi le mani in aria di congratulazione;
+
+e mentre si volgeva verso i passaggi sotterranei, essi si volsero
+
+di nuovo con l'intenzione di rientrare nella cava e fumosa
+
+cella della sala d'attesa.
+
+"Sembra proprio che non ci sia più nulla da fare qui,"
+
+disse Wotton. "Il che accresce piuttosto la gelida futilità di questo
+
+baraccone."
+
+"Lo considero un vero trionfo natalizio," disse il signor Pond, con
+
+immutata allegria, "l'esser riusciti a tener acceso il [[Fire|fuoco]],
+
+nonostante tutto. . . . Ma guarda, credo abbia cominciato a [[Snow|nevicare]]."
+
+Da un po' di [[Time|tempo]] avevano notato che il pomeriggio, già oscurandosi
+
+verso la precoce sera d'[[Winter|inverno]], aveva qualcosa di quella livida
+
+luce verdastra che spesso avvampa sotto il carico delle nubi di [[Snow|neve]]; un
+
+nevischio cominciò a cadere mentre percorrevano il binario apparentemente
+
+interminabile; e nel [[Time|tempo]] in cui raggiunsero l'austera
+
+sala d'attesa, il tetto e la soglia erano spolverati d'argento. Il
+
+[[Fire|fuoco]] ardeva vivace all'interno; Dyer aveva evidentemente tenuto
+
+sé stesso al caldo.
+
+"È diabolicamente strano," disse Wotton, "ma tutto quanto comincia davvero
+
+ad assomigliare a una cartolina di Natale. La nostra tetra salle
+
+d'attente sarà presto una [[Parody|parodia]] della casetta di Babbo Natale in una
+
+pantomima."
+
+"L'intera faccenda è come la [[Parody|parodia]] di una pantomima," disse Pond in tono
+
+più basso e più turbato, "e, come dite voi, è molto strana."
+
+Dopo una pausa, Wotton aggiunse bruscamente:
+
+"Cosa vi preoccupa, Pond?"
+
+"Mi interrogo, più che preoccuparmi," rispose Pond, "su esattamente
+
+cosa FAREBBE un uomo per intercettare o dirottare quella scatola, in un luogo
+
+come questo, senza penne né nulla. . . . Certo, non c'è
+
+granché in ciò; potrebbe avere una stilografica o una matita."
+
+"Oh, avete già risolto tutto ciò; sembrate fissato con le matite," disse
+
+Wotton spazientito. "Viene dal blu-matitare in eterno quelle
+
+vostre bozze senza fine."
+
+"Non sarebbe una matita blu," disse Pond, scuotendo il capo. "Pensavo
+
+a qualcosa di più simile a una matita rossa; che segnerebbe
+
+molto nero, in verità. Ma ciò che mi turba è che c'è sempre
+
+più modi di fare qualsiasi cosa di quanti se ne immaginino, persino in un luogo come
+
+questo."
+
+"Ma avete già bloccato tutto ciò," insistette l'altro; "con quella
+
+telefonata che avete fatto."
+
+"[[Well|Beh]]," disse Pond ostinato, "e cosa farebbero allora; se
+
+sapessero che ho telefonato?"
+
+Wotton parve perplesso; e Pond sedette in [[Silence|silenzio]], attizzando il
+
+[[Fire|fuoco]] e fissandolo.
+
+Dopo un [[Silence|silenzio]] disse bruscamente: "Vorrei che Dyer fosse tornato."
+
+"A cosa vi serve adesso?" chiese l'amico. "Direi
+
+che si è guadagnato un pranzo tardivo. Per quanto vedo, ha
+
+concluso l'affare; e qui è tutto finito."
+
+"[[Fear|Temo]]," disse Pond, senza togliere il capo dal camino,
+
+"che stia solo per cominciare."
+
+Vi fu un altro [[Silence|silenzio]] di crescente [[Mystification|smarrimento]], come il

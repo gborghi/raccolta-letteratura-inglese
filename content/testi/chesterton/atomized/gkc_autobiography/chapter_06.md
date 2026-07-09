@@ -762,73 +762,726 @@ that the bridge in St. James's Park can frighten you a good deal.
 
 VI
 
-IL SOBBORGO FANTASTICO
+IL FANTASTICO SOBBORGO
 
-Quando ero un giovane giornalista al Daily News, scrissi in un articolo o nell'altro la frase: «Clapham, come ogni altra [[City|città]], è costruita sopra un vulcano». Quando aprii il giornale il giorno dopo, mi trovai davanti le parole: «Kensington, come ogni altra [[City|città]], è costruita sopra un vulcano». Non aveva importanza, naturalmente, ma io rimasi un poco perplesso e lo accennai al mio immediato superiore in redazione, come se si trattasse d'un capriccio di qualche estroso compositore. Ma egli mi guardò torvo, in modo greve e risentito, che [[Alone|da solo]] basterebbe a confessare una [[Guilt|colpa]], se [[Guilt|colpa]] vi fosse, e disse piuttosto imbronciato: «Perché mai dovrebbe essere Clapham?». E poi, come gettando la maschera: «[[Well|Ebbene]], io abito a Clapham». Ed egli, sapendo che io abitavo a Kensington, aveva amaramente trasferito a quel regio borgo ciò che immaginava fosse un insulto.
+Quand'ero un giovane giornalista al Daily News, scrissi in qualche
+articolo o l'altro la frase: «Clapham, come ogni altra [[City|città]],
+è costruita su un vulcano.» Quando aprii il giornale il giorno dopo, trovai
+le parole che mi fronteggiavano: «Kensington, come ogni altra [[City|città]],
+è costruita su un vulcano.» Non aveva importanza, s'intende, ma io
+ero un po' perplesso e lo menzionai al mio immediato superiore
+in ufficio, come se fosse un capriccio di un fantasioso compositore.
+Ma egli mi fulminò con lo sguardo in modo pesante e risentito, il che
+[[Alone|già di per sé]] sarebbe una confessione di [[Guilt|Colpa]], se ci fosse una qualche [[Guilt|Colpa]],
+e disse piuttosto imbronciato: «Perché dovrebbe essere Clapham?» E poi,
+come gettando via la maschera: «[[Well|Ebbene]], io abito a Clapham.»
+Ed egli, sapendo che io abitavo a Kensington, aveva amaramente trasferito
+a quel regale borgo ciò che immaginava fosse un dileggio.
 
-«Ma io stavo glorificando Clapham!», esclamai pateticamente, «la mostravo come epica ed elementare e fondata nella fiamma sacra». «Ti credi spiritoso, eh?», disse. «Credo di aver ragione», dissi io, avanzando quella modesta pretesa non per l'ultima [[Time|volta]]; e allora, non per l'ultima ma forse per la prima [[Time|volta]], la terribile [[Truth|verità]] mi si affacciò alla mente.
+«Ma io stavo glorificando Clapham!» esclamai pateticamente, «La
+mostravo come epica ed elementare e fondata nella santa fiamma.»
+«Ti credi spiritoso, vero?» disse. «Credo di avere ragione,»
+dissi, avanzando quella modesta pretesa non per l'ultima [[Time|volta]]; e poi,
+non per l'ultima ma forse per la prima [[Time|volta]], la terribile [[Truth|Verità]]
+mi si fece luce.
 
-Se in un villaggio basco o in una cittadina bavarese dicessi che il luogo è romantico, qualcuno potrebbe trarne la spaventosa deduzione che tu sia un [[Artist|artista]], e perciò forse un pazzo; ma nessuno avrebbe particolare ragione di [[Doubt|dubitare]] che il pazzo intendesse proprio ciò che diceva. Ma il cittadino di Clapham non poteva credere che io intendessi ciò che dicevo. Il patriota di Clapham non poteva trovare credibile o concepibile che una qualsiasi osservazione su Clapham potesse essere altro che uno scherno verso Clapham. Non riusciva nemmeno a pronunciare la parola in modo che la prima sillaba di «Clapham» suonasse come l'ultima sillaba di «thunderclap». Restava del tutto velata al suo sguardo la Clapham visionaria, la Clapham vulcanica, ciò che mi sia consentito collocare sulla mappa cosmica come Thunderclapham. Gli assicurai più e più volte, quasi con le [[Tears|lacrime]] agli occhi, che simpatizzavo calorosamente con qualunque sensibile sentimento egli potesse nutrire, se era davvero fiero di Clapham. Ma quello era appunto l'orribile segreto. Non era fiero di Clapham. Il patriota di Clapham si vergognava di Clapham.
+Se dicessi in un villaggio basco o in una cittadina bavarese che il luogo
+era romantico, alcuni potrebbero trarre la spaventosa deduzione che voi foste
+un [[Artist|Artista]], e perciò forse un pazzo; ma nessuno avrebbe
+alcuna particolare ragione di [[Doubt|dubitare]] che il pazzo intendesse ciò che diceva.
+Ma il cittadino di Clapham non poteva credere che io intendessi ciò che dicevo.
+Il patriota di Clapham non poteva trovare credibile o concepibile che
+un qualunque commento su Clapham potesse essere alcunché se non un sogghigno verso Clapham.
+Non riusciva neppure a pronunciare la parola in modo che la prima sillaba di «Clapham»
+suonasse come l'ultima sillaba di «thunderclap» [tuono]. Del tutto velata
+alla sua vista era la Clapham visionaria, la Clapham vulcanica,
+ciò che mi sia concesso di apporre sulla mappa cosmica come Thunderclapham.
+Gli assicurai più e più volte, quasi con le [[Tears|Lacrime]], che simpatizzavo
+calorosamente con qualunque sentimento sensibile egli potesse avere, se davvero
+era orgoglioso di Clapham. Ma era esattamente quello l'orribile segreto.
+Non era orgoglioso di Clapham. Il patriota di Clapham si vergognava di Clapham.
 
-Quel giornalista di Clapham, che mi guardò torvo, è stato il problema della mia vita. Mi ha perseguitato a ogni svolta e ad ogni angolo come un'[[Shadow|ombra]], come fosse un ricattatore o un assassino. Fu contro di lui che schierai gli sciocchi alabardieri da pantomima di Notting [[Hill|Hill]] e tutto il resto. In altre parole, tutto ciò che ho pensato e fatto è nato originariamente da quel problema che a me pareva un [[Paradox|paradosso]]. Dovrò riferirmi a molti problemi in queste pagine, se esse devono essere pagine veritiere; e dare uno sguardo a soluzioni con alcune delle quali il lettore potrà concordare, con altre delle quali potrà dissentire con grande veemenza. Ma gli chiederò di ricordare per tutto il tempo che questo fu per me il problema primario, certamente nell'ordine del [[Time|tempo]] e in gran parte nell'ordine della [[logic|logica]]. Era il problema di come si potessero indurre gli uomini a rendersi conto della [[Wonder|meraviglia]] e dello splendore dell'essere vivi, in ambienti che la loro stessa quotidiana critica trattava come morti-vivi, e che la loro [[Imagination|immaginazione]] aveva abbandonato come morti. È normale per un uomo vantarsi, se può, o perfino quando non può, di essere cittadino di una [[City|città]] non spregevole. Ma questi uomini si erano davvero rassegnati a essere cittadini di città spregevoli; e da ogni lato intorno a noi le città spregevoli si stendevano lontano oltre l'orizzonte; spregevoli nell'architettura, spregevoli nel costume, spregevoli perfino nei modi; ma, ciò che era l'unica cosa che davvero contava, spregevoli nella concezione immaginativa dei loro stessi abitanti. Queste città spregevoli si supponeva pure fossero le parti componenti di una grandissima [[City|città]]; ma nei pensieri della maggior parte degli uomini moderni, la grande [[City|città]] è divenuta una generalizzazione giornalistica, non più immaginativa e quasi del tutto immaginaria. D'altra parte, il modo di vita moderno, che pretende soltanto di essere prosaico, premeva su di loro giorno e [[Night|notte]] ed era il vero plasmatore delle loro menti. Questo, dico a guisa di guida o indicazione preliminare, fu ciò che originariamente mi condusse verso certi gruppi o movimenti e lontano da altri.
+Quel giornalista di Clapham, che mi fulminò con lo sguardo, è stato il problema
+della mia vita. Mi ha perseguitato a ogni svolta e a ogni angolo come un'[[Shadow|Ombra]],
+come se fosse un ricattatore o un assassino. Fu contro di lui
+che schierai i buffi alabardieri da pantomima di Notting [[Hill]]
+e tutto il resto. In altre parole, tutto ciò che ho pensato e fatto
+crebbe originariamente da quel problema che mi pareva un [[Paradox|Paradosso]].
+Dovrò riferirmi a molti problemi in queste pagine, se devono essere
+pagine veritiere; e accennare a soluzioni con alcune delle quali
+il lettore può concordare, con alcune delle quali può assai violentemente dissentire.
+Ma gli chiederò di ricordare per tutto il tempo che questo era il primo
+problema per me, di certo in ordine di [[Time|tempo]] e in gran parte in ordine di [[logic|logica]].
+Era il problema di come si potesse indurre gli uomini a rendersi conto della [[Wonder|Meraviglia]]
+e dello splendore dell'essere vivi, in ambienti che la loro stessa
+critica quotidiana trattava come mezzi morti, e che la loro [[Imagination|Immaginazione]]
+aveva lasciato per morti. È normale per un uomo vantarsi, se può,
+o anche quando non può, di essere cittadino di una [[City|città]] non spregevole.
+Ma questi uomini si erano davvero rassegnati a essere cittadini
+di città spregevoli; e da ogni lato di noi le città spregevoli si stendevano
+lontano oltre l'orizzonte; spregevoli nell'architettura, spregevoli nel costume,
+spregevoli persino nei modi; ma, ciò che era l'unica cosa che davvero importava,
+spregevoli nella concezione immaginativa dei loro stessi abitanti.
+Queste città spregevoli si supponeva in verità fossero le parti componenti
+di una assai grande [[City|Città]]; ma nei pensieri della maggior parte della gente moderna,
+la grande [[City|Città]] è divenuta una generalizzazione giornalistica, non più
+immaginativa e quasi immaginaria. D'altra parte, il moderno
+modo di vita, professandosi solo prosaico, premeva su di loro giorno
+e [[Night|notte]] ed era il vero plasmatore delle loro menti. Questo, dico
+a mo' di guida o direzione preliminare, era ciò che originariamente mi
+condusse in certi gruppi o movimenti e lontano da altri.
 
-Ciò che veniva chiamato il mio medievalismo era semplicemente il fatto che io ero molto interessato al significato storico di Clapham Common. Ciò che veniva chiamato la mia avversione per l'Imperialismo era un'avversione a fare dell'Inghilterra un Impero, nel senso di qualcosa di più simile a Clapham Junction. Poiché la mia visionaria Clapham consisteva di case ferme al loro posto; e non di camion e treni che sferragliavano di passaggio; e io non volevo che l'Inghilterra fosse una specie di guardaroba o di [[house|stanza]] di smistamento per bagagli etichettati come esportazioni e importazioni. Volevo cose inglesi autentiche che nessun altro potesse importare e che noi godevamo troppo per esportarle. E questo era presente perfino nell'ultima e più contestata fase del mutamento. Giunsi ad ammettere che una qualche sorta di universalità, un'altra sorta di universalità, sarebbe stata necessaria prima che simili luoghi potessero davvero diventare santuari o siti sacri. In breve, conclusi alla fine, a torto o a ragione, che Clapham non poteva ormai essere resa mistica dalla Setta di Clapham. Ma lo dico col più grande rispetto per quel vecchio gruppo di filantropi, che si dedicarono alla causa dei negri lontani; la setta che tanto fece per liberare l'Africa; la Setta di Clapham, che tanto poco fece per liberare Clapham.
+Ciò che si chiamò il mio medievalismo era semplicemente che ero assai
+interessato al significato storico di Clapham Common. Ciò che si
+chiamò la mia avversione all'Imperialismo era un'avversione a fare dell'Inghilterra
+un Impero, nel senso di qualcosa di più simile a Clapham Junction.
+Poiché la mia stessa visionaria Clapham consisteva di case che stavano ferme;
+e non di carri e treni che sferragliavano; e non volevo
+che l'Inghilterra fosse una sorta di guardaroba o [[house|deposito]] di smistamento per bagagli
+etichettati esportazioni e importazioni. Volevo vere cose inglesi che
+nessun altro potesse importare e che godevamo troppo per esportarle.
+E ciò era presente perfino nell'ultima e più contestata fase del mutamento.
+Giunsi ad ammettere che una qualche sorta di universalità, un'altra sorta
+di universalità, sarebbe stata necessaria prima che tali luoghi potessero davvero
+diventare santuari o siti sacri. In breve, conclusi infine,
+a torto o a ragione, che Clapham non poteva ora essere resa mistica
+dalla Setta di Clapham. Ma lo dico col più grande rispetto per quel
+vecchio gruppo di filantropi, che si dedicarono alla causa
+dei remoti negri; la setta che fece tanto per liberare l'Africa;
+la Setta di Clapham, che fece così poco per liberare Clapham.
 
-Ora è essenziale rendersi conto di un fatto che segue all'ombrosa [[Epic|epopea]] di Clapham e Kensington; quella storia di due città. È necessario insistere che, in quei giorni, quando Clapham era Clapham, [[London|Londra]] era Clapham; anzi, Kensington era Clapham. Voglio dire che, a quella particolare data, l'aspetto generale di [[London|Londra]] era più piatto e prosaico di quanto sia adesso. Vi erano invero begli angoli di architettura georgiana e Regency in molte parti di [[London|Londra]], e in nessun luogo più che a Kensington. Ve ne sono ancora alcuni. Ma benché vi fosse qualche traccia dei movimenti più antichi nell'arte, non ve n'era ancora nessuna dei nuovi. Morris era spuntato qua e là come un'eruzione cutanea, in forma di carte da parati; ma la fase più scialba del morto vittorianismo era nella maggior parte delle carte da parati e in quasi tutte le pareti. Ma [[London|Londra]] era già impensabilmente vasta, in confronto ai suoi pochi ultimi resti di eleganza settecentesca o ai suoi primi fiochi segnali di rinascita estetica. E quell'enorme cosa era una cosa orrenda, nell'insieme. Il paesaggio di [[London|Londra]] era fatto di case dal petto piatto, finestre spente, brutti lampioni di ferro e volgari cassette postali vermiglie; e, per ora, di ben poco altro.
+Ora è essenziale rendersi conto di un fatto conseguente all'ombroso
+[[Epic|Epos]] di Clapham e Kensington; quel racconto di due città.
+È necessario insistere che in quei giorni, quando Clapham
+era Clapham, [[London|Londra]] era Clapham; anzi, Kensington era Clapham.
+Intendo che, a questa particolare data, l'aspetto generale
+di [[London|Londra]] era più semplice e prosaico di quanto sia ora. C'erano
+in verità angoli bellissimi di architettura georgiana e Regency
+in molte parti di [[London|Londra]], e in nessun luogo più che a Kensington.
+Ce ne sono ancora alcuni. Ma benché ci fosse qualche traccia dei movimenti
+più antichi nell'arte, non c'era ancora alcuna traccia di quelli nuovi.
+Morris era eruttato qua e là come un'eruzione cutanea, nella forma
+di carte da parati; ma la fase più insulsa del morto vittorianesimo
+era nella maggior parte delle carte da parati e in quasi tutte le pareti.
+Ma [[London|Londra]] era già impensabilmente grande, in confronto ai suoi pochi
+ultimi resti d'eleganza settecentesca o ai suoi primi deboli segnali
+di rinascita estetica. E quella cosa enorme era una cosa orrenda,
+nel complesso. Il paesaggio di [[London|Londra]] era una cosa di case dal petto piatto,
+finestre vuote, brutti lampioni di ferro e volgari cassette postali vermiglie;
+e, per ora, ben poco altro.
 
-Se ho in qualche modo suggerito le modeste virtù del mio gruppo e della mia famiglia di ceto medio, sarà già evidente, lo [[Hope|spero]], che eravamo brutti quanto le inferriate e i lampioni tra i quali passeggiavamo. Voglio dire che il nostro abbigliamento e il nostro arredamento erano ancora intatti da qualsiasi cosa «artistica», nonostante un interesse per l'arte assai decorosamente informato. Eravamo perfino più lontani dalla Bohème che da Belgravia. Quando mia madre diceva che non eravamo mai stati rispettabili, intendeva piuttosto che non eravamo mai stati eleganti, non già che non fossimo mai stati trasandati. In confronto all'estetismo che da allora è strisciato per [[London|Londra]], eravamo tutti quanti decisamente trasandati. E ciò ancor più nella mia stessa famiglia, perché mio padre, mio fratello e io eravamo negligenti riguardo agli aspetti esteriori che ritenevamo normali. Eravamo trascurati nel portare abiti curati. Gli esteti erano curati nel portare abiti trascurati. Io indossavo una giacca comune; era dovuto soltanto a un attrito o a un logorio non premeditato se essa diventava piuttosto una giacca fuori del comune. Il bohémien portava un cappello a falde molli; ma non vi si accasciava dentro. Io mi accasciavo dentro un cilindro; un cappello scandalosamente malandato, ma non concepito per scandalizzare il borghese. Io ero io stesso, in quel senso, interamente borghese. Talvolta quel cappello, o qualcosa come il suo [[Ghost|fantasma]], fa ancora una spettrale ricomparsa, ed è estratto dalla pattumiera o dal banco dei pegni o dal British Museum, per figurare al [[Garden|Garden]]-Party del [[King|Re]]. Certo, potrebbe non essere lo stesso. Il grande originale era senza dubbio più adatto a uno spaventapasseri in un [[Garden|orto]] che a un ospite nel [[Garden|giardino]] di un [[King|re]]. Ma il punto è che noi non pensavamo mai alle mode, o alle convenzioni, con sufficiente serietà né per assecondarle né per sfidarle. Mio padre fu, in cento modi felici e fecondi, un dilettante; ma in nessun modo un dilettantesco. E poiché queste memorie devono riguardare il suo assai meno stimabile discendente, che frequentò per davvero una scuola d'arte, gli sia almeno concesso di vantarsi che, se non riuscì a essere un [[Artist|artista]], non tentò mai di essere un esteta.
+Se ho in qualche modo suggerito le modeste virtù del mio stesso gruppo
+e della mia famiglia della classe media, sarà già ovvio, lo [[Hope|spero]], che eravamo
+brutti quanto le ringhiere e i lampioni tra cui camminavamo.
+Intendo che il nostro abbigliamento e il nostro mobilio erano ancora intoccati da
+qualsiasi cosa «artistica», malgrado un interesse per l'arte abbastanza decorosamente informato.
+Eravamo perfino più lontani dalla Bohème che da Belgravia.
+Quando mia madre diceva che non eravamo mai stati rispettabili, intendeva piuttosto
+che non eravamo mai stati eleganti che non fossimo mai stati sciatti.
+In confronto all'estetismo che è da allora strisciato per [[London|Londra]],
+eravamo tutti noi decisamente sciatti. Lo era ancor più nella mia stessa famiglia,
+perché mio padre e mio fratello e io eravamo negligenti riguardo agli esterni
+che consideravamo normali. Eravamo trascurati nell'indossare abiti curati.
+Gli esteti erano curati nell'indossare abiti trascurati.
+Io indossavo una giacca ordinaria; era dovuto meramente a inintenzionale attrito
+o logorio se essa diveniva una giacca piuttosto straordinaria.
+Il bohémien indossava un cappello a tesa floscia; ma non ci si affloscava dentro.
+Io mi afflosciavo in un cilindro; un pessimo cappello, ma non uno concepito per
+scioccare il borghese. Ero io stesso, in quel senso, interamente borghese.
+Talvolta quel cappello, o qualcosa come il [[Ghost|Fantasma]] di esso,
+fa ancora una spettrale ricomparsa, e viene estratto dalla
+pattumiera o dal banco dei pegni o dal British Museum, per figurare al
+[[Garden|Garden]]-Party del [[King|Re]]. Naturalmente, può non essere lo stesso.
+Il grande originale era di certo più adatto a uno spaventapasseri in un
+[[Garden|orto]] che a un ospite nel [[Garden|giardino]] di un [[King|re]]. Ma il punto
+è che non pensammo mai alle mode, o alle convenzioni,
+abbastanza seriamente né per adempierle né per sfidarle.
+Mio padre era in cento modi felici e fruttuosi un dilettante;
+ma in nessun modo affatto un dilettante da salotto. E poiché questo memoir deve riguardare
+il suo assai meno stimabile discendente, che andò davvero a una scuola d'arte,
+gli sia almeno concesso di vantarsi che, se fallì nell'essere un [[Artist|Artista]],
+non tentò mai di essere un esteta.
 
-In breve, il lettore (se ve n'è) non deve lasciarsi ingannare a questo punto da quella figura falstaffiana in cappello e mantello da brigante, apparsa in molte caricature. Quella figura fu un'opera d'arte più tarda; benché l'[[Artist|artista]] non fosse soltanto il caricaturista; bensì una signora [[Artist|artista]] sfiorata il più lievemente possibile in questa narrazione tanto vittoriana. Quella caricatura commemora soltanto ciò che il genio femminile seppe fare con i materiali meno promettenti. Ma quando ero ragazzo o scapolo, il mio abbigliamento e il mio aspetto erano proprio come quelli di tutti gli altri, solo peggiori. La mia [[Madness|follia]], che era considerevole, era tutta interiore. Ma quella [[Madness|follia]] si muoveva sempre più nella direzione di una qualche vaga e visionaria rivolta contro la prosaica piattezza di una [[City|città]] e di una civiltà ottocentesca; una immaginativa insofferenza per i cappelli cilindrici e le case rettangolari; in breve, quel movimento della mente che ho già associato al Napoleone di Notting [[Hill|Hill]] e all'imperfetto patriota di Clapham. Non ero forse andato più in là del sentimento che coloro i quali erano imprigionati dentro quei profili disumani erano esseri umani; che era una brutta cosa che anime viventi fossero così fiaccamente e crudamente rappresentate da case simili a diagrammi di Euclide mal disegnati, o da strade e ferrovie simili a squallide sezioni di macchinario. Ricordo di aver detto a Masterman, assai presto nella nostra conoscenza, mentre osservavamo le folle affannate riversarsi per i corridoi della Metropolitana verso il ferreo e simbolico Inner Circle, e di aver citato le parole di Kipling sulla corazzata fuori uso:—
+In breve, il lettore (se ce n'è alcuno) non deve essere fuorviato a questo stadio
+da quella figura falstaffiana in cappello e mantello da brigante, che è
+comparsa in molte caricature. Quella figura fu un'opera d'arte più tarda;
+benché l'[[Artist|Artista]] non fosse meramente il caricaturista; ma una [[Artist|Artista]] donna
+sfiorata il più lievemente possibile in questa assai vittoriana narrazione.
+Quella caricatura commemora meramente ciò che il genio femminile poteva fare
+coi materiali più poco promettenti. Ma quando ero ragazzo o scapolo,
+il mio abbigliamento e il mio aspetto erano proprio come quelli di tutti gli altri, solo peggiori.
+La mia [[Madness|Follia]], che era considerevole, era tutta interiore.
+Ma quella [[Madness|Follia]] si muoveva sempre più nella direzione
+di una qualche vaga e visionaria rivolta contro la prosaica piattezza
+di una [[City|città]] e civiltà ottocentesca; un'immaginativa
+impazienza coi cappelli cilindrici e le case rettangolari;
+in breve, quel movimento della mente che ho già associato con
+il Napoleone di Notting [[Hill]] e l'imperfetto patriota di Clapham.
+Non ero forse andato oltre la sensazione che coloro
+imprigionati in questi disumani contorni fossero esseri umani;
+che fosse una brutta cosa che anime viventi fossero così debolmente
+e crudamente rappresentate da case simili a diagrammi di Euclide mal disegnati,
+o strade e ferrovie simili a squallide sezioni di macchinari.
+Ricordo di aver parlato con Masterman, assai presto nella nostra conoscenza,
+mentre osservavamo le folle affannate riversarsi attraverso i passaggi
+della Metropolitana verso la ferrea e simbolica Inner Circle, e di aver citato
+le parole di Kipling sulla corazzata inabile:—
 
-  Poiché non si conviene che gente inglese
-  Dimori nel cuore di un [[Clock|orologio]] a otto giorni
-  La [[Death|morte]] che non possono vedere.
+  Poiché non è giusto che ceppo inglese
+  Debba dimorare nel cuore di un [[Clock|orologio]] da otto giorni
+  La [[Death|Morte]] che essi non possono vedere.
 
-Ma io conservai sempre un vago senso di qualcosa di sacro nella gente inglese, o nella gente umana, che mi separava dal mero pessimismo dell'epoca. Non ho mai dubitato che gli esseri umani dentro le case fossero essi stessi quasi miracolosi; come bambole [[Magic|magiche]] e talismaniche, in qualunque brutta casa di bambole. Per me, quelle scatole di mattoni bruni erano davvero scatole di Natale. Poiché, dopo tutto, i regali di Natale venivano spesso legati in carta bruna; e le realizzazioni dei costruttori raffazzonati in mattoni bruni erano spesso estremamente simili a carta bruna.
+Ma conservai sempre un vago senso di qualcosa di sacro
+nel ceppo inglese, o nel ceppo umano, che mi separava dal
+mero pessimismo del periodo. Non dubitai mai che gli esseri
+umani dentro le case fossero essi stessi quasi miracolosi;
+come bambole [[Magic|magiche]] e talismaniche, in qualunque brutta casa di bambole.
+Per me, quelle scatole di mattoni bruni erano davvero scatole natalizie.
+Poiché, dopo tutto, le scatole natalizie venivano spesso legate in carta bruna;
+e le imprese dei costruttori raffazzonati in mattoni bruni erano spesso
+estremamente simili a carta bruna.
 
-Per riassumere, io accettavo il mio ambiente e il fatto pratico che tutti i cappelli e tutte le case fossero come i nostri cappelli e le nostre case; e che questo cosmo cockney, per quanto un cockney potesse vedere, si stendesse fino ai confini della terra. Per questa ragione, accadde, come un accidente piuttosto determinante, che io vidi per la prima volta come da lontano il primo fantastico segnale di qualcosa di nuovo e ancora ben lungi dall'essere di moda; qualcosa come una nuova toppa di porpora su quella grigia distesa di vie. Non sarebbe notevole oggi, ma era notevole allora. In quei giorni avevo l'abitudine di camminare per distese e cerchie assai ampie di [[London|Londra]]; andavo e tornavo sempre a piedi dalla mia prima scuola d'arte a St. John's Wood; e darà qualche indizio di come [[London|Londra]] sia mutata il dire che comunemente camminavo da Kensington fino alla [[Cathedral|Cattedrale]] di St. Paul, e per gran parte del tragitto in mezzo alla [[Road|strada]]. Un giorno avevo rivolto i miei passi senza meta verso occidente, attraverso i grovigli di Hammersmith Broadway e lungo la [[Road|strada]] che va a Kew, quando svoltai per qualche ragione, o più probabilmente senza ragione, in una via laterale e vagai attraverso la polverosa zolla erbosa in cui correva una ferrovia, e attraverso la ferrovia uno di quei ponti sproporzionatamente alti che scavalcano quelle strette linee ferroviarie come trampoli. Per un culmine di futilità, salii su questo alto e praticamente inutilizzato ponte; era sera, e credo che fu allora che vidi in lontananza, in quel grigio paesaggio, simile a una lacera nube rossa di tramonto, lo strano villaggio artificiale di Bedford Park.
+Per riassumere, accettai il mio ambiente e il fatto pratico che
+tutti i cappelli e le case erano come i nostri cappelli e le nostre case; e che questo
+cosmo Cockney, per quanto un Cockney potesse vedere, si stendeva
+fino alle estremità della terra. Per questa ragione, càpitò, come un piuttosto
+determinante accidente, che vidi per la prima volta come da lontano il primo
+fantastico segnale di qualcosa di nuovo e ancora ben lungi dall'essere alla moda;
+qualcosa come una nuova macchia purpurea su quella grigia distesa di strade.
+Non sarebbe notevole ora, ma era notevole allora.
+In quei giorni avevo l'abitudine di camminare su assai ampie distese
+e cerchi di [[London|Londra]]; camminavo sempre da e verso la mia prima scuola d'arte
+a St. John's Wood; e darà qualche accenno di come [[London|Londra]] sia mutata
+il dire che comunemente camminavo da Kensington alla [[Cathedral|Cattedrale]] di St. Paul,
+e per gran parte del tragitto in mezzo alla [[Road|Strada]].
+Un giorno avevo volto i miei passi senza meta verso ovest, attraverso i grovigli
+di Hammersmith Broadway e lungo la [[Road|Strada]] che va a Kew,
+quando svoltai per qualche ragione, o più probabilmente senza ragione,
+in una via laterale e vagai attraverso il polveroso prato tra cui correva
+una ferrovia, e attraverso la ferrovia uno di quei ponti
+sproporzionatamente alti che scavalcano tali strette linee ferroviarie come su trampoli.
+Per un culmine di futilità, salii fino a questo alto e praticamente
+inutilizzato ponte; era sera, e credo fu allora che vidi in
+lontananza di quel grigio paesaggio, come una lacera nuvola rossa di tramonto,
+lo strano villaggio artificiale di Bedford Park.
 
-È difficile, come ho detto, spiegare come vi fosse allora qualcosa di fantasioso in ciò che ora è così familiare. Quella sorta di pittoresco manifatturiero ora è a stento perfino pittoresco; ma a quel [[Time|tempo]] era addirittura bizzarro. Bedford Park sembrava davvero ciò che in parte pretendeva di essere; una colonia per artisti che erano quasi stranieri; un rifugio per poeti e pittori perseguitati nascosti nelle loro catacombe di mattoni rossi o morenti dietro le loro barricate di mattoni rossi, quando il mondo avesse dovuto conquistare Bedford Park. In quel senso alquanto assurdo, è piuttosto Bedford Park ad aver conquistato il mondo. Oggi, casette modello, case popolari e botteghe artistico-artigiane—domani, per quel che ne so, prigioni e ospizi e manicomi potranno presentare (all'esterno) quel minimo di pittoresco, che allora era considerato la posa assurda di coloro dediti a dipingere quadri. Certo, se all'impiegato di Clapham fosse stata allora davvero presentata una simile casetta fantastica, egli avrebbe potuto pensare che la [[house|casa]] da fiaba fosse in realtà un manicomio. Questo esperimento estetico era assai recente; aveva alcuni elementi di reale indipendenza cooperativa e corporativa; i propri empori e ufficio postale e chiesa e locanda. Ma il tutto era vagamente sotto il patrocinio del vecchio Mr. Comyns-Carr, che non solo era considerato il patriarca o il più anziano abitante, ma in un certo senso il fondatore e padre della repubblica. Non era in realtà così molto vecchio; ma d'altronde la repubblica era assai nuova; molto più nuova della nuova repubblica di Mr. Mallock, benché colma di pettegolezzi filosofici press'a poco della stessa specie, sui quali il patriarca benevolmente sorrideva e rifletteva. Almeno, per citare una frase letteraria allora molto citata, egli era più vecchio delle rocce fra le quali sedeva, o dei tetti sotto i quali sedeva; e potremmo [[Well|ben]] aver mormorato un altro motto contemporaneo, un poco vagamente forse, a [[Memory|memoria]]:—
+È difficile, come ho detto, spiegare come ci fosse allora qualcosa
+di fantasioso in ciò che è ora così familiare. Quel genere di manufatta
+pittoreschezza è ora appena persino pittoresco; ma a quel [[Time|tempo]] era persino strano.
+Bedford Park sembrava davvero ciò che in parte professava di essere;
+una colonia per artisti che erano quasi alieni; un rifugio per poeti
+e pittori perseguitati che si nascondevano nelle loro catacombe di mattoni rossi o morivano dietro
+le loro barricate di mattoni rossi, quando il mondo dovesse conquistare Bedford Park.
+In quel senso alquanto insensato, è piuttosto Bedford Park ad aver
+conquistato il mondo. Oggi, cottage modello, case popolari e
+botteghe d'arte e artigianato — domani, per quanto ne so, prigioni e ospizi
+e manicomi possono presentare (all'esterno) quel minimo di pittoresco,
+che allora era considerato l'assurda posa di coloro dediti
+al dipingere quadri. Di certo, se all'impiegato di Clapham fosse allora
+stato effettivamente presentato un tale fantastico cottage, egli avrebbe potuto
+pensare che la [[house|casa]] da fiaba fosse in realtà un manicomio.
+Questo esperimento estetico era assai recente; aveva alcuni
+elementi di reale indipendenza cooperativa e corporativa;
+i suoi propri magazzini e ufficio postale e chiesa e locanda.
+Ma il tutto era vagamente sotto il patronato del vecchio signor Comyns-Carr,
+che non era solo considerato il patriarca o il più vecchio abitante,
+ma in un certo senso il fondatore e padre della repubblica.
+Non era davvero così molto vecchio; ma d'altronde la repubblica era
+assai nuova; assai più nuova della nuova repubblica del signor Mallock,
+benché piena di pettegolezzo filosofico assai dello stesso genere,
+su cui il patriarca benevolmente irradiava e rimuginava.
+Quanto meno, per citare una frase letteraria allora assai citata, egli era più vecchio
+delle rocce fra cui sedeva, o dei tetti sotto cui sedeva;
+e avremmo [[Well|ben]] potuto mormorare un altro motto contemporaneo, un po'
+vagamente forse, dalla [[Memory|Memoria]]:—
 
-  Trovami eguale a questa meraviglia, tranne dove stanno gli esteti,
-  Un sobborgo rosso-[[Rose|rosa]] vecchio la metà di Carr.
+  Eguagliami questa meraviglia, salvo là dove sono gli esteti,
+  Un sobborgo [[Rose|rosso-rosa]] vecchio la metà di Carr.
 
-Ma benché io creda che tutti noi sentissimo, sia pure inconsciamente, qualcosa di sognante e teatrale nella cosa, che era in parte [[A Dream|un sogno]] e in parte uno scherzo, non era una mera impostura. Le persone intelligenti sanno insinuarsi perfino in una intellighenzia; e persone importanti vivevano là quietamente piuttosto che importantemente. Il professor Yorke Powell, l'illustre storico, ostentava là la sua lunga barba leonina e le sue sopracciglia minacciose e ingannevoli; e il dottor Todhunter, l'eminente studioso di cose celtiche, rappresentava la colonia irlandese nelle battaglie della cultura. E, sotto lo stesso rispetto, se era un luogo di ombre difficilmente lo si sarebbe potuto chiamare un luogo di finzioni, quando conteneva uno che è forse ancora il più grande poeta che scriva nella nostra lingua. Vi è sempre qualcosa di fantasioso nella congiunzione tra il mondo che il poeta vede e il luogo in cui vive; la fantasia che i grandi leoni dorati di Blake ruggissero e vagassero in un piccolo [[Court|cortile]] presso lo Strand, o che Camberwell possa essere stata abitata dallo spettro di Sordello, accovacciato come un [[Lion|leone]] ed esprimentesi piuttosto come una sfinge. E mi diverte pensare che sotto quegli alberi da giocattolo e quei frontoni da paccottiglia già passava un corteo di dèi strani e i copricapi di sacerdoti dimenticati e le corna di sacri unicorni e il rugoso [[Sleep|sonno]] della vegetazione druidica, e tutti gli emblemi di una nuova araldica dell'[[Imagination|immaginazione]] umana.
+Ma benché credo che tutti sentissimo, se pur subconsciamente, qualcosa di sognantemente
+teatrale nella cosa, che era in parte [[A Dream|un sogno]] e in parte
+uno scherzo, non era una mera frode. Le persone intelligenti si insinuano
+perfino in un'intellighenzia; e persone importanti vivevano
+là tranquillamente piuttosto che in modo importante. Il Professor Yorke Powell,
+il distinto storico, sfoggiava là la sua lunga barba leonina
+e le sue sopracciglia minacciose e fuorvianti; e il Dott. Todhunter, l'eminente
+studioso celtico, rappresentava la colonia irlandese nelle battaglie della cultura.
+E nella stessa connessione, se era un luogo di ombre non poteva
+a stento essere chiamato un luogo di finzioni, quando conteneva uno
+che è ancora forse il più grande poeta che scriva nella nostra lingua.
+C'è sempre qualcosa di fantasioso nella congiunzione del mondo
+che il poeta vede e del luogo in cui vive; la fantasia che i
+grandi leoni d'oro di Blake ruggissero e vagassero in una piccola [[Court|Corte]] al riparo
+dello Strand, o che Camberwell possa essere stata infestata da Sordello,
+accovacciato come un [[Lion|Leone]] ed esprimentesi piuttosto come una sfinge.
+E mi diverte pensare che sotto quegli alberi giocattolo e quei frontoni pacchiani
+stava già passando un corteo di strani dèi e
+dei copricapi di preti dimenticati e delle corna di sacri unicorni
+e del rugoso [[Sleep|Sonno]] della vegetazione druidica, e di tutti gli emblemi
+di una nuova araldica dell'[[Imagination|Immaginazione]] umana.
 
-William Butler Yeats potrà sembrare solitario come un'aquila; ma aveva un nido. Ovunque vi sia l'Irlanda vi è la Famiglia; e conta moltissimo. Se il lettore esige una prova, si chieda perché vi sia ancora l'abitudine di chiamare questo grande e spesso arcigno genio «Willie Yeats». Nessuno, per quel che mi consta, parla di «Jackie Masefield», o di «Alfie Noyes», o (ciò che potrebbe essere frainteso dagli spensierati) di «Ruddy Kipling». Ma nel caso di Yeats, tale familiarità potrebbe sembrare singolarmente incongrua coi suoi gusti e il suo temperamento; e analoga al parlare del grande Gulliver come di «Johnny Swift». Il suo tono e il suo temperamento, nell'espressione pubblica non meno che [[Well|bene]] in quella privata, sono di una schizzinosità che è l'esatto contrario di tale familiarità.
+William Butler Yeats poteva sembrare solitario come un'aquila; ma aveva
+un nido. Dovunque c'è l'Irlanda c'è la Famiglia; e conta
+molto. Se il lettore richiede una prova, che si chieda perché
+c'è ancora l'abitudine di chiamare questo grande e spesso arcigno genio
+«Willie Yeats». Nessuno, per quanto ne so, parla di «Jackie Masefield»,
+o «Alfie Noyes», o (ciò che potrebbe essere frainteso dai frivoli)
+«Ruddy Kipling». Ma nel caso di Yeats, tale familiarità
+potrebbe sembrare singolarmente incongrua coi suoi gusti e col suo temperamento;
+e analoga al parlare del grande Gulliver come «Johnny Swift».
+Il suo tono e temperamento, nell'espressione pubblica oltre [[Well|che]] privata,
+è di una schizzinosità proprio l'opposto di tale familiarità.
 
-  Non v'è [[Fool|sciocco]] che possa chiamarsi mio amico
-  E io potrò bere al termine del [[Journey|viaggio]]
+  Non c'è [[Fool|sciocco]] che possa chiamarmi amico
+  E potrò bere alla fine del [[Journey|Viaggio]]
   Con Landor e con Donne.
 
-Lo cito soltanto come punto di descrizione impersonale, senza pronunciarmi sul problema; ci vuole di tutto per fare un mondo. Oso dire che vi sono parecchi sciocchi che possono chiamarmi amico e anche (pensiero più mortificante) parecchi amici che possono chiamarmi [[Fool|sciocco]]. Ma in Yeats quella schizzinosità non è soltanto sincera bensì essenzialmente nobile, essendo colma di una bella collera contro la vittoria delle cose più vili su quelle migliori, che lo induceva a definire le terribili parole sulla grande [[Grave|tomba]] nella [[Cathedral|Cattedrale]] di San Patrizio «il più nobile epitaffio della [[history|storia]]». La ragione per cui, nonostante tutto questo, la più vasta assemblea e il più vasto assortimento possibile di sciocchi sta probabilmente in questo momento chiamando il povero Yeats «Willie», almeno alle sue spalle, va cercata nel curioso marchio corporativo lasciato sempre dalla famiglia irlandese nel suo insieme. L'intensità e l'[[Individualism|individualismo]] del genio stesso non poterono mai cancellare dalle memorie del mondo l'impressione generale di Willie e Lily e Lolly e Jack; nomi lanciati avanti e indietro in una singolare sorta di [[Comedy|commedia]] fatta di arguzia, pettegolezzi, [[Satire|satira]], liti familiari e [[Pride|orgoglio]] familiare irlandesi. In quei giorni conoscevo la famiglia più o meno nel suo insieme; e per lungo tempo dopo conobbi e ammirai quelle sorelle del poeta che mantenevano nell'industria Cuala una scuola di decorazione e di drappeggio non indegna dei grandi versi sulle stoffe ricamate dei cieli. W. B. è forse il miglior conversatore che io abbia mai incontrato, eccetto il suo vecchio padre che, ahimè, non parlerà più in questa taverna terrena, benché io [[Hope|speri]] che stia ancora parlando in Paradiso. Fra venti altre qualità, egli aveva quella rara ma assai reale cosa, uno stile del tutto spontaneo. Le parole non vengono giù a fiotti, non più di quanto vengano giù a fiotti i mattoni che compongono un grande edificio; sono semplicemente disposte come un [[Lightning|lampo]]; come se un uomo potesse costruire una [[Cathedral|cattedrale]] tanto rapidamente quanto un prestigiatore costruisce un [[house|castello]] di carte. Una frase lunga ed elaboratamente bilanciata, con proposizioni dipendenti alternative o antitetiche, sgorgava da simili conversatori con ogni parola al suo posto, con la stessa immediatezza e innocenza con cui la maggior parte della gente direbbe che è una bella giornata o che sui giornali c'è una faccenda buffa. Ricordo ancora il vecchio Yeats, quel grazioso barbagrigia, dire in tono noncurante a proposito della Guerra sudafricana: «Mr. Joseph Chamberlain ha il carattere, come ne ha il volto, della donna bisbetica che rovina il marito con la propria stravaganza; e Lord Salisbury ha il carattere, come ne ha il volto, dell'uomo che ne è così rovinato». Quello stile, o rapida costruzione di una frase complicata, era il segno di una lucidità ormai in gran parte perduta. La ritroverete nelle esplosioni più spontanee del dottor Johnson. Da allora è sorta una qualche confusa nozione che parlare in quello stile compiuto sia artificioso; solo perché l'uomo sa ciò che intende e intende dirlo. Non so da quale mondo insensato venne dapprima la nozione; che vi sia una qualche connessione tra l'essere sincero e l'essere semi-articolato. Ma pare essere una nozione secondo cui un uomo debba intendere ciò che dice, perché s'inceppa perfino nel tentare di dirlo; o che egli debba essere un prodigio di forza e di decisione, perché scopre a metà di una frase di non sapere ciò che stava per dire. Di qui la conversazione della [[Comedy|commedia]] corrente; e la patetica convinzione che il parlare possa essere senza fine, purché a nessuna affermazione sia concesso di giungere a una fine.
+Lo menziono meramente come un punto di descrizione impersonale,
+senza pronunciarmi sul problema; ci vuole di tutto per fare un mondo.
+Oserei dire che c'è parecchia gente sciocca che può chiamarmi amico
+e anche (un pensiero più mortificante) parecchi amici che possono
+chiamarmi [[Fool|sciocco]]. Ma in Yeats quella schizzinosità non è solo
+sincera ma essenzialmente nobile, essendo piena di una fine collera contro
+la vittoria delle cose più basse su quelle migliori, che lo induce a chiamare
+le terribili parole sulla grande [[Grave|Tomba]] nella [[Cathedral|Cattedrale]] di St. Patrick,
+«il più nobile epitaffio della [[history|storia]].» La ragione per cui, malgrado tutto questo,
+la più larga possibile assemblea e assortimento di sciocchi sta probabilmente
+in questo momento chiamando il povero Yeats «Willie», quanto meno dietro
+le sue spalle, è da trovarsi nella curiosa impronta corporativa sempre lasciata
+dalla famiglia irlandese nel suo insieme. L'intensità e l'[[Individualism|Individualismo]]
+del genio stesso non poterono mai lavar via dalle memorie del mondo
+l'impressione generale di Willie e Lily e Lolly e Jack;
+nomi lanciati avanti e indietro in una unica sorta di [[Comedy|Commedia]]
+di arguzia irlandese, pettegolezzo, [[Satire|Satira]], liti familiari e [[Pride|orgoglio]] familiare.
+Conoscevo la famiglia più o meno nel suo insieme in quei giorni;
+e per molto tempo dopo conobbi e ammirai quelle sorelle del poeta
+che mantenevano nell'industria di Cuala una scuola di decorazione
+e drappeggio non indegna dei grandi versi sui «drappi
+ricamati dei cieli». W. B. è forse il miglior conversatore che io abbia mai incontrato,
+tranne il suo vecchio padre che ahimè non parlerà più in questa
+taverna terrena, benché io [[Hope|speri]] che stia ancora parlando in Paradiso.
+Tra venti altre qualità, aveva quella rara ma assai reale cosa,
+lo stile interamente spontaneo. Le parole non vengono giù a fiotti,
+non più di quanto i mattoni che fanno un grande edificio vengano giù a fiotti;
+sono semplicemente disposte come un [[Lightning|Fulmine]]; come se un uomo potesse costruire
+una [[Cathedral|Cattedrale]] rapidamente come un prestigiatore costruisce una [[house|casa]] di carte.
+Una lunga ed elaboratamente bilanciata frase, con proposizioni dipendenti
+alternative o antitetiche, fluiva da tali conversatori con ogni
+parola che cadeva al suo posto, tanto immediatamente e innocentemente quanto la maggior parte
+della gente direbbe che è una bella giornata o una faccenda buffa sui giornali.
+Ricordo ancora il vecchio Yeats, quel grazioso barbagrigia, dire in
+modo noncurante a proposito della Guerra Sudafricana: «Il signor Joseph Chamberlain
+ha il carattere, come ha il volto, della donna bisbetica
+che rovina il marito con la sua stravaganza; e Lord Salisbury ha
+il carattere, come ha il volto, dell'uomo che è così rovinato.»
+Quello stile, o rapida costruzione di una frase complicata,
+era il segno di una lucidità ora in gran parte perduta. La troverete nelle
+più spontanee esplosioni del Dott. Johnson. Da allora è sorta una qualche confusa
+nozione che parlare in quello stile completo sia artificiale;
+meramente perché l'uomo sa ciò che intende e intende dirlo.
+Non so da quale mondo di nonsenso venne per la prima volta la nozione; che ci sia
+qualche connessione tra l'essere sincero e l'essere semi-articolato.
+Ma pare essere una nozione secondo cui un uomo deve intendere ciò che dice,
+perché crolla perfino nel tentare di dirlo; o che egli debba
+essere un prodigio di potenza e decisione, perché scopre a metà
+di una frase di non sapere ciò che stava per dire.
+Di qui la conversazione della [[Comedy|Commedia]] corrente; e la patetica credenza
+che il parlare possa essere senza fine, purché a nessuna affermazione sia permesso di giungere
+a una fine.
 
-Yeats mi influenzò fortemente, ma in due modi opposti; come i poli positivo e negativo di una calamita. È necessario spiegare ciò che intendo, non tanto per amore delle mie stesse nozioni brancolanti di quel [[Time|tempo]], quanto per amore di spiegare la peculiarità del periodo; riguardo al quale la maggior parte dei critici sembra al [[Time|tempo]] presente completamente in errore. Vi era molto nelle idee vittoriane che detesto e molto che rispetto; ma non v'era nulla di nulla nelle idee vittoriane che corrispondesse a ciò che ora si chiama vittoriano. Sono realmente abbastanza vecchio da ricordare l'Età Vittoriana; ed essa era quasi un completo contrasto con tutto ciò che ora quella parola connota. Aveva tutti i vizi che ora si chiamano virtù; il [[Doubt|dubbio]] religioso, l'inquietudine intellettuale, una fame di credulità verso le cose nuove, una completa mancanza di equilibrio. Aveva pure tutte le virtù che ora si chiamano vizi; un ricco senso del [[Romance|romanzesco]], un appassionato [[Desire|desiderio]] di rendere l'[[Love|amore]] tra uomo e donna ancora una volta ciò che era in Eden, un forte senso dell'assoluta necessità di un qualche significato nella vita umana. Ma tutto ciò che tutti mi dicono ora sull'atmosfera vittoriana lo avverto all'istante come falso, come una nebbia, che si limita a precludere una veduta. E in nulla ciò è più vero che nella particolare [[Truth|verità]] che devo ora tentare di descrivere.
+Yeats mi influenzò fortemente, ma in due modi opposti; come i poli positivo
+e negativo di una calamita. È necessario spiegare che cosa intendo,
+non tanto per amor delle mie stesse brancolanti nozioni in quel [[Time|periodo]],
+quanto per amor di spiegare la peculiarità del periodo;
+sul quale la maggior parte dei critici pare essere completamente in errore al presente [[Time|tempo]].
+C'era molto nelle idee vittoriane che detesto e molto che rispetto;
+ma non c'era proprio nulla nelle idee vittoriane corrispondente
+a ciò che ora si chiama vittoriano. Sono davvero abbastanza vecchio da
+ricordare l'Età Vittoriana; ed era quasi un completo contrasto
+con tutto ciò che è ora connotato da quella parola. Aveva tutti i vizi
+che ora si chiamano virtù; il [[Doubt|Dubbio]] religioso, l'irrequietezza intellettuale,
+un'affamata credulità per le cose nuove, una completa mancanza di equilibrio.
+Aveva anche tutte le virtù che ora si chiamano vizi; un ricco senso
+del [[Romance|Romanzo]], un appassionato [[Desire|Desiderio]] di rendere l'[[Love|Amore]] di uomo e donna
+di nuovo ciò che era in Eden, un forte senso dell'assoluta
+necessità di un qualche significato nella vita umana. Ma tutto
+ciò che tutti mi dicono ora sull'atmosfera vittoriana sento
+all'istante essere falso, come una nebbia, che meramente sbarra una veduta.
+E in nulla è più vero che nella particolare [[Truth|Verità]] che
+devo ora tentare di descrivere.
 
-Lo sfondo generale di tutta la mia fanciullezza era agnostico. I miei stessi genitori erano piuttosto eccezionali, tra persone così intelligenti, nel credere comunque a un Dio personale o a un'[[Immortality|immortalità]] personale. Ricordo quando il mio amico Lucian Oldershaw, che mi introdusse in questa colonia bohémienne, mi disse d'un tratto, ripensando alle stancanti lezioni sul Nuovo Testamento in greco alla St. Paul's School: «Naturalmente, tu e io la nostra religione l'abbiamo appresa da agnostici»; e io, vedendo d'improvviso i volti di tutti i miei maestri, eccetto uno o due eccentrici ecclesiastici, seppi che aveva ragione. Non era propriamente la nostra generazione, era molto più la generazione precedente, a essere agnostica alla maniera di Huxley. Era il periodo del quale Mr. H. G. Wells, giocoso ma spirituale [[Child|figlio]] di Huxley, scrisse con sufficiente verità che era «pieno di quei silenzi ironici che seguono le grandi controversie»; e in quella controversia Huxley aveva riportato un successo superficiale. Un successo tale che Mr. Wells, nello stesso passo, giunse fino a dire che i Vescovi, «socialmente tanto in vista, sono intellettualmente nascosti». ... Come tutto ciò sembra caro e lontano! Ho vissuto abbastanza da vedere controversie biologiche, nelle quali è assai più vero dire che i darwiniani ufficiali sono nascosti. Il «[[Silence|silenzio]]» che seguì alla prima controversia evoluzionistica era assai più «ironico» di quanto Mr. Wells allora si avvedesse. Ma allora certamente il [[Silence|silenzio]] sembrava essere quello di una religione sconfitta; un [[Desert|deserto]] di materialismo. Gli uomini non si aspettavano le miriadi di reazioni mistiche che ora muovono tutte le nazioni più di quanto i palazzi dal petto piatto di Pimlico e Bloomsbury si fossero aspettati di vedere diffondersi per il paese i tetti crestati e i comignoli stravaganti di Bedford Park.
+Lo sfondo generale di tutta la mia fanciullezza era agnostico.
+I miei stessi genitori erano piuttosto eccezionali, tra gente così intelligente,
+nel credere affatto in un Dio personale o in una [[Immortality|Immortalità]] personale.
+Ricordo quando il mio amico Lucian Oldershaw, che mi introdusse a questa
+colonia bohémien, mi disse d'improvviso, ripensando alle stanche
+lezioni sul Testamento greco alla St. Paul's School: «Naturalmente,
+tu e io fummo istruiti nella nostra religione da agnostici;» e io, vedendo d'improvviso
+i volti di tutti i miei maestri, tranne uno o due ecclesiastici eccentrici,
+seppi che aveva ragione. Non era in modo speciale la nostra generazione,
+era assai più la generazione precedente, a essere agnostica secondo
+la moda di Huxley. Era il periodo di cui il signor H. G. Wells,
+un giocoso ma spirituale [[Child|Figlio]] di Huxley, scrisse abbastanza veritieramente che
+era «pieno degli ironici silenzi che seguono le grandi controversie;»
+e in quella controversia, Huxley era stato superficialmente vittorioso.
+Così vittorioso, che il signor Wells, nello stesso passo, arrivò
+fino a dire che i Vescovi, «socialmente così tanto in evidenza,
+sono intellettualmente nascosti.» ... Quanto caro e distante tutto ciò sembra!
+Sono vissuto abbastanza da vedere controversie biologiche, in cui è
+assai più vero dire che i Darwiniani ufficiali sono nascosti.
+Il «[[Silence|Silenzio]]» seguente alla prima controversia evoluzionistica
+era assai più «ironico» di quanto il signor Wells fosse allora consapevole.
+Ma allora di certo il [[Silence|Silenzio]] pareva essere uno di religione sconfitta;
+un [[Desert|Deserto]] di materialismo. Gli uomini non si aspettavano più le miriadi di mistiche
+reazioni che ora muovono tutte le nazioni di quanto le ville dal petto piatto
+di Pimlico e Bloomsbury si fossero aspettate di veder diffondersi per
+il paese i tetti crestati e i camini balzani di Bedford Park.
 
-Ma non era in questo che Bedford Park era eccentrica. Non v'era nulla di nuovo o di strano nel non avere una religione. Il socialismo, per lo più secondo lo schema alquanto da carta da parati di Morris, era una cosa relativamente nuova. Il socialismo, nello stile di Bernard [[Shaw]] e dei Fabiani, era una cosa in ascesa. Ma l'agnosticismo era una cosa consolidata. Potremmo quasi dire che l'agnosticismo era una chiesa costituita. Vi era una uniformità di miscredenza, come la esigenza elisabettiana di uniformità di fede; non tra la gente eccentrica, ma semplicemente tra la gente istruita. E, soprattutto, tra la gente istruita più anziana di me.
+Ma non era in questo che Bedford Park era eccentrica. Non c'era
+nulla di nuovo o strano nel non avere una religione. Il Socialismo, per lo più sul
+piuttosto tappezziero modello di Morris, era una cosa relativamente nuova.
+Il Socialismo, nello stile di Bernard [[Shaw]] e dei Fabiani,
+era una cosa nascente. Ma l'agnosticismo era una cosa stabilita.
+Potremmo quasi dire che l'agnosticismo era una chiesa stabilita.
+C'era un'uniformità di miscredenza, come la richiesta elisabettiana
+di uniformità di credenza; non tra persone eccentriche, ma semplicemente
+tra persone istruite. E, soprattutto, tra le persone istruite
+più vecchie di me.
 
-Vi erano, invero, valorosi atei combattenti. Ma per lo più combattevano qualcos'altro oltre al teismo. Non poteva esservi tipo più virile o valente di loro del mio vecchio amico Archie MacGregor, l'[[Artist|artista]], che combatteva la Guerra Boera. Poiché su questo eravamo d'accordo, stringemmo una forte amicizia; ma perfino in quei giorni mi rendevo conto che il suo ateismo non era realmente rivoluzionario in fatto di morale. Era proprio il contrario. Non era una qualche «nuova [[morality|morale]]», bensì assai decisamente la «vecchia [[morality|morale]]» che egli difendeva contro l'Imperialismo, per il solo motivo che era assassinio e furto. Difendeva contro la nuova etica di Nietzsche la vecchia etica di Naboth. Questo, Mr. Wells e i Fabiani lo videro con tipica lucidità; che i socialisti sentimentali erano incoerenti, nel dire che un contadino non ha diritto a un campo, ma un contadinato ha diritto a un giacimento petrolifero. Mr. Wells non è realmente un pacifista più di quanto sia un militarista; ma l'unica sorta di guerra che egli reputa giusta è l'unica sorta di guerra che io reputo ingiusta. Comunque sia, parlando in generale, è un errore completo supporre che i ribelli i quali denunciavano la Chiesa e la Cappella fossero quelli che denunciavano l'Impero e l'Esercito. Le divisioni si intersecavano; ma correvano principalmente nell'altro senso. Un Pro-Boero combattente come MacGregor era in una minoranza altrettanto esigua tra gli atei quanto tra gli artisti; perfino a Bedford Park. Lo scoprii ben presto, quando emersi nel più vasto mondo degli artisti e dei letterati. Non vi potevano essere due uomini più opposti di Henley e Colvin; e più tardi fui in un certo senso testimone del duello che combatterono sul [[Body|corpo]] morto di Stevenson. Ma erano entrambi ostinati materialisti ed erano entrambi ostinati militaristi. La [[Truth|verità]] è che per la maggior parte degli uomini di quel [[Time|tempo]] l'Imperialismo, o almeno il patriottismo, era un sostituto della religione. Gli uomini credevano nell'Impero Britannico proprio perché non avevano nient'altro in cui credere. Quei fuochi di segnalazione di una insularità imperiale gettarono un bagliore momentaneo sul buio paesaggio dello Shropshire Lad; benché io [[Fear|tema]] che molti [[Innocent|innocenti]] patrioti non percepissero lo scherno volterriano nei versi patriottici: «Genera i figli che generarono i tuoi padri, e Dio salverà la [[Queen|Regina]]». I miei attuali pregiudizi sarebbero soddisfatti dal dire che l'ultima [[Decay|decadenza]] del Protestantesimo prese la forma del Prussianesimo.
+C'erano, in verità, bravi atei combattivi. Ma per lo più combattevano
+qualcos'altro oltre al teismo. Non poteva esserci tipo più
+virile o valoroso di essi del mio vecchio amico Archie MacGregor,
+l'[[Artist|Artista]], che combatteva la Guerra Boera. Poiché concordavamo su questo,
+cademmo in una forte compagnia; ma perfino in quei giorni, mi resi conto
+che il suo ateismo non era davvero rivoluzionario in fatto di morale.
+Era proprio il contrario. Non era una qualche «nuova [[morality|moralità]]»,
+ma assai decisamente la «vecchia [[morality|moralità]]» che egli difendeva
+contro l'Imperialismo, meramente sulla base che era omicidio e furto.
+Difendeva contro la nuova etica di Nietzsche la vecchia etica
+di Nabot. Questo, il signor Wells e i Fabiani videro con tipica lucidità;
+che i Socialisti sentimentali erano incoerenti, nel dire
+che un contadino non ha diritto a un campo, ma un contadinato ha
+diritto a un giacimento di petrolio. Il signor Wells non è davvero un pacifista più
+di quanto sia un militarista; ma l'unica sorta di guerra che egli ritiene giusta
+è l'unica sorta di guerra che io ritengo sbagliata. Comunque, in generale,
+è un completo errore supporre che i ribelli che denunciavano
+la Chiesa e la Cappella fossero quelli che denunciavano l'Impero e l'Esercito.
+Le divisioni si intersecavano; ma tagliavano principalmente nell'altro senso.
+Un Pro-Boero combattivo come MacGregor era in una minoranza altrettanto grande tra
+gli atei quanto tra gli artisti; perfino a Bedford Park. Scoprii presto ciò,
+quando emersi nel più vasto mondo degli artisti e degli uomini di lettere.
+Due uomini non avrebbero potuto essere più opposti di Henley e Colvin;
+e io ero più tardi destinato a essere in un certo senso testimone del duello che essi
+combatterono sul [[Body|corpo]] morto di Stevenson. Ma erano entrambi
+ostinati materialisti ed erano entrambi ostinati militaristi.
+La [[Truth|Verità]] è che per la maggior parte degli uomini in quel [[Time|periodo]] l'Imperialismo,
+o quanto meno il patriottismo, era un sostituto della religione.
+Gli uomini credevano nell'Impero Britannico proprio perché non avevano
+null'altro in cui credere. Quei fuochi di segnalazione di un'insularità
+imperiale gettarono un momentaneo bagliore sul buio paesaggio
+dello Shropshire Lad; benché io [[Fear|tema]] che molti [[Innocent|innocenti]] patrioti
+non percepissero il sogghigno volterriano nei versi patriottici:
+«Generate i figli che i vostri padri generarono, e Dio salverà la [[Queen|Regina]].»
+I miei presenti pregiudizi sarebbero soddisfatti dal dire che l'ultimo
+[[Decay|Decadimento]] del Protestantesimo prese la forma del Prussianesimo.
 
-Ma qui sto descrivendo me stesso quale ero, quando puro e incontaminato da simili pregiudizi. E ciò che desidero attestare, meramente come testimone del fatto, è che lo sfondo di tutto quel mondo non era soltanto l'ateismo, ma l'ortodossia atea, e perfino la rispettabilità atea. Ciò era comune tanto a Belgravia quanto alla Bohème. Ciò era soprattutto normale nella Suburbia; e solo per questa ragione in questo particolare eccentrico sobborgo. In quel sobborgo, il tipo del [[Time|tempo]] non era un uomo come Archie MacGregor bensì un uomo come St. John Hankin. E il punto è che un uomo come St. John Hankin non era eccentrico ma centrico. Era un pessimista, il che è qualcosa di più ateistico di un ateo; era uno scettico fondamentale, cioè un uomo senza fondamenti; era uno che credeva ancor meno nell'Uomo di quanto credesse in Dio; disprezzava la [[democracy|democrazia]] ancor più della devozione; era dichiaratamente privo di entusiasmi di ogni genere; ma in tutto questo era centrico. Era assai vicino al centro della cultura e della [[philosophy|filosofia]] di [[London|Londra]] a quel [[Time|tempo]]. Era un uomo di reale talento; e il [[Memory|ricordo]] di alcune delle sue divertenti parodie letterarie ancora permane. Egli non mi era antipatico, benché lo fosse a molti; ma in un certo senso [[Despair|disperavo]] di lui, come egli disperava di ogni cosa. Ma è del tutto tipico del [[Time|tempo]] che il suo pessimismo riuscisse ad apparire sul Punch; e che, quasi [[Alone|solo]] tra quei costumi artistici laceri o ridicoli o affettati, egli indossasse sempre l'abito da sera. Aveva una bassa opinione del mondo, ma era un uomo di mondo; e specialmente del mondo com'era allora.
+Ma sto qui descrivendo me stesso come ero, quando puro e non inquinato
+da simili pregiudizi. E ciò che voglio attestare, meramente come testimone
+del fatto, è che lo sfondo di tutto quel mondo non era
+meramente ateismo, ma ortodossia atea, e persino rispettabilità atea.
+Ciò era altrettanto comune a Belgravia quanto in Bohème. Ciò era soprattutto
+normale in Suburbia; e solo per quella ragione in questo particolare
+eccentrico sobborgo. In quel sobborgo, il tipo dell'[[Time|epoca]] non era un uomo
+come Archie MacGregor ma un uomo come St. John Hankin. E il punto
+è che un uomo come St. John Hankin non era eccentrico ma centrico.
+Era un pessimista, che è qualcosa di più ateistico di un ateo;
+era uno scettico fondamentale, cioè un uomo senza fondamenti;
+era uno che diffidava dell'Uomo assai più di quanto diffidasse di Dio;
+disprezzava la [[democracy|democrazia]] persino più della devozione; era dichiaratamente
+privo di entusiasmi di ogni sorta; ma in tutto questo era centrico.
+Era assai vicino al centro della cultura e della [[philosophy|filosofia]] di
+[[London|Londra]] in quel [[Time|periodo]]. Era un uomo di reale talento; e la [[Memory|Memoria]]
+di alcune delle sue divertenti parodie letterarie rimane ancora.
+Non mi era antipatico, benché lo fosse a molti; ma in un certo senso [[Despair|disperavo]]
+di lui, come egli disperava di ogni cosa. Ma è del tutto
+tipico del [[Time|periodo]] che il suo pessimismo riuscisse ad apparire su Punch;
+e che, quasi [[Alone|solo]] tra quei laceri o ridicoli o affettati
+costumi artistici, egli indossasse sempre l'abito da sera. Aveva una bassa
+opinione del mondo, ma era un uomo di mondo; e specialmente
+del mondo com'era allora.
 
-Ora, contro questo grigio sfondo di tetro materialismo moderno, Willie Yeats andava tranquillamente in giro come l'Uomo Che Conosceva le Fate. Yeats stava per l'incanto; esattamente là dove Hankin stava per il disincanto. Ma io godevo in modo tutto speciale dell'istinto combattivo che rendeva l'irlandese così fermo e reciso al riguardo. Egli era il vero razionalista originario che diceva che le fate stanno a ragione. Sconcertava i materialisti attaccando il loro astratto materialismo con un misticismo del tutto concreto; «[[Imagination|Immaginazione]]!», diceva con fulminante disprezzo; «Non c'era molta [[Imagination|immaginazione]] quando il fattore Hogan fu trascinato giù dal letto e bastonato come un sacco di patate—quello sì che l'hanno fatto, l'hanno tirato fuori»; l'accento irlandese che si scaldava di scherno; «l'hanno tirato fuori e l'hanno pestato; e non è il genere di cosa che un uomo abbia voglia d'immaginare». Ma gli esempi concreti non erano soltanto una [[Comedy|commedia]]; egli usava un argomento che era solido, e non l'ho mai dimenticato. È il fatto che non sono gli uomini anormali come gli artisti, bensì gli uomini normali come i contadini, ad aver reso testimonianza mille volte a simili cose; sono i fattori a vedere le fate. È il bracciante agricolo che chiama pane il pane a chiamare pure spirito uno spirito; è il [[Woodcutter|taglialegna]] che non ha altro interesse in ballo, se non tagliare la legna, a dire di aver visto un uomo pendere da una forca e poi aggirarsi intorno ad essa come un [[Ghost|fantasma]]. Sta tutto molto [[Well|bene]] dire che non dovremmo credere al [[Ghost|fantasma]] sulla testimonianza di un uomo ignorante. Ma dovremmo impiccare l'uomo alla forca sulla testimonianza di quello stesso uomo.
+Ora, contro questo scialbo sfondo di tetro materialismo moderno,
+Willie Yeats camminava con calma come l'Uomo Che Conosceva le Fate.
+Yeats stava per l'incanto; esattamente dove Hankin stava
+per il disincanto. Ma io mi rallegravo in modo assai speciale dell'istinto combattivo
+che rendeva l'irlandese così fermo e positivo al riguardo.
+Era il vero originale razionalista che diceva che le fate
+stanno a ragione. Sbalordiva i materialisti attaccando
+il loro astratto materialismo con un misticismo del tutto concreto;
+«[[Imagination|Immaginazione]]!» diceva con appassito disprezzo; «Non c'era
+molta [[Imagination|immaginazione]] quando Farmer Hogan fu tirato giù dal letto e
+bastonato come un sacco di patate — quello fecero, lo tirarono fuori;»
+l'accento irlandese scaldandosi di scherno; «lo tirarono fuori e lo picchiarono;
+e non è il genere di cosa che un uomo vorrebbe immaginare.»
+Ma gli esempi concreti non erano soltanto una [[Comedy|Commedia]]; egli usava
+un argomento che era valido, e non l'ho mai dimenticato.
+È il fatto che non sono uomini anomali come gli artisti,
+ma uomini normali come i contadini, ad aver testimoniato mille
+volte simili cose; sono i contadini a vedere le fate.
+È il bracciante agricolo che chiama pane il pane e vino il vino a
+chiamare anche uno spirito uno spirito; è il [[Woodcutter|Taglialegna]] senza secondi fini,
+tranne quello di tagliar legna, a dire di aver visto un uomo pendere da una forca
+e in seguito aggirarsi intorno a essa come un [[Ghost|Fantasma]]. È [[Well|facile]] dire
+che non dovremmo credere nel [[Ghost|Fantasma]] sulla testimonianza di un uomo ignorante.
+Ma impiccheremmo l'uomo alla forca sulla testimonianza dello stesso uomo.
 
-Io ero tutto per battermi in favore di Willie Yeats e delle sue fate contro il materialismo. Ero specialmente per battermi in favore di Willie Yeats e dei suoi fattori contro il meccanico materialismo urbano. Ma già era sorta un'ulteriore complicazione, che devo cercare di spiegare; non solo per spiegare me stesso, ma per spiegare l'intero sviluppo della poesia e del periodo. Era già apparso in quel mondo l'inizio di una reazione contro il materialismo; qualcosa di analogo a ciò che da allora è apparso nella forma dello Spiritismo. Ha perfino assunto la forma ancora più provocatoria della Scienza Cristiana, che negava l'esistenza del [[Body|corpo]] solo perché i suoi nemici avevano negato l'esistenza dell'[[Soul|anima]]. Ma la forma che assunse per prima, o più generalmente, nel mondo di cui parlo, fu la cosa comunemente chiamata Teosofia; talora chiamata anche Buddhismo Esoterico. È probabile che qui io debba almeno concedere l'accusa di un pregiudizio. Se esisteva, non era un pregiudizio ortodosso o religioso o nemmeno pio. Io stesso ero quasi interamente Pagano e Panteista. Quando detestavo la Teosofia non avevo Teologia. Forse non detestavo la Teosofia, ma solo i Teosofi. È certamente vero, temo, quale che sia la mancanza di [[Charity|carità]], che io detestavo alcuni Teosofi. Ma non li detestavo perché avessero dottrine erronee, mentre io stesso non avevo dottrine; o perché non avessero titolo a dirsi Cristiani, mentre in realtà avrebbero rivendicato il [[Christianity|Cristianesimo]], tra le altre cose, con assai più sicurezza di quanto potessi io stesso. Li detestavo perché avevano occhi lucidi e ciottolosi e sorrisi pazienti. La loro pazienza consisteva per lo più nell'attendere che gli altri si elevassero al piano spirituale sul quale essi già stavano. È un fatto curioso che non parvero mai [[Hope|sperare]] di poter evolvere e raggiungere il piano sul quale già stava il loro onesto [[grocer|droghiere]]. Non volevano mai attaccare il proprio pesante carro a un [[cabman|vetturino]] che si libra in alto; o vedere l'[[Soul|anima]] della loro donna delle pulizie come una stella far cenno verso le sfere dove dimorano gli immortali. Eppure sospetto di essere ingiusto verso queste persone nelle loro reali personalità. Immagino fosse una combinazione di tre cose; l'Asia e l'Evoluzione e la signora inglese; e credo che sarebbero più simpatiche prese separatamente.
+Ero tutto per combattere per Willie Yeats e le sue fate
+contro il materialismo. Ero specialmente per combattere per Willie Yeats
+e i suoi contadini contro il meccanico materialismo urbano.
+Ma era già sorta un'ulteriore complicazione, che devo tentare
+di spiegare; non solo per spiegare me stesso, ma per spiegare l'intero
+sviluppo della poesia e del periodo. Erano già apparsi
+in quel mondo gli inizi di una reazione contro il materialismo;
+qualcosa di analogo a ciò che è da allora apparso nella forma
+dello Spiritismo. Ha persino preso la forma ancor più sfidante
+della Christian Science, che negava l'esistenza del [[Body|Corpo]]
+meramente perché i suoi nemici avevano negato l'esistenza dell'[[Soul|Anima]].
+Ma la forma che prese per prima, o più in generale, nel mondo
+di cui parlo, era la cosa comunemente chiamata Teosofia;
+anche talvolta chiamata Buddismo Esoterico. È probabile che io debba
+qui concedere quanto meno l'accusa di un pregiudizio. Se esisteva,
+non era un pregiudizio ortodosso o religioso o persino pio.
+Io stesso ero quasi interamente Pagano e Panteista. Quando mi era antipatica
+la Teosofia non avevo alcuna Teologia. Forse non mi era antipatica la Teosofia,
+ma solo i Teosofi. È di certo vero, temo,
+qualunque sia il fallimento nella [[Charity|Carità]], che alcuni Teosofi mi erano antipatici.
+Ma non mi erano antipatici perché avevano dottrine erronee,
+quando io stesso non avevo dottrine; o perché non avevano alcuna pretesa di
+essere cristiani, quando in effetti avrebbero rivendicato il [[Christianity|Cristianesimo]],
+tra le altre cose, assai più fiduciosamente di quanto potessi io stesso.
+Mi erano antipatici perché avevano occhi lucidi e ciottolosi e sorrisi pazienti.
+La loro pazienza consisteva per lo più nell'attendere che altri salissero
+al piano spirituale dove essi stessi già stavano.
+È un fatto curioso, che non parevano mai [[Hope|sperare]] di poter
+evolvere e raggiungere il piano dove il loro onesto verdu[[grocer|raio]]
+già stava. Non volevano mai agganciare il proprio pesante
+carro a un [[cabman|cocchiere]] che si librava; o vedere l'[[Soul|Anima]] della loro donna delle pulizie
+come una stella far cenno alle sfere dove sono gli immortali. Eppure
+sospetto di essere ingiusto verso questa gente nelle loro reali personalità.
+Immagino fosse una combinazione di tre cose; l'Asia e l'Evoluzione
+e la signora inglese; e credo che sarebbero più simpatiche separate.
 
-Ora Yeats non somigliava minimamente a queste signore Teosofiche; né seguiva o cercava la loro speciale profetessa spirituale, Mrs. Besant, che era un'egoista dignitosa, distinta, sincera, idealista. Egli cercava Madam Blavatsky, che era una vecchia canaglia rozza, arguta, vigorosa, scandalosa; e ammiro il suo gusto. Ma credo davvero che questa particolare piega orientale gli fece fare una brutta [[Dance|danza]], quando seguì i fachiri e non le fate. Non sarò frainteso se dico di quel grand'uomo che è stregato; vale a dire, che Madam Blavatsky era una [[Witch|strega]].
+Ora Yeats non era minimamente simile a queste signore Teosofiche;
+né seguiva o cercava la loro speciale profetessa spirituale,
+la signora Besant, che era una dignitosa, distinta, sincera, idealistica egoista.
+Egli cercò Madame Blavatsky, che era una rozza, arguta, vigorosa,
+scandalosa vecchia canaglia; e ammiro il suo gusto.
+Ma credo davvero che questa particolare torsione orientale lo trascinasse in un [[Dance|Ballo]],
+quando seguì i fachiri e non le fate. Non sarò
+frainteso se dico di quel grand'uomo che è stregato;
+cioè, che Madame Blavatsky era una [[Witch|Strega]].
 
-Poiché, che Yeats fosse stregato o no, è certo che Yeats non fu ingannato. Non si lasciò abbindolare dal sorriso teosofico; o da tutta quella splendente, o piuttosto lustra, superficie di ottimismo. Egli, avendo una mente più penetrante, aveva già penetrato l'essenziale pessimismo che si cela dietro quella placidità asiatica; ed è sostenibile che il pessimismo non fosse tanto deprimente quanto l'ottimismo. Comunque sia, mentre quelle assai raffinate signore inglesi passavano di stella in stella, come di gradino in gradino, egli sapeva abbastanza di ciò che si intendeva con la Dolorosa [[Wheel|Ruota]], da rendersi conto che questa stellata scalinata somigliava straordinariamente a un mulino da forzati. I più febbrili dei miei amici, in questo circolo, andavano a sedersi in stanze piene di immagini di Buddha per calmarsi; benché io stesso non abbia mai avuto bisogno di alcuna immagine di Buddha per essere incoraggiato a non far nulla o ad addormentarmi nel [[Sleep|sonno]]. Ma Yeats conosceva qualcosa della mente e non solo del volto di Buddha; e per quanto non avrebbe mai usato simili termini tennysoniani, sapeva che ciò significava per la sua stessa mente, se pure calma, se pure vi era calma, una calma [[Despair|disperazione]]. Nello schema del misticismo verso cui egli sempre più tendeva dopo le sue prime più fortunate avventure tra fattori e fate, le antiche religioni stavano sempre più per l'idea che il segreto de [[The Sphinx|la sfinge]] è che essa non ha segreto. Il velo di Iside era sempre più semplicemente il velo di Maya; illusione, che finisce con l'ultima illusione che il velo di Iside sia squarciato; l'ultima e peggiore illusione che noi siamo davvero disillusi. Mi disse una volta, a proposito della delusione di qualcuno per qualcosa di conseguito: «Non ti alzeresti dalla poltrona per attraversare la stanza, se la [[Nature|Natura]] non avesse la sua sacca d'illusioni». Poi aggiunse, come contro una silenziosa protesta: «Non è una [[philosophy|filosofia]] molto allegra che tutto sia illusione». E non lo era. Non posso rispondere per le fate, ma [[Doubt|dubito]] che i fattori l'accettassero; e vi era qualcosa in un giornalista cockney a metà cresciuto che rifiutava interamente di accettarla. Cosicché mi trovai in questo strano [[Double|duplice]] atteggiamento verso il poeta, concordando con lui sulle fiabe sulle quali la maggior parte della gente dissentiva da lui, e dissentendo da lui sulla [[philosophy|filosofia]] sulla quale la maggior parte della gente concordava con lui, sebbene in modo assai più fangoso e prosaico. Così, quando lessi quella meravigliosa pièce poetica, Land of Heart's [[Desire]], rappresentata poco dopo all'Abbey Theatre, ebbi la netta sensazione, non tanto di non credere alle fate, quanto di dissentire da esse. Benché allora non avessi più idea di essere un Cattolico di quanta ne avessi di essere un Cannibale, le mie simpatie erano tutte per la Famiglia contro la Fata. Erano già allora per il sacerdote contro la fata. In tutto quel [[Magic|magico]] scoppio di musica, vi era una sola cosa detta dalla fata con la quale simpatizzassi pienamente e interamente; ed era il verso: «Sono stanca di venti e di acque e di pallide luci». Non credo di aver nulla da mutare nella sentenza di critica letteraria che scrissi assai tempo dopo: «C'è una sola cosa contro il Land of Heart's [[Desire]]; il cuore non lo [[Desire|desidera]]». Eppure ammiravo la pièce quasi appassionatamente come pièce; e nei dibattiti di mera letteratura la difesi sempre contro gli stupidi scherzi sul Crepuscolo Celtico proferiti da coloro che preferivano la Nebbia di [[London|Londra]]. Così, più tardi, quando ero al Daily News, difesi, contro il critico teatrale, il merito drammatico di una pièce successiva, che è piena di buone cose; la pièce intitolata Where There Is Nothing There Is God. Ma io andavo tutto brancolando e gemendo e travagliando con una mia [[philosophy|filosofia]] informe e a metà cotta, che era quasi l'inverso dell'affermazione che dove non c'è nulla c'è Dio. La [[Truth|verità]] mi si presentava, piuttosto, nella forma che dove c'è qualcosa c'è Dio. Nessuna delle due affermazioni è adeguata in [[philosophy|filosofia]]; ma sarei stato stupefatto di sapere quanto vicino in certi modi fosse il mio Qualcosa all'Ens di San Tommaso d'[[aquinas|Aquino]].
+Poiché, che Yeats fosse stregato o no, è certo che Yeats
+non era ingannato. Non si lasciava abbindolare dal sorriso teosofico;
+o da tutta quella splendente, o piuttosto lucida, superficie di ottimismo.
+Egli, avendo una mente più penetrante, aveva già penetrato fino
+all'essenziale pessimismo che sta dietro quella placidità asiatica;
+ed è sostenibile che il pessimismo non fosse così deprimente quanto
+l'ottimismo. Comunque, mentre quelle signore inglesi altamente raffinate
+salivano di stella in stella, come di scalino in scalino, egli sapeva
+abbastanza di ciò che si intendeva con la Dolorosa [[Wheel|Ruota]], da rendersi conto che questa
+stellare scalinata era straordinariamente simile a un mulino da tortura. I più febbrili
+dei miei amici, in questa cerchia, erano soliti andare a sedersi in stanze piene
+di immagini di Buddha per calmarsi; benché io stesso non abbia mai avuto bisogno
+di alcuna immagine di Buddha per incoraggiarmi a non far nulla o ad andare a [[Sleep|dormire]].
+Ma Yeats conosceva qualcosa della mente e non solo del volto di Buddha;
+e se non avrebbe mai usato tali termini tennysoniani, sapeva
+che per la sua stessa mente significava, se calma affatto, se qualche calma,
+una calma [[Despair|Disperazione]]. Nello schema di misticismo verso cui egli sempre
+più tendeva dopo le sue prime più fortunate avventure tra
+contadini e fate, le antiche religioni stavano sempre più per
+l'idea che il segreto de [[The Sphinx|La Sfinge]] è che essa non ha alcun segreto.
+Il velo di Iside era sempre più meramente il velo di Maya;
+illusione, che finiva con l'ultima illusione che il velo di Iside sia squarciato;
+l'ultima e peggiore illusione che noi siamo davvero disillusi.
+Egli mi disse una volta, a proposito della delusione di qualcuno per
+qualcosa di realizzato: «Non ti alzeresti dalla tua sedia e non attraverseresti
+la stanza, se la [[Nature|Natura]] non avesse il suo sacco d'illusioni.»
+Poi aggiunse, come contro una silenziosa protesta: «Non è una
+[[philosophy|filosofia]] molto allegra che tutto sia illusione.» Non lo era.
+Non posso rispondere per le fate, ma [[Doubt|dubito]] che i contadini
+l'accettassero; e c'era qualcosa in un mezzo-cresciuto giornalista
+Cockney che rifiutava del tutto di accettarlo. Cosicché mi ritrovai
+in questo strano [[Double|Duplice]] atteggiamento verso il poeta, concordando con lui sulle
+fiabe su cui la maggior parte della gente dissentiva da lui, e dissentendo
+da lui sulla [[philosophy|filosofia]] su cui la maggior parte della gente concordava con lui,
+benché in modo assai più fangoso e prosaico. Così, quando lessi quel
+meraviglioso dramma poetico, Land of Heart's [[Desire]], prodotto poco dopo al
+Teatro dell'Abbazia, ero consapevole dell'acuta sensazione, non tanto
+di non credere nelle fate, quanto di dissentire da esse.
+Benché io non avessi allora più idea di essere un Cattolico che di essere
+un Cannibale, le mie simpatie erano tutte per la Famiglia contro la Fata.
+Erano perfino allora per il prete contro la fata.
+In tutto quel [[Magic|magico]] scoppio di musica, c'era solo una cosa detta
+dalla fata con cui simpatizzai pienamente e interamente; ed era
+il verso: «Sono stanca di venti e acque e pallide luci.»
+Non credo di aver nulla da mutare nella sentenza di critica
+letteraria che scrissi molto tempo dopo: «C'è solo una cosa
+contro Land of Heart's [[Desire]]; il cuore non lo [[Desire|Desidera]].»
+Eppure ammirai il dramma quasi appassionatamente come dramma; e nei dibattiti
+di mera letteratura, lo difesi sempre contro gli sciocchi scherzi sul
+Crepuscolo Celtico proferiti da coloro che preferivano la Nebbia di [[London|Londra]].
+Così, più tardi, quando ero al Daily News, difesi, contro il
+critico drammatico, il merito drammatico di un dramma successivo, che è pieno
+di cose buone; il dramma chiamato Where There Is Nothing There Is God.
+Ma ero tutto un brancolare e gemere e travagliare con una inchoata
+e semicotta [[philosophy|filosofia]] tutta mia, che era assai vicina
+al rovescio dell'osservazione che dove non c'è nulla c'è Dio.
+La [[Truth|Verità]] mi si presentava, piuttosto, nella forma che dove
+c'è qualcosa c'è Dio. Nessuna delle due affermazioni è adeguata in [[philosophy|filosofia]];
+ma sarei stato stupito di sapere quanto vicino in certi modi fosse il mio
+Qualcosa all'Ens di San Tommaso d'[[aquinas|Aquino]].
 
-Vi era un circolo di dibattito a Bedford Park, nel quale per la prima volta misi alla prova le mie idee grezze con una retorica ancor più grezza. Meritava trattamento migliore. Era spassosissimo. Si chiamava «I.D.K.»; e si supponeva che al vero significato delle iniziali si accompagnasse un tremendo sigillo di segretezza. Forse i Teosofi credevano davvero che significasse India's Divine Karma. Può darsi che i Socialisti lo interpretassero come «Individualists Deserve Kicking», gli Individualisti Meritano Calci. Ma era rigida regola del club che i suoi membri professassero ignoranza del significato del suo nome; alla maniera del movimento Know-Nothing nella politica americana. L'estraneo, il mero intruso nel villaggio sacro, chiedeva: «Ma che cosa significa I.D.K.?»; e ci si aspettava che l'iniziato scrollasse le spalle e dicesse: «I don't know», non lo so, in tono noncurante; nella [[Hope|speranza]] che non ci si accorgesse che, in un apparente rifiuto di rispondere, egli aveva in realtà risposto. Non so se questo motto fosse simbolico dell'agnosticismo di uomini come Hankin o del misticismo di uomini come Yeats. Ma entrambi i punti di vista erano, naturalmente, presenti; e credo che si spartissero abbastanza [[Well|bene]] quel mondo intellettuale. Certamente io preferii sempre il Crepuscolo Celtico alla mezzanotte materialistica. Avevo più simpatia per il mantello del mago che vestiva l'uomo che credeva nella [[Magic|magia]], o per le scure ciocche fatate del poeta che aveva davvero qualcosa da dirci sugli elfi, che per gli abiti neri e lo sparato bianco di quella sorta d'uomo che pareva proclamare che il mondo moderno, perfino quando è festoso, è solo tanto più funereo. Ciò di cui non mi rendevo conto era che vi era un terzo angolo, e un angolo assai acuto, capace di trafiggere con l'affilatura, e alcuni direbbero l'angustia, di una [[Sword|spada]].
+C'era un circolo di dibattito a Bedford Park, sul quale provai per la prima volta le mie
+rozze idee con una retorica ancor più rozza. Meritava trattamento migliore.
+Era spaventosamente divertente. Si chiamava l'«I.D.K.»; e un tremendo sigillo
+di segretezza si supponeva si attaccasse al vero significato delle iniziali.
+Forse i Teosofi credevano davvero che significasse
+Il Divino Karma dell'India. Forse i Socialisti lo interpretavano come
+«Gli Individualisti Meritano Calci» [Individualists Deserve Kicking]. Ma era una rigida regola del circolo
+che i suoi membri professassero ignoranza del significato del suo nome;
+alla maniera del movimento Know-Nothing nella politica americana.
+Lo straniero, il mero intruso nel sacro villaggio, avrebbe chiesto:
+«Ma che cosa significa I.D.K.?»; e ci si aspettava che l'iniziato scrollasse
+le spalle e dicesse: «Non lo so» [I Don't Know], in modo noncurante; nella [[Hope|speranza]]
+che non ci si rendesse conto che, in un apparente rifiuto di rispondere,
+egli aveva in effetti risposto. Non so se questo motto fosse simbolico
+dell'agnosticismo di uomini come Hankin o del misticismo di uomini come Yeats.
+Ma entrambi i punti di vista erano, s'intende, presenti; e credo che essi
+dividessero abbastanza [[Well|bene]] tra loro quel mondo intellettuale. Di certo
+preferii sempre il Crepuscolo Celtico alla mezzanotte materialistica.
+Avevo più simpatia col mantello del mago che vestiva l'uomo
+che credeva nella [[Magic|Magia]], o coi neri riccioli elfici del poeta che aveva
+davvero qualcosa da dirci sugli elfi, che coi neri abiti
+e lo sparato bianco del genere d'uomo che pareva proclamare che
+il mondo moderno, anche quando è festoso, è solo tanto più funereo.
+Ciò di cui non mi rendevo conto era che c'era un terzo angolo, e un assai
+acuto angolo, che era capace di trafiggere con l'affilatezza,
+e alcuni direbbero la strettezza, di una [[Sword|Spada]].
 
-La segretaria di questo circolo di dibattito dava sempre prova della propria efficienza rifiutandosi interamente di [[debate|dibattere]]. Era una di una famiglia di sorelle, con un fratello, che avevo conosciuto per il tramite di Oldershaw; e avevano una cugina nei paraggi, che era fidanzata con un professore tedesco e permanentemente affascinata dal tema delle fiabe tedesche. Era naturalmente attratta anche dalle fiabe celtiche che circolavano nel vicinato; e un giorno tornò raggiante con la notizia che Willie Yeats le aveva fatto l'oroscopo, o compiuto qualche simile rito occulto, e le aveva detto che ella era specialmente sotto l'influsso della [[Moon|luna]]. Mi capitò di accennarlo a una sorella della segretaria, che era appena rientrata nel circolo familiare, ed ella mi disse nel tono più normale e privo di pretese che odiava la [[Moon|luna]].
+La segretaria di questo circolo di dibattito provava sempre la sua efficienza
+rifiutandosi interamente di [[debate|dibattere]]. Era una di una famiglia
+di sorelle, con un fratello, che ero giunto a conoscere attraverso
+gli uffici di Oldershaw; e avevano una cugina sul posto,
+che era fidanzata con un professore tedesco e permanentemente affascinata
+dal soggetto delle fiabe tedesche. Era naturalmente attratta
+anche dalle fiabe celtiche che erano in circolazione nel vicinato;
+e un giorno tornò raggiante con la notizia che Willie Yeats
+le aveva tratto l'oroscopo, o compiuto un qualche simile rito occulto,
+e le aveva detto che era specialmente sotto l'influenza della [[Moon|Luna]].
+Mi càpitò di menzionare questo a una sorella della segretaria, che era
+appena tornata al circolo familiare, ed ella mi disse nel modo più
+normale e senza pretese che odiava la [[Moon|Luna]].
 
-Parlai con la stessa signora parecchie volte in seguito; e trovai che questa era una perfettamente onesta esposizione del fatto. Il suo atteggiamento su questa e su altre cose poteva chiamarsi un pregiudizio; ma non poteva in alcun modo chiamarsi una fissazione, e tanto meno un'affettazione. Ella aveva davvero un'ostinata avversione per tutte quelle forze naturali che parevano sterili o senza scopo; le dispiacevano i venti rumorosi che parevano non andare in nessun luogo; non si curava molto del mare, spettacolo di cui io ero assai amante; e per il medesimo istinto era in urto con la [[Moon|luna]], che diceva avesse l'aria di un'imbecille. D'altra parte, aveva una sorta di famelico appetito per tutte le cose feconde come i campi e i giardini e qualunque cosa legata alla produzione; riguardo a cui era del tutto pratica. Praticava il giardinaggio; in quella curiosa cultura cockney sarebbe stata pronta a praticare pure l'agricoltura; e sullo stesso perverso principio, ella praticava per davvero una religione. Questo era qualcosa di assolutamente inspiegabile tanto per me quanto per l'intera pignola cultura in cui viveva. Un gran numero di persone proclamavano religioni, per lo più religioni orientali, le analizzavano o ne discutevano; ma che qualcuno potesse considerare la religione come una cosa pratica al pari del giardinaggio era qualcosa di del tutto nuovo per me e, per i suoi vicini, nuovo e incomprensibile. Ella era stata, per un accidente, allevata nella scuola di un convento anglo-cattolico; e a tutto quel mondo agnostico o mistico, praticare una religione era assai più sconcertante che professarla. Era un tipo bizzarro. Portava un abito di velluto verde striato di pelliccia grigia, che avrei chiamato artistico, se non fosse che ella odiava tutti i discorsi sull'arte; e aveva un volto attraente, che avrei chiamato fatato, se non fosse che ella odiava tutti i discorsi sulle fate. Ma ciò che era arrestante e quasi agghiacciante il [[Blood|sangue]] in lei, in quell'atmosfera sociale, non era tanto che ella la odiasse, quanto che ne fosse interamente immune. Ella non seppe mai cosa si intendesse con l'essere «sotto l'influsso» di Yeats o di [[Shaw]] o di [[tolstoy|Tolstoj]] o di chiunque altro. Era intelligente, con un grande [[Love|amore]] per la letteratura, e specialmente per Stevenson. Ma se Stevenson fosse entrato nella stanza e avesse spiegato i suoi dubbi personali sull'[[Immortality|immortalità]] personale, ella si sarebbe rammaricata che egli fosse in errore su quel punto; ma per il resto ne sarebbe rimasta del tutto immune. Ella non somigliava affatto a Robespierre, se non in un gusto per la nitidezza nel vestire; eppure è solo nel libro di Mr. Belloc su Robespierre che io abbia mai trovato parole capaci di descrivere l'unica qualità che la separava dalla cultura corrente e la salvava da essa. «Dio gli aveva dato nella mente un tabernacolo di pietra in cui certe grandi verità erano conservate imperiture».
+Parlai alla stessa signora diverse volte in seguito; e scoprii
+che questa era una dichiarazione perfettamente onesta del fatto.
+Il suo atteggiamento su questo e altre cose poteva chiamarsi un pregiudizio;
+ma non poteva assolutamente chiamarsi una fissazione, ancor meno un'affettazione.
+Aveva davvero un'ostinata obiezione a tutte quelle forze naturali
+che parevano essere sterili o senza scopo; le dispiacevano i venti sonori
+che parevano non andare da nessuna parte; non le importava molto del mare,
+uno spettacolo di cui io ero assai amante; e per lo stesso istinto
+era contro la [[Moon|Luna]], che diceva sembrasse un imbecille.
+D'altra parte, aveva una sorta di affamato appetito per tutte le cose fruttuose
+come i campi e i giardini e qualsiasi cosa connessa con la produzione;
+riguardo a cui era del tutto pratica. Praticava il giardinaggio;
+in quella curiosa cultura Cockney sarebbe stata del tutto pronta
+a praticare l'agricoltura; e sullo stesso perverso principio, praticava effettivamente
+una religione. Questo era qualcosa di del tutto inspiegabile
+sia per me sia per l'intera pignola cultura in cui viveva.
+Un numero qualunque di persone proclamava religioni, principalmente religioni orientali,
+le analizzava o discuteva su di esse; ma che qualcuno potesse considerare la religione
+come una cosa pratica al pari del giardinaggio era qualcosa di del tutto nuovo per me e,
+per i suoi vicini, nuovo e incomprensibile. Era stata,
+per un accidente, allevata nella scuola di un convento anglo-cattolico;
+e per tutto quel mondo agnostico o mistico, praticare una religione
+era assai più sconcertante del professarla. Era una carta strana.
+Indossava un abito di velluto verde barrato di pelliccia grigia, che avrei
+chiamato artistico, se non fosse che odiava tutto il parlare d'arte;
+e aveva un volto attraente, che avrei chiamato elfico,
+se non fosse che odiava tutto il parlare di elfi. Ma ciò che era arrestante
+e quasi [[Blood|agghiacciante]] in lei, in quell'atmosfera sociale, non era
+tanto che lo odiasse, quanto che ne fosse interamente non toccata.
+Non seppe mai che cosa si intendesse con l'essere «sotto l'influenza»
+di Yeats o [[Shaw]] o [[tolstoy|Tolstoj]] o chiunque altro. Era intelligente,
+con un grande [[Love|Amore]] per la letteratura, e specialmente per Stevenson. Ma se
+Stevenson fosse entrato nella stanza e avesse spiegato i suoi personali dubbi
+sulla personale [[Immortality|Immortalità]], ella si sarebbe rammaricata che egli fosse
+in errore sul punto; ma per il resto ne sarebbe stata del tutto non toccata.
+Non era affatto simile a Robespierre, tranne che in un gusto per l'ordine
+nel vestire; eppure è solo nel libro del signor Belloc su Robespierre
+che ho mai trovato parole che descrivano l'unica qualità
+che la tagliava fuori dalla cultura corrente e la salvava da essa.
+«Dio le aveva dato nella mente un tabernacolo di pietra in cui certe
+grandi verità erano preservate imperiture.»
 
-La vidi parecchio in seguito, in varie occasioni mondane del quartiere; ella fu testimone della grandiosa e [[Grotesque|grottesca]] occasione in cui andai in bicicletta per la prima e ultima [[Time|volta]]; abbigliato con la finanziera e il cilindro dell'epoca sul prato da tennis di Bedford Park. Credeteci o no (come dicono i grandi giornali quando raccontano menzogne fondate sull'ignoranza degli elementi della [[history|storia]]) ma è vero che girai e rigirai intorno al [[Court|campo]] da tennis con un perfetto equilibrio naturale, turbato soltanto dall'intellettuale problema di come diamine potessi scendere; alla fine caddi giù; non notai cosa accadde al mio cappello, ma d'altronde raramente lo notavo. L'immagine di quella mostruosa cavalcata rotante mi è spesso tornata alla mente, come indizio che qualcosa di strano dovette accadermi press'a poco in quel [[Time|tempo]]. La signora in questione lavorava assai duramente come segretaria di una società educativa a [[London|Londra]]; e mi formai allora l'impressione, che non ho perduto, che il peggio del lavoro oggigiorno sia ciò che accade alla gente quando cessa di lavorare; lo strepito di treni e tram e il lento ritorno a case remote. Ella era una persona assai vigile, e normalmente tutto il contrario di sbadata; ma mi disse una volta con qualche rimorso di essere stata così stanca da aver lasciato il proprio parasole nella sala d'attesa di una stazione ferroviaria. Sul momento non ci pensammo oltre; ma mentre camminavo verso [[Home|casa]] quella [[Night|notte]], secondo la mia consuetudine, da Bedford Park a Kensington, quasi nel bel mezzo della [[Night|notte]], mi capitò di vedere quella medesima stazione ferroviaria ergersi nera e massiccia contro il chiaro di luna; e commisi il mio primo e ultimo crimine; che fu un furto con scasso, e assai godibile. La stazione, o quella parte della stazione, pareva interamente sbarrata; ma io conoscevo esattamente l'ubicazione della sala d'attesa in questione; e trovai che la scorciatoia più breve per raggiungerla era arrampicarmi su per il ripido terrapieno erboso e strisciare sotto la banchina fin sui binari; poi mi issai sulla banchina e recuperai il parasole. Mentre tornavo per la medesima via (ancora nel malconcio cilindro e nella finanziera considerevolmente sconvolta) fissai il cielo e mi ritrovai colmo di ogni sorta di strane sensazioni. Mi sentii come se fossi appena caduto dalla [[Moon|luna]], col parasole per paracadute. Comunque sia, mentre volgevo lo sguardo indietro su per la china d'erba grigia nel chiaro di luna, come ultraterrene erbe lunari, non condivisi l'empietà della signora verso la patrona dei lunatici.
+La vidi parecchio in seguito, in varie occasioni sociali
+del distretto; fu testimone della grandiosa e [[Grotesque|Grottesca]]
+occasione in cui montai in bicicletta per la prima e ultima [[Time|volta]];
+agghindato nella redingote e nel cilindro del periodo sul prato
+da tennis di Bedford Park. Ci crediate o no (come dicono i grandi giornali
+quando raccontano bugie basate sull'ignoranza degli elementi della [[history|storia]])
+ma è vero che girai in tondo e in tondo per il [[Court|campo]] da tennis con
+un completo equilibrio naturale, disturbato solo dal problema
+intellettuale di come potessi mai scendere; alla fine caddi giù;
+non notai che cosa accadde al mio cappello, ma d'altronde raramente lo notavo.
+L'immagine di quella mostruosa cavalcata rotante mi è spesso ricorsa,
+come indicante che qualcosa di strano deve essermi accaduto intorno a
+quel [[Time|tempo]]. La signora in questione lavorava assai duramente come segretaria di
+una società educativa a [[London|Londra]]; e mi formai allora l'impressione,
+che non ho perduto, che il peggio del lavoro al giorno d'oggi sia ciò che accade
+alla gente quando cessa di lavorare; lo sferragliare di treni e tram
+e il lento ritorno a remote case. Era una persona assai vigile,
+e normalmente proprio il contrario di distratta; ma mi disse
+una volta con un certo rimorso che era stata così stanca da aver lasciato
+il parasole nella sala d'attesa di una stazione ferroviaria. Non ci pensammo
+più per il momento; ma mentre camminavo verso [[Home|casa]] quella [[Night|notte]],
+secondo la mia usanza, da Bedford Park a Kensington, quasi in mezzo alla
+[[Night|notte]], mi càpitò di vedere l'identica stazione ferroviaria
+ergersi nera e massiccia contro il chiaro di luna; e commisi
+il mio primo e ultimo crimine; che fu un furto con scasso, e assai godibile.
+La stazione, o quella parte della stazione, pareva essere interamente sbarrata;
+ma sapevo esattamente dove si trovava la sala d'attesa in questione;
+e scoprii che la scorciatoia più breve era arrampicarsi su per la ripida
+scarpata erbosa e strisciare sotto la banchina fuori sulla linea;
+mi arrampicai poi sulla banchina e recuperai il parasole.
+Mentre tornavo per la stessa via (ancora nel malconcio cilindro
+e nella considerevolmente scomposta redingote) fissai il cielo
+e mi ritrovai colmo di ogni sorta di strane sensazioni.
+Mi sentii come se fossi appena caduto dalla [[Moon|Luna]], col parasole
+per paracadute. Comunque, mentre guardavo indietro su per il declivio di zolla grigio
+nel chiaro di luna, come ultraterrene erbe lunari, non condividevo
+l'empietà della signora verso la patrona dei lunatici.
 
-Fu fortunato, tuttavia, che il nostro successivo più importante incontro non fosse sotto il segno della [[Moon|luna]] ma del sole. Ella ha spesso affermato, durante la nostra conoscenza più tarda, che se il sole non avesse splenduto con sua completa soddisfazione quel giorno, l'esito avrebbe potuto essere assai diverso. Accadde a St. James's Park; dove tengono le anatre e il ponticello, menzionato in un'opera non meno autorevole dell'[[Essay]] on Bridges di Mr. Belloc, giacché mi ritrovo a citare quell'autore ancora una volta. Credo che egli tratti con una certa dovizia di particolari, nella sua migliore maniera topografica, di vari siti storici sul Continente; ma poi ricade in una maniera più ampia, press'a poco così: «È giunto ora il [[Time|momento]] di parlare in generale dei Ponti. Il ponte più lungo del mondo è il Forth Bridge, e il ponte più corto del mondo è un asse sopra un fosso nel villaggio di Loudwater. Il ponte che più vi spaventa è il Brooklyn Bridge, e il ponte che meno vi spaventa è il ponte a St. James's Park». Ammetto di aver attraversato quel ponte in una sicurezza immeritata; e forse ero influenzato dalla mia precoce visione romantica del ponte che conduce alla torre della principessa. Ma posso assicurare al mio amico l'autore che il ponte a St. James's Park può spaventarvi parecchio.
+Fu fortunato, però, che il nostro successivo più importante
+incontro non fosse sotto il segno della [[Moon|Luna]] ma del sole.
+Ella ha spesso affermato, durante la nostra successiva conoscenza,
+che se il sole non avesse brillato di suo completo gradimento
+quel giorno, l'esito avrebbe potuto essere del tutto diverso.
+Accadde a St. James's Park; dove tengono le anatre e
+il piccolo ponte, che è stato menzionato in un'opera non meno autorevole
+del [[Essay|Saggio]] del signor Belloc sui Ponti, dato che mi ritrovo
+a citare quell'autore ancora una volta. Credo che egli tratti in un certo dettaglio,
+nella sua migliore maniera topografica, di vari siti storici sul
+Continente; ma poi ricade in una maniera più ampia, press'a poco così:
+«È giunto il [[Time|momento]] di parlare in generale dei Ponti. Il più lungo
+ponte del mondo è il Forth Bridge, e il più corto ponte
+del mondo è un'asse sopra un fosso nel villaggio di Loudwater.
+Il ponte che vi spaventa di più è il Brooklyn Bridge, e il
+ponte che vi spaventa di meno è il ponte a St. James's Park.»
+Ammetto di aver attraversato quel ponte in immeritata sicurezza; e forse
+fui influenzato dalla mia precoce romantica visione del ponte che conduceva
+alla torre della principessa. Ma posso assicurare al mio amico l'autore
+che il ponte a St. James's Park può spaventarvi parecchio.
 
 *****

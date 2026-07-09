@@ -139,17 +139,116 @@ Perhaps the one and only opinion that is really more than an opinion.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_16/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_16/part_05">part 05 ›</a></div>
 </nav>
 
-Cominciai con l'essere ciò che i pessimisti chiamavano un ottimista; ho finito con l'essere ciò che gli ottimisti con ogni probabilità chiamerebbero un pessimista. E di fatto non sono mai stato né l'uno né l'altro, e non sono mai realmente cambiato affatto. Cominciai difendendo le cassette postali vermiglie e gli omnibus vittoriani sebbene fossero brutti. Ho finito denunciando la pubblicità moderna o i film americani perfino quando sono belli. La cosa che cercavo di dire allora è la medesima cosa che cerco di dire adesso; e persino la più profonda rivoluzione della religione mi ha soltanto confermato nel [[Desire|desiderio]] di dirla. Poiché, in verità, non vidi mai le due facce di questa singola [[Truth|verità]] enunciate insieme in alcun luogo, finché non mi capitò di aprire il Penny Catechism e di leggere le parole: «I due peccati contro la [[Hope|Speranza]] sono la presunzione e la [[Despair|disperazione]]».
+Cominciai con l'essere ciò che i pessimisti chiamavano ottimista; ho finito
+con l'essere ciò che gli ottimisti chiamerebbero assai probabilmente pessimista.
+E in verità non sono mai stato né l'uno né l'altro, e non sono mai davvero cambiato
+affatto. Cominciai difendendo le cassette postali vermiglie e gli omnibus
+vittoriani benché fossero brutti. Ho finito denunciando le moderne
+pubblicità o i film americani anche quando sono belli.
+La cosa che cercavo di dire allora è la stessa cosa che
+cerco di dire ora; e persino la più profonda rivoluzione della religione
+non ha fatto che confermarmi nel [[Desire|desiderio]] di dirla. Poiché in verità, non
+vidi mai i due lati di quest'unica [[Truth|verità]] enunciati insieme in alcun luogo,
+finché non mi capitò di aprire il Penny Catechism e leggere le parole:
+«I due peccati contro la [[Hope|Speranza]] sono la presunzione e la [[Despair|Disperazione]]».
 
-Cominciai nella fanciullezza a cercarla a tastoni dall'estremità del tutto opposta; l'estremità della terra più remota dalle speranze puramente [[Supernatural|soprannaturali]]. Ma perfino riguardo alla più fioca [[Hope|speranza]] terrena, o alla più piccola felicità terrena, ebbi fin dal principio un senso quasi violentemente vivido di quei due pericoli; il senso che l'esperienza non dovesse essere guastata dalla presunzione o dalla [[Despair|disperazione]]. Per prendere un comodo motto dal mio primo giovanile libro di rime, mi chiedevo attraverso quali incarnazioni o purgatori prenatali dovessi essere passato, per meritare la ricompensa di guardare un dente di leone. Ora sarebbe facile abbastanza, se la cosa valesse la pena anche solo per un commentatore, datare quella frase in base a certi particolari, o indovinare che avrebbe potuto essere formulata altrimenti in un [[Time|tempo]] successivo. Non credo nella Reincarnazione, ammesso che vi abbia mai creduto; e da quando ho posseduto un [[Garden|giardino]] (poiché non posso dire da quando sono stato giardiniere) mi sono reso conto meglio di prima che vi sono davvero delle ragioni contro le erbacce. Ma nella sostanza ciò che dissi del dente di leone è esattamente ciò che direi del girasole o del sole, o della gloria che (come disse il poeta) è più luminosa del sole. L'unico modo di godere anche solo di un'erbaccia è sentirsi indegni perfino di un'erbaccia. Ora vi sono due modi di lamentarsi dell'erbaccia o del fiore; e uno era la moda nella mia giovinezza e un altro è la moda nei miei giorni più tardi; ma non solo sono entrambi errati, ma entrambi errati perché la medesima cosa è giusta. I pessimisti della mia fanciullezza, posti di fronte al dente di leone, dicevano con Swinburne:
+Cominciai nella mia fanciullezza a cercarla brancolando dall'estremità del tutto
+opposta; l'estremità della terra più remota dalle speranze puramente [[Supernatural|soprannaturali]]. Ma persino
+riguardo alla più fioca [[Hope|speranza]] terrena, o alla più piccola felicità terrena,
+ebbi fin dal principio un senso quasi violentemente vivido di quei due pericoli;
+il senso che l'esperienza non debba essere rovinata dalla presunzione
+o dalla [[Despair|disperazione]]. Per prendere una comoda etichetta dal mio primo giovanile libro
+di rime, mi chiesi attraverso quali incarnazioni o purgatori prenatali
+dovevo essere passato, per meritare la ricompensa di guardare un tarassaco.
+Ora sarebbe abbastanza facile, se la cosa valesse la pena persino
+per un commentatore, datare quella frase da certi dettagli,
+o congetturare che sarebbe potuta esser formulata altrimenti in un [[Time|tempo]] successivo.
+Non credo nella Reincarnazione, ammesso che ci abbia mai creduto; e da quando
+ho posseduto un [[Garden|giardino]] (poiché non posso dire da quando sono stato giardiniere)
+ho compreso meglio di prima che c'è davvero un caso
+contro le erbacce. Ma in sostanza ciò che dissi del tarassaco
+è esattamente ciò che direi del girasole o del sole,
+o della gloria che (come disse il poeta) è più splendente del sole.
+L'unico modo di godere persino di un'erbaccia è di sentirsi indegni persino di un'erbaccia.
+Ora ci sono due modi di lamentarsi dell'erbaccia o del fiore;
+e uno era la moda della mia giovinezza e l'altro è la moda
+dei miei giorni più tardi; ma non sono solo entrambi sbagliati, bensì entrambi sbagliati
+perché la stessa cosa è giusta. I pessimisti della mia fanciullezza,
+di fronte al tarassaco, dicevano con Swinburne:
 
   Sono stanco di tutte le ore
-  Boccioli dispersi e sterili [[Flowers|fiori]]
-  Desideri e [[Dreams|sogni]] e poteri
-  E ogni cosa fuorché il [[Sleep|sonno]].
+  Boccioli spirati e sterili [[Flowers|Fiori]]
+  Desideri e [[Dreams|Sogni]] e poteri
+  E ogni cosa tranne il [[Sleep|Sonno]].
 
-E a questo li maledicevo e tiravo loro calci e davo spettacolo di me; essendomi fatto campione del Dente di [[Lion|Leone]], con un dente di leone rampante nel mio cimiero. Ma vi è un modo di disprezzare il dente di leone che non è quello del tetro pessimista, bensì dell'ottimista più offensivo. Lo si può fare in vari modi; uno dei quali è dire: «Puoi trovare denti di leone molto migliori da Selfridge», oppure: «Puoi trovare denti di leone molto più a buon mercato da Woolworth». Un altro modo è osservare con noncurante strascico: «Naturalmente nessuno tranne Gamboli a Vienna capisce davvero i denti di leone», o dire che nessuno tollererebbe il vecchio dente di leone all'antica da quando il super-dente-di-leone è stato coltivato al Palm [[Garden|Garden]] di Francoforte; o semplicemente sogghignare sulla spilorceria di offrire denti di leone, quando tutte le migliori padrone di casa ti danno un'orchidea per l'occhiello e un mazzo di rare piante esotiche da portar via con te. Questi sono tutti metodi per svalutare la cosa per via di confronto; giacché non è la familiarità ma il confronto a generare il disprezzo. E tutti questi cavillosi confronti si fondano in ultimo sulla strana e sbalorditiva eresia che un essere umano abbia diritto ai denti di leone; che in qualche straordinaria maniera possiamo pretendere il fior fiore di tutti i denti di leone nel [[Garden|giardino]] del Paradiso; che non ne dobbiamo alcun ringraziamento e non abbiamo bisogno di provarne alcuna [[Wonder|meraviglia]]; e soprattutto nessuna [[Wonder|meraviglia]] d'essere ritenuti degni di riceverli. Invece di dire, come l'antico poeta religioso: «Che cos'è l'uomo, perché Tu ti curi di lui, o il figlio dell'uomo, perché Tu ne abbia riguardo?», dobbiamo dire come il [[cabman|vetturino]] scontento: «Che cos'è questo?», o come il Maggiore di malumore al club: «È questa una braciola degna di un gentiluomo?». Ora, non soltanto detesto quest'atteggiamento tanto quanto l'atteggiamento pessimistico swinburniano, ma penso che approdi press'a poco alla medesima cosa; all'effettiva perdita d'appetito per la braciola o per la tazza di tisana di dente di leone. E il suo nome è Presunzione e il nome del suo fratello gemello è [[Despair|Disperazione]].
+E a questo li maledicevo e sferravo loro calci e facevo di me stesso
+uno spettacolo; essendomi fatto il campione del Dente del [[Lion|Leone]],
+con un tarassaco rampante sul mio cimiero. Ma c'è un modo di
+disprezzare il tarassaco che non è quello del tetro pessimista,
+ma dell'ottimista più offensivo. Lo si può fare in vari modi;
+uno dei quali è dire: «Puoi avere tarassachi assai migliori
+da Selfridge», o «Puoi avere tarassachi assai più a buon mercato da Woolworth».
+Un altro modo è osservare con un casuale strascico di voce: «Naturalmente nessuno
+tranne Gamboli a Vienna capisce davvero i tarassachi», o dire
+che nessuno sopporterebbe più il tarassaco all'antica da quando
+il super-tarassaco è stato coltivato al Palm [[Garden]] di Francoforte;
+o semplicemente sogghignare sull'avarizia di offrire tarassachi,
+quando tutte le migliori padrone di casa ti danno un'orchidea per l'
+occhiello e un mazzo di rari esotici da portar via con te.
+Questi sono tutti metodi per svalutare la cosa per confronto;
+poiché non è la familiarità ma il confronto a generare disprezzo.
+E tutti simili cavillosi confronti si fondano in ultima analisi sulla strana
+e sbalorditiva eresia che un essere umano abbia diritto ai tarassachi;
+che in qualche straordinario modo possiamo esigere proprio il fior fiore
+di tutti i tarassachi nel [[Garden|Giardino]] del Paradiso; che non dobbiamo
+alcun ringraziamento per essi affatto e non abbiamo bisogno di provare alcuna [[Wonder|meraviglia]] per essi affatto;
+e soprattutto alcuna [[Wonder|meraviglia]] d'essere ritenuti degni di riceverli.
+Invece di dire, come il vecchio poeta religioso: «Cos'è l'uomo che
+Tu ti curi di lui, o il figlio dell'uomo che Tu lo consideri?»
+dobbiamo dire come lo scontento [[cabman|vetturino]]: «Cos'è questo?»
+o come il Maggiore bilioso al circolo: «È questa una costoletta degna
+di un gentiluomo?» Ora io non solo detesto quest'atteggiamento tanto
+quanto l'atteggiamento pessimistico swinburniano, ma penso che
+esso equivalga proprio alla stessa cosa; all'effettiva perdita d'appetito
+per la costoletta o per il piatto di tè di tarassaco. E il suo nome
+è Presunzione e il nome del suo gemello è [[Despair|Disperazione]].
 
-Questo è il principio che sostenevo quando parevo un ottimista al signor Max Beerbohm; e questo è il principio che sostengo tuttora quando indubbiamente parrei un pessimista al signor Gordon Selfridge. Lo scopo della vita è l'apprezzamento; non ha alcun senso non apprezzare le cose; e non ha alcun senso averne di più se se ne ha meno apprezzamento. Dissi in origine che un lampione da cockney dipinto di verde pisello era meglio di nessuna luce o di nessuna vita; e che se era un lampione solitario, avremmo potuto davvero vederne meglio la luce contro lo sfondo dell'oscurità. Il Decadente dei miei primi tempi, tuttavia, ne era così angustiato che voleva impiccarsi al lampione, spegnerne la lampada, e lasciare che tutto ricadesse nell'oscurità primigenia. Il moderno milionario viene affaccendandosi lungo la strada per dirmi che è un Ottimista e ha due milioni cinquemila nuovi lampioni, tutti già dipinti non di un verde pisello vittoriano ma di un giallo cromo futurista e di un azzurro elettrico, e che li pianterà su tutto il mondo in tal numero che nessuno li noterà, tanto più che appariranno tutti esattamente uguali. E io non riesco bene a vedere di che cosa l'Ottimista abbia da essere Ottimista. Un lampione può essere significativo benché sia brutto. Ma egli non rende i lampioni significativi; li rende insignificanti.
+Questo è il principio che sostenevo quando parevo un ottimista
+al signor Max Beerbohm; e questo è il principio che ancora sostengo
+quando dovrei senza dubbio parere un pessimista al signor Gordon Selfridge.
+Lo scopo della vita è l'apprezzamento; non c'è senso nel non
+apprezzare le cose; e non c'è senso nell'averne di più
+se se ne ha meno apprezzamento. Dissi originariamente che
+un lampione cockney dipinto di verde pisello era meglio di nessuna luce
+o nessuna vita; e che se era un lampione solitario, potremmo
+vederne davvero meglio la luce contro lo sfondo del buio.
+Il Decadente dei miei primi giorni, tuttavia, ne era così angustiato
+che voleva impiccarsi al lampione, spegnere
+la lampada, e lasciare che tutto ricadesse nell'oscurità primordiale.
+Il milionario moderno arriva trafelato lungo la strada per dirmi
+che è un Ottimista e ha due milioni e cinquemila nuovi lampioni,
+tutti già dipinti non di un verde pisello vittoriano ma di un Futuristico
+giallo cromo e blu elettrico, e che li pianterà per
+tutto il mondo in tal numero che nessuno li noterà,
+tanto più che appariranno tutti esattamente uguali. E io non riesco
+proprio a vedere di cosa l'Ottimista debba essere Ottimista.
+Un lampione può essere significativo benché sia brutto. Ma egli non sta
+rendendo i lampioni significativi; li sta rendendo insignificanti.
 
-In breve, a quel che mi sembra, importa assai poco se un uomo sia scontento in nome del pessimismo o del progresso, qualora il suo scontento paralizzi di fatto la sua facoltà di apprezzare ciò che ha. La vera difficoltà dell'uomo non è godere dei lampioni o dei paesaggi, non godere dei denti di leone o delle braciole; ma godere del godimento. Conservare la capacità di piacere davvero ciò che gli piace; ecco il problema pratico che il filosofo deve risolvere. E mi sembrava al principio, come mi sembra ora alla fine, che i pessimisti e gli ottimisti del mondo moderno abbiano ugualmente mancato e imbrogliato questa faccenda; per aver tralasciato l'antica concezione dell'[[Humility|umiltà]] e del ringraziamento dell'indegno. Questa è una faccenda assai più importante e interessante delle mie opinioni; ma, in punto di fatto, fu seguendo questo sottile filo di una fantasia sulla gratitudine, esile come uno di quegli orologi di dente di leone che si soffiano al vento come lanugine di cardo, che giunsi infine a un'opinione che è più di un'opinione. Forse l'unica e sola opinione che sia davvero più di un'opinione.
+In breve, come mi pare, importa assai poco se un uomo sia
+scontento in nome del pessimismo o del progresso, se la sua scontentezza
+in effetti paralizza la sua capacità di apprezzare ciò che ha.
+La vera difficoltà dell'uomo non è godere di lampioni o paesaggi,
+non godere di tarassachi o costolette; ma godere del godimento.
+Conservare la capacità di apprezzare davvero ciò che apprezza; ecco
+il problema pratico che il filosofo deve risolvere.
+E mi pareva al principio, come mi pare ora alla
+fine, che i pessimisti e gli ottimisti del mondo moderno
+abbiano ugualmente mancato e ingarbugliato questa faccenda; per aver tralasciato
+l'antica concezione dell'[[Humility|umiltà]] e del ringraziamento dell'indegno.
+Questa è una faccenda assai più importante e interessante delle mie opinioni;
+ma, di fatto, fu seguendo questo sottile filo
+di una fantasia sulla riconoscenza, esile quanto uno di quei soffioni
+di tarassaco che vengono soffiati sulla brezza come lanugine di cardo, che io
+giunsi infine a un'opinione che è più di un'opinione.
+Forse l'unica e sola opinione che è davvero più di un'opinione.

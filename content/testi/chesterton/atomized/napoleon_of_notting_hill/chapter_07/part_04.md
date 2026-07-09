@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07">Chapter 07</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08/part_01">part 01 ›</a></div>
@@ -133,3 +135,132 @@ glad to oblige a good customer."
 upon the peculiar talents and specialities, the cosmopolitanism
 of the [[grocer]] and the world-old necromancy of the chemist.
 Where should I be without tact?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07">Chapter 07</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08/part_01">part 01 ›</a></div>
+</nav>
+
+Il [[grocer|droghiere]] rimase seduto per un breve momento, con gli occhi spenti e la bocca aperta,
+somigliando piuttosto a un pesce.  Poi si grattò la nuca,
+e non disse nulla.  Poi disse:
+
+"Qualcosa dal negozio, signore?"
+
+Wayne si guardò intorno con aria stordita.  Vedendo una pila di scatole di
+pezzi d'ananas, agitò il bastone genericamente verso di esse.
+
+"Sì," disse, "prenderò quelle."
+
+"Tutte quelle, signore?" disse il [[grocer|droghiere]], con interesse assai accresciuto.
+
+"Sì, sì; tutte quelle," rispose Wayne, ancora un po' frastornato,
+come un uomo spruzzato d'[[Water|acqua]] fredda.
+
+"Benissimo, signore; grazie, signore," disse il [[grocer|droghiere]] con animazione.
+"Può contare sul mio patriottismo, signore."
+
+"Ci conto già," disse Wayne, e uscì nella
+[[Night|notte]] che si addensava.
+
+Il [[grocer|droghiere]] rimise a posto la scatola di datteri.
+
+"Che bravo tipo," disse.  "È strano quanto spesso siano bravi.
+Molto più bravi di quelli che sono a posto."
+
+Intanto [[Adam Wayne]] stava fuori dalla farmacia luminosa,
+inequivocabilmente esitante.
+
+"Che debolezza è mai questa," mormorò.  "Non me ne sono mai
+liberato fin dall'[[Childhood|infanzia]].  La [[Fear|paura]] di questa bottega [[Magic|magica]].
+Il [[grocer|droghiere]] è ricco, è romantico, è poetico nel senso più vero,
+ma non è... no, non è [[Supernatural|soprannaturale]].  Ma il farmacista!
+Tutti gli altri negozi stanno a Notting [[Hill]], ma questo sta
+nel Paese degli Elfi.  Guardate quelle grandi coppe ardenti di colore.
+Dev'essere da esse che Dio dipinge i tramonti.  È sovrumano,
+e il sovrumano è tanto più [[Uncanny|inquietante]] quando è benefico.
+Questa è la radice del [[Fear|timore]] di Dio.  Ho paura.  Ma devo
+essere un uomo ed entrare."
+
+Era un uomo, ed entrò.  Un giovane basso e bruno stava dietro
+il banco con gli occhiali, e lo salutò con un sorriso luminoso ma
+del tutto professionale.
+
+"Bella serata, signore," disse.
+
+"Bella, davvero, strano Padre," disse Adam, protendendo un poco
+le mani in avanti.  "È in notti così limpide e dolci che la vostra
+bottega è più se stessa.  Allora appaiono più perfette quelle lune
+di verde e d'oro e di cremisi che, di lontano, spesso guidano il [[Pilgrim|pellegrino]]
+del [[Pain|dolore]] e della malattia a questa [[house|casa]] di misericordiosa stregoneria."
+
+"Posso darle qualcosa?" chiese il farmacista.
+
+"Vediamo," disse Wayne, in modo amichevole ma vago.
+"Mi dia un po' di sale volatile."
+
+"Otto pence, dieci pence, o uno e sei la bottiglia?"
+disse il giovane cordialmente.
+
+"Uno e sei... uno e sei," rispose Wayne, con una selvaggia arrendevolezza.
+"Vengo a farle, signor Bowles, una domanda terribile."
+
+Fece una pausa e si ricompose.
+
+"È necessario," mormorò "è necessario essere pieni di tatto,
+e adattare l'appello a ciascuna professione a sua volta."
+
+"Vengo," riprese ad alta voce, "a farle una domanda che va alle radici
+delle sue miracolose fatiche.  Signor Bowles, dovrà cessare tutta questa stregoneria?"
+E agitò il bastone attorno alla bottega.
+
+Non ricevendo risposta, continuò con animazione:
+
+"A Notting [[Hill]] abbiamo sentito fino al midollo il mistero elfico
+della sua professione.  E ora Notting [[Hill]] stessa è minacciata."
+
+"Altro, signore?" chiese il farmacista.
+
+"Oh," disse Wayne, alquanto turbato, "oh, che cosa vendono i farmacisti?
+Chinino, credo.  Grazie.  Dovrà essere distrutta?
+Ho incontrato questi uomini di Bayswater e di North Kensington... signor Bowles,
+sono materialisti.  Non vedono alcuna stregoneria nel suo lavoro,
+nemmeno quando essa è portata entro i loro stessi confini.  Ritengono
+che il farmacista sia una cosa ordinaria.  Lo ritengono umano."
+
+Il farmacista parve indugiare, solo un istante, per incassare l'insulto,
+e subito disse:
+
+"E il prossimo articolo, prego?"
+
+"Allume," disse il Prevosto, follemente.  "Riprendo.  È in questa sacra città
+[[Alone|soltanto]] che il vostro sacerdozio è riverito.  Perciò, quando combattete
+per noi non combattete solo per voi stessi, ma per tutto ciò che voi simboleggiate.
+Non combattete solo per Notting [[Hill]], ma per il Paese delle Fate, poiché tanto sicuramente
+quanto Buck e Barker e simili uomini avranno il dominio, il senso del Paese delle Fate
+in qualche strano modo diminuisce."
+
+"Altro, signore?" chiese il signor Bowles, con imperturbabile allegria.
+
+"Oh sì, giuggiole... polvere di Gregory... magnesia. Il pericolo è imminente.
+In tutta questa faccenda ho sentito di combattere non solo per la mia [[City|città]]
+(benché a essa io debba tutto il mio [[Blood|sangue]]), ma per tutti i luoghi in cui
+queste grandi idee potrebbero prevalere.  Combatto non solo per
+Notting [[Hill]], ma per Bayswater stessa; per la stessa North Kensington.
+Poiché se i cercatori d'oro prevarranno, anche questi perderanno tutti i loro
+antichi sentimenti e tutto il mistero della loro [[Soul|anima]] nazionale.
+So di poter contare su di lei."
+
+"Oh sì, signore," disse il farmacista, con grande animazione, "siamo sempre
+lieti di accontentare un buon cliente."
+
+[[Adam Wayne]] uscì dalla bottega con un profondo senso di appagamento dell'[[Soul|anima]].
+
+"È così fortunato," disse, "avere tatto, poter far leva
+sui talenti e le specialità peculiari, sul cosmopolitismo
+del [[grocer|droghiere]] e sull'antichissima negromanzia del farmacista.
+Dove sarei senza il tatto?"

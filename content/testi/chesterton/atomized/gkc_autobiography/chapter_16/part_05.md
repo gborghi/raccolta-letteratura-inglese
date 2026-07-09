@@ -148,10 +148,125 @@ and prickly and repugnant, like an unshaven chin.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_16/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_16/part_06">part 06 ›</a></div>
 </nav>
 
-Poiché questo segreto di semplicità antisettica era davvero un segreto; non era ovvio, e di certo non era ovvio a quel [[Time|tempo]]. Era un segreto che era già stato lasciato quasi interamente a, e rinchiuso insieme con, certe cose trascurate e impopolari. Era quasi come se la tisana di dente di leone fosse davvero una medicina, e l'unica ricetta o prescrizione appartenesse a una vecchia, una vecchia cenciosa e indefinibile, piuttosto reputata nel nostro villaggio una [[Witch|strega]]. Comunque sia, è vero che tanto i felici edonisti quanto gli infelici pessimisti erano irrigiditi dall'opposto principio dell'[[Pride|orgoglio]]. Il pessimista era orgoglioso del pessimismo, perché riteneva che nulla fosse abbastanza buono per lui; l'ottimista era orgoglioso dell'ottimismo, perché riteneva che nulla fosse abbastanza cattivo da impedirgli di ricavarne del bene. Vi erano uomini di valore di entrambi questi tipi; vi erano uomini con molte virtù; ma essi non solo non possedevano la virtù a cui io pensavo, ma non vi pensavano mai. Decidevano che la vita non valeva nulla, o che aveva molto di buono; ma non erano in contatto con questa particolare nozione, di avere molta gratitudine anche per un pochissimo di bene. E man mano che cominciavo a credere sempre più che la chiave fosse da trovarsi in un tal principio, anche se era un [[Paradox|paradosso]], ero sempre più disposto a cercare coloro che si specializzavano nell'[[Humility|umiltà]], benché per loro fosse la porta del cielo e per me la porta della terra.
+Poiché questo segreto dell'antisettica semplicità era davvero un segreto;
+non era ovvio, e di certo non ovvio a quel [[Time|tempo]].
+Era un segreto già stato quasi interamente lasciato a,
+e rinchiuso con, certe cose trascurate e impopolari.
+Era quasi come se il tè di tarassaco fosse davvero una medicina,
+e l'unica ricetta o prescrizione appartenesse a una vecchia, una cenciosa
+e indefinibile vecchia, piuttosto reputata nel nostro villaggio una [[Witch|strega]].
+Comunque, è vero che sia gli edonisti felici sia gli infelici
+pessimisti erano irrigiditi dal principio opposto dell'[[Pride|orgoglio]].
+Il pessimista era orgoglioso del pessimismo, perché non riteneva nulla
+abbastanza buono per sé; l'ottimista era orgoglioso dell'ottimismo,
+perché riteneva che nulla fosse abbastanza cattivo da impedirgli di trarne
+del bene. C'erano uomini di valore di entrambi questi tipi;
+c'erano uomini dotati di molte virtù; ma essi non solo non possedevano
+la virtù a cui pensavo, ma non vi pensavano mai.
+Decidevano che la vita non era un granché, o che aveva un gran mucchio
+di bene; ma non erano in contatto con questa particolare nozione,
+di avere una gran dose di gratitudine anche per un pochino di bene.
+E man mano che cominciavo a credere sempre più che la chiave fosse da
+trovarsi in un simile principio, anche se era un [[Paradox|paradosso]], ero sempre
+più disposto a cercare coloro che si specializzavano nell'[[Humility|umiltà]],
+benché per loro fosse la porta del cielo e per me la porta della terra.
 
-Poiché nessun altro si specializza in quella disposizione mistica in cui la stella gialla del dente di leone è sorprendente, essendo qualcosa di inatteso e di immeritato. Vi sono filosofie varie come i [[Flowers|fiori]] del campo, e alcune di esse erbacce e poche di esse erbacce velenose. Ma nessuna di esse crea le condizioni psicologiche in cui io per la prima volta vidi, o desiderai vedere, il fiore. Gli uomini si [[Crown|incoroneranno]] di [[Flowers|fiori]] e se ne vanteranno, o [[Sleep|dormiranno]] sui [[Flowers|fiori]] e li dimenticheranno, o conteranno e daranno nome a tutti i [[Flowers|fiori]] soltanto per coltivare un super-fiore per l'Imperiale Esposizione Internazionale dei Fiori; oppure, d'altro canto, calpesteranno i [[Flowers|fiori]] come una fuga precipitosa di bufali, o sradicheranno i [[Flowers|fiori]] come un puerile camuffamento della crudeltà della [[Nature|natura]], o lacereranno i [[Flowers|fiori]] con i denti per mostrare di essere illuminati pessimisti filosofici. Ma su questo problema originario dal quale io stesso presi le mosse, il massimo possibile apprezzamento immaginativo del fiore — su questo non sanno fare altro che sbagli, in quanto ignorano i fatti elementari della [[Nature|natura]] umana; in quanto, operando follemente in tutte le direzioni, vanno tutti senza eccezione a lavorare per la via sbagliata. Dal [[Time|tempo]] di cui parlo, il mondo sotto questo aspetto è diventato perfino peggiore. Un'intera generazione è stata istruita a dire sciocchezze a squarciagola sull'avere «un diritto alla vita» e «un diritto all'esperienza» e «un diritto alla felicità». I lucidi pensatori che parlano così di solito coronano la loro asserzione di tutti questi straordinari diritti [[Wind|concludendo]] col dire che non esiste il giusto e l'ingiusto. È un po' difficile, in tal caso, speculare su donde siano venuti i loro diritti; ma io, almeno, propendevo sempre più per la vecchia [[philosophy|filosofia]] che diceva che i loro veri diritti venivano da dove veniva il dente di leone; e che essi non apprezzeranno mai né l'uno né gli altri senza riconoscerne la sorgente. E in quel senso ultimo l'uomo increato, l'uomo che si trova meramente nella condizione del bimbo [[unborn|non nato]], non ha diritto neppure di vedere un dente di leone; poiché non avrebbe potuto egli stesso inventare né il dente di leone né la vista.
+Poiché nessun altro si specializza in quello stato d'animo mistico in cui la gialla stella
+del tarassaco è sorprendente, essendo qualcosa d'inatteso e immeritato.
+Ci sono filosofie varie quanto i [[Flowers|fiori]] del campo,
+e alcune di esse erbacce e poche di esse erbacce velenose.
+Ma nessuna di esse crea le condizioni psicologiche in
+cui io per primo vidi, o desiderai vedere, il fiore. Gli uomini si [[Crown|incoroneranno]]
+di [[Flowers|fiori]] e se ne vanteranno, o dormiranno il [[Sleep|sonno]] su [[Flowers|fiori]]
+e li dimenticheranno, o numereranno e nomineranno tutti i [[Flowers|fiori]] solo per
+coltivare un super-fiore per l'Imperiale Internazionale Mostra dei Fiori;
+oppure, d'altro canto, calpesteranno i [[Flowers|fiori]] come una fuga precipitosa
+di bufali, o sradicheranno i [[Flowers|fiori]] come un puerile mascheramento
+della crudeltà della [[Nature|natura]], o strapperanno i [[Flowers|fiori]] coi denti
+per mostrare che sono illuminati pessimisti filosofici.
+Ma su questo problema originario da cui io stesso partii, la massima
+possibile apprezzazione immaginativa del fiore--su questo essi non sanno
+fare altro che abbagli, in quanto ignorano gli elementari
+fatti della [[Nature|natura]] umana; in quanto, operando follemente in tutte le direzioni,
+vanno tutti senza eccezione a lavorare nel modo sbagliato.
+Dal [[Time|tempo]] di cui parlo, il mondo è a questo riguardo
+peggiorato anche di più. Un'intera generazione è stata istruita a dire
+sciocchezze a squarciagola sull'avere «un diritto alla vita»
+e «un diritto all'esperienza» e «un diritto alla felicità».
+I lucidi pensatori che parlano così generalmente [[Wind|concludono]]
+la loro affermazione di tutti questi straordinari diritti, dicendo che non
+esiste alcuna cosa come il giusto e lo sbagliato. È un po' difficile,
+in tal caso, speculare su da dove siano venuti i loro diritti; ma io,
+almeno, propendevo sempre più per la vecchia [[philosophy|filosofia]] che diceva
+che i loro veri diritti venivano da dove veniva il tarassaco;
+e che essi non apprezzeranno mai né l'uno né gli altri senza riconoscerne la fonte.
+E in quel senso ultimo l'uomo increato, l'uomo meramente nella posizione
+del bimbo [[unborn|non nato]], non ha diritto nemmeno a vedere un tarassaco; poiché egli non
+avrebbe potuto inventare da sé né il tarassaco né la vista.
 
-Ho qui fatto ricorso a una oziosa figura retorica tratta da un fortunatamente dimenticato libro di versi; solo perché una tale cosa è lieve e triviale, e i bambini la soffiano via come lanugine di cardo; e ciò sarà quanto mai adatto a un luogo in cui un argomentare formale sarebbe del tutto fuori posto. Ma affinché nessuno supponga che la nozione non abbia relazione con l'argomento, ma sia soltanto una sentimentale fantasia su erbacce o [[Flowers|fiori]] selvatici, suggerirò lievemente e brevemente come perfino la figura si accordi con tutti gli aspetti dell'argomento. Poiché la prima cosa che il critico frettoloso dirà è: «Che sciocchezza è mai tutto questo; vuoi dire che un poeta non può essere grato per l'erba e per i [[Flowers|fiori]] selvatici senza collegarlo con la teologia; per [[Alone|non parlare]] della tua teologia?». Al che io rispondo: «Sì; voglio dire che non può farlo senza collegarlo con la teologia, a meno che non possa farlo senza collegarlo con il pensiero. Se riesce a essere grato quando non c'è nessuno a cui essere grato, e nessuna buona intenzione di cui essere grato, allora egli sta semplicemente rifugiandosi nell'essere sconsiderato per evitare di essere ingrato». Ma in verità l'argomento va oltre la gratitudine consapevole, e si applica a qualunque sorta di pace o fiducia o riposo, perfino a fiducia o riposo inconsci. Perfino il culto della [[Nature|natura]] che i Pagani hanno sentito, perfino l'[[Love|amore]] della [[Nature|natura]] che i Panteisti hanno sentito, dipende in ultimo tanto da un qualche implicito fine e positivo bene nelle cose, quanto vi dipende il diretto rendimento di grazie che i Cristiani hanno sentito. In verità la [[Nature|Natura]] è nel migliore dei casi soltanto un nome femminile che diamo alla [[Providence|Provvidenza]] quando non la trattiamo molto seriamente; un pezzo di mitologia femminista. Vi è una specie di fiaba del focolare, più adatta al camino che all'altare; e in essa ciò che si chiama [[Nature|Natura]] può essere una specie di fata madrina. Ma vi possono essere fate madrine soltanto perché vi sono madrine; e vi possono essere madrine soltanto perché vi è Dio.
+Ho qui ripiegato su un'oziosa figura retorica tratta da un fortunatamente
+dimenticato libro di versi; semplicemente perché una cosa simile è leggera
+e triviale, e i bambini la soffiano via come lanugine di cardo;
+e questo sarà quanto mai appropriato a un luogo in cui l'argomentazione formale sarebbe
+del tutto fuori posto. Ma affinché nessuno supponga che la nozione
+non abbia relazione con l'argomento, ma sia solo una sentimentale fantasia
+su erbacce o [[Flowers|fiori]] selvatici, suggerirò lievemente e brevemente
+come persino la figura si accordi con tutti gli aspetti dell'argomento.
+Poiché la prima cosa che il critico casuale dirà è: «Che sciocchezze son tutte
+queste; vuoi forse dire che un poeta non può ringraziare l'erba e i [[Flowers|fiori]]
+selvatici senza connetterlo con la teologia; per non [[Alone|parlare]] della tua teologia?»
+Al che io rispondo: «Sì; voglio dire che egli non può farlo senza connetterlo
+con la teologia, a meno che non possa farlo senza connetterlo col pensiero.
+Se riesce a essere grato quando non c'è nessuno a cui essere grato,
+e nessuna buona intenzione per cui essere grato, allora egli sta semplicemente rifugiandosi
+nell'essere sventato per evitare di essere ingrato».
+Ma in verità l'argomento va oltre la gratitudine cosciente, e si applica
+a qualsiasi sorta di pace o fiducia o riposo, persino l'inconscia
+fiducia o riposo. Persino il culto della [[Nature|natura]] che i Pagani hanno provato,
+persino l'[[Love|amore]] della [[Nature|natura]] che i Panteisti hanno provato, dipende in ultima analisi
+tanto da un qualche implicito fine e positivo bene nelle cose, quanto
+il diretto rendimento di grazie che i Cristiani hanno provato. In verità la [[Nature|Natura]] è nel
+migliore dei casi solo un nome femminile che diamo alla [[Providence|Provvidenza]] quando non la trattiamo
+molto sul serio; un pezzo di mitologia femminista. C'è una sorta
+di fiaba del focolare, più adatta al focolare che all'altare;
+e in essa ciò che si chiama [[Nature|Natura]] può essere una sorta di fata madrina.
+Ma possono esserci fate madrine solo perché ci sono madrine;
+e possono esserci madrine solo perché c'è Dio.
 
-Ciò che negli scettici mi ha turbato per tutta la vita è stata la loro straordinaria lentezza nel venire al punto; perfino al punto della loro stessa posizione. Li ho uditi denunciare, oltre che [[Well|ammirare]], per la loro precipitosa fretta e la loro sconsiderata corsa all'innovazione; ma la mia difficoltà è sempre stata quella di indurli a spostarsi di qualche pollice e a portare a termine il loro stesso argomento. Quando per la prima volta si accennò anche solo al fatto che l'universo possa non essere un grande disegno, ma soltanto una cieca e indifferente crescita, si sarebbe dovuto percepire all'istante che ciò doveva per sempre proibire a qualsiasi poeta di ritirarsi nei verdi campi come alla sua [[Home|dimora]], o di guardare al cielo azzurro per la sua ispirazione. Non vi sarebbe più alcuna simile [[Truth|verità]] tradizionale associata all'erba verde che al marciume verde o alla ruggine verde; nulla di più da rammentarsi con i cieli azzurri che con i nasi azzurri amputati in un gelido mondo di [[Death|morte]]. I poeti, perfino i Pagani, possono credere direttamente nella [[Nature|Natura]] soltanto se credono indirettamente in Dio; se la seconda idea dovesse davvero svanire, la prima è destinata a seguirla presto o tardi; e, soltanto per un triste rispetto della [[logic|logica]] umana, avrei voluto che fosse stato più presto. Certo un uomo potrebbe avere un apprezzamento quasi animalesco di certi accidenti di forma o colore in una roccia o in una pozza, come in un sacco di stracci o in una pattumiera; ma non è questo che i grandi poeti o i grandi pagani intendevano con i misteri della [[Nature|Natura]] o l'ispirazione delle potenze elementari. Quando non vi è più neppure una vaga idea di fini o di presenze, allora la foresta variopinta è davvero un sacco di stracci e tutta la pompa della [[Dust|polvere]] soltanto una pattumiera. Possiamo vedere questa presa di coscienza insinuarsi come una lenta paralisi su tutti quei più nuovi poeti che non hanno reagito verso la religione. La loro [[philosophy|filosofia]] del dente di leone non è che tutte le erbacce sono [[Flowers|fiori]]; ma piuttosto che tutti i [[Flowers|fiori]] sono erbacce. In verità arriva a qualcosa come un [[nightmare|incubo]]; come se la [[Nature|Natura]] stessa fosse innaturale. Forse è per questo che così tanti di loro tentano disperatamente di scrivere di macchinari; a proposito dei quali nessuno ha ancora contestato l'Argomento del Disegno. Nessun Darwin ha ancora sostenuto che i motori cominciarono come frammenti di metallo, la maggior parte dei quali per caso finì rottamata; o che soltanto quelle automobili, che avevano fatto crescere un carburatore per accidente, sopravvissero alla lotta per la vita a Piccadilly. Ma qualunque ne sia la ragione, ho letto [[Poems|poesie]] moderne evidentemente intese a far apparire l'erba qualcosa di meramente ispido e pungente e ripugnante, come un mento non rasato.
+Ciò che mi ha turbato negli scettici per tutta la vita è stata la loro
+straordinaria lentezza nel venire al punto; persino al punto
+della loro stessa posizione. Li ho sentiti denunciare, come [[Well|pure]]
+ammirare, per la loro impetuosa fretta e sconsiderata corsa all'innovazione;
+ma la mia difficoltà è stata sempre indurli a spostarsi di qualche pollice
+e a portare a termine la loro stessa argomentazione. Quando per la prima volta si accennò appena
+che l'universo potrebbe non essere un grande disegno, ma solo una cieca
+e indifferente crescita, si sarebbe dovuto percepire all'istante
+che questo doveva per sempre proibire a ogni poeta di ritirarsi ai verdi campi
+come al proprio [[Home|focolare]], o di guardare l'azzurro cielo per la propria ispirazione.
+Non ci sarebbe più stata alcuna tale tradizionale [[Truth|verità]] associata all'erba
+verde di quanta ce ne sia col marciume verde o la ruggine verde; nulla più da rammentarsi con azzurri
+cieli di quanto con azzurri nasi amputati in un gelido mondo di [[Death|Morte]].
+I poeti, persino i Pagani, possono credere direttamente nella [[Nature|Natura]] solo se
+credono indirettamente in Dio; se la seconda idea dovesse davvero svanire,
+la prima è destinata a seguire prima o poi; e, semplicemente per
+un triste rispetto della [[logic|logica]] umana, avrei desiderato che fosse stato prima.
+Naturalmente un uomo potrebbe avere un apprezzamento quasi animalesco
+di certi accidenti di forma o colore in una roccia o in una pozza,
+come in un sacco di stracci o in una pattumiera; ma non è questo ciò che i grandi poeti
+o i grandi pagani intendevano coi misteri della [[Nature|Natura]] o l'ispirazione
+delle potenze elementali. Quando non c'è più nemmeno una vaga idea
+di scopi o presenze, allora la foresta variopinta è davvero
+un sacco di stracci e tutto il fasto della [[Dust|Polvere]] solo una pattumiera.
+Possiamo vedere questa presa di coscienza insinuarsi come una lenta paralisi su tutti
+quei più recenti poeti che non hanno reagito verso la religione.
+La loro [[philosophy|filosofia]] del tarassaco non è che tutte le erbacce sono [[Flowers|fiori]];
+ma piuttosto che tutti i [[Flowers|fiori]] sono erbacce. In verità raggiunge qualcosa
+come l'[[nightmare|incubo]]; come se la [[Nature|Natura]] stessa fosse innaturale. Forse è
+per questo che tanti di loro cercano disperatamente di scrivere di macchinari;
+riguardo ai quali nessuno ha ancora contestato l'Argomento dal Disegno.
+Nessun Darwin ha ancora sostenuto che i motori cominciarono come pezzi di metallo,
+la maggior parte dei quali capitò d'esser rottamata; o che solo quelle auto,
+che avevano fatto crescere un carburatore per caso, sopravvissero alla lotta
+per la vita a Piccadilly. Ma qualunque sia la ragione, ho letto moderne
+[[Poems|poesie]] evidentemente intese a far sembrare l'erba qualcosa di meramente rasposo
+e pungente e ripugnante, come un mento non rasato.

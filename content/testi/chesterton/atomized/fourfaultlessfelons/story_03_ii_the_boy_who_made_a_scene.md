@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_02_the_moderate_murderer">‹ Story 02 The Moderate Murderer</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_04_iii_the_man_who_could_not_hate">Story 04 Iii The Man Who Could Not Hate ›</a></div>
@@ -431,3 +433,430 @@ blast, like the [[Wind|wind]] of the [[Desert|desert]], that Viscount Tallboys, 
 Polybia, had been shot down by the last of the line of olives, at the
 
 corner of the wall.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_02_the_moderate_murderer">‹ Story 02 The Moderate Murderer</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_04_iii_the_man_who_could_not_hate">Story 04 Iii The Man Who Could Not Hate ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_03_ii_the_boy_who_made_a_scene/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/fourfaultlessfelons/story_03_ii_the_boy_who_made_a_scene/part_02">Part 2</a></li></ul>
+</nav>
+
+II IL RAGAZZO CHE FECE UNA SCENATA
+
+BARBARA TRAILL era una ragazza con parecchio del maschiaccio in sé. Questo si
+
+dice assai spesso delle eroine moderne. Ciò nondimeno, la presente
+
+eroina risulterebbe un'eroina moderna assai deludente. Perché, purtroppo,
+
+i romanzieri che dicono maschili le loro eroine non sanno palesemente nulla
+
+di nulla sui ragazzi. La fanciulla che ritraggono, che ci accada di considerarla
+
+una vivace donnina o una piccola idiota sfrontata, è comunque sotto
+
+ogni riguardo il perfetto contrario di un ragazzo. È sublimemente candida;
+
+è un po' superficiale; è uniformemente allegra; è del tutto
+
+disinvolta; è tutto ciò che un ragazzo non è. Ma Barbara davvero
+
+somigliava piuttosto a un ragazzo. Cioè, era piuttosto timida, oscuramente
+
+fantasiosa, capace di amicizie intellettuali e nello stesso [[Time|tempo]] di
+
+rimuginarci sopra con trasporto; capace di essere morbosa e per nulla
+
+incapace di essere riservata. Aveva quel senso di disagio che
+
+imbarazza tanti ragazzi, il senso dell'[[Soul|anima]] troppo grande per essere vista
+
+o confessata, e la tendenza a coprire le emozioni acerbe con una
+
+convenzione. Un effetto di ciò era che apparteneva al genere tormentato dal
+
+[[Doubt|Dubbio]]. Poteva essere un [[Doubt|dubbio]] religioso, in quel momento era una sorta di
+
+[[Doubt|dubbio]] patriottico, benché avrebbe negato con furia che vi fosse
+
+alcun [[Doubt|dubbio]] sulla faccenda. L'aveva turbata l'aver intravisto le
+
+presunte ingiustizie subite dall'[[Egypt|Egitto]] o i presunti crimini dell'Inghilterra, e il
+
+volto dello sconosciuto, il volto bianco dalla barba dorata e dal
+
+monocolo sfolgorante, era giunto a rappresentare il tentatore o lo spirito che
+
+nega. Ma il volto di sua sorella d'un tratto bandì tutti quei problemi
+
+meramente politici. La riportò con uno scossone a problemi assai più privati,
+
+anzi a problemi assai più segreti, poiché non li aveva mai confessati
+
+a nessuno se non a se stessa.
+
+I Traill avevano una [[Tragedy|tragedia]], o piuttosto, forse, qualcosa che lo spirito
+
+rimuginante di Barbara era giunto a considerare l'[[Dawn|alba]] di una [[Tragedy|tragedia]]. Il suo
+
+fratello minore era ancora un ragazzo; più veridicamente si sarebbe potuto dire che era ancora un
+
+[[Child|bambino]]. La sua mente non era mai giunta a una normale maturità, e benché le opinioni
+
+divergessero sulla [[Nature|natura]] della carenza, ella era incline nei suoi umori
+
+neri a prendere la vista più cupa e a lasciarla oscurare l'intera [[house|casa]] dei
+
+Tallboys. Così accadde che disse rapidamente, alla vista della
+
+strana espressione di sua sorella: «C'è qualcosa che non va con Tom?»
+
+Olive trasalì lievemente, e poi disse, più stizzita che altro:
+
+«No, niente di particolare... Lo zio l'ha messo con un precettore qui, e
+
+dicono che stia migliorando... Perché lo chiedi? Non c'è niente di
+
+speciale che non vada in lui.»
+
+«Allora suppongo», disse Barbara, «che ci sia qualcosa di speciale che
+
+non va in te.»
+
+«[[Well|Beh]]», rispose l'altra, «non c'è forse qualcosa che non va in tutti
+
+us?"
+
+noi?»
+
+Con ciò si voltò di scatto e tornò verso la [[house|casa]], lasciando cadere
+
+i [[Flowers|fiori]] che aveva finto di raccogliere, e sua sorella
+
+la seguì, ancora profondamente turbata nell'animo.
+
+Mentre si avvicinavano al portico e alla veranda, udì la voce acuta di
+
+suo zio Tallboys, che se ne stava reclinato in una sedia da [[Garden|giardino]] a parlare con
+
+il marito di Olive, il Vicegovernatore. Tallboys era una figura sparuta dal
+
+grande naso e dalle orecchie che sporgevano dal suo collo di gambo di testa; come molti uomini
+
+di quel tipo aveva un pomo d'Adamo prominente e parlava in un
+
+modo gozzuto e ingozzante a gola piena. Ma ciò che diceva valeva la pena di ascoltarlo,
+
+benché avesse il vezzo di bilanciare una proposizione contro l'altra, con
+
+gesti alterni delle sue grandi mani flosce, cosa che alcuni trovavano un tantino
+
+irritante. Era inoltre fastidiosamente sordo. Il Vicegovernatore, Sir Harry
+
+Smythe, era un contrasto divertente, un uomo tarchiato dal volto piuttosto
+
+congestionato, il colore acceso sotto gli occhi, che erano assai chiari e limpidi,
+
+e due sbarre nere parallele di sopracciglio e baffo, che gli davano piuttosto
+
+un'aria da Kitchener, finché non si alzava e appariva rimpicciolito dal
+
+confronto. Gli davano anche un'aria piuttosto ingannevole di malumore, poiché
+
+era un marito affettuoso e un compagno di buon umore, se pure un uomo di partito
+
+alquanto ostinato. Del resto la conversazione bastava a mostrare che
+
+aveva un punto di vista militare, il che è abbastanza comune e persino
+
+banale.
+
+«Insomma», stava dicendo il Governatore, «credo che il piano del [[government|Governo]] sia
+
+mirabilmente adatto ad affrontare una situazione alquanto difficile. Gli estremisti di
+
+entrambi i tipi vi si opporranno, ma gli estremisti si oppongono a tutto.»
+
+«Proprio così», rispose l'altro, «la questione non è tanto se si
+
+oppongano quanto se sappiano rendersi molesti.»
+
+Barbara, con i suoi nuovi e nervosi interessi politici, si ritrovò
+
+interrotta nel suo tentativo di ascoltare la conversazione politica dalla
+
+sgradita scoperta che erano presenti altre persone. C'era un
+
+giovane gentiluomo vestito con grande eleganza, dai capelli come raso nero, che
+
+sembrava essere il segretario locale del Governatore; il suo nome era [[arthur|Arthur]]
+
+Meade. C'era un vecchio con un parrucchino castano assai palese e un volto
+
+assai poco palese, per non dire imperscrutabile, giallastro, che era un eminente
+
+finanziere noto col nome di Morse. C'erano varie dame del
+
+circolo ufficiale debitamente disseminate tra questi gentiluomini. Sembrava
+
+la coda di una sorta di tè pomeridiano, il che rendeva ancor più
+
+strano e sospetto lo strano contegno dell'unica padrona di casa, nel divagare
+
+verso l'altro [[Garden|giardino]] a strappare i [[Flowers|fiori]]. Barbara si ritrovò collocata
+
+accanto a un piacevole vecchio ecclesiastico dai capelli argentei e lisci, e da una voce
+
+ugualmente argentea e liscia, che le parlava della [[Bible|Bibbia]] e delle
+
+Piramidi. Si ritrovò impegnata nella quanto mai scomoda
+
+esperienza di fingere di condurre una conversazione mentre cercava di
+
+ascoltarne un'altra.
+
+Ciò era tanto più difficile perché il reverendo Ernest [[Snow]], l'ecclesiastico
+
+in questione, aveva (con tutta la sua mitezza) non poca gentile pertinacia.
+
+Ella ne ricavò la confusa impressione che nutrisse opinioni assai ferme sul
+
+significato di certe Profezie in rapporto alla fine del mondo e
+
+specialmente al destino dell'Impero Britannico. Aveva quel vezzo di
+
+fare d'improvviso domande, il che è tanto scortese verso l'ascoltatore distratto.
+
+Così, ella riusciva a cogliere un frammento del discorso tra i due reggitori
+
+della provincia, il Governatore diceva, bilanciando le sue frasi con le sue
+
+mani ondeggianti: «Vi sono due considerazioni e con questo metodo le
+
+affrontiamo entrambe. Da un lato, è impossibile ripudiare del tutto il nostro
+
+impegno. Dall'altro, è assurdo supporre che il recente
+
+atroce crimine non modifichi necessariamente la [[Nature|natura]] di quell'impegno. Possiamo
+
+ancora far sì che il nostro proclama sia il proclama di una
+
+ragionevole libertà. Abbiamo perciò deciso...»
+
+E poi, in quel preciso momento, il povero ecclesiastico le trafiggeva la
+
+coscienza con la patetica domanda: «Dunque quanti cubiti pensate
+
+che sarebbero?»
+
+Poco più tardi ella riuscì a udire Smythe, che parlava assai meno
+
+del suo compagno, dire seccamente: «Da parte mia, non credo che faccia
+
+molta differenza quali proclami emaniate. Ci sono tumulti qui quando
+
+non abbiamo forze sufficienti, e non ci sono tumulti quando abbiamo
+
+forze sufficienti. Tutto qui.»
+
+«E qual è la nostra posizione al momento?» chiese il Governatore gravemente.
+
+«La nostra posizione è maledettamente pessima, se lo chiedete a me», borbottò l'altro a bassa
+
+voce. «Nulla è stato fatto per addestrare gli uomini; ma se ho scoperto che l'esercitazione
+
+di tiro consisteva in una specie di gioco di società con una cerbottana un paio
+
+di volte l'anno. Ho messo su ora dei bersagli come si deve oltre il
+
+viale degli olivi laggiù, ma ci sono altre cose. Le munizioni non sono...»
+
+«Ma in tal caso», giunse la voce mite ma penetrante del signor [[Snow]], «in
+
+tal caso che ne è dei Sunamiti?»
+
+Barbara non aveva la minima idea di che ne fosse di loro, ma in questo caso
+
+sentì di poterlo trattare come una domanda retorica. Si costrinse ad
+
+ascoltare un po' più da vicino le opinioni del venerabile mistico, e
+
+udì un solo altro [[Fragment|frammento]] della conversazione politica.
+
+«Vorremo davvero tutti questi preparativi militari?» chiese Lord
+
+Tallboys piuttosto ansiosamente. «Quando pensate che ne avremo bisogno?»
+
+«Posso dirvelo», disse Smythe con una certa cupezza. «Ne avremo
+
+bisogno quando pubblicherete il vostro proclama di ragionevole libertà.»
+
+Lord Tallboys fece un movimento brusco nella sedia da [[Garden|giardino]], come chi
+
+rompe una conferenza in una certa irritazione; poi creò un diversivo
+
+alzando un dito e facendo segno al suo segretario, il signor Meade, che gli scivolò
+
+accanto e dopo un breve colloquio scivolò dentro la [[house|casa]]. Liberata dalla
+
+tensione degli affari di Stato, Barbara cadde ancora una volta sotto l'incanto della
+
+Chiesa e dell'Ufficio Profetico. Aveva ancora solo un'idea confusa di
+
+quel che il vecchio ecclesiastico diceva, ma cominciò a percepirvi un vago elemento
+
+di poesia. Almeno era pieno di cose che dilettavano la sua fantasia
+
+come i cupi disegni di Blake, città preistoriche e veggenti ciechi e petrosi
+
+e re che parevano vestiti di pietra come i loro sepolcri, le
+
+Piramidi. In modo confuso ella capì perché tutta quella pietrosa e stellata
+
+landa desolata sia stata il terreno di gioco di tanti fissati. Si intenerì un
+
+poco verso il fissato clericale e accettò persino un invito alla sua
+
+[[house|casa]] per il giorno dopo il seguente, a vedere i documenti e la
+
+prova definitiva sui Sunamiti. Ma restava assai vaga su
+
+ciò che dovesse dimostrare.
+
+Egli la ringraziò e disse gravemente: «Se la profezia si compie ora, vi
+
+sarà una [[Grave|grave]] calamità.»
+
+«Suppongo», disse ella con una piuttosto tetra leggerezza, «che se la profezia
+
+non si compisse, sarebbe una calamità ancor più grande.»
+
+Proprio mentre parlava vi fu un movimento dietro alcune delle palme del [[Garden|giardino]] e
+
+il volto pallido e lievemente spalancato di suo fratello apparve sopra le
+
+[[Leaves|foglie]] delle palme. Un istante dopo scorse proprio dietro di lui il segretario e
+
+il precettore; era evidente che lo zio aveva mandato a chiamarlo. Tom Traill aveva
+
+l'aria di essere troppo grosso per i suoi abiti, cosa non insolita in chi è
+
+per altro poco sviluppato; i cupi bei tratti che altrimenti
+
+avrebbe condiviso con il suo ramo della famiglia erano guastati dai suoi capelli scuri e
+
+lisci spazzolati di traverso e dalla sua abitudine di guardare con la
+
+coda dell'occhio l'angolo del tappeto. Il suo precettore era un uomo grosso dall'
+
+aspetto smorto e polveroso, che pareva rispondere al nome di Hume. Le sue larghe
+
+spalle erano un poco curve come quelle di un servo affaticato, benché fosse
+
+ancora appena di mezza età. Il suo volto semplice e rude aveva un'espressione
+
+piuttosto stanca, come [[Well|ben]] poteva. Insegnare ai deficienti non è sempre un
+
+gioco di società esilarante.
+
+Lord Tallboys ebbe una breve e cortese conversazione col precettore. Lord
+
+Tallboys fece qualche semplice domanda. Lord Tallboys tenne una piccola
+
+conferenza sull'[[Education|educazione]], sempre assai cortese, ma accompagnata dall'ondeggiare
+
+delle mani a turno. Da un lato, la capacità di lavorare era una necessità
+
+della vita e non si poteva mai eludere del tutto. Dall'altro, senza una
+
+ragionevole proporzione di piacere e riposo perfino il lavoro ne avrebbe sofferto. Da
+
+un lato... fu a questo punto che la Profezia si compì apparentemente
+
+e una assai deplorevole Calamità si verificò al tè del Governatore.
+
+Perché il ragazzo proruppe di scatto in una specie di verso acuto e gorgogliante e
+
+cominciò ad agitare le mani come le ali di un pinguino, ripetendo più e
+
+più volte: «Da un lato. Dall'altro. Da un lato. Dall'
+
+altro. Da un lato. Dall'altro... Perbacco!»
+
+«Tom!» gridò Olive con un aspro accento d'angoscia e vi fu uno spettrale
+
+[[Silence|silenzio]] su tutto il [[Garden|giardino]].
+
+«[[Well|Beh]]», disse il precettore in un sommesso tono ragionevole, che era chiaro come
+
+una campana in quella quiete, «non puoi mica pretendere di avere tre mani, no?»
+
+«Tre mani?» ripeté il ragazzo, e poi dopo un lungo [[Silence|silenzio]]: «Ma, come
+
+potresti?»
+
+«Una dovrebbe stare nel mezzo, come la proboscide di un elefante», proseguì
+
+il precettore nello stesso tono incolore e discorsivo. «Non sarebbe
+
+bello avere un lungo naso come un elefante così da poterlo girare di
+
+qua e di là e raccogliere le cose sulla tavola della colazione, e non lasciare mai
+
+il coltello e la forchetta?»
+
+«Oh, sei matto!» sbottò Tom con una specie di esplosione che aveva uno
+
+strano tocco di esultanza.
+
+«Non sono l'unico matto al mondo, vecchio mio», disse il signor Hume.
+
+Barbara restava a fissare mentre ascoltava questa straordinaria conversazione
+
+in quel mortale [[Silence|silenzio]] e in quella cornice sociale quanto mai inadatta. La
+
+cosa più straordinaria di essa era che il precettore diceva queste cose folli e
+
+incongrue con un volto assolutamente impassibile.
+
+«Non ti ho mai raccontato», disse con la stessa voce pesante e indifferente,
+
+«del dentista in gamba che sapeva cavarsi i denti da solo con
+
+il proprio naso? Te lo racconterò domani.»
+
+Era ancora del tutto smorto e serio; ma aveva fatto il colpo. Il ragazzo
+
+fu distolto dalla sua avversione per lo zio da quell'immagine assurda, proprio come
+
+un [[Child|bambino]] in collera è distolto da un giocattolo nuovo. Ora Tom guardava soltanto
+
+il precettore e lo seguiva ovunque con gli occhi. Forse egli non era
+
+l'unico membro della sua famiglia a farlo. Perché il precettore, pensò
+
+Barbara, era certo una persona assai singolare.
+
+Non ci furono altri discorsi politici quel giorno, ma ci furono non poche
+
+notizie politiche il giorno dopo. Il mattino seguente furono affissi
+
+proclami ovunque ad annunciare il giusto, ragionevole e persino generoso
+
+compromesso che il [[government|Governo]] di Sua Maestà offriva ora come equa e
+
+definitiva soluzione dei gravi problemi sociali di Polibia e dell'[[Egypt|Egitto]]
+
+orientale. E la sera seguente la notizia percorse la città in un solo
+
+soffio, come il [[Wind|vento]] del [[Desert|deserto]], che il Visconte Tallboys, Governatore di
+
+Polibia, era stato abbattuto a colpi d'arma presso l'ultimo della fila di olivi, all'
+
+angolo del muro.

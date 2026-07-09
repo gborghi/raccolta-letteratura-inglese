@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_40_creeds_and_cobwebs">‹ Story 40 Creeds And Cobwebs</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_42_rubbish">Story 42 Rubbish ›</a></div>
@@ -85,3 +87,84 @@ any religion, it might at least be taught, clearly and firmly,
 the three or four sanities and certainties of human free thought.
 
                                                Daily News, June 22nd, 1907
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_40_creeds_and_cobwebs">‹ Story 40 Creeds And Cobwebs</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_42_rubbish">Story 42 Rubbish ›</a></div>
+</nav>
+
+UN'ARRINGA IN FAVORE DELLA FILOSOFIA POPOLARE
+
+Ciò che si dovrebbe far comprendere alle persone moderne è semplicemente che ogni
+argomentazione comincia con un assunto; ossia con qualcosa di cui non
+si dubita. Si può, naturalmente, se si vuole, dubitare dell'assunto
+all'inizio della propria argomentazione, ma in tal caso si sta cominciando
+un'argomentazione diversa con un altro assunto all'inizio di essa.
+Ogni argomentazione comincia con un dogma infallibile, e quel dogma infallibile
+può essere contestato solo ripiegando su qualche altro dogma infallibile;
+non si può mai dimostrare la propria prima affermazione, o non sarebbe la prima.
+Tutto ciò è l'abbecedario del pensiero... E ha in sé questo particolare
+e positivo pregio: che può essere insegnato a scuola,
+come l'altro abbecedario. Non avviare un'argomentazione senza enunciare
+i propri postulati potrebbe insegnarsi nella filosofia come s'insegna in Euclide,
+in una comune aula scolastica con una lavagna. E credo che potrebbe
+insegnarsi in qualche misura semplice e razionale perfino ai giovani,
+prima che escano nelle strade e siano consegnati interamente
+alla logica e alla filosofia del Daily Mail.
+
+Gran parte del nostro caos intorno alla religione e al dubbio nasce da questo — che i nostri
+scettici moderni cominciano sempre col dirci ciò in cui non credono.
+Ma anche in uno scettico vogliamo sapere prima ciò in cui egli crede.
+Prima di argomentare, vogliamo sapere su che cosa non abbiamo bisogno di argomentare.
+E questa confusione è infinitamente accresciuta dal fatto che tutti
+gli scettici del nostro tempo sono scettici a gradi diversi
+della dissoluzione dello scetticismo. ...
+
+Ora io e voi abbiamo, spero, questo vantaggio su tutti quei
+brillanti nuovi filosofi: che per l'appunto non siamo pazzi.
+Tutti noi crediamo nella Cattedrale di San Paolo; la maggior parte di noi
+crede in San Paolo. Ma rendiamoci chiaramente conto di questo fatto,
+che crediamo davvero in un certo numero di cose che sono parte
+della nostra esistenza, ma che non possono essere dimostrate.
+Lasciamo per un momento la religione del tutto fuori questione.
+Tutti gli uomini sani di mente, dico, credono fermamente e immutabilmente in un
+certo numero di cose che sono non provate e non provabili.
+Enunciamole grossolanamente.
+
+(1) Ogni uomo sano di mente crede che il mondo intorno a lui e
+le persone che vi sono siano reali, e non una sua illusione o un suo sogno.
+Nessun uomo si mette a incendiare Londra nella convinzione che il suo servitore
+lo sveglierà presto per la colazione. Ma che io, in un dato
+momento qualsiasi, non stia sognando, è cosa non provata e non provabile.
+Che qualcosa esista all'infuori di me stesso è cosa non provata e non provabile.
+
+(2) Tutti gli uomini sani di mente credono che questo mondo non solo esiste, ma conta.
+Ogni uomo crede che ci sia una sorta di obbligo per noi d'interessarci
+a questa visione o panorama della vita. Riterrebbe nel torto un uomo
+che dicesse: «Non ho chiesto io questa farsa e mi annoia.
+So che una vecchia signora sta venendo assassinata al piano di sotto, ma io
+ho intenzione di [[Sleep|dormire]].» Che vi sia un simile dovere di migliorare le cose
+che non abbiamo fatto noi è cosa non provata e non provabile.
+
+(3) Tutti gli uomini sani di mente credono che esista una cosa come un [[Self|io]] o ego,
+che è continuo. Non c'è un solo centimetro della mia materia cerebrale che sia lo stesso
+di dieci anni fa. Ma se ho salvato un uomo in battaglia
+dieci anni or sono, ne sono fiero; se sono fuggito, me ne vergogno.
+Che esista un simile sovrano «io» è cosa non provata e non provabile.
+Ma è più che non provata e non provabile; è decisamente
+contestata da molti metafisici.
+
+(4) Infine, la maggior parte degli uomini sani di mente crede, e tutti gli uomini sani di mente in pratica assumono,
+di avere un potere di scelta e una responsabilità dell'azione....
+
+Sicuramente sarebbe possibile stabilire qualche affermazione piana e scialba
+come quella di sopra, per far vedere alla gente dove si trova.
+E se la gioventù del futuro non deve (per ora) essere istruita
+in alcuna religione, potrebbe almeno esserle insegnato, chiaramente e fermamente,
+le tre o quattro sanità e certezze del libero pensiero umano.
+
+                                               Daily News, 22 giugno 1907

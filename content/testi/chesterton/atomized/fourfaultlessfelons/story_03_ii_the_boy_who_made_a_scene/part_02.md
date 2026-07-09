@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_03_ii_the_boy_who_made_a_scene">Story 03 Ii The Boy Who Made A Scene</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_03_ii_the_boy_who_made_a_scene/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_04_iii_the_man_who_could_not_hate/part_01">part 01 ›</a></div>
@@ -253,3 +255,252 @@ blast, like the [[Wind|wind]] of the [[Desert|desert]], that Viscount Tallboys, 
 Polybia, had been shot down by the last of the line of olives, at the
 
 corner of the wall.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a> › <a href="/testi/chesterton/atomized/fourfaultlessfelons/story_03_ii_the_boy_who_made_a_scene">Story 03 Ii The Boy Who Made A Scene</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_03_ii_the_boy_who_made_a_scene/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_04_iii_the_man_who_could_not_hate/part_01">part 01 ›</a></div>
+</nav>
+
+Ciò era tanto più difficile perché il reverendo Ernest [[Snow]], l'ecclesiastico
+
+in questione, aveva (con tutta la sua mitezza) non poca gentile pertinacia.
+
+Ella ne ricavò la confusa impressione che nutrisse opinioni assai ferme sul
+
+significato di certe Profezie in rapporto alla fine del mondo e
+
+specialmente al destino dell'Impero Britannico. Aveva quel vezzo di
+
+fare d'improvviso domande, il che è tanto scortese verso l'ascoltatore distratto.
+
+Così, ella riusciva a cogliere un frammento del discorso tra i due reggitori
+
+della provincia, il Governatore diceva, bilanciando le sue frasi con le sue
+
+mani ondeggianti: «Vi sono due considerazioni e con questo metodo le
+
+affrontiamo entrambe. Da un lato, è impossibile ripudiare del tutto il nostro
+
+impegno. Dall'altro, è assurdo supporre che il recente
+
+atroce crimine non modifichi necessariamente la [[Nature|natura]] di quell'impegno. Possiamo
+
+ancora far sì che il nostro proclama sia il proclama di una
+
+ragionevole libertà. Abbiamo perciò deciso...»
+
+E poi, in quel preciso momento, il povero ecclesiastico le trafiggeva la
+
+coscienza con la patetica domanda: «Dunque quanti cubiti pensate
+
+che sarebbero?»
+
+Poco più tardi ella riuscì a udire Smythe, che parlava assai meno
+
+del suo compagno, dire seccamente: «Da parte mia, non credo che faccia
+
+molta differenza quali proclami emaniate. Ci sono tumulti qui quando
+
+non abbiamo forze sufficienti, e non ci sono tumulti quando abbiamo
+
+forze sufficienti. Tutto qui.»
+
+«E qual è la nostra posizione al momento?» chiese il Governatore gravemente.
+
+«La nostra posizione è maledettamente pessima, se lo chiedete a me», borbottò l'altro a bassa
+
+voce. «Nulla è stato fatto per addestrare gli uomini; ma se ho scoperto che l'esercitazione
+
+di tiro consisteva in una specie di gioco di società con una cerbottana un paio
+
+di volte l'anno. Ho messo su ora dei bersagli come si deve oltre il
+
+viale degli olivi laggiù, ma ci sono altre cose. Le munizioni non sono...»
+
+«Ma in tal caso», giunse la voce mite ma penetrante del signor [[Snow]], «in
+
+tal caso che ne è dei Sunamiti?»
+
+Barbara non aveva la minima idea di che ne fosse di loro, ma in questo caso
+
+sentì di poterlo trattare come una domanda retorica. Si costrinse ad
+
+ascoltare un po' più da vicino le opinioni del venerabile mistico, e
+
+udì un solo altro [[Fragment|frammento]] della conversazione politica.
+
+«Vorremo davvero tutti questi preparativi militari?» chiese Lord
+
+Tallboys piuttosto ansiosamente. «Quando pensate che ne avremo bisogno?»
+
+«Posso dirvelo», disse Smythe con una certa cupezza. «Ne avremo
+
+bisogno quando pubblicherete il vostro proclama di ragionevole libertà.»
+
+Lord Tallboys fece un movimento brusco nella sedia da [[Garden|giardino]], come chi
+
+rompe una conferenza in una certa irritazione; poi creò un diversivo
+
+alzando un dito e facendo segno al suo segretario, il signor Meade, che gli scivolò
+
+accanto e dopo un breve colloquio scivolò dentro la [[house|casa]]. Liberata dalla
+
+tensione degli affari di Stato, Barbara cadde ancora una volta sotto l'incanto della
+
+Chiesa e dell'Ufficio Profetico. Aveva ancora solo un'idea confusa di
+
+quel che il vecchio ecclesiastico diceva, ma cominciò a percepirvi un vago elemento
+
+di poesia. Almeno era pieno di cose che dilettavano la sua fantasia
+
+come i cupi disegni di Blake, città preistoriche e veggenti ciechi e petrosi
+
+e re che parevano vestiti di pietra come i loro sepolcri, le
+
+Piramidi. In modo confuso ella capì perché tutta quella pietrosa e stellata
+
+landa desolata sia stata il terreno di gioco di tanti fissati. Si intenerì un
+
+poco verso il fissato clericale e accettò persino un invito alla sua
+
+[[house|casa]] per il giorno dopo il seguente, a vedere i documenti e la
+
+prova definitiva sui Sunamiti. Ma restava assai vaga su
+
+ciò che dovesse dimostrare.
+
+Egli la ringraziò e disse gravemente: «Se la profezia si compie ora, vi
+
+sarà una [[Grave|grave]] calamità.»
+
+«Suppongo», disse ella con una piuttosto tetra leggerezza, «che se la profezia
+
+non si compisse, sarebbe una calamità ancor più grande.»
+
+Proprio mentre parlava vi fu un movimento dietro alcune delle palme del [[Garden|giardino]] e
+
+il volto pallido e lievemente spalancato di suo fratello apparve sopra le
+
+[[Leaves|foglie]] delle palme. Un istante dopo scorse proprio dietro di lui il segretario e
+
+il precettore; era evidente che lo zio aveva mandato a chiamarlo. Tom Traill aveva
+
+l'aria di essere troppo grosso per i suoi abiti, cosa non insolita in chi è
+
+per altro poco sviluppato; i cupi bei tratti che altrimenti
+
+avrebbe condiviso con il suo ramo della famiglia erano guastati dai suoi capelli scuri e
+
+lisci spazzolati di traverso e dalla sua abitudine di guardare con la
+
+coda dell'occhio l'angolo del tappeto. Il suo precettore era un uomo grosso dall'
+
+aspetto smorto e polveroso, che pareva rispondere al nome di Hume. Le sue larghe
+
+spalle erano un poco curve come quelle di un servo affaticato, benché fosse
+
+ancora appena di mezza età. Il suo volto semplice e rude aveva un'espressione
+
+piuttosto stanca, come [[Well|ben]] poteva. Insegnare ai deficienti non è sempre un
+
+gioco di società esilarante.
+
+Lord Tallboys ebbe una breve e cortese conversazione col precettore. Lord
+
+Tallboys fece qualche semplice domanda. Lord Tallboys tenne una piccola
+
+conferenza sull'[[Education|educazione]], sempre assai cortese, ma accompagnata dall'ondeggiare
+
+delle mani a turno. Da un lato, la capacità di lavorare era una necessità
+
+della vita e non si poteva mai eludere del tutto. Dall'altro, senza una
+
+ragionevole proporzione di piacere e riposo perfino il lavoro ne avrebbe sofferto. Da
+
+un lato... fu a questo punto che la Profezia si compì apparentemente
+
+e una assai deplorevole Calamità si verificò al tè del Governatore.
+
+Perché il ragazzo proruppe di scatto in una specie di verso acuto e gorgogliante e
+
+cominciò ad agitare le mani come le ali di un pinguino, ripetendo più e
+
+più volte: «Da un lato. Dall'altro. Da un lato. Dall'
+
+altro. Da un lato. Dall'altro... Perbacco!»
+
+«Tom!» gridò Olive con un aspro accento d'angoscia e vi fu uno spettrale
+
+[[Silence|silenzio]] su tutto il [[Garden|giardino]].
+
+«[[Well|Beh]]», disse il precettore in un sommesso tono ragionevole, che era chiaro come
+
+una campana in quella quiete, «non puoi mica pretendere di avere tre mani, no?»
+
+«Tre mani?» ripeté il ragazzo, e poi dopo un lungo [[Silence|silenzio]]: «Ma, come
+
+potresti?»
+
+«Una dovrebbe stare nel mezzo, come la proboscide di un elefante», proseguì
+
+il precettore nello stesso tono incolore e discorsivo. «Non sarebbe
+
+bello avere un lungo naso come un elefante così da poterlo girare di
+
+qua e di là e raccogliere le cose sulla tavola della colazione, e non lasciare mai
+
+il coltello e la forchetta?»
+
+«Oh, sei matto!» sbottò Tom con una specie di esplosione che aveva uno
+
+strano tocco di esultanza.
+
+«Non sono l'unico matto al mondo, vecchio mio», disse il signor Hume.
+
+Barbara restava a fissare mentre ascoltava questa straordinaria conversazione
+
+in quel mortale [[Silence|silenzio]] e in quella cornice sociale quanto mai inadatta. La
+
+cosa più straordinaria di essa era che il precettore diceva queste cose folli e
+
+incongrue con un volto assolutamente impassibile.
+
+«Non ti ho mai raccontato», disse con la stessa voce pesante e indifferente,
+
+«del dentista in gamba che sapeva cavarsi i denti da solo con
+
+il proprio naso? Te lo racconterò domani.»
+
+Era ancora del tutto smorto e serio; ma aveva fatto il colpo. Il ragazzo
+
+fu distolto dalla sua avversione per lo zio da quell'immagine assurda, proprio come
+
+un [[Child|bambino]] in collera è distolto da un giocattolo nuovo. Ora Tom guardava soltanto
+
+il precettore e lo seguiva ovunque con gli occhi. Forse egli non era
+
+l'unico membro della sua famiglia a farlo. Perché il precettore, pensò
+
+Barbara, era certo una persona assai singolare.
+
+Non ci furono altri discorsi politici quel giorno, ma ci furono non poche
+
+notizie politiche il giorno dopo. Il mattino seguente furono affissi
+
+proclami ovunque ad annunciare il giusto, ragionevole e persino generoso
+
+compromesso che il [[government|Governo]] di Sua Maestà offriva ora come equa e
+
+definitiva soluzione dei gravi problemi sociali di Polibia e dell'[[Egypt|Egitto]]
+
+orientale. E la sera seguente la notizia percorse la città in un solo
+
+soffio, come il [[Wind|vento]] del [[Desert|deserto]], che il Visconte Tallboys, Governatore di
+
+Polibia, era stato abbattuto a colpi d'arma presso l'ultimo della fila di olivi, all'
+
+angolo del muro.

@@ -135,105 +135,108 @@ into my mind.
 
 XVI
 
-IL DIO DALLA CHIAVE D'ORO
+IL DIO CON LA CHIAVE D'ORO
 
-Qualche [[Time|tempo]] fa, comodamente seduto in una sera d'[[Summer|estate]]
-e prendendo in serena rassegna una vita indifendibilmente fortunata e
-felice, calcolai di dover aver commesso almeno cinquantatré omicidi, e di
-essermi occupato di nascondere una cinquantina di cadaveri allo scopo di
-occultare dei delitti; appendendone uno a un attaccapanni, ficcandone un
-altro nella borsa di un postino, decapitandone un terzo e provvedendolo
-della testa di qualcun altro, e così via, attraverso un buon numero di
-[[Innocent|innocenti]] artifici di tal genere. È vero che ho perpetrato la
-maggior parte di queste atrocità sulla carta; e raccomando vivamente al
-giovane studente, salvo casi estremi, di dare espressione ai propri impulsi
-criminali in questa forma; e di non correre il rischio di rovinare una bella
-e [[Well|ben]] proporzionata idea abbassandola al piano del bruto
-esperimento materiale, dove troppo spesso patisce le imperfezioni impreviste
-e le delusioni di questo mondo decaduto, e reca con sé varie sgradite e
-indegne conseguenze sociali e legali. Ho spiegato altrove che una volta
-compilai una scientifica tavola dei Venti Modi di Uccidere una Moglie e
-sono riuscito a preservarli tutti nella loro indisturbata compiutezza
-artistica, cosicché è possibile per l'[[Artist|artista]], in un certo senso,
-aver felicemente assassinato venti mogli e tuttavia conservare, dopotutto,
-la moglie originaria; un vantaggio ulteriore che in molti casi, e
-specialmente nel mio, non è privo di pregi. Laddove, per l'[[Artist|artista]],
-sacrificare la propria moglie e forse il proprio collo per la mera, volgare
-e teatrale rappresentazione pratica di uno di questi drammi ideali,
-significa perdere non solo questo, ma tutto il godimento ideale degli altri
-diciannove. Essendo questo il mio rigoroso principio, dal quale non ho mai
-vacillato, nulla è mai valso a troncare la ricca accumulazione di cadaveri
-immaginari; e, come dico, ne ho già accumulati parecchi. Il mio nome
-raggiunse una certa notorietà come quello di uno scrittore di questi
-racconti sanguinari, comunemente detti racconti [[Detective|polizieschi]];
-certi editori e certe riviste hanno finito per contare su di me per simili
-inezie; e sono ancora tanto gentili, di [[Time|tempo]] in [[Time|tempo]], da
-scrivermi ordinando una nuova infornata di cadaveri; generalmente in
-partite di otto per [[Time|volta]].
+Qualche [[Time|tempo]] fa, seduto a mio agio in una sera d'[[Summer|estate]] e passando
+in serena rassegna una vita indifendibilmente fortunata e felice,
+calcolai che devo aver commesso almeno cinquantatré omicidi,
+e aver avuto a che fare con l'occultamento di circa mezzo centinaio di cadaveri
+allo scopo di celare delitti; appendendo un cadavere
+a un attaccapanni, ficcandone un altro nella borsa di un postino, decapitandone un
+terzo e fornendolo della testa di qualcun altro, e così via
+attraverso un numero piuttosto grande di [[Innocent|innocenti]] artifici del genere.
+È vero che ho messo in scena la maggior parte di queste atrocità sulla carta;
+e raccomando vivamente al giovane studente, salvo casi estremi,
+di dare espressione ai propri impulsi criminali in questa forma;
+e di non correre il rischio di rovinare un'idea bella e [[Well|ben]] proporzionata
+abbassandola al piano del bruto esperimento materiale,
+dove essa troppo spesso patisce le imperviste imperfezioni
+e delusioni di questo mondo decaduto, e reca con sé
+svariate sgradite e indegne conseguenze sociali e legali.
+Ho spiegato altrove che una volta compilai una tavola scientifica
+dei Venti Modi di Uccidere una Moglie e sono riuscito a preservarli
+tutti nella loro indisturbata compiutezza artistica, così che
+è possibile per l'[[Artist|artista]], in un certo senso, aver assassinato con successo
+venti mogli e nondimeno conservare in fin dei conti la moglie originale;
+un ulteriore punto che è, in molti casi, e specialmente nel mio,
+non privo di vantaggi. Mentre, per l'[[Artist|artista]], sacrificare
+la propria moglie e magari il proprio collo, per la mera volgare e teatrale
+presentazione pratica di uno di questi drammi ideali, significa perdere,
+non solo questo, ma tutto il godimento ideale degli altri diciannove.
+Essendo questo il mio rigoroso principio, dal quale non ho mai vacillato,
+non c'è stato nulla a interrompere la ricca accumulazione di
+cadaveri immaginari; e, come dico, ne ho già accumulati
+parecchi. Il mio nome raggiunse una certa notorietà come quello di uno scrittore
+di questi omicidiari racconti brevi, comunemente chiamati storie [[Detective|poliziesche]];
+certi editori e riviste hanno preso a contare su di me per
+tali inezie; e sono ancora così gentili, di [[Time|tempo]] in [[Time|tempo]], da scrivermi
+per ordinarmi una nuova infornata di cadaveri; generalmente in partite
+di otto alla [[Time|volta]].
 
-Chi si sia imbattuto nelle tracce di questa industria saprà forse che un
-gran numero delle mie piccole storie criminali riguardavano una persona di
-nome [[Father Brown]]; un prete cattolico la cui esteriore semplicità e
-interiore sottigliezza formavano qualcosa di abbastanza vicino a un
-personaggio ai fini di questo abbozzato genere di narrazione. E sono sorte
-certe domande, specialmente domande sull'[[Identity|identità]] o
-sull'esattezza del tipo, che non sono state senza effetto su cose più
-importanti.
+Chiunque abbia rinvenuto tracce di questa industria può forse sapere
+che un gran numero delle mie storielle criminali riguardava
+un personaggio chiamato [[Father Brown]]; un prete cattolico la cui esteriore
+semplicità e interiore sottigliezza formavano qualcosa di abbastanza vicino a un
+personaggio ai fini di questo abbozzato genere di narrazione.
+E sono sorte certe questioni, specialmente questioni sull'[[Identity|identità]]
+o l'accuratezza del tipo, che non sono state prive di
+effetto su cose più importanti.
 
-Come ho detto, non ho mai preso molto sul serio i miei romanzi o i miei
-racconti, né immaginato di avere una particolare posizione in qualcosa di
-tanto serio come un [[Novel|romanzo]]. Ma posso al medesimo [[Time|tempo]]
-sostenere che era abbastanza [[Novel|nuovo]] da essere un [[Novel|romanzo]],
-nel senso di non essere storico né biografico; e che persino uno dei miei
-racconti era abbastanza originale da fare a meno di originali. L'idea che un
-personaggio di un [[Novel|romanzo]] debba essere «pensato» per qualcuno o
-«tratto» da qualcuno si fonda su un fraintendimento della [[Nature|natura]]
-della fantasia narrativa, e specialmente di fantasie tanto tenui come le
-mie. Ciononostante, si è comunemente detto che [[Father Brown]] avesse un
-originale nella vita reale; e in un senso particolare e piuttosto personale,
-è vero.
+Come ho detto, non ho mai preso i miei romanzi o racconti
+molto sul serio, né immaginato di avere una qualche particolare statura in qualcosa
+di così serio come un [[Novel|romanzo]]. Ma posso rivendicare allo stesso [[Time|tempo]] che esso
+fu [[Novel|nuovo]] abbastanza da essere [[Novel|romanzo]], nel senso di non essere storico
+o biografico; e che persino uno dei miei racconti fu abbastanza originale
+da fare a meno di originali. L'idea che un personaggio
+di un [[Novel|romanzo]] debba essere «pensato» per qualcuno o «preso da» qualcuno è
+fondata su un fraintendimento della [[Nature|natura]] della fantasia narrativa,
+e specialmente di fantasie così esili come le mie. Nondimeno, si è
+generalmente detto che [[Father Brown]] avesse un originale nella vita reale;
+e in un senso particolare e piuttosto personale, è vero.
 
-L'idea che un romanziere prenda un personaggio di peso e in tutti i suoi
-dettagli da un amico o da un nemico è un abbaglio che ha fatto molto danno.
-Persino i personaggi di Dickens, a un tempo così palesemente creazioni e
-così palesemente caricature, venivano misurati su comuni mortali, come se
-esistessero mortali capaci di calzare esattamente la magnifica statura
-eroicomica di Weller o di Micawber. Ricordo mio padre che mi raccontava come
-alcuni suoi contemporanei si purgassero con indignazione dall'accusa di
-essere il modello del signor Pecksniff; e specialmente come il [[Well|ben]] noto S.
-C. Hall, lo Spiritista, si scagionasse con un'eloquenza che alcuni
-trovarono troppo [[Sublime|sublime]] per essere convincente. «Come si può
-dire che io somigli a Pecksniff?» disse questo degno uomo a mio padre. «Voi
-mi conoscete. Il mondo mi conosce. Il mondo sa che ho dedicato la mia vita
-al bene degli altri, che ho vissuto una vita pura ed elevata, dedita ai più
-alti doveri e ideali, che ho sempre cercato di dare l'esempio della
-[[Truth|verità]], della giustizia, della probità, della purezza e della
-virtù pubblica. Quale somiglianza può esservi tra me e Pecksniff?».
+L'idea che un romanziere prenda un personaggio di peso e in tutti
+i suoi dettagli da un amico o da un nemico è un abbaglio che ha fatto
+un gran danno. Persino i personaggi di Dickens, a un tempo
+così palesemente creazioni e così palesemente caricature, venivano misurati
+contro meri mortali, come se ci fossero mortali capaci di adattarsi
+esattamente alla magnifica statura mock-eroica di Weller o Micawber.
+Ricordo mio padre che mi raccontava come alcuni suoi contemporanei si scagionassero
+indignati dall'accusa di essere il modello del signor Pecksniff;
+e specialmente come il [[Well|ben]] noto S. C. Hall, lo Spiritista,
+si discolpasse con un'eloquenza che alcuni trovarono troppo [[Sublime|sublime]]
+per essere convincente. «Come si può dire che io somiglio a Pecksniff?»
+disse quest'onest'uomo a mio padre. «Voi mi conoscete. Il mondo mi conosce.
+Il mondo sa che ho dedicato la mia vita al bene degli altri,
+che ho vissuto una vita pura ed elevata dedita ai più alti
+doveri e ideali, che ho cercato sempre di dare l'esempio
+della [[Truth|verità]], della giustizia, della probità, della purezza e della pubblica virtù.
+Quale somiglianza può esserci tra me e Pecksniff?»
 
-Quando uno scrittore inventa un personaggio ai fini della narrativa, e
-specialmente della narrativa leggera o fantasiosa, lo corredò di ogni sorta
-di tratti destinati a essere efficaci in quella cornice e contro quello
-sfondo. Egli può aver colto, e probabilmente ha colto, uno spunto da un
-essere umano. Ma non esiterà ad alterare l'essere umano, specialmente negli
-aspetti esteriori, perché non pensa a un ritratto ma a un quadro. In
-[[Father Brown]], il tratto principale era il non avere tratti. Il suo punto
-era di apparire privo di punte; e si potrebbe dire che la sua qualità
-cospicua consistesse nel non essere cospicuo. Il suo esteriore dozzinale era
-inteso a contrastare con la sua insospettata vigilanza e intelligenza; e
-stando così le cose, naturalmente resi il suo aspetto trasandato e
-informe, il suo volto tondo e inespressivo, i suoi modi goffi, e così via.
-Al medesimo [[Time|tempo]], trassi davvero alcune delle sue qualità
-intellettuali interiori dal mio amico, Padre John O'Connor di Bradford, il
-quale non possiede, in verità, nessuna di queste qualità esteriori. Non è
-trasandato, ma piuttosto lindo; non è goffo, ma assai delicato e destro; non
-solo è, ma appare divertente e divertito. È un irlandese sensibile e
-pronto d'ingegno, con la profonda ironia e un po' della potenziale
-irritabilità della sua razza. Il mio [[Father Brown]] fu deliberatamente
-descritto come un budino del Suffolk, dell'Anglia Orientale. Quello, e il
-resto della sua descrizione, era un deliberato travestimento ai fini della
-[[Detective Fiction|narrativa poliziesca]]. Ma con tutto ciò, c'è un senso
-assai reale in cui Padre O'Connor fu l'ispirazione intellettuale di queste
-storie; e [[Well|anche]] di cose ben più importanti. E per spiegare queste
-cose, specialmente quelle importanti, non posso far di meglio che raccontare
-la storia di come la prima idea di questa [[Detective|poliziesca]]
-[[Comedy|commedia]] mi venne in mente.
+Quando uno scrittore inventa un personaggio ai fini della finzione, specialmente
+di una finzione leggera o fantasiosa, lo equipaggia di ogni sorta di tratti
+intesi a risultare efficaci in quella cornice e su quello sfondo.
+Può aver colto, e probabilmente ha colto, uno spunto da un essere umano.
+Ma non esiterà ad alterare l'essere umano, specialmente negli
+esteriori, perché non sta pensando a un ritratto ma a un quadro.
+In [[Father Brown]], il tratto principale era l'essere privo di tratti.
+Il punto di lui era di apparire senza punti; e si potrebbe dire che la sua
+qualità cospicua era il non essere cospicuo. Il suo aspetto ordinario
+era inteso a contrastare con la sua insospettata vigilanza e intelligenza;
+e stando così le cose, naturalmente resi il suo aspetto trasandato e informe,
+la sua faccia tonda e inespressiva, i suoi modi goffi, e così via.
+Allo stesso [[Time|tempo]], presi alcune delle sue intime qualità intellettuali
+dal mio amico, Padre John O'Connor di Bradford,
+il quale non ha, in verità, alcuna di queste qualità esteriori.
+Non è trasandato, ma piuttosto ordinato; non è goffo, ma assai delicato
+e destro; non solo è ma appare divertente e divertito.
+È un Irlandese sensibile e pronto di spirito, con la profonda
+ironia e una parte della potenziale irritabilità della sua razza.
+Il mio [[Father Brown]] fu deliberatamente descritto come un tarchiato del Suffolk
+dell'East Anglia. Questo, e il resto della sua descrizione,
+era un deliberato travestimento ai fini della [[Detective Fiction|narrativa poliziesca]].
+Ma ciononostante, c'è un senso assai reale in cui Padre O'Connor
+fu l'ispirazione intellettuale di queste storie; e di cose ben più
+importanti [[Well|pure]]. E per spiegare queste cose,
+specialmente le cose importanti, non posso far di meglio che raccontare
+la storia di come la prima idea di questa [[Detective|poliziesca]] [[Comedy|commedia]] mi venne
+in mente.

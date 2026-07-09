@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/part/part_34">‹ part 34</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/part/part_36">part 36 ›</a></div>
@@ -148,3 +150,66 @@ Culture, like science, is no protection against demons.
 And poor Robespierre was nearer the [[Truth|truth]] than the later progressives
 when he said that there was no protection for the commonwealth
 but Virtue and the Worship of God.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/part/part_34">‹ part 34</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/part/part_36">part 36 ›</a></div>
+</nav>
+
+_XXXV A proposito del Sacrificio_
+
+IL mondo non ha ancora avuto la felicità di leggere la mia grande opera di prossima uscita, _In difesa del Sacrificio Umano,_ ovvero _Moloch, la [[Hope|Speranza]] del Mondo Moderno,_ in nove volumi, con tavole e diagrammi illustranti tutti i vantaggi dell'Omicidio Rituale, e il lato religioso del cannibalismo. È persino possibile, ahimè, che il lettore non abbia mai il rapimento di leggere questa grande monografia scientifica; poiché ho per le mani moltissimi altri impegni, nella distrazione ed eccitazione dei quali è possibile che il mio primo ardente e giovanile entusiasmo per il Sacrificio Umano si sia alquanto affievolito, col passare degli anni e il consolidarsi di convinzioni più moderate. Ma per quanto [[Doubt|dubiti]] che potrei, a questo [[Time|punto]], indurmi a sacrificare un neonato a Moloch, e per quanto la mia prima fanciullesca impazienza dinanzi al blando compromesso adottato nei casi di Isacco e di Ifigenia sia da tempo svanita, continuo a ritenere che il Sacrificio Umano sia infinitamente più decoroso e dignitoso di certe operazioni scientifiche proposte al [[Time|tempo]] presente. Perlomeno il Sacrificio Umano è umano; assai più umano dell'[[Humanitarianism|umanitarismo]]. E quando i moderni uomini di medicina si alzano gravemente a proporre che gli esseri umani vengano rinchiusi in camere letali, ogniqualvolta vi sia motivo di supporre che siano stanchi di vivere, io sono ancora (relativamente) disposto a gridare: «Datemi Moloch e i cannibali».
+
+Si consideri anzitutto il punto fondamentale: che l'altare pagano trattava almeno la vita di un uomo come qualcosa di prezioso, mentre la camera letale tratta la vita di un uomo come qualcosa di privo di valore. La vita di un uomo veniva offerta agli dèi perché era preziosa; più preziosa del miglior toro o del più bell'ariete, o delle cose scelte tra le greggi e gli armenti, che venivano sempre scelte perché elette. Ma i moderni, che non credono nell'esistenza degli dèi, finiscono col non credere nemmeno nell'esistenza degli uomini. Essendo evoluzionisti scientifici, non sanno distinguere tra un uomo e una pecora. Ed essendo cittadini altamente civilizzati, sarebbero probabilmente pessimi giudici della differenza tra una buona pecora e una cattiva. Perciò vi è nelle loro operazioni sacrificali una sorta di qualità sprezzante e indifferente, contraria all'idea stessa del sacrificio, persino nella sua forma più tetra e sanguinaria. Parlano sempre di eliminare gli inadatti, di sbarazzarsi della popolazione in eccesso, di segregare i deboli di mente, o di distruggere i disperati; e ciò conferisce a tutta la loro opera un carattere di disprezzo. Ora, persino nei più vili riti [[Blood|di sangue]] dei barbari poteva esservi crudeltà, ma non vi era disprezzo. Farsi tagliare la gola dinanzi a un brutto idolo di pietra era un complimento; benché forse un complimento che avreste cortesemente declinato e allontanato con un gesto.
+
+Avrebbe implicato che voi eravate, secondo le parole dell'antica consuetudine feudale del censo, la Bestia Migliore. E per quanto bestiali poteste giudicare le persone attorno a voi, e le loro vedute religiose e abitudini liturgiche, vi sarebbe stata una certa soddisfazione nell'essere la bestia migliore tra loro. Il Sacrificio Umano aveva attorno a sé questo grande, benché decaduto, splendore: che esso era perlomeno l'esatto contrario della [[Survival|Sopravvivenza]] del Più Adatto. Come tutte le morti dei martiri e degli eroi, era la Resa del Più Adatto. I distruttori scientifici parlano necessariamente in termini opposti e diffondono un tono opposto. Essi sacrificano la pecora nera del gregge; il toro impazzito dell'armento; gli sventurati della comunità umana che scelgono di considerare folli o semplicemente deboli di mente. Non si limitano a uccidere, ma annientano; non solo nel senso di ridurre le persone a nulla, ma persino di considerarle nessuno. La vittima sacrificale veniva sempre considerata qualcosa; era persino rispettata come qualcuno. La vittima era spesso una principessa la cui [[Beauty|bellezza]] era ammirata, o un grande nemico il cui [[Courage|coraggio]] era invidiato. Alcuni hanno detto che quest'ultimo fosse all'origine del cannibalismo; nel qual caso sarebbe un complimento assai lusinghiero essere cotto e mangiato; e alquanto uno sgarbo o un ghigno, per qualsiasi gentiluomo di sensibile costituzione, essere risparmiato e lasciato in vita. Il lettore può tuttavia essere sollevato d'apprendere che non raccomando davvero l'inclusione del cannibalismo e del sacrificio umano tra le innovazioni ritualistiche della Scuola Progressista in seno alla Chiesa.
+
+La [[Truth|verità]] rimane, tuttavia, anche nel significato letterale e latino di sacrificio. Esso significa rendere sacra una cosa; ovvero, in questo caso, rendere sacro un uomo. E renderlo sacro è renderlo separato; qualcosa di appartato, da non confondersi con le greggi e gli armenti e le bestie che periscono. Ora il male opposto, quale esiste in tanta filantropia scientifica, è la tendenza a trattare gli uomini in mandria; a trattarli come pecore; e non solo ad annoverarli tra le bestie che periscono, ma a porre particolare cura affinché essi periscano davvero. E questa è una tirannide di specie nuova, se paragonata persino alla vecchia esecuzione dispotica, per [[Alone|non dire]] dell'antico sacrificio ieratico. Persino le esecuzioni pubbliche, oggi convenzionalmente condannate, avevano questa sorta di selvaggia giustizia: che non privavano l'attore principale delle luci della ribalta. Ma il nuovo raggio di [[Death|morte]] della distruzione scientifica non isolerebbe personalità e individui come fa la ribalta. E vi è il pericolo che il fatto stesso di trattare con vite che si suppongono futili o prive di tratti o meramente scomode e sgradevoli, invece che con grandi delitti o bestemmie, possa introdurre nell'impresa uno spirito peggiore del semplicemente crudele; perché semplicemente insensibile.
+
+È uno scherzo prediletto fra gli storici più solenni ricordare che Robespierre,
+al quale si attribuisce, a lode o a biasimo, la ghigliottinatura di migliaia di nemici
+della sua stessa teoria, cominciò in realtà la propria vita politica con un'argomentazione
+in favore dell'abolizione della pena capitale. Meno spesso si osserva,
+benché sia in verità uno scherzo migliore, che egli si valse dell'unico argomento davvero
+buono per l'abolizione della pena capitale. Disse:
+«Ogni [[Time|volta]] che uccidi un uomo per legge, diminuisci qualcosa
+della sacralità dell'Uomo.» Ma il sacrificio umano, quali che fossero le sue altre
+piccole debolezze, non diminuiva affatto la sacralità dell'Uomo.
+Dal punto di vista di quella particolare eresia pagana,
+anzi accresceva la sacralità dell'Uomo. Poiché era fondato
+sul principio opposto, che la cosa migliore debba essere sacrificata,
+ossia resa sacra. E benché questa particolare forma del sentimento
+sia barbara e ottenebrata, e nella pratica morale abominevole,
+il sentimento in sé è di quelli che dovrebbero essere compresi meglio
+di quanto non lo siano in ciò che comunemente si chiama un'età dei lumi.
+Purtroppo, gli illuminati sono anche ottenebrati. Non sembrano mai
+gettare alcuna luce su queste parti tanto misteriose e interessanti
+della [[Nature|natura]] e della [[history|storia]] dell'Uomo; e poiché non riescono a comprendere
+l'idea nelle sue manifestazioni più alte e più pure, è naturale che
+ne rimangano semplicemente sconcertati nelle sue più basse e più brutali.
+Ma una parte enorme della [[history|storia]] umana resterà per sempre
+inintelligibile a coloro che non sanno nemmeno concepire quest'idea:
+l'idea di rinunciare a una cosa non perché essa sia cattiva, ma perché
+è buona.
+
+Parlando sul serio, s'intende, la maggior parte dei sacrifici umani tende a essere disumana,
+perché tende a essere [[diabolist|diabolica]]. La linea non sempre viene tracciata
+subito, né tracciata con facilità, fra una divinità alquanto tenebrosa e spietata
+e un demonio vero e proprio. Ma una cosa almeno possiamo imparare
+dalla [[history|storia]] reale del mondo, ed è come evitare
+un abbaglio commesso da più della metà delle storie del mondo.
+Qualunque altra cosa sia vera, non è vero che i riti del [[Blood|sangue]] appartengano interamente
+a popoli preistorici o anche soltanto primitivi. Gli storici progressisti,
+di una scuola che ormai non progredisce più tanto visibilmente, fecero del loro meglio
+per suggerire e insinuare che una civiltà complessa sia una garanzia completa
+contro credenze innaturali o cerimonie crudeli. Non lo è affatto.
+Alcune fra le culture più civili e più altamente organizzate,
+come Cartagine al culmine della sua ricchezza, ebbero il sacrificio umano nella sua forma peggiore.
+La cultura, come la scienza, non è protezione contro i demoni.
+E il povero Robespierre era più vicino alla [[Truth|verità]] dei progressisti che vennero dopo
+quando disse che non v'era protezione per lo Stato
+se non la Virtù e il Culto di Dio.

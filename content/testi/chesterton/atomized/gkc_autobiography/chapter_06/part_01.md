@@ -138,16 +138,110 @@ and as yet, of very little else.
 
 VI
 
-IL SOBBORGO FANTASTICO
+IL FANTASTICO SOBBORGO
 
-Quando ero un giovane giornalista al Daily News, scrissi in un articolo o nell'altro la frase: «Clapham, come ogni altra [[City|città]], è costruita sopra un vulcano». Quando aprii il giornale il giorno dopo, mi trovai davanti le parole: «Kensington, come ogni altra [[City|città]], è costruita sopra un vulcano». Non aveva importanza, naturalmente, ma io rimasi un poco perplesso e lo accennai al mio immediato superiore in redazione, come se si trattasse d'un capriccio di qualche estroso compositore. Ma egli mi guardò torvo, in modo greve e risentito, che [[Alone|da solo]] basterebbe a confessare una [[Guilt|colpa]], se [[Guilt|colpa]] vi fosse, e disse piuttosto imbronciato: «Perché mai dovrebbe essere Clapham?». E poi, come gettando la maschera: «[[Well|Ebbene]], io abito a Clapham». Ed egli, sapendo che io abitavo a Kensington, aveva amaramente trasferito a quel regio borgo ciò che immaginava fosse un insulto.
+Quand'ero un giovane giornalista al Daily News, scrissi in qualche
+articolo o l'altro la frase: «Clapham, come ogni altra [[City|città]],
+è costruita su un vulcano.» Quando aprii il giornale il giorno dopo, trovai
+le parole che mi fronteggiavano: «Kensington, come ogni altra [[City|città]],
+è costruita su un vulcano.» Non aveva importanza, s'intende, ma io
+ero un po' perplesso e lo menzionai al mio immediato superiore
+in ufficio, come se fosse un capriccio di un fantasioso compositore.
+Ma egli mi fulminò con lo sguardo in modo pesante e risentito, il che
+[[Alone|già di per sé]] sarebbe una confessione di [[Guilt|Colpa]], se ci fosse una qualche [[Guilt|Colpa]],
+e disse piuttosto imbronciato: «Perché dovrebbe essere Clapham?» E poi,
+come gettando via la maschera: «[[Well|Ebbene]], io abito a Clapham.»
+Ed egli, sapendo che io abitavo a Kensington, aveva amaramente trasferito
+a quel regale borgo ciò che immaginava fosse un dileggio.
 
-«Ma io stavo glorificando Clapham!», esclamai pateticamente, «la mostravo come epica ed elementare e fondata nella fiamma sacra». «Ti credi spiritoso, eh?», disse. «Credo di aver ragione», dissi io, avanzando quella modesta pretesa non per l'ultima [[Time|volta]]; e allora, non per l'ultima ma forse per la prima [[Time|volta]], la terribile [[Truth|verità]] mi si affacciò alla mente.
+«Ma io stavo glorificando Clapham!» esclamai pateticamente, «La
+mostravo come epica ed elementare e fondata nella santa fiamma.»
+«Ti credi spiritoso, vero?» disse. «Credo di avere ragione,»
+dissi, avanzando quella modesta pretesa non per l'ultima [[Time|volta]]; e poi,
+non per l'ultima ma forse per la prima [[Time|volta]], la terribile [[Truth|Verità]]
+mi si fece luce.
 
-Se in un villaggio basco o in una cittadina bavarese dicessi che il luogo è romantico, qualcuno potrebbe trarne la spaventosa deduzione che tu sia un [[Artist|artista]], e perciò forse un pazzo; ma nessuno avrebbe particolare ragione di [[Doubt|dubitare]] che il pazzo intendesse proprio ciò che diceva. Ma il cittadino di Clapham non poteva credere che io intendessi ciò che dicevo. Il patriota di Clapham non poteva trovare credibile o concepibile che una qualsiasi osservazione su Clapham potesse essere altro che uno scherno verso Clapham. Non riusciva nemmeno a pronunciare la parola in modo che la prima sillaba di «Clapham» suonasse come l'ultima sillaba di «thunderclap». Restava del tutto velata al suo sguardo la Clapham visionaria, la Clapham vulcanica, ciò che mi sia consentito collocare sulla mappa cosmica come Thunderclapham. Gli assicurai più e più volte, quasi con le [[Tears|lacrime]] agli occhi, che simpatizzavo calorosamente con qualunque sensibile sentimento egli potesse nutrire, se era davvero fiero di Clapham. Ma quello era appunto l'orribile segreto. Non era fiero di Clapham. Il patriota di Clapham si vergognava di Clapham.
+Se dicessi in un villaggio basco o in una cittadina bavarese che il luogo
+era romantico, alcuni potrebbero trarre la spaventosa deduzione che voi foste
+un [[Artist|Artista]], e perciò forse un pazzo; ma nessuno avrebbe
+alcuna particolare ragione di [[Doubt|dubitare]] che il pazzo intendesse ciò che diceva.
+Ma il cittadino di Clapham non poteva credere che io intendessi ciò che dicevo.
+Il patriota di Clapham non poteva trovare credibile o concepibile che
+un qualunque commento su Clapham potesse essere alcunché se non un sogghigno verso Clapham.
+Non riusciva neppure a pronunciare la parola in modo che la prima sillaba di «Clapham»
+suonasse come l'ultima sillaba di «thunderclap» [tuono]. Del tutto velata
+alla sua vista era la Clapham visionaria, la Clapham vulcanica,
+ciò che mi sia concesso di apporre sulla mappa cosmica come Thunderclapham.
+Gli assicurai più e più volte, quasi con le [[Tears|Lacrime]], che simpatizzavo
+calorosamente con qualunque sentimento sensibile egli potesse avere, se davvero
+era orgoglioso di Clapham. Ma era esattamente quello l'orribile segreto.
+Non era orgoglioso di Clapham. Il patriota di Clapham si vergognava di Clapham.
 
-Quel giornalista di Clapham, che mi guardò torvo, è stato il problema della mia vita. Mi ha perseguitato a ogni svolta e ad ogni angolo come un'[[Shadow|ombra]], come fosse un ricattatore o un assassino. Fu contro di lui che schierai gli sciocchi alabardieri da pantomima di Notting [[Hill|Hill]] e tutto il resto. In altre parole, tutto ciò che ho pensato e fatto è nato originariamente da quel problema che a me pareva un [[Paradox|paradosso]]. Dovrò riferirmi a molti problemi in queste pagine, se esse devono essere pagine veritiere; e dare uno sguardo a soluzioni con alcune delle quali il lettore potrà concordare, con altre delle quali potrà dissentire con grande veemenza. Ma gli chiederò di ricordare per tutto il tempo che questo fu per me il problema primario, certamente nell'ordine del [[Time|tempo]] e in gran parte nell'ordine della [[logic|logica]]. Era il problema di come si potessero indurre gli uomini a rendersi conto della [[Wonder|meraviglia]] e dello splendore dell'essere vivi, in ambienti che la loro stessa quotidiana critica trattava come morti-vivi, e che la loro [[Imagination|immaginazione]] aveva abbandonato come morti. È normale per un uomo vantarsi, se può, o perfino quando non può, di essere cittadino di una [[City|città]] non spregevole. Ma questi uomini si erano davvero rassegnati a essere cittadini di città spregevoli; e da ogni lato intorno a noi le città spregevoli si stendevano lontano oltre l'orizzonte; spregevoli nell'architettura, spregevoli nel costume, spregevoli perfino nei modi; ma, ciò che era l'unica cosa che davvero contava, spregevoli nella concezione immaginativa dei loro stessi abitanti. Queste città spregevoli si supponeva pure fossero le parti componenti di una grandissima [[City|città]]; ma nei pensieri della maggior parte degli uomini moderni, la grande [[City|città]] è divenuta una generalizzazione giornalistica, non più immaginativa e quasi del tutto immaginaria. D'altra parte, il modo di vita moderno, che pretende soltanto di essere prosaico, premeva su di loro giorno e [[Night|notte]] ed era il vero plasmatore delle loro menti. Questo, dico a guisa di guida o indicazione preliminare, fu ciò che originariamente mi condusse verso certi gruppi o movimenti e lontano da altri.
+Quel giornalista di Clapham, che mi fulminò con lo sguardo, è stato il problema
+della mia vita. Mi ha perseguitato a ogni svolta e a ogni angolo come un'[[Shadow|Ombra]],
+come se fosse un ricattatore o un assassino. Fu contro di lui
+che schierai i buffi alabardieri da pantomima di Notting [[Hill]]
+e tutto il resto. In altre parole, tutto ciò che ho pensato e fatto
+crebbe originariamente da quel problema che mi pareva un [[Paradox|Paradosso]].
+Dovrò riferirmi a molti problemi in queste pagine, se devono essere
+pagine veritiere; e accennare a soluzioni con alcune delle quali
+il lettore può concordare, con alcune delle quali può assai violentemente dissentire.
+Ma gli chiederò di ricordare per tutto il tempo che questo era il primo
+problema per me, di certo in ordine di [[Time|tempo]] e in gran parte in ordine di [[logic|logica]].
+Era il problema di come si potesse indurre gli uomini a rendersi conto della [[Wonder|Meraviglia]]
+e dello splendore dell'essere vivi, in ambienti che la loro stessa
+critica quotidiana trattava come mezzi morti, e che la loro [[Imagination|Immaginazione]]
+aveva lasciato per morti. È normale per un uomo vantarsi, se può,
+o anche quando non può, di essere cittadino di una [[City|città]] non spregevole.
+Ma questi uomini si erano davvero rassegnati a essere cittadini
+di città spregevoli; e da ogni lato di noi le città spregevoli si stendevano
+lontano oltre l'orizzonte; spregevoli nell'architettura, spregevoli nel costume,
+spregevoli persino nei modi; ma, ciò che era l'unica cosa che davvero importava,
+spregevoli nella concezione immaginativa dei loro stessi abitanti.
+Queste città spregevoli si supponeva in verità fossero le parti componenti
+di una assai grande [[City|Città]]; ma nei pensieri della maggior parte della gente moderna,
+la grande [[City|Città]] è divenuta una generalizzazione giornalistica, non più
+immaginativa e quasi immaginaria. D'altra parte, il moderno
+modo di vita, professandosi solo prosaico, premeva su di loro giorno
+e [[Night|notte]] ed era il vero plasmatore delle loro menti. Questo, dico
+a mo' di guida o direzione preliminare, era ciò che originariamente mi
+condusse in certi gruppi o movimenti e lontano da altri.
 
-Ciò che veniva chiamato il mio medievalismo era semplicemente il fatto che io ero molto interessato al significato storico di Clapham Common. Ciò che veniva chiamato la mia avversione per l'Imperialismo era un'avversione a fare dell'Inghilterra un Impero, nel senso di qualcosa di più simile a Clapham Junction. Poiché la mia visionaria Clapham consisteva di case ferme al loro posto; e non di camion e treni che sferragliavano di passaggio; e io non volevo che l'Inghilterra fosse una specie di guardaroba o di [[house|stanza]] di smistamento per bagagli etichettati come esportazioni e importazioni. Volevo cose inglesi autentiche che nessun altro potesse importare e che noi godevamo troppo per esportarle. E questo era presente perfino nell'ultima e più contestata fase del mutamento. Giunsi ad ammettere che una qualche sorta di universalità, un'altra sorta di universalità, sarebbe stata necessaria prima che simili luoghi potessero davvero diventare santuari o siti sacri. In breve, conclusi alla fine, a torto o a ragione, che Clapham non poteva ormai essere resa mistica dalla Setta di Clapham. Ma lo dico col più grande rispetto per quel vecchio gruppo di filantropi, che si dedicarono alla causa dei negri lontani; la setta che tanto fece per liberare l'Africa; la Setta di Clapham, che tanto poco fece per liberare Clapham.
+Ciò che si chiamò il mio medievalismo era semplicemente che ero assai
+interessato al significato storico di Clapham Common. Ciò che si
+chiamò la mia avversione all'Imperialismo era un'avversione a fare dell'Inghilterra
+un Impero, nel senso di qualcosa di più simile a Clapham Junction.
+Poiché la mia stessa visionaria Clapham consisteva di case che stavano ferme;
+e non di carri e treni che sferragliavano; e non volevo
+che l'Inghilterra fosse una sorta di guardaroba o [[house|deposito]] di smistamento per bagagli
+etichettati esportazioni e importazioni. Volevo vere cose inglesi che
+nessun altro potesse importare e che godevamo troppo per esportarle.
+E ciò era presente perfino nell'ultima e più contestata fase del mutamento.
+Giunsi ad ammettere che una qualche sorta di universalità, un'altra sorta
+di universalità, sarebbe stata necessaria prima che tali luoghi potessero davvero
+diventare santuari o siti sacri. In breve, conclusi infine,
+a torto o a ragione, che Clapham non poteva ora essere resa mistica
+dalla Setta di Clapham. Ma lo dico col più grande rispetto per quel
+vecchio gruppo di filantropi, che si dedicarono alla causa
+dei remoti negri; la setta che fece tanto per liberare l'Africa;
+la Setta di Clapham, che fece così poco per liberare Clapham.
 
-Ora è essenziale rendersi conto di un fatto che segue all'ombrosa [[Epic|epopea]] di Clapham e Kensington; quella storia di due città. È necessario insistere che, in quei giorni, quando Clapham era Clapham, [[London|Londra]] era Clapham; anzi, Kensington era Clapham. Voglio dire che, a quella particolare data, l'aspetto generale di [[London|Londra]] era più piatto e prosaico di quanto sia adesso. Vi erano invero begli angoli di architettura georgiana e Regency in molte parti di [[London|Londra]], e in nessun luogo più che a Kensington. Ve ne sono ancora alcuni. Ma benché vi fosse qualche traccia dei movimenti più antichi nell'arte, non ve n'era ancora nessuna dei nuovi. Morris era spuntato qua e là come un'eruzione cutanea, in forma di carte da parati; ma la fase più scialba del morto vittorianismo era nella maggior parte delle carte da parati e in quasi tutte le pareti. Ma [[London|Londra]] era già impensabilmente vasta, in confronto ai suoi pochi ultimi resti di eleganza settecentesca o ai suoi primi fiochi segnali di rinascita estetica. E quell'enorme cosa era una cosa orrenda, nell'insieme. Il paesaggio di [[London|Londra]] era fatto di case dal petto piatto, finestre spente, brutti lampioni di ferro e volgari cassette postali vermiglie; e, per ora, di ben poco altro.
+Ora è essenziale rendersi conto di un fatto conseguente all'ombroso
+[[Epic|Epos]] di Clapham e Kensington; quel racconto di due città.
+È necessario insistere che in quei giorni, quando Clapham
+era Clapham, [[London|Londra]] era Clapham; anzi, Kensington era Clapham.
+Intendo che, a questa particolare data, l'aspetto generale
+di [[London|Londra]] era più semplice e prosaico di quanto sia ora. C'erano
+in verità angoli bellissimi di architettura georgiana e Regency
+in molte parti di [[London|Londra]], e in nessun luogo più che a Kensington.
+Ce ne sono ancora alcuni. Ma benché ci fosse qualche traccia dei movimenti
+più antichi nell'arte, non c'era ancora alcuna traccia di quelli nuovi.
+Morris era eruttato qua e là come un'eruzione cutanea, nella forma
+di carte da parati; ma la fase più insulsa del morto vittorianesimo
+era nella maggior parte delle carte da parati e in quasi tutte le pareti.
+Ma [[London|Londra]] era già impensabilmente grande, in confronto ai suoi pochi
+ultimi resti d'eleganza settecentesca o ai suoi primi deboli segnali
+di rinascita estetica. E quella cosa enorme era una cosa orrenda,
+nel complesso. Il paesaggio di [[London|Londra]] era una cosa di case dal petto piatto,
+finestre vuote, brutti lampioni di ferro e volgari cassette postali vermiglie;
+e, per ora, ben poco altro.

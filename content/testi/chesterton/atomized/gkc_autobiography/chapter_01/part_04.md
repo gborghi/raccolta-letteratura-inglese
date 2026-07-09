@@ -139,6 +139,116 @@ really sparkle.  The world is less gay for losing that solemnity.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_05">part 05 ›</a></div>
 </nav>
 
-Dell'altro ramo della mia famiglia potrò dire di più quando arriverò ai miei ricordi personali; ma pongo per primo questo lato della faccenda perché ve n'è tanto di più che ho ricevuto soltanto di seconda mano. Ed è questa la parte del libro costretta a essere [[Biography|biografia]] e non può essere autobiografia. Tratta delle cose che mi stavano appena alle spalle e che non facevano che gettare la loro ombra sul mio primo sentiero; le cose che vidi nel riflesso più che nella realtà. Di queste ve n'erano di più dal lato di mia madre; soprattutto quell'interesse storico per la [[house|casata]] di Keith, che si mescolava al mio generale interesse storico per cose come la [[house|casata]] di Argyll. Ma anche dal lato di mio padre non mancavano le leggende; la figura più prossima e più eminente essendo quel capitano Chesterton, celebre ai suoi tempi come riformatore delle prigioni. Era amico di Dickens e, sospetto, un po' egli stesso un personaggio dickensiano. Ma in verità questi primi ricordi e queste prime dicerie fanno pensare che vi fossero parecchi personaggi dickensiani ai tempi di Dickens. Sono ben lungi dal negare l'inferenza; e cioè che parecchi personaggi dickensiani siano dei ciarlatani. Non sarebbe giusto dire tutto ciò che ho detto in lode della vecchia classe media vittoriana senza ammettere che essa produceva talvolta impostori piuttosto vuoti e pomposi. Un solenne amico di mio nonno soleva andare a passeggio la [[Sunday|domenica]] portando con sé un libro di [[Prayer|preghiere]], senza la minima intenzione di andare in chiesa. E lo giustificava con calma dicendo, la mano levata: «Lo faccio, Chessie, come esempio per gli altri». L'uomo che faceva questo era chiaramente un personaggio dickensiano. E sono incline a pensare che, nell'essere un personaggio dickensiano, egli fosse per molti versi assai preferibile a molti personaggi moderni. Pochi uomini moderni, per quanto falsi, oserebbero essere tanto sfacciati. E non sono sicuro che non fosse davvero un tipo più genuino dell'uomo moderno che dice vagamente di avere dei dubbi o di detestare i sermoni, quando in realtà vuole soltanto andare a giocare a golf. L'ipocrisia stessa era più sincera. In ogni caso, era più coraggiosa.
+Dell'altro lato della mia famiglia potrò dire di più quando verrò ai miei
+ricordi personali; ma metto questo lato della faccenda per primo perché ce n'è
+tanto di più che ho ricevuto solo di seconda mano.
+E questa è la parte del libro che è costretta a essere [[Biography|biografia]]
+e non può essere autobiografia. Tratta delle cose che erano
+appena dietro di me e gettavano soltanto le loro ombre sul mio primissimo sentiero;
+le cose che vidi in riflesso piuttosto che in realtà.
+Di queste ce n'erano di più dal lato di mia madre; specialmente quell'
+interesse storico per la [[house|casata]] dei Keith, che era mescolato con il mio
+interesse storico generale per cose come la [[house|casata]] degli Argyll.
+Ma anche dal lato di mio padre c'erano leggende; la figura più vicina
+e più eminente essendo quel Capitano Chesterton, che fu
+famoso ai suoi tempi come riformatore delle prigioni. Era amico
+di Dickens e, sospetto, egli stesso qualcosa di un personaggio dickensiano.
+Ma in verità questi primi ricordi e queste dicerie suggeriscono che ci
+fossero parecchi personaggi dickensiani ai giorni di Dickens.
+Sono ben lungi dal negare l'inferenza; che parecchi personaggi
+dickensiani sono impostori. Non sarebbe giusto dire tutto ciò che ho detto
+in lode della vecchia classe media vittoriana, senza ammettere
+che essa talvolta produsse impostura piuttosto vuota e pomposa.
+Un solenne amico di mio nonno usava andare a passeggio la
+[[Sunday|domenica]] portando un libro di [[Prayer|preghiere]], senza la minima intenzione
+di andare in chiesa. E lo giustificava con calma dicendo,
+a mano alzata: «Lo faccio, Chessie, come esempio per gli altri.»
+L'uomo che faceva questo era palesemente un personaggio dickensiano.
+E sono incline a pensare che, essendo un personaggio dickensiano,
+egli fosse per molti versi piuttosto preferibile a molti personaggi moderni.
+Pochi uomini moderni, per quanto falsi, oserebbero essere tanto sfacciati.
+E non sono sicuro che non fosse in realtà un tipo più genuino
+dell'uomo moderno che dice vagamente di avere dubbi o di odiare i sermoni,
+quando vuole soltanto andare a giocare a golf. L'ipocrisia stessa era
+più sincera. Comunque, era più coraggiosa.
 
-Quel che non posso non chiamare un Grande Gusto spirava da quell'epoca; qualcosa che oggi si rammenta soltanto nelle ricche e sfrenate citazioni di Swiveller e Micawber. Ma il punto è che quel sapore poteva allora ritrovarsi in decine di persone del tutto degne e oscure; certamente assai più degne del personaggio smaccatamente pecksniffiano col libro di [[Prayer|preghiere]]; e assai più oscure dell'eccentrico ma efficiente, e persino eminente, direttore e riformatore di [[Prison|prigioni]]. Per usare un termine mercantile dell'epoca, questa indescrivibile sorta di gusto non era affatto soltanto un gusto da gentiluomini. Era l'effetto, credo, di quell'[[Humour|umorismo]] popolare, che è forse tuttora la nostra unica istituzione davvero popolare, all'opera sui resti della retorica degli oratori del Settecento e della retorica quasi altrettanto retorica dei poeti dell'Ottocento, come Byron e Moore. Comunque, era evidentemente comune a innumerevoli persone comuni o mediocri, e in special modo agli impiegati di commercio. L'impiegato prese in seguito a figurare piuttosto come un dozzinale cockney dalla parlata mozza; una sorta di inglese storpiato che pare storpiato per caso; scheggiato più che tagliato. Ma vi era una razza che maneggiava davvero periodi tondi come i vassoi e le zuppiere del punch di Natale. Mio padre mi parlò di un suo collega impiegato della giovinezza, o della fanciullezza, che prendeva congedo dalla taverna o dalla [[house|trattoria]] con un maestoso messaggio di ringraziamento, che pronunciava con voce grossa e rimbombante, prima di incamminarsi impettito nella strada: «Dite alla signora Bayfield che la bistecca era eccellente; le patate cotte a puntino; in breve, un pranzo degno di un Imperatore». Non è forse esattamente come «F.B.» nei momenti in cui Thackeray era più dickensiano? Dalla stessa remota fonte rammento un'altra scena quanto mai dickensiana; un ometto mite dal viso tondo e con gli occhiali, di quelli che vengono sfottuti dappertutto; e un collega impiegato di nome Carr, dagli umori più misteriosi; entrambi [[Ghosts|fantasmi]] provenienti dal [[Time|tempo]] d'apprendistato di mio padre. A intervalli l'impiegato più tetro gridava attraverso l'ufficio: «Signor Hannay!». Il viso tondo, luminoso del suo sorriso e degli occhiali, spuntava con freschezza e attesa mai venute meno: «Sì, signor Carr». Allora il signor Carr lo fissava con volto sfingeo e diceva con tono cavo ma risonante: «Lo Spazio Sconfinato!». E poi il signor Carr si volgeva più bruscamente agli altri impiegati, scuotendo il capo e ripetendo con tono disperato: «Non riesce ad afferrarlo!». Non so che cosa avrebbe pensato l'uno o l'altro all'idea che il professor Einstein entrasse nell'ufficio e vendicasse il signor Hannay sul signor Carr, suggerendo che lo spazio non è affatto sconfinato. Il punto è che vi è questo elemento di pompa e di rito nelle facezie; persino negli scherzi pratici; anzi persino negli inganni pratici. Lo si conosceva in ambienti più umili, tra i saltimbanchi e persino tra i fenomeni da baraccone, come [[Well|ben]] sapeva Dickens; e vi era qualcosa di altrettanto maestoso nei venditori ambulanti che reclamavano denaro quanto negli oratori che reclamavano fama. Uno dei miei primissimi ricordi è quello di guardare da un balcone sopra una delle grandi strade residenziali di una località balneare, e di vedere un venerando personaggio dai capelli bianchi che si toglieva solennemente un cappello bianco mentre camminava in mezzo alla via, dicendo a nessuno in particolare con la voce sonora di un conferenziere: «Quando venni per la prima volta in Cannon Street... chiedo scusa, Cannon Place...»; una esibizione che ripeteva ogni giorno, cadendo sempre nel medesimo errore per farlo seguire dalla medesima scusa. Ciò mi procurava, non so perché, un piacere enorme; in parte, credo, per la sensazione che una gigantesca bambola a orologeria fosse stata aggiunta a quello che il signor Maurice Baring chiama il teatrino di marionette della [[Memory|memoria]]. Ma la sua importanza sta qui, che il resto del suo discorso pareva tanto più forbito e impeccabile per quell'unico stranamente ricorrente sbaglio; e si concludeva sempre con una bella perorazione, sul rammentare nel lontano futuro, e nell'ora della [[Death|morte]], «la gentilezza che ho incontrato in Cannon Place». Più tardi ricordo gli stessi sentieri in riva al mare percorsi in parata da un personaggio pubblico ancor più loquace che indossava tocco e toga, con ben poca autorità accademica, [[Fear|temo]]; ma credo che egli segnasse uno stadio assai più tardo, perché era aspro e ostile, e si rivolgeva al suo uditorio chiamandolo ipocrita e sepolcro imbiancato; il che aveva su quella folla tanto inglese il curioso effetto di indurla a gettare penny nel suo tocco. Ma nello stadio più antico che qui mi riguarda, un bagliore di cortesia conviviale ricopriva ogni cosa; e l'ala dell'[[Friendship|amicizia]] non lasciava mai cadere una sola piuma. La sorprendente pazienza del nostro popolino andava allora accompagnata da una certa pompa, ma era una cordialità pomposa; e persino i loro sberleffi erano ancora gioviali. Il loro scherno e il loro [[Heroism|eroismo]] permangono tuttora, il cielo lo sa; ma non si combinano più a quel modo nell'eroicomico. Ma chiunque abbia udito, o udito parlare, degli uomini che ho menzionato, sarà certo fino al giorno della sua morte che [[Dick Swiveller]] disse davvero: «Quando colui che ti adora non avrà lasciato che il nome... in caso di lettere o pacchi», o che il povero cerimoniere alla festa sussurrò davvero a ciascuna dama a turno: «Avessi un cuore foggiato per la menzogna, mai potrei farti torto». Vi era in ciò un bagliore; che i bellimbusti non sanno imitare, nemmeno quando davvero scintillano. Il mondo è meno gaio per aver perduto quella solennità.
+Ciò che non posso non chiamare un Grande Gusto emanava da quell'epoca;
+qualcosa ora ricordato soltanto nella ricca e sfrenata citazione
+di Swiveller e Micawber. Ma il punto è che il sapore di ciò
+si poteva allora trovare in una moltitudine di persone del tutto degne e oscure;
+di certo assai più degne della persona sfacciatamente pecksniffiana
+col libro di [[Prayer|preghiere]]; e assai più oscure dell'eccentrico
+ma efficiente, e persino eminente, governatore e riformatore di [[Prison|prigioni]].
+Per usare un termine gergale del periodo, questo indescrivibile genere di gusto
+non era affatto soltanto un gusto da gentiluomini. Era l'effetto,
+credo, di quell'[[Humour|umorismo]] popolare, che è forse ancora la nostra unica
+istituzione davvero popolare, agente sui resti della retorica
+degli oratori del Settecento, e sulla retorica quasi altrettanto retorica
+dei poeti dell'Ottocento, come Byron e Moore.
+Comunque, era evidentemente comune a innumerevoli persone comuni o mediocri,
+e piuttosto in modo particolare agli impiegati di commercio. L'impiegato venne poi
+a figurare piuttosto come un mero e dozzinale Cockney dal parlare tronco;
+una sorta d'inglese spezzato che sembra spezzato per caso;
+scheggiato piuttosto che troncato. Ma c'era una razza che davvero
+trattava in periodi rotondi come i piatti e le zuppiere del Natale.
+Mio padre mi raccontò di un compagno impiegato della sua giovinezza, o fanciullezza,
+che si congedava dalla taverna o dalla [[house|trattoria]] con un maestoso messaggio
+di ringraziamento, che pronunciava con voce grossa e tonante, prima d'incamminarsi
+impettito in strada: «Dite alla signora Bayfield che la bistecca era eccellente;
+le patate cotte a puntino; in breve, un pranzo degno di un Imperatore.»
+Non è esattamente come «F.B.» nei momenti in cui Thackeray
+era più dickensiano? Dalla stessa remota fonte, rammento
+un'altra scena del tutto dickensiana; un mite ometto dal viso tondo
+con gli occhiali, il tipo che viene sempre canzonato dovunque;
+e un compagno impiegato di nome Carr, di umori più misteriosi;
+entrambi [[Ghosts|fantasmi]] del [[Time|tempo]] di apprendistato di mio padre.
+A intervalli il più cupo dei due impiegati gridava attraverso l'ufficio:
+«Signor Hannay!» Il volto tondo, luminoso col suo sorriso e i suoi occhiali,
+spuntava con mai smentita freschezza e aspettativa:
+«Sì, signor Carr.» Allora il signor Carr lo fissava con una faccia sfingea
+e diceva con toni cavi ma risonanti: «Spazio Sconfinato!» E poi
+il signor Carr si voltava più bruscamente verso gli altri impiegati, scuotendo il capo,
+e ripetendo in tono disperato: «Non riesce ad afferrarlo!»
+Non so che cosa avrebbero pensato l'uno o l'altro dell'idea
+del Professor Einstein che entra nell'ufficio e vendica il signor Hannay
+sul signor Carr, suggerendo che lo spazio non è affatto sconfinato.
+Il punto è che c'è questo elemento di pompa e di rituale negli scherzi;
+persino negli scherzi pratici; anzi persino negli inganni pratici.
+Era noto in ambienti più umili, tra saltimbanchi e persino mostruosità,
+come [[Well|ben]] sapeva Dickens; e c'era qualcosa di altrettanto maestoso nei
+ciarlatani che reclamavano denaro quanto negli oratori che reclamavano fama.
+Uno dei miei primissimi ricordi è di quando guardavo da un balcone
+sopra una delle grandi strade residenziali di una stazione balneare,
+e vedevo un venerando tale dai capelli bianchi togliersi solennemente
+un cappello bianco mentre camminava in mezzo alla strada,
+e diceva a nessuno in particolare con la voce sonora di un conferenziere:
+«Quando venni per la prima volta in Cannon Street... chiedo scusa,
+Cannon Place...» una performance che ripeteva ogni giorno,
+cadendo sempre nello stesso errore, seguito dalla stessa scusa.
+Questo mi dava, non so perché, un piacere enorme; in parte, credo,
+dalla sensazione che una gigantesca bambola a orologeria fosse stata aggiunta
+a ciò che il signor Maurice Baring chiama il teatro delle marionette della [[Memory|Memoria]].
+Ma la sua importanza qui è che il resto del suo discorso pareva tanto
+più forbito e impeccabile per quell'unico errore stranamente ricorrente;
+e finiva sempre con una bella perorazione, sul rammentare
+nel remoto futuro, e nell'ora della [[Death|morte]], «la gentilezza che ho
+incontrato in Cannon Place.» Più tardi, ricordo gli stessi sentieri sul mare
+percorsi da un personaggio pubblico ancor più loquace che portava tocco e toga,
+[[Fear|temo]] con ben poca autorità accademica; ma credo che egli segnasse uno stadio assai
+più tardo, perché era acre e antagonista, e si appellava
+al suo pubblico chiamandoli ipocriti e sepolcri imbiancati;
+il che aveva sul quel pubblico assai inglese il curioso effetto di indurli
+a gettare monetine nel suo tocco. Ma nello stadio precedente
+che qui mi riguarda, un bagliore di conviviale cortesia ricopriva ogni cosa;
+e l'ala dell'[[Friendship|Amicizia]] non poteva mai perdere una piuma.
+La sorprendente pazienza del nostro popolino andava allora con una certa pompa,
+ma era una pomposa cordialità; e persino i loro scherni erano ancora gioviali.
+La loro derisione e il loro [[Heroism|Eroismo]] restano ancora, il cielo lo sa;
+ma non si combinano più così nell'eroicomico.
+Ma chiunque abbia udito, o sentito parlare, degli uomini che menziono, sarà certo
+fino al giorno della sua morte che [[Dick Swiveller]] disse davvero: «Quando colui che ti
+adora non ha lasciato che il nome — in caso di lettere o pacchi»,
+o che il povero maestrino alla festa bisbigliò davvero a ogni signora a turno:
+«Se avessi un cuore foggiato per la falsità, mai potrei farti torto.»
+C'era un bagliore in ciò; non imitabile dagli sfavillanti, anche quando
+sfavillano davvero. Il mondo è meno gaio per aver perduto quella solennità.

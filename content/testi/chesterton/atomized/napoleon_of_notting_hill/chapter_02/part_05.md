@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03/part_01">part 01 ›</a></div>
@@ -155,3 +157,154 @@ and quaking, with what might at first sight have seemed terror or ague;
 but which was really that strange malady, a lonely laughter.
 He was repeating over and over to himself with a rich accent "But
 speaking in the interests of the public...."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">Chapter 02</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03/part_01">part 01 ›</a></div>
+</nav>
+
+"E come," chiese l'altro, "chiamerebbe il compendio
+di quelle cose?"
+
+"Il compendio di quelle cose," rispose Barker, con grande animazione,
+"è che ci siamo liberati delle superstizioni, e nel farlo non
+ci siamo liberati semplicemente delle superstizioni che sono state
+più di frequente e più entusiasticamente descritte come tali.
+La superstizione delle grandi nazionalità è cattiva, ma la superstizione
+delle piccole nazionalità è peggiore. La superstizione di riverire il nostro
+stesso paese è cattiva, ma la superstizione di riverire i paesi altrui
+è peggiore. È così ovunque, e in cento modi.
+La superstizione della monarchia è cattiva, e la superstizione dell'aristocrazia
+è cattiva, ma la superstizione della [[democracy|democrazia]] è la peggiore di tutte."
+
+Il vecchio signore spalancò gli occhi con una certa sorpresa.
+
+"Allora voi," disse, "non siete più una [[democracy|democrazia]] in Inghilterra?"
+
+Barker rise.
+
+"La situazione invita al [[Paradox|paradosso]]," disse. "Noi siamo, in un certo senso,
+la più pura [[democracy|democrazia]]. Siamo diventati un dispotismo.
+Non ha notato con quanta continuità nella [[history|storia]] la [[democracy|democrazia]]
+diventa dispotismo? La gente la chiama il [[Decay|decadimento]] della [[democracy|democrazia]].
+È semplicemente il suo compimento. Perché prendersi la briga di numerare
+e registrare e concedere il voto a tutti gli innumerevoli John Robinson,
+quando si può prendere un solo John Robinson con lo stesso intelletto
+o mancanza d'intelletto di tutti gli altri, e farla finita?
+I vecchi repubblicani idealisti solevano fondare la [[democracy|democrazia]] sull'idea
+che tutti gli uomini fossero egualmente intelligenti. Mi creda, la sana e duratura
+[[democracy|democrazia]] è fondata sul fatto che tutti gli uomini sono egualmente idioti.
+Perché non dovremmo scegliere fra loro l'uno tanto quanto l'altro?
+Tutto ciò che vogliamo per il [[government|Governo]] è un uomo non criminale né pazzo,
+che sappia scorrere rapidamente qualche petizione e firmare qualche proclama.
+Pensare quanto [[Time|tempo]] fu sprecato a discutere della [[house|Camera]]
+dei Lord, i Tory dicendo che andava conservata perché era astuta,
+e i Radicali dicendo che andava distrutta perché era stupida,
+e per tutto il [[Time|tempo]] nessuno vide che era giusta perché era stupida,
+perché quella casuale folla di uomini comuni gettati là per accidente
+di [[Blood|sangue]], erano una grande protesta democratica contro la [[house|Camera]] Bassa,
+contro l'eterna insolenza dell'aristocrazia dei talenti.
+Abbiamo ormai stabilito in Inghilterra la cosa verso cui tutti i sistemi
+hanno oscuramente brancolato, il dozzinale dispotismo popolare senza illusioni.
+Vogliamo un uomo alla testa del nostro Stato, non perché sia brillante
+o virtuoso, ma perché è un solo uomo e non una folla ciarliera.
+Per evitare l'eventuale rischio di malattie ereditarie o cose simili,
+abbiamo abbandonato la monarchia ereditaria. Il [[King|Re]] d'Inghilterra
+è scelto come un giurato da una lista ufficiale a rotazione.
+Oltre a ciò l'intero sistema è quietamente dispotico, e non abbiamo
+trovato che sollevi un mormorio."
+
+"Vuol davvero dire," chiese il Presidente, incredulo, "che voi
+scegliete un uomo qualunque che capiti a tiro e ne fate un despota... che
+vi affidate al caso di una qualche lista alfabetica..."
+
+"E perché no?" gridò Barker. "Non si affidò metà delle nazioni storiche
+al caso dei figli primogeniti di figli primogeniti, e non
+se la cavò metà di esse discretamente [[Well|bene]]? Avere un sistema perfetto
+è impossibile; avere un sistema è indispensabile. Tutte le monarchie ereditarie
+erano una questione di fortuna: così lo sono le monarchie alfabetiche.
+Sa trovare un profondo significato filosofico nella differenza tra
+gli Stuart e gli Hannover? Mi creda, mi impegno
+a trovare un profondo significato filosofico nel contrasto tra la cupa
+[[Tragedy|tragedia]] delle A e il solido [[success|successo]] delle B."
+
+"E lo rischia?" chiese l'altro. "Anche se l'uomo può essere un [[Tyrant|tiranno]]
+o un cinico o un criminale?"
+
+"Lo rischiamo," rispose Barker, con perfetta placidità.
+"Supponga che sia un [[Tyrant|tiranno]]... è pur sempre un freno a cento tiranni.
+Supponga che sia un cinico, è nel suo interesse governare [[Well|bene]].
+Supponga che sia un criminale... rimuovendo la [[Poverty|povertà]] e sostituendovi il potere,
+poniamo un freno alla sua criminalità. In breve, sostituendovi
+il dispotismo abbiamo posto un freno totale a un criminale e un freno
+parziale a tutti gli altri."
+
+Il vecchio signore nicaraguense si sporse con una strana espressione
+negli occhi.
+
+"La mia chiesa, signore," disse, "mi ha insegnato a rispettare la [[Faith|Fede]].
+Non desidero parlare con alcuna mancanza di rispetto della sua, per quanto fantastica.
+Ma vuol davvero dire che si affiderà all'uomo comune,
+l'uomo che può capitare per primo, come a un buon despota?"
+
+"Sì," disse Barker, semplicemente. "Può non essere un buon uomo.
+Ma sarà un buon despota. Poiché quando si troverà davanti a una mera
+routine amministrativa di [[government|governo]] si sforzerà di rendere ordinaria giustizia.
+Non presumiamo forse la stessa cosa in una giuria?"
+
+Il vecchio Presidente sorrise.
+
+"Non so," disse, "di avere alcuna particolare
+obiezione nei dettagli al suo eccellente schema di [[government|governo]].
+La mia unica obiezione è del tutto personale. È che, se mi
+si chiedesse se volessi farne parte, chiederei prima di tutto,
+se non mi fosse permesso, in alternativa, di essere un rospo in un fosso.
+È tutto. Non si può discutere con la scelta dell'[[Soul|anima]]."
+
+"Dell'[[Soul|anima]]," disse Barker, aggrottando le sopracciglia, "non posso pretendere
+di dire alcunché, ma parlando nell'interesse del pubblico..."
+
+Il signor [[Auberon Quin]] si [[Rose|alzò]] improvvisamente in piedi.
+
+"Se volete scusarmi, signori," disse, "farò un salto fuori per un
+momento a prendere aria."
+
+"Mi dispiace tanto, Auberon," disse Lambert, bonariamente; "ti senti male?"
+
+"Non proprio male," disse Auberon, con [[Self|auto]]controllo;
+"piuttosto bene, semmai. Stranamente e riccamente bene.
+Il fatto è che voglio riflettere un poco su quelle belle parole
+che sono state appena pronunciate. 'Parlando', sì, era questa la frase,
+'parlando nell'interesse del pubblico.' Non si può cavare il miele
+da tali cose senza restare [[Alone|soli]] per un poco."
+
+"Credete che sia davvero uscito di senno?" chiese Lambert.
+
+Il vecchio Presidente lo seguì con lo sguardo con occhi stranamente vigili.
+
+"È un uomo, credo," disse, "a cui non importa nulla se non uno scherzo.
+È un uomo pericoloso."
+
+Lambert rise nell'atto di portarsi alla bocca dei maccheroni.
+
+"Pericoloso!" disse. "Lei non conosce il piccolo Quin, signore!"
+
+"Ogni uomo è pericoloso," disse il vecchio, senza muoversi,
+"a cui importa soltanto di una cosa. Un tempo io stesso ero pericoloso."
+
+E con un piacevole sorriso finì il suo caffè e si [[Rose|alzò]],
+inchinandosi profondamente, uscì nella nebbia, che era di nuovo diventata
+densa e fosca. Tre giorni dopo seppero che era morto
+quietamente in un alloggio a Soho.
+
+. . . . .
+
+Annegata da qualche altra parte nell'oscuro mare di nebbia c'era una piccola figura che tremava
+e trepidava, con quella che a prima vista poteva sembrare terrore o febbre;
+ma che era in realtà quella strana malattia, un solitario ridere.
+Ripeteva a se stesso più e più volte con un ricco accento "Ma
+parlando nell'interesse del pubblico...."

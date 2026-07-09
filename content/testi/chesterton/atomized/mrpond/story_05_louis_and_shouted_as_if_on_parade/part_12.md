@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_13">part 13 ›</a></div>
@@ -197,3 +199,196 @@ whole creeper move and twist like a monstrous serpent, in that
 still [[Garden|garden]]; every limb of it heaved and writhed and the whole
 
 framework of its foliage was shaken as by some impossibly localized
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_13">part 13 ›</a></div>
+</nav>
+
+Accaddero nel [[Garden|giardino]] del vicario, vicino al balcone della
+
+[[house|casa]] del vicario; e forse l'impressione, che era piuttosto simile a un'
+
+oppressione, era in qualche modo legata a un'altra [[Night|notte]] che oscurava la
+
+[[Night|notte]]; una vivente [[Night|notte]] di vegetazione; poiché si suggeriva,
+
+per tutto il tempo, che il balcone fosse carico di vasi e palme e
+
+stretto da piante rampicanti dalle [[Leaves|foglie]] pesanti e pendenti.
+
+Forse, dopo tutto, non era che una vaga associazione verbale con
+
+il nome di Hanging Burgess; come se il mistero fosse in qualche modo
+
+associato ai giardini pensili di Babilonia. Forse, di nuovo, era
+
+in parte la scia irrazionale del discorso col dottor Green, col
+
+suo credo di crescita cieca e di una brancolante forza vitale in un buio
+
+senza Dio; poiché Green sviluppava la sua visione dello sviluppo con ogni fantasia
+
+tratta dalla botanica come [[Well|pure]] dalla biologia.
+
+Nel complesso, tuttavia, il signor Pond concluse che il proprio strano umore
+
+era il risultato dell'unico fatto che era stato davvero necessario
+
+descrivere in dettaglio. Poiché il vicario era stato costretto a spiegare,
+
+in entrambe le occasioni, per rendere intelligibile il suo racconto, che il
+
+fronte del balcone era scalato dal basso da un [[titanic|titanico]], tropicale
+
+rampicante, dalle membra nervate e intrecciate e dalle grandi, fantastiche
+
+[[Leaves|foglie]]. Non è del tutto un'esagerazione dire che il
+
+rampicante era il personaggio principale della storia.
+
+"Questa faccenda accadde durante la Grande Guerra," spiegò il
+
+sacerdote, "quando io e mia figlia vivevamo nella mia [[house|casa]] a
+
+Hanging Burgess. Ma le due case ai nostri fianchi erano vuote,
+
+per via del prosciugamento di materiale umano comune a quel [[Time|tempo]]. Per
+
+lo meno, erano entrambe vuote da un considerevole periodo, benché fossero
+
+belle case con grandi giardini, che digradavano fino al [[River|fiume]].
+
+Poi il mio amico dottor Green venne a stabilirsi come mio vicino di casa e
+
+a proseguire le sue ricerche scientifiche in un luogo tranquillo. Stava
+
+scrivendo un libro, sai, sulla domesticazione degli [[Animals|animali]]; [[dogs|cani]] e
+
+gatti e uistitì domestici e scimmie, e così via; e mia figlia, che
+
+s'interessa di tali animaletti, lo aiutò un poco nel suo lavoro.
+
+"È un [[Time|tempo]] felice a cui ripensare, per noi che eravamo vecchi compari;
+
+forse perché era un [[Time|tempo]] tranquillo.
+
+"E poi la nostra [[Solitude|solitudine]] fu spezzata, come parve per caso, e
+
+cominciarono tutti i guai e la [[Tragedy|tragedia]].
+
+"Prima di tutto, un giovane [[Artist|artista]] di nome Albert Ayres prese in affitto la
+
+[[house|casa]] accanto, benché sembrasse volerla soprattutto come base
+
+in cui lasciare i bagagli, poiché andava vagando per la
+
+campagna a fare schizzi; ed è giusto, come vedrai
+
+fra poco, ammettere che disse, una volta, che sarebbe partito
+
+subito la mattina dopo per uno dei suoi giri di schizzi. Voglio dire
+
+che non possiamo, in ogni caso, provare davvero che ne fu di lui.
+
+Purtroppo, so fin troppo [[Well|bene]] che ne fu di lui.
+
+"Era un individuo interessante; forse un po' troppo simile alla
+
+vecchia idea di un [[Artist|artista]]; il tipo che si può a stento definire
+
+pittoresco per trascuratezza o per studio; con un'aureola di capelli gialli
+
+che il simpatizzante avrebbe potuto collegare a Galahad e
+
+l'antipatizzante a Pierino Porcospino. Bada bene, non c'era nulla
+
+di effeminato in lui, e nulla di falso nella sua posizione
+
+riguardo alla guerra. Era stato congedato per invalidità, e ciò che
+
+faceva era un lavoro necessario e non un imboscamento; e, al momento,
+
+si stava godendo una breve e molto [[Well|meritata]] vacanza.
+
+"È giusto verso il capitano Gahagan dire che, persino nella loro
+
+successiva lite, persino negli ultimi, più neri giorni di odio, e,
+
+lo [[Hope|spero]], di [[Madness|follia]], che finì in omicidio, il capitano non
+
+sogghignò mai al rivale su quel punto, né assunse mai qualcosa come la
+
+spavalderia del kaki. Ma, a quel [[Time|tempo]], il capitano Gahagan era ancora in
+
+kaki, con una brevissima licenza dal fronte, che avrebbe dovuto
+
+trascorrere alla vicina locanda, ma trascorreva per lo più nella
+
+mia [[house|casa]].
+
+"Capirai la mia riluttanza a parlare della faccenda; il
+
+fatto che fosse in breve licenza può aver dato una certa impazienza
+
+al suo corteggiamento piuttosto precipitoso di mia figlia, poiché non lo si poteva
+
+chiamare altrimenti. Alcuni dicono che le donne non hanno particolarmente da
+
+obiettare a ciò; ma preferirei di gran lunga non fondarmi su
+
+speculazioni in materia. Ma occupiamoci esclusivamente dei fatti. Sono
+
+i seguenti:
+
+"Una sera, subito dopo il tramonto, o all'incirca all'imbrunire, stavo passeggiando nel mio
+
+[[Garden|giardino]] col dottore, e ci raggiunse, poco dopo,
+
+Albert Ayres. Avevo appena chiesto al mio amico Green di fare un salto a prendere
+
+qualcosa a cena con noi; ma capitava che fosse piuttosto esausto per una
+
+pesante giornata del suo lavoro scientifico; appariva pallido e stanco; e
+
+declinò in modo piuttosto distante e distratto. Anzi,
+
+pensai che avesse una cattiva cera."
+
+"Non gode di ottima salute," s'intromise il signor Pond, d'improvviso. "Non
+
+va molto in giro. Dovete ricordare che è zoppo." Gli
+
+altri lo fissarono di nuovo, come senza vedere alcuna importanza nell'
+
+interruzione; e di nuovo furono ancor più sconcertati dal suo ulteriore
+
+commento; poiché aggiunse con gran calma:
+
+"La chiave di tutto questo mistero è il fatto che il dottor Green è zoppo."
+
+"Non ho la più pallida idea di che cosa intendiate," disse il vicario di
+
+Hanging Burgess vivacemente. "Ma, comunque, farò meglio a proseguire e
+
+dirvi che cosa accadde davvero; e vedrete che di certo
+
+non ebbe nulla a che fare né con la zoppìa né col dottor Green.
+
+"Passeggiando attorno al [[Garden|giardino]] ci eravamo fermati sotto il gigantesco
+
+rampicante che cresce dall'aiuola e schizza dritto fino al
+
+balcone; e Ayres stava giusto notando la sua straordinaria forza e
+
+rigoglio, quando avemmo tutti una specie di sussulto. Poiché vedemmo l'
+
+intero rampicante muoversi e attorcigliarsi come un mostruoso serpente, in quel
+
+[[Garden|giardino]] immobile; ogni suo tralcio si sollevava e si contorceva e l'intera
+
+impalcatura del suo fogliame era scossa come da un impossibilmente localizzato

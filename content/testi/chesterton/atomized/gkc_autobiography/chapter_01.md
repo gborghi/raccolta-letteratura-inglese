@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_02">Chapter 02 ›</a></div>
@@ -699,5 +701,703 @@ and had something of the [[nightmare]] nearness of a dragon in [[A Dream|a dream
 And, over against it, the small church [[Rose|rose]] in a spire like a spear;
 and I have always been pleased to remember that it was dedicated
 to St. George.
+
+*****
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_02">Chapter 02 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_05">Part 5</a></li><li><a href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_06">Part 6</a></li></ul>
+</nav>
+
+
+I
+
+TESTIMONIANZE PER SENTITO DIRE
+
+Prostrandomi in cieca credulità, com'è mia consuetudine, dinanzi alla mera autorità
+e alla tradizione degli anziani, inghiottendo superstiziosamente una storia
+che al [[Time|momento]] non potevo verificare per esperimento o giudizio privato,
+sono fermamente dell'opinione di essere nato il 29 maggio 1874,
+su Campden [[Hill]], a Kensington; e battezzato secondo i formulari
+della Chiesa d'Inghilterra nella chiesetta di San Giorgio,
+di fronte alla grande Torre dell'Acquedotto che dominava quel crinale.
+Non pretendo alcun significato nella relazione tra i due edifici;
+e nego con indignazione che la chiesa sia stata scelta perché occorreva
+tutta la potenza dell'[[Water|acqua]] della [[London|Londra]] occidentale per fare di me un cristiano.
+
+Ciononostante, la grande Torre dell'Acquedotto era destinata a recitare la sua parte
+nella mia vita, come narrerò in una pagina successiva; ma quella storia
+è legata alle mie stesse esperienze, mentre la mia nascita (come ho detto)
+è un episodio che accetto, al pari di qualche povero e ignorante contadino,
+solo perché mi è stato tramandato dalla tradizione orale.
+E prima di venire a una qualunque delle mie esperienze, sarà [[Well|bene]]
+dedicare questo breve capitolo ad alcuni degli altri fatti relativi alla mia
+famiglia e al mio ambiente, che ritengo con altrettanta precarietà su una mera
+testimonianza per sentito dire. Naturalmente ciò che molti chiamano testimonianza per sentito dire,
+o ciò che io chiamo testimonianza umana, potrebbe essere messo in dubbio in teoria,
+come nella controversia baconiana o in buona parte dell'Alta Critica.
+La storia della mia nascita potrebbe essere falsa. Potrei essere l'erede perduto da tempo
+del Sacro Romano Impero, o un bambino abbandonato da certi malandrini di
+Limehouse su una soglia di casa a Kensington, per sviluppare più tardi nella vita
+un'orrenda ereditarietà criminale. Alcuni dei metodi scettici applicati
+all'origine del mondo potrebbero applicarsi alla mia origine, e un [[Grave|serio]] e
+zelante indagatore potrebbe giungere alla conclusione che io non sia mai nato affatto.
+Ma preferisco credere che il buonsenso sia qualcosa che i miei lettori
+e io abbiamo in comune; e che essi avranno pazienza con un noioso
+riassunto dei fatti.
+
+Sono nato da genitori rispettabili ma onesti; vale a dire, in un mondo
+in cui la parola «rispettabilità» non era ancora esclusivamente un termine
+d'ingiuria, ma conservava qualche vaga connessione filologica con
+l'idea dell'essere rispettati. È vero che perfino nella mia stessa giovinezza
+il senso della parola stava mutando; come ricordo in una conversazione
+tra i miei genitori, in cui essa fu usata con entrambe le implicazioni.
+Mio padre, che era sereno, spiritoso e pieno di passatempi, osservò con noncuranza
+di essere stato invitato a entrare in quella che allora si chiamava La Fabbriceria.
+A questo mia madre, che era più svelta, irrequieta e in genere
+Radicale nei suoi istinti, emise qualcosa come un grido di [[Pain|dolore]];
+disse: «Oh, Edward, non farlo! Diventerai così rispettabile!
+Noi non siamo mai stati rispettabili finora; non cominciamo adesso.»
+E ricordo mio padre replicare mitemente: «Mia cara, tu offri un quadro piuttosto
+allarmante delle nostre vite, se dici che non siamo mai stati per un solo
+istante rispettabili.» I lettori di [[Pride and Prejudice]]
+scorgeranno che c'era qualcosa del signor Bennet in mio padre;
+benché non ci fosse di certo nulla della signora Bennet in mia madre.
+
+Comunque sia, ciò che intendo dire qui è che la mia gente apparteneva
+a quella piuttosto antiquata classe media inglese; in cui a un
+uomo d'affari era ancora consentito di badare ai propri affari.
+Non era stato loro concesso alcun barlume della nostra più tarda e più elevata visione,
+di quella più avanzata e avventurosa concezione del commercio,
+in cui si suppone che un uomo d'affari rivaleggi, rovini, distrugga, assorba e
+[[Swallow|inghiotta]] gli affari di tutti gli altri. Mio padre era un Liberale
+della scuola che esisteva prima dell'ascesa del Socialismo; dava
+per scontato che tutte le persone sane di mente credessero nella proprietà privata;
+ma non si dava la pena di tradurla in libera impresa.
+La sua gente era del genere che aveva sempre abbastanza successo;
+ma quasi mai, nel senso moderno, intraprendente. Mio padre era
+il capo di un'attività ereditaria di [[house|agenti immobiliari]] e periti,
+già stabilita da circa tre generazioni
+a Kensington; e ricordo che c'era una sorta di patriottismo locale
+al riguardo e una certa riluttanza nei membri più anziani,
+quando i più giovani proposero per la prima volta di aprire filiali
+fuori Kensington. Questo particolare genere di discreto [[Pride|orgoglio]]
+era assai caratteristico di questo genere di uomini d'affari più anziani.
+Ricordo che una volta diede origine a una [[Comedy|commedia]] di [[Cross|equivoci]],
+che difficilmente sarebbe potuta accadere se non ci fosse stato un simile
+segreto [[Self|autocompiacimento]] per ogni accrescimento dello status locale.
+L'episodio è, sotto più di un aspetto, uno scorcio del tono e delle chiacchiere
+di quei giorni lontani.
+
+Mio nonno, il padre di mio padre, era un bell'uomo anziano
+dai capelli e dalla barba bianchi e dai modi che avevano qualcosa
+di quella rotonda solennità che si accompagnava alle usanze antiquate
+del proporre brindisi e sentimenti. Manteneva l'antica
+usanza cristiana di cantare a tavola, e non
+pareva incongruo quando cantava «The Fine Old English Gentleman»
+[[Well|così]] come [[songs|canzoni]] più pompose del periodo di Waterloo e Trafalgar.
+E posso osservare per inciso che, essendo vissuto fino a vedere
+la [[Night|notte]] di Mafeking e le successive liriche jingoiste, ho conservato
+un considerevole rispetto per quelle vecchie e pompose [[songs|canzoni]] patriottiche.
+Sono piuttosto incline a credere che fosse meglio per la tradizione della lingua
+inglese udire versi retorici come questi, su Wellington
+al letto di morte di Guglielmo Quarto,
+
+  Poiché egli giunse sull'ala dell'Angelo della Vittoria
+  Ma l'Angelo della [[Death|Morte]] attendeva il [[King|Re]],
+
+che non essere del tutto appagati dall'urlare i versi seguenti,
+uditi in tutti i music-hall una ventina d'anni dopo:
+
+  E quando diciamo d'aver sempre vinto
+  E quando ci chiedono come si sia fatto
+  Indichiamo con fierezza ognuno
+  Dei soldati della [[Queen|Regina]] d'Inghilterra.
+
+Non posso fare a meno di avere il vago sospetto che la dignità abbia qualcosa
+a che fare con lo stile; ma comunque i gesti, come le [[songs|canzoni]], del
+[[Time|tempo]] e del tipo di mio nonno avevano molto a che fare con la dignità.
+Ma, avvezzo com'era ai modi cerimoniosi, deve essere stato assai
+sconcertato da uno strano gentiluomo che entrò nell'ufficio e,
+dopo aver conferito brevemente con mio padre per affari, chiese
+a bassa voce se potesse avere l'alto privilegio di essere
+presentato al più antico o ancestrale capo della ditta.
+Si avvicinò poi a mio nonno come se il vecchio gentiluomo fosse stato
+una sorta di reliquiario, con profondi inchini e reverenti apostrofi.
+
+«Voi siete un Monumento,» disse lo strano gentiluomo, «Signore, voi
+siete un Punto di Riferimento.»
+
+Mio nonno, lievemente lusingato, mormorò cortesemente che essi
+si trovavano di certo a Kensington da un certo [[Time|tempo]].
+
+«Voi siete un Personaggio Storico,» disse lo sconosciuto ammirato.
+«Avete mutato l'intero destino della Chiesa e dello Stato.»
+
+Mio nonno continuava a supporre con leggerezza che questo potesse essere un modo poetico
+di descrivere una fiorente [[house|agenzia]] immobiliare. Ma una luce cominciò a farsi
+in mio padre, che si era fatto strada attraverso tutti i movimenti dell'Alta Chiesa
+e della Chiesa Larga ed era assai [[Well|ferrato]] in tali cose.
+Ricordò d'improvviso il caso «Westerton contro Liddell»
+in cui un fabbriciere protestante perseguì un parroco per uno
+dei più oscuri crimini del papismo, forse l'indossare una cotta.
+
+«E [[Hope|spero]] soltanto,» proseguì con fermezza lo sconosciuto, rivolgendosi ancora
+al Campione Protestante, «che le funzioni alla Chiesa Parrocchiale
+siano ora condotte in un modo di cui voi approviate.»
+
+Mio nonno osservò con fare gioviale che non gli importava come
+fossero condotte. Queste notevoli parole del Campione Protestante
+indussero il suo adoratore a fissarlo con una nuova [[Dawn|alba]] di [[Wonder|stupore]],
+quando mio padre intervenne e spiegò l'errore, additando
+la sottile sfumatura che divide Westerton da Chesterton.
+Posso aggiungere che mio nonno, quando la storia veniva raccontata, insisteva sempre
+di aver aggiunto alla frase «Non m'importa come
+sono condotte» le parole di riserva (ripetute con un [[Grave|grave]] moto
+della mano) «purché sia con riverenza e sincerità».
+Ma mi affligge dire che gli scettici della generazione più giovane credevano
+che ciò fosse stato un ripensamento.
+
+Il punto è, comunque, che mio nonno fu contento, e non
+troppo stupito, di essere chiamato un monumento e un punto di riferimento.
+E ciò era tipico di molti uomini della classe media, anche nei piccoli commerci,
+in quel mondo remoto. Poiché il particolare genere di borghesia britannica
+di cui parlo è stato talmente alterato o diminuito
+da non potersi dire esattamente che esista oggi. Nulla di esattamente simile ad esso,
+almeno, si può trovare in Inghilterra; nulla che vi somigli minimamente, immagino,
+si è mai trovato in [[America]]. Una peculiarità di questa classe media
+era che era davvero una classe ed era davvero nel mezzo.
+Sia nel bene che nel male, e certo spesso all'eccesso, era
+separata sia dalla classe superiore ad essa sia da quella inferiore.
+Sapeva assai troppo poco delle classi lavoratrici, con [[Grave|grave]] pericolo di una
+generazione successiva. Sapeva assai troppo poco perfino dei propri domestici.
+La mia gente fu sempre molto gentile con i domestici; ma nella classe
+nel suo insieme non c'era né la rozza familiarità nel lavoro,
+che appartiene alle democrazie e si può vedere nelle massaie schiamazzanti e imprecanti
+del Continente, né i resti di una cordialità feudale
+come indugia nella vera aristocrazia. C'era una sorta di [[Silence|silenzio]]
+e d'imbarazzo. Ciò fu illustrato in un altro aneddoto per sentito dire,
+che posso qui aggiungere all'aneddoto del Campione Protestante.
+Una signora della mia famiglia andò a vivere nella [[house|casa]] di un'amica in
+assenza dell'amica; per essere servita da una sorta di domestica superiore.
+La signora si era fissata in testa che la domestica si cucinasse
+i propri pasti separatamente, mentre la domestica era altrettanto fissata
+nella politica di mangiare ciò che avanzava dai pasti della signora.
+La domestica mandò su per la colazione, poniamo, cinque fette di pancetta;
+il che era più di quanto la signora volesse. Ma la signora aveva un'altra
+fissa bizzarria di [[Conscience|coscienza]], comune nelle signore del periodo.
+Riteneva che nulla dovesse essere sprecato; e non riusciva a vedere
+che perfino una cosa consumata è sprecata se non la si vuole.
+Mangiò le cinque fette, e di conseguenza la domestica mandò su
+sette fette. La signora impallidì un poco, ma seguì il sentiero
+del dovere e le mangiò tutte. La domestica, cominciando a sentire che anche lei
+avrebbe gradito un po' di colazione, mandò su nove o dieci fette.
+La signora, radunando tutte le sue forze, le caricò a testa bassa,
+e le spazzò via dal campo. E così, suppongo, andò avanti;
+a causa del cortese [[Silence|silenzio]] tra le due classi sociali.
+Non oso pensare come finì. La conclusione logica parrebbe
+essere che la domestica morì di fame e la signora scoppiò. Ma suppongo che,
+prima che giungessero a quel punto, si fossero aperte alcune comunicazioni
+anche tra due persone che vivevano su due piani della stessa [[house|casa]].
+Ma quello era di certo il lato debole di quel mondo; che
+non estendeva la sua confidenza domestica ai domestici.
+Sorrideva e si sentiva superiore leggendo dei vassalli del vecchio mondo
+che pranzavano al di sotto del sale, e continuava a sentirsi altrettanto superiore
+verso i propri vassalli, che pranzavano al di sotto del pavimento.
+
+Ma per quanto si possa criticare la vecchia classe media, e per quanto di cuore
+ci si possa unire a quelle immortali parole della [[Song|Canzone]] del Futuro,
+che si dice suonino così:
+
+  Coscienti della classe siamo, coscienti della classe saremo;
+  Finché il nostro piede sarà sul collo della borghesia,
+
+essa ha diritto alla giustizia storica; e ci sono altri punti
+da ricordare. Un punto è che fu in parte proprio la «conquista culturale»
+di questo strato della classe media, e il fatto che fosse davvero
+una classe istruita, a renderla indebitamente sospettosa dell'influenza
+dei domestici. Attribuiva un'importanza piuttosto eccessiva alla corretta ortografia;
+attribuiva un'enorme importanza al parlare correttamente.
+E scriveva e parlava davvero correttamente. C'era tutto un mondo in cui
+nessuno era più incline a perdere un'acca che a raccogliere un titolo.
+Scoprii presto, con la malizia dell'infanzia, che ciò di cui i miei maggiori
+avevano davvero paura era ogni [[Imitation|imitazione]] dell'intonazione e della dizione
+dei domestici. Mi si dice (per citare un altro aneddoto per sentito dire)
+che verso l'età di tre o quattro anni, strillai per un cappello appeso
+a un gancio, e alla fine, in convulsioni di furia, pronunciai le tremende parole:
+«Se non me lo dai, dirò 'appello.» Ero certo che ciò
+avrebbe steso a terra tutti i miei parenti per miglia intorno.
+
+E questa cura per l'[[Education|educazione]] e per la dizione, benché ora vi trovi
+molto da criticare, aveva davvero il suo lato buono.
+Significava che mio padre conosceva a menadito tutta la sua letteratura inglese,
+e che io ne conoscevo gran parte a memoria, molto prima di poterla
+davvero cacciare in testa. Conoscevo pagine dei
+[[Blank Verse|versi sciolti]] di Shakespeare senza avere la minima nozione del loro significato;
+il che è forse il modo giusto di cominciare ad apprezzare la poesia.
+E si racconta anche di me che, all'età di sei o sette anni,
+caddi lungo disteso per strada nell'atto di recitare eccitatamente le parole,
+
+  Buon [[Hamlet|Amleto]], getta via questo colore notturno,
+  E lascia che il tuo occhio guardi come un amico sulla [[Denmark|Danimarca]],
+  Non cercare per sempre con le tue palpebre velate
+  Il tuo nobile padre nella [[Dust|polvere]],
+
+nel qual momento appropriato piombai in avanti sul naso.
+
+Ciò che è forse anche meno apprezzato è che la particolare classe
+di cui parlo non era soltanto tagliata fuori da quelle che si chiamano le classi inferiori,
+ma anche altrettanto nettamente da quelle che si chiamano le classi superiori.
+Da allora possiamo dire, con tutte le graziose scuse, che questa classe
+si è scissa nelle due grandi sezioni degli Snob e dei Sussiegosi.
+I primi sono coloro che vogliono entrare nella Società; i secondi sono
+coloro che vogliono uscire dalla Società, ed entrare nelle Associazioni. Intendo
+le Associazioni [[vegetarian|Vegetariane]] e le Colonie Socialiste e cose di quel genere.
+Ma le persone di cui parlo non erano dei fissati e, per giunta, non erano
+snob. C'era, s'intende, gran quantità di persone al loro [[Time|tempo]]
+che erano snob; ma quelle di cui parlo erano davvero una classe a parte.
+Non si sognarono mai di conoscere l'aristocrazia se non per affari.
+Avevano, ciò che da allora è divenuto quasi incredibile in Inghilterra,
+un [[Pride|orgoglio]] tutto loro.
+
+Per esempio, quasi tutto quel quartiere di Kensington era ed è
+disposto come una carta o una piantina per illustrare i Saggi di Macaulay.
+Naturalmente leggevamo i Saggi di Macaulay; e, nel nostro semplice isolamento,
+spesso addirittura vi credevamo. Conoscevamo tutti i grandi nomi degli aristocratici
+Whig che avevano fatto la Rivoluzione (e per inciso le proprie
+fortune) e quei nomi erano scritti a chiare lettere in tutte
+le tenute di Kensington. Ogni giorno passavamo davanti a Holland [[house|House]], che apriva
+la sua ospitalità a Macaulay, e alla statua di Lord Holland iscritta
+con il vanto di essere nipote di Fox e amico di Grey.
+La strada di fronte a dove venimmo ad abitare portava il nome di Addison;
+la strada del nostro successivo soggiorno il nome di Warwick, il figliastro
+di Addison. Oltre c'era una [[Road|strada]] che prendeva nome dalla [[house|casa]] dei Russell,
+a sud un'altra col nome di Cromwell. Vicino a noi, sul nostro
+originario trespolo su Campden [[Hill]], c'era il grande nome di Argyll.
+Ora tutti questi nomi mi facevano fremere come trombe, come avrebbero fatto a qualunque ragazzo
+che leggesse Macaulay. Ma non mi passò mai neppure per la mente che noi
+potessimo mai conoscere persone che li portassero, o addirittura desiderarlo.
+Ricordo di aver fatto ridere molto mio padre raccontandogli della vecchia
+ballata scozzese col verso,
+
+Ci fu una gran contesa tra Argyle e Airlie.
+
+Poiché egli sapeva, da [[house|agente]] immobiliare, che la [[house|casa]] di Lord Airlie era in effetti
+assai vicina a Argyll Lodge; e che nulla era più probabile
+del fatto che potesse insorgere una gran contesa, direttamente attinente
+al suo stesso ramo d'affari. Conosceva il vecchio Duca di Argyll in rapporti puramente
+d'affari, e mi mostrò una lettera di lui come una curiosità;
+ma per me era come una deliziosa curiosità in un museo.
+Non pensavo di aspettarmi che McCallum More entrasse in qualche modo
+nella mia stessa esistenza sociale, più di quanto mi aspettassi Graham of Claverhouse
+arrivare al galoppo sul suo grande [[Horse|cavallo]] nero fino all'ingresso, o Carlo
+Secondo capitare a prendere il tè. Consideravo il Duca che viveva a
+Argyll Lodge come un personaggio storico. La mia gente si interessava
+a un'aristocrazia perché era ancora una cosa storica.
+Il punto merita d'essere menzionato, perché è esattamente questa differenza,
+nel bene o nel male, che giustifica una lotta o una faida di cui
+dovrò scrivere in una pagina successiva. Molto tempo dopo, ebbi
+la fortuna di figurare in una rissa politica sulla Vendita dei Titoli Nobiliari;
+e molti dissero che stavamo sprecando le nostre energie a denunciarla.
+Ma non era così. Il trattamento di un titolo faceva davvero una differenza;
+e sono giusto abbastanza vecchio da poter misurare la differenza che
+esso ha davvero fatto. Se, considerando Lord Lorne con storico rispetto,
+mi fossi stato presentato uno sconosciuto Lord Leatherhead, avrei
+rispettato anche lui come qualcosa di storico. Se dovessi incontrarlo ora,
+saprei che potrebbe essere un prestasoldi qualsiasi da un rigagnolo qualsiasi d'Europa.
+Le Onorificenze non sono state vendute; sono state distrutte.
+
+Una considerevole famiglia legata all'attività familiare, meramente
+per ragioni d'affari, può valer la pena di menzionare per tutt'altre ragioni.
+La ditta era, e in effetti è ancora, agente della grande Tenuta Phillimore,
+allora posseduta da due fratelli che recitarono entrambi parti pubbliche di rilievo:
+l'Ammiraglio Phillimore, morto molto tempo fa, e Lord Justice Phillimore,
+uno dei più famosi tra i moderni giudici inglesi, morto
+più di recente. Non avevamo nulla a che fare con simile gente, né cercammo di averne,
+benché ricordi più di una testimonianza del tutto indipendente
+sulla magnanimità del vecchio Ammiraglio. Ma menziono questo vago
+sfondo della grande Tenuta di Kensington per un'altra ragione.
+Poiché il nome di Phillimore era destinato, in un modo strano e [[Double|duplice]]
+e piuttosto ironico, a intrecciarsi con le mie successive
+avventure nella vita. L'Ammiraglio non lo vidi mai; ma suo figlio, che doveva
+avere all'incirca la mia stessa età da [[Child|bambino]], ero destinato molto più tardi a conoscere
+e ad [[Love|amare]] e a perdere, come amico e come alleato in una causa che allora
+sarebbe parsa fantasticamente lontana dalle nostre fanciullezze.
+E il Giudice ero destinato a vederlo sedere sul seggio del giudizio,
+e a deporre dinanzi a lui in favore di mio fratello, che stava
+sul banco degli imputati all'Old Bailey e fu trovato colpevole di patriottismo
+e di spirito pubblico.
+
+La famiglia di mia madre aveva un cognome francese; benché la famiglia,
+per come la conobbi per esperienza oltre [[Well|che]] per tradizione, fosse interamente
+inglese nella lingua e nelle abitudini sociali. C'era una sorta di leggenda
+familiare secondo cui discendevano da un soldato semplice francese
+delle Guerre Rivoluzionarie, che era stato prigioniero in Inghilterra
+e vi era rimasto; come certamente alcuni fecero. Ma dall'altro lato
+mia madre veniva da gente scozzese, che erano Keith di Aberdeen;
+e per diverse ragioni, in parte perché la mia nonna materna
+sopravvisse a lungo al marito ed era una personalità assai attraente,
+e in parte per una certa vividezza in ogni infusione di [[Blood|sangue]] o
+patriottismo scozzese, questa affiliazione settentrionale faceva forte
+presa sui miei affetti; e creò una sorta di [[Romance|Romanzo]] scozzese nella mia [[Childhood|infanzia]].
+Ma suo marito, il mio nonno materno che non vidi mai, deve essere
+stato una persona interessante anche lui; e qualcosa di un tipo storico,
+se non di un personaggio storico. Era stato uno dei vecchi
+predicatori laici wesleyani ed era così coinvolto nella controversia pubblica,
+una caratteristica che è discesa a suo nipote. Era anche
+uno dei capi del primo movimento Teetotale; una caratteristica
+che non lo è. Ma sono certissimo che ci fosse molto in lui,
+al di là di tutto ciò che è implicito nel mero parlare in pubblico o nell'astinenza.
+Ne sono certissimo, a causa di due osservazioni casuali che fece;
+che sono in effetti le uniche due osservazioni che io abbia mai sentito attribuirgli.
+Una volta, mentre i suoi figli inveivano contro la moda e la convenzione
+alla maniera di tutta la gioventù liberale, disse bruscamente: «Ah,
+parlano tanto della moda; ma la moda è civiltà.»
+E nell'altro caso, la stessa generazione nascente stava scagliando con leggerezza
+quel pessimismo che è possibile solo nel felice [[Time|tempo]] della giovinezza.
+Criticavano il Ringraziamento Generale nel Libro delle [[Prayer|Preghiere]],
+e osservavano che parecchie persone hanno ben poca ragione di essere
+grate della propria creazione. E il vecchio, che era allora così vecchio
+da non parlare quasi mai affatto, disse d'improvviso, uscendo dal suo [[Silence|silenzio]]:
+«Ringrazierei Dio per la mia creazione se sapessi di essere un'[[Soul|anima]] perduta.»
+
+Dell'altro lato della mia famiglia potrò dire di più quando verrò ai miei
+ricordi personali; ma metto questo lato della faccenda per primo perché ce n'è
+tanto di più che ho ricevuto solo di seconda mano.
+E questa è la parte del libro che è costretta a essere [[Biography|biografia]]
+e non può essere autobiografia. Tratta delle cose che erano
+appena dietro di me e gettavano soltanto le loro ombre sul mio primissimo sentiero;
+le cose che vidi in riflesso piuttosto che in realtà.
+Di queste ce n'erano di più dal lato di mia madre; specialmente quell'
+interesse storico per la [[house|casata]] dei Keith, che era mescolato con il mio
+interesse storico generale per cose come la [[house|casata]] degli Argyll.
+Ma anche dal lato di mio padre c'erano leggende; la figura più vicina
+e più eminente essendo quel Capitano Chesterton, che fu
+famoso ai suoi tempi come riformatore delle prigioni. Era amico
+di Dickens e, sospetto, egli stesso qualcosa di un personaggio dickensiano.
+Ma in verità questi primi ricordi e queste dicerie suggeriscono che ci
+fossero parecchi personaggi dickensiani ai giorni di Dickens.
+Sono ben lungi dal negare l'inferenza; che parecchi personaggi
+dickensiani sono impostori. Non sarebbe giusto dire tutto ciò che ho detto
+in lode della vecchia classe media vittoriana, senza ammettere
+che essa talvolta produsse impostura piuttosto vuota e pomposa.
+Un solenne amico di mio nonno usava andare a passeggio la
+[[Sunday|domenica]] portando un libro di [[Prayer|preghiere]], senza la minima intenzione
+di andare in chiesa. E lo giustificava con calma dicendo,
+a mano alzata: «Lo faccio, Chessie, come esempio per gli altri.»
+L'uomo che faceva questo era palesemente un personaggio dickensiano.
+E sono incline a pensare che, essendo un personaggio dickensiano,
+egli fosse per molti versi piuttosto preferibile a molti personaggi moderni.
+Pochi uomini moderni, per quanto falsi, oserebbero essere tanto sfacciati.
+E non sono sicuro che non fosse in realtà un tipo più genuino
+dell'uomo moderno che dice vagamente di avere dubbi o di odiare i sermoni,
+quando vuole soltanto andare a giocare a golf. L'ipocrisia stessa era
+più sincera. Comunque, era più coraggiosa.
+
+Ciò che non posso non chiamare un Grande Gusto emanava da quell'epoca;
+qualcosa ora ricordato soltanto nella ricca e sfrenata citazione
+di Swiveller e Micawber. Ma il punto è che il sapore di ciò
+si poteva allora trovare in una moltitudine di persone del tutto degne e oscure;
+di certo assai più degne della persona sfacciatamente pecksniffiana
+col libro di [[Prayer|preghiere]]; e assai più oscure dell'eccentrico
+ma efficiente, e persino eminente, governatore e riformatore di [[Prison|prigioni]].
+Per usare un termine gergale del periodo, questo indescrivibile genere di gusto
+non era affatto soltanto un gusto da gentiluomini. Era l'effetto,
+credo, di quell'[[Humour|umorismo]] popolare, che è forse ancora la nostra unica
+istituzione davvero popolare, agente sui resti della retorica
+degli oratori del Settecento, e sulla retorica quasi altrettanto retorica
+dei poeti dell'Ottocento, come Byron e Moore.
+Comunque, era evidentemente comune a innumerevoli persone comuni o mediocri,
+e piuttosto in modo particolare agli impiegati di commercio. L'impiegato venne poi
+a figurare piuttosto come un mero e dozzinale Cockney dal parlare tronco;
+una sorta d'inglese spezzato che sembra spezzato per caso;
+scheggiato piuttosto che troncato. Ma c'era una razza che davvero
+trattava in periodi rotondi come i piatti e le zuppiere del Natale.
+Mio padre mi raccontò di un compagno impiegato della sua giovinezza, o fanciullezza,
+che si congedava dalla taverna o dalla [[house|trattoria]] con un maestoso messaggio
+di ringraziamento, che pronunciava con voce grossa e tonante, prima d'incamminarsi
+impettito in strada: «Dite alla signora Bayfield che la bistecca era eccellente;
+le patate cotte a puntino; in breve, un pranzo degno di un Imperatore.»
+Non è esattamente come «F.B.» nei momenti in cui Thackeray
+era più dickensiano? Dalla stessa remota fonte, rammento
+un'altra scena del tutto dickensiana; un mite ometto dal viso tondo
+con gli occhiali, il tipo che viene sempre canzonato dovunque;
+e un compagno impiegato di nome Carr, di umori più misteriosi;
+entrambi [[Ghosts|fantasmi]] del [[Time|tempo]] di apprendistato di mio padre.
+A intervalli il più cupo dei due impiegati gridava attraverso l'ufficio:
+«Signor Hannay!» Il volto tondo, luminoso col suo sorriso e i suoi occhiali,
+spuntava con mai smentita freschezza e aspettativa:
+«Sì, signor Carr.» Allora il signor Carr lo fissava con una faccia sfingea
+e diceva con toni cavi ma risonanti: «Spazio Sconfinato!» E poi
+il signor Carr si voltava più bruscamente verso gli altri impiegati, scuotendo il capo,
+e ripetendo in tono disperato: «Non riesce ad afferrarlo!»
+Non so che cosa avrebbero pensato l'uno o l'altro dell'idea
+del Professor Einstein che entra nell'ufficio e vendica il signor Hannay
+sul signor Carr, suggerendo che lo spazio non è affatto sconfinato.
+Il punto è che c'è questo elemento di pompa e di rituale negli scherzi;
+persino negli scherzi pratici; anzi persino negli inganni pratici.
+Era noto in ambienti più umili, tra saltimbanchi e persino mostruosità,
+come [[Well|ben]] sapeva Dickens; e c'era qualcosa di altrettanto maestoso nei
+ciarlatani che reclamavano denaro quanto negli oratori che reclamavano fama.
+Uno dei miei primissimi ricordi è di quando guardavo da un balcone
+sopra una delle grandi strade residenziali di una stazione balneare,
+e vedevo un venerando tale dai capelli bianchi togliersi solennemente
+un cappello bianco mentre camminava in mezzo alla strada,
+e diceva a nessuno in particolare con la voce sonora di un conferenziere:
+«Quando venni per la prima volta in Cannon Street... chiedo scusa,
+Cannon Place...» una performance che ripeteva ogni giorno,
+cadendo sempre nello stesso errore, seguito dalla stessa scusa.
+Questo mi dava, non so perché, un piacere enorme; in parte, credo,
+dalla sensazione che una gigantesca bambola a orologeria fosse stata aggiunta
+a ciò che il signor Maurice Baring chiama il teatro delle marionette della [[Memory|Memoria]].
+Ma la sua importanza qui è che il resto del suo discorso pareva tanto
+più forbito e impeccabile per quell'unico errore stranamente ricorrente;
+e finiva sempre con una bella perorazione, sul rammentare
+nel remoto futuro, e nell'ora della [[Death|morte]], «la gentilezza che ho
+incontrato in Cannon Place.» Più tardi, ricordo gli stessi sentieri sul mare
+percorsi da un personaggio pubblico ancor più loquace che portava tocco e toga,
+[[Fear|temo]] con ben poca autorità accademica; ma credo che egli segnasse uno stadio assai
+più tardo, perché era acre e antagonista, e si appellava
+al suo pubblico chiamandoli ipocriti e sepolcri imbiancati;
+il che aveva sul quel pubblico assai inglese il curioso effetto di indurli
+a gettare monetine nel suo tocco. Ma nello stadio precedente
+che qui mi riguarda, un bagliore di conviviale cortesia ricopriva ogni cosa;
+e l'ala dell'[[Friendship|Amicizia]] non poteva mai perdere una piuma.
+La sorprendente pazienza del nostro popolino andava allora con una certa pompa,
+ma era una pomposa cordialità; e persino i loro scherni erano ancora gioviali.
+La loro derisione e il loro [[Heroism|Eroismo]] restano ancora, il cielo lo sa;
+ma non si combinano più così nell'eroicomico.
+Ma chiunque abbia udito, o sentito parlare, degli uomini che menziono, sarà certo
+fino al giorno della sua morte che [[Dick Swiveller]] disse davvero: «Quando colui che ti
+adora non ha lasciato che il nome — in caso di lettere o pacchi»,
+o che il povero maestrino alla festa bisbigliò davvero a ogni signora a turno:
+«Se avessi un cuore foggiato per la falsità, mai potrei farti torto.»
+C'era un bagliore in ciò; non imitabile dagli sfavillanti, anche quando
+sfavillano davvero. Il mondo è meno gaio per aver perduto quella solennità.
+
+Un'altra vera virtù vittoriana, da non screditare a causa di molte immaginarie
+virtù vittoriane, appartiene non tanto alla mia generazione quanto a quella di mio
+padre e di mio nonno; o almeno, se fui particolarmente fortunato,
+a mio padre e a mio nonno. Dovrebbe, dunque, essere menzionata
+in questo luogo; se è illustrata da episodi entro la mia stessa [[Memory|Memoria]].
+La mia gente in ogni caso aveva un rigido criterio di probità commerciale;
+ma immagino che il criterio fosse più rigido in tutta quella più flemmatica classe
+commerciale che in un [[Time|tempo]] successivo, quando la nozione di [[success|successo]] si mescolò
+non solo al cinismo ma a una strana sorta di [[Romance|Romanticismo]] piratesco.
+Il mutamento si può avvertire, come nella parola «rispettabile», nella stessa
+atmosfera di certe parole. L'ideale moderno prediletto nella morale
+e perfino nella religione, specialmente la religione resa popolare nei giornali
+per milioni di uomini d'affari moderni, è la parola «avventura».
+Il più minaccioso [[Monster|Mostro]] nella morale, per gli uomini d'affari della mia
+vecchia classe media, era bollato col titolo di «avventuriero».
+In tempi successivi, immagino, il mondo ha difeso certi avventurieri
+piuttosto indifendibili insinuando il fascino dell'avventura.
+Comunque, questa non è soltanto la mia tardiva opinione in un'età di reazione.
+Era l'opinione dei migliori perfino tra i vecchi ottimisti e
+gli ortodossi economisti, che vissero quando il mutamento cominciava, e
+credevano di vivere in un'età di [[Reform|Riforma]]. Mio padre stesso
+e i miei zii erano interamente del periodo che credeva nel progresso,
+e in genere nelle cose nuove, tanto più perché trovavano
+sempre più difficile credere nelle cose vecchie; e in certi casi
+in qualsiasi cosa. Ma benché come Liberali credessero nel progresso,
+da uomini onesti testimoniavano spesso il deterioramento.
+
+Ricordo mio padre raccontarmi quanto avesse cominciato a essere assediato
+da grandi sciami di persone che volevano commissioni private su transazioni
+in cui si supponeva rappresentassero un altro interesse.
+Lo menzionava non solo col più profondo disgusto, ma più
+o meno come se fosse una novità oltre [[Well|che]] una seccatura.
+Egli stesso era solito accogliere queste sgradevoli persone
+con un umoristico e simulato scoppio di cordialità e persino d'ilarità;
+ma era l'unico genere di occasione in cui il suo [[Humour|umorismo]] poteva dirsi
+tetro e persino feroce. Quando l'agente, mercanteggiando per qualche terza parte,
+accennava che una gradita inezia avrebbe agevolato le trattative,
+egli diceva con formidabile cordialità: «Oh, certamente! certamente!
+Finché siamo tutti amici e tutto è aperto e alla luce del sole!
+Sono sicuro che i vostri mandanti e datori di lavoro saranno lieti di sapere
+da me che vi sto pagando un piccolo...» A quel punto veniva interrotto
+da una sorta di strillo di [[Fear|paura]], e il gentile e diplomatico signore
+copriva le proprie tracce come meglio poteva, atterrito. «E non
+vi prova questo,» diceva mio padre con [[Innocent|innocente]] razionalismo,
+«l'immoralità di una simile proposta?»
+
+Mio Zio Sidney, che era suo socio nell'attività, era un
+testimone più inconfutabile, perché testimone più riluttante.
+Mio padre era assai universale nei suoi interessi e assai moderato
+nelle sue opinioni; era uno dei pochi uomini che io abbia mai conosciuto che davvero
+ascoltasse un ragionamento; per giunta, era più tradizionalista di
+molti nell'età liberale; amava molte cose antiche, e aveva
+in special modo una passione per le cattedrali francesi e per tutta l'architettura
+gotica dischiusa da Ruskin in quel [[Time|tempo]]. Non era del tutto
+inconcepibile che egli ammettesse un altro lato del progresso moderno.
+Ma mio zio era proprio l'opposto di un laudator temporis acti.
+Era uno di quegli uomini sensibili e scrupolosi, assai tipici del
+mondo moderno, che avevano lo stesso scrupoloso senso del dovere di accettare
+cose nuove, e di simpatizzare con i giovani, che i moralisti più anziani
+potevano aver avuto riguardo al preservare cose vecchie e all'obbedire agli anziani.
+Ricordo che mi assicurava con vera premura i pensieri di speranza
+suscitati in lui dalle ottimistiche profezie ufficiali del libro
+intitolato Looking Backwards, titolo piuttosto ironico, visto che
+l'unica cosa proibita a simili futuristi era il Guardare Indietro.
+E l'intera [[philosophy|filosofia]], sublimata più tardi dal genio
+del signor Wells, era il dovere di Guardare Avanti. Mio zio,
+assai più di mio padre, era questo tipo scrupolosamente sanguigno d'uomo;
+e l'ultimo uomo al mondo a difendere i bei tempi andati.
+Ma era anche un uomo veritiero con tutta trasparenza; e ricordo che egli mi
+diceva, con quella ruga di preoccupazione sulla fronte, che confessava
+la sua subconscia e sensibile ansia: «Sono costretto a confessare che
+la [[morality|moralità]] commerciale è peggiorata costantemente nell'arco della mia vita.»
+
+Naturalmente ammetto, o piuttosto mi vanto, che in qualcosa come la simpatia
+per una qualunque simile Utopia, tali individui erano in anticipo sui tempi.
+Ma mi vanto assai di più che, nella grande crescita moderna dell'alta
+finanza, essi erano indietro rispetto ai tempi. La classe nel suo insieme era,
+in effetti, pericolosamente sorda e cieca sulla prima questione
+dello sfruttamento economico; ma era relativamente più vigile
+e sensibile sulla seconda questione della decenza finanziaria.
+Non veniva mai in mente a questa gente che qualcuno potesse
+ammirare un uomo per essere ciò che chiamiamo «audace» nella speculazione,
+non più di quanto ammirasse una donna per essere ciò che chiamiamo «audace» nel vestire.
+C'era qualcosa dello stesso mutamento atmosferico in entrambi i casi.
+L'assenza di [[Ambition|Ambizione]] sociale aveva molto a che fare con ciò.
+Quando le restrizioni erano davvero soffocanti e stupide, erano in gran parte
+quelle dell'ignoranza; ma ciò non era affatto tanto malvagio e rovinoso
+quanto l'ignoranza dei veri torti e diritti delle classi lavoratrici.
+Il cielo sa, è persino possibile che in certi casi il lettore sappia,
+che io non sono un ammiratore della compiaciuta prosperità commerciale dell'Inghilterra
+nell'Ottocento. Nel migliore dei casi era un [[Individualism|Individualismo]] che finì
+col distruggere l'individualità; un industrialismo che non ha fatto nulla
+se non [[Poison|avvelenare]] il significato stesso della parola industria. Nel peggiore dei casi
+si tramutò infine in una volgare vittoria dello sfruttamento e della truffa.
+Sto solo additando un punto particolare riguardo a un particolare gruppo
+o classe, ora estinto; che, se erano ignari, o spesso indifferenti,
+allo sfruttamento, erano davvero indignati per la truffa.
+Allo stesso modo, pochi mi accuseranno di [[Puritanism|Puritanesimo]]; ma credo sia
+dovuto alla tradizione puritana dire che certe nozioni di sobrietà sociale
+ebbero davvero qualcosa a che fare col ritardare il pieno trionfo
+della finanza sgargiante e delle mere buffonate dell'avarizia. Comunque, c'è
+stato un mutamento da una classe media che si fidava di un uomo d'affari perché badasse
+al denaro in quanto ottuso e cauto, a una che si fida
+di un uomo d'affari perché faccia più denaro in quanto brillante e mondano.
+Non sempre si è chiesta per chi egli avrebbe fatto più denaro,
+o di chi fosse il denaro che avrebbe fatto.
+
+So [[Well|bene]] di essere stato assai fortunato nella mia stessa famiglia.
+Ma perfino quelli meno fortunati non erano soggetti agli speciali mali
+ora comunemente etichettati come vittoriani. In effetti, nel senso moderno,
+il Vittoriano non era affatto vittoriano. Era un periodo di
+crescente tensione. Era proprio l'opposto della solida rispettabilità;
+perché la sua etica e la sua teologia si andavano assottigliando dappertutto.
+Poteva essere ordinato in confronto a ciò che venne dopo;
+ma non in confronto ai secoli che vennero prima.
+Talvolta si vantava di essere domestico; ma la [[Home|Casa]] dell'inglese
+non era neppure la metà tanto domestica di quella dell'orrido straniero;
+il dissoluto francese. Era l'età in cui l'inglese mandava
+tutti i suoi figli in collegio e mandava tutti i suoi domestici a quel paese.
+Non riesco a immaginare perché mai qualcuno abbia detto che la [[house|casa]] dell'inglese
+fosse il suo [[Castle|Castello]]; giacché egli era uno dei pochi europei
+che non possedeva neppure la propria [[house|casa]]; e la sua [[house|casa]] era dichiaratamente
+una scatola di mattoni, la meno simile a un [[Castle|Castello]] tra tutte le case.
+Soprattutto, ben lungi dall'essere impettito di religione ortodossa,
+esso fu quasi il primo [[Home|focolare]] irreligioso in tutta la [[history|storia]] umana.
+La loro fu la prima generazione che abbia mai chiesto ai propri figli
+di venerare il focolare senza l'altare. Ciò era ugualmente vero,
+sia che andassero in chiesa alle undici in [[Clock|punto]], con più decorosa
+scrupolosità del gaio ingannatore col libro di [[Prayer|preghiere]], sia che fossero
+riverentemente agnostici o latitudinari, come lo era gran parte della mia cerchia.
+Per la maggior parte, era vita familiare spogliata delle sue feste
+e dei suoi santuari e dei suoi culti privati, che erano stati la sua poesia nel passato.
+Era uno scherzo parlare del pesante mobilio del pesante padre di famiglia,
+e chiamare le sedie e i tavoli i suoi dèi domestici. Era il fatto
+che egli era il primo uomo, per il quale non c'erano dèi domestici,
+ma soltanto mobilio.
+
+Quello era il lato più insulso; ma c'è stata perfino più esagerazione
+riguardo al lato più tenebroso. Intendo che i romanzieri moderni e altri hanno
+preso l'abitudine di scrivere come se la vecchia [[Home|Casa]] della classe media fosse quasi
+sempre un manicomio privato, col matto al comando; come nel
+caso dell'oltremodo Matto Cappellaio che abitava Hatter's [[Castle|Castle]].
+Questa è una [[Grotesque|grottesca]] esagerazione; c'erano genitori con questo selvaggio
+grado di egoismo; ne rammento non molto più di tre
+in tutta la nostra vecchia cerchia sociale; ma perfino a loro sono
+attribuite le associazioni sbagliate. Alcuni di essi potevano essere fanatici religiosi.
+Ne ricordo uno, che rinchiudeva le figlie come prigioniere;
+e una di esse mi disse: «Vedi, egli pensa che nessun altro
+sappia pensare affatto, tranne lui stesso e Herbert Spencer.»
+Ne ricordo un altro che era un Radicale estremo, un campione della libertà
+dappertutto tranne che a [[Home|Casa]]. Il punto è di una certa importanza storica.
+I tiranni, religiosi o irreligiosi, spuntano dovunque. Ma questo tipo
+di [[Tyrant|Tiranno]] era il prodotto del preciso momento in cui un uomo della classe media
+aveva ancora figli e domestici da tenere a freno; ma non aveva
+più credi o corporazioni o re o preti o alcunché a tenere a freno lui.
+Era già un anarchico verso quelli sopra di lui; ma pur sempre un
+autoritario verso quelli sotto di lui. Ma era comunque un tipo anomalo;
+e nessuno dei miei recava la minima somiglianza con lui.
+
+Quale elemento puritano ci fosse in questa società dimenticata
+va certo tenuto in conto come parte del quadro.
+Era per lo più, tra la mia gente, una disapprovazione piuttosto illogica
+di certe forme di lusso e di spesa. Le loro tavole
+gemevano sotto pranzi assai più grandiosi di quanti molti aristocratici ne mangino oggi.
+Ma avevano, per esempio, la ferma sensazione che ci fosse qualcosa
+di piuttosto sconveniente nel prendere una carrozza. Era probabilmente legato
+al loro sensibile [[Pride|orgoglio]] di non scimmiottare l'aristocrazia.
+Ricordo mio nonno, quando aveva quasi ottant'anni e poteva
+permettersi un numero qualsiasi di carrozze, stare in piedi sotto la pioggia scrosciante mentre sette
+o otto omnibus affollati passavano; e poi bisbigliare a mio padre
+(a voce bassa, per timore che la bestemmia fosse udita dai giovani):
+«Se fossero passati altri tre omnibus, sull'[[Soul|anima]] mia credo che
+avrei preso una carrozza.» In materia di andare in giro in carrozza,
+non posso pretendere di aver mantenuto lo stemma di famiglia senza macchia,
+o di essere stato all'altezza dell'alto criterio dei miei avi.
+Ma quanto al loro motivo per non farlo, sono incline
+a difenderli, o almeno a dire che sono assai fraintesi.
+Erano gli ultimi discendenti della signora Gilpin, che disse al calesse di fermarsi
+a poche porte dalla sua [[house|casa]], per timore che i vicini la credessero orgogliosa.
+Non sono sicuro che non fosse una persona più sana della smart
+lady che si farà vedere nella Rolls Royce di chiunque, per timore che i vicini
+la credano umile.
+
+Tale, per quanto ne so, era il paesaggio sociale in cui mi
+trovai per la prima volta; e tali erano le persone tra cui nacqui.
+Mi dispiace se il paesaggio o le persone appaiono deludentemente
+rispettabili e persino ragionevoli, e privi di tutte quelle
+sgradevoli qualità che rendono una [[Biography|biografia]] davvero popolare.
+Mi rincresce di non avere alcun padre tetro e selvaggio da offrire
+allo sguardo del pubblico come vera causa di tutta la mia tragica eredità;
+nessuna madre dal viso pallido e parzialmente avvelenata, i cui istinti
+suicidi mi abbiano maledetto con le tentazioni del temperamento artistico.
+Mi rincresce che non ci fosse nella gamma della nostra famiglia
+nulla di molto più pepato di un remoto e blandamente squattrinato zio;
+e che non possa compiere il mio dovere di vero moderno, maledicendo chiunque
+mi abbia fatto ciò che sono. Non ho le idee chiare su che cosa ciò sia;
+ma sono piuttosto sicuro che la maggior parte di esso sia colpa mia.
+E sono costretto a confessare che ripenso a quel paesaggio
+dei miei primi giorni con un piacere che senza dubbio andrebbe riservato
+alle Utopie del Futurista. Eppure il paesaggio, come lo vedo ora,
+non era del tutto privo di un carattere visionario e simbolico.
+E tra tutti gli oggetti di quel paesaggio, mi ritrovo
+a tornare infine a quelli che ho menzionato per primi.
+In un modo o nell'altro, quelle cose sono giunte a rappresentare tante
+altre cose, nell'[[Allegory|Allegoria]] recitata di un'esistenza umana;
+la chiesetta del mio battesimo e l'acquedotto, la nuda, cieca,
+vertiginosa torre di mattoni che pareva, ai miei primi sguardi rivolti in alto,
+afferrare le [[Stars|stelle]]. Forse c'era qualcosa nella
+confusa e caotica nozione di una torre d'[[Water|acqua]]; come se il mare
+stesso potesse stare ritto su un'estremità come una tromba d'[[Water|acqua]]. Certo più tardi,
+benché non sappia bene quanto tardi, entrò nella mia mente una qualche fantasia
+di un colossale serpente d'[[Water|acqua]] che potesse essere il Grande Serpente di Mare,
+e aveva qualcosa dell'[[nightmare|incubica]] vicinanza di un drago in [[A Dream|un sogno]].
+E, di fronte ad essa, la chiesetta si [[Rose|levava]] in una guglia come una lancia;
+e mi ha sempre fatto piacere ricordare che era dedicata
+a San Giorgio.
 
 *****

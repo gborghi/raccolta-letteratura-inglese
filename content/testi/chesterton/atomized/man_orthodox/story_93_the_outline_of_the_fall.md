@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_92_original_sin">‹ Story 92 Original Sin</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_94_neurosis">Story 94 Neurosis ›</a></div>
@@ -77,3 +79,76 @@ is not only a hope but also in some strange manner a memory;
 and that we are all kings in exile.
 
                                       G. K.'s Weekly, September 25th, 1926
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_92_original_sin">‹ Story 92 Original Sin</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_94_neurosis">Story 94 Neurosis ›</a></div>
+</nav>
+
+I LINEAMENTI DELLA CADUTA
+
+Che il giardino fosse o no un'allegoria, la verità stessa può essere
+benissimo allegorizzata come un giardino.  E il punto è che l'Uomo,
+qualunque altra cosa sia, non è di certo semplicemente una delle piante
+del giardino che abbia strappato le sue radici dal suolo
+e se ne vada in giro con esse come fossero gambe, o che, secondo il principio
+di una dalia doppia, abbia fatto crescere occhi e orecchie in duplice copia.
+Egli è qualcos'altro, qualcosa di strano e di solitario,
+più simile alla statua che un tempo era il dio del giardino;
+ma la statua è caduta dal suo piedistallo e giace spezzata
+tra le piante e le erbacce.  Questa concezione non ha nulla
+a che vedere con il materialismo nel senso di riferirsi ai materiali.  L'immagine
+potrebbe essere fatta di legno; il legno potrebbe provenire dal giardino;
+lo scultore presumibilmente poteva, e probabilmente lo fece, tener conto della
+crescita e delle venature del legno in ciò che scolpiva ed esprimeva.
+Ma la mia favola fissa le due verità della Scrittura più vera.
+La prima è che il legno fu inciso o impresso con un'immagine,
+deliberatamente e dall'esterno; in questo caso l'immagine di Dio.
+La seconda è che questa immagine è stata danneggiata e deturpata,
+sicché ora è insieme migliore e peggiore delle semplici piante
+del giardino, che sono perfette secondo il loro proprio disegno.
+C'è spazio per qualsiasi quantità di congetture sulla storia
+dell'albero prima che fosse trasformato in immagine; c'è spazio
+per qualsiasi quantità di dubbio e di mistero su ciò che davvero accadde
+quando fu trasformato in immagine; c'è spazio per qualsiasi quantità
+di speranza e d'immaginazione su come apparirà quando sarà
+davvero riparato e reso la statua perfetta che non abbiamo mai visto.
+Ma esso ha i due punti fissi: che l'uomo fu innalzato in principio
+e cadde; e rispondere a ciò dicendo «Dov'è il [[Garden|Giardino]] dell'Eden?»
+è come rispondere a un buddista filosofo dicendo «Quand'è
+che sei stato l'ultima volta un asino?».
+
+La Caduta è una visione della vita.  Non è soltanto la sola visione
+illuminante, ma la sola visione incoraggiante della vita.  Essa sostiene, contro
+le sole vere filosofie alternative, quelle del buddista,
+del pessimista o del prometeico, che abbiamo fatto cattivo uso
+di un mondo buono e non che siamo stati semplicemente intrappolati in uno cattivo.
+Riconduce il male al cattivo uso della volontà e dichiara così
+che esso può alla fine essere raddrizzato dal buon uso della volontà.
+Ogni altro credo, tranne quello, è una qualche forma di resa al fato.
+Un uomo che accolga questa visione della vita la troverà capace di gettar luce su mille
+cose su cui la mera etica evoluzionistica non ha una parola da dire.
+Per esempio, sul colossale contrasto tra la compiutezza
+delle macchine dell'uomo e la perdurante corruzione dei suoi moventi;
+sul fatto che nessun progresso sociale sembra davvero lasciarsi alle spalle l'io;
+sul fatto che i primi e non gli ultimi uomini di ogni scuola
+o rivoluzione sono generalmente i migliori e i più puri, come William Penn
+fu migliore di un milionario quacchero, o Washington migliore di
+un magnate americano del petrolio; su quel proverbio che dice «Il prezzo
+della libertà è l'eterna vigilanza», che non è se non ciò che i teologi
+dicono di ogni altra virtù, ed è esso stesso soltanto un modo di enunciare
+la [[Truth|verità]] del [[Original Sin|peccato originale]]; su quegli estremi di bene e di male per cui
+l'uomo supera tutti gli [[Animals|animali]] della misura del cielo e dell'inferno;
+su quel [[Sublime|sublime]] senso di perdita che è nel suono stesso di ogni
+grande poesia, e in nessun luogo più che nella poesia dei pagani
+e degli scettici — «Guardiamo prima e dopo e struggiamo per ciò che non è»;
+la quale grida contro tutti i saccenti e i progressisti dalle profondità
+stesse e dagli abissi del cuore spezzato dell'uomo che la felicità
+non è soltanto una speranza, ma anche, in qualche strano modo, un ricordo;
+e che siamo tutti re in esilio.
+
+                                      G. K.'s Weekly, 25 settembre 1926

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/part/part_31">‹ part 31</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/part/part_33">part 33 ›</a></div>
@@ -151,3 +153,150 @@ But there is no need for such excitement; and it is quite possible
 that the reaction following such a [[Resurrection|resurrection]] may go too far.
 It will be worse still if the world is again converted
 without being convinced.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/part/part_31">‹ part 31</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/part/part_33">part 33 ›</a></div>
+</nav>
+
+_XXXII A proposito del darwinismo_
+
+QUALUNQUE altra cosa si sia evoluta, l'evoluzione non si è evoluta.
+Intendo l'evoluzione come parte dell'[[Education|educazione]]; come un'idea più o meno
+accettata negli ultimi quarant'anni dalla maggior parte delle persone pensanti;
+e forse ancor più dalla maggior parte delle persone non pensanti.
+Coloro che la sostenevano parlavano sempre di crescita e
+di graduale mutamento; ma il loro stesso movimento non era affatto graduale.
+Popolarizzarono un'evoluzione che aveva fin troppo della rivoluzione;
+che arrivava con fin troppa foga; che divenne, come si suol dire,
+l'ultima moda; con alcuni dei suoi esponenti che, senza possibilità di equivoco, smaniavano.
+Essa si opponeva alle idee di creazione [[Supernatural|soprannaturale]] o persino speciale;
+ma la teoria stessa fu creata in un senso molto speciale;
+e fu lanciata e reclamizzata come un miracolo. Molte delle recenti
+rivolte e reazioni e tardive rimesse in discussione sono dovute a quella
+originaria fretta giornalistica; eppure esse stesse rischiano
+di essere trattate a loro volta in modo troppo frettoloso e giornalistico.
+La laboriosità individuale di Darwin fu, invero, minuziosa e paziente; ed egli fu
+personalmente il rovescio esatto di un carattere impetuoso o impaziente.
+Non è per questo meno vero che il darwinismo fu cacciato troppo in fretta
+giù per la gola di tutti, compreso Darwin. Il vecchio Huxley
+aveva tutte le passioni di un pamphlettista e di un uomo di parte; era inoltre
+individualmente e intensamente interessato a certi atteggiamenti etici e
+filosofici tutti suoi, che il darwinismo sosteneva forse più
+di quanto egli stesso non avrebbe altrimenti sostenuto il darwinismo.
+Huxley e Herbert Spencer apprezzavano davvero il darwinismo, come argomento
+a favore dell'agnosticismo. Sarebbe stato molto meglio se avessero coltivato
+un po' più di agnosticismo riguardo al darwinismo.
+
+Tutte le memorie e i ricordi di quel [[Time|tempo]] sono pervasi di quella curiosa
+atmosfera di pregiudizio nuovo di zecca e di combattività precoce.
+La scienza divulgativa amava puntare i riflettori sulle occasioni speciali;
+scontri di partito e sfide particolari di particolari campioni.
+Tutti parlavano della replica di Huxley a Wilberforce come di
+qualcosa di teatrale al pari di un fulmine. Si riteneva che ogni cosa
+dovesse reggersi o crollare in base a un particolare [[debate|dibattito]] fra Huxley e Gladstone
+sui Porci di Gadara. Nessuno pare aver notato il fatto
+che una teoria come il darwinismo, avanzata da un uomo come Darwin,
+fosse pressoché l'argomento più inadatto della terra a venir risolto da una
+battuta in un circolo di dibattito. Nessuno notò che Gladstone era pressoché
+la persona peggiore al mondo tanto per insegnare a un uomo come Huxley
+le verità della teologia quanto per scovare in lui gli errori della scienza.
+L'umanità sapeva che Gladstone era un eloquente oratore, e Huxley diceva
+ch'egli era un copioso imbroglione; ma non era né un filosofo né
+uno storico adatto a trattare la teoria delle prove dei miracoli.
+Era semplicemente il Primo Ministro, passato, presente o futuro;
+e la sua comparsa su quel palco non fece che renderla un'occasione mondana.
+Era proprio questo il male dell'intera occasione.
+Darwin divenne fin troppo alla moda; e il darwinismo prevalse soltanto
+come una moda.
+
+Se le grandi speculazioni biologiche del tardo Ottocento
+fossero rimaste speculative, sarebbero state assai più lente e
+assai più sicure. A questo [[Time|tempo]] avremmo forse davvero fatto il punto
+su ciò che effettivamente si conosce circa la variazione delle specie e su ciò che si può
+soltanto plausibilmente congetturare e su ciò che è mera congettura a caso.
+Invece, si lasciò che un'ipotesi s'indurisse in un'abitudine
+di pensiero; e ogni ipotesi alternativa suscita un'inutile
+eccitazione, come un violento [[Paradox|paradosso]]. Un illustre uomo di scienza,
+in un altro ramo del sapere, ha di recente contraddetto il darwinismo con
+la stessa enfasi e la stessa foga con cui i darwiniani l'affermavano.
+Questa è notizia sui giornali, ma in questo paese esageriamo grossolanamente
+la misura in cui essa è una novità nel mondo scientifico.
+Quando Sir [[Arthur]] Keith e il signor H. G. Wells tentarono di trattare l'antidarwinismo
+come un inaudito [[Paradox|paradosso]], il signor Belloc non ebbe la minima difficoltà a
+nominare cinquanta uomini di scienza di primissimo rango, in tutta Europa, che erano
+dichiarati antidarwiniani. E Sir [[Arthur]] Keith non seppe replicare nulla,
+se non che uno dei cinquanta, l'illustre Professor Dwight,
+non aveva mai in nessun [[Time|tempo]] accettato l'ipotesi darwiniana.
+L'argomento era, a quanto pare, che Dwight non poteva aver ragione,
+perché aveva avuto ragione per tutto il [[Time|tempo]]. Non c'è nulla di nuovo
+nell'attacco puramente scientifico alla teoria darwiniana;
+esso cominciò ben presto dopo che i darwiniani avanzarono la teoria.
+Ma i darwiniani l'avanzarono con un'intolleranza così sbrigativa e
+travolgente che non si tratta più della questione di una teoria scientifica
+avanzata contro un'altra teoria scientifica.
+Non si tratta più di paragonare lealmente ciò che disse Darwin
+con ciò che disse Dwight; anzi, non è affatto una questione.
+La si tratta come una risposta; e una risposta finale e infallibile.
+Ora, non occorre conoscere più dei meri rudimenti della
+controversia biologica per sapere che, su una ventina di
+problemi accessori, essa è per certi versi una risposta assai insoddisfacente.
+Questo non significa necessariamente che non fosse preziosa come suggerimento;
+o che non possa contribuire a suggerire la vera risposta. Darwin fece
+una mole di ottimo lavoro, accumulò una moltitudine di fatti, e li
+collocò in una certa luce sottoponendoli a un suggerimento generale.
+Un tale lavoro non sarebbe dovuto andar sprecato, se la cosa fosse stata trattata
+in maniera ragionevole. Gli evoluzionisti vittoriani ebbero torto;
+non perché aprirono la questione evolutiva, ma perché
+la chiusero.
+
+Poiché gli evoluzionisti vittoriani furono davvero molto vittoriani.
+Meritavano davvero quella sorta di critica che i realisti
+di una generazione più giovane hanno mosso contro la virtù vittoriana
+o l'ipocrisia, in materia di porte chiuse. Eppure il male non
+venne davvero dall'ipocrisia; venne davvero dalla virtù.
+Ma era virtù di un certo tipo puritano; e specialmente di un
+tipo politico. Gli uomini di cui Thomas Huxley fu il più grande erano,
+soprattutto, polemisti; perché erano, soprattutto, moralisti.
+Conducevano i loro dibattiti, persino i loro astratti dibattiti scientifici,
+nello spirito di una sorta di idealistica campagna elettorale.
+Era Darwin contro Gladstone; proprio come era Disraeli
+contro Gladstone. Si appellavano di continuo al paese,
+si rivolgevano al pubblico, aspettandosi un'immediata decisione
+dell'intera comunità, persino sulle speculazioni più specialistiche,
+come se fossero gli elementi più spirituali del giusto e dell'ingiusto.
+Così identificarono il libero scambio con la [[Freedom|Libertà]]; insistendovi con
+una semplicità etica del tutto inapplicabile a una scienza economica.
+E così identificarono la selezione naturale con la [[Nature|Natura]]; con una
+finalità dogmatica del tutto inapplicabile a una scienza biologica.
+La teoria darwiniana era l'[[Dawn|Alba]]; e ogni altra sfumatura di fatto
+o di fantasia era soltanto parte delle tenebre avversarie. Possiamo cogliere
+la differenza in un lampo se soltanto paragoniamo quei grandi e arcigni
+uomini dalle grigie basette con i Greci o con gli uomini del [[Renaissance|Rinascimento]],
+quando speculavano in modo libero e disinvolto su qualche teoria
+delle [[Stars|stelle]], o sul volo degli [[Birds|uccelli]], o sui movimenti del mare.
+La maggiore serietà morale dei vittoriani diede loro tutto
+il vantaggio che la laboriosità e l'annotazione coscienziosa possono dare;
+ma vi è un senso in cui lo spirito scientifico andò perduto
+proprio nei trionfi dell'età scientifica. Erano così amanti
+delle convinzioni che giunsero prematuramente alle conclusioni.
+Divenuti dubbiosi riguardo alle cose sulle quali la convinzione è
+più preziosa, si aspettarono allora che l'[[Imagination|immaginazione]] speculativa rispondesse
+tanto prontamente e concretamente quanto la [[Conscience|coscienza]]. La conseguenza fu
+che risposero fin troppo presto; e cedettero poi alla [[Temptation|tentazione]]
+di tutti i moralisti, quella di porre il veto a ogni sorta di risposta alla risposta.
+Chiunque legga il resoconto di come gli ortodossi funzionari del darwinismo
+trattarono un vero libero pensatore come Samuel Butler riconoscerà
+da segni inequivocabili che i liberi pensatori darwiniani non pensavano
+più liberamente; potremmo dire che non erano più liberi di pensare.
+La conseguenza è che, a questo [[Time|tempo]], quando quella rigida
+e rispettabile porta d'ingresso vittoriana viene improvvisamente spalancata,
+essa produce l'effetto di una [[Resurrection|resurrezione]] o dello squarciarsi di un sepolcro.
+Ma non c'è bisogno di tanta eccitazione; ed è del tutto possibile
+che la reazione seguìta a una simile [[Resurrection|resurrezione]] spinga troppo oltre.
+Sarà peggio ancora se il mondo verrà nuovamente convertito
+senza essere convinto.

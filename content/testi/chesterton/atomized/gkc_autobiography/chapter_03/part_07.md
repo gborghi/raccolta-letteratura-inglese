@@ -93,68 +93,68 @@ to an end.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
-La maggior parte dei membri del nostro piccolo club, tuttavia, passò così
-alle più antiche Università e furono figure promettenti sia
-sul versante accademico sia su quello sociale e politico; due di loro divennero
-Presidenti dell'[[Union]] di [[Oxford]] e due di quella di Cambridge.
-Oldershaw, in modo abbastanza caratteristico, si ritrovò quasi all'istante
-immerso e impigliato nella fondazione di un altro
-giornale non ufficiale, chiamato il J.C.R., in cui non erano poche
-memorabili curiosità di letteratura; comprese le prime opere di una
+La maggior parte dei membri del nostro piccolo circolo, tuttavia, passarono così
+alle Università più antiche ed erano figure promettenti sia
+sul versante accademico sia su quello sociale e politico; due di loro essendo
+Presidenti dell'[[Union|Unione]] di [[Oxford]] e due di quella di Cambridge.
+Oldershaw, abbastanza tipicamente, fu quasi all'istante trovato
+immerso e invischiato nella fondazione di un altro
+giornale non ufficiale, chiamato il J.C.R., in cui c'erano non poche
+memorabili curiosità letterarie; comprese le prime opere di una
 penna allora a me ignota, ma abbastanza riconoscibile ora in versi come:
-«Dormivamo sul suolo illuminato dal fuoco accanto ai cannoni in Borgogna».
-Bentley, richiesto da una signora poetica di scrivere qualcosa
-adatto al Wordsworth's Seat, non allentò la sua rigida frivolezza
-e compose i semplici versi che così terminano:
+«Sonnecchiavamo sul suolo illuminato dal fuoco accanto ai cannoni in Borgogna.»
+Bentley, essendogli stato richiesto da una signora poetica di scrivere qualcosa
+di adatto al Seggio di Wordsworth, non allentò la sua rigida frivolezza
+e compose i semplici versi che finiscono:
 
-  Pare un peccato certamente
-  che due uomini come noi
-  per un'inezia quale la [[Grave|Tomba]]
-  debbano esser divisi.
+  Sembra davvero un peccato
+  Che due uomini come noi
+  Da un'inezia quale la [[Grave|Tomba]]
+  Debbano essere separati.
   Fu sempre così; avremmo potuto avere
-  un piacevole pomeriggio,
-  ma l'Uomo nasce sempre troppo tardi
-  o altrimenti muore troppo presto.
+  Un piacevole pomeriggio,
+  Ma l'Uomo nasce sempre troppo tardi
+  O altrimenti muore troppo presto.
 
 mentre Lawrence Solomon, il dotto amico ebreo di cui ho parlato,
-scrisse forse la migliore delle parodie dell'Omar di FitzGerald,
-allora un tema alla moda, ammonendo gli studenti a non aspettarsi un Blue
-o un First: «Ché questi non furono per me; come dovrebbero esser per te?».
-Di fatto, credo che egli ottenne un First; ma tutti loro devono aver
-vissuto abbastanza da comprendere l'ulteriore morale:
+scrisse la migliore delle parodie dell'Omar di FitzGerald,
+allora tema alla moda, ammonendo gli studenti a non aspettarsi un Blue
+o un First: «Poiché questi non erano per me; come dovrebbero essere per te?»
+In effetti, credo che egli prese davvero un First; ma tutti loro devono
+aver vissuto abbastanza da rendersi conto dell'ulteriore morale:
 
-  Per chi vince e per chi perde la partita,
-  per te, per me, la fine è la stessa,
-  salire le scale fino alla nostra vecchia stanza del College,
-  guardare sopra la porta; e vedere il nome di un altro.
+  Per chi vince e per chi perde la partita
+  Per te, per me, la fine è la stessa,
+  Salire le scale fino alla nostra vecchia stanza del College
+  Guardare sopra la porta; e vedere il nome di un altro.
 
-Sembrava esserci una generale tendenza, in questi miei compagni di scuola,
-a eccellere nella poesia lieve; Fordham, che andò a Cambridge,
+Sembrava esserci una tendenza generale di questi miei compagni di scuola
+a eccellere nel verso leggero; Fordham, che andò a Cambridge,
 ha scritto molte liriche satiriche che sono state pubblicate
 e molti drammi satirici che dovrebbero essere pubblicati.
-Se qui [[Wind|concludo]] alcune delle storie dei miei vecchi amici, non è
-perché li scacci dai miei ricordi, ma perché devo ammettere
-nelle mie memorie una moltitudine di persone assai meno interessanti.
-Un contrasto nelle loro carriere successive mi ha sempre colpito come un
+Se qui [[Wind|riavvolgo]] alcune delle storie dei miei vecchi amici, non è
+perché li dismetta dai miei ricordi, ma perché devo ammettere
+una moltitudine di persone assai meno interessanti nelle mie memorie.
+Un contrasto nelle loro successive carriere mi ha sempre colpito come un
 curioso caso dell'incalcolabile individualità e libero arbitrio dell'uomo.
 Un amico di Fordham, normale, virile e ambizioso, popolare piuttosto
 nel senso di alla moda, mi colpì sempre come il genere d'uomo che
-sapeva portare l'uniforme in un accampamento o a [[Court|corte]], servendo le virtù ovvie.
-Quando venne la Grande Guerra, divenne un intransigente e anticonformista
-agitatore pacifista. Un altro, un amico di Vernède, uno di quei rari
+poteva indossare un'uniforme in campo o a [[Court|Corte]], servendo le ovvie virtù.
+Quando venne la Grande Guerra, egli divenne un intransigente e anticonvenzionale
+agitatore Pacifista. Un altro, amico di Vernède, uno di quei rari
 tipi spirituali in cui una tradizione puritana è davvero fiorita in
 una piena cultura ellenica, è l'uomo più altruista che io abbia mai conosciuto in vita mia,
-di quella sorta che resta insoddisfatta persino del proprio altruismo.
-Direi che era qualcosa di simile a un santo; ma non mi sarei
-mai sorpreso se fosse stato un Obiettore di Coscienza.
-Di fatto, andò al fronte in un lampo come il [[Fire|fuoco]]; e si fece
-portar via una gamba da un colpo nella sua prima battaglia.
+del genere che è ancora insoddisfatto perfino del proprio altruismo.
+Direi che era qualcosa di piuttosto simile a un santo; ma non mi
+sarei mai sorpreso se fosse stato un Obiettore di Coscienza.
+In effetti, andò al Fronte in un lampo come [[Fire|Fuoco]]; e si fece portar via
+una gamba da un colpo nella sua prima battaglia.
 
-Ma per tutto questo [[Time|tempo]] cose assai bizzarre andavano brancolando e lottando
-dentro la mia stessa mente non ancora sviluppata; e nulla ne ho detto
-in questo capitolo; perché fu il sostenuto e riuscito
-sforzo di gran parte della mia vita scolastica tenerle per me.
-Diedi l'addio ai miei amici quando salirono a [[Oxford]] e a Cambridge;
+Ma per tutto quel [[Time|tempo]] cose assai strane brancolavano e lottavano
+dentro la mia stessa mente non ancora sviluppata; e non ne ho detto nulla
+in questo capitolo; poiché fu lo sforzo sostenuto e riuscito
+di gran parte della mia vita scolastica tenerle per me.
+Dissi addio ai miei amici quando andarono a [[Oxford]] e a Cambridge;
 mentre io, che a quel [[Time|tempo]] ero quasi interamente preso dall'idea
 di disegnare figure, andai a una Scuola d'Arte e portai la mia fanciullezza
 a una fine.

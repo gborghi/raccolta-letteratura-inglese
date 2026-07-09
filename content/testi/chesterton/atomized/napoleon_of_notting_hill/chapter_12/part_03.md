@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12">Chapter 12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_04">part 04 ›</a></div>
@@ -125,3 +127,124 @@ more enduring than stone, and something wilder than the dizziest
 height...the agony of man.  And I knew that compared to that,
 this overwhelming tower was itself a triviality; it was a mere
 stalk of stone which humanity could snap like a stick.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12">Chapter 12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_04">part 04 ›</a></div>
+</nav>
+
+"Un muro di uniformi blu scuro e un bosco di scuri d'arme era
+fra me e Wilson, giacché gli uomini di Barker bloccavano la bocca
+della [[Road|strada]] in due file rigide. Ma attraverso di loro e attraverso
+il crepuscolo potevo udire gli ordini chiari e il cozzare delle armi,
+e vedere il verde esercito di Wilson marciare verso ovest.
+Erano i nostri grandi combattenti. Wilson li aveva riempiti
+del suo proprio [[Fire|fuoco]]; in pochi giorni erano diventati veterani.
+Ognuno di essi portava una medaglia d'argento raffigurante una pompa, per vantarsi che essi [[Alone|soli]]
+di tutti gli eserciti alleati erano rimasti vittoriosi in Pump Street.
+
+"Riuscii a sgusciare oltre il distaccamento dei Blu di Barker, che custodiscono
+l'estremità di Pembridge [[Road]], e un serrato tratto di corsa mi portò
+alla coda del verde esercito di Wilson mentre calava per la [[Road|strada]] all'inseguimento
+del fuggente Wayne. Il crepuscolo si era addensato in un'oscurità quasi totale;
+per qualche [[Time|tempo]] udii solo il pulsare del passo di marcia.
+Poi d'un tratto ci fu un grido, e gli alti combattenti furono respinti
+addosso a me, quasi schiacciandomi, e di nuovo le lanterne oscillarono e tintinnarono
+e le fredde froge di grandi cavalli si spinsero nella calca di noi.
+Si erano voltati e ci avevano caricati.
+
+"'Sciocchi!' venne la voce di Wilson, fendendo il nostro panico con una
+splendida fredda ira; 'Non vedete? i cavalli non hanno cavalieri!'
+
+"Era vero. Eravamo travolti da una fuga precipitosa di cavalli
+dalle selle vuote. Cosa poteva significare? Aveva Wayne incontrato alcuni dei nostri
+uomini ed era stato sconfitto? O ci aveva scagliato questi cavalli come qualche
+sorta di stratagemma o folle nuovo modo di guerra, tale quale sembrava intento
+a inventare? O egli e i suoi uomini volevano svignarsela travestiti?
+O volevano nascondersi in qualche casa?
+
+"Mai ammirai l'intelletto di alcun uomo (nemmeno il mio) quanto ammirai
+quello di Wilson in quell'istante. Senza una parola, egli puntò semplicemente l'alabarda
+(che ancora impugnava) verso il lato meridionale della [[Road|strada]].
+Come sapete, le strade che salgono al crinale di Campden [[Hill]] dalla
+[[Road|strada]] maestra sono singolarmente ripide, sono più simili a improvvise rampe
+di scale. Eravamo giusto di fronte ad Aubrey [[Road]], la più ripida di tutte;
+su per quella sarebbe stato assai più difficile spingere cavalli mezzo
+addestrati che salire di corsa a piedi.
+
+"'Conversione a [[Wheel|sinistra]]!' urlò Wilson. 'Sono saliti quassù,'
+aggiunse a me, che mi trovavo per caso al suo fianco.
+
+"'Perché?' arrischiai di chiedere.
+
+"'Non saprei dirlo con certezza,' rispose il generale di Bayswater.
+'Sono saliti quassù in gran fretta, comunque. Hanno semplicemente
+lasciato liberi i loro cavalli, perché non potevano portarli su.
+Credo di sapere. Credo che stiano cercando di valicare il crinale
+verso Kensington o Hammersmith, o dovunque, e stiano puntando su
+qui perché è appena oltre l'estremità della nostra linea. Maledetti sciocchi,
+a non essere andati oltre lungo la [[Road|strada]], però. Hanno appena rasentato
+il nostro ultimo avamposto. Lambert è a malapena a quattrocento metri da qui.
+E gli ho mandato avviso.'
+
+"'Lambert!' dissi. 'Non il giovane Wilfrid Lambert... il mio vecchio amico.'
+
+"'Wilfrid Lambert è il suo nome,' disse il generale; 'era un "uomo
+di mondo"; sciocco tizio con un gran naso. Quel tipo d'uomo
+si offre sempre volontario per qualche guerra o altro. E cosa più buffa,
+di solito non è affatto male a farla, Lambert è decisamente bravo.
+I gialli di West Kensington li ho sempre stimati la parte più debole
+dell'esercito; ma lui li ha rimessi insieme insolitamente [[Well|bene]],
+sebbene sia subordinato a Swindon, che è un [[donkey|somaro]]. Nell'attacco
+da Pembridge [[Road]] l'altra [[Night|notte]] mostrò gran fegato.'
+
+"'Ha mostrato fegato maggiore di quello,' dissi. 'Ha criticato
+il mio senso dell'[[Humour|umorismo]]. Quello fu il suo primo scontro.'
+
+"Questa osservazione andò, mi spiace dirlo, perduta sull'ammirevole
+comandante delle forze alleate. Eravamo nell'atto di scalare
+l'ultima metà di Aubrey [[Road]], che è un pendio così ripido che
+sembrava una carta geografica all'antica appoggiata contro il muro.
+Ci sono file di alberelli, uno sopra l'altro, come nella
+carta geografica all'antica.
+
+"Ne raggiungemmo la cima, ansando alquanto, ed eravamo giusto sul punto di svoltare
+l'angolo presso un luogo chiamato (in cavalleresca anticipazione delle nostre guerre di
+[[Sword|spada]] e ascia) Tower Crécy, quando fummo d'un tratto colpiti allo stomaco
+(non posso usare altro termine) da un'orda di uomini scagliati indietro su di noi.
+Portavano l'uniforme rossa di Wayne; le loro alabarde erano spezzate;
+le loro fronti sanguinanti; ma la mera spinta della loro ritirata
+ci fece barcollare mentre stavamo all'ultimo dosso del pendio,
+
+"'Bravo vecchio Lambert!' urlò d'un tratto lo stolido signor Wilson
+di Bayswater, in un'eccitazione incontenibile. 'Maledettamente gioviale
+vecchio Lambert! È già arrivato lassù! Li sta ricacciando su di noi!
+Urrà! urrà! Avanti le Guardie Verdi!'
+
+"Svoltammo l'angolo verso est, con Wilson che correva per primo,
+brandendo l'alabarda.
+
+"Vorrete perdonare un po' di egotismo? A tutti piace un po' di egotismo,
+quando prende la forma, come la mia in questo caso, di una
+confessione vergognosa. La cosa è davvero un poco interessante,
+perché mostra come la mera abitudine artistica abbia morso uomini
+come me. Fu l'avvenimento più intensamente eccitante che mai
+mi fosse capitato in vita mia; ed ero davvero intensamente eccitato per esso.
+E tuttavia, mentre svoltavamo quell'angolo, la prima impressione che ebbi
+fu di qualcosa che non aveva nulla a che fare con la lotta.
+Fui colpito dal cielo come da un fulmine, dall'altezza
+della Torre dell'Acquedotto su Campden [[Hill]]. Non so se
+i londinesi in genere si rendano conto di quanto alta appaia quando si esce,
+in questo modo, quasi immediatamente sotto di essa. Per un secondo mi parve
+che ai suoi piedi persino la guerra umana fosse una banalità.
+Per un secondo mi sentii come se fossi stato ebbro di qualche futile orgia,
+e come se fossi stato dissetato dallo shock di quell'[[Shadow|ombra]].
+Un momento dopo, mi resi conto che sotto di essa si svolgeva qualcosa
+di più duraturo della pietra, e qualcosa di più selvaggio della più vertiginosa
+altezza... l'agonia dell'uomo. E capii che paragonata a quella,
+questa torre soverchiante era essa stessa una banalità; era un mero
+stelo di pietra che l'umanità avrebbe potuto spezzare come un bastoncino.

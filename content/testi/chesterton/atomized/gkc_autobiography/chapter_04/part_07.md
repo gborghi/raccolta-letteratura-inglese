@@ -100,12 +100,77 @@ a little useful to other lunatics.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_05/part_01">part 01 ›</a></div>
 </nav>
 
-Mi soffermo qui sul punto, perché è di una certa importanza per la comprensione di quel [[Time|tempo]]. Mi è stato spesso chiesto che cosa io intenda con quel mostruoso orco da pantomima che veniva chiamato [[Sunday]] in quella storia; e alcuni hanno suggerito, e in un certo senso non a torto, che egli fosse inteso come una versione blasfema del Creatore. Ma il punto è che l'intera storia è un [[nightmare|incubo]] delle cose, non quali sono, ma quali apparivano al giovane mezzo pessimista degli anni '90; e l'orco che appare brutale ma è anche cripticamente benevolo non è tanto Dio, nel senso della religione o dell'irreligione, ma piuttosto la [[Nature]] quale appare al panteista, il cui panteismo sta faticosamente emergendo dal pessimismo. Nella misura in cui la storia aveva un qualche senso, essa era intesa a cominciare con il quadro del mondo al suo peggio e a lavorare verso la suggestione che il quadro non fosse così nero come già era stato dipinto. Spiegai che l'intera cosa fu buttata fuori nel nichilismo degli anni '90, nei versi dedicatori che scrissi al mio amico Bentley, che aveva attraversato lo stesso periodo e gli stessi problemi; chiedendo retoricamente: «Chi comprenderà, se non tu?». In risposta a ciò un recensore osservò assai sensatamente che se nessuno comprendeva il libro tranne il signor Bentley, sembrava irragionevole chiedere ad altri di leggerlo.
+Mi fermo sul punto qui, perché è di una certa importanza
+per la comprensione di quel [[Time|periodo]]. Mi è stato spesso chiesto che cosa
+intendessi con il mostruoso orco da pantomima chiamato [[Sunday|Domenica]] in
+quella storia; e alcuni hanno suggerito, e in un senso non falsamente,
+che fosse inteso come una versione blasfema del Creatore. Ma il punto è
+che l'intera storia è un [[nightmare|incubo]] delle cose,
+non come sono, ma come parevano al giovane semi-pessimista
+degli anni '90; e l'orco che appare brutale ma è anche criptamente
+benevolo non è tanto Dio, nel senso della religione
+o dell'irreligione, ma piuttosto la [[Nature|Natura]] come appare al panteista,
+il cui panteismo sta lottando per uscire dal pessimismo. Per quanto la storia
+avesse un qualche senso in sé, era inteso a cominciare con l'immagine
+del mondo al suo peggio e a lavorare verso il suggerimento
+che l'immagine non fosse così nera come già era dipinta.
+Spiegai che l'intera cosa era gettata fuori nel nichilismo degli
+anni '90 nei versi dedicatori che scrissi al mio amico Bentley,
+che era passato attraverso lo stesso periodo e gli stessi problemi; chiedendo retoricamente:
+«Chi comprenderà se non tu?» In risposta a ciò un recensore
+osservò assai sensatamente che se nessuno comprendeva il libro tranne
+il signor Bentley, pareva irragionevole chiedere ad altre persone di leggerlo.
 
-Ma ne parlo qui perché, benché venisse all'inizio della storia, era destinato ad assumere un altro significato prima della fine di essa. Senza quel remoto seguito, il [[Memory|ricordo]] può apparire tanto privo di senso quanto il libro; ma per il momento posso soltanto lasciare qui agli atti i due fatti a cui riuscii in qualche modo e in qualche senso a testimoniare. In primo luogo, stavo cercando vagamente di fondare un nuovo ottimismo, non sul massimo ma sul minimo di bene. Non mi importava tanto del pessimista che si lamentava che ci fosse così poco bene. Ma ero furioso, fino a voler uccidere, con il pessimista che chiedeva a che cosa servisse il bene. E in secondo luogo, perfino nei primissimi giorni e perfino per le peggiori ragioni, sapevo già troppo per fingere di sbarazzarmi del male. Introdussi alla fine una figura che davvero, con piena consapevolezza, nega e sfida il bene. Molto tempo dopo Padre Ronald Knox mi disse, alla sua maniera bizzarra, di essere sicuro che il resto del libro sarebbe stato usato per provare che io ero un Panteista e un Pagano, e che i Critici Superiori del futuro avrebbero facilmente dimostrato che l'episodio dell'Accusatore era un'interpolazione dei preti.
+Ma ne parlo qui perché, benché venisse all'inizio
+della storia, era destinato ad assumere un altro significato prima
+della fine di essa. Senza quel remoto seguito, la [[Memory|Memoria]] può apparire
+priva di significato come il libro; ma per il momento posso solo lasciare a
+verbale qui i due fatti a cui riuscii chissà come e in qualche senso
+a testimoniare. Primo, cercavo vagamente di fondare un nuovo ottimismo,
+non sul massimo ma sul minimo del bene. Non mi
+spiaceva tanto il pessimista che si lamentava che ci fosse così poco bene.
+Ma ero furioso, fino all'omicidio, con il pessimista che chiedeva
+quale fosse il bene del bene. E secondo, perfino nei primissimi
+giorni e perfino per le peggiori ragioni, sapevo già troppo
+per fingere di sbarazzarmi del male. Introdussi alla fine una figura
+che davvero, con piena comprensione, nega e sfida il bene.
+Molto tempo dopo Padre Ronald Knox mi disse, alla sua maniera capricciosa,
+che era sicuro che il resto del libro sarebbe stato usato per dimostrare
+che io ero un Panteista e un Pagano, e che gli Alti Critici
+del futuro avrebbero facilmente mostrato che l'episodio dell'Accusatore
+era un'interpolazione dei preti.
 
-Non era così; anzi era proprio il contrario. In quel [[Time|tempo]] sarei stato altrettanto seccato quanto chiunque altro nel raggio di miglia, se avessi trovato un prete a immischiarsi nelle mie faccende o a interpolare cose nel mio manoscritto. Misi quella affermazione in quella storia, testimoniando l'estremo male (che è semplicemente il peccato imperdonabile di non desiderare di essere perdonati), non perché l'avessi appreso da alcuno del milione di preti che non avevo mai incontrato, ma perché l'avevo appreso da me stesso. Ero già del tutto certo che avrei potuto, se avessi voluto, recidermi dall'intera vita dell'universo. Mia moglie, quando le si chiede chi l'abbia convertita al Cattolicesimo, risponde sempre: «il diavolo».
+Non era così; anzi era proprio il contrario.
+In quel [[Time|periodo]] sarei stato altrettanto irritato di chiunque
+altro per miglia intorno, se avessi trovato un prete a interferire
+coi miei affari o a interpolare cose nel mio manoscritto.
+Misi quell'affermazione in quella storia, testimoniando l'estremo male
+(che è meramente il peccato imperdonabile di non voler essere perdonati),
+non perché l'avessi imparato da alcuno del milione di preti
+che non avevo mai incontrato, ma perché l'avevo imparato da me stesso.
+Ero già del tutto certo che avrei potuto, se avessi scelto, tagliarmi
+fuori dall'intera vita dell'universo. Mia moglie, quando le si chiede
+chi la convertì al Cattolicesimo, risponde sempre: «il diavolo».
 
-Ma tutto ciò avvenne tanto tempo dopo, che non ha alcuna relazione con la brancolante e congetturale [[philosophy|filosofia]] della storia in questione. Preferirei di gran lunga citare un tributo da parte di un tipo d'uomo del tutto diverso, che fu nondimeno uno dei pochissimi uomini che, per una ragione o per l'altra, siano mai riusciti a raccapezzarsi in questa sventurata [[Romance|storia romanzesca]] della mia giovinezza. Era un illustre psicoanalista, del tipo più moderno e scientifico. Non era un prete; tutt'altro; potremmo dire, come il francese a cui si chiedeva se avesse pranzato sul battello: «au contraire». Non credeva nel Diavolo; Dio non voglia, se c'era un Dio a non volerlo. Ma era uno studioso assai acuto e ardente della propria materia; e mi fece rizzare i capelli in testa dicendo che aveva trovato la mia storia assai giovanile utile come correttivo tra i suoi pazienti morbosi; specialmente il procedimento per cui ciascuno degli anarchi diabolici si rivela essere un buon cittadino travestito. «Conosco un certo numero di uomini che per poco non impazzirono», disse assai gravemente, «ma furono salvati perché avevano davvero compreso The Man Who Was [[thursday|Thursday]]». Egli dev'essere stato piuttosto generosamente esagerato; può darsi che fosse pazzo lui stesso, s'intende; ma allora lo ero anch'io. Confesso però che mi lusinga pensare che, in questo mio periodo di pazzia, io possa essere stato un poco utile ad altri pazzi.
+Ma tutto ciò avvenne così molto tempo dopo, che non ha alcuna relazione
+con la brancolante e congetturale [[philosophy|filosofia]] della storia in questione.
+Preferirei di gran lunga citare un tributo da un tipo d'uomo del tutto diverso,
+che era nondimeno uno dei pochissimi uomini che, per qualche ragione
+o l'altra, abbiano mai capito qualcosa di questo sfortunato [[Romance|Romanzo]]
+della mia giovinezza. Era un distinto psicoanalista, del più moderno
+e scientifico genere. Non era un prete; tutt'altro; potremmo dire,
+come il francese cui si chiese se avesse pranzato sulla barca, «au contraire».
+Non credeva nel Diavolo; Dio non voglia, se c'era un qualche Dio
+a non volerlo. Ma era uno studioso assai acuto e zelante del proprio soggetto;
+e mi fece rizzare i capelli dicendo che aveva trovato la mia
+assai giovanile storia utile come correttivo tra i suoi pazienti morbosi;
+specialmente il processo per cui ciascuno degli anarchici diabolici
+si rivela essere un buon cittadino in incognito. «Conosco un certo numero
+di uomini che quasi impazzirono,» disse assai gravemente, «ma furono salvati
+perché avevano davvero compreso The Man Who Was [[thursday|Thursday]].»
+Deve essere stato piuttosto generosamente esagerato; può darsi che fosse
+egli stesso pazzo, s'intende; ma d'altronde lo ero anch'io. Ma confesso che mi lusinga
+pensare che, in questo mio periodo di follia, io possa essere stato
+un po' utile ad altri folli.
 
 *****

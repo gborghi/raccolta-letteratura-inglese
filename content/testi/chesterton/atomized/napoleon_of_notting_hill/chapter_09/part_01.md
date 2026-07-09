@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09">Chapter 09</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09/part_02">part 02 ›</a></div>
@@ -149,3 +151,78 @@ with great good temper."
 Buck looked genuinely pleased, for business men are all simple-minded,
 and have therefore that degree of communion with fanatics.  The [[King]],
 for some reason, looked, for the first [[Time|time]] in his life, ashamed.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09">Chapter 09</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO III
+
+L'ESPERIMENTO DI MR. BUCK
+
+UN'accorata ed eloquente petizione fu inoltrata al [[King|Re]] firmata coi nomi di Wilson, Barker, Buck, Swindon e altri. Vi si sosteneva che, all'imminente conferenza da tenersi alla presenza di Sua Maestà circa la definitiva destinazione della proprietà di Pump Street, non si sarebbe ritenuto incompatibile col decoro politico e con l'indicibile rispetto che essi nutrivano per Sua Maestà se fossero comparsi in ordinario abito da mattina, senza il costume decretato per loro come Prevosti. Così accadde che la compagnia comparve a quel consiglio in redingote e che il [[King|Re]] stesso limitò il suo [[Love|amore]] per la cerimonia comparendo (secondo la sua non insolita maniera) in abito da sera con un solo ordine... in questo caso non la Giarrettiera, ma il distintivo del Club dei Migliori Compari del Vecchio Clipper, decorazione ottenuta (con difficoltà) da un giornaletto per ragazzi da mezzo penny. Così pure accadde che l'unica macchia di colore nella sala fosse [[Adam Wayne]], che entrò con grande dignità con la grande veste rossa e la grande [[Sword|spada]].
+
+«Ci siamo riuniti», disse Auberon, «per decidere il più arduo dei problemi moderni. Che si possa aver successo.» E si sedette con gravità.
+
+Buck girò un poco la sedia e accavallò una gamba sull'altra.
+
+«Vostra maestà», disse, di ottimo umore, «c'è solo una cosa che non riesco a capire, ed è perché questa faccenda non si risolva in cinque minuti. Ecco una piccola proprietà che per noi vale mille e non vale cento per chiunque altro. Noi offriamo i mille. Non è da uomini d'affari, lo so, perché dovremmo ottenerla per meno, e non è ragionevole e non è giusto verso di noi, ma che io sia dannato se riesco a capire perché sia difficile.»
+
+«La difficoltà si può esporre assai semplicemente», disse Wayne. «Potete offrire un milione e vi sarà molto difficile ottenere Pump Street.»
+
+«Ma, sentite qui, Mr. Wayne», esclamò Barker, intervenendo con una specie di fredda concitazione. «Sentite un po'. Non avete alcun diritto di assumere una posizione simile. Avete il diritto di tener duro per un prezzo maggiore, ma non è ciò che state facendo. State rifiutando quella che voi e ogni uomo sano di mente sapete essere un'offerta splendida, per pura malizia o dispetto... dev'essere malizia o dispetto. E quel genere di cosa è davvero criminale; è contro il bene pubblico; il [[government|Governo]] del [[King|Re]] sarebbe giustificato nel costringervi.»
+
+Con le magre dita distese sul tavolo fissava ansiosamente il volto di Wayne, che non si mosse.
+
+«Nel costringervi... lo sarebbe», ripeté.
+
+«Lo farà», disse Buck, in breve, voltandosi verso il tavolo con uno scatto. «Abbiamo fatto del nostro meglio per essere corretti.»
+
+Wayne sollevò lentamente i grandi occhi.
+
+«È stato mio Lord Buck», domandò, «a dire che il [[King|Re]] d'Inghilterra 'farà' qualcosa?»
+
+Buck arrossì e disse stizzito:
+
+«Voglio dire che deve... che dovrebbe, come dico abbiamo fatto del nostro meglio per essere generosi. Sfido chiunque a negarlo. Stando così le cose, Mr. Wayne, non voglio dire una parola scortese. [[Hope|Spero]] non sia scortese dire che potete, e dovreste, essere in prigione. È criminale fermare i lavori pubblici per un capriccio. Un uomo potrebbe [[Well|anche]] bruciare diecimila cipolle nel suo [[Garden|giardino]] davanti a casa o allevare i figli perché corrano nudi per strada, come fare ciò che dite di aver diritto di fare. La gente è stata costretta a vendere anche in passato. Il [[King|Re]] potrebbe costringervi, e [[Hope|spero]] che lo farà.»
+
+«Finché non lo fa», disse Wayne, con calma, «la potenza e il [[government|governo]] di questa grande nazione sono dalla mia parte e non dalla vostra, e vi sfido a sfidarli.»
+
+«In che senso», esclamò Barker, coi suoi occhi e le sue mani febbrili, «il [[government|Governo]] è dalla vostra parte?»
+
+Con un solo gesto squillante Wayne srotolò una grande pergamena sul tavolo. Era decorata lungo i margini con selvaggi schizzi ad [[Water|acquerello]] di consiglieri parrocchiali con corone e ghirlande.
+
+«La Carta delle Città», cominciò.
+
+Buck esplose in una bestemmia brutale e rise.
+
+«Quello scherzo da buffone. Non ne abbiamo avuto abbastanza...»
+
+«Ed eccovi lì seduto», esclamò Wayne, scattando in piedi e con una voce come una tromba, «senza altro argomento che insultare il [[King|Re]] in faccia.»
+
+Anche Buck [[Rose|si alzò]] con occhi fiammeggianti.
+
+«Non è facile intimidirmi», cominciò... e i lenti toni del [[King|Re]] intervennero con incomparabile gravità:
+
+«Mio Lord Buck, devo pregarvi di ricordare che il vostro [[King|Re]] è presente. Non è spesso che egli abbia bisogno di proteggersi tra i suoi sudditi.»
+
+Barker si volse a lui con gesti frenetici.
+
+«Per l'amor di Dio, non spalleggiate ora il pazzo», implorò. «Fate il vostro scherzo un'altra [[Time|volta]]. Oh, per amor del Cielo...»
+
+«Mio Lord Prevosto di South Kensington», disse [[King|Re]] Auberon, con fermezza. «Non seguo le vostre osservazioni, pronunciate con una rapidità insolita a [[Court|Corte]]. Né i vostri [[Well|ben]] intenzionati sforzi di trasmettere il resto con le dita mi assistono materialmente. Dico che il mio Lord Prevosto di North Kensington, cui parlavo, non dovrebbe alla presenza del suo Sovrano parlare irrispettosamente delle ordinanze del suo Sovrano. Siete in disaccordo?»
+
+Barker si agitò irrequieto sulla sedia, e Buck imprecò senza parlare. Il [[King|Re]] proseguì con voce tranquilla:
+
+«Mio Lord Prevosto di Notting [[Hill]], procedete.»
+
+Wayne volse i suoi occhi azzurri sul [[King|Re]], e con sorpresa di tutti vi era in essi non uno sguardo di trionfo, ma di una certa infantile angoscia.
+
+«Mi dispiace, vostra Maestà», disse; «[[Fear|temo]] di essere stato più che egualmente in colpa col Lord Prevosto di North Kensington. Discutevamo con una certa foga, e entrambi ci [[Rose|alzammo]] in piedi. Fui io a farlo per primo, mi vergogno a dirlo. Il Prevosto di North Kensington è, quindi, comparativamente [[Innocent|innocente]]. Supplico vostra Maestà di rivolgere il vostro rimprovero principalmente, almeno, a me. Mr. Buck non è [[Innocent|innocente]], poiché senza [[Doubt|dubbio]], nel calore del momento, parlò irrispettosamente. Ma il resto della discussione mi pare l'abbia condotto con grande buon umore.»
+
+Buck parve sinceramente compiaciuto, poiché gli uomini d'affari sono tutti d'animo semplice, e hanno perciò quel grado di comunione coi fanatici. Il [[King|Re]], per qualche ragione, parve, per la prima [[Time|volta]] in vita sua, vergognarsi.

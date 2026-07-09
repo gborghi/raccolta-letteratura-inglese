@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_03">part 03 ›</a></div>
@@ -145,3 +147,144 @@ conviction would have been heightened by the yellow aquiline face,
 like [[Dante]] carved in bronze, which [[Rose|rose]], crowned with white hair,
 out of the green military collar, a keen and distinguished,
 but not an English face.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">Chapter 02</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_03">part 03 ›</a></div>
+</nav>
+
+I due giovanotti davanti erano, come il piccolo giovanotto stesso,
+[[Well|ben]] vestiti. Le linee delle loro finanziere e dei loro cilindri avevano quella
+lussureggiante severità che rende il moderno bellimbusto, per quanto orribile,
+un esercizio prediletto del moderno disegnatore; quell'elemento che
+il signor Max Beerbohm ha mirabilmente espresso parlando di "certe
+congruità di panno scuro e la rigida perfezione della biancheria."
+
+Camminavano con l'andatura di una lumaca affettata, e parlavano a
+intervalli lunghissimi, lasciando cadere una frase ogni sei lampioni circa.
+
+Strisciavano oltre i lampioni; il loro contegno era così immobile
+che una descrizione fantasiosa potrebbe quasi dire che erano i lampioni
+a strisciare oltre gli uomini, come in [[A Dream|un sogno]]. Poi il piccolo uomo improvvisamente
+corse dietro a loro e disse:
+
+"Voglio farmi tagliare i capelli. Dico, conoscete una botteguccia da qualche parte
+dove tagliano i capelli come si deve? Continuo a farmi tagliare i capelli,
+ma continuano a ricrescere."
+
+Uno degli uomini alti lo guardò con l'aria di un naturalista addolorato.
+
+"Ma guarda, ecco un posticino," gridò il piccolo uomo, con una sorta
+di imbecille allegria, mentre la [[Window|vetrina]] luminosa e sporgente di un
+elegante salone di toeletta risplendeva bruscamente fuori dal crepuscolo nebbioso.
+"Sapete, trovo spesso parrucchieri quando cammino per [[London|Londra]].
+Pranzerò con voi da Cicconani. Sapete, vado matto per
+le botteghe dei parrucchieri. Sono mille volte meglio di quei brutti macellai."
+E scomparve nell'ingresso.
+
+L'uomo chiamato James continuò a fissarlo, un monocolo avvitato
+nell'occhio.
+
+"Che diavolo ne dici di quel tipo?" chiese al suo compagno,
+un giovane pallido dal naso alto.
+
+Il giovane pallido rifletté coscienziosamente per qualche minuto,
+e poi disse:
+
+"Ha preso una botta in testa da bambino, direi."
+
+"No, non credo sia quello," rispose l'onorevole [[James Barker]].
+"A volte ho immaginato che fosse una specie di [[Artist|artista]], Lambert."
+
+"Sciocchezze!" gridò il signor Lambert, seccamente.
+
+"Ammetto di non riuscire a decifrarlo," riprese Barker, distrattamente;
+"non apre mai bocca senza dire qualcosa di così indescrivibilmente
+scempio che chiamarlo [[Fool|sciocco]] pare il più fiacco
+tentativo di caratterizzazione. Ma c'è un'altra cosa di lui
+piuttosto buffa. Sai che possiede l'unica collezione
+di lacca giapponese in Europa? Hai mai visto i suoi libri?
+Tutti poeti greci e francesi medievali e roba del genere.
+Sei mai stato nelle sue stanze? È come stare dentro un'ametista.
+E lui si muove in mezzo a tutto quello e parla come... come una rapa."
+
+"[[Well|Beh]], al diavolo tutti i libri. Anche i tuoi libri blu, del [[Well|pari]]," disse l'ingenuo
+signor Lambert, con amichevole semplicità. "Tu dovresti capire
+queste cose. Che ne fai di lui?"
+
+"È al di là di me," ribatté Barker. "Ma se mi chiedessi
+la mia opinione, direi che è un uomo con un debole per l'assurdo,
+come lo chiamano... la buffoneria artistica, e tutto quel genere di cose.
+E credo seriamente che abbia detto tante sciocchezze
+da aver mezzo sconvolto la propria mente e non sappia più
+la differenza tra [[Sanity|senno]] e follia. Ha fatto il giro
+del mondo mentale, per così dire, e ha trovato il luogo dove l'Oriente
+e l'Occidente sono una cosa sola, e l'idiozia estrema è buona quanto il buon senso.
+Ma non so spiegare questi giochi psicologici."
+
+"A me non li sai spiegare," rispose il signor Wilfrid Lambert, con candore.
+
+Mentre risalivano le lunghe strade verso il loro ristorante il crepuscolo
+ramato si schiarì lentamente in un giallo pallido, e nel [[Time|momento]] in cui lo
+raggiunsero si stagliavano distinguibili in una tollerabile luce di giorno [[Winter|invernale]].
+L'onorevole [[James Barker]], uno dei più potenti funzionari
+del [[government|Governo]] inglese (a questo [[Time|punto]] rigidamente ufficiale),
+era un giovane magro ed elegante, dal volto inespressivo e bello e
+occhi azzurri e gelidi. Aveva una grande capacità intellettuale,
+di quella peculiare specie che eleva un uomo di trono in trono
+e lo lascia morire carico di onori senza aver mai né dilettato
+né illuminato la mente di un solo uomo. Wilfrid Lambert, il giovane
+dal naso che pareva impoverire il resto del suo volto,
+aveva anch'egli contribuito ben poco all'ampliamento dello spirito umano,
+ma aveva l'onorevole scusa di essere uno [[Fool|sciocco]].
+
+Lambert sarebbe stato definito un uomo sciocco; Barker, con tutta
+la sua astuzia, avrebbe potuto essere definito un uomo stupido.
+Ma la mera sciocchezza e stupidità sprofondavano nell'insignificanza in
+presenza dei terribili e misteriosi tesori di follia
+apparentemente accumulati nella piccola figura che stava ad attenderli
+fuori da Cicconani. Il piccolo uomo, il cui nome era [[Auberon Quin]],
+aveva un aspetto composto da un neonato e da un gufo. La sua testa tonda,
+gli occhi tondi, sembravano essere stati disegnati dalla [[Nature|Natura]] per gioco
+con un paio di compassi. I suoi capelli piatti e scuri e la finanziera
+assurdamente lunga gli davano qualcosa dell'aria del "Noè" di un [[Child|bambino]].
+Quando entrava in una stanza di sconosciuti, lo scambiavano per un ragazzino,
+e volevano prenderlo sulle ginocchia, finché non parlava, quando
+si accorgevano che un ragazzino sarebbe stato più intelligente.
+
+"Aspetto già da parecchio [[Time|tempo]]," disse Quin, mitemente.
+"È terribilmente buffo che finalmente vi veda arrivare su per la strada."
+
+"Perché?" chiese Lambert, fissandolo. "Ci hai detto tu stesso di venire qui."
+
+"Mia madre soleva dire alla gente di andare in certi posti," disse il saggio.
+
+Stavano per svoltare nel ristorante con aria rassegnata,
+quando i loro occhi furono attratti da qualcosa nella strada.
+Il tempo, benché freddo e spento, era ora del tutto sereno, e attraverso
+il bruno spento della pavimentazione di legno e tra le grigie e spente terrazze
+si muoveva qualcosa che non si vedeva per miglia all'intorno... che forse non
+si vedeva a quel [[Time|tempo]] in Inghilterra... un uomo vestito di colori vivaci.
+Una piccola folla gli stava alle calcagna.
+
+Era un uomo alto e maestoso, avvolto in un'uniforme militare di verde brillante,
+schizzata di grandi mostreggiature d'argento. Dalla spalla pendeva un corto
+mantello di pelliccia verde, un po' come quello di un ussaro, la cui fodera
+balenava di tanto in tanto di una sorta di cremisi fulvo.
+Il petto gli scintillava di medaglie; intorno al collo aveva il nastro
+rosso e la stella di qualche ordine straniero; e una lunga e diritta [[Sword|spada]],
+dall'elsa fiammeggiante, si trascinava e tintinnava lungo il selciato.
+A quel [[Time|tempo]] lo sviluppo pacifico e utilitario dell'Europa aveva
+relegato tutte queste usanze nei Musei. L'unica forza rimasta,
+la piccola ma [[Well|ben]] organizzata polizia, era agghindata in modo cupo e
+igienico. Ma perfino coloro che ricordavano le ultime Guardie a Cavallo
+e i Lancieri scomparsi nel 1912 devono aver capito a colpo d'occhio
+che quella non era, e non era mai stata, un'uniforme inglese; e questa
+convinzione sarebbe stata accresciuta dal volto giallo e aquilino,
+come [[Dante]] scolpito nel bronzo, che si [[Rose|levava]], coronato di capelli bianchi,
+dal verde colletto militare, un volto acuto e distinto,
+ma non un volto inglese.

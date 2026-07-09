@@ -780,162 +780,745 @@ fisher in a far province, beside a small and almost secret sea.
 
 XVI
 
-IL DIO DALLA CHIAVE D'ORO
+IL DIO CON LA CHIAVE D'ORO
 
-Qualche [[Time|tempo]] fa, comodamente seduto in una sera d'[[Summer|estate]]
-e prendendo in serena rassegna una vita indifendibilmente fortunata e
-felice, calcolai di dover aver commesso almeno cinquantatré omicidi, e di
-essermi occupato di nascondere una cinquantina di cadaveri allo scopo di
-occultare dei delitti; appendendone uno a un attaccapanni, ficcandone un
-altro nella borsa di un postino, decapitandone un terzo e provvedendolo
-della testa di qualcun altro, e così via, attraverso un buon numero di
-[[Innocent|innocenti]] artifici di tal genere. È vero che ho perpetrato la
-maggior parte di queste atrocità sulla carta; e raccomando vivamente al
-giovane studente, salvo casi estremi, di dare espressione ai propri impulsi
-criminali in questa forma; e di non correre il rischio di rovinare una bella
-e [[Well|ben]] proporzionata idea abbassandola al piano del bruto
-esperimento materiale, dove troppo spesso patisce le imperfezioni impreviste
-e le delusioni di questo mondo decaduto, e reca con sé varie sgradite e
-indegne conseguenze sociali e legali. Ho spiegato altrove che una volta
-compilai una scientifica tavola dei Venti Modi di Uccidere una Moglie e
-sono riuscito a preservarli tutti nella loro indisturbata compiutezza
-artistica, cosicché è possibile per l'[[Artist|artista]], in un certo senso,
-aver felicemente assassinato venti mogli e tuttavia conservare, dopotutto,
-la moglie originaria; un vantaggio ulteriore che in molti casi, e
-specialmente nel mio, non è privo di pregi. Laddove, per l'[[Artist|artista]],
-sacrificare la propria moglie e forse il proprio collo per la mera, volgare
-e teatrale rappresentazione pratica di uno di questi drammi ideali,
-significa perdere non solo questo, ma tutto il godimento ideale degli altri
-diciannove. Essendo questo il mio rigoroso principio, dal quale non ho mai
-vacillato, nulla è mai valso a troncare la ricca accumulazione di cadaveri
-immaginari; e, come dico, ne ho già accumulati parecchi. Il mio nome
-raggiunse una certa notorietà come quello di uno scrittore di questi
-racconti sanguinari, comunemente detti racconti [[Detective|polizieschi]];
-certi editori e certe riviste hanno finito per contare su di me per simili
-inezie; e sono ancora tanto gentili, di [[Time|tempo]] in [[Time|tempo]], da
-scrivermi ordinando una nuova infornata di cadaveri; generalmente in
-partite di otto per [[Time|volta]].
+Qualche [[Time|tempo]] fa, seduto a mio agio in una sera d'[[Summer|estate]] e passando
+in serena rassegna una vita indifendibilmente fortunata e felice,
+calcolai che devo aver commesso almeno cinquantatré omicidi,
+e aver avuto a che fare con l'occultamento di circa mezzo centinaio di cadaveri
+allo scopo di celare delitti; appendendo un cadavere
+a un attaccapanni, ficcandone un altro nella borsa di un postino, decapitandone un
+terzo e fornendolo della testa di qualcun altro, e così via
+attraverso un numero piuttosto grande di [[Innocent|innocenti]] artifici del genere.
+È vero che ho messo in scena la maggior parte di queste atrocità sulla carta;
+e raccomando vivamente al giovane studente, salvo casi estremi,
+di dare espressione ai propri impulsi criminali in questa forma;
+e di non correre il rischio di rovinare un'idea bella e [[Well|ben]] proporzionata
+abbassandola al piano del bruto esperimento materiale,
+dove essa troppo spesso patisce le imperviste imperfezioni
+e delusioni di questo mondo decaduto, e reca con sé
+svariate sgradite e indegne conseguenze sociali e legali.
+Ho spiegato altrove che una volta compilai una tavola scientifica
+dei Venti Modi di Uccidere una Moglie e sono riuscito a preservarli
+tutti nella loro indisturbata compiutezza artistica, così che
+è possibile per l'[[Artist|artista]], in un certo senso, aver assassinato con successo
+venti mogli e nondimeno conservare in fin dei conti la moglie originale;
+un ulteriore punto che è, in molti casi, e specialmente nel mio,
+non privo di vantaggi. Mentre, per l'[[Artist|artista]], sacrificare
+la propria moglie e magari il proprio collo, per la mera volgare e teatrale
+presentazione pratica di uno di questi drammi ideali, significa perdere,
+non solo questo, ma tutto il godimento ideale degli altri diciannove.
+Essendo questo il mio rigoroso principio, dal quale non ho mai vacillato,
+non c'è stato nulla a interrompere la ricca accumulazione di
+cadaveri immaginari; e, come dico, ne ho già accumulati
+parecchi. Il mio nome raggiunse una certa notorietà come quello di uno scrittore
+di questi omicidiari racconti brevi, comunemente chiamati storie [[Detective|poliziesche]];
+certi editori e riviste hanno preso a contare su di me per
+tali inezie; e sono ancora così gentili, di [[Time|tempo]] in [[Time|tempo]], da scrivermi
+per ordinarmi una nuova infornata di cadaveri; generalmente in partite
+di otto alla [[Time|volta]].
 
-Chi si sia imbattuto nelle tracce di questa industria saprà forse che un
-gran numero delle mie piccole storie criminali riguardavano una persona di
-nome [[Father Brown]]; un prete cattolico la cui esteriore semplicità e
-interiore sottigliezza formavano qualcosa di abbastanza vicino a un
-personaggio ai fini di questo abbozzato genere di narrazione. E sono sorte
-certe domande, specialmente domande sull'[[Identity|identità]] o
-sull'esattezza del tipo, che non sono state senza effetto su cose più
-importanti.
+Chiunque abbia rinvenuto tracce di questa industria può forse sapere
+che un gran numero delle mie storielle criminali riguardava
+un personaggio chiamato [[Father Brown]]; un prete cattolico la cui esteriore
+semplicità e interiore sottigliezza formavano qualcosa di abbastanza vicino a un
+personaggio ai fini di questo abbozzato genere di narrazione.
+E sono sorte certe questioni, specialmente questioni sull'[[Identity|identità]]
+o l'accuratezza del tipo, che non sono state prive di
+effetto su cose più importanti.
 
-Come ho detto, non ho mai preso molto sul serio i miei romanzi o i miei
-racconti, né immaginato di avere una particolare posizione in qualcosa di
-tanto serio come un [[Novel|romanzo]]. Ma posso al medesimo [[Time|tempo]]
-sostenere che era abbastanza [[Novel|nuovo]] da essere un [[Novel|romanzo]],
-nel senso di non essere storico né biografico; e che persino uno dei miei
-racconti era abbastanza originale da fare a meno di originali. L'idea che un
-personaggio di un [[Novel|romanzo]] debba essere «pensato» per qualcuno o
-«tratto» da qualcuno si fonda su un fraintendimento della [[Nature|natura]]
-della fantasia narrativa, e specialmente di fantasie tanto tenui come le
-mie. Ciononostante, si è comunemente detto che [[Father Brown]] avesse un
-originale nella vita reale; e in un senso particolare e piuttosto personale,
-è vero.
+Come ho detto, non ho mai preso i miei romanzi o racconti
+molto sul serio, né immaginato di avere una qualche particolare statura in qualcosa
+di così serio come un [[Novel|romanzo]]. Ma posso rivendicare allo stesso [[Time|tempo]] che esso
+fu [[Novel|nuovo]] abbastanza da essere [[Novel|romanzo]], nel senso di non essere storico
+o biografico; e che persino uno dei miei racconti fu abbastanza originale
+da fare a meno di originali. L'idea che un personaggio
+di un [[Novel|romanzo]] debba essere «pensato» per qualcuno o «preso da» qualcuno è
+fondata su un fraintendimento della [[Nature|natura]] della fantasia narrativa,
+e specialmente di fantasie così esili come le mie. Nondimeno, si è
+generalmente detto che [[Father Brown]] avesse un originale nella vita reale;
+e in un senso particolare e piuttosto personale, è vero.
 
-L'idea che un romanziere prenda un personaggio di peso e in tutti i suoi
-dettagli da un amico o da un nemico è un abbaglio che ha fatto molto danno.
-Persino i personaggi di Dickens, a un tempo così palesemente creazioni e
-così palesemente caricature, venivano misurati su comuni mortali, come se
-esistessero mortali capaci di calzare esattamente la magnifica statura
-eroicomica di Weller o di Micawber. Ricordo mio padre che mi raccontava come
-alcuni suoi contemporanei si purgassero con indignazione dall'accusa di
-essere il modello del signor Pecksniff; e specialmente come il [[Well|ben]] noto S.
-C. Hall, lo Spiritista, si scagionasse con un'eloquenza che alcuni
-trovarono troppo [[Sublime|sublime]] per essere convincente. «Come si può
-dire che io somigli a Pecksniff?» disse questo degno uomo a mio padre. «Voi
-mi conoscete. Il mondo mi conosce. Il mondo sa che ho dedicato la mia vita
-al bene degli altri, che ho vissuto una vita pura ed elevata, dedita ai più
-alti doveri e ideali, che ho sempre cercato di dare l'esempio della
-[[Truth|verità]], della giustizia, della probità, della purezza e della
-virtù pubblica. Quale somiglianza può esservi tra me e Pecksniff?».
+L'idea che un romanziere prenda un personaggio di peso e in tutti
+i suoi dettagli da un amico o da un nemico è un abbaglio che ha fatto
+un gran danno. Persino i personaggi di Dickens, a un tempo
+così palesemente creazioni e così palesemente caricature, venivano misurati
+contro meri mortali, come se ci fossero mortali capaci di adattarsi
+esattamente alla magnifica statura mock-eroica di Weller o Micawber.
+Ricordo mio padre che mi raccontava come alcuni suoi contemporanei si scagionassero
+indignati dall'accusa di essere il modello del signor Pecksniff;
+e specialmente come il [[Well|ben]] noto S. C. Hall, lo Spiritista,
+si discolpasse con un'eloquenza che alcuni trovarono troppo [[Sublime|sublime]]
+per essere convincente. «Come si può dire che io somiglio a Pecksniff?»
+disse quest'onest'uomo a mio padre. «Voi mi conoscete. Il mondo mi conosce.
+Il mondo sa che ho dedicato la mia vita al bene degli altri,
+che ho vissuto una vita pura ed elevata dedita ai più alti
+doveri e ideali, che ho cercato sempre di dare l'esempio
+della [[Truth|verità]], della giustizia, della probità, della purezza e della pubblica virtù.
+Quale somiglianza può esserci tra me e Pecksniff?»
 
-Quando uno scrittore inventa un personaggio ai fini della narrativa, e
-specialmente della narrativa leggera o fantasiosa, lo corredò di ogni sorta
-di tratti destinati a essere efficaci in quella cornice e contro quello
-sfondo. Egli può aver colto, e probabilmente ha colto, uno spunto da un
-essere umano. Ma non esiterà ad alterare l'essere umano, specialmente negli
-aspetti esteriori, perché non pensa a un ritratto ma a un quadro. In
-[[Father Brown]], il tratto principale era il non avere tratti. Il suo punto
-era di apparire privo di punte; e si potrebbe dire che la sua qualità
-cospicua consistesse nel non essere cospicuo. Il suo esteriore dozzinale era
-inteso a contrastare con la sua insospettata vigilanza e intelligenza; e
-stando così le cose, naturalmente resi il suo aspetto trasandato e
-informe, il suo volto tondo e inespressivo, i suoi modi goffi, e così via.
-Al medesimo [[Time|tempo]], trassi davvero alcune delle sue qualità
-intellettuali interiori dal mio amico, Padre John O'Connor di Bradford, il
-quale non possiede, in verità, nessuna di queste qualità esteriori. Non è
-trasandato, ma piuttosto lindo; non è goffo, ma assai delicato e destro; non
-solo è, ma appare divertente e divertito. È un irlandese sensibile e
-pronto d'ingegno, con la profonda ironia e un po' della potenziale
-irritabilità della sua razza. Il mio [[Father Brown]] fu deliberatamente
-descritto come un budino del Suffolk, dell'Anglia Orientale. Quello, e il
-resto della sua descrizione, era un deliberato travestimento ai fini della
-[[Detective Fiction|narrativa poliziesca]]. Ma con tutto ciò, c'è un senso
-assai reale in cui Padre O'Connor fu l'ispirazione intellettuale di queste
-storie; e [[Well|anche]] di cose ben più importanti. E per spiegare queste
-cose, specialmente quelle importanti, non posso far di meglio che raccontare
-la storia di come la prima idea di questa [[Detective|poliziesca]]
-[[Comedy|commedia]] mi venne in mente.
+Quando uno scrittore inventa un personaggio ai fini della finzione, specialmente
+di una finzione leggera o fantasiosa, lo equipaggia di ogni sorta di tratti
+intesi a risultare efficaci in quella cornice e su quello sfondo.
+Può aver colto, e probabilmente ha colto, uno spunto da un essere umano.
+Ma non esiterà ad alterare l'essere umano, specialmente negli
+esteriori, perché non sta pensando a un ritratto ma a un quadro.
+In [[Father Brown]], il tratto principale era l'essere privo di tratti.
+Il punto di lui era di apparire senza punti; e si potrebbe dire che la sua
+qualità cospicua era il non essere cospicuo. Il suo aspetto ordinario
+era inteso a contrastare con la sua insospettata vigilanza e intelligenza;
+e stando così le cose, naturalmente resi il suo aspetto trasandato e informe,
+la sua faccia tonda e inespressiva, i suoi modi goffi, e così via.
+Allo stesso [[Time|tempo]], presi alcune delle sue intime qualità intellettuali
+dal mio amico, Padre John O'Connor di Bradford,
+il quale non ha, in verità, alcuna di queste qualità esteriori.
+Non è trasandato, ma piuttosto ordinato; non è goffo, ma assai delicato
+e destro; non solo è ma appare divertente e divertito.
+È un Irlandese sensibile e pronto di spirito, con la profonda
+ironia e una parte della potenziale irritabilità della sua razza.
+Il mio [[Father Brown]] fu deliberatamente descritto come un tarchiato del Suffolk
+dell'East Anglia. Questo, e il resto della sua descrizione,
+era un deliberato travestimento ai fini della [[Detective Fiction|narrativa poliziesca]].
+Ma ciononostante, c'è un senso assai reale in cui Padre O'Connor
+fu l'ispirazione intellettuale di queste storie; e di cose ben più
+importanti [[Well|pure]]. E per spiegare queste cose,
+specialmente le cose importanti, non posso far di meglio che raccontare
+la storia di come la prima idea di questa [[Detective|poliziesca]] [[Comedy|commedia]] mi venne
+in mente.
 
-In quei primi tempi, specialmente poco prima e poco dopo il mio matrimonio, fu mio destino vagare per molte parti d'Inghilterra a tenere ciò che, cortesemente, venivano chiamate conferenze. Vi è un notevole appetito per simili tetri intrattenimenti, soprattutto nel nord dell'Inghilterra, nel sud della Scozia e in certi attivi centri anticonformisti perfino nei sobborghi di [[London|Londra]]. Al pronunciare la parola «tetro» mi torna alla [[Memory|memoria]] un particolare tempietto, situato nelle ultime lande anonime a nord di [[London|Londra]], al quale dovetti letteralmente aprirmi la via attraverso una [[Storm|tormenta]] di [[Snow|neve]] accecante, cosa di cui godetti moltissimo, perché mi piacciono le tormente di neve. A dire il vero, mi piacciono praticamente tutti i tipi di tempo inglese, tranne quel particolare tipo di tempo che si chiama «una splendida giornata». Nessuno dunque versi lacrime premature sulla mia esperienza, né immagini che io mi stia compiangendo o chiedendo compassione. Resta tuttavia il fatto che rimasi esposto agli elementi per quasi due ore, ora a piedi, ora in cima a uno sconsolato omnibus errante in un deserto; e, nel [[Time|momento]] in cui giunsi al tempietto, dovevo rassomigliare a un dipresso all'omino di [[Snow|neve]] che i bambini fanno in [[Garden|giardino]]. Presi a tenere la conferenza, Dio sa su che cosa, e mi accingevo a riprendere il mio invernale [[Journey|viaggio]], quando il degno ministro del tempietto, fregandosi vigorosamente le mani, battendosi il petto e raggiante verso di me con la ricca ospitalità di Babbo Natale, disse con voce profonda, cordiale e succosa: «Suvvia, signor Chesterton, è una [[Night|nottata]] di freddo pungente! Mi lasci offrirle un biscotto oswego». Lo assicurai con gratitudine che non avvertivo alcun simile desiderio; era molto gentile da parte sua, giacché non v'era, date le circostanze, alcuna ragione possibile perché mi offrisse un qualsivoglia ristoro. Ma confesso che l'idea di ritornare attraverso la [[Snow|neve]] e la raffica gelata, per altre due ore, con il tepore di quell'unico biscotto dentro di me e il [[Fire|fuoco]] dell'oswego che mi scorreva per tutte le vene, mi parve un po' sproporzionata. [[Fear|Temo]] che fu con considerevole piacere che attraversai la [[Road|strada]] ed entrai in una [[house|osteria]] immediatamente di fronte al tempietto, sotto gli occhi stessi della [[Conscience|Coscienza]] anticonformista.
+In quei primi giorni, specialmente poco prima e poco dopo
+il mio matrimonio, fu mio destino vagabondare per molte parti
+dell'Inghilterra, tenendo ciò che venivano cortesemente chiamate conferenze.
+C'è un considerevole appetito per simili tetri intrattenimenti,
+specialmente nel nord dell'Inghilterra, nel sud della Scozia e in
+certi attivi centri Nonconformisti persino nei sobborghi di [[London|Londra]].
+Con la menzione della tetraggine mi torna alla mente il [[Memory|ricordo]] di una
+particolare cappella, situata nelle ultime lande informi a nord
+di [[London|Londra]], verso la quale dovetti effettivamente aprirmi la strada attraverso una accecante
+[[Snow|tormenta]] di [[Storm|neve]], che mi piacque assai; perché mi piacciono le tormente.
+Anzi, mi piacciono praticamente tutti i generi di tempo inglese tranne
+quel particolare genere di tempo che si chiama «una giornata gloriosa».
+Perciò nessuno pianga prematuramente sulla mia esperienza, né immagini che io
+compianga me stesso o chieda compassione. Eppure, è un fatto
+che rimasi esposto agli elementi per quasi due ore, o
+a piedi o in cima a uno sconsolato omnibus vagante in un deserto;
+e nel [[Time|momento]] in cui arrivai alla cappella dovevo grossomodo
+somigliare all'Uomo di [[Snow|Neve]] che i bambini fanno nel [[Garden|giardino]].
+Procedetti a tenere conferenza, Dio sa su cosa, e stavo per riprendere
+il mio invernale [[Journey|viaggio]], quando il degno ministro della cappella,
+strofinandosi vigorosamente le mani e battendosi il petto e raggiante verso di me
+con la ricca ospitalità di Babbo Natale, disse con una voce profonda, calda,
+pastosa: «Suvvia, signor Chesterton; è una [[Night|notte]] di freddo pungente!
+Mi permetta di offrirle un biscotto oswego». Lo assicurai con gratitudine
+che non sentivo alcuna simile brama; fu assai gentile da parte sua, poiché non
+c'era alcun motivo possibile, date le circostanze, per cui mi offrisse
+un qualsiasi rinfresco. Ma confesso che il pensiero di tornare
+attraverso la [[Snow|neve]] e la raffica gelata, per altre due ore,
+col calore di quell'unico biscotto dentro di me, e il [[Fire|fuoco]] oswego
+che mi scorreva in tutte le vene, mi parve un po' sproporzionato.
+[[Fear|Temo]] che fu con considerevole piacere che attraversai la [[Road|strada]]
+ed entrai in una [[house|osteria]] proprio di fronte alla cappella,
+sotto gli occhi stessi della [[Conscience|Coscienza]] Nonconformista.
 
-Questa è una parentesi; e potrei aggiungere non poche parentesi sui lontani giorni delle conferenze girovaghe. Di quei giorni si racconta che una volta mandai un telegramma a mia moglie a [[London|Londra]], che diceva: «Sono a Market Harborough. Dove dovrei essere?». Non ricordo se questa storia sia vera; ma non è inverosimile né, credo, irragionevole. Fu nel corso di simili peregrinazioni che feci molte amicizie la cui [[Friendship|amicizia]] tengo in gran conto; come il signor Lloyd Thomas, allora a Nottingham, e il signor McClelland di Glasgow. Ma li menziono qui soltanto come premessa a quell'incontro del tutto casuale nello Yorkshire, che avrebbe avuto per me conseguenze piuttosto al di là di ogni apparenza di casualità. Ero andato a tenere una conferenza a Keighley, sugli alti brughi del West Riding, e passai la [[Night|notte]] presso un cittadino di riguardo di quella piccola città industriale; il quale aveva radunato un gruppo di amici del luogo tali quali si potevano immaginare, suppongo, disposti a sopportare i conferenzieri; tra cui il curato della [[Catholic Church|Chiesa Cattolica]] romana, un ometto dal volto liscio e dall'espressione modesta ma quasi elfica. Rimasi colpito dal tatto e dallo [[Humour|spirito]] con cui si mescolava alla sua compagnia assai yorkshirese e assai protestante; e ben presto scoprii che essi, alla loro rude maniera, avevano già imparato ad apprezzarlo come una specie di personaggio. Qualcuno mi fece un resoconto assai spassoso di come due giganteschi contadini dello Yorkshire, di quel distretto, fossero stati incaricati di fare il giro di vari centri religiosi, e di come esitassero, presi da innominabili terrori, prima di entrare nella piccola canonica del piccolo prete. Con molti tremori del cuore, pare fossero infine giunti alla conclusione che difficilmente egli avrebbe fatto loro qualche grave danno; e che, se pure l'avesse fatto, avrebbero potuto chiamare la polizia. Credevano davvero, suppongo, che avesse la [[house|casa]] fornita di tutte le macchine di tortura dell'[[Spanish Inquisition|Inquisizione Spagnola]]. Ma perfino questi contadini, mi fu detto, lo avevano da allora accettato come vicino, e, mentre la serata avanzava, i suoi vicini incoraggiavano decisamente le sue considerevoli doti di intrattenitore. Egli si espanse, e fu ben presto nel bel mezzo del recitare quella grande, struggente [[Lyric|lirica]] drammatica che s'intitola «My Boots are Tight». Mi piacque moltissimo; ma se mi aveste detto che dieci anni più tardi sarei stato missionario mormone nelle Isole dei Cannibali, non sarei rimasto più sorpreso che alla suggestione che, ben quindici anni dopo, gli avrei fatto la mia Confessione Generale e sarei stato accolto nella Chiesa ch'egli serviva.
+Questa è una parentesi; e potrei aggiungere molte altre parentesi
+su quei lontani giorni di conferenze vagabonde. Di quei giorni si racconta
+la storia che una volta mandai un telegramma a mia moglie a [[London|Londra]],
+che diceva: «Sono a Market Harborough. Dove dovrei essere?»
+Non riesco a ricordare se questa storia sia vera; ma non è
+improbabile né, credo, irragionevole. Fu nel corso di simili
+peregrinazioni che feci molti amici la cui [[Friendship|amicizia]] apprezzo;
+come il signor Lloyd Thomas, allora a Nottingham, e il signor McClelland
+di Glasgow. Ma li menziono qui solo come introduzione
+a quell'assai fortuito incontro nello Yorkshire, che avrebbe avuto
+conseguenze per me piuttosto oltre l'apparenza del fortuito.
+Ero andato a tenere una conferenza a Keighley sulle alte brughiere
+del West Riding, e passai la [[Night|notte]] presso un eminente cittadino
+di quella piccola città industriale; che aveva radunato un gruppo di amici
+del luogo tali quali si potessero immaginare, suppongo, disposti a sopportare
+i conferenzieri; incluso il curato della [[Catholic Church|Chiesa Cattolica]] Romana;
+un ometto dalla faccia liscia e dall'espressione compunta ma elfica.
+Fui colpito dal tatto e dall'[[Humour|umorismo]] con cui si mescolava alla sua
+compagnia assai dello Yorkshire e assai Protestante; e presto scoprii
+che essi avevano, nel loro modo burbero, già imparato ad apprezzarlo
+come una sorta di personaggio. Qualcuno mi diede un resoconto assai divertente
+di come due giganteschi contadini dello Yorkshire, di quel distretto,
+fossero stati incaricati di fare il giro di vari centri religiosi,
+e di come esitassero, con innominabili terrori, prima di entrare nel piccolo
+presbiterio del piccolo prete. Con molti sprofondamenti di cuore, pare
+che fossero giunti infine alla conclusione che egli difficilmente avrebbe fatto loro
+alcun serio male; e che se lo avesse fatto potevano chiamare la polizia.
+Pensavano davvero, suppongo, che egli avesse la [[house|casa]] attrezzata
+con tutte le macchine di tortura dell'[[Spanish Inquisition|Inquisizione Spagnola]].
+Ma persino questi contadini, mi fu detto, lo avevano da allora accettato
+come vicino, e col procedere della serata i suoi vicini
+incoraggiarono decisamente le sue considerevoli doti d'intrattenitore.
+Si espanse, e fu presto nel bel mezzo del recitare quella grande
+struggente [[Lyric|lirica]] drammatica che è intitolata «I Miei Stivali Sono Stretti».
+Mi piacque assai; ma se mi aveste detto che dieci anni dopo
+sarei stato un Missionario Mormone nelle Isole dei Cannibali, non sarei
+stato più sorpreso di quanto lo fossi al suggerimento che, ben quindici
+anni dopo, avrei fatto a lui la mia Confessione Generale
+e sarei stato ricevuto nella Chiesa che egli serviva.
 
-Il mattino seguente lui e io valicammo Keighley Gate, il gran muro dei brughi che separa Keighley da Wharfedale, poiché andavo a trovare degli amici a Ilkley; e dopo qualche ora di conversazione sulle brughiere, era un nuovo amico quello che presentai ai miei vecchi amici al termine del mio [[Journey|viaggio]]. Rimase per il pranzo; rimase per il tè; rimase per la cena; non sono certo che, sotto la loro pressante ospitalità, non sia rimasto anche per la [[Night|notte]]; e in occasioni successive vi rimase per molte notti e molti giorni; e fu là che ci incontrammo più spesso. Fu in una di queste visite che accadde l'episodio il quale mi indusse a prendermi la libertà di mettere lui, o piuttosto una parte di lui, in una serie di storie sensazionali. Ma lo menziono non perché attribuisca alcuna importanza a quelle storie, bensì perché ha una connessione più vitale con l'altra storia; la storia che sto raccontando qui.
+Il mattino seguente egli e io scavalcammo Keighley Gate, il grande muro
+delle brughiere che separa Keighley da Wharfedale, poiché ero in visita ad
+amici a Ilkley; e dopo alcune ore di conversazione sulle brughiere, fu
+un nuovo amico quello che presentai ai miei vecchi amici alla fine del mio [[Journey|viaggio]].
+Restò a pranzo; restò a tè; restò a cena; non sono
+sicuro che, sotto la loro insistente ospitalità, non restasse anche la [[Night|notte]];
+e restò là molte notti e giorni in occasioni successive; e fu
+là che ci incontrammo più spesso. Fu in una di queste visite che
+si verificò l'episodio, che mi indusse a prendermi la libertà di metterlo,
+o piuttosto una parte di lui, in una serie di storie sensazionali.
+Ma lo menziono, non perché attribuisca alcuna importanza a quelle storie,
+ma perché ha un legame più vitale con l'altra storia;
+la storia che sto raccontando qui.
 
-Menzionai al prete, in conversazione, che mi proponevo di sostenere per iscritto una certa proposta, non importa quale, in connessione con alcune questioni sociali piuttosto sordide di vizio e delitto. Su questo particolare punto egli riteneva che io fossi in errore, o piuttosto nell'ignoranza; come in effetti ero. E, semplicemente come dovere necessario e per impedirmi di cacciarmi in un ginepraio, mi riferì certi fatti che conosceva su pratiche perverse, i quali di sicuro non trascriverò né discuterò qui. Ho confessato in una pagina precedente che nella mia stessa giovinezza avevo immaginato per me ogni sorta di iniquità; e fu una curiosa esperienza scoprire che questo quieto e amabile celibe aveva scandagliato quegli abissi assai più a fondo di me. Non avevo immaginato che il mondo potesse contenere simili orrori. Se egli fosse stato un romanziere di professione, gettando tale fanghiglia a piene mani su tutti i banchi dei libri perché ragazzi e lattanti la raccogliessero, sarebbe stato naturalmente un grande [[Artist|artista]] creativo e un araldo dell'[[Dawn|Aurora]]. Poiché li enunciava soltanto a malincuore, in stretta intimità, come necessità pratica, era, naturalmente, un tipico gesuita che mi sussurrava all'orecchio velenosi [[Secrets|segreti]]. Quando tornammo alla [[house|casa]], la trovammo piena di ospiti, e ci mettemmo a conversare in particolare con due cordiali e vigorosi giovani studenti di Cambridge, che avevano attraversato i brughi a piedi o in bicicletta nello spirito della severa e vigorosa vacanza inglese. Non erano però atleti gretti, bensì interessati a vari sport e, in modo spigliato, a varie arti; e cominciarono a discorrere di musica e di paesaggio con il mio amico padre O'Connor. Non ho mai conosciuto uomo che sapesse passare con più disinvoltura di lui da un argomento all'altro, o che avesse riserve più inaspettate di informazioni, spesso informazioni puramente tecniche, su ogni cosa. Il discorso presto si approfondì in una discussione su materie più filosofiche e morali; e quando il prete ebbe lasciato la stanza, i due giovani proruppero in generose espressioni di ammirazione, dicendo con verità che era un uomo notevole, e pareva sapere moltissimo di Palestrina o di architettura barocca, o qualunque fosse il punto del momento. Poi cadde un curioso [[Silence|silenzio]] meditativo, al termine del quale uno degli studenti sbottò all'improvviso. «Ciò nondimeno, non credo che il suo genere di vita sia quello giusto. Va tutto molto [[Well|bene]] amare la musica sacra e via dicendo, quando si è tutti rinchiusi in una specie di chiostro e non si sa nulla del male reale che è nel mondo. Ma non credo che quello sia l'ideale giusto. Io credo in un uomo che esce nel mondo, e affronta il male che vi è, e conosce qualcosa dei pericoli e di tutto il resto. È una cosa bellissima essere [[Innocent|innocenti]] e ignoranti; ma penso che sia una cosa assai più nobile non aver paura della conoscenza».
+Menzionai al prete in conversazione che mi proponevo di sostenere
+in stampa una certa proposta, non importa quale, in connessione
+con alcune questioni sociali piuttosto sordide di vizio e delitto.
+Su questo particolare punto egli riteneva che io fossi in errore, o piuttosto
+nell'ignoranza; come in effetti ero. E, semplicemente come necessario dovere
+e per impedirmi di cadere in una trappola, mi raccontò
+certi fatti che conosceva riguardo a pratiche perverse che di certo
+non riporterò né discuterò qui. Ho confessato in una pagina
+precedente che nella mia stessa giovinezza avevo immaginato per me qualsiasi quantità
+d'iniquità; e fu una curiosa esperienza scoprire che questo
+tranquillo e piacevole celibe aveva sondato quegli abissi assai più a fondo
+di me. Non avevo immaginato che il mondo potesse contenere simili orrori.
+Se egli fosse stato un romanziere di professione che gettava tale sozzura
+a piene mani su tutte le bancarelle perché ragazzi e infanti la raccogliessero,
+naturalmente sarebbe stato un grande [[Artist|artista]] creativo e un
+araldo dell'[[Dawn|Alba]]. Poiché li stava solo enunciando con riluttanza,
+in stretta riservatezza, come necessità pratica, egli era, naturalmente,
+un tipico Gesuita che mi sussurrava velenosi [[Secrets|segreti]] all'orecchio.
+Quando tornammo alla [[house|casa]], la trovammo piena di visitatori,
+e ci mettemmo in speciale conversazione con due gioviali e sani giovani
+studenti di Cambridge, che avevano attraversato a piedi o in bicicletta
+le brughiere nello spirito della severa e vigorosa vacanza inglese.
+Non erano però atleti gretti, bensì interessati a vari
+sport e, in modo spensierato, a varie arti; e cominciarono
+a discutere di musica e paesaggio col mio amico Padre O'Connor. Non
+conobbi mai un uomo che passasse con più disinvoltura di lui da un
+argomento all'altro, o che avesse più inaspettate riserve d'informazione,
+spesso di informazione puramente tecnica, su tutti. Il discorso presto
+si approfondì in una discussione su questioni più filosofiche e morali;
+e quando il prete ebbe lasciato la stanza, i due giovani proruppero
+in generose espressioni d'ammirazione, dicendo veramente che
+era un uomo notevole, e sembrava sapere moltissimo
+su Palestrina o l'architettura barocca, o qualunque fosse il punto
+del momento. Poi cadde un curioso [[Silence|silenzio]] riflessivo,
+al termine del quale uno degli studenti improvvisamente esplose.
+«E tuttavia, non credo che quel suo genere di vita sia quello giusto.
+È tutto assai [[Well|bello]] apprezzare la musica religiosa e così via, quando si è tutti
+rinchiusi in una specie di chiostro e non si sa nulla del male reale
+nel mondo. Ma non credo che quello sia l'ideale giusto.
+Io credo che un tale debba uscire nel mondo, e affrontare il male
+che c'è, e sapere qualcosa dei pericoli e di tutto quanto.
+È una cosa assai bella essere [[Innocent|innocenti]] e ignoranti; ma io
+credo che sia una cosa assai più nobile non aver paura della conoscenza».
 
-A me, che rabbrividivo ancora quasi per gli spaventosamente concreti fatti dei quali il prete mi aveva messo in guardia, quel commento giunse con un'ironia così colossale e schiacciante, che per poco non proruppi in una risata forte e stridula lì nel salotto. Poiché sapevo perfettamente [[Well|bene]] che, riguardo a tutto il solido satanismo che il prete conosceva e contro cui combatteva con tutta la sua vita, questi due gentiluomini di Cambridge (per loro fortuna) ne sapevano di male reale press'a poco quanto due lattanti nella medesima carrozzina.
+Per me, ancora quasi tremante per i fatti spaventosamente pratici
+dei quali il prete mi aveva avvertito, questo commento giunse con
+un'ironia così colossale e schiacciante, che quasi scoppiai in una sonora
+e aspra risata nel salotto. Poiché sapevo perfettamente [[Well|bene]] che,
+riguardo a tutto il solido Satanismo che il prete conosceva e
+combatteva con tutta la sua vita, questi due gentiluomini di Cambridge
+(per loro fortuna) sapevano del male reale press'a poco quanto due neonati
+nella stessa carrozzina.
 
-E nella mia mente balzò su la vaga idea di fare qualche uso artistico di questi comici eppure tragici equivoci [[Cross|incrociati]]; e di costruire una [[Comedy|commedia]] in cui un prete apparisse non sapere nulla e in realtà sapesse del crimine più dei criminali stessi. Riassunsi in seguito questa idea particolare nel racconto intitolato «La [[Cross|Croce]] azzurra», per il resto assai esile e improbabile, e la proseguii attraverso l'interminabile serie di novelle con cui ho afflitto il mondo. In breve, mi permisi la [[Grave|grave]] libertà di prendere il mio amico e di malmenarlo; ammaccandogli il cappello e l'ombrello fino a renderli informi, mettendogli in disordine gli abiti, prendendo a pugni il suo intelligente volto sino a ridurlo a una condizione di fatuità dalla faccia di budino, e travestendo in generale padre O'Connor da [[Father Brown|padre Brown]]. Il travestimento, come ho detto, era un deliberato pezzo di finzione, inteso a far risaltare o accentuare il contrasto che era il cuore della [[Comedy|commedia]]. Vi è inoltre nella concezione, come in quasi tutto ciò che io abbia mai scritto, una buona dose di incoerenza e di inesattezza su punti minori; non ultima fra tali pecche l'idea generale che [[Father Brown|padre Brown]] non abbia nulla di particolare da fare, se non gironzolare in qualunque casa dove sia probabile che avvenga un omicidio. Una signora cattolica assai deliziosa che conosco rese una volta al mio prete [[Detective|detective]] l'appropriato omaggio di dire: «Sono molto affezionata a quel piccolo bighellone ficcanaso».
+E sorse nella mia mente la vaga idea di fare un qualche uso artistico
+di questi comici eppure tragici propositi [[Cross|incrociati]]; e di costruire
+una [[Comedy|commedia]] in cui un prete dovesse apparire non sapere nulla e in
+realtà sapere sul delitto più dei criminali. In seguito
+riassunsi l'idea speciale nella storia intitolata «La [[Cross|Croce]] Azzurra»,
+per il resto assai esile e improbabile, e la continuai attraverso l'
+interminabile serie di racconti con cui ho afflitto il mondo.
+In breve, mi permisi la [[Grave|grave]] libertà di prendere il mio amico
+e di malmenarlo; deformandogli a colpi il cappello e l'ombrello,
+scompigliandogli i vestiti, prendendo a pugni il suo intelligente volto fino a
+ridurlo a una condizione di fatuità dalla faccia da budino, e in genere travestendo
+Padre O'Connor da [[Father Brown]]. Il travestimento, come ho detto,
+fu un deliberato pezzo di finzione, inteso a far risaltare o accentuare
+il contrasto che era il punto della [[Comedy|commedia]]. C'è anche
+nella concezione, come in quasi tutto ciò che ho mai scritto,
+una buona dose d'incoerenza e imprecisione su punti minori;
+non ultima tra tali pecche essendo la generale suggestione di
+[[Father Brown]] che non aveva nulla in particolare da fare, se non gironzolare
+in qualsiasi famiglia dove fosse probabile un omicidio.
+Una signora cattolica assai deliziosa che conosco una volta fece al mio prete [[Detective|detective]]
+l'appropriato complimento di dire: «Sono molto affezionata a quel
+piccolo intrigante sfaccendato».
 
-Ciò nondimeno, l'episodio degli studenti di Cambridge, e il loro spigliato disprezzo per la virtù fuggitiva e claustrale di un parroco, rappresentava nella mia vita cose ben più serie del mio sfortunato, ma puramente professionale, cumulo di cadaveri o massacro di personaggi. Mi mise in un certo senso di nuovo faccia a faccia con quei morbosi ma vividi problemi dell'[[Soul|anima]], ai quali ho alluso in precedenza, e mi diede una grande e crescente sensazione di non averne trovato alcuna reale soluzione spirituale; benché in certi modi esteriori di proporzione e di pratica essi turbino un uomo meno nella maturità che nella giovinezza. Mi turbavano ancora non poco; ma sarei potuto sprofondare sempre più in una sorta di compromesso o di resa per pura stanchezza, se non fosse stato per questo improvviso scorcio dell'abisso che sta sotto i piedi di tutti noi. Fui sorpreso della mia stessa sorpresa. Che la [[Catholic Church|Chiesa Cattolica]] ne sapesse più di me sul bene era facile da credere. Che ne sapesse più di me sul male pareva incredibile.
+Nondimeno, l'episodio degli studenti di Cambridge, e il loro
+spensierato disprezzo per la fuggitiva e claustrale virtù di un parroco,
+rappresentava cose assai più serie nella mia vita che il mio sfortunato,
+ma meramente professionale, cumulo di cadaveri o massacro di personaggi.
+Mi pose in un certo modo di nuovo faccia a faccia con quei morbosi
+ma vividi problemi dell'[[Soul|anima]], ai quali ho accennato prima,
+e mi diede un grande e crescente senso di non aver trovato alcuna reale
+soluzione spirituale di essi; benché in certe vie esteriori di proporzione
+e pratica, essi turbino un uomo meno nella virilità di quanto facciano nella giovinezza.
+Mi turbavano ancora parecchio; ma avrei potuto sprofondare sempre più
+in una sorta di compromesso o resa per mera stanchezza,
+se non fosse stato per questo improvviso scorcio dell'abisso che sta sotto i piedi di tutti noi.
+Fui sorpreso della mia stessa sorpresa. Che la [[Catholic Church|Chiesa Cattolica]]
+sapesse più di me sul bene era facile da credere.
+Che sapesse più di me sul male pareva incredibile.
 
-Quando la gente chiede a me, o del resto a chiunque altro: «Perché ti sei fatto cattolico romano?», la prima risposta essenziale, se è in parte una risposta ellittica, è: «Per liberarmi dei miei peccati». Poiché non v'è altro sistema religioso che davvero pretenda di liberare la gente dei suoi peccati. Lo conferma la [[logic|logica]], che a molti pare sconcertante, con cui la Chiesa deduce che il peccato confessato e adeguatamente pentito è realmente abolito; e che il peccatore ricomincia davvero come se non avesse mai peccato. E questo mi riportò bruscamente a quelle visioni o fantasie di cui mi sono occupato nel capitolo sull'[[Childhood|infanzia]]. Parlai là dell'indescrivibile e indistruttibile certezza, nell'[[Soul|anima]], che quei primi anni d'[[innocence|innocenza]] fossero l'inizio di qualcosa di degno, forse più degno di qualunque delle cose che effettivamente li seguirono. Parlai della strana luce diurna, che era qualcosa di più della luce del giorno comune, la quale ancora sembra, nella mia [[Memory|memoria]], risplendere su quelle ripide strade che scendono da Campden [[Hill|Hill]], da cui si poteva vedere il Crystal Palace in lontananza. [[Well|Ebbene]], quando un cattolico esce dalla Confessione, egli davvero, per definizione, torna a varcare la soglia in quell'[[Dawn|alba]] del proprio inizio e guarda con occhi nuovi attraverso il mondo verso un Crystal Palace che è realmente di cristallo. Egli crede che in quell'angolo fioco, e in quel breve rito, Dio lo abbia davvero rifatto a Sua immagine. Egli è ora un nuovo esperimento del Creatore. È tanto un nuovo esperimento quanto lo era quando aveva davvero solo cinque anni. Egli sta, come ho detto, nella bianca luce del degno inizio della vita di un uomo. Gli accumuli del [[Time|tempo]] non possono più atterrire. Potrà essere grigio e gottoso; ma ha soltanto cinque minuti di vita.
+Quando la gente mi chiede, o chiede a chiunque altro: «Perché ti sei
+unito alla Chiesa di Roma?» la prima risposta essenziale, se è
+in parte una risposta ellittica, è: «Per liberarmi dei miei peccati».
+Poiché non c'è nessun altro sistema religioso che davvero pretenda
+di liberare la gente dei propri peccati. È confermato dalla [[logic|logica]],
+che a molti pare sconcertante, con cui la Chiesa deduce
+che il peccato confessato e adeguatamente pentito è effettivamente abolito;
+e che il peccatore ricomincia davvero come se non avesse mai peccato.
+E questo mi riportò bruscamente a quelle visioni o fantasie
+di cui ho trattato nel capitolo sull'[[Childhood|infanzia]].
+Parlai là dell'indescrivibile e indistruttibile certezza
+nell'[[Soul|anima]], che quei primi anni d'[[innocence|innocenza]] fossero l'inizio
+di qualcosa di degno, forse più degno di qualsiasi delle cose
+che effettivamente li seguirono. Parlai della strana luce del giorno,
+che era qualcosa di più della luce del giorno comune, che ancora
+sembra nella mia [[Memory|memoria]] risplendere su quelle ripide strade che scendono da
+Campden [[Hill]], da cui si poteva vedere il Crystal Palace da lontano.
+[[Well|Ebbene]], quando un Cattolico esce dalla Confessione, egli fa davvero,
+per definizione, un altro passo fuori in quell'[[Dawn|alba]] del proprio inizio
+e guarda con occhi nuovi attraverso il mondo verso un Crystal Palace
+che è davvero di cristallo. Egli crede che in quell'oscuro angolo,
+e in quel breve rito, Dio lo abbia davvero rifatto a Sua immagine.
+Egli è ora un nuovo esperimento del Creatore. È altrettanto un nuovo
+esperimento di quanto lo era quando aveva davvero solo cinque anni.
+Egli sta, come ho detto, nella bianca luce al degno inizio della
+vita di un uomo. Le accumulazioni del [[Time|tempo]] non possono più atterrire.
+Egli può essere grigio e gottoso; ma ha solo cinque minuti.
 
-Non sto qui difendendo dottrine come quella del Sacramento della Penitenza; non più di quanto difenda l'ugualmente sbalorditiva dottrina dell'[[Love|amore]] divino per l'uomo. Non sto scrivendo un libro di controversia religiosa; dei quali ne ho scritti parecchi e probabilmente, a meno di essere violentemente trattenuto dai miei amici e parenti, ne scriverò parecchi altri. Sono qui impegnato nel compito morboso e degradante di raccontare la storia della mia vita; e devo soltanto esporre quali furono effettivamente gli effetti di tali dottrine sui miei sentimenti e sulle mie azioni. E sono, per la [[Nature|natura]] del compito, particolarmente occupato dal fatto che queste dottrine mi sembrano ricollegare l'intera mia vita fin dal principio, come nessun'altra dottrina saprebbe fare; e specialmente risolvere simultaneamente i due problemi della mia felicità infantile e della mia meditabonda inquietudine di ragazzo. Ed esse influirono in particolare su un'idea; che [[Hope|spero]] non sia pomposo chiamare l'idea capitale della mia vita; non dirò la dottrina che ho sempre insegnato, ma la dottrina che mi sarebbe sempre piaciuto insegnare. È l'idea di prendere le cose con gratitudine, e di non darle per scontate. Così il Sacramento della Penitenza dà una vita nuova, e riconcilia un uomo con tutto ciò che vive, ma non lo fa nel modo in cui lo fanno gli ottimisti e gli edonisti e i pagani predicatori della felicità. Il dono è dato a un prezzo, ed è condizionato da una confessione. In altre parole, il nome del prezzo è [[Truth|Verità]], che si può anche chiamare Realtà; ma è affrontare la realtà su se stessi. Quando il procedimento è applicato soltanto agli altri, si chiama Realismo.
+Non sto qui difendendo dottrine come quella del Sacramento
+della Penitenza; non più della dottrina egualmente sbalorditiva del divino
+[[Love|Amore]] per l'uomo. Non sto scrivendo un libro di controversia religiosa;
+di cui ne ho scritti parecchi e ne scriverò probabilmente, a meno di essere violentemente
+frenato dai miei amici e parenti, parecchi altri.
+Sono qui impegnato nel morboso e degradante compito di raccontare
+la storia della mia vita; e devo solo enunciare quali furono effettivamente
+gli effetti di tali dottrine sui miei stessi sentimenti e azioni.
+E sono, per la [[Nature|natura]] del compito, specialmente interessato al
+fatto che queste dottrine mi sembrano collegare l'intera mia vita
+fin dall'inizio, come nessun'altra dottrina saprebbe fare; e specialmente
+a risolvere simultaneamente i due problemi della mia felicità infantile
+e della mia meditabonda malinconia di ragazzo. Ed esse influenzarono specialmente un'idea;
+che [[Hope|spero]] non sia pomposo chiamare l'idea principale della mia vita;
+non dirò la dottrina che ho sempre insegnato, ma la dottrina
+che avrei sempre voluto insegnare. Ossia l'idea di prendere
+le cose con gratitudine, e di non darle per scontate.
+Così il Sacramento della Penitenza dà una nuova vita, e riconcilia
+un uomo con tutto ciò che vive, ma non lo fa come gli ottimisti
+e gli edonisti e i pagani predicatori della felicità lo fanno.
+Il dono è dato a un prezzo, ed è condizionato da una confessione.
+In altre parole, il nome del prezzo è [[Truth|Verità]], che si può anche
+chiamare Realtà; ma è affrontare la realtà su se stessi.
+Quando il processo è applicato solo ad altre persone si chiama Realismo.
 
-Cominciai con l'essere ciò che i pessimisti chiamavano un ottimista; ho finito con l'essere ciò che gli ottimisti con ogni probabilità chiamerebbero un pessimista. E di fatto non sono mai stato né l'uno né l'altro, e non sono mai realmente cambiato affatto. Cominciai difendendo le cassette postali vermiglie e gli omnibus vittoriani sebbene fossero brutti. Ho finito denunciando la pubblicità moderna o i film americani perfino quando sono belli. La cosa che cercavo di dire allora è la medesima cosa che cerco di dire adesso; e persino la più profonda rivoluzione della religione mi ha soltanto confermato nel [[Desire|desiderio]] di dirla. Poiché, in verità, non vidi mai le due facce di questa singola [[Truth|verità]] enunciate insieme in alcun luogo, finché non mi capitò di aprire il Penny Catechism e di leggere le parole: «I due peccati contro la [[Hope|Speranza]] sono la presunzione e la [[Despair|disperazione]]».
+Cominciai con l'essere ciò che i pessimisti chiamavano ottimista; ho finito
+con l'essere ciò che gli ottimisti chiamerebbero assai probabilmente pessimista.
+E in verità non sono mai stato né l'uno né l'altro, e non sono mai davvero cambiato
+affatto. Cominciai difendendo le cassette postali vermiglie e gli omnibus
+vittoriani benché fossero brutti. Ho finito denunciando le moderne
+pubblicità o i film americani anche quando sono belli.
+La cosa che cercavo di dire allora è la stessa cosa che
+cerco di dire ora; e persino la più profonda rivoluzione della religione
+non ha fatto che confermarmi nel [[Desire|desiderio]] di dirla. Poiché in verità, non
+vidi mai i due lati di quest'unica [[Truth|verità]] enunciati insieme in alcun luogo,
+finché non mi capitò di aprire il Penny Catechism e leggere le parole:
+«I due peccati contro la [[Hope|Speranza]] sono la presunzione e la [[Despair|Disperazione]]».
 
-Cominciai nella fanciullezza a cercarla a tastoni dall'estremità del tutto opposta; l'estremità della terra più remota dalle speranze puramente [[Supernatural|soprannaturali]]. Ma perfino riguardo alla più fioca [[Hope|speranza]] terrena, o alla più piccola felicità terrena, ebbi fin dal principio un senso quasi violentemente vivido di quei due pericoli; il senso che l'esperienza non dovesse essere guastata dalla presunzione o dalla [[Despair|disperazione]]. Per prendere un comodo motto dal mio primo giovanile libro di rime, mi chiedevo attraverso quali incarnazioni o purgatori prenatali dovessi essere passato, per meritare la ricompensa di guardare un dente di leone. Ora sarebbe facile abbastanza, se la cosa valesse la pena anche solo per un commentatore, datare quella frase in base a certi particolari, o indovinare che avrebbe potuto essere formulata altrimenti in un [[Time|tempo]] successivo. Non credo nella Reincarnazione, ammesso che vi abbia mai creduto; e da quando ho posseduto un [[Garden|giardino]] (poiché non posso dire da quando sono stato giardiniere) mi sono reso conto meglio di prima che vi sono davvero delle ragioni contro le erbacce. Ma nella sostanza ciò che dissi del dente di leone è esattamente ciò che direi del girasole o del sole, o della gloria che (come disse il poeta) è più luminosa del sole. L'unico modo di godere anche solo di un'erbaccia è sentirsi indegni perfino di un'erbaccia. Ora vi sono due modi di lamentarsi dell'erbaccia o del fiore; e uno era la moda nella mia giovinezza e un altro è la moda nei miei giorni più tardi; ma non solo sono entrambi errati, ma entrambi errati perché la medesima cosa è giusta. I pessimisti della mia fanciullezza, posti di fronte al dente di leone, dicevano con Swinburne:
+Cominciai nella mia fanciullezza a cercarla brancolando dall'estremità del tutto
+opposta; l'estremità della terra più remota dalle speranze puramente [[Supernatural|soprannaturali]]. Ma persino
+riguardo alla più fioca [[Hope|speranza]] terrena, o alla più piccola felicità terrena,
+ebbi fin dal principio un senso quasi violentemente vivido di quei due pericoli;
+il senso che l'esperienza non debba essere rovinata dalla presunzione
+o dalla [[Despair|disperazione]]. Per prendere una comoda etichetta dal mio primo giovanile libro
+di rime, mi chiesi attraverso quali incarnazioni o purgatori prenatali
+dovevo essere passato, per meritare la ricompensa di guardare un tarassaco.
+Ora sarebbe abbastanza facile, se la cosa valesse la pena persino
+per un commentatore, datare quella frase da certi dettagli,
+o congetturare che sarebbe potuta esser formulata altrimenti in un [[Time|tempo]] successivo.
+Non credo nella Reincarnazione, ammesso che ci abbia mai creduto; e da quando
+ho posseduto un [[Garden|giardino]] (poiché non posso dire da quando sono stato giardiniere)
+ho compreso meglio di prima che c'è davvero un caso
+contro le erbacce. Ma in sostanza ciò che dissi del tarassaco
+è esattamente ciò che direi del girasole o del sole,
+o della gloria che (come disse il poeta) è più splendente del sole.
+L'unico modo di godere persino di un'erbaccia è di sentirsi indegni persino di un'erbaccia.
+Ora ci sono due modi di lamentarsi dell'erbaccia o del fiore;
+e uno era la moda della mia giovinezza e l'altro è la moda
+dei miei giorni più tardi; ma non sono solo entrambi sbagliati, bensì entrambi sbagliati
+perché la stessa cosa è giusta. I pessimisti della mia fanciullezza,
+di fronte al tarassaco, dicevano con Swinburne:
 
   Sono stanco di tutte le ore
-  Boccioli dispersi e sterili [[Flowers|fiori]]
-  Desideri e [[Dreams|sogni]] e poteri
-  E ogni cosa fuorché il [[Sleep|sonno]].
+  Boccioli spirati e sterili [[Flowers|Fiori]]
+  Desideri e [[Dreams|Sogni]] e poteri
+  E ogni cosa tranne il [[Sleep|Sonno]].
 
-E a questo li maledicevo e tiravo loro calci e davo spettacolo di me; essendomi fatto campione del Dente di [[Lion|Leone]], con un dente di leone rampante nel mio cimiero. Ma vi è un modo di disprezzare il dente di leone che non è quello del tetro pessimista, bensì dell'ottimista più offensivo. Lo si può fare in vari modi; uno dei quali è dire: «Puoi trovare denti di leone molto migliori da Selfridge», oppure: «Puoi trovare denti di leone molto più a buon mercato da Woolworth». Un altro modo è osservare con noncurante strascico: «Naturalmente nessuno tranne Gamboli a Vienna capisce davvero i denti di leone», o dire che nessuno tollererebbe il vecchio dente di leone all'antica da quando il super-dente-di-leone è stato coltivato al Palm [[Garden|Garden]] di Francoforte; o semplicemente sogghignare sulla spilorceria di offrire denti di leone, quando tutte le migliori padrone di casa ti danno un'orchidea per l'occhiello e un mazzo di rare piante esotiche da portar via con te. Questi sono tutti metodi per svalutare la cosa per via di confronto; giacché non è la familiarità ma il confronto a generare il disprezzo. E tutti questi cavillosi confronti si fondano in ultimo sulla strana e sbalorditiva eresia che un essere umano abbia diritto ai denti di leone; che in qualche straordinaria maniera possiamo pretendere il fior fiore di tutti i denti di leone nel [[Garden|giardino]] del Paradiso; che non ne dobbiamo alcun ringraziamento e non abbiamo bisogno di provarne alcuna [[Wonder|meraviglia]]; e soprattutto nessuna [[Wonder|meraviglia]] d'essere ritenuti degni di riceverli. Invece di dire, come l'antico poeta religioso: «Che cos'è l'uomo, perché Tu ti curi di lui, o il figlio dell'uomo, perché Tu ne abbia riguardo?», dobbiamo dire come il [[cabman|vetturino]] scontento: «Che cos'è questo?», o come il Maggiore di malumore al club: «È questa una braciola degna di un gentiluomo?». Ora, non soltanto detesto quest'atteggiamento tanto quanto l'atteggiamento pessimistico swinburniano, ma penso che approdi press'a poco alla medesima cosa; all'effettiva perdita d'appetito per la braciola o per la tazza di tisana di dente di leone. E il suo nome è Presunzione e il nome del suo fratello gemello è [[Despair|Disperazione]].
+E a questo li maledicevo e sferravo loro calci e facevo di me stesso
+uno spettacolo; essendomi fatto il campione del Dente del [[Lion|Leone]],
+con un tarassaco rampante sul mio cimiero. Ma c'è un modo di
+disprezzare il tarassaco che non è quello del tetro pessimista,
+ma dell'ottimista più offensivo. Lo si può fare in vari modi;
+uno dei quali è dire: «Puoi avere tarassachi assai migliori
+da Selfridge», o «Puoi avere tarassachi assai più a buon mercato da Woolworth».
+Un altro modo è osservare con un casuale strascico di voce: «Naturalmente nessuno
+tranne Gamboli a Vienna capisce davvero i tarassachi», o dire
+che nessuno sopporterebbe più il tarassaco all'antica da quando
+il super-tarassaco è stato coltivato al Palm [[Garden]] di Francoforte;
+o semplicemente sogghignare sull'avarizia di offrire tarassachi,
+quando tutte le migliori padrone di casa ti danno un'orchidea per l'
+occhiello e un mazzo di rari esotici da portar via con te.
+Questi sono tutti metodi per svalutare la cosa per confronto;
+poiché non è la familiarità ma il confronto a generare disprezzo.
+E tutti simili cavillosi confronti si fondano in ultima analisi sulla strana
+e sbalorditiva eresia che un essere umano abbia diritto ai tarassachi;
+che in qualche straordinario modo possiamo esigere proprio il fior fiore
+di tutti i tarassachi nel [[Garden|Giardino]] del Paradiso; che non dobbiamo
+alcun ringraziamento per essi affatto e non abbiamo bisogno di provare alcuna [[Wonder|meraviglia]] per essi affatto;
+e soprattutto alcuna [[Wonder|meraviglia]] d'essere ritenuti degni di riceverli.
+Invece di dire, come il vecchio poeta religioso: «Cos'è l'uomo che
+Tu ti curi di lui, o il figlio dell'uomo che Tu lo consideri?»
+dobbiamo dire come lo scontento [[cabman|vetturino]]: «Cos'è questo?»
+o come il Maggiore bilioso al circolo: «È questa una costoletta degna
+di un gentiluomo?» Ora io non solo detesto quest'atteggiamento tanto
+quanto l'atteggiamento pessimistico swinburniano, ma penso che
+esso equivalga proprio alla stessa cosa; all'effettiva perdita d'appetito
+per la costoletta o per il piatto di tè di tarassaco. E il suo nome
+è Presunzione e il nome del suo gemello è [[Despair|Disperazione]].
 
-Questo è il principio che sostenevo quando parevo un ottimista al signor Max Beerbohm; e questo è il principio che sostengo tuttora quando indubbiamente parrei un pessimista al signor Gordon Selfridge. Lo scopo della vita è l'apprezzamento; non ha alcun senso non apprezzare le cose; e non ha alcun senso averne di più se se ne ha meno apprezzamento. Dissi in origine che un lampione da cockney dipinto di verde pisello era meglio di nessuna luce o di nessuna vita; e che se era un lampione solitario, avremmo potuto davvero vederne meglio la luce contro lo sfondo dell'oscurità. Il Decadente dei miei primi tempi, tuttavia, ne era così angustiato che voleva impiccarsi al lampione, spegnerne la lampada, e lasciare che tutto ricadesse nell'oscurità primigenia. Il moderno milionario viene affaccendandosi lungo la strada per dirmi che è un Ottimista e ha due milioni cinquemila nuovi lampioni, tutti già dipinti non di un verde pisello vittoriano ma di un giallo cromo futurista e di un azzurro elettrico, e che li pianterà su tutto il mondo in tal numero che nessuno li noterà, tanto più che appariranno tutti esattamente uguali. E io non riesco bene a vedere di che cosa l'Ottimista abbia da essere Ottimista. Un lampione può essere significativo benché sia brutto. Ma egli non rende i lampioni significativi; li rende insignificanti.
+Questo è il principio che sostenevo quando parevo un ottimista
+al signor Max Beerbohm; e questo è il principio che ancora sostengo
+quando dovrei senza dubbio parere un pessimista al signor Gordon Selfridge.
+Lo scopo della vita è l'apprezzamento; non c'è senso nel non
+apprezzare le cose; e non c'è senso nell'averne di più
+se se ne ha meno apprezzamento. Dissi originariamente che
+un lampione cockney dipinto di verde pisello era meglio di nessuna luce
+o nessuna vita; e che se era un lampione solitario, potremmo
+vederne davvero meglio la luce contro lo sfondo del buio.
+Il Decadente dei miei primi giorni, tuttavia, ne era così angustiato
+che voleva impiccarsi al lampione, spegnere
+la lampada, e lasciare che tutto ricadesse nell'oscurità primordiale.
+Il milionario moderno arriva trafelato lungo la strada per dirmi
+che è un Ottimista e ha due milioni e cinquemila nuovi lampioni,
+tutti già dipinti non di un verde pisello vittoriano ma di un Futuristico
+giallo cromo e blu elettrico, e che li pianterà per
+tutto il mondo in tal numero che nessuno li noterà,
+tanto più che appariranno tutti esattamente uguali. E io non riesco
+proprio a vedere di cosa l'Ottimista debba essere Ottimista.
+Un lampione può essere significativo benché sia brutto. Ma egli non sta
+rendendo i lampioni significativi; li sta rendendo insignificanti.
 
-In breve, a quel che mi sembra, importa assai poco se un uomo sia scontento in nome del pessimismo o del progresso, qualora il suo scontento paralizzi di fatto la sua facoltà di apprezzare ciò che ha. La vera difficoltà dell'uomo non è godere dei lampioni o dei paesaggi, non godere dei denti di leone o delle braciole; ma godere del godimento. Conservare la capacità di piacere davvero ciò che gli piace; ecco il problema pratico che il filosofo deve risolvere. E mi sembrava al principio, come mi sembra ora alla fine, che i pessimisti e gli ottimisti del mondo moderno abbiano ugualmente mancato e imbrogliato questa faccenda; per aver tralasciato l'antica concezione dell'[[Humility|umiltà]] e del ringraziamento dell'indegno. Questa è una faccenda assai più importante e interessante delle mie opinioni; ma, in punto di fatto, fu seguendo questo sottile filo di una fantasia sulla gratitudine, esile come uno di quegli orologi di dente di leone che si soffiano al vento come lanugine di cardo, che giunsi infine a un'opinione che è più di un'opinione. Forse l'unica e sola opinione che sia davvero più di un'opinione.
+In breve, come mi pare, importa assai poco se un uomo sia
+scontento in nome del pessimismo o del progresso, se la sua scontentezza
+in effetti paralizza la sua capacità di apprezzare ciò che ha.
+La vera difficoltà dell'uomo non è godere di lampioni o paesaggi,
+non godere di tarassachi o costolette; ma godere del godimento.
+Conservare la capacità di apprezzare davvero ciò che apprezza; ecco
+il problema pratico che il filosofo deve risolvere.
+E mi pareva al principio, come mi pare ora alla
+fine, che i pessimisti e gli ottimisti del mondo moderno
+abbiano ugualmente mancato e ingarbugliato questa faccenda; per aver tralasciato
+l'antica concezione dell'[[Humility|umiltà]] e del ringraziamento dell'indegno.
+Questa è una faccenda assai più importante e interessante delle mie opinioni;
+ma, di fatto, fu seguendo questo sottile filo
+di una fantasia sulla riconoscenza, esile quanto uno di quei soffioni
+di tarassaco che vengono soffiati sulla brezza come lanugine di cardo, che io
+giunsi infine a un'opinione che è più di un'opinione.
+Forse l'unica e sola opinione che è davvero più di un'opinione.
 
-Poiché questo segreto di semplicità antisettica era davvero un segreto; non era ovvio, e di certo non era ovvio a quel [[Time|tempo]]. Era un segreto che era già stato lasciato quasi interamente a, e rinchiuso insieme con, certe cose trascurate e impopolari. Era quasi come se la tisana di dente di leone fosse davvero una medicina, e l'unica ricetta o prescrizione appartenesse a una vecchia, una vecchia cenciosa e indefinibile, piuttosto reputata nel nostro villaggio una [[Witch|strega]]. Comunque sia, è vero che tanto i felici edonisti quanto gli infelici pessimisti erano irrigiditi dall'opposto principio dell'[[Pride|orgoglio]]. Il pessimista era orgoglioso del pessimismo, perché riteneva che nulla fosse abbastanza buono per lui; l'ottimista era orgoglioso dell'ottimismo, perché riteneva che nulla fosse abbastanza cattivo da impedirgli di ricavarne del bene. Vi erano uomini di valore di entrambi questi tipi; vi erano uomini con molte virtù; ma essi non solo non possedevano la virtù a cui io pensavo, ma non vi pensavano mai. Decidevano che la vita non valeva nulla, o che aveva molto di buono; ma non erano in contatto con questa particolare nozione, di avere molta gratitudine anche per un pochissimo di bene. E man mano che cominciavo a credere sempre più che la chiave fosse da trovarsi in un tal principio, anche se era un [[Paradox|paradosso]], ero sempre più disposto a cercare coloro che si specializzavano nell'[[Humility|umiltà]], benché per loro fosse la porta del cielo e per me la porta della terra.
+Poiché questo segreto dell'antisettica semplicità era davvero un segreto;
+non era ovvio, e di certo non ovvio a quel [[Time|tempo]].
+Era un segreto già stato quasi interamente lasciato a,
+e rinchiuso con, certe cose trascurate e impopolari.
+Era quasi come se il tè di tarassaco fosse davvero una medicina,
+e l'unica ricetta o prescrizione appartenesse a una vecchia, una cenciosa
+e indefinibile vecchia, piuttosto reputata nel nostro villaggio una [[Witch|strega]].
+Comunque, è vero che sia gli edonisti felici sia gli infelici
+pessimisti erano irrigiditi dal principio opposto dell'[[Pride|orgoglio]].
+Il pessimista era orgoglioso del pessimismo, perché non riteneva nulla
+abbastanza buono per sé; l'ottimista era orgoglioso dell'ottimismo,
+perché riteneva che nulla fosse abbastanza cattivo da impedirgli di trarne
+del bene. C'erano uomini di valore di entrambi questi tipi;
+c'erano uomini dotati di molte virtù; ma essi non solo non possedevano
+la virtù a cui pensavo, ma non vi pensavano mai.
+Decidevano che la vita non era un granché, o che aveva un gran mucchio
+di bene; ma non erano in contatto con questa particolare nozione,
+di avere una gran dose di gratitudine anche per un pochino di bene.
+E man mano che cominciavo a credere sempre più che la chiave fosse da
+trovarsi in un simile principio, anche se era un [[Paradox|paradosso]], ero sempre
+più disposto a cercare coloro che si specializzavano nell'[[Humility|umiltà]],
+benché per loro fosse la porta del cielo e per me la porta della terra.
 
-Poiché nessun altro si specializza in quella disposizione mistica in cui la stella gialla del dente di leone è sorprendente, essendo qualcosa di inatteso e di immeritato. Vi sono filosofie varie come i [[Flowers|fiori]] del campo, e alcune di esse erbacce e poche di esse erbacce velenose. Ma nessuna di esse crea le condizioni psicologiche in cui io per la prima volta vidi, o desiderai vedere, il fiore. Gli uomini si [[Crown|incoroneranno]] di [[Flowers|fiori]] e se ne vanteranno, o [[Sleep|dormiranno]] sui [[Flowers|fiori]] e li dimenticheranno, o conteranno e daranno nome a tutti i [[Flowers|fiori]] soltanto per coltivare un super-fiore per l'Imperiale Esposizione Internazionale dei Fiori; oppure, d'altro canto, calpesteranno i [[Flowers|fiori]] come una fuga precipitosa di bufali, o sradicheranno i [[Flowers|fiori]] come un puerile camuffamento della crudeltà della [[Nature|natura]], o lacereranno i [[Flowers|fiori]] con i denti per mostrare di essere illuminati pessimisti filosofici. Ma su questo problema originario dal quale io stesso presi le mosse, il massimo possibile apprezzamento immaginativo del fiore — su questo non sanno fare altro che sbagli, in quanto ignorano i fatti elementari della [[Nature|natura]] umana; in quanto, operando follemente in tutte le direzioni, vanno tutti senza eccezione a lavorare per la via sbagliata. Dal [[Time|tempo]] di cui parlo, il mondo sotto questo aspetto è diventato perfino peggiore. Un'intera generazione è stata istruita a dire sciocchezze a squarciagola sull'avere «un diritto alla vita» e «un diritto all'esperienza» e «un diritto alla felicità». I lucidi pensatori che parlano così di solito coronano la loro asserzione di tutti questi straordinari diritti [[Wind|concludendo]] col dire che non esiste il giusto e l'ingiusto. È un po' difficile, in tal caso, speculare su donde siano venuti i loro diritti; ma io, almeno, propendevo sempre più per la vecchia [[philosophy|filosofia]] che diceva che i loro veri diritti venivano da dove veniva il dente di leone; e che essi non apprezzeranno mai né l'uno né gli altri senza riconoscerne la sorgente. E in quel senso ultimo l'uomo increato, l'uomo che si trova meramente nella condizione del bimbo [[unborn|non nato]], non ha diritto neppure di vedere un dente di leone; poiché non avrebbe potuto egli stesso inventare né il dente di leone né la vista.
+Poiché nessun altro si specializza in quello stato d'animo mistico in cui la gialla stella
+del tarassaco è sorprendente, essendo qualcosa d'inatteso e immeritato.
+Ci sono filosofie varie quanto i [[Flowers|fiori]] del campo,
+e alcune di esse erbacce e poche di esse erbacce velenose.
+Ma nessuna di esse crea le condizioni psicologiche in
+cui io per primo vidi, o desiderai vedere, il fiore. Gli uomini si [[Crown|incoroneranno]]
+di [[Flowers|fiori]] e se ne vanteranno, o dormiranno il [[Sleep|sonno]] su [[Flowers|fiori]]
+e li dimenticheranno, o numereranno e nomineranno tutti i [[Flowers|fiori]] solo per
+coltivare un super-fiore per l'Imperiale Internazionale Mostra dei Fiori;
+oppure, d'altro canto, calpesteranno i [[Flowers|fiori]] come una fuga precipitosa
+di bufali, o sradicheranno i [[Flowers|fiori]] come un puerile mascheramento
+della crudeltà della [[Nature|natura]], o strapperanno i [[Flowers|fiori]] coi denti
+per mostrare che sono illuminati pessimisti filosofici.
+Ma su questo problema originario da cui io stesso partii, la massima
+possibile apprezzazione immaginativa del fiore--su questo essi non sanno
+fare altro che abbagli, in quanto ignorano gli elementari
+fatti della [[Nature|natura]] umana; in quanto, operando follemente in tutte le direzioni,
+vanno tutti senza eccezione a lavorare nel modo sbagliato.
+Dal [[Time|tempo]] di cui parlo, il mondo è a questo riguardo
+peggiorato anche di più. Un'intera generazione è stata istruita a dire
+sciocchezze a squarciagola sull'avere «un diritto alla vita»
+e «un diritto all'esperienza» e «un diritto alla felicità».
+I lucidi pensatori che parlano così generalmente [[Wind|concludono]]
+la loro affermazione di tutti questi straordinari diritti, dicendo che non
+esiste alcuna cosa come il giusto e lo sbagliato. È un po' difficile,
+in tal caso, speculare su da dove siano venuti i loro diritti; ma io,
+almeno, propendevo sempre più per la vecchia [[philosophy|filosofia]] che diceva
+che i loro veri diritti venivano da dove veniva il tarassaco;
+e che essi non apprezzeranno mai né l'uno né gli altri senza riconoscerne la fonte.
+E in quel senso ultimo l'uomo increato, l'uomo meramente nella posizione
+del bimbo [[unborn|non nato]], non ha diritto nemmeno a vedere un tarassaco; poiché egli non
+avrebbe potuto inventare da sé né il tarassaco né la vista.
 
-Ho qui fatto ricorso a una oziosa figura retorica tratta da un fortunatamente dimenticato libro di versi; solo perché una tale cosa è lieve e triviale, e i bambini la soffiano via come lanugine di cardo; e ciò sarà quanto mai adatto a un luogo in cui un argomentare formale sarebbe del tutto fuori posto. Ma affinché nessuno supponga che la nozione non abbia relazione con l'argomento, ma sia soltanto una sentimentale fantasia su erbacce o [[Flowers|fiori]] selvatici, suggerirò lievemente e brevemente come perfino la figura si accordi con tutti gli aspetti dell'argomento. Poiché la prima cosa che il critico frettoloso dirà è: «Che sciocchezza è mai tutto questo; vuoi dire che un poeta non può essere grato per l'erba e per i [[Flowers|fiori]] selvatici senza collegarlo con la teologia; per [[Alone|non parlare]] della tua teologia?». Al che io rispondo: «Sì; voglio dire che non può farlo senza collegarlo con la teologia, a meno che non possa farlo senza collegarlo con il pensiero. Se riesce a essere grato quando non c'è nessuno a cui essere grato, e nessuna buona intenzione di cui essere grato, allora egli sta semplicemente rifugiandosi nell'essere sconsiderato per evitare di essere ingrato». Ma in verità l'argomento va oltre la gratitudine consapevole, e si applica a qualunque sorta di pace o fiducia o riposo, perfino a fiducia o riposo inconsci. Perfino il culto della [[Nature|natura]] che i Pagani hanno sentito, perfino l'[[Love|amore]] della [[Nature|natura]] che i Panteisti hanno sentito, dipende in ultimo tanto da un qualche implicito fine e positivo bene nelle cose, quanto vi dipende il diretto rendimento di grazie che i Cristiani hanno sentito. In verità la [[Nature|Natura]] è nel migliore dei casi soltanto un nome femminile che diamo alla [[Providence|Provvidenza]] quando non la trattiamo molto seriamente; un pezzo di mitologia femminista. Vi è una specie di fiaba del focolare, più adatta al camino che all'altare; e in essa ciò che si chiama [[Nature|Natura]] può essere una specie di fata madrina. Ma vi possono essere fate madrine soltanto perché vi sono madrine; e vi possono essere madrine soltanto perché vi è Dio.
+Ho qui ripiegato su un'oziosa figura retorica tratta da un fortunatamente
+dimenticato libro di versi; semplicemente perché una cosa simile è leggera
+e triviale, e i bambini la soffiano via come lanugine di cardo;
+e questo sarà quanto mai appropriato a un luogo in cui l'argomentazione formale sarebbe
+del tutto fuori posto. Ma affinché nessuno supponga che la nozione
+non abbia relazione con l'argomento, ma sia solo una sentimentale fantasia
+su erbacce o [[Flowers|fiori]] selvatici, suggerirò lievemente e brevemente
+come persino la figura si accordi con tutti gli aspetti dell'argomento.
+Poiché la prima cosa che il critico casuale dirà è: «Che sciocchezze son tutte
+queste; vuoi forse dire che un poeta non può ringraziare l'erba e i [[Flowers|fiori]]
+selvatici senza connetterlo con la teologia; per non [[Alone|parlare]] della tua teologia?»
+Al che io rispondo: «Sì; voglio dire che egli non può farlo senza connetterlo
+con la teologia, a meno che non possa farlo senza connetterlo col pensiero.
+Se riesce a essere grato quando non c'è nessuno a cui essere grato,
+e nessuna buona intenzione per cui essere grato, allora egli sta semplicemente rifugiandosi
+nell'essere sventato per evitare di essere ingrato».
+Ma in verità l'argomento va oltre la gratitudine cosciente, e si applica
+a qualsiasi sorta di pace o fiducia o riposo, persino l'inconscia
+fiducia o riposo. Persino il culto della [[Nature|natura]] che i Pagani hanno provato,
+persino l'[[Love|amore]] della [[Nature|natura]] che i Panteisti hanno provato, dipende in ultima analisi
+tanto da un qualche implicito fine e positivo bene nelle cose, quanto
+il diretto rendimento di grazie che i Cristiani hanno provato. In verità la [[Nature|Natura]] è nel
+migliore dei casi solo un nome femminile che diamo alla [[Providence|Provvidenza]] quando non la trattiamo
+molto sul serio; un pezzo di mitologia femminista. C'è una sorta
+di fiaba del focolare, più adatta al focolare che all'altare;
+e in essa ciò che si chiama [[Nature|Natura]] può essere una sorta di fata madrina.
+Ma possono esserci fate madrine solo perché ci sono madrine;
+e possono esserci madrine solo perché c'è Dio.
 
-Ciò che negli scettici mi ha turbato per tutta la vita è stata la loro straordinaria lentezza nel venire al punto; perfino al punto della loro stessa posizione. Li ho uditi denunciare, oltre che [[Well|ammirare]], per la loro precipitosa fretta e la loro sconsiderata corsa all'innovazione; ma la mia difficoltà è sempre stata quella di indurli a spostarsi di qualche pollice e a portare a termine il loro stesso argomento. Quando per la prima volta si accennò anche solo al fatto che l'universo possa non essere un grande disegno, ma soltanto una cieca e indifferente crescita, si sarebbe dovuto percepire all'istante che ciò doveva per sempre proibire a qualsiasi poeta di ritirarsi nei verdi campi come alla sua [[Home|dimora]], o di guardare al cielo azzurro per la sua ispirazione. Non vi sarebbe più alcuna simile [[Truth|verità]] tradizionale associata all'erba verde che al marciume verde o alla ruggine verde; nulla di più da rammentarsi con i cieli azzurri che con i nasi azzurri amputati in un gelido mondo di [[Death|morte]]. I poeti, perfino i Pagani, possono credere direttamente nella [[Nature|Natura]] soltanto se credono indirettamente in Dio; se la seconda idea dovesse davvero svanire, la prima è destinata a seguirla presto o tardi; e, soltanto per un triste rispetto della [[logic|logica]] umana, avrei voluto che fosse stato più presto. Certo un uomo potrebbe avere un apprezzamento quasi animalesco di certi accidenti di forma o colore in una roccia o in una pozza, come in un sacco di stracci o in una pattumiera; ma non è questo che i grandi poeti o i grandi pagani intendevano con i misteri della [[Nature|Natura]] o l'ispirazione delle potenze elementari. Quando non vi è più neppure una vaga idea di fini o di presenze, allora la foresta variopinta è davvero un sacco di stracci e tutta la pompa della [[Dust|polvere]] soltanto una pattumiera. Possiamo vedere questa presa di coscienza insinuarsi come una lenta paralisi su tutti quei più nuovi poeti che non hanno reagito verso la religione. La loro [[philosophy|filosofia]] del dente di leone non è che tutte le erbacce sono [[Flowers|fiori]]; ma piuttosto che tutti i [[Flowers|fiori]] sono erbacce. In verità arriva a qualcosa come un [[nightmare|incubo]]; come se la [[Nature|Natura]] stessa fosse innaturale. Forse è per questo che così tanti di loro tentano disperatamente di scrivere di macchinari; a proposito dei quali nessuno ha ancora contestato l'Argomento del Disegno. Nessun Darwin ha ancora sostenuto che i motori cominciarono come frammenti di metallo, la maggior parte dei quali per caso finì rottamata; o che soltanto quelle automobili, che avevano fatto crescere un carburatore per accidente, sopravvissero alla lotta per la vita a Piccadilly. Ma qualunque ne sia la ragione, ho letto [[Poems|poesie]] moderne evidentemente intese a far apparire l'erba qualcosa di meramente ispido e pungente e ripugnante, come un mento non rasato.
+Ciò che mi ha turbato negli scettici per tutta la vita è stata la loro
+straordinaria lentezza nel venire al punto; persino al punto
+della loro stessa posizione. Li ho sentiti denunciare, come [[Well|pure]]
+ammirare, per la loro impetuosa fretta e sconsiderata corsa all'innovazione;
+ma la mia difficoltà è stata sempre indurli a spostarsi di qualche pollice
+e a portare a termine la loro stessa argomentazione. Quando per la prima volta si accennò appena
+che l'universo potrebbe non essere un grande disegno, ma solo una cieca
+e indifferente crescita, si sarebbe dovuto percepire all'istante
+che questo doveva per sempre proibire a ogni poeta di ritirarsi ai verdi campi
+come al proprio [[Home|focolare]], o di guardare l'azzurro cielo per la propria ispirazione.
+Non ci sarebbe più stata alcuna tale tradizionale [[Truth|verità]] associata all'erba
+verde di quanta ce ne sia col marciume verde o la ruggine verde; nulla più da rammentarsi con azzurri
+cieli di quanto con azzurri nasi amputati in un gelido mondo di [[Death|Morte]].
+I poeti, persino i Pagani, possono credere direttamente nella [[Nature|Natura]] solo se
+credono indirettamente in Dio; se la seconda idea dovesse davvero svanire,
+la prima è destinata a seguire prima o poi; e, semplicemente per
+un triste rispetto della [[logic|logica]] umana, avrei desiderato che fosse stato prima.
+Naturalmente un uomo potrebbe avere un apprezzamento quasi animalesco
+di certi accidenti di forma o colore in una roccia o in una pozza,
+come in un sacco di stracci o in una pattumiera; ma non è questo ciò che i grandi poeti
+o i grandi pagani intendevano coi misteri della [[Nature|Natura]] o l'ispirazione
+delle potenze elementali. Quando non c'è più nemmeno una vaga idea
+di scopi o presenze, allora la foresta variopinta è davvero
+un sacco di stracci e tutto il fasto della [[Dust|Polvere]] solo una pattumiera.
+Possiamo vedere questa presa di coscienza insinuarsi come una lenta paralisi su tutti
+quei più recenti poeti che non hanno reagito verso la religione.
+La loro [[philosophy|filosofia]] del tarassaco non è che tutte le erbacce sono [[Flowers|fiori]];
+ma piuttosto che tutti i [[Flowers|fiori]] sono erbacce. In verità raggiunge qualcosa
+come l'[[nightmare|incubo]]; come se la [[Nature|Natura]] stessa fosse innaturale. Forse è
+per questo che tanti di loro cercano disperatamente di scrivere di macchinari;
+riguardo ai quali nessuno ha ancora contestato l'Argomento dal Disegno.
+Nessun Darwin ha ancora sostenuto che i motori cominciarono come pezzi di metallo,
+la maggior parte dei quali capitò d'esser rottamata; o che solo quelle auto,
+che avevano fatto crescere un carburatore per caso, sopravvissero alla lotta
+per la vita a Piccadilly. Ma qualunque sia la ragione, ho letto moderne
+[[Poems|poesie]] evidentemente intese a far sembrare l'erba qualcosa di meramente rasposo
+e pungente e ripugnante, come un mento non rasato.
 
-Questa è la prima nota; che questo comune misticismo umano intorno alla [[Dust|polvere]] o al dente di leone o alla luce del giorno o alla vita quotidiana dell'uomo dipende, e sempre dipese, dalla teologia, se mai si occupava di pensiero. E se poi si chiede perché questa teologia, io rispondo qui — perché è la sola teologia che non solo ha pensato, ma ha pensato ad ogni cosa. Che quasi ogni altra teologia o [[philosophy|filosofia]] contenga una [[Truth|verità]], non lo nego affatto; al contrario, è ciò che affermo; ed è ciò di cui mi dolgo. Di tutti gli altri sistemi o sette che conosco, ciascuno di essi si accontenta di seguire una [[Truth|verità]], teologica o teosofica o etica o metafisica; e più pretendono di essere universali, più ciò significa che essi prendono semplicemente qualcosa e lo applicano a ogni cosa. Un brillantissimo dotto e uomo di scienza indù mi disse: «Non v'è che una cosa sola, che è [[unity|unità]] e universalità. I punti in cui le cose differiscono non contano; conta soltanto il loro accordo». E io risposi: «L'accordo che realmente vogliamo è l'accordo tra accordo e disaccordo. È il senso che le cose davvero differiscono, benché siano una cosa sola». Molto tempo dopo trovai ciò che intendevo espresso assai meglio da uno scrittore cattolico, Coventry Patmore: «Dio non è infinito; Egli è la sintesi di infinito e confine». In breve, gli altri maestri erano sempre uomini di un'unica idea, perfino quando la loro unica idea era l'universalità. Erano sempre particolarmente angusti quando la loro unica idea era l'ampiezza. Ho trovato un solo credo che non potesse accontentarsi di una [[Truth|verità]], ma soltanto della [[Truth|Verità]], che è fatta di un milione di simili verità eppure è una sola. E perfino in questa fuggevole illustrazione a proposito della mia privata fantasia, ciò fu doppiamente dimostrato. Se io mi fossi allontanato per la mia strada come Bergson o Bernard [[Shaw]], e mi fossi costruito una mia propria [[philosophy|filosofia]] a partire dal mio prezioso [[Fragment|frammento]] di [[Truth|verità]], soltanto perché l'avevo trovato da me, avrei ben presto scoperto quella [[Truth|verità]] distorcersi in una menzogna. Perfino in questo solo caso, vi sono due modi in cui essa avrebbe potuto rivoltarmisi contro e sbranarmi. Uno sarebbe stato l'incoraggiare l'illusione a cui ero più incline; e l'altro lo scusare la menzogna che ritenevo più imperdonabile. In primo luogo, la stessa esagerazione del senso che la luce del giorno e i denti di leone e ogni prima esperienza siano una sorta di incredibile visione sarebbe, se non bilanciata da altre verità, divenuta nel mio caso davvero assai sbilanciata. Poiché quella nozione di vedere una visione era pericolosamente vicina al mio vecchio, originario [[nightmare|incubo]] naturale, che mi aveva indotto a muovermi come se fossi in [[A Dream|un sogno]]; e a un certo [[Time|momento]] a perdere il senso della realtà e con esso gran parte del senso della responsabilità. E ancora, sul versante della responsabilità, nella sfera più pratica ed etica, esso avrebbe potuto imporre a me una sorta di Quietismo politico, verso il quale ero davvero tanto obiettore di coscienza quanto lo ero verso il Quaccherismo. Poiché che cosa avrei potuto dire, se qualche [[Tyrant|tiranno]] avesse contorto questa idea di appagamento trascendentale in una scusa per la tirannia? Supponiamo che mi avesse citato i miei versi sull'autosufficienza dell'esistenza elementare e sulla verde visione della vita, li avesse usati per provare che i poveri dovrebbero accontentarsi di qualsiasi cosa, e avesse detto, come il vecchio oppressore: «Che mangino erba».
+Questa è la prima nota; che questo comune misticismo umano riguardo alla [[Dust|Polvere]]
+o al tarassaco o alla luce del giorno o alla vita quotidiana dell'uomo dipende davvero,
+e dipese sempre dalla teologia, se aveva a che fare in qualche modo col pensiero.
+E se si chiedesse poi perché questa teologia, rispondo qui--perché è
+l'unica teologia che non solo ha pensato, ma ha pensato a tutto.
+Che quasi qualsiasi altra teologia o [[philosophy|filosofia]] contenga una [[Truth|verità]],
+io non lo nego affatto; al contrario, è questo che affermo;
+ed è questo di cui mi lamento. Di tutti gli altri sistemi
+o sette che conosco, ogni singolo si accontenta di seguire una [[Truth|verità]],
+teologica o teosofica o etica o metafisica;
+e più pretendono di essere universali, più significa
+che si limitano a prendere qualcosa e ad applicarlo a tutto.
+Un assai brillante studioso e uomo di scienza indù mi disse:
+«C'è una sola cosa, che è l'[[unity|unità]] e universalità.
+I punti in cui le cose differiscono non contano; conta solo il loro
+accordo». E io risposi: «L'accordo che davvero
+vogliamo è l'accordo tra accordo e disaccordo.
+È il senso che le cose davvero differiscono, benché siano una cosa sola».
+Molto tempo dopo trovai ciò che intendevo enunciato assai meglio da uno
+scrittore cattolico, Coventry Patmore: «Dio non è infinito; Egli è
+la sintesi di infinità e limite». In breve, gli altri maestri
+erano sempre uomini di un'unica idea, persino quando la loro unica idea era l'universalità.
+Erano sempre specialmente angusti quando la loro unica idea era l'ampiezza.
+Ho trovato un solo credo che non poteva accontentarsi di una [[Truth|verità]],
+ma solo della [[Truth|Verità]], che è fatta di un milione di tali verità
+eppure è una. E persino in questa passeggera illustrazione riguardo alla mia stessa
+fantasia privata, questo fu doppiamente dimostrato. Se mi fossi allontanato
+come Bergson o Bernard [[Shaw]], e avessi costruito la mia stessa [[philosophy|filosofia]] con il mio stesso
+prezioso [[Fragment|frammento]] di [[Truth|verità]], solo perché l'avevo trovato da me,
+avrei presto scoperto quella [[Truth|verità]] distorcersi in una falsità.
+Persino in quest'unico caso, ci sono due modi in cui essa avrebbe potuto
+rivoltarsi contro di me e dilaniarmi. Uno sarebbe stato incoraggiando
+la delusione a cui ero più incline; e l'altro scusando
+la falsità che ritenevo più imperdonabile. Primo, la stessa
+esagerazione del senso che la luce del giorno e i tarassachi e ogni precoce
+esperienza siano una sorta d'incredibile visione, se non equilibrata
+da altre verità, sarebbe nel mio caso divenuta davvero assai squilibrata.
+Poiché quella nozione di vedere una visione era pericolosamente vicina al mio vecchio
+originario naturale [[nightmare|incubo]], che mi aveva indotto a muovermi come se fossi
+in [[A Dream|un sogno]]; e a un certo [[Time|tempo]] a perdere il senso della realtà
+e con esso gran parte del senso della responsabilità. E di nuovo,
+sul versante della responsabilità, nella sfera più pratica ed etica,
+essa avrebbe potuto impormi una sorta di Quietismo politico, verso il quale io
+ero davvero altrettanto obiettore di coscienza quanto verso il Quaccherismo.
+Poiché cosa avrei potuto dire, se qualche [[Tyrant|tiranno]] avesse contorto quest'
+idea di trascendentale contentezza in una scusa per la tirannide?
+Supponete che egli mi avesse citato i miei versi sull'auto-sufficienza
+dell'esistenza elementare e la verde visione della vita, li avesse usati
+per provare che i poveri dovrebbero accontentarsi di qualsiasi cosa, e avesse detto,
+come il vecchio oppressore: «Che mangino erba».
 
-In una parola, avevo l'umile proposito di non essere un maniaco, ma specialmente di non essere un monomaniaco; e soprattutto di non essere un monomaniaco a proposito di una nozione soltanto perché era mia. La nozione era abbastanza normale, e del tutto coerente con la [[Faith|Fede]]; anzi, ne era già una parte. Ma soltanto come parte di essa avrebbe potuto rimanere normale. E credo che ciò sia vero di praticamente tutte le nozioni con cui i miei più abili contemporanei hanno fatto nuove filosofie; molte di esse abbastanza normali all'inizio. Sono perciò giunto alla conclusione che vi è una completa fallacia contemporanea circa la libertà delle idee individuali; che tali [[Flowers|fiori]] crescono meglio in un [[Garden|giardino]], e crescono perfino più grandi in un [[Garden|giardino]]; e che nella terra selvaggia essi appassiscono e muoiono.
+In una parola, avevo l'umile proposito di non essere un maniaco,
+ma specialmente di non essere un monomaniaco; e soprattutto, di non
+essere un monomaniaco riguardo a una nozione solo perché era la mia.
+La nozione era abbastanza normale, e del tutto coerente con la [[Faith|Fede]];
+anzi, ne era già una parte. Ma solo come parte di essa
+avrebbe potuto rimanere normale. E credo che questo sia vero
+di praticamente tutte le nozioni di cui i miei più capaci contemporanei
+hanno fatto nuove filosofie; molte di esse abbastanza normali al principio.
+Sono perciò giunto alla conclusione che c'è un completo
+errore contemporaneo riguardo alla libertà delle idee individuali; che tali
+[[Flowers|fiori]] crescono meglio in un [[Garden|giardino]], e persino crescono più grandi in un [[Garden|giardino]];
+e che nel deserto appassiscono e muoiono.
 
-Anche qui, sono [[Well|ben]] consapevole che qualcuno porrà la naturale e normalmente ragionevole domanda: «Vuoi davvero dire che un uomo non può opporsi al fatto che alla gente si chieda di mangiare erba, a meno che non accetti il tuo particolare credo?». Al che per il momento risponderò soltanto: «Sì; è proprio ciò che intendo; ma non esattamente come tu lo intendi». Aggiungerò qui soltanto, di passaggio, che ciò che davvero rivolta me e chiunque altro riguardo a quel famoso motteggio del [[Tyrant|tiranno]] è che esso reca in sé una qualche suggestione di trattare gli uomini come bestie. Aggiungerò anche che ciò non rimuoverebbe la mia obiezione, neppure se le bestie avessero erba a sufficienza, o se i botanici avessero provato che l'erba è la dieta più nutriente.
+Anche qui, sono [[Well|ben]] consapevole che qualcuno porrà la naturale
+e normalmente ragionevole domanda: «Vuoi davvero dire che un uomo
+non può obiettare al fatto che la gente sia invitata a mangiar erba, a meno che non accetti
+il tuo particolare credo?» Al che risponderò solo per
+il momento: «Sì; voglio dire proprio questo; ma non esattamente come lo intendi tu».
+Aggiungerò qui soltanto, di sfuggita, che ciò che davvero ripugna a me
+e a chiunque altro riguardo a quel famoso dileggio del [[Tyrant|tiranno]] è
+che esso trasmette un qualche suggerimento di trattare gli uomini come bestie.
+Aggiungerò anche che non rimuoverebbe la mia obiezione, nemmeno se le
+bestie avessero abbastanza erba, o se i botanici avessero provato che l'erba
+è la dieta più nutriente.
 
-Ora, perché offro qui questa manciata di argomenti frammentari, di tipi, di metafore tutti totalmente sconnessi? Perché non sto ora esponendo un sistema religioso. Sto terminando una storia; arrotondando ciò che è stato per me almeno un [[Romance|romanzo]], e in gran parte una storia di mistero. È una narrazione puramente personale che cominciò nelle prime pagine di questo libro; e alla fine rispondo soltanto alle domande che posi al principio. Ho detto che avevo nell'[[Childhood|infanzia]], e ho in parte conservato dall'[[Childhood|infanzia]], un certo [[Romance|romanzesco]] di ricettività, che non è stato ucciso dal peccato né persino dal dolore; poiché, benché non abbia avuto grandi guai, ne ho avuti molti. Un uomo non invecchia senza essere infastidito; ma io sono invecchiato senza essere annoiato. L'esistenza è tuttora una cosa strana per me; e come a uno straniero le do il benvenuto. [[Well|Ebbene]], per cominciare, pongo quel principio di tutti i miei impulsi intellettuali prima dell'autorità alla quale sono giunto alla fine; e trovo che esso era là prima che io ve lo ponessi. Mi trovo ratificato nella mia presa di coscienza del miracolo di essere vivo; non in un qualche nebuloso senso letterario quale usano gli scettici, ma in un senso definito e dogmatico; di essere reso vivo da Ciò che [[Alone|soltanto]] può operare miracoli.
+Ora perché offro qui questa manciata di frammentari argomenti, tipi,
+metafore tutte totalmente sconnesse? Perché non sto ora esponendo
+un sistema religioso. Sto concludendo una storia; arrotondando ciò che è
+stato per me almeno un [[Romance|romanzo]], e in gran parte una storia di mistero.
+È una narrazione puramente personale che cominciò nelle prime pagine
+di questo libro; e alla fine sto rispondendo solo alle domande
+che posi al principio. Ho detto che ebbi nell'[[Childhood|infanzia]],
+e ho in parte preservato dall'[[Childhood|infanzia]], un certo [[Romance|fascino]]
+di ricettività, che non è stato ucciso dal peccato né persino dal dolore;
+poiché benché non abbia avuto grandi guai, ne ho avuti molti.
+Un uomo non invecchia senza esser tormentato; ma io sono invecchiato
+senza essere annoiato. L'esistenza è ancora una cosa strana per me;
+e da straniero le do il benvenuto. [[Well|Ebbene]], per cominciare, pongo quell'
+inizio di tutti i miei impulsi intellettuali dinanzi all'autorità alla quale
+sono giunto alla fine; e trovo che esso era là prima che io ve lo ponessi.
+Mi trovo ratificato nella mia presa di coscienza del miracolo di essere vivo;
+non in un qualche vago senso letterario come quello che usano gli scettici, ma in
+un senso preciso e dogmatico; d'esser reso vivo da ciò che può
+[[Alone|da solo]] operare miracoli.
 
-Ho detto che questa rude e primitiva religione della gratitudine non mi salvò dall'ingratitudine; dal peccato che è forse il più orribile per me proprio perché è ingratitudine. Ma anche qui ho trovato che la risposta mi attendeva. Precisamente perché il male era principalmente dell'[[Imagination|immaginazione]], esso poteva essere trafitto soltanto da quella concezione della confessione che è la fine della mera [[Solitude|solitudine]] e della segretezza. Avevo trovato una sola religione che osasse scendere con me nelle profondità di me stesso. So bene, naturalmente, che la pratica della Confessione, dopo essere stata vilipesa per tre o quattro secoli e per la maggior parte della mia stessa vita, è stata ora fatta rivivere in maniera tardiva. I materialisti scientifici, perennemente in ritardo sui tempi, hanno fatto rivivere tutto ciò che in essa veniva vilipeso come indecente e introspettivo. Ho sentito dire che una nuova setta ha ripreso ancora una volta la pratica dei più primitivi monasteri, e ha trattato il confessionale come comunitario. A differenza dei primitivi [[Monks|monaci]] del [[Desert|deserto]], pare che essa trovi una soddisfazione nel compiere il rito in abito da sera. In breve, non vorrei che mi si supponesse ignaro del fatto che il mondo moderno, in vari gruppi, è ora pronto a fornirci i vantaggi della Confessione. Nessuno dei gruppi, per quanto ne so, pretende di fornire il minore vantaggio dell'Assoluzione.
+Ho detto che questa rude e primitiva religione della gratitudine non mi
+salvò dall'ingratitudine; dal peccato che è forse per me più orribile
+perché è ingratitudine. Ma anche qui ho scoperto che la risposta
+mi attendeva. Proprio perché il male era principalmente dell'[[Imagination|Immaginazione]],
+esso poteva essere trafitto solo da quella concezione della confessione che
+è la fine della mera [[Solitude|Solitudine]] e segretezza. Avevo trovato una sola
+religione che osasse scendere con me nelle profondità di me stesso.
+So, naturalmente, che la pratica della Confessione, essendo stata
+vilipesa attraverso tre o quattro secoli e attraverso la maggior
+parte della mia stessa vita, è ora stata rianimata in modo tardivo.
+I materialisti scientifici, permanentemente indietro coi tempi,
+hanno rianimato tutto ciò che in essa era vilipeso come indecente e introspettivo.
+Ho sentito che una nuova setta ha ripreso ancora una volta la pratica dei
+più primitivi monasteri, e ha trattato il confessionale come comunale.
+A differenza dei primitivi [[Monks|Monaci]] del [[Desert|Deserto]], pare che trovi
+una soddisfazione nell'eseguire il rito in abito da sera. In breve,
+non vorrei essere ritenuto ignaro del fatto che il mondo moderno,
+in vari gruppi, è ora pronto a fornirci i vantaggi
+della Confessione. Nessuno dei gruppi, per quanto ne so, professa di
+fornire il minor vantaggio dell'Assoluzione.
 
-Ho detto che le mie morbosità erano mentali oltre che [[Well|morali]]; e sondavano le più spaventose profondità dello scetticismo e del solipsismo fondamentali. E anche là trovai che la Chiesa mi aveva preceduto e aveva stabilito le sue adamantine fondamenta; che aveva affermato l'attualità delle cose esterne; sicché perfino i pazzi potessero udire la sua voce; e, per una rivelazione nel loro stesso cervello, cominciare a credere ai propri occhi.
+Ho detto che le mie morbosità erano mentali oltre che [[Well|pure]] morali; e ho sondato
+le più spaventose profondità dello scetticismo fondamentale e del solipsismo.
+E anche là scoprii che la Chiesa era andata avanti a me e aveva stabilito
+le sue adamantine fondamenta; che aveva affermato l'attualità
+delle cose esterne; così che persino i pazzi potessero udire la sua voce;
+e per una rivelazione nel loro stesso cervello cominciare a credere ai propri occhi.
 
-Infine dissi che avevo cercato, per quanto imperfettamente, di servire la giustizia; e che vedevo la nostra civiltà industriale come radicata nell'ingiustizia, molto prima che ciò divenisse un'osservazione tanto comune quanto è oggi. Chiunque abbia voglia di andare a sfogliare le raccolte dei grandi giornali, perfino quelli che si suppone siano giornali Radicali, e vedere che cosa dissero a proposito dei Grandi Scioperi, e paragonarlo con ciò che i miei amici e io dicemmo alla medesima data, può facilmente verificare se questo sia un vanto o un fatto bruto. Ma chiunque legga questo libro (se qualcuno lo legge) vedrà che fin dal principio il mio istinto riguardo alla giustizia, alla libertà e all'uguaglianza, era alquanto diverso da quello corrente nella nostra epoca; e da tutte le tendenze verso la concentrazione e la generalizzazione. Era mio istinto difendere la libertà nelle piccole nazioni e nelle famiglie povere; ossia difendere i diritti dell'uomo come comprendenti i diritti di proprietà; specialmente la proprietà dei poveri. Non capii davvero che cosa intendessi per Libertà, finché non la udii chiamare col nuovo nome di Dignità Umana. Era un nome nuovo per me; benché fosse parte di un credo vecchio di quasi duemila anni. In breve, avevo ciecamente desiderato che un uomo fosse in possesso di qualcosa, foss'anche soltanto del suo proprio [[Body|corpo]]. Nella misura in cui procede la concentrazione materialistica, un uomo non sarà in possesso di nulla; neppure del suo proprio [[Body|corpo]]. Già si librano all'orizzonte travolgenti flagelli di sterilizzazione o di igiene sociale, applicati a tutti e imposti da nessuno. Perlomeno non discuterò qui con quelle che vengono bizzarramente chiamate le autorità scientifiche dall'altra parte. Ho trovato una sola autorità dalla mia parte.
+Infine dissi che avevo cercato, per quanto imperfettamente, di servire la giustizia;
+e che vedevo la nostra civiltà industriale come radicata nell'ingiustizia,
+molto prima che divenisse un commento così comune come lo è oggi.
+Chiunque abbia voglia di consultare gli archivi dei grandi giornali,
+persino di quelli supposti Radicali, e di vedere cosa dissero
+sui Grandi Scioperi, e di confrontarlo con ciò che i miei amici e io dicemmo alla
+stessa data, può facilmente verificare se questa sia una vanteria o un bruto fatto.
+Ma chiunque legga questo libro (se qualcuno lo legge) vedrà che
+fin dall'inizio il mio istinto sulla giustizia, sulla libertà
+e sull'uguaglianza, era in qualche modo diverso da quello corrente nella nostra età;
+e da tutte le tendenze verso la concentrazione e la generalizzazione.
+Era mio istinto difendere la libertà nelle piccole nazioni e
+nelle povere famiglie; ossia difendere i diritti dell'uomo comprendendo
+i diritti della proprietà; specialmente la proprietà dei poveri.
+Non capii davvero cosa intendessi per Libertà, finché non la sentii
+chiamare col nuovo nome di Dignità Umana. Era per me un nome nuovo;
+benché fosse parte di un credo vecchio quasi duemila anni.
+In breve, avevo ciecamente desiderato che un uomo fosse in possesso
+di qualcosa, fosse pure solo il proprio [[Body|corpo]]. Nella misura in cui la materialistica
+concentrazione procede, un uomo sarà in possesso di nulla;
+nemmeno del proprio [[Body|corpo]]. Già si profilano all'orizzonte spazzanti
+flagelli di sterilizzazione o igiene sociale, applicati a tutti
+e imposti da nessuno. Almeno non discuterò qui con ciò che
+vengono bizzarramente chiamate le autorità scientifiche dell'altra parte.
+Ho trovato un'autorità dalla mia parte.
 
-Questa storia, dunque, può finire soltanto come dovrebbe finire ogni storia [[Detective|poliziesca]], con le sue proprie particolari domande risolte e il suo proprio problema primario risolto. Migliaia di storie totalmente differenti, con problemi totalmente differenti, sono finite nel medesimo luogo con i loro problemi risolti. Ma per me la mia fine è il mio principio, come Maurice Baring citò a proposito di Maria Stuarda, e questa soverchiante convinzione che vi sia una sola chiave capace di aprire tutte le porte mi riporta il primo barlume del glorioso dono dei sensi; e la sensazionale esperienza della sensazione. E là si leva di nuovo davanti a me, ritta nitida e chiara nella sagoma come un tempo, la figura di un uomo che attraversa un ponte e reca una chiave; come lo vidi quando per la prima volta guardai nel paese delle fate attraverso la [[Window|finestra]] del teatrino di mio padre. Ma io so che colui che è chiamato Pontifex, il Costruttore del Ponte, è chiamato anche Claviger, il Portatore della Chiave; e che tali chiavi gli furono date per legare e sciogliere quando era un povero pescatore in una lontana provincia, presso un piccolo e quasi segreto mare.
+Questa storia, perciò, può concludersi solo come dovrebbe concludersi qualsiasi storia
+[[Detective|poliziesca]], con le sue proprie particolari domande risposte e il suo proprio
+problema primario risolto. Migliaia di storie totalmente diverse,
+con problemi totalmente diversi, sono finite nello stesso luogo
+coi loro problemi risolti. Ma per me la mia fine è il mio inizio,
+come Maurice Baring citò di Maria Stuarda, e questa travolgente
+convinzione che c'è una chiave che può aprire tutte le porte mi riporta
+il primo barlume del glorioso dono dei sensi;
+e la sensazionale esperienza della sensazione. E si erge
+di nuovo dinanzi a me, stagliandosi netta e chiara nella forma come un tempo,
+la figura di un uomo che attraversa un ponte e porta una chiave;
+come lo vidi quando per la prima volta scrutai nel paese delle fate attraverso l'[[Window|oblò]]
+del teatrino di mio padre. Ma so che colui che è chiamato Pontifex,
+il Costruttore del Ponte, è chiamato anche Claviger, il Portatore della Chiave;
+e che tali chiavi gli furono date per legare e sciogliere quando era un povero
+pescatore in una lontana provincia, presso un mare piccolo e quasi segreto.

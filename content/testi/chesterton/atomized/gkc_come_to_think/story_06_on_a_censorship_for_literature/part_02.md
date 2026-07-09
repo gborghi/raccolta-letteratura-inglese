@@ -176,20 +176,153 @@ his Last Case and has refused to try again.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_06_on_a_censorship_for_literature/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_07_on_the_new_poetry/part_01">part 01 ›</a></div>
 </nav>
 
-La pura verità è che la società moderna deve avere una morale prima di poter avere un censore dei costumi. Direi che deve avere una religione prima di poter avere una morale. Ma questa è un'altra questione, che non voglio discutere qui per intero. In ogni caso, il guaio è che la gente fa un gran chiasso attorno a romanzi irreali quando dovrebbe farlo attorno alla vita reale. È una faccenda in cui basta prendersi cura dei fatti, e le finzioni si prenderanno cura di se stesse. Se ripuliamo la comunità, la comunità ripulirà la sua poesia e la sua prosa. Ma è assurdo aspettarsi che persone le quali non rispettano le proprie promesse, fatte alle proprie nozze, si scandalizzino perché non ogni romanzo si conclude alla maniera vittoriana con lo scampanio nuziale. È ridicolo aspettarsi che la gente monti su tutte le furie per la condotta di Joan in Green Pyjamas o di Peter in Cocktail-Time, quando ha saputo rassegnarsi alla medesima condotta nelle proprie figlie o nei propri generi. Non intendo, s'intende, che tutta la nostra vita familiare sia così. Né che tutta la nostra narrativa sia così. Ma molti di coloro che reclamano una Censura in realtà reclamano che si tolleri nella vita ciò che non vogliamo tollerare nella letteratura.
+La schietta verità è che la società moderna deve avere una morale
+prima di poter avere un censore dei costumi. Direi che
+deve avere una religione prima di poter avere una morale.
+Ma questa è un'altra questione che non dovrei discutere pienamente qui.
+Comunque, il guaio è che la gente fa un gran chiasso su irreali
+romanzi quando dovrebbe far chiasso sulla vita reale.
+È un caso di prendersi cura dei fatti, e le finzioni
+si prenderanno cura di sé. Se purifichiamo la comunità,
+la comunità purificherà la sua poesia e la sua prosa. Ma è
+assurdo aspettarsi che gente che non rispetta le proprie promesse,
+fatte alle proprie nozze, si scandalizzi perché ogni romanzo non
+finisce alla maniera vittoriana con campane nuziali. È ridicolo
+aspettarsi che la gente sia punta al furore dal comportamento di Joan
+in Pigiama Verde o di Peter in Ora dell'Aperitivo, quando è riuscita
+a riconciliarcisi nelle proprie figlie o generi. Non
+intendo, naturalmente, che tutta la nostra vita di famiglia sia così.
+Né tutta la nostra narrativa è così. Ma molti che chiedono una Censura
+stanno in realtà chiedendo che tolleriamo nella vita ciò che non
+tollereremo nella letteratura.
 
-VI. Sugli scrittori di romanzi polizieschi
+VI. Sugli Scrittori di Storie Poliziesche
 
-L E primissime parole della storia di Trent's Last Case dovrebbero dire a qualunque persona intelligente e di solida tradizione che l'intera mente dello scrittore si muove a un livello più alto di quello dell'ordinario racconto d'assassinio. Senza far sfoggio di essere qualcosa di più di un narratore, egli è un narratore che intende lo stile e la distinzione e quella filosofia più profonda che non è mai una moda o un ismo; e, soprattutto, che intende quel peso e quel movimento delle parole in cui stile e distinzione e filosofia ed esperienza si fanno una cosa sola. Poiché le primissime parole di questo romanzo poliziesco, scritto per essere letto in treno, sono: «Fra ciò che conta e ciò che sembra contare, come potrebbe il mondo che conosciamo giudicare con saggezza?». Mi si vorrà scusare, [[Hope|spero]], se trovo una curiosa illustrazione di questa medesima domanda proprio nella pubblicità e persino negli omaggi letterari stampati in fondo al libro. Poiché fra coloro che hanno espresso il loro entusiastico ringraziamento al signor Bentley per aver scritto un vero racconto [[Detective|poliziesco]] che era anche un vero libro, vi sono alcuni dei più raffinati specialisti nel campo del [[Novel|romanzo]] criminale, e anche alcune delle prime menti nel dominio del pensiero e della cultura in generale. Da un lato, vi figurano veri esperti del trattamento scientifico ed esatto di simili problemi polizieschi, come il signor R. Austin Freeman e il signor Freeman Wills Crofts. Dall'altro, vi figurano uomini brillanti e insigni in campi del tutto diversi di seria speculazione e controversia, come padre Ronald Knox e il signor G. D. H. Cole. Ultime, ma tutt'altro che minime, vi figurano quelle scrittrici, e in special modo le signore, che, senza alcun particolare sfoggio di specialismo, hanno scritto racconti criminali costruiti alla perfezione e insieme divertenti commedie; notevoli fra tutte la signora [[Agatha]] Christie e la signorina Dorothy Sayers.
+LE primissime parole della storia dell'Ultimo Caso di Trent dovrebbero
+dire a qualsiasi persona intelligente e tradizionale che l'intera mente
+dello scrittore si muove su un piano più alto dell'ordinaria storia d'omicidio.
+Senza far alcuna ostentazione d'essere più di un narratore,
+egli è un narratore che comprende lo stile e la distinzione e la
+più profonda filosofia che non è mai una mania o un ismo; e, soprattutto,
+che comprende quel peso e movimento delle parole, in cui stile
+e distinzione e filosofia ed esperienza sono una cosa sola.
+Poiché le primissime parole di questa storia poliziesca, scritta per essere
+letta in un treno, sono: «Fra ciò che conta e ciò che
+sembra contare, come dovrebbe il mondo che conosciamo giudicare con saggezza?»
+[[Hope|Spero]] mi si perdoni se trovo un'interessante illustrazione di questa
+stessa questione nelle pubbliche inserzioni, e persino nei
+tributi letterari sul retro del libro. Poiché tra coloro che hanno espresso
+il loro entusiastico ringraziamento al signor Bentley per aver scritto una vera storia
+[[Detective|poliziesca]] che era anche un vero libro, ci sono alcuni dei più fini
+specialisti nel campo del [[Novel|romanzo]] criminale, e anche alcune
+delle prime menti nel dominio del pensiero e della cultura generale.
+Da un lato, essi includono veri esperti nel trattamento scientifico ed
+esatto di simili problemi polizieschi, come il signor R. Austin Freeman
+e il signor Freeman Wills Crofts. Dall'altro lato, essi includono
+uomini brillanti e insigni in campi totalmente diversi
+di seria speculazione e controversia, come Padre Ronald Knox,
+e il signor G. D. H. Cole. Ultimi, ma tutt'altro che minimi,
+essi includono quegli scrittori, e piuttosto specialmente scrittrici, che,
+senza alcuna speciale ostentazione di specialismo, hanno scritto storie criminali
+perfettamente costruite che sono anche divertenti commedie;
+in particolare la signora [[Agatha]] Christie e la signorina Dorothy Sayers.
 
-Oltre a queste autorità sarebbe facile, per mia personale conoscenza, citare decine di scrittori e pensatori celebri, professori e dottori e diplomatici e poeti della più classica tempra, che hanno posto questo libro accanto a The Wallet of Kai Lung o a The Diary of a Nobody sul piccolo e segreto scaffale dei Libri Migliori. Per menzionare solo a caso due dei miei amici, che non se ne avranno per la rivelazione: il signor Hilaire Belloc, che non legge mai racconti [[Detective|polizieschi]], ammira questo; e il signor Maurice Baring, che legge tutti i racconti [[Detective|polizieschi]] che si possano avere per [[Love|amore]] o per denaro, ammira questo più di ogni altro. Stando così le cose, non posso non essere incuriosito da un piccolo particolare della cerimoniosa ambasceria di ringraziamenti al signor Bentley; intendo il fatto che il primo nome ad essere annunciato di tutta quella missione, e stampato in cima a tutti quei nomi, è il nome del signor [[Edgar]] Wallace; e che il signor [[Edgar]] Wallace [[Alone|soltanto]] è ritenuto degno di veder proclamata la propria approvazione a caratteri cubitali per l'occasione. Evidentemente, è il suo complimento [[Alone|soltanto]] che conta davvero: «Fra ciò che conta e ciò che sembra contare, come potrebbe il mondo che conosciamo giudicare con saggezza?».
+Oltre a queste autorità sarebbe facile, a mia
+personale conoscenza, citare dozzine di famosi scrittori e pensatori,
+docenti e dottori e diplomatici e poeti della più classica inclinazione,
+che hanno messo questo libro insieme a La Bisaccia di Kai Lung o al Diario
+di un Signor Nessuno nella piccola e segreta mensola dei Migliori Libri. Per menzionare
+solo a caso due dei miei amici, che non si risentiranno della rivelazione:
+il signor Hilaire Belloc, che non legge mai storie [[Detective|poliziesche]], ammira questa;
+e il signor Maurice Baring, che legge tutte le storie [[Detective|poliziesche]]
+che si possano avere per [[Love|amore]] o per denaro, ammira questa più di tutte.
+Stando così le cose, non posso non essere interessato a un piccolo dettaglio
+della cerimoniale ambasceria di ringraziamento al signor Bentley; intendo il fatto
+che il primo nome ad essere annunciato di tutta quella missione e
+stampato in cima a tutti questi nomi, è il nome del signor [[Edgar]] Wallace;
+e che il signor [[Edgar]] Wallace [[Alone|soltanto]] è ritenuto degno di avere
+il suo proclama stampato a grandi lettere per l'occasione.
+Evidentemente, è il suo complimento [[Alone|soltanto]] che davvero conta «Fra
+ciò che conta e ciò che sembra contare, come dovrebbe il mondo che
+conosciamo giudicare con saggezza?»
 
-Dio non voglia che io o chiunque altro parli, con ingratitudine o con scortesia, del signor Edgar Wallace. Ho goduto centinaia delle sue storie e spero di goderne altre centinaia; e sembra assai probabile che continuerò ad avere l'occasione di un tale godimento. Disprezzare simili storie è, fra tutte le cose, la più spregevole. È come disprezzare le pantomime o le osterie o le canzoni comiche o i comuni divertimenti d'ogni sorta che ci legano nella fratellanza degli uomini. E quando trattiamo di letteratura popolare di questa specie sana e vivace, è cosa assai scortese lamentarsi della sbalorditiva moltiplicità della produzione che un uomo come il signor Wallace riesce a conseguire. È come lamentarsi che una birreria davvero buona fornisca troppa birra; il che parrebbe non solo una bestemmia ma quasi una contraddizione in termini. È come lamentarsi che un cantante popolare davvero bravo sappia cantare troppe canzoni diverse; lamentela che è tutta quanta un complimento. È irragionevole rimproverare il signor Wallace di averci troppo divertiti ed emozionati. È meschino risentirsi della generosità. Può ben essere un piacere aver dato piacere a così tanti; e dovrebbe essere un piacere, per costoro, riconoscerlo.
+Dio non voglia che io o chiunque altro parli, con ingratitudine o
+scortesia, del signor Edgar Wallace. Ho goduto di centinaia
+delle sue storie e spero di godere di centinaia altre; e pare abbastanza
+probabile che continuerò ad avere l'occasione di tale godimento.
+Disprezzare simili storie è di tutte le cose la più spregevole.
+È come disprezzare le pantomime o le osterie o le canzoni comiche o i comuni
+divertimenti d'ogni sorta che ci legano nella fratellanza degli uomini.
+E quando abbiamo a che fare con la letteratura popolare di questo genere sano e vivace,
+è assai scortese lamentarsi della stupefacente molteplicità
+della produzione che un uomo come il signor Wallace riesce a realizzare.
+È come lamentarsi che una birreria davvero buona fornisca troppa birra;
+il che parrebbe non solo una bestemmia ma quasi una contraddizione
+in termini. È come lamentarsi che un cantante popolare davvero buono sappia
+cantare troppe canzoni diverse; una lamentela che è interamente un complimento.
+È irragionevole rimproverare il signor Wallace d'averci intrattenuti
+ed eccitati troppo. È ingeneroso risentirsi della generosità.
+Può ben essere un piacere aver dato piacere a così tanti;
+e dovrebbe essere per loro un piacere riconoscerlo.
 
-Ma quando tutto ciò sia riconosciuto, resta pur sempre una ragionevole proporzione in queste cose; e la scelta del signor Edgar Wallace, fra tutte le altre autorità, come se fosse l'unica persona che conta davvero, non è ragionevole. Non v'è ragione possibile per essa, salvo una ragione volgare connessa alla mera mole o al rumore o alla notorietà o alla produzione in serie. La satira intitolata Reunion All Round è cosa che conta e continuerà a contare; potrà contare per i nostri discendenti fra cent'anni come la satira intitolata Gulliver's Travels conta per noi. È divertente ed è fatta per divertire; ma non è fatta soltanto per ammazzare il tempo, bensì per ammazzare la ciarpa e la menzogna. Sono lieto di notare che la signorina Dorothy Sayers, che è fra coloro i quali scrivono racconti d'assassinio come se sapessero scrivere anche qualcos'altro, mette alla prova la sua ammirazione per il libro del signor Bentley in questo modo, e dice: «È l'unico racconto [[Detective|poliziesco]] del secolo presente che sono certa passerà ai posteri come un classico. È un capolavoro». Un capolavoro è cosa che conta; e un uomo non può produrre, e probabilmente non pretende di produrre, capolavori o cose che contano, da vendersi a milioni o da riversarsi in un flusso perpetuo. Così un uomo come padre Ronald Knox, autore di Reunion All Round, nel conferire l'alloro a un'opera letteraria, ha a che fare con qualcosa al proprio livello, e può darsi che stia mettendo in serbo qualcosa destinato a essere ricordato; come noi ricordiamo il dignitoso [[Pride|orgoglio]] di Pope nel complimento dei suoi contemporanei:
+Ma quando tutto questo è riconosciuto, rimane una razionale
+proporzione in queste cose; e la scelta del signor Edgar Wallace,
+tra tutte le altre autorità, come se egli fosse l'unica persona
+che davvero conta, non è razionale. Non c'è alcuna possibile ragione
+per essa, tranne una volgare ragione connessa con la mera mole o il rumore
+o la notorietà o la produzione di massa. La satira intitolata Reunion All Round
+è una cosa che conta e continuerà a contare; potrà contare
+per i nostri discendenti fra cent'anni come la satira intitolata
+I Viaggi di Gulliver conta per noi. È divertente ed è intesa a divertire;
+ma non è solo intesa a uccidere il tempo, bensì a uccidere la robaccia e la falsità.
+Sono lieto di notare che la signorina Dorothy Sayers, che è una di coloro
+che scrivono storie d'omicidio come se sapessero scrivere qualcos'altro,
+mette alla prova la sua ammirazione per il libro del signor Bentley in questo modo,
+e dice: «È l'unica storia [[Detective|poliziesca]] del presente secolo
+che sono certa passerà ai posteri come un classico.
+È un capolavoro». Un capolavoro è una cosa che conta;
+e un uomo non può produrre, e probabilmente non pretende di produrre,
+capolavori o cose che contano, per venderli a milioni o versarli
+in un flusso perpetuo. Così un uomo come Padre Ronald Knox,
+l'autore di Reunion All Round, nel dare l'alloro a un'opera letteraria,
+ha a che fare con qualcosa al proprio livello, e può star mettendo da parte
+qualcosa da ricordare; come noi ricordiamo il decoroso [[Pride|orgoglio]] di Pope
+per il complimento dei suoi contemporanei:
 
-«E Congreve amò e Swift sopportò i miei versi.»
+«E Congreve amò e Swift sopportò i miei versi».
 
-Lo stesso vale, s'intende, per i tributi o i contributi di altri scrittori seri al romanzo sensazionale. Il movimento generale detto Guild Socialism potrà contare moltissimo fra cent'anni; ad ogni modo, conta ora; e un uomo che l'ha esposto con la chiarezza economica e la stringatezza del signor Cole certamente conta ora. Il solido, minuzioso, scientifico argomentare del dottor Thorndyke, nei romanzi del signor Austin Freeman, conta ora; e assai probabilmente continuerà a contare. In quel senso, tempestare il mondo con un numero prodigioso di romanzi sensazionali affatto leggibili non conta; e con ogni probabilità non è fatto per contare. In effetti, v'è una sezione dell'opera del signor Edgar Wallace, certi suoi bozzetti sull'Africa del Sud, che è davvero di tipo più solido e intrinsecamente prezioso. Forse egli era uno scrittore migliore prima di diventare un autore di successo, come Sir Hall Caine; forse descriveva i veri Cafri meglio degli irreali Cinesi, proprio come Sir Hall Caine era tanto migliore quando era confinato all'Isola di Man, e non lasciato libero di scorrazzare per l'Universo dell'Uomo.
+È lo stesso, naturalmente, coi tributi o contributi di
+altri seri scrittori al romanzo sensazionale. Il movimento generale
+chiamato Socialismo Gildista può contare moltissimo fra cent'anni;
+in ogni caso, conta ora; e un uomo che l'ha esposto con
+la chiarezza economica e il rigore del signor Cole di certo conta ora.
+Il solido, dettagliato, scientifico argomentare del dottor Thorndyke,
+nei romanzi del signor Austin Freeman, conta ora; e assai
+probabilmente potrà continuare a contare. In quel senso, sommergere il mondo
+con un prodigioso numero di romanzi sensazionali abbastanza leggibili
+non conta; e con ogni probabilità non è inteso a contare.
+Di fatto, c'è una sezione dell'opera del signor Edgar Wallace,
+alcuni dei suoi bozzetti sul Sudafrica, che è davvero di un tipo più
+solido e intrinsecamente prezioso. Forse egli era uno scrittore migliore
+prima di essere un bestseller, come Sir Hall Caine;
+forse descrisse veri Kaffir meglio che irreali Cinesi,
+proprio come Sir Hall Caine era assai migliore quando era confinato
+all'Isola di Man, e non lasciato libero sull'Universo dell'Uomo.
 
-Ma, in verità, v'è un'altra distinzione da fare. Persino nel loro meglio, le storie del signor Edgar Wallace non sono in genere racconti polizieschi, bensì racconti d'avventura. I due generi vengono troppo confusi sotto il vago titolo di shockers o romanzi sensazionali; e gli scrittori stessi sono spesso confusi su quale dei due stiano scrivendo. Ma il tipo di storia che può essere sfornato in tali quantità è normalmente la storia di svariate avventure; come la sfornavano Dumas o, se è per questo, Henty. Non è poi così difficile progettare, due o tre volte alla settimana, una specie di corsa a ostacoli fatta di trabocchetti e agguati, tale che un eroe si trovi in perpetuo pericolo. Grazie al Cielo è così facile da scrivere e così facile da leggere; non è alcun disonore essere annoverati con Dumas e ringraziati per una fertilità pari alla sua. Ma congegnare un solo trabocchetto che venga ispezionato da esperti per l'intera lunghezza di un libro, e mai riconosciuto come trabocchetto, questo è lavoro per un uomo di tutt'altra specie; e persino Trent lo chiamò il suo Ultimo Caso, e ha rifiutato di tentare ancora.
+Ma, in verità, c'è un'altra distinzione da fare.
+Persino al loro meglio, le storie del signor Edgar Wallace generalmente non sono
+storie poliziesche, bensì storie d'avventura. Le due sono troppo
+confuse sotto il vago titolo di shockers o romanzi sensazionali;
+e gli scrittori stessi spesso si confondono su quale delle
+due stiano scrivendo. Ma il tipo di storia che si può sfornare
+in tal numero è normalmente la storia di varia avventura;
+come la sfornavano Dumas, o, se è per questo, Henty.
+Non è così difficile pianificare, due o tre volte
+alla settimana, una sorta di corsa a ostacoli fatta di trappole e agguati,
+così che un eroe sia in perpetuo pericolo. Grazie al Cielo
+è così facile da scrivere e così facile da leggere; non è alcuna vergogna
+essere classificati con Dumas e ringraziati per una fertilità come la sua.
+Ma costruire un'unica trappola che venga ispezionata da esperti per
+l'intera lunghezza di un libro, e mai scoperta essere affatto una trappola,
+questo è lavoro per un tipo d'uomo diverso; e persino Trent lo chiamò
+il suo Ultimo Caso e ha rifiutato di riprovare.

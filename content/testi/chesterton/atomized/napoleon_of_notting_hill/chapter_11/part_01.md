@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11">Chapter 11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11/part_02">part 02 ›</a></div>
@@ -146,3 +148,145 @@ across a desk, pulled out a fountain-pen and began writing with
 feverish intensity, reading clauses and fragments aloud to himself,
 and [[rolling]] them on his tongue like wine, to see if they had
 the pure journalistic flavour.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11">Chapter 11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO II
+
+IL CORRISPONDENTE DEL "[[Court|COURT]] JOURNAL"
+
+IL GIORNALISMO era divenuto come la maggior parte delle altre cose in Inghilterra,
+sotto il cauto [[government|governo]] e la [[philosophy|filosofia]] rappresentati da
+[[James Barker]], alquanto sonnolento e assai diminuito d'importanza.
+Ciò era dovuto in parte alla scomparsa del [[government|governo]] di partito
+e dei comizi pubblici, in parte al compromesso o allo stallo
+che aveva reso impossibili le guerre estere, ma soprattutto, naturalmente,
+al temperamento dell'intera nazione, che era quello di un popolo in una
+specie di acqua [[Water|stagnante]]. Forse il più [[Well|noto]] dei giornali
+superstiti era il [[Court]] Journal, che si pubblicava in un ufficio polveroso
+ma d'aspetto distinto, appena fuori da Kensington High Street.
+Poiché quando tutti i giornali di un popolo sono andati per anni facendosi
+sempre più smorti e compassati e ottimisti, il più smorto
+e più compassato e più ottimista ha ogni probabilità di vincere.
+Nella competizione giornalistica ancora in corso all'inizio
+del ventesimo secolo, il vincitore finale fu il [[Court]] Journal.
+
+Per qualche misteriosa ragione il [[King|Re]] aveva un grande affetto per il gironzolare
+attorno all'ufficio del [[Court]] Journal, fumando una sigaretta mattutina e
+scorrendo gli archivi.  Come tutti gli uomini invincibilmente oziosi, amava molto
+poltrire e chiacchierare nei luoghi dove altri lavoravano.
+Ma si sarebbe pensato che, perfino nella prosaica Inghilterra dei suoi giorni,
+avrebbe potuto trovare un centro più animato.
+
+In quella particolare mattina, però, uscì da Kensington Palace
+con passo più svelto e aria più indaffarata del solito.
+Indossava una finanziera stravagantemente lunga, un panciotto verde pallido,
+una cravatta nera assai ampia e sciolta, e curiosi guanti gialli.
+Questa era la sua uniforme di Colonnello di un reggimento di sua creazione,
+il 1° Verde dei Decadenti.  Era una bella vista vederlo
+addestrarli.  Attraversò rapidamente il Parco e la High Street,
+accendendosi la sigaretta mentre andava, e spalancò la porta
+dell'ufficio del [[Court]] Journal.
+
+«Hai sentito la notizia, Pally... hai sentito la notizia?» disse.
+
+Il Direttore si chiamava Hoskins, ma il [[King|Re]] lo chiamava Pally,
+che era un'abbreviazione di Palladio delle nostre Libertà.
+
+«[[Well|Ebbene]], Maestà,» disse Hoskins, lentamente (era una persona preoccupata,
+dall'aspetto signorile, con una barba castana disordinata)
+«... [[Well|ebbene]], Maestà, ho sentito cose piuttosto curiose, ma io...»
+
+«Ne sentirai di più,» disse il [[King|Re]], accennando qualche
+passo di una specie di shuffle da negro.  «Ne sentirai di più,
+mio [[Blood|sangue]]-e-tuono tribuno.  Sai cosa sto per
+fare per te?»
+
+«No, Maestà,» rispose il Palladio, vagamente.
+
+«Rendo il tuo giornale forte, ardito, intraprendente,»
+disse il [[King|Re]].  «Ora, dove sono i tuoi manifesti sulla disfatta di ieri [[Night|notte]]?»
+
+«Non mi proponevo, Maestà,» disse il Direttore, «di avere
+alcun manifesto, per l'esattezza...»
+
+«Carta, carta!» gridò il [[King|Re]], selvaggiamente; «portami carta grande
+come una [[house|casa]].  Ti faccio io i manifesti.  Ferma, devo togliermi la giacca.»
+Cominciò a togliersi quell'indumento con aria di ferma intensità, lo scagliò
+scherzosamente addosso alla testa del signor Hoskins, avvolgendolo interamente, e si guardò
+allo specchio.  «La giacca via,» disse, «e il cappello in testa.
+Questo somiglia a un vicedirettore.  È davvero l'essenza stessa
+del vicedirigere.  [[Well|Bene]],» proseguì, voltandosi di scatto,
+«forza, con quella carta.»
+
+Il Palladio si era appena districato con riverenza dalle
+pieghe della finanziera del [[King|Re]], e disse sconcertato:
+
+«Temo, Maestà...»
+
+«Oh, non hai spirito d'iniziativa,» disse Auberon.  «Cos'è quel rotolo
+nell'angolo?  Carta da parati?  Decorazioni per la tua dimora privata?
+L'Arte in [[Home|casa]], Pally?  Buttamela qua, e ti dipingerò
+manifesti tali sul retro che quando la appenderai nel tuo
+salotto incollerai il disegno originale contro il muro.»
+E il [[King|Re]] srotolò la carta da parati, stendendola su tutto il pavimento.
+«Ora dammi le forbici,» gridò, e le prese lui stesso prima
+che l'altro potesse muoversi.
+
+Tagliò la carta in circa cinque pezzi, ognuno grande quasi come una porta.
+Poi prese una grossa matita blu e si mise in ginocchio sull'
+incerata polverosa, e cominciò a scrivervi sopra, a lettere enormi:
+
+«DAL FRONTE.  IL GENERALE BUCK SCONFITTO.  TENEBRE, PERICOLO E [[Death|MORTE]].
+WAYNE SAREBBE A PUMP STREET.  FERMENTO NELLA [[City|CITTÀ]].»
+
+Lo contemplò per qualche [[Time|tempo]], con la testa da un lato,
+e si alzò, con un sospiro.
+
+«Non abbastanza intenso,» disse... non allarmante.
+«Voglio che il [[Court]] Journal sia temuto oltre che [[Well|amato]].  Proviamo
+qualcosa di più incisivo.»  E si rimise in ginocchio.
+Dopo aver succhiato la matita blu per qualche [[Time|tempo]], ricominciò
+a scrivere alacremente.  «Come va questo?» disse:
+
+«MERAVIGLIOSA VITTORIA DI WAYNE.»
+
+«Suppongo,» disse, alzando lo sguardo con aria supplichevole, e succhiando la matita
+«suppongo che non potremmo dire 'wittoria'... 'La meravigliosa wittoria di Wayne'?
+No, no.  Raffinatezza, Pally, raffinatezza.  Ci sono.»
+
+«WAYNE VINCE.  STUPEFACENTE BATTAGLIA NEL BUIO.  I lampioni a gas nel loro
+corso combatterono contro Buck.»
+
+«(Niente come la nostra bella vecchia [[Translation|traduzione]] inglese.)  Cos'altro possiamo dire?
+[[Well|Beh]], qualsiasi cosa per irritare il vecchio Buck;» e aggiunse, pensieroso,
+in lettere più piccole:
+
+«Si vocifera di una [[Court|Corte]] marziale sul Generale Buck.»
+
+«Questi andranno bene per il momento,» disse, e li rivoltò entrambi
+a faccia in giù.  «Colla, prego.»
+
+Il Palladio, con aria di gran terrore, portò la colla
+da una stanza interna.
+
+Il [[King|Re]] la spalmò col godimento di un [[Child|bambino]] che pasticcia
+con la melassa.  Poi, prendendo una delle sue enormi composizioni che svolazzavano
+in ciascuna mano, corse fuori, e cominciò ad affiggerle in posizioni
+ben visibili sulla facciata dell'ufficio.
+
+«E ora,» disse Auberon, rientrando con vivacità immutata
+«ora l'articolo di fondo.»
+
+Prese un'altra delle grandi strisce di carta da parati, e, stendendola
+su una scrivania, tirò fuori una penna stilografica e cominciò a scrivere con
+febbrile intensità, leggendo clausole e frammenti ad alta voce a sé stesso,
+e [[rolling|rigirandoseli]] sulla lingua come vino, per vedere se avessero
+il puro sapore giornalistico.

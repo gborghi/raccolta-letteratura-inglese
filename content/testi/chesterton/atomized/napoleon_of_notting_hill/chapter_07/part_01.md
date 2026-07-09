@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07">Chapter 07</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07/part_02">part 02 ›</a></div>
@@ -141,3 +143,140 @@ and so he praised them...because they were shadows and colours.
 He saw all this because he was a poet, though in practice a bad poet.
 It is too often forgotten that just as a bad man is nevertheless a man,
 so a bad poet is nevertheless a poet.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07">Chapter 07</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07/part_02">part 02 ›</a></div>
+</nav>
+
+LIBRO III
+CAPITOLO I
+
+LA CONDIZIONE MENTALE DI [[Adam Wayne|ADAM WAYNE]]
+
+POCO dopo l'ascesa al trono del [[King|Re]] apparve un piccolo libro di [[Poems|poesie]],
+intitolato «Inni della [[Hill|Collina]]».  Non erano buone [[Poems|poesie]],
+né il libro ebbe successo, ma attirò una certa dose di
+attenzione da parte di una particolare scuola di critici.  Lo stesso [[King|Re]],
+che era membro della scuola, lo recensì nella sua veste di
+critico letterario di «Straight from the Stables», una rivista sportiva.
+Erano noti come la Scuola dell'Amaca, perché era stato calcolato
+malignamente da un nemico che non meno di tredici delle loro delicate
+recensioni erano cominciate con le parole: «Ho letto questo libro in un'amaca;
+mezzo addormentato nella luce sonnolenta del sole, io...»; dopo di che venivano
+differenze importanti.  In tali condizioni apprezzavano ogni cosa,
+ma specialmente ogni cosa sciocca.  «Dopo l'autentica bontà
+in un libro,» dicevano «dopo l'autentica bontà in un libro
+(e quella, ahimè!, non la troviamo mai) noi [[Desire|desideriamo]] una ricca cattiveria.»
+Così accadde che la loro lode (in quanto indice della presenza di una
+ricca cattiveria) non fosse universalmente ambita, e gli autori
+si turbavano un poco quando scoprivano l'occhio della Scuola dell'Amaca
+fisso su di loro con singolare favore.
+
+La peculiarità di «Inni della [[Hill|Collina]]» era la celebrazione della
+poesia di [[London|Londra]] in quanto distinta dalla poesia della campagna.
+Questo sentimento, o affettazione, non era certo raro nel
+ventesimo secolo, né era, per quanto talvolta esagerato,
+e talvolta artificiale, in alcun modo privo di una grande [[Truth|verità]] alla radice,
+poiché vi è un aspetto per cui una città dev'essere più poetica
+della campagna, essendo più vicina allo spirito dell'uomo; giacché [[London|Londra]],
+se non è uno dei capolavori dell'uomo, è almeno uno dei suoi peccati.
+Una strada è davvero più poetica di un prato, perché una strada
+ha un segreto.  Una strada va da qualche parte, e un prato in nessun luogo.
+Ma, nel caso del libro intitolato «Inni sulla [[Hill|Collina]]»,
+vi era un'altra peculiarità, che il [[King|Re]] mise in luce con grande
+acume nella sua recensione.  Egli era naturalmente interessato alla questione,
+poiché aveva egli stesso pubblicato un volume di liriche su [[London|Londra]] sotto
+il suo pseudonimo di «Daisy Daydream».
+
+Questa differenza, come il [[King|Re]] fece notare, consisteva nel fatto che,
+mentre semplici artefici come «Daisy Daydream» (sul cui elaborato
+stile il [[King|Re]], sotto la firma di «Thunderbolt», era forse
+un po' troppo severo) pensavano di lodare [[London|Londra]] paragonandola alla
+campagna... usando cioè la [[Nature|natura]] come sfondo da cui trarre tutte le
+immagini poetiche... il più robusto autore di «Inni della [[Hill|Collina]]»
+lodava la campagna, ovvero la [[Nature|natura]], paragonandola alla città,
+e usava la città stessa come sfondo.  «Prendete,» disse il critico,
+«i versi tipicamente femminili, "All'Inventore della Carrozzella"»
+
+«Poeta, la cui astuzia scolpì questa amorosa conchiglia, ove due possano dimorare.»
+
+"Certo," scrisse il [[King|Re]], "nessuno se non una donna avrebbe potuto scrivere
+quei versi.  Una donna ha sempre un debole per la [[Nature|natura]]; per lei,
+l'arte è bella solo come eco o [[Shadow|ombra]] di essa.  Ella loda
+la carrozzella per tema e teoria, ma la sua [[Soul|anima]] è ancora una [[Child|bambina]]
+in riva al mare, che raccoglie conchiglie.  Non potrà mai essere del tutto cittadina,
+come può esserlo un uomo; e invero, non diciamo forse (con sacra proprietà)
+di 'un uomo di mondo'?  Chi ha mai parlato di una donna di mondo?
+Per quanto, fisicamente, 'di mondo' una donna possa essere, ella si modella pur sempre
+sulla [[Nature|natura]]; cerca di portare la [[Nature|natura]] con sé; ordina alle erbe
+di crescerle sul capo, e alle bestie pelose di morderla intorno alla gola.
+Nel cuore di una fosca [[City|città]], modella il suo cappello su un fiammeggiante
+[[Garden|giardino]] campestre di [[Flowers|fiori]].  Noi, col nostro più nobile sentimento civico,
+modelliamo il nostro su un comignolo; l'insegna della civiltà.
+E piuttosto che restare senza [[Birds|uccelli]], commetterà un massacro, pur di
+trasformare il proprio capo in un albero, con [[Birds|uccelli]] morti che vi cantino."
+
+Questa sorta di cose continuò per parecchie pagine, e poi il critico
+si ricordò del suo soggetto, e vi tornò.
+
+"Poeta, la cui astuzia scolpì questa amorosa conchiglia, ove due possano dimorare."
+
+"La peculiarità di questi versi belli benché femminili,"
+proseguì "Thunderbolt", "è, come abbiamo detto, che essi lodano
+la carrozzella paragonandola alla conchiglia, a una cosa naturale.
+Ora, udite l'autore di ' Inni della [[Hill|Collina]],' e come tratta
+il medesimo soggetto.  Nel suo bel notturno, intitolato ' L'Ultimo Omnibus,'
+egli allevia la ricca e pungente [[Melancholy|malinconia]] del tema con un improvviso
+senso di corsa alla fine"
+
+' Il [[Wind|vento]] intorno al vecchio angolo della strada sterzò improvviso e rapido
+come una carrozza.'
+
+"Qui la distinzione è evidente.  ' Daisy Daydream' ritiene
+un grande complimento per una carrozzella l'essere paragonata a una delle spiraliche
+camere del mare.  E l'autore di ' Inni sulla [[Hill|Collina]]'
+ritiene un grande complimento per l'immortale turbine l'essere paragonato
+a una vettura di piazza.  Egli è di certo il vero ammiratore di [[London|Londra]].
+Non abbiamo spazio per parlare di tutte le sue perfette applicazioni dell'idea;
+della poesia in cui, per esempio, gli occhi di una dama sono paragonati
+non alle [[Stars|stelle]], ma a due perfetti lampioni che guidano il viandante.
+Non abbiamo spazio per parlare della bella [[Lyric|lirica]], che richiama lo
+spirito elisabettiano, in cui il poeta, invece di dire
+che la [[Rose|rosa]] e il giglio si contendono il suo incarnato, dice,
+con un modernismo più puro, che l'omnibus rosso di Hammersmith
+e l'omnibus bianco di Fulham vi combattono per il dominio.
+Quanto è perfetta l'immagine di due omnibus in lotta!"
+
+Qui, in modo alquanto brusco, la recensione si concluse, probabilmente perché il [[King|Re]]
+doveva spedire la sua copia in quel momento, trovandosi in qualche ristrettezza di denaro.
+Ma il [[King|Re]] era un ottimo critico, qualunque cosa fosse stato come [[King|Re]],
+e aveva, in misura considerevole, colto nel segno.
+«Inni sulla [[Hill|Collina]]» non somigliava affatto alle [[Poems|poesie]] originariamente
+pubblicate in lode della poesia di [[London|Londra]].  E la ragione
+era che era davvero stato scritto da un uomo che non aveva visto null'altro
+che [[London|Londra]], e che perciò la considerava l'universo.
+Era stato scritto da un ragazzo rozzo, dai capelli rossi, di diciassette anni, di nome [[Adam Wayne]],
+nato a Notting [[Hill]].  Un incidente nel suo settimo anno
+gli impedì di essere portato al mare, e così la sua intera vita
+era trascorsa nella sua Pump Street, e nei suoi dintorni.
+E la conseguenza fu che egli vedeva i lampioni come cose
+eterne quanto le [[Stars|stelle]]; i due fuochi si mescolavano.
+Vedeva le case come cose durature, simili alle [[Mountains|montagne]],
+e così scriveva di esse come si scriverebbe delle [[Mountains|montagne]].
+La [[Nature|Natura]] indossa un travestimento quando parla a ogni uomo; a quest'uomo
+indossò il travestimento di Notting [[Hill]].  La [[Nature|Natura]] significherebbe, per un poeta
+nato tra le colline del Cumberland, un cielo tempestoso e rocce improvvise.
+La [[Nature|Natura]] significherebbe, per un poeta nato nelle piane dell'Essex, una distesa di splendide
+acque e splendidi tramonti.  Così la [[Nature|natura]] significò per quest'uomo Wayne
+una fila di tetti violacei e di lampade color limone, il chiaroscuro della città.
+Non riteneva arguto o buffo lodare le ombre e
+i colori della città; non aveva visto altre ombre o altri colori,
+e perciò li lodava... perché erano ombre e colori.
+Vedeva tutto ciò perché era un poeta, benché in pratica un cattivo poeta.
+Troppo spesso si dimentica che, proprio come un uomo cattivo è nondimeno un uomo,
+così un cattivo poeta è nondimeno un poeta.

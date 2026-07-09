@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_17">‹ part 17</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_19">part 19 ›</a></div>
@@ -199,3 +201,198 @@ being done to the porch and some loose board or pole was not
 removed sufficiently promptly from her path: was, in fact, as she
 
 declared, removed reluctantly and in a grumbling spirit by the
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_17">‹ part 17</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_19">part 19 ›</a></div>
+</nav>
+
+troppo alto per essere visto; uno era in apparenza paralizzato in ospedale e
+
+usciva dalla [[Window|finestra]] di [[Night|notte]] —»
+
+Joan lo guardò con un'espressione turbata nei suoi onesti
+
+occhi castani.
+
+«La prego, signor Pond, ci dica cosa intende con un uomo troppo alto
+
+per essere visto.»
+
+L'umore di Gahagan, già alto, si librò in risate e leggera
+
+improvvisazione.
+
+«Queste cose accadono, mia cara ragazza,» disse.  «Posso buttar là
+
+mille esempi che calzerebbero al caso.  Prendi, per esempio,
+
+il caso dei miei sventurati amici i Balham-Brown che vivevano a
+
+Muswell [[Hill]].  Il signor Balham-Brown era appena tornato a [[Home|casa]] dall'ufficio
+
+(della Imperial and International Lead-Piping Company) e stava
+
+manovrando il tosaerba nel modo consueto, quando notò nell'
+
+erba una crescita non verde ma rossiccia e somigliante a
+
+pelo animale; anzi, persino a capelli umani.  Il mio amico signor Pond, la cui
+
+collezione privata di Baffi Giganti è impareggiabile (salvo, s'intende,
+
+per l'unica collezione di Sir Samuel Snodd), fu in grado di
+
+identificarla coi lunghi capelli degli Anakiti; e a giudicare dal loro
+
+vigore, il figlio di Anak era sepolto ma ancora vivo.  Con la
+
+malevolenza del mondo scientifico, il professor Pooter controbatté
+
+con la teoria che Giove seppellì i Titani, uno sotto l'Etna,
+
+un altro sotto l'Ossa, e un terzo sotto Muswell [[Hill]].  Comunque, la
+
+villa dei miei malaugurati amici i Balham-Brown fu distrutta, e l'
+
+intero sobborgo sconvolto come da un terremoto, al fine di scavare
+
+il [[Monster|mostro]].  Quando la sua testa [[Alone|soltanto]] emerse, era come una colossale
+
+sfinge; e la signora Balham-Brown si lamentò con le autorità che
+
+il volto la spaventava, perché era troppo grande.  Il signor Pond, che
+
+per caso passava in quel momento, produsse immediatamente un
+
+[[Paradox|paradosso]] (di cui porta sempre una piccola scorta) e disse che,
+
+al contrario, presto avrebbero scoperto che il volto era troppo piccolo.
+
+Per farla breve —»
+
+«O per fare più corta una storia alta,» disse Joan in tono tagliente.
+
+«Quando il Titano fu estratto, era così alto che per le
+
+comuni leggi convergenti della prospettiva, la sua testa nel cielo remoto era
+
+un mero puntino.  Era impossibile discernere o rammentare un solo lineamento di
+
+quel vecchio volto familiare.  Se ne andò a grandi passi; e per fortuna decise di
+
+attraversare a piedi l'Atlantico, dove persino lui parve sommerso.
+
+Si ritiene che la sventurata creatura stesse andando a tenere
+
+conferenze in [[America]]; spinta da quel misterioso istinto che induce
+
+chiunque sia noto per una qualsiasi ragione ad adottare quel corso.»
+
+«[[Well|Ebbene]], hai finito?» chiese Joan.  «Sappiamo tutto di te e
+
+delle tue frottole; e non significano nulla.  Ma quando il signor Pond dice
+
+che qualcuno era troppo alto per essere visto, egli intende qualcosa.  E
+
+cosa può mai intendere?»
+
+«[[Well|Ebbene]],» disse il signor Pond, tossicchiando lievemente, «era in realtà una parte
+
+della storia a cui alludevo poc'anzi.  Non notai
+
+nulla di strano nell'espressione quando la usai; ma riconosco,
+
+ripensandoci, che è, forse, una frase che richiede
+
+spiegazione.»  E procedette, nel suo modo un po' pedante, a
+
+narrare la storia che qui viene ora ripetuta.
+
+Tutto accadde in una stazione balneare alla moda, che era anche un
+
+famoso porto di mare, e, perciò, naturalmente un luogo di concentrazione
+
+per tutta la vigilanza contro le spie, tanto ufficiale quanto dilettantesca.
+
+Sir [[Hubert]] Wotton aveva la responsabilità generale del distretto, ma il signor
+
+Pond aveva un più pratico benché privato presidio della cittadina,
+
+osservando gli eventi da una stretta [[house|casa]] in una via secondaria, una stanza superiore
+
+della quale era stata discretamente trasformata in ufficio; e aveva
+
+due assistenti sotto di sé; un giovane robusto e assai silenzioso di nome
+
+Butt, dal collo taurino e dalle spalle larghe, ma piuttosto basso; e un
+
+impiegato d'un ufficio [[government|governativo]] assai più alto, loquace ed elegante, di nome
+
+Travers, ma da quasi tutti chiamato [[arthur|Arthur]].  Il
+
+gagliardo Butt occupava comunemente una scrivania al pianterreno,
+
+sorvegliando la porta e chiunque vi entrasse; mentre [[arthur|Arthur]] Travers
+
+lavorava nell'ufficio di sopra, dove c'erano certe assai preziose
+
+carte di Stato, compreso l'unico piano delle mine nel porto.
+
+Il signor Pond stesso trascorreva sempre parecchie ore nell'ufficio, ma
+
+aveva più occasione degli altri di fare visite in città, e
+
+aveva una conoscenza generale del vicinato.  Era un vicinato assai
+
+malandato; anzi, consisteva di poche case eleganti, all'antica,
+
+ora per lo più con le imposte chiuse e vuote, poste sull'orlo stesso
+
+d'una specie di catapecchie di casupole, a quel [[Time|tempo]] rose da ciò
+
+che si chiama Malcontento in un grado assai pericoloso, specie in [[Time|tempo]] di
+
+guerra.  Immediatamente fuori dalla sua porta, trovava ben poche cose che
+
+potessero dirsi caratteristiche in quella via senza caratteristiche; ma c'era
+
+un vecchio negozio di curiosità di fronte, con un'esposizione di antiche armi
+
+asiatiche; e c'era la signora Hartog-Haggard della porta accanto, più allarmante
+
+di tutte le armi del mondo.
+
+La signora Hartog-Haggard era una di quelle persone, che si trovano qua e
+
+là, che paiono la convenzionale caricatura della zitella,
+
+benché in realtà siano eccellenti madri di famiglia.  Piuttosto allo
+
+stesso modo, somigliava assai al tipo di signora che è orribilmente
+
+infervorata alle riunioni pacifiste; eppure, in verità, era
+
+appassionatamente patriottica, per non dire militarista.  E, in effetti,
+
+è spesso vero che quei due estremi si prestano allo stesso
+
+genere di fluente [[Fanaticism|fanatismo]].  Il povero signor Pond aveva ragione di ricordare
+
+il giorno doloroso in cui vide per la prima volta la sua figura angolosa e agitata
+
+oscurare la sua soglia mentre entrava dalla strada, scrutando
+
+con sospetto attraverso i suoi curiosi occhiali quadrati.  Vi fu
+
+apparentemente un certo lieve ritardo al suo ingresso; si stavano facendo alcune riparazioni
+
+al portico e qualche asse o palo allentato non fu
+
+rimosso abbastanza prontamente dal suo cammino: fu, anzi, come ella
+
+dichiarò, rimosso con riluttanza e in spirito brontolone dagli

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05">‹ Chapter 05</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07">Chapter 07 ›</a></div>
@@ -489,3 +491,488 @@ The [[King]] fell back in his chair, and went into a roar
 of Rabelaisian laughter.
 
 "I don't think you have," he cried.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05">‹ Chapter 05</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07">Chapter 07 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_04">Part 4</a></li></ul>
+</nav>
+
+CAPITOLO III
+
+ENTRA IN SCENA UN PAZZO
+
+IL [[King|Re]] delle Fate, che era, c'è da presumere, il padrino
+di [[King|Re]] Auberon, doveva essere stato molto benevolo in quel particolare
+giorno verso il suo fantastico figlioccio, poiché con l'ingresso della guardia
+del Prevosto di Notting [[Hill]] vi fu un certo, più o meno
+inspiegabile, accrescimento della sua gioia.  I miseri sterratori e
+gli uomini-sandwich che portavano i colori di Bayswater o di South Kensington,
+ingaggiati soltanto per la giornata per assecondare il passatempo Regale, si trascinarono
+nella sala con un'aria comparativamente da cani bastonati, e gran parte
+del piacere intellettuale del [[King|Re]] consisteva nel contrasto tra
+l'arroganza delle loro spade e dei loro pennacchi e la mite miseria
+dei loro volti.  Ma questi alabardieri di Notting [[Hill]] nelle loro rosse
+tuniche cinte d'oro avevano piuttosto l'aria di un'assurda gravità.
+Sembravano, per così dire, prendere parte allo scherzo.
+Marciarono e ruotarono in posizione con una dignità e una disciplina
+quasi sorprendenti.
+
+Recavano uno stendardo giallo con un grande [[Lion|leone]] rosso, chiamato dal
+[[King|Re]] emblema di Notting [[Hill]], dal nome di una piccola osteria [[house|pubblica]]
+del vicinato che egli un tempo frequentava.
+
+Fra le due file dei suoi seguaci avanzò verso il [[King|Re]]
+un giovane alto, dai capelli rossi, dai tratti marcati e dagli arditi occhi azzurri.
+Lo si sarebbe detto bello, se non fosse stato per una certa indefinibile
+aria che il suo naso avesse di essere troppo grande per il volto, e i piedi
+per le gambe, il che gli conferiva un aspetto goffo e di estrema giovinezza.
+Le sue vesti erano rosse, secondo l'araldica del [[King|Re]],
+e [[Alone|solo]] fra i Prevosti egli era cinto di una grande [[Sword|spada]].
+Costui era [[Adam Wayne]], l'intrattabile Prevosto di Notting [[Hill]].
+
+Il [[King|Re]] si lasciò ricadere all'indietro sulla sedia e si stropicciò le mani.
+
+«Che giornata, che giornata!» disse fra sé.  «Ora ci sarà una lite.
+Non avevo idea che sarebbe stata tanto divertente quanto è.  Questi Prevosti sono
+così indignati, così ragionevoli, così nel giusto.  Questo tale,
+a giudicare dallo sguardo, è ancor più indignato degli altri.
+Nessun segno, in quei grandi occhi azzurri, di aver mai
+sentito parlare di uno scherzo.  Rimprovererà gli altri, e loro
+rimprovereranno lui, e tutti si renderanno sontuosamente
+felici rimproverando me.»
+
+«Benvenuto, mio Lord,» disse ad alta voce.  «Che notizie dalla [[Hill|Collina]] delle
+Cento Leggende?  Che cosa avete per l'orecchio del vostro [[King|Re]]?  So
+che sono sorti dei contrasti fra voi e questi altri,
+nostri cugini, ma sarà nostro [[Pride|orgoglio]] comporli.
+E non [[Doubt|dubito]], e non posso [[Doubt|dubitare]], che il vostro [[Love|amore]] per me non sia
+meno tenero, non meno ardente del loro.»
+
+Il signor Buck fece una smorfia amara, e le narici di [[James Barker]] si arricciarono;
+Wilson cominciò a ridacchiare debolmente, e il Prevosto di West Kensington
+lo seguì in modo soffocato.  Ma i grandi occhi azzurri di [[Adam Wayne]]
+non mutarono, ed egli gridò con una strana voce fanciullesca per tutta la sala:
+
+«Reco omaggio al mio [[King|Re]].  Gli reco l'unica cosa
+che ho... la mia [[Sword|spada]].»
+
+E con un ampio gesto la gettò a terra, e si inginocchiò
+su un solo ginocchio dietro di essa.
+
+Vi fu un [[Silence|silenzio]] di morte.
+
+«Chiedo scusa,» disse il [[King|Re]], sconcertato.
+
+«Parlate [[Well|bene]], sire,» disse [[Adam Wayne]], «come sempre parlate,
+quando dite che il mio [[Love|amore]] non è minore dell'[[Love|amore]] di costoro.
+Ben piccolo sarebbe, se non fosse maggiore.  Poiché io sono l'erede
+del vostro disegno... il [[Child|figlio]] della grande Carta.  Sto qui in nome
+dei diritti che la Carta mi ha dato, e giuro, sulla vostra sacra [[Crown|corona]],
+che dove sto, sto saldo.»
+
+Gli occhi di tutti e cinque gli uomini schizzarono fuori dalle orbite.
+
+Poi Buck disse, con la sua voce gioviale e stridula: «È impazzito il mondo intero?»
+
+Il [[King|Re]] balzò in piedi, e i suoi occhi fiammeggiarono.
+
+«Sì,» gridò, con voce di esultanza, «il mondo intero è pazzo,
+tranne [[Adam Wayne]] e me.  È vero come la [[Death|morte]] ciò che ti dissi tempo fa,
+[[James Barker]]: la serietà fa impazzire gli uomini.  Tu sei pazzo, perché ti
+curi di politica, pazzo come chi colleziona biglietti del tram.
+Buck è pazzo, perché si cura del denaro, pazzo come chi vive
+d'oppio.  Wilson è pazzo, perché si crede nel giusto,
+pazzo come chi si crede Dio Onnipotente.  Il Prevosto
+di West Kensington è pazzo, perché si crede rispettabile,
+pazzo come chi si crede un pollo.  Tutti gli uomini sono pazzi,
+tranne l'umorista, che non si cura di nulla e possiede ogni cosa.
+Credevo che ci fosse un solo umorista in Inghilterra.
+Sciocchi!... stupidi!... spalancate quei vostri occhi di bue; ce ne sono due!
+A Notting [[Hill]]... su quella poco promettente altura... è nato
+un [[Artist|Artista]]!  Credevate di guastarmi lo scherzo, e di scacciarmene a forza,
+facendovi sempre più moderni, sempre più pratici, sempre
+più indaffarati e razionali.  Oh, che festa fu rispondervi
+facendomi sempre più augusto, sempre più grazioso, sempre
+più antico e maturo!  Ma questo ragazzo ha capito come mettermi fuori gioco.
+Mi ha risposto per le rime, vanto per vanto, retorica per retorica.
+Ha levato l'unico scudo che non posso spezzare, lo scudo di un'
+impenetrabile pomposità.  Ascoltatelo.  Siete venuto, mio Lord,
+a proposito di Pump Street?»
+
+«A proposito della [[City|città]] di Notting [[Hill]],» rispose Wayne, con orgoglio.
+«Di cui Pump Street è una parte viva ed esultante.»
+
+«Non una parte molto grande,» disse Barker, sprezzante.
+
+«Ciò che è abbastanza grande perché il ricco lo brami,» disse Wayne,
+raddrizzando la testa, «è abbastanza grande perché il povero lo difenda.»
+
+Il [[King|Re]] si diede una manata su entrambe le gambe, e agitò i piedi per un attimo
+nell'aria.
+
+«Ogni persona rispettabile di Notting [[Hill]],» tagliò corto Buck,
+con la sua voce fredda e volgare, «è con noi e contro di voi.
+Ho un mucchio di amici a Notting [[Hill]].»
+
+«I vostri amici sono coloro che hanno preso il vostro oro per i focolari
+altrui, mio Lord Buck,» disse il Prevosto Wayne.
+«Posso [[Well|ben]] credere che siano vostri amici.»
+
+«Non hanno mai venduto giocattoli sudici, in ogni caso,» disse Buck, con una breve risata.
+
+«Hanno venduto cose più sudicie,» disse Wayne, con calma; «hanno
+venduto se stessi.»
+
+«Non c'è niente da fare, mio Buckling,» disse il [[King|Re]], [[rolling|rotolandosi]] sulla
+sedia.  «Non potete tener testa a questa eloquenza cavalleresca.
+Non potete tener testa a un [[Artist|Artista]].  Non potete tener testa all'umorista
+di Notting [[Hill]].  Oh, Nunc dimittis... che io abbia vissuto per vedere questo giorno!
+Prevosto Wayne, restate saldo?»
+
+«Lasciate che aspettino e vedano,» disse Wayne.  «Se sono stato saldo prima,
+credete che vacillerò ora che ho visto il volto del
+[[King|Re]]?  Poiché io combatto per qualcosa di più grande, se più grande può esservi,
+dei focolari del mio popolo e della Signoria del [[Lion|Leone]].
+Combatto per la vostra visione regale, per il grande sogno che sognaste
+della Lega delle Città Libere.  Voi mi avete dato questa libertà.
+Se fossi stato un mendicante e voi mi aveste gettato una moneta, se fossi
+stato un contadino a una [[Dance|danza]] e voi mi aveste gettato un favore, credete
+che l'avrei lasciato prendere da un qualsiasi furfante sulla [[Road|strada]]?
+Questa guida e questa libertà di Notting [[Hill]] sono un dono di Vostra Maestà.
+E se mi verranno tolte, per Dio! saranno tolte in battaglia,
+e il fragore di quella battaglia si udrà negli appartamenti di Chelsea
+e negli studî di St. John's Wood.»
+
+«È troppo... è troppo,» disse il [[King|Re]].  «La [[Nature|Natura]] è debole.
+Devo parlarvi, fratello [[Artist|Artista]], senza ulteriore maschera.
+Lasciate che vi ponga una domanda solenne.  [[Adam Wayne]], Lord Alto Prevosto
+di Notting [[Hill]], non lo trovate splendido?»
+
+«Splendido!» esclamò [[Adam Wayne]].  «Ha lo splendore di Dio.»
+
+«Di nuovo messo fuori gioco,» disse il [[King|Re]].  «Voi terrete su la posa.
+Buffamente, certo, è cosa seria.  Ma seriamente, non è buffo?»
+
+«Che cosa?» chiese Wayne, con gli occhi di un neonato.
+
+«Diavolo, non recitate più.  Tutta questa faccenda... la Carta
+delle Città.  Non è immensa?»
+
+«Immenso non è parola indegna per quel glorioso disegno.»
+
+«Oh, alla malora... ma, certo, capisco.  Volete che liberi la sala
+da queste scrofe ragionevoli.  Volete i due umoristi da [[Alone|soli]] insieme.
+Lasciateci, signori.»
+
+Buck lanciò a Barker un'occhiata acida, e a un tetro segnale l'intero
+corteo azzurro e verde, rosso, oro e porpora defluì fuori
+dalla sala, lasciandone soltanto due nel grande salone: il [[King|Re]] seduto
+al suo posto sul predellino, e la figura vestita di rosso ancora inginocchiata
+sul pavimento davanti alla sua [[Sword|spada]] caduta.
+
+Il [[King|Re]] balzò giù per i gradini e diede una pacca sulla schiena al Prevosto Wayne.
+
+«Prima che le [[Stars|stelle]] fossero fatte,» gridò, «noi fummo fatti l'uno per l'altro.
+È troppo bello.  Pensate alla valorosa indipendenza di Pump Street.
+Ecco la cosa vera.  È la deificazione del ridicolo.»
+
+La figura inginocchiata balzò in piedi con una fiera vacillante scossa.
+
+«Ridicolo!» gridò, col volto infuocato.
+
+«Oh, suvvia, suvvia,» disse il [[King|Re]], spazientito.  «Non c'è bisogno di
+mantenerla con me.  Gli àuguri devono pur strizzare l'occhio ogni tanto per pura stanchezza
+delle palpebre.  Godiamoci questo per mezz'ora, non da attori,
+ma da critici drammatici.  Non è uno scherzo?»
+
+[[Adam Wayne]] abbassò lo sguardo come un ragazzo, e rispose con voce trattenuta:
+
+«Non capisco Vostra Maestà.  Non posso credere che, mentre io
+combatto per la vostra carta regale, Vostra Maestà mi abbandoni per questi [[dogs|cani]]
+della caccia all'oro.»
+
+«Oh, che tu sia... Ma cos'è questo?  Che diavolo è questo?»
+
+Il [[King|Re]] scrutò il volto del giovane Prevosto, e nella penombra
+della sala cominciò a vedere che era del tutto bianco,
+e il labbro gli tremava.
+
+«Che cosa mai c'è?» esclamò Auberon, afferrandogli il polso.
+
+Wayne rovesciò all'indietro il volto, e le [[Tears|lacrime]] vi splendevano sopra.
+
+«Sono solo un ragazzo,» disse, «ma è vero.  Dipingerei il [[Lion|Leone]] Rosso
+sul mio scudo, se avessi soltanto il mio [[Blood|sangue]].»
+
+[[King|Re]] Auberon lasciò cadere la mano e rimase immobile, folgorato.
+
+«Mio Dio del Cielo!» disse; «è possibile che ci sia, entro
+i quattro mari di Britannia, un uomo che prenda Notting [[Hill]] sul serio?»
+
+«E mio Dio del Cielo!» disse Wayne appassionatamente; «è possibile
+che ci sia, entro i quattro mari di Britannia, un uomo che non
+lo prenda sul serio?»
+
+Il [[King|Re]] non disse nulla, ma risalì semplicemente i gradini del predellino
+come un uomo stordito.  Ricadde di nuovo sulla sedia e scalciò coi talloni.
+
+«Se questo genere di cose deve continuare,» disse debolmente, «comincerò
+a [[Doubt|dubitare]] della superiorità dell'arte sulla vita.  In nome del Cielo,
+non giocate con me.  Volete davvero dire che siete... Dio mi aiuti!...
+un patriota di Notting [[Hill]]... che siete...»
+
+Wayne fece un gesto violento, e il [[King|Re]] lo placò freneticamente.
+
+«Va bene... va bene... vedo che lo siete; ma lasciatemelo assimilare.
+Vi proponete davvero di combattere questi moderni miglijoratori con le loro
+commissioni e ispettori e agrimensori e tutto il resto...»
+
+«Sono così terribili?» chiese Wayne, sdegnoso.
+
+Il [[King|Re]] continuava a fissarlo come se fosse una curiosità umana.
+
+«E suppongo,» disse, «che pensiate che i dentisti
+e i piccoli bottegai e le zitelle che abitano Notting [[Hill]]
+accorreranno con inni di guerra al vostro vessillo?»
+
+«Se hanno [[Blood|sangue]], lo faranno,» disse il Prevosto.
+
+«E suppongo,» disse il [[King|Re]], con la testa riadagiata fra
+i cuscini, «che non vi sia mai passato per la mente che... la sua voce
+parve smarrirsi lussureggiando... mai passato per la mente
+che qualcuno abbia mai pensato che l'idea di un idealismo
+di Notting [[Hill]] fosse... ehm... lievemente... lievemente ridicola.»
+
+«Certo che lo pensano,» disse Wayne.  «Che significato aveva
+lo schernire i profeti?»
+
+«Dove?» chiese il [[King|Re]], sporgendosi in avanti.  «Dove, in nome del Cielo,
+avete tirato fuori questa idea miracolosamente inetta?»
+
+«Voi siete stato il mio precettore, Sire,» disse il Prevosto, «in tutto ciò che è
+alto e onorevole.»
+
+«Eh?» disse il [[King|Re]].
+
+«Fu Vostra Maestà a ridestare per primo il mio fioco patriottismo in fiamma.
+Dieci anni fa, quando ero ragazzo (ho solo diciannove anni), giocavo
+sul pendio di Pump Street, con una [[Sword|spada]] di legno e un elmo di carta,
+sognando grandi guerre.  In una collera di trance vibrai un colpo con la mia [[Sword|spada]]
+e restai impietrito, poiché vidi di aver colpito voi, Sire, mio [[King|Re]],
+mentre vagavate in una nobile segretezza, vegliando sul bene del vostro popolo.
+Ma non avevo motivo di [[Fear|temere]].  Allora mi fu insegnato a comprendere la regalità.
+Voi non vi ritraeste né vi accigliaste.  Non chiamaste guardie.
+Non invocaste castighi.  Ma con parole auguste e ardenti,
+che sono scritte nella mia [[Soul|anima]], per non essere mai cancellate, mi diceste
+di rivolgere sempre la mia [[Sword|spada]] contro i nemici della mia inviolata [[City|città]].
+Come un sacerdote che addita l'altare, additaste la [[Hill|collina]] di Notting.
+"Fintanto," diceste, "che sarai pronto a morire per la sacra montagna,
+anche se fosse cinta da tutte le armate di Bayswater."
+Non ho dimenticato le parole, e ho ora ragione di
+ricordarle, poiché l'ora è giunta, e con essa la [[Crown|corona]] della vostra profezia.
+La sacra [[Hill|collina]] è cinta dalle armate di Bayswater, e io sono
+pronto a morire.»
+
+Il [[King|Re]] giaceva riverso sulla sedia, una sorta di relitto.
+
+«O Signore, Signore, Signore,» mormorò, «che vita! che vita!
+Tutta opera mia!  Pare che sia stato tutto io.  Così sei tu il ragazzo dai capelli rossi
+che mi colpì al panciotto.  Che cosa ho fatto?  Dio, che cosa ho fatto?
+Credevo di fare uno scherzo, e ho creato una passione.
+Cercavo di comporre un burlesque, e pare che si stia trasformando, a metà
+strada, in un [[Epic|Epos]].  Che farne di un mondo simile?
+In nome del Signore, non era ampio e ardito abbastanza, lo scherzo?
+Ho abbandonato il mio sottile [[Humour|umorismo]] per divertirti, e pare che ti abbia strappato
+[[Tears|lacrime]] dagli occhi.  Che farne della gente, quando scrivi
+una pantomima per essa... chiami le salsicce festoni classici, e il
+poliziotto tagliato in due una [[Tragedy|tragedia]] del pubblico dovere?  Ma perché parlo?
+Perché faccio domande a un simpatico giovane gentiluomo del tutto pazzo?
+A che serve?  A che serve qualsiasi cosa?
+O Signore, o Signore!»
+
+D'improvviso si tirò su diritto.
+
+«Non trovate davvero la sacra Notting [[Hill]] per nulla assurda?»
+
+«Assurda?» chiese Wayne, sbigottito.  «Perché mai dovrei?»
+
+Il [[King|Re]] lo fissò a sua volta ugualmente sbigottito.
+
+«Chiedo scusa?» disse.
+
+«Notting [[Hill]],» disse il Prevosto, semplicemente, «è un'altura o un terreno elevato
+della terra comune, sul quale gli uomini hanno costruito case per abitarvi,
+in cui nascono, si innamorano, [[Love|amano]], pregano, si sposano e muoiono.
+Perché mai dovrei trovarla assurda?»
+
+Il [[King|Re]] sorrise.
+
+«Perché, mio Leonida...» cominciò, poi d'improvviso, non sapeva come,
+si accorse che la sua mente era del tutto vuota.  Dopotutto, perché era assurda?
+Perché era assurda?  Si sentì come se il pavimento della sua mente avesse ceduto.
+Si sentì come si sentono tutti gli uomini quando i loro primi principî vengono colpiti duramente
+da una domanda.  Barker si sentiva sempre così quando il [[King|Re]] diceva:
+«Perché darsi pena della politica?»
+
+I pensieri del [[King|Re]] erano in una specie di rotta; non riusciva a raccoglierli.
+
+«In genere lo si sente un po' buffo,» disse, vagamente.
+
+«Suppongo,» disse Adam, voltandosi verso di lui con una fiera repentinità,
+«suppongo che voi immaginiate che la crocifissione fosse una cosa seria?»
+
+«[[Well|Beh]], io...» cominciò Auberon, «ammetto di aver in genere pensato che
+avesse il suo lato più grave.»
+
+«Allora vi sbagliate,» disse Wayne, con incredibile violenza.
+«La crocifissione è comica.  È squisitamente spassosa.
+Era una sorta di impalamento assurdo e osceno riservato a gente
+che era fatta per essere derisa... a schiavi e provinciali... a
+dentisti e piccoli bottegai, come direste voi.  Ho visto
+la [[Grotesque|grottesca]] forma del patibolo, che i piccoli monelli di strada romani
+scarabocchiavano sui muri come volgare scherzo, fiammeggiare sui pinnacoli
+dei templi del mondo.  E io dovrei tornare indietro?»
+
+Il [[King|Re]] non rispose.
+
+Adam proseguì, la voce che risuonava fino al soffitto.
+
+«Questa risata con cui gli uomini tiranneggiano non è il grande potere che voi
+credete.  Pietro fu crocifisso, e crocifisso a testa in giù.
+Che cosa poteva esservi di più buffo dell'idea di un rispettabile vecchio Apostolo
+a testa in giù?  Che cosa poteva esservi di più nello stile del vostro moderno [[Humour|umorismo]]?
+Ma a che servì?  A testa in giù o dritto,
+Pietro fu Pietro per l'umanità.  A testa in giù, egli pende ancora sull'Europa,
+e milioni si muovono e respirano soltanto nella vita della sua chiesa.»
+
+[[King|Re]] Auberon si alzò distrattamente.
+
+«C'è qualcosa in ciò che dite,» disse.  «Pare che abbiate
+riflettuto, giovanotto.»
+
+«Ho solo sentito, sire,» rispose il Prevosto.  «Sono nato,
+come gli altri uomini, in un angolo della terra che amavo perché
+vi avevo giocato ai giochi dei ragazzi, e mi ero [[Love|innamorato]], e avevo parlato
+con i miei amici per notti che erano notti degli dèi.
+E sento l'[[Riddle|enigma]].  Questi piccoli giardini dove ci confidammo
+i nostri amori.  Queste strade dove portammo fuori i nostri morti.
+Perché dovrebbero essere banali?  Perché dovrebbero essere assurdi?
+Perché dovrebbe essere [[Grotesque|grottesco]] dire che una buca delle lettere è poetica,
+quando per un anno non potei vedere una rossa buca delle lettere contro il giallo
+della sera in una certa via senza essere straziato da qualcosa
+di cui Dio custodisce il segreto, ma che è più forte del dolore o della gioia?
+Perché mai qualcuno dovrebbe poter suscitare una risata dicendo "la Causa
+di Notting [[Hill]]"?... Notting [[Hill]], dove migliaia di spiriti immortali
+fiammeggiano alternando [[Hope|speranza]] e [[Fear|paura]].»
+
+Auberon si stava spazzando via la [[Dust|polvere]] dalla manica con una serietà del tutto nuova
+sul volto, distinta dalla solennità da gufo che era la posa
+del suo [[Humour|umorismo]].
+
+«È molto difficile,» disse infine.  «È una cosa maledettamente
+difficile.  Capisco cosa intendete... concordo con voi
+persino fino a un certo punto... o vorrei concordare con voi,
+se fossi abbastanza giovane da essere un [[Prophet|profeta]] e un poeta.  Sento una [[Truth|verità]]
+in tutto ciò che dite, finché non arrivate alle parole "Notting [[Hill]]".
+E allora, mi dispiace dirlo, il vecchio Adamo si desta ruggendo di risate
+e fa presto giustizia del nuovo Adamo, il cui nome è Wayne.»
+
+Per la prima [[Time|volta]] il Prevosto Wayne tacque, e rimase a fissare
+sognante il pavimento.  La sera calava, e la sala
+si era fatta più buia.
+
+«Lo so,» disse, con una voce strana, quasi assonnata, «c'è
+[[Truth|verità]] anche in ciò che dite voi.  È difficile non ridere dei nomi
+comuni... dico solo che non dovremmo.  Ho pensato a un rimedio;
+ma tali pensieri sono piuttosto terribili.»
+
+«Quali pensieri?» chiese Auberon.
+
+Il Prevosto di Notting [[Hill]] pareva essere caduto in una sorta di trance;
+nei suoi occhi c'era una luce elfica.
+
+«Conosco una bacchetta [[Magic|magica]], ma è una bacchetta che solo uno o due possono
+usare rettamente, e solo di rado.  È una bacchetta fatata di grande [[Fear|paura]],
+più forte di coloro che la usano... spesso spaventosa, spesso malvagia a usarsi.
+Ma qualunque cosa ne sia toccata non è mai più del tutto comune.
+Qualunque cosa ne sia toccata prende una [[Magic|magia]] da fuori del mondo.
+Se io tocco, con questa bacchetta fatata, le ferrovie e le strade di
+Notting [[Hill]], gli uomini le [[Love|ameranno]], e ne avranno paura per sempre.»
+
+«Di che diavolo state parlando?» chiese il [[King|Re]].
+
+«Ha reso magnifici paesaggi meschini, e ha fatto durare tuguri più delle cattedrali,»
+proseguì il pazzo.  «Perché non dovrebbe rendere i lampioni più belli
+delle lampade greche, e una corsa in omnibus simile a una [[Ship|Nave]] dipinta?
+Il suo tocco è il dito di una strana perfezione.»
+
+«Qual è la vostra bacchetta?» esclamò il [[King|Re]], spazientito.
+
+«Eccola,» disse Wayne; e indicò il pavimento, dove la sua [[Sword|spada]]
+giaceva piatta e lucente.
+
+«La [[Sword|spada]]!» esclamò il [[King|Re]]; e balzò dritto in piedi sul predellino.
+
+«Sì, sì,» esclamò Wayne, con voce rauca.  «Le cose toccate da essa
+non sono volgari.  Le cose toccate da essa...»
+
+[[King|Re]] Auberon fece un gesto d'orrore.
+
+«Verserete [[Blood|sangue]] per questo!» esclamò.  «Per un maledetto punto di vista...»
+
+«Oh, voi re, voi re,» esclamò Adam, in uno scoppio di scherno.
+«Come siete umani, come teneri, come premurosi.  Farete guerra
+per una frontiera, o per i dazi d'importazione di un porto straniero; verserete
+[[Blood|sangue]] per il preciso dazio sui merletti, o per il saluto a un ammiraglio.
+Ma per le cose che rendono la vita stessa degna o miserabile... come
+umani siete.  Io dico qui, e so [[Well|bene]] di che cosa parlo,
+che non vi furono mai guerre necessarie se non le guerre di religione.
+Non vi furono mai guerre giuste se non le guerre di religione.
+Non vi furono mai guerre umane se non le guerre di religione.
+Poiché quegli uomini combattevano per qualcosa che pretendeva, almeno,
+di essere la felicità di un uomo, la virtù di un uomo.  Un Crociato pensava,
+almeno, che l'[[Islam]] ferisse l'[[Soul|anima]] di ogni uomo, [[King|re]] o calderaio,
+che riuscisse davvero a catturare.  Io penso che Buck e Barker e questi ricchi
+avvoltoi feriscano l'[[Soul|anima]] di ogni uomo, feriscano ogni pollice di terreno,
+feriscano ogni mattone delle case, che riescano davvero a catturare.
+Credete che io non abbia il diritto di combattere per Notting [[Hill]],
+voi il cui [[government|Governo]] inglese ha così spesso combattuto per sciocchezze?
+Se, come dicono i vostri ricchi amici, non ci sono dèi, e i cieli
+sono bui sopra di noi, per che cosa dovrebbe combattere un uomo, se non per il luogo dove
+ebbe l'Eden dell'[[Childhood|infanzia]] e il breve cielo del primo [[Love|amore]]?
+Se nessun tempio e nessuna scrittura sono sacri, che cosa è sacro se la stessa
+giovinezza di un uomo non è sacra?»
+
+Il [[King|Re]] camminava un po' inquieto avanti e indietro sul predellino.
+
+«È duro,» disse, mordendosi le labbra, «assentire a una veduta
+così disperata... così carica di responsabilità...»
+
+Mentre parlava, la porta della sala delle udienze si socchiuse,
+e attraverso lo spiraglio giunse, come l'improvviso cinguettio di un uccello,
+la voce alta, nasale ma [[Well|ben]] educata di Barker.
+
+«Gli ho detto molto chiaramente... l'interesse pubblico...»
+
+Auberon si voltò verso Wayne con violenza.
+
+«Che diavolo è tutto questo?  Che cosa sto dicendo?  Che cosa state dicendo?
+Mi avete ipnotizzato?  Maledetti i vostri [[Uncanny|inquietanti]] occhi azzurri!
+Lasciatemi andare.  Ridatemi il mio senso dell'[[Humour|umorismo]].  Ridatemelo.
+Ridatemelo, vi dico!»
+
+«Vi assicuro solennemente,» disse Wayne, a disagio, con un gesto,
+come tastandosi dappertutto, «che non ce l'ho io.»
+
+Il [[King|Re]] ricadde sulla sedia, e proruppe in uno scroscio
+di risa rabelaisiane.
+
+«Non credo proprio che ce l'abbiate,» esclamò.

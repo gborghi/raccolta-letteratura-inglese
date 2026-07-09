@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_15">‹ Chapter 15</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_02">part 02 ›</a></div>
@@ -125,3 +127,124 @@ Everything in a [[London]] street completes the fantasy; the carriages
 and cabs themselves resemble deep-sea creatures with eyes of flame.
 He had been startled at first to meet two dragons.  Now he found
 he was among deep-sea dragons possessing the deep sea.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">Chapter 02</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_15">‹ Chapter 15</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_02">part 02 ›</a></div>
+</nav>
+
+CAPITOLO II
+
+L'UOMO IN VERDE
+
+Bastano pochissime parole per spiegare perché [[London|Londra]], fra un centinaio d'anni,
+sarà molto simile a com'è adesso, o piuttosto, poiché devo scivolare in
+un passato profetico, perché [[London|Londra]], quando la mia storia si apre, era molto simile a com'era
+in quei giorni invidiabili in cui io ero ancora vivo.
+
+La ragione può essere enunciata in una sola frase. Il popolo aveva assolutamente
+perduto la [[Faith|Fede]] nelle rivoluzioni. Tutte le rivoluzioni sono dottrinali... come
+quella francese, o quella che introdusse il [[Christianity|Cristianesimo]].
+Poiché è di senso comune che non si può sconvolgere tutto ciò che esiste,
+usanze e compromessi, se non si crede in qualcosa al di fuori di essi,
+qualcosa di positivo e di divino. Ora, l'Inghilterra, durante questo secolo,
+perse ogni fede in questo. Credette in una cosa chiamata Evoluzione.
+E disse: "Tutti i mutamenti teorici sono finiti in [[Blood|sangue]] e noia.
+Se cambiamo, dobbiamo cambiare lentamente e con sicurezza, come fanno gli [[Animals|animali]].
+Le rivoluzioni della [[Nature|Natura]] sono le uniche riuscite. Non c'è stata
+alcuna reazione conservatrice in favore delle code."
+
+E alcune cose cambiarono davvero. Cose a cui non si pensava
+granché scomparvero dalla vista. Cose che non erano accadute spesso non
+accaddero affatto. Così, per esempio, la forza fisica effettiva
+che governava il paese, i soldati e la polizia, si fece sempre più piccola,
+e alla fine svanì quasi fino a un punto. Il popolo unito avrebbe potuto
+spazzar via i pochi poliziotti in dieci minuti: non lo fece,
+perché non credeva che ne avrebbe tratto il minimo giovamento.
+Aveva perduto la [[Faith|Fede]] nelle rivoluzioni.
+
+La [[democracy|Democrazia]] era morta; poiché a nessuno importava che la classe dirigente governasse.
+L'Inghilterra era ormai praticamente un dispotismo, ma non ereditario.
+Qualcuno della classe ufficiale veniva fatto [[King|Re]]. A nessuno importava come;
+a nessuno importava chi. Era semplicemente un segretario universale.
+
+In questo modo accadde che tutto a [[London|Londra]] fosse molto quieto.
+Quel vago e alquanto depresso affidamento sul fatto che le cose accadessero
+come erano sempre accadute, che in tutti i londinesi è uno stato d'animo,
+era divenuto una condizione data per scontata. Non c'era davvero alcuna ragione perché un
+uomo qualsiasi facesse qualcosa di diverso da ciò che aveva fatto il giorno prima.
+
+Non c'era perciò alcuna ragione qualsiasi perché i tre giovanotti che avevano
+sempre camminato insieme fino al loro ufficio del [[government|Governo]] non camminassero
+insieme fino ad esso in questa particolare mattina invernale e nuvolosa.
+Ogni cosa in quell'età era divenuta meccanica, e gli impiegati del [[government|Governo]]
+in special modo. Tutti quegli impiegati si radunavano regolarmente ai loro posti.
+Tre di quegli impiegati camminavano sempre insieme verso il centro.
+Tutto il vicinato li conosceva: due erano alti e uno basso.
+E in questa particolare mattina l'impiegato basso era in ritardo di pochi
+secondi nel raggiungere gli altri due mentre passavano davanti al suo cancello:
+avrebbe potuto raggiungerli in tre falcate; avrebbe potuto chiamarli
+facilmente. Ma non lo fece.
+
+Per una qualche ragione che non sarà mai compresa finché tutte le anime non saranno giudicate
+(se mai saranno giudicate; l'idea era a questo [[Time|tempo]] classificata insieme
+al culto dei feticci) non si unì ai suoi due compagni, ma camminò con passo fermo
+dietro di loro. La giornata era spenta, il loro abito era spento, tutto era spento;
+ma per qualche strano impulso egli camminò attraverso strada dopo strada,
+attraverso quartiere dopo quartiere, guardando le schiene dei due uomini,
+che si sarebbero voltati di scatto al suono della sua voce. Ora, c'è
+una legge scritta nel più oscuro dei Libri della Vita, ed è questa:
+se guardi una cosa novecentonovantanove volte,
+sei perfettamente al sicuro; se la guardi la millesima [[Time|volta]],
+sei in spaventoso pericolo di vederla per la prima [[Time|volta]].
+
+Così il basso funzionario del [[government|Governo]] guardò le falde della finanziera
+degli alti funzionari del [[government|Governo]], e attraverso strada dopo strada,
+e voltando angolo dopo angolo, non vide che falde, falde,
+e ancora falde... quando, senza sapere minimamente perché,
+qualcosa accadde ai suoi occhi.
+
+Due draghi neri camminavano all'indietro davanti a lui.
+Due draghi neri lo guardavano con occhi malvagi.
+I draghi camminavano all'indietro, è vero, ma tenevano
+gli occhi nondimeno fissi su di lui. Gli occhi che vedeva erano,
+in [[Truth|verità]], soltanto i due bottoni sul dietro di una finanziera: forse
+qualche tradizionale [[Memory|memoria]] del loro carattere insensato conferiva questa
+scempia prominenza al loro sguardo. La fessura tra le falde era
+la linea del naso del [[Monster|Mostro]]: ogni volta che le falde sbattevano al [[Winter|vento]]
+[[Wind|invernale]] i draghi si leccavano le labbra. Fu solo una fantasia momentanea,
+ma il piccolo impiegato la trovò incastonata nell'[[Soul|anima]] per sempre dopo.
+Non poté mai più pensare a uomini in finanziera se non come draghi
+che camminavano all'indietro. Spiegò poi, con molto tatto
+e garbo, ai suoi due amici funzionari, che pur nutrendo
+un inesprimibile rispetto per ciascuno di loro non poteva seriamente
+considerare il volto di nessuno dei due come alcunché se non una specie di coda.
+Era, ammise, una bella coda... una coda innalzata in aria.
+Ma se, disse, un qualche vero amico di loro desiderasse vederne i volti,
+guardare negli occhi della loro [[Soul|anima]], a quell'amico si doveva permettere
+di camminare riverentemente dietro di loro, così da vederli da tergo.
+Là avrebbe visto i due draghi neri dagli occhi ciechi.
+
+Ma quando dapprima i due draghi neri balzarono fuori dalla nebbia sul
+piccolo impiegato, ebbero soltanto l'effetto di tutti i miracoli... mutarono
+l'universo. Egli scoprì il fatto che tutti i romantici
+conoscono... che le avventure accadono nei giorni spenti, e non in quelli assolati.
+Quando la corda della monotonia è tesa al massimo, allora si spezza
+con un suono simile a un [[Song|canto]]. Prima aveva a malapena notato il tempo,
+ma con i quattro occhi morti che lo fissavano si guardò attorno e comprese
+la strana giornata morta.
+
+Il mattino era invernale e fioco, non nebbioso, ma oscurato da quell'[[Shadow|ombra]]
+di nube o di [[Snow|neve]] che immerge ogni cosa in un crepuscolo verde o ramato.
+La luce che c'è in una giornata simile pare venire non tanto dai limpidi
+cieli quanto essere una fosforescenza aderente alle forme stesse.
+Il peso del cielo e delle nubi è come un peso di acque, e gli uomini
+si muovono come pesci, sentendo di essere sul fondo di un mare.
+Ogni cosa in una strada di [[London|Londra]] completa la fantasia; le carrozze
+e le vetture stesse somigliano a creature d'abisso con occhi di fiamma.
+Dapprima si era spaventato di incontrare due draghi. Ora scoprì
+di essere tra draghi d'abisso che possedevano l'abisso.

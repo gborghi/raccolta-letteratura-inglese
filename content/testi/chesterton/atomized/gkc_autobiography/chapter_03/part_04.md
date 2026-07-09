@@ -131,108 +131,107 @@ are paid, no questions will be asked about his social standing."
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_03/part_05">part 05 ›</a></div>
 </nav>
 
-È [[Time|tempo]] che si dica qualcosa dei professori,
-e specialmente del Rettore. Per quanto immensamente importanti ci ritenessimo
-al confronto di quei remoti ma rispettabili nemici,
-dopo tutto essi avevano pur qualcosa a che fare con la scuola. Il più
+È [[Time|ora]] che qualcosa si dica sui maestri,
+e specialmente sull'Alto Maestro. Per quanto immensamente importanti ci ritenessimo
+in confronto a quei remoti ma rispettabili nemici,
+dopo tutto essi avevano davvero qualcosa a che fare con la scuola. Il più
 eccentrico e divertente di loro, il signor Elam, è già stato ritratto
 in brillante bianco e nero dalla penna del signor Compton Mackenzie.
-Ho dimenticato se il signor Mackenzie menzionò ciò che sempre mi colpì
-come la più sconcertante eccentricità di quell'eccentrico: l'aperto
-scherno con cui parlava della propria professione e posizione,
-di coloro che la condividevano con lui e persino di coloro che gli erano posti al di sopra
-nel suo esercizio. Spiegava la differenza tra la [[Satire|satira]]
-e l'amarezza del risus sardonicus con questa utile [[Parable|parabola]]:
-«Se camminassi per la strada e cadessi nel fango,
-riderei di una risata sardonica. Ma se vedessi il Rettore
-di questa scuola cadere nel fango, riderei di una risata sarcastica.»
-Ne cito qui il nome soprattutto per un'altra ragione; perché una volta
-sfogò il suo disprezzo per quello che chiamava «il mestiere del ripetitore»
+Ho dimenticato se il signor Mackenzie abbia menzionato ciò che sempre mi colpì
+come l'eccentricità più sconcertante di quell'eccentrico; l'aperta
+derisione con cui parlava della sua stessa professione e posizione,
+di coloro che la condividevano con lui e persino di coloro che erano posti sopra
+di lui nel suo esercizio. Spiegava la differenza tra la [[Satire|Satira]]
+e l'amarezza del risus sardonicus con la utile [[Parable|Parabola]]:
+«Se camminassi per strada e cadessi nel fango,
+farei una risata sardonica. Ma se dovessi vedere l'Alto Maestro
+di questa scuola cadere nel fango, farei una risata sarcastica.»
+Menziono qui il suo nome soprattutto per un'altra ragione; perché una volta
+sfogò il suo disprezzo per ciò che chiamava «il mestiere del bidello»
 nella forma di una domanda retorica rivolta a un ragazzo:
-«Perché i ragazzi vengono mandati a scuola, Robinson?». Robinson, con gli occhi bassi
+«Perché i ragazzi vengono mandati a scuola, Robinson?» Robinson, con gli occhi bassi
 e un'aria di offensiva virtù, rispose fiocamente: «Per imparare, signore.»
-«No, ragazzo, no», disse il vecchio signore scuotendo il capo.
-«Fu perché un giorno a colazione il signor Robinson disse alla
-signora Robinson: "Mia cara, dobbiamo fare qualcosa per quel ragazzo.
-È un fastidio per me ed è un fastidio per te ed è un vero
-flagello per la servitù."» Poi, con un indescrivibile eccesso
-di sprezzo stridente e raschiante: «"Così Pagheremo Qualcuno..."»
+«No, ragazzo, no,» disse il vecchio gentiluomo scuotendo il capo.
+«Fu perché un giorno a colazione il Sig. Robinson disse alla
+Sig.ra Robinson: 'Mia cara, dobbiamo fare qualcosa per quel ragazzo.
+È una seccatura per me ed è una seccatura per te ed è una vera
+piaga per i domestici.'» Poi, con un indescrivibile eccesso
+di macinante e stridente disprezzo: «'Così Pagheremo Un Uomo Qualunque...'»
 
 Dico che introduco questo antico aneddoto per un'altra ragione;
-e in parte perché vorrei suggerire un'altra risposta.
-Se mai il problema mi turbò nella fanciullezza, non mi spinse nella
-direzione dell'elevata [[morality|moralità]] di Robinson. L'idea che fossi venuto
-a scuola per lavorare era troppo [[Grotesque|grottesca]] per annebbiarmi la mente un solo istante.
-Ed era anche in troppo evidente contrasto con i fatti e con il risultato.
-Volevo molto bene ai miei amici; benché, com'è comune a quell'età,
-volessi loro troppo bene per esserne apertamente sentimentale.
+ed è in parte perché vorrei suggerire un'altra risposta.
+Se mai il problema mi turbò nella mia fanciullezza, non mi spinse nella
+direzione dell'elevata [[morality|moralità]] di Robinson. L'idea di essere venuto
+a scuola per lavorare era troppo [[Grotesque|Grottesca]] per offuscarmi la mente per un istante.
+Era anche in troppo ovvio contrasto con i fatti e col risultato.
+Ero assai affezionato ai miei amici; benché, come è comune a quell'età,
+fossi troppo affezionato a loro per esserne apertamente emotivo.
 Ma ricordo di essere giunto, quasi seriamente, alla conclusione che un
 ragazzo debba andare a scuola per studiare i caratteri dei suoi maestri.
-E ancora penso che ci fosse qualcosa di vero.
-Dopo tutto, il maestro è la prima persona adulta e istruita
-che il ragazzo giunga a vedere di continuo, dopo essere stato
+E credo ancora che ci fosse qualcosa di vero. Dopo tutto, il maestro è la prima persona
+adulta e istruita che il ragazzo giunge a vedere costantemente, dopo essere stato
 presentato in tenera età a suo padre e a sua madre.
-E i professori della St. Paul's erano assai interessanti; anche quelli
+E i maestri della St. Paul's erano assai interessanti; anche quelli di loro
 che non erano così palesemente eccentrici come il celebre signor Elam.
-Verso un individuo assai distinto il mio personale debito è infinito;
-intendo lo storico dell'Ammutinamento Indiano e delle campagne
-di Cesare, il signor T. Rice Holmes. Riuscì, Dio sa come,
-a penetrare attraverso il mio profondo e disperatamente consolidato [[Desire|desiderio]]
+Verso un individuo assai eminente, il mio debito personale è infinito;
+intendo lo storico della Rivolta Indiana e delle campagne
+di Cesare — il signor T. Rice Holmes. Egli riuscì, il cielo sa come,
+a penetrare attraverso il mio profondo e disperatamente consolidato [[Desire|Desiderio]]
 di apparire stupido; e a scoprire l'orribile segreto che io ero,
 dopo tutto, dotato del dono della ragione al di sopra dei bruti.
-Mi poneva d'un tratto domande lontane mille miglia dall'
-argomento in questione, e mi sorprendeva strappandomi la confessione di aver sentito parlare
-della [[Song|Canzone]] di Rolando, o addirittura di aver letto un dramma o due di Shakespeare.
-Chiunque conosca un po' lo scolaro inglese di quell'epoca non
-immaginerà che vi fosse in quel momento alcun piacere in tale rilievo
-o distinzione. Eravamo tutti ossessionati da un orrore di metterci in mostra,
+Mi poneva d'improvviso domande a mille miglia dal
+soggetto in questione, e mi sorprendeva strappandomi l'ammissione di aver sentito
+parlare della [[Song|Canzone]] di Rolando, o addirittura di aver letto un dramma o due di Shakespeare.
+Chiunque conosca qualcosa dello scolaro inglese di quell'epoca non
+immaginerà che al momento ci fosse alcun piacere in tale prominenza
+o distinzione. Eravamo tutti ossessionati da un orrore dell'esibirsi,
 che era forse l'unico principio morale coerente che possedessimo.
-C'era un ragazzo, ricordo, così follemente sensibile su questo
-punto d'[[Honour|onore]], che a stento sopportava di sentire uno dei suoi amici
-rispondere correttamente a una domanda comune. Sentiva che il suo compagno avrebbe davvero dovuto
-inventare qualche errore, nell'interesse generale del [[Comradeship|cameratismo]].
-Quando la mia conoscenza dell'[[Epic|epica]] francese mi fu strappata,
-a dispetto dei miei sforzi, egli si ficcò letteralmente la testa nel banco
-e vi calò sopra il coperchio, gemendo in una generosa e impersonale
-vergogna e debolmente e rocamente esclamando: «Oh, chiudila.
-... Oh, sta' zitto!». Era un esponente estremo del principio;
+C'era un ragazzo, ricordo, che era così pazzamente sensibile su questo
+punto d'[[Honour|Onore]], che a stento sopportava di udire uno dei suoi amici
+rispondere correttamente a una domanda ordinaria. Sentiva che il suo compagno avrebbe davvero dovuto
+aver inventato qualche errore, nel generale interesse del [[Comradeship|Cameratismo]].
+Quando la mia informazione sull'[[Epic|Epica]] francese mi fu strappata,
+malgrado i miei sforzi, egli si mise davvero la testa nel banco
+e vi fece cadere sopra il coperchio, gemendo in una generosa e impersonale
+vergogna ed esclamando debolmente e roco: «Oh, chiudila.
+... Oh, stai zitto!» Era un estremo esponente del principio;
 ma era un principio che io pienamente condividevo. Ricordo di correre
-a scuola in pura eccitazione ripetendo i versi bellicosi di «Marmion»
-con appassionata enfasi ed esultanza; e poi di entrare in classe
-e ripetere gli stessi versi col piglio inanimato di un organetto,
-sperando che non vi fosse assolutamente nulla nella mia intonazione a indicare
-che distinguevo tra il senso di una parola e quello di un'altra.
+a scuola in pura eccitazione ripetendo versi bellicosi di «Marmion»
+con appassionata enfasi ed esultanza; e poi entrare in classe
+e ripetere gli stessi versi nel modo esanime di una ghironda,
+sperando che non ci fosse nulla nella mia intonazione a indicare
+che distinguessi tra il senso di una parola e di un'altra.
 
-Nessuno, credo, riuscì mai a superare la mia guardia in questa faccenda, tranne
+Nessuno, credo, superò mai la mia guardia in questa faccenda tranne
 il signor T. R. Holmes e il signor R. F. Cholmeley, che in seguito divenne
-il [[house|responsabile della casa]] dei miei due intimi amici, e che, sono lieto di dire,
-si è spesso unito a noi negli anni successivi nelle nostre rimpatriate della memoria.
+il [[house|maestro-tutore]] dei miei due intimi amici, e che, sono lieto di dire,
+si è spesso unito a noi negli anni successivi nelle nostre riunioni del ricordo.
 Ma, in un modo o nell'altro, una voce deve aver cominciato a circolare
-tra le autorità che non fossimo tanto sciocchi quanto sembravamo.
-Un giorno, con mia costernazione, il Rettore mi fermò per
-la strada e mi condusse con sé, tuonando nelle mie orecchie assordate e sbigottite
-che avevo una facoltà letteraria che avrebbe potuto approdare a qualcosa
-se qualcuno avesse saputo darle solidità. Qualche [[Time|tempo]] dopo,
-con il mio raccapricciante terrore, sbraitò a voce alta a un'intera folla di genitori
-e altri assurdi intrusi, in occasione di una giornata delle premiazioni,
+tra le autorità che non fossimo così sciocchi come sembravamo.
+Un giorno, con mia costernazione, l'Alto Maestro mi fermò per
+la strada e mi condusse via, ruggendo nelle mie orecchie assordate e sbigottite
+che avevo una facoltà letteraria che poteva approdare a qualcosa
+se qualcuno potesse darle solidità. Qualche [[Time|tempo]] dopo,
+con mio terrore acquattato, egli tuonò a voce alta a un'intera folla di genitori
+e altri assurdi intrusi, in occasione di un giorno di premiazione,
 che il nostro giornaletto mostrava segni di considerevole talento,
-benché fosse una pubblicazione non ufficiale sulla quale «avrebbe
-esitato a porre il suo Imprimatur». In qualche modo sentimmo che sarebbe
-stato ancor più schiacciante se ci avesse posto il suo Imprimatur.
+benché fosse una pubblicazione non ufficiale su cui egli «avrebbe
+esitato ad apporre il suo Imprimatur». Chissà come, sentimmo che sarebbe
+stato ancor più schiacciante se vi avesse apposto il suo Imprimatur.
 Suonava come il pollice di un gigante.
 
-Frederick Walker, Preside di Manchester e poi Rettore
-della St. Paul's School, era, come ormai quasi tutti sanno a questo [[Time|tempo]], un uomo assai
+Frederick Walker, Preside di Manchester e in seguito Alto Maestro
+della St. Paul's School, era, come la maggior parte della gente sa a questo [[Time|punto]], un uomo assai
 notevole. Era il genere d'uomo che può vivere negli aneddoti,
-come il Dottor Johnson; anzi, per certi versi non era dissimile dal Dottor Johnson.
-Gli assomigliava nel volume sorprendente della voce, nel volto e nella figura
-pesanti, e in una certa tendenza a esplodere in un momento che non sembrava
-esattamente quello opportuno; discorreva con perfetto buon
-[[Humour|umore]] e razionalità e faceva tremare il tetto per quella che pareva un'inezia.
-Nelle questioni essenziali, tuttavia, i suoi colpi ben assestati erano generalmente
-giustissimi; e avevano anzi un carattere schietto e popolare,
-che in qualche modo sapeva del nord del paese. È di lui
-che si racconta la celebre storia che, quando una signora schizzinosa gli scrisse per chiedergli
-quale fosse il rango sociale dei ragazzi della sua scuola,
-egli rispose: «Signora, finché suo figlio si comporta bene e le rette
-sono pagate, non si farà alcuna domanda sul suo rango sociale.»
+come il Dr. Johnson; anzi per certi versi non era dissimile dal Dr. Johnson.
+Gli somigliava nel sorprendente volume della voce, nel volto pesante
+e nella figura, e in una certa tendenza a esplodere in ciò che non pareva
+esattamente il momento appropriato; parlava con perfetto buon
+[[Humour|Umore]] e razionalità e faceva tremare il tetto per ciò che pareva un'inezia.
+Nelle faccende essenziali, tuttavia, i suoi colpi ben assestati erano in genere
+del tutto giusti; e avevano perfino un carattere casereccio e popolare,
+che chissà come sapeva del nord del paese. È di lui che
+si narra la famosa storia che, quando una signora schizzinosa gli scrisse per chiedere
+quale fosse la posizione sociale dei ragazzi della sua scuola,
+egli rispose: «Signora, fintantoché vostro figlio si comporta bene e le rette
+sono pagate, non si porrà alcuna domanda sulla sua posizione sociale.»

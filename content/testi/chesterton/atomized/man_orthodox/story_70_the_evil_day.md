@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_69_religion_and_revolution">‹ Story 69 Religion And Revolution</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_71_what_was_rationalism">Story 71 What Was Rationalism ›</a></div>
@@ -109,3 +111,108 @@ by his own hand.
 
     [The two men were John Davidson, the poet, and St John Hankin, the
                                dramatist.]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_69_religion_and_revolution">‹ Story 69 Religion And Revolution</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_71_what_was_rationalism">Story 71 What Was Rationalism ›</a></div>
+</nav>
+
+IL GIORNO MALVAGIO
+
+Penso sia giunto il [[Time|tempo]] in cui dovrei dire qualcosa in favore
+dell'Imperialismo e del Socialismo, e accade anche per una deliziosa
+coincidenza che io abbia effettivamente pensato a qualcosa di favorevole da dire.
+
+Chiunque desideri render giustizia sia all'Imperialismo sia al
+Socialismo dovrebbe ricordare bene l'epoca in cui essi sorsero,
+intendo, naturalmente, sorsero in questo paese, e di recente.
+Sono entrambi vecchi quanto l'errore umano.  Sparta era Socialista
+e Babilonia era Imperialista ... Ora, la gran cosa da dire
+a favore di queste due grandi esagerazioni o eresie (e ogni
+eresia è una [[Truth|verità]] insegnata fuori proporzione) è che esse
+furono entrambe ribellioni contro l'età in cui nacqui.
+La società contro la quale levarono la loro voce era
+una società assai intellettuale e artistica.  Ne ho sentito
+l'atmosfera e credo davvero che, se essi fossero rimasti in silenzio,
+le pietre stesse avrebbero gridato.
+
+Questo periodo oscuro cominciò vagamente attorno al 1870; quella fine della grande
+epoca Liberale, l'anno in cui [[Paris|Parigi]] cadde e in cui Dickens morì.
+Si estende, altrettanto vagamente, fino al ritiro di Gladstone
+e all'abbandono dell'[[Home|Autonomia]] irlandese, l'ultima crociata Liberale che fu
+inequivocabilmente Liberale e inequivocabilmente pericolosa.  Tutto quel periodo
+era colmo di vuoto.  Oscar Wilde ne fu giustamente il più grande uomo;
+perché egli [[Alone|solo]] sapeva davvero fare della leggerezza su vasta scala.
+I suoi prodotti includono molti uomini che annovero fra i miei migliori amici--
+me stesso fra gli altri.  Ma a stento riesco a pensare a uno di loro che
+non sarebbe stato insieme migliore e più felice se fosse nato
+in qualunque altra epoca, dall'Età della Pietra al Regime del Terrore.
+Poiché quasi tutte le altre età hanno opposto un entusiasmo a un altro;
+ma solo di questa breve e nera età si può dire che essa
+sogghignava dell'entusiasmo semplicemente perché era entusiasta.
+Tutti gli uomini avevano temuto il [[Lightning|fulmine]] perché era distruzione;
+ma costoro disdegnavano il [[Lightning|fulmine]] perché era luce.
+
+È presumibilmente ozioso speculare sulle cause di questo strano
+interregno e vuoto.  La [[Truth|verità]], immagino, è questa:  che la religione
+e la politica (le principali cure dell'uomo, quasi le sue uniche cure)
+si alternano nella [[history|storia]], ma di rado sono assenti simultaneamente.
+Una società rozza può essere ricca di santi; o un [[Time|tempo]] di gelida miscredenza,
+come il diciottesimo secolo, può essere eroico in politica.
+Ma nel particolare punto di cui parlo, entrambe queste onde erano esaurite.
+... L'impressione era che mani pesanti avessero chiuso le porte dei due
+grandi sbocchi dell'uomo--la libertà e la [[Faith|fede]]; l'una fu sbarrata da Bismarck col
+suo [[Blood|sangue]] e ferro, e l'altra da Darwin col suo [[Blood|sangue]] e ossa.
+L'apparenza del 1870 era che il materialismo politico avesse spezzato
+l'idealismo politico per sempre.  E l'apparenza di `The Descent of Man'
+era che si trattasse davvero di una discesa dell'uomo--che l'uomo fosse stato buttato giù
+dal suo piedistallo sul pavimento.
+
+Sia per questa causa o per qualche altra, gli anni di cui parlo furono
+anni di sbadigli; erano come le ore di un pomeriggio `In [[Home|casa]]'
+in una ricca [[house|dimora]] in un giorno di pioggia, quando nessuno viene a far visita.
+Le loro [[Poems|poesie]] e i loro quadri mostravano un vero genio nel rendere le tinte
+plumbee e nell'echeggiare i toni stonati di un pomeriggio così.
+Non si udiva quasi nient'altro che pessimismo--tranne l'Arte, che è peggio.
+Ora, ogni volta che desidero provare tenerezza verso gli Imperialisti
+o i Socialisti, ricordo sempre che almeno le loro [[Union|Union]] Jack e
+le loro cravatte rosse interruppero il crepuscolo di quell'infernale pomeriggio.
+... Rudyard Kipling mostrò davvero che il [[Romance|romanzesco]] poteva trovarsi in faccende
+rozze e faticose.  E i Socialisti hanno fatto almeno
+una cosa eccellente; hanno riportato i credi nella politica.
+... Poiché un credo è la [[Sword|spada]] dello spirito; l'unico strumento col
+quale la mente possa combattere.
+
+Quel [[Time|tempo]] vuoto è ormai così del tutto dimenticato che molti
+persino di coloro che vi vissero a stento sapranno di che cosa parlo.
+Dei suoi spiriti stanchi e dei suoi dandy filosofici a stento ne resta uno.
+Alcuni sono morti; alcuni sono andati in [[Exile|esilio]]; alcuni sono andati in pezzi.
+Due ne conosco che furono di vero genio, un genio che sopravvisse
+a quella stagione di ceneri e continuò a bruciare fin dentro il nostro [[Time|tempo]].
+... Uno di loro era un uomo piccolo e vivace, uno degli scozzesi neri,
+con occhi scuri e ardenti e un colorito acceso.  Era stato il più
+penetrante lirico dei vecchi poeti minori, ma di recente aveva
+abbracciato idee più nuove, seguendo il signor [[Shaw|Shaw]] verso enormi
+immagini del Superuomo o degli ultimi giganti dell'evoluzione.
+I suoi discorsi erano tutti di vita in espansione e attività incessante.
+L'altro era un uomo più quieto e assai più intelligente; uno degli uomini
+più perfettamente intelligenti mai nati.  Era alto, lento, saturnino,
+un osservatore onnivoro, un giudice assai schizzinoso.
+Il suo lavoro era quasi interamente in un mondo di fredda e quasi
+insensibile [[Comedy|commedia]].  Aveva sempre un lieve sorriso sul volto.
+Anche lui aveva abbandonato il mero pessimismo dell'età oscura e stava
+compiendo un lavoro pieno di speranza e costruttivo nella creazione di un
+nuovo e più solido dramma inglese.
+
+Questi sono i soli due uomini che siano usciti trionfanti da quella strana
+vecchia atmosfera.  Ciascuno di loro, negli ultimi mesi, è morto
+per propria mano.
+
+                                               Daily News, 26 giugno 1909
+
+    [I due uomini erano John Davidson, il poeta, e St John Hankin, il
+                               drammaturgo.]

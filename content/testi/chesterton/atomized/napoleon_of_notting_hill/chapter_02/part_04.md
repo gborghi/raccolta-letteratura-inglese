@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">Chapter 02</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_05">part 05 ›</a></div>
@@ -136,3 +138,135 @@ of civilization, what there is particularly immortal about yours?"
 answered Barker.  "You judge it rather as if England was still
 a poor and pugnacious island; you have been long out of Europe.
 Many things have happened."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">Chapter 02</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_05">part 05 ›</a></div>
+</nav>
+
+Il modo con cui il Presidente del Nicaragua si appoggiò all'indietro e bevve
+il suo sherry mostrava che per lui questa spiegazione copriva tutti i fatti
+osservati e molto di più. La fronte di Barker, tuttavia, era ancora
+un po' rannuvolata.
+
+"E la carta gialla," cominciò, con ansiosa affabilità,
+"e il brandello rosso..."
+
+"La carta gialla e il brandello rosso," disse Fuego, con indescrivibile
+grandezza, "sono i colori del Nicaragua."
+
+"Ma il Nicaragua..." cominciò Barker, con grande esitazione, "il Nicaragua non è
+più un..."
+
+"Il Nicaragua è stato conquistato come Atene. Il Nicaragua è stato
+annesso come Gerusalemme," gridò il vecchio, con stupefacente [[Fire|fuoco]].
+"Lo yankee e il tedesco e le brutali potenze della modernità l'hanno
+calpestato con gli zoccoli dei buoi. Ma il Nicaragua non è morto.
+Il Nicaragua è un'idea."
+
+[[Auberon Quin]] suggerì timidamente: "Un'idea brillante."
+
+"Sì," disse lo straniero, afferrando la parola. "Ha ragione,
+generoso inglese. Un'idea brillante, un pensiero ardente.
+Senor, mi ha chiesto perché, nel mio [[Desire|desiderio]] di vedere i colori del mio paese,
+ho afferrato la carta e il [[Blood|sangue]]. Non riesce a comprendere l'antica
+sacralità dei colori? La Chiesa ha i suoi colori simbolici.
+E pensi a cosa significano i colori per noi... pensi alla condizione
+di uno come me, che non riesce a vedere nulla se non quei due colori,
+nulla se non il rosso e il giallo. Per me tutte le forme sono uguali,
+tutte le cose comuni e nobili sono in una [[democracy|democrazia]] di combinazione.
+Ovunque vi sia un campo di calendule e il mantello rosso di una
+vecchia, là è il Nicaragua. Ovunque vi sia un campo di papaveri
+e una gialla chiazza di sabbia, là è il Nicaragua. Ovunque vi
+sia un limone e un rosso tramonto, là è il mio paese. Ovunque io
+veda una rossa cassetta delle lettere e un giallo tramonto, là batte il mio cuore.
+Il [[Blood|sangue]] e uno schizzo di senape possono essere la mia araldica. Se vi
+fosse fango giallo e fango rosso nello stesso fosso, per me sarebbe meglio
+delle bianche [[Stars|stelle]]."
+
+"E se," disse Quin, con eguale entusiasmo, "capitasse
+che vi fosse vino giallo e vino rosso allo stesso pranzo, non potrebbe
+limitarsi allo sherry. Mi permetta di ordinare del Borgogna, e di completare,
+per così dire, una sorta di araldica nicaraguense nel suo interno."
+
+Barker giocherellava con il coltello, ed era evidentemente sul punto
+di dire qualcosa, con l'intensa nervosità dell'
+amabile inglese.
+
+"Devo intendere, dunque," disse infine, con un colpo di tosse, "che lei,
+ehm, era il Presidente del Nicaragua quando esso oppose la sua... ehm... si deve,
+naturalmente, convenire... la sua resistenza a dir poco eroica a... ehm..."
+
+L'ex Presidente del Nicaragua agitò la mano.
+
+"Non deve esitare a parlarmi," disse. "Sono pienamente
+consapevole che l'intera tendenza del mondo d'oggi è contro
+il Nicaragua e contro di me. Non riterrò affatto una diminuzione
+della sua evidente cortesia se dirà ciò che pensa delle sventure
+che hanno ridotto in rovina la mia repubblica."
+
+Barker parve immensamente sollevato e gratificato.
+
+"Lei è oltremodo generoso, Presidente," disse, con una certa esitazione
+sul titolo, "e approfitterò della sua generosità
+per esprimere i dubbi che, devo confessarlo, noi moderni nutriamo su
+cose come... ehm... l'indipendenza nicaraguense."
+
+"Così le sue simpatie sono," disse Del Fuego, con perfetta calma,
+"per la grande nazione che..."
+
+"Mi perdoni, mi perdoni, Presidente," disse Barker, con calore; "le mie simpatie
+non sono per alcuna nazione. Lei fraintende, credo, l'intelletto moderno.
+Non disapproviamo il [[Fire|fuoco]] e la stravaganza di comunità
+come la sua solo per diventare più stravaganti su scala più grande.
+Non condanniamo il Nicaragua perché pensiamo che la Gran Bretagna dovrebbe
+essere più nicaraguense. Non scoraggiamo le piccole nazionalità
+perché desideriamo che le grandi nazionalità abbiano tutta la loro piccolezza,
+tutta la loro uniformità di vedute, tutta la loro esagerazione di spirito.
+Se dissento con il massimo rispetto dal suo entusiasmo nicaraguense,
+non è perché una nazione o dieci nazioni fossero contro di lei;
+è perché la civiltà era contro di lei. Noi moderni crediamo
+in una grande civiltà cosmopolita, una che includa tutti
+i talenti di tutti i popoli assorbiti..."
+
+"Il Senor mi perdoni," disse il Presidente. "Posso chiedere
+al Senor come, in circostanze ordinarie, cattura un [[Horse|cavallo]] selvaggio?"
+
+"Non catturo mai un [[Horse|cavallo]] selvaggio," rispose Barker, con dignità.
+
+"Precisamente," disse l'altro; "e qui finisce il suo assorbimento
+dei talenti. È di questo che mi lamento del suo cosmopolitismo.
+Quando dice di volere che tutti i popoli si uniscano, in realtà intende che
+vuole che tutti i popoli si uniscano per imparare i trucchi del suo popolo.
+Se l'arabo beduino non sa leggere, qualche missionario inglese
+o maestro di scuola dev'essere mandato a insegnargli a leggere, ma nessuno
+dice mai: 'Questo maestro non sa cavalcare un cammello;
+paghiamo un beduino perché glielo insegni.' Lei dice che la sua civiltà
+includerà tutti i talenti. Sarà così? Vuole davvero dire che nel
+momento in cui l'esquimese ha imparato a votare per un Consiglio di Contea,
+lei avrà imparato a infilzare un tricheco? Torno all'esempio che ho dato.
+In Nicaragua avevamo un modo di catturare i cavalli selvaggi... facendo il laccio
+alle zampe anteriori, che si riteneva fosse il migliore del Sud [[America]].
+Se avete intenzione di includere tutti i talenti, andate e fatelo.
+In caso contrario, permettetemi di dire, come ho sempre detto, che qualcosa
+se ne andò dal mondo quando il Nicaragua fu civilizzato."
+
+"Qualcosa, forse," rispose Barker, "ma quel qualcosa una mera
+destrezza da barbaro. Non so se saprei scheggiare le selci
+[[Well|bene]] quanto un uomo primevo, ma so che la civiltà sa fabbricare
+questi coltelli che sono migliori, e io mi affido alla civiltà."
+
+"Ha una buona autorità," rispose il nicaraguense. "Molti uomini astuti
+come lei si sono affidati alla civiltà. Molti astuti babilonesi,
+molti astuti egiziani, molti uomini astuti alla fine di Roma.
+Può dirmi, in un mondo che è flagrante per i fallimenti
+della civiltà, cosa vi sia di particolarmente immortale nella vostra?"
+
+"Credo che lei non comprenda del tutto, Presidente, cosa sia la nostra,"
+rispose Barker. "Lei la giudica piuttosto come se l'Inghilterra fosse ancora
+un'isola povera e battagliera; lei è stato a lungo fuori dall'Europa.
+Molte cose sono accadute."

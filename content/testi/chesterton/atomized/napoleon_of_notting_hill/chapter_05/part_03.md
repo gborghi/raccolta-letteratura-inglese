@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_04">part 04 ›</a></div>
@@ -144,3 +146,143 @@ The [[King]] clasped his hands.
 
 "Perfect," he cried in ecstacy.  "Your heads together!  I can see it!
 Can't you do it now?  Oh, do do it now."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05">Chapter 05</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_04">part 04 ›</a></div>
+</nav>
+
+«Non capisco Vostra Maestà,» disse il Preposto con flemma.
+
+«Non importa, non importa,» disse il [[King|Re]], gaiamente.  «La conoscenza delle Corti
+non è affatto un merito puro; la prossima [[Time|volta]] ci riuscirete, senza [[Doubt|dubbio]].»
+
+L'uomo d'affari lo guardò imbronciato da sotto le nere
+sopracciglia e disse di nuovo senza mostra di cortesia:
+
+«Non vi seguo.»
+
+«[[Well|Bene]], [[Well|bene]],» rispose il [[King|Re]], bonariamente, «se me lo chiedete
+non mi dispiace dirvelo, non perché io stesso attribuisca alcuna
+importanza a queste forme in confronto al Cuore Onesto.
+Ma è usanza...è usanza...ecco tutto, che un uomo, entrando
+alla presenza della Regalità, si sdrai supino sul pavimento e,
+sollevando i piedi verso il cielo (come fonte del potere regale),
+dica tre volte 'Le istituzioni monarchiche migliorano i costumi.'
+Ma via, via—una tale pompa è assai meno veramente dignitosa
+della vostra semplice cordialità.»
+
+Il volto del Preposto era rosso di collera ed egli mantenne il [[Silence|silenzio]].
+
+«E ora,» disse il [[King|Re]], con leggerezza, e con l'esasperante aria
+di un uomo che addolcisce un affronto; «che tempo delizioso abbiamo!
+Dovete trovare le vostre vesti d'ufficio calde, mio Lord.  Le ho disegnate
+per la vostra terra coperta di [[Snow|neve]].»
+
+«Sono calde come l'inferno,» disse Buck, brevemente.  «Sono venuto qui per affari.»
+
+«Giusto,» disse il [[King|Re]], annuendo un gran numero di volte con del tutto
+insensata solennità; «giusto, giusto, giusto.  Gli affari, come diceva il triste
+lieto vecchio Persiano, sono affari.  Siate puntuale.  Alzatevi presto.
+Puntate la penna alla spalla.  Puntate la penna alla spalla, poiché voi
+non sapete donde venite né perché.  Puntate la penna alla spalla,
+poiché voi non sapete quando ve ne andate né dove.»
+
+Il Preposto estrasse un mucchio di carte dalla tasca e con ferocia
+le aprì di scatto.
+
+«Vostra Maestà avrà forse sentito parlare,» cominciò, sarcasticamente, «di Hammersmith
+e di una cosa chiamata [[Road|strada]].  Abbiamo lavorato dieci anni per acquistare
+proprietà e ottenere poteri di esproprio e fissare indennizzi
+e sistemare interessi acquisiti, e ora, proprio alla fine, la cosa
+è bloccata da uno [[Fool|sciocco]].  Il vecchio Prout, che era Preposto di Notting [[Hill|Hill]],
+era un uomo d'affari, e trattammo con lui in modo del tutto soddisfacente.
+Ma è morto, e la maledetta faccenda è toccata a un giovane di nome Wayne,
+che sta dietro a qualche gioco per me perfettamente incomprensibile.
+Gli offriamo un prezzo migliore di quanto chiunque abbia mai sognato, ma lui non
+vuole lasciar passare la [[Road|strada]].  E il suo Consiglio pare dargli man forte.
+È [[Madness|follia]] di mezza estate.»
+
+Il [[King|Re]], che stava alquanto distrattamente disegnando il naso del Preposto
+col dito sul vetro della [[Window|finestra]], udì le ultime due parole.
+
+«Che frase perfetta,» disse.  «'[[Madness|Follia]] di mezza estate!'»
+
+«Il punto principale è,» continuò Buck, ostinato, «che l'unica parte
+che è realmente in questione è una sudicia stradicciola...Pump Street...una
+strada in cui non c'è nulla se non un'osteria [[house|pubblica]] e una bottega di giocattoli da un penny,
+e cose di quel genere.  Tutta la gente rispettabile di Notting [[Hill|Hill]]
+ha accettato il nostro indennizzo.  Ma l'ineffabile Wayne s'impunta
+su Pump Street.  Dice di essere Preposto di Notting [[Hill|Hill]].
+È soltanto Preposto di Pump Street.»
+
+«Un buon pensiero,» rispose Auberon.  «Mi piace l'idea di un Preposto
+di Pump Street.  Perché non lasciarlo [[Alone|in pace]]?»
+
+«E lasciar cadere l'intero schema!» esclamò Buck, con uno scoppio di
+brutale foga.  «Che io sia dannato se lo faccio.  No. Sono per mandare
+gli operai a demolire senza altri indugi.»
+
+«Colpite per l'Aquila purpurea,» gridò il [[King|Re]], acceso di
+associazioni storiche.
+
+«Vi dirò io com'è,» disse Buck, perdendo del tutto le staffe.
+«Se Vostra Maestà spendesse meno [[Time|tempo]] a insultare la gente
+rispettabile con i suoi sciocchi stemmi, e più [[Time|tempo]] sugli affari
+della nazione...»
+
+La fronte del [[King|Re]] si corrugò pensosamente.
+
+«La situazione non è male,» disse; «l'altero borghese che sfida
+il [[King|Re]] nel suo stesso Palazzo.  La testa del borghese dovrebbe essere gettata all'indietro
+e il braccio destro teso; il sinistro può essere sollevato verso il Cielo,
+ma questo lo lascio al vostro privato sentimento religioso.
+Io mi sono lasciato affondare in questa sedia, colpito da furia impotente.
+Ora di nuovo, prego.»
+
+La bocca di Buck si aprì come quella di un cane, ma prima che potesse parlare un altro
+araldo comparve alla porta.
+
+«Il Lord Alto Preposto di Bayswater,» disse, «desidera un'udienza.»
+
+«Fatelo entrare,» disse Auberon.  «Questa è una giornata allegra.»
+
+Gli alabardieri di Bayswater portavano una divisa prevalentemente verde,
+e lo stendardo che veniva portato dietro di loro era blasonato con una
+verde corona d'alloro su campo d'argento, che il [[King|Re]], nel corso
+delle sue ricerche in una bottiglia di champagne, aveva scoperto essere
+la bizzarra vecchia insegna a doppio senso della [[City|città]] di Bayswater.
+
+«È un simbolo adatto,» disse il [[King|Re]], «la vostra immortale corona d'alloro.
+Fulham può cercare la ricchezza, e Kensington l'arte, ma quando mai
+gli uomini di Bayswater s'importarono di qualcosa che non fosse la gloria?»
+
+Immediatamente dietro lo stendardo, e quasi completamente nascosto
+da esso, venne il Preposto della [[City|città]], vestito di splendide vesti
+di verde e argento con pelliccia bianca e incoronato d'alloro.
+Era un ometto ansioso dai favoriti rossi, in origine il proprietario
+di una piccola bottega di dolciumi.
+
+«Nostro cugino di Bayswater,» disse il [[King|Re]], con diletto; «che cosa
+possiamo fare per voi?»  Si udì anche il [[King|Re]] mormorare distintamente:
+«Manzo freddo, prosciutto freddo, pollo freddo,» la sua voce spegnendosi nel [[Silence|silenzio]].
+
+«Sono venuto a vedere Vostra Maestà,» disse il Preposto di Bayswater,
+il cui nome era Wilson, «a proposito di quella faccenda di Pump Street.»
+
+«Stavo giusto spiegando la situazione a Sua Maestà,»
+disse Buck, seccamente, ma recuperando la cortesia.  «Non sono certo, tuttavia,
+che Sua Maestà sappia quanto la faccenda riguardi anche voi.»
+
+«Riguarda entrambi, vedete, Maestà, giacché questo schema
+è stato avviato a beneficio dell'intero quartiere.
+Così io e il signor Buck abbiamo messo insieme le teste...»
+
+Il [[King|Re]] giunse le mani.
+
+«Perfetto,» gridò in estasi.  «Le vostre teste insieme!  Lo vedo!
+Non potete farlo adesso?  Oh, fatelo adesso.»

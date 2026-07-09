@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_01">part 01 ›</a></div>
@@ -96,3 +98,95 @@ In the doorway had appeared a new figure, a herald in flaming red.
 He cried in a loud but unemotional voice:
 
 "The Lord High Provost of Notting [[Hill]] desires an audience."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05">Chapter 05</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_01">part 01 ›</a></div>
+</nav>
+
+Un soffocato suono di divertimento parve venire dagli alabardieri,
+ma il signor Wilson pareva soltanto sconcertato, e il signor Buck soltanto diabolico.
+
+«Suppongo,» cominciò, amaramente, ma il [[King|Re]] lo fermò con un
+gesto di ascolto.
+
+«Zitto,» disse, «mi pare di sentire qualcun altro che arriva.
+Mi pare di sentire un altro araldo, un araldo i cui stivali scricchiolano.»
+
+Mentre parlava un'altra voce gridò dalla soglia:
+
+«Il Lord Alto Preposto di South Kensington desidera un'udienza.»
+
+«Il Lord Alto Preposto di South Kensington!» gridò il [[King|Re]].
+«Ma è il mio vecchio amico [[James Barker]]!  Che cosa vorrà, mi [[Wonder|domando]]?
+Se le tenere memorie dell'[[Friendship|amicizia]] non si sono fatte nebbiose,
+immagino che voglia qualcosa per sé, probabilmente denaro.
+Come stai, James?»
+
+Il signor [[James Barker]], la cui guardia era vestita di uno splendido azzurro,
+e il cui azzurro stendardo recava tre uccelli d'oro [[Birds|canterini]], si precipitò, nelle sue
+vesti azzurre e oro, nella stanza.  Nonostante l'assurdità di tutti
+gli abiti, valeva la pena notare che egli portava il suo meglio
+degli altri, benché lo detestasse quanto ognuno di loro.
+Era un gentiluomo, e un uomo assai bello, e non poteva fare a meno
+d'indossare inconsapevolmente anche la sua veste ridicola come andava indossata.
+Parlò rapidamente, ma con la lieve esitazione iniziale che mostrava sempre
+nel rivolgersi al [[King|Re]], dovuta al reprimere un impulso
+a rivolgersi al suo vecchio conoscente al modo antico.
+
+«Vostra Maestà...vogliate perdonare la mia intrusione.  Si tratta di quest'uomo
+a Pump Street.  Vedo che avete qui Buck, dunque avete probabilmente
+udito ciò che è necessario.  Io...»
+
+Il [[King|Re]] fece scorrere gli occhi ansiosamente per la stanza, che ora fiammeggiava
+degli addobbi di tre città.
+
+«C'è una cosa necessaria,» disse.
+
+«Sì, Vostra Maestà,» disse il signor Wilson di Bayswater, un po' impaziente.
+«Che cosa ritiene necessario Vostra Maestà?»
+
+«Un po' di giallo,» disse il [[King|Re]], con fermezza.  «Mandate a chiamare il Preposto
+di West Kensington.»
+
+Fra qualche protesta materialistica fu mandato a chiamare e arrivò con
+i suoi alabardieri gialli nelle sue vesti color zafferano, asciugandosi la fronte
+con un fazzoletto.  Dopotutto, nella posizione in cui si trovava, aveva un bel po'
+da dire sulla faccenda.
+
+«Benvenuto, West Kensington,» disse il [[King|Re]].  «Da tempo desideravo
+vedervi, riguardo a quella faccenda della terra di Hammersmith a sud
+della [[house|Rowton House]].  La terrete in feudo dal Preposto
+di Hammersmith?  Non dovete far altro che rendergli omaggio infilandogli il braccio
+sinistro nel soprabito e poi marciando a [[Home|casa]] in pompa magna.»
+
+«No, Vostra Maestà; preferirei di no,» disse il Preposto di West Kensington,
+che era un giovane pallido dai baffi e favoriti biondi,
+e che teneva una fiorente latteria.
+
+Il [[King|Re]] lo colpì cordialmente sulla spalla.
+
+«Il fiero vecchio [[Blood|sangue]] di West Kensington,» disse; «non sono saggi
+coloro che gli chiedono di rendere omaggio.»
+
+Poi girò di nuovo lo sguardo per la stanza.  Era piena di un fragoroso
+tramonto di colori, e godette della vista, possibile a così pochi
+artisti...la vista dei propri [[Dreams|sogni]] che si muovevano e fiammeggiavano dinanzi a lui.
+In primo piano il giallo delle livree di West Kensington si stagliava
+contro i drappeggi azzurro scuro di South Kensington.
+I cimieri di questi di nuovo si ravvivavano d'un tratto in verde
+mentre i colori quasi boschivi di Bayswater si [[Rose|levavano]] dietro di essi.
+E sopra e dietro tutti, i grandi pennacchi purpurei di North Kensington
+apparivano quasi funerei e neri.
+
+«C'è qualcosa che manca,» disse il [[King|Re]], «qualcosa che manca.
+Che cosa può...Ah, eccolo!...eccolo!»
+
+Nella soglia era comparsa una nuova figura, un araldo in rosso fiammante.
+Gridò con voce forte ma priva d'emozione:
+
+«Il Lord Alto Preposto di Notting [[Hill|Hill]] desidera un'udienza.»

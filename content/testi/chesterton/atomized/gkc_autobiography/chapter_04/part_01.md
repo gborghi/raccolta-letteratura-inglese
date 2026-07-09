@@ -129,12 +129,101 @@ and it ran, "Orriblerevelationsinighlife".
 
 IV
 
-COME SI DIVENTA PAZZI
+COME ESSERE UN PAZZO
 
-Affronto qui la parte più oscura e più difficile del mio compito; il periodo della giovinezza, colmo di dubbi, di morbosità e di tentazioni; e che, per quanto nel mio caso fosse principalmente soggettivo, ha lasciato per sempre nella mia mente una certezza intorno alla solidità oggettiva del Peccato. E prima di trattarlo in ogni suo dettaglio, è necessario premettere una spiegazione su un punto. In materia di religione mi sono molto occupato di controversie intorno a problemi piuttosto provocatori; e ho finito con l'adottare una posizione che a molti appare essa stessa una provocazione. Ho addolorato i miei [[Well|benevoli]] estimatori, e molti dei saggi e dei prudenti, con l'avventata condotta di farmi cristiano, un cristiano ortodosso, e infine cattolico nel senso di cattolico romano. Ora, nella maggior parte delle cose che essi soprattutto disapprovano, non provo la minima vergogna di me stesso. Come apologeta sono l'esatto contrario di uno che si scusa. Nella misura in cui un uomo può andar fiero di una religione radicata nell'[[Humility|umiltà]], io vado assai fiero della mia religione; vado particolarmente fiero di quelle parti di essa che più comunemente vengono chiamate superstizione. Vado fiero di essere incatenato da dogmi antiquati e reso schiavo da credi morti (come ripetono con tanta pertinacia i miei amici giornalisti), poiché so [[Well|benissimo]] che sono i credi eretici a essere morti, e che soltanto il dogma ragionevole vive abbastanza a lungo da poter essere detto antiquato. Vado assai fiero di ciò che la gente chiama sacerdozio d'inganno; poiché perfino quel casuale termine d'insulto conserva la [[Truth|verità]] medievale che un sacerdote, come ogni altro uomo, deve essere un artigiano. Vado assai fiero di ciò che la gente chiama mariolatria; perché essa introdusse nella religione, nelle età più oscure, quell'elemento di cavalleria che oggi viene tardivamente e malamente compreso sotto la forma del femminismo. Vado assai fiero di essere ortodosso sui misteri della Trinità o della Messa; vado fiero di credere nel Confessionale; vado fiero di credere nel Papato.
+Tratto qui la parte più oscura e difficile del mio compito;
+il periodo della giovinezza che è pieno di dubbi e morbosità
+e tentazioni; e che, benché nel mio caso principalmente soggettivo,
+ha lasciato per sempre nella mia mente una certezza sulla solidità
+oggettiva del Peccato. E prima di trattarlo in un qualunque dettaglio,
+è necessario fare una spiegazione preliminare su un punto.
+In materia di religione, mi sono molto occupato di
+controversie su problemi piuttosto provocatori; e ho infine
+adottato una posizione che per molti è essa stessa una provocazione.
+Ho afflitto i miei [[Well|bene]]voli, e molti dei saggi e prudenti,
+col mio sconsiderato corso nel divenire cristiano, un cristiano ortodosso,
+e infine cattolico nel senso di cattolico romano. Ora, nella maggior parte
+delle cose che essi disapprovano maggiormente, non mi vergogno minimamente
+di me stesso. Come apologeta sono l'opposto dell'apologetico.
+Per quanto un uomo possa essere orgoglioso di una religione radicata nell'[[Humility|Umiltà]],
+sono assai orgoglioso della mia religione; sono specialmente orgoglioso di quelle parti
+di essa che sono più comunemente chiamate superstizione. Sono orgoglioso
+di essere incatenato da dogmi antiquati e schiavizzato da credi morti
+(come i miei amici giornalisti ripetono con tanta pertinacia),
+poiché so assai [[Well|bene]] che sono i credi eretici a essere morti,
+e che è solo il dogma ragionevole a vivere abbastanza a lungo da essere
+chiamato antiquato. Sono assai orgoglioso di ciò che la gente chiama pretismo;
+poiché perfino quell'accidentale termine d'ingiuria conserva la medievale
+[[Truth|Verità]] che un prete, come ogni altro uomo, dovrebbe essere un artigiano.
+Sono assai orgoglioso di ciò che la gente chiama Mariolatria; perché introdusse
+nella religione, nei secoli più oscuri, quell'elemento di cavalleria che ora
+viene tardivamente e malamente compreso nella forma del femminismo.
+Sono assai orgoglioso di essere ortodosso sui misteri della Trinità
+o della Messa; sono orgoglioso di credere nel Confessionale; sono
+orgoglioso di credere nel Papato.
 
-Ma non vado fiero di credere nel Diavolo. Per dirla più esattamente, non vado fiero di conoscere il Diavolo. Feci la sua conoscenza per mia stessa colpa; e la seguii lungo linee che, se fossero state percorse più oltre, avrebbero potuto condurmi al culto del diavolo o a chissà quale diavoleria. Su questa dottrina, almeno, non v'è, mescolata alla mia conoscenza, alcuna [[Shadow|ombra]] di compiacimento di [[Self|sé]], non più di quanta ve ne sia di [[Self-Deception|autoinganno]]. Su questa sola faccenda, un uomo può [[Well|bene]] avere intellettualmente ragione soltanto per il fatto di avere moralmente torto. Non mi impressionano le arie e le grazie etiche degli scettici sulla maggior parte degli altri argomenti. Non mi lascio soggiogare da un giovane gentiluomo che dice di non poter sottomettere il proprio intelletto al dogma; perché [[Doubt|dubito]] che egli abbia mai usato il proprio intelletto abbastanza da definire il dogma. Non mi impressionano molto seriamente coloro che chiamano vile la Confessione; poiché [[Doubt|dubito]] gravemente che essi stessi avrebbero il [[Courage|coraggio]] di andarne fino in fondo. Ma quando dicono: «Il male è soltanto relativo. Il peccato è soltanto negativo. Non esiste una cattiveria positiva; c'è soltanto l'assenza di una bontà positiva» — allora so che vaneggiano queste superficiali scempiaggini soltanto perché sono uomini assai migliori di me; più [[Innocent|innocenti]] e più normali e più prossimi a Dio.
+Ma non sono orgoglioso di credere nel Diavolo.
+Per metterla più correttamente, non sono orgoglioso di conoscere il Diavolo.
+Feci la sua conoscenza per mia colpa; e la seguii lungo
+linee che, se fossero state seguite oltre, avrebbero potuto condurmi
+al culto del diavolo o al diavolo sa cosa. Su questa dottrina, almeno,
+non c'è, mescolata alla mia conoscenza, alcuna [[Shadow|ombra]] di [[Self|autocompiacimento]]
+più di quanta ce ne sia di [[Self-Deception|autoinganno]]. Su quest'unica faccenda, un uomo può
+[[Well|ben]] avere intellettualmente ragione solo per il fatto di avere moralmente torto.
+Non sono impressionato dalle arie e dalle grazie etiche degli scettici su
+gran parte degli altri argomenti. Non sono soggiogato da un giovane gentiluomo
+che dice di non poter sottomettere il proprio intelletto al dogma; perché [[Doubt|dubito]]
+che egli abbia perfino usato il proprio intelletto abbastanza da definire il dogma.
+Non sono impressionato molto seriamente da coloro che chiamano vile la Confessione;
+poiché [[Doubt|dubito]] gravemente che essi stessi avrebbero il [[Courage|Coraggio]]
+di andare fino in fondo. Ma quando dicono: «Il male è solo relativo.
+Il peccato è solo negativo. Non c'è cattiveria positiva; è solo
+l'assenza di bontà positiva» — allora so che stanno dicendo
+sciocchezze superficiali solo perché sono uomini assai migliori di me;
+più [[Innocent|innocenti]] e più normali e più vicini a Dio.
 
-Quello che posso chiamare il mio periodo di [[Madness|follia]] coincise con un periodo di deriva e d'inerzia; nel quale non riuscivo a dedicarmi a nessun lavoro regolare. Mi dilettai in una quantità di cose; e alcune di esse possono aver avuto qualcosa a che fare con la psicologia della faccenda. Non vorrei per un istante suggerirlo come una causa, e ancor meno come una scusa, ma è un fatto concomitante che, tra questi dilettantismi di quel dubbio [[Time|tempo]], mi dilettai nello Spiritismo senza avere nemmeno la decisione di essere uno spiritista. Anzi, io ero, in modo piuttosto insolito, non soltanto distaccato ma indifferente. Mio fratello e io eravamo soliti giocare con la planchette, o quella che gli Americani chiamano tavoletta ouija; ma eravamo tra i pochi, immagino, che vi giocavano in puro spirito di gioco. Nondimeno non escluderei del tutto il suggerimento di taluni, secondo cui stavamo giocando col [[Fire|fuoco]]; o addirittura col [[Fire|fuoco]] dell'inferno. Nelle parole che venivano scritte per noi non v'era nulla di apertamente degradante, ma qualsiasi quantità di ingannevole. Ho visto abbastanza della cosa da poter testimoniare, con assoluta certezza, che accade qualcosa che non è naturale nel senso ordinario, né prodotto dalla normale e cosciente volontà umana. Se essa sia prodotta da una qualche forza subcosciente ma pur sempre umana, o da certe potenze, buone, cattive o indifferenti, che sono esterne all'umanità, non tenterei io stesso di deciderlo. L'unica cosa che dirò con assoluta sicurezza, intorno a quel potere mistico e invisibile, è che esso dice bugie. Le bugie possono essere burle oppure possono essere lusinghe per l'[[Soul|anima]] in pericolo, o possono essere mille altre cose; ma qualunque cosa siano, non sono verità intorno all'altro mondo; né, se è per questo, intorno a questo mondo.
+Ciò che posso chiamare il mio periodo di [[Madness|Follia]] coincise con un periodo
+di deriva e di ozio; in cui non riuscivo a stabilirmi
+in alcun lavoro regolare. Mi dilettavo in un certo numero di cose;
+e alcune di esse possono aver avuto qualcosa a che fare con la psicologia
+della faccenda. Non lo suggerirei per un momento come causa,
+ancor meno come scusa, ma è un fatto concomitante che tra
+questi diletti, in quel dubbio [[Time|periodo]], mi dilettai di Spiritismo
+senza avere neppure la decisione di essere uno Spiritista. In effetti io ero,
+in un modo piuttosto insolito, non solo distaccato ma indifferente.
+Mio fratello e io eravamo soliti giocare con la planchette, o ciò che gli americani
+chiamano la tavola ouija; ma eravamo tra i pochi, immagino, che giocavano
+in un mero spirito di gioco. Ciononostante non escluderei del tutto
+il suggerimento di alcuni che stessimo giocando col [[Fire|Fuoco]];
+o addirittura col [[Fire|fuoco]] dell'inferno. Nelle parole che venivano scritte per noi non c'era
+nulla di ostensibilmente degradante, ma quantità infinite di ingannevole.
+Vidi abbastanza della cosa da poter testimoniare, con completa
+certezza, che accade qualcosa che non è, nel senso ordinario,
+naturale, o prodotto dalla normale e cosciente volontà umana.
+Se sia prodotto da qualche forza subconscia ma pur sempre umana,
+o da qualche potere, buono, cattivo o indifferente, esterno
+all'umanità, io stesso non tenterei di deciderlo. L'unica cosa che
+dirò con completa fiducia, riguardo a quel potere mistico e invisibile,
+è che dice bugie. Le bugie possono essere burle o possono essere lusinghe
+per l'[[Soul|Anima]] in pericolo, o possono essere mille altre cose;
+ma qualunque cosa siano, non sono verità sull'altro mondo;
+o del resto su questo mondo.
 
-Darò uno o due esempi. Chiedemmo alla planchette, alla nostra solita maniera casuale, quale consiglio avrebbe dato a un nostro conoscente, un solido e piuttosto ottuso Membro del Parlamento che aveva la sventura di essere un'autorità in materia di [[Education|educazione]]. La planchette scrisse con sfrontata prontezza (in quei tempi più tardi era sempre prontissima, benché non sempre chiarissima) le semplici parole: «Ottenete un [[divorce|divorzio]]». La moglie del politico era così rispettabile, e aggiungerò così orribile, che sembravano mancare i materiali di una scandalosa [[Romance|storia romanzesca]]. E così domandammo severamente al nostro spirito familiare che diavolo intendesse; forse un'invocazione appropriata. Il risultato fu piuttosto curioso. Scrisse assai rapidamente una parola immensamente, anzi incredibilmente lunga, che dapprima era del tutto illeggibile. La scrisse di nuovo; la scrisse quattro o cinque volte; era sempre con ogni evidenza la stessa parola; e verso la fine fu chiaro che cominciava con le tre lettere «O. R. R.». Dissi: «Sono tutte sciocchezze; non c'è parola nella lingua inglese che cominci con O. R. R., [[Alone|figuriamoci]] una parola lunga così». Finalmente riprovò e scrisse la parola in maniera del tutto chiara; ed essa recitava: «Orribbilirivilazzionidellaltasocietà».
+Darò uno o due esempi. Chiedemmo alla planchette, alla nostra solita
+maniera casuale, quale consiglio avrebbe dato a un nostro conoscente,
+un solido e piuttosto ottuso Membro del Parlamento che aveva la disgrazia
+di essere un'autorità in fatto di [[Education|Educazione]]. La planchette scrisse con
+sfacciata prontezza (in questi tempi più tardi era sempre assai pronta,
+benché non sempre assai chiara) le semplici parole: «Ottieni un [[divorce|divorzio]].»
+La moglie del politico era così rispettabile, e aggiungerò così orrenda,
+che i materiali di un [[Romance|Romanzo]] scandaloso parevano mancare.
+Così chiedemmo severamente al nostro spirito familiare che diavolo intendesse;
+forse un'invocazione appropriata. Il risultato fu piuttosto curioso.
+Scrisse assai rapidamente una parola immensamente e in verità incredibilmente lunga,
+che dapprima era del tutto illeggibile. La scrisse di nuovo; la scrisse
+quattro o cinque volte; era sempre in modo palese la stessa parola;
+e verso la fine fu evidente che cominciava con le tre lettere
+«0. R. R.» Dissi: «È tutta una sciocchezza; non c'è parola nella lingua
+inglese che cominci con 0. R. R., tanto meno [[Alone|una]] parola lunga come quella.»
+Alla fine riprovò e scrisse la parola con perfetta chiarezza;
+e diceva: «Orriblirivelazioninellaltasocietà».

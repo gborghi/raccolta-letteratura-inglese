@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_45_the_englishman_s_religion">‹ Story 45 The Englishman S Religion</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_47_high_or_low">Story 47 High Or Low ›</a></div>
@@ -59,3 +61,58 @@ doubtful in the twentieth century whether anything happened at all.
 this [[Innocent|innocent]] juggling; this calm and beneficent humbug.
 
                                               Daily News, March 16th, 1905
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_45_the_englishman_s_religion">‹ Story 45 The Englishman S Religion</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_47_high_or_low">Story 47 High Or Low ›</a></div>
+</nav>
+
+IL MODO INGLESE
+
+Nessuno può comprendere la [[Nature|natura]] dell'Inghilterra o della politica
+inglese se non si rende conto che questa nostra isola è
+e sempre è stata coperta da una sorta di bella nube.
+Nessuno può essere un buon critico dell'Inghilterra se non capisce le nebbie.
+E nessuno può essere un inglese davvero patriottico se non ama le nebbie.
+Di tutte le storie nazionali, la [[history|storia]] dell'Inghilterra dev'essere la più difficile
+da scrivere, perché gli inglesi, con tutte le loro grandi epoche, non solo non
+sapevano ciò che stavano facendo, ma, per quanto si possa capire,
+non volevano sapere ciò che stavano facendo.  Facevano sempre
+una cosa in modo tale che un secolo dopo si potesse
+sostenere che avevano fatto esattamente l'opposto.  Dicevano sempre
+una cosa in modo tale che potesse significare qualcosa di diverso.
+Questo non era artificio ... Era la loro poesia connaturata.
+
+Non c'è popolo tanto poetico quanto gli inglesi, nessun popolo
+tanto pieno di un senso di vaghe distanze e prospettive;
+non c'è popolo tanto pieno di un certo raffinato sentimento informe.
+Vedono ogni cosa dissolversi l'una nell'altra come le brume
+del loro cielo settentrionale; il latino vede tutto netto
+come le creste delle Alpi contro il duro smalto azzurro del cielo.
+La legge inglese, per esempio, somiglia in modo insolito a un quadro
+impressionista di una giornata di pioggia.  Il Codice Napoleonico è come una
+fotografia a colori di Roma.
+
+La qualità casuale, alla giornata, sia nella nostra legislazione sia nella nostra
+giurisprudenza è in parte, senza [[Doubt|dubbio]], il risultato di razzie e intrighi
+aristocratici egoistici, ma è ancor più il risultato di una certa fioca benevolenza,
+una sorta di disperata benevolenza, che vive nel cuore di una confusione
+e non osa mai affidarsi a una regola generale.  Questa qualità
+di una umana vaghezza ha reso indicibilmente difficile lo studio di
+tutte le grandi crisi europee nel loro effetto particolare sull'Inghilterra.
+Si capisce che ciò che in altri paesi fu una rivoluzione fu in
+Inghilterra comunemente un compromesso.  Ma in Inghilterra comunemente fu più di
+un compromesso; fu un [[Riddle|enigma]].  Venne la [[Reformation|Riforma]], per esempio.
+La Scozia si fece protestante; l'Irlanda si fece cattolica; l'Inghilterra si fece qualcosa
+o altro, ma cosa nessuno storico moderno può dimostrare perfettamente.
+Gli inglesi discutevano l'uno con l'altro, si bruciavano l'un l'altro, innalzavano e
+detronizzavano re, ma tutto in modo tale da lasciare ragionevolmente
+dubbio nel ventesimo secolo se fosse mai successo qualcosa.
+... C'è qualcosa di interamente inglese e del tutto inspiegabile in
+questo [[Innocent|innocente]] giocoleria; questa calma e benefica montatura.
+
+                                              Daily News, 16 marzo 1905

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_46_the_english_way">‹ Story 46 The English Way</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_48_straight_thinking">Story 48 Straight Thinking ›</a></div>
@@ -74,3 +76,73 @@ Until this first question is settled, it is as childish to discuss
 a clergyman's vestments as to discuss his wall paper.
 
                                   Illustrated [[London]] News, July 14th, 1906
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_46_the_english_way">‹ Story 46 The English Way</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_48_straight_thinking">Story 48 Straight Thinking ›</a></div>
+</nav>
+
+ALTO O BASSO?
+
+L'unica cosa che gli inglesi moderni non vogliono capire è che
+quando hai perso del tutto la via, [[Hope|speranza]], la cosa più svelta è tornare
+indietro lungo la [[Road|strada]] che conosci fino al luogo da cui sei partito.
+Puoi chiamarla reazione, puoi chiamarla ripetizione, puoi chiamarla
+tediosa teoria, ma è la via più svelta per uscire dal bosco.
+Nessuna Commissione sui Riti e nessun altro genere di Commissione fa mai
+il minimo bene, perché non vogliono tornare indietro ai fatti primi
+della situazione.  Ora, i fatti primi non sono mai fatti materiali.
+L'invisibile viene sempre prima del visibile, l'immateriale
+prima del materiale, persino nella nostra esperienza quotidiana ... Gli inglesi
+moderni non risolveranno mai i loro problemi finché non capiranno
+che la scorciatoia più breve verso il pratico passa per il teorico;
+e non potrebbe esserci esempio più forte di ciò che
+l'esempio del ritualismo e della Commissione sui Riti.
+
+Tutto il nocciolo della disputa sul ritualismo è molto semplice;
+è che non è affatto una disputa sul ritualismo.
+Nessuno può disputare sul ritualismo.  Se un gentiluomo, invece di
+offrirmi la mano, mi offre il piede, spiegando al tempo
+[[Time|stesso]] che per lui questo rito ha lo stesso significato di una stretta di mano,
+posso considerarlo divertente, ma di certo non malvagio.
+Ma se mi offendo per un atto simile, è perché l'improvviso
+agitare del suo piede in aria non ne trasmette immediatamente
+il significato, ma può persino essere considerato dall'ipersensibile
+come una sorta di calcio simbolico o non-effettivo.  Allo stesso modo,
+a nessuno importa un atomo di ciò che un qualsiasi ecclesiastico fa nella sua chiesa.
+... Tutto ciò che a chiunque di loro importa è ciò che un ecclesiastico intende.
+Potrebbe avere, non due ma duecento candele sull'altare, se l'altare
+non significasse qualcosa — cioè se l'altare non fosse un altare.
+L'ecclesiastico potrebbe indossare sei piviali e sette mitrie se li indossasse
+soltanto per suo gusto privato in fatto di vestiario.
+In una parola, il rito non è nemmeno rito senza la questione della dottrina.
+E la dottrina, credo, alla Commissione non fu permesso di discuterla.
+
+Il problema ultimo riguardo alla Chiesa d'Inghilterra non è facile
+da risolvere, ma è abbastanza facile da enunciare, e queste Commissioni
+non l'hanno mai nemmeno sentito enunciare.  È che una disputa esiste
+nella Chiesa d'Inghilterra assai singolare tra le istituzioni umane.
+La Chiesa d'Inghilterra sta disputando su che cosa la Chiesa
+d'Inghilterra sia.  La [[house|Camera]] dei Comuni sta disputando su
+che cosa la [[house|Camera]] dei Comuni debba fare.  La [[house|Camera]] dei Lord
+sta disputando su che cosa la [[house|Camera]] dei Lord debba fare.
+Perfino una [[Ship|nave]] privata disputa su che cosa debba fare; non
+disputa se sia una [[Ship|nave]] privata o un battello
+missionario o una nave da guerra.  Perfino una banda di ladri disputa
+su che cosa debba fare; non disputa se
+sia una compagnia di omnibus o una [[Union|corporazione]] di idraulici.  Ma la disputa
+nella Chiesa d'Inghilterra non riguarda ciò che essa debba fare;
+riguarda ciò che essa debba essere — anzi, ciò che essa è stata.
+La sua intera autorità sta nell'essere un ramo della
+[[Catholic Church|Chiesa Cattolica]]?  O la sua intera autorità sta nell'essere
+una protesta, una parte della grande protesta cinquecentesca,
+contro quella [[Catholic Church|Chiesa Cattolica]]?  Sono inutili tutte le commissioni che
+tentano di discutere ciò che essa fa, senza discutere ciò che essa è.
+Finché questa prima domanda non è risolta, è puerile discutere
+i paramenti di un ecclesiastico quanto discutere la sua carta da parati.
+
+                                  Illustrated [[London]] News, 14 luglio 1906

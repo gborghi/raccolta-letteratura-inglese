@@ -414,385 +414,385 @@ N a tree that yawned and twisted
 LIBRO III  
 L'ARPA DI ALFREDO  
 
-Su un albero che attorto sbadigliava  
-       i pochi beni del [[King|Re]] eran gettati,  
-     un messale ammuffito, riga a riga,  
-     e armi ed un otre pieno di vino,  
-       e una vecchia arpa scordata. [5]  
-     Presso l'albero aperto nel crepuscolo  
-       il [[King|Re]] slegò la sua [[Sword|spada]],  
-     staccò l'arpa da tutti i suoi beni,  
-     e là nei boschi freschi e senza suono  
-       fece vibrare un solo accordo. [10]  
+N un albero sbadigliante e contorto  
+       Stavano gettati i pochi beni del [[King|Re]],  
+     Un messale ammuffito, riga per riga,  
+     E armi e un otre di vino,  
+       E una vecchia arpa scordata. [5]  
+     Presso l'albero sbadigliante, nel crepuscolo,  
+       Il [[King|Re]] slacciò la sua [[Sword|spada]],  
+     Divise l'arpa da ogni altro suo bene,  
+     E là, nei boschi freschi e senza suono,  
+       Fece risuonare un solo accordo. [10]  
      Poi rise; e guardò i fringuelli guizzare,  
-       le cupe mosche in sciame,  
-     e andò senz'armi oltre i colli,  
-       con l'arpa sopra il braccio.  
-     Finché giunse alla Valle del [[Horse|Cavallo]] Bianco [15]  
-       e vide oltre le piane,  
-     nel crepuscolo alto, remoto e crudele,  
-     come le terrazze infuocate d'inferno,  
-       i fuochi del campo dei Danesi—  
-     i fuochi della Grande Armata [20]  
-       ch'era fatta d'uomini di ferro,  
-     le cui luci di sacrilegio e scherno  
-     correvano l'Inghilterra rosse come l'alba,  
-     fuochi sopra lo Spino di Glastonbury—  
-       fuochi sulla palude di Ely. [25]  
-     E passando per la Valle del [[Horse|Cavallo]] Bianco  
-       vide giacere pallido e vasto  
-     il vecchio [[Horse|cavallo]] inciso, Dio sa quando,  
-     da dèi o bestie o da ciò che allora  
-     calcava un mondo nuovo in vece d'uomini [30]  
-       e tracciato sul fianco del [[Hill|colle]].  
-     E quando giunse al Poggio del [[Horse|Cavallo]] Bianco  
-       il gran [[Horse|Cavallo]] Bianco era grigio,  
-     ché mal ripulito era dall'erbaccia,  
-     e lichene e spino strisciavano a pascersi, [35]  
-     da che i nemici di [[house|casa]] salda e fede  
-       avean spazzato via le opere antiche.  
-     [[King Alfred|Re Alfredo]] guardava tutto mesto  
-       i cardi ed i muschi grigi,  
-     finché una masnada di Danesi con scudo e roncola [40]  
-     rotolò ubriaca sulla cupola del [[Hill|colle]],  
-     e, udito dell'arpa e della sua arte,  
-       lo trascinarono al loro sollazzo.  
-     E andando per l'alta erba verde  
-       ruggivano come il gran mare verde; [45]  
-     ma quando giunsero al rosso [[Fire|fuoco]] del campo  
-       tacquero d'improvviso.  
-     E salendo su per le lande deserte  
-       andavano barcollando qua e là;  
-       ma quando giunsero al rosso [[Fire|fuoco]] del campo [50]  
-       stettero tutti in fila.  
+       Le mosche cupe in sciame,  
+     E andò disarmato oltre i colli,  
+       Con l'arpa sul braccio.  
+     Finché giunse alla Valle del Bianco [[Horse|Cavallo]] [15]  
+       E vide oltre le piane,  
+     Nel crepuscolo alto, remoto e crudele,  
+     Come le terrazze infuocate dell'inferno,  
+       I fuochi del campo dei Danesi—  
+     I fuochi della Grande Armata [20]  
+       Ch'era fatta di uomini di ferro,  
+     I cui lumi di sacrilegio e di scherno  
+     Correvano intorno all'Inghilterra rossi come l'alba,  
+     Fuochi sul Biancospino di Glastonbury—  
+       Fuochi laggiù sulla palude di Ely. [25]  
+     E passando per la Valle del Bianco [[Horse|Cavallo]]  
+       Vide giacere pallido e vasto  
+     Il vecchio [[Horse|cavallo]] inciso, Dio sa quando,  
+     Da dèi o da bestie o da ciò che allora  
+     Percorreva un mondo nuovo in vece d'uomini [30]  
+       E lo tracciò sul fianco del [[Hill|colle]].  
+     E quando giunse al Poggio del Bianco [[Horse|Cavallo]]  
+       Il gran Bianco [[Horse|Cavallo]] era grigio,  
+     Ché mal ripulito era dall'erbaccia,  
+     E lichene e spina potevano strisciare e pascersi, [35]  
+     Da che i nemici di [[house|casa]] e fede stabili  
+       Avevano spazzato via le opere antiche.  
+     [[King Alfred]] guardava tutto dolente  
+       Cardi e muschi grigi,  
+     Finché una masnada di Danesi con scudo e roncola [40]  
+     Rotolò ubriaca sulla cupola del [[Hill|colle]],  
+     E, udito dell'arpa sua e dell'arte,  
+       Lo trascinarono al loro sollazzo.  
+     E mentre andavano per l'alta erba verde  
+       Ruggivano come il gran mare verde; [45]  
+     Ma quando giunsero al rosso [[Fire|fuoco]] del campo  
+       Tacquero d'improvviso.  
+     E mentre salivano per le lande deserte  
+       Andavano barcollando qua e là;  
+       Ma quando giunsero al rosso [[Fire|fuoco]] del campo [50]  
+       Stettero tutti in fila.  
      Ché dorato nella luce del fuoco,  
-       con un sorriso scolpito sulle labbra,  
-     e una barba arricciata con arte fina,  
-     stava Guthrum del Mare del Nord, [55]  
-       l'imperatore delle navi—  
-     Con tre grandi conti il [[King|Re]] Guthrum  
-       faceva il giro di [[Fire|fuoco]] in [[Fire|fuoco]],  
-     con Harold, nipote del [[King|Re]],  
-     e Ogier della Pietra e della Fionda, [60]  
-     ed Elf, il cui liuto d'oro aveva una corda  
-       che sospirava come ogni [[Desire|desiderio]].  
+       Con un sorriso scolpito sulle labbra,  
+     E una barba arricciata con arte fina,  
+     Stava Guthrum del Mare del Nord, [55]  
+       L'imperatore delle navi—  
+     Con tre grandi conti [[King|re]] Guthrum  
+       Faceva il giro di [[Fire|fuoco]] in [[Fire|fuoco]],  
+     Con Harold, nipote del [[King|Re]],  
+     E Ogier della Pietra e della Fionda, [60]  
+     Ed Elf, il cui liuto d'oro aveva una corda  
+       Che sospirava come ogni [[Desire|desiderio]].  
      I Conti della Grande Armata  
-       che nessun nato d'uomo sapeva stancare,  
-     le cui fiamme, vicine o lontane, [65]  
-     afferravano torri e mura provate,  
+       Che nessun nato d'uomo poteva stancare,  
+     Le cui fiamme, vicine o lontane, [65]  
+     S'impadronivano di torri o di mura ben salde,  
      [[Fire|Fuoco]] sul tetto di Glastonbury  
-       e là su Ely, [[Fire|fuoco]].  
+       E laggiù su Ely, [[Fire|fuoco]].  
      E Guthrum udì il racconto dei soldati  
-       e ordinò allo straniero di suonare; [70]  
-     non con durezza, ma come uno dall'alto,  
-     su una colonna di marmo nel cielo,  
-     che vede ogni gente che vive e muore—  
-       pigmea e assai lontana.  
+       E ordinò allo straniero di suonare; [70]  
+     Non con durezza, ma come uno dall'alto,  
+     Su una colonna di marmo nel cielo,  
+     Che vede tutte le genti che vivono e muoiono—  
+       Pigmee e lontane.  
      E Alfredo, [[King|Re]] del Wessex, [75]  
-       guardò il suo vincitore—  
-     e le mani gli si indurirono; ma suonò,  
-     e tacendo ogni odio a venire,  
-     cantò un'antica scorreria britanna  
-       sulla selvaggia marca d'occidente d'un tempo. [80]  
+       Guardò il suo conquistatore—  
+     E le sue mani s'indurirono; ma suonò,  
+     E tacendo ogni odio a venire,  
+     Cantò di un'antica scorreria britanna  
+       Sulla selvaggia marca d'occidente d'un tempo. [80]  
      Cantò di guerra nelle contee calde e piovose,  
-       dove pioggia né frutto vien meno,  
-     dove l'Inghilterra dagli stati variopinti  
-     si fa fonda come un [[Garden|giardino]] fino alle porte  
-       nelle mura purpuree del Galles. [85]  
+       Dove non mancano pioggia né frutti,  
+     Dove l'Inghilterra dagli stati screziati  
+     Si fa folta come un [[Garden|giardino]] fino alle porte  
+       Nelle mura purpuree del Galles. [85]  
      Cantò dei mari di teste selvagge  
-       e dei mari e mari di lance,  
-     ribollenti su tutto il Vallo di Offa,  
-     al [[Time|tempo]] che una clava del Wessex colpiva  
-       i re dei montanari. [90]  
+       E dei mari e mari di lance,  
+     Ribollenti su tutto il Vallo di Offa,  
+     Al [[Time|tempo]] in cui una mazza del Wessex sapeva colpire  
+       I re dei montanari. [90]  
      Finché Harold rise e strappò l'arpa,  
-       il congiunto del [[King|Re]],  
-     un giovane grosso, imberbe come un [[Child|bimbo]],  
-     che il vino nuovo della guerra infuriava,  
-       percosse, e prese a cantare— [95]  
+       Il congiunto del [[King|Re]],  
+     Un giovane grosso, imberbe come un [[Child|bimbo]],  
+     Che il vino nuovo della guerra rendeva folle,  
+       Percosse le corde, e prese a cantare— [95]  
      E gridò delle navi come aquile  
-       che ruotano feroci e volano,  
-     e spazzano i mari e colpiscono le città  
-       da Cipro fino a Skye.  
-     Come rapide e con periglio [100]  
-       raccolgono ogni bene,  
-     le alte corna delle bestie di selva,  
-       o le pietre segrete dei re.  
-     “A Roma fu dato di reggere il mondo,  
-       e poca gioia ne trasse— [105]  
-     ma noi, ma noi godremo il mondo,  
-       l'immenso mondo intero un balocco.  
+       Che volteggiano feroci e volano,  
+     E spazzano i mari e colpiscono le città  
+       Da Cipro fino a Skye.  
+     Con che rapidità e con che rischio [100]  
+       Radunano ogni bene,  
+     Le alte corna delle bestie della foresta,  
+       O le pietre segrete dei re.  
+     “Ché a Roma fu dato governare il mondo,  
+       E poca gioia ne trasse— [105]  
+     Ma noi, noi il mondo lo godremo,  
+       L'intero immenso mondo un balocco.  
      “Gran vino come [[Blood|sangue]] di Borgogna,  
-       mantelli come nubi da Tiro,  
-     e marmo come chiaro di luna rappreso, [110]  
-       e oro come [[Fire|fuoco]] gelato.  
-     “Profumi che un uomo può tracannare in coppa,  
-       pietre che un uomo può mangiare,  
-     e le grandi donne lisce come avorio  
-     che i Turchi vendono per strada.” [115]  
+       Mantelli come le nubi di Tiro,  
+     E marmo come solido chiaro di luna, [110]  
+       E oro come [[Fire|fuoco]] gelato.  
+     “Profumi che un uomo potrebbe tracannare in coppa,  
+       Pietre che un uomo potrebbe mangiare,  
+     E le grandi donne lisce come avorio  
+     Che i Turchi vendono per strada.” [115]  
      Cantò il trono del ladro del mondo,  
-       e gli dèi che [[Love|amano]] il ladro;  
-     e urlò forte contro i chiostri,  
-       dove gli uomini vanno a mietere dolore.  
+       E gli dèi che [[Love|amano]] il ladro;  
+     E urlò forte contro i chiostri,  
+       Dove gli uomini vanno a mietere dolore.  
      “[[Well|Bene]] hai cantato, o straniero, [120]  
-       della [[Death|morte]] sul vallo nel Galles,  
-     il tuo capo era un donatore d'anelli;  
-     ma il rosso [[River|fiume]] ininterrotto  
-     d'una stirpe non scorre in eterno,  
-       ma d'un tratto vien meno. [125]  
-     “Certo i tuoi padri roteavan la [[Sword|spada]]  
-       quando guadavano freschi di schiuma,  
-     prima d'esser mutati in femmine  
-       dal dio dei chiodi di Roma;  
-     “ma poiché vi piegaste ai rasati, [130]  
-       che né bramano né colpiscono,  
-     tuono di Thor, noi vi cacciamo,  
-       lepre sull'altura del monte.”  
-     Il [[King|Re]] Guthrum sorrise un poco,  
-       e disse: “Basta così, [135]  
-     nipote, lascia che Elf riaccordi la corda;  
-     a un ragazzo per forza piace il muggito,  
-     ma le vecchie orecchie d'un [[King|re]] prudente  
-       godono di [[songs|canti]] meno aspri.”  
+       Della [[Death|morte]] sul vallo in Galles,  
+     Il tuo capo era un donatore di anelli;  
+     Ma il rosso [[River|fiume]] ininterrotto  
+     D'una stirpe non scorre in eterno,  
+       D'un tratto viene meno. [125]  
+     “Certo i tuoi padri roteavano la [[Sword|spada]]  
+       Quando guadavano freschi di schiuma,  
+     Prima d'esser mutati in femmine  
+       Dal dio dei chiodi venuto da Roma;  
+     “Ma da che vi piegaste agli uomini rasati, [130]  
+       Che non bramano né colpiscono,  
+     Tuono di Thor, vi diamo la caccia,  
+       Lepre sull'altura del monte.”  
+     [[King|Re]] Guthrum sorrise appena,  
+       E disse: “Basta così, [135]  
+     Nipote, che Elf riaccordi la corda;  
+     A un ragazzo piace per forza il muggito,  
+     Ma le vecchie orecchie di un [[King|re]] accorto  
+       Godono di [[songs|canti]] meno rudi.”  
      Occhi azzurri aveva Elf il menestrello, [140]  
-       con chioma di femmina e anello,  
-     ma greve era la sua mano sulla [[Sword|spada]],  
-       benché lieve sopra la corda.  
+       Con chioma e anello da donna,  
+     Ma greve era la sua mano sulla [[Sword|spada]],  
+       Benché lieve sulla corda.  
      E come mosse le corde dell'arpa  
-       su note quattro o cinque appena, [145]  
-     il cuore d'ogni uomo si mosse in lui  
-       come un bimbo sepolto vivo.  
+       Su note quattro o cinque appena, [145]  
+     Il cuore d'ogni uomo si mosse in lui  
+       Come un bimbo sepolto vivo.  
      E sentirono la terra dei [[songs|canti]] del popolo  
-       stendersi a sud del Danese,  
-     e udirono scorrere il buon Reno [150]  
-       nel cuore di tutta l'Alemagna.  
+       Stendersi a sud del Danese,  
+     E udirono scorrere il buon Reno [150]  
+       Nel cuore di tutta l'Alemagna.  
      Sentirono la terra dei [[songs|canti]] del popolo,  
-       dove i doni pendono dall'albero,  
-     dove le fanciulle mescono birra al mattino  
-       e le [[Tears|lacrime]] vengono facili. [155]  
+       Dove i doni pendono dall'albero,  
+     Dove le fanciulle versano birra al mattino  
+       E le [[Tears|lacrime]] vengono facili. [155]  
      Il popolo possente, come donna,  
-       che ha piacere nella propria [[Pain|pena]]  
-     mentre cantava di Balder il bello,  
-       che i cieli amarono invano.  
+       Che prova piacere nella sua [[Pain|pena]]  
+     Mentre cantava di Balder il bello,  
+       Che i cieli amarono invano.  
      Mentre cantava di Balder il bello, [160]  
-       che i cieli non poterono salvare,  
-     finché il mondo fu come un mare di [[Tears|lacrime]]  
-       e ogni [[Soul|anima]] un'onda.  
+       Che i cieli non poterono salvare,  
+     Finché il mondo fu come un mare di [[Tears|lacrime]]  
+       E ogni [[Soul|anima]] un'onda.  
      “C'è sempre una cosa dimenticata  
-       quando tutto il mondo va [[Well|bene]]; [165]  
-     una cosa scordata, come un tempo lontano  
-     quando gli dèi scordarono il vischio,  
-     e muta come una freccia di [[Snow|neve]]  
-       cadde la freccia dell'angoscia.  
+       Quando tutto il mondo va [[Well|bene]]; [165]  
+     Una cosa dimenticata, come un tempo  
+     Quando gli dèi dimenticarono il vischio,  
+     E silenziosa come freccia di [[Snow|neve]]  
+       Cadde la freccia dell'angoscia.  
      “La cosa sul lato cieco del cuore, [170]  
-       sul lato sbagliato della porta,  
-     la pianta verde cresce, minacciando  
-     gli [[lovers|amanti]] onnipotenti a [[Spring|primavera]];  
-     c'è sempre una cosa dimenticata,  
-       e l'[[Love|amore]] non è al sicuro.” [175]  
-     E tutti quelli seduti al [[Fire|fuoco]] eran tristi,  
-       tranne Ogier, che era duro,  
-     e i suoi occhi si indurirono, fino a pietre,  
-       quando prese l'arpa a sua volta;  
-     il conte Ogier della Pietra e della Fionda [180]  
-       era strano all'orecchio e alla vista,  
-     vecchio era, ma le chiome rosse,  
-     e motteggi eran tutte le sue parole,  
-     pure era triste a mensa e a letto  
-       e selvaggio nella pugna. [185]  
-     “Cantate facilmente i giovani dèi  
-       nei giorni in cui siete giovani;  
-     ma io vado odorando tasso e zolle,  
-     e so che ci sono dèi dietro gli dèi,  
-     dèi che è meglio non cantare. [190]  
+       Sul lato sbagliato della porta,  
+     La verde pianta cresce, minacciando  
+     Gli onnipotenti [[lovers|amanti]] in [[Spring|primavera]];  
+     C'è sempre una cosa dimenticata,  
+       E l'[[Love|amore]] non è al sicuro.” [175]  
+     E tutti quelli seduti al [[Fire|fuoco]] erano tristi,  
+       Tranne Ogier, che era duro,  
+     E i suoi occhi s'indurirono, fino a farsi pietre,  
+       Quando prese l'arpa a sua volta;  
+     Il conte Ogier della Pietra e della Fionda [180]  
+       Era strano a udirsi e a vedersi,  
+     Vecchio era, ma rosse le sue chiome,  
+     E motti eran tutte le parole che diceva,  
+     Eppure era triste a mensa e a letto  
+       E selvaggio nella battaglia. [185]  
+     “Cantate con leggerezza i giovani dèi  
+       Nei giorni in cui siete giovani;  
+     Ma io vado fiutando tasso e zolle,  
+     E so che vi sono dèi dietro gli dèi,  
+     Dèi che è meglio non cantare. [190]  
      “E un uomo si fa brutto per le donne,  
-       e un uomo si fa ottuso di birra,  
-     [[Well|bene]] se trova nella sua [[Soul|anima]] infine  
-       furia, che non vien meno.  
+       E un uomo si fa ottuso di birra,  
+     [[Well|Bene]] se trova nella sua [[Soul|anima]] infine  
+       Furia, che non viene meno.  
      “L'ira degli dèi dietro gli dèi [195]  
-       che vorrebbero squarciare dèi e uomini,  
-     [[Well|bene]] se il cuore del vecchio ha ancora  
-     ruote lanciate di rabbia e volontà ruggente,  
-     come cateratte per abbattere e uccidere,  
-       [[Well|bene]] per il vecchio allora— [200]  
-     “finché c'è un alto tempio da scuotere,  
-       o un uomo vivo da squarciare;  
-     per l'ira degli dèi dietro gli dèi  
-       stanchi, che vogliono farla finita.  
+       Che squarcerebbero ogni dio e ogni uomo,  
+     [[Well|Bene]] se il cuore del vecchio ha ancora  
+     Ruote lanciate di rabbia e volontà ruggente,  
+     Come cateratte per abbattere e uccidere,  
+       [[Well|Bene]] per il vecchio allora— [200]  
+     “Finché resta un alto tempio da scuotere,  
+       O un uomo vivo da squarciare;  
+     Per l'ira degli dèi dietro gli dèi  
+       Che sono stanchi, e vogliono farla finita.  
      “Vive un solo istante per un uomo [205]  
-       quando la porta alla sua spalla trema,  
-     quando la fune tesa si spezza al tiro,  
-     e il ramo più spoglio è bello  
-       un istante, mentre si spezza.  
+       Quando la porta alla sua spalla trema,  
+     Quando la fune tesa si spezza sotto lo strappo,  
+     E il ramo più spoglio è bello  
+       Un istante, mentre si schianta.  
      “Così cavalca la mia [[Soul|anima]] sul mare [210]  
-       che beve le navi urlanti,  
-     benché in nero scherzo s'inchini e annuisca  
-     sotto le lune dalle verghe d'argento,  
-     so che sta ruggendo contro gli dèi,  
-       attendendo l'ultima eclissi. [215]  
+       Che beve le navi urlanti,  
+     E benché per nero scherzo s'inchini e annuisca  
+     Sotto le lune dalle verghe d'argento,  
+     Io so che ruggisce contro gli dèi,  
+       Aspettando l'ultima eclissi. [215]  
      “E nell'ultima eclissi il mare  
-       si leverà come una torre,  
-     sopra ogni luna oscurata e squarciata,  
-     alzerà in cielo il capo schiumante,  
-       e riderà, sapendo la sua ora. [220]  
-     “E gli eccelsi nella città felice  
-       puntellata dai sette pianeti,  
-     conosceranno una nuova luce nella mente,  
-     un rumore intorno e alle spalle,  
-     udranno una voce tremenda, e troveranno  
-       schiuma nelle corti del cielo. [225]  
-     “E voi seduti al [[Fire|fuoco]] siete giovani,  
-       e amori veri vi attendono;  
-     ma il [[King|Re]] e io invecchiamo, invecchiamo,  
-       e [[Alone|solo]] l'odio è vero.” [230]  
+       Si leverà come una torre,  
+     Sopra tutte le lune oscurate e squarciate,  
+     Alzerà in cielo la testa schiumante,  
+       E riderà, conoscendo la sua ora. [220]  
+     “E gli alti nella città felice  
+       Sorretta dai sette pianeti,  
+     Conosceranno una nuova luce nella mente,  
+     Un rumore intorno a loro e alle spalle,  
+     Udranno una voce tremenda, e troveranno  
+       Schiuma nelle corti del cielo. [225]  
+     “E voi che sedete al [[Fire|fuoco]] siete giovani,  
+       E veri amori vi attendono;  
+     Ma il [[King|Re]] e io invecchiamo, invecchiamo,  
+       E l'odio [[Alone|soltanto]] è vero.” [230]  
      E Guthrum scosse il capo ma sorrise,  
-       ché era un gran chierico,  
-     e aveva letto righe nei libri latini,  
-       quando tutto il nord era buio.  
+       Ché era un chierico possente,  
+     E aveva letto righe nei libri latini,  
+       Quando tutto il nord era buio.  
      Disse: “Sono più vecchio di te, Ogier; [235]  
-       non ogni cosa vorrei squarciare,  
-     ché sia la vita cattiva o buona  
-       è meglio attenderne la fine.”  
+       Non ogni cosa vorrei squarciare,  
+     Ché sia la vita mala o buona  
+       È meglio attenderne la fine.”  
      Prese la grande arpa stancamente,  
-       proprio Guthrum dei Danesi, [240]  
-     con grandi occhi chiari come l'unico lungo giorno  
-       sulle lunghe piane polari.  
-     Ché cantò d'una [[Wheel|ruota]] che ritorna,  
-       e del fango ricalcato in fango,  
-     e di come rossi inferni e cieli d'oro [245]  
-       siano castelli nel [[Fire|fuoco]].  
-     “È bello sedere dove vanno i buoni racconti,  
-       sedere come sedettero i padri;  
-     ma verrà l'ora dopo la giovinezza,  
-     quando l'uomo saprà non racconti ma [[Truth|verità]], [250]  
-       e il suo cuore ne verrà meno.  
+       Persino Guthrum dei Danesi, [240]  
+     Con grandi occhi lucenti come l'unico lungo giorno  
+       Sulle lunghe piane polari.  
+     Ché cantò di una [[Wheel|ruota]] che ritorna,  
+       E del fango ricalpestato in fango,  
+     E di come rossi inferni e cieli d'oro [245]  
+       Siano castelli nel [[Fire|fuoco]].  
+     “È bello sedere dove corrono le belle storie,  
+       Sedere come sedettero i nostri padri;  
+     Ma l'ora verrà, dopo la giovinezza,  
+     In cui un uomo conoscerà non storie ma [[Truth|verità]], [250]  
+       E il cuore gli verrà meno.  
      “Quando leggerà ciò che sta scritto  
-     così chiaro in nubi e zolle,  
-     quando avrà fame senza [[Hope|speranza]]  
-       persino di dèi malvagi. [255]  
+     Così chiaro in nuvole e zolle,  
+     Quando avrà fame, senza [[Hope|speranza]],  
+       Persino di dèi malvagi. [255]  
      “Ché questa è materia grave,  
-       e la [[Truth|verità]] è fredda a dirsi;  
-     non sappiamo, non abbiamo udito,  
-     che l'[[Soul|anima]] è come uccello smarrito,  
-       il [[Body|corpo]] un guscio infranto? [260]  
-     “E l'uomo spera, essendo ignaro,  
-       finché in bianchi boschi in disparte  
-     trova infine morto l'uccello smarrito:  
-     e l'uomo può ancora alzare il capo  
-       ma mai più il cuore. [265]  
-     “Non viene rumore se non pianto  
-       giù dal cielo antico,  
-     e una lacrima è nel fiore più piccolo  
-       perché gli dèi devono morire.  
+       E la [[Truth|verità]] è fredda a dirsi;  
+     Non lo sappiamo, non l'abbiamo udito?  
+     L'[[Soul|anima]] è come un uccello smarrito,  
+       Il [[Body|corpo]] un guscio infranto. [260]  
+     “E un uomo spera, essendo ignaro,  
+       Finché in bianchi boschi in disparte  
+     Trova infine morto l'uccello smarrito:  
+     E un uomo può ancora alzare il capo  
+       Ma mai più il suo cuore. [265]  
+     “Non viene rumore che di pianto  
+       Dal cielo antico,  
+     E c'è una lacrima nel più piccolo dei fiori  
+       Perché gli dèi devono morire.  
      “I piccoli ruscelli sono assai dolci, [270]  
-       come nastri arricciati di fanciulla,  
-     ma il grande mare è amaro  
-       che lava tutto il mondo.  
+       Come nastri arricciati di fanciulla,  
+     Ma il gran mare è amaro  
+       Che lava tutto il mondo.  
      “Forti sono le rose romane,  
-       o i liberi [[Flowers|fiori]] della brughiera, [275]  
-     ma ogni fiore, come fiore del mare,  
-       odora del sale della [[Death|morte]].  
-     “E il cuore della battaglia serrata  
-     è il luogo più felice per gli uomini;  
-     quando anime urlanti passano come dardi [280]  
-     e molti son morti e tutti possono morire;  
-     benché questa parola sia mistero,  
-       la [[Death|Morte]] è allora più lontana.  
+       O i liberi [[Flowers|fiori]] della brughiera, [275]  
+     Ma ogni fiore, come fiore del mare,  
+       Odora del sale della [[Death|morte]].  
+     “E il cuore della mischia serrata  
+     È il luogo più felice per gli uomini;  
+     Quando anime urlanti passano come dardi [280]  
+     E molti sono morti e tutti possono morire;  
+     Benché questa parola sia un mistero,  
+       La [[Death|Morte]] è allora più lontana.  
      “La [[Death|Morte]] arde chiara sopra la coppa,  
-       e nitida sopra la [[Crown|corona]]; [285]  
-     ma in quel sogno di battaglia  
-       ci pare di calpestarla.  
+       E nitida sopra la [[Crown|corona]]; [285]  
+     Ma in quel sogno di battaglia  
+       Ci pare di calpestarla.  
      “Perciò io sono un grande [[King|re]],  
-       e devasto il mondo invano,  
-     perché l'uomo non ha altro potere, [290]  
-     se non che, dando [[Death|morte]] in dote,  
-     può scordarla per un'ora  
-       per ricordarla ancora.”  
+       E devasto il mondo invano,  
+     Perché l'uomo non ha altro potere, [290]  
+     Se non che, dando [[Death|morte]] in dote,  
+     Può dimenticarla per un'ora  
+       Per ricordarla di nuovo.”  
      E lente le sue mani e pensose  
-       caddero dalla lira levata, [295]  
-     e i gufi gemettero dagli alberi possenti  
-     finché Alfredo la strinse alle ginocchia  
-       e la percosse come in ira.  
-     Levò alta la testa dell'arpa  
-     e spazzò la sbarrata intelaiatura, [300]  
-     e il suo colpo ebbe tutto il fragore e la scintilla  
-       di cavalli in fuga sfrenata.  
+       Caddero dalla lira levata, [295]  
+     E i gufi gemettero dai grandi alberi  
+     Finché Alfredo se la strinse alle ginocchia  
+       E la percosse come in ira.  
+     Sollevò alta la testa dell'arpa  
+     E spazzò l'intelaiatura di sbarre, [300]  
+     E il suo colpo ebbe tutto lo strepito e la scintilla  
+       Di cavalli in fuga sfrenata.  
      “Quando Dio pose l'uomo in un [[Garden|giardino]]  
-       lo cinse d'una [[Sword|spada]],  
-     e lo mandò libero cavaliere [305]  
-       che poteva tradire il suo signore;  
+       Lo cinse di una [[Sword|spada]],  
+     E lo mandò innanzi, cavaliere libero [305]  
+       Che poteva tradire il suo signore;  
      “Lo infranse e Lo tradì,  
-       e cadde rapido e lontano,  
-     tanto che tu ed io possiamo tendere il collo  
-       e bruciarci le barbe all'inferno. [310]  
-     “Ma pur giacendo sul fondo del mondo,  
-       coi sette peccati per verghe,  
-     preferirei cadere con Adamo  
-       che sorgere con tutti i vostri dèi.  
+       E rapido e lontano cadde,  
+     Tanto che tu e io possiamo tendere il collo  
+       E bruciarci le barbe all'inferno. [310]  
+     “Ma benché io giaccia sul fondo del mondo,  
+       Coi sette peccati per verghe,  
+     Preferirei cadere con Adamo  
+       Che sorgere con tutti i vostri dèi.  
      “Che cosa hanno dato gli dèi forti? [315]  
        Dove hanno condotto gli dèi lieti?  
-     Se Guthrum siede sul trono d'un [[Hero|eroe]]  
-       e chiede se egli è morto?  
-     “Signori, io sono solo un uomo senza nome,  
-       un rimatore senza [[Home|casa]], [320]  
-     ma poiché vengo dall'argilla del Wessex  
-       e porto la [[Cross|croce]] di Roma,  
-     “risponderò pure al conte possente  
-       che chiese degli uomini del Wessex  
-     perché siano gente mite e monacale, [325]  
-     e si pieghino al giogo infranto del Bianco Signore;  
-     che segno abbiamo se non [[Blood|sangue]] e fumo?  
-       Ecco dunque la mia risposta.  
+     Se Guthrum siede sul trono di un [[Hero|eroe]]  
+       E chiede se è morto?  
+     “Signori, io non sono che un uomo senza nome,  
+       Un rimatore senza [[Home|casa]], [320]  
+     Ma poiché vengo dall'argilla del Wessex  
+       E porto la [[Cross|croce]] di Roma,  
+     “Risponderò pure al conte possente  
+       Che chiese degli uomini del Wessex  
+     Perché siano gente mite e monacale, [325]  
+     E si pieghino al giogo infranto del Bianco Signore;  
+     Che segno abbiamo se non [[Blood|sangue]] e fumo?  
+       Ecco allora la mia risposta.  
      “Che su di voi è caduta l'[[Shadow|ombra]],  
-       e non sul Nome; [330]  
-     che benché ci disperdiamo e fuggiamo,  
-     e voi pendiate su noi come il cielo,  
-     voi siete più stanchi di vittoria  
-       che noi non siamo stanchi di vergogna.  
+       E non sul Nome; [330]  
+     Che benché ci disperdiamo e fuggiamo,  
+     E voi pendiate su di noi come il cielo,  
+     Voi siete più stanchi della vittoria  
+       Che noi della vergogna.  
      “Che benché cacciate il cristiano [335]  
-       come lepre sul fianco del [[Hill|colle]],  
-     la lepre ha ancora più cuore a correre  
-       di quanto voi ne abbiate a cavalcare.  
-     “Che benché ogni lancia si spezzi su voi,  
-       ogni spada si levi invano, [340]  
-     noi abbiamo più brama di perdere ancora  
-       che voi di vincere ancora.  
+       Come lepre sul fianco del [[Hill|colle]],  
+     La lepre ha ancora più cuore per correre  
+       Di quanto voi ne abbiate per cavalcare.  
+     “Che benché ogni lancia si spezzi su di voi,  
+       Ogni spada si levi invano, [340]  
+     Noi abbiamo più brama di perdere ancora  
+       Che voi di vincere ancora.  
      “Il vostro signore siede alto in sella,  
-       un [[King|re]] dal cuore infranto,  
-     ma il nostro [[King Alfred|Re Alfredo]], perduto alla fama, [345]  
-     caduto fra nemici o ceppi di vergogna,  
-     in non so quale umile mestiere o nome,  
-       ha ancora qualche [[Song|canto]] da cantare;  
-     “I nostri [[Monks|monaci]] vestono pioggia e [[Snow|neve]],  
-       ma dentro il cuore di fiamma, [350]  
-     ma voi andate vestiti di feste e fiamme,  
-       quando tutto è ghiaccio dentro;  
-     “Né tutte le condanne di ferro faran muti  
-       gli uomini che si chiedono senza posa  
-     se non sia meglio digiunare per gioia [355]  
-       che banchettare per miseria.  
-     “Né solo l'ordine monastico  
-       scivola giù, come campo in palude,  
-     ogni cosa compiuta e scelta passa,  
-     come il “[[Horse|Cavallo]] Bianco svanisce nell'erba, [360]  
-       non opera d'uomini cristiani.  
+       Un [[King|re]] dal cuore infranto,  
+     Ma il nostro [[King Alfred]], perduto alla fama, [345]  
+     Caduto fra nemici o ceppi di vergogna,  
+     In non so quale umile mestiere o nome,  
+       Ha ancora qualche [[Song|canto]] da cantare;  
+     “I nostri [[Monks|monaci]] vanno vestiti di pioggia e [[Snow|neve]],  
+       Ma dentro hanno il cuore di fiamma, [350]  
+     Voi invece andate vestiti di feste e fiamme,  
+       Quando dentro tutto è ghiaccio;  
+     “Né tutte le condanne di ferro faranno muti  
+       Gli uomini che si chiedono senza posa  
+     Se non sia meglio digiunare per gioia [355]  
+       Che banchettare per miseria.  
+     “Né soltanto l'ordine monacale  
+       Scivola giù, come campo in palude,  
+     Ogni cosa compiuta e scelta passa,  
+     Come il “Bianco [[Horse|Cavallo]] svanisce nell'erba, [360]  
+       Nessuna opera di uomini cristiani.  
      “Prima che i tristi dèi che fecero i vostri dèi  
-       vedessero passare la loro triste aurora,  
-     il [[Horse|Cavallo]] Bianco della Valle del [[Horse|Cavallo]] Bianco,  
-     che avete lasciato oscurarsi e perire, [365]  
-       fu intagliato nell'erba.  
+       Vedessero passare la loro triste aurora,  
+     Il Bianco [[Horse|Cavallo]] della Valle del Bianco [[Horse|Cavallo]],  
+     Che avete lasciato oscurarsi e perire, [365]  
+       Fu intagliato nell'erba.  
      “Perciò la vostra fine vi è addosso,  
-       è su voi e sui vostri re,  
-     non per un [[Fire|fuoco]] nella palude di Ely,  
-     non perché i vostri dèi siano nove o dieci, [370]  
-     ma perché solo gli uomini cristiani  
-       custodiscono anche le cose pagane.  
-     “Ché il nostro Dio ha benedetto il creato,  
-       chiamandolo buono. Io so  
-     quale spirito, cui ciechi vi stringete, [375]  
-     ha benedetto la distruzione con la sua mano;  
-     ma per la [[Death|morte]] di Dio le [[Stars|stelle]] staranno  
-       e le piccole mele cresceranno.”  
+       È su di voi e sui vostri re,  
+     Non per un [[Fire|fuoco]] nella palude di Ely,  
+     Non perché i vostri dèi siano nove o dieci, [370]  
+     Ma perché soltanto uomini cristiani  
+     Custodiscono persino le cose pagane.  
+     “Ché il nostro Dio ha benedetto la creazione,  
+       Chiamandola buona. Io so  
+     Quale spirito, a cui ciechi vi legate, [375]  
+     Ha benedetto con la sua mano la distruzione;  
+     Ma per la [[Death|morte]] di Dio le [[Stars|stelle]] staranno salde  
+       E le piccole mele cresceranno.”  
      E il [[King|Re]], con l'arpa in spalla,  
-       si levò e cessò il suo [[Song|canto]]; [380]  
-     e i gufi gemettero dagli alberi possenti,  
-       e i Danesi risero forte e a lungo.  
+       Si levò e cessò il suo [[Song|canto]]; [380]  
+     E i gufi gemettero dai grandi alberi,  
+       E i Danesi risero forte e a lungo.  

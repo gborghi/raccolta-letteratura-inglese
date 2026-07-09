@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/part/part_29">‹ part 29</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/part/part_31">part 31 ›</a></div>
@@ -150,3 +152,149 @@ in practice.  But I never questioned its poetry, its fantasy;
 the fitness of so [[Sublime|sublime]] a conjuring trick for a children's party.
 What I complain of is that the modern children have forgotten
 how to shriek.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/part/part_29">‹ part 29</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/part/part_31">part 31 ›</a></div>
+</nav>
+
+_XXX A proposito del Telefono_
+
+LESSI per caso una frase su un quotidiano l'altro giorno; anzi, l'avevo
+letta in moltissimi altri quotidiani in moltissimi altri giorni.
+Ma d'un tratto mi rivelò il profondo disaccordo che divide
+la maggior parte dei moderni riguardo alla [[Nature|natura]] del progresso; perfino coloro
+che sono tanto superficiali da immaginare di essere tutti d'accordo.
+La frase suonava press'a poco così: «Verrà il [[Time|tempo]] in cui
+comunicare con le remote [[Stars|stelle]] ci sembrerà tanto ordinario
+quanto rispondere al telefono».
+
+Al che io rispondo, tanto per cominciare: «Sì, è proprio questo
+che mi ripugna». Ora, se poteste dirmi: «Verrà il [[Time|tempo]]
+in cui rispondere al telefono ci sembrerà tanto straordinario
+quanto comunicare con le remote [[Stars|stelle]]...», allora ammetterei
+che siete un progressista vero, schietto, pieno di speranza e di incoraggiamento.
+Pur essendo un progressista, sareste comunque un [[Prophet|profeta]]; mestiere che taluni
+hanno reputato piuttosto antiquato. Resterebbe ancora
+assai discutibile se un [[Prophet|profeta]] sia un uomo ispirato dal cielo
+oppure un uomo che, per la [[Nature|natura]] stessa del caso, parla di cose
+che non comprende. Ma, ammesso, per amor di discussione,
+che un progressista possa essere abbastanza convinto e sicuro da parlare
+come un [[Prophet|profeta]], direi che questo [[Prophet|profeta]] profetizzava davvero
+la venuta del regno dei cieli, e questo progressista ci prometteva
+un progresso reale e sostanziale. Dirci che troveremo
+tanta gioia in una voce telefonica quanta ne troveremmo in una visione stellare--
+questo sarebbe un vangelo nel senso più pratico di buona novella.
+Ma dirci che ci annoieremo delle [[Stars|stelle]]
+quanto ci annoiamo del telefono--questa non è affatto una buona novella.
+Significa soltanto che qualcosa che è ancora una sorta di vaga
+ispirazione diventerà, a suo tempo, una ben ordinaria irritazione.
+Quando le [[Stars|stelle]] del mattino cantano insieme e i figli di Dio esultano di gioia,
+quando la più possente musica delle sfere raggiunge la nostra terra come una nuova
+rivelazione degli abissi e delle altezze del suono, non vorremmo certo
+che il coro stellare gridasse in un unico [[Chorus|coro]]:
+«Spiacenti per il disturbo». Poiché in quel patetico grido del centralino
+la [[Tragedy|tragedia]] della nostra sorte umana è filosoficamente ammessa.
+Si riconosce, con le parole stesse, che essere chiamati a rispondere
+al telefono _è_ essere disturbati.
+
+Si ammette, perfino dalla mente ufficiale, che in questo senso l'uomo
+nasce per il tormento come le scintille elettriche volano in alto, o dovunque
+volino le scintille elettriche; si lascia perfino intendere, benché forse
+in modo mistico e indiretto, che una vita di pace, di pace perfetta,
+sarebbe quella in cui il telefono cessasse di disturbare e gli
+abbonati riposassero. Ma la [[Truth|verità]] va più a fondo di qualsiasi occasionale
+irritazione che possa sorgere dal cattivo uso dello strumento;
+essa implica un certo grado di indifferenza perfino nell'uso corretto di esso.
+Ci viene incessantemente ripetuto, in verità, che i moderni congegni scientifici,
+persino quelli come il telefono, oggi universalmente adottati,
+sono i miracoli dell'uomo, e le meraviglie della scienza, e i prodigi
+del mondo nuovo. Ma per quanto le invenzioni siano descritte in questo modo,
+non sono trattate in questo modo. O, piuttosto, se in teoria se ne parla
+così, in pratica non se ne parla così. Vi è
+certamente stata una corsa alla scoperta, una rapida serie di invenzioni;
+e, in un certo senso, l'attività è meravigliosa e la rapidità potrebbe
+[[Well|ben]] parere [[Magic|magia]]. Ma è stata una rapidità nel far diventare stantie le cose;
+una corsa all'ingiù verso il mondo piatto e tetro del prosaico;
+una fretta di cose meravigliose nel perdere il proprio carattere meraviglioso;
+un [[deluge|diluvio]] di prodigi che distrugge il [[Wonder|prodigio]]. Potrà essere il perfezionamento
+del macchinario, ma non può in alcun modo essere il perfezionamento dell'uomo.
+E poiché non è il perfezionamento dell'uomo, non può in alcun modo
+essere progresso. L'uomo è la creatura che il progresso pretende di perfezionare;
+non è una gara di ruote contro ruote, né un incontro di lotta
+di motori contro motori. Il perfezionamento implica tutto ciò che
+comunemente si chiama [[Education|educazione]]; e l'[[Education|educazione]] implica un ampliamento;
+e soprattutto un ampliamento dell'[[Imagination|immaginazione]]. Implica precisamente
+quell'intensità immaginativa di apprezzamento che non consente a nulla
+di ciò che potrebbe essere vivido o significativo di divenire triviale o volgare.
+Se abbiamo volgarizzato l'elettricità sulla terra, non è una risposta
+vantarsi che, tra qualche anno ancora, potremo volgarizzare le [[Stars|stelle]]
+nel cielo.
+
+Ditemi che l'affaccendato uomo d'affari s'irrigidisce in [[prayer|preghiera]]
+al solo suono della squilla del telefono, come i contadini
+di Millet all'Angelus; ditemi che s'inchina in riverenza
+avvicinandosi al sacrario della cabina telefonica; ditemi anche
+che lo saluta con rito pagano piuttosto che cristiano,
+che porge l'orecchio alla cornetta come a un Oracolo di Delfi,
+o pensa alla giovane signorina sullo sgabello d'ufficio del Centralino
+come a una sacerdotessa assisa su un tripode in un tempio lontano;
+ditemi anche che ha un ordinario apprezzamento poetico
+dell'idea di quella voce umana che valica colli e valli--
+tanto apprezzamento quanto ne avevano gli uomini per il corno di Orlando o il grido
+di [[Achilles|Achille]]--ditemi che queste scene di adorazione o di agitazione sono
+comuni nell'ufficio commerciale al ricevimento di una chiamata telefonica,
+e _allora_ (sulla preliminare presunzione che io creda a una sola parola
+di ciò che dite), _allora_ davvero seguirò il vostro affaccendato uomo d'affari
+e il vostro ardito inventore scientifico alla conquista di nuovi mondi
+e alla scalata delle [[Stars|stelle]]. Poiché allora saprò che essi
+trovano davvero ciò che cercano e comprendono ciò che trovano;
+saprò che aggiungono davvero nuove esperienze alla nostra vita e nuove
+facoltà e passioni alle nostre anime; che sono come uomini che scoprono
+nuove lingue, o nuove arti, o nuove scuole di architettura.
+Ma tutto ciò che sanno dire, nel genere di passo che ho citato, è che
+sanno inventare cose che sono generalmente comodità banali,
+ma assai spesso scomodità banali. E tutto ciò di cui
+possono vantarsi, in risposta a qualsiasi critica intelligente, è che
+potranno ancora imparare a rendere il sole e la [[Moon|luna]] e gli eterni
+cieli ugualmente banali, e probabilmente ugualmente scomodi.
+
+Si badi bene che questa _non_ è, come sempre si immagina alla leggera,
+una reazione contro la scienza materiale; né un rimpianto per l'invenzione meccanica;
+né una svalutazione di telefoni o telescopi o di qualsiasi altra cosa.
+È esattamente il contrario. Non svaluto affatto i telefoni;
+mi lamento che non vengano apprezzati. Non
+attacco le invenzioni; attacco l'indifferenza verso le invenzioni.
+Osservo soltanto che sono le stesse persone che se ne vantano quelle che
+in realtà ne sono indifferenti. Non ho nulla da obiettare all'affermazione
+che la scienza del mondo moderno sia meravigliosa; obietto soltanto
+contro il mondo moderno perché non se ne [[Wonder|meraviglia]]. È vero che,
+in rapporto a certe altre questioni politiche o morali,
+[[Doubt|dubito]] che questi trucchi meccanici possano essere usati come prove morali.
+Ma questo non ha nulla a che vedere con la questione dell'abbagliante
+splendore del gioco di prestigio, considerato come gioco di prestigio.
+Se una cosa simile sia una prova sociale ultima è in realtà
+una questione di stabilire se sia una necessità o un lusso.
+E nessuno ha mai dubitato che un gioco di prestigio sia un lusso.
+L'ideale di un contadiname, enunciato da un [[King|re]] di Francia, secondo cui vi
+dovrebbe sempre essere una gallina in pentola, è senza dubbio diverso
+dall'ideale che vi debba sempre essere un coniglio nel cilindro. Ma non
+vi è ragione di [[Doubt|dubitare]] che il [[King|re]] di Francia e il contadino francese
+siano capaci di godere del piacere puramente artistico e scientifico
+di vedere il coniglio estratto dal cilindro con rapidità e destrezza.
+Ora io posso [[Doubt|dubitare]], e dubito, che vi sia una gran superiorità puramente _pratica_
+dello straordinario coniglio sull'ordinaria gallina.
+[[Doubt|Dubito]] che grandi masse di uomini ricavino molto più cibo
+dal coniglio magico di quanto i levrieri ne ricavino dalla lepre meccanica.
+[[Doubt|Dubito]] che il coniglio sia più gustoso uscito dal cilindro di un professore
+in abito da sera che dalla pentola della moglie di un contadino francese
+che per caso sa cucinarlo. In breve, i miei dubbi sui moderni
+congegni materialistici sono dubbi sulla loro utilità ultima
+nella pratica. Ma non ho mai messo in questione la loro poesia, la loro fantasia;
+l'idoneità di un gioco di prestigio così [[Sublime|sublime]] per una festa di bambini.
+Ciò di cui mi lamento è che i bambini moderni hanno dimenticato
+come si strilla.

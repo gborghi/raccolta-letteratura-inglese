@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08">‹ Chapter 08</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10">Chapter 10 ›</a></div>
@@ -555,3 +557,232 @@ This was the normal, this was [[Sanity|sanity]], this was [[Nature|nature]]; and
 with his rationality and his detachment and his black frock-coat,
 he was the exception and the accident...a blot of black upon a world
 of crimson and gold.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08">‹ Chapter 08</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10">Chapter 10 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09/part_04">Part 4</a></li></ul>
+</nav>
+
+CAPITOLO III
+
+L'ESPERIMENTO DI MR. BUCK
+
+UN'accorata ed eloquente petizione fu inoltrata al [[King|Re]] firmata coi nomi di Wilson, Barker, Buck, Swindon e altri. Vi si sosteneva che, all'imminente conferenza da tenersi alla presenza di Sua Maestà circa la definitiva destinazione della proprietà di Pump Street, non si sarebbe ritenuto incompatibile col decoro politico e con l'indicibile rispetto che essi nutrivano per Sua Maestà se fossero comparsi in ordinario abito da mattina, senza il costume decretato per loro come Prevosti. Così accadde che la compagnia comparve a quel consiglio in redingote e che il [[King|Re]] stesso limitò il suo [[Love|amore]] per la cerimonia comparendo (secondo la sua non insolita maniera) in abito da sera con un solo ordine... in questo caso non la Giarrettiera, ma il distintivo del Club dei Migliori Compari del Vecchio Clipper, decorazione ottenuta (con difficoltà) da un giornaletto per ragazzi da mezzo penny. Così pure accadde che l'unica macchia di colore nella sala fosse [[Adam Wayne]], che entrò con grande dignità con la grande veste rossa e la grande [[Sword|spada]].
+
+«Ci siamo riuniti», disse Auberon, «per decidere il più arduo dei problemi moderni. Che si possa aver successo.» E si sedette con gravità.
+
+Buck girò un poco la sedia e accavallò una gamba sull'altra.
+
+«Vostra maestà», disse, di ottimo umore, «c'è solo una cosa che non riesco a capire, ed è perché questa faccenda non si risolva in cinque minuti. Ecco una piccola proprietà che per noi vale mille e non vale cento per chiunque altro. Noi offriamo i mille. Non è da uomini d'affari, lo so, perché dovremmo ottenerla per meno, e non è ragionevole e non è giusto verso di noi, ma che io sia dannato se riesco a capire perché sia difficile.»
+
+«La difficoltà si può esporre assai semplicemente», disse Wayne. «Potete offrire un milione e vi sarà molto difficile ottenere Pump Street.»
+
+«Ma, sentite qui, Mr. Wayne», esclamò Barker, intervenendo con una specie di fredda concitazione. «Sentite un po'. Non avete alcun diritto di assumere una posizione simile. Avete il diritto di tener duro per un prezzo maggiore, ma non è ciò che state facendo. State rifiutando quella che voi e ogni uomo sano di mente sapete essere un'offerta splendida, per pura malizia o dispetto... dev'essere malizia o dispetto. E quel genere di cosa è davvero criminale; è contro il bene pubblico; il [[government|Governo]] del [[King|Re]] sarebbe giustificato nel costringervi.»
+
+Con le magre dita distese sul tavolo fissava ansiosamente il volto di Wayne, che non si mosse.
+
+«Nel costringervi... lo sarebbe», ripeté.
+
+«Lo farà», disse Buck, in breve, voltandosi verso il tavolo con uno scatto. «Abbiamo fatto del nostro meglio per essere corretti.»
+
+Wayne sollevò lentamente i grandi occhi.
+
+«È stato mio Lord Buck», domandò, «a dire che il [[King|Re]] d'Inghilterra 'farà' qualcosa?»
+
+Buck arrossì e disse stizzito:
+
+«Voglio dire che deve... che dovrebbe, come dico abbiamo fatto del nostro meglio per essere generosi. Sfido chiunque a negarlo. Stando così le cose, Mr. Wayne, non voglio dire una parola scortese. [[Hope|Spero]] non sia scortese dire che potete, e dovreste, essere in prigione. È criminale fermare i lavori pubblici per un capriccio. Un uomo potrebbe [[Well|anche]] bruciare diecimila cipolle nel suo [[Garden|giardino]] davanti a casa o allevare i figli perché corrano nudi per strada, come fare ciò che dite di aver diritto di fare. La gente è stata costretta a vendere anche in passato. Il [[King|Re]] potrebbe costringervi, e [[Hope|spero]] che lo farà.»
+
+«Finché non lo fa», disse Wayne, con calma, «la potenza e il [[government|governo]] di questa grande nazione sono dalla mia parte e non dalla vostra, e vi sfido a sfidarli.»
+
+«In che senso», esclamò Barker, coi suoi occhi e le sue mani febbrili, «il [[government|Governo]] è dalla vostra parte?»
+
+Con un solo gesto squillante Wayne srotolò una grande pergamena sul tavolo. Era decorata lungo i margini con selvaggi schizzi ad [[Water|acquerello]] di consiglieri parrocchiali con corone e ghirlande.
+
+«La Carta delle Città», cominciò.
+
+Buck esplose in una bestemmia brutale e rise.
+
+«Quello scherzo da buffone. Non ne abbiamo avuto abbastanza...»
+
+«Ed eccovi lì seduto», esclamò Wayne, scattando in piedi e con una voce come una tromba, «senza altro argomento che insultare il [[King|Re]] in faccia.»
+
+Anche Buck [[Rose|si alzò]] con occhi fiammeggianti.
+
+«Non è facile intimidirmi», cominciò... e i lenti toni del [[King|Re]] intervennero con incomparabile gravità:
+
+«Mio Lord Buck, devo pregarvi di ricordare che il vostro [[King|Re]] è presente. Non è spesso che egli abbia bisogno di proteggersi tra i suoi sudditi.»
+
+Barker si volse a lui con gesti frenetici.
+
+«Per l'amor di Dio, non spalleggiate ora il pazzo», implorò. «Fate il vostro scherzo un'altra [[Time|volta]]. Oh, per amor del Cielo...»
+
+«Mio Lord Prevosto di South Kensington», disse [[King|Re]] Auberon, con fermezza. «Non seguo le vostre osservazioni, pronunciate con una rapidità insolita a [[Court|Corte]]. Né i vostri [[Well|ben]] intenzionati sforzi di trasmettere il resto con le dita mi assistono materialmente. Dico che il mio Lord Prevosto di North Kensington, cui parlavo, non dovrebbe alla presenza del suo Sovrano parlare irrispettosamente delle ordinanze del suo Sovrano. Siete in disaccordo?»
+
+Barker si agitò irrequieto sulla sedia, e Buck imprecò senza parlare. Il [[King|Re]] proseguì con voce tranquilla:
+
+«Mio Lord Prevosto di Notting [[Hill]], procedete.»
+
+Wayne volse i suoi occhi azzurri sul [[King|Re]], e con sorpresa di tutti vi era in essi non uno sguardo di trionfo, ma di una certa infantile angoscia.
+
+«Mi dispiace, vostra Maestà», disse; «[[Fear|temo]] di essere stato più che egualmente in colpa col Lord Prevosto di North Kensington. Discutevamo con una certa foga, e entrambi ci [[Rose|alzammo]] in piedi. Fui io a farlo per primo, mi vergogno a dirlo. Il Prevosto di North Kensington è, quindi, comparativamente [[Innocent|innocente]]. Supplico vostra Maestà di rivolgere il vostro rimprovero principalmente, almeno, a me. Mr. Buck non è [[Innocent|innocente]], poiché senza [[Doubt|dubbio]], nel calore del momento, parlò irrispettosamente. Ma il resto della discussione mi pare l'abbia condotto con grande buon umore.»
+
+Buck parve sinceramente compiaciuto, poiché gli uomini d'affari sono tutti d'animo semplice, e hanno perciò quel grado di comunione coi fanatici. Il [[King|Re]], per qualche ragione, parve, per la prima [[Time|volta]] in vita sua, vergognarsi.
+
+«Questo gentilissimo discorso del Prevosto di Notting [[Hill]]», cominciò Buck, piacevolmente, «mi pare mostri che siamo finalmente giunti a un rapporto amichevole. Ora venite, Mr. Wayne. Vi sono state offerte cinquecento sterline per una proprietà che ammettete non valere cento. [[Well|Ebbene]], io sono un uomo ricco e non voglio farmi superare in generosità. Diciamo millecinquecento sterline e facciamola finita. E stringiamoci la mano.» E si [[Rose|alzò]], raggiante e ridente.
+
+«Millecinquecento sterline», sussurrò Mr. Wilson di Bayswater; «possiamo permetterci millecinquecento sterline?»
+
+«Ci metto la faccia io», disse Buck di cuore. «Mr. Wayne è un gentiluomo e ha parlato in mio favore. Perciò suppongo che le trattative siano concluse.»
+
+Wayne si inchinò.
+
+«Sono davvero concluse. Mi dispiace di non potervi vendere la proprietà.»
+
+«Cosa?» esclamò Mr. Barker, balzando in piedi.
+
+«Mr. Buck ha parlato correttamente», disse il [[King|Re]].
+
+«L'ho fatto, l'ho fatto», esclamò Buck, balzando anch'egli in piedi; «ho detto...»
+
+«Mr. Buck ha parlato correttamente», disse il [[King|Re]]; «le trattative sono concluse.»
+
+Tutti gli uomini al tavolo si [[Rose|alzarono]] in piedi; Wayne [[Alone|solo]] si [[Rose|alzò]] senza eccitazione.
+
+«Ho dunque», disse, «il permesso di vostra Maestà di andarmene? Ho dato la mia ultima risposta.»
+
+«L'avete», disse Auberon, sorridendo, ma senza sollevare gli occhi dal tavolo. E in mezzo a un [[Silence|silenzio]] di morte il Prevosto di Notting [[Hill]] uscì dalla sala.
+
+«[[Well|Ebbene]]?» disse Wilson, voltandosi verso Barker, «[[Well|ebbene]]?»
+
+Barker scosse il capo disperatamente.
+
+«Quell'uomo dovrebbe stare in manicomio», disse. «Ma una cosa è chiara: non c'è bisogno di preoccuparci oltre di lui. L'uomo può essere trattato da pazzo.»
+
+«Certo», disse Buck, voltandosi verso di lui con cupa decisione. «Avete perfettamente ragione, Barker. È un tipo abbastanza per bene, ma può essere trattato da pazzo. Mettiamola in termini semplici. Andate a dire a dodici uomini qualsiasi in una città qualsiasi, andate a dire a un medico qualsiasi in una città qualsiasi, che c'è un uomo cui sono state offerte millecinquecento sterline per una cosa che comunemente venderebbe per quattrocento, e che, richiesto di una ragione per non accettarle, adduce l'inviolata santità di Notting [[Hill]] e la chiama la Santa Montagna. Cosa direbbero? Cosa possiamo avere di più dalla nostra parte del buon senso di tutti? Su cos'altro poggiano tutte le leggi? Vi dirò, Barker, cosa c'è di meglio di ogni ulteriore discussione. Mandiamo sul posto degli operai a demolire Pump Street. E se il vecchio Wayne dice una parola, arrestatelo come lunatico. Ecco tutto.»
+
+Gli occhi di Barker si accesero.
+
+«Vi ho sempre considerato, Buck, se non vi dispiace che lo dica, come un uomo di grande forza. Vi seguirò.»
+
+«Così, naturalmente, farò anch'io», disse Wilson.
+
+Buck si [[Rose|alzò]] di nuovo d'impeto.
+
+«Vostra Maestà», disse, raggiante di popolarità, «supplico vostra Maestà di considerare favorevolmente la proposta cui ci siamo impegnati. La clemenza di vostra Maestà, le nostre stesse offerte, sono cadute invano su quell'uomo straordinario. Può aver ragione. Può essere Dio. Può essere il diavolo. Ma noi riteniamo, a fini pratici, più probabile che sia fuori di senno. A meno che non si agisca su tale presupposto, tutte le faccende umane andrebbero in pezzi. Noi agiamo su di esso, e proponiamo di iniziare subito le operazioni a Notting [[Hill]].»
+
+Il [[King|Re]] si appoggiò allo schienale della sedia.
+
+«La Carta delle Città...» disse con una ricca intonazione.
+
+Ma Buck, essendo finalmente serio, era anche cauto, e non commise di nuovo l'errore dell'irriverenza.
+
+«Vostra Maestà», disse, inchinandosi, «non sono qui per dire una parola contro alcunché vostra Maestà abbia detto o fatto. Voi siete un uomo di gran lunga più istruito di me, e senza [[Doubt|dubbio]] c'erano ragioni, su basi intellettuali, per quei procedimenti. Ma posso chiedervi e appellarmi al vostro comune buon [[Nature|carattere]] per una sincera risposta? Quando stendeste la Carta delle Città, contemplaste l'ascesa di un uomo come [[Adam Wayne]]? Vi aspettavate che la Carta... fosse essa un esperimento, o un progetto di decorazione, o uno scherzo... potesse mai davvero arrivare a questo... a fermare un vasto piano di ordinari affari, a chiudere una [[Road|strada]], a rovinare le possibilità di vetture, omnibus, stazioni ferroviarie, a disorganizzare mezza [[City|città]], a rischiare una specie di guerra civile? Quali che fossero i vostri scopi, erano forse questi?»
+
+Barker e Wilson lo guardarono con ammirazione; il [[King|Re]] ancor più ammirato.
+
+«Prevosto Buck», disse Auberon, «voi parlate in pubblico straordinariamente [[Well|bene]]. Vi concedo il vostro punto con la magnanimità di un [[Artist|artista]]. Il mio progetto non includeva la comparsa di Mr. Wayne. Ahimè! avesse la mia potenza poetica avuto forza sufficiente.»
+
+«Ringrazio vostra Maestà», disse Buck, cortese ma rapido. «Le affermazioni di vostra Maestà sono sempre chiare e ponderate: perciò posso trarre una deduzione. Poiché il progetto, qualunque fosse, su cui poneste il cuore non includeva la comparsa di Mr. Wayne, esso sopravvivrà alla sua rimozione. Perché non lasciarci sgombrare questa particolare Pump Street, che interferisce coi nostri piani, e che non interferisce, per stessa dichiarazione di vostra Maestà, coi vostri.»
+
+«In fallo!» disse il [[King|Re]], con entusiasmo e in modo del tutto impersonale, come se assistesse a una partita di cricket.
+
+«Quest'uomo Wayne», proseguì Buck, «sarebbe rinchiuso da qualsiasi medico in Inghilterra. Ma noi chiediamo solo che la cosa venga sottoposta a loro. Nel frattempo gli interessi di nessuno, nemmeno con ogni probabilità i suoi, possono essere davvero danneggiati proseguendo coi miglioramenti a Notting [[Hill]]. Non i nostri interessi, naturalmente, poiché è stato il duro e quieto lavoro di dieci anni. Non l'interesse di Notting [[Hill]], poiché quasi tutti i suoi abitanti colti [[Desire|desiderano]] il cambiamento. Non gli interessi di vostra Maestà, poiché voi dite, con caratteristico buon senso, di non aver mai contemplato affatto l'ascesa del lunatico. Non, come dico, i suoi stessi interessi, poiché l'uomo ha un cuore gentile e molti talenti, e un paio di buoni medici probabilmente lo rimetterebbero in sesto meglio di tutte le libere città e le sacre [[Mountains|montagne]] del creato. Assumo pertanto, se posso usare una parola così audace, che vostra Maestà non porrà alcun ostacolo al nostro procedere coi miglioramenti.»
+
+E Mr. Buck si sedette in mezzo a un applauso sommesso ma eccitato tra gli alleati.
+
+«Mr. Buck», disse il [[King|Re]], «vi chiedo scusa per un certo numero di pensieri belli e sacri, nei quali voi eravate generalmente classificato come uno [[Fool|sciocco]]. Ma c'è un'altra cosa da considerare. Supponete di mandare i vostri operai, e Mr. Wayne faccia una cosa deprecabile, sì, ma di cui, mi dispiace dirlo, lo credo del tutto capace... spacchi loro i denti.»
+
+«Ci ho pensato, vostra Maestà», disse Mr. Buck, con disinvoltura, «e credo si possa semplicemente prevenire. Mandiamo una forte guardia di, diciamo, cento uomini... cento degli Alabardieri di North Kensington» (sorrise cupamente), «di cui vostra Maestà è tanto affezionata. O diciamo... centocinquanta. L'intera popolazione di Pump Street, immagino, è solo di un centinaio.»
+
+«Eppure potrebbero far fronte comune e battervi», disse il [[King|Re]], dubbioso.
+
+«Allora diciamo duecento», disse Buck, allegramente.
+
+«Potrebbe accadere», disse il [[King|Re]], irrequieto, «che un abitante di Notting Hill combatta meglio di due di North Kensington.»
+
+«Potrebbe», disse Buck, con freddezza; «allora diciamo duecentocinquanta.»
+
+Il [[King|Re]] si morse il labbro.
+
+«E se sono battuti anche quelli», disse con astio.
+
+«Vostra Maestà», disse Buck, e si appoggiò comodamente allo schienale della sedia. «Supponiamo che lo siano. Se qualcosa è chiaro, è chiaro che tutte le questioni di combattimento sono mere questioni di aritmetica. Qui abbiamo, diciamo, centocinquanta soldati di Notting [[Hill]]. O diciamo duecento. Se uno di loro può combatterne due dei nostri... possiamo mandarne, non quattrocento, ma seicento, e schiacciarlo. Ecco tutto. È fuori da ogni immediata probabilità che uno di loro possa combatterne quattro dei nostri. Perciò quel che dico è questo. Non corriamo rischi. Finiamola subito. Mandiamo ottocento uomini e schiacciamolo... schiacciamolo quasi senza vederlo. E proseguiamo coi miglioramenti.»
+
+E Mr. Buck tirò fuori un fazzoletto a colori e si soffiò il naso.
+
+«Sapete, Mr. Buck», disse il [[King|Re]], fissando cupamente il tavolo, «l'ammirevole chiarezza del vostro ragionamento produce nella mia mente un sentimento che confido di non offendervi descrivendo come un'[[Aspiration|aspirazione]] a prendervi a pugni in testa. Voi mi irritate in modo sublime. Cosa può essere in me? È il residuo di un senso morale?»
+
+«Ma vostra Maestà», disse Barker, con premura e blandizia, «non rifiuta le nostre proposte?»
+
+«Mio caro Barker, le vostre proposte sono dannabili quanto le vostre maniere. Non voglio avere nulla a che farci. Supponete che le fermassi del tutto. Cosa accadrebbe?»
+
+Barker rispose con voce bassissima:
+
+«Rivoluzione.»
+
+Il [[King|Re]] lanciò un rapido sguardo agli uomini attorno al tavolo. Guardavano tutti in basso in silenzio: avevano le fronti arrossate.
+
+Si [[Rose|alzò]] con sorprendente subitaneità, e con un insolito pallore.
+
+«Signori», disse, «mi avete messo in minoranza. Perciò posso parlare chiaro. Io ritengo [[Adam Wayne]], che è matto da legare, valere più di un milione di voi. Ma voi avete la forza e, lo ammetto, il buon senso, ed egli è perduto. Prendete i vostri ottocento alabardieri e schiacciatelo. Sarebbe più sportivo prenderne duecento.»
+
+«Più sportivo», disse Buck, cupamente, «ma molto meno umano. Non siamo artisti, e le strade purpuree di sangue non colpiscono il nostro occhio nel modo giusto.»
+
+«È penoso», disse Auberon. «Con cinque o sei volte il loro numero non ci sarà combattimento affatto.»
+
+«[[Hope|Spero]] di no», disse Buck, alzandosi e aggiustandosi i guanti. «Non [[Desire|desideriamo]] combattimenti, vostra Maestà. Siamo pacifici uomini d'affari.»
+
+«[[Well|Ebbene]]», disse il [[King|Re]], stancamente, «la conferenza è finalmente conclusa.»
+
+E uscì dalla sala prima che chiunque altro potesse muoversi.
+
+. . . . .
+
+Quaranta operai, cento Alabardieri di Bayswater, duecento del South e trecento del North Kensington, si radunarono ai piedi di Holland Walk e la risalirono in marcia, sotto la direzione generale di Barker, che appariva accaldato e felice in alta uniforme. In coda al corteo una piccola e imbronciata figura indugiava come un monello. Era il [[King|Re]].
+
+«Barker», disse infine, in tono supplichevole, «tu sei un mio vecchio amico... tu capisci i miei passatempi come io capisco i tuoi. Perché non puoi lasciar [[Alone|perdere]]? Speravo che da questa faccenda di Wayne potesse venire tanto spasso. Perché non puoi lasciar [[Alone|perdere]]? In fondo non ti importa poi molto... cos'è una [[Road|strada]] più o meno? Per me è l'unico scherzo che possa salvarmi dal pessimismo. Prendi meno uomini e concedimi un'ora di spasso. Davvero e sinceramente, James, se tu collezionassi monete o [[Birds|colibrì]], e io potessi comprarne uno col prezzo della tua [[Road|strada]], lo comprerei. Io colleziono episodi... quelle cose rare, quelle cose preziose. Lasciamene avere uno. Paga qualche sterlina per esso. Dai a questi abitanti di Notting Hill una possibilità. Lasciali [[Alone|in pace]].»
+
+«Auberon», disse Barker, con gentilezza, dimenticando tutti i titoli regali in un raro momento di sincerità, «sento davvero ciò che intendi. Ho avuto momenti in cui questi passatempi mi hanno colpito. Ho avuto momenti in cui ho simpatizzato coi tuoi umori. Ho avuto momenti, per quanto tu possa non crederlo facilmente, in cui ho simpatizzato con la [[Madness|follia]] di [[Adam Wayne]]. Ma il mondo, Auberon, il mondo reale, non è governato da questi passatempi. Va avanti su grandi brutali ruote di fatti... ruote sulle quali tu sei la farfalla. E Wayne è la mosca sulla [[Wheel|ruota]].»
+
+Gli occhi di Auberon guardarono con franchezza quelli dell'altro.
+
+«Grazie, James; ciò che dici è vero. È solo una parentetica consolazione per me confrontare l'intelligenza delle mosche, in modo alquanto favorevole, con l'intelligenza delle ruote. Ma è [[Nature|natura]] delle mosche morir presto, e [[Nature|natura]] delle ruote andare avanti per sempre. Va' avanti con la [[Wheel|ruota]]. Addio, vecchio mio.»
+
+E [[James Barker]] proseguì, ridendo, col colorito acceso, battendosi il bambù sulla gamba.
+
+Il [[King|Re]] osservò la coda del reggimento che si ritirava con uno sguardo di genuina depressione, che lo faceva sembrare più che mai un bambino. Poi si voltò di scatto e batté le mani insieme.
+
+«In un mondo senza [[Humour|umorismo]]», disse, «l'unica cosa da fare è mangiare. E quale perfetta eccezione! Come possono queste persone assumere pose dignitose, e fingere che le cose importino, quando la totale ridicolaggine della vita è provata proprio dal metodo con cui essa si sostiene? Un uomo pizzica la lira e dice: 'La vita è reale, la vita è seria', e poi entra in una stanza e si ficca sostanze estranee in un buco nella testa. Penso che la [[Nature|Natura]] sia stata davvero un po' spinta nel suo [[Humour|umorismo]] in queste faccende. Ma tutti ripieghiamo sulla pantomima, come ho fatto io in questa faccenda municipale. La [[Nature|Natura]] ha le sue farse, come l'atto di mangiare o la forma del canguro, per l'appetito più brutale. Riserba le sue [[Stars|stelle]] e le sue [[Mountains|montagne]] per coloro che sanno apprezzare qualcosa di più sottilmente ridicolo.» Si volse al suo scudiero. «Ma, poiché ho detto 'mangiare', facciamo un picnic come due bravi bambini. Corri a portarmi una tavola e una dozzina di portate all'incirca, e champagne in abbondanza, e sotto questi rami ondeggianti, Bowler, torneremo alla [[Nature|Natura]].»
+
+Ci volle circa un'ora per allestire in Holland Lane il semplice desinare del monarca, durante il quale [[Time|tempo]] egli passeggiò su e giù e fischiettò, ma sempre con un'aria non simulata di sconforto. Era stato davvero privato di un piacere che si era promesso, e aveva quel senso vuoto e nauseato che ha un [[Child|bambino]] quando resta deluso di una pantomima. Quando però lui e lo scudiero si furono seduti, e ebbero consumato una discreta quantità di champagne secco, il suo spirito cominciò mitemente a rianimarsi.
+
+«Le cose durano troppo a lungo in questo mondo», disse. «Detesto tutta questa faccenda alla Barker sull'evoluzione e la graduale modificazione delle cose. Vorrei che il mondo fosse stato fatto in sei giorni, e mandato in pezzi di nuovo in altri sei. E vorrei averlo fatto io. Lo scherzo è abbastanza buono in senso lato, il sole e la [[Moon|luna]] e l'immagine di Dio e tutto il resto, ma lo tirano avanti così dannatamente a lungo. Hai mai desiderato un miracolo, Bowler?»
+
+«No, signore», disse Bowler, che era evoluzionista, ed era stato allevato con cura.
+
+«Io sì, invece», rispose il [[King|Re]]. «Ho camminato lungo una strada col miglior sigaro del cosmo in bocca, e più Borgogna in corpo di quanto tu ne abbia mai visto in vita tua, e ho desiderato che il lampione si mutasse in un elefante per salvarmi dall'inferno della vuota esistenza. Fidati della mia parola, mio evoluzionistico Bowler, non credere alla gente quando ti dice che gli uomini cercavano un segno, e credevano nei miracoli perché erano ignoranti. Lo facevano perché erano saggi, sordidamente, vilmente saggi... troppo saggi per mangiare o [[Sleep|dormire]] o infilarsi gli stivali con pazienza. Questa sembra deliziosamente una nuova teoria dell'origine del [[Christianity|Cristianesimo]], che sarebbe essa stessa una cosa di non poca assurdità. Prendi ancora un po' di vino.»
+
+Il [[Wind|vento]] soffiava attorno a loro mentre sedevano al loro tavolino, con la sua tovaglia bianca e i luminosi calici di vino, e scagliava le cime degli alberi di Holland Park le une contro le altre, ma il sole era in quell'umore forte che muta il verde in oro. Il [[King|Re]] scostò il piatto, accese lentamente un sigaro, e proseguì:
+
+«Ieri pensavo che qualcosa di prossimo a un miracolo davvero divertente potesse capitarmi prima che andassi a rallegrare i vermi. Vedere quel maniaco dai capelli rossi agitare una grande [[Sword|spada]] e tenere discorsi ai suoi incomparabili seguaci sarebbe stato un barlume di quella Terra della Giovinezza da cui i Fati ci escludono. Avevo pianificato alcune cose del tutto deliziose. Un Congresso di Knightsbridge con un trattato, e me stesso alla presidenza, e forse un trionfo romano, con l'allegro vecchio Barker condotto in [[Chains|catene]]. E ora questi miserabili pedanti sono andati e hanno cancellato del tutto lo squisito Mr. Wayne, e suppongo che lo metteranno in un manicomio privato da qualche parte nella loro maledetta maniera umanitaria. Pensa ai tesori quotidianamente riversati sul suo guardiano incapace di apprezzarli! Mi [[Wonder|chiedo]] se lascerebbero fare a me il suo guardiano. Ma la vita è una valle. Non dimenticare mai in nessun momento della tua esistenza di considerarla alla luce di una valle. Questa graziosa abitudine, se non acquisita in gioventù...»
+
+Il [[King|Re]] si arrestò, col sigaro sollevato, poiché gli era scivolato negli occhi lo sguardo trasalito di un uomo in ascolto. Non si mosse per qualche istante; poi volse il capo di scatto verso l'alto steccato sottile e simile a un'assicella che separava certi lunghi giardini e spazi simili dalla stradina. Da dietro veniva un curioso rumore di arrampicamento e di raschiamento, come di una cosa disperata imprigionata in questa scatola di legno sottile. Il [[King|Re]] gettò via il sigaro e balzò sulla tavola. Da questa posizione vide un paio di mani appese con presa affamata alla cima dello steccato. Poi le mani tremarono in uno sforzo convulso, e una testa spuntò tra esse... la testa di uno del Consiglio comunale di Bayswater, gli occhi e i favoriti stravolti dalla [[Fear|paura]]. Si issò oltre, e cadde dall'altro lato bocconi, e gemette apertamente e senza tregua. L'istante dopo il legno sottile e teso dello steccato fu colpito come da una pallottola, sì che riverberò come un tamburo, e al di sopra vennero, lacerando e imprecando, con abiti strappati e unghie rotte e volti sanguinanti, venti uomini in un solo assalto. Il [[King|Re]] balzò dalla tavola a terra, a un metro e mezzo di distanza. L'istante dopo la tavola fu rovesciata, mandando bottiglie e bicchieri per aria, e i rottami furono letteralmente spazzati lungo il suolo da quel torrente di uomini che passavano precipitosi, e Bowler fu trascinato via con essi, come disse il [[King|Re]] nel suo famoso articolo di giornale, «come una sposa rapita». Il grande steccato ondeggiava e si spaccava sotto il carico degli arrampicatori che ancora lo scalavano e lo superavano. Enormi squarci vi venivano aperti da questa artiglieria vivente; e attraverso di essi il [[King|Re]] poteva vedere volti sempre più frenetici, come in [[A Dream|un sogno]], e sempre più uomini che correvano. Erano eterogenei come se qualcuno avesse tolto il coperchio a una pattumiera umana. Alcuni erano intatti, alcuni erano squarciati e ammaccati e insanguinati, alcuni erano splendidamente vestiti, alcuni cenciosi e seminudi, alcuni erano nel fantastico abbigliamento delle città burlesche, alcuni nel più scialbo abito moderno. Il [[King|Re]] li fissava tutti, ma nessuno di loro guardava il [[King|Re]]. D'improvviso si fece avanti.
+
+«Barker», disse, «cos'è tutto questo?»
+
+«Battuti», disse il politico, «battuti fino all'inferno!» E si precipitò oltre con le narici frementi come quelle di un [[Horse|cavallo]], e sempre più uomini si precipitarono dietro di lui.
+
+Quasi mentre parlava, l'ultima striscia di steccato ancora in piedi si piegò e si spezzò, scagliando, come da una catapulta, una nuova figura sulla [[Road|strada]]. Indossava il rosso fiammante degli alabardieri di Notting [[Hill]], e sulla sua arma c'era [[Blood|sangue]], e sul suo volto la vittoria. Un istante dopo, masse di rosso rifulsero attraverso gli squarci dello steccato, e gli inseguitori, con le loro alabarde, vennero riversandosi giù per la stradina. Inseguiti e inseguitori insieme sfrecciarono accanto alla piccola figura dagli occhi di gufo, che non aveva tolto le mani di tasca.
+
+Il [[King|Re]] aveva ancora poco più della confusa sensazione di un uomo preso in un torrente... la sensazione di uomini che vorticavano intorno. Poi accadde qualcosa che egli non fu mai in grado di descrivere in seguito, e che noi non possiamo descrivere per lui. D'improvviso nell'oscuro ingresso, tra i cancelli infranti di un [[Garden|giardino]], apparve, incorniciata, una figura fiammeggiante.
+
+[[Adam Wayne]], il conquistatore, col volto rovesciato all'indietro, e la criniera come quella di un [[Lion|leone]], stava con la punta della sua grande [[Sword|spada]] rivolta verso l'alto, la rossa veste della sua carica sbattendogli intorno come le rosse ali di un arcangelo. E il [[King|Re]] vide, non seppe come, qualcosa di nuovo e travolgente. I grandi alberi verdi e le grandi vesti rosse ondeggiavano insieme nel [[Wind|vento]]. La [[Sword|spada]] pareva fatta per la luce del sole. La grottesca mascherata, nata dalla sua stessa beffa, torreggiava sopra di lui e abbracciava il mondo. Questo era il normale, questa era la [[Sanity|ragione]], questa era la [[Nature|natura]]; ed egli stesso, con la sua razionalità e il suo distacco e la sua nera redingote, era l'eccezione e l'accidente... una macchia di nero su un mondo di cremisi e d'oro.

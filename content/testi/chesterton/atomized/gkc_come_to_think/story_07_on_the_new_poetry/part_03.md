@@ -137,16 +137,114 @@ say `Grunk', or `Quoggle'.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_07_on_the_new_poetry/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_11_on_mr_epstein/part_01">part 01 ›</a></div>
 </nav>
 
-Vi sono almeno due cose da dire in favore di questa teoria del cambiamento, come alternativa alla teoria piuttosto antiquata del progresso. In primo luogo, essa corrisponde perlomeno ai fatti reali della [[history|storia]] artistica e letteraria, ripetutisi ancora e ancora. Non vediamo nel passato una perpetua linea di crescente liberazione o ampliamento della sperimentazione artistica. Ciò che vediamo nel passato è la faccenda assai più umana di uomini che dapprima fanno una cosa male; poi la fanno [[Well|bene]]; poi la fanno troppo [[Well|bene]]... o, quantomeno, con troppa facilità e troppo spesso. Allora, di solito, cominciano a fare qualcos'altro; ma quel qualcosa è assai più spesso una cosa vecchia che una cosa nuova. Ciò che in realtà vediamo è il perpetuo riemergere di ciò che vien detto nuovo, perché è cosa trascurata. Così Raffaello e il [[Renaissance|Rinascimento]] tornarono a ciò che era più antico del medievalismo; così i Preraffaelliti tornarono a ciò che era più antico di Raffaello. Così molti artisti moderni sono tornati all'arte egizia perché era più antica dell'arte greca. Così molti di loro sono tornati all'arte selvaggia perché la si riteneva primitiva e incontaminata. Hanno il diritto di cercare stimolo, benché gli stimolanti vadano presi con moderazione. Ma il loro rinnovamento è relativo. L'altro punto in suo favore è che essa si libera di un certo elemento chiamato [[Pride|orgoglio]] o impudenza; che è un [[Wind|vento]] d'oriente soffiante da aridi deserti e che mai fece bene a uomo o bestia.
+Ci sono almeno due cose da dire a favore di questa teoria del mutamento,
+come alternativa alla piuttosto antiquata teoria del progresso.
+Primo, essa corrisponde in ogni caso ai fatti reali
+della [[history|storia]] artistica e letteraria, ripetuti ancora e ancora.
+Noi non vediamo nel passato una perpetua linea di crescente liberazione
+o ampliamento dell'esperimento artistico. Ciò che vediamo nel passato
+è la ben più umana faccenda di uomini che dapprima fanno qualcosa malamente;
+poi la fanno [[Well|bene]]; poi la fanno troppo [[Well|bene]]--o, almeno, troppo facilmente
+e troppo spesso. Poi comunemente cominciano a fare qualcos'altro;
+ma la cosa è assai più spesso una cosa vecchia che una cosa nuova.
+Ciò che davvero vediamo è il perpetuo ravvivarsi di ciò che vengono chiamate
+cose nuove, perché sono cose trascurate. Così Raffaello
+e il [[Renaissance|Rinascimento]] tornarono a ciò che era più antico del medievalismo;
+così i Preraffaelliti tornarono a ciò che era più antico di Raffaello.
+Così tanti artisti moderni sono tornati all'arte egizia perché essa
+era più antica dell'arte greca. Così tanti di loro sono tornati all'arte
+selvaggia perché si supponeva fosse primitiva e incorrotta.
+Essi hanno il diritto di cercare stimolazione, benché gli stimolanti
+debbano essere presi con moderazione. Ma il loro rinnovamento è relativo.
+L'altro punto a suo favore è che esso si sbarazza di un certo
+elemento chiamato [[Pride|orgoglio]] o impudenza; che è un [[Wind|vento]] d'oriente che soffia
+fuori da aridi deserti e non fece mai bene a uomo o bestia.
 
-Quanto a un terzo aspetto della nuova poesia, si sostiene che il poeta debba cercare di isolare un'immagine, e persino una parola. Egli deve, per usare l'espressione militare, tagliare tutti i collegamenti e lasciarla sospesa in aria. Anzitutto, ciò mi interessa nel senso più superficiale, perché ciò che mi colpisce dei poeti è che erano tutti irrimediabilmente tradizionali, anche quando cercavano di essere rivoluzionari. Nessuno, in apparenza, poteva essere più interamente sospeso in aria di Shelley. Nulla poteva essere più interamente sospeso in aria del suo piccolo prediletto, l'Allodola. E nessuna mente poteva essere più colma della convinzione di trovarsi in completa rivolta contro ogni tradizione, e specialmente contro ogni religione. Eppure sarebbe un esercizio assai divertente prendere la poesia di Shelley sull'allodola, verso per verso e strofa per strofa, e mostrare quanto interamente essa dipenda da idee tradizionali, e anzi in modo piuttosto particolare da idee religiose. Qui, forse, sarebbe un esercizio troppo lungo farmi strada attraverso quella poesia piuttosto lunga. Ma è davvero vero che essa potrebbe essere analizzata, punto per punto, in quel senso tradizionale. Il [[Song|canto]] del radioso giovane Ateo si rivelerebbe probabilmente, alla fine, un trattato teologico quanto mai ortodosso. Egli comincia dicendo: «Salute a te, spirito gioioso». Che cosa intende, parlando di spiriti, se in nessun senso è uno spiritualista? Quale sarebbe il significato dell'osservazione, se fosse davvero un materialista? Non avrebbe mai avuto neppure l'idea di uno spirito, se non fosse per la tradizione religiosa rappresentata nell'idea dello Spirito Santo. Egli poi dice: «Uccello tu non fosti mai», il che è evidentemente una menzogna. Ma è una menzogna che simboleggia una [[Truth|verità]], e ciò che egli davvero intende con essa si potrebbe enunciare così: «Mi rifiuto di credere che un uccello sia soltanto un uccello, o che in tali cose non vi sia nulla di più dei fatti materiali che di esse conosciamo». Quel pensiero è il principio di ogni teologia.
+Per un terzo aspetto della nuova poesia, si sostiene che il poeta
+debba cercare d'isolare un'immagine, e persino una parola. Egli deve, per usare
+la frase militare, tagliare tutti i collegamenti e lasciarla in aria.
+Per cominciare, questo m'interessa nel senso più superficiale,
+perché ciò che mi colpisce dei poeti è che essi erano tutti
+irrimediabilmente tradizionali, persino quando tentavano di essere rivoluzionari.
+Nessuno potrebbe essere più interamente in aria, a tutta apparenza,
+di Shelley. Nulla potrebbe essere più interamente in aria
+del suo piccolo beniamino, l'Allodola. E nessuna mente potrebbe essere più
+colma della convinzione d'essere completamente in rivolta
+contro ogni tradizione, e specialmente contro ogni religione.
+Eppure sarebbe un esercizio abbastanza divertente prendere la poesia
+di Shelley sull'allodola, verso per verso e strofa per strofa, e mostrare
+quanto interamente essa dipenda da idee tradizionali, e persino piuttosto
+specialmente da idee religiose. Qui, forse, sarebbe un esercizio
+troppo lungo farmi strada attraverso quella poesia piuttosto lunga.
+Ma è davvero vero che essa potrebbe essere analizzata, punto per punto,
+in quel senso tradizionale. Il [[Song|canto]] del radioso giovane Ateo
+si rivelerebbe probabilmente alla fine un ortodossissimo trattato teologico.
+Egli comincia dicendo: «Salute a te, spirito gioioso». Cosa intende
+parlando di spiriti, se non è in alcun senso uno spiritista?
+Quale sarebbe il significato dell'osservazione, se egli fosse davvero un materialista?
+Non avrebbe mai avuto nemmeno l'idea di uno spirito se non per la
+tradizione religiosa rappresentata nell'idea dello Spirito Santo.
+Poi dice: «Uccello tu non fosti mai», il che è ovviamente una menzogna.
+Ma è una menzogna che simboleggia una [[Truth|verità]], e ciò che egli davvero intende con essa
+si può enunciare così: «Rifiuto di credere che un uccello sia solo un uccello,
+o che ci sia nulla di più in tali cose dei materiali
+fatti che ne conosciamo». Quel pensiero è l'inizio
+di tutta la teologia.
 
-La successiva resa di Shelley alla superstizione è assolutamente abietta e sconvolgente. Egli dice: «Dal cielo, o presso ad esso»... un'osservazione che dovrebbe indurre tutte le persone moderne e razionali, con un moto concorde, a coprirsi il volto per la vergogna. In parole povere, egli non solo parla come se vi fosse qualcosa di divino nel mero spazio vuoto al di sopra del nostro pianeta. Parla in effetti come se vi fosse un paradiso di santi e di angeli collocato in qualche luogo, come una nuvola colorata, in quello spazio, sicché di un'allodola si potrebbe dire che gli è più o meno vicina. Il cedimento è tanto penoso che non mi soffermerò sulla minore barbarie della fisiologia medievale, per cui le emozioni dell'uccello sono rappresentate come provenienti dal suo «cuore», quasi che quell'organo fosse un centro di coscienza. Stavo per dire che non me la sentivo, che «non avevo cuore» di indugiare più a lungo sulla deprimente ortodossia di Shelley, cadendo con ciò io stesso in quell'immagine fisica tanto superstiziosa e medievale. È così difficile scrivere un inglese qualsivoglia comprensibile senza essere superstiziosi e medievali.
+La successiva resa di Shelley alla superstizione è assolutamente abietta
+e sconcertante. Egli dice: «Dal cielo, o vicino ad esso»--osservazione che deve
+far coprire di vergogna il volto, con un concertato movimento, a tutte le persone
+moderne e razionali. In parole schiette, egli non solo parla come se ci
+fosse qualcosa di divino nel mero spazio vuoto sopra il nostro pianeta.
+Egli parla effettivamente come se ci fosse un paradiso di santi e angeli
+situato da qualche parte, come una nube colorata, in quello spazio,
+così che si potesse dire di un'allodola d'esserne più o meno vicina.
+La caduta è così angosciante che non m'indugerò sul minore
+barbarismo della fisiologia medievale, per cui le emozioni dell'uccello
+sono rappresentate come provenienti dal suo «cuore», come se quell'organo fosse un
+centro di coscienza. Stavo per dire che «non avevo il cuore»
+d'indugiare più a lungo sulla deprimente ortodossia di Shelley,
+per cui io stesso sarei caduto nell'immagine fisica che è
+così superstiziosa e medievale. È così assai difficile scrivere
+un inglese intelligibile senza essere superstiziosi e medievali.
 
-Inutile dire che la critica potrebbe non solo essere proseguita per tutta la poesia, ma diviene cospicuamente chiara e vera nelle parti più poetiche del poema. Di certo i passi più belli, e forse i più frequentemente citati, sono quelli che celebrano davvero ciò che è non solo un dogma cristiano, ma un dogma ora spesso abbandonato come antiquato e ottenebrato. Quei grandi movimenti del verso non corrispondono in realtà all'Ascesa dell'Allodola, ma piuttosto alla Caduta dell'Uomo. Oserei dire che Shelley sarebbe stato assai sorpreso se gli fosse stato detto che stava sottoscrivendo la dottrina della Caduta dell'Uomo. Ma di certo lo faceva; ed era per questo che le sue parole, in quel momento, divengono davvero gravi e umane. «Guardiamo innanzi e indietro e agogniamo ciò che non è» ha il suono di una grande campana a morto. Non c'è bisogno di dire ad alcuno che qualche tragedia spirituale è già accaduta alla stirpe di colui che grida a gran voce:
+Inutile dire, la critica potrebbe non solo essere continuata
+attraverso l'intera poesia, ma diviene cospicuamente chiara
+e vera nelle parti più poetiche della poesia. Di certo i
+passi più belli, e forse i passi più frequentemente citati,
+sono quelli che davvero celebrano ciò che non è solo un dogma cristiano,
+ma uno ora spesso abbandonato come un dogma antiquato e ottenebrato.
+Quei grandi movimenti di versi non corrispondono davvero
+al Volo dell'Allodola, bensì piuttosto alla Caduta dell'Uomo.
+Oserei dire che Shelley sarebbe stato assai sorpreso se gli fosse stato
+detto che stava sottoscrivendo la dottrina della Caduta dell'Uomo.
+Ma di certo lo stava; ed è per questo che le sue parole in quel momento
+divengono davvero gravi e umane. «Guardiamo dinanzi e dietro e
+ci struggiamo per ciò che non è» ha il suono di una grande campana a morto.
+Nessuno ha bisogno che gli si dica che qualche spirituale tragedia è già
+accaduta alla razza di colui che grida a gran voce:
 
-«Ma se sapessimo disprezzare l'Odio e l'[[Pride|orgoglio]] e la [[Fear|paura]]; Se fossimo creature nate a non versare una lacrima...»
+«Ma se potessimo sdegnare Odio e [[Pride|Orgoglio]] e [[Fear|Paura]]; Se fossimo cose
+nate a non versare una lacrima--»
 
-o al poeta che sa paragonare una tale [[Tragedy|tragedia]] con la più triviale beatitudine di una piccola creatura pennuta nell'aria vuota.
+o al poeta che sa paragonare una simile [[Tragedy|tragedia]] con la più triviale
+beatitudine di una piccola creatura piumata nell'aria vuota.
 
-Ho già osservato che nel passato tutta la poesia che pretendeva di essere particolarmente rivoluzionaria era di fatto particolarmente tradizionale. In questo e in molte altre cose la maggior parte delle rivoluzioni del passato si somigliavano piuttosto; e alcuni di noi piuttosto [[Doubt|dubitano]] che le rivoluzioni del futuro saranno particolarmente diverse. Ma anche ignorando questa tradizione del tradizionalismo, e supponendo che i futuristi abbiano davvero qualcosa di [[Novel|nuovo]] in fatto di novità, la difficoltà logica della loro posizione resta pur sempre. Possiamo, per amor di discussione, trattare questo cambiamento come se non vi fossero stati altri cambiamenti. Possiamo isolare l'Imagista come egli isolerebbe l'immagine. Possiamo trattare l'arte come se non avesse [[history|storia]], proprio come l'[[Artist|artista]] racconta una storia come se non avesse principio. Ma resta pur sempre il fatto che, dovendo egli usare le parole di una qualche lingua, quelle parole le ha prese da qualche parte e le ha apprese da qualcuno. E le parole sono di fatto alate, o gravate, dei pensieri e delle associazioni di mille anni. Se non lo fossero, egli non le userebbe; potrebbe altrettanto [[Well|bene]] dire «Grunk», o «Quoggle».
+Ho già osservato che nel passato tutta la poesia che dichiarava
+d'essere particolarmente rivoluzionaria era di fatto particolarmente tradizionale.
+In questo e in molte cose la maggior parte delle rivoluzioni del passato
+erano press'a poco simili; e ci sono alcuni di noi che piuttosto [[Doubt|dubitano]]
+che le rivoluzioni del futuro saranno particolarmente diverse.
+Ma anche se ignoriamo questa tradizione del tradizionalismo, e supponiamo
+che i futuristi abbiano davvero qualcosa di [[Novel|nuovo]] in fatto di
+novità, la difficoltà logica della loro posizione permane.
+Possiamo, per amor d'argomento, trattare questo mutamento come se non
+ci fossero stati altri mutamenti. Possiamo isolare l'Imagista come egli
+isolerebbe l'immagine. Possiamo trattare l'arte come se non avesse [[history|storia]],
+proprio come l'[[Artist|artista]] racconta una storia come se non avesse inizio.
+Ma il fatto permane che, dovendo egli usare le parole
+di qualche lingua, ha preso le parole da qualche parte e le ha imparate
+da qualcuno. E le parole sono di fatto alate o gravate
+dei pensieri e delle associazioni di mille anni.
+Se non lo fossero, egli non le userebbe; potrebbe altrettanto [[Well|bene]]
+dire «Grunk», o «Quoggle».

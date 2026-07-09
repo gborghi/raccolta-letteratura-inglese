@@ -73,50 +73,8 @@ She was a message from the Sun.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
-Le immagini degli uomini immaginativi sono indiscutibili; e io non ho mai voluto
-disputarne. Le idee degli uomini logici e dogmatici
-(specie gli scettici, quegli uomini così dogmatici) sono discutibili;
-e io ho sempre voluto disputarne. Ma non ho mai voluto
-disputare di gusti là dove non vi sono criteri di prova. Non ho mai preso
-partito là dove non vi sono né gusti condivisi in comune né tesi
-sostenute in controversia; e ciò mi ha tenuto fuori da molti movimenti.
-Ma d'altra parte sono consapevole di una lacuna o di un difetto della mia mente in tali materie.
-La sento sempre spalancarsi in me come un abisso (spalancarsi è la descrizione
-esatta, per quanto mi riguarda), quando la gente mi dice
-che qualcosa andrebbe fatto per amore del «Dramma».
-Ritengo che il Cesare e [[Cleopatra]] di [[Shaw]] sia un buon dramma; benché ai miei
-gusti etici sia insieme troppo pacifista e troppo imperialista.
-Ritengo che Are You a Mason? sia un buon dramma; e il mio apprezzamento
-non ha nulla a che vedere con un papista sospetto verso la Massoneria.
-Ma parlare di aiutare «il dramma» mi suona come aiutare
-la macchina da scrivere o il torchio da stampa. Mi pare, alla mia semplice mente,
-che dipenda in buona parte da ciò che ne esce.
+Le immagini degli uomini immaginativi sono indiscutibili; e io non ho mai voluto disputare su di esse. Le idee degli uomini logici e dogmatici (specialmente gli scettici, quegli uomini assai dogmatici) sono disputabili; e io ho sempre voluto disputare su di esse. Ma non ho mai voluto disputare su gusti dove non vi sono prove. Non ho mai preso parte dove non vi sono né gusti tenuti in comune né tesi tenute in controversia; e ciò mi ha tenuto fuori da molti movimenti. Ma poi sono conscio di una lacuna o di un difetto nella mia mente su tali faccende. La sento sempre spalancarsi in me come un abisso (spalancarsi è la corretta descrizione per quanto mi riguarda), quando la gente mi dice che qualcosa dovrebbe essere fatto per amore del «Teatro». Penso che il Cesare e [[Cleopatra|Cleopatra]] di [[Shaw]] sia un buon dramma; benché per i miei gusti etici sia insieme troppo pacifista e troppo imperialista. Penso che Are You a Mason? sia un buon dramma; e il mio apprezzamento non ha nulla a che fare con un sospetto papista sulla Massoneria. Ma parlare di aiutare «il teatro», mi suona come aiutare la macchina da scrivere o la macchina da stampa. Pare, alla mia semplice mente, dipendere assai da ciò che ne viene fuori.
 
-Ma tra queste figure letterarie, ve n'era una che
-metterò per ultima perché dovrei metterla per prima. Era la figura
-di una contemporanea e compagna di tutto quel mondo di cultura;
-un'intima amica di Meredith; un'[[Artist|artista]] ammirata come artistica
-dagli esteti e persino dai decadenti. Ma Alice Meynell,
-benché preferisse essere estetica anziché anestetica,
-non era un'esteta; e non v'era nulla in lei che potesse [[Decay|decadere]].
-Lo slancio di vita in lei era come quello di un albero snello con
-[[Flowers|fiori]] e frutti per tutte le [[Seasons|stagioni]]; e non v'era inaridimento
-della linfa del suo spirito, che stava nelle idee. Sapeva sempre
-trovare cose su cui pensare; persino in un letto di malata, in una stanza oscurata,
-dove l'[[Shadow|ombra]] di un uccello sulla tendina era più dell'uccello
-stesso, diceva lei, perché era un messaggio dal sole.
-Poiché era così enfaticamente un'artigiana, era enfaticamente
-un'[[Artist|artista]] e non un'esteta; soprattutto, era come quel celebre
-[[Artist|artista]] che disse di mescolare sempre i suoi colori con del cervello.
-Ma v'era in lei qualcos'altro che io non compresi
-al [[Time|tempo]], che la poneva a parte come qualcosa di separato dal [[Time|tempo]].
-Era forte, con radici profonde, là dove tutti gli Stoici erano soltanto rigidi
-per la [[Despair|disperazione]]; era viva a un'immortale [[Beauty|bellezza]] là dove tutti i pagani
-sapevano soltanto mescolare [[Beauty|bellezza]] e [[Mortality|mortalità]]. E benché passasse
-attraverso la mia vita a sprazzi, e assai più di rado di quanto avrei voluto,
-e benché la sua presenza avesse davvero qualcosa della spettrale gravità
-di un'[[Shadow|ombra]] e il suo passare qualcosa del fuggevole accidente di un uccello,
-so ora che ella non era fuggevole e non era ombrosa.
-Era un messaggio dal Sole.
+Ma fra queste figure letterarie, ve n'era una che metterò per ultima perché dovrei metterla per prima. Era la figura di una contemporanea e compagna di tutto quel mondo di cultura; un'intima amica di Meredith; un'[[Artist|Artista]] ammirata come artistica dagli esteti e perfino dai decadenti. Ma Alice Meynell, benché preferisse essere estetica piuttosto che anestetica, non era un'esteta; e non vi era nulla in lei che potesse [[Decay|decadere]]. Lo slancio della vita in lei era come quello di un albero snello con [[Flowers|fiori]] e frutti per tutte le [[Seasons|stagioni]]; e non vi era alcun inaridirsi della linfa del suo spirito, che era nelle idee. Ella poteva sempre trovare cose su cui pensare; perfino su un letto di malattia in una stanza oscurata, dove l'[[Shadow|ombra]] di un uccello sulla tenda era più dell'uccello stesso, disse, perché era un messaggio dal sole. Poiché ella era così enfaticamente un'artigiana, era enfaticamente un'[[Artist|Artista]] e non un'esteta; soprattutto, era come quel famoso [[Artist|Artista]] che disse di mescolare sempre i suoi colori col cervello. Ma vi era qualcos'altro in lei che io non compresi [[Time|allora]], che la poneva a parte come qualcosa di separato dal [[Time|tempo]]. Ella era forte con profonde radici là dove tutti gli Stoici erano solo rigidi di [[Despair|disperazione]]; era viva a un'immortale [[Beauty|Bellezza]] là dove tutti i Pagani potevano solo mescolare la [[Beauty|Bellezza]] con la [[Mortality|Mortalità]]. E benché ella passasse attraverso la mia stessa vita a sprazzi, e assai più raramente di quanto potessi desiderare, e benché la sua presenza avesse davvero qualcosa della spettrale gravità di un'[[Shadow|ombra]] e il suo trapasso qualcosa dell'accidente fuggevole di un uccello, so ora che ella non era fuggevole e non era ombrosa. Era un messaggio dal Sole.
 
 *****

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06">Chapter 06</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_03">part 03 ›</a></div>
@@ -166,3 +168,165 @@ I have not forgotten the words, and I have reason now to
 remember them, for the hour is come and the [[Crown|crown]] of your prophecy.
 The sacred [[Hill|hill]] is ringed with the armies of Bayswater, and I am
 ready to die."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06">Chapter 06</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06/part_03">part 03 ›</a></div>
+</nav>
+
+«Hanno venduto cose più sudicie,» disse Wayne, con calma; «hanno
+venduto se stessi.»
+
+«Non c'è niente da fare, mio Buckling,» disse il [[King|Re]], [[rolling|rotolandosi]] sulla
+sedia.  «Non potete tener testa a questa eloquenza cavalleresca.
+Non potete tener testa a un [[Artist|Artista]].  Non potete tener testa all'umorista
+di Notting [[Hill]].  Oh, Nunc dimittis... che io abbia vissuto per vedere questo giorno!
+Prevosto Wayne, restate saldo?»
+
+«Lasciate che aspettino e vedano,» disse Wayne.  «Se sono stato saldo prima,
+credete che vacillerò ora che ho visto il volto del
+[[King|Re]]?  Poiché io combatto per qualcosa di più grande, se più grande può esservi,
+dei focolari del mio popolo e della Signoria del [[Lion|Leone]].
+Combatto per la vostra visione regale, per il grande sogno che sognaste
+della Lega delle Città Libere.  Voi mi avete dato questa libertà.
+Se fossi stato un mendicante e voi mi aveste gettato una moneta, se fossi
+stato un contadino a una [[Dance|danza]] e voi mi aveste gettato un favore, credete
+che l'avrei lasciato prendere da un qualsiasi furfante sulla [[Road|strada]]?
+Questa guida e questa libertà di Notting [[Hill]] sono un dono di Vostra Maestà.
+E se mi verranno tolte, per Dio! saranno tolte in battaglia,
+e il fragore di quella battaglia si udrà negli appartamenti di Chelsea
+e negli studî di St. John's Wood.»
+
+«È troppo... è troppo,» disse il [[King|Re]].  «La [[Nature|Natura]] è debole.
+Devo parlarvi, fratello [[Artist|Artista]], senza ulteriore maschera.
+Lasciate che vi ponga una domanda solenne.  [[Adam Wayne]], Lord Alto Prevosto
+di Notting [[Hill]], non lo trovate splendido?»
+
+«Splendido!» esclamò [[Adam Wayne]].  «Ha lo splendore di Dio.»
+
+«Di nuovo messo fuori gioco,» disse il [[King|Re]].  «Voi terrete su la posa.
+Buffamente, certo, è cosa seria.  Ma seriamente, non è buffo?»
+
+«Che cosa?» chiese Wayne, con gli occhi di un neonato.
+
+«Diavolo, non recitate più.  Tutta questa faccenda... la Carta
+delle Città.  Non è immensa?»
+
+«Immenso non è parola indegna per quel glorioso disegno.»
+
+«Oh, alla malora... ma, certo, capisco.  Volete che liberi la sala
+da queste scrofe ragionevoli.  Volete i due umoristi da [[Alone|soli]] insieme.
+Lasciateci, signori.»
+
+Buck lanciò a Barker un'occhiata acida, e a un tetro segnale l'intero
+corteo azzurro e verde, rosso, oro e porpora defluì fuori
+dalla sala, lasciandone soltanto due nel grande salone: il [[King|Re]] seduto
+al suo posto sul predellino, e la figura vestita di rosso ancora inginocchiata
+sul pavimento davanti alla sua [[Sword|spada]] caduta.
+
+Il [[King|Re]] balzò giù per i gradini e diede una pacca sulla schiena al Prevosto Wayne.
+
+«Prima che le [[Stars|stelle]] fossero fatte,» gridò, «noi fummo fatti l'uno per l'altro.
+È troppo bello.  Pensate alla valorosa indipendenza di Pump Street.
+Ecco la cosa vera.  È la deificazione del ridicolo.»
+
+La figura inginocchiata balzò in piedi con una fiera vacillante scossa.
+
+«Ridicolo!» gridò, col volto infuocato.
+
+«Oh, suvvia, suvvia,» disse il [[King|Re]], spazientito.  «Non c'è bisogno di
+mantenerla con me.  Gli àuguri devono pur strizzare l'occhio ogni tanto per pura stanchezza
+delle palpebre.  Godiamoci questo per mezz'ora, non da attori,
+ma da critici drammatici.  Non è uno scherzo?»
+
+[[Adam Wayne]] abbassò lo sguardo come un ragazzo, e rispose con voce trattenuta:
+
+«Non capisco Vostra Maestà.  Non posso credere che, mentre io
+combatto per la vostra carta regale, Vostra Maestà mi abbandoni per questi [[dogs|cani]]
+della caccia all'oro.»
+
+«Oh, che tu sia... Ma cos'è questo?  Che diavolo è questo?»
+
+Il [[King|Re]] scrutò il volto del giovane Prevosto, e nella penombra
+della sala cominciò a vedere che era del tutto bianco,
+e il labbro gli tremava.
+
+«Che cosa mai c'è?» esclamò Auberon, afferrandogli il polso.
+
+Wayne rovesciò all'indietro il volto, e le [[Tears|lacrime]] vi splendevano sopra.
+
+«Sono solo un ragazzo,» disse, «ma è vero.  Dipingerei il [[Lion|Leone]] Rosso
+sul mio scudo, se avessi soltanto il mio [[Blood|sangue]].»
+
+[[King|Re]] Auberon lasciò cadere la mano e rimase immobile, folgorato.
+
+«Mio Dio del Cielo!» disse; «è possibile che ci sia, entro
+i quattro mari di Britannia, un uomo che prenda Notting [[Hill]] sul serio?»
+
+«E mio Dio del Cielo!» disse Wayne appassionatamente; «è possibile
+che ci sia, entro i quattro mari di Britannia, un uomo che non
+lo prenda sul serio?»
+
+Il [[King|Re]] non disse nulla, ma risalì semplicemente i gradini del predellino
+come un uomo stordito.  Ricadde di nuovo sulla sedia e scalciò coi talloni.
+
+«Se questo genere di cose deve continuare,» disse debolmente, «comincerò
+a [[Doubt|dubitare]] della superiorità dell'arte sulla vita.  In nome del Cielo,
+non giocate con me.  Volete davvero dire che siete... Dio mi aiuti!...
+un patriota di Notting [[Hill]]... che siete...»
+
+Wayne fece un gesto violento, e il [[King|Re]] lo placò freneticamente.
+
+«Va bene... va bene... vedo che lo siete; ma lasciatemelo assimilare.
+Vi proponete davvero di combattere questi moderni miglijoratori con le loro
+commissioni e ispettori e agrimensori e tutto il resto...»
+
+«Sono così terribili?» chiese Wayne, sdegnoso.
+
+Il [[King|Re]] continuava a fissarlo come se fosse una curiosità umana.
+
+«E suppongo,» disse, «che pensiate che i dentisti
+e i piccoli bottegai e le zitelle che abitano Notting [[Hill]]
+accorreranno con inni di guerra al vostro vessillo?»
+
+«Se hanno [[Blood|sangue]], lo faranno,» disse il Prevosto.
+
+«E suppongo,» disse il [[King|Re]], con la testa riadagiata fra
+i cuscini, «che non vi sia mai passato per la mente che... la sua voce
+parve smarrirsi lussureggiando... mai passato per la mente
+che qualcuno abbia mai pensato che l'idea di un idealismo
+di Notting [[Hill]] fosse... ehm... lievemente... lievemente ridicola.»
+
+«Certo che lo pensano,» disse Wayne.  «Che significato aveva
+lo schernire i profeti?»
+
+«Dove?» chiese il [[King|Re]], sporgendosi in avanti.  «Dove, in nome del Cielo,
+avete tirato fuori questa idea miracolosamente inetta?»
+
+«Voi siete stato il mio precettore, Sire,» disse il Prevosto, «in tutto ciò che è
+alto e onorevole.»
+
+«Eh?» disse il [[King|Re]].
+
+«Fu Vostra Maestà a ridestare per primo il mio fioco patriottismo in fiamma.
+Dieci anni fa, quando ero ragazzo (ho solo diciannove anni), giocavo
+sul pendio di Pump Street, con una [[Sword|spada]] di legno e un elmo di carta,
+sognando grandi guerre.  In una collera di trance vibrai un colpo con la mia [[Sword|spada]]
+e restai impietrito, poiché vidi di aver colpito voi, Sire, mio [[King|Re]],
+mentre vagavate in una nobile segretezza, vegliando sul bene del vostro popolo.
+Ma non avevo motivo di [[Fear|temere]].  Allora mi fu insegnato a comprendere la regalità.
+Voi non vi ritraeste né vi accigliaste.  Non chiamaste guardie.
+Non invocaste castighi.  Ma con parole auguste e ardenti,
+che sono scritte nella mia [[Soul|anima]], per non essere mai cancellate, mi diceste
+di rivolgere sempre la mia [[Sword|spada]] contro i nemici della mia inviolata [[City|città]].
+Come un sacerdote che addita l'altare, additaste la [[Hill|collina]] di Notting.
+"Fintanto," diceste, "che sarai pronto a morire per la sacra montagna,
+anche se fosse cinta da tutte le armate di Bayswater."
+Non ho dimenticato le parole, e ho ora ragione di
+ricordarle, poiché l'ora è giunta, e con essa la [[Crown|corona]] della vostra profezia.
+La sacra [[Hill|collina]] è cinta dalle armate di Bayswater, e io sono
+pronto a morire.»

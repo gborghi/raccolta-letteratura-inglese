@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/part/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/part/part_13">part 13 ›</a></div>
@@ -144,3 +146,52 @@ After all, "Lucy Gray" is not better than "Lycidas" even now;
 and I suspect some classic lines by Binyon or Belloc will last till
 they are no longer old.  What about the new verses when they are
 no longer new?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/part/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/part/part_13">part 13 ›</a></div>
+</nav>
+
+_XII A proposito della poesia_
+
+Fu di recente pubblicata una critica assai ragionevole e [[Well|ben]] ponderata sul tema della Poesia Moderna. Forse essa prendeva certi esempi di Poesia Moderna un poco più sul serio di quanto io riesca a fare; giacché i Moderni, che parlano di irresistibili tentazioni all'[[Love|amore]], non sempre si avvedono di torturarci essi stessi con irresistibili tentazioni al riso. Ma, nel complesso, il critico aveva ragione di conservare la propria gravità, mantenendo il viso serio (come direbbero i Cinesi) al cospetto di certi brani di indole tutt'altro che [[Nature|grave]]. Egli non si limitava a disprezzare il passato: giustificava il presente appellandosi al passato. La sua tesi era, in sostanza, questa: che, quando l'ispirazione particolare di un'epoca poetica si è esaurita, coloro che inaugurano l'epoca successiva sono quasi costretti a inaugurarla con forme di espressione molto spoglie, e persino nude. Egli fondava un argomento plausibile sul caso di Wordsworth, osservando che i primi tentativi del poeta di trovare uno stile più naturale apparvero come uno stile del tutto nudo — o come mancanza di stile. Se accettiamo il presupposto che a un uomo non fosse più possibile scrivere nello stile di Dryden, anche se «ne avesse avuto l'ingegno», è certamente vero, in quel caso, che una maniera più diretta e disadorna apparve assai rozza e goffa.
+
+Ai contemporanei più colti di Wordsworth parve davvero non tanto la comparsa di una maniera quanto la scomparsa delle buone maniere. Le nuove ballate di Wordsworth erano assai meno classiche delle antiche ballate. Versi come «Tanto più gli si gonfiavano le caviglie tozze» non possedevano quella dignità naturale che apparteneva alla maggior parte dei versi di «Chevy Chase» o di «Sir Patrick Spens». Sembrava davvero un passaggio dalla dignità naturale all'indegnità naturale. Ed è verissimo, come il critico suggeriva, che questa è pressappoco l'impressione prodotta nelle persone di una cultura più tradizionale dalla bruttezza di certi versi moderni. Ma è forse un'esagerazione fare di Wordsworth il padre e il fondatore dell'intero Movimento Romantico, giacché il suo amico Coleridge scrisse una vera antica ballata ne «[[Ancient Mariner|Il vecchio marinaio]]», con un solo verso «per il quale era debitore al signor Wordsworth»; e giacché Burns aveva già scritto e Byron non era molto indietro. E segnala qualcosa di ingannevole in così sbrigative classificazioni come «la Scuola Romantica» il fatto che ci tocchi accostare le ingioiellate vetrate di Keats alla luce diurna, scialba e quasi morta, delle prime Lyrical Ballads. In breve, l'argomento comporta un'ingegnosa suggestione, che sotto certi aspetti è davvero suggestiva. Ma è piuttosto una tetra e funesta profezia dire che chiunque debba rinnovare la vita della poesia inglese sia necessariamente costretto a cominciare scrivendo poesia tanto abominevolmente cattiva quanto alcune delle prime [[Poems|poesie]] di Wordsworth.
+
+Ma un altro [[Doubt|dubbio]] si agitò dentro di me, dopo aver letto tutta questa analisi scientifica sull'esaurirsi della poesia classica nel Settecento, o della poesia romantica nell'Ottocento. La mia prima [[Education|educazione]], tale quale fu, risale proprio alla fine dell'Ottocento; e fu un'epoca in cui la gente parlava moltissimo di [[Doubt|dubbio]] religioso. Il [[Doubt|dubbio]] religioso produsse una buona dose di dubbia religione. Ci troviamo ora in un [[Time|tempo]] in cui il mondo è più nettamente diviso in negazioni e affermazioni, e non si compiace più semplicemente dei propri dubbi. Ma io, per parte mia, ho scoperto che un vantaggio, per un uomo, del cessare di [[Doubt|dubitare]] della religione è che egli diviene assai più libero di [[Doubt|dubitare]] di ogni altra cosa. Tutti gli scettici ottocenteschi riguardo all'altro mondo erano gonzi riguardo a questo mondo. Accettavano tutto ciò che era di moda come se fosse definitivo; e i romantici rivoluzionari, che credevano di assistere alla fine della religione, non pensarono mai che avrebbero assistito alla fine del [[Romance|romanticismo]]. Di qui essi incoraggiarono questa smodata abitudine di contrapporre uno stile o una scuola a un altro, e trattarono la vittoria del romanticismo sul classicismo come la vittoria finale della luce sulle tenebre. Quando venne a sua volta una vittoria del realismo sul romanticismo, nessuno fu più perplesso e irritato dalla nuova rivoluzione dei vecchi rivoluzionari. Insieme, a me pare, essi fecero troppo caso a tutto questo raggruppare la letteratura sotto etichette; e come fecero troppo caso all'etichetta di Poesia Classica e all'etichetta di Poesia Romantica, così ora fanno di gran lunga troppo caso all'etichetta di Poesia Moderna.
+
+Ciò che il mondo vuole, ciò che il mondo attende, non è la Poesia Moderna né la Poesia Classica né la Poesia Neoclassica — ma la Buona Poesia. E il tremendo, disdicevole [[Doubt|dubbio]] che si agita nel mio stesso animo scettico è un [[Doubt|dubbio]] sul fatto se importerebbe poi davvero molto quale stile un poeta scelga di adottare, in qualunque epoca, purché scriva Buona Poesia. Critiche come quella che sto criticando abbondano sempre di frasi quali «Non possiamo più usare la forma romantica», oppure «L'atmosfera dell'epoca ci vieta di appellarci alla tradizione settecentesca», oppure «I poeti moderni, essendo costretti a evitare il richiamo preraffaellita», e così via. Ora, è certamente vero che non possiamo scrivere come Keats o come Rossetti; per lo meno io non posso, ed è appena appena possibile che neanche voi possiate. Ma il diabolico [[Doubt|dubbio]] ancora mi perseguita, sul fatto se non lo faremmo, potendo. Supponiamo che un uomo producesse, mettiamo, un [[Fragment|frammento]] fantastico davvero bello quanto «[[Kubla Khan]]», e più o meno nella medesima dizione di «[[Kubla Khan]]»: è proprio vero che non dovremmo ammirarlo? Non è forse anzi probabile, tutto sommato, che egli lo ammirerebbe? Direbbe egli davvero a se stesso: «[[Well|Ebbene]], ho scritto questi versi che paiono ossessivi e risonanti; ho creato queste immagini che paiono magnetiche e cariche di un significato che ammicca; ho composto qualcosa che mi avrebbe reso grande quanto Coleridge, se fossi vissuto al [[Time|tempo]] di Coleridge. Ma, naturalmente, lo getterò all'istante sul [[Fire|fuoco]], perché non reca manifestamente la data 1936-37. Non mi sognerei di pubblicarlo, perché l'atmosfera dell'epoca mi vieta di scrivere buona poesia in quella particolare maniera. È mio dovere smettere, e mettermi a scrivere cattiva poesia, nella [[Hope|speranza]] che essa possa evolvere in un vero stile novecentesco»?
+
+Me ne rincresce, ma il [[Doubt|dubbio]] continua a tormentarmi, se davvero
+un essere umano si comporterebbe in quel modo. Supponiamo che qualcuno scrivesse
+qualcosa di melodioso alla maniera di «The [[Garden]] of Proserpine»,
+o di commovente alla maniera di «The Lake Isle of Innisfree»,
+o addirittura di pittorico alla maniera di «The Lady of Shalott»:
+lascerebbe egli davvero cadere tutti i suoi [[Dreams|sogni]] e resterebbe sordo a tutte le sue voci,
+per [[Fear|paura]] che qualcuno lo chiamasse preraffaellita? Nutro il cupo
+e orribile sospetto che la maggior parte dei poeti moderni non abbia resistito ad
+alcuna tentazione simile, per la semplice ragione che non ha avuto alcuna ispirazione simile.
+Ma se le ispirazioni fossero vere ispirazioni del loro genere,
+o di qualsiasi genere, si darebbe forse pena, chi ama la poesia,
+di stabilire se i poeti moderni fossero abbastanza moderni?
+
+Si noti che non sto affatto dicendo che i nuovi scrittori non debbano
+tentare nuovi stili. Sto contestando il veto secondo cui non debbano tentare
+gli stili antichi. Metto in dubbio questa suggestione ripetuta senza posa,
+che certe determinate immagini o cadenze o concezioni
+siano divenute impossibili a qualsiasi uomo di lettere, per la sola ragione che egli ha
+la sventura di vivere in questo particolare momento segnato dall'[[Clock|orologio]].
+Mi sembra che ciò esageri la nostra [[Slavery|schiavitù]] a una stagione o a una moda,
+e che faccia parte di quel cupo fatalismo che di certo si può ritrovare
+in molta poesia moderna, ma che non è poetico, bensì soltanto moderno.
+È un'ironia che coloro i quali più vorrebbero isolare l'arte, alla maniera
+che un tempo si chiamava l'arte per l'arte, siano in genere quelli che sono
+più intrisi e stagnamente drogati dalla [[philosophy|filosofia]] del loro [[Time|tempo]].
+In fin dei conti, «Lucy Gray» non è migliore di «Lycidas» nemmeno oggi;
+e ho il sospetto che certi versi ormai classici di Binyon o di Belloc dureranno finché
+non saranno più antichi. E che ne sarà dei nuovi versi, quando non saranno
+più nuovi?

@@ -161,22 +161,138 @@ they long for straight lines, but cannot go for them straight.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_11_on_mr_epstein/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_42_on_dickens_and_after/part_01">part 01 ›</a></div>
 </nav>
 
-Essendo io stesso un uomo della strada, e una mera figura casuale nella folla, posso testimoniare le mie proprie reazioni in un caso come quello della [[Night|Notte]] di Mr. Epstein. Vedo che vi sono in essa belle linee; che l'ampio slancio della mano simile a una grande pinna, quasi ad appiattire il dormiente prostrato e già privo di lineamenti, è deliberatamente e non goffamente piatto. Ma quando alzo lo sguardo al volto della dea, il mio istintivo e istantaneo commento è: «Quest'uomo pensa che la Notte, che veglia su un mondo addormentato, sia una vecchia cinese dell'oppio. E vi è gente che pensa davvero che la Notte, e le leggi cosmiche naturali di quella specie, siano della medesima qualità spirituale di una vecchia cinese dell'oppio. Ma la Notte non è una vecchia cinese dell'oppio. Michelangelo sapeva che non lo era; e io so che non lo è; e chiunque abbia visto il calar della notte in un villaggio delle Downs sa che non lo è». Direi che ciò dipende dal fatto che Michelangelo e io avevamo la medesima religione, e che persino i villaggi furono fondati da uomini della medesima tradizione. Ma comunque sia, questa è la vera radice della contesa; e ben pochi di coloro che litigano vi arrivano mai in fondo. Non è perché l'opera d'arte contestata sia una mostruosità priva di significato. Al contrario, è perché ha un significato, e lo ha tanto più se è un capolavoro. Non è perché gli uomini della strada siano ciechi e ignoranti e non sappiano vedere il significato. Al contrario, è perché vedono il significato e sanno che non è ciò che loro intendono.
+Essendo io stesso un uomo della strada, e una mera figura casuale nella
+folla, posso testimoniare le mie reazioni in un caso come quello
+della [[Night|Notte]] del signor Epstein. Riesco a vedere che ha fini linee
+in sé; che l'ampio sventagliare della mano come una grande pinna,
+come ad appiattire il prostrato e già informe dormiente,
+è deliberatamente e non goffamente piatto. Ma quando alzo lo sguardo al volto
+della dea, il mio istintivo e istantaneo commento è:
+«Quest'uomo pensa che la Notte, che veglia su un mondo addormentato,
+sia una megera cinese dell'oppio. E c'è gente che pensa davvero che la Notte,
+e le naturali leggi cosmiche del genere, siano della stessa qualità spirituale
+di quella di una megera cinese dell'oppio. Ma la Notte non è una megera cinese dell'oppio.
+Michelangelo sapeva che non lo era; e io so che non lo è; e chiunque
+abbia visto il cadere della notte in un villaggio dei Downs sa che non lo è».
+Direi che ciò era perché Michelangelo e io avevamo la
+stessa religione, e che persino i villaggi furono fondati da uomini nella
+stessa tradizione. Ma comunque, ecco la vera radice della lite;
+e assai pochi di coloro che litigano vi arrivano mai in fondo.
+Non è perché l'opera d'arte contestata sia una mostruosità priva di senso.
+Al contrario, è perché essa ha un senso, e ce l'ha
+tanto più se è un capolavoro. Non è perché gli uomini
+della strada siano ciechi e ignoranti e non riescano a vedere il senso.
+Al contrario, è perché essi vedono davvero il senso e sanno che
+non è ciò che intendono.
 
-Ora, in questa faccenda della scultura di Mr. Epstein, in connessione con la quale compaio nell'impopolare veste di paciere, potrò ricevere qualche critica che metta in dubbio il principio che sottintendo. Tra le grandi pietre che gli spettatori scagliano allo scultore, e la più grande e più mostruosa pietra che lo scultore ha scagliato a loro, qualche scheggia o ciottolo vagante potrà naturalmente colpire un paciere tanto imprudente da starsene lì a chiedersi a che cosa mai l'uno o l'altro dei lanciatori di pietre immagini di mirare. Ma poiché tali pietre volano nella bottega di scalpellini degli scultori, trasferirò l'argomento e me stesso in regioni più tranquille, e concluderò la discussione in biblioteca. In altre parole, applicherò il principio alla letteratura, di cui so di più, e a proposito della quale vige esattamente la stessa disputa, sostenuta esattamente dai medesimi argomenti. Se prendiamo una recente controversia letteraria, come quella sulla scuola poetica dei Sitwell, troviamo che l'attuale tesi polemica è nel medesimo senso vera e nel medesimo senso falsa. In nessuno di questi casi sono meramente sprezzante verso gli innovatori; o, piuttosto, non mi riferisco agli innovatori che possono davvero essere trattati con disprezzo. So che vi è qualcosa nel metodo dei Sitwell; so che esso talvolta sprigiona davvero l'incanto dell'infanzia, e fa sentire all'immaginazione, per un istante immortale, che nuvole rosse o verdi colline siano come cose buone da mangiare. Ma so assorbire la poesia di Miss Sitwell assai meglio della difesa che Miss Sitwell fa della propria poesia. Quando si tratta di teorizzare sulla questione, ella generalmente ripiega su ciò che potrei chiamare la Teoria del Sepolcro del Profeta. Inutile dire che vi è una lieve fallacia nell'argomento che, poiché molti dei profeti furono lapidati, chiunque sia lapidato sia un profeta. Montrose fu un eroe e fu impiccato, ma l'impiccagione non fa l'eroe; e non chiunque sia stato in prigione è o Bunyan o Cervantes. Ma non mi occupo ora di questa vecchia e ovvia risposta, bensì della risposta che riguarda il fatto storico e specialmente la proporzione storica. Poiché una storia può essere stipata di fatti e tuttavia essere del tutto falsa, se è falsa nella proporzione. Ora, Miss Sitwell non si stancava mai di dire, al tempo di questa controversia, che il genio originale di Keats fu assalito dalla medesima critica priva di comprensione; e molti critici della sua scuola dicono che il nuovo stile di Swinburne sconcertò un mondo avvezzo soltanto allo stile di Tennyson. Ora, questo parallelo storico non è storico. E se pensiamo che lo sia, ci sfuggirà qualcosa di momentoso e significativo nella nostra particolare fase di storia.
+Ora, in questa faccenda della scultura del signor Epstein, in connessione
+con la quale compaio nell'impopolare veste di paciere,
+potrò ricevere alcune critiche che mettono in dubbio il principio che sottintendo.
+Tra le grandi pietre che gli spettatori scagliano contro lo scultore,
+e la più grande e più mostruosa pietra che lo scultore ha scagliato contro di loro,
+qualche scheggia o ciottolo vagante può naturalmente colpire qualsiasi paciere così imprudente
+da starsene lì a chiedersi a cosa ciascuno o l'altro dei lanciatori di pietre
+immagini di mirare. Ma poiché tali pietre volano
+nel deposito di pietre degli scultori, trasferirò l'argomento e me stesso
+in regioni più tranquille, e finirò la discussione nella biblioteca.
+In altre parole, applicherò il principio alla letteratura,
+di cui so di più, e riguardo alla quale c'è esattamente
+lo stesso argomento, sostenuto esattamente dagli stessi argomenti.
+Se prendiamo una recente controversia letteraria, come quella sulla scuola
+poetica dei Sitwell, troviamo che il corrente caso controverso
+è nello stesso senso vero e nello stesso senso falso.
+In nessuno di questi casi sono io meramente sprezzante degli innovatori;
+o, piuttosto, non mi riferisco agli innovatori che possono davvero essere trattati
+con disprezzo. So che c'è qualcosa nel metodo dei Sitwell;
+so che esso talvolta emana davvero l'incanto dell'infanzia,
+e fa sentire all'immaginazione, per un immortale istante, che rosse nubi o
+verdi colline siano come cose buone da mangiare. Ma so assorbire la poesia della
+signorina Sitwell assai meglio della difesa che la signorina Sitwell fa della propria poesia.
+Quando si tratta di teorizzare in materia, ella generalmente ripiega
+su ciò che posso chiamare la Teoria del Sepolcro del Profeta.
+Inutile dire, c'è una lieve fallacia nell'argomento che,
+poiché molti dei profeti furono lapidati, chiunque sia lapidato
+sia un profeta. Montrose fu un eroe e fu impiccato, ma l'impiccagione
+non fa un eroe; e non chiunque sia stato in prigione
+è o Bunyan o Cervantes. Ma non mi occupo ora
+di questa vecchia e ovvia risposta, bensì della risposta concernente
+il fatto storico e specialmente la proporzione storica.
+Poiché una storia può essere stipata di fatti e nondimeno essere del tutto falsa,
+se è falsa nella proporzione. Ora, la signorina Sitwell non si stancava mai
+di dire, al tempo di questa controversia, che l'originale genio
+di Keats fu assalito dalla stessa incomprensiva critica;
+e molti critici della sua scuola dicono che il nuovo stile di
+Swinburne sconcertò un mondo abituato solo allo stile di Tennyson.
+Ora questo parallelo storico non è storico. E se pensiamo
+che lo sia, mancheremo qualcosa di momentoso e significativo nella nostra stessa
+particolare fase della storia.
 
-Anzitutto, le vecchie contese erano contese di tutt'altra specie. Le motivazioni dell'attacco a Keats erano quasi interamente politiche e sociali. Le motivazioni dell'attacco a Swinburne erano quasi interamente morali e religiose. Ma non è vero, di nessuno di questi due grandi poeti, che essi apparissero del tutto illeggibili o incomprensibili a coloro che avevano formato il proprio gusto sui poeti più antichi. Gifford era un volgare scribacchino Tory, che odiava e temeva il piccolo gruppo di Radicali associati a Leigh Hunt e Shelley, e che considerava la stessa comparsa di un apprendista speziale come nuovo poeta in questo gruppo quale un segno minaccioso di Giacobinismo. Egli perciò scrisse una stroncatura delle poesie di Keats nella Quarterly, come chiunque potrebbe facilmente scrivere una stroncatura di qualsiasi poesia dovunque. Ma non è vero dire che persino Gifford sentisse che un abisso si era aperto tra lui e una nuova razza di esseri intellettuali; che egli non potesse nemmeno riconoscere il loro verso come verso o il loro inglese come inglese. Se mai ho letto qualcuna delle poesie di Gifford stesso, sono lieto di dire di averla dimenticata, ma so quale sorta di poesia egli ammirasse ed ereditasse. Era quella cosa assai poco eroica allora chiamata il distico eroico. Vale a dire, era il tetro distico decasillabo, i fondi e le risciacquature di Pope. Ma non è vero che un uomo, passando da un tema trattato da Pope a un tema classico trattato da Keats, credesse di essersi cacciato in un deserto ululante di lunatici o di scimmie ciarliere. Pensava semplicemente che lo stile fosse un po' migliore o peggiore, secondo i casi, in quanto più sciolto o meno dignitoso, o più ricco o più libero. Oppure, per prendere l'altro esempio, un Vittoriano avvezzo al tono e alle immagini tennysoniane, in versi come:
+Per cominciare, le vecchie liti erano liti di tutt'altra sorta.
+I moventi dell'attacco a Keats erano quasi interamente politici
+e sociali. I moventi dell'attacco a Swinburne erano quasi
+interamente morali e religiosi. Ma non è vero, di nessuno di questi
+grandi poeti, che essi sembrassero del tutto illeggibili o inintelligibili
+a coloro che avevano formato i propri gusti sui poeti più antichi.
+Gifford era un basso servitorello Tory, che odiava e temeva il piccolo
+gruppo di Radicali associati a Leigh Hunt e Shelley,
+e che considerava la comparsa stessa di un apprendista speziale
+come nuovo poeta in questo gruppo un minaccioso segno di Giacobinismo.
+Egli perciò scrisse una stroncatura delle poesie di Keats sul Quarterly,
+come chiunque potrebbe facilmente scrivere una stroncatura di qualsiasi poesia in qualsiasi luogo.
+Ma non è vero dire che persino Gifford sentisse che un abisso
+si fosse aperto tra lui e una nuova razza di esseri intellettuali;
+che non riuscisse nemmeno a riconoscere il loro verso come verso o il loro
+inglese come inglese. Se ho mai letto alcuna delle poesie
+di Gifford, sono lieto di dire che l'ho dimenticata,
+ma conosco il tipo di poesia che egli ammirava ed ereditava.
+Era quell'assai poco eroica cosa allora chiamata distico eroico.
+Ossia, era il tetro distico decasillabo, le fecce e i risciacqui
+di Pope. Ma non è vero che un uomo, passando da un tema trattato
+da Pope a un tema classico trattato da Keats, pensasse d'essere finito
+in un urlante deserto di pazzi o di scimmie chiacchierone.
+Egli pensava semplicemente che lo stile fosse un po' migliore o peggiore,
+a seconda del caso, in quanto più sciolto o meno dignitoso, o più ricco
+o più libero. O, per prendere l'altro esempio, un Vittoriano avvezzo
+al tono e all'immaginario tennysoniani, in versi come:
 
-«Il sole giungeva abbagliante tra le [[Leaves|foglie]] E fiammeggiava sui bronzei schinieri Dell'ardito Sir Lancelot»,
+«Il sole giunse abbagliante fra le [[Leaves|Foglie]] E fiammeggiò sui bronzei
+schinieri Dell'ardito Sir Lancillotto»,
 
-avvertiva senza dubbio, o con [[Pain|pena]] o con piacere, una diversa sorta di tono e di immagini nel nuovo e musicale verso di Swinburne:
+sentiva senza dubbio, o con [[Pain|Dolore]] o con piacere, un diverso tipo
+di tono e immaginario nel nuovo e musicale verso di Swinburne:
 
-«Cinta all'intorno da una fiamma di bei volti E splendente di spade».
+«Cinto attorno da una fiamma di bei volti E splendido di spade».
 
-Poteva sentire che un nuovo suono di canto puramente bello era entrato nella lingua inglese; e avrebbe avuto ragione. Poteva sentire che vi era qualcosa di volgare nell'esagerata allitterazione e in una certa spavalderia di levigatezza; e avrebbe avuto anche in questo ragione. Ma non avrebbe trovato la seconda forma del tutto informe. Il Tennysoniano non avrebbe sentito, nel passare da Tennyson e dal suo sole fiammeggiante a Swinburne e alla sua fiamma di bei volti, qualcosa di simile a ciò che lo Swinburniano sentirebbe nel passare dai versi swinburniani a versi, diciamo, come questi:
+Egli poteva sentire che un nuovo suono di canto puramente bello era giunto
+nella lingua inglese; e avrebbe avuto ragione. Poteva sentire
+che c'era qualcosa di volgare nell'esagerata allitterazione
+e in una certa spavalderia di levigatezza; e avrebbe avuto anche ragione.
+Ma non avrebbe trovato la seconda forma del tutto informe.
+Il Tennysoniano non sentirebbe, passando da Tennyson e dal suo
+fiammeggiante sole a Swinburne e alla sua fiamma di bei volti, nulla di simile
+a ciò che lo Swinburniano sentirebbe passando dai versi swinburniani
+a versi, diciamo, come questi:
 
-«I re e le regine sul muro della stanza dei bimbi Sono pesci corazzati di maglia nel fossato e in tutto».
+«I re e le regine sul muro della cameretta Sono pesci corazzati di maglia
+nel fossato e via dicendo».
 
-Il Vittoriano poteva ritenere la fiamma di Swinburne troppo fiammeggiante, o persino scioccamente fiammeggiante. Ma avrebbe saputo che cosa Swinburne intendesse dicendo che un volto era una fiamma. Ed è assai dubbio che avrebbe saputo che cosa Miss Sitwell intendesse dicendo che una [[Queen|regina]] era un pesce, o che un pesce fosse elaboratamente munito di corazza di maglia. Ancor meno avrebbe necessariamente compreso perché qualcosa su un muro fosse simile a qualcosa di totalmente diverso in un fossato. Alcuni, dotati di una perversità fanciullesca (benché a dirlo sia io che non dovrei), possono immaginare di saper rintracciare la fatata connessione delle idee. Ma vi è stata una rottura, e il problema è diverso. Non vi è soltanto una nuova sorta di opera, ma una nuova sorta di novità.
+Il Vittoriano potrebbe pensare che la fiamma di Swinburne fosse troppo fiammeggiante,
+o persino scioccamente fiammeggiante. Ma saprebbe cosa Swinburne
+intendesse dicendo che un volto era una fiamma. Ed è assai dubbio
+che egli saprebbe cosa la signorina Sitwell intendesse dicendo che una [[Queen|regina]]
+era un pesce, o che un pesce fosse elaboratamente equipaggiato di
+maglia corazzata. Ancor meno capirebbe necessariamente perché
+qualcosa su un muro fosse come qualcosa di totalmente diverso in un fossato.
+Alcuni, dotati di una puerile perversità (benché lo dica io che non dovrei)
+possono immaginare di poter rintracciare l'elfica connessione delle idee.
+Ma c'è stata una frattura, e il problema è diverso.
+Non c'è solo un nuovo genere di lavoro, ma un nuovo genere di novità.
 
-Credo vi sia una spiegazione. Credo che i sottili cerchino la semplicità, perché i semplici sono stati inzuppati e soffocati di sottigliezza, o almeno di complessità. Il popolo, che è il giusto custode delle idee normali, è stato tiranneggiato e bastonato da una cattiva [[Education|istruzione]] materialistica finché non è semplicemente frastornato e istupidito. Frattanto, le persone intelligenti e complesse tentano di tornare alle idee dirette, ma non possono farlo se non in modo indiretto; agognano le linee rette, ma non sanno andarvi diritte.
+Credo ci sia una spiegazione. Credo che i sottili stiano
+cercando la semplicità, perché i semplici sono stati inzuppati e soffocati
+di sottigliezza, o almeno di complessità. Il popolo, che è
+il giusto custode delle idee normali, è stato tiranneggiato e bastonato
+da una cattiva [[Education|istruzione]] materialistica finché è semplicemente stordito
+e stupefatto. Nel frattempo, la gente intelligente e complessa sta cercando
+di tornare a idee dirette, ma può farlo solo in modo indiretto;
+essi anelano a linee rette, ma non sanno andarvi dritti.

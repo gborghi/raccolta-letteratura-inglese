@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_08">part 08 ›</a></div>
@@ -219,3 +221,218 @@ possession, if he possibly could; to stop the scandal and remove
 the evidence.  And indeed the man who did so, though he might be a
 
 blackguard, would certainly not be a thief.  As a matter of fact,
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_08">part 08 ›</a></div>
+</nav>
+
+una minaccia simile a un fulmine. Ma il giovane Pitt-Palmer, col suo
+
+volto freddo, netto, classico, [[Rose|si alzò]] in piedi con la tazza di
+
+caffè in mano e disse nel modo più tranquillo del mondo:
+
+«"Terribilmente spiacente; ma detesto proprio lasciar raffreddare il caffè."
+
+"E vuotò la tazza; e, com'è vero Dio, il suo volto divenne nero,
+
+o un miscuglio di colori spaventosi; e dopo suoni orribili e disumani
+
+cadde a terra come in preda a un attacco, sotto i nostri occhi.
+
+"Naturalmente, dapprima non eravamo certi. Ma lo scienziato
+
+ungherese aveva una laurea in medicina; e ciò che riferì fu confermato
+
+dal medico locale, che venne chiamato all'istante. Non c'era [[Doubt|dubbio]]
+
+che fosse morto."
+
+"Vuoi dire," disse Wotton, "che i medici erano d'accordo che fosse
+
+avvelenato?"
+
+Gahagan scosse il capo e ripeté: "Ho detto che erano d'accordo che
+
+fosse morto."
+
+"Ma perché mai dovrebbe essere morto se non fu avvelenato?"
+
+"Fu soffocato," disse Gahagan; e per un istante un brivido percorse
+
+tutta la sua possente corporatura.
+
+Dopo un [[Silence|silenzio]] che parve imposto d'improvviso dalla sua agitazione,
+
+Wotton disse infine:
+
+"Non capisco una parola di ciò che dici. Chi avvelenò il caffè?"
+
+"Nessuno avvelenò il caffè; perché non era avvelenato," rispose
+
+Gahagan. "L'unica ragione per dirlo era assicurarsi che il
+
+caffè restasse nella tazza, per essere analizzato così com'era.
+
+Il povero Pitt-Palmer vi aveva messo una grossissima zolletta di zucchero poco prima;
+
+ma lo zucchero si sarebbe sciolto. Certe cose non si sciolgono."
+
+Sir [[Hubert]] Wotton fissò per alcuni secondi il vuoto; e poi
+
+i suoi occhi cominciarono a brillare della sua intelligenza autentica
+
+benché non molto rapida.
+
+"Vuoi dire," disse, "che Pitt-Palmer in qualche modo lasciò cadere l'anello
+
+nel caffè nero, dove non si sarebbe visto, prima di essere
+
+perquisito. In altre parole, Pitt-Palmer era il ladro?"
+
+"Pitt-Palmer è morto," disse Gahagan con grande gravità, "ed è
+
+tanto più mio dovere difenderne la [[Memory|memoria]]. Ciò che fece fu senza dubbio
+
+sbagliato, come ho finito per vedere più chiaramente di prima; ma non peggio
+
+di quanto abbia fatto più d'un uomo. Puoi dire ciò che vuoi di quella
+
+specie molto comune di malefatta. Ma non era un ladro."
+
+"Vuoi o non vuoi spiegare che cosa significa tutto questo?" gridò
+
+Wotton con brusca irritazione.
+
+"No," replicò Gahagan, con un'aria improvvisa di ricaduta nella pigrizia
+
+e nella stanchezza. "Ora ci penserà il signor Pond."
+
+"Pond non era là, vero?" chiese Wotton bruscamente.
+
+"Oh, no," rispose Gahagan, piuttosto con l'aria di chi sta per
+
+[[Sleep|addormentarsi]]. "Ma vedo dalle sue sopracciglia che sa tutto
+
+della faccenda. E poi, è il turno di qualcun altro."
+
+Chiuse gli occhi con una placidità tanto disperante che lo sconcertato
+
+Wotton fu costretto a rivolgersi al terzo presente, un po' come un
+
+toro smarrito.
+
+"Ne sai davvero qualcosa?" domandò. "Che cosa
+
+intende dire quando afferma che l'uomo che nascose l'anello non era un ladro?"
+
+"[[Well|Beh]], forse posso indovinare qualcosa," disse modestamente il signor Pond. "Ma
+
+solo perché ho tenuto a mente ciò che abbiamo detto all'inizio—
+
+sul modo ingannevole in cui le cose ci rammentano cose
+
+romanzesche; solo che non si concludono mai rotonde come nel [[Romance|romanzo]]. Vedete,
+
+il guaio è che, quando un fatto reale ci ricorda un [[Novel|romanzo]], noi
+
+inconsciamente crediamo di saperne tutto, perché sappiamo tutto
+
+del [[Novel|romanzo]]. Siamo entrati in un solco o in un binario di finzione familiare;
+
+e non possiamo fare a meno di pensare che il solco corra avanti e indietro come
+
+fa nella finzione. Abbiamo l'intero sfondo della storia sul
+
+fondo della mente; e non riusciamo a credere di essere davvero in
+
+un'altra storia. Diamo sempre per scontato qualcosa che è dato per scontato nella
+
+storia inventata; e non è vero. Una volta assunto l'inizio
+
+sbagliato, non solo darai la risposta sbagliata, ma porrai
+
+la domanda sbagliata. In questo caso, avete un mistero; ma avete
+
+afferrato il mistero sbagliato."
+
+"Gahagan ha detto che avreste spiegato tutto," disse Wotton, con
+
+[[Satire|ironia]] controllata. "Posso chiedere se questa è la spiegazione? È questa
+
+la soluzione o il mistero?"
+
+"Il vero mistero dell'anello," disse Pond gravemente, "non è dove
+
+andò a finire, ma da dove venne."
+
+Wotton lo fissò fermamente per un istante, e poi disse con
+
+una voce piuttosto nuova: "Continua."
+
+Il signor Pond continuò. "Gahagan ha detto verissimamente che il povero Pitt-
+
+Palmer non era il ladro. Pitt-Palmer non rubò l'anello."
+
+"Allora," esplose Wotton, "chi diavolo fu a rubare l'anello?"
+
+"Lord Crome rubò l'anello," disse il signor Pond.
+
+Ci fu un [[Silence|silenzio]] su tutto il gruppo per un breve spazio; e
+
+poi il sonnolento Gahagan si mosse e disse: "Sapevo che avresti colto
+
+il punto."
+
+Per rendere le cose più chiare, il signor Pond aggiunse quasi
+
+in tono di scusa:
+
+"Ma, vedete, dovette farlo girare per scoprire da chi
+
+l'avesse rubato."
+
+Dopo un momento riprese nel suo consueto modo logico ma laborioso:
+
+"Non vedete, come ho detto, che assumete qualcosa in
+
+partenza, semplicemente perché sta in tutte le storie? Assumete che
+
+quando un padrone di casa fa girare qualcosa a cena, sia qualcosa
+
+che appartiene a lui e alla sua famiglia, probabilmente un vecchio
+
+bene di famiglia; perché così è in tutte le storie. Ma Lord Crome
+
+intendeva qualcosa di ben più nero e amaro di questo quando disse,
+
+con una spaventosa ironia, che commemorava un [[Romance|romanzo]] della sua
+
+famiglia.
+
+"Lord Crome aveva rubato quell'anello intercettando la corrispondenza;
+
+o, in altre parole, aprendo una busta indirizzata alla moglie
+
+e contenente null'altro che l'anello. L'indirizzo era dattiloscritto;
+
+né in verità conosceva tutte le grafie coinvolte. Ma conosceva
+
+l'antichissima scritta incisa su quell'anello; la quale era tale
+
+che poteva essere stata donata con un solo scopo. Radunò quegli
+
+uomini per scoprire chi fosse il mittente; o, in altre parole, chi fosse il
+
+proprietario. Sapeva che il proprietario avrebbe in qualche modo tentato di riprendersi il
+
+suo bene, se solo avesse potuto; per fermare lo scandalo e togliere di mezzo
+
+la prova. E in effetti l'uomo che lo fece, per quanto potesse essere un
+
+mascalzone, non sarebbe certo stato un ladro. In verità,

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_42_rubbish">‹ Story 42 Rubbish</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_44_spiritualism">Story 44 Spiritualism ›</a></div>
@@ -155,3 +157,154 @@ and atrociously unfair to the theologians and the believers.
 of liberty and to the Protestant idea of the [[Bible]].
 
                                               Daily News, April 17th, 1909
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_42_rubbish">‹ Story 42 Rubbish</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_44_spiritualism">Story 44 Spiritualism ›</a></div>
+</nav>
+
+NON ESISTE NULLA DEL GENERE
+
+Le conferenze pedagogiche sono sempre interessanti per la semplice ragione
+che sotto il titolo di [[Education|Educazione]] si può discutere qualunque cosa
+passi per la testa.  Questo è il fatto principale che, malgrado
+tutte le chiacchiere sul tema dell'[[Education|educazione]], nessuno pare notare
+a suo riguardo.  La cosa fondamentale del tema dell'[[Education|educazione]]
+è che non è affatto un tema.  Non esiste nulla del genere: l'[[Education|educazione]].
+La cosa è soltanto una formula vaga per la trasmissione ad altri
+di qualunque [[Truth|verità]] o virtù ci capiti di possedere noi stessi.
+È tipico del nostro [[Time|tempo]] che più siamo dubbiosi sul valore
+della [[philosophy|filosofia]], più siamo certi del valore dell'[[Education|educazione]].
+Vale a dire, più siamo dubbiosi sul fatto di possedere una qualche [[Truth|verità]],
+più siamo certi (a quanto pare) di poterla insegnare ai bambini.
+Più piccola la nostra [[Faith|fede]] nella dottrina, più grande la nostra [[Faith|fede]] nei dottori.
+
+Ritengo dunque che tutta la faccenda dell'[[Education|educazione]] moderna
+sia un'immensa impostura o convenzione, un pretesto perché le persone
+adulte discorrano di grandi questioni alla buona.  A quei poveri disgraziati
+è vietato nel nostro [[Time|tempo]] avere una religione umana come si deve;
+ciò che dovrebbero discutere sotto forma di teologia
+sono costretti a discuterlo sotto il pretesto disgustoso
+dell'[[Education|educazione]].  Discutere di questioni serie è un piacere;
+è forse il più grande dei semplici piaceri noti all'uomo.
+Perfino i diavoli (come [[Milton]] ben comprese) discuterebbero di teologia.
+Ma nel nostro [[Time|tempo]] è un piacere segreto; lo si gode
+negli angoli bui, come un vizio.
+
+Non c'è bisogno che dica che il fatto che l'[[Education|educazione]] consenta a un uomo
+di discutere di qualunque cosa è il motivo per cui l'ho messa al primo posto.
+Il testo che in realtà mi colpì l'occhio e rivelò i capricci
+e le varie possibilità del tema fu il resoconto
+della Conferenza dei Presidi in cui il Professor Muirhead
+tenne una relazione sull'Istruzione Morale.  L'espressione Istruzione Morale
+è generalmente usata, s'intende, in riferimento a un
+programma come quello proposto dalla Lega per l'Istruzione Morale;
+è generalmente usata a significare la proposta di sostituire
+certe lezioni etiche all'istruzione religiosa
+(alquanto fioca e dubbia com'è) che si impartisce in gran parte delle scuole.
+Per quanto riguarda questo significato, la mia posizione è
+semplice e, [[Hope|spero]], inoffensiva.  Offro persino
+un compromesso o un patto, esattamente come se fossi un politico.
+Sono prontissimo a promettere ai laicisti un'[[Education|educazione]] laica
+se essi da parte loro promettono (sulle tombe delle loro madri)
+di non fare istruzione morale.  L'[[Education|educazione]] laica mi pare
+intellettualmente pulita e comprensibile.  L'istruzione morale
+mi pare sudicia, intollerabile; la distruggerei col [[Fire|fuoco]].
+Insegnare l'Antico Testamento da solo significa insegnare l'antica
+etica ebraica, che è semplice, barbarica, rudimentale e,
+per un cristiano, insoddisfacente.  Insegnare l'istruzione morale
+significa insegnare l'etica moderna di [[London|Londra]], Birmingham e Boston,
+che non è barbarica e rudimentale, ma corrotta,
+isterica e brulicante di vermi, e che è,
+per un cristiano, non insoddisfacente ma detestabile.  Il vecchio ebreo
+che dice che devi combattere solo per la tua tribù è inadeguato;
+ma il moderno saccente che dice che non devi mai combattere per nulla
+è sostanzialmente e specificamente immorale.  So [[Well|bene]],
+naturalmente, che l'etica non religiosa proposta per le scuole
+moderne non afferma verbalmente queste cose; parla soltanto
+di pacifica [[Reform|riforma]], di vero [[Christianity|Cristianesimo]] e dell'importanza
+del Conte [[tolstoy|Tolstoj]].  È tutta questione di tono e di sottinteso;
+ma d'altronde lo è ogni insegnamento.  L'[[Education|Educazione]] è sottinteso.
+Non sono le cose che dici che i bambini rispettano; quando
+dici delle cose, molto spesso ridono e fanno l'opposto.
+Sono le cose che dai per scontate che davvero penetrano in loro.
+Sono le cose che dimentichi persino di insegnare che essi imparano.
+
+Chiese, filosofie, sette, influenze sociali, tutte le autorità
+educative hanno dissentito, hanno distorto il senso l'una dell'altra,
+hanno distrutto le proposte l'una dell'altra, in questa materia dell'[[Education|educazione]].
+Ma qui [[Hope|spero]] di offrire una proposta pacifica su cui tutte
+le chiese e tutte le filosofie possono concordare.  Sono il portatore
+dell'unico vero ramoscello d'ulivo.  Tutte le autorità educative
+possono concordare sulla semplice proposta che io enuncio.
+Non esiste nulla del genere: l'[[Education|educazione]].  L'[[Education|Educazione]] non esiste.
+Sarà davvero un vangelo benedetto da diffondere per il mondo
+moderno, e persino i miei piedi saranno belli sui [[Mountains|monti]] quando lo
+proclamerò.  Perché questa è in verità la formulazione più vicina alla [[Truth|verità]].
+Non esiste [[Education|educazione]] al di fuori di qualche particolare tipo di [[Education|educazione]].
+Non esiste [[Education|educazione]] che non sia [[Education|educazione]] settaria.
+
+                               Illustrated [[London]] News, 12 gennaio 1907
+
+LA PROTEZIONE DELLA [[Bible|BIBBIA]]
+
+È motivo di grande soddisfazione che una voce ufficiale
+dell'[[Education|educazione]] pratica si sia pronunciata a favore di quell'esclusione di ogni
+teologia dalle scuole nazionali per cui in molti hanno a lungo perorato.
+È una politica promossa, in generale, dal più lucido
+e magnanimo di tutti i partiti.  Alcuni, e io sono tra loro, non
+desiderano che la teologia interferisca con l'[[Education|educazione]].  Alcuni, e sono di nuovo uno
+di loro, nutrono il massimo orrore per l'[[Education|educazione]] che pretenda di interferire
+con la teologia, che è un tema tanto più vivo ed eccitante.
+E una questione assai interessante è indubbiamente sollevata dalla distinzione
+tra l'insegnamento della teologia e l'insegnamento della [[Bible|Bibbia]].
+La questione se la [[Bible|Bibbia]] possa essere insegnata semplicemente come
+letteratura è una questione che solleva tutto l'[[Riddle|enigma]] delle cose
+che hanno due significati, un significato grande e un significato piccolo.
+Si può trattare il Corano come letteratura?  Sì, ovunque tranne che nell'[[Islam]].
+Si può insegnare la [[Bible|Bibbia]] come pura letteratura?  Sì, ovunque tranne che
+in un paese protestante.
+
+Vi sono diversi malintesi diffusi su questo aspetto educativo
+della Scrittura.  Un errore assai curioso è questo.  Si dà sempre
+in qualche modo per scontato che, se la [[Bible|Bibbia]] viene tolta dalle scuole,
+verrà tolta nell'interesse di chi non vi crede.
+Questo è un errore completo.  Chi non vi crede
+è esattamente la gente che non ha ragione di opporvisi.
+È la gente che vi crede ad avere il diritto di agitarsi.
+Un ragionevole libero pensatore non ha da avere la minima obiezione
+al fatto che il suo [[Child|figlio]] impari un capitolo di Isaia semplicemente come letteratura.
+Nella misura in cui è ragionevole, converrà che è letteratura,
+e nella misura in cui è un libero pensatore converrà che è letteratura.
+L'uomo che è malservito da un simile insegnamento della [[Bible|Bibbia]] è precisamente
+l'uomo ortodosso, l'uomo per cui Isaia significa anzitutto e soprattutto
+la profezia mozza-[[Blood|sangue]] di un evento che scuote il mondo.
+Non mi dispiacerebbe che i miei figli imparassero il folklore islandese.
+Né mi dispiacerebbe che imparassero il folklore ebraico — se è solo folklore.
+Non mi dispiacerebbe che ai miei figli si parlasse di Maometto, perché io
+non sono maomettano.  Se fossi maomettano, vorrei sapere benissimo
+che cosa venisse loro detto di lui.
+
+Perciò simpatizzo con l'[[Education|educazione]] laica, ma non
+perché la mia simpatia vada al puritano di nuova foggia
+che vuole che la [[Bible|Bibbia]] sia trattata come letteratura.
+La mia simpatia va al puritano all'antica che non vuole
+che la [[Bible|Bibbia]] sia trattata come letteratura, perché si dà il caso
+che egli abbia una religione, che è pressappoco la cosa più interessante
+che un uomo possa avere.  Sono i teologi all'antica
+che dovrebbero insistere sull'[[Education|educazione]] laica.  Sono i puritani
+ortodossi che dovrebbero volere la [[Bible|Bibbia]] tenuta fuori dalle scuole.
+La [[Truth|verità]] può, in effetti, essere posta in una sorta di dilemma.
+O la [[Bible|Bibbia]] va offerta come qualcosa di straordinario o come
+qualcosa di ordinario.  Se è offerta come qualcosa di straordinario,
+ciò è certamente ingiusto verso gli agnostici e i dubbiosi.
+Se è offerta come qualcosa di ordinario, ciò è grossolanamente
+e atrocemente ingiusto verso i teologi e i credenti.
+... Il compromesso sulla [[Bible|Bibbia]] è falso sia rispetto all'idea civica
+di libertà sia rispetto all'idea protestante della [[Bible|Bibbia]].
+
+                                              Daily News, 17 aprile 1909

@@ -128,18 +128,105 @@ it more of a belfry.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_06_on_a_censorship_for_literature/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_07_on_the_new_poetry/part_02">part 02 ›</a></div>
 </nav>
 
-VII.  Sulla nuova poesia
+VII. Sulla Nuova Poesia
 
-OGGI va di moda bastonare i poeti perché sono poetici. L'accusa più schiacciante che si possa muovere loro è quando li si può convincere di essere musicali. Il signor Walter de la Mare viene colto in fallo mentre danza sulla punta lieve e fantastica al ritmo di un'aria che si sosteneva essere sfacciatamente melodiosa e piacevole; e il signor Humbert Wolfe viene arrestato nell'atto stesso di proferire armonie alla vecchia, volgare maniera di Milton e di Keats. Delitti di questa specie i nostri critici paiono sempre più determinati a portare alla luce; ma il codice di legge che essi amministrano è ancora in via di formazione e talvolta appare un poco vago. Non è facile, per chi guarda da fuori, capire perché parole che potrebbero essere ispirate e ricche d'immaginazione, se solo fossero cacofoniche e goffe, debbano diventare meno intelligenti o suggestive per il solo fatto d'essere sonore o dolci. Ma sembra proprio che vi sia, in taluni dei critici, l'idea che il poeta debba evitare di compiacere l'orecchio, del tutto a prescindere dal suo dovere primario di compiacere la mente. Pare affine all'idea degli Imagisti, quei singolari idolatri, e vuol suggerire che l'adoratore debba avere l'immagine ma non l'inno di lode—il suono del sambuco, del salterio e d'ogni sorta di strumenti dinanzi all'immagine che il Re ha eretto. In parole povere, la poesia immaginativa non deve fare appello al senso dell'udito. Il poeta futurista è come il fanciullo della prima età vittoriana. Lo si deve vedere, non udire.
+È di moda ora criticare i poeti perché sono poetici.
+L'accusa più schiacciante contro di loro è quando possono essere convinti
+di essere musicali. Il signor Walter de la Mare viene colto in flagrante mentre danza sul lieve
+piede fantastico su un'aria che si pretende sfacciatamente melodiosa
+e piacevole; e il signor Humbert Wolfe viene arrestato nell'atto stesso
+di pronunciare armonie alla vecchia, volgare maniera di Milton e Keats.
+Delitti di questa sorta i nostri critici sembrano sempre più intenti a portare
+alla luce; ma il codice di legge che essi amministrano è ancora
+in formazione e appare talvolta un po' vago.
+Non è facile per l'estraneo capire perché parole che
+potrebbero essere ispirate e immaginose se solo fossero cacofoniche
+e goffe possano divenire meno intelligenti o suggestive solo
+per il fatto d'essere sonore o dolci. Ma pare esserci davvero un'idea,
+in alcuni dei critici, che il poeta debba evitare di compiacere l'orecchio,
+del tutto a parte il suo primario dovere di compiacere la mente. Pare
+imparentata con l'idea degli Imagisti, quei singolari idolatri,
+e suggerire che l'adoratore debba avere l'immagine ma non
+l'inno di lode--il suono di sambuca, salterio, e ogni
+sorta di musica dinanzi all'immagine che il Re ha eretto.
+In parole schiette, la poesia immaginosa non deve appellarsi al senso
+dell'udito. Il poeta futurista è come il bambino della Prima Età Vittoriana.
+Deve essere visto e non udito.
 
-Ho udito, per la verità, d'un critico moderno che si spinse anche più oltre. Si riferisce che abbia detto:
+Ho, in verità, sentito parlare di un critico moderno che andò persino oltre.
+Si riferisce che egli abbia detto:
 
-`La vera poesia dovrebbe essere invisibile e inudibile.' Presumibilmente farà appello al senso dell'olfatto. In un certo senso, senza dubbio, possiamo riconoscere una considerevole [[Truth|verità]] in tutto questo, come descrizione delle condizioni contemporanee. I più di noi hanno letto ricchi passi di poesia moderna in cui la melodia era del tutto inudibile e la visione del tutto invisibile. Per noi, purtroppo, era anche vero che la poesia era del tutto invisibile. Ma questa è faccenda d'impressione personale, e non possiamo discuterne col critico con alcun profitto logico. Può darsi che per lui la vera melodia dei veri melodisti sia inudibile; ed è per questo che non riesce ad apprezzare persone come il signor Walter de la Mare. Ma non giova nulla che lo scrittore e il critico s'ingaggino in una gara d'insulti per provare chi dei due sia sordo; il che può soltanto, nella migliore delle ipotesi, provare che nessuno dei due è muto. L'unica via, come in ogni disputa, è tornare ai primi principî.
+«La vera poesia dovrebbe essere invisibile e inaudibile».
+Presumibilmente si appellerà al senso dell'olfatto.
+In un senso, senza dubbio, possiamo riconoscere una considerevole [[Truth|verità]]
+in tutto ciò, come descrizione delle condizioni contemporanee.
+La maggior parte di noi ha letto ricchi passi di poesia moderna in cui
+la melodia era del tutto inaudibile e la visione del tutto invisibile.
+Per noi, sfortunatamente, era anche vero che la poesia era
+del tutto invisibile. Ma questa è questione d'impressione personale,
+e non possiamo discuterne col critico con alcun profitto logico.
+Può darsi che per lui la vera melodia dei veri melodisti sia inaudibile;
+ed è per questo che egli non riesce ad apprezzare gente come il signor Walter de la Mare.
+Ma non serve a nulla che lo scrittore e il critico s'ingaggino in una
+zuffa d'insulti per provare quale dei due sia sordo; il che può solo,
+al meglio, provare che nessuno dei due è muto. L'unica via,
+come in ogni lite, è tornare ai primi principii.
 
-Non so come la cosa potrebbe risolversi se fosse lasciata a una mera controversia di gusti. Non so se i poeti smentirebbero i critici e negherebbero con calore d'essersi mai resi colpevoli di produrre suoni gradevoli. Non so se il signor de la Mare negherà furiosamente d'avere orecchio; o se il signor Wolfe cercherà, emettendo suoni orridi, di rivendicare una reputazione immacolata di discordanza. Personalmente, come semplice questione di gusto, li preferisco così come sono. Ma l'unico modo possibile di dibattere queste cose in pubblico è chiedere principî fondamentali, o primi. Se tali principî esistono, è meglio [[debate|dibattere]] sulla loro base. Se tali principî non esistono, è meglio non [[debate|dibattere]] affatto. In tal caso, invero, non possiamo [[debate|dibattere]] affatto. Possiamo solo continuare a produrre suoni—se siamo persone comuni e volgari, suoni tollerabili o piacevoli; se siamo persone schizzinose e futuristiche, suoni brutti o addirittura insopportabili.
+Non so come la cosa potrebbe essere risolta se fosse lasciata
+come una mera disputa sui gusti. Non so se i poeti darebbero
+una smentita ai critici e negherebbero con foga d'essere mai
+stati colpevoli di produrre suoni gradevoli. Non so se il signor de la
+Mare negherà furiosamente d'avere orecchio; o se il signor Wolfe cercherà,
+emettendo suoni orrendi, di rivendicare una immacolata reputazione di dissonanza.
+Personalmente, come mera questione di gusto, li preferisco come sono.
+Ma l'unico modo possibile di dibattere queste cose in pubblico
+è chiedere principii fondamentali o primi. Se ci sono
+tali principii, è meglio [[debate|dibattere]] sulla loro base.
+Se non ci sono tali principii, è meglio non [[debate|dibattere]] affatto.
+In tal caso, in verità, non possiamo [[debate|dibattere]] affatto. Possiamo solo
+continuare a fare rumori--se siamo persone comuni e volgari, rumori tollerabili o
+piacevoli; se siamo persone fastidiose e futuriste,
+rumori brutti o persino insopportabili.
 
-Le arti e i mestieri dell'uomo, fin dal principio, sono stati arti e mestieri di combinazione. Essi unirono il riparo del tetto e la dignità della torre. Unirono lo stile dell'oratore alle deliberazioni del Foro. E unirono il significato delle parole alla musica della melodia. Ora, così come tutta la cultura umana è stata combinazione, così tutta la nuova nozione di cultura è separazione. Essa dovrebbe davvero, se fosse coerente, dissolvere tutte queste antiche combinazioni, non solo nella letteratura o perfino nella musica, ma nell'architettura, nella retorica e in tutto il resto. Questi teorici hanno un compito assai più vasto di quanto immaginino, se vogliono mettere in pratica la propria teoria; ma ciò presuppone che i teorici sappiano quale sia la propria teoria. Così essi dovrebbero davvero costruire una torre solitaria, tutta [[Alone|sola]] per sé in un campo, unicamente allo scopo d'essere [[Well|bene]] proporzionata e pura di contorno, e senza servire ad alcun altro fine. Nel frattempo, i poveri progressisti dovrebbero pur vivere in qualche luogo e rannicchiarsi sotto un tetto o l'altro, a meno che non avessero abolito i tetti per quel [[Time|tempo]]. Forse i poveri diavoli sarebbero costretti in qualche orribile [[house|casa]] d'acciaio con impianti elettrici—che è sorte più raccapricciante di quella che il più aspro tradizionalista potrebbe augurarsi di procurar loro. Forse dovranno soltanto vivere in enormi caseggiati, come [[Insects|insetti]] corallini in una scogliera corallina, solo non altrettanto belli.
+Le arti e i mestieri dell'uomo, fin dal principio, sono state arti
+e mestieri di combinazione. Essi unirono davvero il riparo del tetto
+e la dignità della torre. Unirono davvero lo stile dell'oratore
+con le decisioni del Foro. E unirono davvero il significato
+delle parole con la musica dell'aria. Ora, proprio come l'intera
+cultura umana è stata combinazione, così l'intera nuova nozione
+di cultura è separazione. Essa davvero, se fosse logica,
+spezzerebbe tutte queste vecchie combinazioni, non solo nella letteratura o
+persino nella musica, ma nell'architettura, nella retorica, e in tutto il resto.
+Questi teorici hanno un compito assai più vasto di quanto immaginino,
+se devono mettere in pratica la propria teoria; ma questo è
+supporre che i teorici sappiano quale sia la loro stessa teoria.
+Così essi dovrebbero davvero costruire una torre solitaria, tutta [[Alone|sola]]
+per conto suo in un campo, solo per essere [[Well|ben]] proporzionata e pura
+nel profilo, e senza servire ad alcun altro scopo. Nel frattempo, i poveri
+progressisti dovrebbero abitare da qualche parte e stringersi sotto un
+qualche tetto o l'altro, a meno che non avessero abolito i tetti entro quel [[Time|tempo]].
+Forse i poveri diavoli sarebbero costretti in qualche orrenda [[house|casa]]
+d'acciaio con impianti elettrici--il che è un fato più orrido di
+quello che il più aspro tradizionalista potrebbe voler recare loro.
+Forse dovranno solo abitare in enormi caseggiati, come [[Insects|insetti]]
+corallini in una barriera corallina, solo non così belli.
 
-Ma comunque sia, il punto è che, secondo questa teoria, la loro dimora pratica non deve essere bella. È ovvio e inevitabile quanto il fatto che la loro torre solitaria non deve essere utile. Fa parte del principio implicito che essa non deve essere un campanile o un faro, anche se è nella stessa misura un bel campanile o un bel faro. L'arte deve essere separata dall'architettura, oppure, se la versione è più corretta, l'architettura deve essere separata dall'edificare.
+Ma comunque, il punto è che, secondo questa teoria, la loro pratica
+dimora non deve essere bella. È tanto ovvio e inevitabile
+quanto che la loro torre solitaria non deve essere utile. Fa parte del
+principio implicito che essa non debba essere un campanile o un faro, anche se
+fosse nella stessa misura un bel campanile o un bel faro.
+L'arte deve essere separata dall'architettura, o, se la versione è
+più corretta, l'architettura deve essere separata dal costruire.
 
-Ora, non riesco per la vita mia a vedere perché l'architettura debba essere separata dall'edificare; e allo stesso modo non vedo perché il senso debba essere separato dal suono. Sono ben disposto ad ammettere che sono due cose; ma dico che sono due cose che non solo si completano a vicenda, ma si esprimono e si esibiscono a vicenda; due cose che hanno il potere di far risaltare l'una l'altra e di sottolineare l'esistenza l'una dell'altra. Quando vedo un bel campanile, so che è possibile avere la [[Beauty|bellezza]] senza il campanile, e il campanile senza la [[Beauty|bellezza]]. Ma sono altresì certissimo che il fatto d'essere un campanile lo rende più bello, e il fatto d'essere bello lo rende più campanile.
+Ora, non riesco per la vita di me a vedere perché l'architettura debba essere
+separata dal costruire; e allo stesso modo non riesco a vedere perché il senso
+debba essere separato dal suono. Sono del tutto disposto ad ammettere che essi
+sono due cose; ma dico che sono due cose che non solo completano
+l'una l'altra, ma esprimono ed esibiscono l'una l'altra; due cose che hanno
+il potere di far risaltare l'una l'altra e di sottolineare l'esistenza l'una dell'altra.
+Quando vedo un bel campanile, so che è possibile avere
+la [[Beauty|bellezza]] senza il campanile, e il campanile senza la [[Beauty|bellezza]].
+Ma sono anche del tutto certo che il fatto d'essere un campanile
+lo rende più bello, e il fatto d'essere bello lo rende
+più campanile.

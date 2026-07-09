@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10">Chapter 10</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_03">part 03 ›</a></div>
@@ -152,3 +154,151 @@ two out of Ladbroke Grove, and four out of Notting [[Hill]] High Street.
 And he had detachments of two hundred each, stationed at every
 one of the entrances before the last green of that strange sunset
 had sunk out of the black sky.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10">Chapter 10</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10/part_03">part 03 ›</a></div>
+</nav>
+
+Buck posò il bicchiere con un colpo secco, e sputò imprecazioni attraverso
+i folti baffi.
+
+«Cosa c'è?» chiese Barker, interrompendosi, poiché l'uomo era
+stato calmo fino ad allora, e ora la sua agitazione era assai più violenta
+della propria.
+
+«Cosa c'è?» disse Buck, amaramente; «non vedi come questi maniaci
+ci hanno preso?  Perché due idioti, uno un pagliaccio e l'altro
+un pazzo urlante, dovrebbero rendere uomini sani di mente così diversi da sé stessi?
+Guarda qui, Barker; ti faccio un quadro.  Un giovanotto assai [[Well|ben]] educato
+di questo secolo saltella in giro in finanziera.  Ha
+in mano un'assurda alabarda del diciassettesimo secolo,
+con la quale cerca di ammazzare uomini per strada a Notting [[Hill]].
+Maledizione! non vedi come ci hanno preso?  Non importa come ti
+sei sentito... è così che apparivi.  Il [[King|Re]] piegherebbe la sua maledetta testa
+da un lato e la chiamerebbe squisita.  Il Prevosto di Notting [[Hill]]
+storcerebbe il suo maledetto naso all'insù e la chiamerebbe eroica.
+Ma in nome del Cielo come l'avresti chiamata tu... due giorni prima?»
+
+Barker si morse il labbro.
+
+«Tu non ci sei passato, Buck,» disse.  «Tu non
+capisci il combattere... l'atmosfera.»
+
+«Non nego l'atmosfera,» disse Buck, battendo sul tavolo.
+«Dico soltanto che è la loro atmosfera.  È l'atmosfera di [[Adam Wayne]].
+È l'atmosfera che io e te credevamo svanita
+da un mondo civile per sempre.»
+
+«[[Well|Ebbene]], non è così,» disse Barker; «e se hai qualche dubbio persistente,
+prestami un'ascia e te lo dimostrerò.»
+
+Ci fu un lungo [[Silence|silenzio]], e poi Buck si volse al suo vicino
+e parlò con quel tono bonario che nasce dalla capacità di guardare
+i fatti in faccia; il tono con cui concludeva i grandi affari.
+
+«Barker,» disse, «hai ragione.  Questa vecchia cosa... questo combattere,
+è tornata.  È tornata all'improvviso e ci ha colti di sorpresa.
+Dunque è primo [[Blood|sangue]] per [[Adam Wayne]].  Ma, a meno che ragione e aritmetica
+e tutto il resto siano impazziti, dev'essere prossimo e ultimo
+[[Blood|sangue]] per noi.  Ma quando una questione è davvero sorta, non c'è che
+una cosa da fare... studiare quella questione come tale e vincerla.
+Barker, poiché si tratta di combattere, dobbiamo capire il combattere.
+Io devo capire il combattere con la stessa freddezza e completezza con cui
+capisco la merceria; tu devi capire il combattere con la stessa freddezza e
+completezza con cui capisci la politica.  Ora, guarda i fatti.
+Mi attengo senza esitazione alla mia formula originaria.  Il combattere, quando
+abbiamo la forza maggiore, è solo questione di aritmetica.  Dev'esserlo.
+Mi hai appena chiesto come duecento uomini potessero sconfiggerne seicento.
+Te lo posso dire.  Duecento uomini possono sconfiggerne seicento quando i sei
+cento si comportano da sciocchi.  Quando dimenticano le stesse condizioni in cui
+combattono; quando combattono in una palude come se fosse una montagna;
+quando combattono in una foresta come se fosse una pianura; quando combattono
+per le strade senza ricordare a cosa servano le strade.»
+
+«A cosa serve una strada?» chiese Barker.
+
+«A cosa serve una cena?» gridò Buck, furiosamente.
+«Non è ovvio?  Questa scienza militare è puro buon senso.
+Lo scopo di una strada è condurre da un luogo a un altro;
+perciò tutte le strade si congiungono; perciò combattere per le strade è cosa
+assai particolare.  Tu sei avanzato in quell'alveare di strade come se
+stessi avanzando in una pianura aperta dove potevi vedere tutto.
+Invece stavi avanzando nelle viscere di una fortezza,
+con strade che ti puntavano contro, strade che ti si voltavano contro,
+strade che ti balzavano addosso, e tutte in mano al nemico.
+Sai cos'è Portobello [[Road]]?  È l'unico punto del
+tuo [[Journey|percorso]] dove due vie laterali s'incontrano l'una di fronte all'altra.
+Wayne ammassò i suoi uomini sui due lati, e quando ebbe lasciato
+passare abbastanza della tua fila, la tagliò in due come un verme.
+Non vedi cosa ti avrebbe salvato?»
+
+Barker scosse la testa.
+
+«Non può aiutarti la tua 'atmosfera'?» chiese Buck, amaramente.
+«Devo tentare spiegazioni alla maniera romantica?  Supponi che,
+mentre combattevi alla cieca coi rossi di Notting Hill che
+ti imprigionavano da entrambi i lati, tu avessi udito un grido alle loro spalle.
+Supponi, oh romantico Barker! che dietro le tuniche rosse tu avessi
+visto l'azzurro e l'oro di South Kensington coglierli alle spalle,
+circondarli a loro volta e scagliarli sulle tue alabarde.»
+
+«Se la cosa fosse stata possibile,» cominciò Barker, imprecando.
+
+«La cosa sarebbe stata tanto possibile,» disse Buck, semplicemente; «quanto semplice
+è l'aritmetica.  C'è un certo numero di imbocchi di strada che conducono
+a Pump Street.  Non sono novecento; non sono nove milioni.
+Non spuntano di [[Night|notte]].  Non si moltiplicano come funghi.
+Dev'essere possibile con una forza schiacciante come la nostra
+avanzare per tutti quanti in una volta.  In ognuna delle arterie,
+o vie d'accesso, possiamo mettere quasi tanti uomini quanti Wayne può schierarne
+in campo in tutto.  Fatto ciò, l'abbiamo in pugno per dimostrazione.
+È come una proposizione di Euclide.»
+
+«Tu credi che sia certo,» disse Barker, ansioso ma
+deliziosamente dominato.
+
+«Ti dico cosa penso,» disse Buck, alzandosi gioviale.
+«Penso che [[Adam Wayne]] abbia dato una battaglietta di rara vivacità.
+E penso di essere maledettamente dispiaciuto per lui.»
+
+«Buck, sei un grand'uomo,» gridò Barker, alzandosi anche lui.
+«Mi hai ricondotto alla ragione.  Mi vergogno a dirlo,
+ma stavo diventando romantico.  Certo, quel che dici è
+buon senso adamantino.  Il combattere, essendo fisico, dev'essere matematico.
+Siamo stati sconfitti perché non eravamo né matematici né
+fisici né altro... perché meritavamo di essere sconfitti.
+Teniamo tutte le vie d'accesso, e con la nostra forza dobbiamo averlo.
+Quando apriamo la prossima campagna?»
+
+«Ora,» disse Buck, e uscì dal bar.
+
+«Ora!» gridò Barker, seguendolo con impazienza.  «Vuoi dire ora?
+È così tardi.»
+
+Buck si voltò verso di lui, pestando i piedi.
+
+«Credi che il combattere sia soggetto alle Leggi di fabbrica?» disse.
+E chiamò una carrozza.  «Stazione di Notting [[Hill]] Gate,» disse,
+e i due partirono.
+
+. . . . .
+
+Una genuina reputazione si può talvolta costruire in un'ora.  Buck, nei successivi
+sessanta o ottanta minuti si rivelò un uomo d'azione davvero grande.
+La sua carrozza lo portò come un fulmine dal [[King|Re]] a Wilson,
+da Wilson a Swindon, da Swindon di nuovo a Barker;
+se il suo tragitto era frastagliato, aveva la frastagliatura del [[Lightning|fulmine]].
+Solo due cose portava con sé, il suo immancabile sigaro
+e la mappa di North Kensington e Notting [[Hill]].  C'erano,
+come faceva notare più e più volte, con ogni varietà di [[Persuasion|persuasione]]
+e violenza, soltanto nove modi possibili di avvicinarsi a Pump Street
+entro un quarto di miglio all'intorno; tre da Westbourne Grove,
+due da Ladbroke Grove, e quattro da Notting [[Hill]] High Street.
+E aveva distaccamenti di duecento ciascuno, appostati a ognuno
+degli ingressi prima che l'ultimo verde di quello strano tramonto
+fosse sprofondato dal cielo nero.

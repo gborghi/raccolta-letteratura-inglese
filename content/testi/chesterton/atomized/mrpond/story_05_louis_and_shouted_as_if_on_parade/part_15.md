@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_14">‹ part 14</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_16">part 16 ›</a></div>
@@ -203,3 +205,202 @@ consider the Captain told this curious tale, for what it is worth,
 in a very melodramatic and misleading manner.  I have it, in my
 
 notes, that he certainly said that 'Somebody ran across the path
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_14">‹ part 14</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_16">part 16 ›</a></div>
+</nav>
+
+sorpresi per accorgersi che era una risata, ma non una risata
+
+troppo cordiale.
+
+«Cosa!» esclamò.  «Credete che io stia confessando un omicidio?  Oh,
+
+questo comincia a diventare noioso!  Naturalmente non ho mai commesso alcun omicidio.
+
+Ho detto che ho commesso un delitto; ma non è a un qualsiasi maledetto piccolo
+
+avvocato che devo scusarmene.»
+
+Si voltò di scatto, fronteggiando il pastore; e il suo intero atteggiamento
+
+corporeo e mentale parve mutare; sicché, quando parlò infine,
+
+fu come se parlasse un uomo nuovo.
+
+«Voglio dire, è per lei.  Cosa posso dirle?  Per lei è
+
+personale; voglio dire, è reale.  Non serve a nulla parlare in generale di simili
+
+cose.  Non serve a nulla nascondersi in una folla; o dire che il delitto
+
+è stato commesso da un branco di poveri diavoli in licenza dall'inferno; per i quali una
+
+vacanza era il paradiso; solo che era un paradiso assai terreno; un po'
+
+troppo simile a un paradiso musulmano.  Ho fatto la [[Love|corte]] a sua figlia quando
+
+non ne avevo il diritto, perché non conoscevo davvero il mio stesso animo.  Nessuno di
+
+noi aveva animo alcuno in quelle vacanze dall'inferno.  Ed è vero che
+
+avevo un rivale.  È vero che ero in collera col mio rivale; sono
+
+ancora in collera con lui, quando penso a ciò che fece.  Solo che —»  Si
+
+fermò, come per un nuovo imbarazzo.
+
+«Continui,» disse il signor Pond con dolcezza.
+
+«Solo che il mio rivale non era l'[[Artist|artista]] dai capelli lunghi,» disse Gahagan.
+
+[[Hubert]] Wotton alzò di nuovo lo sguardo di scatto, con un cipiglio corrucciato; ma
+
+parlò con calma mentre invitava Gahagan a raccontare la sua storia come si deve
+
+dall'inizio.
+
+«Farei meglio a cominciare,» disse Gahagan, «da dove è cominciata l'altra storia:
+
+proprio verso il [[Time|momento]] in cui entrambi udimmo l'ululato d'un cane nel
+
+buio [[Garden|giardino]].  Devo spiegare che quella [[Night|notte]] stavo effettivamente presso Ayres,
+
+l'[[Artist|artista]]; eravamo diventati davvero buoni amici,
+
+per davvero; benché forse ci fosse stata un po' di romantica spavalderia intorno
+
+alla faccenda del trovatore in un [[Time|tempo]] anteriore.
+
+«Stavo facendo i bagagli e mettendo in ordine parte dei miei leggeri effetti; ecco
+
+come mi capitò di star pulendo la mia rivoltella d'ordinanza.  Ayres
+
+sfogliava alcuni dei suoi [[Sketch|album da disegno]]; e lo lasciai lì
+
+quando uscii, proprio mentre il signor Whiteways si affacciava, con casuale curiosità,
+
+per quell'improvviso rumore nella [[Night|notte]].  Solo che io udii ciò che lui non
+
+udì.  Non solo udii ciò che pareva l'ululato d'un cane, ma
+
+udii anche un fischio, come quello che un uomo usa per chiamare un cane.
+
+«Inoltre, vidi ciò che lui non vide.  Per un istante, in un varco nel
+
+graticcio e nel traforo d'una vite, vidi, bianchissimo al chiaro di luna,
+
+il volto di Paul Green, quell'insigne uomo di scienza.  È
+
+insigne e ha l'aria insigne; ricordo di aver pensato, in quel
+
+[[Time|momento]], che bella testa avesse, e che il modellato argenteo dei
+
+suoi lineamenti sotto la [[Moon|luna]] li rendeva del tutto belli.  Avevo una
+
+ragione perché la mia attenzione fosse così arrestata da quella maschera argentea,
+
+perché, in quel preciso istante, portava una sorta di sorriso d'odio che
+
+gelava il [[Blood|sangue]].
+
+«Poi il volto svanì; e di nuovo la mia esperienza fu assai simile a quella
+
+del vicario, salvo che io non vidi tutto ciò che accadde proprio
+
+alle mie spalle.  Ma mi voltai in [[Time|tempo]] per vedere che qualcuno aveva
+
+attraversato di corsa il sentiero, e aveva cominciato ad arrampicarsi sul rampicante.  Vi si arrampicò
+
+assai rapidamente, molto più in fretta di quanto avessi fatto io, ma non era facile
+
+vederlo o riconoscerlo nella buia [[Shadow|ombra]] delle [[Leaves|foglie]].
+
+«Mi parve che fosse lungo di membra e avesse quella specie di
+
+curva dalle spalle alte che è stata descritta; poi vidi, come
+
+il vicario, la testa emergere netta dal fogliame, solo delineata dalla
+
+[[Moon|luna]] con una sorta di irta aureola di capelli.  Solo allora, per la
+
+seconda [[Time|volta]] quella [[Night|notte]], vidi ciò che il vicario non vide.  Il
+
+[[Romeo]], il trovatore rampicante, voltò la testa, e, per un momento,
+
+la vidi di profilo, una sagoma nera contro la [[Moon|luna]].  E dissi tra
+
+me:  'Mio Dio!  È un cane, dopotutto.'»
+
+Il vicario echeggiò debolmente l'invocazione; l'avvocato fece un brusco
+
+movimento come per intervenire; e Wotton disse all'amico piuttosto
+
+bruscamente di continuare; il che ebbe l'effetto di produrre una sorta di
+
+improvviso languore, allarmantemente simile a una disposizione a smettere.
+
+«Uomo piuttosto interessante, Marco Polo,» disse il capitano Gahagan, in un
+
+tono vagamente colloquiale.  «Credo fosse Marco Polo, il
+
+veneziano; comunque, era uno di quei primi viaggiatori medievali.
+
+Sapete, tutti dicevano che non raccontavano altro che frottole
+
+su mandragole e sirene; ma, in molti casi, si è scoperto
+
+da allora che le loro frottole erano vere.  Comunque, questo tale disse
+
+che c'erano uomini che andavano in giro con le teste di [[dogs|cane]].  Ora, se
+
+guardate una delle scimmie più grandi, come il babbuino, vedrete
+
+che la sua testa somiglia davvero moltissimo a quella d'un cane; non tanto quanto
+
+quella d'un uomo somiglia alla testa d'una delle scimmie più piccole.»
+
+Il signor Little, l'avvocato, stava rapidamente rivoltando alcune delle sue
+
+carte, con un cipiglio scaltro e un fare acuto e vigile.
+
+«Un momento, capitano Gahagan,» interpose.  «Ho l'impressione che
+
+lei sia piuttosto un viaggiatore anche di suo; e abbia raccolto
+
+racconti di viaggiatori in molti luoghi diversi.  Mi sembra che
+
+lei abbia raccolto questo nella Rue Morgue.»
+
+«Vorrei averlo fatto,» replicò il capitano.
+
+«In quella storia,» proseguì il legale, «credo ci fosse una
+
+scimmia antropoide scappata che disobbedì al padrone e non volle
+
+tornare.»
+
+«Sì,» disse il signor Pond, a bassa voce, quasi con un gemito.  «Ma in
+
+questo caso non stava disobbedendo al suo padrone.»
+
+«Farebbe meglio a raccontare lei il resto di questa storia, Pond,» disse il
+
+capitano, con uno dei suoi curiosi cedimenti in un riposo irresponsabile.
+
+«Lei ha evidentemente indovinato la storia vera, non so come,
+
+prima ancora che io cominciassi a raccontarla.»
+
+Il signor Little parve alquanto seccato, e sbottò:  «Ritengo
+
+che il capitano abbia raccontato questa curiosa storiella, per quel che vale,
+
+in modo assai melodrammatico e fuorviante.  Ho, nei miei
+
+appunti, che ha certamente detto che 'Qualcuno attraversò di corsa il sentiero

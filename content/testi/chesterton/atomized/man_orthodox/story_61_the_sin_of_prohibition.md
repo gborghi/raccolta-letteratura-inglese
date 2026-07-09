@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_60_the_servile_state">‹ Story 60 The Servile State</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_62_automatic_evil">Story 62 Automatic Evil ›</a></div>
@@ -92,3 +94,91 @@ and hell of nonsense and anarchy that has actually followed
 in the track of the Prohibition Law.
 
                                       True Temperance Quarterly, May, 1933
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_60_the_servile_state">‹ Story 60 The Servile State</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_62_automatic_evil">Story 62 Automatic Evil ›</a></div>
+</nav>
+
+IL PECCATO DEL PROIBIZIONISMO
+
+Oggi una critica al Proibizionismo non può essere un attacco;
+può essere soltanto un'autopsia. ... Il Proibizionismo è caduto stecchito
+per la propria strisciante corruzione; per gli umori putridi che infettavano
+il suo stesso [[Body|corpo]]; e non per un qualche adeguato attacco dall'esterno.
+Fu, se mai ve ne fu uno, una cosa che fallì perché era
+stata provata; che trovò la propria rovina perché ebbe la propria occasione;
+che fu un fallimento pratico perché era un fatto pratico;
+che fu rovinata non per essere stata frustrata ma per essere stata compiuta;
+e giunse alla sua fine innaturale perché aveva percorso il suo corso naturale.
+Il Proibizionismo morì perché fu abbandonato dai proibizionisti;
+ancor più che per essere stato sempre deriso da uomini sensati
+e da uomini con il senso della [[history|storia]] e della civiltà.
+È vero che vi sono ancora vari intrichi legali,
+attorcigliati e riattorcigliati dai fanatici impensabili nel febbrile
+momento del loro potere; ma quasi nessuno pretende che il Proibizionismo
+sia oggi moralmente sostenibile o tollerabile, e in verità è solo
+una questione se sia una legge abrogata o lettera morta.
+E poiché l'autopsia può [[Well|ben]] essere più elaborata e completa dell'attacco,
+vorrei sottolineare in particolare che il [[Poison|veleno]]
+presente nei resti, il [[Poison|veleno]] di cui la vittima
+indubbiamente morì, è in realtà un [[Poison|veleno]] di una certa specie
+spirituale, che è il peggior nemico della vita.
+
+Quel [[Poison|veleno]] è il peccato. E il Proibizionismo perì perché lo spirito che vi era
+dentro è peccaminoso e ha la qualità di tutti i peccati che distruggono l'[[Soul|anima]].
+Facciamo ai proibizionisti un complimento fin troppo alto quando li chiamiamo
+troppo giusti o [[Self|giusti]] ai propri occhi o addirittura farisaici. Il male non
+era davvero in una qualche esagerazione della serietà etica; nel senso,
+per esempio, in cui il vecchio puritano poteva davvero essere piuttosto squilibrato
+nel suo orrore verso la lascivia e la sfrontata professione della prostituzione;
+oppure una persona sensibile poteva impazzire un poco per il solo urto
+dell'imbattersi in una qualche [[Madness|follia]] di perversione morale. Il male della cosa
+stava assai più in profondità, perché non era un restringimento del senso morale;
+era una violenta dislocazione e uno sradicamento del senso morale.
+La comune [[Conscience|coscienza]] delle persone sane di mente è una cosa che io e altri
+continuiamo a chiamare la voce di Dio; ma comunque è la voce dell'Uomo.
+È la risposta sana della mente umana universale a certe
+idee e non differisce davvero molto ampiamente nelle sue deliberate
+e coscienti decisioni; benché, naturalmente, sia modificata da
+particolari pericoli, particolari doveri del momento, e via dicendo.
+Ora, se prendi una persona normale, un bravo [[Child|bambino]], un uomo ragionevolmente educato,
+un essere umano che non manca della pienezza della [[Nature|natura]] umana,
+scoprirai che una tale persona sa che certe decisioni sono ingiuste,
+certe azioni crudeli, certi rischi ordinari, certe faccende
+affari propri di un uomo, e così via. Solo pervertendo la sua [[Conscience|coscienza]],
+solo rendendo storta la sua mente, puoi indurlo a credere
+che bere birra sia qualcosa di simile all'assassinio o al tradimento.
+E [[Time|quando]] ci sarai riuscito, avrai rovinato il suo senso morale.
+Non è più una cosa spontanea e spirituale; non è più
+una cosa naturale capace di fiutare il male; è solo capace di ripetere
+una lezione morta e distorta, come qualcosa imposto da un mesmerizzatore.
+Quel mesmerizzatore non è un moralista. Egli è, nel senso più enfatico,
+un immoralista. Corrompe la [[Conscience|coscienza]] dei giovani.
+
+Fin troppo poca attenzione è stata prestata a questo punto di psicologia
+assai pratica. Mandi in rovina il tribunale della [[Truth|verità]] quando lo
+corrompi o lo intimidisci fino a fargli pronunciare colpevole l'[[Innocent|innocente]], proprio come
+fai quando similmente lo induci a pronunciare innocente il [[Innocent|colpevole]].
+Come è con un uomo [[Innocent|innocente]], così è con una pratica [[Innocent|innocente]].
+Devi distruggere ogni [[innocence|innocenza]] per far detestare a chicchessia una
+pratica [[Innocent|innocente]]. [[Time|Quando]] avrai persuaso un bravo
+e normale [[Child|bambino]] che è cosa malvagia portare al suo povero vecchio padre
+un bicchiere di birra chiara, avrai talmente sconvolto la mente che essa potrà finire
+col dire che non è cosa malvagia mettere acido prussico nella birra.
+L'effetto logico, matematico, intellettualmente inevitabile
+del fare ciò è un generale allentamento di ogni [[morality|moralità]].
+È anche l'effetto reale; e c'è lo stato reale
+della moderna [[America]] a provarlo. Comincia con un'eresia in morale,
+sia essa una negazione o un permesso, ed essa finirà nella peggiore
+e più sfrenata licenza che possa seguire al più lasco dei permessi.
+E se qualcuno dubita di questo fatto psicologico, che è anche una
+[[Truth|verità]] teologica, allora gli spieghi l'urlante [[nightmare|incubo]]
+e l'inferno di assurdità e anarchia che ha effettivamente fatto seguito
+sulle tracce della legge sul Proibizionismo.
+
+                                      True Temperance Quarterly, maggio 1933

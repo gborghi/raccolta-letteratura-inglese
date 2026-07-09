@@ -808,64 +808,772 @@ a little useful to other lunatics.
 
 IV
 
-COME SI DIVENTA PAZZI
+COME ESSERE UN PAZZO
 
-Affronto qui la parte più oscura e più difficile del mio compito; il periodo della giovinezza, colmo di dubbi, di morbosità e di tentazioni; e che, per quanto nel mio caso fosse principalmente soggettivo, ha lasciato per sempre nella mia mente una certezza intorno alla solidità oggettiva del Peccato. E prima di trattarlo in ogni suo dettaglio, è necessario premettere una spiegazione su un punto. In materia di religione mi sono molto occupato di controversie intorno a problemi piuttosto provocatori; e ho finito con l'adottare una posizione che a molti appare essa stessa una provocazione. Ho addolorato i miei [[Well|benevoli]] estimatori, e molti dei saggi e dei prudenti, con l'avventata condotta di farmi cristiano, un cristiano ortodosso, e infine cattolico nel senso di cattolico romano. Ora, nella maggior parte delle cose che essi soprattutto disapprovano, non provo la minima vergogna di me stesso. Come apologeta sono l'esatto contrario di uno che si scusa. Nella misura in cui un uomo può andar fiero di una religione radicata nell'[[Humility|umiltà]], io vado assai fiero della mia religione; vado particolarmente fiero di quelle parti di essa che più comunemente vengono chiamate superstizione. Vado fiero di essere incatenato da dogmi antiquati e reso schiavo da credi morti (come ripetono con tanta pertinacia i miei amici giornalisti), poiché so [[Well|benissimo]] che sono i credi eretici a essere morti, e che soltanto il dogma ragionevole vive abbastanza a lungo da poter essere detto antiquato. Vado assai fiero di ciò che la gente chiama sacerdozio d'inganno; poiché perfino quel casuale termine d'insulto conserva la [[Truth|verità]] medievale che un sacerdote, come ogni altro uomo, deve essere un artigiano. Vado assai fiero di ciò che la gente chiama mariolatria; perché essa introdusse nella religione, nelle età più oscure, quell'elemento di cavalleria che oggi viene tardivamente e malamente compreso sotto la forma del femminismo. Vado assai fiero di essere ortodosso sui misteri della Trinità o della Messa; vado fiero di credere nel Confessionale; vado fiero di credere nel Papato.
+Tratto qui la parte più oscura e difficile del mio compito;
+il periodo della giovinezza che è pieno di dubbi e morbosità
+e tentazioni; e che, benché nel mio caso principalmente soggettivo,
+ha lasciato per sempre nella mia mente una certezza sulla solidità
+oggettiva del Peccato. E prima di trattarlo in un qualunque dettaglio,
+è necessario fare una spiegazione preliminare su un punto.
+In materia di religione, mi sono molto occupato di
+controversie su problemi piuttosto provocatori; e ho infine
+adottato una posizione che per molti è essa stessa una provocazione.
+Ho afflitto i miei [[Well|bene]]voli, e molti dei saggi e prudenti,
+col mio sconsiderato corso nel divenire cristiano, un cristiano ortodosso,
+e infine cattolico nel senso di cattolico romano. Ora, nella maggior parte
+delle cose che essi disapprovano maggiormente, non mi vergogno minimamente
+di me stesso. Come apologeta sono l'opposto dell'apologetico.
+Per quanto un uomo possa essere orgoglioso di una religione radicata nell'[[Humility|Umiltà]],
+sono assai orgoglioso della mia religione; sono specialmente orgoglioso di quelle parti
+di essa che sono più comunemente chiamate superstizione. Sono orgoglioso
+di essere incatenato da dogmi antiquati e schiavizzato da credi morti
+(come i miei amici giornalisti ripetono con tanta pertinacia),
+poiché so assai [[Well|bene]] che sono i credi eretici a essere morti,
+e che è solo il dogma ragionevole a vivere abbastanza a lungo da essere
+chiamato antiquato. Sono assai orgoglioso di ciò che la gente chiama pretismo;
+poiché perfino quell'accidentale termine d'ingiuria conserva la medievale
+[[Truth|Verità]] che un prete, come ogni altro uomo, dovrebbe essere un artigiano.
+Sono assai orgoglioso di ciò che la gente chiama Mariolatria; perché introdusse
+nella religione, nei secoli più oscuri, quell'elemento di cavalleria che ora
+viene tardivamente e malamente compreso nella forma del femminismo.
+Sono assai orgoglioso di essere ortodosso sui misteri della Trinità
+o della Messa; sono orgoglioso di credere nel Confessionale; sono
+orgoglioso di credere nel Papato.
 
-Ma non vado fiero di credere nel Diavolo. Per dirla più esattamente, non vado fiero di conoscere il Diavolo. Feci la sua conoscenza per mia stessa colpa; e la seguii lungo linee che, se fossero state percorse più oltre, avrebbero potuto condurmi al culto del diavolo o a chissà quale diavoleria. Su questa dottrina, almeno, non v'è, mescolata alla mia conoscenza, alcuna [[Shadow|ombra]] di compiacimento di [[Self|sé]], non più di quanta ve ne sia di [[Self-Deception|autoinganno]]. Su questa sola faccenda, un uomo può [[Well|bene]] avere intellettualmente ragione soltanto per il fatto di avere moralmente torto. Non mi impressionano le arie e le grazie etiche degli scettici sulla maggior parte degli altri argomenti. Non mi lascio soggiogare da un giovane gentiluomo che dice di non poter sottomettere il proprio intelletto al dogma; perché [[Doubt|dubito]] che egli abbia mai usato il proprio intelletto abbastanza da definire il dogma. Non mi impressionano molto seriamente coloro che chiamano vile la Confessione; poiché [[Doubt|dubito]] gravemente che essi stessi avrebbero il [[Courage|coraggio]] di andarne fino in fondo. Ma quando dicono: «Il male è soltanto relativo. Il peccato è soltanto negativo. Non esiste una cattiveria positiva; c'è soltanto l'assenza di una bontà positiva» — allora so che vaneggiano queste superficiali scempiaggini soltanto perché sono uomini assai migliori di me; più [[Innocent|innocenti]] e più normali e più prossimi a Dio.
+Ma non sono orgoglioso di credere nel Diavolo.
+Per metterla più correttamente, non sono orgoglioso di conoscere il Diavolo.
+Feci la sua conoscenza per mia colpa; e la seguii lungo
+linee che, se fossero state seguite oltre, avrebbero potuto condurmi
+al culto del diavolo o al diavolo sa cosa. Su questa dottrina, almeno,
+non c'è, mescolata alla mia conoscenza, alcuna [[Shadow|ombra]] di [[Self|autocompiacimento]]
+più di quanta ce ne sia di [[Self-Deception|autoinganno]]. Su quest'unica faccenda, un uomo può
+[[Well|ben]] avere intellettualmente ragione solo per il fatto di avere moralmente torto.
+Non sono impressionato dalle arie e dalle grazie etiche degli scettici su
+gran parte degli altri argomenti. Non sono soggiogato da un giovane gentiluomo
+che dice di non poter sottomettere il proprio intelletto al dogma; perché [[Doubt|dubito]]
+che egli abbia perfino usato il proprio intelletto abbastanza da definire il dogma.
+Non sono impressionato molto seriamente da coloro che chiamano vile la Confessione;
+poiché [[Doubt|dubito]] gravemente che essi stessi avrebbero il [[Courage|Coraggio]]
+di andare fino in fondo. Ma quando dicono: «Il male è solo relativo.
+Il peccato è solo negativo. Non c'è cattiveria positiva; è solo
+l'assenza di bontà positiva» — allora so che stanno dicendo
+sciocchezze superficiali solo perché sono uomini assai migliori di me;
+più [[Innocent|innocenti]] e più normali e più vicini a Dio.
 
-Quello che posso chiamare il mio periodo di [[Madness|follia]] coincise con un periodo di deriva e d'inerzia; nel quale non riuscivo a dedicarmi a nessun lavoro regolare. Mi dilettai in una quantità di cose; e alcune di esse possono aver avuto qualcosa a che fare con la psicologia della faccenda. Non vorrei per un istante suggerirlo come una causa, e ancor meno come una scusa, ma è un fatto concomitante che, tra questi dilettantismi di quel dubbio [[Time|tempo]], mi dilettai nello Spiritismo senza avere nemmeno la decisione di essere uno spiritista. Anzi, io ero, in modo piuttosto insolito, non soltanto distaccato ma indifferente. Mio fratello e io eravamo soliti giocare con la planchette, o quella che gli Americani chiamano tavoletta ouija; ma eravamo tra i pochi, immagino, che vi giocavano in puro spirito di gioco. Nondimeno non escluderei del tutto il suggerimento di taluni, secondo cui stavamo giocando col [[Fire|fuoco]]; o addirittura col [[Fire|fuoco]] dell'inferno. Nelle parole che venivano scritte per noi non v'era nulla di apertamente degradante, ma qualsiasi quantità di ingannevole. Ho visto abbastanza della cosa da poter testimoniare, con assoluta certezza, che accade qualcosa che non è naturale nel senso ordinario, né prodotto dalla normale e cosciente volontà umana. Se essa sia prodotta da una qualche forza subcosciente ma pur sempre umana, o da certe potenze, buone, cattive o indifferenti, che sono esterne all'umanità, non tenterei io stesso di deciderlo. L'unica cosa che dirò con assoluta sicurezza, intorno a quel potere mistico e invisibile, è che esso dice bugie. Le bugie possono essere burle oppure possono essere lusinghe per l'[[Soul|anima]] in pericolo, o possono essere mille altre cose; ma qualunque cosa siano, non sono verità intorno all'altro mondo; né, se è per questo, intorno a questo mondo.
+Ciò che posso chiamare il mio periodo di [[Madness|Follia]] coincise con un periodo
+di deriva e di ozio; in cui non riuscivo a stabilirmi
+in alcun lavoro regolare. Mi dilettavo in un certo numero di cose;
+e alcune di esse possono aver avuto qualcosa a che fare con la psicologia
+della faccenda. Non lo suggerirei per un momento come causa,
+ancor meno come scusa, ma è un fatto concomitante che tra
+questi diletti, in quel dubbio [[Time|periodo]], mi dilettai di Spiritismo
+senza avere neppure la decisione di essere uno Spiritista. In effetti io ero,
+in un modo piuttosto insolito, non solo distaccato ma indifferente.
+Mio fratello e io eravamo soliti giocare con la planchette, o ciò che gli americani
+chiamano la tavola ouija; ma eravamo tra i pochi, immagino, che giocavano
+in un mero spirito di gioco. Ciononostante non escluderei del tutto
+il suggerimento di alcuni che stessimo giocando col [[Fire|Fuoco]];
+o addirittura col [[Fire|fuoco]] dell'inferno. Nelle parole che venivano scritte per noi non c'era
+nulla di ostensibilmente degradante, ma quantità infinite di ingannevole.
+Vidi abbastanza della cosa da poter testimoniare, con completa
+certezza, che accade qualcosa che non è, nel senso ordinario,
+naturale, o prodotto dalla normale e cosciente volontà umana.
+Se sia prodotto da qualche forza subconscia ma pur sempre umana,
+o da qualche potere, buono, cattivo o indifferente, esterno
+all'umanità, io stesso non tenterei di deciderlo. L'unica cosa che
+dirò con completa fiducia, riguardo a quel potere mistico e invisibile,
+è che dice bugie. Le bugie possono essere burle o possono essere lusinghe
+per l'[[Soul|Anima]] in pericolo, o possono essere mille altre cose;
+ma qualunque cosa siano, non sono verità sull'altro mondo;
+o del resto su questo mondo.
 
-Darò uno o due esempi. Chiedemmo alla planchette, alla nostra solita maniera casuale, quale consiglio avrebbe dato a un nostro conoscente, un solido e piuttosto ottuso Membro del Parlamento che aveva la sventura di essere un'autorità in materia di [[Education|educazione]]. La planchette scrisse con sfrontata prontezza (in quei tempi più tardi era sempre prontissima, benché non sempre chiarissima) le semplici parole: «Ottenete un [[divorce|divorzio]]». La moglie del politico era così rispettabile, e aggiungerò così orribile, che sembravano mancare i materiali di una scandalosa [[Romance|storia romanzesca]]. E così domandammo severamente al nostro spirito familiare che diavolo intendesse; forse un'invocazione appropriata. Il risultato fu piuttosto curioso. Scrisse assai rapidamente una parola immensamente, anzi incredibilmente lunga, che dapprima era del tutto illeggibile. La scrisse di nuovo; la scrisse quattro o cinque volte; era sempre con ogni evidenza la stessa parola; e verso la fine fu chiaro che cominciava con le tre lettere «O. R. R.». Dissi: «Sono tutte sciocchezze; non c'è parola nella lingua inglese che cominci con O. R. R., [[Alone|figuriamoci]] una parola lunga così». Finalmente riprovò e scrisse la parola in maniera del tutto chiara; ed essa recitava: «Orribbilirivilazzionidellaltasocietà».
+Darò uno o due esempi. Chiedemmo alla planchette, alla nostra solita
+maniera casuale, quale consiglio avrebbe dato a un nostro conoscente,
+un solido e piuttosto ottuso Membro del Parlamento che aveva la disgrazia
+di essere un'autorità in fatto di [[Education|Educazione]]. La planchette scrisse con
+sfacciata prontezza (in questi tempi più tardi era sempre assai pronta,
+benché non sempre assai chiara) le semplici parole: «Ottieni un [[divorce|divorzio]].»
+La moglie del politico era così rispettabile, e aggiungerò così orrenda,
+che i materiali di un [[Romance|Romanzo]] scandaloso parevano mancare.
+Così chiedemmo severamente al nostro spirito familiare che diavolo intendesse;
+forse un'invocazione appropriata. Il risultato fu piuttosto curioso.
+Scrisse assai rapidamente una parola immensamente e in verità incredibilmente lunga,
+che dapprima era del tutto illeggibile. La scrisse di nuovo; la scrisse
+quattro o cinque volte; era sempre in modo palese la stessa parola;
+e verso la fine fu evidente che cominciava con le tre lettere
+«0. R. R.» Dissi: «È tutta una sciocchezza; non c'è parola nella lingua
+inglese che cominci con 0. R. R., tanto meno [[Alone|una]] parola lunga come quella.»
+Alla fine riprovò e scrisse la parola con perfetta chiarezza;
+e diceva: «Orriblirivelazioninellaltasocietà».
 
-Se era la nostra subcoscienza, la nostra subcoscienza aveva almeno un ingenuo senso dello [[Humour|humour]]. Ma che si trattasse della nostra subcoscienza piuttosto che della nostra coscienza (ammesso che non fosse qualcosa al di fuori di entrambe) è provato dal fatto pratico che continuammo davvero a scervellarci sulla parola scritta, quando venne di nuovo e di nuovo riscritta, e non ne avemmo mai realmente idea, finché non ci esplose finalmente davanti. Nessuno che ci conoscesse, credo, ci supporrebbe capaci di giocarci a vicenda un [[Deception|inganno]] così lungo, così solenne e così sciocco. Anche noi, come la nostra subcoscienza, avevamo il senso dello [[Humour|humour]]. Ma casi di questo genere mi colmano di [[Wonder|meraviglia]] e di un lieve allarme, quando considero il numero di persone che sembrano prendere sul serio le comunicazioni degli spiriti, e fondare su di esse religioni e filosofie morali. Ci sarebbero state davvero delle Orribbili Rivilazzioni dell'Alta Società, e alcune Orribbili Rivilazzioni intorno al nostro stesso stato mentale e alla nostra condotta morale, se ci fossimo precipitati dal deputato con il nostro messaggino della sfera superiore.
+Se era la nostra subcoscienza, la nostra subcoscienza aveva quanto meno
+un semplice senso dell'[[Humour|Umorismo]]. Ma che fosse la nostra subcoscienza
+piuttosto che la nostra coscienza (se non era qualcosa al di fuori di entrambe)
+è provato dal fatto pratico che continuammo a lambiccarci su
+la parola scritta, quando fu riscritta più e più volte, e davvero
+non avemmo mai idea di che cosa fosse, finché non ci esplose infine dinanzi.
+Nessuno che ci conoscesse, credo, ci supporrebbe capaci di giocare
+un così lungo e solenne e sciocco [[Deception|Inganno]] l'uno all'altro.
+Anche noi, come la nostra subcoscienza, avevamo un senso dell'[[Humour|Umorismo]].
+Ma casi di questo genere mi riempiono di [[Wonder|Stupore]] e di un debole allarme,
+quando considero il numero di persone che paiono prendere sul serio le comunicazioni
+degli spiriti, e fondare religioni e filosofie morali
+su di esse. Ci sarebbero state in verità certe Orribili Rivelazioni
+nell'Alta Società, e certe Orribili Rivelazioni sul nostro stesso stato mentale
+e comportamento morale, se ce ne fossimo andati trotterellando dal deputato con il nostro
+piccolo messaggio dalla sfera superiore.
 
-Ecco un altro esempio della stessa cosa. Mio padre, che era presente mentre mio fratello e io facevamo gli [[Fool|sciocchi]] a questo modo, ebbe la curiosità di vedere se l'oracolo sapesse rispondere a una domanda su qualcosa che egli conosceva e noi no. Chiese pertanto il nome da nubile della moglie di uno zio che avevo in un paese lontano; una signora che noi della generazione più giovane non avevamo mai conosciuto. Con la [[Lightning|fulminea]] decisione dell'infallibilità, la penna dello spirito disse: «Manning». Con pari decisione mio padre disse: «Sciocchezze». Rimproverammo allora il nostro genio tutelare per il suo deplorevole romanzare e per la sua ancor più deplorevole avventatezza. Lo spirito, che non si lasciava mai battere, scrisse la sfida di una spiegazione: «Sposata prima». E a chi, chiedemmo con una certa severità, si era segretamente sposata prima la nostra remota ma rispettata zia? Lo strumento ispirato rispose all'istante: «Al Cardinale Manning».
+Ecco un altro esempio della stessa cosa. Mio padre,
+che era presente mentre mio fratello e io facevamo i [[Fool|Buffoni]]
+a quel modo, ebbe la curiosità di vedere se l'oracolo potesse
+rispondere a una domanda su qualcosa che egli sapeva e noi no.
+Chiese pertanto il nome da nubile della moglie di uno zio mio
+in un paese lontano; una signora che noi della generazione più giovane
+non avevamo mai conosciuto. Con la [[Lightning|fulminea]] decisione dell'infallibilità,
+la penna dello spirito disse: «Manning». Con eguale decisione mio padre disse:
+«Sciocchezze». Rimproverammo allora al nostro genio tutelare il suo
+lamentevole romanzare e la sua ancor più lamentevole avventatezza.
+Lo spirito, mai da battere, scrisse la sfrontata spiegazione:
+«Sposata prima». E con chi, chiedemmo con una certa severità,
+era stata la nostra remota ma rispettata zia segretamente sposata prima.
+L'ispirato strumento rispose all'istante: «Il Cardinale Manning».
 
-Ora mi fermerò qui, di passaggio, per domandare che cosa esattamente sarebbe accaduto a me e al mio ambiente sociale, quale sarebbe stato in ultimo lo stato della mia mente o la mia concezione generale del mondo in cui vivevo, se avessi preso queste rivelazioni spirituali come certi spiritisti sembrano prendere certe rivelazioni spirituali; in breve, se le avessimo prese sul serio. Che questo genere di cose siano gli scherzetti di qualche [[Puck]] o Poltergeist, o gli scatti di qualche senso subliminale, o la beffa di demoni o qualsiasi altra cosa, è evidente che esse non sono vere nel senso di attendibili. Chiunque vi avesse prestato fede come a cosa vera sarebbe finito assai vicino a un manicomio. E quando si tratta di scegliere una [[philosophy|filosofia]] spirituale, tra le sette e le scuole del mondo moderno, questi fatti difficilmente possono essere del tutto dimenticati. Curiosamente, come ho già annotato, il Cardinale Manning aveva incrociato il mio cammino come una sorta di fiammeggiante spettro perfino nella mia [[Childhood|fanciullezza]]. Il ritratto del Cardinale Manning è ora appeso in fondo alla mia stanza come simbolo di uno stato spirituale che molti chiamerebbero la mia seconda [[Childhood|fanciullezza]]. Ma chiunque ammetterebbe che entrambi gli stati sono piuttosto più sani di quanto sarebbe stata la mia condizione, se mi fossi messo a dissotterrare Il Crimine del Cardinale, scavando nel remoto passato di una zia coloniale.
+Ora mi fermerò qui di sfuggita a chiedere che cosa esattamente mi sarebbe accaduto,
+a me e alla mia cerchia sociale, quale sarebbe stato infine lo stato
+della mia mente o della mia concezione generale del mondo in cui vivevo,
+se avessi preso queste rivelazioni spirituali come alcuni spiritisti
+paiono prendere certe rivelazioni spirituali; in breve, se le avessimo
+prese sul serio? Che questo genere di cosa siano le birbonate
+di qualche [[Puck|Folletto]] o Poltergeist, o gli scatti di qualche senso subliminale,
+o la beffa di demoni o qualsiasi altra cosa, palesemente non è vero
+nel senso di attendibile. Chiunque vi avesse creduto come vero
+sarebbe atterrato assai vicino a un manicomio. E quando si tratta
+di scegliere una [[philosophy|filosofia]] spirituale, tra le sette e le scuole
+del mondo moderno questi fatti non possono essere del tutto dimenticati.
+Curiosamente, come ho già registrato, il Cardinale Manning aveva
+attraversato il mio cammino come una sorta di fiammeggiante spettro perfino nella mia [[Childhood|infanzia]].
+Il ritratto del Cardinale Manning pende ora al fondo della mia stanza come simbolo
+di uno stato spirituale che molti chiamerebbero la mia seconda [[Childhood|infanzia]].
+Ma chiunque ammetterebbe che entrambi gli stati sono piuttosto più sani di quanto sarebbe stata
+la mia condizione, se avessi cominciato a dissotterrare Il Crimine del Cardinale,
+scavando nel remoto passato di una zia coloniale.
 
-[[Well|Ebbene]], perfino la guida di intelligenze più alte e più sagge in un mondo migliore non mi rese così completamente delirante quanto quello. Ma da allora ho talora immaginato che questa pratica, della cui vera psicologia sappiamo in realtà così poco, possa forse aver contribuito a quello stato turbato o addirittura malato di cupa fantasticheria e di ozio attraverso cui passai in quel [[Time|tempo]]. Non vorrei dogmatizzare in un senso o nell'altro; è possibile che non vi avesse nulla a che fare; è possibile che l'intera faccenda fosse meramente meccanica o accidentale. Lascerei la planchette con un giocoso commiato, concedendole il beneficio del [[Doubt|dubbio]]; le riconoscerei che può essere stata uno scherzo o una fantasia o una fata o qualsiasi altra cosa; con la clausola che non la toccherei mai più nemmeno con un palo da chiatta. Vi sono altri aspetti, riguardanti cose che sono assai più colpa mia, nei quali un palo da chiatta sarebbe stato utile; ma tanto [[Well|vale]] che io concluda qui la scia dei miei rapporti meramente banali e accidentali con la ricerca psichica; giacché non vi sarà bisogno di ritornare su quell'aspetto; e non mi sognerei mai di giudicarla seriamente in base a simili inezie. Questo progresso del preternaturale è andato diffondendosi e rafforzandosi attraverso tutta la mia vita. Anzi, la mia vita si trova a coprire proprio il periodo del vero mutamento; non colto da quanti si occupano soltanto di mutamenti posteriori o di soluzioni spirituali alternative. Quand'ero un ragazzino, praticamente nessuna persona normale e di [[Education|istruzione]] pensava che un [[Ghost|fantasma]] potesse mai essere qualcosa di diverso da un [[Ghost|fantasma]] di rapa; una cosa creduta da nessuno tranne l'idiota del villaggio. Quand'ero un giovane, praticamente ogni persona con un'ampia cerchia aveva uno o due amici con la fissa di ciò che si sarebbe ancora chiamato medium e fole. Quand'ero di mezza età, grandi uomini di scienza di primissimo rango come Sir William Crookes e Sir [[Oliver]] Lodge pretendevano di aver studiato gli spiriti come avrebbero studiato i ragni, e di aver scoperto l'ectoplasma esattamente come avevano scoperto il protoplasma. Nel [[Time|tempo]] in cui scrivo, la cosa è cresciuta fino a diventare un considerevole movimento religioso, per l'attività del defunto Sir [[arthur|Arthur]] Conan Doyle, assai meno uno scienziato, ma assai più un giornalista. [[Hope|Spero]] che nessuno mi creda tanto [[Fool|sciocco]] da offrire questi frammenti di esperienza casuale come se toccassero la vera controversia. Nella controversia, anzi, per la maggior parte della mia vita, ho difeso lo Spiritismo contro lo scetticismo; benché ora naturalmente difenderei il Cattolicesimo perfino contro lo Spiritismo. Ma nei tempi di cui scrivo, ben poco incrociava il nostro cammino tranne storie sparse; e i fantasmi erano talvolta piuttosto fantasmatici. C'era qualche discorso su spettri o presenze proiettate in luoghi lontani, che comprendeva una storia intorno a un uomo visto entrare in un [[house|pubblico ritrovo]] il quale in seguito testimoniò di non essere stato presente in [[Body|corpo]] in alcun tale luogo o per alcuna tale commissione. C'erano abbondanza di altre e più plausibili storie, che mio fratello e io ripetevamo con una sorta di vaga eccitazione vicaria, senza alcuna definita deduzione o dottrina; ma mio padre, il cui placido agnosticismo vittoriano su questo punto ci sforzavamo invano di perforare, ascoltava un rullo di rivelazioni spirituali e scuoteva il capo dicendo: «Ah, va tutto [[Well|bene]] parlare di queste luci e trombe e voci; ma io affido la mia [[Faith|fede]] all'uomo che disse di non essere entrato nel [[house|pubblico ritrovo]]».
+[[Well|Ebbene]], perfino la guida di intelligenze più alte e più sagge
+in un mondo migliore non mi fece impazzire fino a quel punto di delirio.
+Ma da allora ho talvolta immaginato che questa pratica, della cui vera
+psicologia sappiamo davvero così poco, possa forse aver
+contribuito allo stato turbato o persino malato di rimuginio
+e di ozio in cui trascorsi in quel [[Time|periodo]]. Non vorrei dogmatizzare
+in un senso o nell'altro; è possibile che non abbia avuto nulla a che fare con ciò;
+è possibile che l'intera cosa fosse meramente meccanica o accidentale.
+Congederei la planchette con un giocoso addio, concedendole
+il beneficio del [[Doubt|Dubbio]]; ammetterei che possa essere stata uno scherzo
+o una fantasia o una fata o qualsiasi altra cosa; con la clausola che non
+la toccherei di nuovo neppure con una pertica. Ci sono altri aspetti,
+riguardanti cose assai più per mia colpa, in cui una pertica
+sarebbe stata utile; ma tanto vale [[Well|che]] io concluda qui la scia
+delle mie relazioni meramente banali e accidentali con la ricerca psichica;
+poiché non ci sarà bisogno di tornare a quell'aspetto di essa;
+e non penserei mai di giudicarla seriamente da simili inezie.
+Questo progredire del preternaturale è andato diffondendosi e
+rafforzandosi per tutta la mia vita. In effetti la mia vita si dà il caso copra
+proprio il periodo del vero mutamento; non colto da coloro che si occupano
+solo di mutamenti successivi o di alternative soluzioni spirituali.
+Quand'ero appena un ragazzo, praticamente nessuna persona normale d'[[Education|istruzione]]
+pensava che un [[Ghost|Fantasma]] potesse essere alcunché di diverso da un [[Ghost|Fantasma]] di rapa;
+una cosa creduta da nessuno tranne l'idiota del villaggio. Quand'ero
+un giovane, praticamente ogni persona con una larga cerchia aveva uno
+o due amici con un debole per ciò che si sarebbe ancora chiamato
+medium e chiacchiere. Quand'ero di mezza età, grandi uomini di scienza
+di primo rango come Sir William Crookes e Sir [[Oliver]] Lodge
+pretendevano di aver studiato gli spiriti come avrebbero studiato i ragni,
+e scoperto l'ectoplasma esattamente come scoprirono il protoplasma.
+Nel [[Time|momento]] in cui scrivo, la cosa è cresciuta in un considerevole
+movimento religioso, per l'attività del defunto Sir [[arthur|Arthur]] Conan Doyle,
+assai meno uno scienziato, ma assai più un giornalista.
+[[Hope|Spero]] che nessuno mi creda tanto [[Fool|sciocco]] da offrire questi frammenti
+di esperienza casuale come influenti sulla vera controversia.
+Nella controversia, in effetti, per gran parte della mia vita, ho
+difeso lo Spiritismo contro lo scetticismo; benché ora
+naturalmente difenderei il Cattolicesimo anche contro lo Spiritismo.
+Ma nei tempi di cui scrivo, poco attraversava il nostro cammino tranne
+storie sparse; e i fantasmi erano talvolta piuttosto fantasmatici.
+Si parlava di spettri o presenze precipitate in
+luoghi lontani, tra cui una storia su un uomo visto entrare
+in un [[house|locale]] pubblico che in seguito testimoniò di non essere stato
+presente in [[Body|corpo]] in un tale luogo o per una tale commissione.
+C'erano gran quantità di altre e più plausibili storie, che mio
+fratello e io ripetevamo con una sorta di vaga eccitazione vicaria,
+senza alcuna precisa deduzione o dottrina; ma mio padre,
+il cui placido agnosticismo vittoriano sul punto ci sforzavamo invano
+di trafiggere, ascoltava un rotolo di rivelazioni spirituali e scuoteva
+il capo e diceva: «Ah, è [[Well|facile]] parlare di queste luci
+e trombe e voci; ma io affido la mia [[Faith|Fede]] all'uomo che disse
+di non essere entrato nel [[house|locale]] pubblico.»
 
-La maggior parte di tutto questo accadde quand'ero alla scuola d'arte; ma perfino dopo che l'ebbi lasciata, questa connessione assai casuale proseguì, in modo bizzarro, per la coincidenza che lavorai per breve [[Time|tempo]] nell'ufficio di un editore piuttosto specializzato in letteratura spiritistica e teosofica, nota sotto il titolo generale di occulto. Non fu interamente colpa mia, se non fu colpa dei veri spiritisti o di altri veri spiriti, se andai a inciampare in angoli piuttosto bizzarri e scomodi dello Spiritismo. Il mio primo giorno d'ufficio ebbi il mio primo scorcio dell'occulto; poiché avevo idee assai vaghe di quel commercio, come della maggior parte degli altri commerci. Sapevo che avevamo appena pubblicato un grosso libro, spinto con vigore, sulla Vita e le Lettere della defunta Dott.ssa Anna Kingsford, di cui non avevo mai sentito parlare, benché molti dei nostri clienti sembrassero non aver sentito parlare di quasi nessun altro. La mia piena illuminazione venne quando una signora sconvolta si precipitò nell'ufficio e cominciò a descrivere i suoi più complicati sintomi spirituali e a domandare i libri più adatti al suo male, che io ero del tutto incompetente a scegliere. Le offrii timidamente le monumentali Vita e Lettere; ma ella indietreggiò con qualcosa come un debole strillo. «No, no», gridò, «non devo! Anna Kingsford dice che non devo». Poi, con maggiore controllo: «Anna Kingsford mi ha detto stamattina che non devo leggere la sua Vita; sarebbe assai dannoso per me, ha detto, leggere la sua Vita». Mi arrischiai a dire, o a balbettare, con tutta la crudezza del parlare comune: «Ma Anna Kingsford è morta». «Mi ha detto stamattina», ripeté la signora, «che non devo leggere il libro». «[[Well|Ebbene]]», dissi, «[[Hope|spero]] che la Dott.ssa Kingsford non abbia dato questo consiglio a molti; sarebbe piuttosto dannoso per gli affari. Sembra piuttosto malevolo da parte della Dott.ssa Kingsford».
+Gran parte di ciò accadde quando ero alla scuola d'arte; ma perfino
+dopo che l'ebbi lasciata, questo assai casuale legame continuò,
+in un modo strano, per la coincidenza che lavorai per un breve [[Time|periodo]]
+nell'ufficio di un editore che si specializzava piuttosto in letteratura spiritista
+e teosofica, nota sotto il titolo generale
+di occulto. Non fu del tutto colpa mia, se non fu colpa
+dei veri spiritisti o di altri veri spiriti, se inciampai
+in angoli piuttosto strani e scomodi dello Spiritismo.
+Il mio primo giorno in ufficio ebbi la mia prima incursione nell'occulto;
+poiché ero assai vago sull'attività, come sulla maggior parte delle altre attività.
+Sapevo che avevamo appena pubblicato un grande e vigorosamente strombazzato
+libro della Vita e Lettere della defunta Dott.ssa Anna Kingsford,
+di cui non avevo mai sentito parlare, benché molti dei nostri clienti paressero
+non aver sentito parlare quasi di nessun altro. La mia piena illuminazione venne
+quando una signora sconvolta si precipitò nell'ufficio e cominciò a descrivere
+i suoi più complessi sintomi spirituali e a chiedere i libri più
+adatti al suo disturbo, che io ero del tutto incompetente a scegliere.
+Le offrii timidamente la monumentale Vita e Lettere; ma lei si ritrasse
+con qualcosa come un debole strillo. «No, no,» esclamò,
+«non devo! Anna Kingsford dice che non devo.» Poi, con più controllo,
+«Anna Kingsford mi ha detto stamattina che non devo leggere la sua Vita;
+sarebbe assai male per me, ha detto, leggere la sua Vita.»
+Osai dire, o balbettare, con tutta la crudezza del linguaggio comune:
+«Ma Anna Kingsford è morta.» «Me l'ha detto stamattina,»
+ripeté la signora, «che non devo leggere il libro.» «[[Well|Ebbene]],» dissi,
+«[[Hope|spero]] che la Dott.ssa Kingsford non abbia dato questo consiglio a molta gente;
+sarebbe piuttosto male per gli affari. Sembra piuttosto malevolo
+da parte della Dott.ssa Kingsford.»
 
-Presto scoprii che malevolo era una parola tenue per la Dott.ssa Anna Kingsford. Con tutto il rispetto per la sua ombra, che per me è l'[[Shadow|ombra]] di un'ombra, avrei detto allora, e credo che direi anche adesso, che la parola più caritatevole era «pazza». Menziono la faccenda qui perché, pur non implicando alcuna contraddizione della teoria cosmica dello Spiritismo, essa illustra l'accidente per cui andai a urtare in una bizzarra specie di spiritista; e ha qualche relazione con una veduta più generale della ragione e della religione. La signora celebrata in questo libro era per lo meno bizzarra. Il suo vanto era di aver ucciso un certo numero di uomini semplicemente pensando a loro; la sua scusa era che si trattava di uomini che difendevano la vivisezione. Aveva anche colloqui assai visionari ma assai intimi con vari eminenti uomini pubblici, apparentemente in luoghi di tormento; ne ricordo uno con il signor Gladstone, in cui una discussione sull'Irlanda e il Sudan venne interrotta dal signor Gladstone che gradualmente diventava rovente dall'interno. «Sentendo che egli avrebbe desiderato restare [[Alone|solo]]», disse con delicatezza la Dott.ssa Anna Kingsford, «uscii»; ed ella deve ora, [[Fear|temo]], uscire da questa frammentaria narrazione. [[Hope|Spero]] di non farle torto; sono abbastanza certo che fosse piena di molti generosi entusiasmi; ma affido la mia [[Faith|fede]], come direbbe mio padre, a quel fine tatto e senso del decoro sociale, che le disse che diventare completamente roventi è ciò che nessun gentiluomo [[Desire|desidererebbe]] fare alla presenza di una signora.
+Scoprii presto che malevolo era una parola blanda per la Dott.ssa Anna Kingsford.
+Con tutto il rispetto per la sua ombra, che per me è l'[[Shadow|ombra]] di un'ombra,
+avrei dovuto dire allora, e credo che dovrei dire ora, che la parola più
+caritatevole era «pazza». Menziono la faccenda qui perché,
+pur non implicando alcuna contraddizione della teoria cosmica dello Spiritismo,
+essa illustra l'accidente per cui mi imbattei in uno strano tipo
+di Spiritista; e ha una qualche relazione con una visione più generale della ragione
+e della religione. La signora celebrata in questo libro era quanto meno strana.
+Il suo vanto era di aver ucciso un certo numero di uomini semplicemente pensando
+a loro; la sua scusa era che erano uomini che difendevano la vivisezione.
+Ella aveva anche colloqui assai visionari ma assai intimi con
+vari eminenti uomini pubblici, apparentemente in luoghi di tormento;
+ne ricordo uno con il signor Gladstone, in cui una discussione sull'Irlanda
+e sul Sudan fu interrotta dal signor Gladstone che gradualmente diveniva
+rovente dall'interno. «Sentendo che avrebbe voluto restare [[Alone|solo]],»
+disse la Dott.ssa Anna Kingsford con delicatezza, «uscii»;
+ed ella deve ora, [[Fear|temo]], uscire da questa frammentaria narrazione.
+[[Hope|Spero]] di non farle alcuna ingiustizia; sono abbastanza sicuro che fosse piena di molti
+generosi entusiasmi; ma affido la mia [[Faith|Fede]], come direbbe mio padre,
+a quel fine tatto e senso del decoro sociale, che le diceva
+che diventare del tutto roventi è ciò che nessun gentiluomo [[Desire|Desidererebbe]]
+fare alla presenza di una signora.
 
-Nel complesso, il più gioviale spiritista che io abbia mai incontrato, almeno fino a molto tempo dopo, e l'indagatore dello psichico per il quale provai la più immediata simpatia, fu un uomo che credeva fermamente di aver ricevuto una volta, da qualche medium in qualche luogo, una soffiata vincente per il Derby, e andava ancora dando la caccia ai medium in cerca di informazioni dello stesso genere. Gli suggerii di comprare The Pink 'un e di trasformarlo in un giornale che combinasse i due interessi, venduto a ogni edicola sotto il nome di The Sporting and Spiritual Times. Questo, dissi, non poteva mancare di innalzare allibratori e fantini in una più sublime sfera di contemplazione spirituale, per non parlare dei proprietari di scuderia, che probabilmente ne hanno altrettanto bisogno; mentre avrebbe dato allo Spiritismo un solido, accorto e prospero lato commerciale, ne avrebbe accresciuto vastamente la popolarità, e avrebbe dato ad alcuni dei suoi seguaci un indefinibile sentore di contatto con le cose concrete e oggettive e con quello che si chiama rozzamente buon senso, del quale alcuni di essi, come sentivo in quel [[Time|tempo]], sembravano in qualche modo mancare. Non ho bisogno di fantasticarci sopra qui.
+Nel complesso, lo Spiritista più gioviale che io abbia mai incontrato, almeno fino a
+molto tempo dopo, e il ricercatore psichico per cui provai la più
+immediata simpatia, fu un uomo che credeva fermamente di aver una volta
+ottenuto una vincente soffiata per il Derby da qualche medium da qualche parte,
+e stava ancora inseguendo medium per informazioni dello stesso genere.
+Gli suggerii di acquistare Il Pink 'un e trasformarlo
+in un giornale che combinasse i due interessi, e venduto a ogni edicola
+sotto il nome di The Sporting and Spiritual Times. Questo, dissi,
+non poteva mancare di elevare allibratori e fantini in una sfera più elevata
+di contemplazione spirituale, per non dire dei proprietari, che probabilmente
+ne hanno bisogno quanto loro; mentre avrebbe dato allo Spiritismo un lato
+commerciale solido, accorto e di successo, ne avrebbe accresciuto immensamente la popolarità,
+e avrebbe dato ad alcuni dei suoi seguaci un'indefinibile aria di contatto con
+concrete faccende oggettive e con ciò che rozzamente si chiama buonsenso,
+di cui alcuni di loro, come sentivo al [[Time|momento]], parevano in qualche modo
+mancare. Non ho bisogno di speculare su ciò qui.
 
-Del resto, finché sono sull'argomento, posso assicurare al lettore che non ho mai sperimentato nulla di ciò che si chiama psichico, il che potrebbe essere una disperata scusa per la mia successiva fede nelle cose chiamate spirituali. Non mi è quasi mai capitato di imbattermi nemmeno nelle bizzarre coincidenze psichiche in cui si imbatte quasi chiunque; a meno di non contare la storia custodita come un tesoro nella mia famiglia, quella dello Spettro di Sarolea. Il Dott. Sarolea, quell'ardente professore fiammingo di francese, è certamente uno degli uomini più notevoli che io abbia conosciuto; ma egli non incrociò il mio cammino se non molto tempo dopo; è però indubitabilmente un fatto che noi lo aspettavamo a cena e mia moglie scorse l'inconfondibile lunga figura e la barba a punta da una [[Window|finestra]]; dopo di che egli svanì completamente dal paesaggio. Ciò che rese la storia davvero da brividi fu che subito dopo un giovanissimo scozzese comparve alla porta, chiedendo del Dott. Sarolea. Lo scozzese rimase a cena; ma non lo spettro. Egli sarebbe dovuto venire con lo spettro; il quale (come si scoprì in seguito) lo aveva atteso con una certa irritazione al National Liberal Club. Una teoria era che la sua collera avesse precipitato il suo [[Body|corpo]] astrale giù fino a Beaconsfield, ma si fosse esaurita proprio prima che egli raggiungesse la [[house|casa]]. Un'altra ovvia teoria, che la mia mente più materialistica naturalmente preferiva, era che egli fosse stato assassinato dal giovane e nascosto nello stagno del mio [[Garden|giardino]]; ma una successiva ricerca [[Detective|poliziesca]] la trovò infondata. Menziono la mia teoria alternativa, che preferisco di gran lunga, soltanto perché è impossibile menzionare il Dott. Sarolea, anche a questo prematuro stadio della storia, senza dire qualcosa di lui. Il Dott. Sarolea è uno dei più dotti linguisti d'Europa; impara una nuova lingua ogni settimana o giù di lì. La sua biblioteca è una delle meraviglie del mondo, per non dire delle mostruosità del mondo. L'ultima volta che lo vidi mi diede l'impressione di comprare le case vicine a destra e a sinistra per far posto alla sua biblioteca. Che cosa, mi chiesi, che cosa è più probabile del fatto che un uomo di questa fatta si ritrovi più tardi nella vita nell'esatta posizione di [[Faust]]? E che cosa è più ragionevole, che cosa più probabile, del fatto che Mefistofele lo abbia incontrato all'angolo della [[Road|strada]] mentre saliva dalla stazione di Beaconsfield; e gli abbia proposto l'antico contratto, per cui, con un solo soffio di [[Magic|magia]], egli sarebbe stato trasformato nel bel giovane che un momento dopo bussava alla mia porta? Questa teoria psichica sarebbe avvalorata dal fatto che il giovane ora sta facendo [[Well|bene]] in politica; e per nulla scossa, s'intende, dal fatto che il Dott. Sarolea (sono felice di dirlo) è ancora vivo e attivo a Edimburgo. L'unica difficoltà che essa presenta è una che affligge anche la mia trionfante teoria secondo cui Shakespeare scrisse Bacone (controversialmente assai più forte che l'inverso), la quale paralizzò la [[Faith|fede]] di mio padre nella storia del [[house|pubblico ritrovo]]; e mi induce a sospettare che questo incidente piuttosto strano fosse una di quelle stranezze abbastanza ordinarie; come quando scambiamo uno sconosciuto per un amico; e poi incontriamo l'amico più tardi. In breve, l'unica obiezione alla mia completa e convincente teoria psichica è che non ne credo una sola parola.
+Del resto, mentre sono sull'argomento, posso assicurare al lettore che
+non ho mai sperimentato alcunché chiamato psichico, che potrebbe essere una
+disperata scusa per la mia successiva credenza nelle cose chiamate spirituali.
+Non mi è quasi mai capitato di incappare neppure nelle strane coincidenze psichiche
+che colpiscono quasi chiunque; a meno che non si conti la storia custodita nella mia
+famiglia come quella dello Spettro di Sarolea. Il Dott. Sarolea, quel focoso
+Professore fiammingo di francese, è di certo uno degli uomini più notevoli
+che io abbia conosciuto; ma egli non attraversò mai il mio cammino fino a molto tempo dopo;
+ma è indubbiamente un fatto che lo aspettavamo a cena
+e mia moglie scorse l'inconfondibile lunga figura e la barba appuntita
+da una [[Window|finestra]]; dopodiché egli svanì del tutto dal paesaggio.
+Ciò che rese la storia davvero raccapricciante fu che subito dopo un
+giovanissimo scozzese comparve alla porta, chiedendo del Dott. Sarolea.
+Lo scozzese rimase a cena; ma non lo spettro. Doveva
+essere venuto giù con lo spettro; il quale (come risultò in seguito)
+lo aveva atteso con una certa irritazione al National Liberal Club.
+Una teoria era che la sua rabbia avesse precipitato il suo [[Body|corpo]] astrale giù
+a Beaconsfield, ma si fosse esaurita proprio prima che raggiungesse la [[house|casa]].
+Un'altra ovvia teoria, che la mia mente più materialistica
+naturalmente preferiva, era che egli fosse stato assassinato dal giovane
+e nascosto nello stagno del mio [[Garden|Giardino]]; ma una successiva ricerca [[Detective|poliziesca]]
+scoprì che ciò era infondato. Menziono la mia teoria alternativa,
+che preferisco assai, solo perché è impossibile menzionare
+il Dott. Sarolea, anche a questo stadio prematuro della storia, senza dire
+qualcosa di lui. Il Dott. Sarolea è uno dei più dotti
+linguisti d'Europa; impara una nuova lingua ogni settimana o giù di lì.
+La sua biblioteca è una delle meraviglie del mondo, per non dire
+delle mostruosità del mondo. L'ultima volta che lo vidi mi diede
+l'impressione di comprare le case vicine a destra e a sinistra
+per trovare spazio per la sua biblioteca. Che cosa, mi chiesi, che cosa è più
+probabile del fatto che un uomo di questo genere si ritrovi più tardi
+nella vita nell'esatta posizione di [[Faust]]? E che cosa è più ragionevole,
+che cosa più probabile, del fatto che Mefistofele lo abbia incontrato
+all'angolo della [[Road|Strada]] mentre saliva dalla stazione di Beaconsfield;
+e gli abbia proposto l'antico contratto, per cui, con un solo soffio di [[Magic|Magia]],
+egli sarebbe stato tramutato nel bel giovane che un momento dopo
+bussava alla mia porta? Questa teoria psichica sarebbe sostenuta
+dal fatto che il giovane sta ora facendo [[Well|carriera]] in politica;
+e del tutto non scossa, s'intende, dal fatto che il Dott. Sarolea (sono
+lieto di dire) è ancora vivo e attivo a Edimburgo.
+L'unica difficoltà al riguardo è una che affligge anche la mia trionfante
+teoria che Shakespeare scrisse Bacone (controversialmente assai più forte
+della converse), che paralizzò la [[Faith|Fede]] di mio padre nella storia
+del [[house|locale]] pubblico; e mi induce a sospettare che questo piuttosto strano
+incidente fosse una di quelle stramberie abbastanza ordinarie; come quando scambiamo
+uno sconosciuto per un amico; e poi incontriamo l'amico in seguito.
+In breve, l'unica obiezione alla mia completa e convincente teoria psichica
+è che non ne credo una parola.
 
-Tutto questo, s'intende, accadde epoche più tardi: lo menziono qui soltanto per rinnegare ogni intenzione di prendere sul serio la mia esperienza psichica. Ma toccando quel primo periodo direttamente descritto in questo capitolo, ho la stessa ragione per accennare all'argomento. Comincio semplicemente con questo esempio di ricerca psichica dilettantesca, perché il fatto stesso che vi mi indulsi senza ragione e senza risultato, che non giunsi ad alcuna conclusione, né realmente tentai nemmeno di giungere ad alcuna conclusione, illustra il fatto che questo è un periodo della vita in cui la mente non fa che sognare e andare alla deriva; e spesso andare alla deriva verso scogli assai pericolosi.
+Tutto ciò, s'intende, accadde secoli dopo: lo menziono
+qui solo per declinare ogni intenzione di prendere sul serio la mia esperienza
+psichica. Ma toccando quel primo periodo direttamente descritto
+in questo capitolo, ho la stessa ragione per alludere all'argomento.
+Comincio semplicemente con questo esempio di ricerca psichica dilettantesca,
+perché proprio il fatto che vi indulsi senza ragione e
+senza risultato, che non giunsi ad alcuna conclusione, o davvero
+neppure tentai di giungere ad alcuna conclusione, illustra il fatto che questo
+è un periodo della vita in cui la mente meramente sogna e va alla deriva;
+e spesso va alla deriva su scogli assai pericolosi.
 
-In questo capitolo, il periodo coperto è grosso modo quello della mia frequentazione di una scuola d'arte, ed è indubbiamente anche colorito dalle condizioni di un simile luogo. Non c'è nulla di più difficile da imparare della pittura, e nulla di cui la maggior parte della gente si dia meno pena di imparare. Una scuola d'arte è un luogo dove tre persone circa lavorano con febbrile energia e tutti gli altri oziano a un grado che avrei creduto [[Unattainable|irraggiungibile]] dalla [[Nature|natura]] umana. E per giunta coloro che lavorano sono, non dirò i meno intelligenti, ma, per la [[Nature|natura]] stessa del caso, per il momento i più angusti; coloro la cui acuta intelligenza è per il [[Time|momento]] ristretta a un problema strettamente tecnico. Costoro non vogliono essere divaganti e filosofici; perché il trucco che stanno cercando di imparare è al tempo stesso incomunicabile e pratico; come suonare il violino. Così la [[philosophy|filosofia]] è generalmente lasciata agli oziosi; ed è generalmente una [[philosophy|filosofia]] assai oziosa. Nel [[Time|tempo]] di cui scrivo era anche una [[philosophy|filosofia]] assai negativa e perfino nichilista. E benché io non l'accettassi mai del tutto, essa gettò un'[[Shadow|ombra]] sulla mia mente e mi fece sentire che le idee più proficue e più degne erano, per così dire, sulla difensiva. Avrò altro da dire su questo aspetto della faccenda più avanti; il punto è per il momento che una scuola d'arte può essere un luogo assai ozioso e che io ero allora una persona assai oziosa.
+In questo capitolo, il periodo coperto è grossomodo quello del mio andare
+a una scuola d'arte ed è senza dubbio anche colorato dalle condizioni
+di un tale luogo. Non c'è nulla di più difficile da imparare della pittura
+e nulla di cui la maggior parte della gente si dia meno pena di imparare.
+Una scuola d'arte è un luogo dove circa tre persone lavorano con febbrile
+energia e tutti gli altri oziano a un grado che avrei
+concepito [[Unattainable|Irraggiungibile]] dalla [[Nature|Natura]] umana. Per giunta coloro che lavorano sono,
+non dirò i meno intelligenti, ma, per la stessa [[Nature|Natura]]
+del caso, per il momento i più angusti; coloro la cui acuta
+intelligenza è per il [[Time|momento]] ristretta a un problema strettamente tecnico.
+Non vogliono essere digressivi e filosofici; perché il trucco
+che stanno cercando di imparare è a un tempo incomunicabile e pratico;
+come suonare il violino. Così la [[philosophy|filosofia]] è in genere lasciata
+agli oziosi; ed è in genere una [[philosophy|filosofia]] assai oziosa.
+Nel [[Time|periodo]] di cui scrivo era anche una [[philosophy|filosofia]] assai negativa e persino
+nichilista. E benché io non l'accettassi mai del tutto,
+essa gettò un'[[Shadow|ombra]] sulla mia mente e mi fece sentire che le idee più
+proficue e degne erano, per così dire, sulla difensiva.
+Avrò più da dire su questo aspetto della faccenda più avanti;
+il punto è per il momento che una scuola d'arte può essere un luogo assai ozioso
+e che io ero allora una persona assai oziosa.
 
-L'arte può essere lunga, ma le scuole d'arte sono brevi e assai fugaci, e ce ne sono state cinque o sei da quando frequentai una scuola d'arte. La mia fu il [[Time|tempo]] dell'Impressionismo; e nessuno osava sognare che potesse esistere una cosa come il Post-Impressionismo o il Post-Post-Impressionismo. L'ultimissima novità era tenersi al passo con Whistler e prenderlo per il bianco ciuffo sulla fronte, come se egli fosse il [[Time|Tempo]] in persona. Da allora quel cospicuo ciuffo bianco è piuttosto sbiadito in un'armonia di bianco e grigio, e ciò che una volta era così giovane si è a sua volta incanutito. Ma credo che ci fosse un significato spirituale nell'Impressionismo, in rapporto con quest'epoca come epoca dello scetticismo. Voglio dire che esso illustrava lo scetticismo nel senso del soggettivismo. Il suo principio era che se tutto ciò che si poteva vedere di una mucca era una linea bianca e un'[[Shadow|ombra]] purpurea, dovevamo rendere soltanto la linea e l'[[Shadow|ombra]]; in un certo senso dovevamo credere soltanto nella linea e nell'[[Shadow|ombra]], piuttosto che nella mucca. In un certo senso lo scettico impressionista contraddiceva il poeta che disse di non aver mai visto una mucca purpurea. Egli tendeva piuttosto a dire di aver visto soltanto una mucca purpurea; o meglio di non aver visto la mucca ma soltanto il purpureo. Quali che siano i meriti di questo metodo d'arte, c'è evidentemente qualcosa di altamente soggettivo e scettico in esso come metodo di pensiero. Esso si presta naturalmente al suggerimento metafisico che le cose esistano soltanto in quanto le percepiamo, o che le cose non esistano affatto. La [[philosophy|filosofia]] dell'Impressionismo è necessariamente prossima alla [[philosophy|filosofia]] dell'Illusione. E anche questa atmosfera tendeva a contribuire, per quanto indirettamente, a un certo stato d'animo di irrealtà e di sterile isolamento che si posò in quel [[Time|tempo]] su di me; e credo su molti altri.
+L'arte può essere lunga, ma le scuole d'arte sono brevi e assai fugaci,
+e ce ne sono state cinque o sei da quando frequentai una scuola d'arte.
+La mia fu l'[[Time|epoca]] dell'Impressionismo; e nessuno osava sognare che vi
+potesse essere una cosa come il Post-Impressionismo o il Post-Post-Impressionismo.
+L'ultimissima novità era tenere il passo con Whistler e prenderlo
+per il bianco ciuffo frontale, come se fosse il [[Time|Tempo]] stesso. Da allora quel
+cospicuo ciuffo bianco è piuttosto sbiadito in un'armonia di bianco
+e grigio e ciò che una volta era così giovane è a sua volta divenuto canuto.
+Ma credo che ci fosse un significato spirituale nell'Impressionismo,
+in connessione con quest'età come età dello scetticismo.
+Intendo che esso illustrava lo scetticismo nel senso del soggettivismo.
+Il suo principio era che, se tutto ciò che si poteva vedere di una mucca era una linea bianca
+e un'[[Shadow|ombra]] purpurea, dovevamo rendere soltanto la linea e l'[[Shadow|ombra]];
+in un certo senso dovevamo credere soltanto nella linea e nell'[[Shadow|ombra]],
+piuttosto che nella mucca. In un certo senso lo scettico Impressionista
+contraddiceva il poeta che disse di non aver mai visto una mucca purpurea.
+Egli tendeva piuttosto a dire di aver visto soltanto una mucca purpurea; o piuttosto
+che non aveva visto la mucca ma soltanto il purpureo. Quali che siano i meriti
+di questo metodo dell'arte, c'è palesemente qualcosa
+di altamente soggettivo e scettico in esso come metodo di pensiero.
+Esso si presta naturalmente al suggerimento metafisico che le cose
+esistano solo in quanto le percepiamo, o che le cose non esistano affatto.
+La [[philosophy|filosofia]] dell'Impressionismo è necessariamente vicina alla [[philosophy|filosofia]]
+dell'Illusione. E anche quest'atmosfera tendeva a contribuire,
+per quanto indirettamente, a un certo umore d'irrealtà e di sterile isolamento
+che si posò in quel [[Time|periodo]] su di me; e credo su molti altri.
 
-Ciò che mi sorprende nel ripensare alla giovinezza, e perfino alla fanciullezza, è l'estrema rapidità con cui essa può pensare a ritroso fino alle cose fondamentali; e perfino fino alla negazione delle cose fondamentali. In età assai precoce avevo ripensato a ritroso fino al pensiero stesso. È una cosa assai terribile da fare; poiché può condurre a pensare che non vi sia nulla se non pensiero. In quel [[Time|tempo]] non distinguevo con molta chiarezza tra il sognare e il vegliare; non soltanto come stato d'animo ma come [[Doubt|dubbio]] metafisico, sentivo come se ogni cosa potesse essere [[A Dream|un sogno]]. Era come se avessi io stesso proiettato l'universo dall'interno, con i suoi alberi e le sue [[Stars|stelle]]; e questo è così vicino all'idea di essere Dio, che è manifestamente ancor più vicino all'impazzire. Eppure non ero pazzo, in alcun senso medico o fisico; stavo semplicemente portando lo scetticismo del mio [[Time|tempo]] tanto lontano quanto poteva arrivare. E presto scoprii che poteva arrivare assai più lontano di quanto arrivasse la maggior parte degli scettici. Mentre ottusi atei venivano a spiegarmi che non c'era nulla se non materia, io ascoltavo con una sorta di calmo orrore del distacco, sospettando che non ci fosse nulla se non mente. Da allora ho sempre sentito che c'era qualcosa di sottile e di terz'ordine nei materialisti e nel materialismo. L'ateo mi diceva con tanta pomposità di non credere che ci fosse alcun Dio; e c'erano momenti in cui io non credevo nemmeno che ci fosse alcun ateo.
+Ciò che mi sorprende nel ripensare alla giovinezza, e persino alla fanciullezza,
+è l'estrema rapidità con cui essa può ripensare fino alle
+cose fondamentali; e persino fino alla negazione delle cose fondamentali.
+In età assai precoce avevo ripensato fino al pensiero stesso.
+È una cosa assai terribile da fare; poiché può condurre a pensare che
+non ci sia nulla se non il pensiero. In quel [[Time|periodo]] non distinguevo assai chiaramente
+tra il sognare e il vegliare; non solo come umore ma come
+[[Doubt|Dubbio]] metafisico, sentivo come se tutto potesse essere [[A Dream|un sogno]].
+Era come se avessi io stesso proiettato l'universo dall'interno,
+coi suoi alberi e le sue [[Stars|stelle]]; e ciò è così vicino alla nozione
+di essere Dio che è palesemente ancor più vicino all'impazzire.
+Eppure non ero pazzo, in alcun senso medico o fisico; portavo semplicemente
+lo scetticismo del mio [[Time|tempo]] fin dove poteva arrivare.
+E scoprii presto che sarebbe arrivato assai più lontano di quanto la maggior parte degli
+scettici arrivasse. Mentre ottusi atei venivano a spiegarmi
+che non c'era nulla se non la materia, ascoltavo con una sorta di calmo
+orrore di distacco, sospettando che non ci fosse nulla se non la mente.
+Ho sempre sentito che c'era qualcosa di esile e di terz'ordine
+riguardo ai materialisti e al materialismo da allora. L'ateo mi disse
+così pomposamente che non credeva ci fosse alcun Dio; e ci
+furono momenti in cui io non credevo neppure ci fosse alcun ateo.
 
-E come per gli estremi mentali, così per quelli morali. C'è qualcosa di veramente minaccioso nel pensiero di quanto rapidamente potessi immaginare le cose più folli, quando non avevo mai commesso il più mite dei delitti. Qualcosa può essere stato dovuto all'atmosfera dei Decadenti, e ai loro perpetui accenni ai lussuriosi orrori del paganesimo; ma non sono disposto a indugiare molto su quella difesa; sospetto di aver fabbricato da me la maggior parte delle mie morbosità. Ma comunque, è vero che ci fu un [[Time|tempo]] in cui avevo raggiunto quella condizione di anarchia morale interiore, in cui un uomo dice, con le parole di Wilde, che «Attis con il coltello macchiato di [[Blood|sangue]] sarebbe meglio della cosa che io sono». Non ho mai in verità sentito la più debole [[Temptation|tentazione]] verso la particolare [[Madness|follia]] di Wilde; ma potevo in quel [[Time|tempo]] immaginare le più mostruose e sfrenate sproporzioni e distorsioni di una passione più normale; il punto è che l'intero stato d'animo era sopraffatto e oppresso da una sorta di congestione dell'[[Imagination|immaginazione]]. Come Bunyan, nel suo periodo morboso, descrisse se stesso come spinto a proferire bestemmie, io avevo un impulso soverchiante a registrare o a disegnare idee e immagini orribili; sprofondando sempre più giù come in un cieco [[suicide|suicidio]] spirituale. Non avevo mai sentito parlare della Confessione, in alcun senso serio, a quei tempi; ma è proprio quella ciò di cui si ha bisogno in tali casi. Immagino che non siano casi rari. Comunque, il punto qui è che scavai abbastanza in basso da scoprire il diavolo; e perfino, in qualche modo confuso, da riconoscere il diavolo. Almeno non mi abbandonai mai, nemmeno in questo primo stadio vago e scettico, agli argomenti correnti sulla relatività del male o sull'irrealtà del peccato. Forse, quando alla fine emersi come una sorta di teorico, e fui descritto come un Ottimista, fu perché ero una delle poche persone in quel mondo di diabolismo che credevano davvero nei diavoli.
+E come con gli estremi mentali, così con quelli morali. C'è qualcosa
+di davvero minaccioso nel pensiero di quanto rapidamente potevo immaginare
+il più folle, quando non avevo mai commesso il più mite crimine.
+Qualcosa può essere dovuto all'atmosfera dei Decadenti,
+e ai loro perpetui accenni agli orrori lussuriosi del paganesimo;
+ma non sono incline a soffermarmi molto su quella difesa; sospetto
+di aver fabbricato la maggior parte delle mie morbosità da me. Ma comunque,
+è vero che ci fu un [[Time|periodo]] in cui avevo raggiunto quella condizione
+di anarchia morale interiore, in cui un uomo dice, con le parole di Wilde,
+che «Atys col coltello macchiato di [[Blood|sangue]] sarebbe meglio della cosa che sono».
+Non ho in verità mai sentito la più debole [[Temptation|Tentazione]] verso la particolare
+[[Madness|Follia]] di Wilde; ma potevo in quel [[Time|periodo]] immaginare le peggiori
+e più sfrenate sproporzioni e distorsioni di una passione più normale;
+il punto è che l'intero umore era sopraffatto e oppresso da una
+sorta di congestione dell'[[Imagination|Immaginazione]]. Come Bunyan, nel suo periodo morboso,
+si descrisse come spinto a proferire bestemmie, io avevo un
+soverchiante impulso a registrare o disegnare idee e immagini orribili;
+sprofondando sempre più in giù come in un cieco [[suicide|suicidio]] spirituale.
+Non avevo mai sentito parlare della Confessione, in alcun senso serio, in quei giorni;
+ma è questo ciò che davvero occorre in tali casi. Immagino che non siano
+casi rari. Comunque, il punto è qui che scavai abbastanza in basso
+da scoprire il diavolo; e persino in qualche modo oscuro da riconoscere il diavolo.
+Almeno non indulsi mai, neppure in questo primo vago e scettico stadio,
+troppo negli argomenti correnti sulla relatività
+del male o sull'irrealtà del peccato. Forse, quando alla fine
+emersi come una sorta di teorico, e fui descritto come Ottimista,
+fu perché ero una delle poche persone in quel mondo di diabolismo
+che credevano davvero nei diavoli.
 
-In [[Truth|verità]], la storia di ciò che veniva chiamato il mio Ottimismo fu piuttosto singolare. Quando fui stato per qualche [[Time|tempo]] in queste, le più oscure profondità del pessimismo contemporaneo, ebbi un forte impulso interiore a ribellarmi; a scacciare questo incubo o a scrollarmi di dosso questo [[nightmare|incubo notturno]]. Ma poiché stavo ancora pensando la cosa da me solo, con poco aiuto dalla [[philosophy|filosofia]] e nessun aiuto reale dalla religione, inventai una rudimentale e improvvisata teoria mistica tutta mia. Era in sostanza questa; che perfino la mera esistenza, ridotta ai suoi limiti più primari, era abbastanza straordinaria da essere eccitante. Qualsiasi cosa era magnifica se paragonata al nulla. Anche se la luce stessa del giorno fosse stata [[A Dream|un sogno]], era un sogno diurno; non era un [[nightmare|incubo]]. Il semplice fatto che si potessero agitare braccia e gambe (o quei dubbi oggetti esterni nel paesaggio che venivano chiamati le proprie braccia e le proprie gambe) mostrava che non aveva la mera paralisi di un [[nightmare|incubo]]. O se era un [[nightmare|incubo]], era un [[nightmare|incubo]] godibile. Di fatto, ero approdato a una posizione non molto lontana dalla frase del mio nonno puritano, quando disse che avrebbe reso grazie a Dio per la propria creazione anche se fosse stato un'[[Soul|anima]] perduta. Mi aggrappavo ai resti della religione con un unico sottile filo di gratitudine. Ringraziavo quali che fossero gli dèi, non come Swinburne, perché nessuna vita dura in eterno, ma perché una vita comunque era stata vissuta; non, come Henley, per la mia indomabile [[Soul|anima]] (poiché non sono mai stato così ottimista riguardo alla mia [[Soul|anima]] fino a tal punto) ma per la mia [[Soul|anima]] e per il mio [[Body|corpo]], anche se potevano essere vinti. Questo modo di guardare le cose, con una sorta di mistico minimo di gratitudine, fu naturalmente, in una certa misura, favorito da quei pochi degli scrittori alla moda che non erano pessimisti; specialmente da Walt Whitman, da Browning e da Stevenson; il «Dio dev'essere lieto che uno ami tanto il suo mondo» di Browning, o la «fede nell'ultima decenza delle cose» di Stevenson. Ma non credo di dire troppo affermando che lo presi a modo mio; anche se era un modo che non riuscivo a vedere chiaramente né a rendere molto chiaro. Ciò che intendevo, che riuscissi o no a dirlo, era questo; che nessun uomo sa quanto sia ottimista, anche quando si dice pessimista, perché non ha realmente misurato la profondità del proprio debito verso chiunque lo abbia creato e reso capace di dirsi qualsiasi cosa. In fondo al nostro cervello, per così dire, c'era un dimenticato bagliore o scoppio di stupore per la nostra stessa esistenza. Lo scopo della vita artistica e spirituale era scavare in cerca di questa sommersa alba di [[Wonder|meraviglia]]; così che un uomo seduto su una sedia potesse improvvisamente comprendere di essere realmente vivo, ed essere felice. C'erano altri aspetti di questo sentimento, e altri argomenti intorno a esso, su cui dovrò ritornare. Qui esso è soltanto una parte necessaria della narrazione; poiché implica il fatto che, quando cominciai davvero a scrivere, ero pieno di una nuova e ardente risoluzione di scrivere contro i Decadenti e i Pessimisti che dominavano la cultura dell'epoca.
+In [[Truth|Verità]], la storia di ciò che si chiamò il mio Ottimismo fu piuttosto strana.
+Quando fui stato per qualche [[Time|tempo]] in queste, le più oscure profondità
+del pessimismo contemporaneo, ebbi un forte impulso interiore
+a ribellarmi; a dislocare questo incubo o a scrollarmi di dosso questo [[nightmare|incubo]].
+Ma poiché stavo ancora elaborando la cosa da me,
+con poco aiuto dalla [[philosophy|filosofia]] e nessun vero aiuto dalla religione,
+inventai una rudimentale e raffazzonata teoria mistica tutta mia.
+Era sostanzialmente questa; che perfino la mera esistenza, ridotta ai suoi
+limiti più primari, era abbastanza straordinaria da essere eccitante.
+Qualsiasi cosa era magnifica in confronto al nulla. Anche se la luce stessa
+del giorno fosse stata [[A Dream|un sogno]], era un sogno a occhi aperti; non era un [[nightmare|incubo]].
+Il mero fatto che si potessero agitare le braccia e le gambe
+(o quei dubbi oggetti esterni nel paesaggio che venivano
+chiamati le proprie braccia e gambe) mostrava che non aveva la mera
+paralisi di un [[nightmare|incubo]]. O se era un [[nightmare|incubo]], era un
+[[nightmare|incubo]] godibile. In effetti, ero approdato a una posizione non
+molto lontana dalla frase di mio nonno puritano, quando disse
+che avrebbe ringraziato Dio per la sua creazione se fosse stato un'[[Soul|anima]] perduta.
+Mi aggrappavo ai resti della religione con un solo esile filo di ringraziamento.
+Ringraziavo quali che fossero gli dèi, non come Swinburne, perché nessuna vita
+vive per sempre, ma perché una qualunque vita fosse vissuta affatto; non, come Henley,
+per la mia indomabile [[Soul|Anima]] (poiché non sono mai stato così ottimista
+sulla mia stessa [[Soul|Anima]] fino a quel punto) ma per la mia stessa [[Soul|Anima]] e il mio stesso [[Body|Corpo]],
+anche se potevano essere sconfitti. Questo modo di guardare le cose,
+con una sorta di mistico minimo di gratitudine, fu, s'intende,
+in una certa misura aiutato da quei pochi degli scrittori alla moda
+che non erano pessimisti; specialmente da Walt Whitman, da Browning
+e da Stevenson; il «Dio dev'essere lieto che si ami tanto il suo mondo»
+di Browning, o la «fede nell'ultima decenza delle cose» di Stevenson.
+Ma non credo sia troppo dire che lo presi in un modo
+mio; anche se era un modo che non riuscivo a vedere chiaramente o a rendere assai chiaro.
+Ciò che intendevo, che riuscissi o no a dirlo, era questo;
+che nessun uomo sa quanto sia ottimista, anche quando si chiama
+pessimista, perché non ha davvero misurato le profondità
+del suo debito verso ciò che lo creò e lo mise in grado di chiamarsi
+alcunché. Sul fondo dei nostri cervelli, per così dire, c'era
+un dimenticato bagliore o scoppio di stupore per la nostra stessa esistenza.
+L'oggetto della vita artistica e spirituale era scavare per questa
+sommersa aurora di [[Wonder|Stupore]]; così che un uomo seduto su una sedia
+potesse d'improvviso capire di essere davvero vivo, ed essere felice.
+C'erano altri aspetti di questo sentimento, e altri argomenti al riguardo,
+su cui dovrò tornare. Qui esso è solo una parte necessaria
+della narrazione; poiché comporta il fatto che, quando cominciai davvero
+a scrivere, ero pieno di una nuova e infuocata risoluzione di scrivere contro
+i Decadenti e i Pessimisti che governavano la cultura dell'età.
 
-Così, tra i versi giovanili che cominciai a scrivere intorno a quel [[Time|tempo]] ce n'era uno intitolato «Il Bimbo [[unborn|Non Nato]]», che immaginava la creatura increata gridare per l'esistenza e promettere ogni virtù pur di poter avere l'esperienza della vita. Un altro concepiva lo schernitore che implorava Dio di dargli occhi e labbra e una lingua con cui potesse schernire il donatore di essi; una versione più adirata della stessa fantasia. E credo che fu intorno a quel [[Time|tempo]] che pensai all'idea introdotta in seguito in un racconto intitolato [[manalive|Manalive]]; di un essere benevolo che se ne andava in giro con una [[Pistol|pistola]], che improvvisamente puntava contro un pessimista, quando quel filosofo affermava che la vita non valeva la pena di essere vissuta. Questo non fu stampato se non molto tempo dopo; ma i versi furono raccolti in un piccolo volume; e mio padre fu tanto imprudente da aiutarmi a farli pubblicare sotto il titolo di The Wild Knight. E questa è una parte importante della storia, nella misura in cui una qualsiasi parte della storia è importante, perché comportò davvero la mia introduzione alla letteratura e perfino agli uomini di lettere.
+Così, tra i versi giovanili che cominciai a scrivere in quel [[Time|periodo]] ce n'era
+uno intitolato «Il Bimbo [[unborn|Non Nato]]», che immaginava la creatura increata
+gridare per l'esistenza e promettere ogni virtù se potesse
+solo avere l'esperienza della vita. Un altro concepiva lo schernitore
+come supplicante Dio di dargli occhi e labbra e una lingua per poter
+schernire chi glieli dava; una versione più adirata della stessa fantasia.
+E credo che fu in quel [[Time|periodo]] che pensai alla nozione
+poi introdotta in un racconto chiamato [[manalive|Manalive]]; di un essere
+benevolo che andava in giro con una [[Pistol|Pistola]], che d'improvviso puntava contro
+un pessimista, quando quel filosofo diceva che la vita non valeva la pena di essere vissuta.
+Questo non fu stampato che molto tempo dopo; ma i versi furono
+raccolti in un volumetto; e mio padre fu così imprudente da
+aiutarmi a farli pubblicare col titolo di The Wild Knight.
+E questa è una parte importante della storia, in quanto qualsiasi parte
+della storia sia importante, perché comportò davvero la mia introduzione
+alla letteratura e persino agli uomini di lettere.
 
-Il mio piccolo volume di versi fu recensito con calorosa e quasi travolgente generosità dal signor James Douglas, allora quasi interamente noto come un eminente critico letterario. L'impetuosità, [[Well|non meno]] che la generosità, fu sempre una delle qualità più attraenti del signor Douglas. Ed egli insistette, per qualche ragione, nell'affermare positivamente che non esisteva persona alcuna col nome di G. K. Chesterton; che il nome era con ogni evidenza uno pseudonimo; che l'opera con ogni evidenza non era quella di un novizio ma di uno scrittore affermato; e infine che non poteva essere altri che il signor John Davidson. Questo suscitò naturalmente un'indignata smentita da parte del signor John Davidson. Quel focoso poeta ringraziò assai legittimamente il Signore di non aver mai scritto simili scempiaggini; e io per primo simpatizzai assai di cuore con lui. Non molto tempo dopo, quando il signor John Lane ebbe accettato il manoscritto di The Napoleon of Notting [[Hill]], stavo pranzando con quell'editore e caddi in una conversazione assai piacevole con un giovane biondo alla mia sinistra, un po' più anziano di me. Un uomo dall'aspetto più bizzarro, un po' come un elfo, calvo, dai capelli neri e con un ciuffo mefistofelico e un monocolo, si unì alla conversazione dall'altro lato del tavolo; e scoprimmo di concordare su un gran numero di argomenti letterari e stringemmo, credo di poterlo dire, una duratura simpatia reciproca. Fu soltanto in seguito che scoprii che il primo uomo era il signor James Douglas e il secondo il signor John Davidson.
+Il mio volumetto di versi fu recensito con calorosa e quasi soverchiante
+generosità dal signor James Douglas, allora conosciuto quasi interamente come
+un critico letterario di primo piano. L'impetuosità oltre [[Well|che]] la generosità fu sempre
+una delle qualità più attraenti del signor Douglas. Ed egli insistette,
+per qualche ragione, nell'affermare positivamente che non esisteva alcuna persona
+come G. K. Chesterton; che il nome era palesemente uno pseudonimo;
+che l'opera non era palesemente quella di un novizio ma di uno scrittore di successo;
+e infine che non poteva essere altri che il signor John Davidson.
+Ciò naturalmente portò un'indignata smentita da parte del signor John Davidson.
+Quello spirito poetico assai legittimamente ringraziò il Signore di non aver mai
+scritto simili sciocchezze; e io per primo simpatizzai assai di cuore con lui.
+Non molto tempo dopo, quando il signor John Lane ebbe accettato il manoscritto
+di The Napoleon of Notting [[Hill]], stavo pranzando con quell'editore
+e caddi in una conversazione assai piacevole con un giovane dai capelli
+biondi alla mia sinistra, un po' più vecchio di me. Un uomo dall'aspetto più strano,
+un po' simile a un elfo, calvo, dai capelli neri e con un ciuffo
+mefistofelico e un monocolo, si unì alla conversazione dall'altra parte del tavolo;
+e scoprimmo di concordare su un gran numero di soggetti letterari
+e formammo, credo di poter dire, una duratura simpatia l'uno per l'altro.
+Fu solo in seguito che scoprii che il primo uomo era
+il signor James Douglas e il secondo uomo era il signor John Davidson.
 
-Sto qui portando avanti la mia storia lungo la linea letteraria, fino a un punto che non ho ancora raggiunto su altre linee, piuttosto politiche o sociali; ma, per comodità, tanto [[Well|vale]] che completi qui questa parte del mio sviluppo piuttosto erratico. Forse il successivo accidente più importante che mi favorì, e mi mise in relazione con il mondo delle lettere, fu il fatto che scrissi una lunga recensione su un libro intorno a Stevenson; forse il primo dei libri piuttosto stupidi scritti per sminuire Stevenson. Difesi Stevenson con tanta veemenza, per non dire violenza, che ebbi la buona sorte di attirare l'attenzione di scrittori assai illustri che, pur non essendo essi stessi certamente né violenti né veementi, erano stevensoniani in modo assai speciale. Ricevetti una deliziosa lettera, e più tardi una gran quantità di ospitalità e di incoraggiamento, da Sir Sidney Colvin; alla cui [[house|casa]] mi recai spesso, dove ebbi il piacere di incontrare la signora che fu poi Lady Colvin, e dove udii Stephen Phillips leggere ad alta voce il suo dramma «[[Ulysses]]». Nessuno avrebbe potuto essere più magnanimo e premuroso di quanto Colvin fu sempre con me; ma credo che non avremmo mai potuto essere in accordo, come egli era in accordo con Stevenson o perfino con Stephen Phillips. Poiché, tranne che sull'argomento Stevenson, divergevamo su ogni argomento in terra e in cielo; egli era insieme imperialista in politica e razionalista in religione; e con tutta la sua frigida raffinatezza, era ciò che era con una inestinguibile pertinacia. Odiava i Radicali e i mistici cristiani e i romantici simpatizzanti delle piccole nazionalità, e in effetti tutto ciò che io avevo una qualche tendenza a essere. Ma lo stesso legame dell'[[Love|amore]] per Stevenson mi legò un po' più tardi a un altro assai eminente uomo di lettere; Sir [[Edmund]] Gosse. In qualche modo mi sentii sempre assai più a mio [[Home|agio]] con Sir [[Edmund]] Gosse; perché egli disprezzava tutte le opinioni e non soltanto le mie opinioni. Aveva una straordinaria profondità di gioviale cordialità nel suo imparziale cinismo. Possedeva l'arte di dare uno smacco senza sogghignare. Sentivamo sempre che egli non aveva gustato il dare lo smacco ma lo smacco in sé, come una sorta di arte per l'arte, a un milione di miglia da ogni malizia personale. Era tanto più artistico per via dei modi cortesi e serici che comunemente assumeva. Gli ero assai affezionato; e mi dà grande felicità pensare che una delle ultime cose che egli deve aver fatto sia stata scrivermi una lettera per ringraziarmi di un'altra e assai più tarda difesa di Stevenson, in un libro che scrissi molto tempo dopo, anzi soltanto pochi anni fa. In questa lettera egli disse di Stevenson, con una semplicità assai possente proveniente da un tale uomo: «Lo amavo; lo [[Love|amo]] ancora». Non ho il diritto di usare termini così forti nel mio caso; ma provo qualcosa di simile riguardo a Gosse.
+Sto qui facendo avanzare la mia storia lungo la linea letteraria, fino a un punto
+che non ho ancora raggiunto su altre linee che erano piuttosto
+politiche o sociali; ma, per comodità, tanto vale
+[[Well|che]] io completi qui questa parte del mio piuttosto erratico sviluppo.
+Forse il successivo più importante accidente che mi favorì,
+e mi mise in relazione col mondo delle lettere, fu il fatto
+che scrissi una lunga recensione su un libro su Stevenson; forse il
+primo dei libri piuttosto stupidi scritti per sminuire Stevenson.
+Difesi Stevenson con tanta veemenza, per non dire violenza,
+che ebbi la buona sorte di attirare l'attenzione di scrittori assai
+distinti che, benché essi stessi di certo né violenti né veementi,
+erano in modo assai speciale stevensoniani.
+Ricevetti una lettera incantevole, e più tardi una gran quantità di ospitalità
+e di incoraggiamento, da Sir Sidney Colvin; alla cui [[house|casa]] andavo spesso,
+dove ebbi il piacere di incontrare la signora che fu in seguito
+Lady Colvin, e dove udii Stephen Phillips leggere ad alta voce il suo dramma
+«[[Ulysses|Ulisse]]». Nessuno avrebbe potuto essere più magnanimo e premuroso
+di quanto Colvin fosse sempre con me; ma credo che non avremmo mai potuto essere
+d'accordo, come egli era d'accordo con Stevenson o persino con Stephen Phillips.
+Poiché, tranne che sul soggetto di Stevenson, differivamo su ogni
+soggetto in terra e in cielo; egli era sia Imperialista in politica
+sia Razionalista in religione; e con tutta la sua frigida raffinatezza,
+egli era qualunque cosa fosse con un'inestinguibile pertinacia. Odiava
+i Radicali e i mistici cristiani e i romantici simpatizzanti delle piccole
+nazionalità, e in effetti tutto ciò che io avessi una qualche tendenza a essere.
+Ma lo stesso legame dell'[[Love|Amore]] per Stevenson mi legò un poco
+più tardi a un altro assai eminente uomo di lettere; Sir [[Edmund]] Gosse.
+In qualche modo mi sentii sempre assai più a mio [[Home|agio]] con Sir [[Edmund]] Gosse;
+perché egli disprezzava tutte le opinioni e non meramente le mie opinioni.
+Aveva una straordinaria profondità di cordialità nel suo imparziale cinismo.
+Aveva l'arte di dare rimbrotti senza sogghignare. Sentivamo sempre
+che non aveva goduto del rimbrotto ma del rimbrotto stesso, come una sorta
+di arte per l'arte, a un milione di miglia da ogni malizia personale.
+Era tanto più artistico per il modo cortese e serico
+che comunemente assumeva. Ero assai affezionato a lui; e mi dà
+gran felicità pensare che una delle ultime cose che egli deve
+aver fatto fu scrivermi una lettera per ringraziarmi di un'altra e assai
+più tarda rivendicazione di Stevenson, in un libro che scrissi molto tempo dopo,
+in effetti solo pochi anni fa. In questa lettera egli disse di Stevenson,
+con una potentissima semplicità proveniente da un tale uomo: «Lo amavo;
+lo [[Love|amo]] ancora.» Non ho alcun diritto di usare termini così forti nel mio caso;
+ma sento qualcosa di simile riguardo a Gosse.
 
-Intorno a quel [[Time|tempo]] scoprii il segreto dell'amabilità in un'altra persona con una fama piuttosto fuorviante di acredine. Il signor Max Beerbohm mi invitò a pranzo; e da allora ho sempre saputo che egli è lui stesso il più sottile dei suoi paradossi. Un uomo con la sua reputazione potrebbe [[Well|bene]] trovare offensiva la parola amabilità; posso soltanto spiegare a uno spirito così erudito che la metto in latino o in francese perché non oso metterla in inglese. Max recitò nella mascherata del suo [[Time|tempo]], che egli ha descritto in modo così brillante; e vestì, o sopravvestì, la parte. Il suo nome si supponeva fosse sinonimo di Impudenza; dello studente che sfoggiava la sfrontatezza di un monello di strada nell'abbigliamento di un dandy. Si supponeva che egli suonasse la propria tromba a ogni squillo di [[Self|auto]]elogio; innumerevoli storie si raccontavano sulla sfacciata placidità del suo egoismo. Come, quando non aveva scritto poco più di qualche saggio scolastico, li rilegasse sotto l'imponente titolo di «Le Opere di Max Beerbohm». Come progettasse una serie di biografie chiamata «Fratelli di Grandi Uomini»; il primo volume essendo «Herbert Beerbohm Tree». E il primo istante in cui udii la sua voce, o colsi l'espressione dei suoi occhi, seppi che tutto questo era l'esatto contrario della [[Truth|verità]]. Max era ed è un uomo notevolmente umile, per un uomo dei suoi doni e della sua epoca. Non l'ho mai conosciuto pretendere, con una sola frase o intonazione, di sapere di più o di giudicare meglio di quanto faccia; e nemmeno metà di quanto o così [[Well|bene]] quanto fa. La maggior parte degli uomini si dilata un poco nella conversazione, e ha le sue irreali vittorie e vanità; ma egli mi sembra più moderato e realistico riguardo a se stesso che a qualsiasi altra cosa. È più scettico su ogni cosa di quanto lo sia io, per temperamento; ma certamente non indulge nella bassa idolatria di credere in se stesso. Su questo punto vorrei essere un cristiano buono quanto lui. [[Hope|Spero]], per amore della sua personalità ufficiale o pubblica, che egli riuscirà a far dimenticare quest'ultimo affronto. Ma le persone che non riuscivano a vedere questo fatto, perché uno studente intelligente si godeva una goliardata intellettuale, hanno qualcosa da imparare sulla possibile combinazione di [[Humility|umiltà]] e di [[Humour|humour]].
+In quel [[Time|periodo]] scoprii il segreto dell'amabilità in un'altra
+persona con una reputazione piuttosto fuorviante di acidità.
+Il signor Max Beerbohm mi invitò a pranzo; e da allora ho sempre saputo
+che egli è esso stesso il più sottile dei suoi paradossi. Un uomo con
+la sua reputazione potrebbe [[Well|ben]] trovare offensiva la parola amabilità;
+posso solo spiegare a un arguto tanto erudito che la metto in latino
+o in francese perché non oso metterla in inglese. Max recitò nella
+mascherata del suo [[Time|tempo]], che egli ha descritto così brillantemente;
+e vestì o sopravvestì la parte. Il suo nome era ritenuto
+sinonimo di Impudenza; per lo studente universitario che esibiva
+la sfacciataggine di un monello nell'abito di un dandy. Si riteneva che
+suonasse la propria tromba a ogni svolazzo di [[Self|auto]]lode;
+si raccontavano innumerevoli storie sulla sfrontata placidità del suo egoismo.
+Come, quando aveva scritto a stento poco più di qualche saggio scolastico,
+li rilegasse sotto il maestoso titolo di «Le Opere di Max Beerbohm».
+Come progettasse una serie di biografie chiamata «Fratelli di Grandi Uomini»;
+il primo volume essendo «Herbert Beerbohm Tree». E il primo momento
+in cui udii la sua voce, o scorsi l'espressione dei suoi occhi,
+seppi che tutto questo era il piatto contrario della [[Truth|Verità]]. Max era ed
+è un uomo notevolmente umile, per un uomo dei suoi doni e del suo periodo.
+Non l'ho mai conosciuto, con una sola frase o intonazione, pretendere di sapere
+di più o giudicare meglio di quanto faccia; o in verità neppure la metà o tanto [[Well|bene]]
+quanto fa. La maggior parte degli uomini si spande un poco in conversazione,
+e ha le sue irreali vittorie e vanità; ma egli mi pare
+più moderato e realistico su se stesso che su qualsiasi altra cosa.
+È più scettico su tutto di me, per temperamento;
+ma di certo non indulge nella bassa idolatria di credere
+in se stesso. Su questo punto vorrei essere un buon cristiano quanto lui.
+[[Hope|Spero]], per il bene della sua personalità ufficiale o pubblica,
+che egli riesca a sopravvivere a quest'ultimo affronto.
+Ma le persone che non riuscivano a vedere questo fatto, perché uno studente
+universitario intelligente si godeva uno spasso intellettuale, hanno qualcosa da imparare
+sulla possibile combinazione di [[Humility|Umiltà]] e [[Humour|Umorismo]].
 
-Infine, una [[Crown|corona]] di ciò che posso soltanto chiamare rispettabilità mi venne dalla casa editrice Macmillan; nella forma di un lusinghiero invito a scrivere lo studio su Browning per la English Men of Letters Series. Esso era appena arrivato quando stavo pranzando con Max Beerbohm, ed egli mi disse in modo pensoso: «Un uomo dovrebbe scrivere su Browning finché è giovane». Nessun uomo sa di essere giovane finché è giovane. Non capii in quel [[Time|momento]] che cosa intendesse Max; ma vedo ora che aveva ragione; come generalmente ha. Comunque, non ho bisogno di dire che accettai l'invito a scrivere un libro su Browning. Non dirò che scrissi un libro su Browning; ma scrissi un libro sull'[[Love|amore]], la libertà, la poesia, le mie personali vedute su Dio e la religione (assai poco sviluppate), e varie mie teorie sull'ottimismo e il pessimismo e la [[Hope|speranza]] del mondo; un libro in cui il nome di Browning veniva introdotto di [[Time|tempo]] in [[Time|tempo]], direi quasi con considerevole arte, o per lo meno con qualche decorosa apparenza di regolarità. C'erano pochissimi fatti biografici nel libro, e quelli erano quasi tutti sbagliati. Ma c'è qualcosa di sepolto da qualche parte nel libro; benché io creda che sia piuttosto la mia fanciullezza che la [[Biography|biografia]] di Browning.
+Infine, una [[Crown|Corona]] di ciò che posso solo chiamare rispettabilità mi venne
+dalla ditta Macmillan; nella forma di un invito assai lusinghiero
+a scrivere lo studio su Browning per la English Men of Letters Series.
+Era appena arrivato quando stavo pranzando con Max Beerbohm,
+ed egli mi disse in modo pensoso: «Un uomo dovrebbe scrivere su Browning
+mentre è giovane.» Nessun uomo sa di essere giovane mentre è giovane.
+Non capii che cosa intendesse Max al [[Time|momento]]; ma vedo ora
+che aveva ragione; come in genere ha. Comunque, non ho bisogno di dire
+che accettai l'invito a scrivere un libro su Browning.
+Non dirò che scrissi un libro su Browning; ma scrissi
+un libro sull'[[Love|Amore]], sulla libertà, sulla poesia, sulle mie stesse vedute su Dio e sulla religione
+(altamente non sviluppate), e varie teorie mie sull'ottimismo
+e sul pessimismo e sulla [[Hope|Speranza]] del mondo; un libro in cui il nome
+di Browning era introdotto di [[Time|tanto]] in [[Time|tanto]], potrei quasi dire
+con considerevole arte, o quanto meno con una certa decente apparenza
+di regolarità. C'erano pochissimi fatti biografici nel libro,
+e quelli erano quasi tutti sbagliati. Ma c'è qualcosa di sepolto
+da qualche parte nel libro; benché credo sia piuttosto la mia fanciullezza
+che la [[Biography|Biografia]] di Browning.
 
-Ho seguito questa parte letteraria della mia stessa [[Biography|biografia]] in anticipo sul resto. Ma molto prima di ciò era divenuto evidente che il centro di gravità della mia esistenza si era spostato da ciò che chiameremo (per cortesia) Arte a ciò che chiameremo (per cortesia) Letteratura. L'artefice di questo mutamento di intenzione fu, in prima istanza, il mio amico Ernest Hodder Williams, in seguito il capo della [[Well|ben]] nota casa editrice. Egli seguiva lezioni di latino e di inglese all'University College mentre io seguivo, o non seguivo, le istruzioni d'arte della Slade School. Mi unii a lui nel frequentare il corso di inglese; e per questa ragione posso vantarmi tra i molti allievi che sono grati allo straordinariamente vivace e stimolante sapere del professor W. P. Ker. La maggior parte degli altri studenti studiava per gli esami; ma io non avevo nemmeno quello scopo in quel periodo senza scopo della mia vita. Il risultato fu che mi guadagnai una del tutto immeritata fama di disinteressata devozione alla cultura per se stessa; e una volta ebbi l'[[Honour|onore]] di costituire l'intero uditorio del professor Ker. Ma egli tenne una lezione tanto accurata e meditata quanto ne abbia mai udita tenere, in uno stile leggermente più colloquiale; mi rivolse alcune domande sulle mie letture; e, avendo io menzionato qualcosa dalla poesia di Pope, disse con grande soddisfazione: «Ah, vedo che siete stato [[Well|ben]] educato». Pope ebbe assai meno che giustizia da quella generazione di ammiratori di Shelley e Swinburne. Hodder Williams e io parlavamo spesso di letteratura, sulla scia di queste lezioni letterarie; ed egli si formò la fissa convinzione che io sapessi scrivere; una illusione che conservò fino al giorno della sua [[Death|morte]]. In conseguenza di ciò, e in connessione con i miei studi d'arte, mi diede alcuni libri d'arte da recensire per il Bookman, il famoso organo della sua ditta e della sua famiglia. Non ho bisogno di dire che, avendo interamente fallito nell'imparare a disegnare o a dipingere, buttai giù abbastanza facilmente qualche critica sui punti deboli di Rubens o sui talenti mal indirizzati di Tintoretto. Avevo scoperto la più facile di tutte le professioni; che ho esercitato da allora in poi.
+Ho perseguito questa parte letteraria della mia stessa [[Biography|Biografia]] in anticipo
+sul resto. Ma molto prima di questo era evidente che il centro
+di gravità della mia esistenza si era spostato da ciò che chiameremo (per amor
+di cortesia) Arte a ciò che chiameremo (per amor di cortesia)
+Letteratura. L'agente in questo mutamento d'intenzione fu,
+in prima istanza, il mio amico Ernest Hodder Williams, in seguito
+il capo della [[Well|ben]] nota casa editrice. Frequentava lezioni di latino
+e d'inglese all'University College mentre io frequentavo,
+o non frequentavo, le istruzioni d'arte della Slade School.
+Mi unii a lui nel seguire il corso d'inglese; e per questa ragione
+posso vantarmi tra i molti allievi che sono grati alla
+straordinariamente vivace e stimolante dottrina del Professor W.P. Ker.
+La maggior parte degli altri studenti studiava per gli esami;
+ma io non avevo neppure quell'obiettivo in questo periodo senza scopo della mia vita.
+Il risultato fu che guadagnai una reputazione del tutto immeritata
+di disinteressata devozione alla cultura per il suo stesso bene; e una volta
+ebbi l'[[Honour|Onore]] di costituire l'intero uditorio del Professor Ker.
+Ma egli tenne una lezione tanto accurata e ponderata quanto mai ne abbia
+udita tenere, in uno stile lievemente più colloquiale; mi pose
+alcune domande sulle mie letture; e, al mio menzionare qualcosa
+dalla poesia di Pope, disse con grande soddisfazione: «Ah, vedo
+che siete stato [[Well|ben]] educato.» Pope ebbe assai meno di giustizia
+da quella generazione di ammiratori di Shelley e Swinburne.
+Hodder Williams e io parlavamo spesso di letteratura, di seguito a
+queste lezioni letterarie; ed egli concepì la ferma nozione che io
+sapessi scrivere; una delusione che conservò fino al giorno della sua [[Death|Morte]].
+In conseguenza di ciò, e in connessione coi miei studi d'arte,
+mi diede alcuni libri sull'arte da recensire per il Bookman, il famoso
+organo della sua ditta e famiglia. Non ho bisogno di dire che, avendo interamente
+fallito nell'imparare a disegnare o dipingere, sfornai abbastanza agevolmente alcune
+critiche dei punti più deboli di Rubens o dei talenti mal diretti
+di Tintoretto. Avevo scoperto la più facile di tutte le professioni;
+che ho perseguito da allora.
 
-Quando ripenso a queste cose, e in verità alla mia vita in generale, la cosa che più mi colpisce è la mia straordinaria fortuna. Ho già perorato i meriti del Racconto Morale; ma è contro tutti i giusti principi che perfino una simile misura di buona sorte sarebbe dovuta toccare all'Apprendista Ozioso. Nel caso del mio sodalizio con Hodder Williams, era contro ogni ragione che una persona così poco portata agli affari avesse un amico così portato agli affari. Nel caso della scelta di un mestiere, era oltraggiosamente ingiusto che un uomo riuscisse a diventare giornalista semplicemente fallendo nel diventare un [[Artist|artista]]. Dico un mestiere e non una professione; poiché l'unica cosa che posso dire in mio favore, in connessione con entrambi i mestieri, è che non fui mai pomposo a loro riguardo. Se ho avuto una professione, per lo meno non sono mai stato un professore. Ma in un altro senso c'era, intorno a questi primi stadi, un elemento di fortuna, e perfino di accidente. Voglio dire che la mia mente rimase assai astratta e quasi stordita; e queste opportunità erano semplicemente cose che mi accadevano, quasi come calamità. Dire che non ero ambizioso lo fa suonare fin troppo simile a una virtù, quando in realtà era un difetto non molto disonorevole; era quella curiosa cecità della giovinezza che possiamo osservare negli altri e tuttavia non spiegare mai in noi stessi. Ma, soprattutto, lo menziono qui anche perché era connesso con la continuità di quel [[Riddle|enigma]] irrisolto della mente, che ho menzionato all'inizio di questo capitolo. La ragione essenziale era che i miei occhi erano rivolti all'interno piuttosto che all'esterno; conferendo alla mia personalità morale, immagino, uno strabismo assai poco attraente. Ero ancora oppresso dall'[[nightmare|incubo]] metafisico delle negazioni intorno alla mente e alla materia, dalla morbosa immaginazione del male, dal peso del mio stesso misterioso cervello e [[Body|corpo]]; ma a quel [[Time|tempo]] ero in rivolta contro di essi; e cercavo di costruire una più sana concezione della vita cosmica, anche se fosse stata una che peccasse dal lato della salute. Chiamai perfino me stesso ottimista, perché ero così orribilmente vicino a essere un pessimista. È l'unica scusa che posso offrire. Tutta questa parte del processo fu in seguito riversata nella informissima forma di un pezzo di narrativa intitolato The Man Who Was [[thursday|Thursday]]. Il titolo attirò una certa attenzione in quel [[Time|tempo]]; e ci furono molte facezie giornalistiche a suo riguardo. Alcuni, alludendo alle mie presunte vedute festaiole, fingevano di scambiarlo per «The Man Who Was Thirsty» — l'Uomo che aveva Sete. Altri supponevano naturalmente che l'Uomo [[thursday|Giovedì]] fosse il fratello nero dell'Uomo Venerdì. Altri ancora, con maggiore penetrazione, lo trattavano come un mero titolo del mondo alla rovescia; come se fosse stato «La Donna che era le Otto e Mezza», o «La Mucca che era Domani Sera». Ma ciò che mi interessa a suo riguardo era questo; che quasi nessuno che guardasse il titolo sembra mai aver guardato il sottotitolo; che era «Un [[nightmare|Incubo]]», e la risposta a un buon numero di domande critiche.
+Quando ripenso a queste cose, e in verità alla mia vita in generale,
+la cosa che mi colpisce di più è la mia straordinaria fortuna.
+Ho già perorato i meriti del Racconto Morale;
+ma è contro tutti i giusti princìpi che perfino una tale
+misura di buona sorte sia toccata all'Apprendista Sfaticato. Nel
+caso della mia associazione con Hodder Williams, era
+contro ogni ragione che una persona così poco pratica negli affari avesse
+un amico così pratico negli affari. Nel caso della scelta di un mestiere,
+era oltraggiosamente ingiusto che un uomo riuscisse a divenire
+giornalista solo per non essere riuscito a divenire [[Artist|Artista]]. Dico un mestiere
+e non una professione; poiché l'unica cosa che posso dire per me stesso,
+in connessione con entrambi i mestieri, è che non fui mai pomposo su di essi.
+Se ho avuto una professione, almeno non sono mai stato un professore.
+Ma in un altro senso c'era intorno a questi primi stadi un elemento
+di fortuna, e persino di accidente. Intendo che la mia mente rimase
+assai distratta e quasi stordita; e queste opportunità
+erano semplicemente cose che mi accadevano, quasi come calamità.
+Dire che non ero ambizioso lo fa suonare fin troppo simile a una virtù,
+quando era in realtà un difetto non molto disonorevole; era quella curiosa
+cecità della giovinezza che possiamo osservare negli altri eppure mai spiegare
+in noi stessi. Ma, soprattutto, lo menziono qui anche perché
+era connesso con la continuità di quell'irrisolto [[Riddle|Enigma]]
+della mente, che menzionai all'inizio di questo capitolo.
+La ragione essenziale era che i miei occhi erano rivolti all'interno piuttosto
+che all'esterno; conferendo alla mia personalità morale, immagino,
+uno strabismo assai poco attraente. Ero ancora oppresso dall'
+[[nightmare|incubo]] metafisico di negazioni sulla mente e sulla materia,
+dalla morbosa immaginifica del male, dal fardello del mio stesso misterioso
+cervello e [[Body|Corpo]]; ma a questo [[Time|punto]] ero in rivolta contro di essi;
+e cercavo di costruire una più sana concezione della vita cosmica,
+anche se fosse una che dovesse errare dal lato della salute.
+Mi chiamavo persino ottimista, perché ero così orribilmente
+vicino a essere pessimista. È l'unica scusa che posso offrire.
+Tutta questa parte del processo fu in seguito gettata nella assai informe
+forma di un pezzo di narrativa chiamato The Man Who Was [[thursday|Thursday]]. Il titolo
+attirò una certa attenzione al [[Time|momento]]; e vi furono molti scherzi
+giornalistici al riguardo. Alcuni, riferendosi alle mie presunte vedute festose,
+finsero di scambiarlo per «The Man Who Was Thirsty» [L'uomo che aveva sete].
+Altri naturalmente supposero che l'Uomo [[thursday|Giovedì]] fosse il fratello nero dell'Uomo Venerdì.
+Altri ancora, con più penetrazione, lo trattarono come un mero titolo
+da mondo alla rovescia; come se fosse stato «La Donna che Era Le Otto e Mezzo»,
+o «La Mucca che Era Domani Sera». Ma ciò che mi interessa
+al riguardo era questo; che quasi nessuno che guardasse il titolo pareva mai
+aver guardato il sottotitolo; che era «Un [[nightmare|Incubo]]»,
+e la risposta a parecchie questioni critiche.
 
-Mi soffermo qui sul punto, perché è di una certa importanza per la comprensione di quel [[Time|tempo]]. Mi è stato spesso chiesto che cosa io intenda con quel mostruoso orco da pantomima che veniva chiamato [[Sunday]] in quella storia; e alcuni hanno suggerito, e in un certo senso non a torto, che egli fosse inteso come una versione blasfema del Creatore. Ma il punto è che l'intera storia è un [[nightmare|incubo]] delle cose, non quali sono, ma quali apparivano al giovane mezzo pessimista degli anni '90; e l'orco che appare brutale ma è anche cripticamente benevolo non è tanto Dio, nel senso della religione o dell'irreligione, ma piuttosto la [[Nature]] quale appare al panteista, il cui panteismo sta faticosamente emergendo dal pessimismo. Nella misura in cui la storia aveva un qualche senso, essa era intesa a cominciare con il quadro del mondo al suo peggio e a lavorare verso la suggestione che il quadro non fosse così nero come già era stato dipinto. Spiegai che l'intera cosa fu buttata fuori nel nichilismo degli anni '90, nei versi dedicatori che scrissi al mio amico Bentley, che aveva attraversato lo stesso periodo e gli stessi problemi; chiedendo retoricamente: «Chi comprenderà, se non tu?». In risposta a ciò un recensore osservò assai sensatamente che se nessuno comprendeva il libro tranne il signor Bentley, sembrava irragionevole chiedere ad altri di leggerlo.
+Mi fermo sul punto qui, perché è di una certa importanza
+per la comprensione di quel [[Time|periodo]]. Mi è stato spesso chiesto che cosa
+intendessi con il mostruoso orco da pantomima chiamato [[Sunday|Domenica]] in
+quella storia; e alcuni hanno suggerito, e in un senso non falsamente,
+che fosse inteso come una versione blasfema del Creatore. Ma il punto è
+che l'intera storia è un [[nightmare|incubo]] delle cose,
+non come sono, ma come parevano al giovane semi-pessimista
+degli anni '90; e l'orco che appare brutale ma è anche criptamente
+benevolo non è tanto Dio, nel senso della religione
+o dell'irreligione, ma piuttosto la [[Nature|Natura]] come appare al panteista,
+il cui panteismo sta lottando per uscire dal pessimismo. Per quanto la storia
+avesse un qualche senso in sé, era inteso a cominciare con l'immagine
+del mondo al suo peggio e a lavorare verso il suggerimento
+che l'immagine non fosse così nera come già era dipinta.
+Spiegai che l'intera cosa era gettata fuori nel nichilismo degli
+anni '90 nei versi dedicatori che scrissi al mio amico Bentley,
+che era passato attraverso lo stesso periodo e gli stessi problemi; chiedendo retoricamente:
+«Chi comprenderà se non tu?» In risposta a ciò un recensore
+osservò assai sensatamente che se nessuno comprendeva il libro tranne
+il signor Bentley, pareva irragionevole chiedere ad altre persone di leggerlo.
 
-Ma ne parlo qui perché, benché venisse all'inizio della storia, era destinato ad assumere un altro significato prima della fine di essa. Senza quel remoto seguito, il [[Memory|ricordo]] può apparire tanto privo di senso quanto il libro; ma per il momento posso soltanto lasciare qui agli atti i due fatti a cui riuscii in qualche modo e in qualche senso a testimoniare. In primo luogo, stavo cercando vagamente di fondare un nuovo ottimismo, non sul massimo ma sul minimo di bene. Non mi importava tanto del pessimista che si lamentava che ci fosse così poco bene. Ma ero furioso, fino a voler uccidere, con il pessimista che chiedeva a che cosa servisse il bene. E in secondo luogo, perfino nei primissimi giorni e perfino per le peggiori ragioni, sapevo già troppo per fingere di sbarazzarmi del male. Introdussi alla fine una figura che davvero, con piena consapevolezza, nega e sfida il bene. Molto tempo dopo Padre Ronald Knox mi disse, alla sua maniera bizzarra, di essere sicuro che il resto del libro sarebbe stato usato per provare che io ero un Panteista e un Pagano, e che i Critici Superiori del futuro avrebbero facilmente dimostrato che l'episodio dell'Accusatore era un'interpolazione dei preti.
+Ma ne parlo qui perché, benché venisse all'inizio
+della storia, era destinato ad assumere un altro significato prima
+della fine di essa. Senza quel remoto seguito, la [[Memory|Memoria]] può apparire
+priva di significato come il libro; ma per il momento posso solo lasciare a
+verbale qui i due fatti a cui riuscii chissà come e in qualche senso
+a testimoniare. Primo, cercavo vagamente di fondare un nuovo ottimismo,
+non sul massimo ma sul minimo del bene. Non mi
+spiaceva tanto il pessimista che si lamentava che ci fosse così poco bene.
+Ma ero furioso, fino all'omicidio, con il pessimista che chiedeva
+quale fosse il bene del bene. E secondo, perfino nei primissimi
+giorni e perfino per le peggiori ragioni, sapevo già troppo
+per fingere di sbarazzarmi del male. Introdussi alla fine una figura
+che davvero, con piena comprensione, nega e sfida il bene.
+Molto tempo dopo Padre Ronald Knox mi disse, alla sua maniera capricciosa,
+che era sicuro che il resto del libro sarebbe stato usato per dimostrare
+che io ero un Panteista e un Pagano, e che gli Alti Critici
+del futuro avrebbero facilmente mostrato che l'episodio dell'Accusatore
+era un'interpolazione dei preti.
 
-Non era così; anzi era proprio il contrario. In quel [[Time|tempo]] sarei stato altrettanto seccato quanto chiunque altro nel raggio di miglia, se avessi trovato un prete a immischiarsi nelle mie faccende o a interpolare cose nel mio manoscritto. Misi quella affermazione in quella storia, testimoniando l'estremo male (che è semplicemente il peccato imperdonabile di non desiderare di essere perdonati), non perché l'avessi appreso da alcuno del milione di preti che non avevo mai incontrato, ma perché l'avevo appreso da me stesso. Ero già del tutto certo che avrei potuto, se avessi voluto, recidermi dall'intera vita dell'universo. Mia moglie, quando le si chiede chi l'abbia convertita al Cattolicesimo, risponde sempre: «il diavolo».
+Non era così; anzi era proprio il contrario.
+In quel [[Time|periodo]] sarei stato altrettanto irritato di chiunque
+altro per miglia intorno, se avessi trovato un prete a interferire
+coi miei affari o a interpolare cose nel mio manoscritto.
+Misi quell'affermazione in quella storia, testimoniando l'estremo male
+(che è meramente il peccato imperdonabile di non voler essere perdonati),
+non perché l'avessi imparato da alcuno del milione di preti
+che non avevo mai incontrato, ma perché l'avevo imparato da me stesso.
+Ero già del tutto certo che avrei potuto, se avessi scelto, tagliarmi
+fuori dall'intera vita dell'universo. Mia moglie, quando le si chiede
+chi la convertì al Cattolicesimo, risponde sempre: «il diavolo».
 
-Ma tutto ciò avvenne tanto tempo dopo, che non ha alcuna relazione con la brancolante e congetturale [[philosophy|filosofia]] della storia in questione. Preferirei di gran lunga citare un tributo da parte di un tipo d'uomo del tutto diverso, che fu nondimeno uno dei pochissimi uomini che, per una ragione o per l'altra, siano mai riusciti a raccapezzarsi in questa sventurata [[Romance|storia romanzesca]] della mia giovinezza. Era un illustre psicoanalista, del tipo più moderno e scientifico. Non era un prete; tutt'altro; potremmo dire, come il francese a cui si chiedeva se avesse pranzato sul battello: «au contraire». Non credeva nel Diavolo; Dio non voglia, se c'era un Dio a non volerlo. Ma era uno studioso assai acuto e ardente della propria materia; e mi fece rizzare i capelli in testa dicendo che aveva trovato la mia storia assai giovanile utile come correttivo tra i suoi pazienti morbosi; specialmente il procedimento per cui ciascuno degli anarchi diabolici si rivela essere un buon cittadino travestito. «Conosco un certo numero di uomini che per poco non impazzirono», disse assai gravemente, «ma furono salvati perché avevano davvero compreso The Man Who Was [[thursday|Thursday]]». Egli dev'essere stato piuttosto generosamente esagerato; può darsi che fosse pazzo lui stesso, s'intende; ma allora lo ero anch'io. Confesso però che mi lusinga pensare che, in questo mio periodo di pazzia, io possa essere stato un poco utile ad altri pazzi.
+Ma tutto ciò avvenne così molto tempo dopo, che non ha alcuna relazione
+con la brancolante e congetturale [[philosophy|filosofia]] della storia in questione.
+Preferirei di gran lunga citare un tributo da un tipo d'uomo del tutto diverso,
+che era nondimeno uno dei pochissimi uomini che, per qualche ragione
+o l'altra, abbiano mai capito qualcosa di questo sfortunato [[Romance|Romanzo]]
+della mia giovinezza. Era un distinto psicoanalista, del più moderno
+e scientifico genere. Non era un prete; tutt'altro; potremmo dire,
+come il francese cui si chiese se avesse pranzato sulla barca, «au contraire».
+Non credeva nel Diavolo; Dio non voglia, se c'era un qualche Dio
+a non volerlo. Ma era uno studioso assai acuto e zelante del proprio soggetto;
+e mi fece rizzare i capelli dicendo che aveva trovato la mia
+assai giovanile storia utile come correttivo tra i suoi pazienti morbosi;
+specialmente il processo per cui ciascuno degli anarchici diabolici
+si rivela essere un buon cittadino in incognito. «Conosco un certo numero
+di uomini che quasi impazzirono,» disse assai gravemente, «ma furono salvati
+perché avevano davvero compreso The Man Who Was [[thursday|Thursday]].»
+Deve essere stato piuttosto generosamente esagerato; può darsi che fosse
+egli stesso pazzo, s'intende; ma d'altronde lo ero anch'io. Ma confesso che mi lusinga
+pensare che, in questo mio periodo di follia, io possa essere stato
+un po' utile ad altri folli.
 
 *****

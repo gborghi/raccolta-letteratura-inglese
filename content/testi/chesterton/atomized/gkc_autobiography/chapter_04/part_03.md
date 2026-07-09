@@ -143,10 +143,120 @@ theory is that I do not believe a word of it.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_04">part 04 ›</a></div>
 </nav>
 
-La maggior parte di tutto questo accadde quand'ero alla scuola d'arte; ma perfino dopo che l'ebbi lasciata, questa connessione assai casuale proseguì, in modo bizzarro, per la coincidenza che lavorai per breve [[Time|tempo]] nell'ufficio di un editore piuttosto specializzato in letteratura spiritistica e teosofica, nota sotto il titolo generale di occulto. Non fu interamente colpa mia, se non fu colpa dei veri spiritisti o di altri veri spiriti, se andai a inciampare in angoli piuttosto bizzarri e scomodi dello Spiritismo. Il mio primo giorno d'ufficio ebbi il mio primo scorcio dell'occulto; poiché avevo idee assai vaghe di quel commercio, come della maggior parte degli altri commerci. Sapevo che avevamo appena pubblicato un grosso libro, spinto con vigore, sulla Vita e le Lettere della defunta Dott.ssa Anna Kingsford, di cui non avevo mai sentito parlare, benché molti dei nostri clienti sembrassero non aver sentito parlare di quasi nessun altro. La mia piena illuminazione venne quando una signora sconvolta si precipitò nell'ufficio e cominciò a descrivere i suoi più complicati sintomi spirituali e a domandare i libri più adatti al suo male, che io ero del tutto incompetente a scegliere. Le offrii timidamente le monumentali Vita e Lettere; ma ella indietreggiò con qualcosa come un debole strillo. «No, no», gridò, «non devo! Anna Kingsford dice che non devo». Poi, con maggiore controllo: «Anna Kingsford mi ha detto stamattina che non devo leggere la sua Vita; sarebbe assai dannoso per me, ha detto, leggere la sua Vita». Mi arrischiai a dire, o a balbettare, con tutta la crudezza del parlare comune: «Ma Anna Kingsford è morta». «Mi ha detto stamattina», ripeté la signora, «che non devo leggere il libro». «[[Well|Ebbene]]», dissi, «[[Hope|spero]] che la Dott.ssa Kingsford non abbia dato questo consiglio a molti; sarebbe piuttosto dannoso per gli affari. Sembra piuttosto malevolo da parte della Dott.ssa Kingsford».
+Gran parte di ciò accadde quando ero alla scuola d'arte; ma perfino
+dopo che l'ebbi lasciata, questo assai casuale legame continuò,
+in un modo strano, per la coincidenza che lavorai per un breve [[Time|periodo]]
+nell'ufficio di un editore che si specializzava piuttosto in letteratura spiritista
+e teosofica, nota sotto il titolo generale
+di occulto. Non fu del tutto colpa mia, se non fu colpa
+dei veri spiritisti o di altri veri spiriti, se inciampai
+in angoli piuttosto strani e scomodi dello Spiritismo.
+Il mio primo giorno in ufficio ebbi la mia prima incursione nell'occulto;
+poiché ero assai vago sull'attività, come sulla maggior parte delle altre attività.
+Sapevo che avevamo appena pubblicato un grande e vigorosamente strombazzato
+libro della Vita e Lettere della defunta Dott.ssa Anna Kingsford,
+di cui non avevo mai sentito parlare, benché molti dei nostri clienti paressero
+non aver sentito parlare quasi di nessun altro. La mia piena illuminazione venne
+quando una signora sconvolta si precipitò nell'ufficio e cominciò a descrivere
+i suoi più complessi sintomi spirituali e a chiedere i libri più
+adatti al suo disturbo, che io ero del tutto incompetente a scegliere.
+Le offrii timidamente la monumentale Vita e Lettere; ma lei si ritrasse
+con qualcosa come un debole strillo. «No, no,» esclamò,
+«non devo! Anna Kingsford dice che non devo.» Poi, con più controllo,
+«Anna Kingsford mi ha detto stamattina che non devo leggere la sua Vita;
+sarebbe assai male per me, ha detto, leggere la sua Vita.»
+Osai dire, o balbettare, con tutta la crudezza del linguaggio comune:
+«Ma Anna Kingsford è morta.» «Me l'ha detto stamattina,»
+ripeté la signora, «che non devo leggere il libro.» «[[Well|Ebbene]],» dissi,
+«[[Hope|spero]] che la Dott.ssa Kingsford non abbia dato questo consiglio a molta gente;
+sarebbe piuttosto male per gli affari. Sembra piuttosto malevolo
+da parte della Dott.ssa Kingsford.»
 
-Presto scoprii che malevolo era una parola tenue per la Dott.ssa Anna Kingsford. Con tutto il rispetto per la sua ombra, che per me è l'[[Shadow|ombra]] di un'ombra, avrei detto allora, e credo che direi anche adesso, che la parola più caritatevole era «pazza». Menziono la faccenda qui perché, pur non implicando alcuna contraddizione della teoria cosmica dello Spiritismo, essa illustra l'accidente per cui andai a urtare in una bizzarra specie di spiritista; e ha qualche relazione con una veduta più generale della ragione e della religione. La signora celebrata in questo libro era per lo meno bizzarra. Il suo vanto era di aver ucciso un certo numero di uomini semplicemente pensando a loro; la sua scusa era che si trattava di uomini che difendevano la vivisezione. Aveva anche colloqui assai visionari ma assai intimi con vari eminenti uomini pubblici, apparentemente in luoghi di tormento; ne ricordo uno con il signor Gladstone, in cui una discussione sull'Irlanda e il Sudan venne interrotta dal signor Gladstone che gradualmente diventava rovente dall'interno. «Sentendo che egli avrebbe desiderato restare [[Alone|solo]]», disse con delicatezza la Dott.ssa Anna Kingsford, «uscii»; ed ella deve ora, [[Fear|temo]], uscire da questa frammentaria narrazione. [[Hope|Spero]] di non farle torto; sono abbastanza certo che fosse piena di molti generosi entusiasmi; ma affido la mia [[Faith|fede]], come direbbe mio padre, a quel fine tatto e senso del decoro sociale, che le disse che diventare completamente roventi è ciò che nessun gentiluomo [[Desire|desidererebbe]] fare alla presenza di una signora.
+Scoprii presto che malevolo era una parola blanda per la Dott.ssa Anna Kingsford.
+Con tutto il rispetto per la sua ombra, che per me è l'[[Shadow|ombra]] di un'ombra,
+avrei dovuto dire allora, e credo che dovrei dire ora, che la parola più
+caritatevole era «pazza». Menziono la faccenda qui perché,
+pur non implicando alcuna contraddizione della teoria cosmica dello Spiritismo,
+essa illustra l'accidente per cui mi imbattei in uno strano tipo
+di Spiritista; e ha una qualche relazione con una visione più generale della ragione
+e della religione. La signora celebrata in questo libro era quanto meno strana.
+Il suo vanto era di aver ucciso un certo numero di uomini semplicemente pensando
+a loro; la sua scusa era che erano uomini che difendevano la vivisezione.
+Ella aveva anche colloqui assai visionari ma assai intimi con
+vari eminenti uomini pubblici, apparentemente in luoghi di tormento;
+ne ricordo uno con il signor Gladstone, in cui una discussione sull'Irlanda
+e sul Sudan fu interrotta dal signor Gladstone che gradualmente diveniva
+rovente dall'interno. «Sentendo che avrebbe voluto restare [[Alone|solo]],»
+disse la Dott.ssa Anna Kingsford con delicatezza, «uscii»;
+ed ella deve ora, [[Fear|temo]], uscire da questa frammentaria narrazione.
+[[Hope|Spero]] di non farle alcuna ingiustizia; sono abbastanza sicuro che fosse piena di molti
+generosi entusiasmi; ma affido la mia [[Faith|Fede]], come direbbe mio padre,
+a quel fine tatto e senso del decoro sociale, che le diceva
+che diventare del tutto roventi è ciò che nessun gentiluomo [[Desire|Desidererebbe]]
+fare alla presenza di una signora.
 
-Nel complesso, il più gioviale spiritista che io abbia mai incontrato, almeno fino a molto tempo dopo, e l'indagatore dello psichico per il quale provai la più immediata simpatia, fu un uomo che credeva fermamente di aver ricevuto una volta, da qualche medium in qualche luogo, una soffiata vincente per il Derby, e andava ancora dando la caccia ai medium in cerca di informazioni dello stesso genere. Gli suggerii di comprare The Pink 'un e di trasformarlo in un giornale che combinasse i due interessi, venduto a ogni edicola sotto il nome di The Sporting and Spiritual Times. Questo, dissi, non poteva mancare di innalzare allibratori e fantini in una più sublime sfera di contemplazione spirituale, per non parlare dei proprietari di scuderia, che probabilmente ne hanno altrettanto bisogno; mentre avrebbe dato allo Spiritismo un solido, accorto e prospero lato commerciale, ne avrebbe accresciuto vastamente la popolarità, e avrebbe dato ad alcuni dei suoi seguaci un indefinibile sentore di contatto con le cose concrete e oggettive e con quello che si chiama rozzamente buon senso, del quale alcuni di essi, come sentivo in quel [[Time|tempo]], sembravano in qualche modo mancare. Non ho bisogno di fantasticarci sopra qui.
+Nel complesso, lo Spiritista più gioviale che io abbia mai incontrato, almeno fino a
+molto tempo dopo, e il ricercatore psichico per cui provai la più
+immediata simpatia, fu un uomo che credeva fermamente di aver una volta
+ottenuto una vincente soffiata per il Derby da qualche medium da qualche parte,
+e stava ancora inseguendo medium per informazioni dello stesso genere.
+Gli suggerii di acquistare Il Pink 'un e trasformarlo
+in un giornale che combinasse i due interessi, e venduto a ogni edicola
+sotto il nome di The Sporting and Spiritual Times. Questo, dissi,
+non poteva mancare di elevare allibratori e fantini in una sfera più elevata
+di contemplazione spirituale, per non dire dei proprietari, che probabilmente
+ne hanno bisogno quanto loro; mentre avrebbe dato allo Spiritismo un lato
+commerciale solido, accorto e di successo, ne avrebbe accresciuto immensamente la popolarità,
+e avrebbe dato ad alcuni dei suoi seguaci un'indefinibile aria di contatto con
+concrete faccende oggettive e con ciò che rozzamente si chiama buonsenso,
+di cui alcuni di loro, come sentivo al [[Time|momento]], parevano in qualche modo
+mancare. Non ho bisogno di speculare su ciò qui.
 
-Del resto, finché sono sull'argomento, posso assicurare al lettore che non ho mai sperimentato nulla di ciò che si chiama psichico, il che potrebbe essere una disperata scusa per la mia successiva fede nelle cose chiamate spirituali. Non mi è quasi mai capitato di imbattermi nemmeno nelle bizzarre coincidenze psichiche in cui si imbatte quasi chiunque; a meno di non contare la storia custodita come un tesoro nella mia famiglia, quella dello Spettro di Sarolea. Il Dott. Sarolea, quell'ardente professore fiammingo di francese, è certamente uno degli uomini più notevoli che io abbia conosciuto; ma egli non incrociò il mio cammino se non molto tempo dopo; è però indubitabilmente un fatto che noi lo aspettavamo a cena e mia moglie scorse l'inconfondibile lunga figura e la barba a punta da una [[Window|finestra]]; dopo di che egli svanì completamente dal paesaggio. Ciò che rese la storia davvero da brividi fu che subito dopo un giovanissimo scozzese comparve alla porta, chiedendo del Dott. Sarolea. Lo scozzese rimase a cena; ma non lo spettro. Egli sarebbe dovuto venire con lo spettro; il quale (come si scoprì in seguito) lo aveva atteso con una certa irritazione al National Liberal Club. Una teoria era che la sua collera avesse precipitato il suo [[Body|corpo]] astrale giù fino a Beaconsfield, ma si fosse esaurita proprio prima che egli raggiungesse la [[house|casa]]. Un'altra ovvia teoria, che la mia mente più materialistica naturalmente preferiva, era che egli fosse stato assassinato dal giovane e nascosto nello stagno del mio [[Garden|giardino]]; ma una successiva ricerca [[Detective|poliziesca]] la trovò infondata. Menziono la mia teoria alternativa, che preferisco di gran lunga, soltanto perché è impossibile menzionare il Dott. Sarolea, anche a questo prematuro stadio della storia, senza dire qualcosa di lui. Il Dott. Sarolea è uno dei più dotti linguisti d'Europa; impara una nuova lingua ogni settimana o giù di lì. La sua biblioteca è una delle meraviglie del mondo, per non dire delle mostruosità del mondo. L'ultima volta che lo vidi mi diede l'impressione di comprare le case vicine a destra e a sinistra per far posto alla sua biblioteca. Che cosa, mi chiesi, che cosa è più probabile del fatto che un uomo di questa fatta si ritrovi più tardi nella vita nell'esatta posizione di [[Faust]]? E che cosa è più ragionevole, che cosa più probabile, del fatto che Mefistofele lo abbia incontrato all'angolo della [[Road|strada]] mentre saliva dalla stazione di Beaconsfield; e gli abbia proposto l'antico contratto, per cui, con un solo soffio di [[Magic|magia]], egli sarebbe stato trasformato nel bel giovane che un momento dopo bussava alla mia porta? Questa teoria psichica sarebbe avvalorata dal fatto che il giovane ora sta facendo [[Well|bene]] in politica; e per nulla scossa, s'intende, dal fatto che il Dott. Sarolea (sono felice di dirlo) è ancora vivo e attivo a Edimburgo. L'unica difficoltà che essa presenta è una che affligge anche la mia trionfante teoria secondo cui Shakespeare scrisse Bacone (controversialmente assai più forte che l'inverso), la quale paralizzò la [[Faith|fede]] di mio padre nella storia del [[house|pubblico ritrovo]]; e mi induce a sospettare che questo incidente piuttosto strano fosse una di quelle stranezze abbastanza ordinarie; come quando scambiamo uno sconosciuto per un amico; e poi incontriamo l'amico più tardi. In breve, l'unica obiezione alla mia completa e convincente teoria psichica è che non ne credo una sola parola.
+Del resto, mentre sono sull'argomento, posso assicurare al lettore che
+non ho mai sperimentato alcunché chiamato psichico, che potrebbe essere una
+disperata scusa per la mia successiva credenza nelle cose chiamate spirituali.
+Non mi è quasi mai capitato di incappare neppure nelle strane coincidenze psichiche
+che colpiscono quasi chiunque; a meno che non si conti la storia custodita nella mia
+famiglia come quella dello Spettro di Sarolea. Il Dott. Sarolea, quel focoso
+Professore fiammingo di francese, è di certo uno degli uomini più notevoli
+che io abbia conosciuto; ma egli non attraversò mai il mio cammino fino a molto tempo dopo;
+ma è indubbiamente un fatto che lo aspettavamo a cena
+e mia moglie scorse l'inconfondibile lunga figura e la barba appuntita
+da una [[Window|finestra]]; dopodiché egli svanì del tutto dal paesaggio.
+Ciò che rese la storia davvero raccapricciante fu che subito dopo un
+giovanissimo scozzese comparve alla porta, chiedendo del Dott. Sarolea.
+Lo scozzese rimase a cena; ma non lo spettro. Doveva
+essere venuto giù con lo spettro; il quale (come risultò in seguito)
+lo aveva atteso con una certa irritazione al National Liberal Club.
+Una teoria era che la sua rabbia avesse precipitato il suo [[Body|corpo]] astrale giù
+a Beaconsfield, ma si fosse esaurita proprio prima che raggiungesse la [[house|casa]].
+Un'altra ovvia teoria, che la mia mente più materialistica
+naturalmente preferiva, era che egli fosse stato assassinato dal giovane
+e nascosto nello stagno del mio [[Garden|Giardino]]; ma una successiva ricerca [[Detective|poliziesca]]
+scoprì che ciò era infondato. Menziono la mia teoria alternativa,
+che preferisco assai, solo perché è impossibile menzionare
+il Dott. Sarolea, anche a questo stadio prematuro della storia, senza dire
+qualcosa di lui. Il Dott. Sarolea è uno dei più dotti
+linguisti d'Europa; impara una nuova lingua ogni settimana o giù di lì.
+La sua biblioteca è una delle meraviglie del mondo, per non dire
+delle mostruosità del mondo. L'ultima volta che lo vidi mi diede
+l'impressione di comprare le case vicine a destra e a sinistra
+per trovare spazio per la sua biblioteca. Che cosa, mi chiesi, che cosa è più
+probabile del fatto che un uomo di questo genere si ritrovi più tardi
+nella vita nell'esatta posizione di [[Faust]]? E che cosa è più ragionevole,
+che cosa più probabile, del fatto che Mefistofele lo abbia incontrato
+all'angolo della [[Road|Strada]] mentre saliva dalla stazione di Beaconsfield;
+e gli abbia proposto l'antico contratto, per cui, con un solo soffio di [[Magic|Magia]],
+egli sarebbe stato tramutato nel bel giovane che un momento dopo
+bussava alla mia porta? Questa teoria psichica sarebbe sostenuta
+dal fatto che il giovane sta ora facendo [[Well|carriera]] in politica;
+e del tutto non scossa, s'intende, dal fatto che il Dott. Sarolea (sono
+lieto di dire) è ancora vivo e attivo a Edimburgo.
+L'unica difficoltà al riguardo è una che affligge anche la mia trionfante
+teoria che Shakespeare scrisse Bacone (controversialmente assai più forte
+della converse), che paralizzò la [[Faith|Fede]] di mio padre nella storia
+del [[house|locale]] pubblico; e mi induce a sospettare che questo piuttosto strano
+incidente fosse una di quelle stramberie abbastanza ordinarie; come quando scambiamo
+uno sconosciuto per un amico; e poi incontriamo l'amico in seguito.
+In breve, l'unica obiezione alla mia completa e convincente teoria psichica
+è che non ne credo una parola.

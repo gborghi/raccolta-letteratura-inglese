@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_38_the_saint_and_the_dragon">‹ Story 38 The Saint And The Dragon</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_40_creeds_and_cobwebs">Story 40 Creeds And Cobwebs ›</a></div>
@@ -32,3 +34,31 @@ only may have something to do with the Christian God, but must
 have something to do with Him if He really lives and reigns.
 
                                            Daily News, December 12th, 1903
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_38_the_saint_and_the_dragon">‹ Story 38 The Saint And The Dragon</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_40_creeds_and_cobwebs">Story 40 Creeds And Cobwebs ›</a></div>
+</nav>
+
+UNA RILEVANZA UNIVERSALE
+
+Non si può eludere la questione di Dio; che si parli di maiali
+o del teorema binomiale, si sta pur sempre parlando di Lui.
+Ora, se il cristianesimo fosse... un frammento di sciocchezza metafisica
+inventato da poche persone, allora, naturalmente, difenderlo significherebbe semplicemente
+ripetere quella sciocchezza metafisica ancora e ancora.
+Ma se il cristianesimo dovesse per caso essere vero — vale a dire,
+se il suo Dio è il Dio reale dell'universo — allora difenderlo
+può significare parlare di qualsiasi cosa e di ogni cosa. Le cose possono
+essere irrilevanti rispetto alla proposizione che il cristianesimo è falso,
+ma nulla può essere irrilevante rispetto alla proposizione che il cristianesimo
+è vero. Zulù, giardinaggio, botteghe di macellai, manicomi,
+domestiche e la Rivoluzione francese — tutte queste cose non
+solo possono avere qualcosa a che fare col Dio cristiano, ma devono
+avere qualcosa a che fare con Lui, se davvero Egli vive e regna.
+
+                                           Daily News, 12 dicembre 1903

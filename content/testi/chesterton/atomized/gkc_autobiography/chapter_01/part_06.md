@@ -137,12 +137,114 @@ to St. George.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_01/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_02/part_01">part 01 ›</a></div>
 </nav>
 
-So [[Well|bene]] di essere stato molto fortunato nella mia famiglia. Ma perfino i meno fortunati non erano soggetti a quei mali particolari che oggi si sogliono etichettare come vittoriani. Anzi, nel senso moderno del termine, l'età vittoriana non fu affatto vittoriana. Fu un periodo di tensione crescente. Fu l'esatto contrario di una solida rispettabilità, giacché la sua etica e la sua teologia si andavano assottigliando dappertutto. Sarà anche stata ordinata rispetto a ciò che venne dopo; ma non rispetto ai secoli che l'avevano preceduta. Talvolta si vantava di essere domestica; ma la [[Home|casa]] dell'inglese non era domestica neppure per metà quanto quella dell'orribile straniero, il francese dissoluto. Fu l'epoca in cui l'inglese mandava tutti i suoi figli in collegio e metteva tutti i suoi servitori al bando. Non riesco a immaginare perché mai qualcuno abbia detto che la [[house|dimora]] dell'inglese era il suo [[Castle|castello]]; visto che egli era uno dei pochi europei a non possedere nemmeno la propria [[house|dimora]]; e la sua [[house|dimora]] era, per sua stessa ammissione, una scatola scialba di mattoni, la meno somigliante a un [[Castle|castello]] fra tutte le case. Soprattutto, ben lungi dall'essere rigida di religione ortodossa, essa fu quasi la prima [[Home|casa]] irreligiosa in tutta la [[history|storia]] umana. La loro fu la prima generazione che abbia mai chiesto ai propri figli di venerare il focolare senza l'altare. E ciò valeva parimenti, sia che andassero in chiesa alle undici in [[Clock|punto]], con più decoroso scrupolo del gaio ingannatore col suo libro di [[Prayer|preghiere]], sia che fossero riverentemente agnostici o latitudinari, come lo era buona parte della cerchia mia. Per lo più era la vita familiare spogliata delle sue feste, dei suoi santuari e dei suoi culti privati, che in passato ne erano stati la poesia. Era uno scherzo parlare dei pesanti mobili del pesante padre di famiglia, e chiamare le sedie e i tavoli i suoi dèi domestici. Il fatto era che egli fu il primo uomo per il quale non esistevano più dèi domestici, ma soltanto mobilia.
+So [[Well|bene]] di essere stato assai fortunato nella mia stessa famiglia.
+Ma perfino quelli meno fortunati non erano soggetti agli speciali mali
+ora comunemente etichettati come vittoriani. In effetti, nel senso moderno,
+il Vittoriano non era affatto vittoriano. Era un periodo di
+crescente tensione. Era proprio l'opposto della solida rispettabilità;
+perché la sua etica e la sua teologia si andavano assottigliando dappertutto.
+Poteva essere ordinato in confronto a ciò che venne dopo;
+ma non in confronto ai secoli che vennero prima.
+Talvolta si vantava di essere domestico; ma la [[Home|Casa]] dell'inglese
+non era neppure la metà tanto domestica di quella dell'orrido straniero;
+il dissoluto francese. Era l'età in cui l'inglese mandava
+tutti i suoi figli in collegio e mandava tutti i suoi domestici a quel paese.
+Non riesco a immaginare perché mai qualcuno abbia detto che la [[house|casa]] dell'inglese
+fosse il suo [[Castle|Castello]]; giacché egli era uno dei pochi europei
+che non possedeva neppure la propria [[house|casa]]; e la sua [[house|casa]] era dichiaratamente
+una scatola di mattoni, la meno simile a un [[Castle|Castello]] tra tutte le case.
+Soprattutto, ben lungi dall'essere impettito di religione ortodossa,
+esso fu quasi il primo [[Home|focolare]] irreligioso in tutta la [[history|storia]] umana.
+La loro fu la prima generazione che abbia mai chiesto ai propri figli
+di venerare il focolare senza l'altare. Ciò era ugualmente vero,
+sia che andassero in chiesa alle undici in [[Clock|punto]], con più decorosa
+scrupolosità del gaio ingannatore col libro di [[Prayer|preghiere]], sia che fossero
+riverentemente agnostici o latitudinari, come lo era gran parte della mia cerchia.
+Per la maggior parte, era vita familiare spogliata delle sue feste
+e dei suoi santuari e dei suoi culti privati, che erano stati la sua poesia nel passato.
+Era uno scherzo parlare del pesante mobilio del pesante padre di famiglia,
+e chiamare le sedie e i tavoli i suoi dèi domestici. Era il fatto
+che egli era il primo uomo, per il quale non c'erano dèi domestici,
+ma soltanto mobilio.
 
-Questo era il lato più scialbo; ma sul lato più tetro si è esagerato ancora di più. Voglio dire che i romanzieri moderni e altri hanno preso il vezzo di scrivere come se l'antica [[Home|casa]] borghese fosse quasi sempre un manicomio privato, col matto al comando; come nel caso di quel Cappellaio arcimatto che abitava il [[Castle|Castello]] del Cappellaio. Questa è una [[Grotesque|grottesca]] esagerazione; c'erano genitori dotati di questo selvaggio grado di egoismo; ne rammento non molti più di tre in tutta la nostra vecchia cerchia sociale; ma perfino a loro si attribuiscono le associazioni sbagliate. Alcuni di essi potevano essere fanatici religiosi. Ne ricordo uno che teneva le figlie rinchiuse come prigioniere; e una di loro mi disse: «Vedi, egli crede che nessun altro sappia pensare, tranne lui stesso e Herbert Spencer». Ne ricordo un altro che era un Radicale estremista, un campione della libertà dappertutto tranne che in [[Home|casa]]. La cosa ha una certa importanza storica. I tiranni, religiosi o irreligiosi, spuntano dovunque. Ma questo tipo di [[Tyrant|tiranno]] fu il prodotto di quel preciso momento in cui l'uomo borghese aveva ancora figli e servitori da controllare, ma non aveva più credi né corporazioni né re né sacerdoti né alcunché che controllasse lui. Egli era ormai un anarchico verso chi gli stava sopra, ma ancora un autoritario verso chi gli stava sotto. Ma era comunque un individuo anormale; e nessuno dei miei gli somigliava neppure lontanamente.
+Quello era il lato più insulso; ma c'è stata perfino più esagerazione
+riguardo al lato più tenebroso. Intendo che i romanzieri moderni e altri hanno
+preso l'abitudine di scrivere come se la vecchia [[Home|Casa]] della classe media fosse quasi
+sempre un manicomio privato, col matto al comando; come nel
+caso dell'oltremodo Matto Cappellaio che abitava Hatter's [[Castle|Castle]].
+Questa è una [[Grotesque|grottesca]] esagerazione; c'erano genitori con questo selvaggio
+grado di egoismo; ne rammento non molto più di tre
+in tutta la nostra vecchia cerchia sociale; ma perfino a loro sono
+attribuite le associazioni sbagliate. Alcuni di essi potevano essere fanatici religiosi.
+Ne ricordo uno, che rinchiudeva le figlie come prigioniere;
+e una di esse mi disse: «Vedi, egli pensa che nessun altro
+sappia pensare affatto, tranne lui stesso e Herbert Spencer.»
+Ne ricordo un altro che era un Radicale estremo, un campione della libertà
+dappertutto tranne che a [[Home|Casa]]. Il punto è di una certa importanza storica.
+I tiranni, religiosi o irreligiosi, spuntano dovunque. Ma questo tipo
+di [[Tyrant|Tiranno]] era il prodotto del preciso momento in cui un uomo della classe media
+aveva ancora figli e domestici da tenere a freno; ma non aveva
+più credi o corporazioni o re o preti o alcunché a tenere a freno lui.
+Era già un anarchico verso quelli sopra di lui; ma pur sempre un
+autoritario verso quelli sotto di lui. Ma era comunque un tipo anomalo;
+e nessuno dei miei recava la minima somiglianza con lui.
 
-L'elemento puritano che pur c'era in quella dimenticata società va certamente messo in conto come parte del quadro. Presso i miei consisteva per lo più in una piuttosto illogica disapprovazione di certe forme di lusso e di spesa. Le loro tavole si piegavano sotto pranzi ben più sontuosi di quanti ne consumino oggi molti aristocratici. Ma nutrivano, per esempio, il fisso sentimento che vi fosse qualcosa di piuttosto sguaiato nel prendere una carrozza. Ciò era probabilmente connesso col loro suscettibile [[Pride|orgoglio]] di non scimmiottare l'aristocrazia. Ricordo mio nonno che, quando aveva quasi ottant'anni e poteva permettersi quante carrozze voleva, se ne stava sotto la pioggia scrosciante mentre gli passavano davanti sette od otto omnibus stipati; e poi sussurrava a mio padre (a voce smorzata, perché la bestemmia non fosse udita dai giovani): «Se fossero passati altri tre omnibus, sull'anima [[Soul|mia]] credo che avrei preso una carrozza». In fatto di andarmene in giro in carrozza, non posso pretendere di aver mantenuto immacolato lo stemma di famiglia, né di essere stato all'altezza degli alti principii dei miei avi. Ma quanto al loro movente per non farlo, sono propenso a difenderli, o almeno a dire che sono assai fraintesi. Erano gli ultimi discendenti della signora Gilpin, che ordinò al calesse di fermarsi a qualche porta di distanza dalla sua [[house|casa]], perché i vicini non la credessero superba. Non sono affatto sicuro che ella non fosse una persona più sana della elegante dama che si lascerà vedere sulla Rolls Royce di chiunque, perché i vicini non la credano umile.
+Quale elemento puritano ci fosse in questa società dimenticata
+va certo tenuto in conto come parte del quadro.
+Era per lo più, tra la mia gente, una disapprovazione piuttosto illogica
+di certe forme di lusso e di spesa. Le loro tavole
+gemevano sotto pranzi assai più grandiosi di quanti molti aristocratici ne mangino oggi.
+Ma avevano, per esempio, la ferma sensazione che ci fosse qualcosa
+di piuttosto sconveniente nel prendere una carrozza. Era probabilmente legato
+al loro sensibile [[Pride|orgoglio]] di non scimmiottare l'aristocrazia.
+Ricordo mio nonno, quando aveva quasi ottant'anni e poteva
+permettersi un numero qualsiasi di carrozze, stare in piedi sotto la pioggia scrosciante mentre sette
+o otto omnibus affollati passavano; e poi bisbigliare a mio padre
+(a voce bassa, per timore che la bestemmia fosse udita dai giovani):
+«Se fossero passati altri tre omnibus, sull'[[Soul|anima]] mia credo che
+avrei preso una carrozza.» In materia di andare in giro in carrozza,
+non posso pretendere di aver mantenuto lo stemma di famiglia senza macchia,
+o di essere stato all'altezza dell'alto criterio dei miei avi.
+Ma quanto al loro motivo per non farlo, sono incline
+a difenderli, o almeno a dire che sono assai fraintesi.
+Erano gli ultimi discendenti della signora Gilpin, che disse al calesse di fermarsi
+a poche porte dalla sua [[house|casa]], per timore che i vicini la credessero orgogliosa.
+Non sono sicuro che non fosse una persona più sana della smart
+lady che si farà vedere nella Rolls Royce di chiunque, per timore che i vicini
+la credano umile.
 
-Tale, per quanto io lo conosca, era il paesaggio sociale in cui mi trovai per la prima volta; e tali erano le persone fra cui nacqui. Mi spiace se il paesaggio o le persone appaiono deludentemente rispettabili e perfino ragionevoli, e privi di tutte quelle spiacevoli qualità che rendono davvero popolare una [[Biography|biografia]]. Mi dispiace di non avere alcun padre cupo e selvaggio da offrire agli sguardi del pubblico come vera causa di tutta la mia tragica eredità; nessuna madre dal volto pallido e mezzo avvelenata i cui istinti suicidi mi abbiano maledetto con le tentazioni del temperamento artistico. Mi dispiace che nella gamma della nostra famiglia non ci fosse nulla di più piccante di uno zio remoto e moderatamente squattrinato; e di non poter compiere il mio dovere di vero moderno, maledicendo chiunque mi abbia reso ciò che sono. Non mi è chiaro che cosa io sia; ma sono abbastanza sicuro che per la maggior parte è colpa mia. E sono costretto a confessare che ripenso a quel paesaggio dei miei primi giorni con un piacere che senza dubbio dovrebbe essere riservato alle Utopie del Futurista. Eppure quel paesaggio, così come lo vedo ora, non era del tutto privo di un carattere visionario e simbolico. E fra tutti gli oggetti di quel paesaggio, mi ritrovo a tornare, alla fine, a quelli che ho menzionato per primi. In un modo o nell'altro, quelle cose sono giunte a rappresentare tante altre cose, nell'[[Allegory|allegoria]] recitata di un'esistenza umana; la piccola chiesa del mio battesimo e l'acquedotto, la nuda, cieca, vertiginosa torre di mattoni che pareva, ai miei primi sguardi rivolti in alto, afferrare le [[Stars|stelle]]. Forse c'era qualcosa nella confusa e caotica nozione di una torre d'[[Water|acqua]]; come se il mare stesso potesse ergersi in verticale come una tromba d'[[Water|acqua]]. Certo più tardi, benché a stento sappia quanto tardi, mi venne in mente una qualche fantasia di un colossale serpente d'[[Water|acqua]] che poteva essere il Grande Serpente di Mare, e che aveva qualcosa della vicinanza da [[nightmare|incubo]] di un drago in [[A Dream|un sogno]]. E, di fronte a essa, la piccola chiesa si [[Rose|levava]] in una guglia simile a una lancia; e mi ha sempre fatto piacere ricordare che era dedicata a San Giorgio.
+Tale, per quanto ne so, era il paesaggio sociale in cui mi
+trovai per la prima volta; e tali erano le persone tra cui nacqui.
+Mi dispiace se il paesaggio o le persone appaiono deludentemente
+rispettabili e persino ragionevoli, e privi di tutte quelle
+sgradevoli qualità che rendono una [[Biography|biografia]] davvero popolare.
+Mi rincresce di non avere alcun padre tetro e selvaggio da offrire
+allo sguardo del pubblico come vera causa di tutta la mia tragica eredità;
+nessuna madre dal viso pallido e parzialmente avvelenata, i cui istinti
+suicidi mi abbiano maledetto con le tentazioni del temperamento artistico.
+Mi rincresce che non ci fosse nella gamma della nostra famiglia
+nulla di molto più pepato di un remoto e blandamente squattrinato zio;
+e che non possa compiere il mio dovere di vero moderno, maledicendo chiunque
+mi abbia fatto ciò che sono. Non ho le idee chiare su che cosa ciò sia;
+ma sono piuttosto sicuro che la maggior parte di esso sia colpa mia.
+E sono costretto a confessare che ripenso a quel paesaggio
+dei miei primi giorni con un piacere che senza dubbio andrebbe riservato
+alle Utopie del Futurista. Eppure il paesaggio, come lo vedo ora,
+non era del tutto privo di un carattere visionario e simbolico.
+E tra tutti gli oggetti di quel paesaggio, mi ritrovo
+a tornare infine a quelli che ho menzionato per primi.
+In un modo o nell'altro, quelle cose sono giunte a rappresentare tante
+altre cose, nell'[[Allegory|Allegoria]] recitata di un'esistenza umana;
+la chiesetta del mio battesimo e l'acquedotto, la nuda, cieca,
+vertiginosa torre di mattoni che pareva, ai miei primi sguardi rivolti in alto,
+afferrare le [[Stars|stelle]]. Forse c'era qualcosa nella
+confusa e caotica nozione di una torre d'[[Water|acqua]]; come se il mare
+stesso potesse stare ritto su un'estremità come una tromba d'[[Water|acqua]]. Certo più tardi,
+benché non sappia bene quanto tardi, entrò nella mia mente una qualche fantasia
+di un colossale serpente d'[[Water|acqua]] che potesse essere il Grande Serpente di Mare,
+e aveva qualcosa dell'[[nightmare|incubica]] vicinanza di un drago in [[A Dream|un sogno]].
+E, di fronte ad essa, la chiesetta si [[Rose|levava]] in una guglia come una lancia;
+e mi ha sempre fatto piacere ricordare che era dedicata
+a San Giorgio.
 
 *****

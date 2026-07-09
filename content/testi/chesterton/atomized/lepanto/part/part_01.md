@@ -191,7 +191,7 @@ increspa la mezzaluna rossa di [[Blood|sangue]], la mezzaluna delle sue labbra;
 ché il mare più interno di tutta la terra è scosso dalle sue navi.  
 Hanno sfidato le bianche repubbliche su per i capi d'[[Italy|Italia]],  
 hanno sferzato l'Adriatico intorno al [[Lion|Leone]] del Mare,  
-e il Papa ha steso le braccia al mondo in agonia e perdita,  
+e il Papa ha levato le braccia al cielo per angoscia e rovina,  
 e ha chiamato i re di Cristianità a spade attorno alla [[Cross|Croce]].  
 La fredda [[Queen|regina]] d'Inghilterra si guarda nello specchio;  
 l'[[Shadow|ombra]] del Valois sbadiglia alla Messa;  
@@ -220,7 +220,7 @@ Luce di [[Death|morte]] d'Africa!
 [[Don John of Austria|Don Giovanni d'Austria]]  
 cavalca verso il mare.  
 
-Mahound è nel suo paradiso sopra la [[Evening Star|stella della sera]],  
+Macone è nel suo paradiso sopra la [[Evening Star|stella della sera]],  
 (_Don Giovanni d'Austria va alla guerra._)  
 muove un turbante immenso sulle ginocchia dell'urì senza tempo,  
 il suo turbante ch'è tessuto dei tramonti e dei mari.  
@@ -240,7 +240,7 @@ dove stanno cieli caduti e tinte maligne e creature senza occhi,
 su loro s'aggrappano le valve marine e s'attorcono le grigie foreste del mare,  
 chiazzati d'uno splendido morbo, il morbo della perla;  
 si gonfiano in fumo di zaffiro dalle azzurre crepe del suolo,--  
-si radunano, son colmi di [[Wonder|stupore]], e rendono culto a Mahound.  
+si radunano, son colmi di [[Wonder|stupore]], e rendono culto a Macone.  
 Ed egli dice: «Spezzate le [[Mountains|montagne]] dove può celarsi il popolo eremita,  
 e setacciate le sabbie rosse e d'argento perché non vi resti osso di santo,  
 e cacciate i Giaurri in fuga [[Night|notte]] e giorno, senza dare tregua,  
@@ -261,7 +261,7 @@ Fulmine d'Iberia!
 è passato per Alcalar.  
 
 San Michele sul suo Monte nelle vie marine del nord  
-(_Don Giovanni d'Austria è cinto d'armi e muove._)  
+(_Don Giovanni d'Austria è cinto d'armi e muove innanzi._)  
 dove i grigi mari luccicano e mutano le maree taglienti  
 e la gente di mare fatica e si levano le rosse vele.  
 Scuote la sua lancia di ferro e batte le sue ali di pietra;  

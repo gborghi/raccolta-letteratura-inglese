@@ -646,607 +646,77 @@ XIV
 
 RITRATTO DI UN AMICO
 
-A parte la [[Vanity|vanità]] o la falsa modestia (di cui le persone sane si servono sempre
-come di scherzi), il mio vero giudizio sulla mia opera è che ho guastato un buon numero
-di ottime idee al mio [[Time|tempo]]. V'è una ragione di ciò; ed è
-davvero piuttosto un frammento di autobiografia che di [[Literary Criticism|critica letteraria]].
-Ritengo che Il Napoleone di Notting [[Hill]] fosse un libro davvero [[Well|ben]] degno d'esser scritto;
-ma non sono sicuro che sia mai stato scritto. Ritengo che un'arlecchinata
-come La Locanda Volante fosse un soggetto estremamente promettente, ma
-[[Doubt|dubito]] assai fortemente di aver mantenuto la promessa. Sono quasi tentato
-di dire che è tuttora un soggetto molto promettente — per qualcun altro.
-Ritengo che il racconto intitolato La Sfera e la [[Cross|Croce]] avesse una trama abbastanza buona,
-su due uomini perpetuamente impediti dalla polizia dal battersi
-a duello per la collisione tra bestemmia e adorazione, o quel che tutte
-le persone rispettabili chiamerebbero «una mera divergenza di religione».
-Credo che il suggerimento secondo cui il mondo moderno è organizzato
-in rapporto alla più ovvia e urgente di tutte le domande,
-non tanto per risponderle in modo sbagliato, quanto per impedire che le si risponda
-affatto, sia un suggerimento sociale che ha davvero molto in sé;
-ma sono assai più dubbioso sul fatto che io ne abbia ricavato molto,
-anche in confronto a ciò che se ne poteva ricavare.
-Considerate come storie, nel senso di aneddoti, queste cose mi paiono
-essere state più o meno fresche e personali; ma considerate
-come romanzi, esse non solo non erano buone quanto le avrebbe fatte un vero romanziere,
-ma non erano buone quanto avrei potuto farle
-io stesso, se avessi davvero anche solo cercato di essere un vero romanziere.
-E tra le molte più abiette ragioni per cui non sono capace di essere un romanziere,
-v'è il fatto che sono sempre stato e presumibilmente sarò sempre
-un giornalista.
+A parte la [[Vanity|vanità]] o la falsa modestia (che le persone sane usano sempre come scherzi) il mio reale giudizio sul mio proprio lavoro è che ho rovinato un certo numero di ottime idee nel mio [[Time|tempo]]. Vi è una ragione per questo; ed è davvero piuttosto un pezzo di autobiografia che di [[Literary Criticism|critica letteraria]]. Penso che Il Napoleone di Notting [[Hill]] fosse un libro assai [[Well|degno]] d'esser scritto; ma non sono sicuro che sia mai stato scritto. Penso che un arlecchinata come La Taverna Volante fosse un soggetto oltremodo promettente, ma [[Doubt|dubito]] assai fortemente di aver mantenuto la promessa. Sono quasi tentato di dire che è ancora un soggetto assai promettente—per qualcun altro. Penso che la storia intitolata La Sfera e la [[Cross|Croce]] avesse una trama del tutto buona, su due uomini perpetuamente impediti dalla polizia di combattere un duello sulla collisione fra bestemmia e adorazione, o ciò che tutte le persone rispettabili chiamerebbero «una mera differenza di religione». Credo che il suggerimento che il mondo moderno sia organizzato in relazione alla più ovvia e urgente di tutte le questioni, non tanto per rispondervi in modo sbagliato, quanto per impedire che vi si risponda affatto, sia un suggerimento sociale che davvero ha molto in sé; ma sono assai più dubbioso sul fatto se io ne abbia cavato molto, anche in confronto a ciò che se ne potrebbe cavare. Considerate come storie, nel senso di aneddoti, queste cose mi paiono essere state più o meno fresche e personali; ma considerate come romanzi, non solo non erano buone come le avrebbe fatte un vero romanziere, ma non erano buone come avrei potuto farle io stesso, se avessi davvero anche solo tentato di essere un vero romanziere. E fra le molte ragioni più abiette per non essere capace di essere un romanziere, c'è il fatto che io sono sempre stato e presumibilmente sempre sarò un giornalista.
 
-Ma non fu la parte superficiale o sciocca o gioviale di me
-a fare di me un giornalista. Al contrario, fu quella parte che ho
-in ciò che è serio o persino solenne. Un gusto per il puro divertimento avrebbe potuto
-condurmi a una public-[[house]], ma difficilmente a una publishing-[[house]].
-E se mi avesse condotto a una publishing-[[house]], per la pubblicazione
-di semplici filastrocche o fiabe, non avrebbe mai potuto in tal modo avermi
-condotto al mio deplorevole corso di infiniti articoli e lettere
-sui giornali. In breve, non potevo essere un romanziere; perché a me
-piace davvero vedere idee o nozioni lottare nude, per così dire,
-e non agghindate in mascherata da uomini e donne. Ma potevo
-essere un giornalista perché non potevo fare a meno di essere un polemista.
-Non so nemmeno se ciò si chiamerebbe falsa modestia o [[Vanity|vanità]],
-nella moderna scala dei valori; ma so che non è né l'una né l'altra.
-Mi viene in mente che il migliore e più salutare criterio, per giudicare
-fino a che punto la pura incompetenza o pigrizia, e fino a che punto un legittimo gusto
-per l'appello diretto e democratico, mi abbiano impedito di essere un vero
-uomo di lettere, potrebbe trovarsi in uno studio dell'uomo di lettere che mi capita
-di conoscere meglio; il quale aveva gli stessi moventi per produrre giornalismo,
-eppure non ha prodotto nient'altro che letteratura.
+Ma non fu la parte superficiale o sciocca o gioviale di me a fare di me un giornalista. Al contrario, fu quella parte che ho in ciò che è serio o perfino solenne. Un gusto per il mero divertimento avrebbe potuto condurmi a una [[house|casa]] pubblica, ma difficilmente a una [[house|casa editrice]]. E se mi avesse condotto a una [[house|casa editrice]], per la pubblicazione di mere filastrocche assurde o fiabe, non avrebbe mai potuto così condurmi al mio deplorevole corso di infiniti articoli e lettere sui giornali. In breve, non potevo essere un romanziere; perché mi piace davvero vedere le idee o le nozioni lottare nude, per così dire, e non travestite in mascherata da uomini e donne. Ma potevo essere un giornalista perché non potevo fare a meno di essere un polemista. Non so nemmeno se ciò verrebbe chiamato falsa modestia o [[Vanity|vanità]], nella scala di valori moderna; ma so che non è né l'una né l'altra. Mi viene in mente che la migliore e più salubre prova, per giudicare fino a che punto la mera incompetenza o pigrizia, e fino a che punto un legittimo gusto per il diretto appello democratico, mi abbiano impedito di essere un vero letterato, si potrebbe trovare in uno studio del letterato che si dà il caso io conosca meglio; il quale ebbe gli stessi moventi per produrre giornalismo, eppure non ha prodotto null'altro che letteratura.
 
-Nei giorni in cui Belloc era noto a Bentley e Oldershaw,
-ma non a me, quando erano tutti insieme nel gruppo radicale
-a [[Oxford]], Belloc stesso frequentava soprattutto un gruppo assai più piccolo
-che si chiamava il Club Repubblicano. Per quanto riesco a capire,
-il Club Repubblicano non fu mai composto di più di quattro membri,
-e in genere di meno; uno o più di essi essendo stato solennemente
-espulso o per torysmo o per socialismo. Fu questo il club
-che Belloc celebrò nella bella dedica del suo primo libro;
-di cui due versi sono passati a una certa celebrità popolare:
-«Nulla vale la fatica del conquistare, se non il riso e l'[[Love|amore]]
-degli amici»; ma nel corso della quale egli descrisse anche più
-in dettaglio gli ideali di questa fastidiosa confraternita.
+Nei giorni in cui Belloc era conosciuto da Bentley e Oldershaw, ma non da me, quando erano tutti insieme nel gruppo radicale a [[Oxford]], Belloc stesso frequentava principalmente un gruppo assai più piccolo che si chiamava il Club Repubblicano. Per quanto io possa capire, il Club Repubblicano non consistette mai di più di quattro membri, e generalmente di meno; uno o più di essi essendo stati solennemente espulsi o per Toryismo o per Socialismo. Questo era il club che Belloc celebrò nella bella dedica del suo primo libro; di cui due versi sono passati a una certa popolare celebrità: «Non v'è nulla che valga la spesa del conquistare tranne la risata e l'[[Love|amore]] degli amici»; ma nel corso della quale egli descrisse anche più in dettaglio gli ideali di questo schizzinoso sodalizio.
 
-  Tenemmo fede al piano rabelaisiano,
-  nobilitammo i delicati chiostri
-  con la Legge Naturale, i Diritti dell'Uomo,
-  il [[Song|Canto]], lo Stoicismo, il Vino e le Ostriche.
+  Tenemmo il piano rabelaisiano
+  Nobilitammo i delicati chiostri
+  Con la Legge Naturale, i Diritti dell'Uomo,
+  [[Song|Canto]], Stoicismo, Vino e Ostriche.
 
   Insegnammo l'arte di scrivere cose
-  su uomini che ancora vorremmo strozzare,
-  e dove procurarsi il [[Blood|sangue]] dei re
-  a soli mezzo [[Crown|scellino]] la bottiglia.
+  Su uomini che ancora vorremmo strozzare,
+  E dove ottenere il [[Blood|sangue]] dei re
+  A solo mezza [[Crown|corona]] la bottiglia.
 
-Dei tre altri angoli di questo assai Quadrato Vangelo della Cittadinanza,
-ossia dei tre costanti colleghi di Belloc nel vecchio club repubblicano,
-uno è tuttora, credo, un illustre [[Exile|esule]] e funzionario in Birmania;
-o come i suoi vecchi amici amavano dire con aspri sorrisi di affettuosa
-[[Resignation|rassegnazione]], «un Satrapo»; come se in qualche modo avesse medizzato, o si fosse abbassato
-alla barbarie orientale che noi chiamiamo Imperialismo. Non ho alcun
-[[Doubt|dubbio]] che di fatto egli fosse un felice e assai soddisfacente Satrapo;
-ma era l'unico membro del gruppo che io non conobbi mai. Gli altri
-due repubblicani, che erano gli amici più intimi di Belloc a [[Oxford]],
-hanno entrambi, in modi diversi, avuto una parte considerevole nella mia stessa vita.
-Uno era John Swinnerton Phillimore, figlio del vecchio Ammiraglio il cui nome
-faceva una sorta di sfondo alla Kensington della mia fanciullezza, in seguito
-professore di latino all'Università di Glasgow e una delle prime autorità classiche
-del suo [[Time|tempo]]; ora, ahimè, soltanto una [[Memory|memoria]] sempre più profonda.
-L'altro era Francis Yvon Eccles, l'illustre studioso di francese,
-che ora incontro fin troppo di rado a causa della sua gravitazione verso
-il vivere in Francia.
+Dei tre altri angoli di questo assai Quadrato Vangelo di Cittadinanza, cioè dei tre costanti colleghi di Belloc nel vecchio Club Repubblicano, uno è ancora, credo, un distinto [[Exile|Esule]] e funzionario in Birmania; o come i suoi vecchi amici amavano dire con acri sorrisi di affettuosa [[Resignation|Rassegnazione]], «un Satrapo»; come se egli avesse in qualche modo Medizzato, o condisceso alla barbarie orientale che noi chiamiamo Imperialismo. Non ho alcun [[Doubt|dubbio]] che in effetti egli fosse un felice e altamente soddisfacente Satrapo; ma era il solo membro del gruppo che io non incontrai mai. Gli altri due Repubblicani, che erano gli amici più intimi di Belloc a [[Oxford]], hanno entrambi in modi diversi recitato una parte considerevole nella mia stessa vita. Uno era John Swinnerton Phillimore, figlio del vecchio Ammiraglio il cui nome fece una sorta di sfondo per la Kensington della mia fanciullezza, poi Professore di Latino all'Università di Glasgow e una delle prime autorità classiche del suo [[Time|tempo]]; ora, ahimè, soltanto una [[Memory|memoria]] sempre più profonda. L'altro era Francis Yvon Eccles, il distinto studioso francese, che ora incontro fin troppo di rado a causa della sua gravitazione verso il vivere in Francia.
 
-Eccles, come Belloc, era il [[Child|figlio]] di un genitore francese e uno inglese;
-ma v'era una certa fuorviante [[Comedy|comicità]] nei nomi, come se fossero
-stati scambiati come etichette. Ché Eccles, che si dava il caso avesse
-il cognome inglese, somigliava molto più a un francese, e Belloc,
-con il cognome francese, somigliava molto più a un inglese;
-anzi finì per essere l'unico solitario ma simbolico inglese davvero
-somigliante al tradizionale John Bull. È vero che egli raggiunse
-questo tipo tradizionale grazie al possesso di un mento quadrato come
-quello del grande Imperatore dei Francesi, e alla successiva adozione
-di basette per soddisfare le convenzioni degli spagnoli.
-Ma l'effetto combinato di queste influenze straniere fu che
-egli somigliava esattamente a ciò a cui tutti i contadini inglesi dovrebbero somigliare;
-ed era, per così dire, un ritratto di Cobbett migliore di quanto Cobbett stesso fosse.
-Inoltre, il simbolo era vero; ché le radici che lo tengono
-alle Downs e alle profonde terre arate dell'Inghilterra meridionale erano
-persino più profonde, per quel che riguarda l'istinto, delle marmoree
-fondamenta dell'astratta Repubblica del Club Repubblicano.
-Ricordo di aver bevuto un boccale di birra con un oste non lontano da Horsham
-e di aver menzionato il nome del mio amico; e l'oste, che evidentemente
-non aveva mai sentito parlare di libri o di simili sciocchezze, si limitò a dire: «Coltiva un po' la terra,
-no?», e io pensai quanto Belloc ne sarebbe stato immensamente lusingato.
+Eccles, come Belloc, era il [[Child|figlio]] di un genitore francese e uno inglese; ma vi era una certa fuorviante [[Comedy|commedia]] riguardo ai nomi, come se fossero stati scambiati come etichette. Poiché Eccles, che si dava il caso avesse il cognome inglese, sembrava assai più un francese, e Belloc, col cognome francese, sembrava assai più un inglese; anzi egli finì per essere il solo solitario ma simbolico inglese che davvero somigliasse al tradizionale John Bull. È vero che egli raggiunse questo tipo tradizionale attraverso il possesso di un mento quadrato come quello del grande Imperatore dei Francesi, e la successiva assunzione di basette per soddisfare le convenzioni degli Spagnoli. Ma l'effetto combinato di queste influenze straniere fu che egli sembrava esattamente come tutti i contadini inglesi dovrebbero sembrare; ed era, per così dire, un miglior ritratto di Cobbett di quanto Cobbett stesso lo fosse. Inoltre, il simbolo era vero; poiché le radici che lo legano alle Downs e alle profonde terre arate dell'Inghilterra meridionale erano perfino più profonde, per quanto concerne l'istinto, delle marmoree fondamenta dell'astratta Repubblica del Club Repubblicano. Ricordo di aver bevuto un boccale di birra con un oste non lontano da Horsham e di aver menzionato il nome del mio amico; e l'oste, che ovviamente non aveva mai sentito parlare di libri o simili sciocchezze, disse semplicemente: «Fa un po' l'agricoltore, no?», e io pensai quanto Belloc ne sarebbe stato enormemente lusingato.
 
-Conobbi Eccles in Fleet Street, fin dai primi giorni del vecchio
-Speaker filoboero, di cui egli era in gran parte il consulente letterario;
-eppure era sempre inevitabile pensarlo mentre sedeva fuori
-da un caffè a [[Paris|Parigi]] anziché a [[London|Londra]]. La sua testa, il suo cappello, le sue arcuate
-sopracciglia e la sua fronte corrugata di curiosità del tutto disinteressata,
-il suo ciuffo mefistofelico, il suo tipo di paziente lucidità, erano assai
-più francesi del suo amico dal nome francese. Che questi
-tratti esteriori corrispondano o no comunemente ai caratteri, di certo
-non sempre corrispondono alle carriere. Così, John Phillimore,
-figlio di un marinaio e proveniente in gran parte da una famiglia di marinai,
-somigliava egli stesso molto più a un marinaio che a un accademico.
-La sua figura scura e compatta e il suo volto di un bruno acceso avrebbero potuto stare su qualunque
-cassero. D'altra parte, per un altro simile carnevalesco scambio [[Comedy|buffo]],
-ho sempre pensato che suo cugino, il quale è, credo,
-un illustre Ammiraglio, somigliasse molto più a un accademico o a un professore.
-Ma John Phillimore, come andarono le cose, dovette essere un genere
-di accademico piuttosto unico; e insieme un professore popolare e battagliero.
-Non si potevano tenere lezioni in mezzo al caos razziale e religioso
-di Glasgow, piena di selvaggi montanari e selvaggi irlandesi, e giovani
-fanatici comunisti e vecchi fanatici calvinisti, senza possedere
-alcune delle qualità del cassero. La maggior parte delle storie
-su Phillimore si legge come racconti di ammutinamenti sull'alto mare.
-Fu detto acutamente di lui che l'effetto della parola «signori»,
-pronunciata da lui, era come il celebre effetto della parola «Quirites!»,
-pronunciata da Cesare. In un'occasione simile una folla di Glasgow, insubordinata
-ma intelligente, pare abbia colto all'istante
-la gratificante ironia del suo appello: «Signori, signori!
-Non ho ancora smesso di gettare le mie perle».
+Conobbi Eccles a Fleet Street, fin dai primi giorni del vecchio Pro-Boero Speaker, di cui egli era largamente il consulente letterario; eppure era sempre inevitabile pensare a lui come seduto fuori da un caffè a [[Paris|Parigi]] piuttosto che a [[London|Londra]]. La sua testa, il suo cappello, le sue sopracciglia arcuate e la fronte corrugata di una curiosità del tutto disinteressata, il suo ciuffo mefistofelico, il suo tipo di paziente lucidità, erano assai più francesi del suo amico dal nome francese. Che questi tratti esterni corrispondano o no comunemente ai caratteri, certamente non corrispondono sempre alle carriere. Così, John Phillimore, figlio di un marinaio e proveniente largamente da una famiglia di marinai, egli stesso somigliava assai più a un marinaio che a un docente. La sua scura e compatta figura e il suo brillante volto bruno avrebbero potuto stare su qualsiasi cassero. D'altra parte, per un'altra tale carnevalesca [[Comedy|commedia]] di scambio, ho sempre pensato che suo cugino, che è, credo, un distinto Ammiraglio, somigliasse assai più a un docente o a un professore. Ma John Phillimore, come andarono le cose, dovette essere un tipo piuttosto unico di docente; e a un tempo un professore popolare e battagliero. Non si potevano condurre lezioni in mezzo al caos razziale e religioso di Glasgow, pieno di selvaggi Highlander e selvaggi Irlandesi, e di giovani fanatici comunisti e vecchi fanatici calvinisti, senza possedere alcune delle qualità del cassero. La maggior parte delle storie su Phillimore si leggono come racconti di ammutinamento in alto mare. Fu argutamente detto di lui che l'effetto della parola «gentiluomini», come detta da lui, era come il famoso effetto della parola «Quirites!», come detta da Cesare. In un'occasione simile una insubordinata ma intelligente folla di Glasgow pare aver istantaneamente colto la gratificante ironia del suo appello: «Gentiluomini, gentiluomini! Non ho ancora cessato di gettare le mie perle».
 
-Il fatto principale attinente a questo capitolo, tuttavia, è che
-la carriera di Belloc cominciò con gli ideali del Club Repubblicano.
-A coloro che parlano di ideali, ma non pensano alle idee, può
-sembrare strano che sia lui sia Eccles siano finiti come convinti monarchici.
-Ma v'è una sottile differenza tra il buon dispotismo e la buona [[democracy|democrazia]];
-entrambi implicano l'eguaglianza, con l'autorità; sia essa l'autorità impersonale
-o personale. Ciò che entrambi detestano è l'oligarchia; anche nella sua forma più umana
-di aristocrazia, [[Alone|per non parlare]] della sua attuale ripugnante forma di plutocrazia.
-La prima [[Faith|fede]] di Belloc fu nell'autorità impersonale della Repubblica,
-e si concentrò sul suo ritorno nel Settecento, ma piuttosto
-specialmente riguardo al suo aspetto militare. I suoi primi due libri furono le
-finissime monografie sui due più famosi rivoluzionari francesi;
-ed egli era, in tal senso, molto cordialmente rivoluzionario.
-Ma menziono la cosa qui per una speciale ragione, in connessione
-con qualcosa in cui egli era ed è piuttosto unico in questo paese;
-per quanto nativo e radicato sia il suo vero legame con questo paese.
-Ho già osservato che conoscerlo [[Well|bene]] è sapere che,
-come uomo, egli è inglese e non francese. Ma v'è un altro
-aspetto nel suo curioso caso. In quanto è un tradizionalista,
-egli è un tradizionalista inglese. Ma quando era specialmente
-un rivoluzionario, era nel senso più esatto un rivoluzionario francese.
-E lo si potrebbe simboleggiare grossolanamente dicendo ch'egli era un poeta
-inglese ma un soldato francese.
+Il fatto principale rilevante per questo capitolo, tuttavia, è che la carriera di Belloc cominciò con gli ideali del Club Repubblicano. A coloro che parlano di ideali, ma non pensano alle idee, può sembrare strano che sia lui sia Eccles siano finiti come forti Monarchici. Ma vi è una sottile differenza fra buon dispotismo e buona [[democracy|democrazia]]; entrambi implicano l'uguaglianza, con l'autorità; sia che l'autorità sia impersonale o personale. Ciò che entrambi detestano è l'oligarchia; anche nella sua più umana forma di aristocrazia, [[Alone|per non parlare]] della sua presente ripugnante forma di plutocrazia. La prima [[Faith|fede]] di Belloc era nell'autorità impersonale della Repubblica, ed egli si concentrò sul suo ritorno nel diciottesimo secolo, ma piuttosto specialmente riguardo al suo aspetto militare. I suoi primi due libri furono le assai belle monografie sui due più famosi dei rivoluzionari francesi; ed egli era, in quel senso, assai cordialmente rivoluzionario. Ma menziono la faccenda qui per una ragione speciale, in connessione con qualcosa in cui egli era ed è piuttosto unico in questo paese; per quanto nativa e radicata sia la sua reale relazione con questo paese. Ho già osservato che conoscerlo [[Well|bene]] è sapere che, come uomo, egli è inglese e non francese. Ma vi è un altro aspetto nel suo curioso caso. In quanto egli è un tradizionalista, è un tradizionalista inglese. Ma quando era specialmente rivoluzionario, era nel senso più esatto un rivoluzionario francese. E lo si potrebbe grossomodo simboleggiare dicendo che egli era un poeta inglese ma un soldato francese.
 
-Ora, credevo di sapere tutto sui rivoluzionari assai prima di incontrare
-il rappresentante del Club Repubblicano. Avevo parlato con loro in sudicie
-taverne o disordinati studi, o in più deprimenti ostelli [[vegetarian|vegetariani]].
-Sapevo che v'erano differenze di taglio e di colore; e che alcuni erano
-davvero più rivoluzionari di altri. Sapevo che alcuni portavano pallide
-cravatte verdi e tenevano conferenze sull'arte decorativa; mentre alcuni
-portavano cravatte rosse e facevano discorsi dai palchi dei sindacati [[Union|operai]].
-Ho cantato «La [[Flag|Bandiera]] Rossa» in cordiale [[Chorus|coro]] con questi ultimi,
-e «England, Awake» di William Morris in accenti più raffinati
-con i primi. E benché non sapessi nulla del confronto con
-un altro metodo, mi resi conto sempre più, con animo sempre più avvilito,
-che per qualche ragione non avevamo un decente [[Song|canto]] rivoluzionario
-a nostro nome; e che in fatto di produrre un qualche rispettabile
-genere di [[Hymn|Inno]] all'Odio, i miei compatrioti erano un fallimento.
+Ora io pensavo di sapere tutto sui Rivoluzionari molto prima di incontrare il rappresentante del Club Repubblicano. Avevo parlato con loro in sudicie taverne o in disordinati studi, o in più deprimenti ostelli [[vegetarian|vegetariani]]. Sapevo che vi erano differenze di taglio e colore; e che alcuni erano davvero più rivoluzionari di altri. Sapevo che alcuni portavano cravatte verde pallido e tenevano conferenze sull'arte decorativa; mentre altri portavano cravatte rosse e facevano discorsi su tribune [[Union|sindacali]]. Ho cantato «La [[Flag|Bandiera]] Rossa» in cordiale [[Chorus|coro]] con questi ultimi, e «England, Awake» di William Morris in accenti più raffinati con i primi. E benché io non sapessi nulla del confronto con un altro metodo, mi resi sempre più conto, con cuore sempre più sprofondante, che per qualche ragione non avevamo una decente [[Song|canzone]] rivoluzionaria a nostro nome; e che nella faccenda di produrre qualsiasi rispettabile sorta di [[Hymn|Inno]] dell'Odio, i miei compatrioti erano un fiasco.
 
-Una debolezza di questi popolari [[songs|canti]] di guerra era che non erano [[songs|canti]] di guerra.
-Non davano mai il minimo indizio di come chicchessia potesse mai fare guerra
-a qualcosa. Erano sempre in attesa dell'[[Dawn|Alba]]; senza la minima
-previsione di poter essere fucilati all'[[Dawn|alba]], o la minima intelligente
-preparazione a fucilare qualcun altro all'[[Dawn|alba]]. «Inghilterra, déstati;
-la lunga lunga [[Night|notte]] è finita; fioca a oriente, ecco apparire l'[[Dawn|alba]]».
-Erano tutti così; erano tutti [[songs|Canti]] Prima del Levar del Sole;
-come se il sole che [[Rose|sorgeva]] sul giusto e sull'ingiusto non sorgesse anche
-sul vinto e sul vincitore. Ma il poeta rivoluzionario inglese
-scriveva come se possedesse il sole e fosse certo di essere il vincitore.
-In altre parole, scoprii che l'idea socialista della guerra era esattamente
-come l'idea imperialista della guerra; e fui rafforzato e approfondito
-nella mia detestazione di entrambe. Ho udito molti argomenti
-contro l'idea di una Guerra di Classe; ma l'argomento che me la scredita
-è il fatto che i socialisti, come gli imperialisti,
-davano sempre per scontato che avrebbero vinto la guerra. Non sono un fascista;
-ma la Marcia su Roma diede loro la sorpresa di cui avevano bisogno. Per dire
-il meno, essa arrestò considerevolmente l'inevitabile trionfo proletario;
-proprio come i boeri avevano arrestato l'inevitabile trionfo britannico.
-E non mi piacciono i trionfi inevitabili. E per giunta non ci credo.
-Non ritengo che alcuna soluzione sociale, nemmeno una più virile
-come quella di Morris, debba dirsi «sicura come che il sole
-di domani sorgerà».
+Una debolezza di questi popolari [[songs|canti di guerra]] era che non erano [[songs|canti di guerra]]. Non davano mai il più tenue accenno di come qualcuno potesse mai far guerra a qualcosa. Erano sempre in attesa dell'[[Dawn|Alba]]; senza la minima anticipazione che essi potessero essere fucilati all'[[Dawn|alba]], o la minima intelligente preparazione a fucilare qualcun altro all'[[Dawn|alba]]. «Inghilterra, svégliati; la lunga lunga [[Night|notte]] è finita; fioca a oriente ecco apparire l'[[Dawn|Alba]].» Erano tutti così; erano tutti [[songs|Canti]] Prima dell'Aurora; come se il sole che [[Rose|sorgeva]] sul giusto e sull'ingiusto non sorgesse anche sul conquistato e sul conquistatore. Ma il poeta rivoluzionario inglese scriveva come se possedesse il sole e fosse certo di essere il conquistatore. In altre parole, trovai che l'idea socialista di guerra era esattamente come l'idea imperialista di guerra; e fui rafforzato e approfondito nel mio disgusto per entrambe. Ho udito molti argomenti contro l'idea di una Guerra di Classe; ma l'argomento che la scredita per me è il fatto che i Socialisti, come gli Imperialisti, presumevano sempre che avrebbero vinto la guerra. Non sono un Fascista; ma la Marcia su Roma diede loro la sorpresa di cui avevano bisogno. Per dire il minimo, arrestò considerevolmente l'inevitabile trionfo proletario; proprio come i Boeri avevano arrestato l'inevitabile trionfo britannico. E a me non piacciono i trionfi inevitabili. E poi non ci credo. Non penso che qualsiasi soluzione sociale, anche una più virile come quella di Morris, dovrebbe essere chiamata «sicura come che il sole di domani sorgerà».
 
-E poi Belloc scrisse una poesia intitolata «Il [[Rebel|Ribelle]]», e nessuno notò
-il punto interessante a suo riguardo. È una poesia assai violenta e amara;
-sarebbe fin troppo rivoluzionaria per la maggior parte dei rivoluzionari;
-persino quelli con le cravatte rosse arrossirebbero, e quelli con le cravatte verde pallido
-diverrebbero pallidi e verdi per la nausea, di fronte a tali minacce contro
-i ricchi come quelle che qui prorompono — «e mozza loro i cavalli alle ginocchia
-e abbatti a [[Death|morte]] i loro alberi da legname», e il finale bellissimo,
-«e tutte queste cose intendo fare; per [[Fear|paura]] che forse il mio figlioletto
-debba spezzarsi le mani come me le sono spezzate io».
+E poi Belloc scrisse una poesia intitolata «Il [[Rebel|Ribelle]]», e nessuno notò il punto interessante che vi era. È una poesia assai violenta e amara; sarebbe assai troppo rivoluzionaria per la maggior parte dei rivoluzionari; perfino quelli con le cravatte rosse arrossirebbero, e quelli con le cravatte verde pallido diventerebbero pallidi e verdi dalla nausea, di fronte a tali minacce contro i ricchi come esplodono qui—«e mozzare i loro cavalli alle ginocchia e abbattere fino alla [[Death|morte]] i loro alberi da legname», e il finale assai bello: «e tutte queste cose intendo fare; per [[Fear|paura]] che forse il mio piccolo figlio si spezzi le mani come ho fatto io».
 
-Quello non è un [[Song|Canto]] Prima del Levar del Sole. Quello è un attacco prima del levar del sole.
-Ma il punto peculiare che qui desidero notare compare nella
-strofa precedente, sulla vera [[Nature|natura]] dell'attacco. È l'unica
-poesia rivoluzionaria che io abbia mai letto, la quale suggerisse che vi fosse un qualche
-piano per sferrare un qualche attacco. I primi due versi della strofa recitano:
-«Quando li troveremo là dove stanno, un miglio d'uomini per lato?»
-I Compagni dell'[[Dawn|Alba]] parevano sempre marciare in colonna,
-e cantare. Non parevano mai aver udito del dispiegarsi
-nella lunga linea che fronteggia il nemico per la battaglia. I due versi
-seguenti sono: «Intendo caricare da lontano, e forzare i fianchi
-del loro schieramento». Chi mai ha sentito che i Compagni dell'[[Dawn|Alba]] avessero
-un'idea tanto complicata come quella di aggirare il fianco del nemico?
-Poi viene l'accerchiamento:
+Quello non è un [[Song|Canto]] Prima dell'Aurora. Quello è un attacco prima dell'aurora. Ma il punto peculiare che desidero notare qui, appare nel verso precedente sulla reale [[Nature|natura]] dell'attacco. È la sola poesia rivoluzionaria che io abbia mai letto, che suggerisse che vi fosse un qualche piano per sferrare un qualche attacco. I primi due versi della strofa recitano: «Quando li troveremo dove stanno, un miglio di uomini per lato?». I Compagni dell'[[Dawn|Alba]] parevano sempre marciare in colonna, e cantare. Non parevano mai aver sentito parlare dello spiegarsi; nella lunga linea che fronteggia il nemico per la battaglia. I due versi successivi sono: «Intendo caricare da destra senz'indugio, e forzare i fianchi della loro schiera». Chi mai udì che i Compagni dell'[[Dawn|Alba]] avessero un'idea così complicata come quella di aggirare il fianco del nemico? Poi viene l'accerchiamento:
 
-  E premili verso l'interno dalle pianure
-  e cacciali giù, clamoranti, per i viottoli,
-  e galoppa e incalza e abbattili,
-  e conquista le porte e tieni la città.
+  E premerli dentro dalle pianure
+  E spingerli clamorosi giù per i viottoli,
+  E galoppare e tormentare e abbatterli,
+  E prendere le porte e tenere la città.
 
-L'Inseguimento; e poi il Tenere la Testa di Ponte.
+L'Inseguimento; e poi la Tenuta della Testa di Ponte.
 
-Ora, quello è l'unico [[Song|Canto]] della Guerra di Classe che io abbia mai letto ad avere
-la più vaga nozione di come sarebbe una guerra. In questa selvaggia [[Lyric|lirica]],
-colma di violenza e distruzione vendicative, v'è anche, in forma lirica
-assai rapida, un piano tattico perfettamente chiaro e una mappa militare;
-una precisa descrizione di come gli uomini possano [[Storm|espugnare]] una fortezza,
-se dev'essere espugnata. La violenza di questa proclamazione democratica,
-benché senza dubbio drammatica, va ben oltre qualunque cosa
-un qualsiasi comunista raggiungerà in cent'anni. Ma implica
-anche il vero carattere della battaglia; e una battaglia, come ogni opera umana,
-è insieme progettata nel suo inizio e incerta nella sua fine.
-Ora, i Compagni dell'[[Dawn|Alba]] già mi infastidivano; perché la loro rivoluzione
-era selvaggiamente non progettata nel suo inizio, ma non nutriva alcun [[Doubt|dubbio]] sulla sua fine.
-Proprio come l'Imperialismo; e la Guerra sudafricana.
+Ora quello è il solo [[Song|Canto]] della Guerra di Classe che io abbia mai letto che abbia la più vaga nozione di come sarebbe una guerra. In questa selvaggia [[Lyric|Lirica]], piena di vendicativa violenza e distruzione, vi è anche in forma del tutto rapida e lirica un piano tattico e una mappa militare perfettamente chiari; una precisa descrizione di come gli uomini possano dare l'[[Storm|assalto]] a una fortezza, se dev'essere assaltata. La violenza di questa espressione democratica, benché indubbiamente drammatica, va assai oltre qualsiasi cosa che qualsiasi Comunista raggiungerà in cent'anni. Ma implica anche il reale carattere della battaglia; e una battaglia, come ogni opera umana, è a un tempo progettata nel suo inizio e dubbia nella sua fine. Ora i Compagni dell'[[Dawn|Alba]] già mi seccavano; perché la loro rivoluzione era selvaggiamente non progettata nel suo inizio, ma non aveva alcun [[Doubt|dubbio]] sulla sua fine. Proprio come l'Imperialismo; e la Guerra sudafricana.
 
-Questo è ciò che intendo dicendo che Belloc è un poeta inglese
-ma un soldato francese. L'uomo in quiete, e dunque l'uomo
-nella realtà, è l'uomo del Sussex; ma egli è stato ampliato,
-o come alcuni direbbero infettato, dall'influenza straniera di coloro che
-hanno conosciuto vere rivoluzioni e invasioni; e se fosse chiamato
-a condurre una rivoluzione, la condurrebbe con la stessa logica
-con cui una folla parigina conduce tuttora una sommossa. Come una volta osservò,
-una simile folla democratica sa dispiegarsi. Ma ho preso solo questo caso
-casuale per illustrare una [[Truth|verità]] generale su un uomo assai notevole.
-Ho preso il fatto che l'ordinario [[Song|canto]] di rivolta è soltanto militante,
-mentre il suo è anche militare. Voglio dire che è colmo dell'idea non solo
-di combattere per la [[Faith|fede]], ma di venire alle prese con il fatto.
-Se dobbiamo combattere i ricchi, o combattere la rivolta contro
-i ricchi, o combattere la resistenza a una ragionevole redistribuzione
-delle ricchezze, o combattere qualunque altra cosa, ecco come si fa.
-E quando ricordo tutti gli altri romantici [[songs|canti]] rivoluzionari,
-non mi sorprende affatto, almeno in questo paese, constatare
-che non si è combattuto affatto.
+Questo è ciò che intendo dicendo che Belloc è un poeta inglese ma un soldato francese. L'uomo a riposo, e perciò l'uomo nella realtà, è l'uomo del Sussex; ma egli è stato ampliato, o alcuni direbbero infettato, dall'influenza straniera di coloro che hanno conosciuto vere rivoluzioni e invasioni; e se fosse chiamato a condurre una rivoluzione, la condurrebbe logicamente come una folla parigina conduce ancora una sommossa. Come egli osservò una volta, una tale folla democratica sa spiegarsi. Ma ho preso solo questo esempio casuale per illustrare una [[Truth|verità]] generale su un uomo assai notevole. Ho preso il fatto che l'ordinaria [[Song|canzone]] di rivolta è solo militante, ma la sua è anche militare. Intendo che è piena della nozione, non solo di combattere per la [[Faith|fede]], ma di venire alle prese col fatto. Se andremo a combattere i ricchi, o a combattere la rivolta contro i ricchi, o a combattere la resistenza a una ragionevole redistribuzione delle ricchezze, o a combattere qualsiasi altra cosa, ecco come si fa. E quando ricordo tutte le altre romantiche [[songs|canzoni]] rivoluzionarie non mi sorprende affatto, almeno in questo paese, rendermi conto che nessun combattimento è stato fatto.
 
-Ora, è esattamente così che i suoi contemporanei hanno mancato l'intero
-punto riguardo a Belloc in ogni punto della sua azione; per esempio,
-nel suo storico studio, Lo Stato Servile. Poiché gli inglesi,
-di cui sono uno, sono romantici, e poiché si dilettano del [[Romance|romanzesco]]
-che i francesi siano romantici, e si dilettano del più delirante
-[[Romance|romanzesco]] che Belloc sia francese, sono stati semplicemente ciechi come talpe
-verso di lui quando è interamente scientifico. Il suo studio dello Stato Servile
-è rigorosamente scientifico quanto una mappa militare è militare.
-Non v'è nulla di romantico in esso; nulla di gioviale in esso;
-nulla nemmeno di particolarmente divertente in esso, tranne le due
-mirabili parole, «questo [[Fool|sciocco]]», che ricorrono nella calma processione
-di mille parole imparziali nel capitolo su L'Uomo Pratico.
-E persino eccettuare quello è come accusare Euclide di fare una battuta,
-quando dimostra una proposizione con una reductio ad absurdum.
-Chiunque conosca il posto della ragione nello schema moderno
-può immaginare che cosa accadde. Dapprima, prima di leggere ciò che Belloc scrisse,
-i critici cominciarono a criticare ciò che Belloc probabilmente avrebbe scritto.
-Dissero che ci minacciava con un orribile [[nightmare|incubo]] chiamato
-lo Stato Servile. Di fatto, era tutto il suo punto che esso
-non fosse un [[nightmare|incubo]], ma qualcosa a cui eravamo già quasi
-tanto abituati ad accettare quanto ad accettare la luce del giorno.
-Per tutto il [[Time|tempo]], una tesi tanto cardinale quanto quella di Adam [[smith|Smith]] o Darwin
-è a stento compresa, o persino criticata, da chicchessia per ciò che è,
-benché sia stata criticata assai selvaggiamente, congetturalmente e a casaccio,
-come tutto ciò che non è. Bernard [[Shaw]] asserì tondamente che essa
-non era che un mero ravvivamento della descrizione di Herbert Spencer di ogni dipendenza
-dallo Stato come [[Slavery|schiavitù]]. E quando facemmo notare che egli non
-poteva aver letto una pagina del libro di Belloc, se davvero riteneva che esso
-somigliasse al libro di Herbert Spencer, rispose con caratteristica
-gaiezza che era quello di Herbert Spencer che non aveva letto.
-Molti supposero che fosse una sorta di descrizione satirica di uno
-Stato Socialista; qualcosa tra Laputa e Il Mondo Nuovo.
-Altri paiono tuttora supporre che lo Stato Servile sia un termine
-generale per qualunque tirannia o oppressivo Stato ufficiale; e usano persino
-il termine correntemente in quel senso. Ché è tipico del nostro [[Time|tempo]]
-e paese che, mentre nessuno potrebbe dire che il libro fosse popolare,
-il titolo del libro fu immediatamente e vastamente popolare.
-Vi fu un [[Time|tempo]] in cui i garzoni e i facchini della ferrovia dicevano
-«Stato Servile»; non sapevano che cosa significasse; ma ne sapevano
-press'a poco quanto i recensori di libri e persino gli accademici.
+Ora è esattamente così che i suoi contemporanei hanno mancato tutto il punto su Belloc in ogni punto della sua azione; ad esempio, nel suo studio storico, Lo Stato Servile. Poiché gli Inglesi, di cui io sono uno, sono romantici, e poiché si dilettano del [[Romance|Romanzo]] che i Francesi siano romantici, e si dilettano del più delirante [[Romance|Romanzo]] che Belloc sia francese, sono stati semplicemente ciechi come pietre verso di lui quando è del tutto scientifico. Il suo studio dello Stato Servile è rigorosamente scientifico come una mappa militare è militare. Non vi è nulla di romantico in esso; nulla di gioviale in esso; nulla nemmeno di particolarmente divertente in esso, tranne le due ammirevoli parole «questo [[Fool|sciocco]]», che ricorrono nella calma processione di mille parole imparziali nel capitolo su L'Uomo Pratico. E perfino l'eccettuare quello è come accusare Euclide di fare uno scherzo, quando dimostra una proposizione con una reductio ad absurdum. Chiunque conosca il posto della ragione nello schema moderno, può immaginare ciò che accadde. Primo, prima di leggere ciò che Belloc scrisse, i critici si misero a criticare ciò che Belloc probabilmente avrebbe scritto. Dissero che egli ci minacciava con un orribile [[nightmare|incubo]] chiamato lo Stato Servile. In effetti, era tutto il suo punto che esso non fosse un [[nightmare|incubo]], ma qualcosa cui eravamo già quasi tanto abituati ad accettare quanto ad accettare la luce del giorno. Per tutto il [[Time|tempo]], una tesi cardinale come quella di Adam [[smith|Smith]] o di Darwin è a stento realizzata, o perfino criticata, da chicchessia per ciò che è, benché sia stata criticata assai selvaggiamente, congetturalmente e a caso, come tutto ciò che non è. Bernard [[Shaw]] asserì rotondamente che si trattava di un mero ravvivamento della descrizione di Herbert Spencer di ogni dipendenza dallo Stato come [[Slavery|Schiavitù]]. E quando facemmo notare che egli non poteva aver letto una pagina del libro di Belloc se davvero pensava che fosse come il libro di Herbert Spencer, egli replicò con caratteristica gaiezza che era quello di Herbert Spencer che non aveva letto. Molti supposero che si trattasse di una sorta di satirica descrizione di uno Stato Socialista; qualcosa fra Laputa e Il Mondo Nuovo. Altri paiono ancora supporre che lo Stato Servile sia un termine generale per qualsiasi tirannia o oppressivo Stato ufficiale; e usano perfino il termine correntemente in quel senso. Poiché è tipico del nostro [[Time|tempo]] e paese che, mentre nessuno potrebbe dire che il libro fosse popolare, il titolo del libro fu immediatamente e vastamente popolare. Vi fu un [[Time|tempo]] in cui i fattorini e i facchini delle ferrovie dicevano «Stato Servile»; non sapevano cosa significasse; ma ne sapevano circa quanto i recensori di libri e perfino i docenti.
 
-La tesi del libro è che il movimento socialista non conduce
-al Socialismo. Ciò in parte a causa del compromesso e della codardia;
-ma in parte anche perché gli uomini hanno un oscuro indistruttibile rispetto
-per la proprietà, persino nel suo disgustoso travestimento di monopolio moderno.
-Perciò, invece del risultato intenzionale, il Socialismo, avremo
-la risultante non intenzionale: la [[Slavery|Schiavitù]]. Il compromesso
-prenderà la forma di dire: «Dobbiamo nutrire i poveri;
-non deruberemo i ricchi; dunque diremo ai ricchi di nutrire i poveri,
-consegnandoli a essere i servi permanenti di una classe padronale,
-da mantenere sia che lavorino o no, e in cambio di
-quel completo mantenimento prestando una completa obbedienza». Tutto ciò,
-o gli inizi di ciò, si può vedere in un centinaio di mutamenti moderni,
-da cose come le Leggi sulle Assicurazioni, che dividono i cittadini per legge
-in due classi di padroni e servi, fino a ogni sorta di proposte
-per impedire scioperi e serrate mediante l'arbitrato obbligatorio.
-Qualunque legge che rimandi un uomo al suo lavoro, quando egli vuole lasciarlo,
-è in piena realtà una Legge sugli Schiavi Fuggitivi.
+La tesi del libro è che il movimento socialista non conduce al Socialismo. Ciò è in parte a causa del compromesso e della codardia; ma in parte anche perché gli uomini hanno un fosco e indistruttibile rispetto per la proprietà, anche nel suo disgustoso travestimento di monopolio moderno. Perciò, invece del risultato intenzionale, il Socialismo, avremo la risultante non intenzionale: la [[Slavery|Schiavitù]]. Il compromesso prenderà la forma del dire: «Dobbiamo nutrire i poveri; non deruberemo i ricchi; perciò diremo ai ricchi di nutrire i poveri, consegnandoli a essere i servitori permanenti di una classe padronale, da mantenere sia che lavorino o no, e in cambio di quel completo mantenimento dando una completa obbedienza». Tutto ciò, o l'inizio di ciò, si può vedere in cento cambiamenti moderni, da cose come gli Insurance Act, che dividono i cittadini per legge in due classi di padroni e servitori, a ogni sorta di proposte per prevenire scioperi e serrate mediante arbitrato obbligatorio. Qualsiasi legge che rimandi un uomo al suo lavoro, quando egli vuole lasciarlo, è in semplice fatto una Legge sullo Schiavo Fuggitivo.
 
-Ora prendo quell'unico esempio di una tesi scientifica, sostenuta in
-modo puramente scientifico, per mostrare quanto pochissimo l'importanza
-intellettuale dell'opera di Belloc sia stata compresa. La ragione di quel
-fraintendimento sta nell'altro fatto che lo riguarda, il quale è davvero
-straniero e relativamente francese; l'abitudine di separare nella propria mente
-lo scientifico dall'artistico; l'ornamentale dall'utile.
-È vero che quando un francese progetta un parco come parco ornamentale
-i sentieri sono davvero assai tortuosi, perché sono soltanto ornamentali.
-Quando egli progetta una [[Road|strada]], la fa diritta come un bacchetta da fucile,
-come le strade lungo le quali i soldati francesi erano soliti marciare con tutte
-le loro bacchette da fucile; perché una [[Road|strada]] è fatta per essere utile ed è più
-breve quando è diritta. La piccola [[Lyric|lirica]] arcadica di Belloc,
-«Quando non ero molto più vecchio di Cupido e più ardito», è assai simile a un
-ornamentale [[Garden|giardino]] francese; e il suo libro sullo Stato Servile è assai
-simile a una [[Road|strada]] militare francese. Nessun uomo è più istintivamente arguto;
-e nessun uomo può essere più intenzionalmente noioso.
+Ora prendo quell'unico esempio di una tesi scientifica, sostenuta in modo puramente scientifico, per mostrare quanto poco l'importanza intellettuale dell'opera di Belloc sia stata compresa. La ragione di quel fraintendimento sta nell'altro fatto su di lui, che è davvero straniero e relativamente francese; l'abitudine di separare nella sua propria mente lo scientifico dall'artistico; l'ornamentale dall'utile. È vero che quando un francese progetta un parco come un parco ornamentale i sentieri sono assai tortuosi appunto perché sono solo ornamentali. Quando progetta una [[Road|strada]], la fa dritta come una bacchetta da fucile, come le strade lungo le quali i soldati francesi solevano marciare con tutte le loro bacchette da fucile; perché una [[Road|strada]] è fatta per essere utile ed è più corta quando è dritta. La piccola [[Lyric|Lirica]] arcadica di Belloc, «Quando non ero molto più vecchio di Cupido e più audace», è assai simile a un ornamentale [[Garden|giardino]] francese; e il suo libro sullo Stato Servile è assai simile a una [[Road|strada]] militare francese. Nessun uomo è più istintivamente arguto; e nessun uomo può essere più intenzionalmente noioso.
 
-Queste due voci di Belloc, per così dire, erano tanto distinte ch'egli poteva
-talvolta passare dall'una all'altra e farlo sembrare come due
-persone che parlano; operando su un palco una transizione quasi altrettanto drammatica
-del dialogo di un ventriloquo con il suo fantoccio. Quando si presentò
-come deputato liberale per Salford, riuscì spesso a sconcertare i suoi
-disturbatori spruzzandoli con questi bruscamente alternati getti
-d'[[Water|acqua]] fredda e calda. Salford era un collegio povero e popolare,
-in cui v'erano molti strati di gente semplice e provinciale,
-che serbava i pregiudizi dei nostri bisnonni; uno di essi essendo
-la commovente credenza che chiunque avesse un nome francese potesse essere indotto
-a rannicchiarsi e strisciare da qualunque allusione alla Battaglia di Waterloo.
-Questa era probabilmente l'unica battaglia di cui il disturbatore stesso avesse
-mai sentito parlare; e la sua informazione a riguardo si limitava alla in parte
-inesatta affermazione che era stata vinta dagli inglesi. Perciò era solito
-gridare a intervalli: «Chi vinse Waterloo?». E Belloc fingeva
-di prenderla con [[Grave|grave]] esattezza, come una questione tecnica postagli
-su un problema tattico, e rispondeva con la laboriosa lucidità
-di un conferenziere: «L'esito di Waterloo fu in ultima analisi determinato,
-soprattutto dalla manovra di Colborne al centro, sostenuta dagli
-effetti della batteria di Van der Smitzen più presto nello scontro.
-Il difetto di sincronia dei prussiani non fu sufficientemente esteso, eccetera».
-E poi, mentre lo sventurato patriota tra il pubblico stava ancora
-sforzandosi di misurarsi con questo inatteso accrescersi della complessità
-nel problema che aveva proposto, Belloc mutava all'improvviso
-la propria nota nella squillante schiettezza del demagogo,
-si vantava apertamente del [[Blood|sangue]] di quel soldato pirenaico che aveva
-seguito l'esercito rivoluzionario di Napoleone, e s'era levato tra le sue file,
-attraverso tutte le vittorie che stabilirono un codice di giustizia
-in tutto un continente e restituirono la cittadinanza alla civiltà.
-«È buon [[Blood|sangue]] democratico; e non me ne vergogno».
+Queste due voci di Belloc, per così dire, erano così distinte che egli poteva talvolta passare dall'una all'altra e farlo sembrare come due persone che parlano; effettuando una transizione su una tribuna quasi drammatica come il dialogo di un ventriloquo con la sua bambola. Quando si presentò come membro Liberale per Salford, spesso riusciva a sconcertare i suoi disturbatori spruzzandoli con questi nettamente alternati scrosci di [[Water|acqua]] fredda e calda. Salford era un collegio povero e popolare, in cui vi erano molti strati di gente semplice e provinciale, che conservava i pregiudizi dei nostri bisnonni; uno di essi essendo la commovente credenza che chiunque con un nome francese potesse essere fatto rannicchiare e strisciare da qualsiasi allusione alla Battaglia di Waterloo. Questa era probabilmente la sola battaglia di cui il disturbatore stesso avesse mai sentito parlare; e la sua informazione al riguardo era limitata all'affermazione in parte inesatta che fu vinta dagli Inglesi. Egli perciò soleva gridare a intervalli: «Chi vinse Waterloo?». E Belloc affettava di prendere ciò con [[Grave|grave]] esattezza, come una domanda tecnica postagli su un problema tattico, e rispondeva con la laboriosa lucidità di un conferenziere: «L'esito di Waterloo fu in ultimo determinato, principalmente dalla manovra di Colborne al centro, sostenuta dagli effetti della batteria di Van der Smitzen più presto nell'ingaggio. Il fallimento prussiano nella sincronia non fu sufficientemente esteso, ecc.». E poi, mentre lo sfortunato patriota nel pubblico stava ancora cercando di alle prese con questa inaspettata crescita di complessità nel problema che aveva proposto, Belloc mutava d'improvviso la sua propria nota nella squillante schiettezza del demagogo, e apertamente si vantava del [[Blood|sangue]] di quel soldato pirenaico che aveva seguito l'esercito rivoluzionario di Napoleone, ed era salito nei suoi ranghi, attraverso tutte le vittorie che stabilirono un codice di giustizia su tutto un continente e restituirono la cittadinanza alla civiltà. «È buon [[Blood|sangue]] democratico; e non me ne vergogno.»
 
-Questa transizione di tono ebbe un effetto tremendo, l'intera sala si [[Rose|levò]]
-verso di lui ruggendo d'applausi e l'indagatore della campagna
-belga fu lasciato isolato. Ma è esattamente questo il punto;
-che egli era davvero isolato. È un punto, non solo nella sottigliezza
-di quella mescolanza di [[Blood|sangue]] francese e inglese; ma anche della piuttosto
-speciale sottigliezza degli inglesi. Gli inglesi sono insulari, non tanto
-nel senso d'essere insolenti quanto semplicemente nell'essere ignoranti;
-ma non sono maligni. A parità d'altre condizioni, preferirebbero
-acclamare un francese che fosse fiero d'essere francese, come
-acclamarono il Maresciallo di Napoleone all'Incoronazione della [[Queen|Regina]] Vittoria,
-piuttosto che rammentargli la sventura di Napoleone a Waterloo.
-E la stessa interessante distinzione taglia anche nel verso opposto.
-Ci è stato detto in modo tedioso fin dall'[[Childhood|infanzia]] di qualcosa
-che si chiamava retorica francese. A nostra vergogna, abbiamo dimenticato
-che fino a pochissimo tempo fa esisteva una nobile cosa chiamata retorica inglese.
-E, distinta dalla sua ironia o dal suo oggettivo militarismo scientifico,
-la retorica di Belloc era pienamente retorica inglese.
-Non v'era in essa nulla che non avrebbe potuto essere detto da Cobbett
-o persino da Fox, ai giorni in cui il genuino radicale inglese poteva
-rivolgersi alla genuina folla inglese. Ciò che ha indebolito quell'appello
-diretto e popolare è stato il mutamento che trasformò quasi tutti gli inglesi
-in una sorta di [[Imitation|imitazione]] di londinesi; e la retorica di Westminster si fece
-sempre più pomposa e ipocrita mentre lo spirito di Whitechapel
-si fece sempre più acre e frivolo. Ma è stato possibile,
-persino al mio stesso [[Time|tempo]], udire di tanto in tanto la voce storica e virile
-di un demagogo inglese; parlare in schietto inglese di emozioni primarie.
-Nessuno lo fece mai meglio, quando volle, del vecchio John Burns,
-per il quale ho parlato e votato tante volte ai giorni in cui
-vivevo a Battersea. Per menzionare un caso, come una sorta di modello;
-era abbastanza naturale che il vecchio agitatore dello Sciopero dei Docks, divenuto
-Ministro del Gabinetto e per molti versi una forza piuttosto conservatrice,
-fosse assalito da gruppi più rivoluzionari come un vulcano
-spento se non una fortezza arresa. Ma Burns sapeva come trattare
-quel genere di cose quando parlava ai democratici; scavando più a fondo
-nei fatti umani anziché scivolar via su finzioni legali.
-Fu schernito da alcuni socialisti a un comizio di Battersea
-per non essersi opposto al Sussidio Reale alla [[Queen|Regina]] Mary o a qualche
-principessa alle celebrazioni per la nascita di un erede.
-Posso immaginare come il più mellifluo genere di arrampicatore sociale Lib-Lab,
-passando attraverso il Parlamento alla classe di governo, spiegherebbe
-via la propria posizione in termini dell'etichetta della [[house|Camera]].
-John Burns disse: «Sono il figlio di mia madre e il marito di mia moglie.
-E se mi chiedete di infliggere un pubblico insulto a una donna che ha
-appena dato alla luce un [[Child|figlio]], non lo farò». Questa è retorica inglese:
-ed è buona quanto qualunque altra al mondo.
+Questa transizione di tono aveva un tremendo effetto, l'intera sala si [[Rose|levava]] verso di lui ruggendo d'applauso e l'investigatore della campagna belga restava isolato. Ma è esattamente questo il punto; che egli era davvero isolato. È un punto, non solo nella sottigliezza di quella mescolanza di [[Blood|sangue]] francese e inglese; ma anche della piuttosto speciale sottigliezza degli Inglesi. Gli Inglesi sono insulari, non tanto nel senso di essere insolenti ma semplicemente di essere ignoranti; ma non sono astiosi. A parità di condizioni, preferirebbero acclamare un francese che fosse fiero di essere francese, come acclamarono il Maresciallo di Napoleone all'Incoronazione della [[Queen|Regina]] Vittoria, piuttosto che rammentargli la sventura di Napoleone a Waterloo. E la stessa interessante distinzione taglia anche nell'altro senso. Ci è stato detto in modo tedioso fin dalla [[Childhood|fanciullezza]] di qualcosa che si chiamava retorica francese. A nostra vergogna, abbiamo dimenticato che vi era fino a assai di recente una nobile cosa chiamata retorica inglese. E come distinta dalla sua ironia o dal suo oggettivo militarismo scientifico, la retorica di Belloc era del tutto retorica inglese. Non vi era nulla in essa che non avrebbe potuto essere detto da Cobbett o perfino da Fox, nei giorni in cui il genuino Radicale inglese poteva rivolgersi alla genuina folla inglese. Ciò che ha indebolito quel diretto appello popolare è stato il cambiamento che ha trasformato quasi tutti gli Inglesi in una sorta di [[Imitation|Imitazione]] di Londinesi; e la retorica di Westminster crebbe sempre più pomposa e ipocrita mentre l'arguzia di Whitechapel crebbe sempre più acre e frivola. Ma è stato possibile, perfino nel mio proprio [[Time|tempo]], udire occasionalmente la voce storica e un virile demagogo inglese; che parlava in semplice inglese su emozioni primarie. Nessuno lo fece mai meglio, quando volle, del vecchio John Burns, per il quale ho parlato e votato così spesso nei giorni in cui vivevo a Battersea. Per menzionare un caso, come una sorta di modello; era abbastanza naturale che il vecchio agitatore dello Sciopero dei Dock, essendo divenuto un Ministro del Gabinetto e per molti versi una forza piuttosto conservatrice, fosse assalito da gruppi più rivoluzionari come un vulcano spento se non una fortezza arresa. Ma Burns sapeva come trattare quel genere di cose quando parlava ai democratici; tagliando più a fondo nei fatti umani invece di scivolar via su finzioni legali. Fu schernito da alcuni Socialisti a una riunione di Battersea per non aver contrastato la Concessione Reale alla [[Queen|Regina]] Mary o a qualche principessa alle celebrazioni per la comparsa di un erede. Posso immaginare come il tipo più liscio di arrampicatore sociale Lib-Lab, che passa attraverso il Parlamento nella classe dirigente, avrebbe spiegato via la sua posizione nei termini dell'etichetta della [[house|Camera]]. John Burns disse: «Sono il figlio di mia madre e il marito di mia moglie. E se mi chiedete di rivolgere un pubblico insulto a una donna che ha appena partorito un [[Child|bambino]], non lo farò». Quella è retorica inglese: ed è buona come qualsiasi altra al mondo.
 
-Ma se è del tutto sbagliato supporre che vi fosse qualcosa di
-particolarmente francese nella diretta oratoria democratica che Belloc
-adoperava in quei giorni, vi era però un'altra qualità di cui pure si
-serviva, e che credo si possa davvero chiamare una specialità piuttosto
-francese. Di solito abbiamo in mente una nozione assai sciocca e
-inadeguata quando parliamo dell'arguzia francese; e la piena ricchezza di
-quel frutto della cultura resta di rado colta anche quando parliamo di
-ironia francese. Poiché la migliore ironia francese non è cosa così
-semplice come il dire una cosa intendendone il contrario. Essa mostra e
-insieme ritira, in un solo lampo, una serie di aspetti di una cosa; come
-un uomo che fa girare un [[Jewel|gioiello]] dalle venti sfaccettature. E
-quanto più è breve, quanto più è frivola, quanto più appare superficiale,
-tanto più in quell'ironia c'è un elemento di mistero. C'è sempre un tocco
-di sconcerto, per i semplici, in motti come quello di Voltaire: «Per
-riuscire nel mondo non basta essere stupidi, bisogna anche essere
-[[Well|bene]] educati». Curiosamente, si trova esattamente quella qualità
-in un ordinario dispaccio militare, spedito da un soldato taciturnissimo e
-pratico; da Foch al culmine della crisi della Marna. «La mia destra è
-duramente premuta; la mia sinistra ripiega; situazione eccellente;
-attacco». Poiché potrebbe essere ogni sorta di cosa oltre a quella assai
-prosaica e pratica che in realtà è; potrebbe essere un
-[[Paradox|paradosso]]; o una vanteria; o un'amara facezia di
-[[Despair|disperazione]]; e per tutto il [[Time|tempo]] è di fatto una
-descrizione perfettamente esatta del vantaggio della sua immediata
-situazione tattica, precisa come una carta militare. Non ho mai sentito
-così vivamente che c'era davvero qualcosa di francese in Belloc come
-quando egli, di [[Time|tempo]] in [[Time|tempo]], se ne usciva d'improvviso
-con frasi simili su una pubblica tribuna, dinanzi a un uditorio del tutto
-sconcertato. Ricordo una volta che teneva una conferenza sulla medesima
-campagna della Grande Guerra; una conferenza puramente tecnica, piena di
-piani e di cifre. E si fermò per dire, tra parentesi, che forse nessuno
-avrebbe mai capito perché Von Kluck commise il suo unico grande errore
-davanti a [[Paris|Parigi]]. «Forse», disse Belloc, come un uomo per un
-istante stordito, «forse fu ispirato».
+Ma mentre è del tutto un errore supporre che vi fosse qualcosa di particolarmente francese nella diretta oratoria democratica che Belloc usava in quei giorni, vi era un'altra qualità che egli pure usava, che credo si possa davvero chiamare una specialità piuttosto francese. Generalmente abbiamo qualche assai sciocca e inadeguata nozione nelle nostre menti quando parliamo di arguzia francese; e la piena ricchezza di quel frutto della cultura è raramente colta anche quando parliamo di ironia francese. Poiché la migliore ironia francese non è nulla di così semplice come il mero dire una cosa e intendere l'opposto. Essa è a un tempo esibire e ritrarre, in un solo lampo, una serie di aspetti di una cosa; come un uomo che fa roteare un [[Jewel|gioiello]] con venti sfaccettature. E più è breve, più è frivola, più è apparentemente superficiale, più vi è in quell'ironia un elemento di mistero. Vi è sempre un tocco di smarrimento, per il semplice, nell'aforisma come quello di Voltaire: «Per riuscire nel mondo non è sufficiente essere stupidi, bisogna essere [[Well|ben]] educati». Curiosamente, vi è esattamente quella qualità in un ordinario dispaccio militare, inviato da un soldato assai silenzioso e pratico; da Foch nella suprema crisi della Marna: «La mia destra è duramente pressata; la mia sinistra è in ritirata; situazione eccellente; attacco». Poiché potrebbe essere ogni sorta di cose oltre alla cosa del tutto prosaica e pratica che è; potrebbe essere un [[Paradox|paradosso]]; o un vanto; o un'amara facezia di [[Despair|disperazione]]; e per tutto il [[Time|tempo]] è in effetti una descrizione del tutto corretta del vantaggio della sua propria immediata situazione tattica, esatta come una mappa militare. Non ho mai così vividamente sentito che vi fosse davvero qualcosa di francese in Belloc, come quando egli soleva di [[Time|tanto]] in [[Time|tanto]] dire d'improvviso cose come quella su una pubblica tribuna davanti a un pubblico del tutto sconcertato. Ricordo una volta quando egli teneva una conferenza sulla stessa campagna nella Grande Guerra; una conferenza puramente tecnica piena di piani e cifre. E si fermò a dire tra parentesi che forse nessuno avrebbe mai capito perché Von Kluck fece il suo unico grande errore davanti a [[Paris|Parigi]]. «Forse», disse Belloc, come un uomo per un momento sbalordito, «forse fu ispirato».
 
-Ora, da ciò si può ricavare ogni sorta di cosa; in ogni sorta di direzione
-opposta. Se ne potrebbe fare un sogghigno volterriano contro
-l'ispirazione divina e i disastri che essa reca; oppure un oscuro e
-misterioso giudizio come quello suggerito quando «il Signore indurì il
-cuore del Faraone», o tutte le altre fini gradazioni tra i due. Ma non si
-potrebbe mai essere del tutto certi di averne toccato il
-[[Bottom|fondo]]. Così quello scintillante stagno ornamentale che pare
-tanto poco profondo, e si chiama arguzia francese, è in verità il più
-profondo di tutti i pozzi, e la [[Truth|verità]] giace sul suo
-[[Bottom|fondo]]. Infine, si può osservare che proprio questa diversità
-nei metodi di un solo uomo, e la sua abitudine di tenere distinte queste
-cose diverse, spiega quell'accidente per cui molti sono rimasti delusi o
-sconcertati o persino annoiati da Belloc sotto diversi aspetti; perché
-cercavano la rivelazione di una delle leggende su di lui, mentre egli si
-concentrava con fredda ferocia su qualcosa di assai più prosaico o
-preciso. Discutendo con Bernard [[Shaw]] della Legge della Rendita, egli
-osservò austeramente che, se stavano discutendo di economia, avrebbe
-discusso di economia, ma se il signor [[Shaw]] faceva delle spiritosaggini
-egli sarebbe stato lieto di rispondere in versi comici. Al che il signor
-[[Shaw]], sempre pronto a raccogliere una sfida sportiva, proseguì il tema
-in certi deliziosi versetti burleschi; ai quali Belloc rispose con la
-[[Song|canzone]] su «la striscia a sud dello Strand», comprendendo allora
-anche l'Adelphi. Ma è tipico che la sua [[Song|canzone]] fosse semplicemente
-una [[Song|canzone]], e avrebbe potuto essere cantata in qualunque taverna
-come una [[Song|canzone]] da bevute.
+Ora si possono cavare ogni sorta di cose da ciò; in ogni sorta di direzioni opposte. Se ne potrebbe fare uno sberleffo volterriano all'ispirazione divina, e ai disastri che essa porta; o un cupo e misterioso giudizio come quello suggerito quando «il Signore indurì il cuore del Faraone», o ogni sorta di altre fini sfumature fra i due. Ma non si potrebbe mai essere del tutto certi di essere giunti al [[Bottom|fondo]] di ciò. Cosicché quella splendente pozza ornamentale che pare così superficiale, e si chiama arguzia francese, è invero il più profondo di tutti i pozzi e la [[Truth|verità]] giace sul suo [[Bottom|fondo]]. Infine, si può osservare, che questa stessa diversità nei metodi di un uomo, e la sua stessa abitudine di tenere distinte queste diverse cose, è la spiegazione dell'accidente per cui molte persone sono state deluse o sconcertate o perfino annoiate da Belloc in aspetti diversi; perché cercavano la rivelazione di una delle leggende su di lui, quando egli si dava il caso stesse concentrandosi con fredda ferocia su qualcosa di assai più prosaico o preciso. Nel dibattere con Bernard [[Shaw]] sulla Legge della Rendita, egli osservò austeramente che se stavano discutendo di economia, avrebbe discusso di economia, ma se il signor [[Shaw]] stava facendo scherzi egli sarebbe stato felice di replicare in versi comici. Al che il signor [[Shaw]], sempre pronto a levarsi a un evento sportivo, proseguì il soggetto in certi deliziosi versacci; che Belloc riconobbe con la [[Song|canzone]] su «la striscia a sud dello Strand»; che allora comprendeva l'Adelphi. Ma è tipico che la sua [[Song|canzone]] fosse semplicemente una [[Song|canzone]], e avrebbe potuto essere cantata in qualsiasi taverna come una [[Song|canzone]] da bere.
 
-Uno degli avvenimenti più divertenti della mia vita accadde quando presi
-la presidenza di una celebrazione privata per il sessantesimo compleanno
-di Belloc. Si erano radunate una quarantina di persone, quasi tutte
-importanti in senso pubblico, come si dice, e le rimanenti ancora più
-importanti in senso privato, come i suoi più stretti intimi e parenti. Per
-me fu quella curiosa esperienza, qualcosa fra il Giorno del Giudizio e
-[[A Dream|un sogno]], in cui uomini di molti gruppi da me conosciuti in
-molti tempi apparivano tutti insieme come in una sorta di
-[[Resurrection|resurrezione]]. Capirà quella sensazione chiunque abbia
-avuto, come quasi tutti hanno avuto, l'esperienza di un perfetto
-sconosciuto che lo ferma per strada e gli dice: «E come sta la vecchia
-compagnia?». In simili occasioni divento acutamente cosciente di essere
-appartenuto a un gran numero di vecchie compagnie. La maggior parte delle
-persone le conoscevo abbastanza [[Well|bene]]; ma alcuni dei più giovani li
-avevo conosciuti assai di recente e altri molto tempo addietro; e tra loro
-figuravano, come in tutti i raduni del genere, coloro sui quali avevo
-avuto intenzione d'informarmi, senza mai mettere in atto il proposito.
-Comunque, erano di ogni sorta, tranne quella degli stupidi; e il rinnovato
-[[Comradeship|cameratismo]] destò in me il [[Memory|ricordo]] di cento
-controversie. C'era il mio vecchio amico Bentley, che risaliva ai miei
-primi giorni di scuola; ed Eccles, che mi rammentava le prime baruffe
-politiche dei Pro-Boeri; e Jack Squire (ora Sir John), che per primo
-approdò nella mia cerchia ai tempi dell'Eye-Witness e della campagna di
-mio fratello contro la corruzione; e Duff Cooper, un giovane politico in
-ascesa che avevo incontrato appena un mese prima, e A. P. Herbert,
-d'incirca la stessa età; e il brillante giornalista da me conosciuto a
-lungo come Beachcomber, e solo di recente come Morton. Doveva essere, e
-fu, una serata assai allegra; non vi dovevano essere discorsi. Mi fu
-particolarmente raccomandato che non vi dovevano essere discorsi. Solo a
-me, in quanto presidente, doveva essere concesso di dire poche parole nel
-presentare a Belloc un calice d'oro modellato su certe frasi del suo
-poema eroico in lode del vino, che si chiude chiedendo che una tale coppa
-d'oro sia la staffiera del suo addio agli amici:
+Uno degli eventi più divertenti della mia vita avvenne quando presiedetti a una privata celebrazione del sessantesimo compleanno di Belloc. Vi erano circa quaranta persone radunate, quasi tutte erano ciò che si chiama importante nel senso pubblico, e le altre erano perfino più importanti nel senso privato, in quanto suoi più prossimi intimi e parenti. Per me fu quella curiosa esperienza, qualcosa fra il Giorno del Giudizio e [[A Dream|un Sogno]], in cui uomini di molti gruppi da me conosciuti in molti tempi, apparvero tutti insieme come una sorta di [[Resurrection|Resurrezione]]. Chiunque capirà quel sentimento che abbia avuto, come la maggior parte della gente ha avuto, l'esperienza di qualche perfetto sconosciuto che lo ferma per strada e gli dice: «E come sta la vecchia combriccola?». In tali occasioni divento acutamente conscio di essere appartenuto a un gran numero di vecchie combriccole. La maggior parte delle persone le conoscevo abbastanza [[Well|bene]]; ma alcuni dei più giovani li avevo conosciuti del tutto di recente e altri molto tempo fa; e includevano, come fanno tutte tali radunanze, coloro sui quali avevo inteso informarmi, e non avevo mai attuato la mia intenzione. Comunque, erano di ogni sorta tranne la sorta stupida; e la rinnovata [[Comradeship|Cameratismo]] destò in me la [[Memory|memoria]] di cento controversie. C'era il mio vecchio amico Bentley, che datava dai miei primi giorni di scuola; ed Eccles, che mi rammentava le prime beghe politiche dei Pro-Boeri; e Jack Squire (ora Sir John) che per primo fluttuò nella mia cerchia nei giorni dell'Eye-Witness e della campagna di mio fratello contro la corruzione; e Duff Cooper, un giovane politico emergente che avevo incontrato solo un mese o giù di lì prima, e A. P. Herbert di età alquanto simile; e il brillante giornalista che avevo a lungo conosciuto come Beachcomber, e solo di recente conosciuto come Morton. Doveva essere, e fu, una serata assai gioviale; non vi dovevano essere discorsi. Mi fu specialmente inculcato, che non vi dovevano essere discorsi. Solo a me, in quanto presidente, doveva essere permesso di dire poche parole nel presentare a Belloc un calice d'oro modellato su certe frasi del suo eroico poema in lode del vino, che finisce col chiedere che una tale coppa d'oro sia la staffiera del suo commiato agli amici:
 
-  E in sacramento innalzami il divino
-  forte fratello in Dio, ultimo compagno, il vino.
+  E sacramentalmente lévami il divino
+  Forte fratello in Dio e ultimo compagno, il vino.
 
-Dissi soltanto poche parole, nel senso che una simile cerimonia sarebbe
-potuta essere altrettanto appropriata migliaia di anni fa, alla festa di
-un grande poeta greco; e che ero fiducioso che i sonetti e i versi
-possenti di Belloc sarebbero rimasti come le coppe e le epopee scolpite
-dei Greci. Egli lo riconobbe brevemente, con un triste buon
-[[Humour|umore]], dicendo che, giunto ai sessant'anni, non gli importava
-gran che se i suoi versi rimanessero o no. «Ma mi si dice», aggiunse con
-un'enfasi che d'un tratto rinasceva, «mi si dice che si torna a
-importarsene terribilmente quando si arriva ai settanta. In tal caso,
-[[Hope|spero]] di morire a sessantanove». E poi ci accomodammo al convito
-dei vecchi amici, che doveva essere tanto felice appunto perché non vi
-erano discorsi.
+Dissi soltanto poche parole nel senso che una tale cerimonia avrebbe potuto essere altrettanto adatta migliaia di anni fa, al festival di un grande poeta greco; e che ero fiducioso che i sonetti e i forti versi di Belloc sarebbero rimasti come le coppe e le scolpite epopee dei Greci. Egli lo riconobbe brevemente, con un triste buon [[Humour|umore]], dicendo che trovava che, all'età di sessant'anni, non gli importava molto se i suoi versi rimanessero o no. «Ma mi si dice», aggiunse con enfasi d'improvviso rivivente, «mi si dice che si comincia a curarsene di nuovo terribilmente quando si hanno settant'anni. Nel qual caso, [[Hope|spero]] di morire a sessantanove». E poi ci accomodammo al banchetto dei vecchi amici, che doveva essere così felice perché non vi erano discorsi.
 
-Verso la fine della cena qualcuno mi sussurrò che forse sarebbe stato
-meglio spendere una parola in riconoscimento degli sforzi di un tale, di
-cui dimentico il nome, che si supponeva avesse organizzato la faccenda. Lo
-ringraziai perciò brevemente; ed egli, ancora più brevemente, ringraziò
-me, ma soggiunse che si trattava di un vero e proprio equivoco, poiché il
-vero autore del progetto era Johnnie Morton, altrimenti detto Beachcomber,
-che sedeva immediatamente alla sua destra. Morton si [[Rose|alzò]]
-solennemente per raccogliere l'applauso bruscamente trasferitogli; volse
-lo sguardo alla propria destra, e ringraziò calorosamente chiunque si
-trovasse a sedere là (credo fosse Squire) per averlo ispirato con questa
-grande concezione di un banchetto per Belloc. Squire si levò e, con molti
-cortesi gesti, spiegò che il gentiluomo alla propria destra, il signor A.
-P. Herbert, era stato la vera, profonda e ultima ispirazione di questa
-grande idea; e che era solo giusto che il segreto della sua iniziativa
-venisse ora rivelato. A questo [[Time|punto]], la [[logic|logica]] dello
-scherzo era in pieno galoppo e non si poteva più frenare; nemmeno se avessi
-voluto frenarla. A. P. Herbert si [[Rose|levò]] all'altezza dell'occasione
-con una superba presenza di spirito, e diede alla serie una piega del tutto
-nuova e originale. È un eccellente oratore e, come tutti sappiamo, un
-ammirevole autore; ma non avevo mai saputo prima che è pure un ammirevole
-attore. Per qualche ragione a lui sola nota, scelse di fingersi il
-funzionario oratore di una qualche Società di Beneficenza Operaia, come gli
-Oddfellows o i Foresters. Non ebbe bisogno di dirci che stava recitando
-quella parte; nel tono della voce ce lo disse fin dalle prime parole. Non
-dimenticherò mai l'esattezza dell'accento con cui disse: «Sono certo,
-amici, che siamo tutti ben lieti di vedere fra noi, questa sera, l'ex Druido
-Chesterton». Ma diede anche al suo discorso una precisa direzione logica.
-Disse che non a lui, ma al nostro vecchio e fedele amico Duff Cooper si
-doveva in realtà questa piacevole serata. Duff Cooper, che gli sedeva
-accanto, si [[Rose|alzò]] allora e, con tono risoluto e squillante,
-pronunciò un'[[Imitation|imitazione]] di un comizio liberale, pieno di
-invocazioni al suo grande capo Lloyd-George. Spiegò tuttavia che era stato
-il signor E. C. Bentley, alla sua destra, e non lui, ad aver organizzato
-questo tributo a quel pilastro del Liberalismo politico, il signor Belloc.
-Bentley diede un'unica occhiata alla propria destra, e si [[Rose|alzò]] con
-esattamente quella sprezzante gravità che avevo visto quarant'anni prima
-nei circoli di dibattito della nostra fanciullezza; il [[Memory|ricordo]]
-del suo occhialino in bilico e della sua blanda solennità mi tornò
-attraverso la vita con un'intensità tale da smuovere le [[Tears|lacrime]]
-che nascono dal [[Time|tempo]]. Disse, con la sua precisa enunciazione, di
-aver seguito per tutta la vita una sola e sufficiente regola. In tutti i
-problemi che gli si erano presentati, si era accontentato di consultare
-esclusivamente l'opinione del Professor Eccles. In ogni dettaglio della
-vita quotidiana, nella scelta della moglie, di una professione, di una
-[[house|casa]], di un pranzo, non aveva fatto altro che eseguire quanto il
-Professor Eccles gli indicasse. Nella presente occasione, ogni apparenza
-egli potesse avere di aver organizzato il banchetto di Belloc era in realtà
-una maschera per l'influenza del Professor Eccles. Il Professor Eccles
-rispose in modo analogo, ma ancor più contenuto, dicendo semplicemente di
-essere stato scambiato per l'uomo che gli sedeva accanto, il vero fondatore
-del convito; e così, per fatali e sicuri passi, l'intero processo fece il
-giro dell'intera tavola; finché ogni singolo essere umano ebbe pronunciato
-un discorso. È l'unico pranzo cui io abbia mai partecipato in cui fu
-letteralmente vero che ogni commensale tenne un discorso di fine pranzo. E
-quello fu il felicissimo epilogo di quel felicissimo pranzo, in cui non vi
-dovevano essere discorsi.
+Verso la fine della cena qualcuno mi sussurrò che sarebbe stato forse meglio se una parola fosse detta in riconoscimento degli sforzi di qualcun altro di cui dimentico il nome, che si supponeva avesse organizzato la faccenda. Lo ringraziai perciò brevemente; ed egli ancor più brevemente ringraziò me, ma aggiunse che era del tutto un errore, perché il vero autore del piano era Johnnie Morton, altrimenti Beachcomber, che sedeva immediatamente alla sua destra. Morton si [[Rose|levò]] solennemente a riconoscere l'applauso bruscamente trasferito; guardò alla sua propria destra, e calorosamente ringraziò chiunque si trovasse a sedere là (credo fosse Squire) per averlo ispirato con questa grandiosa concezione di un banchetto per Belloc. Squire si alzò, e con molti cortesi gesti, spiegò che il gentiluomo alla sua propria destra, il signor A. P. Herbert, era stata la vera e profonda e ultima ispirazione di questa grande idea; e che era solo giusto che il segreto della sua iniziativa fosse ora rivelato. A quel [[Time|punto]], la [[logic|logica]] dello scherzo era in pieno galoppo e non poteva essere frenata; anche se avessi voluto frenarla. A. P. Herbert si [[Rose|levò]] all'occasione con superba presenza di spirito, e diede alla serie una svolta del tutto nuova e originale. È un eccellente oratore; e, come tutti sappiamo, un ammirevole autore; ma non avevo mai saputo prima che è un ammirevole attore. Per qualche ragione a lui sola nota, scelse di fingere di essere il funzionario oratorio di una sorta di Società Benevola degli Operai, come gli Oddfellows o i Forestieri. Non ebbe bisogno di dirci che stava assumendo questa parte; nel tono della sua voce, ce lo disse nelle prime parole. Non dimenticherò mai l'esattezza dell'accento con cui disse: «Sono sicuro, amici, che siamo tutti assai lieti di vedere l'Ex Druido Chesterton fra noi questa sera». Ma diede anche al suo discorso una precisa direzione logica. Disse che non era a 'ui, ma al nostro vecchio e fedele amico Duff Cooper che questa piacevole serata era davvero dovuta. Duff Cooper, seduto accanto a lui, allora si [[Rose|levò]] e in toni risoluti e squillanti pronunciò un'[[Imitation|Imitazione]] di un discorso da tribuna liberale, pieno di invocazioni del suo grande capo Lloyd-George. Egli spiegò, tuttavia, che il signor E. C. Bentley alla sua destra, e non lui stesso, aveva organizzato questo tributo a quel pilastro del Liberalismo politico, il signor Belloc. Bentley diede un'occhiata alla sua propria destra, e si [[Rose|levò]] con esattamente quella supercigliosa gravità che avevo visto quarant'anni prima nei circoli di dibattito della nostra fanciullezza; il [[Memory|ricordo]] dei suoi occhialini in equilibrio e della sua blanda solennità mi tornò attraverso la vita con tale intensità da smuovere le [[Tears|lacrime]] che nascono dal [[Time|tempo]]. Egli disse, con la sua precisa enunciazione, di aver egli stesso seguito attraverso la vita una sola e sufficiente regola. In tutti i problemi che sorgevano, si era accontentato di consultare esclusivamente l'opinione del Professor Eccles. In ogni dettaglio della vita quotidiana, nella sua scelta di una moglie, di una professione, di una [[house|casa]], di una cena, non aveva fatto altro che eseguire qualunque cosa il Professor Eccles potesse dirigere. Nella presente occasione, qualsiasi apparenza egli potesse aver avuto di organizzare il banchetto di Belloc era in effetti una maschera per l'influenza del Professor Eccles. Il Professor Eccles rispose in modo simile ma perfino più contenuto, dicendo semplicemente di essere stato scambiato per l'uomo accanto a lui, il vero fondatore del festino; e così per fatali e infallibili passi, tutto il processo fece il giro dell'intera tavola; finché ogni singolo essere umano ebbe fatto un discorso. È la sola cena cui io abbia mai assistito, in cui fu letteralmente vero che ogni commensale fece un discorso dopocena. E quello fu il felicissimo finale di quella felicissima cena, in cui non vi dovevano essere discorsi.
 
-Io stesso non feci un altro discorso; benché fossi ben lontano dal pensare
-che si fosse discorseggiato troppo. Solo certe parole frammentarie, un
-[[Memory|ricordo]] di un poeta tardo-vittoriano che conosco, Sir William
-Watson, affiorarono alla superficie della mia mente; ed erano quelle le
-parole che avrei detto, se avessi detto qualcosa. Poiché ciò che il poeta
-disse al suo amico è tutto quanto avrei potuto aggiungere, in spirito
-meramente personale, alle molte cose che si dissero quella
-[[Night|notte]] intorno a Hilaire Belloc; e non mi sarei vergognato se le
-parole fossero suonate come un vanto:
+Io stesso non feci un altro discorso; benché fossi tutt'altro che convinto che vi fosse stato troppo discorseggiare. Solo certe parole frammentarie, una [[Memory|memoria]] di un tardo poeta vittoriano che conosco, Sir William Watson, fluttuarono sulla superficie della mia mente; ed erano quelle parole che avrei detto, se avessi detto qualcosa. Poiché ciò che il poeta disse al suo amico è tutto ciò che avrei potuto aggiungere, in spirito meramente personale, alle molte cose che furono dette quella [[Night|notte]] su Hilaire Belloc; e non mi sarei vergognato se le parole fossero suonate come un vanto:
 
-  Né senza [[Honour|onore]] corsero i miei giorni,
-  né senza vanto avranno fine;
-  ché fui compatriota di Shakespeare
-  e non fosti tu forse amico mio.
+  Né senza [[Honour|Onore]] corsero i miei giorni,
+  Né senza un vanto finiranno;
+  poiché io fui compatriota di Shakespeare
+  E non eravate voi mio amico.
 
 *****

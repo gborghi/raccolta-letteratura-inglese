@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_98_the_philosophy_of_pumpkins">‹ Story 98 The Philosophy Of Pumpkins</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_100_intimations">Story 100 Intimations ›</a></div>
@@ -90,3 +92,89 @@ passion like thirst; it was a fierce tenderness; he was never
 fired of saying that his God was a consuming fire.
 
                                           Daily News, September 23rd, 1905
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_98_the_philosophy_of_pumpkins">‹ Story 98 The Philosophy Of Pumpkins</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_100_intimations">Story 100 Intimations ›</a></div>
+</nav>
+
+IL SAGGIO
+
+Se giudichiamo la questione secondo la rigorosa originalità dello sguardo,
+George Macdonald fu uno dei tre o quattro uomini più grandi
+della Gran Bretagna dell'Ottocento.  Egli non occupa, nel senso comune,
+quella posizione, perché la sua arte, benché assai personale
+e fantasiosa, non raggiunge il livello del suo pensiero e della sua passione.
+Nella materia dell'espressione, in verità, egli patì la propria
+originalità in un modo più diffuso di quanto la gente immagini.
+Un uomo con una visione tutta sua spesso non riesce a comunicarla
+agli altri, non perché non comprenda la propria visione,
+ma perché non comprende la loro.  ... Di qui nasce
+una qualità peculiare che si può notare nelle opere di quasi
+ogni uomo con un punto di vista nuovo; intendo, una tendenza
+a diventare per un tratto inspiegabilmente debole e ovvio, a rimasticare
+i più semplici moti del sentimento, a scrivere pagine di banalità.
+Questo, come dico, esiste par excellence negli uomini originali.
+Fu così con Dickens.  Fu così con Victor Hugo.
+Fu così con Ruskin.  Fu così con Thackeray.
+Fu così, con assoluta certezza, con George Macdonald.  Ma quelle
+esplosioni di misteriosa piattezza o di misteriosa fiacchezza sono,
+come si è suggerito sopra, il prodotto diretto dell'audace
+indipendenza e dell'intensa originalità dello scrittore.  Egli è tanto indipendente
+dalle convenzioni da diventare convenzionale per accidente.
+È tanto inconsapevole del sentiero battuto da finire persino col percorrerlo.
+
+Per apprezzare come si deve uomini come Macdonald, è necessario
+ricordare un tipo d'uomo che è pilastro delle società semplici,
+ma che le società complesse tendono a trasformare in qualcos'altro.
+Intendo il saggio, il dicitore di cose.  Non è il poeta, perché non
+canta; non è il prosatore, perché in genere non sa scrivere.
+Le cose che produce formano una classe artistica a sé;
+sono logia o grandi massime appassionate, i proverbi della filosofia.
+Confucio fu un uomo di questa specie, e il vero Socrate e la maggior parte
+dei fondatori delle grandi religioni.  Ma nel nostro mondo moderno,
+rispettabile e altamente specializzato, non ci piace lasciare
+un vecchio signore libero per le strade a dire soltanto cose.
+L'uomo che è per natura e per spirito di questo tipo è ai nostri tempi
+costretto a fingersi qualcos'altro, un poeta minore o un romanziere
+o qualche triste specie di riformatore politico.
+
+Per esempio, un uomo del mondo moderno che apparteneva per natura
+a questa classe in grado eminente fu Walt Whitman.
+I critici si affannano in eterno a stabilire se fosse un poeta
+o un prosatore.  In realtà non era né
+poeta né prosatore; era un dicitore di grandi cose.
+Eccelleva in una sorta di epigramma primevo.  `Non tengo
+conferenze né faccio una piccola [[Charity|carità]]; quando dono, dono me stesso.'
+`Troviamo la vita così ben provveduta e pensiamo che la morte non sia
+provveduta altrettanto bene?'  Queste hanno tutti i caratteri
+dei logia su cui furono fondate le maggiori fedi dell'umanità.
+E Whitman avrebbe di gran lunga preferito gridarle
+per le strade, come Giovanni il Battista o Maometto, piuttosto che essere
+obbligato a includerle in ciò che era obbligato a chiamare poesie.
+
+George Macdonald non era, allo stesso modo, uno scrittore nato; era
+un creatore nato di testi spontanei.  Anch'egli avrebbe di gran lunga
+preferito passeggiare per le strade di qualche villaggio greco o orientale
+con una lunga barba bianca, dicendo semplicemente ciò che aveva da dire.
+Ma come Whitman dovette etichettare come poesia i suoi trattati di verità,
+Macdonald etichettò i suoi come romanzi.  Vi sono alcune eccezioni,
+ma nel complesso è vero dire che ricordiamo i suoi romanzi,
+come ricordiamo la poesia di Whitman, soltanto per certe esplosioni
+di stupefacente sagacia, spesso pronunciate in cinque parole.
+Chiunque abbia letto i romanzi di Macdonald ricorderà una sorta
+di arguzia celeste in alcuni dei dialoghi, repliche che paiono
+davvero folgori venute dal cielo.
+
+Per lui il segreto del Cosmo era un segreto, perché
+era troppo bello per essere detto.  Le stelle e tutte le cose del suo mondo
+vibravano della tensione di quel doloroso piacere dell'anima.
+Per lui la pietà di Dio era tanto positiva da essere una passione
+definita come la sete; era una tenerezza feroce; non si stancava
+mai di dire che il suo Dio era un fuoco divorante.
+
+                                          Daily News, 23 settembre 1905

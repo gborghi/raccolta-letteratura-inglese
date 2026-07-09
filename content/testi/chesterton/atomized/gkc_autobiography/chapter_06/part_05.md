@@ -157,10 +157,134 @@ Anything to the Ens of St. Thomas [[aquinas|Aquinas]].
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_06/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_06/part_06">part 06 ›</a></div>
 </nav>
 
-Ora, contro questo grigio sfondo di tetro materialismo moderno, Willie Yeats andava tranquillamente in giro come l'Uomo Che Conosceva le Fate. Yeats stava per l'incanto; esattamente là dove Hankin stava per il disincanto. Ma io godevo in modo tutto speciale dell'istinto combattivo che rendeva l'irlandese così fermo e reciso al riguardo. Egli era il vero razionalista originario che diceva che le fate stanno a ragione. Sconcertava i materialisti attaccando il loro astratto materialismo con un misticismo del tutto concreto; «[[Imagination|Immaginazione]]!», diceva con fulminante disprezzo; «Non c'era molta [[Imagination|immaginazione]] quando il fattore Hogan fu trascinato giù dal letto e bastonato come un sacco di patate—quello sì che l'hanno fatto, l'hanno tirato fuori»; l'accento irlandese che si scaldava di scherno; «l'hanno tirato fuori e l'hanno pestato; e non è il genere di cosa che un uomo abbia voglia d'immaginare». Ma gli esempi concreti non erano soltanto una [[Comedy|commedia]]; egli usava un argomento che era solido, e non l'ho mai dimenticato. È il fatto che non sono gli uomini anormali come gli artisti, bensì gli uomini normali come i contadini, ad aver reso testimonianza mille volte a simili cose; sono i fattori a vedere le fate. È il bracciante agricolo che chiama pane il pane a chiamare pure spirito uno spirito; è il [[Woodcutter|taglialegna]] che non ha altro interesse in ballo, se non tagliare la legna, a dire di aver visto un uomo pendere da una forca e poi aggirarsi intorno ad essa come un [[Ghost|fantasma]]. Sta tutto molto [[Well|bene]] dire che non dovremmo credere al [[Ghost|fantasma]] sulla testimonianza di un uomo ignorante. Ma dovremmo impiccare l'uomo alla forca sulla testimonianza di quello stesso uomo.
+Ora, contro questo scialbo sfondo di tetro materialismo moderno,
+Willie Yeats camminava con calma come l'Uomo Che Conosceva le Fate.
+Yeats stava per l'incanto; esattamente dove Hankin stava
+per il disincanto. Ma io mi rallegravo in modo assai speciale dell'istinto combattivo
+che rendeva l'irlandese così fermo e positivo al riguardo.
+Era il vero originale razionalista che diceva che le fate
+stanno a ragione. Sbalordiva i materialisti attaccando
+il loro astratto materialismo con un misticismo del tutto concreto;
+«[[Imagination|Immaginazione]]!» diceva con appassito disprezzo; «Non c'era
+molta [[Imagination|immaginazione]] quando Farmer Hogan fu tirato giù dal letto e
+bastonato come un sacco di patate — quello fecero, lo tirarono fuori;»
+l'accento irlandese scaldandosi di scherno; «lo tirarono fuori e lo picchiarono;
+e non è il genere di cosa che un uomo vorrebbe immaginare.»
+Ma gli esempi concreti non erano soltanto una [[Comedy|Commedia]]; egli usava
+un argomento che era valido, e non l'ho mai dimenticato.
+È il fatto che non sono uomini anomali come gli artisti,
+ma uomini normali come i contadini, ad aver testimoniato mille
+volte simili cose; sono i contadini a vedere le fate.
+È il bracciante agricolo che chiama pane il pane e vino il vino a
+chiamare anche uno spirito uno spirito; è il [[Woodcutter|Taglialegna]] senza secondi fini,
+tranne quello di tagliar legna, a dire di aver visto un uomo pendere da una forca
+e in seguito aggirarsi intorno a essa come un [[Ghost|Fantasma]]. È [[Well|facile]] dire
+che non dovremmo credere nel [[Ghost|Fantasma]] sulla testimonianza di un uomo ignorante.
+Ma impiccheremmo l'uomo alla forca sulla testimonianza dello stesso uomo.
 
-Io ero tutto per battermi in favore di Willie Yeats e delle sue fate contro il materialismo. Ero specialmente per battermi in favore di Willie Yeats e dei suoi fattori contro il meccanico materialismo urbano. Ma già era sorta un'ulteriore complicazione, che devo cercare di spiegare; non solo per spiegare me stesso, ma per spiegare l'intero sviluppo della poesia e del periodo. Era già apparso in quel mondo l'inizio di una reazione contro il materialismo; qualcosa di analogo a ciò che da allora è apparso nella forma dello Spiritismo. Ha perfino assunto la forma ancora più provocatoria della Scienza Cristiana, che negava l'esistenza del [[Body|corpo]] solo perché i suoi nemici avevano negato l'esistenza dell'[[Soul|anima]]. Ma la forma che assunse per prima, o più generalmente, nel mondo di cui parlo, fu la cosa comunemente chiamata Teosofia; talora chiamata anche Buddhismo Esoterico. È probabile che qui io debba almeno concedere l'accusa di un pregiudizio. Se esisteva, non era un pregiudizio ortodosso o religioso o nemmeno pio. Io stesso ero quasi interamente Pagano e Panteista. Quando detestavo la Teosofia non avevo Teologia. Forse non detestavo la Teosofia, ma solo i Teosofi. È certamente vero, temo, quale che sia la mancanza di [[Charity|carità]], che io detestavo alcuni Teosofi. Ma non li detestavo perché avessero dottrine erronee, mentre io stesso non avevo dottrine; o perché non avessero titolo a dirsi Cristiani, mentre in realtà avrebbero rivendicato il [[Christianity|Cristianesimo]], tra le altre cose, con assai più sicurezza di quanto potessi io stesso. Li detestavo perché avevano occhi lucidi e ciottolosi e sorrisi pazienti. La loro pazienza consisteva per lo più nell'attendere che gli altri si elevassero al piano spirituale sul quale essi già stavano. È un fatto curioso che non parvero mai [[Hope|sperare]] di poter evolvere e raggiungere il piano sul quale già stava il loro onesto [[grocer|droghiere]]. Non volevano mai attaccare il proprio pesante carro a un [[cabman|vetturino]] che si libra in alto; o vedere l'[[Soul|anima]] della loro donna delle pulizie come una stella far cenno verso le sfere dove dimorano gli immortali. Eppure sospetto di essere ingiusto verso queste persone nelle loro reali personalità. Immagino fosse una combinazione di tre cose; l'Asia e l'Evoluzione e la signora inglese; e credo che sarebbero più simpatiche prese separatamente.
+Ero tutto per combattere per Willie Yeats e le sue fate
+contro il materialismo. Ero specialmente per combattere per Willie Yeats
+e i suoi contadini contro il meccanico materialismo urbano.
+Ma era già sorta un'ulteriore complicazione, che devo tentare
+di spiegare; non solo per spiegare me stesso, ma per spiegare l'intero
+sviluppo della poesia e del periodo. Erano già apparsi
+in quel mondo gli inizi di una reazione contro il materialismo;
+qualcosa di analogo a ciò che è da allora apparso nella forma
+dello Spiritismo. Ha persino preso la forma ancor più sfidante
+della Christian Science, che negava l'esistenza del [[Body|Corpo]]
+meramente perché i suoi nemici avevano negato l'esistenza dell'[[Soul|Anima]].
+Ma la forma che prese per prima, o più in generale, nel mondo
+di cui parlo, era la cosa comunemente chiamata Teosofia;
+anche talvolta chiamata Buddismo Esoterico. È probabile che io debba
+qui concedere quanto meno l'accusa di un pregiudizio. Se esisteva,
+non era un pregiudizio ortodosso o religioso o persino pio.
+Io stesso ero quasi interamente Pagano e Panteista. Quando mi era antipatica
+la Teosofia non avevo alcuna Teologia. Forse non mi era antipatica la Teosofia,
+ma solo i Teosofi. È di certo vero, temo,
+qualunque sia il fallimento nella [[Charity|Carità]], che alcuni Teosofi mi erano antipatici.
+Ma non mi erano antipatici perché avevano dottrine erronee,
+quando io stesso non avevo dottrine; o perché non avevano alcuna pretesa di
+essere cristiani, quando in effetti avrebbero rivendicato il [[Christianity|Cristianesimo]],
+tra le altre cose, assai più fiduciosamente di quanto potessi io stesso.
+Mi erano antipatici perché avevano occhi lucidi e ciottolosi e sorrisi pazienti.
+La loro pazienza consisteva per lo più nell'attendere che altri salissero
+al piano spirituale dove essi stessi già stavano.
+È un fatto curioso, che non parevano mai [[Hope|sperare]] di poter
+evolvere e raggiungere il piano dove il loro onesto verdu[[grocer|raio]]
+già stava. Non volevano mai agganciare il proprio pesante
+carro a un [[cabman|cocchiere]] che si librava; o vedere l'[[Soul|Anima]] della loro donna delle pulizie
+come una stella far cenno alle sfere dove sono gli immortali. Eppure
+sospetto di essere ingiusto verso questa gente nelle loro reali personalità.
+Immagino fosse una combinazione di tre cose; l'Asia e l'Evoluzione
+e la signora inglese; e credo che sarebbero più simpatiche separate.
 
-Ora Yeats non somigliava minimamente a queste signore Teosofiche; né seguiva o cercava la loro speciale profetessa spirituale, Mrs. Besant, che era un'egoista dignitosa, distinta, sincera, idealista. Egli cercava Madam Blavatsky, che era una vecchia canaglia rozza, arguta, vigorosa, scandalosa; e ammiro il suo gusto. Ma credo davvero che questa particolare piega orientale gli fece fare una brutta [[Dance|danza]], quando seguì i fachiri e non le fate. Non sarò frainteso se dico di quel grand'uomo che è stregato; vale a dire, che Madam Blavatsky era una [[Witch|strega]].
+Ora Yeats non era minimamente simile a queste signore Teosofiche;
+né seguiva o cercava la loro speciale profetessa spirituale,
+la signora Besant, che era una dignitosa, distinta, sincera, idealistica egoista.
+Egli cercò Madame Blavatsky, che era una rozza, arguta, vigorosa,
+scandalosa vecchia canaglia; e ammiro il suo gusto.
+Ma credo davvero che questa particolare torsione orientale lo trascinasse in un [[Dance|Ballo]],
+quando seguì i fachiri e non le fate. Non sarò
+frainteso se dico di quel grand'uomo che è stregato;
+cioè, che Madame Blavatsky era una [[Witch|Strega]].
 
-Poiché, che Yeats fosse stregato o no, è certo che Yeats non fu ingannato. Non si lasciò abbindolare dal sorriso teosofico; o da tutta quella splendente, o piuttosto lustra, superficie di ottimismo. Egli, avendo una mente più penetrante, aveva già penetrato l'essenziale pessimismo che si cela dietro quella placidità asiatica; ed è sostenibile che il pessimismo non fosse tanto deprimente quanto l'ottimismo. Comunque sia, mentre quelle assai raffinate signore inglesi passavano di stella in stella, come di gradino in gradino, egli sapeva abbastanza di ciò che si intendeva con la Dolorosa [[Wheel|Ruota]], da rendersi conto che questa stellata scalinata somigliava straordinariamente a un mulino da forzati. I più febbrili dei miei amici, in questo circolo, andavano a sedersi in stanze piene di immagini di Buddha per calmarsi; benché io stesso non abbia mai avuto bisogno di alcuna immagine di Buddha per essere incoraggiato a non far nulla o ad addormentarmi nel [[Sleep|sonno]]. Ma Yeats conosceva qualcosa della mente e non solo del volto di Buddha; e per quanto non avrebbe mai usato simili termini tennysoniani, sapeva che ciò significava per la sua stessa mente, se pure calma, se pure vi era calma, una calma [[Despair|disperazione]]. Nello schema del misticismo verso cui egli sempre più tendeva dopo le sue prime più fortunate avventure tra fattori e fate, le antiche religioni stavano sempre più per l'idea che il segreto de [[The Sphinx|la sfinge]] è che essa non ha segreto. Il velo di Iside era sempre più semplicemente il velo di Maya; illusione, che finisce con l'ultima illusione che il velo di Iside sia squarciato; l'ultima e peggiore illusione che noi siamo davvero disillusi. Mi disse una volta, a proposito della delusione di qualcuno per qualcosa di conseguito: «Non ti alzeresti dalla poltrona per attraversare la stanza, se la [[Nature|Natura]] non avesse la sua sacca d'illusioni». Poi aggiunse, come contro una silenziosa protesta: «Non è una [[philosophy|filosofia]] molto allegra che tutto sia illusione». E non lo era. Non posso rispondere per le fate, ma [[Doubt|dubito]] che i fattori l'accettassero; e vi era qualcosa in un giornalista cockney a metà cresciuto che rifiutava interamente di accettarla. Cosicché mi trovai in questo strano [[Double|duplice]] atteggiamento verso il poeta, concordando con lui sulle fiabe sulle quali la maggior parte della gente dissentiva da lui, e dissentendo da lui sulla [[philosophy|filosofia]] sulla quale la maggior parte della gente concordava con lui, sebbene in modo assai più fangoso e prosaico. Così, quando lessi quella meravigliosa pièce poetica, Land of Heart's [[Desire]], rappresentata poco dopo all'Abbey Theatre, ebbi la netta sensazione, non tanto di non credere alle fate, quanto di dissentire da esse. Benché allora non avessi più idea di essere un Cattolico di quanta ne avessi di essere un Cannibale, le mie simpatie erano tutte per la Famiglia contro la Fata. Erano già allora per il sacerdote contro la fata. In tutto quel [[Magic|magico]] scoppio di musica, vi era una sola cosa detta dalla fata con la quale simpatizzassi pienamente e interamente; ed era il verso: «Sono stanca di venti e di acque e di pallide luci». Non credo di aver nulla da mutare nella sentenza di critica letteraria che scrissi assai tempo dopo: «C'è una sola cosa contro il Land of Heart's [[Desire]]; il cuore non lo [[Desire|desidera]]». Eppure ammiravo la pièce quasi appassionatamente come pièce; e nei dibattiti di mera letteratura la difesi sempre contro gli stupidi scherzi sul Crepuscolo Celtico proferiti da coloro che preferivano la Nebbia di [[London|Londra]]. Così, più tardi, quando ero al Daily News, difesi, contro il critico teatrale, il merito drammatico di una pièce successiva, che è piena di buone cose; la pièce intitolata Where There Is Nothing There Is God. Ma io andavo tutto brancolando e gemendo e travagliando con una mia [[philosophy|filosofia]] informe e a metà cotta, che era quasi l'inverso dell'affermazione che dove non c'è nulla c'è Dio. La [[Truth|verità]] mi si presentava, piuttosto, nella forma che dove c'è qualcosa c'è Dio. Nessuna delle due affermazioni è adeguata in [[philosophy|filosofia]]; ma sarei stato stupefatto di sapere quanto vicino in certi modi fosse il mio Qualcosa all'Ens di San Tommaso d'[[aquinas|Aquino]].
+Poiché, che Yeats fosse stregato o no, è certo che Yeats
+non era ingannato. Non si lasciava abbindolare dal sorriso teosofico;
+o da tutta quella splendente, o piuttosto lucida, superficie di ottimismo.
+Egli, avendo una mente più penetrante, aveva già penetrato fino
+all'essenziale pessimismo che sta dietro quella placidità asiatica;
+ed è sostenibile che il pessimismo non fosse così deprimente quanto
+l'ottimismo. Comunque, mentre quelle signore inglesi altamente raffinate
+salivano di stella in stella, come di scalino in scalino, egli sapeva
+abbastanza di ciò che si intendeva con la Dolorosa [[Wheel|Ruota]], da rendersi conto che questa
+stellare scalinata era straordinariamente simile a un mulino da tortura. I più febbrili
+dei miei amici, in questa cerchia, erano soliti andare a sedersi in stanze piene
+di immagini di Buddha per calmarsi; benché io stesso non abbia mai avuto bisogno
+di alcuna immagine di Buddha per incoraggiarmi a non far nulla o ad andare a [[Sleep|dormire]].
+Ma Yeats conosceva qualcosa della mente e non solo del volto di Buddha;
+e se non avrebbe mai usato tali termini tennysoniani, sapeva
+che per la sua stessa mente significava, se calma affatto, se qualche calma,
+una calma [[Despair|Disperazione]]. Nello schema di misticismo verso cui egli sempre
+più tendeva dopo le sue prime più fortunate avventure tra
+contadini e fate, le antiche religioni stavano sempre più per
+l'idea che il segreto de [[The Sphinx|La Sfinge]] è che essa non ha alcun segreto.
+Il velo di Iside era sempre più meramente il velo di Maya;
+illusione, che finiva con l'ultima illusione che il velo di Iside sia squarciato;
+l'ultima e peggiore illusione che noi siamo davvero disillusi.
+Egli mi disse una volta, a proposito della delusione di qualcuno per
+qualcosa di realizzato: «Non ti alzeresti dalla tua sedia e non attraverseresti
+la stanza, se la [[Nature|Natura]] non avesse il suo sacco d'illusioni.»
+Poi aggiunse, come contro una silenziosa protesta: «Non è una
+[[philosophy|filosofia]] molto allegra che tutto sia illusione.» Non lo era.
+Non posso rispondere per le fate, ma [[Doubt|dubito]] che i contadini
+l'accettassero; e c'era qualcosa in un mezzo-cresciuto giornalista
+Cockney che rifiutava del tutto di accettarlo. Cosicché mi ritrovai
+in questo strano [[Double|Duplice]] atteggiamento verso il poeta, concordando con lui sulle
+fiabe su cui la maggior parte della gente dissentiva da lui, e dissentendo
+da lui sulla [[philosophy|filosofia]] su cui la maggior parte della gente concordava con lui,
+benché in modo assai più fangoso e prosaico. Così, quando lessi quel
+meraviglioso dramma poetico, Land of Heart's [[Desire]], prodotto poco dopo al
+Teatro dell'Abbazia, ero consapevole dell'acuta sensazione, non tanto
+di non credere nelle fate, quanto di dissentire da esse.
+Benché io non avessi allora più idea di essere un Cattolico che di essere
+un Cannibale, le mie simpatie erano tutte per la Famiglia contro la Fata.
+Erano perfino allora per il prete contro la fata.
+In tutto quel [[Magic|magico]] scoppio di musica, c'era solo una cosa detta
+dalla fata con cui simpatizzai pienamente e interamente; ed era
+il verso: «Sono stanca di venti e acque e pallide luci.»
+Non credo di aver nulla da mutare nella sentenza di critica
+letteraria che scrissi molto tempo dopo: «C'è solo una cosa
+contro Land of Heart's [[Desire]]; il cuore non lo [[Desire|Desidera]].»
+Eppure ammirai il dramma quasi appassionatamente come dramma; e nei dibattiti
+di mera letteratura, lo difesi sempre contro gli sciocchi scherzi sul
+Crepuscolo Celtico proferiti da coloro che preferivano la Nebbia di [[London|Londra]].
+Così, più tardi, quando ero al Daily News, difesi, contro il
+critico drammatico, il merito drammatico di un dramma successivo, che è pieno
+di cose buone; il dramma chiamato Where There Is Nothing There Is God.
+Ma ero tutto un brancolare e gemere e travagliare con una inchoata
+e semicotta [[philosophy|filosofia]] tutta mia, che era assai vicina
+al rovescio dell'osservazione che dove non c'è nulla c'è Dio.
+La [[Truth|Verità]] mi si presentava, piuttosto, nella forma che dove
+c'è qualcosa c'è Dio. Nessuna delle due affermazioni è adeguata in [[philosophy|filosofia]];
+ma sarei stato stupito di sapere quanto vicino in certi modi fosse il mio
+Qualcosa all'Ens di San Tommaso d'[[aquinas|Aquino]].

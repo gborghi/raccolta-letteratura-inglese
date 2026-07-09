@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07">‹ Chapter 07</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09">Chapter 09 ›</a></div>
@@ -376,3 +378,375 @@ of chimneypots, was to him a game worth infinite risk and trouble.
 He had that rational and deliberate preference which will always
 to the end trouble the peace of the world, the rational and deliberate
 preference for a short life and a merry one.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07">‹ Chapter 07</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09">Chapter 09 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08/part_03">Part 3</a></li></ul>
+</nav>
+
+CAPITOLO II
+
+IL NOTEVOLE SIGNOR TURNBULL
+
+DOPO altri due colloqui con dei bottegai, tuttavia, la fiducia del patriota
+nella propria diplomazia psicologica cominciò vagamente a scemare.
+Nonostante la cura con cui considerava il particolare fondamento razionale e
+la particolare gloria di ogni singola bottega, pareva esservi qualcosa
+di insensibile nei bottegai.  Se fosse un cupo risentimento
+contro il non iniziato per aver spiato nella loro massonica magnificenza,
+non riusciva bene a congetturarlo.
+
+Il suo colloquio con l'uomo che teneva la bottega di anticaglie
+era cominciato in modo incoraggiante.  L'uomo che teneva la bottega di anticaglie
+lo aveva davvero incantato con una frase.  Se ne stava mestamente
+sulla soglia della sua bottega, un uomo raggrinzito dalla barba grigia e appuntita,
+evidentemente un gentiluomo caduto in basso.
+
+"E come va il vostro commercio, strano custode del passato?"
+disse Wayne, affabilmente.
+
+"[[Well|Beh]], signore, non molto [[Well|bene]]," rispose l'uomo, con quella paziente voce
+della sua classe che è una delle cose più strazianti del mondo.
+"Le cose sono terribilmente tranquille."
+
+Gli occhi di Wayne brillarono d'un tratto.
+
+"Un gran detto," disse, "degno di un uomo la cui merce
+è la [[history|storia]] umana.  Terribilmente tranquille; è questo, in due parole, lo spirito
+di questa età, come l'ho sentito fin dalla culla.  A volte mi sono chiesto
+quante altre persone sentissero l'oppressione di questa [[Union|unione]] tra quiete
+e terrore.  Vedo strade vuote e [[Well|ben]] ordinate, e uomini in nero
+che si muovono inoffensivi, imbronciati.  Va avanti giorno dopo giorno,
+giorno dopo giorno, e nulla accade; ma per me è come [[A Dream|un sogno]]
+da cui potrei destarmi urlando.  Per me la rettilineità
+della nostra vita è la rettilineità di una corda sottile tesa fino allo spasimo.
+La sua immobilità è terribile.  Potrebbe spezzarsi con un fragore simile al tuono.
+E voi che sedete, tra le macerie delle grandi guerre, voi che sedete,
+per così dire, su un [[Battlefield|campo di battaglia]], sapete che la guerra era meno terribile
+di questa malvagia pace; sapete che gli oziosi giovani che portavano
+quelle spade sotto Francesco o Elisabetta, il rozzo Signorotto o Barone
+che roteava quella mazza nelle battaglie di Piccardia o di Northumberland,
+potranno essere stati terribilmente rumorosi, ma non erano, come noi, terribilmente tranquilli."
+
+Se fosse un vago imbarazzo di [[Conscience|coscienza]] circa la
+fonte e la data originarie delle armi cui si riferiva, o semplicemente una
+radicata depressione, il custode del passato appariva, semmai,
+un poco più preoccupato.
+
+"Ma non credo," proseguì Wayne, "che questo orribile [[Silence|silenzio]]
+della modernità durerà, benché io pensi che per il presente crescerà.
+Che farsa è questa liberalità moderna.  La [[Freedom|libertà]] di parola significa
+praticamente, nella nostra civiltà moderna, che dobbiamo parlare solo
+di cose senza importanza.  Non dobbiamo parlare di religione, ché
+è illiberale; non dobbiamo parlare di pane e [[cheese|formaggio]], ché è
+parlar di bottega; non dobbiamo parlare della [[Death|morte]], ché è deprimente;
+non dobbiamo parlare della nascita, ché è indelicato.  Non può durare.
+Qualcosa deve rompere questa strana indifferenza, questo strano
+sognante egoismo, questa strana [[Loneliness|solitudine]] di milioni in una folla.
+Qualcosa deve romperla.  Perché non dovremmo essere io e voi?  Non sapete
+far altro che custodire reliquie?"
+
+Il bottegaio assunse un'espressione gradualmente rischiarantesi, che avrebbe
+indotto chi non simpatizzava con la causa del [[Lion|Leone]] Rosso
+a pensare che l'ultima frase fosse l'unica a cui avesse
+attribuito un qualche significato.
+
+"Sono piuttosto vecchio per intraprendere un nuovo affare," disse, "e non
+so bene nemmeno che cosa diventare."
+
+"Perché no," disse Wayne, giunto dolcemente al culmine della sua
+delicata [[Persuasion|persuasione]] "perché non diventare Colonnello?"
+
+Fu a questo punto, con ogni probabilità, che il colloquio
+cominciò a dare risultati più deludenti.  L'uomo parve
+inclinato dapprima a considerare il suggerimento di diventare Colonnello
+come esterno alla sfera della discussione immediata e pertinente.
+Una lunga esposizione dell'inevitabile guerra d'indipendenza,
+unita all'acquisto di una dubbia [[Sword|spada]] cinquecentesca
+a un prezzo esagerato, parve rassettare le cose.
+Wayne lasciò la bottega, tuttavia, alquanto contagiato dalla [[Melancholy|malinconia]]
+del suo proprietario.
+
+Quella [[Melancholy|malinconia]] fu completata dal barbiere.
+
+"Barba, signore?" s'informò quell'[[Artist|artista]] dall'interno della sua bottega.
+
+"Guerra!" rispose Wayne, ritto sulla soglia.
+
+"Chiedo scusa," disse l'altro, seccamente.
+
+"Guerra!" disse Wayne, con calore.  "Ma non per qualcosa di incompatibile
+con le arti belle e civili.  Guerra per la [[Beauty|Bellezza]].
+Guerra per la società.  Guerra per la pace.  Vi è offerta una grande occasione
+di respingere quella calunnia che, a dispetto delle vite di così
+tanti artisti, attribuisce codardia a coloro che abbelliscono e levigano
+la superficie della nostra vita.  Perché i parrucchieri non dovrebbero essere eroi?
+Perché non..."
+
+"Su, vattene," disse il barbiere, irascibile.  "Non ne vogliamo,
+dei tipi come te, qui.  Vattene."
+
+E si fece avanti con la disperata irritazione di una persona
+mite quando è esasperata.
+
+[[Adam Wayne]] posò per un istante la mano sull'[[Sword|spada]], poi la lasciò cadere.
+
+"Notting [[Hill]]," disse, "avrà bisogno dei suoi figli più arditi;" e si volse
+cupamente verso il negozio di giocattoli.
+
+Era una di quelle strane botteghine così di frequente visibili nelle
+vie laterali di [[London|Londra]], che vanno chiamate negozi di giocattoli solo perché
+i giocattoli nel complesso predominano; ché il resto della merce
+pare consistere di quasi tutto il resto del mondo... tabacco,
+quaderni di esercizi, dolciumi, romanzetti, fermagli di carta da mezzo penny,
+temperini da mezzo penny, stringhe da scarpe, e fuochi d'artificio a buon mercato.
+Vendeva anche giornali, e una fila di manifesti dall'aspetto sudicio pendeva
+lungo la sua facciata.
+
+"Temo," disse Wayne, mentre entrava, "di non cavarmela
+con questi commercianti come dovrei.  È forse perché ho trascurato
+di elevarmi al pieno significato del loro lavoro?  Vi è qualche segreto
+sepolto in ciascuna di queste botteghe che nessun semplice poeta può scoprire?"
+
+Si accostò al banco con una depressione che rapidamente vinse
+mentre si rivolgeva all'uomo dall'altro lato di esso... un uomo di bassa statura,
+dai capelli prematuramente bianchi, e l'aspetto di un grosso bambino.
+
+"Signore," disse Wayne, "vado di [[house|casa]] in [[house|casa]] in questa nostra strada,
+cercando di suscitare qualche senso del pericolo che ora minaccia
+la nostra [[City|città]].  In nessun luogo ho sentito il mio compito tanto difficile quanto qui.
+Poiché il negoziante di giocattoli ha a che fare con tutto ciò che ci resta dell'Eden
+prima che cominciassero le prime guerre.  Voi sedete qui meditando di continuo
+sui desideri di quel meraviglioso [[Time|tempo]] in cui ogni scala conduce
+alle [[Stars|stelle]], e ogni sentiero del [[Garden|giardino]] all'altro capo del nulla.
+È forse sconsideratamente, credete voi, che batto il cupo vecchio tamburo
+del pericolo nel paradiso dei bambini?  Ma considerate un momento;
+non condannatemi frettolosamente.  Perfino quel paradiso stesso contiene
+la voce o l'inizio di quel pericolo, proprio come l'Eden che fu fatto
+per la perfezione conteneva l'albero terribile.  Poiché giudicate l'[[Childhood|infanzia]],
+anche solo dal vostro stesso arsenale dei suoi piaceri.  Voi tenete i mattoncini;
+vi fate così, senza dubbio, testimone dell'istinto costruttivo
+più antico di quello distruttivo.  Voi tenete le bambole; vi fate
+sacerdote di quella divina idolatria.  Voi tenete le Arche di Noè;
+perpetuate la [[Memory|memoria]] della salvezza di ogni vita come una cosa preziosa,
+insostituibile.  Ma tenete solo, signore, i simboli
+di questa preistorica [[Sanity|assennatezza]], di questa fanciullesca razionalità della terra?
+Non tenete forse cose più terribili?  Che cosa sono quelle scatole,
+in apparenza di soldatini di piombo, che vedo in quella vetrina?
+Non sono forse testimoni di quel terrore e di quella [[Beauty|bellezza]], di quel [[Desire|desiderio]] di una
+bella [[Death|morte]], che non poteva essere escluso nemmeno dall'[[Immortality|immortalità]]
+dell'Eden?  Non disprezzate i soldatini di piombo, signor Turnbull."
+
+"Non li disprezzo," disse il signor Turnbull, del negozio di giocattoli, brevemente,
+ma con grande enfasi.
+
+"Sono lieto di sentirlo," rispose Wayne.  "Confesso che temevo
+per i miei schemi militari la terribile [[innocence|innocenza]] della vostra professione.
+Come, mi dicevo, penserà quest'uomo, avvezzo solo alle spade
+di legno che danno piacere, alle spade d'acciaio che danno [[Pain|dolore]]?
+Ma sono almeno in parte rassicurato.  Il vostro tono mi suggerisce che ho
+almeno l'ingresso di una porta del vostro paese delle fate... la porta attraverso cui
+entrano i soldati, poiché non si può negare... non dovrei, signore, più a lungo
+negare, che è di soldati che vengo a parlare.  Che il vostro gentile
+impiego vi renda misericordioso verso i travagli del mondo.
+Che la vostra stessa argentea esperienza attenui i nostri sanguigni dolori.
+Poiché c'è guerra a Notting [[Hill]]."
+
+Il piccolo negoziante di giocattoli balzò in piedi d'improvviso, battendo le grasse
+mani come due ventagli sul banco.
+
+"Guerra?" gridò.  "Non davvero, signore?  È vero?  Oh, che spasso!
+Oh, che spettacolo per gli occhi affaticati!"
+
+Wayne fu quasi sconcertato da questo scoppio.
+
+"Ne sono deliziato," balbettò.  "Non avevo idea..."
+
+Balzò di lato appena in [[Time|tempo]] per evitare il signor Turnbull,
+che spiccò un salto volante oltre il banco e si precipitò verso il davanti
+del negozio.
+
+"Guardi qui, signore," disse; "guardi proprio qui."
+
+Tornò con due dei manifesti strappati in mano, che
+sventolavano fuori dal suo negozio.
+
+"Guardi quelli, signore," disse, e li scaraventò sul banco.
+
+Wayne si chinò su di essi, e lesse su uno:
+
+"ULTIMI COMBATTIMENTI.  RIDUZIONE DELLA [[City|CITTÀ]] CENTRALE DEI DERVISCI.  NOTEVOLE, ECC."
+
+Sull'altro lesse:
+
+"ULTIMA PICCOLA REPUBBLICA ANNESSA.  LA CAPITALE NICARAGUENSE SI ARRENDE DOPO
+UN MESE DI COMBATTIMENTI.  GRANDE STRAGE."
+
+Wayne si chinò di nuovo su di essi, evidentemente perplesso; poi guardò
+le date.  Erano entrambi datati nell'agosto di quindici anni prima.
+
+"Perché conserva queste vecchie cose?" disse, scosso del tutto
+fuori dal suo assurdo tatto di misticismo.  "Perché le appende
+fuori dal suo negozio?"
+
+"Perché," disse l'altro semplicemente, "sono i documenti dell'ultima guerra.
+Lei ha appena menzionato la guerra.  Si dà il caso che sia il mio passatempo."
+
+Wayne levò i suoi grandi occhi azzurri con un infantile [[Wonder|stupore]].
+
+"Venga con me," disse Turnbull, brevemente, e lo condusse in un salottino
+sul retro del negozio.
+
+Al centro del salottino stava un grande tavolo di abete.
+Su di esso erano disposte file e file dei soldatini di stagno e di piombo che facevano
+parte delle scorte del negoziante.  Il visitatore non vi avrebbe pensato
+nulla se non fosse stato per un certo curioso raggruppamento di essi,
+che non pareva né del tutto commerciale né del tutto casuale.
+
+"Lei conosce, senza [[Doubt|dubbio]]," disse Turnbull, volgendo i suoi grandi occhi
+su Wayne "lei conosce, senza [[Doubt|dubbio]], la disposizione
+delle truppe americane e nicaraguensi nell'ultima battaglia."
+E agitò la mano verso il tavolo.
+
+"Temo di no," disse Wayne.  "Io..."
+
+"Ah, lei era a quel [[Time|tempo]] troppo occupato, forse, con
+la faccenda dei dervisci.  La troverà in quest'angolo."
+E indicò una parte del pavimento dove c'era un'altra
+disposizione di soldatini per bambini raggruppati qua e là.
+
+"Lei sembra," disse Wayne, "interessato alle questioni militari."
+
+"Non sono interessato a nient'altro," rispose il negoziante di giocattoli, semplicemente.
+
+Wayne apparve scosso da una singolare, repressa eccitazione.
+
+"In tal caso," disse, "posso rivolgermi a lei con un insolito grado
+di fiducia.  Riguardo alla questione della difesa di Notting [[Hill]], io..."
+
+"Difesa di Notting [[Hill]]?  Sì, signore.  Da questa parte, signore," disse Turnbull,
+con grande agitazione.  "Passi giusto in questa stanza laterale;"
+e condusse Wayne in un altro ambiente, in cui il tavolo
+era interamente coperto da una disposizione di mattoncini per bambini.
+Una seconda occhiata rivelò a Wayne che i mattoncini erano disposti
+nella forma di una precisa e perfetta pianta di Notting [[Hill]].
+"Signore," disse Turnbull, con enfasi, "lei ha, per una specie di caso,
+colto l'intero segreto della mia vita.  Da ragazzo, crebbi tra le ultime
+guerre del mondo, quando il Nicaragua fu preso e i dervisci spazzati via.
+E lo adottai come passatempo, signore, come lei potrebbe adottare l'astronomia
+o l'imbalsamazione degli uccelli.  Non avevo malanimo verso nessuno, ma ero interessato
+alla guerra come scienza, come gioco.  E d'un tratto fui messo fuori causa.
+Le grandi Potenze del mondo, avendo inghiottito tutte le piccole,
+giunsero a quel maledetto accordo, e non ci fu più guerra.
+Non c'era più nulla da fare per me se non ciò che faccio ora... leggere
+le vecchie campagne su vecchi giornali sudici, ed elaborarle
+coi soldatini di stagno.  Un'altra cosa mi era venuta in mente.
+Ritenni un'idea divertente fare una pianta di come questo
+nostro distretto dovrebbe essere difeso se mai fosse attaccato.
+Pare che interessi anche lei."
+
+"Se mai fosse attaccato," ripeté Wayne, atterrito fino a una
+quasi meccanica enunciazione.  "Signor Turnbull, è attaccato.
+Grazie al Cielo, porto ad almeno un essere umano la notizia
+che è in [[Bottom|fondo]] l'unica buona notizia per ogni figlio di Adamo.  La sua vita non
+è stata inutile.  Il suo lavoro non è stato un gioco.  Ora, quando i capelli
+sono già grigi sul suo capo, Turnbull, avrà la sua giovinezza.
+Dio non l'ha distrutta, l'ha solo differita.  Sediamoci qui,
+e lei mi spiegherà questa carta militare di Notting [[Hill]].
+Poiché lei e io dobbiamo difendere Notting [[Hill]] insieme."
+
+Il signor Turnbull guardò l'altro per un momento, poi esitò,
+e poi si sedette accanto ai mattoncini e allo straniero.
+Non si rialzò per sette ore, quando spuntò l'[[Dawn|alba]].
+
+. . . . .
+
+Il quartier generale del Prevosto [[Adam Wayne]] e del suo Comandante in Capo
+consisteva in una piccola e alquanto malandata latteria all'angolo
+di Pump Street.  Il bianco e vuoto mattino aveva appena cominciato
+a spuntare sui vuoti edifici di [[London|Londra]] quando Wayne e Turnbull
+furono trovati seduti nella squallida e non spazzata bottega.
+Wayne aveva qualcosa di femminile nel carattere; apparteneva a quella
+classe di persone che dimenticano i pasti quando hanno per le mani qualcosa d'interessante.
+Non aveva preso nulla per sedici ore se non frettolosi
+bicchieri di latte, e, con un bicchiere vuoto accanto a sé,
+scriveva e schizzava e punteggiava e cancellava con
+inconcepibile rapidità con una matita e un pezzo di carta.
+Turnbull era di quel tipo più maschile in cui un senso di
+responsabilità accresce l'appetito, e con la sua [[Sketch|mappa-schizzo]]
+accanto trattava vigorosamente una pila di panini
+in un cartoccio di carta, e un boccale di birra dalla taverna di fronte,
+le cui imposte erano appena state tolte.  Nessuno dei due parlava,
+e non c'era suono nella viva immobilità se non il graffiare
+della matita di Wayne e lo squittire di un gatto dall'aria sperduta.
+Alla fine Wayne ruppe il [[Silence|silenzio]] dicendo:
+
+"Diciassette sterline, otto scellini e nove pence."
+
+Turnbull annuì e tuffò il capo nel boccale.
+
+"Questo," disse Wayne, "senza contare le cinque sterline che ha preso ieri.
+Che ne ha fatto?"
+
+"Ah, questo è piuttosto interessante!" rispose Turnbull, con la bocca piena.
+"Ho usato quelle cinque sterline in un atto gentile e filantropico."
+
+Wayne fissava con [[Mystification|perplessità]] nei suoi occhi strani e [[Innocent|innocenti]].
+
+"Ho usato quelle cinque sterline," continuò l'altro, "per offrire a non meno
+di quaranta ragazzini di [[London|Londra]] corse in carrozzella."
+
+"È impazzito?" chiese il Prevosto.
+
+"È solo il mio tocco leggero," ribatté Turnbull.  "Queste corse in carrozzella
+eleveranno il tono... eleveranno il tono, mio caro amico... della
+nostra gioventù [[London|londinese]], allargheranno i loro orizzonti, rinvigoriranno il loro sistema nervoso,
+li renderanno edotti dei vari monumenti pubblici della nostra grande [[City|città]].
+[[Education|Istruzione]], Wayne, [[Education|istruzione]].  Quanti eccellenti pensatori hanno fatto notare
+che la [[Reform|riforma]] politica è inutile finché non produciamo una popolazione colta.
+Cosicché fra vent'anni, quando questi ragazzi saranno cresciuti..."
+
+"Pazzo!" disse Wayne, posando la matita; "e cinque sterline andate!"
+
+"Lei è in errore," spiegò Turnbull.  "Voi creature [[Grave|solenni]]
+non si può mai portarvi a capire quanto più in fretta proceda il lavoro
+con l'aiuto delle sciocchezze e dei buoni pasti.
+Spogliata delle sue bellezze decorative, la mia affermazione era rigorosamente esatta.
+La [[Night|notte]] scorsa ho dato quaranta mezze corone a quaranta ragazzini,
+e li ho mandati per tutta [[London|Londra]] a prendere carrozzelle.  In ogni caso ho detto loro
+di dire al [[cabman|vetturino]] di portarli in questo punto.
+Fra mezz'ora da adesso la dichiarazione di guerra sarà affissa.
+Nello stesso [[Time|tempo]] le carrozze avranno cominciato ad arrivare, lei avrà
+ordinato di far uscire la guardia, i ragazzini arriveranno in pompa magna,
+requisiremo i cavalli per la cavalleria, useremo le carrozze per la barricata,
+e daremo agli uomini la scelta tra il servire nelle nostre file e la detenzione
+nei nostri scantinati e nelle nostre cantine.  I ragazzini possiamo usarli come esploratori.
+La cosa principale è che iniziamo la guerra con un vantaggio sconosciuto
+a tutti gli altri eserciti... i cavalli. E ora," disse, finendo la sua birra,
+"andrò ad addestrare le truppe."
+
+E uscì dalla latteria, lasciando il Prevosto a bocca aperta.
+
+Un minuto o due dopo, il Prevosto rise.  Rise solo
+una o due volte in vita sua, e allora lo fece in un modo strano, come se
+fosse un'arte che non aveva padroneggiato.  Perfino lui vide qualcosa di buffo
+nell'assurdo colpo delle mezze corone e dei ragazzini.
+Non vide la mostruosa assurdità dell'intera politica
+e dell'intera guerra.  La godette seriamente come una crociata,
+cioè, la godette assai più di quanto qualsiasi scherzo possa essere goduto.
+Turnbull la godette in parte come uno scherzo, ancor più forse come una reazione
+dalle cose che odiava... la modernità e la monotonia e la civiltà.
+Fare a pezzi il vasto macchinario della vita moderna e usarne i frammenti come
+macchine da guerra, fare la barricata di omnibus e i punti di vantaggio
+di comignoli, era per lui un gioco che valeva rischio e travaglio infiniti.
+Aveva quella razionale e deliberata preferenza che turberà sempre,
+fino alla fine, la pace del mondo: la razionale e deliberata
+preferenza per una vita breve e allegra.

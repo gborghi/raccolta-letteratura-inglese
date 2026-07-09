@@ -130,10 +130,107 @@ he didn't go into the public-[[house]]."
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_04/part_03">part 03 ›</a></div>
 </nav>
 
-Se era la nostra subcoscienza, la nostra subcoscienza aveva almeno un ingenuo senso dello [[Humour|humour]]. Ma che si trattasse della nostra subcoscienza piuttosto che della nostra coscienza (ammesso che non fosse qualcosa al di fuori di entrambe) è provato dal fatto pratico che continuammo davvero a scervellarci sulla parola scritta, quando venne di nuovo e di nuovo riscritta, e non ne avemmo mai realmente idea, finché non ci esplose finalmente davanti. Nessuno che ci conoscesse, credo, ci supporrebbe capaci di giocarci a vicenda un [[Deception|inganno]] così lungo, così solenne e così sciocco. Anche noi, come la nostra subcoscienza, avevamo il senso dello [[Humour|humour]]. Ma casi di questo genere mi colmano di [[Wonder|meraviglia]] e di un lieve allarme, quando considero il numero di persone che sembrano prendere sul serio le comunicazioni degli spiriti, e fondare su di esse religioni e filosofie morali. Ci sarebbero state davvero delle Orribbili Rivilazzioni dell'Alta Società, e alcune Orribbili Rivilazzioni intorno al nostro stesso stato mentale e alla nostra condotta morale, se ci fossimo precipitati dal deputato con il nostro messaggino della sfera superiore.
+Se era la nostra subcoscienza, la nostra subcoscienza aveva quanto meno
+un semplice senso dell'[[Humour|Umorismo]]. Ma che fosse la nostra subcoscienza
+piuttosto che la nostra coscienza (se non era qualcosa al di fuori di entrambe)
+è provato dal fatto pratico che continuammo a lambiccarci su
+la parola scritta, quando fu riscritta più e più volte, e davvero
+non avemmo mai idea di che cosa fosse, finché non ci esplose infine dinanzi.
+Nessuno che ci conoscesse, credo, ci supporrebbe capaci di giocare
+un così lungo e solenne e sciocco [[Deception|Inganno]] l'uno all'altro.
+Anche noi, come la nostra subcoscienza, avevamo un senso dell'[[Humour|Umorismo]].
+Ma casi di questo genere mi riempiono di [[Wonder|Stupore]] e di un debole allarme,
+quando considero il numero di persone che paiono prendere sul serio le comunicazioni
+degli spiriti, e fondare religioni e filosofie morali
+su di esse. Ci sarebbero state in verità certe Orribili Rivelazioni
+nell'Alta Società, e certe Orribili Rivelazioni sul nostro stesso stato mentale
+e comportamento morale, se ce ne fossimo andati trotterellando dal deputato con il nostro
+piccolo messaggio dalla sfera superiore.
 
-Ecco un altro esempio della stessa cosa. Mio padre, che era presente mentre mio fratello e io facevamo gli [[Fool|sciocchi]] a questo modo, ebbe la curiosità di vedere se l'oracolo sapesse rispondere a una domanda su qualcosa che egli conosceva e noi no. Chiese pertanto il nome da nubile della moglie di uno zio che avevo in un paese lontano; una signora che noi della generazione più giovane non avevamo mai conosciuto. Con la [[Lightning|fulminea]] decisione dell'infallibilità, la penna dello spirito disse: «Manning». Con pari decisione mio padre disse: «Sciocchezze». Rimproverammo allora il nostro genio tutelare per il suo deplorevole romanzare e per la sua ancor più deplorevole avventatezza. Lo spirito, che non si lasciava mai battere, scrisse la sfida di una spiegazione: «Sposata prima». E a chi, chiedemmo con una certa severità, si era segretamente sposata prima la nostra remota ma rispettata zia? Lo strumento ispirato rispose all'istante: «Al Cardinale Manning».
+Ecco un altro esempio della stessa cosa. Mio padre,
+che era presente mentre mio fratello e io facevamo i [[Fool|Buffoni]]
+a quel modo, ebbe la curiosità di vedere se l'oracolo potesse
+rispondere a una domanda su qualcosa che egli sapeva e noi no.
+Chiese pertanto il nome da nubile della moglie di uno zio mio
+in un paese lontano; una signora che noi della generazione più giovane
+non avevamo mai conosciuto. Con la [[Lightning|fulminea]] decisione dell'infallibilità,
+la penna dello spirito disse: «Manning». Con eguale decisione mio padre disse:
+«Sciocchezze». Rimproverammo allora al nostro genio tutelare il suo
+lamentevole romanzare e la sua ancor più lamentevole avventatezza.
+Lo spirito, mai da battere, scrisse la sfrontata spiegazione:
+«Sposata prima». E con chi, chiedemmo con una certa severità,
+era stata la nostra remota ma rispettata zia segretamente sposata prima.
+L'ispirato strumento rispose all'istante: «Il Cardinale Manning».
 
-Ora mi fermerò qui, di passaggio, per domandare che cosa esattamente sarebbe accaduto a me e al mio ambiente sociale, quale sarebbe stato in ultimo lo stato della mia mente o la mia concezione generale del mondo in cui vivevo, se avessi preso queste rivelazioni spirituali come certi spiritisti sembrano prendere certe rivelazioni spirituali; in breve, se le avessimo prese sul serio. Che questo genere di cose siano gli scherzetti di qualche [[Puck]] o Poltergeist, o gli scatti di qualche senso subliminale, o la beffa di demoni o qualsiasi altra cosa, è evidente che esse non sono vere nel senso di attendibili. Chiunque vi avesse prestato fede come a cosa vera sarebbe finito assai vicino a un manicomio. E quando si tratta di scegliere una [[philosophy|filosofia]] spirituale, tra le sette e le scuole del mondo moderno, questi fatti difficilmente possono essere del tutto dimenticati. Curiosamente, come ho già annotato, il Cardinale Manning aveva incrociato il mio cammino come una sorta di fiammeggiante spettro perfino nella mia [[Childhood|fanciullezza]]. Il ritratto del Cardinale Manning è ora appeso in fondo alla mia stanza come simbolo di uno stato spirituale che molti chiamerebbero la mia seconda [[Childhood|fanciullezza]]. Ma chiunque ammetterebbe che entrambi gli stati sono piuttosto più sani di quanto sarebbe stata la mia condizione, se mi fossi messo a dissotterrare Il Crimine del Cardinale, scavando nel remoto passato di una zia coloniale.
+Ora mi fermerò qui di sfuggita a chiedere che cosa esattamente mi sarebbe accaduto,
+a me e alla mia cerchia sociale, quale sarebbe stato infine lo stato
+della mia mente o della mia concezione generale del mondo in cui vivevo,
+se avessi preso queste rivelazioni spirituali come alcuni spiritisti
+paiono prendere certe rivelazioni spirituali; in breve, se le avessimo
+prese sul serio? Che questo genere di cosa siano le birbonate
+di qualche [[Puck|Folletto]] o Poltergeist, o gli scatti di qualche senso subliminale,
+o la beffa di demoni o qualsiasi altra cosa, palesemente non è vero
+nel senso di attendibile. Chiunque vi avesse creduto come vero
+sarebbe atterrato assai vicino a un manicomio. E quando si tratta
+di scegliere una [[philosophy|filosofia]] spirituale, tra le sette e le scuole
+del mondo moderno questi fatti non possono essere del tutto dimenticati.
+Curiosamente, come ho già registrato, il Cardinale Manning aveva
+attraversato il mio cammino come una sorta di fiammeggiante spettro perfino nella mia [[Childhood|infanzia]].
+Il ritratto del Cardinale Manning pende ora al fondo della mia stanza come simbolo
+di uno stato spirituale che molti chiamerebbero la mia seconda [[Childhood|infanzia]].
+Ma chiunque ammetterebbe che entrambi gli stati sono piuttosto più sani di quanto sarebbe stata
+la mia condizione, se avessi cominciato a dissotterrare Il Crimine del Cardinale,
+scavando nel remoto passato di una zia coloniale.
 
-[[Well|Ebbene]], perfino la guida di intelligenze più alte e più sagge in un mondo migliore non mi rese così completamente delirante quanto quello. Ma da allora ho talora immaginato che questa pratica, della cui vera psicologia sappiamo in realtà così poco, possa forse aver contribuito a quello stato turbato o addirittura malato di cupa fantasticheria e di ozio attraverso cui passai in quel [[Time|tempo]]. Non vorrei dogmatizzare in un senso o nell'altro; è possibile che non vi avesse nulla a che fare; è possibile che l'intera faccenda fosse meramente meccanica o accidentale. Lascerei la planchette con un giocoso commiato, concedendole il beneficio del [[Doubt|dubbio]]; le riconoscerei che può essere stata uno scherzo o una fantasia o una fata o qualsiasi altra cosa; con la clausola che non la toccherei mai più nemmeno con un palo da chiatta. Vi sono altri aspetti, riguardanti cose che sono assai più colpa mia, nei quali un palo da chiatta sarebbe stato utile; ma tanto [[Well|vale]] che io concluda qui la scia dei miei rapporti meramente banali e accidentali con la ricerca psichica; giacché non vi sarà bisogno di ritornare su quell'aspetto; e non mi sognerei mai di giudicarla seriamente in base a simili inezie. Questo progresso del preternaturale è andato diffondendosi e rafforzandosi attraverso tutta la mia vita. Anzi, la mia vita si trova a coprire proprio il periodo del vero mutamento; non colto da quanti si occupano soltanto di mutamenti posteriori o di soluzioni spirituali alternative. Quand'ero un ragazzino, praticamente nessuna persona normale e di [[Education|istruzione]] pensava che un [[Ghost|fantasma]] potesse mai essere qualcosa di diverso da un [[Ghost|fantasma]] di rapa; una cosa creduta da nessuno tranne l'idiota del villaggio. Quand'ero un giovane, praticamente ogni persona con un'ampia cerchia aveva uno o due amici con la fissa di ciò che si sarebbe ancora chiamato medium e fole. Quand'ero di mezza età, grandi uomini di scienza di primissimo rango come Sir William Crookes e Sir [[Oliver]] Lodge pretendevano di aver studiato gli spiriti come avrebbero studiato i ragni, e di aver scoperto l'ectoplasma esattamente come avevano scoperto il protoplasma. Nel [[Time|tempo]] in cui scrivo, la cosa è cresciuta fino a diventare un considerevole movimento religioso, per l'attività del defunto Sir [[arthur|Arthur]] Conan Doyle, assai meno uno scienziato, ma assai più un giornalista. [[Hope|Spero]] che nessuno mi creda tanto [[Fool|sciocco]] da offrire questi frammenti di esperienza casuale come se toccassero la vera controversia. Nella controversia, anzi, per la maggior parte della mia vita, ho difeso lo Spiritismo contro lo scetticismo; benché ora naturalmente difenderei il Cattolicesimo perfino contro lo Spiritismo. Ma nei tempi di cui scrivo, ben poco incrociava il nostro cammino tranne storie sparse; e i fantasmi erano talvolta piuttosto fantasmatici. C'era qualche discorso su spettri o presenze proiettate in luoghi lontani, che comprendeva una storia intorno a un uomo visto entrare in un [[house|pubblico ritrovo]] il quale in seguito testimoniò di non essere stato presente in [[Body|corpo]] in alcun tale luogo o per alcuna tale commissione. C'erano abbondanza di altre e più plausibili storie, che mio fratello e io ripetevamo con una sorta di vaga eccitazione vicaria, senza alcuna definita deduzione o dottrina; ma mio padre, il cui placido agnosticismo vittoriano su questo punto ci sforzavamo invano di perforare, ascoltava un rullo di rivelazioni spirituali e scuoteva il capo dicendo: «Ah, va tutto [[Well|bene]] parlare di queste luci e trombe e voci; ma io affido la mia [[Faith|fede]] all'uomo che disse di non essere entrato nel [[house|pubblico ritrovo]]».
+[[Well|Ebbene]], perfino la guida di intelligenze più alte e più sagge
+in un mondo migliore non mi fece impazzire fino a quel punto di delirio.
+Ma da allora ho talvolta immaginato che questa pratica, della cui vera
+psicologia sappiamo davvero così poco, possa forse aver
+contribuito allo stato turbato o persino malato di rimuginio
+e di ozio in cui trascorsi in quel [[Time|periodo]]. Non vorrei dogmatizzare
+in un senso o nell'altro; è possibile che non abbia avuto nulla a che fare con ciò;
+è possibile che l'intera cosa fosse meramente meccanica o accidentale.
+Congederei la planchette con un giocoso addio, concedendole
+il beneficio del [[Doubt|Dubbio]]; ammetterei che possa essere stata uno scherzo
+o una fantasia o una fata o qualsiasi altra cosa; con la clausola che non
+la toccherei di nuovo neppure con una pertica. Ci sono altri aspetti,
+riguardanti cose assai più per mia colpa, in cui una pertica
+sarebbe stata utile; ma tanto vale [[Well|che]] io concluda qui la scia
+delle mie relazioni meramente banali e accidentali con la ricerca psichica;
+poiché non ci sarà bisogno di tornare a quell'aspetto di essa;
+e non penserei mai di giudicarla seriamente da simili inezie.
+Questo progredire del preternaturale è andato diffondendosi e
+rafforzandosi per tutta la mia vita. In effetti la mia vita si dà il caso copra
+proprio il periodo del vero mutamento; non colto da coloro che si occupano
+solo di mutamenti successivi o di alternative soluzioni spirituali.
+Quand'ero appena un ragazzo, praticamente nessuna persona normale d'[[Education|istruzione]]
+pensava che un [[Ghost|Fantasma]] potesse essere alcunché di diverso da un [[Ghost|Fantasma]] di rapa;
+una cosa creduta da nessuno tranne l'idiota del villaggio. Quand'ero
+un giovane, praticamente ogni persona con una larga cerchia aveva uno
+o due amici con un debole per ciò che si sarebbe ancora chiamato
+medium e chiacchiere. Quand'ero di mezza età, grandi uomini di scienza
+di primo rango come Sir William Crookes e Sir [[Oliver]] Lodge
+pretendevano di aver studiato gli spiriti come avrebbero studiato i ragni,
+e scoperto l'ectoplasma esattamente come scoprirono il protoplasma.
+Nel [[Time|momento]] in cui scrivo, la cosa è cresciuta in un considerevole
+movimento religioso, per l'attività del defunto Sir [[arthur|Arthur]] Conan Doyle,
+assai meno uno scienziato, ma assai più un giornalista.
+[[Hope|Spero]] che nessuno mi creda tanto [[Fool|sciocco]] da offrire questi frammenti
+di esperienza casuale come influenti sulla vera controversia.
+Nella controversia, in effetti, per gran parte della mia vita, ho
+difeso lo Spiritismo contro lo scetticismo; benché ora
+naturalmente difenderei il Cattolicesimo anche contro lo Spiritismo.
+Ma nei tempi di cui scrivo, poco attraversava il nostro cammino tranne
+storie sparse; e i fantasmi erano talvolta piuttosto fantasmatici.
+Si parlava di spettri o presenze precipitate in
+luoghi lontani, tra cui una storia su un uomo visto entrare
+in un [[house|locale]] pubblico che in seguito testimoniò di non essere stato
+presente in [[Body|corpo]] in un tale luogo o per una tale commissione.
+C'erano gran quantità di altre e più plausibili storie, che mio
+fratello e io ripetevamo con una sorta di vaga eccitazione vicaria,
+senza alcuna precisa deduzione o dottrina; ma mio padre,
+il cui placido agnosticismo vittoriano sul punto ci sforzavamo invano
+di trafiggere, ascoltava un rotolo di rivelazioni spirituali e scuoteva
+il capo e diceva: «Ah, è [[Well|facile]] parlare di queste luci
+e trombe e voci; ma io affido la mia [[Faith|Fede]] all'uomo che disse
+di non essere entrato nel [[house|locale]] pubblico.»

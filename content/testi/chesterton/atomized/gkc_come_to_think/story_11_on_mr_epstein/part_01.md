@@ -127,12 +127,104 @@ that they have now no religion to be expressed.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_07_on_the_new_poetry/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_11_on_mr_epstein/part_02">part 02 ›</a></div>
 </nav>
 
-XI Su Mr. Epstein
+XI Sul Signor Epstein
 
-La capacità di Mr. Epstein di scolpire un fantoccio da fiera, che serva immediatamente come una sorta di bersaglio per i polemisti, sia che porti il nome di Notte o di Rima, o qualsiasi altro, non costituisce di per sé alcuna critica al suo genio. Vi sono state grandi opere d'arte provocatorie, specialmente quando erano profetiche. Nondimeno, vi sono problemi nella posizione di coloro che considerano Mr. Epstein un profeta; specialmente se la profezia consiste nel pretendere di erigere oggi qualcosa che forse potrà essere ammirato tra mille anni. La verità è che nessuno ha, in questa faccenda, affrontato il problema fondamentale; che non è tanto la natura della scultura di Mr. Epstein quanto la natura di qualsiasi scultura. La scultura è normalmente un'arte pubblica e monumentale; e la vera questione che si solleva è se un'arte qualsiasi possa essere pubblica o ornamentale. Ammesso pure che un artista qualsiasi possa avere la convinzione di aver ragione, o ammesso persino che un artista qualsiasi debba aver ragione nel credere di aver ragione, la domanda resta pur sempre: perché dovrebbe innalzarla in pietra affinché la fissino tutte le persone che di certo penseranno che egli abbia torto? La verità è che l'intera concezione di un monumento pubblico ci giunge da tempi in cui gli uomini non avvertivano questa immensa distanza tra l'artigiano e la folla. Se l'avessero avvertita, non avrebbero mai messo l'artigiano a lavorare unicamente per la folla. In tal caso non ci sarebbero mai state bazzecole come il Partenone o la Cattedrale di Siviglia, per non parlare dei più importanti prodotti degli artisti moderni del momento.
+LA capacità del signor Epstein di scolpire una Zia Sally, che serva
+immediatamente da una sorta di bersaglio per i controversisti,
+che porti il nome di Notte o di Rima, o qualsiasi altro, non è
+in se stessa alcuna riflessione sul suo genio. Ci sono state grandi opere
+d'arte che erano provocatorie, specialmente quando erano profetiche.
+Nondimeno, ci sono problemi nella posizione di coloro che considerano
+il signor Epstein un profeta; specialmente se la profezia consiste
+nel pretendere di erigere oggi qualcosa che potrebbe forse essere ammirato
+fra mille anni. La verità è che nessuno ha, in questa materia,
+affrontato il problema fondamentale; che non è tanto la natura
+della scultura del signor Epstein quanto la natura di qualsiasi scultura.
+La scultura è normalmente un'arte pubblica e monumentale; e la vera
+questione sollevata è se qualsiasi arte possa essere pubblica o ornamentale.
+Ammesso che qualsiasi artista possa avere la convinzione d'aver ragione,
+o persino ammesso che qualsiasi artista debba aver ragione nel pensare d'aver ragione,
+la questione permane: perché egli dovrebbe piazzarlo in pietra per essere
+fissato da tutta la gente che di certo penserà che egli abbia torto?
+La verità è che l'intera concezione di un monumento pubblico ci giunge
+da tempi in cui gli uomini non sentivano questa immensa distanza
+tra l'artefice e la folla. Se l'avessero sentita, non avrebbero
+mai messo l'artefice a lavorare unicamente per la folla.
+In tal caso non ci sarebbero mai state simili inezie come il
+Partenone o la Cattedrale di Siviglia, per non parlare dei più importanti
+prodotti dei moderni artisti del momento.
 
-Persino coloro che ritengono che la Notte di Mr. Epstein vada benissimo concederebbero probabilmente che anche la Notte di Michelangelo va, a suo modo, benissimo. È verissimo che Michelangelo sapeva che andava benissimo, e l'avrebbe sostenuto contro qualsiasi rivale avesse detto che andava malissimo. È verissimo che il popolino ordinario, passando dinanzi ai monumenti dei Medici, non ne apprezzava la giustezza con altrettanta giustezza di lui. Ma non è vero (ed è qui che comincia la baruffa moderna) che persino il popolino considerasse la figura di Michelangelo, con il suo capo chino e il profilo sonnolento, come una sorta di mostro o meramente come una burla. Se ci pensava, pensava che andasse benissimo, solo che non capiva quanto benissimo. Non era presente quell'acuto, adirato, popolare sentimento che andasse malissimo; e questo, come dico, è il principio di un problema che non viene risolto in modo soddisfacente né dai Futuristi né dai Filistei. In altre parole, vi era per una ragione o per l'altra una comunanza di sentire tra lo scultore e lo spettatore, che si può, in un significato assai esatto, chiamare senso comune. L'arte comporta non solo il senso ma la sensibilità; ma il senso era il medesimo se la sensibilità era diversa. È così che sappiamo che qualcosa è davvero accaduto, nell'arte moderna e nel suo apprezzamento, che non si liquida né chiamando l'artista un pazzo né chiamando il pubblico una plebaglia. Quale che sia dei due che riteniamo aver ragione, c'è qualcosa che non va. O l'artista è davvero divenuto un anarchico, ed è in una ribellione meramente inquieta e squilibrata contro le tradizioni della civiltà; oppure l'opinione pubblica si è in qualche modo arrestata o è rimasta indietro rispetto alla normale guida intellettuale che soleva seguire. Questo è il problema dell'arte pubblica; e non pare essere compreso né dall'artista né dal pubblico.
+Persino coloro che pensano che la Notte del signor Epstein vada benissimo
+concederebbero probabilmente che anche la Notte di Michelangelo vada,
+a suo modo, benissimo. È del tutto vero che Michelangelo
+sapeva che andava bene, e l'avrebbe sostenuto
+contro qualsiasi rivale che avesse detto che andava tutto male.
+È del tutto vero che l'ordinario popolino che passava dinanzi ai monumenti
+dei Medici non ne apprezzava la giustezza con giustezza pari alla sua.
+Ma non è vero (ed è qui che comincia la moderna baruffa)
+che persino il popolino considerasse la figura di Michelangelo, col suo capo
+chino e il profilo sonnolento, una sorta di mostro o una mera burla.
+Se ci pensavano, pensavano che andasse bene, solo che
+non capivano quanto bene. Non era presente quel netto,
+irato, popolare sentimento che andasse tutto male; e questo, come dico,
+è l'inizio di un problema che non è risolto soddisfacentemente
+né dai Futuristi né dai Filistei. In altre parole,
+c'era per una qualche ragione o l'altra una comunanza di sentimento tra
+lo scultore e lo spettatore, che si può, in un significato assai esatto,
+chiamare senso comune. L'arte coinvolge non solo il senso ma la sensibilità;
+ma il senso era lo stesso anche se la sensibilità era diversa.
+Ecco come sappiamo che qualcosa è davvero accaduto,
+nell'arte moderna e nell'apprezzamento, che non si liquida né
+chiamando l'artista un pazzo né chiamando il pubblico una plebaglia.
+Qualunque dei due riteniamo abbia ragione, c'è qualcosa che non va.
+O l'artista è davvero divenuto un anarchico, ed è in mera
+irrequieta e squilibrata ribellione contro le tradizioni della civiltà;
+oppure l'opinione pubblica si è in qualche modo arrestata o rimasta indietro
+rispetto alla normale guida intellettuale che soleva seguire.
+Ecco il problema dell'arte pubblica; ed esso non sembra essere
+compreso né dall'artista né dal pubblico.
 
-La verità successiva, che, credo, è troppo poco compresa, è questa. Ogni arte è arte religiosa; e ogni arte pubblica dovrebbe davvero essere della religione del popolo. Ciò sembrerà a molti un paradosso a un tempo sbrigativo e angusto. Ma è vero; ed è la verità che sfuggì tanto agli esteti quanto ai moralisti nell'antico dibattito sul se «l'arte sia amorale». Non ogni arte è necessariamente morale, nel senso di pratica. Ma ogni arte è religiosa, perché la religione include tanto la pratica quanto la teoria, tanto la [[morality|moralità]] quanto l'arte. La religione è il senso della realtà ultima, di qualunque significato un uomo trovi nella propria esistenza o nell'esistenza di qualsiasi altra cosa. Può essere, e talvolta è, una religione malvagia; può essere persino ciò che critici superficiali chiamerebbero una religione irreligiosa. Ma qualunque sia la sua concezione del cosmo e della coscienza, quella sarà nella sua arte, anche quando la sua pratica [[morality|moralità]] privata non vi è particolarmente evidente. Non dico che, fissando la Grande Piramide, io possa scoprire se il costruttore delle Piramidi avesse l'abitudine di pagare i propri debiti o di litigare con la moglie. Ma dico che, guardando la Grande Piramide, so che l'uomo che la costruì aveva una particolare sorta di religione, e una religione diversa dalla mia. Non dico che il motivo di una carta da parati insegnerà necessariamente una lezione morale per mezzo di esempi, o sarà un intreccio tessuto dei Dieci Comandamenti. Ma distinguo benissimo un motivo di carta da parati della Cristianità da un motivo fatto da Musulmani o Indù o Cinesi.
+La successiva verità che è, credo, troppo poco compresa è questa.
+Tutta l'arte è arte religiosa; e tutta l'arte pubblica dovrebbe davvero essere
+della religione del popolo. Questo parrà a molti un paradosso
+a un tempo sferzante e angusto. Ma è vero; ed è la verità
+che fu mancata sia dagli esteti sia dai moralisti nel vecchio
+dibattito sul se «l'arte sia amorale». Non tutta l'arte è necessariamente morale,
+nel senso di pratica. Ma tutta l'arte è religiosa, perché la religione
+include sia la pratica sia la teoria, sia la [[morality|moralità]] sia l'arte.
+La religione è il senso della realtà ultima, di qualunque significato un uomo
+trovi nella propria esistenza o nell'esistenza di qualsiasi altra cosa.
+Può essere, e talvolta è, una religione malvagia; può essere persino
+ciò che i critici superficiali chiamerebbero una religione irreligiosa.
+Ma qualunque sia la sua concezione del cosmo e della coscienza,
+essa sarà nella sua arte, anche quando la sua pratica privata [[morality|moralità]]
+non è particolarmente notevole in essa. Non dico che fissando
+la Grande Piramide io possa scoprire se il costruttore delle Piramidi
+avesse l'abitudine di pagare i propri debiti o di litigare con la propria moglie.
+Ma dico bene che guardando la Grande Piramide io so
+che l'uomo che la costruì aveva un particolare tipo di religione,
+e una religione diversa dalla mia. Non dico che il
+disegno di una carta da parati insegni necessariamente una lezione morale
+per esempi, o sia un intreccio tessuto dei Dieci Comandamenti.
+Ma distinguo benissimo un disegno di carta da parati della Cristianità da un disegno fatto
+da Musulmani o Indù o Cinesi.
 
-Ora, questa cosa che è più profonda persino della [[morality|moralità]], che possiamo, se ci piace, chiamare [[philosophy|filosofia]], è sempre presente in un'opera d'arte; e in modo piuttosto speciale in una potente opera d'arte. E se la [[philosophy|filosofia]] del monumento pubblico è diversa dalla [[philosophy|filosofia]] del pubblico, il pubblico ha perfettamente ragione a dirlo. Gli uomini della strada non sono stupidi o ciechi o ottenebrati quando scagliano oggetti contro l'immagine estranea. Al contrario, sono sottili e penetranti e perspicaci. Sono critici d'arte delle fini sfumature delle belle arti. Sono di certo critici d'arte assai migliori di coloro che [[Swallow|inghiottono]] qualsiasi cosa estranea perché artistica, e credono che qualsiasi cosa sia artistica perché avanzata. Gli uomini comuni davvero fiutano qualcosa di più profondo persino della morale, ossia la metafisica; e sanno che la metafisica è ostile alla propria. In un certo senso è vero che ogni immagine è un idolo; vale a dire, intorno a ogni statua indugia qualcosa della fioca tradizione pagana del sacrificio e degli onori divini. Il popolo sente che, se deve esservi un'arte popolare, essa dovrebbe esprimere la religione popolare. Il popolo ha ragione; benché l'[[Artist|artista]] potrebbe talvolta ribattere che esso non ha più ormai alcuna religione da esprimere.
+Ora, questa cosa che è più profonda persino della [[morality|moralità]], che possiamo,
+se vogliamo, chiamare [[philosophy|filosofia]], è sempre presente in un'opera d'arte;
+e piuttosto specialmente in una potente opera d'arte. E se la [[philosophy|filosofia]]
+del monumento pubblico è diversa dalla [[philosophy|filosofia]] del pubblico,
+il pubblico ha perfettamente ragione a dirlo. Gli uomini della strada non sono
+stupidi o ciechi o ottenebrati quando gettano cose contro l'immagine aliena.
+Al contrario, sono sottili e penetranti e perspicaci.
+Sono critici d'arte delle fini sfumature delle belle arti.
+Sono di certo critici d'arte assai migliori di coloro che
+[[Swallow|inghiottono]] qualsiasi cosa sia aliena perché è artistica,
+e credono che qualsiasi cosa sia artistica perché è avanzata.
+Gli uomini semplici scorgono davvero qualcosa di più profondo persino della morale,
+che è la metafisica; e sanno che la metafisica è ostile alla propria.
+In un senso è vero che ogni immagine è un idolo; ossia,
+attorno a ogni statua indugia qualcosa della fioca pagana
+tradizione di sacrificio e onori divini. Il popolo sente che,
+se ci deve essere arte popolare, essa dovrebbe esprimere la religione popolare.
+Il popolo ha ragione; benché l'[[Artist|artista]] potrebbe talvolta ribattere
+che essi ora non hanno alcuna religione da esprimere.

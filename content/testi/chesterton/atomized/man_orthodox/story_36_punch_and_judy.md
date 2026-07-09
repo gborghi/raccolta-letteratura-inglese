@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_35_the_anatomy_of_the_joke">‹ Story 35 The Anatomy Of The Joke</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_37_punch_and_judy_ii">Story 37 Punch And Judy Ii ›</a></div>
@@ -90,3 +92,89 @@ Thirdly, it will mean the disappearance of a great pleasure
 of the poor.
 
                                             Daily News, October 26th, 1907
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_35_the_anatomy_of_the_joke">‹ Story 35 The Anatomy Of The Joke</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_37_punch_and_judy_ii">Story 37 Punch And Judy Ii ›</a></div>
+</nav>
+
+PUNCH E JUDY
+
+C'è qualcosa che è popolare eppure povero.
+C'è qualcosa che ha successo eppure è in bancarotta.
+C'è un dramma dinanzi al pubblico che il pubblico applaude sempre.
+È andato in scena per un milione di sere e ancora non rende.
+È un caso da impresa municipale. Propongo che Punch
+e Judy siano messi a carico dell'erario.
+
+Ho udito le cose più strane dette su Punch da uomini di lettere.
+L'ho sentito chiamare pagano. L'ho sentito degradare
+al livello del Superuomo. Eppure è sicuramente ovvio
+che Punch è la più cristiana di tutte le figure possibili.
+Punch è cristiano perché Punch è grottesco.
+
+L'unica cosa che tutti abbiamo dimenticato di Mr Punch è
+l'unica cosa che i nostri padri mettevano più in risalto: la sua gobba.
+Le vittorie di Punch sono, in verità, le vittorie di una
+persona violenta, ma sono le vittorie di un gobbo.
+Ossia, sono le vittorie di uno storpio grottesco.
+Nessun essere umano dotato d'immaginazione ha mai provato il minimo interesse
+per le vittorie del forte. Sono soltanto le vittorie
+del debole a poter essere interessanti. E tutte le vittorie,
+quasi alla lettera senza eccezione, che l'umanità ha
+mai celebrato, sono state le vittorie del debole:
+il debole per statura, come in Jack l'ammazzagiganti; o per numero,
+come a Maratona o alle Termopili; o per condizione e possibilità evidenti,
+come in Cenerentola o nel socialismo moderno; o per difetto corporeo,
+come nel cieco Sansone o nel gobbo Punch.
+
+Ci sono, in verità, storie umane come quella di Sansone, di un uomo
+più forte di qualsiasi altro uomo singolo. Ma non ci sono storie
+di questo uomo forte che sconfigge un altro uomo più debole ed esulta
+della propria forza... Per quanto egli sia forte, il suo nemico dev'essere più forte
+di lui. E questo è ovviamente il vero significato di Mr Punch.
+Tutto il senso del dramma sta nel fatto che una persona altamente ridicola
+con una gobba tiene testa a tutte le forze organizzate della società,
+compresi il Balivo e il Boia. L'accento non è posto
+sul fatto che egli rivendichi la vittoria o abbia diritto di aspettarsela;
+il punto è che egli non si aspetta la vittoria, eppure la ottiene.
+Tutto il senso della storia è quello di una impresa disperata.
+Tutto il senso non è che Punch batte i pugni, ma che
+ha le spalle al muro...
+
+Ma la pretesa morale di Punch e Judy, per quanto ovvia,
+non è la sua unica pretesa. Artisticamente rappresenta qualcosa
+di più triste di un'arte perduta: rappresenta un'arte frustrata.
+La concezione tecnica dell'intera faccenda, quella di manovrare
+un fantoccio col pollice e due dita, è esattamente una
+di quelle arti dirette che non dovrebbe essere lasciata morire.
+È probabilmente sottile quanto la scherma, che pure è governata
+soprattutto dal pollice e dall'indice. Ci devono essere uomini capaci di
+farlo, che muoiono di fame immeritatamente tra uomini che non ne sono capaci.
+Il povero, sdrucito Punch e Judy inglese è infinitamente superiore
+(secondo i primi principi dell'arte) all'elaborato e civilizzato
+sistema italiano delle marionette. Le marionette sono meccanismo,
+come i semplici treni e telefoni. Punch e Judy è lavoro manuale;
+è, in senso stretto, artigianato. L'uomo aziona questa cosa — la aziona
+con gesti personali e vitali — come se fosse egli stesso l'attore.
+È la sua stessa mano destra a essersi fatta per lui persona a parte.
+È la sua mano destra ad aver perduto o a non aver perduto la sua abilità.
+È la sua mano destra ad avergli insegnato cose terribili.
+E quando egli solleva le tre dita che fanno di un fantoccio un uomo,
+solleva le stesse tre dita che tutti i Sommi Pontefici
+hanno sollevato in benedizione.
+
+Se si permette a Punch e Judy di morire, con esso moriranno
+tre cose. Primo, una genuina sopravvivenza storica dell'antica
+farsa cristiana, in cui il clown o buffone aveva sempre
+la meglio su tutti. Secondo, morirà un preciso
+modo di destrezza; uno che potrebbe applicarsi a cento
+altre gioviali pantomime oltre a questa di Punch e Judy.
+Terzo, significherà la scomparsa di un grande piacere
+dei poveri.
+
+                                            Daily News, 26 ottobre 1907

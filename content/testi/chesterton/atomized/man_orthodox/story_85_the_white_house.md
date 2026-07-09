@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_84_the_unchanging_vision">‹ Story 84 The Unchanging Vision</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_86_the_iconoclast">Story 86 The Iconoclast ›</a></div>
@@ -61,3 +63,60 @@ it is Irish, but true, to say that a revolution must often come
 prematurely or come too late.
 
                                              Daily News, August 24th, 1907
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_84_the_unchanging_vision">‹ Story 84 The Unchanging Vision</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_86_the_iconoclast">Story 86 The Iconoclast ›</a></div>
+</nav>
+
+LA CASA BIANCA
+
+Ogni conservatorismo procede dal presupposto che, se lasci
+una cosa in pace, la lasci come è.  Ma non è così.
+Se lasci una cosa a se stessa, la lasci in balìa di mutamenti
+selvaggi e violenti.  Tutta la natura è mutamento; solo l'uomo
+(a parte le idee religiose) porta il nome di costanza.
+Per esempio, se vuoi una casa bianca, non devi lasciarla bianca.
+Se la lasci bianca nella nostra atmosfera, presto sarà nera.
+Se vuoi una casa bianca, devi dipingerla di bianco
+di continuo, ricominciando ogni volta da capo e ricreando il tuo ideale.
+In altre parole, se vuoi la tua vecchia casa bianca, devi
+avere una nuova casa bianca.  Devi fare una rivoluzione.
+
+Il fondamento della vera dottrina del progresso è che tutte le cose
+tendono a peggiorare.  L'uomo deve intervenire di continuo per resistere a una
+degenerazione naturale; se l'uomo non riforma una cosa, la Natura la deforma.
+Egli deve sempre alterare la cosa perfino per mantenerla identica.
+Se un uomo vuole tenere il suo giardino sempre uguale, non lo lascia
+a se stesso, poiché, lasciato a se stesso, diventerà tutt'altra cosa.
+Se vuole che rimanga uguale, vi si dedica con una feroce
+foga, sradicando le cose come una rivoluzione ambulante.  Poiché l'uomo
+che estirpa le erbacce fa la parte di uno spietato e positivo sradicatore.
+In altre parole, fa la parte di un Radicale.  L'ordine e
+la pulizia di tutti i nostri giardini dipendono da un Radicalismo tenace;
+e tutti quei fiori allineati e quei prati rigidi sono tenuti netti e quieti
+da un principio di rivoluzione perpetua.  Allo stesso modo, ogni pulizia di primavera
+è una rivoluzione ma, come tutte le altre, una rivoluzione conservatrice.
+Come tutte le altre rivoluzioni, essa disturba, fa impazzire, distrugge e può
+perfino degradare.  Ma il suo scopo è restituire all'uomo la sua vecchia casa pulita,
+mentre altrimenti egli avrebbe una casa nuova e sudicia.
+La casa bianca dev'essere lavata o dipinta al primo accenno di grigio.
+
+Ora, è una sventura tutta particolare dell'Inghilterra, in questi ultimi
+secoli, che noi abbiamo lasciato intatte le nostre istituzioni con
+l'impressione di lasciarle inalterate; mentre, in verità,
+il tempo e le circostanze le andavano lentamente guastando.  Ci siamo vantati
+di essere conservatori; ma in realtà non abbiamo neppure conservato.
+Non volevamo mutare in meglio le nostre istituzioni, e così l'Evoluzione Sociale
+(che il cielo la benedica) le ha mutate in peggio.  ... Poiché tutto il
+vantaggio del male sta nel suo essere così spesso impercettibile e silenzioso;
+il male viene con calma come la malattia; il bene viene in fretta come
+il medico.  I conservatori denunciano abitualmente una rivoluzione come prematura;
+è una frase all'irlandese, ma vera, dire che una rivoluzione deve spesso arrivare
+prematuramente oppure arrivare troppo tardi.
+
+                                             Daily News, 24 agosto 1907

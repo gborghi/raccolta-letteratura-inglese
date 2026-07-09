@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_86_the_iconoclast">‹ Story 86 The Iconoclast</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_88_the_necessity_of_luxury">Story 88 The Necessity Of Luxury ›</a></div>
@@ -139,3 +141,138 @@ We have returned to it because, by the rejection of rationalism,
 the world becomes suddenly rational.
 
                                               Daily News, March 14th, 1903
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_86_the_iconoclast">‹ Story 86 The Iconoclast</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_88_the_necessity_of_luxury">Story 88 The Necessity Of Luxury ›</a></div>
+</nav>
+
+IL RITORNO DEGLI ANGELI
+
+Scrivo queste osservazioni con una grande speranza: quella di suscitare polemica.
+È davvero cosa singolare che, in mezzo a tutto il parlare della grande opera
+della scienza fisica e della sua presunta vittoria sul dogmatismo religioso,
+nessuno abbia notato quale fosse in realtà il più grande di tutti i trionfi
+della scienza.  Fu una scoperta ben più grande di quella dell'evoluzione.
+Fu la scoperta non di un fatto, ma di un metodo, la madre di
+innumerevoli fatti.  Quel metodo è, naturalmente, ciò che nella teoria
+scientifica è noto come il metodo dell'ipotesi.  Lo si può esprimere nel modo
+più chiaro e semplice, in linguaggio comune, dicendo che è il principio
+per cui il modo migliore di vedere se un abito calza bene a un uomo non è
+misurare entrambi, ma provarglielo addosso.  È la sostituzione del lentissimo
+metodo logico che accumula, punto per punto, una prova assoluta,
+con un metodo rapido, sperimentale e immaginativo che ci dà,
+molto prima che possiamo ottenere una prova assoluta, una convinzione operativa assai buona.
+Sento parlare, poniamo, di una certa teoria sull'universo.
+Per prova, la assumo come vera; poi, se scopro con un sussulto che,
+una volta assunta, essa spiega gli stivali che ho ai piedi e il naso che ho in faccia,
+che il mio ombrello acquista un significato nuovo e radioso, che la mia porta di casa
+d'un tratto si spiega da sé, che verità sul mio gatto e sul mio cane e su mia moglie
+e sul mio cappello e sulla mia credenza mi si affollano addosso tutto il giorno e ogni giorno,
+allora credo a quella teoria e continuo a crederle sempre di più.
+
+D'altro canto, se la teoria non è vera, posso essere perfettamente
+certo che, dieci minuti dopo averla assunta in via sperimentale,
+mi romperò gli stinchi contro qualche contraddizione.  Abbiamo abbottonato
+l'abito attorno al mondo (quel vecchio signore rotondo e paziente)
+e questo si è squarciato lungo la schiena.  È certo del tutto evidente
+che questo è il metodo su cui fondiamo tutte le nostre convinzioni reali
+e che su questo, soprattutto, fondiamo la nostra credenza nell'evoluzione.
+Delle migliaia di persone brillanti ed eleganti come noi
+che credono a grandi linee nella dottrina darwiniana, quante ce ne sono
+che sanno quale fossile o scheletro, quale coda di pappagallo
+o quale stomaco di seppia, sia realmente ritenuto
+l'esempio conclusivo e il dato assoluto della selezione naturale?
+Non sappiamo quasi nulla dei fatti darwiniani che conducono
+alla conversione.  Ciò che sappiamo è assai più importante:
+i fatti darwiniani che vengono dopo la conversione.  Ciò che sappiamo,
+per usare un linguaggio più elevato, sono i frutti dello spirito.
+Sappiamo che, una volta entrata questa idea nella nostra testa, un milione
+di cose diventano trasparenti come se una lampada fosse stata accesa dietro di esse:
+vediamo la cosa nel cane per strada, nella pera sul
+muro, nel libro di storia che stiamo leggendo, nel neonato
+nella carrozzina e nelle ultime notizie dal Borneo.
+E i compimenti si riversano su di noi in una cateratta così naturale e
+continua che alla fine si raggiunge quel paradosso
+della condizione che si chiama credenza.  Abbiamo visto tante
+prove della teoria che le abbiamo dimenticate tutte.
+La teoria ci è così chiara che a stento riusciamo perfino a difenderla.
+Se ci avvicinassimo al più prossimo razionalista che conosciamo e gli chiedessimo
+di dimostrare l'evoluzione, egli resterebbe sbigottito, come un uomo a cui si chiede
+di difendere la giustizia.
+
+Ora, a questo stadio dello sviluppo filosofico dovrebbe essere
+detto con chiarezza che è proprio con questo metodo
+dell'ipotesi riuscita, della teoria che si giustifica da sé,
+che un così gran numero di giovani di questa generazione
+sono tornati a una certa dottrina dello spirituale.
+Quale sia questa dottrina è forse giusto enunciarlo nel modo più schietto
+e più breve possibile; è l'idea che il mondo,
+esaminato da vicino, indichi con estrema forza suggestiva
+l'esistenza di un mondo spirituale, di un mondo di agenti
+non prodotti, a quanto pare, dalla materia, capaci in una certa misura di
+controllare e di ispirare, capaci in una certa misura di essere conosciuti.
+Dovrebbe, dico, essere detto chiaramente che molti di noi
+sono tornati a questa credenza; e che vi siamo tornati,
+non a causa di questo o quell'argomento, ma perché
+la teoria, quando la si adotta, torna dovunque;
+perché l'abito, quando lo si prova, calza in ogni piega.
+Va detto perché i vecchi razionalisti hanno ragione a essere
+indignati con noi, nella misura in cui si figurano che noi fondiamo una
+dottrina così tremenda su pochi disperati cavilli; nella misura
+in cui si figurano, come fanno, che ci aggrappiamo alla religione
+con fuscelli e pagliuzze.  ... Il ritorno alla teoria spirituale
+non poggia su nessuna di queste cose.  Poggia, come il movimento
+verso l'evoluzione, sul fatto che la cosa torna.
+Ci mettiamo la teoria come un cappello magico e la storia diventa
+traslucida come una casa di vetro.
+
+Cominciamo dal principio.  Un evento sorprendente e sensazionale
+è accaduto di recente; alludo alla comparsa della creatura
+chiamata uomo.  È un evento recente, cosmicamente considerato;
+è, relativamente parlando, appena un po' troppo antico per essere finito
+nei titoli dei giornali della sera.  La novità, la subitaneità e la totale
+unicità dell'ascesa dell'uomo fanno pensare al Giappone in Oriente;
+solo che lo è ancor di più.  ... Di questo potrebbero esserci cento spiegazioni.
+Nessun uomo sano di mente direbbe che ciò comporti una deduzione spirituale.
+Ma vi si accorda, e vi si accorda benissimo, il supporre che
+esista un'altra atmosfera di vita oltre a quella animale e che questo
+mondo spirituale abbia in qualche modo fatto irruzione in quella creatura in quel momento.
+Il fenomeno non prova la Religione, ma la religione spiega
+il Fenomeno.  Il Fenomeno è solitario esattamente quanto l'Incarnazione.
+Lo si può spiegare dicendo che in un certo senso era l'Incarnazione.
+Poi andiamo avanti.  C'è una cosa che l'intera razza umana,
+senza alcuna eccezione, attesta.  Dalle età e dalle terre
+più remote, ovunque si trovi il seme dell'uomo, esso dichiara questo:
+che una tale irruzione ebbe luogo al principio, che essi o
+i loro padri hanno avuto a che fare con un essere più oscuro o più meraviglioso.
+Se la testimonianza umana significa qualcosa, questa è forse l'unica
+cosa su cui abbiamo prove schiaccianti.
+
+Abbiamo prove umane quasi schiaccianti della necessità della morale;
+abbiamo prove umane del tutto schiaccianti della realtà della
+vita spirituale.  Siamo pronti a citare la testimonianza dell'intera
+umanità a sostegno dei regolamenti di polizia o dei dati dell'etica;
+ma pensiamo che l'umanità debba dire sciocchezze quando, con un
+unico grido universale, essa acclama questa cosa che è più antica del peccato.
+Che Marco Aurelio e i Pellerossa, che i saggi indù e i briganti
+italiani e il signor Spurgeon e Sir William Crookes giungano tutti per
+varie vie a questa conclusione, è una cosa importante.
+Cosa ancor più importante è che questa credenza nello spirito,
+lungi dall'essere una cosa morbosa, è sostenuta da quasi tutte
+le persone fisicamente forti che vivono all'aria aperta.
+Vigorosi contadini e fattori alti un metro e ottanta credono tutti nelle fate.
+Il razionalismo è una malattia delle città, come il problema degli alloggi.
+Tutto questo è, naturalmente, solo suggestivo, ma è assai suggestivo.
+Il Fenomeno non prova la Religione; ma la Religione spiega
+il Fenomeno.  ... Non siamo tornati alla teoria spirituale
+a causa di questa o quella banalità: a causa di una
+giustificazione del Quarto Vangelo o di un colpetto sul tavolo.
+Vi siamo tornati perché, con il rigetto del razionalismo,
+il mondo diventa d'un tratto razionale.
+
+                                              Daily News, 14 marzo 1903

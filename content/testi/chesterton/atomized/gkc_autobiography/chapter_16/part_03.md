@@ -126,12 +126,103 @@ When the process is only applied to other people it is called Realism.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_16/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_16/part_04">part 04 ›</a></div>
 </nav>
 
-A me, che rabbrividivo ancora quasi per gli spaventosamente concreti fatti dei quali il prete mi aveva messo in guardia, quel commento giunse con un'ironia così colossale e schiacciante, che per poco non proruppi in una risata forte e stridula lì nel salotto. Poiché sapevo perfettamente [[Well|bene]] che, riguardo a tutto il solido satanismo che il prete conosceva e contro cui combatteva con tutta la sua vita, questi due gentiluomini di Cambridge (per loro fortuna) ne sapevano di male reale press'a poco quanto due lattanti nella medesima carrozzina.
+Per me, ancora quasi tremante per i fatti spaventosamente pratici
+dei quali il prete mi aveva avvertito, questo commento giunse con
+un'ironia così colossale e schiacciante, che quasi scoppiai in una sonora
+e aspra risata nel salotto. Poiché sapevo perfettamente [[Well|bene]] che,
+riguardo a tutto il solido Satanismo che il prete conosceva e
+combatteva con tutta la sua vita, questi due gentiluomini di Cambridge
+(per loro fortuna) sapevano del male reale press'a poco quanto due neonati
+nella stessa carrozzina.
 
-E nella mia mente balzò su la vaga idea di fare qualche uso artistico di questi comici eppure tragici equivoci [[Cross|incrociati]]; e di costruire una [[Comedy|commedia]] in cui un prete apparisse non sapere nulla e in realtà sapesse del crimine più dei criminali stessi. Riassunsi in seguito questa idea particolare nel racconto intitolato «La [[Cross|Croce]] azzurra», per il resto assai esile e improbabile, e la proseguii attraverso l'interminabile serie di novelle con cui ho afflitto il mondo. In breve, mi permisi la [[Grave|grave]] libertà di prendere il mio amico e di malmenarlo; ammaccandogli il cappello e l'ombrello fino a renderli informi, mettendogli in disordine gli abiti, prendendo a pugni il suo intelligente volto sino a ridurlo a una condizione di fatuità dalla faccia di budino, e travestendo in generale padre O'Connor da [[Father Brown|padre Brown]]. Il travestimento, come ho detto, era un deliberato pezzo di finzione, inteso a far risaltare o accentuare il contrasto che era il cuore della [[Comedy|commedia]]. Vi è inoltre nella concezione, come in quasi tutto ciò che io abbia mai scritto, una buona dose di incoerenza e di inesattezza su punti minori; non ultima fra tali pecche l'idea generale che [[Father Brown|padre Brown]] non abbia nulla di particolare da fare, se non gironzolare in qualunque casa dove sia probabile che avvenga un omicidio. Una signora cattolica assai deliziosa che conosco rese una volta al mio prete [[Detective|detective]] l'appropriato omaggio di dire: «Sono molto affezionata a quel piccolo bighellone ficcanaso».
+E sorse nella mia mente la vaga idea di fare un qualche uso artistico
+di questi comici eppure tragici propositi [[Cross|incrociati]]; e di costruire
+una [[Comedy|commedia]] in cui un prete dovesse apparire non sapere nulla e in
+realtà sapere sul delitto più dei criminali. In seguito
+riassunsi l'idea speciale nella storia intitolata «La [[Cross|Croce]] Azzurra»,
+per il resto assai esile e improbabile, e la continuai attraverso l'
+interminabile serie di racconti con cui ho afflitto il mondo.
+In breve, mi permisi la [[Grave|grave]] libertà di prendere il mio amico
+e di malmenarlo; deformandogli a colpi il cappello e l'ombrello,
+scompigliandogli i vestiti, prendendo a pugni il suo intelligente volto fino a
+ridurlo a una condizione di fatuità dalla faccia da budino, e in genere travestendo
+Padre O'Connor da [[Father Brown]]. Il travestimento, come ho detto,
+fu un deliberato pezzo di finzione, inteso a far risaltare o accentuare
+il contrasto che era il punto della [[Comedy|commedia]]. C'è anche
+nella concezione, come in quasi tutto ciò che ho mai scritto,
+una buona dose d'incoerenza e imprecisione su punti minori;
+non ultima tra tali pecche essendo la generale suggestione di
+[[Father Brown]] che non aveva nulla in particolare da fare, se non gironzolare
+in qualsiasi famiglia dove fosse probabile un omicidio.
+Una signora cattolica assai deliziosa che conosco una volta fece al mio prete [[Detective|detective]]
+l'appropriato complimento di dire: «Sono molto affezionata a quel
+piccolo intrigante sfaccendato».
 
-Ciò nondimeno, l'episodio degli studenti di Cambridge, e il loro spigliato disprezzo per la virtù fuggitiva e claustrale di un parroco, rappresentava nella mia vita cose ben più serie del mio sfortunato, ma puramente professionale, cumulo di cadaveri o massacro di personaggi. Mi mise in un certo senso di nuovo faccia a faccia con quei morbosi ma vividi problemi dell'[[Soul|anima]], ai quali ho alluso in precedenza, e mi diede una grande e crescente sensazione di non averne trovato alcuna reale soluzione spirituale; benché in certi modi esteriori di proporzione e di pratica essi turbino un uomo meno nella maturità che nella giovinezza. Mi turbavano ancora non poco; ma sarei potuto sprofondare sempre più in una sorta di compromesso o di resa per pura stanchezza, se non fosse stato per questo improvviso scorcio dell'abisso che sta sotto i piedi di tutti noi. Fui sorpreso della mia stessa sorpresa. Che la [[Catholic Church|Chiesa Cattolica]] ne sapesse più di me sul bene era facile da credere. Che ne sapesse più di me sul male pareva incredibile.
+Nondimeno, l'episodio degli studenti di Cambridge, e il loro
+spensierato disprezzo per la fuggitiva e claustrale virtù di un parroco,
+rappresentava cose assai più serie nella mia vita che il mio sfortunato,
+ma meramente professionale, cumulo di cadaveri o massacro di personaggi.
+Mi pose in un certo modo di nuovo faccia a faccia con quei morbosi
+ma vividi problemi dell'[[Soul|anima]], ai quali ho accennato prima,
+e mi diede un grande e crescente senso di non aver trovato alcuna reale
+soluzione spirituale di essi; benché in certe vie esteriori di proporzione
+e pratica, essi turbino un uomo meno nella virilità di quanto facciano nella giovinezza.
+Mi turbavano ancora parecchio; ma avrei potuto sprofondare sempre più
+in una sorta di compromesso o resa per mera stanchezza,
+se non fosse stato per questo improvviso scorcio dell'abisso che sta sotto i piedi di tutti noi.
+Fui sorpreso della mia stessa sorpresa. Che la [[Catholic Church|Chiesa Cattolica]]
+sapesse più di me sul bene era facile da credere.
+Che sapesse più di me sul male pareva incredibile.
 
-Quando la gente chiede a me, o del resto a chiunque altro: «Perché ti sei fatto cattolico romano?», la prima risposta essenziale, se è in parte una risposta ellittica, è: «Per liberarmi dei miei peccati». Poiché non v'è altro sistema religioso che davvero pretenda di liberare la gente dei suoi peccati. Lo conferma la [[logic|logica]], che a molti pare sconcertante, con cui la Chiesa deduce che il peccato confessato e adeguatamente pentito è realmente abolito; e che il peccatore ricomincia davvero come se non avesse mai peccato. E questo mi riportò bruscamente a quelle visioni o fantasie di cui mi sono occupato nel capitolo sull'[[Childhood|infanzia]]. Parlai là dell'indescrivibile e indistruttibile certezza, nell'[[Soul|anima]], che quei primi anni d'[[innocence|innocenza]] fossero l'inizio di qualcosa di degno, forse più degno di qualunque delle cose che effettivamente li seguirono. Parlai della strana luce diurna, che era qualcosa di più della luce del giorno comune, la quale ancora sembra, nella mia [[Memory|memoria]], risplendere su quelle ripide strade che scendono da Campden [[Hill|Hill]], da cui si poteva vedere il Crystal Palace in lontananza. [[Well|Ebbene]], quando un cattolico esce dalla Confessione, egli davvero, per definizione, torna a varcare la soglia in quell'[[Dawn|alba]] del proprio inizio e guarda con occhi nuovi attraverso il mondo verso un Crystal Palace che è realmente di cristallo. Egli crede che in quell'angolo fioco, e in quel breve rito, Dio lo abbia davvero rifatto a Sua immagine. Egli è ora un nuovo esperimento del Creatore. È tanto un nuovo esperimento quanto lo era quando aveva davvero solo cinque anni. Egli sta, come ho detto, nella bianca luce del degno inizio della vita di un uomo. Gli accumuli del [[Time|tempo]] non possono più atterrire. Potrà essere grigio e gottoso; ma ha soltanto cinque minuti di vita.
+Quando la gente mi chiede, o chiede a chiunque altro: «Perché ti sei
+unito alla Chiesa di Roma?» la prima risposta essenziale, se è
+in parte una risposta ellittica, è: «Per liberarmi dei miei peccati».
+Poiché non c'è nessun altro sistema religioso che davvero pretenda
+di liberare la gente dei propri peccati. È confermato dalla [[logic|logica]],
+che a molti pare sconcertante, con cui la Chiesa deduce
+che il peccato confessato e adeguatamente pentito è effettivamente abolito;
+e che il peccatore ricomincia davvero come se non avesse mai peccato.
+E questo mi riportò bruscamente a quelle visioni o fantasie
+di cui ho trattato nel capitolo sull'[[Childhood|infanzia]].
+Parlai là dell'indescrivibile e indistruttibile certezza
+nell'[[Soul|anima]], che quei primi anni d'[[innocence|innocenza]] fossero l'inizio
+di qualcosa di degno, forse più degno di qualsiasi delle cose
+che effettivamente li seguirono. Parlai della strana luce del giorno,
+che era qualcosa di più della luce del giorno comune, che ancora
+sembra nella mia [[Memory|memoria]] risplendere su quelle ripide strade che scendono da
+Campden [[Hill]], da cui si poteva vedere il Crystal Palace da lontano.
+[[Well|Ebbene]], quando un Cattolico esce dalla Confessione, egli fa davvero,
+per definizione, un altro passo fuori in quell'[[Dawn|alba]] del proprio inizio
+e guarda con occhi nuovi attraverso il mondo verso un Crystal Palace
+che è davvero di cristallo. Egli crede che in quell'oscuro angolo,
+e in quel breve rito, Dio lo abbia davvero rifatto a Sua immagine.
+Egli è ora un nuovo esperimento del Creatore. È altrettanto un nuovo
+esperimento di quanto lo era quando aveva davvero solo cinque anni.
+Egli sta, come ho detto, nella bianca luce al degno inizio della
+vita di un uomo. Le accumulazioni del [[Time|tempo]] non possono più atterrire.
+Egli può essere grigio e gottoso; ma ha solo cinque minuti.
 
-Non sto qui difendendo dottrine come quella del Sacramento della Penitenza; non più di quanto difenda l'ugualmente sbalorditiva dottrina dell'[[Love|amore]] divino per l'uomo. Non sto scrivendo un libro di controversia religiosa; dei quali ne ho scritti parecchi e probabilmente, a meno di essere violentemente trattenuto dai miei amici e parenti, ne scriverò parecchi altri. Sono qui impegnato nel compito morboso e degradante di raccontare la storia della mia vita; e devo soltanto esporre quali furono effettivamente gli effetti di tali dottrine sui miei sentimenti e sulle mie azioni. E sono, per la [[Nature|natura]] del compito, particolarmente occupato dal fatto che queste dottrine mi sembrano ricollegare l'intera mia vita fin dal principio, come nessun'altra dottrina saprebbe fare; e specialmente risolvere simultaneamente i due problemi della mia felicità infantile e della mia meditabonda inquietudine di ragazzo. Ed esse influirono in particolare su un'idea; che [[Hope|spero]] non sia pomposo chiamare l'idea capitale della mia vita; non dirò la dottrina che ho sempre insegnato, ma la dottrina che mi sarebbe sempre piaciuto insegnare. È l'idea di prendere le cose con gratitudine, e di non darle per scontate. Così il Sacramento della Penitenza dà una vita nuova, e riconcilia un uomo con tutto ciò che vive, ma non lo fa nel modo in cui lo fanno gli ottimisti e gli edonisti e i pagani predicatori della felicità. Il dono è dato a un prezzo, ed è condizionato da una confessione. In altre parole, il nome del prezzo è [[Truth|Verità]], che si può anche chiamare Realtà; ma è affrontare la realtà su se stessi. Quando il procedimento è applicato soltanto agli altri, si chiama Realismo.
+Non sto qui difendendo dottrine come quella del Sacramento
+della Penitenza; non più della dottrina egualmente sbalorditiva del divino
+[[Love|Amore]] per l'uomo. Non sto scrivendo un libro di controversia religiosa;
+di cui ne ho scritti parecchi e ne scriverò probabilmente, a meno di essere violentemente
+frenato dai miei amici e parenti, parecchi altri.
+Sono qui impegnato nel morboso e degradante compito di raccontare
+la storia della mia vita; e devo solo enunciare quali furono effettivamente
+gli effetti di tali dottrine sui miei stessi sentimenti e azioni.
+E sono, per la [[Nature|natura]] del compito, specialmente interessato al
+fatto che queste dottrine mi sembrano collegare l'intera mia vita
+fin dall'inizio, come nessun'altra dottrina saprebbe fare; e specialmente
+a risolvere simultaneamente i due problemi della mia felicità infantile
+e della mia meditabonda malinconia di ragazzo. Ed esse influenzarono specialmente un'idea;
+che [[Hope|spero]] non sia pomposo chiamare l'idea principale della mia vita;
+non dirò la dottrina che ho sempre insegnato, ma la dottrina
+che avrei sempre voluto insegnare. Ossia l'idea di prendere
+le cose con gratitudine, e di non darle per scontate.
+Così il Sacramento della Penitenza dà una nuova vita, e riconcilia
+un uomo con tutto ciò che vive, ma non lo fa come gli ottimisti
+e gli edonisti e i pagani predicatori della felicità lo fanno.
+Il dono è dato a un prezzo, ed è condizionato da una confessione.
+In altre parole, il nome del prezzo è [[Truth|Verità]], che si può anche
+chiamare Realtà; ma è affrontare la realtà su se stessi.
+Quando il processo è applicato solo ad altre persone si chiama Realismo.

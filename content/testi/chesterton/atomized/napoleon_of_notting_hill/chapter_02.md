@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_01">‹ Chapter 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03">Chapter 03 ›</a></div>
@@ -658,3 +660,657 @@ and quaking, with what might at first sight have seemed terror or ague;
 but which was really that strange malady, a lonely laughter.
 He was repeating over and over to himself with a rich accent "But
 speaking in the interests of the public...."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_01">‹ Chapter 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03">Chapter 03 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_04">Part 4</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02/part_05">Part 5</a></li></ul>
+</nav>
+
+CAPITOLO II
+
+L'UOMO IN VERDE
+
+Bastano pochissime parole per spiegare perché [[London|Londra]], fra un centinaio d'anni,
+sarà molto simile a com'è adesso, o piuttosto, poiché devo scivolare in
+un passato profetico, perché [[London|Londra]], quando la mia storia si apre, era molto simile a com'era
+in quei giorni invidiabili in cui io ero ancora vivo.
+
+La ragione può essere enunciata in una sola frase. Il popolo aveva assolutamente
+perduto la [[Faith|Fede]] nelle rivoluzioni. Tutte le rivoluzioni sono dottrinali... come
+quella francese, o quella che introdusse il [[Christianity|Cristianesimo]].
+Poiché è di senso comune che non si può sconvolgere tutto ciò che esiste,
+usanze e compromessi, se non si crede in qualcosa al di fuori di essi,
+qualcosa di positivo e di divino. Ora, l'Inghilterra, durante questo secolo,
+perse ogni fede in questo. Credette in una cosa chiamata Evoluzione.
+E disse: "Tutti i mutamenti teorici sono finiti in [[Blood|sangue]] e noia.
+Se cambiamo, dobbiamo cambiare lentamente e con sicurezza, come fanno gli [[Animals|animali]].
+Le rivoluzioni della [[Nature|Natura]] sono le uniche riuscite. Non c'è stata
+alcuna reazione conservatrice in favore delle code."
+
+E alcune cose cambiarono davvero. Cose a cui non si pensava
+granché scomparvero dalla vista. Cose che non erano accadute spesso non
+accaddero affatto. Così, per esempio, la forza fisica effettiva
+che governava il paese, i soldati e la polizia, si fece sempre più piccola,
+e alla fine svanì quasi fino a un punto. Il popolo unito avrebbe potuto
+spazzar via i pochi poliziotti in dieci minuti: non lo fece,
+perché non credeva che ne avrebbe tratto il minimo giovamento.
+Aveva perduto la [[Faith|Fede]] nelle rivoluzioni.
+
+La [[democracy|Democrazia]] era morta; poiché a nessuno importava che la classe dirigente governasse.
+L'Inghilterra era ormai praticamente un dispotismo, ma non ereditario.
+Qualcuno della classe ufficiale veniva fatto [[King|Re]]. A nessuno importava come;
+a nessuno importava chi. Era semplicemente un segretario universale.
+
+In questo modo accadde che tutto a [[London|Londra]] fosse molto quieto.
+Quel vago e alquanto depresso affidamento sul fatto che le cose accadessero
+come erano sempre accadute, che in tutti i londinesi è uno stato d'animo,
+era divenuto una condizione data per scontata. Non c'era davvero alcuna ragione perché un
+uomo qualsiasi facesse qualcosa di diverso da ciò che aveva fatto il giorno prima.
+
+Non c'era perciò alcuna ragione qualsiasi perché i tre giovanotti che avevano
+sempre camminato insieme fino al loro ufficio del [[government|Governo]] non camminassero
+insieme fino ad esso in questa particolare mattina invernale e nuvolosa.
+Ogni cosa in quell'età era divenuta meccanica, e gli impiegati del [[government|Governo]]
+in special modo. Tutti quegli impiegati si radunavano regolarmente ai loro posti.
+Tre di quegli impiegati camminavano sempre insieme verso il centro.
+Tutto il vicinato li conosceva: due erano alti e uno basso.
+E in questa particolare mattina l'impiegato basso era in ritardo di pochi
+secondi nel raggiungere gli altri due mentre passavano davanti al suo cancello:
+avrebbe potuto raggiungerli in tre falcate; avrebbe potuto chiamarli
+facilmente. Ma non lo fece.
+
+Per una qualche ragione che non sarà mai compresa finché tutte le anime non saranno giudicate
+(se mai saranno giudicate; l'idea era a questo [[Time|tempo]] classificata insieme
+al culto dei feticci) non si unì ai suoi due compagni, ma camminò con passo fermo
+dietro di loro. La giornata era spenta, il loro abito era spento, tutto era spento;
+ma per qualche strano impulso egli camminò attraverso strada dopo strada,
+attraverso quartiere dopo quartiere, guardando le schiene dei due uomini,
+che si sarebbero voltati di scatto al suono della sua voce. Ora, c'è
+una legge scritta nel più oscuro dei Libri della Vita, ed è questa:
+se guardi una cosa novecentonovantanove volte,
+sei perfettamente al sicuro; se la guardi la millesima [[Time|volta]],
+sei in spaventoso pericolo di vederla per la prima [[Time|volta]].
+
+Così il basso funzionario del [[government|Governo]] guardò le falde della finanziera
+degli alti funzionari del [[government|Governo]], e attraverso strada dopo strada,
+e voltando angolo dopo angolo, non vide che falde, falde,
+e ancora falde... quando, senza sapere minimamente perché,
+qualcosa accadde ai suoi occhi.
+
+Due draghi neri camminavano all'indietro davanti a lui.
+Due draghi neri lo guardavano con occhi malvagi.
+I draghi camminavano all'indietro, è vero, ma tenevano
+gli occhi nondimeno fissi su di lui. Gli occhi che vedeva erano,
+in [[Truth|verità]], soltanto i due bottoni sul dietro di una finanziera: forse
+qualche tradizionale [[Memory|memoria]] del loro carattere insensato conferiva questa
+scempia prominenza al loro sguardo. La fessura tra le falde era
+la linea del naso del [[Monster|Mostro]]: ogni volta che le falde sbattevano al [[Winter|vento]]
+[[Wind|invernale]] i draghi si leccavano le labbra. Fu solo una fantasia momentanea,
+ma il piccolo impiegato la trovò incastonata nell'[[Soul|anima]] per sempre dopo.
+Non poté mai più pensare a uomini in finanziera se non come draghi
+che camminavano all'indietro. Spiegò poi, con molto tatto
+e garbo, ai suoi due amici funzionari, che pur nutrendo
+un inesprimibile rispetto per ciascuno di loro non poteva seriamente
+considerare il volto di nessuno dei due come alcunché se non una specie di coda.
+Era, ammise, una bella coda... una coda innalzata in aria.
+Ma se, disse, un qualche vero amico di loro desiderasse vederne i volti,
+guardare negli occhi della loro [[Soul|anima]], a quell'amico si doveva permettere
+di camminare riverentemente dietro di loro, così da vederli da tergo.
+Là avrebbe visto i due draghi neri dagli occhi ciechi.
+
+Ma quando dapprima i due draghi neri balzarono fuori dalla nebbia sul
+piccolo impiegato, ebbero soltanto l'effetto di tutti i miracoli... mutarono
+l'universo. Egli scoprì il fatto che tutti i romantici
+conoscono... che le avventure accadono nei giorni spenti, e non in quelli assolati.
+Quando la corda della monotonia è tesa al massimo, allora si spezza
+con un suono simile a un [[Song|canto]]. Prima aveva a malapena notato il tempo,
+ma con i quattro occhi morti che lo fissavano si guardò attorno e comprese
+la strana giornata morta.
+
+Il mattino era invernale e fioco, non nebbioso, ma oscurato da quell'[[Shadow|ombra]]
+di nube o di [[Snow|neve]] che immerge ogni cosa in un crepuscolo verde o ramato.
+La luce che c'è in una giornata simile pare venire non tanto dai limpidi
+cieli quanto essere una fosforescenza aderente alle forme stesse.
+Il peso del cielo e delle nubi è come un peso di acque, e gli uomini
+si muovono come pesci, sentendo di essere sul fondo di un mare.
+Ogni cosa in una strada di [[London|Londra]] completa la fantasia; le carrozze
+e le vetture stesse somigliano a creature d'abisso con occhi di fiamma.
+Dapprima si era spaventato di incontrare due draghi. Ora scoprì
+di essere tra draghi d'abisso che possedevano l'abisso.
+
+I due giovanotti davanti erano, come il piccolo giovanotto stesso,
+[[Well|ben]] vestiti. Le linee delle loro finanziere e dei loro cilindri avevano quella
+lussureggiante severità che rende il moderno bellimbusto, per quanto orribile,
+un esercizio prediletto del moderno disegnatore; quell'elemento che
+il signor Max Beerbohm ha mirabilmente espresso parlando di "certe
+congruità di panno scuro e la rigida perfezione della biancheria."
+
+Camminavano con l'andatura di una lumaca affettata, e parlavano a
+intervalli lunghissimi, lasciando cadere una frase ogni sei lampioni circa.
+
+Strisciavano oltre i lampioni; il loro contegno era così immobile
+che una descrizione fantasiosa potrebbe quasi dire che erano i lampioni
+a strisciare oltre gli uomini, come in [[A Dream|un sogno]]. Poi il piccolo uomo improvvisamente
+corse dietro a loro e disse:
+
+"Voglio farmi tagliare i capelli. Dico, conoscete una botteguccia da qualche parte
+dove tagliano i capelli come si deve? Continuo a farmi tagliare i capelli,
+ma continuano a ricrescere."
+
+Uno degli uomini alti lo guardò con l'aria di un naturalista addolorato.
+
+"Ma guarda, ecco un posticino," gridò il piccolo uomo, con una sorta
+di imbecille allegria, mentre la [[Window|vetrina]] luminosa e sporgente di un
+elegante salone di toeletta risplendeva bruscamente fuori dal crepuscolo nebbioso.
+"Sapete, trovo spesso parrucchieri quando cammino per [[London|Londra]].
+Pranzerò con voi da Cicconani. Sapete, vado matto per
+le botteghe dei parrucchieri. Sono mille volte meglio di quei brutti macellai."
+E scomparve nell'ingresso.
+
+L'uomo chiamato James continuò a fissarlo, un monocolo avvitato
+nell'occhio.
+
+"Che diavolo ne dici di quel tipo?" chiese al suo compagno,
+un giovane pallido dal naso alto.
+
+Il giovane pallido rifletté coscienziosamente per qualche minuto,
+e poi disse:
+
+"Ha preso una botta in testa da bambino, direi."
+
+"No, non credo sia quello," rispose l'onorevole [[James Barker]].
+"A volte ho immaginato che fosse una specie di [[Artist|artista]], Lambert."
+
+"Sciocchezze!" gridò il signor Lambert, seccamente.
+
+"Ammetto di non riuscire a decifrarlo," riprese Barker, distrattamente;
+"non apre mai bocca senza dire qualcosa di così indescrivibilmente
+scempio che chiamarlo [[Fool|sciocco]] pare il più fiacco
+tentativo di caratterizzazione. Ma c'è un'altra cosa di lui
+piuttosto buffa. Sai che possiede l'unica collezione
+di lacca giapponese in Europa? Hai mai visto i suoi libri?
+Tutti poeti greci e francesi medievali e roba del genere.
+Sei mai stato nelle sue stanze? È come stare dentro un'ametista.
+E lui si muove in mezzo a tutto quello e parla come... come una rapa."
+
+"[[Well|Beh]], al diavolo tutti i libri. Anche i tuoi libri blu, del [[Well|pari]]," disse l'ingenuo
+signor Lambert, con amichevole semplicità. "Tu dovresti capire
+queste cose. Che ne fai di lui?"
+
+"È al di là di me," ribatté Barker. "Ma se mi chiedessi
+la mia opinione, direi che è un uomo con un debole per l'assurdo,
+come lo chiamano... la buffoneria artistica, e tutto quel genere di cose.
+E credo seriamente che abbia detto tante sciocchezze
+da aver mezzo sconvolto la propria mente e non sappia più
+la differenza tra [[Sanity|senno]] e follia. Ha fatto il giro
+del mondo mentale, per così dire, e ha trovato il luogo dove l'Oriente
+e l'Occidente sono una cosa sola, e l'idiozia estrema è buona quanto il buon senso.
+Ma non so spiegare questi giochi psicologici."
+
+"A me non li sai spiegare," rispose il signor Wilfrid Lambert, con candore.
+
+Mentre risalivano le lunghe strade verso il loro ristorante il crepuscolo
+ramato si schiarì lentamente in un giallo pallido, e nel [[Time|momento]] in cui lo
+raggiunsero si stagliavano distinguibili in una tollerabile luce di giorno [[Winter|invernale]].
+L'onorevole [[James Barker]], uno dei più potenti funzionari
+del [[government|Governo]] inglese (a questo [[Time|punto]] rigidamente ufficiale),
+era un giovane magro ed elegante, dal volto inespressivo e bello e
+occhi azzurri e gelidi. Aveva una grande capacità intellettuale,
+di quella peculiare specie che eleva un uomo di trono in trono
+e lo lascia morire carico di onori senza aver mai né dilettato
+né illuminato la mente di un solo uomo. Wilfrid Lambert, il giovane
+dal naso che pareva impoverire il resto del suo volto,
+aveva anch'egli contribuito ben poco all'ampliamento dello spirito umano,
+ma aveva l'onorevole scusa di essere uno [[Fool|sciocco]].
+
+Lambert sarebbe stato definito un uomo sciocco; Barker, con tutta
+la sua astuzia, avrebbe potuto essere definito un uomo stupido.
+Ma la mera sciocchezza e stupidità sprofondavano nell'insignificanza in
+presenza dei terribili e misteriosi tesori di follia
+apparentemente accumulati nella piccola figura che stava ad attenderli
+fuori da Cicconani. Il piccolo uomo, il cui nome era [[Auberon Quin]],
+aveva un aspetto composto da un neonato e da un gufo. La sua testa tonda,
+gli occhi tondi, sembravano essere stati disegnati dalla [[Nature|Natura]] per gioco
+con un paio di compassi. I suoi capelli piatti e scuri e la finanziera
+assurdamente lunga gli davano qualcosa dell'aria del "Noè" di un [[Child|bambino]].
+Quando entrava in una stanza di sconosciuti, lo scambiavano per un ragazzino,
+e volevano prenderlo sulle ginocchia, finché non parlava, quando
+si accorgevano che un ragazzino sarebbe stato più intelligente.
+
+"Aspetto già da parecchio [[Time|tempo]]," disse Quin, mitemente.
+"È terribilmente buffo che finalmente vi veda arrivare su per la strada."
+
+"Perché?" chiese Lambert, fissandolo. "Ci hai detto tu stesso di venire qui."
+
+"Mia madre soleva dire alla gente di andare in certi posti," disse il saggio.
+
+Stavano per svoltare nel ristorante con aria rassegnata,
+quando i loro occhi furono attratti da qualcosa nella strada.
+Il tempo, benché freddo e spento, era ora del tutto sereno, e attraverso
+il bruno spento della pavimentazione di legno e tra le grigie e spente terrazze
+si muoveva qualcosa che non si vedeva per miglia all'intorno... che forse non
+si vedeva a quel [[Time|tempo]] in Inghilterra... un uomo vestito di colori vivaci.
+Una piccola folla gli stava alle calcagna.
+
+Era un uomo alto e maestoso, avvolto in un'uniforme militare di verde brillante,
+schizzata di grandi mostreggiature d'argento. Dalla spalla pendeva un corto
+mantello di pelliccia verde, un po' come quello di un ussaro, la cui fodera
+balenava di tanto in tanto di una sorta di cremisi fulvo.
+Il petto gli scintillava di medaglie; intorno al collo aveva il nastro
+rosso e la stella di qualche ordine straniero; e una lunga e diritta [[Sword|spada]],
+dall'elsa fiammeggiante, si trascinava e tintinnava lungo il selciato.
+A quel [[Time|tempo]] lo sviluppo pacifico e utilitario dell'Europa aveva
+relegato tutte queste usanze nei Musei. L'unica forza rimasta,
+la piccola ma [[Well|ben]] organizzata polizia, era agghindata in modo cupo e
+igienico. Ma perfino coloro che ricordavano le ultime Guardie a Cavallo
+e i Lancieri scomparsi nel 1912 devono aver capito a colpo d'occhio
+che quella non era, e non era mai stata, un'uniforme inglese; e questa
+convinzione sarebbe stata accresciuta dal volto giallo e aquilino,
+come [[Dante]] scolpito nel bronzo, che si [[Rose|levava]], coronato di capelli bianchi,
+dal verde colletto militare, un volto acuto e distinto,
+ma non un volto inglese.
+
+La magnificenza con cui il signore vestito di verde camminava giù per
+il centro della [[Road|strada]] sarebbe qualcosa di difficile da esprimere
+in linguaggio umano. Poiché era una radicata semplicità e arroganza,
+qualcosa nel mero portamento della testa e del [[Body|corpo]], che faceva sì che i comuni
+moderni nella strada lo fissassero mentre passava; ma aveva relativamente poco
+a che fare con effettivi gesti o espressioni consapevoli. In fatto
+di questi movimenti meramente temporanei, l'uomo pareva piuttosto
+preoccupato e curioso, ma era curioso con la curiosità
+di un despota e preoccupato come per le responsabilità di un dio.
+Gli uomini che oziavano e si stupivano dietro di lui lo seguivano in parte
+con uno stupore per la sua brillante uniforme, vale a dire,
+in parte a causa di quell'istinto che ci fa tutti seguire chi
+ha l'aria di un pazzo, ma assai più a causa di quell'istinto che
+fa sì che tutti gli uomini seguano (e adorino) chiunque scelga di comportarsi
+come un [[King|re]]. Egli possedeva in modo così [[Sublime|sublime]] quella gran qualità
+della regalità... una quasi imbecille inconsapevolezza di chiunque,
+che la gente gli andava dietro come si fa dietro ai re... per vedere
+quale sarebbe stata la prima cosa o persona a cui avrebbe prestato attenzione.
+E per tutto il [[Time|tempo]], come abbiamo detto, a dispetto del suo quieto splendore,
+c'era in lui un'aria come se stesse cercando qualcuno;
+un'espressione di ricerca.
+
+Improvvisamente quell'espressione di ricerca svanì, nessuno poteva
+dire perché, e fu sostituita da un'espressione di contentezza.
+Tra l'attenzione rapita della folla di sfaccendati, il magnifico signore
+verde deviò dal suo corso diretto giù per il centro
+della [[Road|strada]] e camminò verso un lato di essa. Si fermò di fronte
+a un grande manifesto della Senape Colman eretto su una palizzata di legno.
+I suoi spettatori quasi trattennero il fiato.
+
+Trasse da una piccola tasca della sua uniforme un piccolo temperino;
+con esso fece un taglio nella carta tesa. Completando il resto
+dell'operazione con le dita, strappò una striscia o brandello
+di carta, giallo di colore e del tutto irregolare nei contorni.
+Poi per la prima [[Time|volta]] il grande essere si rivolse ai suoi adoranti spettatori:
+
+"Qualcuno di voi," disse, con un gradevole accento straniero,
+"può prestarmi uno spillo?"
+
+Il signor Lambert, che si dava il caso fosse il più vicino, e che portava innumerevoli
+spilli allo scopo di attaccare innumerevoli fiori all'occhiello,
+gliene prestò uno, che fu ricevuto con inchini stravaganti ma dignitosi,
+e iperboli di ringraziamento.
+
+Il signore in verde, quindi, con ogni apparenza di essere
+gratificato, e persino gonfio di orgoglio, appuntò il pezzo di carta gialla
+alle guarnizioni di seta verde e trina d'argento del suo petto.
+Poi volse di nuovo gli occhi all'intorno, cercando e insoddisfatto.
+
+"C'è altro che posso fare, signore?" chiese Lambert, con l'assurda
+cortesia dell'inglese quando una volta è imbarazzato.
+
+"Rosso," disse lo straniero, vagamente, "rosso."
+
+"Chiedo scusa?"
+
+"Chiedo scusa anch'io, Senor," disse lo straniero, inchinandosi. "Mi stavo
+chiedendo se qualcuno di voi avesse addosso del rosso."
+
+"Del rosso addosso a noi?... [[Well|Beh]], davvero... no, non credo di averne... una volta
+portavo un fazzoletto rosso a pois, ma..."
+
+"Barker," chiese [[Auberon Quin]], improvvisamente, "dov'è il tuo cacatua rosso?
+Dov'è il tuo cacatua rosso?"
+
+"Che cosa vuoi dire?" chiese Barker, disperatamente. "Che cacatua?
+Non mi hai mai visto con nessun cacatua."
+
+"Lo so," disse Auberon, vagamente rabbonito. "Dov'è stato
+per tutto il [[Time|tempo]]?"
+
+Barker si voltò di scatto, non senza risentimento.
+
+"Mi dispiace, signore," disse, brevemente ma cortesemente, "nessuno di noi pare
+avere qualcosa di rosso da prestarle. Ma perché, se è lecito chiedere..."
+
+"La ringrazio, Senor, non è nulla. Posso, dal momento che non c'è altro,
+soddisfare da me le mie esigenze."
+
+E rimanendo un secondo in pensiero con il temperino in mano,
+si pugnalò il palmo sinistro. Il [[Blood|sangue]] cadde con un fiotto così pieno
+che colpì i selci senza gocciolare. Lo straniero tirò
+fuori il fazzoletto e ne strappò un pezzo con i denti.
+Il brandello si intrise all'istante di scarlatto.
+
+"Poiché lei è così generoso, Senor," disse, "un altro spillo, forse."
+
+Lambert ne porse uno, con gli occhi sporgenti come quelli di una rana.
+
+Il lino rosso fu appuntato accanto alla carta gialla, e lo straniero
+si tolse il cappello.
+
+"Devo ringraziarvi tutti, signori," disse; e avvolgendo
+il rimanente del fazzoletto intorno alla mano sanguinante,
+riprese il suo cammino con una maestà travolgente.
+
+Mentre tutti gli altri si fermavano, in un certo scompiglio, il piccolo signor [[Auberon Quin]]
+corse dietro allo straniero e lo fermò, con il cappello in mano.
+Con considerevole stupore di tutti, gli si rivolse
+nel più puro spagnolo:
+
+"Senor," disse in quella lingua, "perdoni un'ospitalità,
+forse indiscreta, verso uno che sembra essere un ospite illustre,
+ma solitario, a [[London|Londra]]. Vorrà fare a me e ai miei amici,
+con cui ha scambiato qualche parola, l'[[Honour|onore]] di pranzare
+con noi nell'attiguo ristorante?"
+
+L'uomo nell'uniforme verde era diventato di un ardente colore di piacere
+al mero suono della propria lingua, e accettò l'invito
+con quella profusione di inchini che così spesso mostra, nel caso
+delle razze meridionali, la falsità dell'idea che la cerimonia
+non abbia nulla a che fare con il sentimento.
+
+"Senor," disse, "la sua lingua è la mia; ma tutto il mio [[Love|amore]] per il mio
+popolo non mi indurrà a negare al suo il possesso di un anfitrione così
+cavalleresco. Mi permetta di dire che la lingua è spagnola
+ma il cuore inglese." E passò con gli altri da Cicconani.
+
+"Ora, forse," disse Barker, davanti al pesce e allo sherry, intensamente cortese,
+ma bruciante di curiosità, "forse sarebbe scortese da parte mia chiedere
+perché ha fatto quello?"
+
+"Fatto cosa, Senor?" chiese l'ospite, che parlava inglese piuttosto [[Well|bene]],
+sebbene in un modo indefinibilmente americano.
+
+"[[Well|Beh]]," disse l'inglese, con una certa confusione, "intendo aver strappato una striscia
+da una palizzata e... ehm... essersi tagliato... e..."
+
+"Per dirle questo, Senor," rispose l'altro, con un certo
+triste [[Pride|orgoglio]], "occorre semplicemente dirle chi sono. Sono Juan
+del Fuego, Presidente del Nicaragua."
+
+Il modo con cui il Presidente del Nicaragua si appoggiò all'indietro e bevve
+il suo sherry mostrava che per lui questa spiegazione copriva tutti i fatti
+osservati e molto di più. La fronte di Barker, tuttavia, era ancora
+un po' rannuvolata.
+
+"E la carta gialla," cominciò, con ansiosa affabilità,
+"e il brandello rosso..."
+
+"La carta gialla e il brandello rosso," disse Fuego, con indescrivibile
+grandezza, "sono i colori del Nicaragua."
+
+"Ma il Nicaragua..." cominciò Barker, con grande esitazione, "il Nicaragua non è
+più un..."
+
+"Il Nicaragua è stato conquistato come Atene. Il Nicaragua è stato
+annesso come Gerusalemme," gridò il vecchio, con stupefacente [[Fire|fuoco]].
+"Lo yankee e il tedesco e le brutali potenze della modernità l'hanno
+calpestato con gli zoccoli dei buoi. Ma il Nicaragua non è morto.
+Il Nicaragua è un'idea."
+
+[[Auberon Quin]] suggerì timidamente: "Un'idea brillante."
+
+"Sì," disse lo straniero, afferrando la parola. "Ha ragione,
+generoso inglese. Un'idea brillante, un pensiero ardente.
+Senor, mi ha chiesto perché, nel mio [[Desire|desiderio]] di vedere i colori del mio paese,
+ho afferrato la carta e il [[Blood|sangue]]. Non riesce a comprendere l'antica
+sacralità dei colori? La Chiesa ha i suoi colori simbolici.
+E pensi a cosa significano i colori per noi... pensi alla condizione
+di uno come me, che non riesce a vedere nulla se non quei due colori,
+nulla se non il rosso e il giallo. Per me tutte le forme sono uguali,
+tutte le cose comuni e nobili sono in una [[democracy|democrazia]] di combinazione.
+Ovunque vi sia un campo di calendule e il mantello rosso di una
+vecchia, là è il Nicaragua. Ovunque vi sia un campo di papaveri
+e una gialla chiazza di sabbia, là è il Nicaragua. Ovunque vi
+sia un limone e un rosso tramonto, là è il mio paese. Ovunque io
+veda una rossa cassetta delle lettere e un giallo tramonto, là batte il mio cuore.
+Il [[Blood|sangue]] e uno schizzo di senape possono essere la mia araldica. Se vi
+fosse fango giallo e fango rosso nello stesso fosso, per me sarebbe meglio
+delle bianche [[Stars|stelle]]."
+
+"E se," disse Quin, con eguale entusiasmo, "capitasse
+che vi fosse vino giallo e vino rosso allo stesso pranzo, non potrebbe
+limitarsi allo sherry. Mi permetta di ordinare del Borgogna, e di completare,
+per così dire, una sorta di araldica nicaraguense nel suo interno."
+
+Barker giocherellava con il coltello, ed era evidentemente sul punto
+di dire qualcosa, con l'intensa nervosità dell'
+amabile inglese.
+
+"Devo intendere, dunque," disse infine, con un colpo di tosse, "che lei,
+ehm, era il Presidente del Nicaragua quando esso oppose la sua... ehm... si deve,
+naturalmente, convenire... la sua resistenza a dir poco eroica a... ehm..."
+
+L'ex Presidente del Nicaragua agitò la mano.
+
+"Non deve esitare a parlarmi," disse. "Sono pienamente
+consapevole che l'intera tendenza del mondo d'oggi è contro
+il Nicaragua e contro di me. Non riterrò affatto una diminuzione
+della sua evidente cortesia se dirà ciò che pensa delle sventure
+che hanno ridotto in rovina la mia repubblica."
+
+Barker parve immensamente sollevato e gratificato.
+
+"Lei è oltremodo generoso, Presidente," disse, con una certa esitazione
+sul titolo, "e approfitterò della sua generosità
+per esprimere i dubbi che, devo confessarlo, noi moderni nutriamo su
+cose come... ehm... l'indipendenza nicaraguense."
+
+"Così le sue simpatie sono," disse Del Fuego, con perfetta calma,
+"per la grande nazione che..."
+
+"Mi perdoni, mi perdoni, Presidente," disse Barker, con calore; "le mie simpatie
+non sono per alcuna nazione. Lei fraintende, credo, l'intelletto moderno.
+Non disapproviamo il [[Fire|fuoco]] e la stravaganza di comunità
+come la sua solo per diventare più stravaganti su scala più grande.
+Non condanniamo il Nicaragua perché pensiamo che la Gran Bretagna dovrebbe
+essere più nicaraguense. Non scoraggiamo le piccole nazionalità
+perché desideriamo che le grandi nazionalità abbiano tutta la loro piccolezza,
+tutta la loro uniformità di vedute, tutta la loro esagerazione di spirito.
+Se dissento con il massimo rispetto dal suo entusiasmo nicaraguense,
+non è perché una nazione o dieci nazioni fossero contro di lei;
+è perché la civiltà era contro di lei. Noi moderni crediamo
+in una grande civiltà cosmopolita, una che includa tutti
+i talenti di tutti i popoli assorbiti..."
+
+"Il Senor mi perdoni," disse il Presidente. "Posso chiedere
+al Senor come, in circostanze ordinarie, cattura un [[Horse|cavallo]] selvaggio?"
+
+"Non catturo mai un [[Horse|cavallo]] selvaggio," rispose Barker, con dignità.
+
+"Precisamente," disse l'altro; "e qui finisce il suo assorbimento
+dei talenti. È di questo che mi lamento del suo cosmopolitismo.
+Quando dice di volere che tutti i popoli si uniscano, in realtà intende che
+vuole che tutti i popoli si uniscano per imparare i trucchi del suo popolo.
+Se l'arabo beduino non sa leggere, qualche missionario inglese
+o maestro di scuola dev'essere mandato a insegnargli a leggere, ma nessuno
+dice mai: 'Questo maestro non sa cavalcare un cammello;
+paghiamo un beduino perché glielo insegni.' Lei dice che la sua civiltà
+includerà tutti i talenti. Sarà così? Vuole davvero dire che nel
+momento in cui l'esquimese ha imparato a votare per un Consiglio di Contea,
+lei avrà imparato a infilzare un tricheco? Torno all'esempio che ho dato.
+In Nicaragua avevamo un modo di catturare i cavalli selvaggi... facendo il laccio
+alle zampe anteriori, che si riteneva fosse il migliore del Sud [[America]].
+Se avete intenzione di includere tutti i talenti, andate e fatelo.
+In caso contrario, permettetemi di dire, come ho sempre detto, che qualcosa
+se ne andò dal mondo quando il Nicaragua fu civilizzato."
+
+"Qualcosa, forse," rispose Barker, "ma quel qualcosa una mera
+destrezza da barbaro. Non so se saprei scheggiare le selci
+[[Well|bene]] quanto un uomo primevo, ma so che la civiltà sa fabbricare
+questi coltelli che sono migliori, e io mi affido alla civiltà."
+
+"Ha una buona autorità," rispose il nicaraguense. "Molti uomini astuti
+come lei si sono affidati alla civiltà. Molti astuti babilonesi,
+molti astuti egiziani, molti uomini astuti alla fine di Roma.
+Può dirmi, in un mondo che è flagrante per i fallimenti
+della civiltà, cosa vi sia di particolarmente immortale nella vostra?"
+
+"Credo che lei non comprenda del tutto, Presidente, cosa sia la nostra,"
+rispose Barker. "Lei la giudica piuttosto come se l'Inghilterra fosse ancora
+un'isola povera e battagliera; lei è stato a lungo fuori dall'Europa.
+Molte cose sono accadute."
+
+"E come," chiese l'altro, "chiamerebbe il compendio
+di quelle cose?"
+
+"Il compendio di quelle cose," rispose Barker, con grande animazione,
+"è che ci siamo liberati delle superstizioni, e nel farlo non
+ci siamo liberati semplicemente delle superstizioni che sono state
+più di frequente e più entusiasticamente descritte come tali.
+La superstizione delle grandi nazionalità è cattiva, ma la superstizione
+delle piccole nazionalità è peggiore. La superstizione di riverire il nostro
+stesso paese è cattiva, ma la superstizione di riverire i paesi altrui
+è peggiore. È così ovunque, e in cento modi.
+La superstizione della monarchia è cattiva, e la superstizione dell'aristocrazia
+è cattiva, ma la superstizione della [[democracy|democrazia]] è la peggiore di tutte."
+
+Il vecchio signore spalancò gli occhi con una certa sorpresa.
+
+"Allora voi," disse, "non siete più una [[democracy|democrazia]] in Inghilterra?"
+
+Barker rise.
+
+"La situazione invita al [[Paradox|paradosso]]," disse. "Noi siamo, in un certo senso,
+la più pura [[democracy|democrazia]]. Siamo diventati un dispotismo.
+Non ha notato con quanta continuità nella [[history|storia]] la [[democracy|democrazia]]
+diventa dispotismo? La gente la chiama il [[Decay|decadimento]] della [[democracy|democrazia]].
+È semplicemente il suo compimento. Perché prendersi la briga di numerare
+e registrare e concedere il voto a tutti gli innumerevoli John Robinson,
+quando si può prendere un solo John Robinson con lo stesso intelletto
+o mancanza d'intelletto di tutti gli altri, e farla finita?
+I vecchi repubblicani idealisti solevano fondare la [[democracy|democrazia]] sull'idea
+che tutti gli uomini fossero egualmente intelligenti. Mi creda, la sana e duratura
+[[democracy|democrazia]] è fondata sul fatto che tutti gli uomini sono egualmente idioti.
+Perché non dovremmo scegliere fra loro l'uno tanto quanto l'altro?
+Tutto ciò che vogliamo per il [[government|Governo]] è un uomo non criminale né pazzo,
+che sappia scorrere rapidamente qualche petizione e firmare qualche proclama.
+Pensare quanto [[Time|tempo]] fu sprecato a discutere della [[house|Camera]]
+dei Lord, i Tory dicendo che andava conservata perché era astuta,
+e i Radicali dicendo che andava distrutta perché era stupida,
+e per tutto il [[Time|tempo]] nessuno vide che era giusta perché era stupida,
+perché quella casuale folla di uomini comuni gettati là per accidente
+di [[Blood|sangue]], erano una grande protesta democratica contro la [[house|Camera]] Bassa,
+contro l'eterna insolenza dell'aristocrazia dei talenti.
+Abbiamo ormai stabilito in Inghilterra la cosa verso cui tutti i sistemi
+hanno oscuramente brancolato, il dozzinale dispotismo popolare senza illusioni.
+Vogliamo un uomo alla testa del nostro Stato, non perché sia brillante
+o virtuoso, ma perché è un solo uomo e non una folla ciarliera.
+Per evitare l'eventuale rischio di malattie ereditarie o cose simili,
+abbiamo abbandonato la monarchia ereditaria. Il [[King|Re]] d'Inghilterra
+è scelto come un giurato da una lista ufficiale a rotazione.
+Oltre a ciò l'intero sistema è quietamente dispotico, e non abbiamo
+trovato che sollevi un mormorio."
+
+"Vuol davvero dire," chiese il Presidente, incredulo, "che voi
+scegliete un uomo qualunque che capiti a tiro e ne fate un despota... che
+vi affidate al caso di una qualche lista alfabetica..."
+
+"E perché no?" gridò Barker. "Non si affidò metà delle nazioni storiche
+al caso dei figli primogeniti di figli primogeniti, e non
+se la cavò metà di esse discretamente [[Well|bene]]? Avere un sistema perfetto
+è impossibile; avere un sistema è indispensabile. Tutte le monarchie ereditarie
+erano una questione di fortuna: così lo sono le monarchie alfabetiche.
+Sa trovare un profondo significato filosofico nella differenza tra
+gli Stuart e gli Hannover? Mi creda, mi impegno
+a trovare un profondo significato filosofico nel contrasto tra la cupa
+[[Tragedy|tragedia]] delle A e il solido [[success|successo]] delle B."
+
+"E lo rischia?" chiese l'altro. "Anche se l'uomo può essere un [[Tyrant|tiranno]]
+o un cinico o un criminale?"
+
+"Lo rischiamo," rispose Barker, con perfetta placidità.
+"Supponga che sia un [[Tyrant|tiranno]]... è pur sempre un freno a cento tiranni.
+Supponga che sia un cinico, è nel suo interesse governare [[Well|bene]].
+Supponga che sia un criminale... rimuovendo la [[Poverty|povertà]] e sostituendovi il potere,
+poniamo un freno alla sua criminalità. In breve, sostituendovi
+il dispotismo abbiamo posto un freno totale a un criminale e un freno
+parziale a tutti gli altri."
+
+Il vecchio signore nicaraguense si sporse con una strana espressione
+negli occhi.
+
+"La mia chiesa, signore," disse, "mi ha insegnato a rispettare la [[Faith|Fede]].
+Non desidero parlare con alcuna mancanza di rispetto della sua, per quanto fantastica.
+Ma vuol davvero dire che si affiderà all'uomo comune,
+l'uomo che può capitare per primo, come a un buon despota?"
+
+"Sì," disse Barker, semplicemente. "Può non essere un buon uomo.
+Ma sarà un buon despota. Poiché quando si troverà davanti a una mera
+routine amministrativa di [[government|governo]] si sforzerà di rendere ordinaria giustizia.
+Non presumiamo forse la stessa cosa in una giuria?"
+
+Il vecchio Presidente sorrise.
+
+"Non so," disse, "di avere alcuna particolare
+obiezione nei dettagli al suo eccellente schema di [[government|governo]].
+La mia unica obiezione è del tutto personale. È che, se mi
+si chiedesse se volessi farne parte, chiederei prima di tutto,
+se non mi fosse permesso, in alternativa, di essere un rospo in un fosso.
+È tutto. Non si può discutere con la scelta dell'[[Soul|anima]]."
+
+"Dell'[[Soul|anima]]," disse Barker, aggrottando le sopracciglia, "non posso pretendere
+di dire alcunché, ma parlando nell'interesse del pubblico..."
+
+Il signor [[Auberon Quin]] si [[Rose|alzò]] improvvisamente in piedi.
+
+"Se volete scusarmi, signori," disse, "farò un salto fuori per un
+momento a prendere aria."
+
+"Mi dispiace tanto, Auberon," disse Lambert, bonariamente; "ti senti male?"
+
+"Non proprio male," disse Auberon, con [[Self|auto]]controllo;
+"piuttosto bene, semmai. Stranamente e riccamente bene.
+Il fatto è che voglio riflettere un poco su quelle belle parole
+che sono state appena pronunciate. 'Parlando', sì, era questa la frase,
+'parlando nell'interesse del pubblico.' Non si può cavare il miele
+da tali cose senza restare [[Alone|soli]] per un poco."
+
+"Credete che sia davvero uscito di senno?" chiese Lambert.
+
+Il vecchio Presidente lo seguì con lo sguardo con occhi stranamente vigili.
+
+"È un uomo, credo," disse, "a cui non importa nulla se non uno scherzo.
+È un uomo pericoloso."
+
+Lambert rise nell'atto di portarsi alla bocca dei maccheroni.
+
+"Pericoloso!" disse. "Lei non conosce il piccolo Quin, signore!"
+
+"Ogni uomo è pericoloso," disse il vecchio, senza muoversi,
+"a cui importa soltanto di una cosa. Un tempo io stesso ero pericoloso."
+
+E con un piacevole sorriso finì il suo caffè e si [[Rose|alzò]],
+inchinandosi profondamente, uscì nella nebbia, che era di nuovo diventata
+densa e fosca. Tre giorni dopo seppero che era morto
+quietamente in un alloggio a Soho.
+
+. . . . .
+
+Annegata da qualche altra parte nell'oscuro mare di nebbia c'era una piccola figura che tremava
+e trepidava, con quella che a prima vista poteva sembrare terrore o febbre;
+ma che era in realtà quella strana malattia, un solitario ridere.
+Ripeteva a se stesso più e più volte con un ricco accento "Ma
+parlando nell'interesse del pubblico...."

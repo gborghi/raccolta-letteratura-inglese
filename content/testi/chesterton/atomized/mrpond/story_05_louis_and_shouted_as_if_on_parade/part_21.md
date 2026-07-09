@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_20">‹ part 20</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_22">part 22 ›</a></div>
@@ -213,3 +215,212 @@ triangle, only the outer edge or hypotenuse being sharpened.  Pond
 gazed musingly at this uncouth weapon, which was made very rudely
 
 of iron and wood painted with garish colours; and his thoughts
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_20">‹ part 20</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_22">part 22 ›</a></div>
+</nav>
+
+loro. Ma in fondo... [[Well|beh]], signore, c'è la campagna, no,
+
+non è vero?"
+
+"C'è certamente la campagna," disse il signor Pond, molto seriamente.
+
+"[[Well|Beh]]," sbottò infine Butt, "non sono per niente tranquillo riguardo ad
+
+[[arthur|Arthur]]."
+
+Poi, dopo una specie di rantolo, riprovò: "Almeno, non è tanto
+
+[[arthur|Arthur]] quanto ciò che è di [[arthur|Arthur]]... ciò che [[arthur|Arthur]] sta facendo. Rende tutto
+
+più sgradevole averlo detto così. Ma sa che si è fidanzato
+
+la settimana scorsa. Ha conosciuto la sua promessa sposa, signore?"
+
+"Non ne ho ancora avuto l'[[Honour|onore]]," rispose Pond, nel suo modo
+
+puntiglioso.
+
+"[[Well|Beh]], signore, [[arthur|Arthur]] l'ha portata qui oggi mentre lei era fuori;
+
+l'aveva appena accompagnata alla pantomima del Gatto con gli Stivali sul molo,
+
+e ridevano a più non posso. Certo, va benissimo
+
+così; era il suo [[Time|tempo]] libero; ma mi è parso non fosse del tutto
+
+opportuno che salisse dritta di sopra senza alcun invito,
+
+nemmeno da parte sua, fino all'ufficio privato dove non lasciamo entrare i visitatori.
+
+Certo, è più o meno l'unico caso possibile in cui
+
+difficilmente potevo impedirlo. In via ordinaria, siamo perfettamente
+
+al sicuro; intendo che i documenti sono perfettamente al sicuro. C'è una sola
+
+porta, e lei o io siamo sempre seduti proprio davanti ad essa; e
+
+c'è una sola scala, e nessuno la usa tranne noi tre. Certo,
+
+potrebbe averlo fatto in tutta [[innocence|innocenza]]; è questo che rendeva
+
+troppo orribile rimbeccarla. Eppure... [[Well|beh]], è
+
+una ragazza di bell'aspetto, e senza [[Doubt|dubbio]] una brava ragazza; ma
+
+chissà perché è proprio l'unica parola che non mi verrebbe in mente
+
+sul suo conto... [[innocence|innocenza]]."
+
+"Ma che tipo di ragazza è?" chiese Pond.
+
+"[[Well|Beh]]," disse il signor Butt, cercando cupo le parole, "sappiamo tutti che
+
+truccarsi e persino tingersi i capelli non significa più ciò che significava un tempo;
+
+lo fanno molte donne perfettamente per bene; ma non quelle che
+
+sono... [[Well|beh]], del tutto inesperte. Mi è parso che, per quanto lei
+
+potesse essere perfettamente onesta, sapesse molto bene se una
+
+cosa si fa o non si fa."
+
+"Se è fidanzata con lui," disse Pond, con una severità piuttosto
+
+insolita, "deve sapere che è qui per un lavoro altamente confidenziale,
+
+e deve essere ansiosa di proteggerne l'[[Honour|onore]] quanto lo siamo noi.
+
+Temo che dovrò chiederle una qualche
+
+descrizione."
+
+"[[Well|Beh]]," disse Butt, "è molto alta ed elegante, o... no,
+
+elegante è esattamente la parola. Ha bellissimi capelli d'oro... bellissimi
+
+capelli d'oro... e bellissimi lunghi occhi scuri che lo fanno
+
+sembrare quasi una parrucca dorata. Ha zigomi alti, non
+
+alla maniera delle ragazze scozzesi, ma in qualche modo come se fossero parte
+
+della forma del cranio; e benché non abbia affatto i denti
+
+lunghi, in nessun senso, i suoi denti sporgono appena un poco."
+
+"L'ha conosciuta a Besançon, vicino a Belfort?"
+
+"È ben strano che lo dica," disse Butt, avvilito; "perché è proprio
+
+così."
+
+Il signor Pond ricevette la notizia in [[Silence|silenzio]].
+
+"[[Hope|Spero]], signore, che non presuma nulla contro [[arthur|Arthur]]," disse Butt,
+
+con voce rauca. "Sono certo che farei di tutto per scagionarlo da qualsiasi..."
+
+Mentre parlava, il soffitto sopra di loro tremò con un tonfo simile a un tuono;
+
+poi vi fu un rumore di piedi in fuga; e poi assoluta
+
+immobilità. Nessuno che conoscesse il consueto incedere del signor Pond
+
+avrebbe potuto credere che volasse su per le scale come
+
+fece in quel momento.
+
+Spalancarono la porta, e videro tutto ciò che c'era da vedere.
+
+Tutto ciò che c'era da vedere era [[arthur|Arthur]] Travers steso a faccia
+
+in giù sul pavimento, e tra le scapole sporgeva
+
+l'elsa lunghissima di una [[Sword|spada]] dall'aspetto quanto mai strano. Butt
+
+vi mise mano impetuosamente, e si stupì di scoprire che era
+
+conficcata così a fondo nel cadavere e nel pavimento a moquette che non
+
+avrebbe potuto estrarla senza il più violento sforzo muscolare. Pond
+
+aveva già toccato il polso e sentito la rigidità dei muscoli,
+
+e allontanò con un gesto il suo subordinato.
+
+"Mi dispiace dire che il nostro amico è certamente morto," disse
+
+con fermezza. "In tal caso, è meglio che non tocchi nulla finché non
+
+potrà essere esaminato a dovere." Poi, guardando Butt molto solennemente,
+
+aggiunse:
+
+"Ha detto che avrebbe fatto di tutto per scagionarlo. Una cosa è
+
+certa: che è del tutto scagionato."
+
+Pond si diresse quindi in [[Silence|silenzio]] alla scrivania, che conteneva il cassetto
+
+segreto e la pianta segreta del porto. Si limitò a serrare le
+
+labbra quando vide che il cassetto era vuoto.
+
+Pond andò al telefono e impartì ordini a circa sei
+
+persone diverse. Fece una ventina di cose, ma non parlò
+
+più per circa tre quarti d'ora. Fu solo verso lo stesso
+
+[[Time|momento]] che lo stordito e sconcertato Butt inciampò nelle
+
+parole.
+
+"Non riesco proprio a raccapezzarmi. Quella donna se n'era
+
+andata; e, per giunta, nessuna donna avrebbe potuto inchiodarlo al pavimento
+
+in quel modo."
+
+"E con un chiodo così straordinario," disse Pond, e tacque
+
+di nuovo.
+
+E in effetti l'[[Riddle|enigma]] ruotava sempre più intorno all'unica cosa che
+
+ladro e assassino si era lasciato dietro: l'enorme, deforme
+
+arma. Non era difficile indovinare perché l'avesse abbandonata;
+
+era così difficile da svellere dal pavimento che probabilmente non ebbe
+
+[[Time|tempo]] di provarci davvero, sentendo Pond salire fragorosamente le scale;
+
+ritenne più saggio fuggire in qualche modo, presumibilmente dalla [[Window|finestra]].
+
+Ma sulla [[Nature|natura]] stessa dell'oggetto era difficile dire
+
+alcunché, perché sembrava del tutto anomalo. Era lunga quanto uno
+
+spadone; eppure non seguiva il modello di alcuna [[Sword|spada]] nota. Non
+
+aveva né guardia né pomo di alcun tipo. L'elsa era lunga quanto la
+
+lama; la lama era larga il doppio dell'elsa; almeno, alla sua
+
+base, donde si assottigliava a punta in una sorta di triangolo
+
+rettangolo, con affilato solo il bordo esterno, ovvero l'ipotenusa. Pond
+
+contemplava pensoso quest'arma rozza, fatta molto grossolanamente
+
+di ferro e legno dipinto di colori sgargianti; e i suoi pensieri

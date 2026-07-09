@@ -117,92 +117,18 @@ if the words had sounded like a vaunt:
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_15/part_01">part 01 ›</a></div>
 </nav>
 
-  E in sacramento innalzami il divino
-  forte fratello in Dio, ultimo compagno, il vino.
+  E sacramentalmente lévami il divino
+  Forte fratello in Dio e ultimo compagno, il vino.
 
-Dissi soltanto poche parole, nel senso che una simile cerimonia sarebbe
-potuta essere altrettanto appropriata migliaia di anni fa, alla festa di
-un grande poeta greco; e che ero fiducioso che i sonetti e i versi
-possenti di Belloc sarebbero rimasti come le coppe e le epopee scolpite
-dei Greci. Egli lo riconobbe brevemente, con un triste buon
-[[Humour|umore]], dicendo che, giunto ai sessant'anni, non gli importava
-gran che se i suoi versi rimanessero o no. «Ma mi si dice», aggiunse con
-un'enfasi che d'un tratto rinasceva, «mi si dice che si torna a
-importarsene terribilmente quando si arriva ai settanta. In tal caso,
-[[Hope|spero]] di morire a sessantanove». E poi ci accomodammo al convito
-dei vecchi amici, che doveva essere tanto felice appunto perché non vi
-erano discorsi.
+Dissi soltanto poche parole nel senso che una tale cerimonia avrebbe potuto essere altrettanto adatta migliaia di anni fa, al festival di un grande poeta greco; e che ero fiducioso che i sonetti e i forti versi di Belloc sarebbero rimasti come le coppe e le scolpite epopee dei Greci. Egli lo riconobbe brevemente, con un triste buon [[Humour|umore]], dicendo che trovava che, all'età di sessant'anni, non gli importava molto se i suoi versi rimanessero o no. «Ma mi si dice», aggiunse con enfasi d'improvviso rivivente, «mi si dice che si comincia a curarsene di nuovo terribilmente quando si hanno settant'anni. Nel qual caso, [[Hope|spero]] di morire a sessantanove». E poi ci accomodammo al banchetto dei vecchi amici, che doveva essere così felice perché non vi erano discorsi.
 
-Verso la fine della cena qualcuno mi sussurrò che forse sarebbe stato
-meglio spendere una parola in riconoscimento degli sforzi di un tale, di
-cui dimentico il nome, che si supponeva avesse organizzato la faccenda. Lo
-ringraziai perciò brevemente; ed egli, ancora più brevemente, ringraziò
-me, ma soggiunse che si trattava di un vero e proprio equivoco, poiché il
-vero autore del progetto era Johnnie Morton, altrimenti detto Beachcomber,
-che sedeva immediatamente alla sua destra. Morton si [[Rose|alzò]]
-solennemente per raccogliere l'applauso bruscamente trasferitogli; volse
-lo sguardo alla propria destra, e ringraziò calorosamente chiunque si
-trovasse a sedere là (credo fosse Squire) per averlo ispirato con questa
-grande concezione di un banchetto per Belloc. Squire si levò e, con molti
-cortesi gesti, spiegò che il gentiluomo alla propria destra, il signor A.
-P. Herbert, era stato la vera, profonda e ultima ispirazione di questa
-grande idea; e che era solo giusto che il segreto della sua iniziativa
-venisse ora rivelato. A questo [[Time|punto]], la [[logic|logica]] dello
-scherzo era in pieno galoppo e non si poteva più frenare; nemmeno se avessi
-voluto frenarla. A. P. Herbert si [[Rose|levò]] all'altezza dell'occasione
-con una superba presenza di spirito, e diede alla serie una piega del tutto
-nuova e originale. È un eccellente oratore e, come tutti sappiamo, un
-ammirevole autore; ma non avevo mai saputo prima che è pure un ammirevole
-attore. Per qualche ragione a lui sola nota, scelse di fingersi il
-funzionario oratore di una qualche Società di Beneficenza Operaia, come gli
-Oddfellows o i Foresters. Non ebbe bisogno di dirci che stava recitando
-quella parte; nel tono della voce ce lo disse fin dalle prime parole. Non
-dimenticherò mai l'esattezza dell'accento con cui disse: «Sono certo,
-amici, che siamo tutti ben lieti di vedere fra noi, questa sera, l'ex Druido
-Chesterton». Ma diede anche al suo discorso una precisa direzione logica.
-Disse che non a lui, ma al nostro vecchio e fedele amico Duff Cooper si
-doveva in realtà questa piacevole serata. Duff Cooper, che gli sedeva
-accanto, si [[Rose|alzò]] allora e, con tono risoluto e squillante,
-pronunciò un'[[Imitation|imitazione]] di un comizio liberale, pieno di
-invocazioni al suo grande capo Lloyd-George. Spiegò tuttavia che era stato
-il signor E. C. Bentley, alla sua destra, e non lui, ad aver organizzato
-questo tributo a quel pilastro del Liberalismo politico, il signor Belloc.
-Bentley diede un'unica occhiata alla propria destra, e si [[Rose|alzò]] con
-esattamente quella sprezzante gravità che avevo visto quarant'anni prima
-nei circoli di dibattito della nostra fanciullezza; il [[Memory|ricordo]]
-del suo occhialino in bilico e della sua blanda solennità mi tornò
-attraverso la vita con un'intensità tale da smuovere le [[Tears|lacrime]]
-che nascono dal [[Time|tempo]]. Disse, con la sua precisa enunciazione, di
-aver seguito per tutta la vita una sola e sufficiente regola. In tutti i
-problemi che gli si erano presentati, si era accontentato di consultare
-esclusivamente l'opinione del Professor Eccles. In ogni dettaglio della
-vita quotidiana, nella scelta della moglie, di una professione, di una
-[[house|casa]], di un pranzo, non aveva fatto altro che eseguire quanto il
-Professor Eccles gli indicasse. Nella presente occasione, ogni apparenza
-egli potesse avere di aver organizzato il banchetto di Belloc era in realtà
-una maschera per l'influenza del Professor Eccles. Il Professor Eccles
-rispose in modo analogo, ma ancor più contenuto, dicendo semplicemente di
-essere stato scambiato per l'uomo che gli sedeva accanto, il vero fondatore
-del convito; e così, per fatali e sicuri passi, l'intero processo fece il
-giro dell'intera tavola; finché ogni singolo essere umano ebbe pronunciato
-un discorso. È l'unico pranzo cui io abbia mai partecipato in cui fu
-letteralmente vero che ogni commensale tenne un discorso di fine pranzo. E
-quello fu il felicissimo epilogo di quel felicissimo pranzo, in cui non vi
-dovevano essere discorsi.
+Verso la fine della cena qualcuno mi sussurrò che sarebbe stato forse meglio se una parola fosse detta in riconoscimento degli sforzi di qualcun altro di cui dimentico il nome, che si supponeva avesse organizzato la faccenda. Lo ringraziai perciò brevemente; ed egli ancor più brevemente ringraziò me, ma aggiunse che era del tutto un errore, perché il vero autore del piano era Johnnie Morton, altrimenti Beachcomber, che sedeva immediatamente alla sua destra. Morton si [[Rose|levò]] solennemente a riconoscere l'applauso bruscamente trasferito; guardò alla sua propria destra, e calorosamente ringraziò chiunque si trovasse a sedere là (credo fosse Squire) per averlo ispirato con questa grandiosa concezione di un banchetto per Belloc. Squire si alzò, e con molti cortesi gesti, spiegò che il gentiluomo alla sua propria destra, il signor A. P. Herbert, era stata la vera e profonda e ultima ispirazione di questa grande idea; e che era solo giusto che il segreto della sua iniziativa fosse ora rivelato. A quel [[Time|punto]], la [[logic|logica]] dello scherzo era in pieno galoppo e non poteva essere frenata; anche se avessi voluto frenarla. A. P. Herbert si [[Rose|levò]] all'occasione con superba presenza di spirito, e diede alla serie una svolta del tutto nuova e originale. È un eccellente oratore; e, come tutti sappiamo, un ammirevole autore; ma non avevo mai saputo prima che è un ammirevole attore. Per qualche ragione a lui sola nota, scelse di fingere di essere il funzionario oratorio di una sorta di Società Benevola degli Operai, come gli Oddfellows o i Forestieri. Non ebbe bisogno di dirci che stava assumendo questa parte; nel tono della sua voce, ce lo disse nelle prime parole. Non dimenticherò mai l'esattezza dell'accento con cui disse: «Sono sicuro, amici, che siamo tutti assai lieti di vedere l'Ex Druido Chesterton fra noi questa sera». Ma diede anche al suo discorso una precisa direzione logica. Disse che non era a 'ui, ma al nostro vecchio e fedele amico Duff Cooper che questa piacevole serata era davvero dovuta. Duff Cooper, seduto accanto a lui, allora si [[Rose|levò]] e in toni risoluti e squillanti pronunciò un'[[Imitation|Imitazione]] di un discorso da tribuna liberale, pieno di invocazioni del suo grande capo Lloyd-George. Egli spiegò, tuttavia, che il signor E. C. Bentley alla sua destra, e non lui stesso, aveva organizzato questo tributo a quel pilastro del Liberalismo politico, il signor Belloc. Bentley diede un'occhiata alla sua propria destra, e si [[Rose|levò]] con esattamente quella supercigliosa gravità che avevo visto quarant'anni prima nei circoli di dibattito della nostra fanciullezza; il [[Memory|ricordo]] dei suoi occhialini in equilibrio e della sua blanda solennità mi tornò attraverso la vita con tale intensità da smuovere le [[Tears|lacrime]] che nascono dal [[Time|tempo]]. Egli disse, con la sua precisa enunciazione, di aver egli stesso seguito attraverso la vita una sola e sufficiente regola. In tutti i problemi che sorgevano, si era accontentato di consultare esclusivamente l'opinione del Professor Eccles. In ogni dettaglio della vita quotidiana, nella sua scelta di una moglie, di una professione, di una [[house|casa]], di una cena, non aveva fatto altro che eseguire qualunque cosa il Professor Eccles potesse dirigere. Nella presente occasione, qualsiasi apparenza egli potesse aver avuto di organizzare il banchetto di Belloc era in effetti una maschera per l'influenza del Professor Eccles. Il Professor Eccles rispose in modo simile ma perfino più contenuto, dicendo semplicemente di essere stato scambiato per l'uomo accanto a lui, il vero fondatore del festino; e così per fatali e infallibili passi, tutto il processo fece il giro dell'intera tavola; finché ogni singolo essere umano ebbe fatto un discorso. È la sola cena cui io abbia mai assistito, in cui fu letteralmente vero che ogni commensale fece un discorso dopocena. E quello fu il felicissimo finale di quella felicissima cena, in cui non vi dovevano essere discorsi.
 
-Io stesso non feci un altro discorso; benché fossi ben lontano dal pensare
-che si fosse discorseggiato troppo. Solo certe parole frammentarie, un
-[[Memory|ricordo]] di un poeta tardo-vittoriano che conosco, Sir William
-Watson, affiorarono alla superficie della mia mente; ed erano quelle le
-parole che avrei detto, se avessi detto qualcosa. Poiché ciò che il poeta
-disse al suo amico è tutto quanto avrei potuto aggiungere, in spirito
-meramente personale, alle molte cose che si dissero quella
-[[Night|notte]] intorno a Hilaire Belloc; e non mi sarei vergognato se le
-parole fossero suonate come un vanto:
+Io stesso non feci un altro discorso; benché fossi tutt'altro che convinto che vi fosse stato troppo discorseggiare. Solo certe parole frammentarie, una [[Memory|memoria]] di un tardo poeta vittoriano che conosco, Sir William Watson, fluttuarono sulla superficie della mia mente; ed erano quelle parole che avrei detto, se avessi detto qualcosa. Poiché ciò che il poeta disse al suo amico è tutto ciò che avrei potuto aggiungere, in spirito meramente personale, alle molte cose che furono dette quella [[Night|notte]] su Hilaire Belloc; e non mi sarei vergognato se le parole fossero suonate come un vanto:
 
-  Né senza [[Honour|onore]] corsero i miei giorni,
-  né senza vanto avranno fine;
-  ché fui compatriota di Shakespeare
-  e non fosti tu forse amico mio.
+  Né senza [[Honour|Onore]] corsero i miei giorni,
+  Né senza un vanto finiranno;
+  poiché io fui compatriota di Shakespeare
+  E non eravate voi mio amico.
 
 *****

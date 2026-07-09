@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06">‹ Chapter 06</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08">Chapter 08 ›</a></div>
@@ -489,3 +491,488 @@ glad to oblige a good customer."
 upon the peculiar talents and specialities, the cosmopolitanism
 of the [[grocer]] and the world-old necromancy of the chemist.
 Where should I be without tact?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06">‹ Chapter 06</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08">Chapter 08 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07/part_03">Part 3</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07/part_04">Part 4</a></li></ul>
+</nav>
+
+LIBRO III
+CAPITOLO I
+
+LA CONDIZIONE MENTALE DI [[Adam Wayne|ADAM WAYNE]]
+
+POCO dopo l'ascesa al trono del [[King|Re]] apparve un piccolo libro di [[Poems|poesie]],
+intitolato «Inni della [[Hill|Collina]]».  Non erano buone [[Poems|poesie]],
+né il libro ebbe successo, ma attirò una certa dose di
+attenzione da parte di una particolare scuola di critici.  Lo stesso [[King|Re]],
+che era membro della scuola, lo recensì nella sua veste di
+critico letterario di «Straight from the Stables», una rivista sportiva.
+Erano noti come la Scuola dell'Amaca, perché era stato calcolato
+malignamente da un nemico che non meno di tredici delle loro delicate
+recensioni erano cominciate con le parole: «Ho letto questo libro in un'amaca;
+mezzo addormentato nella luce sonnolenta del sole, io...»; dopo di che venivano
+differenze importanti.  In tali condizioni apprezzavano ogni cosa,
+ma specialmente ogni cosa sciocca.  «Dopo l'autentica bontà
+in un libro,» dicevano «dopo l'autentica bontà in un libro
+(e quella, ahimè!, non la troviamo mai) noi [[Desire|desideriamo]] una ricca cattiveria.»
+Così accadde che la loro lode (in quanto indice della presenza di una
+ricca cattiveria) non fosse universalmente ambita, e gli autori
+si turbavano un poco quando scoprivano l'occhio della Scuola dell'Amaca
+fisso su di loro con singolare favore.
+
+La peculiarità di «Inni della [[Hill|Collina]]» era la celebrazione della
+poesia di [[London|Londra]] in quanto distinta dalla poesia della campagna.
+Questo sentimento, o affettazione, non era certo raro nel
+ventesimo secolo, né era, per quanto talvolta esagerato,
+e talvolta artificiale, in alcun modo privo di una grande [[Truth|verità]] alla radice,
+poiché vi è un aspetto per cui una città dev'essere più poetica
+della campagna, essendo più vicina allo spirito dell'uomo; giacché [[London|Londra]],
+se non è uno dei capolavori dell'uomo, è almeno uno dei suoi peccati.
+Una strada è davvero più poetica di un prato, perché una strada
+ha un segreto.  Una strada va da qualche parte, e un prato in nessun luogo.
+Ma, nel caso del libro intitolato «Inni sulla [[Hill|Collina]]»,
+vi era un'altra peculiarità, che il [[King|Re]] mise in luce con grande
+acume nella sua recensione.  Egli era naturalmente interessato alla questione,
+poiché aveva egli stesso pubblicato un volume di liriche su [[London|Londra]] sotto
+il suo pseudonimo di «Daisy Daydream».
+
+Questa differenza, come il [[King|Re]] fece notare, consisteva nel fatto che,
+mentre semplici artefici come «Daisy Daydream» (sul cui elaborato
+stile il [[King|Re]], sotto la firma di «Thunderbolt», era forse
+un po' troppo severo) pensavano di lodare [[London|Londra]] paragonandola alla
+campagna... usando cioè la [[Nature|natura]] come sfondo da cui trarre tutte le
+immagini poetiche... il più robusto autore di «Inni della [[Hill|Collina]]»
+lodava la campagna, ovvero la [[Nature|natura]], paragonandola alla città,
+e usava la città stessa come sfondo.  «Prendete,» disse il critico,
+«i versi tipicamente femminili, "All'Inventore della Carrozzella"»
+
+«Poeta, la cui astuzia scolpì questa amorosa conchiglia, ove due possano dimorare.»
+
+"Certo," scrisse il [[King|Re]], "nessuno se non una donna avrebbe potuto scrivere
+quei versi.  Una donna ha sempre un debole per la [[Nature|natura]]; per lei,
+l'arte è bella solo come eco o [[Shadow|ombra]] di essa.  Ella loda
+la carrozzella per tema e teoria, ma la sua [[Soul|anima]] è ancora una [[Child|bambina]]
+in riva al mare, che raccoglie conchiglie.  Non potrà mai essere del tutto cittadina,
+come può esserlo un uomo; e invero, non diciamo forse (con sacra proprietà)
+di 'un uomo di mondo'?  Chi ha mai parlato di una donna di mondo?
+Per quanto, fisicamente, 'di mondo' una donna possa essere, ella si modella pur sempre
+sulla [[Nature|natura]]; cerca di portare la [[Nature|natura]] con sé; ordina alle erbe
+di crescerle sul capo, e alle bestie pelose di morderla intorno alla gola.
+Nel cuore di una fosca [[City|città]], modella il suo cappello su un fiammeggiante
+[[Garden|giardino]] campestre di [[Flowers|fiori]].  Noi, col nostro più nobile sentimento civico,
+modelliamo il nostro su un comignolo; l'insegna della civiltà.
+E piuttosto che restare senza [[Birds|uccelli]], commetterà un massacro, pur di
+trasformare il proprio capo in un albero, con [[Birds|uccelli]] morti che vi cantino."
+
+Questa sorta di cose continuò per parecchie pagine, e poi il critico
+si ricordò del suo soggetto, e vi tornò.
+
+"Poeta, la cui astuzia scolpì questa amorosa conchiglia, ove due possano dimorare."
+
+"La peculiarità di questi versi belli benché femminili,"
+proseguì "Thunderbolt", "è, come abbiamo detto, che essi lodano
+la carrozzella paragonandola alla conchiglia, a una cosa naturale.
+Ora, udite l'autore di ' Inni della [[Hill|Collina]],' e come tratta
+il medesimo soggetto.  Nel suo bel notturno, intitolato ' L'Ultimo Omnibus,'
+egli allevia la ricca e pungente [[Melancholy|malinconia]] del tema con un improvviso
+senso di corsa alla fine"
+
+' Il [[Wind|vento]] intorno al vecchio angolo della strada sterzò improvviso e rapido
+come una carrozza.'
+
+"Qui la distinzione è evidente.  ' Daisy Daydream' ritiene
+un grande complimento per una carrozzella l'essere paragonata a una delle spiraliche
+camere del mare.  E l'autore di ' Inni sulla [[Hill|Collina]]'
+ritiene un grande complimento per l'immortale turbine l'essere paragonato
+a una vettura di piazza.  Egli è di certo il vero ammiratore di [[London|Londra]].
+Non abbiamo spazio per parlare di tutte le sue perfette applicazioni dell'idea;
+della poesia in cui, per esempio, gli occhi di una dama sono paragonati
+non alle [[Stars|stelle]], ma a due perfetti lampioni che guidano il viandante.
+Non abbiamo spazio per parlare della bella [[Lyric|lirica]], che richiama lo
+spirito elisabettiano, in cui il poeta, invece di dire
+che la [[Rose|rosa]] e il giglio si contendono il suo incarnato, dice,
+con un modernismo più puro, che l'omnibus rosso di Hammersmith
+e l'omnibus bianco di Fulham vi combattono per il dominio.
+Quanto è perfetta l'immagine di due omnibus in lotta!"
+
+Qui, in modo alquanto brusco, la recensione si concluse, probabilmente perché il [[King|Re]]
+doveva spedire la sua copia in quel momento, trovandosi in qualche ristrettezza di denaro.
+Ma il [[King|Re]] era un ottimo critico, qualunque cosa fosse stato come [[King|Re]],
+e aveva, in misura considerevole, colto nel segno.
+«Inni sulla [[Hill|Collina]]» non somigliava affatto alle [[Poems|poesie]] originariamente
+pubblicate in lode della poesia di [[London|Londra]].  E la ragione
+era che era davvero stato scritto da un uomo che non aveva visto null'altro
+che [[London|Londra]], e che perciò la considerava l'universo.
+Era stato scritto da un ragazzo rozzo, dai capelli rossi, di diciassette anni, di nome [[Adam Wayne]],
+nato a Notting [[Hill]].  Un incidente nel suo settimo anno
+gli impedì di essere portato al mare, e così la sua intera vita
+era trascorsa nella sua Pump Street, e nei suoi dintorni.
+E la conseguenza fu che egli vedeva i lampioni come cose
+eterne quanto le [[Stars|stelle]]; i due fuochi si mescolavano.
+Vedeva le case come cose durature, simili alle [[Mountains|montagne]],
+e così scriveva di esse come si scriverebbe delle [[Mountains|montagne]].
+La [[Nature|Natura]] indossa un travestimento quando parla a ogni uomo; a quest'uomo
+indossò il travestimento di Notting [[Hill]].  La [[Nature|Natura]] significherebbe, per un poeta
+nato tra le colline del Cumberland, un cielo tempestoso e rocce improvvise.
+La [[Nature|Natura]] significherebbe, per un poeta nato nelle piane dell'Essex, una distesa di splendide
+acque e splendidi tramonti.  Così la [[Nature|natura]] significò per quest'uomo Wayne
+una fila di tetti violacei e di lampade color limone, il chiaroscuro della città.
+Non riteneva arguto o buffo lodare le ombre e
+i colori della città; non aveva visto altre ombre o altri colori,
+e perciò li lodava... perché erano ombre e colori.
+Vedeva tutto ciò perché era un poeta, benché in pratica un cattivo poeta.
+Troppo spesso si dimentica che, proprio come un uomo cattivo è nondimeno un uomo,
+così un cattivo poeta è nondimeno un poeta.
+
+Il piccolo volume di versi del signor Wayne fu un completo fallimento;
+ed egli si sottomise al verdetto del destino con un'[[Humility|umiltà]] del tutto razionale,
+tornò al suo lavoro, che era quello di commesso di un merciaio,
+e non scrisse più.  Conservò tuttavia il suo sentimento verso la città
+di Notting [[Hill]], perché non poteva assolutamente avere alcun
+altro sentimento, perché essa era il fondo e la base del suo cervello.
+Ma non pare che abbia fatto alcun particolare tentativo di esprimerlo
+o di insistervi.
+
+Era un genuino mistico naturale, uno di quelli che vivono
+al confine del paese delle fate.  Ma fu forse il primo a comprendere
+quanto spesso il confine del paese delle fate attraversi una [[City|città]] affollata.
+A sei metri da lui (poiché era assai miope) i soli rossi
+e bianchi e gialli dei becchi a gas si affollavano e si fondevano
+l'uno nell'altro come un frutteto di alberi di fuoco, l'inizio
+dei boschi del paese degli elfi.
+
+Ma, per quanto strano, fu proprio perché era un piccolo poeta che pervenne
+al suo strano e isolato trionfo.  Fu proprio perché era un
+fallito nella letteratura che divenne un portento nella [[history|storia]] inglese.
+Era uno di quelli a cui la [[Nature|natura]] ha dato il [[Desire|desiderio]] senza il potere
+dell'espressione artistica.  Era stato un poeta muto fin dalla culla.
+Avrebbe potuto restarlo fino alla [[Grave|tomba]], e portare inespresso
+nelle tenebre un tesoro di nuovo e sensazionale [[Song|canto]].
+Ma nacque sotto la fortunata stella di una singola coincidenza.
+Si trovò a essere a capo del suo squallido municipio al
+[[Time|tempo]] dello scherzo del [[King|Re]], al [[Time|tempo]] in cui a tutti i municipi
+fu improvvisamente ordinato di prorompere in stendardi e [[Flowers|fiori]].
+Dalla lunga processione dei poeti silenziosi che sfilano
+dal principio del mondo, quest'unico uomo si trovò
+nel mezzo di una visione araldica, in cui poteva agire e parlare
+e vivere liricamente.  Mentre l'autore e le vittime trattavano allo stesso modo
+l'intera faccenda come una sciocca pantomima pubblica, quest'unico uomo, prendendola
+sul serio, balzò d'improvviso su un trono di onnipotenza artistica.
+Armature, musica, insegne, fuochi di veglia, il rullo dei tamburi,
+tutti gli oggetti di scena teatrali furono gettati dinanzi a lui.
+Questo povero rimatore, avendo bruciato le proprie rime, cominciò a vivere
+quella vita all'aria aperta e quella poesia in atto che tutti i poeti
+della terra hanno sognato invano; la vita per cui l'Iliade
+non è che un misero surrogato.
+
+Fin dalla sua astratta [[Childhood|infanzia]], [[Adam Wayne]] era cresciuto forte
+e silenzioso in una certa qualità o capacità che nelle città moderne
+è quasi interamente artificiale, ma che può essere naturale, ed era in lui
+primariamente, quasi brutalmente naturale: la qualità o capacità del patriottismo.
+Essa esiste, come le altre virtù e i vizi, in una certa realtà non diluita.
+Non si confonde con ogni sorta di altre cose.  Un [[Child|bambino]] che parli
+del proprio paese o del proprio villaggio può commettere ogni errore che è in Mandeville
+o dire ogni menzogna che è in Munchausen, ma nella sua affermazione non vi saranno
+menzogne psicologiche più di quante possano essercene in una bella [[Song|canzone]].
+[[Adam Wayne]], da ragazzo, nutriva per le sue squallide strade di Notting [[Hill]]
+il sentimento ultimo e antico che si rivolgeva ad Atene o a Gerusalemme.
+Conosceva il segreto della passione, quei [[Secrets|segreti]] che rendono
+i veri antichi [[songs|canti]] nazionali così strani alla nostra civiltà.
+Sapeva che il vero patriottismo tende a cantare le sventure e le speranze
+perdute assai più che la vittoria.  Sapeva che nei nomi propri
+stessi sta metà della poesia di tutti i [[Poems|poemi]] nazionali.
+Soprattutto, conosceva il supremo fatto psicologico del patriottismo,
+altrettanto certo, in rapporto ad esso, quanto il fatto che una bella vergogna coglie tutti gli [[lovers|innamorati]]:
+il fatto che il patriota non si vanta mai, in nessuna circostanza,
+della grandezza del proprio paese, ma sempre, e per necessità,
+si vanta della sua piccolezza.
+
+Tutto questo egli sapeva, non perché fosse un filosofo o un genio,
+ma perché era un [[Child|bambino]].  Chiunque abbia voglia di risalire un vicolo
+squallido come Pump Street, può vedere un piccolo Adam che pretende di essere [[King|re]]
+di un lastricato.  E sarà sempre più orgoglioso se la pietra
+è quasi troppo stretta perché egli vi tenga dentro i piedi.
+
+Fu mentre si trovava in [[A Dream|un sogno]] simile di battaglia difensiva, tracciando
+qualche striscia di strada o fortezza di gradini come limite della sua
+altera pretesa, che il [[King|Re]] lo aveva incontrato e, con poche parole lanciate
+per scherno, aveva ratificato per sempre gli strani confini della sua [[Soul|anima]].
+Da allora in poi la fantasiosa idea della difesa di Notting [[Hill]]
+in guerra divenne per lui una cosa solida come mangiare o bere
+o accendere una pipa.  Disponeva i suoi pasti in funzione di essa, mutava i suoi
+piani per essa, giaceva sveglio nella [[Night|notte]] e la ripercorreva.
+Due o tre negozi erano per lui un arsenale; uno spiazzo era per lui un fossato;
+angoli di balconi e svolte di gradini di pietra erano punti per la collocazione
+di una colubrina o di un arciere.  È quasi impossibile trasmettere
+a un'[[Imagination|immaginazione]] ordinaria il grado in cui aveva trasmutato
+il plumbeo paesaggio di [[London|Londra]] in un oro romantico.  Il processo cominciò
+quasi nella prima infanzia, e divenne abituale come una vera e propria [[Madness|follia]].
+Lo si avvertiva più acutamente di [[Night|notte]], quando [[London|Londra]] è davvero se stessa,
+quando le sue luci brillano nel buio come gli occhi di innumerevoli gatti,
+e il profilo delle case scure ha l'ardita semplicità di
+colline azzurre.  Ma per lui la [[Night|notte]] rivelava invece di nascondere,
+ed egli leggeva tutte le ore vuote del mattino e del pomeriggio,
+per una frase contraddittoria, alla luce di quel buio.
+A quest'uomo, in ogni caso, era accaduto l'inconcepibile.
+L'artificiale [[City|città]] era divenuta per lui [[Nature|natura]], ed egli sentiva
+i cordoli e i lampioni a gas come cose antiche quanto il cielo.
+
+Basti un esempio.  Camminando lungo Pump Street con un amico,
+disse, mentre fissava sognante l'inferriata di ferro di un piccolo [[Garden|giardino]] antistante:
+"Come fanno fremere il [[Blood|sangue]] queste ringhiere."
+
+Il suo amico, che era anch'egli un grande ammiratore intellettuale,
+le guardò con pena, ma senza alcuna particolare emozione.
+Ne fu tanto turbato che vi tornò un buon
+numero di volte in tranquille serate e fissò le ringhiere,
+aspettando che qualcosa accadesse al suo [[Blood|sangue]], ma senza [[success|successo]].
+Alla fine si rifugiò nel chiederlo a Wayne stesso.  Scoprì
+che l'estasi risiedeva nell'unico punto che non aveva mai notato riguardo alle
+ringhiere, nemmeno dopo le sue sei visite: il fatto che esse erano
+come la grande maggioranza delle altre a [[London|Londra]], foggiate in cima a
+forma di lancia.  Da [[Child|bambino]], Wayne le aveva mezzo inconsciamente
+paragonate alle lance nelle immagini di Lancillotto e di San Giorgio,
+ed era cresciuto sotto l'[[Shadow|ombra]] di quell'associazione figurativa.
+Ora, ogni volta che le guardava, erano semplicemente le armi serrate
+che formavano una siepe d'acciaio intorno alle sacre dimore di Notting [[Hill]].
+Non avrebbe potuto ripulire la sua mente di quel significato nemmeno se ci avesse provato.
+Non era un paragone fantasioso, né nulla di simile.
+Non sarebbe stato vero dire che le familiari ringhiere gli ricordavano
+le lance; sarebbe stato assai più vero dire che le familiari
+lance gli ricordavano di tanto in tanto le ringhiere.
+
+Un paio di giorni dopo il suo colloquio con il [[King|Re]], [[Adam Wayne]]
+passeggiava avanti e indietro come un [[Lion|leone]] in gabbia davanti a cinque negozi che occupavano
+l'estremità superiore della strada contesa.  Erano quelli di un [[grocer|droghiere]],
+di un farmacista, di un barbiere, di un negozio di anticaglie, e di un negozio di giocattoli
+che vendeva anche giornali.  Furono questi cinque negozi che la sua
+fanciullesca meticolosità aveva per prima scelto come gli elementi essenziali
+della campagna di Notting [[Hill]], la cittadella della [[City|città]].
+Se Notting [[Hill]] era il cuore dell'universo, e Pump Street
+era il cuore di Notting [[Hill]], questo era il cuore di Pump Street.
+Il fatto che fossero tutti piccoli e uno accanto all'altro realizzava quel sentimento
+di formidabile agio e compattezza che, come abbiamo detto,
+era il cuore del suo patriottismo e di ogni patriottismo.  Il [[grocer|droghiere]]
+(che aveva la licenza per vino e liquori) fu incluso perché poteva
+approvvigionare la guarnigione; il negozio di anticaglie perché conteneva
+abbastanza spade, pistole, partigiane, [[Cross|balestre]] e archibugi da armare
+un intero reggimento irregolare; il negozio di giocattoli e giornali perché Wayne
+riteneva una stampa libera un centro essenziale per l'[[Soul|anima]] di Pump Street;
+la farmacia per far fronte agli scoppi di malattia tra gli assediati;
+e il barbiere perché stava in mezzo a tutti gli altri,
+e il figlio del barbiere era un intimo amico e affinità spirituale.
+
+Era una serena sera d'ottobre senza nubi, che digradava dal porpora
+nell'argento puro intorno ai tetti e ai comignoli della ripida
+stradina, che appariva nera e netta e drammatica.
+Nelle ombre profonde le vetrine illuminate a gas brillavano come cinque fuochi
+in fila, e dinanzi ad esse, oscuramente stagliata come un [[Ghost|fantasma]] contro
+certe fornaci purgatoriali, andava avanti e indietro l'alta figura simile a un uccello
+e il naso d'aquila di [[Adam Wayne]].
+
+Faceva ruotare inquieto il bastone, e pareva parlare a se stesso a scatti.
+
+"Vi sono, dopo tutto, degli enigmi," disse, "anche per l'uomo che ha [[Faith|fede]].
+Vi sono dubbi che restano anche dopo che la vera [[philosophy|filosofia]]
+è compiuta in ogni piolo e in ogni chiodo.  Ed eccone uno.
+Il normale bisogno umano, la normale condizione umana, è più alta o
+più bassa di quelle particolari piene dell'[[Soul|anima]] che chiamano a raccolta una
+gloria dubbia e pericolosa? quei particolari poteri di conoscenza
+o di sacrificio resi possibili solo dall'esistenza del male?
+Che cosa dovrebbe venire prima nei nostri affetti, le durevoli assennatezze della pace
+o le virtù semifolli della battaglia?  Che cosa dovrebbe venire prima,
+l'uomo grande nella routine quotidiana o l'uomo grande nell'emergenza?
+Che cosa dovrebbe venire prima, per tornare all'enigma che mi sta dinanzi, il [[grocer|droghiere]]
+o il farmacista?  Chi è più sicuramente il sostegno della [[City|città]],
+lo svelto e cavalleresco farmacista o il benevolo droghiere che tutto provvede, il [[grocer|droghiere]]?
+In tali estremi dubbi spirituali è possibile scegliere
+una parte solo per mezzo degli istinti più alti e attenderne l'esito.  In ogni caso,
+ho fatto la mia scelta.  Che io sia perdonato se scelgo male,
+ma io scelgo il [[grocer|droghiere]]."
+
+"Buongiorno, signore," disse il [[grocer|droghiere]], che era un uomo di mezza età,
+parzialmente calvo, con ispidi favoriti e barba rossi, e la fronte
+solcata da tutte le preoccupazioni del piccolo commerciante.  "Che cosa posso
+fare per lei, signore?"
+
+Wayne si tolse il cappello entrando nel negozio, con un cerimonioso
+gesto che, per quanto lieve, indusse il commerciante a squadrarlo
+con i primi accenni di [[Wonder|stupore]].
+
+"Vengo, signore," disse sobriamente, "a fare appello al suo patriottismo."
+
+"Ebbene, signore," disse il [[grocer|droghiere]], "ciò suona come ai tempi in cui io
+ero ragazzo e si tenevano le elezioni."
+
+"Ne avrà di nuovo," disse Wayne, con fermezza, "e cose ben più grandi.
+Ascolti, signor Mead.  Conosco le tentazioni cui un [[grocer|droghiere]] è esposto verso una troppo
+cosmopolita [[philosophy|filosofia]].  Immagino che cosa debba essere sedere tutto
+il giorno, come fa lei, circondato da mercanzie provenienti da tutti i confini della terra,
+da mari strani che non abbiamo mai solcato e strane foreste
+che non potremmo nemmeno raffigurarci.  Nessun [[King|re]] d'Oriente ebbe mai simili
+flotte o simili carichi giungenti dall'alba e dal tramonto,
+e Salomone in tutta la sua gloria non era arricchito quanto uno di voi.
+L'India è al suo gomito," gridò, alzando la voce e puntando il suo
+bastone verso un cassetto di riso, mentre il [[grocer|droghiere]] faceva un gesto di qualche allarme,
+"la Cina è davanti a lei, il Demerara è dietro di lei, l'[[America]] è sopra
+il suo capo, e in questo preciso istante, come un vecchio ammiraglio spagnolo,
+lei tiene Tunisi nelle sue mani."
+
+Il signor Mead lasciò cadere la scatola di datteri che stava appunto sollevando,
+e poi la raccolse di nuovo vagamente.
+
+Wayne proseguì con colorito acceso, ma con voce più bassa:
+
+"Conosco, dico, le tentazioni di una visione della ricchezza così internazionale,
+così universale.  So che il suo pericolo dev'essere non di cadere
+come molti commercianti in una ristrettezza troppo polverosa e meccanica,
+ma piuttosto di essere troppo ampio, troppo generale, troppo liberale.
+Se un angusto nazionalismo è il pericolo del pasticciere che fa
+le proprie mercanzie sotto il proprio cielo, non minore è il cosmopolitismo
+il pericolo del [[grocer|droghiere]].  Ma io vengo a lei nel nome di quel
+patriottismo che nessun vagabondaggio o illuminismo dovrebbe mai
+spegnere del tutto, e le chiedo di ricordare Notting [[Hill]].
+Poiché, dopo tutto, in questa magnificenza cosmopolita, essa ha
+avuto una parte non piccola.  I suoi datteri possono venire dalle alte palme
+della Barberia, il suo zucchero dalle strane isole dei tropici,
+il suo tè dai villaggi segreti dell'Impero del Dragone.
+Perché questa stanza potesse essere ammobiliata, foreste possono essere state devastate
+sotto la [[Cross|Croce]] del Sud, e leviatani arpionati sotto la Stella Polare.
+Ma lei stesso... di certo un tesoro non trascurabile... lei stesso,
+il cervello che governa questi vasti interessi... lei stesso,
+almeno, è cresciuto in forza e saggezza tra queste grigie
+case e sotto questo cielo piovoso.  Questa [[City|città]] che l'ha fatta,
+e così ha fatto le sue fortune, è minacciata dalla guerra.
+Venga avanti e narri fino ai confini della terra questa lezione.
+L'olio viene dal Nord e i frutti dal Sud; il riso viene
+dall'India e le spezie da Ceylon; le pecore vengono dalla Nuova Zelanda e gli uomini
+da Notting [[Hill]]."
+
+Il [[grocer|droghiere]] rimase seduto per un breve momento, con gli occhi spenti e la bocca aperta,
+somigliando piuttosto a un pesce.  Poi si grattò la nuca,
+e non disse nulla.  Poi disse:
+
+"Qualcosa dal negozio, signore?"
+
+Wayne si guardò intorno con aria stordita.  Vedendo una pila di scatole di
+pezzi d'ananas, agitò il bastone genericamente verso di esse.
+
+"Sì," disse, "prenderò quelle."
+
+"Tutte quelle, signore?" disse il [[grocer|droghiere]], con interesse assai accresciuto.
+
+"Sì, sì; tutte quelle," rispose Wayne, ancora un po' frastornato,
+come un uomo spruzzato d'[[Water|acqua]] fredda.
+
+"Benissimo, signore; grazie, signore," disse il [[grocer|droghiere]] con animazione.
+"Può contare sul mio patriottismo, signore."
+
+"Ci conto già," disse Wayne, e uscì nella
+[[Night|notte]] che si addensava.
+
+Il [[grocer|droghiere]] rimise a posto la scatola di datteri.
+
+"Che bravo tipo," disse.  "È strano quanto spesso siano bravi.
+Molto più bravi di quelli che sono a posto."
+
+Intanto [[Adam Wayne]] stava fuori dalla farmacia luminosa,
+inequivocabilmente esitante.
+
+"Che debolezza è mai questa," mormorò.  "Non me ne sono mai
+liberato fin dall'[[Childhood|infanzia]].  La [[Fear|paura]] di questa bottega [[Magic|magica]].
+Il [[grocer|droghiere]] è ricco, è romantico, è poetico nel senso più vero,
+ma non è... no, non è [[Supernatural|soprannaturale]].  Ma il farmacista!
+Tutti gli altri negozi stanno a Notting [[Hill]], ma questo sta
+nel Paese degli Elfi.  Guardate quelle grandi coppe ardenti di colore.
+Dev'essere da esse che Dio dipinge i tramonti.  È sovrumano,
+e il sovrumano è tanto più [[Uncanny|inquietante]] quando è benefico.
+Questa è la radice del [[Fear|timore]] di Dio.  Ho paura.  Ma devo
+essere un uomo ed entrare."
+
+Era un uomo, ed entrò.  Un giovane basso e bruno stava dietro
+il banco con gli occhiali, e lo salutò con un sorriso luminoso ma
+del tutto professionale.
+
+"Bella serata, signore," disse.
+
+"Bella, davvero, strano Padre," disse Adam, protendendo un poco
+le mani in avanti.  "È in notti così limpide e dolci che la vostra
+bottega è più se stessa.  Allora appaiono più perfette quelle lune
+di verde e d'oro e di cremisi che, di lontano, spesso guidano il [[Pilgrim|pellegrino]]
+del [[Pain|dolore]] e della malattia a questa [[house|casa]] di misericordiosa stregoneria."
+
+"Posso darle qualcosa?" chiese il farmacista.
+
+"Vediamo," disse Wayne, in modo amichevole ma vago.
+"Mi dia un po' di sale volatile."
+
+"Otto pence, dieci pence, o uno e sei la bottiglia?"
+disse il giovane cordialmente.
+
+"Uno e sei... uno e sei," rispose Wayne, con una selvaggia arrendevolezza.
+"Vengo a farle, signor Bowles, una domanda terribile."
+
+Fece una pausa e si ricompose.
+
+"È necessario," mormorò "è necessario essere pieni di tatto,
+e adattare l'appello a ciascuna professione a sua volta."
+
+"Vengo," riprese ad alta voce, "a farle una domanda che va alle radici
+delle sue miracolose fatiche.  Signor Bowles, dovrà cessare tutta questa stregoneria?"
+E agitò il bastone attorno alla bottega.
+
+Non ricevendo risposta, continuò con animazione:
+
+"A Notting [[Hill]] abbiamo sentito fino al midollo il mistero elfico
+della sua professione.  E ora Notting [[Hill]] stessa è minacciata."
+
+"Altro, signore?" chiese il farmacista.
+
+"Oh," disse Wayne, alquanto turbato, "oh, che cosa vendono i farmacisti?
+Chinino, credo.  Grazie.  Dovrà essere distrutta?
+Ho incontrato questi uomini di Bayswater e di North Kensington... signor Bowles,
+sono materialisti.  Non vedono alcuna stregoneria nel suo lavoro,
+nemmeno quando essa è portata entro i loro stessi confini.  Ritengono
+che il farmacista sia una cosa ordinaria.  Lo ritengono umano."
+
+Il farmacista parve indugiare, solo un istante, per incassare l'insulto,
+e subito disse:
+
+"E il prossimo articolo, prego?"
+
+"Allume," disse il Prevosto, follemente.  "Riprendo.  È in questa sacra città
+[[Alone|soltanto]] che il vostro sacerdozio è riverito.  Perciò, quando combattete
+per noi non combattete solo per voi stessi, ma per tutto ciò che voi simboleggiate.
+Non combattete solo per Notting [[Hill]], ma per il Paese delle Fate, poiché tanto sicuramente
+quanto Buck e Barker e simili uomini avranno il dominio, il senso del Paese delle Fate
+in qualche strano modo diminuisce."
+
+"Altro, signore?" chiese il signor Bowles, con imperturbabile allegria.
+
+"Oh sì, giuggiole... polvere di Gregory... magnesia. Il pericolo è imminente.
+In tutta questa faccenda ho sentito di combattere non solo per la mia [[City|città]]
+(benché a essa io debba tutto il mio [[Blood|sangue]]), ma per tutti i luoghi in cui
+queste grandi idee potrebbero prevalere.  Combatto non solo per
+Notting [[Hill]], ma per Bayswater stessa; per la stessa North Kensington.
+Poiché se i cercatori d'oro prevarranno, anche questi perderanno tutti i loro
+antichi sentimenti e tutto il mistero della loro [[Soul|anima]] nazionale.
+So di poter contare su di lei."
+
+"Oh sì, signore," disse il farmacista, con grande animazione, "siamo sempre
+lieti di accontentare un buon cliente."
+
+[[Adam Wayne]] uscì dalla bottega con un profondo senso di appagamento dell'[[Soul|anima]].
+
+"È così fortunato," disse, "avere tatto, poter far leva
+sui talenti e le specialità peculiari, sul cosmopolitismo
+del [[grocer|droghiere]] e sull'antichissima negromanzia del farmacista.
+Dove sarei senza il tatto?"

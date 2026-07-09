@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_76_privacy">‹ Story 76 Privacy</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_78_the_vision_of_vulgarity_i">Story 78 The Vision Of Vulgarity I ›</a></div>
@@ -73,3 +75,72 @@ not of things, but of their vast shadows thrown upon a wall.
 And to make them so vast, the light must be held very low down.
 
                                       G. K.'s Weekly, September 17th, 1927
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_76_privacy">‹ Story 76 Privacy</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_78_the_vision_of_vulgarity_i">Story 78 The Vision Of Vulgarity I ›</a></div>
+</nav>
+
+NORTHCLIFFE
+
+È perfettamente evidente che Alfred Harmsworth non ebbe mai alcuna idea,
+proprio nessuna. Deve aver avuto intelligenza in senso commerciale;
+e qualcosa di assai più prezioso negli affari, quella sorta di calore
+e di fretta naturali che sanno lavorare troppo in fretta per pensare al perché stiano lavorando.
+Non era privo di buone qualità; forse sarebbe più esatto
+dire che non era privo di buoni momenti, poiché non aveva
+concezioni abbastanza care da perpetuarle a spese
+di quelle cattive. Pagava davvero il suo proletariato meglio di molti;
+faceva davvero cose bonarie oltre che cose bisbetiche.
+Inoltre aveva tutto contro di sé, in senso intellettuale e
+morale. Nacque da rispettabile gente del ceto medio,
+nelle piccole classi professionali protestanti di Dublino.
+Ricevette in successione tutte le suggestioni politiche generali
+del suo tempo. Fu elettrizzato da Jameson e da Joe Chamberlain;
+a quanto pare credette fino al momento stesso della Grande Guerra
+che esistesse un luogo chiamato Ulster. In altre parole, aveva nel
+migliore dei casi tutte le associazioni e i pregiudizi sani e nebulosi
+che tutti i suoi dieci milioni di lettori avevano tanto quanto lui;
+ed era per natura ignaro dell'idea stessa di un'idea.
+Ma mentre Alfred Harmsworth era esattamente come Albert Huggins o qualunque
+altro uomo che viaggiasse sullo stesso treno o metrò, gli capitarono
+a sua rovina due cose che non erano normali per gli altri.
+Divenne enormemente ricco, cosa che sempre taglia fuori un uomo dalla realtà.
+E trattava, non nei suoi elementi nativi come il maiale o la benzina,
+ma in politica e opinione pubblica. Comprò un pulpito da cui
+si sarebbero potute impartire idee, quando non aveva idee da impartire.
+...
+
+Un ottimo esempio di tutto questo si trova
+nella faccenda di Lord Kitchener. ... La verità è che
+Harmsworth non ebbe mai nulla a che fare con Kitchener.
+Ebbe a che fare con una sorta di leggendario prepotente che andava
+ammirato solo per la prepotenza, e poi con un altrettanto leggendario
+richiamato in servizio da congedare perché non aveva fretta di fare il prepotente.
+Fu una gran trovata proclamare che un uomo forte era pronto a
+salvare l'Inghilterra; una gran trovata proclamare che l'Inghilterra era tradita.
+La vera storia della penuria di proiettili era qualcosa di totalmente diverso;
+ma quella storia non avrebbe mai fatto una trovata. È tipico
+di lui che, non appena ebbe smesso di acclamare il puro nome
+di Kitchener, e poi ebbe smesso di fischiare il puro nome di Kitchener,
+ricominciò ad acclamare il puro nome di Lloyd George.
+Nessuna persona reale comparve mai nella sua galleria di ritratti.
+Ma l'ottusa megalomania di questa specie è sempre vagamente colpita
+da una stupida spavalderia altrui. L'ottusità chiama l'ottusità
+attraverso il mondo moderno, come l'abisso chiama l'abisso.
+
+Fu forse questo spirito d'illusione, delle cose indirette piuttosto
+che dirette, a produrre nella sua mente la tragedia
+del divorzio finale dalla realtà. Nessuno negherà che una simile
+tragedia dovrebbe insegnarci a considerarlo come un essere umano;
+ma la simpatia è frustrata dal considerarlo come un eroe.
+Fu colpa della sua epoca più che sua se egli visse
+tra le ombre, combattendo in una pantomima d'ombre. La pubblicità consiste,
+non delle cose, ma delle loro ombre immense proiettate su una parete.
+E per renderle così immense, la luce va tenuta molto in basso.
+
+                                      G. K.'s Weekly, 17 settembre 1927

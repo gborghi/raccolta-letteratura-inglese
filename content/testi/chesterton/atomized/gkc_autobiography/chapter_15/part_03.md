@@ -127,105 +127,104 @@ and Lithuanians are at peace--even when they are at war.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_15/part_04">part 04 ›</a></div>
 </nav>
 
-Provai lo stesso quando andai a tenere conferenze a Madrid; e incontrai
-quell'inglese timido e cortese che avrebbe potuto tenere una conferenza
-agli Spagnoli sulle loro stesse arie e [[songs|canzoni]] spagnole. Non
-sentivo che gli Spagnoli fossero, in un senso arduo, diversi dagli inglesi;
-ma solo che uno stupido [[Puritanism|Puritanesimo]] aveva proibito agli
-inglesi di mostrare le cordiali e sane emozioni che agli Spagnoli è
-consentito mostrare. L'emozione più manifesta, così come mi colpì, era
-l'[[Pride|orgoglio]] dei padri per i loro bambini. Ho visto un bambino
-correre per tutta la lunghezza dei viali alberati delle grandi strade, per
-gettarsi tra le braccia di un operaio cencioso, che lo strinse con un'estasi
-più che materna. Si potrà naturalmente dire che ciò è poco inglese; il che
-pare una considerazione poco generosa sugli inglesi. Preferisco dire che
-l'operaio spagnolo, con ogni probabilità, non era stato in una public
-school inglese. Ma in verità sono pochissimi gli inglesi cui non
-piacerebbe che accadesse. Il [[Puritanism|Puritanesimo]] è solo una
-paralisi; che s'irrigidisce in Stoicismo quando perde la religione. Quella
-sorta di calore e di noncuranza fu la mia impressione della Spagna. Oh sì,
-vidi l'Escorial. Sì, grazie, visitai Toledo; è splendida, ma la ricordo
-soprattutto per una peasant ancor più splendida, una contadina che versava
-vino a galloni e parlava per tutto il [[Time|tempo]].
+Provai lo stesso quando andai a tenere conferenze a Madrid; e incontrai quel timido
+e cortese Inglese che avrebbe potuto tenere conferenze agli Spagnoli
+sulle loro stesse arie e [[songs|canzoni]] spagnole. Non sentii che gli Spagnoli
+fossero diversi dagli Inglesi in un senso difficile;
+ma solo che uno stupido [[Puritanism|Puritanesimo]] aveva proibito agli Inglesi di mostrare
+le calde e sane emozioni che agli Spagnoli è concesso mostrare.
+L'emozione più manifesta, così come mi colpì, era l'[[Pride|orgoglio]]
+dei padri per i loro bambini. Ho visto un bambino correre
+per l'intera lunghezza dei viali alberati nelle grandi strade,
+per gettarsi tra le braccia di un operaio cencioso, che lo strinse
+con più che materna estasi. Si può certo dire che questo
+è poco inglese; il che pare un'ingenerosa riflessione sugli Inglesi.
+Preferisco dire che l'operaio spagnolo, con ogni probabilità, non era
+stato in una public school inglese. Ma davvero ci sono pochissimi
+Inglesi a cui non piacerebbe che accadesse. Il [[Puritanism|Puritanesimo]] è solo
+una paralisi; che s'irrigidisce in Stoicismo quando perde la religione.
+Quel genere di calore e di noncuranza fu la mia impressione della Spagna.
+Oh sì, vidi l'Escorial. Sì, grazie, visitai Toledo;
+è gloriosa, ma la ricordo soprattutto per una contadina ancor più gloriosa
+che versava vino a galloni e parlava tutto il [[Time|tempo]].
 
-Ho recentemente rivisitato la Spagna, se i Catalani mi permetteranno di
-chiamarla Spagna (opinioni a parte, simpatizzo sinceramente con simili
-punti delicati), poiché la rivisitai d'impeto in un'automobile che non
-poteva far altro che caricare giù per la costa orientale fino a Tarragona.
-Se dico che caricai, il moto è metaforico; la forza motrice era un motore
-guidato dalla signorina Dorothy Collins, che faceva da segretaria,
-corriere, autista, guida, filosofa e soprattutto amica, senza la quale io e
-mia moglie saremmo spesso rimasti senza amici e bisognosi di
-[[philosophy|filosofia]]. Poiché dopo aver attraversato la Francia e aver
-valicato i Pirenei come Carlomagno e le Alpi come Napoleone (o come
-Annibale accompagnato da un elefante) ella mi ricondusse di nuovo a
-Firenze, per tenervi una conferenza, e poi tornò attraverso la Svizzera fino
-a Calais, dove ebbe inizio la grande campagna.
+Ho di recente rivisitato la Spagna, se i Catalani mi permetteranno di chiamarla
+Spagna (opinioni a parte, sono sinceramente solidale con simili
+punti sensibili), poiché la rivisitai con un impeto in un'auto
+che poteva solo caricare giù per la costa orientale fino a Tarragona.
+Se dico che caricai, il moto è metaforico; la forza
+motrice era un motore guidato dalla signorina Dorothy Collins che fungeva
+da segretaria, corriere, autista, guida, filosofa e soprattutto
+amica, senza la quale mia moglie e io saremmo stati spesso senza
+amici e in bisogno di [[philosophy|filosofia]]. Poiché dopo aver attraversato la Francia e
+scavalcato i Pirenei come Carlomagno e le Alpi come Napoleone
+(o come Annibale accompagnato da un elefante) ella mi riportò di nuovo
+a Firenze, a tenere qualche conferenza, e poi tornò attraverso
+la Svizzera a Calais, dove ebbe inizio la grande campagna.
 
-Nel corso di essa, ebbi due curiose esperienze in due caffè stranieri. Uno
-era fuori Barcellona, dove il proprietario era un autentico gangster
-americano, che aveva addirittura scritto un libro di confessioni sulle sue
-stesse rapine e sui suoi racket organizzati. Modesto, come tutti i grandi
-uomini, riguardo all'abilità che aveva dimostrato nel fare grandi affari
-con lo scasso e la rapina di strada, era assai orgoglioso del suo
-esperimento letterario, e specialmente del suo libro; ma, come certi altri
-letterati, era scontento dei suoi editori. Disse di essersi precipitato
-attraverso l'oceano appena in [[Time|tempo]] per scoprire che gli avevano
-rubato quasi tutti i diritti d'autore. «È stata una vergogna», dissi con
-partecipazione, «ma è stata semplicemente una rapina». «E come no», disse
-con un indignato pugno sul tavolo. «È stata pura e semplice rapina».
+Nel suo corso, ebbi due curiose esperienze in due caffè
+stranieri. Uno era fuori Barcellona, dove il proprietario era un autentico
+gangster americano, che aveva effettivamente scritto un libro di confessioni sulle
+sue rapine e i suoi racket organizzati. Modesto, come tutti i grandi uomini,
+riguardo all'abilità dimostrata nel far grandi affari con lo scasso
+e la rapina a mano armata, era assai orgoglioso del suo esperimento letterario,
+e specialmente del suo libro; ma, come certi altri letterati,
+era insoddisfatto dei suoi editori. Disse di essere accorso
+appena in [[Time|tempo]] per scoprire che gli avevano rubato quasi tutti i diritti d'autore.
+«Fu una vergogna», dissi con simpatia, «diamine, fu semplice furto».
+«Puoi dirlo forte», disse con un indignato colpo sul tavolo.
+«Fu semplice e schietto furto».
 
-L'altro giorno era senza data, persino per la mia vita senza date; poiché
-avevo dimenticato il [[Time|tempo]] e non avevo la minima nozione di nulla,
-in nessun luogo, quando in una piccola città francese entrai a passeggio in
-un caffè rumoroso di chiacchiere francesi. [[songs|canzoni]] radiofoniche
-gemevano inascoltate; il che non stupisce, perché la conversazione francese
-è molto meglio della radio. E poi, inspiegabilmente, udii una voce parlare
-in inglese; e una voce che avevo udito prima. Poiché udii le parole:
-«... ovunque voi siate, mio caro popolo, sia in questo paese sia oltre il
-mare», e mi ricordai della Monarchia e di un antico grido; poiché era il
-[[King|Re]]; ed è così che celebrai il Giubileo.
+L'altro giorno era senza data, persino per la mia vita senza date; poiché avevo
+dimenticato il [[Time|tempo]] e non avevo nozione di nulla in nessun luogo, quando in una
+piccola cittadina francese entrai per caso in un caffè rumoroso di chiacchiere francesi.
+[[songs|Canzoni]] radiofoniche gemevano inascoltate; il che non sorprende, poiché la chiacchiera
+francese è molto meglio della radio. E poi, inspiegabilmente, udii
+una voce parlare in inglese; e una voce che avevo già udito prima.
+Poiché udii le parole: «... ovunque voi siate, popolo mio caro,
+sia in questo paese sia oltre il mare», e ricordai
+la Monarchia e un antico grido; poiché era il [[King|Re]]; ed è così che io
+festeggiai il Giubileo.
 
-Tornando attraverso la Francia, mi ricordai di nuovo dell'[[Riddle|enigma]],
-che avevo trovato tanto vicini quei paesi lontani; ma che le due nazioni
-più vicine sono quelle che non capiamo mai: l'Irlanda e la Francia.
-Sull'Irlanda ho già scritto molto; e non ho nulla da dire perché non ho
-nulla da disdire. Ho scritto dell'Irlanda nell'ora della sua
-[[Tragedy|tragedia]], dopo la rossa [[Dawn|alba]] della Rivolta di Pasqua e
-la minaccia da [[nightmare|incubo]] della coscrizione; e di nuovo nell'ora
-del suo trionfo, quando il Congresso Eucaristico fiammeggiò davanti a
-milioni nel Phoenix Park; e tutte le spade e le trombe salutarono ciò che
-era davvero una Fenice. Ma c'è ancora una nazione, non dissimile da lei in
-quella [[Tragedy|tragedia]] e in quel trionfo, con una nota sulla quale
-concluderò. Un giorno forse tenterò uno studio più ampio. Qui in questo
-capitolo ricordo solo una o due cose; non quelle che potrei rammentare, ma
-quelle che non posso dimenticare.
+Tornando attraverso la Francia, ricordai di nuovo l'[[Riddle|enigma]], che avevo
+trovato quei paesi lontani così vicini; ma che le due nazioni
+che sono più vicine sono quelle che non comprendiamo mai; l'Irlanda e la Francia.
+Sull'Irlanda ho già scritto molto; e non ho nulla da dire
+perché non ho nulla da disdire. Ho scritto sull'Irlanda
+nell'ora della sua [[Tragedy|tragedia]], dopo la rossa [[Dawn|alba]] della Rivolta di Pasqua
+e la minaccia da [[nightmare|incubo]] della coscrizione; e di nuovo nell'ora
+del suo trionfo, quando il Congresso Eucaristico avvampò dinanzi a milioni
+nel Phoenix Park; e tutte le spade e le trombe salutarono
+ciò che era davvero una Fenice. Ma c'è ancora una nazione, non dissimile
+da lei in quella [[Tragedy|tragedia]] e in quel trionfo, con una nota su cui concluderò.
+Un giorno forse potrò tentare uno studio più completo. Qui in questo capitolo
+richiamo solo una o due cose; non quelle che potrei ricordare,
+ma quelle che non posso dimenticare.
 
 Quando visitai la Polonia, fui onorato da un invito del
-[[government|Governo]]; ma tutta l'ospitalità che ricevetti era fin troppo
-viva per rammentarmi alcunché di ufficiale. C'è a Varsavia una sorta di
-taverna sotterranea, dove gli uomini bevono Tokaj, che guarirebbe qualsiasi
-funzionario dal funzionarismo; e là cantarono le [[songs|canzoni]] di
-marcia dei Polacchi. Cracovia è ora ancor più la [[City|città]] nazionale
-proprio perché non è la capitale; e i suoi [[Secrets|segreti]] sono meglio
-esplorati da uomini come il Professor Roman Dyboski che da chiunque sia
-impigliato nell'arte di governo. Ma vidi qualcosa di quella difficile arte
-politica — abbastanza da sapere che non si dicono altro che sciocchezze nei
-giornali che discutono di ciò che chiamano il Corridoio Polacco. La
-generalizzazione più equa è questa: gli eventi recenti sarebbero meglio
-compresi, se tutti vedessero il fatto [[Self|di per sé]] evidente che i
-Polacchi hanno sempre da scegliere tra due mali. Incontrai il grande
-Pilsudski; e quel grandioso e piuttosto arcigno vecchio soldato di ventura
-mi disse in pratica che, dei due, preferiva la [[Germany|Germania]] alla
-[[Russia]]. È altrettanto chiaro che il suo rivale Dmowski, che pure ci
-intrattenne deliziosamente nel suo rifugio di campagna, aveva deciso che,
-dei due, preferiva la [[Russia]] alla [[Germany|Germania]]. Avevo già
-incontrato questo interessante uomo; poiché il dottor Sarolea me lo condusse
-a [[house|casa]]; dove il belga, con la sua maniera birichina, aveva
-punzecchiato il polacco per il suo antisemitismo, dicendo in tono
-persuasivo: «Dopotutto, la vostra religione è venuta dagli Ebrei». Al che il
-polacco rispose: «La mia religione è venuta da Gesù [[Christ|Cristo]], che
-fu assassinato dagli Ebrei». Pilsudski provava anche molta simpatia per la
-Lituania; benché Lituani e Polacchi in quel [[Time|tempo]] fossero in lite.
-Era entusiasta di Wilno; e in seguito trovai alla frontiera un luogo storico
-dove Polacchi e Lituani sono in pace — persino quando sono in guerra.
+[[government|Governo]]; ma tutta l'ospitalità che ricevetti era troppo
+viva per rammentarmi qualcosa di ufficiale. C'è una sorta di taverna
+sotterranea a Varsavia, dove gli uomini bevono Tokay, che guarirebbe ogni funzionario
+dal funzionarismo; e là cantarono le [[songs|canzoni]] di marcia dei Polacchi.
+Cracovia è ora ancor più la [[City|città]] nazionale proprio perché non è
+la capitale; e i suoi [[Secrets|segreti]] sono meglio esplorati da uomini come
+il Professor Roman Dyboski che da chiunque sia impigliato nell'Arte di Stato.
+Ma vidi qualcosa di quella difficile arte di governo--abbastanza da sapere che
+non si dicono che sciocchezze nei giornali che discutono
+ciò che chiamano il Corridoio Polacco. La più equa generalizzazione è questa:
+gli eventi recenti sarebbero meglio compresi, se ognuno vedesse
+il fatto [[Self|auto]]-evidente che i Polacchi hanno sempre una scelta tra mali.
+Incontrai il grande Pilsudski; e quel grande e piuttosto arcigno vecchio soldato
+di ventura mi disse praticamente che, dei due, egli preferiva
+la [[Germany|Germania]] alla [[Russia]]. È altrettanto chiaro che il suo rivale Dmowski,
+che pure ci intrattenne deliziosamente nel suo rifugio campestre,
+aveva deciso che, dei due, egli preferiva la [[Russia]] alla [[Germany|Germania]].
+Avevo incontrato questo interessante uomo in precedenza; poiché il dottor Sarolea lo portò
+a casa [[house|mia]]; dove il Belga, nel suo modo dispettoso, aveva schernito
+il Polacco per il suo Antisemitismo, dicendo persuasivamente: «Dopotutto,
+la vostra religione venne dagli Ebrei». Al che il Polacco rispose:
+«La mia religione venne da Gesù [[Christ|Cristo]], che fu ucciso dagli Ebrei».
+Pilsudski era anche assai solidale con la Lituania; benché Lituani
+e Polacchi bisticciassero all'[[Time|epoca]]. Era entusiasta di Wilno;
+e in seguito trovai alla frontiera un sito storico dove Polacchi
+e Lituani sono in pace--persino quando sono in guerra.

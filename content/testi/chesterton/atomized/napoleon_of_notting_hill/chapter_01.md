@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">Chapter 02 ›</a></div>
@@ -184,3 +186,183 @@ conceal the painful [[Truth|truth]].  The people had cheated the prophets
 of the twentieth century.  When the curtain goes up on this story,
 eighty years after the present date, [[London]] is almost exactly
 like what it is now.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02">Chapter 02 ›</a></div>
+</nav>
+
+CAPITOLO I
+
+OSSERVAZIONI INTRODUTTIVE SULL'ARTE DELLA PROFEZIA
+
+Il genere umano, al quale appartengono tanti dei miei lettori, gioca
+a giochi da bambini fin dal principio, e probabilmente continuerà a farlo
+sino alla fine, con gran disturbo delle poche persone che diventano adulte.
+E uno dei giochi a cui è più affezionato si chiama
+"Tieni al buio il domani", ed è anche detto (dai contadini
+dello Shropshire, non ho [[Doubt|dubbio]]) "Inganna il [[Prophet|Profeta]]." I giocatori
+ascoltano con grande attenzione e rispetto tutto ciò che gli uomini
+astuti hanno da dire su ciò che accadrà nella prossima generazione.
+I giocatori poi aspettano che tutti gli uomini astuti siano morti, e li seppelliscono
+per bene. Poi vanno a fare qualcos'altro. È tutto.
+Per una razza dai gusti semplici, tuttavia, è un gran divertimento.
+
+Poiché gli esseri umani, essendo bambini, hanno la fanciullesca caparbietà
+e la fanciullesca segretezza. E non hanno mai, dal principio
+del mondo, fatto ciò che i saggi hanno visto essere inevitabile.
+Lapidarono i falsi profeti, si dice; ma avrebbero potuto
+lapidare i veri profeti con un godimento maggiore e più giusto.
+Individualmente, gli uomini possono presentare un aspetto più o meno razionale,
+mangiando, dormendo e tramando. Ma l'umanità nel suo insieme è mutevole,
+mistica, volubile, deliziosa. Gli uomini sono uomini, ma l'Uomo è una donna.
+
+Ma all'inizio del ventesimo secolo il gioco di Inganna
+il [[Prophet|Profeta]] fu reso assai più difficile di quanto fosse mai stato prima.
+La ragione era che c'erano tanti profeti e tante profezie,
+che era difficile eludere tutte le loro ingegnosità.
+Quando un uomo faceva qualcosa di libero e frenetico e interamente proprio,
+un pensiero orribile lo colpiva dopo: poteva essere stato predetto.
+Ogni volta che un duca si arrampicava su un lampione, quando un decano si ubriacava,
+non poteva essere davvero felice, non poteva essere certo di
+non star adempiendo qualche profezia. All'inizio del
+ventesimo secolo non si vedeva il terreno per la folla di uomini astuti.
+Erano così comuni che un uomo stupido era del tutto eccezionale,
+e quando ne trovavano uno, lo seguivano in massa per la strada
+e lo custodivano come un tesoro e gli davano qualche alta carica nello Stato.
+E tutti questi uomini astuti erano all'opera a fare resoconti di ciò che sarebbe accaduto
+nell'età successiva, tutti chiarissimi, tutti acutissimi e spietati,
+e tutti diversissimi. E sembrava che il buon vecchio gioco
+di ingannare i propri antenati non potesse davvero riuscire questa [[Time|volta]],
+perché gli antenati trascuravano cibo e [[Sleep|sonno]] e politica pratica,
+così da poter meditare giorno e [[Night|notte]] su ciò che i loro discendenti
+avrebbero probabilmente fatto.
+
+Ma il modo in cui i profeti del ventesimo secolo si mettevano all'opera era questo.
+Prendevano una cosa o l'altra che certamente stava accadendo ai loro [[Time|tempi]],
+e poi dicevano che sarebbe andata avanti sempre più finché qualcosa
+di straordinario non fosse accaduto. E molto spesso aggiungevano che in qualche luogo
+strambo quella cosa straordinaria era accaduta, e che mostrava
+i segni dei tempi.
+
+Così, per esempio, c'erano il signor H. G. Wells e altri,
+che pensavano che la scienza avrebbe preso in mano il futuro;
+e proprio come l'automobile era più veloce della diligenza, così qualche cosa
+graziosa sarebbe stata più veloce dell'automobile; e così via all'infinito.
+E dalle loro ceneri sorse il dottor Quilp, il quale disse che un uomo
+poteva essere spedito sulla sua [[Machine|macchina]] così velocemente intorno al mondo da poter
+sostenere una lunga chiacchierata in qualche villaggio d'altri tempi
+dicendo una parola di una frase ogni [[Time|volta]] che tornava a passare.
+E si disse che l'esperimento era stato tentato su un vecchio maggiore
+apoplettico, spedito intorno al mondo così velocemente che sembrava esserci
+(agli abitanti di qualche altra stella) una fascia continua intorno
+alla terra di favoriti bianchi, carnagione rossa e tweed... una cosa
+simile all'anello di [[Saturn|Saturno]].
+
+Poi c'era la scuola opposta. C'era il signor Edward Carpenter,
+il quale pensava che in brevissimo [[Time|tempo]] saremmo tornati alla [[Nature|Natura]],
+e avremmo vissuto semplicemente e lentamente come fanno gli [[Animals|animali]]. Ed Edward Carpenter
+fu seguito da James Pickie, D.D. (del Pocahontas College),
+il quale disse che gli uomini erano immensamente migliorati dal pascolare, ossia dal prendere
+il cibo lentamente e di continuo, alla maniera delle mucche.
+E disse di aver, con i risultati più incoraggianti,
+mandato uomini di [[City|città]] carponi in un campo cosparso di cotolette di vitello.
+Poi [[tolstoy|Tolstoj]] e gli Umanitari dissero che il mondo stava diventando
+più misericordioso, e che perciò nessuno avrebbe più [[Desire|desiderato]] uccidere.
+E il signor Mick non solo divenne [[vegetarian|vegetariano]], ma alla fine dichiarò
+il vegetarianismo condannato ("versando", come lo definì con eleganza, "il verde
+[[Blood|sangue]] dei silenziosi [[Animals|animali]]"), e predisse che gli uomini di un'età migliore
+avrebbero vissuto di nient'altro che sale. E poi arrivò l'opuscolo dall'Oregon
+(dove la cosa fu tentata), l'opuscolo intitolato "Perché dovrebbe soffrire il Sale?"
+e ci furono altri guai.
+
+E d'altra parte, alcuni predicevano che
+le linee di parentela sarebbero diventate più strette e più dure.
+C'era il signor Cecil Rhodes, il quale pensava che l'unica cosa del
+futuro fosse l'Impero Britannico, e che vi sarebbe stato un abisso
+tra quelli che erano dell'Impero e quelli che non lo erano,
+tra il cinese di Hong-Kong e il cinese fuori,
+tra lo spagnolo sulla Rocca di Gibilterra e lo spagnolo
+fuori di essa, simile all'abisso tra l'uomo e gli [[Animals|animali]] inferiori.
+E allo stesso modo il suo impetuoso amico, il dottor Zoppi ("il Paolo
+dell'anglosassonismo"), la portò ancora più in là, e sostenne che,
+in conseguenza di questa veduta, il cannibalismo dovesse intendersi come il mangiare
+un membro dell'Impero, non il mangiare uno dei popoli soggetti,
+i quali dovrebbero, disse, essere uccisi senza inutile [[Pain|dolore]].
+Il suo orrore all'idea di mangiare un uomo nella Guiana Britannica mostrava quanto
+fraintendessero il suo stoicismo coloro che lo credevano privo di sentimento.
+Egli era, tuttavia, in una posizione difficile; poiché si diceva che avesse
+tentato l'esperimento, e, vivendo a [[London|Londra]], avesse dovuto sostentarsi
+interamente con suonatori d'organetto italiani. E la sua fine fu terribile,
+poiché proprio quando aveva cominciato, Sir Paul Swiller lesse il suo grande saggio
+alla Royal Society, dimostrando che i selvaggi non solo avevano perfettamente
+ragione a mangiare i loro nemici, ma avevano ragione su basi morali e igieniche,
+poiché era vero che le qualità del nemico, una volta mangiate,
+passavano in chi lo mangiava. L'idea che la [[Nature|natura]] di un
+suonatore d'organetto italiano crescesse e germogliasse irrevocabilmente dentro di lui era
+quasi più di quanto il buon vecchio professore potesse sopportare.
+
+C'era il signor Benjamin Kidd, il quale disse che la nota crescente
+della nostra razza sarebbe stata la cura per il futuro e la conoscenza di esso.
+La sua idea fu sviluppata più potentemente da William Borker,
+il quale scrisse quel passo che ogni scolaretto sa a memoria,
+sugli uomini delle età future che piangono presso le tombe dei loro discendenti,
+e sui turisti a cui viene mostrata la scena della storica battaglia
+che doveva aver luogo alcuni secoli dopo.
+
+E anche il signor Stead fu di rilievo, il quale pensava che l'Inghilterra sarebbe stata
+nel ventesimo secolo unita all'[[America]]; e il suo giovane luogotenente,
+Graham Podge, il quale includeva gli stati di Francia, [[Germany|Germania]] e [[Russia]]
+nell'[[Union|Unione]] americana, con lo Stato di [[Russia]] abbreviato in Ra.
+
+C'era anche il signor Sidney Webb, il quale disse che il futuro avrebbe visto
+un ordine e una nitidezza in continuo aumento nella vita del popolo,
+e il suo povero amico Fipps, che impazzì e corse per la campagna
+con un'ascia, mozzando i rami dagli alberi ogni volta che non ve n'erano
+lo stesso numero su entrambi i lati.
+
+Tutti questi uomini astuti profetizzavano con ogni varietà di ingegno
+ciò che sarebbe presto accaduto, e lo facevano tutti allo stesso modo,
+prendendo qualcosa che vedevano "andare forte", come si suol dire,
+e portandolo tanto lontano quanto la loro [[Imagination|immaginazione]] poteva stendersi.
+Questo, dicevano, era il vero e semplice modo di anticipare il futuro.
+"Proprio come," disse il dottor Pellkins, in un bel passo, "...proprio come quando
+vediamo in una nidiata un maialino più grande degli altri maialini, sappiamo che per
+un'inalterabile legge dell'Imperscrutabile un giorno sarà più grande
+di un elefante, proprio come sappiamo, quando vediamo erbacce e denti di leone
+crescere sempre più fitti in un [[Garden|giardino]], che devono, a dispetto
+di tutti i nostri sforzi, crescere più alti dei comignoli e [[Swallow|inghiottire]]
+la [[house|casa]] sottraendola alla vista, così sappiamo e riverentemente riconosciamo,
+che quando un potere qualsiasi nella politica umana ha mostrato per un periodo
+di [[Time|tempo]] qualsiasi un'attività considerevole, esso andrà avanti finché non raggiungerà
+il cielo."
+
+E certamente pareva che i profeti avessero messo il popolo
+(impegnato nel vecchio gioco di Inganna il [[Prophet|Profeta]]) in una difficoltà
+del tutto senza precedenti. Sembrava davvero arduo fare qualcosa
+senza adempiere qualcuna delle loro profezie.
+
+Ma c'era, nondimeno, negli occhi dei manovali nelle strade,
+dei contadini nei campi, dei marinai e dei bambini, e specialmente delle donne,
+uno strano sguardo che teneva i saggi in una perfetta febbre di [[Doubt|dubbio]].
+Non riuscivano a scandagliare l'immobile ilarità nei loro occhi.
+Avevano ancora qualcosa nella manica; stavano ancora giocando
+al gioco di Inganna il [[Prophet|Profeta]].
+
+Allora i saggi divennero come cose selvagge, e oscillavano di qua
+e di là, gridando: "Cosa può essere? Cosa può essere?
+Come sarà [[London|Londra]] fra un secolo? C'è qualcosa a cui non
+abbiamo pensato? Case a testa in giù... più igieniche, forse?
+Uomini che camminano sulle mani... rendono i piedi flessibili, non è vero?
+[[Moon|Luna]]... automobili... senza teste..." E così oscillavano e si stupivano
+finché non morirono e furono seppelliti per bene.
+
+Allora il popolo andò e fece ciò che gli piaceva. Non lasciate che io celi più a lungo
+la penosa [[Truth|verità]]. Il popolo aveva ingannato i profeti
+del ventesimo secolo. Quando il sipario si alza su questa storia,
+ottant'anni dopo la data presente, [[London|Londra]] è quasi esattamente
+com'è ora.

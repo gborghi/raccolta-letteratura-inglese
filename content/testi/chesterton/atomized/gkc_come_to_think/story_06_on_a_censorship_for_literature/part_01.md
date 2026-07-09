@@ -128,14 +128,105 @@ of nearly all the tentative repressions and remonstrances of our time.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_43_on_the_king">‹ Story 43 ON THE KING</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_06_on_a_censorship_for_literature/part_02">part 02 ›</a></div>
 </nav>
 
-V. Di una censura per la letteratura
+V. Su una Censura per la Letteratura
 
-La ricorrente discussione intorno a una censura per la letteratura o per le arti è un ottimo esempio dell'estrema difficoltà, di questi tempi, di discutere di alcunché. Nessuno pare sapere da dove cominciare. Nessuno pare capace di distinguere una cosa da un'altra. Per fare un esempio, e per toccare un punto secondario, un conto è credere in *una* censura, tutt'altro conto è credere ne *La* Censura. Se dovessi far censurare i miei libri, preferirei di gran lunga che li censurasse l'[[Spanish Inquisition|Inquisizione spagnola]] anziché il [[Home|Ministero degli Interni]] britannico. L'[[Spanish Inquisition|Inquisizione spagnola]] non era un'istituzione che io ammiri in modo particolare, eppure agiva secondo alcuni princìpi intelligenti; io so quali erano quei princìpi e ne condivido moltissimi. Quanto ai princìpi di Sir William Joynson-Hicks, la mia difficoltà è triplice. Non solo non li condivido, ma non so quali siano. Non solo non so quali siano, ma sono certo che nemmeno lui sappia quali siano.
+LA ricorrente discussione su una Censura per la Letteratura o
+le Arti è un buon esempio dell'estrema difficoltà, in questi giorni,
+di discutere qualsiasi cosa. Nessuno pare sapere da dove cominciare.
+Nessuno pare capace di distinguere una cosa dall'altra.
+Per esempio, per prendere un punto minore, una cosa è credere
+in Un Censore e tutt'altra cosa credere ne Il Censore.
+Se dovessi far censurare i miei libri, preferirei di gran lunga che fossero
+censurati dall'[[Spanish Inquisition|Inquisizione Spagnola]] piuttosto che dal britannico Ministero dell'[[Home|Interno]].
+L'[[Spanish Inquisition|Inquisizione Spagnola]] non era un'istituzione che io ammiri particolarmente,
+ma agiva pur su alcuni principii intelligenti; io so quali fossero i principii
+e sono d'accordo con moltissimi di essi. Quanto ai principii
+di Sir William Joynson-Hicks, la mia difficoltà è triplice.
+Non solo non sono d'accordo con essi, ma non so quali siano.
+Non solo non so quali siano, ma sono sicuro che nemmeno lui
+sappia quali siano.
 
-Per cominciare, ammesso che la censura si occupi soltanto del decoro sessuale (il che è ben lungi dall'essere generalmente il caso), vi sono almeno tre cose del tutto distinte che oggi si discutono comunemente sotto quella voce. In primo luogo, vi è la predicazione o la propaganda di una qualche teoria sul sesso ritenuta antisociale o anarchica. In secondo luogo, vi è un certo genere di scrittura descrittiva atta a eccitare appetiti che possono essere antisociali o anarchici. In terzo luogo, vi è l'uso di certi termini, spesso semplicemente fuori moda, per cose che una convenzione più recente vela in qualche altro modo. Posso capire chi non voglia veder censurata nessuna di queste cose. Posso capire chi voglia veder censurate tutte queste cose. Posso capire chi voglia vederne censurate alcune e non altre. Ma, comunque sia, esse non hanno nulla a che vedere l'una con l'altra. Non è necessario che due qualsiasi di esse si trovino insieme nella stessa frase o nello stesso libro. Un uomo potrebbe predicare l'anarchia sessuale in un linguaggio freddo come quello di un trattato di astronomia, e all'incirca seducente quanto una pagina di Bradshaw. Un uomo potrebbe descrivere cose sensuali con uno spregiudicato appello ai sensi, senza predicare alcuna teoria e senza usare alcuna parola grossolana. Infine, un uomo potrebbe usare tutte le parole grossolane di Rabelais e rendere il tema più ripugnante che attraente. Potrebbe usare tutte le parole grossolane della [[Bible|Bibbia]] ed essere morale quanto la [[Bible|Bibbia]], o persino puritano quanto il più arcigno esegeta della [[Bible|Bibbia]].
+Per cominciare, supponendo che la Censura si occupi solo del
+decoro sessuale (il che generalmente è ben lungi dall'essere il caso),
+ci sono almeno tre cose totalmente distinte che ora vengono
+generalmente discusse sotto quella voce. Primo, c'è il predicare
+o propagare qualche teoria sul sesso ritenuta anti-sociale
+o anarchica. Secondo, c'è un certo tipo di scrittura descrittiva
+atta a eccitare appetiti che possono essere anti-sociali o anarchici.
+Terzo, c'è l'uso di certi termini, spesso semplicemente all'antica,
+per cose che una convenzione più tarda copre in qualche altro modo.
+Posso capire un uomo che non vuole censurata nessuna di queste cose.
+Posso capirlo se le vuole tutte censurate.
+Posso capirlo se ne vuole alcune censurate e altre no.
+Ma, comunque, esse non hanno nulla a che fare l'una con l'altra. Nessuna due di esse
+ha bisogno di trovarsi insieme nella stessa frase o nello stesso libro.
+Un uomo potrebbe predicare l'anarchia sessuale in un linguaggio freddo come quello di un
+trattato astronomico, e seducente all'incirca quanto una pagina del Bradshaw.
+Un uomo potrebbe descrivere cose sensuali con uno spregiudicato appello
+ai sensi, senza predicare alcuna teoria e senza usare
+alcuna parola volgare. Infine, un uomo potrebbe usare tutte le parole volgari
+di Rabelais e rendere il tema più repellente che attraente.
+Potrebbe usare tutte le parole volgari della [[Bible|Bibbia]] ed essere in ogni singola parte
+morale quanto la [[Bible|Bibbia]], o persino Puritano quanto il più arcigno espositore
+della [[Bible|Bibbia]].
 
-Verrebbe da pensare che la primissima cosa che chiunque discuta la questione dovrebbe cogliere sia la distinzione tra questi tre criteri. Eppure, se leggiamo una colonna di giornale, o una pagina di un libro popolare, che pretenda di affrontare il problema, li troviamo generalmente tutti confusi insieme, tanto se lo scrittore denuncia la mescolanza quanto se la difende. La [[Truth|verità]] è che in questa materia le idee morali della maggior parte della gente sono ormai già confuse. Per prendere la prima categoria, e per reprimere la falsa dottrina, dobbiamo avere una definizione della vera dottrina. E ben poche persone sanno oggi con esattezza quale dottrina sia vera, anche se sentono che moltissime di quelle correnti sono false. Quanto alla seconda, è pur sempre una dottrina morale quella che dichiara errati i meri appelli ai meri appetiti. È una dottrina morale che la maggior parte delle persone perbene sente vagamente, ma ormai un po' troppo vagamente per applicarla con vigile fermezza. Ma, di queste prime due categorie, mi sia concesso aggiungere che esse implicano enfaticamente una [[Truth|verità]] immortale e immutabile. Il fatto che un'[[Time|epoca]] caotica e mal educata non sappia afferrare con chiarezza quella [[Truth|verità]] non muta il fatto che essa sarà sempre la [[Truth|verità]].
+Si penserebbe che la primissima cosa che chiunque discuta
+la questione dovrebbe comprendere sarebbe la distinzione tra
+questi tre criteri. Ma, se leggiamo una colonna in un giornale,
+o una pagina in un libro popolare, che dichiara di trattare il problema,
+generalmente li troviamo tutti mescolati insieme, sia che lo scrittore
+denunci la mescolanza o difenda la mescolanza. La [[Truth|verità]] è
+che in questa materia le idee morali della maggior parte della gente sono ormai già mescolate.
+Per prendere la prima sezione, allo scopo di sopprimere la falsa dottrina,
+dobbiamo avere una definizione di dottrina vera. E pochissima gente
+ora sa esattamente quale dottrina sia vera, anche se sente che moltissime
+di quelle correnti sono false. Quanto alla seconda, è, dopotutto,
+una dottrina morale quella che dichiara che i meri appelli ai meri appetiti
+sono sbagliati. È una dottrina morale che la maggior parte della gente per bene sente vagamente,
+ma ora un po' troppo vagamente per essere applicata con vigilanza.
+Ma, di queste prime due divisioni, mi sia permesso aggiungere che
+esse coinvolgono enfaticamente una [[Truth|verità]] immortale e inalterabile.
+Il fatto che un [[Time|tempo]] caotico e mal educato non possa afferrare chiaramente
+quella [[Truth|verità]] non altera il fatto che essa sarà sempre la [[Truth|verità]].
 
-Esiste una giusta relazione tra i sessi; esiste una giusta regola al riguardo; ed esiste un errato appello volto a incoraggiare una relazione errata. Ma della terza cosa non è così. Vale la pena osservare che questa terza categoria, quella del mero uso delle parole, è l'unica riguardo alla quale il discorso moderno è vero. Di essa è vero dire che è soltanto questione di convenzione, di costume, di epoche diverse della [[history|storia]], di stadi diversi del progresso. Non era così sconveniente per Shakespeare usare una certa parola in un teatro come sarebbe stato sconveniente per Dickens usarla in un salotto. Ma sarebbe stato altrettanto sbagliato per Shakespeare trascurare la propria moglie quanto per Dickens trascurare la propria. Non sto qui sollevando la delicata controversia se l'uno o l'altro di questi autori abbia effettivamente trascurato la moglie. Il punto è che, se lo fecero, sbagliarono; e scommetterei che sapevano di sbagliare, poiché erano uomini cristiani e tradizionali. L'idea che, poiché il linguaggio può cambiare, allora anche la vita e l'[[Love|amore]] possano cambiare, è uno dei tanti pasticci di una mente perfettamente impasticciata. Tanto [[Well|varrebbe]] dire che, poiché Shakespeare portava i calzoni a sbuffo e Dickens dei brutti pantaloni, sia del tutto naturale che il prossimo grande autore inglese debba avere tre gambe.
+C'è una giusta relazione dei sessi; c'è una giusta regola
+al riguardo; e c'è un appello sbagliato calcolato per incoraggiare
+una relazione sbagliata. Ma della terza cosa non è così.
+Vale la pena osservare che questa terza sezione, del mero uso delle parole,
+è l'unica di cui la moderna chiacchiera sia vera. Di questa è
+vero dire che è solo una questione di convenzione, di costume,
+di diversi periodi di [[history|storia]], di diversi stadi di progresso.
+Non era volgare in Shakespeare usare una certa parola in un teatro
+quanto lo sarebbe stato in Dickens usarla in un salotto.
+Ma sarebbe stato altrettanto sbagliato per Shakespeare trascurare la propria moglie
+quanto per Dickens trascurare la propria moglie. Non sto qui sollevando la delicata
+controversia sul se l'uno o l'altro di questi autori abbia davvero trascurato la propria moglie.
+Il punto è che se lo fecero avevano torto; e scommetto che
+sapevano di avere torto; poiché erano uomini cristiani tradizionali.
+L'idea che, poiché il linguaggio può cambiare, perciò la vita e l'[[Love|amore]]
+possano cambiare, è uno dei molti garbugli di una mente completamente ingarbugliata.
+Potremmo altrettanto [[Well|bene]] dire che poiché Shakespeare aveva le brache a sbuffo e Dickens
+brutti pantaloni, sia naturale che il prossimo grande autore inglese
+debba avere tre gambe.
 
-Finché il mondo moderno si trastulla con l'assurda idea che tutto cambi con la moda, è inutile che tenti di controllare i mutamenti di una cosa tanto capricciosa quanto la narrativa. La gente inseguirà l'attimo che sta appena passando; ma non sarà perseguitata per l'attimo che è appena passato. Puoi mandare un uomo in [[Prison|prigione]] per cinque anni per aver scritto un libro sciocco, se puoi dirgli: «Se tu restassi in prigione cinquecento anni, sarebbe pur sempre un libro sciocco». Ma non puoi dire a un uomo: «Se tu avessi aspettato quindici anni, questo genere di libro sarebbe forse stato di moda; ma, così com'è, ti mando in [[Prison|prigione]] nel frattempo per essere in anticipo sulla tua epoca». Quel genere di persecuzione non avrà mai alcun effetto, poiché unisce l'ingiustizia all'indifferenza. È a un tempo una condanna immeritata e un complimento immeritato. Ai fanatici del passato si rimprovera talvolta di aver fatto i [[Tyrant|tiranni]] pur appellandosi a una [[Truth|verità]] eterna. Ma è ben più intollerabile fare il [[Tyrant|tiranno]] senza appellarsi ad alcuna [[Truth|verità]] eterna. È intollerabile più di ogni altra cosa fare il [[Tyrant|tiranno]] appellandosi soltanto a una moda temporanea. Non ci si può aspettare che qualcuno sopporti l'inquisitore che dice: «Ti brucio vivo per quel che hai detto oggi, e per quel che probabilmente penserò domani». E questo è il tono di quasi tutte le tentennanti repressioni e rimostranze del nostro tempo.
+Finché il mondo moderno gioca con la preposterosa idea
+che tutto cambi con la moda, è inutile che esso
+tenti di controllare i cambiamenti in qualcosa di così fantasioso come la narrativa.
+La gente inseguirà il momento che sta appena passando; ma non
+sarà perseguitata per il momento che è appena passato.
+Puoi mandare un uomo in [[Prison|prigione]] per cinque anni per aver scritto un libro sciocco,
+se puoi dirgli: «Se fossi in prigione per cinquecento anni,
+sarebbe ancora un libro sciocco». Ma non puoi dire a un uomo:
+«Se avessi aspettato quindici anni, questo genere di libro sarebbe potuto
+essere di moda; ma, così com'è, ti mando in [[Prison|prigione]] nel frattempo
+per essere in anticipo sulla tua età». Quel genere di persecuzione non
+avrà mai alcun effetto; poiché combina l'ingiustizia con l'indifferenza.
+È a un tempo una condanna immeritata e un complimento immeritato.
+I fanatici del passato sono talvolta biasimati perché facevano
+i [[Tyrant|tiranni]] pur appellandosi a una [[Truth|verità]] eterna. Ma è assai più
+intollerabile fare il [[Tyrant|tiranno]] senza appellarsi a una [[Truth|verità]] eterna.
+È più intollerabile di tutto fare il [[Tyrant|tiranno]] appellandosi solo
+a una fiction temporanea. Nessuno può pretendere che si sopporti l'Inquisitore
+che dice: «Ti sto bruciando vivo per ciò che hai detto oggi,
+e ciò che probabilmente penserò domani». Ed è questo il tono
+di quasi tutte le tentative repressioni e rimostranze del nostro tempo.

@@ -140,17 +140,117 @@ must now try to describe.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_06/part_04">part 04 ›</a></div>
 </nav>
 
-  Trovami eguale a questa meraviglia, tranne dove stanno gli esteti,
-  Un sobborgo rosso-[[Rose|rosa]] vecchio la metà di Carr.
+  Eguagliami questa meraviglia, salvo là dove sono gli esteti,
+  Un sobborgo [[Rose|rosso-rosa]] vecchio la metà di Carr.
 
-Ma benché io creda che tutti noi sentissimo, sia pure inconsciamente, qualcosa di sognante e teatrale nella cosa, che era in parte [[A Dream|un sogno]] e in parte uno scherzo, non era una mera impostura. Le persone intelligenti sanno insinuarsi perfino in una intellighenzia; e persone importanti vivevano là quietamente piuttosto che importantemente. Il professor Yorke Powell, l'illustre storico, ostentava là la sua lunga barba leonina e le sue sopracciglia minacciose e ingannevoli; e il dottor Todhunter, l'eminente studioso di cose celtiche, rappresentava la colonia irlandese nelle battaglie della cultura. E, sotto lo stesso rispetto, se era un luogo di ombre difficilmente lo si sarebbe potuto chiamare un luogo di finzioni, quando conteneva uno che è forse ancora il più grande poeta che scriva nella nostra lingua. Vi è sempre qualcosa di fantasioso nella congiunzione tra il mondo che il poeta vede e il luogo in cui vive; la fantasia che i grandi leoni dorati di Blake ruggissero e vagassero in un piccolo [[Court|cortile]] presso lo Strand, o che Camberwell possa essere stata abitata dallo spettro di Sordello, accovacciato come un [[Lion|leone]] ed esprimentesi piuttosto come una sfinge. E mi diverte pensare che sotto quegli alberi da giocattolo e quei frontoni da paccottiglia già passava un corteo di dèi strani e i copricapi di sacerdoti dimenticati e le corna di sacri unicorni e il rugoso [[Sleep|sonno]] della vegetazione druidica, e tutti gli emblemi di una nuova araldica dell'[[Imagination|immaginazione]] umana.
+Ma benché credo che tutti sentissimo, se pur subconsciamente, qualcosa di sognantemente
+teatrale nella cosa, che era in parte [[A Dream|un sogno]] e in parte
+uno scherzo, non era una mera frode. Le persone intelligenti si insinuano
+perfino in un'intellighenzia; e persone importanti vivevano
+là tranquillamente piuttosto che in modo importante. Il Professor Yorke Powell,
+il distinto storico, sfoggiava là la sua lunga barba leonina
+e le sue sopracciglia minacciose e fuorvianti; e il Dott. Todhunter, l'eminente
+studioso celtico, rappresentava la colonia irlandese nelle battaglie della cultura.
+E nella stessa connessione, se era un luogo di ombre non poteva
+a stento essere chiamato un luogo di finzioni, quando conteneva uno
+che è ancora forse il più grande poeta che scriva nella nostra lingua.
+C'è sempre qualcosa di fantasioso nella congiunzione del mondo
+che il poeta vede e del luogo in cui vive; la fantasia che i
+grandi leoni d'oro di Blake ruggissero e vagassero in una piccola [[Court|Corte]] al riparo
+dello Strand, o che Camberwell possa essere stata infestata da Sordello,
+accovacciato come un [[Lion|Leone]] ed esprimentesi piuttosto come una sfinge.
+E mi diverte pensare che sotto quegli alberi giocattolo e quei frontoni pacchiani
+stava già passando un corteo di strani dèi e
+dei copricapi di preti dimenticati e delle corna di sacri unicorni
+e del rugoso [[Sleep|Sonno]] della vegetazione druidica, e di tutti gli emblemi
+di una nuova araldica dell'[[Imagination|Immaginazione]] umana.
 
-William Butler Yeats potrà sembrare solitario come un'aquila; ma aveva un nido. Ovunque vi sia l'Irlanda vi è la Famiglia; e conta moltissimo. Se il lettore esige una prova, si chieda perché vi sia ancora l'abitudine di chiamare questo grande e spesso arcigno genio «Willie Yeats». Nessuno, per quel che mi consta, parla di «Jackie Masefield», o di «Alfie Noyes», o (ciò che potrebbe essere frainteso dagli spensierati) di «Ruddy Kipling». Ma nel caso di Yeats, tale familiarità potrebbe sembrare singolarmente incongrua coi suoi gusti e il suo temperamento; e analoga al parlare del grande Gulliver come di «Johnny Swift». Il suo tono e il suo temperamento, nell'espressione pubblica non meno che [[Well|bene]] in quella privata, sono di una schizzinosità che è l'esatto contrario di tale familiarità.
+William Butler Yeats poteva sembrare solitario come un'aquila; ma aveva
+un nido. Dovunque c'è l'Irlanda c'è la Famiglia; e conta
+molto. Se il lettore richiede una prova, che si chieda perché
+c'è ancora l'abitudine di chiamare questo grande e spesso arcigno genio
+«Willie Yeats». Nessuno, per quanto ne so, parla di «Jackie Masefield»,
+o «Alfie Noyes», o (ciò che potrebbe essere frainteso dai frivoli)
+«Ruddy Kipling». Ma nel caso di Yeats, tale familiarità
+potrebbe sembrare singolarmente incongrua coi suoi gusti e col suo temperamento;
+e analoga al parlare del grande Gulliver come «Johnny Swift».
+Il suo tono e temperamento, nell'espressione pubblica oltre [[Well|che]] privata,
+è di una schizzinosità proprio l'opposto di tale familiarità.
 
-  Non v'è [[Fool|sciocco]] che possa chiamarsi mio amico
-  E io potrò bere al termine del [[Journey|viaggio]]
+  Non c'è [[Fool|sciocco]] che possa chiamarmi amico
+  E potrò bere alla fine del [[Journey|Viaggio]]
   Con Landor e con Donne.
 
-Lo cito soltanto come punto di descrizione impersonale, senza pronunciarmi sul problema; ci vuole di tutto per fare un mondo. Oso dire che vi sono parecchi sciocchi che possono chiamarmi amico e anche (pensiero più mortificante) parecchi amici che possono chiamarmi [[Fool|sciocco]]. Ma in Yeats quella schizzinosità non è soltanto sincera bensì essenzialmente nobile, essendo colma di una bella collera contro la vittoria delle cose più vili su quelle migliori, che lo induceva a definire le terribili parole sulla grande [[Grave|tomba]] nella [[Cathedral|Cattedrale]] di San Patrizio «il più nobile epitaffio della [[history|storia]]». La ragione per cui, nonostante tutto questo, la più vasta assemblea e il più vasto assortimento possibile di sciocchi sta probabilmente in questo momento chiamando il povero Yeats «Willie», almeno alle sue spalle, va cercata nel curioso marchio corporativo lasciato sempre dalla famiglia irlandese nel suo insieme. L'intensità e l'[[Individualism|individualismo]] del genio stesso non poterono mai cancellare dalle memorie del mondo l'impressione generale di Willie e Lily e Lolly e Jack; nomi lanciati avanti e indietro in una singolare sorta di [[Comedy|commedia]] fatta di arguzia, pettegolezzi, [[Satire|satira]], liti familiari e [[Pride|orgoglio]] familiare irlandesi. In quei giorni conoscevo la famiglia più o meno nel suo insieme; e per lungo tempo dopo conobbi e ammirai quelle sorelle del poeta che mantenevano nell'industria Cuala una scuola di decorazione e di drappeggio non indegna dei grandi versi sulle stoffe ricamate dei cieli. W. B. è forse il miglior conversatore che io abbia mai incontrato, eccetto il suo vecchio padre che, ahimè, non parlerà più in questa taverna terrena, benché io [[Hope|speri]] che stia ancora parlando in Paradiso. Fra venti altre qualità, egli aveva quella rara ma assai reale cosa, uno stile del tutto spontaneo. Le parole non vengono giù a fiotti, non più di quanto vengano giù a fiotti i mattoni che compongono un grande edificio; sono semplicemente disposte come un [[Lightning|lampo]]; come se un uomo potesse costruire una [[Cathedral|cattedrale]] tanto rapidamente quanto un prestigiatore costruisce un [[house|castello]] di carte. Una frase lunga ed elaboratamente bilanciata, con proposizioni dipendenti alternative o antitetiche, sgorgava da simili conversatori con ogni parola al suo posto, con la stessa immediatezza e innocenza con cui la maggior parte della gente direbbe che è una bella giornata o che sui giornali c'è una faccenda buffa. Ricordo ancora il vecchio Yeats, quel grazioso barbagrigia, dire in tono noncurante a proposito della Guerra sudafricana: «Mr. Joseph Chamberlain ha il carattere, come ne ha il volto, della donna bisbetica che rovina il marito con la propria stravaganza; e Lord Salisbury ha il carattere, come ne ha il volto, dell'uomo che ne è così rovinato». Quello stile, o rapida costruzione di una frase complicata, era il segno di una lucidità ormai in gran parte perduta. La ritroverete nelle esplosioni più spontanee del dottor Johnson. Da allora è sorta una qualche confusa nozione che parlare in quello stile compiuto sia artificioso; solo perché l'uomo sa ciò che intende e intende dirlo. Non so da quale mondo insensato venne dapprima la nozione; che vi sia una qualche connessione tra l'essere sincero e l'essere semi-articolato. Ma pare essere una nozione secondo cui un uomo debba intendere ciò che dice, perché s'inceppa perfino nel tentare di dirlo; o che egli debba essere un prodigio di forza e di decisione, perché scopre a metà di una frase di non sapere ciò che stava per dire. Di qui la conversazione della [[Comedy|commedia]] corrente; e la patetica convinzione che il parlare possa essere senza fine, purché a nessuna affermazione sia concesso di giungere a una fine.
+Lo menziono meramente come un punto di descrizione impersonale,
+senza pronunciarmi sul problema; ci vuole di tutto per fare un mondo.
+Oserei dire che c'è parecchia gente sciocca che può chiamarmi amico
+e anche (un pensiero più mortificante) parecchi amici che possono
+chiamarmi [[Fool|sciocco]]. Ma in Yeats quella schizzinosità non è solo
+sincera ma essenzialmente nobile, essendo piena di una fine collera contro
+la vittoria delle cose più basse su quelle migliori, che lo induce a chiamare
+le terribili parole sulla grande [[Grave|Tomba]] nella [[Cathedral|Cattedrale]] di St. Patrick,
+«il più nobile epitaffio della [[history|storia]].» La ragione per cui, malgrado tutto questo,
+la più larga possibile assemblea e assortimento di sciocchi sta probabilmente
+in questo momento chiamando il povero Yeats «Willie», quanto meno dietro
+le sue spalle, è da trovarsi nella curiosa impronta corporativa sempre lasciata
+dalla famiglia irlandese nel suo insieme. L'intensità e l'[[Individualism|Individualismo]]
+del genio stesso non poterono mai lavar via dalle memorie del mondo
+l'impressione generale di Willie e Lily e Lolly e Jack;
+nomi lanciati avanti e indietro in una unica sorta di [[Comedy|Commedia]]
+di arguzia irlandese, pettegolezzo, [[Satire|Satira]], liti familiari e [[Pride|orgoglio]] familiare.
+Conoscevo la famiglia più o meno nel suo insieme in quei giorni;
+e per molto tempo dopo conobbi e ammirai quelle sorelle del poeta
+che mantenevano nell'industria di Cuala una scuola di decorazione
+e drappeggio non indegna dei grandi versi sui «drappi
+ricamati dei cieli». W. B. è forse il miglior conversatore che io abbia mai incontrato,
+tranne il suo vecchio padre che ahimè non parlerà più in questa
+taverna terrena, benché io [[Hope|speri]] che stia ancora parlando in Paradiso.
+Tra venti altre qualità, aveva quella rara ma assai reale cosa,
+lo stile interamente spontaneo. Le parole non vengono giù a fiotti,
+non più di quanto i mattoni che fanno un grande edificio vengano giù a fiotti;
+sono semplicemente disposte come un [[Lightning|Fulmine]]; come se un uomo potesse costruire
+una [[Cathedral|Cattedrale]] rapidamente come un prestigiatore costruisce una [[house|casa]] di carte.
+Una lunga ed elaboratamente bilanciata frase, con proposizioni dipendenti
+alternative o antitetiche, fluiva da tali conversatori con ogni
+parola che cadeva al suo posto, tanto immediatamente e innocentemente quanto la maggior parte
+della gente direbbe che è una bella giornata o una faccenda buffa sui giornali.
+Ricordo ancora il vecchio Yeats, quel grazioso barbagrigia, dire in
+modo noncurante a proposito della Guerra Sudafricana: «Il signor Joseph Chamberlain
+ha il carattere, come ha il volto, della donna bisbetica
+che rovina il marito con la sua stravaganza; e Lord Salisbury ha
+il carattere, come ha il volto, dell'uomo che è così rovinato.»
+Quello stile, o rapida costruzione di una frase complicata,
+era il segno di una lucidità ora in gran parte perduta. La troverete nelle
+più spontanee esplosioni del Dott. Johnson. Da allora è sorta una qualche confusa
+nozione che parlare in quello stile completo sia artificiale;
+meramente perché l'uomo sa ciò che intende e intende dirlo.
+Non so da quale mondo di nonsenso venne per la prima volta la nozione; che ci sia
+qualche connessione tra l'essere sincero e l'essere semi-articolato.
+Ma pare essere una nozione secondo cui un uomo deve intendere ciò che dice,
+perché crolla perfino nel tentare di dirlo; o che egli debba
+essere un prodigio di potenza e decisione, perché scopre a metà
+di una frase di non sapere ciò che stava per dire.
+Di qui la conversazione della [[Comedy|Commedia]] corrente; e la patetica credenza
+che il parlare possa essere senza fine, purché a nessuna affermazione sia permesso di giungere
+a una fine.
 
-Yeats mi influenzò fortemente, ma in due modi opposti; come i poli positivo e negativo di una calamita. È necessario spiegare ciò che intendo, non tanto per amore delle mie stesse nozioni brancolanti di quel [[Time|tempo]], quanto per amore di spiegare la peculiarità del periodo; riguardo al quale la maggior parte dei critici sembra al [[Time|tempo]] presente completamente in errore. Vi era molto nelle idee vittoriane che detesto e molto che rispetto; ma non v'era nulla di nulla nelle idee vittoriane che corrispondesse a ciò che ora si chiama vittoriano. Sono realmente abbastanza vecchio da ricordare l'Età Vittoriana; ed essa era quasi un completo contrasto con tutto ciò che ora quella parola connota. Aveva tutti i vizi che ora si chiamano virtù; il [[Doubt|dubbio]] religioso, l'inquietudine intellettuale, una fame di credulità verso le cose nuove, una completa mancanza di equilibrio. Aveva pure tutte le virtù che ora si chiamano vizi; un ricco senso del [[Romance|romanzesco]], un appassionato [[Desire|desiderio]] di rendere l'[[Love|amore]] tra uomo e donna ancora una volta ciò che era in Eden, un forte senso dell'assoluta necessità di un qualche significato nella vita umana. Ma tutto ciò che tutti mi dicono ora sull'atmosfera vittoriana lo avverto all'istante come falso, come una nebbia, che si limita a precludere una veduta. E in nulla ciò è più vero che nella particolare [[Truth|verità]] che devo ora tentare di descrivere.
+Yeats mi influenzò fortemente, ma in due modi opposti; come i poli positivo
+e negativo di una calamita. È necessario spiegare che cosa intendo,
+non tanto per amor delle mie stesse brancolanti nozioni in quel [[Time|periodo]],
+quanto per amor di spiegare la peculiarità del periodo;
+sul quale la maggior parte dei critici pare essere completamente in errore al presente [[Time|tempo]].
+C'era molto nelle idee vittoriane che detesto e molto che rispetto;
+ma non c'era proprio nulla nelle idee vittoriane corrispondente
+a ciò che ora si chiama vittoriano. Sono davvero abbastanza vecchio da
+ricordare l'Età Vittoriana; ed era quasi un completo contrasto
+con tutto ciò che è ora connotato da quella parola. Aveva tutti i vizi
+che ora si chiamano virtù; il [[Doubt|Dubbio]] religioso, l'irrequietezza intellettuale,
+un'affamata credulità per le cose nuove, una completa mancanza di equilibrio.
+Aveva anche tutte le virtù che ora si chiamano vizi; un ricco senso
+del [[Romance|Romanzo]], un appassionato [[Desire|Desiderio]] di rendere l'[[Love|Amore]] di uomo e donna
+di nuovo ciò che era in Eden, un forte senso dell'assoluta
+necessità di un qualche significato nella vita umana. Ma tutto
+ciò che tutti mi dicono ora sull'atmosfera vittoriana sento
+all'istante essere falso, come una nebbia, che meramente sbarra una veduta.
+E in nulla è più vero che nella particolare [[Truth|Verità]] che
+devo ora tentare di descrivere.

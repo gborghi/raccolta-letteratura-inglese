@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_89_the_club">‹ Story 89 The Club</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_91_orange_peel_and_the_fall">Story 91 Orange Peel And The Fall ›</a></div>
@@ -87,3 +89,86 @@ them out in the least.  Nay, you may work them in.
 The less beastly you grow, the more bad you may grow.
 
                                             Daily News, February 3rd, 1906
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_89_the_club">‹ Story 89 The Club</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_91_orange_peel_and_the_fall">Story 91 Orange Peel And The Fall ›</a></div>
+</nav>
+
+LA COSA GRANDE E LA COSA PICCOLA
+
+La sanità mentale non consiste nel vedere le cose; i pazzi vedono
+le cose più chiaramente delle altre persone.  La sanità mentale consiste
+nel vedere grandi le cose grandi e piccole le cose piccole.
+Un uomo può avere questo senso della proporzione anche se sbaglia.
+... Ecco un caso.  La società umana è la cosa grande e certa;
+l'evoluzione preumana è la cosa piccola e fantasiosa.
+Parlare del posto dell'«umanità» nell'evoluzione è essere sciocchi
+e rovesciare tutto.  Non sappiamo che vi sia stata alcuna evoluzione
+nel senso in cui sappiamo che c'è l'umanità.
+Certi uomini sostengono di essere figli delle scimmie; altri di essere
+figli di Adamo o dell'Ira o di Mumbo-Jumbo.
+
+Questi sono credi.  Ma tutti gli uomini sanno di essere uomini;
+tutti gli uomini sanno di appartenere a una società umana positiva,
+con regole di giustizia e di [[Mercy|misericordia]], e che non possono
+neppure concepirsi appartenenti a qualcos'altro.
+Apparteniamo a un circolo così antico che nessuno sa nulla
+della sua origine.  Sappiamo soltanto che in questo circolo [[Alone|soltanto]] possiamo
+consumare i nostri pasti; in questo circolo [[Alone|soltanto]] possiamo incontrare i nostri amici;
+in questo circolo [[Alone|soltanto]] possiamo [[Sleep|dormire]] o discutere o organizzare o pregare.
+Questo circolo tiene dibattiti senza fine su ogni cosa:
+[[Stars|stelle]], stivali, biologia, sacramenti, Alpi, origini.
+Tra le tante piccole cose di cui il nostro circolo umano discute
+(per il gusto della cosa) c'è come il circolo stesso sia sorto.
+La questione è tanto più interessante in quanto nessuno sa
+rispondervi; le origini stanno nella nebbia del tutto dimenticato.
+Eppure è divertente indovinare, e questa o quella congettura
+è di moda in un dato [[Time|momento]].  A un certo [[Time|momento]] il circolo
+accetta la tesi che sia stato fondato da un signor Adamo.
+A un altro [[Time|momento]] mette a verbale un voto secondo cui era probabilmente una
+sezione affiliata del Circolo delle Scimmie.  Ma queste discussioni
+sulle origini dimenticate hanno lo scopo di divertire il circolo.
+A nessuno è mai passato per la mente che si potesse lasciarle distruggerlo.
+Eppure esse distruggerebbero di certo il Circolo Umano se una volta intendessero
+che dovessimo essere scortesi con i membri o tirchi con i camerieri.
+Questo è il più forte esempio che io conosca della cosa grande contro
+la piccola; che l'Umanità è l'enorme [[house|casa]] in cui vivo,
+mentre l'Evoluzione è il piccolo ma interessante animale che
+da pochissimo ha chiesto di esservi addomesticato.
+
+                                          Daily News, 19 settembre 1908
+
+«ESPELLERE LA BESTIA»
+
+Il peggior risultato dell'evoluzionismo popolare è stato questo.
+Ha sostituito la Bestia al Demonio.  Ci ha fatto credere
+che il nostro nemico sia ciò che chiamano la nostra «[[Nature|natura]] inferiore», il che significa le nostre
+mere brame e i nostri appetiti, cose in se stesse del tutto [[Innocent|innocenti]].
+I moderni più tipici vi hanno aderito.  Tennyson, per esempio,
+parlava del miglioramento morale come di un «salire in alto, espellere la bestia».
+Ma aveva ragione?  Perché mai dovremmo espellere la bestia?
+Non desidero, in quanto tale, espellere la bestia da me stesso più di quanto
+desideri espellere la bestia da tra le stanghe di una carrozza da nolo.
+La bestia in me e la bestia nella carrozza vanno entrambe tenute in ordine.
+La bestia in me e la bestia nella carrozza hanno entrambe usi assai ovvi.
+Ciò che è sbagliato in noi non è, come dicono gli evoluzionisti, la bestia.
+Ciò che è sbagliato in noi è il demonio, l'austero, intellettuale demonio
+vergine della storia medievale.  Egli soffrirà per il male.
+Egli compirà atti eroici per il male...
+
+I maiali non sono corrotti dall'Imperialismo Superiore.  Le tigri non hanno
+alcuna superbia spirituale.  Le balene non sogghignano mai.  I coccodrilli non sono
+(a dispetto di una piacevole leggenda) minimamente ipocriti.
+A esaminarne l'aspetto esteriore, è difficile capire perché
+qualcuno abbia mai attribuito loro una qualità così vivace e ingegnosa.
+I peggiori peccati di tutti sono i peccati puramente umani.
+Puoi salire in alto, espellendo la bestia, e non espellere
+affatto quelli.  Anzi, puoi anzi coltivarli.
+Meno bestiale diventi, più cattivo puoi diventare.
+
+                                            Daily News, 3 febbraio 1906

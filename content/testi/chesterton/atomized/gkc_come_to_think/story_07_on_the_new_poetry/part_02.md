@@ -120,8 +120,97 @@ Boys will be boys; but they will not necessarily be better men.
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_07_on_the_new_poetry/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_07_on_the_new_poetry/part_03">part 03 ›</a></div>
 </nav>
 
-Così, per i grandi versi della poesia, sarebbe di certo possibile ottenere suoni ugualmente melodiosi che fossero puro farfugliare; e sarebbe di certo possibile esprimere il medesimo pensiero in parole che fossero pura rima da strapazzo. Ma, per quanto in questo senso si tratti di una combinazione, non è affatto, in nessun senso, una combinazione artificiale o accidentale. Il verso suona tanto meglio quanto più significa qualcosa, e le parole significano tanto di più quanto meglio suonano [[Well|bene]]. Come ho detto, le due cose si esaltano a vicenda, come si dice che certi condimenti esaltino certi sapori. E finché quel fatto psicologico non sarà compreso, la scuola separatista non avrà affrontato il vero fatto racchiuso nella tradizione. Il verso di [[Milton]], «Come Tenerife o Atlante, immoto», non suonerebbe affatto così bene se Tenerife fosse soltanto il nome di una villa a Golder's Green, o se Atlante si scrivesse con la «a» minuscola. E di certo non significherebbe altrettanto se non suonasse così [[Well|bene]]. In breve, l'[[Union|unione]] di suono e senso è un [[Marriage|matrimonio]]; e questa è l'età del [[divorce|divorzio]]. Essa non riesce a comprendere quel divino [[Paradox|paradosso]] per cui due cose diventano una e tuttavia restano due; né la nozione che esse accrescano reciprocamente il proprio effetto per via di qualcosa di assai più sottile della semplice addizione. Il mondo è diventato una sorta di sfrenato [[Court|tribunale]] del [[divorce|divorzio]], non solo per gli individui, ma anche per le idee. E persino coloro le cui credenze o miscredenze li rendono indifferenti all'idea che quanti Dio ha congiunto diventino una sola carne, potrebbero essere disposti a considerare la tesi che i pensieri che l'uomo ha congiunto possano diventare un solo fatto.
+Così, coi grandi versi della poesia, sarebbe, naturalmente, possibile
+avere suoni egualmente melodiosi che fossero mero farfugliamento;
+e sarebbe, naturalmente, possibile esprimere lo stesso pensiero
+in parole che fossero mera filastrocca. Ma, benché sia in questo senso
+una combinazione, non è enfaticamente in alcun senso una artificiale
+o accidentale combinazione. Il verso suona tanto meglio per
+il significare qualcosa, e le parole significano tanto più per il suonare [[Well|bene]].
+Come ho detto, le due cose si fanno risaltare a vicenda,
+come si dice che certi condimenti facciano risaltare certi sapori.
+E finché quel fatto psicologico non sarà compreso, la scuola
+separatista non avrà affrontato il vero fatto della tradizione.
+Il «Come Tenerife o Atlante immoto» di [[Milton]] non suonerebbe in realtà
+altrettanto bene se Tenerife fosse solo il nome di una casa a Golder's Green,
+o se Atlante fosse scritto con una piccola «a». E di certo non
+significherebbe altrettanto se non suonasse altrettanto [[Well|bene]]. In breve, l'[[Union|unione]]
+di suono e senso è un [[Marriage|Matrimonio]]; e questa è l'età del [[divorce|Divorzio]].
+Essa non può comprendere quel divino [[Paradox|paradosso]] per cui due cose divengono
+una e nondimeno restano due; o la nozione del loro accrescere l'effetto
+l'una dell'altra per qualcosa che è assai più sottile della semplice addizione.
+Il mondo è divenuto una sorta di selvaggia [[Court|corte]] di [[divorce|divorzio]], non solo
+per gl'individui, ma anche per le idee. E persino coloro le cui credenze
+o miscredenze li rendono indifferenti all'idea che coloro che Dio
+ha congiunto divengano una sola carne possono esser disposti a considerare la tesi
+che i pensieri che l'uomo ha congiunto possano divenire un solo fatto.
 
-Quanto a un secondo aspetto della nuova poesia, il [[debate|dibattito]] sulle nuove forme dell'arte mi interessa, perché la mia reazione ad esso non è quella del reazionario ordinario. Il primo fatto che avverto è che tutta questa [[Faith|fede]] nella novità è l'esatto rovescio del [[Novel|nuovo]]. È anche l'esatto rovescio dell'originale. È ormai una convenzione da più di un secolo e mezzo; e in origine fu presa a prestito dal mondo stantio e volgare della politica di partito. È dalle vecchie baruffe fra Radicali, Riformatori e Tory di stretta osservanza che l'arte moderna ha preso a prestito questa bizzarra nozione di un incessante Progresso e di ogni generazione che si vanta a spese della precedente. Quando leggo tutta questa sicura esposizione sui nuovi metodi che ora devono soppiantare i vecchi; su come Yeats e Swinburne debbano cedere il passo a Mr. Eliot e Mr. Pound, proprio come Tennyson e Browning dovettero cedere il passo a Yeats e Swinburne, emetto un sospiro colmo di vecchi e teneri ricordi. Non mi sembra affatto di leggere qualche proclama rivoluzionario di nuove speranze o ideali anarchici; mi sembra di leggere i Saggi di Macaulay. Lessi Macaulay quand'ero ragazzo e gli credetti, perché ero un ragazzo. Potrei quasi dire: perché lui era un ragazzo. Giacché la cosa migliore e più genuina in Macaulay era che egli visse e morì ragazzo; pieno di convinzioni, ignaro della vita; presuntuoso e fiducioso nell'avvenire. E nei Saggi di Macaulay si troverà tutta quella teoria della successione di cose sempre più «avanzate» che le scuole artistiche tuttora ripetono, tuttora si scagliano l'una contro l'altra con scherno, e tuttora ereditano l'una dall'altra con mansuetudine. Il Progresso, diceva Macaulay, non si arresta mai. «Ciò che ieri era la sua meta, domani sarà il suo punto di partenza.» Credevo a quella semplice teoria quand'ero ragazzo. Ma sono piuttosto sorpreso, [[Time|ormai]], che i ragazzi non ne abbiano trovata una nuova.
+Per un secondo aspetto della nuova poesia, il [[debate|dibattito]] sulle nuove
+forme nell'arte m'interessa, perché la mia reazione ad esso non è
+quella dell'ordinario reazionario. Il primo fatto che avverto è
+che tutta questa [[Faith|fede]] nella novità è l'esatto contrario del [[Novel|nuovo]].
+È anche l'esatto contrario dell'originale. È ormai da più di un
+secolo e mezzo una convenzione; e fu originariamente
+presa in prestito dal trito e volgare mondo della politica di partito.
+È dalle vecchie baruffe di Radicali e Riformatori e Tory Fedelissimi
+che l'arte moderna ha preso in prestito questa bizzarra nozione di incessante Progresso
+e di ogni generazione che canta vittoria sulla precedente. Quando leggo tutta questa
+sicura esposizione su nuovi metodi che ora devono soppiantare
+i vecchi metodi; di come Yeats e Swinburne debbano cedere al signor Eliot
+e al signor Pound, proprio come Tennyson e Browning dovettero cedere a Yeats
+e Swinburne, emetto un sospiro pieno di vecchi e teneri ricordi.
+Non mi sento come se stessi leggendo qualche rivoluzionario proclama
+di nuove anarchiche speranze o ideali; mi sento come se stessi leggendo
+i Saggi di Macaulay. Lessi Macaulay quand'ero ragazzo e gli credetti,
+perché ero un ragazzo. Potrei quasi dire perché egli era un ragazzo.
+Poiché la cosa migliore e più cordiale di Macaulay era che egli visse
+e morì ragazzo; pieno di convinzione, ignaro della vita; presuntuoso e
+fiducioso nel futuro. E nei Saggi di Macaulay si troverà
+tutta quella teoria della successione di cose sempre più «avanzate»
+che le scuole artistiche ancora ripetono, ancora sdegnosamente scagliano
+l'una contro l'altra, e ancora mansuetamente ereditano l'una dall'altra.
+Il Progresso, disse Macaulay, non si ferma mai. «Ciò che era la sua meta ieri
+sarà il suo punto di partenza domani». Credetti quella semplice
+teoria quand'ero ragazzo. Ma sono piuttosto sorpreso, a questo [[Time|punto]],
+che i ragazzi non ne abbiano trovata una nuova.
 
-In ogni caso, sono giunto ora a credere in una teoria del tutto diversa riguardo alla novità, e persino alla necessità della novità. Ciò che mi lascia perplesso della cultura corrente è che essa ignora proprio quelle verità che esagera. Non fa che rintronarci il capo parlando di Psicologia, e poi [[Leaves|tralascia]] del tutto i fatti più elementari e familiari della psicologia, come il fatto della stanchezza. Non fa che delirare di Relatività, e poi ignora l'ovvio fatto che la stanchezza è relativa. Se un uomo viene costretto a camminare per venti miglia tra due muri di pietra incisi su ogni lato con infinite ripetizioni dei Marmi di Elgin, non è improbabile che alla fine della sua camminata sarà un po' stanco di quello stile classico di ornamento. Ma ciò accade perché l'uomo è stanco; non perché lo stile sia stancante. La cosa potrebbe essere messa alla prova all'istante avviando un uomo fresco ed entusiasta dall'estremità opposta; un uomo nella disposizione d'animo del primo [[Renaissance|Rinascimento]], avido dello spirito greco ma ancora malamente familiare con esso. In questo senso e per questa ragione, è necessario avere novità; ma la novità non è necessariamente un miglioramento. Essa non conferisce necessariamente all'uomo per cui le cose vecchie sono stantie alcun diritto di disprezzare l'uomo per cui le cose vecchie sono fresche. E vi sono sempre uomini per cui le cose vecchie sono fresche. Tali uomini, lungi dall'essere indietro rispetto ai tempi, sono affatto al di sopra dei tempi. Sono troppo individuali e originali per essere toccati dai triviali mutamenti del [[Time|tempo]]. Un uomo che desideri davvero scrivere un [[Sonnet|sonetto]], come Shakespeare desiderava scrivere un [[Sonnet|sonetto]], è tuttora spontaneo quanto un uomo che desideri cantare una [[Song|canzone]]. Vi sono sonetti di Mr. Baring o di Mr. Belloc che sono esattamente di quella specie; e, lungi dall'essere più stantii di altri, sono più freschi di altri, perché la loro gioia rinascimentale nel classico non è divenuta stantia. Ma ciò non significa che tutti debbano continuare a scrivere sonetti, e nient'altro che sonetti, per sempre; perché non tutti lo vorrebbero; e ripetizioni imposte sarebbero davvero stantie. In altre parole, talvolta è igienico avere un cambiamento, anche quando non è un miglioramento. Possiamo lasciare un vecchio campo a maggese... non perché non porterà più raccolti, ma perché li porterà; non perché sia sterile, ma perché non lo è. Possiamo distoglierci per un [[Time|certo tempo]] da una cosa buona... non perché non sia buona, ma perché, per una ragione puramente relativa, ne abbiamo avuta davvero troppo, di una cosa buona. Questa è la vera ragione del continuo agitarsi e mutare degli stili e dei metodi; ed è (entro certi limiti) una sua completa giustificazione. I ragazzi saranno pur sempre ragazzi; ma non per questo saranno uomini migliori.
+Comunque, sono ora giunto a credere in una teoria totalmente diversa
+sulla novità, e persino sulla necessità della novità. Ciò che mi lascia perplesso della
+cultura corrente è che essa ignora proprio le verità che esagera.
+Ci frastorna sempre a proposito di Psicologia, e poi
+[[Leaves|tralascia]] interamente i più elementari e familiari fatti della psicologia,
+come il fatto della stanchezza. Sragiona sempre di Relatività,
+e poi ignora l'ovvio fatto che la stanchezza è relativa.
+Se si fa camminare un uomo per venti miglia tra due muri di pietra
+incisi su ciascun lato con infinite ripetizioni dei Marmi di Elgin,
+non è improbabile che alla fine della sua camminata egli sia un po'
+stanco di quello stile classico d'ornamento. Ma è perché
+l'uomo è stanco; non perché lo stile sia stancante. La faccenda
+potrebbe essere immediatamente verificata facendo partire un uomo fresco ed
+entusiasta dall'altra estremità; un uomo nell'umore del primo [[Renaissance|Rinascimento]],
+avido dello spirito greco ma ancora mal familiare con esso.
+In questo senso e per questa ragione, è necessario avere novità;
+ma la novità non è necessariamente un miglioramento. Essa non
+dà necessariamente all'uomo per il quale le vecchie cose sono trite
+alcun diritto di disprezzare l'uomo per il quale le vecchie cose sono fresche.
+E ci sono sempre uomini per i quali le vecchie cose sono fresche. Tali uomini,
+lungi dall'essere indietro coi tempi, sono del tutto al di sopra dei tempi.
+Sono troppo individuali e originali per essere influenzati dai triviali
+mutamenti del [[Time|tempo]]. Un uomo che vuole davvero scrivere un [[Sonnet|sonetto]],
+come Shakespeare volle scrivere un [[Sonnet|sonetto]], è ancora spontaneo
+quanto un uomo che vuole cantare una [[Song|canzone]]. Ci sono sonetti del signor Baring
+o del signor Belloc che sono esattamente di quella sorta; e, lungi
+dall'essere più triti di altri, sono più freschi di altri,
+perché la loro [[Renaissance|rinascimentale]] gioia nel classico non è divenuta trita.
+Ma questo non significa che ognuno debba continuare a scrivere sonetti,
+e nient'altro che sonetti, per sempre; poiché non tutti vorrebbero;
+e le ripetizioni imposte sarebbero davvero trite. In altre parole,
+è talvolta igienico avere un cambiamento, anche quando non è
+un miglioramento. Possiamo lasciare un vecchio campo a maggese--non perché
+non porterà mai più raccolti, ma perché li porterà; non perché
+è sterile, ma perché non lo è. Possiamo distoglierci per un [[Time|tempo]]
+da una cosa buona--non perché non è buona, ma perché abbiamo,
+per una ragione puramente relativa, avuto davvero troppo di una cosa buona.
+Ecco la vera ragione del continuo movimento e mutamento negli stili
+e nei metodi; ed essa è (entro ragione) una completa giustificazione di esso.
+I ragazzi saranno ragazzi; ma non saranno necessariamente uomini migliori.

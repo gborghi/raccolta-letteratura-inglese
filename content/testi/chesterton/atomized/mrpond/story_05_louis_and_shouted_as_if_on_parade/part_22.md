@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_21">‹ part 21</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_23">part 23 ›</a></div>
@@ -211,3 +213,210 @@ expedient of walking on very high stilts, covered by very long
 trousers.  But he sometimes walks about on the stilts and dispenses
 
 with the trousers; taking a walk through the almost entirely
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_21">‹ part 21</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_23">part 23 ›</a></div>
+</nav>
+
+tornavano lentamente a quella bottega dall'altra parte della [[Road|strada]], addobbata con
+
+armi strane e selvagge. Eppure questa sembrava di uno stile alquanto
+
+più rozzo e vistoso. Il signor Schiller-Levy negò naturalmente di saperne
+
+alcunché, cosa che avrebbe presumibilmente fatto in ogni caso;
+
+ma, ciò che era assai più convincente, tutte le vere autorità in fatto di
+
+armi barbariche od orientali dissero di non aver mai visto una
+
+cosa simile prima d'ora.
+
+Toccando molte altre cose, l'oscurità cominciò a diradarsi in una
+
+alba piuttosto tetra, un mesto [[Dawn|albeggiare]]. Si accertò che l'equivoca
+
+fidanzata del povero [[arthur|Arthur]] era davvero fuggita; molto probabilmente in compagnia
+
+della pianta scomparsa. A questo [[Time|punto]] la si sapeva una donna del tutto
+
+capace di rubare un documento o persino di pugnalare un uomo. Ma era
+
+dubbio che una donna qualsiasi fosse capace di pugnalare un uomo, con quello
+
+strumento enorme, pesante e maldestro, così da fissarlo al
+
+pavimento; e del tutto impossibile immaginare perché avrebbe dovuto sceglierlo
+
+allo scopo.
+
+"Sarebbe tutto chiaro come la [[Death|morte]]," disse il signor Butt, amaramente,
+
+"se non fosse per quella pesante spadaccia dall'elsa lunga, o quel che è,
+
+quella corta-[[Sword|spada]]. Non è mai stata nella bottega di Levy. Non è mai stata in Asia o in Africa
+
+né presso alcuna delle tribù di cui ci parlano i dotti sapientoni. È il
+
+vero mistero che resta dell'intera faccenda."
+
+Il signor Pond sembrava ridestarsi lentamente da una trance di ore o
+
+di giorni.
+
+"Oh, QUELLA," disse, "quella è l'unica cosa che comincio
+
+davvero a capire."
+
+È stato accennato, con ogni delicatezza, possiamo [[Hope|sperare]], che l'atteggiamento
+
+del signor Pond verso le visite della signora Hartog-Haggard fosse,
+
+forse, più passivo che ricettivo; che non le attendesse
+
+con la brama con cui il cervo anela ai freschi ruscelli; e che per
+
+lui somigliassero piuttosto a un cacciarsi nei guai, in acqua [[Water|bollente]].
+
+Tanto più merita di essere annotato che, all'ultima occasione in cui gli portò
+
+una nuova storia di sventure, egli balzò letteralmente in piedi con un'aria di
+
+eccitazione e persino di trionfo. Aveva avuto ragione nei suoi
+
+presentimenti sulla saggezza della follia; e il trionfo era davvero
+
+il trionfo dello [[Fool|sciocco]]. La signora Hartog-Haggard gli fornì la chiave
+
+dopo tutto.
+
+Sgusciò sotto l'impalcatura presso la soglia, la stessa figura scura
+
+e quasi grottesca. Colma della Causa, era del tutto
+
+immemore di quisquilie come l'assassinio del suo amico. Era ormai
+
+tornata alla sua originaria disapprovazione verso la propria governante. Non
+
+aveva mutato nulla, tranne tutte le sue ragioni per disapprovare la
+
+governante. Nell'occasione precedente era parsa reclamare
+
+la fiaba usata per le pantomime come esclusivamente inglese e parte della
+
+sana [[innocence|innocenza]] delle nobili dimore d'Inghilterra. Ora
+
+denunciava la donna tedesca per aver portato affatto i bambini alla
+
+pantomima; considerandola uno stratagemma per riempirli delle
+
+macabre novelle dei Grimm e dei terrori della selva barbarica.
+
+"Sono MANDATE a farlo," ripeté con la voce fiera e confidenziale
+
+che usava in tali casi. "Sono mandate qui a minare i nervi e le
+
+menti di tutti i nostri figli. Potrebbe un'altra nazione essere così
+
+demoniaca, signor Pond? Ha avvelenato le loro povere piccole menti
+
+con storie di orrore su maghi e gatti [[Magic|magici]]; e ora è accaduto il peggio,
+
+come sapevo che sarebbe accaduto. [[Well|Beh]]... LEI non ha fatto nulla per
+
+impedirlo; e la mia vita è semplicemente rovinata. Le mie tre bambine
+
+tremano tutte di terrore; e il mio ragazzo è impazzito."
+
+I sintomi del signor Pond erano ancora principalmente quelli della spossatezza; ed
+
+ella scandì di nuovo la sua frase.
+
+"È IMPAZZITO, glielo dico, signor Pond; VEDE davvero cose uscite
+
+da quelle orribili fiabe tedesche; dice di aver visto un gigante con un
+
+grande coltello camminare per la città al chiaro di luna... un GIGANTE,
+
+signor Pond."
+
+Il signor Pond si alzò barcollando in piedi e per una volta spalancò gli occhi e
+
+deglutì come un pesce. La signora Hartog-Haggard lo osservava con occhi
+
+stralunati, esclamando a intermittenza: "Non ha una parola di conforto
+
+per una madre?"
+
+Il signor Pond si dominò di colpo e riuscì a recuperare, almeno,
+
+una vaga cortesia.
+
+"Sì, signora," disse. "Ho la migliore consolazione possibile per una
+
+madre. Suo figlio non è pazzo."
+
+Aveva un'aria più giudiziosa, e persino severa, quando poco dopo sedette
+
+in consulto con il signor Butt, Sir [[Hubert]] Wotton e l'ispettore Grote,
+
+il principale [[Detective|investigatore]] del distretto.
+
+"Il punto è questo," disse il signor Pond, molto severamente: "che lei
+
+non conosce davvero la storia del Gatto con gli Stivali. E si parla di
+
+questa come di un'epoca di [[Education|Istruzione]]."
+
+"Oh, so che parla di un gatto astuto e tutto il resto," disse
+
+Butt, vagamente. "Un gatto che aiuta il suo padrone a procurarsi cose..."
+
+L'ispettore si diede una manata sul ginocchio con uno schiocco che risuonò per tutto
+
+l'ufficio.
+
+"Un gatto scassinatore!" gridò. "Ecco cosa intende. All'inizio avevo
+
+immaginato che ci fosse qualcosa di sbagliato in quel pezzo d'impalcatura intorno
+
+alla porta; ma vidi presto che era troppo bassa e piccola perché qualcuno
+
+vi si arrampicasse fino alla [[Window|finestra]]. Ma, certo, se parliamo
+
+di un gatto scassinatore davvero abile, c'è sempre qualche possibilità che..."
+
+"Mi perdoni," disse il signor Pond, "forse che un gatto scassinatore, o del resto
+
+un qualsiasi scassinatore, più di un qualsiasi gatto, si carica di un gigantesco
+
+coltello piuttosto più grande di una vanga da [[Garden|giardino]]? Nessuno porta un gigantesco
+
+coltello tranne un gigante. Questo delitto è stato commesso da un gigante."
+
+Lo fissarono tutti; ma egli riprese con la stessa aria di gelido
+
+rimprovero:
+
+"Ciò che rilevo, ciò che deploro e considero sintomatico di un
+
+grave [[Decay|decadimento]] intellettuale, è che voi apparentemente non sapete che
+
+la storia del Gatto con gli Stivali comprende un gigante. Egli è anche un
+
+mago; ma è sempre raffigurato, nelle illustrazioni e nelle pantomime, come
+
+un orco con un grande coltello. Il signor Alberto Tizzi, quell'artista straniero
+
+alquanto dubbio, l'[[Artist|artista]], interpreta la parte sul molo col solito
+
+espediente di camminare su altissimi trampoli, coperti da lunghissimi
+
+pantaloni. Ma talvolta cammina sui trampoli facendo a meno
+
+dei pantaloni; concedendosi una passeggiata per le strade quasi interamente

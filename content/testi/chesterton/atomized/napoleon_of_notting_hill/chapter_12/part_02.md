@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12">Chapter 12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_03">part 03 ›</a></div>
@@ -120,3 +122,119 @@ and distinct out of the dusk, so that it seemed strange
 that the great voice should come out of the little [[Body|body]].
 'Halt, South Kensington!  Guard this entry, and prevent them returning.
 I will pursue.  Forward, the Green Guards!'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12">Chapter 12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12/part_03">part 03 ›</a></div>
+</nav>
+
+"Come ho detto, non c'è nulla da riferire. Cammino stancamente
+alla buca delle lettere all'angolo di Pembridge [[Road]] per impostare la mia copia.
+Nulla di nulla è accaduto, tranne i preparativi per un assedio particolarmente
+lungo e fiacco, durante il quale confido di non essere richiesto
+al Fronte. Mentre alzo lo sguardo su Pembridge [[Road]] nel crepuscolo crescente,
+l'aspetto di quella [[Road|strada]] mi ricorda che c'è una nota che vale la pena aggiungere.
+Il generale Buck ha suggerito, con caratteristico acume,
+al generale Wilson, che, per ovviare alla possibilità di una tale
+catastrofe come quella che travolse le forze alleate nell'ultima avanzata
+su Notting [[Hill]] (la catastrofe, intendo, dei lampioni spenti),
+ogni soldato dovrebbe avere una lanterna accesa attorno al collo.
+Questa è una delle cose che davvero ammiro nel generale Buck.
+Egli possiede ciò che una volta la gente intendeva per 'l'[[Humility|umiltà]] dell'uomo
+di scienza,' cioè, impara costantemente dai propri errori.
+Wayne potrà segnare punti su di lui in qualche altro modo, ma non in quello.
+Le lanterne paiono fuochi fatati mentre curvano attorno all'estremità
+di Pembridge [[Road]].
+
+"Più tardi... Scrivo con qualche difficoltà, perché il [[Blood|sangue]]
+mi cola sul viso e forma disegni sulla carta.
+Il [[Blood|sangue]] è una cosa bellissima; ecco perché è celato.
+Se mi chiedete perché il [[Blood|sangue]] mi cola sul viso, posso solo rispondere
+che sono stato preso a calci da un [[Horse|cavallo]]. Se mi chiedete quale [[Horse|cavallo]], posso
+rispondere con un certo [[Pride|orgoglio]] che era un [[Horse|cavallo]] da guerra. Se mi chiedete
+come un [[Horse|cavallo]] da guerra sia comparso sulla scena nella nostra semplice guerra pedonale,
+sono ridotto alla necessità, così penosa per un corrispondente speciale,
+di raccontare le mie esperienze.
+
+"Ero, come ho detto, proprio nell'atto d'impostare la mia copia alla
+buca delle lettere, e di guardare così facendo su per la scintillante
+curva di Pembridge [[Road]], costellata dei lumi degli uomini di Wilson.
+Non so cosa mi fece sostare a esaminare la cosa,
+ma ebbi l'impressione che la linea dei lumi, là dove si dissolveva
+nell'indistinto crepuscolo bruno, fosse più indistinta del solito.
+Ero quasi certo che in un certo tratto della [[Road|strada]]
+dove c'erano stati cinque lumi ora ce ne fossero solo quattro.
+Aguzzai gli occhi; li contai di nuovo, ed erano solo tre.
+Un attimo dopo erano solo due; un istante dopo solo uno;
+e un istante dopo ancora le lanterne vicino a me oscillarono come
+[[Bells|campane]] scosse, come colpite d'un tratto. Divamparono e caddero;
+e per un momento la loro caduta fu come la caduta del sole
+e delle [[Stars|stelle]] dal cielo. Lasciò ogni cosa in una cecità primordiale.
+In effetti, la [[Road|strada]] non era ancora legittimamente buia.
+C'erano ancora rossi raggi di un tramonto nel cielo, e la bruna
+penombra era ancora tiepida, per così dire, con una sensazione come di fuoco di camino.
+Ma per tre secondi dopo che le lanterne oscillarono e sprofondarono, vidi
+davanti a me una nerezza che bloccava il cielo. E col quarto
+secondo capii che questa nerezza che bloccava il cielo era un uomo
+su un grande [[Horse|cavallo]]; e fui calpestato e scagliato di lato mentre un vortice
+di cavalieri irrompeva attorno all'angolo. Nel voltare vidi che
+non erano neri ma scarlatti; erano una sortita degli assediati,
+con Wayne che cavalcava in testa.
+
+"Mi sollevai dalla cunetta, accecato dal [[Blood|sangue]] di
+una ferita cutanea assai lieve, e, cosa strana, senza curarmi
+né della cecità né della lievità della ferita.
+Per un mortale minuto dopo che quella stupefacente cavalcata era sfrecciata via,
+ci fu un silenzio di morte sulla [[Road|strada]] vuota. E poi venne Barker
+e tutti i suoi alabardieri correndo come diavoli sulle loro tracce.
+Era stato loro compito custodire la porta dalla quale la sortita
+era irrotta; ma non avevano fatto i conti, e li si può ben scusare,
+con la cavalleria. Così com'era, Barker e i suoi uomini fecero una corsa
+perfettamente splendida al loro inseguimento, quasi afferrando i cavalli di Wayne per la coda.
+
+"Nessuno riesce a capire la sortita. È composta solo di un piccolo
+numero della guarnigione di Wayne. Turnbull stesso, con la vasta
+massa di essa, è indubbiamente ancora barricato in Pump Street.
+Sortite di questo genere sono naturali abbastanza nella maggior parte
+degli assedi storici, come l'assedio di [[Paris|Parigi]] nel 1870, perché in
+tali casi gli assediati sono certi di un qualche sostegno all'esterno.
+Ma quale può essere lo scopo di essa in questo caso? Wayne sa (o se è
+troppo pazzo per sapere alcunché, almeno Turnbull lo sa) che non c'è,
+e non c'è mai stata, la minima probabilità di sostegno per lui all'esterno;
+che la massa dei sani abitanti moderni di [[London|Londra]] guarda al suo
+farsesco patriottismo con tanto disprezzo quanto guarda all'originaria
+idiozia che gli diede vita... la follia del nostro miserabile [[King|Re]].
+Ciò che Wayne e i suoi cavalieri stiano facendo nessuno può nemmeno congetturare.
+La teoria generale da queste parti è che sia semplicemente un traditore, e abbia
+abbandonato gli assediati. Ma tutti questi enigmi più grandi e tuttavia più solubili
+sono un nulla se paragonati all'unico piccolo ma insolubile [[Riddle|enigma]]:
+dove hanno preso i cavalli?
+
+"Più tardi... Ho udito un resoconto straordinarissimo dell'origine
+della comparsa dei cavalli. Pare che quella stupefacente persona,
+il generale Turnbull, che ora governa Pump Street in assenza di Wayne,
+abbia mandato in giro, la mattina della dichiarazione di guerra, un vasto numero
+di ragazzini (o cherubini del rigagnolo, come diciamo noi giornalisti),
+con mezze corone in tasca, a prendere carrozze per tutta [[London|Londra]].
+Non meno di centosessanta carrozze si radunarono in Pump Street;
+furono requisite dalla guarnigione. Gli uomini furono lasciati liberi,
+le carrozze usate per far barricate, e i cavalli tenuti in Pump Street,
+dove furono nutriti ed esercitati per parecchi giorni, finché
+non furono sufficientemente rapidi ed efficienti da essere usati per questa selvaggia
+cavalcata fuori dalla città. Se è così, e lo ho dalla migliore
+autorità possibile, il metodo della sortita è spiegato.
+Ma non abbiamo spiegazione del suo scopo. Proprio mentre i Blu di Barker
+stavano svoltando l'angolo dietro a loro, furono fermati,
+ma non da un nemico; solo dalla voce di un uomo, e un amico per giunta.
+Wilson il Rosso di Bayswater corse [[Alone|solo]] lungo la [[Road|strada]] maestra come un pazzo
+respingendoli con un'alabarda strappata a una sentinella.
+Era al comando supremo, e Barker si fermò all'angolo,
+fissando e sbigottito. Potevamo udire la voce di Wilson forte
+e distinta uscire dal crepuscolo, sicché pareva strano
+che quella gran voce venisse fuori da quel piccolo [[Body|corpo]].
+'Alt, South Kensington! Custodite questo accesso, e impedite loro di tornare.
+Io inseguirò. Avanti, Guardie Verdi!'

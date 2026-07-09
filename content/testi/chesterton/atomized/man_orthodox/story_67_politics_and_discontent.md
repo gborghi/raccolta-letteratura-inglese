@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_66_the_monstrosity">‹ Story 66 The Monstrosity</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_68_against_divine_discontent">Story 68 Against Divine Discontent ›</a></div>
@@ -82,3 +84,81 @@ But the voices of the saints and sages, recommending contentment,
 should sound unceasingly, like the sea.
 
                                     T. P.'s Weekly, Christmas Number, 1910
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_66_the_monstrosity">‹ Story 66 The Monstrosity</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_68_against_divine_discontent">Story 68 Against Divine Discontent ›</a></div>
+</nav>
+
+POLITICA E SCONTENTO
+
+L'Europa mostra al presente una concentrazione sulla politica che è
+in parte lo sventurato frutto della nostra perdita della religione, in parte
+il giusto e necessario frutto della nostra disuguaglianza e iniquità sociale.
+Queste cause, tuttavia, non resteranno in atto per sempre.
+La religione sta tornando dal suo [[Exile|esilio]]; è più probabile
+che il futuro sarà follemente e corrottamente superstizioso,
+piuttosto che meramente razionalista.  ... D'altra parte,
+i nostri tentativi di raddrizzare l'estremo squilibrio della ricchezza dovranno presto avere
+qualche esito; qualcosa si farà per attenuare il perpetuo tormento
+di una compassione incompetente; qualche disegno sarà sostituito alla nostra
+malevola anarchia, foss'anche solo quello di una servitù benevola.
+E via via che questi due particolari fermenti, quello sull'universo e
+quello sullo Stato, si assestano in sistemi più silenziosi e duraturi,
+emergeranno sempre più quelle verità primarie e arcaiche
+che la [[Dust|polvere]] di questi due conflitti aveva velato.
+Risolte relativamente le questioni secondarie, ci ritroveremo
+tanto più al cospetto delle questioni primarie dell'uomo.
+
+Poiché al presente noi tutti tendiamo a un errore; tendiamo a rendere la politica
+troppo importante.  Tendiamo a dimenticare quanto immensa parte della vita di un uomo
+sia la stessa sotto un Sultano e sotto un Senato, sotto Nerone o sotto San Luigi.
+L'alba è una gloria che non finisce mai, alzarsi dal letto è
+una seccatura che non finisce mai; il cibo e gli amici saranno benvenuti:
+il lavoro e gli estranei si devono accettare e sopportare:  gli [[Birds|uccelli]] andranno
+a dormire e i bambini no, fino alla fine dell'ultima sera.
+E il pericolo peggiore è che, nella nostra moderna rivolta contro
+gli intollerabili accidenti, abbiamo forse scompaginato quelle cose
+che [[Alone|sole]] rendono tollerabile la vita quotidiana.  ... C'è il pericolo
+che il riformatore sociale sviluppi silenziosamente e occultamente
+un poco della [[Madness|follia]] del milionario che denuncia.
+Può scoprire di aver imparato a costruire terreni di gioco,
+ma di aver dimenticato come si gioca.  Può agitarsi per la pace e la quiete,
+ma non fare che propagare la propria agitazione mentale.  Nella sua lunga lotta
+per ottenere a uno schiavo una mezza vacanza può finire col negare quelle antiche
+e naturali cose, il gusto dell'essere, la divinità dell'uomo,
+la sacralità delle cose semplici, la salute e l'[[Humour|umorismo]] della terra,
+che [[Alone|sole]] rendono una mezza vacanza almeno mezza vacanza o uno schiavo
+almeno mezzo uomo.
+
+C'è un pericolo in quella moderna espressione, `divino scontento'.
+C'è anche una verità in essa, di certo; ma è soltanto verità
+di una specie speciale e secondaria.  Molta della contesa
+fra il Cristianesimo e il mondo è dovuta a questo fatto;
+che ci sono generalmente due verità, per così dire, in ogni
+dato momento, la verità ingegnosa e paradossale adatta
+a qualche momento di rivolta o di reazione, e l'antico
+truismo sottostante che è nondimeno vero in ogni tempo.
+Talvolta vale la pena di far notare che il nero non è così nero
+come lo si dipinge; ma il nero è pur sempre nero, e non bianco.
+Così è coi meriti della contentezza e dello scontento.  È vero che
+in certe acute e dolorose crisi di oppressione o di disonore,
+lo scontento è un dovere, e la vergogna dovrebbe chiamarci come una tromba.
+Ma non è vero che l'uomo debba guardare la vita con occhio
+di scontento, per quanto nobile.  Non è vero che nella
+sua relazione primaria e nuda col mondo, nella sua relazione col sesso,
+col dolore, con la fratellanza, con la tomba o col tempo atmosferico,
+l'uomo debba fare dello scontento il suo ideale; è cieca follia.
+Metà delle sue povere piccole speranze di felicità dipende dal ritenere
+graziosa una piccola casa, incantevole una moglie qualunque, non insopportabile
+un piede zoppo, e non così cattive le cattive carte.  La voce dei ribelli
+e dei profeti speciali, che raccomanda lo scontento, dovrebbe, come ho
+detto, risuonare di quando in quando all'improvviso, come una tromba.
+Ma le voci dei santi e dei saggi, che raccomandano la contentezza,
+dovrebbero risuonare incessantemente, come il mare.
+
+                                    T. P.'s Weekly, Numero di Natale, 1910

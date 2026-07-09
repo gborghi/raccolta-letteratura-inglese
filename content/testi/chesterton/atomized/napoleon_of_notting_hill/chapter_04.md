@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03">‹ Chapter 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05">Chapter 05 ›</a></div>
@@ -377,3 +379,376 @@ the great majority found their minds a blank.  There remains
 a tradition that one pale face with burning blue eyes remained
 fixed upon the lecturer, and after the lecture a red-haired boy
 ran out of the room.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03">‹ Chapter 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05">Chapter 05 ›</a></div>
+</nav>
+<nav class="excerpt-children">
+<div class="excerpt-children-label">In questa sezione</div>
+<ul><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04/part_03">Part 3</a></li></ul>
+</nav>
+
+LIBRO II
+CAPITOLO I
+
+LA CARTA DELLE CITTÀ
+
+LAMBERT stava sbigottito fuori dalla porta degli appartamenti del [[King|Re]],
+in mezzo al trambusto di stupore e di scherno.
+Stava proprio uscendo in strada, con aria stralunata,
+quando [[James Barker]] gli passò accanto di corsa.
+
+«Dove vai?» chiese.
+
+«A por fine a tutta questa buffoneria, ovviamente,» rispose Barker;
+e scomparve nella stanza.
+
+Vi entrò a capofitto, sbattendo la porta e schiaffando il suo incomparabile
+cilindro di seta sul tavolo.  Aprì la bocca, ma prima che potesse parlare,
+il [[King|Re]] disse:
+
+«Il tuo cappello, per favore.»
+
+Trafficando con le dita, e a malapena consapevole di ciò che faceva,
+il giovane politico glielo porse.
+
+Il [[King|Re]] lo posò sulla propria sedia e vi si sedette sopra.
+
+«Una bizzarra vecchia usanza,» spiegò, sorridendo al di sopra delle rovine.
+«Quando il [[King|Re]] riceve i rappresentanti della [[house|Casa]] di Barker,
+il cappello di costoro viene immediatamente distrutto in questo modo.
+Rappresenta l'assoluta definitività dell'atto di omaggio espresso
+nel toglierlo.  Dichiara che mai, finché quel cappello non
+comparirà di nuovo sul tuo capo (evenienza che credo fermamente
+essere remota), la [[house|Casa]] di Barker si [[Rebel|ribellerà]] contro
+la [[Crown|Corona]] d'Inghilterra.»
+
+Barker stava col pugno serrato e il labbro tremante.
+
+«Le tue battute,» cominciò, «e la mia proprietà...» e poi esplose
+con un'imprecazione, e si fermò di nuovo.
+
+«Continua, continua,» disse il [[King|Re]], agitando le mani.
+
+«Che cosa significa tutto questo?» gridò l'altro con un gesto di
+appassionata razionalità.  «Sei matto?»
+
+«Nient'affatto,» rispose il [[King|Re]], amabilmente.  «I matti sono
+sempre seri; impazziscono per mancanza di [[Humour|umorismo]].  Anche tu hai
+un'aria seria, James.»
+
+«Perché non puoi limitarlo alla tua vita privata?» protestò l'altro.
+«Hai denaro in abbondanza, e ora case in abbondanza in cui fare
+lo [[Fool|sciocco]], ma nell'interesse del pubblico...»
+
+«Epigrammatico,» disse il [[King|Re]], puntandogli il dito con tristezza.
+«Niente ardite scintille qui.  Quanto al perché non
+lo faccia in privato, faccio piuttosto fatica a capire la tua domanda.
+La risposta è di comparativa limpidezza.  Non lo faccio in privato,
+perché è più buffo farlo in pubblico.  Tu pare che pensi
+che sarebbe divertente essere dignitoso nella sala del banchetto e
+per strada, e al proprio focolare (potrei procurarmi un focolare)
+tenere la compagnia in un fragore di risate.  Ma è ciò che fanno tutti.
+Tutti sono [[Grave|gravi]] in pubblico, e buffi in privato.
+Il mio senso dell'[[Humour|umorismo]] suggerisce il rovesciamento di ciò; suggerisce
+che si debba essere buffi in pubblico, e solenni in privato.
+[[Desire|Desidero]] fare delle funzioni di Stato, dei parlamenti, delle incoronazioni e via dicendo,
+un'unica fragorosa pantomima all'antica.  Ma, d'altra parte,
+mi rinchiudo da [[Alone|solo]] in un piccolo sgabuzzino per due ore al giorno,
+dove sono così dignitoso che ne esco addirittura malato.»
+
+A questo [[Time|punto]] Barker camminava su e giù per la stanza, la sua finanziera
+sbatteva come le ali nere di un uccello.
+
+«[[Well|Ebbene]], manderai il paese in rovina, ecco tutto,» disse in tono secco.
+
+«Mi pare,» disse Auberon, «che la tradizione di dieci secoli
+venga infranta, e che la [[house|Casa]] di Barker si stia ribellando contro la [[Crown|Corona]]
+d'Inghilterra.  Sarebbe con rammarico (giacché ammiro il tuo aspetto)
+che mi vedrei costretto a decorarti con la forza il capo con i resti
+di questo cappello, ma...»
+
+«Ciò che non riesco a capire,» disse Barker, gettando in su le dita
+con un febbrile gesto americano, «è perché non t'importi di
+nient'altro che dei tuoi giochi.»
+
+Il [[King|Re]] si fermò di colpo nell'atto di sollevare i brandelli di seta,
+li lasciò cadere, e si avvicinò a Barker, guardandolo con fermezza.
+
+«Feci una specie di voto,» disse, «che non avrei parlato sul serio,
+il che significa sempre rispondere a domande sciocche.  Ma l'uomo forte
+sarà sempre gentile con i politici.
+
+«"La forma che i miei sguardi sprezzanti deridono / Richiese un Dio per essere formata;"
+
+«se posso esprimermi così teologicamente.  E per qualche ragione che non
+riesco minimamente a comprendere, mi sento spinto a rispondere a quella tua domanda,
+e a risponderle come se esistesse davvero al mondo
+una cosa quale un argomento serio.  Mi chiedi perché non m'importi di nient'altro.
+Puoi dirmi tu, nel nome di tutti gli dèi in cui non credi,
+perché dovrebbe importarmi di qualcos'altro?»
+
+«Non ti rendi conto delle comuni necessità pubbliche?» gridò Barker.
+«È possibile che un uomo della tua intelligenza non sappia
+che è nell'interesse di tutti...»
+
+«Non credi in Zoroastro?  È possibile che tu
+trascuri Mumbo-Jumbo?» ribatté il [[King|Re]], con sorprendente animazione.
+«Un uomo della tua intelligenza viene da me con questa maledetta etica
+del primo periodo vittoriano?  Se, studiando i miei lineamenti e i miei modi, tu scorgi
+una qualche particolare somiglianza col Principe Consorte, ti assicuro che
+ti sbagli.  Herbert Spencer ti ha mai convinto...ha mai
+convinto qualcuno...ha mai per un solo folle istante convinto sé stesso...che
+debba essere nell'interesse dell'individuo provare uno spirito pubblico?
+Credi tu che, se governi male il tuo dipartimento, tu corra
+un po' più di rischio, o la metà del rischio, di essere ghigliottinato,
+di quanto ne corra un pescatore di essere trascinato nel [[River|fiume]] da un grosso luccio?
+Herbert Spencer si asteneva dal furto per la stessa ragione per cui
+si asteneva dal portare piume tra i capelli, perché era
+un gentiluomo inglese con gusti diversi.  Io sono un gentiluomo
+inglese con gusti diversi.  A lui piaceva la [[philosophy|filosofia]].  A me piace l'arte.
+A lui piaceva scrivere dieci libri sulla [[Nature|natura]] della società umana.
+A me piace vedere il Lord Ciambellano camminare davanti a me con
+un pezzo di carta appuntato alle falde della giacca. È il mio [[Humour|umorismo]].
+Ti ho risposto?  A ogni modo, ho detto la mia ultima parola seria per oggi,
+e la mia ultima parola seria, confido, per il resto della mia vita in questo
+Paradiso dei Folli.  Il resto della mia conversazione con te oggi,
+che confido sarà lungo e stimolante, mi propongo di condurlo
+in una nuova lingua tutta mia, mediante rapidi e simbolici movimenti
+della gamba sinistra.»  E cominciò a piroettare lentamente per la stanza
+con espressione assorta.
+
+Barker gli corse dietro per la stanza, bombardandolo di richieste
+e suppliche.  Ma non ricevette risposta se non nella nuova lingua.
+Uscì sbattendo di nuovo la porta, e in preda alla nausea come chi mette piede a riva.
+Mentre camminava a grandi passi per le strade si ritrovò all'improvviso di fronte
+al ristorante di Cicconani, e per qualche ragione gli si [[Rose|levò]] dinanzi
+la verde fantastica figura del Generale spagnolo, ritto,
+come l'aveva visto l'ultima volta, sulla porta con le parole sulle labbra:
+«Non si può discutere con la scelta dell'[[Soul|anima]].»
+
+Il [[King|Re]] uscì dalla sua danza con l'aria di un uomo d'affari
+legittimamente stanco.  Indossò un soprabito, accese un sigaro, e uscì
+nella purpurea [[Night|notte]].
+
+«Andrò,» disse, «a mescolarmi con il popolo.»
+
+Percorse rapidamente una strada nei dintorni di Notting [[Hill|Hill]],
+quando all'improvviso sentì un oggetto duro conficcarglisi nel panciotto.
+Si fermò, inforcò un monocolo, e scorse un ragazzo con una [[Sword|spada]]
+di legno e un cappello di carta a tricorno, che aveva quell'espressione di reverente
+soddisfazione con cui un [[Child|bambino]] contempla la propria opera quando ha
+colpito qualcuno molto forte.  Il [[King|Re]] fissò pensoso per un po' di [[Time|tempo]]
+il suo assalitore, e lentamente estrasse un taccuino dal taschino.
+
+«Ho qualche appunto,» disse, «per il mio discorso di morte;» e voltò
+le [[Leaves|pagine]].  «Discorso di morte per assassinio politico;
+idem, se per mano di un vecchio amico...ehm, ehm. Discorso di morte per [[Death|morte]]
+per mano del marito oltraggiato (pentito). Discorso di morte per lo stesso
+caso (cinico). Non sono del tutto sicuro di quale si adatti al presente...»
+
+«Sono io il [[King|Re]] del [[Castle|Castello]],» disse il ragazzo, truculento, e assai
+compiaciuto di niente in particolare.
+
+Il [[King|Re]] era un uomo di buon cuore, e assai affezionato ai bambini,
+come tutti coloro che sono affezionati al ridicolo.
+
+«Fanciullo,» disse.  «Sono lieto che tu sia un così valoroso difensore
+della tua vecchia inviolata Notting [[Hill|Hill]].  Guarda ogni notte a quella vetta,
+[[Child|bimbo]] mio, dove essa s'innalza tra le [[Stars|stelle]] così antica,
+così solitaria, così indicibilmente Notting.  Finché sarai pronto
+a morire per la sacra montagna, anche se fosse cinta da tutte
+le armate di Bayswater...»
+
+Il [[King|Re]] si fermò all'improvviso, e i suoi occhi brillarono.
+
+«Forse,» disse, «forse la più nobile di tutte le mie concezioni.
+Un ravvivamento dell'arroganza delle antiche città medievali applicato
+ai nostri gloriosi sobborghi.  Clapham con una guardia [[City|cittadina]].  Wimbledon con
+una cinta muraria [[City|cittadina]].  Surbiton che suona una campana per adunare i suoi cittadini.
+West Hampstead che va in battaglia col proprio stendardo.  Sarà fatto.
+Io, il [[King|Re]], l'ho detto.»  E, presentando in fretta al ragazzo
+mezza [[Crown|corona]], osservando: «Per il tesoro di guerra di Notting [[Hill|Hill]],»
+corse a [[Home|casa]] con tale violenza e a tale [[Speed|velocità]] che le folle lo seguirono
+per miglia.  Giunto al suo studio, ordinò una tazza di caffè,
+e si tuffò in profonda meditazione sul progetto.
+Alla fine chiamò il suo Scudiero prediletto, il capitano Bowler,
+per il quale nutriva un profondo affetto, fondato principalmente sulla forma
+dei suoi favoriti.
+
+«Bowler,» disse, «non c'è qualche società di ricerca storica,
+o qualcosa del genere, di cui io sia membro onorario?»
+
+«Sì, signore,» disse il capitano Bowler, sfregandosi il naso, «lei è membro
+degli "Incoraggiatori del [[Renaissance|Rinascimento]] Egizio", e del "Club delle Tombe Teutoniche",
+e della "Società per il Recupero delle Antichità di [[London|Londra]]", e...»
+
+«Perfetto,» disse il [[King|Re]].  «Le Antichità di [[London|Londra]] fanno
+al caso mio.  Va' alla Società per il Recupero delle Antichità di [[London|Londra]]
+e parla al loro segretario, e al loro vicesegretario,
+e al loro presidente, e al loro vicepresidente, dicendo: "Il [[King|Re]]
+d'Inghilterra è orgoglioso, ma il membro onorario della Società
+per il Recupero delle Antichità di [[London|Londra]] è più orgoglioso dei re.
+Vorrei parlarvi di certe scoperte che ho fatto riguardo
+alle trascurate tradizioni dei borghi di [[London|Londra]].  Le rivelazioni potrebbero
+suscitare una certa agitazione, ridestando memorie brucianti e toccando vecchie ferite
+a Shepherd's Bush e a Bayswater, a Pimlico e a South Kensington.
+Il [[King|Re]] esita, ma il membro onorario è fermo.  Mi accosto
+a voi invocando i voti della mia iniziazione, i Sacri Sette Gatti,
+l'Attizzatoio della Perfezione e l'Ordalia dell'Indescrivibile Istante
+(perdonatemi se vi confondo con il Clan-na-Gael o qualche altro
+club a cui appartengo), e vi chiedo di permettermi di leggere una relazione
+alla vostra prossima riunione sulle 'Guerre dei Borghi di [[London|Londra]].'"
+Di' tutto questo alla Società, Bowler.  Ricordalo con gran cura,
+perché è della massima importanza, e io l'ho dimenticato del tutto,
+e mandami un'altra tazza di caffè e qualcuno dei sigari che teniamo
+per la gente volgare e di successo.  Vado a scrivere la mia relazione.»
+
+La Società per il Recupero delle Antichità di [[London|Londra]] si riunì un mese dopo
+in una sala di lamiera ondulata alla periferia di uno dei sobborghi
+meridionali di [[London|Londra]].  Un gran numero di persone vi si era raccolto
+sotto i rozzi e sfavillanti becchi a gas quando il [[King|Re]] arrivò,
+sudato e gioviale.  Nel togliersi il pastrano,
+si vide che era in abito da sera, e portava l'Ordine della Giarrettiera.
+La sua comparsa al tavolino, adorno soltanto di un bicchiere d'[[Water|acqua]],
+fu accolta da rispettosi applausi.
+
+Il presidente (il signor Huggins) disse che era certo che tutti erano
+stati lieti di ascoltare tanti illustri conferenzieri quanti ne avevano
+uditi negli ultimi [[Time|tempi]] (bene, bene).  Il signor Burton (bene, bene),
+il signor Cambridge, il professor [[King|King]] (applausi fragorosi e prolungati),
+il nostro vecchio amico Peter Jessop, sir William White (grandi risate),
+e altri uomini eminenti, avevano reso [[Honour|onore]] alla loro piccola impresa
+(applausi). Ma vi erano altre circostanze che conferivano una certa
+qualità unica alla presente occasione (bene, bene).  Per quanto la sua
+memoria giungesse, e in relazione alla Società per il Recupero
+delle Antichità di [[London|Londra]] giungeva assai lontano (grandi applausi), non
+ricordava che alcuno dei loro conferenzieri avesse mai portato il titolo di [[King|Re]].
+Avrebbe pertanto invitato [[King|Re]] Auberon a rivolgere brevemente la parola all'assemblea.
+
+Il [[King|Re]] cominciò col dire che questo discorso poteva essere considerato
+come la prima dichiarazione della sua nuova politica per la nazione.
+«In quest'ora suprema della mia vita sento che a nessuno se non ai membri
+della Società per il Recupero delle Antichità di [[London|Londra]] posso aprire
+il mio cuore (applausi). Se il mondo si rivolterà contro la mia politica, e le tempeste
+dell'ostilità popolare cominceranno a levarsi (no, no), sento che è qui,
+con i miei valorosi Recuperatori attorno a me, che meglio potrò affrontarle,
+[[Sword|spada]] alla mano» (grandi applausi).
+
+Sua Maestà proseguì poi spiegando che, ora che la vecchiaia gli stava
+strisciando addosso, si proponeva di dedicare le forze che gli restavano a suscitare
+un più vivo senso del patriottismo locale nei vari municipi
+di [[London|Londra]].  Quanto pochi di essi conoscevano le leggende dei propri borghi!
+Quanti erano coloro che non avevano mai sentito parlare della vera origine dell'Ammicco
+di Wandsworth!  Quale gran parte della giovane generazione
+a Chelsea trascurava di eseguire l'antico Chuff di Chelsea!  Pimlico non
+pompava più i Pimlie.  Battersea aveva dimenticato il nome di Blick.
+
+Vi fu un breve [[Silence|silenzio]], e poi una voce disse «Vergogna.»
+
+Il [[King|Re]] proseguì:  «Essendo chiamato, per quanto immeritatamente,
+a questo alto rango, ho deciso che, per quanto possibile,
+questa negligenza cessi.  Non [[Desire|desidero]] gloria militare.
+Non pretendo alcuna parità costituzionale con Giustiniano o Alfredo.
+Se potrò passare alla [[history|storia]] come l'uomo che salvò dall'estinzione alcune
+vecchie usanze inglesi, se i nostri discendenti potranno dire che fu grazie a quest'uomo,
+per quanto umile, che le Dieci Rape si mangiano ancora a Fulham,
+e il consigliere parrocchiale di Putney si rade ancora metà del capo,
+guarderò i miei grandi padri con riverenza ma senza timore in volto
+quando scenderò all'ultima [[house|dimora]] dei Re.»
+
+Il [[King|Re]] fece una pausa, visibilmente commosso, ma ricomponendosi,
+riprese ancora una volta.
+
+«Confido che a ben pochi di voi, almeno, debba dilungarmi sulle [[Sublime|sublimi]]
+origini di queste leggende.  I nomi stessi dei vostri borghi ne recano
+testimonianza.  Finché Hammersmith si chiamerà Hammersmith,
+la sua gente vivrà all'[[Shadow|ombra]] di quel primordiale [[Hero|eroe]], il Fabbro,
+che condusse la [[democracy|democrazia]] del Broadway in battaglia finché non spinse
+la cavalleria di Kensington dinanzi a sé e la travolse in quel luogo
+che in [[Honour|onore]] del miglior [[Blood|sangue]] dell'aristocrazia sconfitta è ancora
+chiamato Kensington Gore.  Gli uomini di Hammersmith non mancheranno di ricordare
+che il nome stesso di Kensington ebbe origine dalle labbra del loro [[Hero|eroe]].
+Poiché al grande banchetto della [[Reconciliation|Riconciliazione]] tenuto dopo la guerra,
+quando gli sdegnosi oligarchi rifiutarono di unirsi ai [[songs|canti]] degli uomini
+del Broadway (che sono a tutt'oggi di carattere rozzo e popolare),
+il grande capo repubblicano, col suo rude [[Humour|umorismo]], disse le parole
+che sono scritte in oro sul suo monumento: "Gli [[Birds|uccellini]]
+che sanno cantare e non vogliono cantare, si deve farli cantare."  Cosicché i
+Cavalieri Orientali furono chiamati Cansing o Kensing da allora in poi.
+Ma anche voi avete grandi memorie, o uomini di Kensington!  Voi mostraste
+che sapevate cantare, e cantare grandi [[songs|canti]] di guerra. Anche dopo l'oscuro
+giorno di Kensington Gore, la [[history|storia]] non dimenticherà quei tre Cavalieri
+che protessero la vostra scomposta ritirata da Hyde Park (così chiamato dal vostro
+nascondervi là), quei tre Cavalieri da cui prende nome Knightsbridge.
+Né dimenticherà il giorno del vostro riemergere, purgati nel [[Fire|fuoco]]
+della sventura, mondati dalle vostre corruzioni oligarchiche, quando, [[Sword|spada]] alla mano,
+respingeste l'Impero di Hammersmith miglio dopo miglio, lo spazzaste
+oltre il suo stesso Broadway, e infine lo spezzaste in una battaglia tanto lunga
+e sanguinosa che gli [[Birds|uccelli]] rapaci vi hanno lasciato il proprio nome.
+Gli uomini l'hanno chiamata, con austera ironia, la Ravenscourt.
+Non ferirò, confido, il patriottismo di Bayswater,
+né il più solitario [[Pride|orgoglio]] di Brompton, o quello di qualsiasi altra
+storica cittadina, prendendo questi due esempi particolari.
+Li scelgo non perché siano più gloriosi degli altri,
+ma in parte per associazione personale (io stesso discendo
+da uno dei tre eroi di Knightsbridge), e in parte per
+la consapevolezza di essere un antiquario dilettante e di non poter presumere
+di trattare di tempi e luoghi più remoti e più misteriosi.
+Non spetta a me risolvere la questione fra due uomini tali
+quali il professor Hugg e sir William Whisky, se cioè Notting [[Hill|Hill]]
+significhi Nutting [[Hill|Hill]] (in allusione ai ricchi boschi che non
+la ricoprono più), oppure se sia una corruzione di Nothing-ill,
+in riferimento alla sua reputazione fra gli antichi come Paradiso Terrestre.
+Quando un Podkins e un Jossy si confessano incerti sui
+confini di West Kensington (che si dice siano stati tracciati nel [[Blood|sangue]]
+dei Buoi), non ho da vergognarmi di confessare un [[Doubt|dubbio]] simile.
+Vi chiederò di scusarmi da ulteriore [[history|storia]], e di assistermi
+con il vostro incoraggiamento nell'affrontare il problema che ci sta
+dinanzi oggi. Deve estinguersi questo antico spirito delle cittadine
+di [[London|Londra]]?  Devono i nostri conducenti d'omnibus e i nostri poliziotti perdere del tutto quella luce
+che vediamo così spesso nei loro occhi, la luce sognante delle
+
+«"Vecchie infelici cose lontane / E battaglie di tanto tempo fa"
+
+«per citare le parole di un poeta poco noto che fu un amico della mia giovinezza?
+Ho deciso, come ho detto, per quanto possibile, di preservare gli occhi
+dei poliziotti e dei conducenti d'omnibus nel loro presente stato sognante.
+Poiché che cos'è uno Stato senza [[Dreams|sogni]]?  E il rimedio che propongo
+è il seguente:
+
+«Domattina alle dieci e venticinque,
+se il Cielo mi risparmierà la vita, mi propongo di emanare un Proclama.
+È stato l'opera della mia vita ed è circa a metà.
+Con l'aiuto di un whisky e soda, concluderò
+l'altra metà [[Night|stanotte]], e domani il mio popolo lo riceverà.
+Tutti questi borghi in cui siete nati, e dove [[Hope|sperate]] di far riposare le vostre ossa,
+saranno reintegrati nella loro antica magnificenza...Hammersmith,
+Kensington, Bayswater, Chelsea, Battersea, Clapham, Balham, e un
+centinaio d'altri.  Ciascuno costruirà immediatamente una cinta muraria [[City|cittadina]] con porte da
+chiudersi al tramonto.  Ciascuno avrà una guardia [[City|cittadina]], armata fino ai denti.
+Ciascuno avrà uno stendardo, uno stemma, e, se conveniente,
+un grido d'adunata.  Non entrerò nei dettagli ora, il mio cuore
+è troppo colmo.  Si troveranno nel proclama stesso.
+Tutti voi, tuttavia, sarete soggetti all'arruolamento nelle guardie
+[[City|cittadine]] locali, da convocarsi insieme mediante una cosa chiamata Tocsin,
+il cui significato sto studiando nelle mie ricerche sulla [[history|storia]].
+Personalmente, credo che un tocsin sia una specie di funzionario assai ben pagato.
+Se, pertanto, qualcuno di voi possiede per caso una cosa come un'alabarda
+in [[house|casa]], gli consiglierei di esercitarsi con essa in [[Garden|giardino]].»
+
+A questo punto il [[King|Re]] affondò il volto nel fazzoletto e in fretta
+lasciò il palco, sopraffatto dall'emozione.
+
+I membri della Società per il Recupero delle Antichità di [[London|Londra]]
+si [[Rose|levarono]] in uno stato indescrivibile di vaghezza.  Alcuni erano paonazzi
+d'indignazione; un ristretto numero d'intellettuali era paonazzo dal ridere;
+la grande maggioranza si ritrovò la mente vuota.  Resta
+una tradizione secondo cui un volto pallido dagli ardenti occhi azzurri rimase
+fisso sul conferenziere, e dopo la conferenza un ragazzo dai capelli rossi
+corse fuori dalla stanza.

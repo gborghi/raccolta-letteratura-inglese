@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_65_sky_signs">‹ Story 65 Sky Signs</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_67_politics_and_discontent">Story 67 Politics And Discontent ›</a></div>
@@ -39,3 +41,38 @@ It is a conflict of incalculable autocracies, under any of which
 at the moment we may fall.
 
                                               Daily News, March 11th, 1911
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_65_sky_signs">‹ Story 65 Sky Signs</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_67_politics_and_discontent">Story 67 Politics And Discontent ›</a></div>
+</nav>
+
+LA MOSTRUOSITÀ
+
+Quando un [[Body|corpo]] morto imputridisce, non diminuisce; si gonfia.
+L'ignoranza di questa elementare [[Truth|verità]] sta alla radice di quasi
+tutta la nostra cecità politica.  Quando parliamo di un popolo in decadenza
+o di un'istituzione morente, abbiamo sempre in qualche modo l'idea
+di un loro rimpicciolirsi; di tribù sempre più rade che si radunano
+sulle loro [[Mountains|montagne]], di edifici sempre più meschini che si levano
+nei loro cieli.  Ma non è così che i corpi sociali marciscono davvero.
+Marciscono come i corpi fisici, orribilmente distesi dall'interno
+da gas rivoltanti che esigono uno sfogo.  Le istituzioni, come i cadaveri,
+si fanno più grandi e più grandi via via che diventano più informi.
+Una monarchia morente è sempre una che ha troppo potere, non troppo poco;
+una religione morente si intromette sempre più di quanto dovrebbe, non meno.
+Il nostro paese è davvero in questo stato di gonfia [[Decay|decadenza]],
+e la prova è questa:  che ogni funzione dello Stato
+si è fatta più informe e più smisurata.  Ogni potere,
+pubblico e privato, è stato dilatato ben oltre ogni sana definizione
+e viviamo sotto un [[government|governo]] di esagerazioni aggrovigliate.
+È un [[government|governo]] che ha tutti gli effetti pratici dell'anarchia.
+Anzi, è qualcosa di peggiore del caos; un politeismo in guerra.
+È un conflitto di incalcolabili autocrazie, sotto una qualsiasi delle quali
+da un momento all'altro possiamo cadere.
+
+                                              Daily News, 11 marzo 1911

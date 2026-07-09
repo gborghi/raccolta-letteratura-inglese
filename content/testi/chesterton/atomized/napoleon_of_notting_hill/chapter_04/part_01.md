@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04">Chapter 04</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04/part_02">part 02 ›</a></div>
@@ -143,3 +145,142 @@ which I trust will be long and stimulating, I propose to conduct
 in a new language of my own by means of rapid and symbolic movements
 of the left leg."  And he began to pirouette slowly round the room
 with a preoccupied expression.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04">Chapter 04</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04/part_02">part 02 ›</a></div>
+</nav>
+
+LIBRO II
+CAPITOLO I
+
+LA CARTA DELLE CITTÀ
+
+LAMBERT stava sbigottito fuori dalla porta degli appartamenti del [[King|Re]],
+in mezzo al trambusto di stupore e di scherno.
+Stava proprio uscendo in strada, con aria stralunata,
+quando [[James Barker]] gli passò accanto di corsa.
+
+«Dove vai?» chiese.
+
+«A por fine a tutta questa buffoneria, ovviamente,» rispose Barker;
+e scomparve nella stanza.
+
+Vi entrò a capofitto, sbattendo la porta e schiaffando il suo incomparabile
+cilindro di seta sul tavolo.  Aprì la bocca, ma prima che potesse parlare,
+il [[King|Re]] disse:
+
+«Il tuo cappello, per favore.»
+
+Trafficando con le dita, e a malapena consapevole di ciò che faceva,
+il giovane politico glielo porse.
+
+Il [[King|Re]] lo posò sulla propria sedia e vi si sedette sopra.
+
+«Una bizzarra vecchia usanza,» spiegò, sorridendo al di sopra delle rovine.
+«Quando il [[King|Re]] riceve i rappresentanti della [[house|Casa]] di Barker,
+il cappello di costoro viene immediatamente distrutto in questo modo.
+Rappresenta l'assoluta definitività dell'atto di omaggio espresso
+nel toglierlo.  Dichiara che mai, finché quel cappello non
+comparirà di nuovo sul tuo capo (evenienza che credo fermamente
+essere remota), la [[house|Casa]] di Barker si [[Rebel|ribellerà]] contro
+la [[Crown|Corona]] d'Inghilterra.»
+
+Barker stava col pugno serrato e il labbro tremante.
+
+«Le tue battute,» cominciò, «e la mia proprietà...» e poi esplose
+con un'imprecazione, e si fermò di nuovo.
+
+«Continua, continua,» disse il [[King|Re]], agitando le mani.
+
+«Che cosa significa tutto questo?» gridò l'altro con un gesto di
+appassionata razionalità.  «Sei matto?»
+
+«Nient'affatto,» rispose il [[King|Re]], amabilmente.  «I matti sono
+sempre seri; impazziscono per mancanza di [[Humour|umorismo]].  Anche tu hai
+un'aria seria, James.»
+
+«Perché non puoi limitarlo alla tua vita privata?» protestò l'altro.
+«Hai denaro in abbondanza, e ora case in abbondanza in cui fare
+lo [[Fool|sciocco]], ma nell'interesse del pubblico...»
+
+«Epigrammatico,» disse il [[King|Re]], puntandogli il dito con tristezza.
+«Niente ardite scintille qui.  Quanto al perché non
+lo faccia in privato, faccio piuttosto fatica a capire la tua domanda.
+La risposta è di comparativa limpidezza.  Non lo faccio in privato,
+perché è più buffo farlo in pubblico.  Tu pare che pensi
+che sarebbe divertente essere dignitoso nella sala del banchetto e
+per strada, e al proprio focolare (potrei procurarmi un focolare)
+tenere la compagnia in un fragore di risate.  Ma è ciò che fanno tutti.
+Tutti sono [[Grave|gravi]] in pubblico, e buffi in privato.
+Il mio senso dell'[[Humour|umorismo]] suggerisce il rovesciamento di ciò; suggerisce
+che si debba essere buffi in pubblico, e solenni in privato.
+[[Desire|Desidero]] fare delle funzioni di Stato, dei parlamenti, delle incoronazioni e via dicendo,
+un'unica fragorosa pantomima all'antica.  Ma, d'altra parte,
+mi rinchiudo da [[Alone|solo]] in un piccolo sgabuzzino per due ore al giorno,
+dove sono così dignitoso che ne esco addirittura malato.»
+
+A questo [[Time|punto]] Barker camminava su e giù per la stanza, la sua finanziera
+sbatteva come le ali nere di un uccello.
+
+«[[Well|Ebbene]], manderai il paese in rovina, ecco tutto,» disse in tono secco.
+
+«Mi pare,» disse Auberon, «che la tradizione di dieci secoli
+venga infranta, e che la [[house|Casa]] di Barker si stia ribellando contro la [[Crown|Corona]]
+d'Inghilterra.  Sarebbe con rammarico (giacché ammiro il tuo aspetto)
+che mi vedrei costretto a decorarti con la forza il capo con i resti
+di questo cappello, ma...»
+
+«Ciò che non riesco a capire,» disse Barker, gettando in su le dita
+con un febbrile gesto americano, «è perché non t'importi di
+nient'altro che dei tuoi giochi.»
+
+Il [[King|Re]] si fermò di colpo nell'atto di sollevare i brandelli di seta,
+li lasciò cadere, e si avvicinò a Barker, guardandolo con fermezza.
+
+«Feci una specie di voto,» disse, «che non avrei parlato sul serio,
+il che significa sempre rispondere a domande sciocche.  Ma l'uomo forte
+sarà sempre gentile con i politici.
+
+«"La forma che i miei sguardi sprezzanti deridono / Richiese un Dio per essere formata;"
+
+«se posso esprimermi così teologicamente.  E per qualche ragione che non
+riesco minimamente a comprendere, mi sento spinto a rispondere a quella tua domanda,
+e a risponderle come se esistesse davvero al mondo
+una cosa quale un argomento serio.  Mi chiedi perché non m'importi di nient'altro.
+Puoi dirmi tu, nel nome di tutti gli dèi in cui non credi,
+perché dovrebbe importarmi di qualcos'altro?»
+
+«Non ti rendi conto delle comuni necessità pubbliche?» gridò Barker.
+«È possibile che un uomo della tua intelligenza non sappia
+che è nell'interesse di tutti...»
+
+«Non credi in Zoroastro?  È possibile che tu
+trascuri Mumbo-Jumbo?» ribatté il [[King|Re]], con sorprendente animazione.
+«Un uomo della tua intelligenza viene da me con questa maledetta etica
+del primo periodo vittoriano?  Se, studiando i miei lineamenti e i miei modi, tu scorgi
+una qualche particolare somiglianza col Principe Consorte, ti assicuro che
+ti sbagli.  Herbert Spencer ti ha mai convinto...ha mai
+convinto qualcuno...ha mai per un solo folle istante convinto sé stesso...che
+debba essere nell'interesse dell'individuo provare uno spirito pubblico?
+Credi tu che, se governi male il tuo dipartimento, tu corra
+un po' più di rischio, o la metà del rischio, di essere ghigliottinato,
+di quanto ne corra un pescatore di essere trascinato nel [[River|fiume]] da un grosso luccio?
+Herbert Spencer si asteneva dal furto per la stessa ragione per cui
+si asteneva dal portare piume tra i capelli, perché era
+un gentiluomo inglese con gusti diversi.  Io sono un gentiluomo
+inglese con gusti diversi.  A lui piaceva la [[philosophy|filosofia]].  A me piace l'arte.
+A lui piaceva scrivere dieci libri sulla [[Nature|natura]] della società umana.
+A me piace vedere il Lord Ciambellano camminare davanti a me con
+un pezzo di carta appuntato alle falde della giacca. È il mio [[Humour|umorismo]].
+Ti ho risposto?  A ogni modo, ho detto la mia ultima parola seria per oggi,
+e la mia ultima parola seria, confido, per il resto della mia vita in questo
+Paradiso dei Folli.  Il resto della mia conversazione con te oggi,
+che confido sarà lungo e stimolante, mi propongo di condurlo
+in una nuova lingua tutta mia, mediante rapidi e simbolici movimenti
+della gamba sinistra.»  E cominciò a piroettare lentamente per la stanza
+con espressione assorta.

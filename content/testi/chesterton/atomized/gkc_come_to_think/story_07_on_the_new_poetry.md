@@ -343,38 +343,312 @@ say `Grunk', or `Quoggle'.
 <ul><li><a href="/testi/chesterton/atomized/gkc_come_to_think/story_07_on_the_new_poetry/part_01">Part 1</a></li><li><a href="/testi/chesterton/atomized/gkc_come_to_think/story_07_on_the_new_poetry/part_02">Part 2</a></li><li><a href="/testi/chesterton/atomized/gkc_come_to_think/story_07_on_the_new_poetry/part_03">Part 3</a></li></ul>
 </nav>
 
-VII.  Sulla nuova poesia
+VII. Sulla Nuova Poesia
 
-OGGI va di moda bastonare i poeti perché sono poetici. L'accusa più schiacciante che si possa muovere loro è quando li si può convincere di essere musicali. Il signor Walter de la Mare viene colto in fallo mentre danza sulla punta lieve e fantastica al ritmo di un'aria che si sosteneva essere sfacciatamente melodiosa e piacevole; e il signor Humbert Wolfe viene arrestato nell'atto stesso di proferire armonie alla vecchia, volgare maniera di Milton e di Keats. Delitti di questa specie i nostri critici paiono sempre più determinati a portare alla luce; ma il codice di legge che essi amministrano è ancora in via di formazione e talvolta appare un poco vago. Non è facile, per chi guarda da fuori, capire perché parole che potrebbero essere ispirate e ricche d'immaginazione, se solo fossero cacofoniche e goffe, debbano diventare meno intelligenti o suggestive per il solo fatto d'essere sonore o dolci. Ma sembra proprio che vi sia, in taluni dei critici, l'idea che il poeta debba evitare di compiacere l'orecchio, del tutto a prescindere dal suo dovere primario di compiacere la mente. Pare affine all'idea degli Imagisti, quei singolari idolatri, e vuol suggerire che l'adoratore debba avere l'immagine ma non l'inno di lode—il suono del sambuco, del salterio e d'ogni sorta di strumenti dinanzi all'immagine che il Re ha eretto. In parole povere, la poesia immaginativa non deve fare appello al senso dell'udito. Il poeta futurista è come il fanciullo della prima età vittoriana. Lo si deve vedere, non udire.
+È di moda ora criticare i poeti perché sono poetici.
+L'accusa più schiacciante contro di loro è quando possono essere convinti
+di essere musicali. Il signor Walter de la Mare viene colto in flagrante mentre danza sul lieve
+piede fantastico su un'aria che si pretende sfacciatamente melodiosa
+e piacevole; e il signor Humbert Wolfe viene arrestato nell'atto stesso
+di pronunciare armonie alla vecchia, volgare maniera di Milton e Keats.
+Delitti di questa sorta i nostri critici sembrano sempre più intenti a portare
+alla luce; ma il codice di legge che essi amministrano è ancora
+in formazione e appare talvolta un po' vago.
+Non è facile per l'estraneo capire perché parole che
+potrebbero essere ispirate e immaginose se solo fossero cacofoniche
+e goffe possano divenire meno intelligenti o suggestive solo
+per il fatto d'essere sonore o dolci. Ma pare esserci davvero un'idea,
+in alcuni dei critici, che il poeta debba evitare di compiacere l'orecchio,
+del tutto a parte il suo primario dovere di compiacere la mente. Pare
+imparentata con l'idea degli Imagisti, quei singolari idolatri,
+e suggerire che l'adoratore debba avere l'immagine ma non
+l'inno di lode--il suono di sambuca, salterio, e ogni
+sorta di musica dinanzi all'immagine che il Re ha eretto.
+In parole schiette, la poesia immaginosa non deve appellarsi al senso
+dell'udito. Il poeta futurista è come il bambino della Prima Età Vittoriana.
+Deve essere visto e non udito.
 
-Ho udito, per la verità, d'un critico moderno che si spinse anche più oltre. Si riferisce che abbia detto:
+Ho, in verità, sentito parlare di un critico moderno che andò persino oltre.
+Si riferisce che egli abbia detto:
 
-`La vera poesia dovrebbe essere invisibile e inudibile.' Presumibilmente farà appello al senso dell'olfatto. In un certo senso, senza dubbio, possiamo riconoscere una considerevole [[Truth|verità]] in tutto questo, come descrizione delle condizioni contemporanee. I più di noi hanno letto ricchi passi di poesia moderna in cui la melodia era del tutto inudibile e la visione del tutto invisibile. Per noi, purtroppo, era anche vero che la poesia era del tutto invisibile. Ma questa è faccenda d'impressione personale, e non possiamo discuterne col critico con alcun profitto logico. Può darsi che per lui la vera melodia dei veri melodisti sia inudibile; ed è per questo che non riesce ad apprezzare persone come il signor Walter de la Mare. Ma non giova nulla che lo scrittore e il critico s'ingaggino in una gara d'insulti per provare chi dei due sia sordo; il che può soltanto, nella migliore delle ipotesi, provare che nessuno dei due è muto. L'unica via, come in ogni disputa, è tornare ai primi principî.
+«La vera poesia dovrebbe essere invisibile e inaudibile».
+Presumibilmente si appellerà al senso dell'olfatto.
+In un senso, senza dubbio, possiamo riconoscere una considerevole [[Truth|verità]]
+in tutto ciò, come descrizione delle condizioni contemporanee.
+La maggior parte di noi ha letto ricchi passi di poesia moderna in cui
+la melodia era del tutto inaudibile e la visione del tutto invisibile.
+Per noi, sfortunatamente, era anche vero che la poesia era
+del tutto invisibile. Ma questa è questione d'impressione personale,
+e non possiamo discuterne col critico con alcun profitto logico.
+Può darsi che per lui la vera melodia dei veri melodisti sia inaudibile;
+ed è per questo che egli non riesce ad apprezzare gente come il signor Walter de la Mare.
+Ma non serve a nulla che lo scrittore e il critico s'ingaggino in una
+zuffa d'insulti per provare quale dei due sia sordo; il che può solo,
+al meglio, provare che nessuno dei due è muto. L'unica via,
+come in ogni lite, è tornare ai primi principii.
 
-Non so come la cosa potrebbe risolversi se fosse lasciata a una mera controversia di gusti. Non so se i poeti smentirebbero i critici e negherebbero con calore d'essersi mai resi colpevoli di produrre suoni gradevoli. Non so se il signor de la Mare negherà furiosamente d'avere orecchio; o se il signor Wolfe cercherà, emettendo suoni orridi, di rivendicare una reputazione immacolata di discordanza. Personalmente, come semplice questione di gusto, li preferisco così come sono. Ma l'unico modo possibile di dibattere queste cose in pubblico è chiedere principî fondamentali, o primi. Se tali principî esistono, è meglio [[debate|dibattere]] sulla loro base. Se tali principî non esistono, è meglio non [[debate|dibattere]] affatto. In tal caso, invero, non possiamo [[debate|dibattere]] affatto. Possiamo solo continuare a produrre suoni—se siamo persone comuni e volgari, suoni tollerabili o piacevoli; se siamo persone schizzinose e futuristiche, suoni brutti o addirittura insopportabili.
+Non so come la cosa potrebbe essere risolta se fosse lasciata
+come una mera disputa sui gusti. Non so se i poeti darebbero
+una smentita ai critici e negherebbero con foga d'essere mai
+stati colpevoli di produrre suoni gradevoli. Non so se il signor de la
+Mare negherà furiosamente d'avere orecchio; o se il signor Wolfe cercherà,
+emettendo suoni orrendi, di rivendicare una immacolata reputazione di dissonanza.
+Personalmente, come mera questione di gusto, li preferisco come sono.
+Ma l'unico modo possibile di dibattere queste cose in pubblico
+è chiedere principii fondamentali o primi. Se ci sono
+tali principii, è meglio [[debate|dibattere]] sulla loro base.
+Se non ci sono tali principii, è meglio non [[debate|dibattere]] affatto.
+In tal caso, in verità, non possiamo [[debate|dibattere]] affatto. Possiamo solo
+continuare a fare rumori--se siamo persone comuni e volgari, rumori tollerabili o
+piacevoli; se siamo persone fastidiose e futuriste,
+rumori brutti o persino insopportabili.
 
-Le arti e i mestieri dell'uomo, fin dal principio, sono stati arti e mestieri di combinazione. Essi unirono il riparo del tetto e la dignità della torre. Unirono lo stile dell'oratore alle deliberazioni del Foro. E unirono il significato delle parole alla musica della melodia. Ora, così come tutta la cultura umana è stata combinazione, così tutta la nuova nozione di cultura è separazione. Essa dovrebbe davvero, se fosse coerente, dissolvere tutte queste antiche combinazioni, non solo nella letteratura o perfino nella musica, ma nell'architettura, nella retorica e in tutto il resto. Questi teorici hanno un compito assai più vasto di quanto immaginino, se vogliono mettere in pratica la propria teoria; ma ciò presuppone che i teorici sappiano quale sia la propria teoria. Così essi dovrebbero davvero costruire una torre solitaria, tutta [[Alone|sola]] per sé in un campo, unicamente allo scopo d'essere [[Well|bene]] proporzionata e pura di contorno, e senza servire ad alcun altro fine. Nel frattempo, i poveri progressisti dovrebbero pur vivere in qualche luogo e rannicchiarsi sotto un tetto o l'altro, a meno che non avessero abolito i tetti per quel [[Time|tempo]]. Forse i poveri diavoli sarebbero costretti in qualche orribile [[house|casa]] d'acciaio con impianti elettrici—che è sorte più raccapricciante di quella che il più aspro tradizionalista potrebbe augurarsi di procurar loro. Forse dovranno soltanto vivere in enormi caseggiati, come [[Insects|insetti]] corallini in una scogliera corallina, solo non altrettanto belli.
+Le arti e i mestieri dell'uomo, fin dal principio, sono state arti
+e mestieri di combinazione. Essi unirono davvero il riparo del tetto
+e la dignità della torre. Unirono davvero lo stile dell'oratore
+con le decisioni del Foro. E unirono davvero il significato
+delle parole con la musica dell'aria. Ora, proprio come l'intera
+cultura umana è stata combinazione, così l'intera nuova nozione
+di cultura è separazione. Essa davvero, se fosse logica,
+spezzerebbe tutte queste vecchie combinazioni, non solo nella letteratura o
+persino nella musica, ma nell'architettura, nella retorica, e in tutto il resto.
+Questi teorici hanno un compito assai più vasto di quanto immaginino,
+se devono mettere in pratica la propria teoria; ma questo è
+supporre che i teorici sappiano quale sia la loro stessa teoria.
+Così essi dovrebbero davvero costruire una torre solitaria, tutta [[Alone|sola]]
+per conto suo in un campo, solo per essere [[Well|ben]] proporzionata e pura
+nel profilo, e senza servire ad alcun altro scopo. Nel frattempo, i poveri
+progressisti dovrebbero abitare da qualche parte e stringersi sotto un
+qualche tetto o l'altro, a meno che non avessero abolito i tetti entro quel [[Time|tempo]].
+Forse i poveri diavoli sarebbero costretti in qualche orrenda [[house|casa]]
+d'acciaio con impianti elettrici--il che è un fato più orrido di
+quello che il più aspro tradizionalista potrebbe voler recare loro.
+Forse dovranno solo abitare in enormi caseggiati, come [[Insects|insetti]]
+corallini in una barriera corallina, solo non così belli.
 
-Ma comunque sia, il punto è che, secondo questa teoria, la loro dimora pratica non deve essere bella. È ovvio e inevitabile quanto il fatto che la loro torre solitaria non deve essere utile. Fa parte del principio implicito che essa non deve essere un campanile o un faro, anche se è nella stessa misura un bel campanile o un bel faro. L'arte deve essere separata dall'architettura, oppure, se la versione è più corretta, l'architettura deve essere separata dall'edificare.
+Ma comunque, il punto è che, secondo questa teoria, la loro pratica
+dimora non deve essere bella. È tanto ovvio e inevitabile
+quanto che la loro torre solitaria non deve essere utile. Fa parte del
+principio implicito che essa non debba essere un campanile o un faro, anche se
+fosse nella stessa misura un bel campanile o un bel faro.
+L'arte deve essere separata dall'architettura, o, se la versione è
+più corretta, l'architettura deve essere separata dal costruire.
 
-Ora, non riesco per la vita mia a vedere perché l'architettura debba essere separata dall'edificare; e allo stesso modo non vedo perché il senso debba essere separato dal suono. Sono ben disposto ad ammettere che sono due cose; ma dico che sono due cose che non solo si completano a vicenda, ma si esprimono e si esibiscono a vicenda; due cose che hanno il potere di far risaltare l'una l'altra e di sottolineare l'esistenza l'una dell'altra. Quando vedo un bel campanile, so che è possibile avere la [[Beauty|bellezza]] senza il campanile, e il campanile senza la [[Beauty|bellezza]]. Ma sono altresì certissimo che il fatto d'essere un campanile lo rende più bello, e il fatto d'essere bello lo rende più campanile.
+Ora, non riesco per la vita di me a vedere perché l'architettura debba essere
+separata dal costruire; e allo stesso modo non riesco a vedere perché il senso
+debba essere separato dal suono. Sono del tutto disposto ad ammettere che essi
+sono due cose; ma dico che sono due cose che non solo completano
+l'una l'altra, ma esprimono ed esibiscono l'una l'altra; due cose che hanno
+il potere di far risaltare l'una l'altra e di sottolineare l'esistenza l'una dell'altra.
+Quando vedo un bel campanile, so che è possibile avere
+la [[Beauty|bellezza]] senza il campanile, e il campanile senza la [[Beauty|bellezza]].
+Ma sono anche del tutto certo che il fatto d'essere un campanile
+lo rende più bello, e il fatto d'essere bello lo rende
+più campanile.
 
-Così, per i grandi versi della poesia, sarebbe di certo possibile ottenere suoni ugualmente melodiosi che fossero puro farfugliare; e sarebbe di certo possibile esprimere il medesimo pensiero in parole che fossero pura rima da strapazzo. Ma, per quanto in questo senso si tratti di una combinazione, non è affatto, in nessun senso, una combinazione artificiale o accidentale. Il verso suona tanto meglio quanto più significa qualcosa, e le parole significano tanto di più quanto meglio suonano [[Well|bene]]. Come ho detto, le due cose si esaltano a vicenda, come si dice che certi condimenti esaltino certi sapori. E finché quel fatto psicologico non sarà compreso, la scuola separatista non avrà affrontato il vero fatto racchiuso nella tradizione. Il verso di [[Milton]], «Come Tenerife o Atlante, immoto», non suonerebbe affatto così bene se Tenerife fosse soltanto il nome di una villa a Golder's Green, o se Atlante si scrivesse con la «a» minuscola. E di certo non significherebbe altrettanto se non suonasse così [[Well|bene]]. In breve, l'[[Union|unione]] di suono e senso è un [[Marriage|matrimonio]]; e questa è l'età del [[divorce|divorzio]]. Essa non riesce a comprendere quel divino [[Paradox|paradosso]] per cui due cose diventano una e tuttavia restano due; né la nozione che esse accrescano reciprocamente il proprio effetto per via di qualcosa di assai più sottile della semplice addizione. Il mondo è diventato una sorta di sfrenato [[Court|tribunale]] del [[divorce|divorzio]], non solo per gli individui, ma anche per le idee. E persino coloro le cui credenze o miscredenze li rendono indifferenti all'idea che quanti Dio ha congiunto diventino una sola carne, potrebbero essere disposti a considerare la tesi che i pensieri che l'uomo ha congiunto possano diventare un solo fatto.
+Così, coi grandi versi della poesia, sarebbe, naturalmente, possibile
+avere suoni egualmente melodiosi che fossero mero farfugliamento;
+e sarebbe, naturalmente, possibile esprimere lo stesso pensiero
+in parole che fossero mera filastrocca. Ma, benché sia in questo senso
+una combinazione, non è enfaticamente in alcun senso una artificiale
+o accidentale combinazione. Il verso suona tanto meglio per
+il significare qualcosa, e le parole significano tanto più per il suonare [[Well|bene]].
+Come ho detto, le due cose si fanno risaltare a vicenda,
+come si dice che certi condimenti facciano risaltare certi sapori.
+E finché quel fatto psicologico non sarà compreso, la scuola
+separatista non avrà affrontato il vero fatto della tradizione.
+Il «Come Tenerife o Atlante immoto» di [[Milton]] non suonerebbe in realtà
+altrettanto bene se Tenerife fosse solo il nome di una casa a Golder's Green,
+o se Atlante fosse scritto con una piccola «a». E di certo non
+significherebbe altrettanto se non suonasse altrettanto [[Well|bene]]. In breve, l'[[Union|unione]]
+di suono e senso è un [[Marriage|Matrimonio]]; e questa è l'età del [[divorce|Divorzio]].
+Essa non può comprendere quel divino [[Paradox|paradosso]] per cui due cose divengono
+una e nondimeno restano due; o la nozione del loro accrescere l'effetto
+l'una dell'altra per qualcosa che è assai più sottile della semplice addizione.
+Il mondo è divenuto una sorta di selvaggia [[Court|corte]] di [[divorce|divorzio]], non solo
+per gl'individui, ma anche per le idee. E persino coloro le cui credenze
+o miscredenze li rendono indifferenti all'idea che coloro che Dio
+ha congiunto divengano una sola carne possono esser disposti a considerare la tesi
+che i pensieri che l'uomo ha congiunto possano divenire un solo fatto.
 
-Quanto a un secondo aspetto della nuova poesia, il [[debate|dibattito]] sulle nuove forme dell'arte mi interessa, perché la mia reazione ad esso non è quella del reazionario ordinario. Il primo fatto che avverto è che tutta questa [[Faith|fede]] nella novità è l'esatto rovescio del [[Novel|nuovo]]. È anche l'esatto rovescio dell'originale. È ormai una convenzione da più di un secolo e mezzo; e in origine fu presa a prestito dal mondo stantio e volgare della politica di partito. È dalle vecchie baruffe fra Radicali, Riformatori e Tory di stretta osservanza che l'arte moderna ha preso a prestito questa bizzarra nozione di un incessante Progresso e di ogni generazione che si vanta a spese della precedente. Quando leggo tutta questa sicura esposizione sui nuovi metodi che ora devono soppiantare i vecchi; su come Yeats e Swinburne debbano cedere il passo a Mr. Eliot e Mr. Pound, proprio come Tennyson e Browning dovettero cedere il passo a Yeats e Swinburne, emetto un sospiro colmo di vecchi e teneri ricordi. Non mi sembra affatto di leggere qualche proclama rivoluzionario di nuove speranze o ideali anarchici; mi sembra di leggere i Saggi di Macaulay. Lessi Macaulay quand'ero ragazzo e gli credetti, perché ero un ragazzo. Potrei quasi dire: perché lui era un ragazzo. Giacché la cosa migliore e più genuina in Macaulay era che egli visse e morì ragazzo; pieno di convinzioni, ignaro della vita; presuntuoso e fiducioso nell'avvenire. E nei Saggi di Macaulay si troverà tutta quella teoria della successione di cose sempre più «avanzate» che le scuole artistiche tuttora ripetono, tuttora si scagliano l'una contro l'altra con scherno, e tuttora ereditano l'una dall'altra con mansuetudine. Il Progresso, diceva Macaulay, non si arresta mai. «Ciò che ieri era la sua meta, domani sarà il suo punto di partenza.» Credevo a quella semplice teoria quand'ero ragazzo. Ma sono piuttosto sorpreso, [[Time|ormai]], che i ragazzi non ne abbiano trovata una nuova.
+Per un secondo aspetto della nuova poesia, il [[debate|dibattito]] sulle nuove
+forme nell'arte m'interessa, perché la mia reazione ad esso non è
+quella dell'ordinario reazionario. Il primo fatto che avverto è
+che tutta questa [[Faith|fede]] nella novità è l'esatto contrario del [[Novel|nuovo]].
+È anche l'esatto contrario dell'originale. È ormai da più di un
+secolo e mezzo una convenzione; e fu originariamente
+presa in prestito dal trito e volgare mondo della politica di partito.
+È dalle vecchie baruffe di Radicali e Riformatori e Tory Fedelissimi
+che l'arte moderna ha preso in prestito questa bizzarra nozione di incessante Progresso
+e di ogni generazione che canta vittoria sulla precedente. Quando leggo tutta questa
+sicura esposizione su nuovi metodi che ora devono soppiantare
+i vecchi metodi; di come Yeats e Swinburne debbano cedere al signor Eliot
+e al signor Pound, proprio come Tennyson e Browning dovettero cedere a Yeats
+e Swinburne, emetto un sospiro pieno di vecchi e teneri ricordi.
+Non mi sento come se stessi leggendo qualche rivoluzionario proclama
+di nuove anarchiche speranze o ideali; mi sento come se stessi leggendo
+i Saggi di Macaulay. Lessi Macaulay quand'ero ragazzo e gli credetti,
+perché ero un ragazzo. Potrei quasi dire perché egli era un ragazzo.
+Poiché la cosa migliore e più cordiale di Macaulay era che egli visse
+e morì ragazzo; pieno di convinzione, ignaro della vita; presuntuoso e
+fiducioso nel futuro. E nei Saggi di Macaulay si troverà
+tutta quella teoria della successione di cose sempre più «avanzate»
+che le scuole artistiche ancora ripetono, ancora sdegnosamente scagliano
+l'una contro l'altra, e ancora mansuetamente ereditano l'una dall'altra.
+Il Progresso, disse Macaulay, non si ferma mai. «Ciò che era la sua meta ieri
+sarà il suo punto di partenza domani». Credetti quella semplice
+teoria quand'ero ragazzo. Ma sono piuttosto sorpreso, a questo [[Time|punto]],
+che i ragazzi non ne abbiano trovata una nuova.
 
-In ogni caso, sono giunto ora a credere in una teoria del tutto diversa riguardo alla novità, e persino alla necessità della novità. Ciò che mi lascia perplesso della cultura corrente è che essa ignora proprio quelle verità che esagera. Non fa che rintronarci il capo parlando di Psicologia, e poi [[Leaves|tralascia]] del tutto i fatti più elementari e familiari della psicologia, come il fatto della stanchezza. Non fa che delirare di Relatività, e poi ignora l'ovvio fatto che la stanchezza è relativa. Se un uomo viene costretto a camminare per venti miglia tra due muri di pietra incisi su ogni lato con infinite ripetizioni dei Marmi di Elgin, non è improbabile che alla fine della sua camminata sarà un po' stanco di quello stile classico di ornamento. Ma ciò accade perché l'uomo è stanco; non perché lo stile sia stancante. La cosa potrebbe essere messa alla prova all'istante avviando un uomo fresco ed entusiasta dall'estremità opposta; un uomo nella disposizione d'animo del primo [[Renaissance|Rinascimento]], avido dello spirito greco ma ancora malamente familiare con esso. In questo senso e per questa ragione, è necessario avere novità; ma la novità non è necessariamente un miglioramento. Essa non conferisce necessariamente all'uomo per cui le cose vecchie sono stantie alcun diritto di disprezzare l'uomo per cui le cose vecchie sono fresche. E vi sono sempre uomini per cui le cose vecchie sono fresche. Tali uomini, lungi dall'essere indietro rispetto ai tempi, sono affatto al di sopra dei tempi. Sono troppo individuali e originali per essere toccati dai triviali mutamenti del [[Time|tempo]]. Un uomo che desideri davvero scrivere un [[Sonnet|sonetto]], come Shakespeare desiderava scrivere un [[Sonnet|sonetto]], è tuttora spontaneo quanto un uomo che desideri cantare una [[Song|canzone]]. Vi sono sonetti di Mr. Baring o di Mr. Belloc che sono esattamente di quella specie; e, lungi dall'essere più stantii di altri, sono più freschi di altri, perché la loro gioia rinascimentale nel classico non è divenuta stantia. Ma ciò non significa che tutti debbano continuare a scrivere sonetti, e nient'altro che sonetti, per sempre; perché non tutti lo vorrebbero; e ripetizioni imposte sarebbero davvero stantie. In altre parole, talvolta è igienico avere un cambiamento, anche quando non è un miglioramento. Possiamo lasciare un vecchio campo a maggese... non perché non porterà più raccolti, ma perché li porterà; non perché sia sterile, ma perché non lo è. Possiamo distoglierci per un [[Time|certo tempo]] da una cosa buona... non perché non sia buona, ma perché, per una ragione puramente relativa, ne abbiamo avuta davvero troppo, di una cosa buona. Questa è la vera ragione del continuo agitarsi e mutare degli stili e dei metodi; ed è (entro certi limiti) una sua completa giustificazione. I ragazzi saranno pur sempre ragazzi; ma non per questo saranno uomini migliori.
+Comunque, sono ora giunto a credere in una teoria totalmente diversa
+sulla novità, e persino sulla necessità della novità. Ciò che mi lascia perplesso della
+cultura corrente è che essa ignora proprio le verità che esagera.
+Ci frastorna sempre a proposito di Psicologia, e poi
+[[Leaves|tralascia]] interamente i più elementari e familiari fatti della psicologia,
+come il fatto della stanchezza. Sragiona sempre di Relatività,
+e poi ignora l'ovvio fatto che la stanchezza è relativa.
+Se si fa camminare un uomo per venti miglia tra due muri di pietra
+incisi su ciascun lato con infinite ripetizioni dei Marmi di Elgin,
+non è improbabile che alla fine della sua camminata egli sia un po'
+stanco di quello stile classico d'ornamento. Ma è perché
+l'uomo è stanco; non perché lo stile sia stancante. La faccenda
+potrebbe essere immediatamente verificata facendo partire un uomo fresco ed
+entusiasta dall'altra estremità; un uomo nell'umore del primo [[Renaissance|Rinascimento]],
+avido dello spirito greco ma ancora mal familiare con esso.
+In questo senso e per questa ragione, è necessario avere novità;
+ma la novità non è necessariamente un miglioramento. Essa non
+dà necessariamente all'uomo per il quale le vecchie cose sono trite
+alcun diritto di disprezzare l'uomo per il quale le vecchie cose sono fresche.
+E ci sono sempre uomini per i quali le vecchie cose sono fresche. Tali uomini,
+lungi dall'essere indietro coi tempi, sono del tutto al di sopra dei tempi.
+Sono troppo individuali e originali per essere influenzati dai triviali
+mutamenti del [[Time|tempo]]. Un uomo che vuole davvero scrivere un [[Sonnet|sonetto]],
+come Shakespeare volle scrivere un [[Sonnet|sonetto]], è ancora spontaneo
+quanto un uomo che vuole cantare una [[Song|canzone]]. Ci sono sonetti del signor Baring
+o del signor Belloc che sono esattamente di quella sorta; e, lungi
+dall'essere più triti di altri, sono più freschi di altri,
+perché la loro [[Renaissance|rinascimentale]] gioia nel classico non è divenuta trita.
+Ma questo non significa che ognuno debba continuare a scrivere sonetti,
+e nient'altro che sonetti, per sempre; poiché non tutti vorrebbero;
+e le ripetizioni imposte sarebbero davvero trite. In altre parole,
+è talvolta igienico avere un cambiamento, anche quando non è
+un miglioramento. Possiamo lasciare un vecchio campo a maggese--non perché
+non porterà mai più raccolti, ma perché li porterà; non perché
+è sterile, ma perché non lo è. Possiamo distoglierci per un [[Time|tempo]]
+da una cosa buona--non perché non è buona, ma perché abbiamo,
+per una ragione puramente relativa, avuto davvero troppo di una cosa buona.
+Ecco la vera ragione del continuo movimento e mutamento negli stili
+e nei metodi; ed essa è (entro ragione) una completa giustificazione di esso.
+I ragazzi saranno ragazzi; ma non saranno necessariamente uomini migliori.
 
-Vi sono almeno due cose da dire in favore di questa teoria del cambiamento, come alternativa alla teoria piuttosto antiquata del progresso. In primo luogo, essa corrisponde perlomeno ai fatti reali della [[history|storia]] artistica e letteraria, ripetutisi ancora e ancora. Non vediamo nel passato una perpetua linea di crescente liberazione o ampliamento della sperimentazione artistica. Ciò che vediamo nel passato è la faccenda assai più umana di uomini che dapprima fanno una cosa male; poi la fanno [[Well|bene]]; poi la fanno troppo [[Well|bene]]... o, quantomeno, con troppa facilità e troppo spesso. Allora, di solito, cominciano a fare qualcos'altro; ma quel qualcosa è assai più spesso una cosa vecchia che una cosa nuova. Ciò che in realtà vediamo è il perpetuo riemergere di ciò che vien detto nuovo, perché è cosa trascurata. Così Raffaello e il [[Renaissance|Rinascimento]] tornarono a ciò che era più antico del medievalismo; così i Preraffaelliti tornarono a ciò che era più antico di Raffaello. Così molti artisti moderni sono tornati all'arte egizia perché era più antica dell'arte greca. Così molti di loro sono tornati all'arte selvaggia perché la si riteneva primitiva e incontaminata. Hanno il diritto di cercare stimolo, benché gli stimolanti vadano presi con moderazione. Ma il loro rinnovamento è relativo. L'altro punto in suo favore è che essa si libera di un certo elemento chiamato [[Pride|orgoglio]] o impudenza; che è un [[Wind|vento]] d'oriente soffiante da aridi deserti e che mai fece bene a uomo o bestia.
+Ci sono almeno due cose da dire a favore di questa teoria del mutamento,
+come alternativa alla piuttosto antiquata teoria del progresso.
+Primo, essa corrisponde in ogni caso ai fatti reali
+della [[history|storia]] artistica e letteraria, ripetuti ancora e ancora.
+Noi non vediamo nel passato una perpetua linea di crescente liberazione
+o ampliamento dell'esperimento artistico. Ciò che vediamo nel passato
+è la ben più umana faccenda di uomini che dapprima fanno qualcosa malamente;
+poi la fanno [[Well|bene]]; poi la fanno troppo [[Well|bene]]--o, almeno, troppo facilmente
+e troppo spesso. Poi comunemente cominciano a fare qualcos'altro;
+ma la cosa è assai più spesso una cosa vecchia che una cosa nuova.
+Ciò che davvero vediamo è il perpetuo ravvivarsi di ciò che vengono chiamate
+cose nuove, perché sono cose trascurate. Così Raffaello
+e il [[Renaissance|Rinascimento]] tornarono a ciò che era più antico del medievalismo;
+così i Preraffaelliti tornarono a ciò che era più antico di Raffaello.
+Così tanti artisti moderni sono tornati all'arte egizia perché essa
+era più antica dell'arte greca. Così tanti di loro sono tornati all'arte
+selvaggia perché si supponeva fosse primitiva e incorrotta.
+Essi hanno il diritto di cercare stimolazione, benché gli stimolanti
+debbano essere presi con moderazione. Ma il loro rinnovamento è relativo.
+L'altro punto a suo favore è che esso si sbarazza di un certo
+elemento chiamato [[Pride|orgoglio]] o impudenza; che è un [[Wind|vento]] d'oriente che soffia
+fuori da aridi deserti e non fece mai bene a uomo o bestia.
 
-Quanto a un terzo aspetto della nuova poesia, si sostiene che il poeta debba cercare di isolare un'immagine, e persino una parola. Egli deve, per usare l'espressione militare, tagliare tutti i collegamenti e lasciarla sospesa in aria. Anzitutto, ciò mi interessa nel senso più superficiale, perché ciò che mi colpisce dei poeti è che erano tutti irrimediabilmente tradizionali, anche quando cercavano di essere rivoluzionari. Nessuno, in apparenza, poteva essere più interamente sospeso in aria di Shelley. Nulla poteva essere più interamente sospeso in aria del suo piccolo prediletto, l'Allodola. E nessuna mente poteva essere più colma della convinzione di trovarsi in completa rivolta contro ogni tradizione, e specialmente contro ogni religione. Eppure sarebbe un esercizio assai divertente prendere la poesia di Shelley sull'allodola, verso per verso e strofa per strofa, e mostrare quanto interamente essa dipenda da idee tradizionali, e anzi in modo piuttosto particolare da idee religiose. Qui, forse, sarebbe un esercizio troppo lungo farmi strada attraverso quella poesia piuttosto lunga. Ma è davvero vero che essa potrebbe essere analizzata, punto per punto, in quel senso tradizionale. Il [[Song|canto]] del radioso giovane Ateo si rivelerebbe probabilmente, alla fine, un trattato teologico quanto mai ortodosso. Egli comincia dicendo: «Salute a te, spirito gioioso». Che cosa intende, parlando di spiriti, se in nessun senso è uno spiritualista? Quale sarebbe il significato dell'osservazione, se fosse davvero un materialista? Non avrebbe mai avuto neppure l'idea di uno spirito, se non fosse per la tradizione religiosa rappresentata nell'idea dello Spirito Santo. Egli poi dice: «Uccello tu non fosti mai», il che è evidentemente una menzogna. Ma è una menzogna che simboleggia una [[Truth|verità]], e ciò che egli davvero intende con essa si potrebbe enunciare così: «Mi rifiuto di credere che un uccello sia soltanto un uccello, o che in tali cose non vi sia nulla di più dei fatti materiali che di esse conosciamo». Quel pensiero è il principio di ogni teologia.
+Per un terzo aspetto della nuova poesia, si sostiene che il poeta
+debba cercare d'isolare un'immagine, e persino una parola. Egli deve, per usare
+la frase militare, tagliare tutti i collegamenti e lasciarla in aria.
+Per cominciare, questo m'interessa nel senso più superficiale,
+perché ciò che mi colpisce dei poeti è che essi erano tutti
+irrimediabilmente tradizionali, persino quando tentavano di essere rivoluzionari.
+Nessuno potrebbe essere più interamente in aria, a tutta apparenza,
+di Shelley. Nulla potrebbe essere più interamente in aria
+del suo piccolo beniamino, l'Allodola. E nessuna mente potrebbe essere più
+colma della convinzione d'essere completamente in rivolta
+contro ogni tradizione, e specialmente contro ogni religione.
+Eppure sarebbe un esercizio abbastanza divertente prendere la poesia
+di Shelley sull'allodola, verso per verso e strofa per strofa, e mostrare
+quanto interamente essa dipenda da idee tradizionali, e persino piuttosto
+specialmente da idee religiose. Qui, forse, sarebbe un esercizio
+troppo lungo farmi strada attraverso quella poesia piuttosto lunga.
+Ma è davvero vero che essa potrebbe essere analizzata, punto per punto,
+in quel senso tradizionale. Il [[Song|canto]] del radioso giovane Ateo
+si rivelerebbe probabilmente alla fine un ortodossissimo trattato teologico.
+Egli comincia dicendo: «Salute a te, spirito gioioso». Cosa intende
+parlando di spiriti, se non è in alcun senso uno spiritista?
+Quale sarebbe il significato dell'osservazione, se egli fosse davvero un materialista?
+Non avrebbe mai avuto nemmeno l'idea di uno spirito se non per la
+tradizione religiosa rappresentata nell'idea dello Spirito Santo.
+Poi dice: «Uccello tu non fosti mai», il che è ovviamente una menzogna.
+Ma è una menzogna che simboleggia una [[Truth|verità]], e ciò che egli davvero intende con essa
+si può enunciare così: «Rifiuto di credere che un uccello sia solo un uccello,
+o che ci sia nulla di più in tali cose dei materiali
+fatti che ne conosciamo». Quel pensiero è l'inizio
+di tutta la teologia.
 
-La successiva resa di Shelley alla superstizione è assolutamente abietta e sconvolgente. Egli dice: «Dal cielo, o presso ad esso»... un'osservazione che dovrebbe indurre tutte le persone moderne e razionali, con un moto concorde, a coprirsi il volto per la vergogna. In parole povere, egli non solo parla come se vi fosse qualcosa di divino nel mero spazio vuoto al di sopra del nostro pianeta. Parla in effetti come se vi fosse un paradiso di santi e di angeli collocato in qualche luogo, come una nuvola colorata, in quello spazio, sicché di un'allodola si potrebbe dire che gli è più o meno vicina. Il cedimento è tanto penoso che non mi soffermerò sulla minore barbarie della fisiologia medievale, per cui le emozioni dell'uccello sono rappresentate come provenienti dal suo «cuore», quasi che quell'organo fosse un centro di coscienza. Stavo per dire che non me la sentivo, che «non avevo cuore» di indugiare più a lungo sulla deprimente ortodossia di Shelley, cadendo con ciò io stesso in quell'immagine fisica tanto superstiziosa e medievale. È così difficile scrivere un inglese qualsivoglia comprensibile senza essere superstiziosi e medievali.
+La successiva resa di Shelley alla superstizione è assolutamente abietta
+e sconcertante. Egli dice: «Dal cielo, o vicino ad esso»--osservazione che deve
+far coprire di vergogna il volto, con un concertato movimento, a tutte le persone
+moderne e razionali. In parole schiette, egli non solo parla come se ci
+fosse qualcosa di divino nel mero spazio vuoto sopra il nostro pianeta.
+Egli parla effettivamente come se ci fosse un paradiso di santi e angeli
+situato da qualche parte, come una nube colorata, in quello spazio,
+così che si potesse dire di un'allodola d'esserne più o meno vicina.
+La caduta è così angosciante che non m'indugerò sul minore
+barbarismo della fisiologia medievale, per cui le emozioni dell'uccello
+sono rappresentate come provenienti dal suo «cuore», come se quell'organo fosse un
+centro di coscienza. Stavo per dire che «non avevo il cuore»
+d'indugiare più a lungo sulla deprimente ortodossia di Shelley,
+per cui io stesso sarei caduto nell'immagine fisica che è
+così superstiziosa e medievale. È così assai difficile scrivere
+un inglese intelligibile senza essere superstiziosi e medievali.
 
-Inutile dire che la critica potrebbe non solo essere proseguita per tutta la poesia, ma diviene cospicuamente chiara e vera nelle parti più poetiche del poema. Di certo i passi più belli, e forse i più frequentemente citati, sono quelli che celebrano davvero ciò che è non solo un dogma cristiano, ma un dogma ora spesso abbandonato come antiquato e ottenebrato. Quei grandi movimenti del verso non corrispondono in realtà all'Ascesa dell'Allodola, ma piuttosto alla Caduta dell'Uomo. Oserei dire che Shelley sarebbe stato assai sorpreso se gli fosse stato detto che stava sottoscrivendo la dottrina della Caduta dell'Uomo. Ma di certo lo faceva; ed era per questo che le sue parole, in quel momento, divengono davvero gravi e umane. «Guardiamo innanzi e indietro e agogniamo ciò che non è» ha il suono di una grande campana a morto. Non c'è bisogno di dire ad alcuno che qualche tragedia spirituale è già accaduta alla stirpe di colui che grida a gran voce:
+Inutile dire, la critica potrebbe non solo essere continuata
+attraverso l'intera poesia, ma diviene cospicuamente chiara
+e vera nelle parti più poetiche della poesia. Di certo i
+passi più belli, e forse i passi più frequentemente citati,
+sono quelli che davvero celebrano ciò che non è solo un dogma cristiano,
+ma uno ora spesso abbandonato come un dogma antiquato e ottenebrato.
+Quei grandi movimenti di versi non corrispondono davvero
+al Volo dell'Allodola, bensì piuttosto alla Caduta dell'Uomo.
+Oserei dire che Shelley sarebbe stato assai sorpreso se gli fosse stato
+detto che stava sottoscrivendo la dottrina della Caduta dell'Uomo.
+Ma di certo lo stava; ed è per questo che le sue parole in quel momento
+divengono davvero gravi e umane. «Guardiamo dinanzi e dietro e
+ci struggiamo per ciò che non è» ha il suono di una grande campana a morto.
+Nessuno ha bisogno che gli si dica che qualche spirituale tragedia è già
+accaduta alla razza di colui che grida a gran voce:
 
-«Ma se sapessimo disprezzare l'Odio e l'[[Pride|orgoglio]] e la [[Fear|paura]]; Se fossimo creature nate a non versare una lacrima...»
+«Ma se potessimo sdegnare Odio e [[Pride|Orgoglio]] e [[Fear|Paura]]; Se fossimo cose
+nate a non versare una lacrima--»
 
-o al poeta che sa paragonare una tale [[Tragedy|tragedia]] con la più triviale beatitudine di una piccola creatura pennuta nell'aria vuota.
+o al poeta che sa paragonare una simile [[Tragedy|tragedia]] con la più triviale
+beatitudine di una piccola creatura piumata nell'aria vuota.
 
-Ho già osservato che nel passato tutta la poesia che pretendeva di essere particolarmente rivoluzionaria era di fatto particolarmente tradizionale. In questo e in molte altre cose la maggior parte delle rivoluzioni del passato si somigliavano piuttosto; e alcuni di noi piuttosto [[Doubt|dubitano]] che le rivoluzioni del futuro saranno particolarmente diverse. Ma anche ignorando questa tradizione del tradizionalismo, e supponendo che i futuristi abbiano davvero qualcosa di [[Novel|nuovo]] in fatto di novità, la difficoltà logica della loro posizione resta pur sempre. Possiamo, per amor di discussione, trattare questo cambiamento come se non vi fossero stati altri cambiamenti. Possiamo isolare l'Imagista come egli isolerebbe l'immagine. Possiamo trattare l'arte come se non avesse [[history|storia]], proprio come l'[[Artist|artista]] racconta una storia come se non avesse principio. Ma resta pur sempre il fatto che, dovendo egli usare le parole di una qualche lingua, quelle parole le ha prese da qualche parte e le ha apprese da qualcuno. E le parole sono di fatto alate, o gravate, dei pensieri e delle associazioni di mille anni. Se non lo fossero, egli non le userebbe; potrebbe altrettanto [[Well|bene]] dire «Grunk», o «Quoggle».
+Ho già osservato che nel passato tutta la poesia che dichiarava
+d'essere particolarmente rivoluzionaria era di fatto particolarmente tradizionale.
+In questo e in molte cose la maggior parte delle rivoluzioni del passato
+erano press'a poco simili; e ci sono alcuni di noi che piuttosto [[Doubt|dubitano]]
+che le rivoluzioni del futuro saranno particolarmente diverse.
+Ma anche se ignoriamo questa tradizione del tradizionalismo, e supponiamo
+che i futuristi abbiano davvero qualcosa di [[Novel|nuovo]] in fatto di
+novità, la difficoltà logica della loro posizione permane.
+Possiamo, per amor d'argomento, trattare questo mutamento come se non
+ci fossero stati altri mutamenti. Possiamo isolare l'Imagista come egli
+isolerebbe l'immagine. Possiamo trattare l'arte come se non avesse [[history|storia]],
+proprio come l'[[Artist|artista]] racconta una storia come se non avesse inizio.
+Ma il fatto permane che, dovendo egli usare le parole
+di qualche lingua, ha preso le parole da qualche parte e le ha imparate
+da qualcuno. E le parole sono di fatto alate o gravate
+dei pensieri e delle associazioni di mille anni.
+Se non lo fossero, egli non le userebbe; potrebbe altrettanto [[Well|bene]]
+dire «Grunk», o «Quoggle».

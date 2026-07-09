@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_16">‹ part 16</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_18">part 18 ›</a></div>
@@ -207,3 +209,206 @@ ingenious in keeping the really suspicious character just out of
 sight; sometimes by his being ordinary; sometimes actually by his
 
 being extraordinary; one would be too small to be noticed, another
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a> › <a href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade">Story 05 Louis and shouted as if on parade</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_16">‹ part 16</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade/part_18">part 18 ›</a></div>
+</nav>
+
+sono tutte sciocchezze, e il suo tentativo di rivoltarle contro di lui è
+
+sciocchezza ancor peggiore.  Finché lei aveva un'accusa seria da portare, le abbiamo dato
+
+ogni opportunità di provarla.  Se si mette a parlare di
+
+cose che nessun vivente ha mai preso sul serio, tanto meno Gahagan,
+
+le escludo.»
+
+«Molto [[Well|bene]],» sbottò il signor Little, «la mia ultima domanda sarà assai
+
+pratica.  Se il capitano Gahagan ha fatto solo ciò che dice di aver fatto,
+
+perché diavolo non l'ha detto?  Perché è scomparso?  Perché
+
+l'indomani mattina se l'è svignata di buon'ora?»
+
+Peter Gahagan sollevò a fatica la sua ampia figura dal sedile;
+
+non guardò neppure l'avvocato; ma i suoi occhi erano fissi sul
+
+vecchio pastore, con una profonda espressione di dolore.
+
+«C'è una risposta a questo,» disse.  «Ma preferirei di gran lunga
+
+darla a chiunque tranne che al signor Whiteways.»
+
+E, per quanto strano possa parere, nel momento in cui il signor Whiteways udì questo
+
+rifiuto, si [[Rose|alzò]] anch'egli e tese la mano a Gahagan.
+
+«Le credo,» disse.  «È proprio quest'ultima frase che
+
+mi ha fatto credere in lei.»
+
+Il legale sprezzante, così abbandonato dal suo stesso cliente,
+
+ricacciò le carte nella sua piccola borsa nera; e la
+
+irregolare conferenza si sciolse.
+
+Gahagan raccontò poi la [[Truth|verità]] sull'ultima domanda, alla
+
+persona a cui raccontava tutto, a Joan Varney, con la quale era
+
+fidanzato.  E, per quanto suonasse strano, parve che ella capisse.
+
+«Se preferisci metterla così,» disse, «non sono fuggito dalla
+
+polizia; sono fuggito dalla ragazza.  E so che suona folle; ma
+
+sentivo davvero, in quel momento, di fare del mio meglio per lei, in una laida
+
+situazione e tra un mucchio di laide alternative.  Sapevo che l'indomani
+
+mattina il vicario stava dicendo di avermi visto commettere un omicidio.
+
+Supponi che lo avessi smentito — [[Well|beh]], tanto per cominciare, avrebbe dovuto
+
+sapere che il suo vecchio amico, l'amico dei suoi animali, era un orribile
+
+pazzo che le aveva rivolto una sorta di disgustoso insulto, nel
+
+migliore dei casi.
+
+«Ma non era solo quello.  Mi ero comportato male quanto chiunque; ero
+
+in una posizione vergognosamente falsa; e, se fossi rimasto, non ci sarebbe stato
+
+davanti a noi altro che strisciare per tutto quel pantano di misera
+
+spiegazione e disperato rimorso, in cui è difficile dire
+
+se sia l'uomo o la donna ad averne la peggio.  E poi un pensiero
+
+bizzarro mi venne — un pensiero segreto, quasi subconscio; ma non
+
+riuscivo a liberarmi di quell'idea.  Supponi che lei continuasse a pensarci, e
+
+ricordasse poi, in tempi più calmi, che un uomo ne aveva ucciso
+
+un altro per lei.  Ne sarebbe inorridita; ma non sarebbe stata
+
+umiliata.  Un folle bisbiglio continuava a ripetermi che alla lunga
+
+lei sarebbe stata — un pochino fiera.»
+
+«Credo che tu abbia ragione riguardo a lei,» disse Joan, col suo modo schietto.
+
+«Ma, comunque, avresti dovuto dirle la [[Truth|verità]].»
+
+«Joan,» disse, «semplicemente non ne avevo il [[Courage|coraggio]].»
+
+«Lo so,» disse.  «So anche tutto della tua D.S.O.;
+
+e ti ho visto io stessa saltare un baratro che a me faceva star male solo a guardarlo.
+
+Ma è proprio questo il guaio di tutti voi bei signori
+
+combattenti.»  La sua testa si sollevò appena.  «Non avete il
+
+[[Courage|coraggio]].»
+
+UNA STORIA ALTA
+
+Stavano discutendo dei nuovi guai in [[Germany|Germania]]: i tre vecchi
+
+amici, Sir [[Hubert]] Wotton, il celebre funzionario; il signor Pond, l'
+
+oscuro funzionario; e il capitano Gahagan, che non fece mai un colpo di
+
+lavoro nel senso di mettere penna su carta, ma amava inventare
+
+le storie più fantastiche lì per lì.  In questa
+
+occasione, tuttavia, il gruppo era cresciuto a quattro; perché la
+
+moglie di Gahagan era presente, una giovane donna dall'aria candida, con capelli
+
+castano chiaro e occhi castano scuro.  Si erano sposati solo da poco;
+
+e la presenza di Joan Gahagan stimolava ancora il
+
+capitano a slanci di esibizionismo piuttosto eccessivi.
+
+Il capitano Gahagan pareva un bellimbusto della Reggenza; il signor Pond pareva un
+
+pesce dagli occhi tondi, con la barba e la fronte di Socrate; Sir [[Hubert]]
+
+Wotton pareva Sir [[Hubert]] Wotton — il che riassumeva una qualità assai solida e
+
+virile in lui, per la quale i suoi amici nutrivano un grande rispetto.
+
+«È una vergogna infame,» diceva Wotton, «il modo in cui questi individui
+
+hanno trattato gli ebrei: ebrei perfettamente perbene e innocui, che erano
+
+comunisti non più di quanto lo sia io; ometti che si erano fatti strada
+
+per merito e operosità, tutti cacciati dai loro posti senza un
+
+soldo di indennizzo.  Certo che sei d'accordo con questo, Gahagan?»
+
+«Certo che sì,» replicò Gahagan.  «Non ho mai preso a calci un ebreo.  Posso
+
+distintamente ricordare tre occasioni e mezza in cui mi
+
+astenni deliberatamente dal farlo.  Quanto a tutte quelle centinaia e
+
+migliaia di poveri piccoli violinisti e attori e scacchisti,
+
+penso che sia stata una vergogna maledetta che fossero cacciati o
+
+presi a calci in qualsiasi modo.  Ma immagino che debbano prendersi a calci da soli, per
+
+essere stati così fedeli alla [[Germany|Germania]] e persino, ovunque altrove,
+
+piuttosto generalmente filotedeschi.»
+
+«Anche questo si può esagerare,» disse il signor Pond.  «Ricordate
+
+il caso di Carl Schiller, avvenuto durante la Guerra?  Fu
+
+tutto tenuto piuttosto sotto silenzio, come ho ragione di sapere; perché la cosa
+
+accadde, in un certo senso, nel mio ufficio.  In genere ho trovato
+
+le storie di spionaggio la più noiosa di tutte le forme di [[Detective Fiction|narrativa poliziesca]]; nelle mie
+
+modeste ricerche nella letteratura leggera dell'omicidio,
+
+le evito invariabilmente.  Ma questa storia ebbe davvero un
+
+finale inatteso e piuttosto sorprendente.  Naturalmente, sapete che
+
+in tempo di guerra il funzionario che si occupa di queste cose è assai
+
+esposto ai dilettanti, come il Duca di Wellington era esposto agli
+
+autori.  Noi perseguitavamo le spie; e i maniaci delle spie perseguitavano
+
+noi.  Venivano sempre a dirci di aver visto certe
+
+persone che parevano spie.  Invano li assicuravamo che le spie
+
+non hanno l'aria di spie.  In verità, il nemico era piuttosto
+
+ingegnoso nel tenere il personaggio davvero sospetto proprio fuori
+
+vista; a volte facendolo comune; a volte, anzi, facendolo
+
+straordinario; uno era troppo piccolo per essere notato, un altro
