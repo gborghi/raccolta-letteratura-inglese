@@ -1239,6 +1239,18 @@ Every chapter, story, scene, section and paragraph-level excerpt across the pros
     console.warn("author pages generation skipped:", e.message)
   }
 
+  // Shrink excerpts_kw.json (~56MB of full per-excerpt vocab) to top-40 TF-IDF terms.
+  // Runs last: it re-reads the excerpt text from the now-written content/ tree.
+  try {
+    execSync("node scripts/trim-kw-index.mjs", {
+      cwd: path.dirname(fileURLToPath(import.meta.url)),
+      stdio: "inherit",
+      env: { ...process.env, NODE_OPTIONS: "--max-old-space-size=6144" },
+    })
+  } catch (e) {
+    console.warn("kw-index trim skipped:", e.message)
+  }
+
   console.log(
     `copied ${written} notes, ${unitsCopied} unit pages; indexed ${works.length} works, ` +
       `${excerpts.length} excerpts, ${authors.length} authors, ${clusters.length} clusters`,
