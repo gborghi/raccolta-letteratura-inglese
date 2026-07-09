@@ -32,7 +32,11 @@ function wireCerca(a: HTMLAnchorElement, s: Spoke) {
   if (!s.cercaAuthor) return
   a.dataset.author = s.cercaAuthor
   const cur = a.getAttribute("href") || ""
-  a.setAttribute("href", cur.replace(/cerca\/?$/, "authors/" + s.cercaAuthor.toLowerCase()))
+  // Slugify the author name for the landing-page URL: multi-word authors (e.g.
+  // "Conan Doyle") emit at /authors/conan-doyle, so spaces must become hyphens —
+  // otherwise the link is /authors/conan%20doyle which 404s.
+  const slug = s.cercaAuthor.toLowerCase().replace(/\s+/g, "-")
+  a.setAttribute("href", cur.replace(/cerca\/?$/, "authors/" + slug))
 }
 
 // emblem-only clickable tile (circle layout)
