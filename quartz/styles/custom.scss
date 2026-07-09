@@ -87,11 +87,16 @@ a {
 .btn:hover {
   background: var(--highlight);
 }
-.btn-primary {
+// Internal links carry Quartz's `a.internal` rule (base.scss) painting a pale
+// `--highlight` background at specificity 0,1,1, which beats a bare `.btn-primary`
+// (0,1,0) and left the primary button pale-on-pale (cream `--light` text over the
+// pale highlight). Two classes (0,2,0) out-specify `a.internal` so the terracotta
+// fill sticks.
+.btn.btn-primary {
   background: var(--secondary);
   color: var(--light);
 }
-.btn-primary:hover {
+.btn.btn-primary:hover {
   opacity: 0.92;
   background: var(--secondary);
 }
