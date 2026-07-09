@@ -47,7 +47,7 @@ function tokens(md) {
   return counts
 }
 
-function trim(file) {
+function trim(file, resolve) {
   const p = path.join(STATIC, file)
   if (!fs.existsSync(p)) {
     console.error(`trim-kw-index: ${p} not found — skipping`)
@@ -62,7 +62,7 @@ function trim(file) {
   const df = new Map()
   let missing = 0
   for (const href of keys) {
-    const mdPath = path.join(CONTENT, href + ".md")
+    const mdPath = resolve(href)
     let counts
     try {
       counts = tokens(fs.readFileSync(mdPath, "utf8"))
@@ -101,6 +101,20 @@ function trim(file) {
 }
 
 // excerpts_kw keys are underscored paths that map 1:1 to content/<key>.md.
-// (works_kw keys are hyphenated slugs that don't map to the space-named work files, so
-// it's left alone here — a smaller 13MB file anyway.)
-trim("excerpts_kw.json")
+const resolveExcerpt = (href) => path.join(CONTENT, href + ".md")
+
+// works_kw keys are hyphenated slugs ("works/1-henry-iv-(shakespeare)") while the work
+// files keep spaces ("1 henry iv (shakespeare).md"). Build a slug->file map: each file's
+// slug = basename with spaces turned to hyphens (matches how preprocess sluggifies).
+function buildWorksResolver() {
+  const dir = path.join(CONTENT, "works")
+  const map = new Map()
+  for (const f of fs.readdirSync(dir)) {
+    if (!f.endsWith(".md")) continue
+    map.set("works/" + f.slice(0, -3).replaceAll(" ", "-"), path.join(dir, f))
+  }
+  return (href) => map.get(href) || ""
+}
+
+trim("excerpts_kw.json", resolveExcerpt)
+trim("works_kw.json", buildWorksResolver())
