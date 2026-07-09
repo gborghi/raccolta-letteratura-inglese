@@ -7,23 +7,37 @@
 // so the moment copyright lapses the texts and links reappear automatically with no
 // redeploy.
 //
-// PD year = first Jan the work is public domain (UK/EU life+70). Guard active while
-// currentYear < year.
-const GUARDED: Record<string, { year: number; name: string }> = {
-  eliot: { year: 2036, name: "T. S. Eliot" }, // d.1965 → PD 2036
-  sayers: { year: 2028, name: "Dorothy L. Sayers" }, // d.1957 → PD 2028
+// Each author's EXACT death date. Under the UK/EU term (CDPA 1988 s.12 /
+// Directive 2006/116) copyright runs "to the end of the 70th calendar year after
+// the author dies", so a work enters the public domain on 1 January of
+// (yearOfDeath + 71). We store the death date and derive that instant, so the years
+// are auditable against the death date rather than hand-entered.
+//   T. S. Eliot        — died 4 Jan 1965  → PD 1 Jan 2036
+//   Dorothy L. Sayers  — died 17 Dec 1957 → PD 1 Jan 2028
+const GUARDED: Record<string, { died: string; name: string }> = {
+  eliot: { died: "1965-01-04", name: "T. S. Eliot" },
+  sayers: { died: "1957-12-17", name: "Dorothy L. Sayers" },
+}
+
+// 1 Jan of (deathYear + 71): the exact moment the work is public domain.
+function pdDate(died: string): Date {
+  return new Date(parseInt(died.slice(0, 4), 10) + 71, 0, 1)
+}
+function pdYear(died: string): number {
+  return parseInt(died.slice(0, 4), 10) + 71
 }
 
 // Headings on a work note whose section body reproduces (or links to) the text.
 const TEXT_HEADINGS = /testo integrale|full text|testo \/ text|parti \/ parts|capitoli \/ chapters/i
 
 function activeAuthors(): string[] {
-  const y = new Date().getFullYear()
-  return Object.keys(GUARDED).filter((a) => y < GUARDED[a].year)
+  const now = new Date()
+  return Object.keys(GUARDED).filter((a) => now < pdDate(GUARDED[a].died))
 }
 
 function notice(author: string): HTMLElement {
-  const { name, year } = GUARDED[author]
+  const { name, died } = GUARDED[author]
+  const year = pdYear(died)
   const el = document.createElement("div")
   el.className = "cr-guard"
   el.setAttribute("role", "note")
