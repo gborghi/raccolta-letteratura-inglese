@@ -1087,14 +1087,14 @@ async function main() {
   const axisNoteCount = (folder) =>
     parsed.filter((p) => p.relU.startsWith(folder + "/") && p.relU.endsWith(".md")).length
   const axesWheel = [
-    { label: "Topoi", img: "axis-topoi", href: "Topoi/", n: axisNoteCount("Topoi") },
-    { label: "Archetipi", img: "axis-archetipi", href: "Archetypes/", n: axisNoteCount("Archetypes") },
-    { label: "Motivi", img: "axis-motivi", href: "Motifs/", n: axisNoteCount("Motifs") },
-    { label: "Concetti", img: "axis-concetti", href: "Concepts/", n: axisNoteCount("Concepts") },
-    { label: "Forme", img: "axis-forme", href: "Forms/", n: axisNoteCount("Forms") },
-    { label: "Riferimenti Storici", img: "axis-storia", href: "Historical-References/", n: axisNoteCount("Historical References") },
-    { label: "Ambientazioni", img: "axis-ambientazioni", href: "Settings/", n: axisNoteCount("Settings") },
-    { label: "Personaggi", img: "axis-personaggi", href: "Characters/", n: axisNoteCount("Characters") },
+    { label: "Topoi", img: "axis-topoi", href: "topoi/", n: axisNoteCount("Topoi") },
+    { label: "Archetypes", img: "axis-archetipi", href: "archetypes/", n: axisNoteCount("Archetypes") },
+    { label: "Motifs", img: "axis-motivi", href: "motifs/", n: axisNoteCount("Motifs") },
+    { label: "Concepts", img: "axis-concetti", href: "concepts/", n: axisNoteCount("Concepts") },
+    { label: "Forms", img: "axis-forme", href: "forms/", n: axisNoteCount("Forms") },
+    { label: "Historical References", img: "axis-storia", href: "historical-references/", n: axisNoteCount("Historical References") },
+    { label: "Settings", img: "axis-ambientazioni", href: "settings/", n: axisNoteCount("Settings") },
+    { label: "Characters", img: "axis-personaggi", href: "characters/", n: axisNoteCount("Characters") },
   ].map((a) => ({ label: a.label, sub: String(a.n), img: a.img, href: a.href }))
 
   // Map the 12 biggest clusters to their emblem files (by leading keyword).
