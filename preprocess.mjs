@@ -181,8 +181,8 @@ function parseFrontmatter(raw) {
   return { data, content: m[2] }
 }
 
-const VAULT = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/Knowledge Graph"
-const AUTHORS_DIR = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/Authors"
+const VAULT = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/VaultEnglish/Knowledge Graph"
+const AUTHORS_DIR = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/VaultEnglish/Authors"
 // Authors fully excluded from the PUBLIC site (e.g. still under copyright).
 // Their work pages, full text, atomized units and index rows are all dropped.
 const EXCLUDE_AUTHORS = new Set(["Hemingway"])
@@ -415,6 +415,9 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
   for (const adir of authors) {
     if (!adir.isDirectory()) continue
     const author = adir.name
+    // Display author: folder names may use underscores (e.g. "Conan_Doyle"); the work
+    // notes and wheel use the spaced form ("Conan Doyle"), so units must match.
+    const authorName = author.replace(/_/g, " ")
     if (EXCLUDE_AUTHORS.has(author)) continue // excluded from public site
     for (const sub of ["Atomized", "Plays", "Long"]) {
       const subRoot = path.join(AUTHORS_DIR, author, sub)
@@ -570,7 +573,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
           const fm =
             `---\n` +
             `title: ${JSON.stringify(title)}\n` +
-            `author: ${JSON.stringify(author)}\n` +
+            `author: ${JSON.stringify(authorName)}\n` +
             `unitType: ${it.unitType}\n` +
             (parentWorkHref ? `parentWork: ${JSON.stringify(parentWorkHref)}\n` : "") +
             `tags:\n  - graph/excerpt\n  - author/${author}\n` +
@@ -1072,6 +1075,7 @@ async function main() {
     Eliot: "author-eliot", Chesterton: "author-chesterton", Dickens: "author-dickens",
     Austen: "author-austen", Bronte: "author-bronte", Poe: "author-poe", Wilde: "author-wilde",
     Coleridge: "author-coleridge", Whitman: "author-whitman", Sayers: "author-sayers",
+    "Conan Doyle": "author-conan-doyle",
   }
   const authorsWheel = authors
     .filter((a) => !EXCLUDE_AUTHORS.has(a))

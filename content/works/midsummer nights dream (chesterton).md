@@ -44,12 +44,12 @@ tags:
 ## Testo / Text
 
 - [midsummer nights dream](/testi/chesterton/atomized/midsummer_nights_dream/midsummer_nights_dream)
+
 ## Parti / Parts
 
 - [Part 1](/testi/chesterton/atomized/midsummer_nights_dream/part/part_01)
 - [Part 2](/testi/chesterton/atomized/midsummer_nights_dream/part/part_02)
 - [Part 3](/testi/chesterton/atomized/midsummer_nights_dream/part/part_03)
-
 
 ## Connections
 

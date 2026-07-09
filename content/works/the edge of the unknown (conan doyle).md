@@ -1,0 +1,38 @@
+---
+title: The Edge of the Unknown
+author: Conan Doyle
+type: work
+cluster: Spiritualism · Faith and Doubt · The Afterlife
+source: Authors/Conan_Doyle/_raw/THE_EDGE_OF_THE_UNKNOWN.md
+tags:
+  - graph/work
+  - author/Conan_Doyle
+  - form/essay
+  - concept/spiritualism
+  - concept/unseen_the_hidden
+  - concept/immortality_of_the_soul
+  - concept/deception
+  - concept/faith_and_doubt
+  - motif/ghosts
+  - motif/supernatural
+  - motif/uncanny
+  - motif/death
+  - character/sir_arthur_conan_doyle
+  - archetype/prophet
+---
+*by Conan Doyle*  ·  **Cluster:** [[Spiritualism · Faith and Doubt · The Afterlife]]
+
+> [!abstract] 
+> Doyle's final book is a passionate defense of Spiritualism, opening with a detailed portrait of his troubled friendship and rivalry with Houdini, whom Doyle believed to be a suppressed physical medium turned medium-baiter. It goes on to recount ghost sightings, psychic mail, and personal encounters offered as evidence for survival after death.
+
+## Testo / Text
+
+- [Part 2](/testi/conan_doyle/atomized/the_edge_of_the_unknown/chapter_01)
+
+## Connections
+
+**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Spiritualism]], [[Unseen The Hidden]], [[Immortality of the Soul]], [[Deception]], [[Faith and Doubt]]
+**Motifs:** [[Ghosts]], [[Supernatural]], [[Uncanny]], [[Death]]
+**Characters:** [[Sir Arthur Conan Doyle]]
+**Archetypes:** [[Prophet]]

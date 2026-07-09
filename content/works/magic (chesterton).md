@@ -53,6 +53,7 @@ tags:
 ## Testo / Text
 
 - [Magic](/testi/chesterton/atomized/magic/magic)
+
 ## Parti / Parts
 
 - [Part 1](/testi/chesterton/atomized/magic/part/part_01)
@@ -74,7 +75,6 @@ tags:
 - [Part 17](/testi/chesterton/atomized/magic/part/part_17)
 - [Part 18](/testi/chesterton/atomized/magic/part/part_18)
 - [Part 19](/testi/chesterton/atomized/magic/part/part_19)
-
 
 ## Connections
 

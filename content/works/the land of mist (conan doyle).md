@@ -1,0 +1,54 @@
+---
+title: The Land of Mist
+author: Conan Doyle
+type: work
+cluster: Spiritualism · Faith and Doubt · The Afterlife
+source: Authors/Conan_Doyle/_raw/THE_LAND_OF_MIST.md
+tags:
+  - graph/work
+  - author/Conan_Doyle
+  - form/novel
+  - concept/spiritualism
+  - concept/faith_and_doubt
+  - concept/grief_and_loss
+  - concept/rationalism
+  - concept/doubt
+  - concept/unseen_the_hidden
+  - motif/supernatural
+  - motif/ghosts
+  - motif/fog_and_smoke
+  - motif/uncanny
+  - motif/death
+  - histref/first_world_war
+  - setting/london
+  - character/professor_challenger
+  - archetype/mentor
+  - archetype/prophetess_seer
+  - archetype/outsider
+---
+*by Conan Doyle*  ·  **Cluster:** [[Spiritualism · Faith and Doubt · The Afterlife]]
+
+> [!abstract] 
+> Professor Challenger's daughter Enid and journalist Edward Malone investigate London's Spiritualist churches and mediums, initially as sceptical reporters. Challenger himself, still grieving his wife, is gradually confronted with evidence that shakes his rigid materialism, as Doyle uses the novel to argue for the truth of Spiritualism.
+
+## Capitoli / Chapters
+
+- [In Which Our Special Commissioners Make A Start](/testi/conan_doyle/atomized/the_land_of_mist/story_01_in_which_our_special_commissioners_make)
+- [Which Describes an Evening in Strange Company](/testi/conan_doyle/atomized/the_land_of_mist/story_02_which_describes_an_evening_in_strange_co)
+- [In Which Professor Challenger Gives His Opinion](/testi/conan_doyle/atomized/the_land_of_mist/story_03_in_which_professor_challenger_gives_his)
+- [Which Describes Some Strange Doings In Hammersmith](/testi/conan_doyle/atomized/the_land_of_mist/story_04_which_describes_some_strange_doings_in_h)
+- [Where Our Commissioners Have A Remarkable Experience](/testi/conan_doyle/atomized/the_land_of_mist/story_05_where_our_commissioners_have_a_remarkabl)
+- [In Which The Reader Is Shown The Habits Of A Notorious Criminal](/testi/conan_doyle/atomized/the_land_of_mist/story_06_in_which_the_reader_is_shown_the_habits)
+
+
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-3.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">28.8</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">33</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">22%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">60.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+## Connections
+
+**Forms & Genres:** [[Novel]]
+**Themes & Concepts:** [[Spiritualism]], [[Faith and Doubt]], [[Grief and Loss]], [[Rationalism]], [[Doubt]], [[Unseen The Hidden]]
+**Motifs:** [[Supernatural]], [[Ghosts]], [[Fog and Smoke]], [[Uncanny]], [[Death]]
+**Historical References:** [[First World War]]
+**Settings:** [[London]]
+**Characters:** [[Professor Challenger]]
+**Archetypes:** [[Mentor]], [[Prophetess Seer]], [[Outsider]]

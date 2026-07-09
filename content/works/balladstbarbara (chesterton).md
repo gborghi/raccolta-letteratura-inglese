@@ -72,6 +72,7 @@ tags:
 ## Testo / Text
 
 - [BalladStBarbara](/testi/chesterton/atomized/balladstbarbara/balladstbarbara)
+
 ## Parti / Parts
 
 - [Part 1](/testi/chesterton/atomized/balladstbarbara/part/part_01)
@@ -80,7 +81,6 @@ tags:
 - [Part 4](/testi/chesterton/atomized/balladstbarbara/part/part_04)
 - [Part 5](/testi/chesterton/atomized/balladstbarbara/part/part_05)
 - [Part 6](/testi/chesterton/atomized/balladstbarbara/part/part_06)
-
 
 ## Connections
 

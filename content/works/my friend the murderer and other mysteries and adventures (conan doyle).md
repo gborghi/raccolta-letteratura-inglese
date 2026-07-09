@@ -1,0 +1,42 @@
+---
+title: My Friend the Murderer and Other Mysteries and Adventures
+author: Conan Doyle
+type: work
+cluster: Gothic and Supernatural · Terror and Horror · The Unseen
+source: >-
+  Authors/Conan_Doyle/_raw/MY_FRIEND_THE_MURDERER_AND_OTHER_MYSTERIES_AND_ADVENTURES.md
+tags:
+  - graph/work
+  - author/Conan_Doyle
+  - form/short_story
+  - form/adventure_fiction
+  - concept/crime_and_punishment
+  - concept/empire_and_imperialism
+  - concept/revenge
+  - concept/deception
+  - concept/justice_right_and_wrong
+  - concept/terror_and_horror
+  - motif/journey
+  - motif/ship
+  - motif/money_and_gold
+  - motif/secrets
+  - setting/australia
+  - setting/american_frontier
+  - archetype/villain
+  - archetype/outsider
+  - archetype/trickster
+  - topos/journey_of_life
+---
+*by Conan Doyle*  ·  **Cluster:** [[Gothic and Supernatural · Terror and Horror · The Unseen]]
+
+> [!abstract] 
+> An early Doyle collection of colonial and outback adventure tales, mixing bushranger crime stories (the title story, told by a prison doctor to a confessing convict-turned-informer), frontier mining-camp yarns, and tales of mystery and the uncanny, mostly set in Australia and other far-flung colonial settings.
+
+## Connections
+
+**Forms & Genres:** [[Short Story]], [[Adventure Fiction]]
+**Themes & Concepts:** [[Crime and Punishment]], [[Empire and Imperialism]], [[Revenge]], [[Deception]], [[Justice Right and Wrong]], [[Terror and Horror]]
+**Motifs:** [[Journey]], [[Ship]], [[Money and Gold]], [[Secrets]]
+**Settings:** [[Australia]], [[American Frontier]]
+**Archetypes:** [[Villain]], [[Outsider]], [[Trickster]]
+**Topoi:** [[Journey of Life]]

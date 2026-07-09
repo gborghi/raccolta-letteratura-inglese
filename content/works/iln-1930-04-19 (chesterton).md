@@ -32,11 +32,11 @@ tags:
 ## Testo / Text
 
 - [ILN-1930-04-19](/testi/chesterton/atomized/iln-1930-04-19/iln-1930-04-19)
+
 ## Parti / Parts
 
 - [Part 1](/testi/chesterton/atomized/iln-1930-04-19/part/part_01)
 - [Part 2](/testi/chesterton/atomized/iln-1930-04-19/part/part_02)
-
 
 ## Connections
 

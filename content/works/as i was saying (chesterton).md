@@ -49,6 +49,7 @@ tags:
 ## Testo / Text
 
 - [As I Was Saying](/testi/chesterton/atomized/as_i_was_saying/as_i_was_saying)
+
 ## Parti / Parts
 
 - [Part 1](/testi/chesterton/atomized/as_i_was_saying/part/part_01)
@@ -87,7 +88,6 @@ tags:
 - [Part 34](/testi/chesterton/atomized/as_i_was_saying/part/part_34)
 - [Part 35](/testi/chesterton/atomized/as_i_was_saying/part/part_35)
 - [Part 36](/testi/chesterton/atomized/as_i_was_saying/part/part_36)
-
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">52.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26.2</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

@@ -1,0 +1,65 @@
+---
+title: "THE FIRM OF GIRDLESTONE — Chapter 6"
+author: "Conan Doyle"
+unitType: chapter
+parentWork: "works/the-firm-of-girdlestone-(conan-doyle)"
+tags:
+  - graph/excerpt
+  - author/Conan_Doyle
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Conan_Doyle · <a href="/works/the-firm-of-girdlestone-(conan-doyle)">THE FIRM OF GIRDLESTONE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/conan_doyle/atomized/the_firm_of_girdlestone/chapter_06">‹ Chapter 06</a><a class="ex-next" href="/testi/conan_doyle/atomized/the_firm_of_girdlestone/chapter_08">Chapter 08 ›</a></div>
+</nav>
+
+
+CHAPTER VI.
+A RECTORIAL ELECTION.
+It took some little time before his son, who was half-choked with laughter, could explain to the energetic doctor that the gentleman upon whom he was perched was not a dangerous lunatic, but, on the contrary, a very harmless and innocent member of society. When at last it was made clear to him, the doctor released his prisoner and was profuse in his apologies.
+“This is my father, Garraway,” said Dimsdale. “I hardly expected him so early.”
+“I must offer you a thousand apologies, sir. The fact is that I am rather short-sighted, and had no time to put my glasses on. It seemed to me to be a most dangerous scuffle.”
+“Don’t mention it, sir,” said Garraway, with great good humour.
+“And you, Tom, you rogue, is this the way you spend your mornings? I expected to find you deep in your books. I told your landlady that I hardly liked to come up for fear of disturbing you at your work. You go up for your first professional in a few weeks, I understand?”
+“That will be all right, dad,” said his son demurely. “Garraway and I usually take a little exercise of this sort as a preliminary to the labours of the day. Try this armchair and have a cigarette.”
+The doctor’s eye fell upon the medical works and the disarticulated skull, and his ill-humour departed.
+“You have your tools close at hand, I see,” he remarked.
+“Yes, dad, all ready.”
+“Those bones bring back old memories to me. I am rusty in my anatomy, but I dare say I could stump you yet. Let me see now. What are the different foramina of the sphenoid bone, and what structures pass through them? Eh?”
+“Coming!” yelled his son. “Coming!” and dashed out of the room.
+“I didn’t hear any one call,” observed the doctor.
+“Didn’t you, sir?” said Garraway, pulling on his coat. “I thought I heard a noise.”
+“You read with my son, I believe?”
+“Yes, sir.”
+“Then perhaps you can tell me what the structures are which pass through the foramina of the sphenoid?”
+“Oh yes, sir. There is the — All right, Tom, all right! Excuse me, sir! He is calling me;” and Garraway vanished as precipitately as his friend had done. The doctor sat alone, puffing at his cigarette, and brooding over his own dullness of hearing.
+Presently the two students returned, looking just a little shame-faced, and plunged instantly into wild talk about the weather, the town, and the University — anything and everything except the sphenoid bone.
+“You have come in good time to see something of University life,” said young Dimsdale. “To-day we elect our new Lord Rector. Garraway and I will take you down and show you the sights.”
+“I have often wished to see something of it,” his father answered. “I was apprenticed to my profession, Mr. Garraway, in the old-fashioned way, and had few opportunities of attending college.”
+“Indeed, sir.”
+“But I can imagine it all. What can be more charming than the sight of a community of young men all striving after knowledge, and emulating each other in the ardour of their studies? Not that I would grudge them recreation. I can fancy them strolling in bands round the classic precincts of their venerable University, and amusing themselves by discussing the rival theories of physiologists or the latest additions to the pharmacopoeia.”
+Garraway had listened with becoming gravity to the commencement of this speech, but at the last sentence he choked and vanished for the second time out of the room.
+“Your friend seems amused,” remarked Dr. Dimsdale mildly.
+“Yes. He gets taken like that sometimes,” said his son. “His brothers are just the same. I have hardly had a chance yet to say how glad I am to see you, dad.”
+“And I to see you, my dear boy. Your mother and Kate come up by the night train. I have private rooms at the hotel.”
+“Kate Harston! I can only remember her as a little quiet girl with long brown hair. That was six years ago. She promised to be pretty.”
+“Then she has fulfilled her promise. But you shall judge that for yourself. She is the ward of John Girdlestone, the African merchant, but we are the only relations she has upon earth. Her father was my second cousin. She spends a good deal of her time now with us at Phillimore Gardens — as much as her guardian will allow. He prefers to have her under his own roof, and I don’t blame him, for she is like a ray of sunshine in the house. It was like drawing his teeth to get him to consent to this little holiday, but I stuck at it until I wearied him out — fairly wearied him out.” The little doctor chuckled at the thought of his victory, and stretched out his thick legs towards the fire.
+“This examination will prevent me from being with you as much as I wish.”
+“That’s right, my boy; let nothing interfere with your work.”
+“Still, I think I am pretty safe. I am glad they have come now, for next Wednesday is the international football match. Garraway and I are the two Scotch half-backs. You must all come down and see it.”
+“I’ll tell you what, Dimsdale,” said Garraway, reappearing in the doorway, “if we don’t hurry up we shall see nothing of the election. It is close on twelve.”
+“I am all ready,” cried Dr. Dimsdale, jumping to his feet and buttoning his coat.
+“Let us be off, then,” said his son; and picking up hats and sticks they clattered off down the lodging-house stairs.
+A rectorial election is a peculiarly Scotch institution, and, however it may strike the impartial observer, it is regarded by the students themselves as a rite of extreme solemnity and importance from which grave issues may depend. To hear the speeches and addresses of rival orators one would suppose that the integrity of the constitution and the very existence of the empire hung upon the return of their special nominee. Two candidates are chosen from the most eminent of either party and a day is fixed for the polling. Every undergraduate has a vote, but the professors have no voice in the matter. As the duties are nominal and the position honourable, there is never any lack of distinguished aspirants for a vacancy. Occasionally some well-known literary or scientific man is invited to become a candidate, but as a rule the election is fought upon strictly political lines, with all the old-fashioned accompaniments of a Parliamentary contest.
+For months before the great day there is bustle and stir. Secret committees meet, rules are formulated, and insidious agents prowl about with an eye to the political training of those who have not yet nailed their colours to any particular mast. Then comes a grand meeting of the Liberal Students’ Association, which is trumped by a dinner of the Undergraduates’ Conservative Society. The campaign is then in full swing. Great boards appear at the University gates, on which pithy satires against one or other candidate, parodies on songs, quotations from their speeches, and gaudily painted cartoons are posted. Those who are supposed to be able to feel the pulse of the University move about with the weight of much knowledge upon their brows, throwing out hints as to the probable majority one way or the other. Some profess to know it to a nicety. Others shake their heads and remark vaguely that there is not much to choose either way. So week after week goes by, until the excitement reaches a climax when the date of the election comes round.
+There was no need upon that day for Dr. Dimsdale or any other stranger in the town to ask his way to the University, for the whooping and yelling which proceeded from that usually decorous building might have been heard from Prince’s Street to Newington. In front of the gates was a dense crowd of townspeople peering through into the quadrangle, and deriving much entertainment from the movements of the lively young gentlemen within. Large numbers of the more peaceable undergraduates stood about under the arches, and these quickly made a way for the newcomers, for both Garraway and Dimsdale as noted athletes commanded a respect among their fellow-students which medallists and honours men might look for in vain.
+The broad open quadrangle, and all the numerous balconies and terraces which surround it, were crowded with an excited mob of students. The whole three thousand odd electors who stand upon the college rolls appeared to be present, and the noise which they were making would have reflected credit on treble their number. The dense crowd surged and seethed without pause or rest. Now and again some orator would be hoisted up on the shoulders of his fellows, when an oscillation of the crowd would remove his supporters and down he would come, only to be succeeded by another at some other part of the assembly. The name of either candidate would produce roars of applause and equally vigorous howls of execration. Those who were lucky enough to be in the balconies above hurled down missiles on the crowd beneath — peas, eggs, potatoes, and bags of flour or of sulphur; while those below, wherever they found room to swing an arm, returned the fusillade with interest. The doctor’s views of academical serenity and the high converse of pallid students vanished into thin air as he gazed upon the mad tumultuous scene. Yet, in spite of his fifty years, he laughed as heartily as any boy at the wild pranks of the young politicians, and the ruin which was wrought upon broad-cloth coat and shooting jacket by the hail of unsavoury projectiles.
+The crowd was most dense and most noisy in front of the class-room in which the counting of the votes was going forward. At one the result was to be announced, and as the long hand of the great clock crept towards the hour, a hush of expectation fell upon the assembly. The brazen clang broke harshly out, and at the same moment the folding doors were flung open, and a knot of men rushed out into the crowd, who swirled and eddied round them. The centre of the throng was violently agitated, and the whole mass of people swayed outwards and inwards. For a minute or two the excited combatants seethed and struggled without a clue as to the cause of the commotion. Then the corner of a large placard was elevated above the heads of the rioters, on which was visible the word “Liberal” in great letters, but before it could be raised further it was torn down, and the struggle became fiercer than ever. Up came the placard again — the other corner this time — with the word “Majority” upon it, and then immediately vanished as before. Enough had been seen, however, to show which way the victory had gone, and shouts of triumph arose everywhere, with waving of hats and clatter of sticks. Meanwhile, in the centre the two parties fought round the placard, and the commotion began to cover a wider area, as either side was reinforced by fresh supporters. One gigantic Liberal seized the board, and held it aloft for a moment, so that it could be seen in its entirety by the whole multitude:
+LIBERAL MAJORITY,
+241.
+But his triumph was short-lived. A stick descended upon his head, his heels were tripped up, and he and his placard rolled upon the ground together. The victors succeeded, however, in forcing their way to the extreme end of the quadrangle, where, as every Edinburgh man knows, the full-length statue of Sir David Brewster looks down upon the classic ground which he loved so well. An audacious Radical swarmed up upon the pedestal and balanced the obnoxious notice on the marble arms of the professor. Thus converted into a political partisan, the revered inventor of the kaleidoscope became the centre of a furious struggle, the vanquished politicians making the most desperate efforts to destroy the symbol of their opponents’ victory, while the others offered an equally vigorous resistance to their attacks. The struggle was still proceeding when Dimsdale removed his father, for it was impossible to say what form the riot might assume.
+“What Goths! what barbarians!” cried the little doctor, as they walked down the Bridges. “And this is my dream of refined quiet and studious repose!”
+“They are not always like that, sir,” said his son apologetically.
+“They were certainly a little jolly to-day.”
+“A little jolly!” cried the doctor. “You rogue, Tom. I believe if I had not been there you would have been their ringleader.”
+He glanced from one to the other, and it was so evident from the expression of their faces that he had just hit the mark, that he burst into a great guffaw of laughter, in which, after a moment’s hesitation, his two young companions heartily joined.

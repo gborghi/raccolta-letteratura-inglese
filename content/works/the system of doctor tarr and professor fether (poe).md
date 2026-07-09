@@ -25,6 +25,7 @@ tags:
 ## Testo / Text
 
 - [The System of Doctor Tarr and Professor Fether](/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/the_system_of_doctor_tarr_and_professor_fether)
+
 ## Parti / Parts
 
 - [Part 1](/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_01)
@@ -34,7 +35,6 @@ tags:
 - [Part 5](/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_05)
 - [Part 6](/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_06)
 - [Part 7](/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_07)
-
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">66.2</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.6</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.5</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18.6</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

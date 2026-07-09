@@ -35,3 +35,6 @@ tsconfig.tsbuildinfo
 wheels-home.png
 __pycache__/
 *.pyc
+
+debug.log
+sync-v5.log

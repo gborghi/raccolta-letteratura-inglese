@@ -31,11 +31,11 @@ tags:
 ## Testo / Text
 
 - [Humanitarianism](/testi/chesterton/atomized/humanitarianism/humanitarianism)
+
 ## Parti / Parts
 
 - [Part 1](/testi/chesterton/atomized/humanitarianism/part/part_01)
 - [Part 2](/testi/chesterton/atomized/humanitarianism/part/part_02)
-
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">53.8</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.5</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26.7</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

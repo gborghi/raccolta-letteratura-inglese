@@ -1,0 +1,45 @@
+---
+title: "THE FIRM OF GIRDLESTONE — Chapter 15"
+author: "Conan Doyle"
+unitType: chapter
+parentWork: "works/the-firm-of-girdlestone-(conan-doyle)"
+tags:
+  - graph/excerpt
+  - author/Conan_Doyle
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Conan_Doyle · <a href="/works/the-firm-of-girdlestone-(conan-doyle)">THE FIRM OF GIRDLESTONE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/conan_doyle/atomized/the_firm_of_girdlestone/chapter_15">‹ Chapter 15</a><a class="ex-next" href="/testi/conan_doyle/atomized/the_firm_of_girdlestone/chapter_17">Chapter 17 ›</a></div>
+</nav>
+
+
+CHAPTER XV.
+AN ADDITION TO THE HOUSE.
+There were rejoicings in Phillimore Gardens over Tom’s engagement, for the two old people were both heartily fond of Kate—”our Kate,” as they were wont proudly to call her. The physician chafed at first over the idea of keeping the matter a secret from Girdlestone. A little reflection served to show him, however, that there was nothing to be gained by informing him, while Kate’s life, during the time that she was forced to remain under his roof, would be more tolerable as long as he was kept in ignorance of it. In the meanwhile the lovers saw little of each other, and Tom was only consoled by the thought that every day which passed brought him nearer to the time when he could claim his prize without concealment or fear. He went about as happy and as light-hearted a man as any in all [[London]]. His mother was delighted at his high spirits, but his bluff old father was not so well satisfied. “Confound the lad!” he said to himself. “He is settling down to a life of idleness. It suits him too well. We must get him to choose one way or the other.”
+Accordingly, after breakfast one morning, the doctor asked his son to step with him into the library, where he lit his long cherry-wood pipe, as was his custom after every meal, and smoked for some time in silence.
+“You must do something to keep you from mischief, my boy,” he said at last brusquely.
+“I’m ready for anything, dad,” replied Tom, “but I don’t quite see what
+I’m fitted for.”
+“First of all, what do you think of this?” the doctor asked abruptly, handing a letter over to his son, who opened it and read as follows: —
+“DEAR SIR, —
+“It has come to my knowledge through my son that your boy has abandoned the study of medicine, and that you are still uncertain as to his future career. I have long had the intention of seeking a young man who might join in our business, and relieve my old shoulders of some of the burden. Ezra urges me to write and propose that your son should become one of us. If he has any taste for business we shall be happy to advance his interest in every way. He would, of course, have to purchase a share in the concern, which would amount to seven thousand pounds, on which he would be paid interest at the rate of five per cent. By allowing this interest to accumulate, and investing also his share of the profits, he might in time absorb a large portion of the business. In case he joined us upon this footing we should have no objection to his name appearing as one of the firm. Should the idea commend itself to you, I should be most happy to talk over details, and to explain to you the advantages which the firm can offer, at my office in Fenchurch Street, any day between ten and four.”
+“With kind regards to your family, and hoping that they enjoy the great blessing of health, I remain sincerely yours,”
+“JOHN GIRDLESTONE.”
+“What d’ye think of that?” the doctor asked, when his son had finished reading it.
+“I hardly know,” said Tom; “I should like a little time to think it over.”
+“Seven thousand pounds is a good round sum. It is more than half the total capital which I have invested for you. On the other hand, I have heard those who ought to know say there is not a sounder or better managed concern in [[London]]. There’s no time like the present, Tom. Get your hat, and we’ll go down to Fenchurch Street together and look into it.”
+While father and son were rattling along in a cab from Kensington to the City, the young man had time to turn the matter over in his mind. He wanted to be at work, and why not take this up as well as anything else. It is true that he disliked what he had seen of both the Girdlestones, but, on the other hand, by becoming a member of the firm he would probably be thrown in the way of meeting the old merchant’s ward. This last consideration decided the matter, and long before the cab had pulled up at the long and dirty passage which led to the offices of the great African firm, the party principally interested had fully made up his mind as to the course he should adopt.
+They were duly ushered into the small sanctum adorned with the dissected ships, the maps, the charts, the lists of sailing, and the water-colour picture of the barque Belinda, where they were received by the head of the firm. With a charming personal modesty, tempered by a becoming pride in the great business which he had himself created, he discoursed upon its transactions and its importance. He took down ledgers and flashed great rows of figures before the eyes of the good doctor, explaining, at the same time, how month after month their receipts increased and their capital grew. Then he spoke touchingly of his own ripe years, and of the quiet and seclusion which he looked forward to after his busy lifetime.
+“With my young friend here,” he said, patting Tom affectionately on the shoulder, “and my own boy Ezra, both working together, there will be young blood and life in the concern. They’ll bring the energy, and when they want advice they can come to the old man for it. I intend in a year or so, when the new arrangement works smoothly, to have a run over to Palestine. It may seem a weakness to you, but all my life I have hoped some day to stand upon that holy ground, and to look down on those scenes which we have all imagined to ourselves. Your son will start with a good position and a fair income, which he will probably double before he is five years older. The money invested by him is simply to ensure that he shall have a substantial interest in promoting the affairs of the firm.” Thus the old man ran on, and when Tom and his father left the office with the sound of great sums of money, and huge profits, and heavy balances, and safe investments, all jostling each other in their brains, they had both made up their minds as to the future.
+Hence in a couple of days there was a stir in the legal house of Jones, Morgan, & Co., with much rustling of parchment, and signing of names, and drinking of inferior sherry. The result of all which was that the firm of Girdlestone & Co. were seven thousand pounds the richer, and Thomas Dimsdale found himself a recognised member of a great commercial house with all the rights and privileges appertaining thereto.
+“A good day’s work, Tom,” said the old doctor, as they left the lawyer’s office together. “You have now taken an irrevocable step in life, my boy. The world is before you. You belong to a first-class firm and you have every chance. May you thrive and prosper.”
+“If I don’t it won’t be my fault,” Tom answered with decision. “I shall work with my whole heart and soul.”
+“A good day’s work, Ezra,” the African merchant was remarking at that very moment in Fenchurch Street. “The firm is pinched again for working expenses. This will help;” and he threw a little slip of green paper across the table to his son.
+“It will help us for a time,” Ezra said, gloomily, glancing at the figures. “It was fortunate that I was able to put you on his track. It is only a drop in the ocean, however. Unless this diamond spec. comes off, nothing can save us.”
+“But it shall come off,” his father answered resolutely. He had succeeded in obtaining an agent who appeared to be almost as well fitted for the post as the recalcitrant major. This worthy had started off already for Russia, where the scene of his operations was to lie.
+“I hope so,” said Ezra. “We have neglected no precaution. Langworthy should be at Tobolsk by this time. I saw that he had a bag of rough stones with him which would do well enough for his purpose.”
+“We have your money ready, too. I can rely upon rather over thirty thousand pounds. Our credit was good for that, but I did not wish to push it too far for fear of setting tongues wagging.”
+“I am thinking of starting shortly in the mail boat Cyprian,” said Ezra. “I should be at the diamond fields in little more than a month. I dare say Langworthy won’t show any signs for some time yet, but I may as well be there as here. It will give me a little while to find my way about. You see, if the tidings and I were to come almost simultaneously, it might arouse suspicions. In the meantime, no one knows our little game.”
+“Except your friend Clutterbuck.”
+A dark shadow passed over Ezra’s handsome face, and his cruel lip tightened in a way which boded little good to the old soldier should he ever lie at his mercy.

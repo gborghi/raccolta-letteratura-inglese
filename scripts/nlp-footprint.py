@@ -7,9 +7,11 @@ quartz/static/author_stats.json for the author landing pages."""
 import os, re, glob, json, math
 from collections import Counter, defaultdict
 
-AUTHORS_DIR = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/Authors"
-WORKS = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/Knowledge Graph/Works"
-OUT = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/quartz-eng-lit/quartz/static/author_stats.json"
+AUTHORS_DIR = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/VaultEnglish/Authors"
+WORKS = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/VaultEnglish/Knowledge Graph/Works"
+OUT = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/quartz/static/author_stats.json"
+# Folder names may use underscores; the site keys authors by the spaced form.
+PRETTY = lambda d: d.replace("_", " ")
 
 STOP = set(("the a an and or but if then else of to in on at by for with from as is are was were be been being this that these those it its i you he she we they them his her their our your my me him us not no nor so too very can will would should could may might must shall do does did have has had having about into over under out up down off again further once here there when where why how all any both each few more most other some such only own same than that then thus yet also upmost thou thee thy hath doth shall unto o oh ye "
     "which what who whom whose said says one two upon now like man men come came go went see saw know knew think thought said say tell told make made take took give gave will would could should shall must may might let us mrs mr dr sir lady much many little great good old new day night time life man old long thing things way ways part place come "
@@ -94,8 +96,8 @@ for au in AUTHORS:
     fog = round(0.4 * (W + 100 * complex_w / n), 1)
     pct_complex = round(100 * complex_w / n, 1)
     distinctive = [w for w, _ in sorted(tf[au].items(), key=lambda x: -x[1] * idf(x[0]))[:30]]
-    top_concepts = [c for c, _ in tagc[au].most_common(10)]
-    stats[au] = {
+    top_concepts = [c for c, _ in tagc[PRETTY(au)].most_common(10)]
+    stats[PRETTY(au)] = {
         "works": None,
         "lexical_richness_rttr": rttr,
         "avg_sentence_words": avg_sent,
@@ -108,7 +110,7 @@ for au in AUTHORS:
     }
 
 # works count from index.json
-idx = json.load(open("E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/quartz-eng-lit/quartz/static/index.json", encoding="utf-8"))
+idx = json.load(open("E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/quartz/static/index.json", encoding="utf-8"))
 wc = Counter(w.get("author", "") for w in (idx if isinstance(idx, list) else idx.values()))
 for au in stats: stats[au]["works"] = wc.get(au, 0)
 

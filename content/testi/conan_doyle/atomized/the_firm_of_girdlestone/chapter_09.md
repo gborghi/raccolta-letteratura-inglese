@@ -1,0 +1,72 @@
+---
+title: "THE FIRM OF GIRDLESTONE — Chapter 8"
+author: "Conan Doyle"
+unitType: chapter
+parentWork: "works/the-firm-of-girdlestone-(conan-doyle)"
+tags:
+  - graph/excerpt
+  - author/Conan_Doyle
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Conan_Doyle · <a href="/works/the-firm-of-girdlestone-(conan-doyle)">THE FIRM OF GIRDLESTONE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/conan_doyle/atomized/the_firm_of_girdlestone/chapter_08">‹ Chapter 08</a><a class="ex-next" href="/testi/conan_doyle/atomized/the_firm_of_girdlestone/chapter_10">Chapter 10 ›</a></div>
+</nav>
+
+
+CHAPTER VIII.
+A FIRST PROFESSIONAL.
+Within a few weeks of his recovery from his accident Tom Dimsdale was to go up for his first professional examination, and his father, who had now retired from practice with a fair fortune, remained in Edinburgh until that event should come off. There had been some difficulty in persuading Girdlestone to give his consent to this prolongation of his ward’s leave, but the old merchant was very much engrossed with his own affairs about that time, which made him more amenable than he might otherwise have been. The two travellers continued, therefore, to reside in their Princes Street hotel, but the student held on to his lodgings in Howe Street, where he used to read during the morning and afternoon. Every evening, however, he managed to dine at the Royal, and would stay there until his father packed him off to his books once more. It was in vain for him to protest and to plead for another half-hour. The physician was inexorable. When the fated hour came round the unhappy youth slowly gathered together his hat, his gloves, and his stick, spreading out that operation over the greatest possible extent of time which it could by any means be made to occupy. He would then ruefully bid his kinsfolk adieu, and retire rebelliously to his books.
+Very soon, however, he made a discovery. From a certain seat in the Princes Street Gardens it was possible to see the interior of the sitting-room in which the visitors remained after dinner. From the time when this fact dawned upon him, his rooms in the evening knew him no more. The gardens were locked at night, but that was a mere trifle. He used to scramble over the railings like a cat, and then, planting himself upon the particular seat, he would keep a watch upon the hotel window until the occupants of the room retired to rest. It might happen that his cousin remained invisible. Then he would return to his rooms in a highly dissatisfied state, and sit up half the night protesting against fate and smoking strong black tobacco. On the other hand, if he had the good luck to see the graceful figure of his old playfellow, he felt that that was the next best thing to being actually in her company, and departed eventually in a more contented frame of mind. Thus, when Dr. Dimsdale fondly imagined his son to be a mile away grappling with the mysteries of science, that undutiful lad was in reality perched within sixty yards of him, with his thoughts engrossed by very different matters.
+Kate could not fail to understand what was going on. However young and innocent a girl may be, there is always some subtle feminine instinct which warns her that she is loved. Then first she realises that she has passed the shadowy frontier line which divides the child-life from that of the woman. Kate felt uneasy and perplexed, and half involuntarily she changed her manner towards him.
+It had been frank and sisterly; now it became more distant and constrained. He was quick to observe the change, and in private raved and raged at it. He even made the mistake of showing his pique to her, upon which she became still more retiring and conventional. Then be bemoaned himself in the sleepless watches of the night, and confided to his bed-post that in his belief such a case had never occurred before in the history of the world, and never by any chance could or would happen again. He also broke out into an eruption of bad verses, which were found by his landlady during her daily examination of his private papers, and were read aloud to a select audience of neighbours, who were all much impressed, and cackled sympathetically among themselves.
+By degrees Tom developed other symptoms of the distemper which had come upon him so suddenly. He had always been remarkable for a certain towsiness of appearance and carelessness of dress which harmonized with his Bohemian habits. All this he suddenly abjured. One fine morning he paid successive visits to his tailor, his boot-maker, his hatter, and his hosier, which left all those worthy tradesmen rubbing their hands with satisfaction. About a week afterwards he emerged from his rooms in a state of gorgeousness which impressed his landlady and amazed his friends. His old college companions hardly recognised Tom’s honest phiz as it looked out above the most fashionable of coats and under the glossiest of hats.
+His father was anything but edified by the change.
+“I don’t know what’s coming over the lad, Kate,” he remarked after one of his visits. “If I thought he was going to turn to a fop, by the Lord Harry I’d disown him! Don’t you notice a change in him yourself?”
+Kate managed to evade the question, but her bright blush might have opened the old man’s eyes had he observed it. He hardly realised yet that his son really was a man, and still less did he think of John Harston’s little girl as a woman. It is generally some comparative stranger who first makes that discovery and brings it home to friends and relatives.
+Love has an awkward way of intruding itself at inconvenient times, but it never came more inopportunely than when it smote one who was reading for his first professional examination. During these weeks, when Tom was stumping about in boots which were two sizes too small for him, in the hope of making his muscular, well-formed foot a trifle more elegant, and was splitting gloves in a way which surprised his glover, all his energies ought by rights to have been concentrated upon the mysteries of botany, chemistry, and zoology. During the precious hours that should have been devoted to the mastering of the sub-divisions of the celenterata or the natural orders of endogenous plants, he was expending his energies in endeavouring to recall the words of the song which his cousin had sung the evening before, or to recollect the exact intonation with which she remarked to him that it had been a fine day, or some other equally momentous observation. It follows that, as the day of the examination came round, the student, in his lucid intervals, began to feel anxious for the result. He had known his work fairly well, however, at one time, and with luck he might pull through. He made an energetic attempt to compress a month’s reading into a week, and when the day for the written examination came round he had recovered some of his lost ground. The papers suited him fairly well, and he felt as he left the hall that he had had better fortune than he deserved. The viva voce ordeal was the one, however, which he knew would be most dangerous to him, and he dreaded it accordingly.
+It was a raw spring morning when his turn came to go up. His father and
+Kate drove round with him to the University gates.
+“Keep up your pluck, Tom,” the old gentleman said. “Be cool, and have all your wits about you. Don’t lose your head, whatever you do.”
+“I seem to have forgotten the little I ever knew,” Tom said dolefully, as he trudged up the steps. As he looked back he saw Kate wave her hand to him cheerily, and it gave him fresh heart.
+“We shall hope to see you at lunch time,” his father shouted after him. “Mind you bring us good news.” As he spoke the carriage rattled away down the Bridges, and Tom joined the knot of expectant students who were waiting at the door of the great hall.
+A melancholy group they were, sallow-faced, long-visaged and dolorous, partly from the effects of a long course of study and partly from their present trepidation. It was painful to observe their attempts to appear confident and unconcerned as they glanced round the heavens, as if to observe the state of the weather, or examined with well-feigned archaeological fervour the inscriptions upon the old University walls. Most painful of all was it, when some one, plucking up courage, would venture upon a tiny joke, at which the whole company would gibber in an ostentatious way, as though to show that even in this dire pass the appreciation of humour still remained with them. At times, when any of their number alluded to the examination or detailed the questions which had been propounded to Brown or Baker the day before, the mask of unconcern would be dropped, and the whole assembly would glare eagerly and silently at the speaker. Generally on such occasions matters are made infinitely worse by some Job’s comforter, who creeps about suggesting abstruse questions, and hinting that they represent some examiner’s particular hobby. Such a one came to Dimsdale’s elbow, and quenched the last ray of hope which lingered in the young man’s bosom.
+“What do you know about cacodyl?” was his impressive question.
+“Cacodyl?” Tom cried aghast. “It’s some sort of antediluvian reptile, isn’t it?”
+The questioner broke into a sickly smile. “No,” he said. “It’s an organic explosive chemical compound. You’re sure to be asked about cacodyl. Tester’s dead on it. He asks every one how it is prepared.”
+Tom, much perturbed at these tidings, was feverishly endeavouring to extract some little information from his companion concerning the compound, when a bell rang abruptly inside the room and a janitor with a red face and a blue slip of paper appeared at the door.
+“Dillon, Dimsdale, Douglas,” this functionary shouted in a very pompous voice, and three unhappy young men filed through the half-opened door into the solemn hall beyond.
+The scene inside was not calculated to put them at their ease. Three tables, half a dozen yards from each other, were littered with various specimens and scientific instruments, and behind each sat two elderly gentlemen, stern-faced and critical. At one side were stuffed specimens of various small beasts, numerous skeletons and skulls, large jars containing fish and reptiles preserved in spirits of wine, jawbones with great teeth which grinned savagely at the unfortunate candidate, and numerous other zoological relics. The second table was heaped over with a blaze of gorgeous orchids and tropical plants, which looked strangely out of place in the great bleak room. A row of microscopes bristled along the edge. The third was the most appalling of all, for it was bare with the exception of several sheets of paper and a pencil. Chemistry was the most dangerous of the many traps set to ensnare the unwary student.
+“Dillon — botany; Dimsdale — zoology; Douglas — chemistry,” the janitor shouted once more, and the candidates moved in front of the respective tables. Tom found himself facing a great spider crab, which appeared to be regarding him with a most malignant expression upon its crustacean features. Behind the crab sat a little professor, whose projecting eyes and crooked arms gave him such a resemblance to the creature in front that the student could not help smiling.
+“Sir,” said a tall, clean-shaven man at the other end of the table, “be serious. This is no time for levity.”
+Tom’s expression after that would have made the fortune of a mute.
+“What is this?” asked the little professor, handing a small round object to the candidate.
+“It is an echinus — a sea-urchin,” Tom said triumphantly.
+“Have they any circulation?” asked the other examiner.
+“A water vascular system.”
+“Describe it.”
+Tom started off fluently, but it was no part of the policy of the examiners to allow him to waste the fifteen minutes allotted them in expatiating upon what he knew well. They interrupted him after a few sentences.
+“How does this creature walk?” asked the crab-like one.
+“By means of long tubes which it projects at pleasure.”
+“How do the tubes enable the creature to walk?”
+“They have suckers on them.”
+“What are the suckers like?”
+“They are round hollow discs.”
+“Are you sure they are round?” asked the other sharply.
+“Yes,” said Tom stoutly, though his ideas on the subject were rather vague.”
+“And how does this sucker act?” asked the taller examiner.
+Tom began to feel that these two men were exhibiting a very unseemly curiosity. There seemed to be no satiating their desire for information. “It creates a vacuum,” he cried desperately.
+“How does it create a vacuum?”
+“By the contraction of a muscular pimple in the centre,” said Tom, in a moment of inspiration.
+“And what makes this pimple contract?”
+Tom lost his head, and was about to say “electricity,” when he happily checked himself and substituted “muscular action.”
+“Very good,” said the examiners, and the student breathed again. The taller one returned to the charge, however, with, “And this muscle — is it composed of striped fibres or non-striped?”
+“Non-striped,” shrieked Tom at a venture, and both examiners rubbed their hands and murmured, “Very good, indeed!” at which Tom’s hair began to lie a little flatter, and he ceased to feel as if he were in a Turkish bath.
+“How many teeth has a rabbit?” the tall man asked suddenly.
+“I don’t know,” the student answered with candour.
+The two looked triumphantly at one another.
+“He doesn’t know!” cried the goggle-eyed one decisively.
+“I should recommend you to count them the next time you have one for dinner,” the other remarked. As this was evidently meant for a joke, Tom had the tact to laugh, and a very gruesome and awe-inspiring laugh it was too.
+Then the candidate was badgered about the pterodactyl, and concerning the difference in anatomy between a bat and a bird, and about the lamprey, and the cartilaginous fishes, and the amphioxus. All these questions he answered more or less to the satisfaction of the examiners — generally less. When at last the little bell tinkled which was the sign for candidates to move on to other tables, the taller man leaned over a list in front of him and marked down upon it the following hieroglyphic: —
+“S. B. — .”
+This Tom’s sharp eye at once detected, and he departed well pleased, for he knew that the “S. B.” meant satis bene, and as to the minus sign after it, it mattered little to him whether he had done rather more than well or rather less. He had passed in zoology, and that was all which concerned him at present.

@@ -50,6 +50,7 @@ tags:
 ## Testo / Text
 
 - [The Speaker](/testi/chesterton/atomized/the_speaker/the_speaker)
+
 ## Parti / Parts
 
 - [Part 1](/testi/chesterton/atomized/the_speaker/part/part_01)
@@ -83,7 +84,6 @@ tags:
 - [Part 29](/testi/chesterton/atomized/the_speaker/part/part_29)
 - [Part 30](/testi/chesterton/atomized/the_speaker/part/part_30)
 - [Part 31](/testi/chesterton/atomized/the_speaker/part/part_31)
-
 
 ## Connections
 

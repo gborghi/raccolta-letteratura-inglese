@@ -85,6 +85,7 @@ tags:
 ## Testo / Text
 
 - [Poems](/testi/chesterton/atomized/poems/poems)
+
 ## Parti / Parts
 
 - [Part 1](/testi/chesterton/atomized/poems/part/part_01)
@@ -97,7 +98,6 @@ tags:
 - [Part 8](/testi/chesterton/atomized/poems/part/part_08)
 - [Part 9](/testi/chesterton/atomized/poems/part/part_09)
 - [Part 10](/testi/chesterton/atomized/poems/part/part_10)
-
 
 ## Connections
 

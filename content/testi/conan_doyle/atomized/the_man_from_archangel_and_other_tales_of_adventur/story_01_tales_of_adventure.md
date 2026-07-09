@@ -1,0 +1,107 @@
+---
+title: "THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE — TALES OF ADVENTURE"
+author: "Conan Doyle"
+unitType: story
+tags:
+  - graph/excerpt
+  - author/Conan_Doyle
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Conan_Doyle · THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTUR</div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/conan_doyle/atomized/the_man_from_archangel_and_other_tales_of_adventur/story_02_the_surgeon_of_gaster_fell_how_the_woman">Story 02 THE SURGEON OF GASTER FELL HOW THE WOMAN ›</a></div>
+</nav>
+
+
+TALES OF ADVENTURE
+THE DÉBUT OF BIMBASHI JOYCE
+It was in the days when the tide of Mahdism, which had swept in such a flood from the great Lakes and Darfur to the confines of Egypt, had at last come to its full, and even begun, as some hoped, to show signs of a turn. At its outset it had been terrible. It had engulfed Hicks’s army, swept over Gordon and Khartoum, rolled behind the British forces as they retired down the river, and finally cast up a spray of raiding parties as far north as Assouan. Then it found other channels to east and to west, to Central Africa and to Abyssinia, and retired a little on the side of Egypt. For ten years there ensued a lull, during which the frontier garrisons looked out upon those distant blue hills of Dongola. Behind the violet mists which draped them, lay a land of blood and horror. From time to time some adventurer went south towards those haze-girt mountains, tempted by stories of gum and ivory, but none ever returned. Once a mutilated Egyptian and once a Greek woman, mad with thirst and fear, made their way to the lines. They were the only exports of that country of darkness. Sometimes the sunset would turn those distant mists into a bank of crimson, and the dark mountains would rise from that sinister reek like islands in a sea of blood. It seemed a grim symbol in the southern heaven when seen from the fort-capped hills by Wady Halfa.
+Ten years of lust in Khartoum, ten years of silent work in Cairo, and then all was ready, and it was time for civilisation to take a trip south once more, travelling, as her wont is, in an armoured train. Everything was ready, down to the last pack-saddle of the last camel, and yet no one suspected it, for an unconstitutional Government has its advantages. A great administrator had argued, and managed, and cajoled; a great soldier had organised and planned, and made piastres do the work of pounds. And then one night these two master spirits met and clasped hands, and the soldier vanished away upon some business of his own. And just at that very time Bimbashi Hilary Joyce, seconded from the Royal Mallow Fusiliers, and temporarily attached to the Ninth Soudanese, made his first appearance in Cairo.
+Napoleon had said, and Hilary Joyce had noted, that great reputations are only to be made in the East. Here he was in the East with four tin cases of baggage, a Wilkinson sword, a Bond’s slug-throwing pistol, and a copy of Green’s Introduction to the Study of Arabic. With such a start, and the blood of youth running hot in his veins, everything seemed easy. He was a little frightened of the General, he had heard stories of his sternness to young officers, but with tact and suavity he hoped for the best. So, leaving his effects at Shepheard’s Hotel, he reported himself at headquarters.
+It was not the General, but the head of the Intelligence Department who received him, the Chief being still absent upon that business which had called him. Hilary Joyce found himself in the presence of a short, thick-set officer, with a gentle voice and a placid expression which covered a remarkably acute and energetic spirit. With that quiet smile and guileless manner he had undercut and outwitted the most cunning of Orientals. He stood, a cigarette between his fingers, looking at the new-comer.
+“I heard that you had come. Sorry the Chief isn’t here to see you. Gone up to the frontier, you know.”
+“My regiment is at Wady Halfa. I suppose, sir, that I should report myself there at once?”
+“No; I was to give you your orders.” He led the way to a map upon the wall, and pointed with the end of his cigarette. “You see this place. It’s the Oasis of Kurkur — a little quiet, I am afraid, but excellent air. You are to get out there as quick as possible. You’ll find a company of the Ninth, and half a squadron of cavalry. You will be in command.”
+Hilary Joyce looked at the name, printed at the intersection of two black lines, without another dot upon the map for several inches round it.
+“A village, sir?”
+“No, a well. Not very good water, I’m afraid, but you soon get accustomed to natron. It’s an important post, as being at the junction of two caravan routes. All routes are closed now, of course, but still you never know who might come along them.”
+“We are there, I presume, to prevent raiding?”
+“Well, between you and me, there’s really nothing to raid. You are there to intercept messengers. They must call at the wells. Of course you have only just come out, but you probably understand already enough about the conditions of this country to know that there is a great deal of disaffection about, and that the Khalifa is likely to try and keep in touch with his adherents. Then, again, Senoussi lives up that way” — he waved his cigarette to the westward—”the Khalifa might send a message to him along that route. Anyhow, your duty is to arrest every one coming along, and get some account of him before you let him go. You don’t talk Arabic, I suppose?”
+“I am learning, sir.”
+“Well, well, you’ll have time enough for study there. And you’ll have a native officer, Ali something or other, who speaks English, and can interpret for you. Well, good-bye — I’ll tell the Chief that you reported yourself. Get on to your post now as quickly as you can.”
+Railway to Baliani, the post-boat to Assouan, and then two days on a camel in the Libyan Desert, with an Ababdeh guide, and three baggage-camels to tie one down to their own exasperating pace. However, even two and a half miles an hour mount up in time, and at last, on the third evening, from the blackened slag-heap of a hill which is called the Jebel Kurkur, Hilary Joyce looked down upon a distant clump of palms, and thought that this cool patch of green in the midst of the merciless blacks and yellows was the fairest colour effect that he had ever seen. An hour later he had ridden into the little camp, the guard had turned out to salute him, his native subordinate had greeted him in excellent English, and he had fairly entered into his own.
+It was not an exhilarating place for a lengthy residence. There was one large bowl-shaped, grassy depression sloping down to the three pits of brown and brackish water. There was the grove of palm trees also, beautiful to look upon, but exasperating in view of the fact that Nature has provided her least shady trees on the very spot where shade is needed most. A single widespread acacia did something to restore the balance. Here Hilary Joyce slumbered in the heat, and in the cool he inspected his square-shouldered, spindle-shanked Soudanese, with their cheery black faces and their funny little pork-pie forage caps. Joyce was a martinet at drill, and the blacks loved being drilled, so the Bimbashi was soon popular among them. But one day was exactly like another. The weather, the view, the employment, the food — everything was the same. At the end of three weeks he felt that he had been there for interminable years. And then at last there came something to break the monotony.
+One evening, as the sun was sinking, Hilary Joyce rode slowly down the old caravan road. It had a fascination for him, this narrow track, winding among the boulders and curving up the nullahs, for he remembered how in the map it had gone on and on, stretching away into the unknown heart of Africa. The countless pads of innumerable camels through many centuries had beaten it smooth, so that now, unused and deserted, it still wound away, the strangest of roads, a foot broad, and perhaps two thousand miles in length. Joyce wondered as he rode how long it was since any traveller had journeyed up it from the south, and then he raised his eyes, and there was a man coming along the path.
+For an instant Joyce thought that it might be one of his own men, but a second glance assured him that this could not be so. The stranger was dressed in the flowing robes of an Arab, and not in the close-fitting khaki of a soldier. He was very tall, and a high turban made him seem gigantic. He strode swiftly along, with head erect, and the bearing of a man who knows no fear.
+Who could he be, this formidable giant coming out of the unknown? The percursor possibly of a horde of savage spearmen. And where could he have walked from? The nearest well was a long hundred miles down the track. At any rate the frontier post of Kurkur could not afford to receive casual visitors. Hilary Joyce whisked round his horse, galloped into camp, and gave the alarm. Then, with twenty horsemen at his back, he rode out again to reconnoitre.
+The man was still coming on in spite of these hostile preparations. For an instant he had hesitated when first he saw the cavalry, but escape was out of the question, and he advanced with the air of one who makes the best of a bad job. He made no resistance, and said nothing when the hands of two troopers clutched at his shoulders, but walked quietly between their horses into camp. Shortly afterwards the patrols came in again. There were no signs of any Dervishes. The man was alone. A splendid trotting camel had been found lying dead a little way down the track. The mystery of the stranger’s arrival was explained. But why, and whence, and whither? — these were questions for which a zealous officer must find an answer.
+Hilary Joyce was disappointed that there were no Dervishes. It would have been a great start for him in the Egyptian army had he fought a little action on his own account. But even as it was, he had a rare chance of impressing the authorities. He would love to show his capacity to the head of the Intelligence, and even more to that grim Chief who never forgot what was smart, or forgave what was slack. The prisoner’s dress and bearing showed that he was of importance. Mean men do not ride pure-bred trotting camels. Joyce sponged his head with cold water, drank a cup of strong coffee, put on an imposing official tarboosh instead of his sun-helmet, and formed himself into a court of inquiry and judgment under the acacia tree.
+He would have liked his people to have seen him now, with his two black orderlies in waiting, and his Egyptian native officer at his side. He sat behind a camp-table, and the prisoner, strongly guarded, was led up to him. The man was a handsome fellow, with bold grey eyes and a long black beard.
+“Why!” cried Joyce, “the rascal is making faces at me.”
+A curious contraction had passed over the man’s features, but so swiftly that it might have been a nervous twitch. He was now a model of Oriental gravity.
+“Ask him who he is, and what he wants?”
+The native officer did so, but the stranger made no reply, save that the same sharp spasm passed once more over his face.
+“Well, I’m blessed!” cried Hilary Joyce. “Of all the impudent scoundrels! He keeps on winking at me. Who are you, you rascal? Give an account of yourself! D’ye hear?”
+But the tall Arab was as impervious to English as to Arabic. The Egyptian tried again and again. The prisoner looked at Joyce with his inscrutable eyes, and occasionally twitched his face at him, but never opened his mouth. The Bimbashi scratched his head in bewilderment.
+“Look here, Mahomet Ali, we’ve got to get some sense out of this fellow. You say there are no papers on him?”
+“No, sir; we found no papers.”
+“No clue of any kind?”
+“He has come far, sir. A trotting camel does not die easily. He has come from Dongola, at least.”
+“Well, we must get him to talk.”
+“It is possible that he is deaf and dumb.”
+“Not he. I never saw a man look more all there in my life.”
+“You might send him across to Assouan.”
+“And give some one else the credit! No, thank you. This is my bird. But how are we going to get him to find his tongue?”
+The Egyptian’s dark eyes skirted the encampment and rested on the cook’s fire.
+“Perhaps,” said he, “if the Bimbashi thought fit — —” He looked at the prisoner and then at the burning wood.
+“No, no, it wouldn’t do. No, by Jove, that’s going too far.”
+“A very little might do it.”
+“No, no. It’s all very well here, but it would sound just awful if ever it got as far as Fleet Street. But, I say,” he whispered, “we might frighten him a bit. There’s no harm in that.”
+“No, sir.”
+“Tell them to undo the man’s galabeeah. Order them to put a horseshoe in the fire and make it red-hot.”
+The prisoner watched the proceedings with an air which had more of amusement than of uneasiness. He never winced as the black sergeant approached with the glowing shoe held upon two bayonets.
+“Will you speak now?” asked the Bimbashi savagely.
+The prisoner smiled gently and stroked his beard.
+“Oh, chuck the infernal thing away!” cried Joyce, jumping up in a passion. “There’s no use trying to bluff the fellow. He knows we won’t do it. But I can and I will flog him, and you tell him from me that if he hasn’t found his tongue by to-morrow morning, I’ll take the skin off his back as sure as my name’s Joyce. Have you said all that?”
+“Yes, sir.”
+“Well, you can sleep upon it, you beauty, and a good night’s rest may it give you!”
+He adjourned the Court, and the prisoner, as imperturbable as ever, was led away by the guard to his supper of rice and water.
+Hilary Joyce was a kind-hearted man, and his own sleep was considerably disturbed by the prospect of the punishment which he must inflict next day. He had hopes that the mere sight of the koorbash and the thongs might prevail over his prisoner’s obstinacy. And then, again, he thought how shocking it would be if the man proved to be really dumb after all. The possibility shook him so that he had almost determined by daybreak that he would send the stranger on unhurt to Assouan. And yet what a tame conclusion it would be to the incident! He lay upon his angareeb still debating it when the question suddenly and effectively settled itself. Ali Mahomet rushed into his tent.
+“Sir,” he cried, “the prisoner is gone!”
+“Gone!”
+“Yes, sir, and your own best riding camel as well. There is a slit cut in the tent, and he got away unseen in the early morning.”
+The Bimbashi acted with all energy. Cavalry rode along every track; scouts examined the soft sand of the wadys for signs of the fugitive, but no trace was discovered. The man had utterly disappeared. With a heavy heart Hilary Joyce wrote an official report of the matter and forwarded it to Assouan. Five days later there came a curt order from the Chief that he should report himself there. He feared the worst from the stern soldier, who spared others as little as he spared himself.
+And his worst forebodings were realised. Travel-stained and weary, he reported himself one night at the General’s quarters. Behind a table piled with papers and strewn with maps the famous soldier and his Chief of Intelligence were deep in plans and figures. Their greeting was a cold one.
+“I understand, Captain Joyce,” said the General, “that you have allowed a very important prisoner to slip through your fingers.”
+“I am sorry, sir.”
+“No doubt. But that will not mend matters. Did you ascertain anything about him before you lost him?”
+“No, sir.”
+“How was that?”
+“I could get nothing out of him, sir.”
+“Did you try?”
+“Yes, sir; I did what I could.”
+“What did you do?”
+“Well, sir, I threatened to use physical force.”
+“What did he say?”
+“He said nothing.”
+“What was he like?”
+“A tall man, sir. Rather a desperate character, I should think.”
+“Any way by which we could identify him?”
+“A long black beard, sir. Grey eyes. And a nervous way of twitching his face.”
+“Well, Captain Joyce,” said the General, in his stern, inflexible voice, “I cannot congratulate you upon your first exploit in the Egyptian army. You are aware that every English officer in this force is a picked man. I have the whole British army from which to draw. It is necessary, therefore, that I should insist upon the very highest efficiency. It would be unfair upon the others to pass over any obvious want of zeal or intelligence. You are seconded from the Royal Mallows, I understand?”
+“Yes, sir.”
+“I have no doubt that your Colonel will be glad to see you fulfilling your regimental duties again.”
+Hilary Joyce’s heart was too heavy for words. He was silent.
+“I will let you know my final decision to-morrow morning.”
+Joyce saluted and turned upon his heel.
+“You can sleep upon that, you beauty, and a good night’s rest may it give you!”
+Joyce turned in bewilderment. Where had those words been used before? Who was it who had used them?
+The General was standing erect. Both he and the Chief of the Intelligence were laughing. Joyce stared at the tall figure, the erect bearing, the inscrutable grey eyes.
+“Good Lord!” he gasped.
+“Well, well, Captain Joyce, we are quits!” said the General, holding out his hand. “You gave me a bad ten minutes with that infernal red-hot horseshoe of yours. I’ve done as much for you. I don’t think we can spare you for the Royal Mallows just yet awhile.”
+“But, sir; but —— !”
+“The fewer questions the better, perhaps. But of course it must seem rather amazing. I had a little private business with the Kabbabish. It must be done in person. I did it, and came to your post in my return. I kept on winking at you as a sign that I wanted a word with you alone.”
+“Yes, yes. I begin to understand.”
+“I couldn’t give it away before all those blacks, or where should I have been the next time I used my false beard and Arab dress? You put me in a very awkward position. But at last I had a word alone with your Egyptian officer, who managed my escape all right.”
+“He! Mahomet Ali!”
+“I ordered him to say nothing. I had a score to settle with you. But we dine at eight, Captain Joyce. We live plainly here, but I think I can do you a little better than you did me at Kurkur.”

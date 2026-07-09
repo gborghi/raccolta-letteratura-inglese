@@ -1,0 +1,53 @@
+---
+title: "THE FIRM OF GIRDLESTONE — Chapter 43"
+author: "Conan Doyle"
+unitType: chapter
+parentWork: "works/the-firm-of-girdlestone-(conan-doyle)"
+tags:
+  - graph/excerpt
+  - author/Conan_Doyle
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Conan_Doyle · <a href="/works/the-firm-of-girdlestone-(conan-doyle)">THE FIRM OF GIRDLESTONE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/conan_doyle/atomized/the_firm_of_girdlestone/chapter_43">‹ Chapter 43</a><a class="ex-next" href="/testi/conan_doyle/atomized/the_firm_of_girdlestone/chapter_45">Chapter 45 ›</a></div>
+</nav>
+
+
+CHAPTER XLIII.
+THE BAIT ON THE HOOK.
+The grey winter evening was beginning to steal in before the details had all been arranged by the conspirators. It had grown so chill that Kate had abandoned her attempt at gardening, and had gone back to her room. Ezra left his father and Burt by the fire and came out to the open hall-door. The grim old trees looked gaunt and eerie as they waved their naked arms about in the cutting wind. A slight fog had come up from the sea and lay in light wreaths over the upper branches, like a thin veil of gauze. Ezra was shivering as he surveyed the dreary scene, when he felt a hand on his arm, and looking round saw that the maid Rebecca was standing beside him.
+“Haven’t you got one word for me?” she said sadly, looking up into his face. “It’s but once a week, and then never a word of greeting.”
+“I didn’t see you, my lass,” Ezra answered. “How does the Priory suit you?”
+“One place is the same as another to me,” she said drearily. “You asked me to come here, and I have come. You said once that you would let me know how I could serve you down here. When am I to know?”
+“Why, there’s no secret about that. You do serve me when you look after my father as you have done these weeks back. That old woman isn’t fit to manage the whole place by herself.”
+“That wasn’t what you meant, though,” said the girl, looking at him with questioning eyes. “I remember your face now as you spoke the words. You have something on your mind, and have now, only you keep it to yourself. Why won’t you trust me with it?”
+“Don’t be a fool!” answered Ezra curtly. “I have a great deal to worry me in business matters. Much good it would do telling you about them!”
+“It’s more than that,” said Rebecca doggedly. “Who is that man who has come down?”
+“A business man from [[London]]. He has come to consult my father about money matters. Any more questions you would like to ask?”
+“I should like to know how long we are to be kept down here, and what the meaning of it all may be.”
+“We are going back before the end of the winter, and the meaning of it is that Miss Harston was not well and needed a change of air. Now are you satisfied?” He was determined to allay as far as possible any suspicions that the girl might have previously formed.
+“And what brings you down here?” she asked, with the same searching look. “You don’t come down into this hole without some good reason. I did think at first that you might come down in order to see me, but you soon showed me that it wasn’t that. There was a time when you was fond of me.”
+“So I am now, lass.”
+“Ay, very fond! Not a word nor a look from you last time you came.
+You must have some reason, though, that brings you here.”
+“There’s nothing wonderful in a man coming to see his own father,”
+“Much you cared for him in [[London]],” she cried, with a shrill laugh. “If he was under the sod you would not be the sadder. It’s my belief as you come down after that doll-faced missy upstairs.”
+“Dry up, now!” said Ezra roughly. “I’ve had enough of your confounded nonsense.”
+“You don’t talk in that style to her,” she said excitedly. “You scorn me, but I know this, that if I can’t have your love no one else shall. I’ve got a dash of the gipsy in me, as you know. Rather than that girl should have you, I would knife her and you, too!” She shook her clenched right hand as she spoke, and her face was so full of vindictive passion that Ezra was astonished.
+“I always knew that you were a spitfire,” he said, “but you never came it quite so strong as this before.”
+The reaction had already come upon her, however, and tears were running down her cheeks. “You’ll never leave me entirely?” she cried, clasping his arm. “I could bear to share your love with another, but I wouldn’t have you turn altogether against me.”
+“You’ll have my father out presently with your damned noise!” said Ezra.
+“Get away, and wash your face.”
+His word was law to her, and she turned away, still weeping bitterly. In her poor, dim, eventless life the sole bright spot had been the attention which the young merchant had occasionally shown her. To her distorted fancy he was a man among men, a hero, all that was admirable and magnificent. What was there which she would not do for him? She had the faithfulness of a dog, but like a dog she would snarl fiercely at any one who came between her master’s affection and herself. Deep down in her heart rankled the one suspicion which no assurances could remove, that an understanding existed between the man she loved and the woman she hated. As she withdrew to her room she determined that during this visit of Ezra’s she would manage in such a way that no communication could pass between them without her knowledge. She knew that it was a dangerous thing to play the spy upon the young man, for he had shown her before now that her sex was no precaution against his brutality. Nevertheless, she set herself to do it, with all the cunning and perseverance of a jealous woman.
+As the light faded and the greys of evening deepened into darkness, Kate sat patiently in her bare little room. A coal fire sputtered and sparkled in the rusty grate, and there was a tin bucket full of coals beside the fender from which to replenish it. She was very cold, so she drew her single chair up to the blaze and held her hands over it. It was a lonesome and melancholy vigil, while the wind whistled through the branches of the trees and moaned drearily in the cracks and crannies of the old house. When were her friends coming? Perhaps something had occurred to detain them to-day. This morning such a thing would have appeared to her to be an impossibility, but now that the time had come when she had expected them, it appeared probable enough that something might have delayed them. To-morrow at latest they could not fail to come. She wondered what they would do if they did arrive. Would they come boldly up the avenue and claim her from the Girdlestones, or would they endeavour to communicate with her first? Whatever they decided upon would be sure to be for the best.
+She went to the window once and looked out. It promised to be a wild night. Far away in the south-west lay a great cumulus of rugged clouds from which dark streamers radiated over the sky, like the advance guard of an army. Here and there a pale star twinkled dimly out through the rifts, but the greater part of the heavens was black and threatening. It was so dark that she could no longer see the sea, but the crashing, booming sound of the great waves filled the air and the salt spray came driving in through the open window. She shut it and resumed her seat by the fire, shivering partly from cold and partly from some vague presentiment of evil.
+An hour or more had passed when she heard a step upon the stairs and a knock came to her door. It was Rebecca, with a cup of tea upon a tray and some bread-and-butter. Kate was grateful at this attention, for it saved her from having to go down to the dining-room and face Ezra and his unpleasant-looking companion. Rebecca laid down the tray, and then, to her mistress’s surprise, turned back and shut the door. The girl’s face was very pale, and her manner was wild and excited.
+“Here’s a note for you,” she said. “It was given Mrs. Jorrocks to give you, but I am better at climbing stairs than she is, so I brought it up.” She handed Kate a little slip of paper as she spoke.
+A note for her! Could it be that her friends had arrived and had managed to send a message to her? It must be so. She took it from the maid. As she did so she noticed that the other’s hands were shaking as though she had the ague. “You are not well, Rebecca,” said Kate kindly. “Oh yes, I am. You read your note and don’t mind me,” the girl answered, in her usual surly fashion. Instead of leaving the room, she was bustling about the bed as though putting things in order.
+Kate’s impatience was too great to allow her to wait, so she untwisted the paper, which had no seal or fastening. She had hoped in her heart to see the name of her lover at the end of it. Instead of that, her eye fell upon the signature of Ezra Girdlestone. What could he have to say to her? She moved the solitary candle on to the mantelpiece, and read the following note, roughly scribbled upon a coarse piece of paper: —
+“MY DEAR MISS HARSTON.”
+“I am afraid your confinement here has been very irksome to you. I have repeatedly requested my father to alleviate or modify it, but he has invariably refused. As he still persists in his refusal, I wish to offer you my aid, and, to show you that I am your sincere friend in spite of all that has passed, it you could slip out to-night at nine o’clock and meet me by the withered oak at the head of the avenue, I shall see you safe to Bedsworth, and you can, if you wish, go on to Portsmouth by the next train. I shall manage so that you may find the door open by that time. I shall not, of course, go to Portsmouth with you, but shall return here after dropping you at the station. I do this small thing to show you that, hopeless as it may be, the affection which I bear you is still as deep as ever.”
+“Yours,”
+“E. GIRDLESTONE.”
+Our heroine was so surprised at this epistle that she sat for some time dangling the slip of paper between her fingers and lost in thought. When she glanced round, Rebecca had left the room. She rolled the paper up and threw it into the fire. Ezra, then, was not so hard-hearted as she had thought him. He had used his influence to soften his father. Should she accept this chance of escape, or should she wait some word from her friends? Perhaps they were already in Bedsworth, but did not know how to communicate with her. If so, this offer of Ezra’s was just what was needed. In any case, she could go on to Portsmouth and telegraph from there to the Dimsdales. It was too good an offer to be refused. She made up her mind that she would accept it. It was past eight now, and nine was the hour. She stood up with the intention of putting on her cloak and her bonnet.
