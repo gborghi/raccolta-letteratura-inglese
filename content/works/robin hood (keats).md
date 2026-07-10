@@ -6,6 +6,7 @@ cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Keats/_raw/038_ROBIN_HOOD.md
 tags:
   - graph/work
+  - concept/economics
   - author/Keats
   - concept/nostalgia
   - character/robin_hood
@@ -26,7 +27,7 @@ tags:
 
 **Topoi:** [[Ubi Sunt]], [[Golden Age]]
 **Motifs:** [[Money and Gold]]
-**Themes & Concepts:** [[Nostalgia]], [[Anti-Industrialism]]
+**Themes & Concepts:** [[Nostalgia]], [[Anti-Industrialism]], [[Economics]]
 **Forms & Genres:** [[Ballad Ballade]]
 **Historical References:** [[Medieval England]]
 **Characters:** [[Robin Hood]]

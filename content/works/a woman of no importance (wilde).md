@@ -6,6 +6,7 @@ cluster: World Upside Down · Comedy
 source: Authors/Wilde/_raw/003_A_Woman_of_No_Importance.md
 tags:
   - graph/work
+  - concept/economics
   - author/Wilde
   - concept/satire_of_society
   - concept/social_injustice
@@ -61,7 +62,7 @@ tags:
 **Topoi:** [[Fall from Innocence]], [[World Upside Down]], [[Paradise Lost]]
 **Archetypes:** [[(Reputed) Fallen Woman]], [[Great Mother]], [[Martyr Saint]], [[Temptress]], [[Innocent]], [[Outsider]]
 **Motifs:** [[Marriage]], [[Childhood]], [[Letters and Writing]], [[Mirror]], [[Clothing and Costume]], [[Garden]], [[Memory]]
-**Themes & Concepts:** [[Satire of Society]], [[Social Injustice]], [[Sin and the Fall]], [[Martyrdom]], [[Marriage and Fidelity]], [[Guilt]], [[Grief and Loss]], [[Revenge]], [[Innocence and Experience]], [[Temptation]], [[Class Conflict]], [[Grace and Redemption]]
+**Themes & Concepts:** [[Satire of Society]], [[Social Injustice]], [[Sin and the Fall]], [[Martyrdom]], [[Marriage and Fidelity]], [[Guilt]], [[Grief and Loss]], [[Revenge]], [[Innocence and Experience]], [[Temptation]], [[Class Conflict]], [[Grace and Redemption]], [[Economics]]
 **Forms & Genres:** [[Comedy]], [[Satire]], [[Epigram]], [[Problem Play]]
 **Historical References:** [[Regency Georgian England]], [[Bible]]
 **Settings:** [[Rural England]], [[Court]]

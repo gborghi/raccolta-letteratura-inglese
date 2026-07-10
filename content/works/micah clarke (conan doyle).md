@@ -6,6 +6,7 @@ cluster: Historical Novel · War and its Cost · Honour and Chivalry
 source: Authors/Conan_Doyle/_raw/MICAH_CLARKE.md
 tags:
   - graph/work
+  - concept/history
   - author/Conan_Doyle
   - form/historical_novel
   - form/bildungsroman
@@ -76,12 +77,12 @@ tags:
 - [Chapter 36: Of the End of it All](/testi/conan_doyle/atomized/micah_clarke/chapter_35_of_the_end_of_it_all)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-151.7</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">89</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">92.3</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">219.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-152.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">89.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">92.4</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">219.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
 **Forms & Genres:** [[Historical Novel]], [[Bildungsroman]], [[Fictional Autobiography]]
-**Themes & Concepts:** [[Religious Sectarianism]], [[Fanaticism]], [[Tolerance]], [[Maturation and Growth]], [[Justice Right and Wrong]], [[Empire and Imperialism]]
+**Themes & Concepts:** [[Religious Sectarianism]], [[Fanaticism]], [[Tolerance]], [[Maturation and Growth]], [[Justice Right and Wrong]], [[Empire and Imperialism]], [[History]]
 **Motifs:** [[Journey]], [[Prayer]], [[Swords and Weapons]], [[House Mansion]]
 **Historical References:** [[English Civil War]], [[Puritanism]], [[Oliver Cromwell]], [[Reformation]]
 **Settings:** [[Rural England]], [[Battlefield]]

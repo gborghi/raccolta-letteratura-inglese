@@ -6,6 +6,7 @@ cluster: Social Novel (Novel of Manners)
 source: Authors/Austen/_raw/Pride and Prejudice.md
 tags:
   - graph/work
+  - concept/economics
   - author/Austen
   - concept/pride
   - concept/marriage_and_fidelity
@@ -111,7 +112,7 @@ tags:
 
 **Archetypes:** [[Lover]]
 **Motifs:** [[Marriage]], [[Money and Gold]], [[Letters and Writing]]
-**Themes & Concepts:** [[Pride]], [[Marriage and Fidelity]], [[Romantic Love]], [[Class Conflict]], [[Appearance vs Reality]], [[Satire of Society]], [[Self-Knowledge]], [[Deception]], [[Maturation and Growth]], [[Humility]]
+**Themes & Concepts:** [[Pride]], [[Marriage and Fidelity]], [[Romantic Love]], [[Class Conflict]], [[Appearance vs Reality]], [[Satire of Society]], [[Self-Knowledge]], [[Deception]], [[Maturation and Growth]], [[Humility]], [[Economics]]
 **Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Satire]], [[Comedy]]
 **Historical References:** [[Regency Georgian England]]
 **Settings:** [[Rural England]]

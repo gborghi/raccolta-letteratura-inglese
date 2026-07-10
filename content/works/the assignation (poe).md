@@ -6,6 +6,7 @@ cluster: Lyric · Romantic Love · Marriage and Fidelity
 source: Authors/Poe/_raw/The Assignation.md
 tags:
   - graph/work
+  - setting/europe
   - author/Poe
   - concept/love_romantic
   - concept/beauty
@@ -56,7 +57,7 @@ tags:
 **Themes & Concepts:** [[Romantic Love]], [[Beauty]], [[Grief and Loss]], [[Melancholy]], [[Mortality]]
 **Forms & Genres:** [[Short Story]]
 **Historical References:** [[Classical Antiquity]]
-**Settings:** [[Venice]], [[Italy]]
+**Settings:** [[Venice]], [[Italy]], [[Europe]]
 
 ## Testo integrale / Full text
 

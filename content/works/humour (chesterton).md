@@ -6,6 +6,8 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Humour.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - concept/humility
   - concept/the_artist_and_society
@@ -60,8 +62,8 @@ tags:
 **Topoi:** [[World Upside Down]]
 
 **Archetypes:** [[Fool]], [[Trickster]]
-**Themes & Concepts:** [[Humility]], [[Artist and Society]], [[Paradox]], [[Justice Right and Wrong]], [[Grotesque]], [[Truth]], [[Pride]], [[Self-Knowledge]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Comedy]], [[Satire]], [[Fairy Tale Fantasy]], [[Epic]]
+**Themes & Concepts:** [[Humility]], [[Artist and Society]], [[Paradox]], [[Justice Right and Wrong]], [[Grotesque]], [[Truth]], [[Pride]], [[Self-Knowledge]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Comedy]], [[Satire]], [[Fairy Tale Fantasy]], [[Epic]], [[Nonfiction]]
 **Historical References:** [[Classical Antiquity]], [[Renaissance]], [[Medieval England]], [[Ancient Greece]], [[Elizabethan England]], [[Bible]], [[Voltaire]], [[Chaucer]], [[Rabelais]], [[Cervantes]]
 **Characters:** [[Falstaff]], [[Don Quixote]], [[Odysseus Ulysses]], [[Councillor Pleydell]]
 

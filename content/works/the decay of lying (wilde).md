@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Wilde/_raw/024_The_Decay_of_Lying.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Wilde
   - concept/beauty
   - concept/imagination
@@ -47,7 +48,7 @@ tags:
 **Archetypes:** [[Trickster]]
 **Motifs:** [[Nature]], [[Mirror]], [[Book Reading]], [[Fog and Smoke]]
 **Themes & Concepts:** [[Beauty]], [[Imagination]], [[Paradox]], [[Truth]], [[Deception]], [[Artist and Society]], [[Nature vs Civilization]], [[Beauty and Truth]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Epigram]], [[Aphorism]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Epigram]], [[Aphorism]], [[Nonfiction]]
 **Historical References:** [[Ancient Greece]], [[Renaissance]]
 **Characters:** [[Odysseus Ulysses]], [[Hamlet]]
 

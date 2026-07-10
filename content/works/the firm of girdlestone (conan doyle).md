@@ -6,6 +6,8 @@ cluster: Drama · Adventure · The Stage
 source: Authors/Conan_Doyle/_raw/THE_FIRM_OF_GIRDLESTONE.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
+  - concept/economics
   - author/Conan_Doyle
   - form/novel
   - form/melodrama
@@ -85,8 +87,8 @@ tags:
 ## Connections
 
 **Forms & Genres:** [[Novel]], [[Melodrama]]
-**Themes & Concepts:** [[Greed and Money]], [[Hypocrisy]], [[Crime and Punishment]], [[Materialism]], [[Family and Lineage]]
-**Motifs:** [[Money and Gold]], [[Ship]], [[Letters and Writing]]
+**Themes & Concepts:** [[Greed and Money]], [[Hypocrisy]], [[Crime and Punishment]], [[Materialism]], [[Family and Lineage]], [[Economics]]
+**Motifs:** [[Money and Gold]], [[Ship]], [[Letters and Writing]], [[Sea and Voyage]]
 **Historical References:** [[British Empire]]
 **Settings:** [[London]], [[Africa]]
 **Archetypes:** [[Villain]], [[Self-Made Man]]

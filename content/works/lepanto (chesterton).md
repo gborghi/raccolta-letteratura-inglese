@@ -6,6 +6,7 @@ cluster: Heroism · Hero · Last Stand
 source: Authors/Chesterton/_raw/lepanto.md
 tags:
   - graph/work
+  - concept/history
   - author/Chesterton
   - form/ballad
   - form/narrative_poem
@@ -57,7 +58,7 @@ tags:
 **Topoi:** [[Last Stand]], [[War as Glory]], [[Quest]]
 **Archetypes:** [[Hero]], [[Tyrant]]
 **Motifs:** [[Cross]], [[Sea]], [[Swords and Weapons]], [[Drums and Bugles]], [[Blood]], [[Prison]], [[Flags and Banners]]
-**Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Slavery]], [[Freedom and Liberty]]
+**Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Slavery]], [[Freedom and Liberty]], [[History]]
 **Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]]
 **Historical References:** [[Battle of Lepanto]], [[Crusades]], [[Christianity]], [[Islam]], [[Catholic Church]]
 **Settings:** [[Sea (2)]], [[Orient]]

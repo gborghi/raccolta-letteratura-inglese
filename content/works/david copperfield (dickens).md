@@ -6,6 +6,7 @@ cluster: Fallen Woman
 source: Authors/Dickens/_raw/David_Copperfield.md
 tags:
   - graph/work
+  - concept/economics
   - author/Dickens
   - form/bildungsroman
   - form/novel
@@ -121,7 +122,7 @@ tags:
 
 **Archetypes:** [[Orphan]], [[Self-Made Man]], [[(Reputed) Fallen Woman]], [[Villain]]
 **Motifs:** [[Childhood]], [[Memory]], [[Sea]], [[Storm]], [[Journey]]
-**Themes & Concepts:** [[Maturation and Growth]], [[Identity]], [[Memory and Time]], [[Social Injustice]], [[Grief and Loss]], [[Class Conflict]], [[Innocence and Experience]], [[Fallen Woman]]
+**Themes & Concepts:** [[Maturation and Growth]], [[Identity]], [[Memory and Time]], [[Social Injustice]], [[Grief and Loss]], [[Class Conflict]], [[Innocence and Experience]], [[Fallen Woman]], [[Economics]]
 **Forms & Genres:** [[Bildungsroman]], [[Novel]], [[Social Novel (Novel of Manners)]]
 **Historical References:** [[Regency Georgian England]]
 **Settings:** [[London]]

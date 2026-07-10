@@ -6,6 +6,9 @@ cluster: Paradox · Food and Feasting · Aphorism
 source: Authors/Chesterton/_raw/The_Defendant.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - concept/wonder_and_gratitude
   - concept/paradox
@@ -98,8 +101,8 @@ tags:
 **Topoi:** [[Book of Nature]], [[World Upside Down]], [[Memento Mori]], [[Pastoral Retreat]], [[Golden Age]], [[Sublime in Nature]]
 **Archetypes:** [[Detective]], [[Child]], [[Prophet]]
 **Motifs:** [[Childhood]], [[Book Reading]], [[Death]], [[Stars]], [[City]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Paradox]], [[Satire of Society]], [[Common Man]], [[Imagination]], [[Nationalism and Patriotism]], [[Innocence and Experience]], [[Ratiocination Detection]], [[Good vs Evil]], [[Humility]], [[Democracy]], [[Beauty]], [[Grotesque]], [[Joy]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Self and Cosmos]], [[Class Conflict]], [[Faith]], [[Value and Scarcity]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Paradox]], [[Satire of Society]], [[Common Man]], [[Imagination]], [[Nationalism and Patriotism]], [[Innocence and Experience]], [[Ratiocination Detection]], [[Good vs Evil]], [[Humility]], [[Democracy]], [[Beauty]], [[Grotesque]], [[Joy]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Self and Cosmos]], [[Class Conflict]], [[Faith]], [[Value and Scarcity]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

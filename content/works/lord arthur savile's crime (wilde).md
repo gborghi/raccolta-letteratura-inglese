@@ -6,6 +6,7 @@ cluster: City · London · Theatrum Mundi
 source: Authors/Wilde/_raw/020_Lord_Arthur_Saviles_Crime.md
 tags:
   - graph/work
+  - setting/europe
   - author/Wilde
   - topos/theatrum_mundi
   - topos/all_the_worlds_a_stage
@@ -68,7 +69,7 @@ tags:
 **Themes & Concepts:** [[Fate and Free Will]], [[Satire of Society]], [[Conscience]], [[Honour]], [[Guilt]], [[Marriage and Fidelity]], [[Appearance vs Reality]]
 **Forms & Genres:** [[Short Story]], [[Satire]], [[Comedy]]
 **Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]], [[Venice]]
+**Settings:** [[London]], [[Venice]], [[Europe]]
 **Characters:** [[Lord Arthur Savile]], [[Mr Podgers]], [[Sybil Merton]], [[Lady Clementina Beauchamp]], [[Lady Windermere]]
 
 ## Testo integrale / Full text

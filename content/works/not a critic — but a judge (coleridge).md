@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Coleridge/_raw/384_NOT_A_CRITIC_BUT_A_JUDGE.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Coleridge
   - form/epigram
   - concept/the_artist_and_society
@@ -22,7 +23,7 @@ tags:
 ## Connections
 
 **Themes & Concepts:** [[Artist and Society]], [[Revenge]], [[Justice Right and Wrong]]
-**Forms & Genres:** [[Epigram]], [[Literary Criticism]]
+**Forms & Genres:** [[Epigram]], [[Literary Criticism]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

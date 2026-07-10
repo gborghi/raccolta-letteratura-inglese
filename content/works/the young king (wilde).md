@@ -6,6 +6,7 @@ cluster: Allegory · Quest · Pilgrim
 source: Authors/Wilde/_raw/016_The_Young_King.md
 tags:
   - graph/work
+  - concept/economics
   - author/Wilde
   - concept/social_injustice
   - concept/poverty
@@ -57,7 +58,7 @@ tags:
 **Topoi:** [[Sleeper Awakes]], [[Dance of Death]], [[World Upside Down]]
 **Archetypes:** [[King]], [[Christ Figure]], [[Orphan]], [[Prophet]]
 **Motifs:** [[Dreams]], [[Crown]], [[Clothing and Costume]], [[Money and Gold]], [[Blood]], [[Sea]], [[White and Red]], [[Death]], [[Cross]]
-**Themes & Concepts:** [[Social Injustice]], [[Poverty]], [[Class Conflict]], [[Beauty]], [[Conversion]], [[Grace and Redemption]], [[Kingship and Legitimacy]], [[Humility]]
+**Themes & Concepts:** [[Social Injustice]], [[Poverty]], [[Class Conflict]], [[Beauty]], [[Conversion]], [[Grace and Redemption]], [[Kingship and Legitimacy]], [[Humility]], [[Economics]]
 **Forms & Genres:** [[Fairy Tale Fantasy]], [[Allegory]]
 **Historical References:** [[Christianity]], [[Bible]]
 **Settings:** [[Castle]]

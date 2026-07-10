@@ -1,0 +1,35 @@
+---
+title: "Marie Antoinette — Chapter 1: THE DIPLOMATIC REVOLUTION (part 4)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/marie-antoinette-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/marie-antoinette-(belloc)">Marie Antoinette</a> › <a href="/testi/belloc/atomized/marie_antoinette/chapter_02_the_diplomatic_revolution">Chapter 02 THE DIPLOMATIC REVOLUTION</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/marie_antoinette/chapter_02_the_diplomatic_revolution/part_03">‹ part 03</a><a class="ex-next" href="/testi/belloc/atomized/marie_antoinette/chapter_02_the_diplomatic_revolution/part_05">part 05 ›</a></div>
+</nav>
+
+
+In so determining to effect an alliance between the Hapsburgs and their secular enemy, Kaunitz equally determined, unknown to himself, the whole fortunes of Marie Antoinette; she, years later, when she came to be born to the Imperial house, was, even in childhood, the pledge he needed. It is Kaunitz who stands forever behind the life of Marie Antoinette, like a writer behind the creature in his book. It is he who designs her marriage, who uses her without mercy for the purposes of his policy at Versailles; he is the author of her magnificence and of her intrigue; he is then also indirectly the author of her fall, which, in his obscure and failing old age, he heard of far away, partially comprehended, and just survived.
+
+Kaunitz was the original of our modern diplomatists. In that epoch of governing families not a few nobles were flattered to be called “the Coachmen of Europe”: he alone merited the cant term. He served a sovereign whose armies were constantly defeated; he was the adviser of a mere [[Crown|crown]] — and that [[Crown|crown]] worn by a woman; in a time when the divergent races of the Danube were first astir, he had at his command or for his support neither a national tradition nor any strong instrument of war, yet, by personal genius, by tenacity, and by a wide lucidity of vision, he discovered and completed a method of “government through foreign relations” which was almost independent of national feeling or of armed strength.
+
+An absence of natural violence, as of all common emotions, was characteristic of Kaunitz. He disdained the vulgar pomp of silence; he talked continually; he knew the strength and secrecy of men who can be at once verbose and deliberate. Nor could his fluency have deceived any careful observer into a suspicion of weakness, for his curved thin nose and prominent peaked chin, his arched eyebrows, his Sclavonic type, ready and courageous, his hard, pale eyes, showed nothing but purpose and execution; and as his tall figure stalked round the billiard tables at evening, his very recreation seemed instinct with plans.
+
+The abounding energy which drove him to success revealed itself in a thousand ways, and chiefly in this, that in the career of diplomacy, where all individuality is regarded with dread, he pushed his personal tastes beyond the eccentric. Thus he had a mania against all gesticulation, and he would present at every conference the singular spectacle of a man chattering and disputing unceasingly and eagerly, yet keeping his hands quite motionless all the while. Again, when he entered the great houses of Europe and dined with men to influence whom was to conduct the world, he did not hesitate to bring with him his own dessert, which when he had eaten he would, to the great disgust of embassies, elaborately wash his teeth at table. In the midst of the hardest toil he was so foppish as to wear various wigs — now brown, now white, now auburn. He was a constant traveller, familiar with every capital in Western Europe, yet he so loathed fresh air that he would not pass from his carriage to a palace door unless his mouth were covered. He was a dandy who, in drawing-rooms loaded with scent and flowers, loudly protested against all perfume; a gentleman who, when cards were the only pastime of the rich, expressed a detestation of all hazard; a courtier who, amidst all the extravagancies of etiquette of the eighteenth century, barely bowed to the greatest sovereigns, and who, on the stroke of eleven, would abruptly leave the Emperor without a word.
+
+Such marks of an intense initiative, detachment, and pride were tolerated in the earlier part of his life with amusement on account of the affection he could inspire; later they were regarded with ill ease, and at last with a sort of awe, when it was known that his intelligence could entrap no matter what combination of antagonists. This intelligence, and the single devotion by which such natures are invariably compelled, were both laid at the feet of [[Maria Theresa]].
+
+He was older than his Empress by some seven years; there lay between them just that space which makes for equality and comprehension between a man and a woman. The year of her marriage had coincided with that of his own; he had come at twenty-five to the court of this young sovereign of eighteen. She had recognised — with a wisdom that never failed her long and active life — how just and general was his view of Europe, and it was from this moment that her interests and her career were entrusted to his genius. He had already studied in three universities, had refused the clerical profession to which his Canonry of Munster introduced him, and had travelled in the Netherlands, in [[France]], in England, and in Italy, where he was made Aulic Councillor, and enfeoffed, as it were, to the palace.
+
+His abilities had not long to await their opportunity. It was but four years after [[Maria Theresa]]’s marriage and his own that she succeeded to the throne and possessions of the Hapsburgs: then it was the sudden advent of Prussia, to which I have alluded, began the great change.
+
+[[Maria Theresa]]’s succession was in doubt, not in point of right, but because her sex and the condition in which her father had left his army and his treasury gave an opportunity to the rivals of [[Austria]], and notably to [[France]].
+
+Europe was thus passing through one of those crises of instability during which every chancery discounts and yet dreads a universal war, when the magazine was fired by one who had nothing to lose but honour. Frederick of Prussia was the warmest in acknowledging the title of Maria Theresa; he accepted her claims, guaranteed the integrity of her possessions, and suddenly invaded them.
+
+From the ordering of that march of Frederick’s into Silesia — from the close, that is, of the year 1740 — Kaunitz, a man not yet in his thirtieth year, was at work to repair the Empire and to restore the equilibrium of Europe. Upon the whole he succeeded; for though the magnitude of the Revolutionary Wars has dwarfed his period, and though the complete modern transformation of society has made such causes seem remote, yet (as it is the thesis of these pages to maintain) Kaunitz unconsciously preserved the unity of Europe.

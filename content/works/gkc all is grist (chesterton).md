@@ -6,6 +6,9 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/GKC_All_is_Grist.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - form/satire
@@ -68,7 +71,7 @@ tags:
 
 **Archetypes:** [[Wise Old Man Sage]]
 
-**Settings:** [[Venice]], [[Italy]], [[Canada]]
+**Settings:** [[Venice]], [[Italy]], [[Canada]], [[Europe]]
 
 **Motifs:** [[Clothing and Costume]], [[Nakedness]]
 
@@ -76,8 +79,8 @@ tags:
 
 **Characters:** [[Beatrice]], [[Hamlet]]
 
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Marriage and Fidelity]], [[Paganism and Classical Revival]], [[Democracy]], [[Freedom and Liberty]], [[Education]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]], [[Travel Writing]]
+**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Marriage and Fidelity]], [[Paganism and Classical Revival]], [[Democracy]], [[Freedom and Liberty]], [[Education]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]], [[Travel Writing]], [[Nonfiction]]
 **Historical References:** [[Renaissance]], [[Dante]], [[Italy reference]], [[French Revolution]], [[Puritanism]], [[Medieval England]], [[Algernon Charles Swinburne]], [[T. S. Eliot]], [[Napoleon]], [[Michelangelo]], [[Petrarch]], [[Thomas Aquinas]]
 
 ## Testo integrale / Full text

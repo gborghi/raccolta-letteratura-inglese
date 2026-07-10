@@ -1,0 +1,39 @@
+---
+title: "First and Last — The Victory"
+author: "Belloc"
+unitType: story
+parentWork: "works/first-and-last-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/first-and-last-(belloc)">First and Last</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/first_and_last/story_14_on_the_reading_of_history">‹ Story 14 On the Reading of History</a><a class="ex-next" href="/testi/belloc/atomized/first_and_last/story_16_reality">Story 16 Reality ›</a></div>
+</nav>
+
+
+The Victory
+
+THE STUDY OF history, like the exploration, the thorough exploration, of any other field, leads one to perpetual novelties, miracles, and unexpected things; and I, in the study of the revolutionary wars, came across the story of a battle which completely possessed my spirit.
+
+It would not be to my purpose here to give its name. It is not among the most famous; it is not Waterloo, nor Leipsic, nor Austerlitz, nor even Jemappes. The more I read into the night the more I perceived that upon the issue of that struggle depended the fate of the modern world. So completely did the notes of Carnot and a few private letters that had been put before me absorb my attention that I will swear the bugle-calls of those two days (for it was a two-days’ struggle) sounded more clearly in my ears than the rumble of the London streets, and, as this died out with the advance of the night and the approach of morning, I was living entirely upon that ridge in Flanders, watching, as a man watches an arena, whether the new things or the old should be victorious. It was the new that conquered.
+
+From that evening I was determined to visit this place of which so far I had but read, and to see how far it might agree with the vision I had had of it, and to people actual fields with the ghosts of dead soldiers. And for the better appreciation of the drama I chose the season and the days on which the fight had been driven across that rolling land, and I came there, as the Republicans had come, a little before the dawn.
+
+The hillside was silent and deserted, more even than are commonly such places, though silence and desertion seem the common atmosphere of all the fields on which such fates have been decided. A man looking over Carthage Bay, especially a man looking at those sodden pools that were the sound harbours of Carthage, might be in an uninhabited world; and the loop of the Trebbia is the same, and the edge of Fontenoy; and even here in England that hillside looking south up which the Normans charged at Battle is a quiet and a drowsy sort of place.... So it was here in Flanders.
+
+For two miles as I ascended by the little sunken lane which the extreme right wing had followed in the last attack I saw neither man nor beast, but only the same stubble of the same autumn fields, and the same colder sun shining upon the empty uplands until I reached the crest where the Hungarian and the Croat had met the charge, and had disputed the little village for two hours — a dispute upon which hung your fate and mine and that of Europe.
+
+It was a tiny little village, seven or eight houses together and no more, with a crazy little wooden steeple to its church all twisted awry, large barns, and comfortable hedgerows of the Northern kind; and from it one looked out westwards over an infinity of country, following low crest after low crest, down on to the French plains. I went into the inn of the place to drink, and found the cobbler there complaining that wealth disturbed the natural equality of men. Then I wandered out, pacing this point and that which I knew accurately from my maps, and thinking of the noise of the war. Behind the little church, upon a ramshackle green not large enough to pitch the stumps for single-wicket, was the modest monument, a cock in bronze, crowing, and the word “Victory” stamped into the granite of the pedestal; the whole thing, I suppose, not ten feet high. The bronze was very well done; it savoured strongly of Paris and looked odd in this abandoned little place. But every time my eyes sank from the bronze, to look at some other point in the landscape to identify the emplacement of such and such a battery or the gully that had concealed the advance of such and such a troop, my glance perpetually returned to that word “VICTORY,” sculptured by itself upon the stone. It was indeed a victory; it was a victory which, for its huge unexpectedness, for the noise of it, for the length of time during which it was in doubt, for its final success, there is no parallel, and yet it is by no means among the famous battles of the world. And though the French count it one among the thousand of their battles, I doubt whether even in Paris most men would recognize it for the hammer-blow it was. The men of the time hardly knew it, though Carnot guessed at it, and now to-day in Sorbonne I think that regal fight is taking its true place.
+
+So I went down the eight miles of front northward along the ridge; for even that battle, a hundred and more years ago, had an extended front of this kind. I recognized the tall majestic fringe of beeches from which had issued the last of the Royalist regiments bearing for the last time upon a European field the white flag of the Bourbon Monarchy; I came beyond it to the combe fringed with its semicircle of underbrush in which Coburg had massed his guns in the last effort to break the French centre when his flank was turned. I came to the main highway, very broad, straight, and paved, which cuts this battlefield in two, and then beyond it to the central position whose capture had made the final manoeuvre possible.
+
+All Wednesday the Grenadiers, German, tall, padded, smart, and stout, had held their ground. It was not until Thursday, and by noon, that they were slowly driven up the hill by the ragged lads, the Gauls, shoeless, some not in uniform at all, half-mutinous, drunk with pain and glory. And I remembered, as the scene returned to me, that this battle, like so many of the Revolution, had been a battle of men against boys; how grey and veteran and trained in arms were the Austrians and the Prussians, their allies, how strict in orders, how calm: and what children the Terror had called up by force from the exhausted fields of remote French provinces, to break them here against the frontier, like water against a wall...!
+
+There was a little chap, twelve years old, a drummer; he had crept and crawled by hedgerows till he found himself behind the line of those volleying Grenadiers. There, “before his side,” and breaking all rules, he had sounded the roll of the charge. They cut him down and killed him, and the roll of his drum ceased hard. A generation or more later, digging for foundations at this spot, the builders of the Peace came upon his bones, the little bones of a child heaped pell-mell with skeletons of the fallen giants round him.
+
+I went back into the town in whose defence the battle had been waged, and there I saw again in bronze this little lad, head high and mouth open, a-beating of his drum, and again the word “VICTORY.”
+
+All that effort was undertaken, all those young men and children killed, for something that was to happen for the salvation of the world; it has not come. All that iron resistance of the German line had been forged and organized till it almost conquered, till it almost thwarted, the Republic, and it also had been organized for the defence, and, as some thought, for the salvation, of the world. Some great good was to have come by the storming of that hill, or some great good by the defeat of the impetuous charge. Well, the hill was stormed, and (if you will) at Leipsic the effort which had stormed it was rolled back. What has happened to the High Goddess whom that youth followed, and worshipped as they say, and what to the Gods whom their enemies defended? The ridge is exactly the same.

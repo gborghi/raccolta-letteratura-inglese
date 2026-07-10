@@ -1,0 +1,35 @@
+---
+title: "On Anything — THE CHRISTMAS OF 1808"
+author: "Belloc"
+unitType: story
+parentWork: "works/on-anything-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/on-anything-(belloc)">On Anything</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/on_anything/story_22_hans_christian_andersen">‹ Story 22 HANS CHRISTIAN ANDERSEN</a><a class="ex-next" href="/testi/belloc/atomized/on_anything/story_24_on_communications">Story 24 ON COMMUNICATIONS ›</a></div>
+</nav>
+
+
+THE CHRISTMAS OF 1808
+
+NO BRITISH ARMY in force has capitulated in Europe for many generations. It is the peculiar historical position of this country. That historical fact lends to the common history of the schools and universities an attitude towards military history in general which is commonly distorted, but it lends to the policy of the country as a whole a confident tradition, the strength and value of which it is impossible to exaggerate.
+
+The nearest touch to such a disaster, if we except the sieges, was passed during the days in which these words are written and read; the close thing came about in the days just before and just after Christmas, one hundred and two years ago. I will attempt to describe as simply as I can the nature of that adventure.
+
+It must first of all be premised that, in the words of Napier, position determines the fate of armies. No truth is more apparent to the soldier, none more forgotten by the civilian — and more especially by the civilian touched with the unmilitary vice of Jingoism. Position determines the fate of armies, and, armaments being supposedly equal, he is a great or a fortunate general who, in the critical moment, has so arranged matters that disposition is upon his side, or who by some stroke of luck is in that advantage. There are exceptions to this truth. Certain decisive battles (though very few) have utterly determined campaigns; and among these battles some, again, have been won at a drive, and by a sort of impetus, the factor of position being so simple as to be negligible, or so equally balanced as to advantage neither side and be eliminated. But, as a rule, it is true even of decisive actions, that position is the determining factor. It is necessarily true of the strategy of a campaign, and it is with this consideration that I return to the particular crisis of the British Army at the close of December 1808.
+
+Sir John Moore, as every one knows, had raided right into the North of [[Spain]], with the object of withdrawing the pressure of the French upon the South of that country. It was in the South that French ambition had found its first check, and that Napoleon’s plan had been warped by the unexpected and, as it were, impossible capitulation of Baylen. Close upon twenty thousand of the French forces had there laid down their arms. The Emperor came in person to restore the fortunes of his house; it was in the South that resistance could best be expected; by the occupation of the South that he might put himself at ease over the whole territory, and from the South that the English operations were destined to draw him.
+
+On the 21st of December, a Wednesday, Lord Paget, with the Tenth and Fifteenth Hussars, surprised an advanced body of French Cavalry at Sahagun. It was the extreme limit of Moore’s great raid; the town was occupied, and all the Thursday, all the Friday, Moore halted there with his force of some twenty-three thousand and sixty guns. He was nearly two hundred miles from the port on the sea-coast, whereto he must retire if he would escape. In front of him was Soult, against whom it was his business, if he were undisturbed, to march from Sahagun immediately; but upon his right, nearly as far off as the sea, though not quite so far, a matter of a hundred and fifty to a hundred and seventy miles, Napoleon, at Madrid, commanded the best and the largest of the armies in [[Spain]]. Sixty thousand men, with a hundred and fifty guns, lay at the gates of Madrid, and during those same hours in which the British Army had marched into Sahagun, Napoleon’s great force began to move northward over the Guadarrama.
+
+I will not here describe that famous march: I have done so elsewhere at greater length: but the reader, to appreciate the conditions of this great duel, must imagine a country denuded and largely mountainous, deep in snow, and subject throughout those days to intolerable weather; and the race upon the issue of which depended so many and such final things was run at a time and in a place when one would have thought that no man could be abroad. But the protagonists of the Revolutionary wars were not men like ourselves.
+
+Christmas Day fell upon the Sunday. Moore had got ahead of his supplies; they had reached him on the Friday, and on the Saturday, Christmas Eve, he had intended to go forward and attack the opponent before him. But on that same Friday when, in the night, his Infantry were already beginning to march eastward, he heard of Napoleon’s amazing feat; he knew that he had succeeded in drawing the great commander northward, but he knew also, since that commander could work miracles, that the distance separating them would be crossed with a swiftness not to be measured by the old rules of war, and that the vast force three times his own would, if he hesitated, be found holding the snow-blocked roads between his position and the sea. The order to advance was cancelled, the order to retreat was given. By Christmas Eve Baird and Hope were on the line of the Esla River; on Christmas Day, Sunday, the troops were passing that obstacle. On Monday, the 26th, the baggage and the last of the army, under Moore’s own eye, were crossing by the bridge of Castro Gonzalo before Benevente, and the trick was done. There was a thick fog, the passage was far slower than the strained intelligence of the imperilled commander had designed. On that same day, the 26th, Napoleon was at Tordesillas, one long day’s march away from the Esla River. He had covered in that dash of three days and a half a hundred and twenty miles, but he was too late. He was too late by half a day.
+
+In the dark and storm-driven night of that Monday the extreme van of Napoleon’s horse rode up to the bridge of Castro Gonzalo. They were unsupported, of course, and rode far before the army to discover; but, though it was not contact in any serious sense, there is something very worthily dramatic in the appearance of those tall horsemen suddenly in the night through the blinding snow, come up just too late to do more than watch the escape of Moore’s column.
+
+By the next day the purpose of the British commander was achieved: Napoleon knew he could no longer intercept: the bridge was destroyed. The opportunity of recording the envelopment and destruction of a British force was lost to Napoleon; he abandoned to Soult the further long pursuit, which is called in history the retreat upon Corunna.

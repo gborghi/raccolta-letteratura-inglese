@@ -6,6 +6,7 @@ cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Chesterton/_raw/Poet_and_Lunatics.md
 tags:
   - graph/work
+  - concept/history
   - author/Chesterton
   - form/detective_fiction
   - form/short_story
@@ -82,7 +83,7 @@ tags:
 
 **Archetypes:** [[Detective]], [[Fool]], [[Artist]], [[Double Doppelganger]]
 **Motifs:** [[Supernatural]], [[Inn Tavern]], [[Birds]], [[Feigned Madness]], [[Concealment Hidden Identity]], [[Prison]], [[Stone and Marble]], [[Storm]]
-**Themes & Concepts:** [[Madness]], [[Ratiocination Detection]], [[Imagination]], [[Good vs Evil]], [[Appearance vs Reality]], [[Paradox]], [[Freedom and Liberty]], [[Identity]], [[Self and Cosmos]], [[Faith and Doubt]], [[Crime and Punishment]]
+**Themes & Concepts:** [[Madness]], [[Ratiocination Detection]], [[Imagination]], [[Good vs Evil]], [[Appearance vs Reality]], [[Paradox]], [[Freedom and Liberty]], [[Identity]], [[Self and Cosmos]], [[Faith and Doubt]], [[Crime and Punishment]], [[History]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Parable]]
 
 ## Testo integrale / Full text

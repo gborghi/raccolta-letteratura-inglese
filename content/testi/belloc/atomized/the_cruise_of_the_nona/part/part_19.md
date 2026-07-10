@@ -1,0 +1,33 @@
+---
+title: "The Cruise of the Nona (part 19)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/the-cruise-of-the-nona-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/the-cruise-of-the-nona-(belloc)">The Cruise of the Nona</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/the_cruise_of_the_nona/part/part_18">‹ part 18</a><a class="ex-next" href="/testi/belloc/atomized/the_cruise_of_the_nona/part/part_20">part 20 ›</a></div>
+</nav>
+
+
+We took council together and determined that with the very first breath of air we could find we would run back to anchor and wait for a [[Wind|wind]] worth having. So we did, and a second day passed in Fishguard harbour, as empty as the first, and a second night; and then it was I completed the tune and first verse of a song called the ‘Chaunty of the Nona’. The whole of that time the calm was broken by but few hints of very uncertain airs.
+
+But just as dawn was beginning upon the third day, when it was already so light that the sea looked white against the black land, and before the first touch of colour had made living the edges of the inland hills, a heartening [[Wind|wind]] from those hills, cool with morning, fresh and heavy, not too strong, a friendly [[Wind|wind]], a wind just suited to our course - for it was a point or two north of east - blew down from old Wales upon the sea.
+
+Of this we took an immediate advantage and were out at once, my companion steering for the breakwater head at a good pace, while I made the anchor secure forward and then came back and joined him. We rounded the breakwater, took her well out, and then gybed over with something of a clatter and a shock and ran down for Strumble, under the growing day. The great light was still flashing from its tower, standing on an island off the head, and the name of that island is Michael. Once we were round that headland, the wind was fairly on our port quarter, and it was a merry race with a happy off-shore wind all the way down to St David’s, so that not only the day but also the old land and the much older sea and the old boat, that was launched so long ago, and we ourselves, were for the moment young. So ran we down for St David’s and there, putting her nose due south, I, holding the tiller, headed her for that exceedingly dangerous mill-race of a strait between Ramsey Island and the mainland, called Ramsey Sound.
+
+It was full ebb. The water roared and thundered over the rocks inshore for all the world as though we were not upon the sea at all but upon the lower reaches of a tidal river. Though we were running under the lee of the land we were not too much blanketed, and it was a comfort to feel the strength of the wind on the boat and to know that one had full way in such a pass, for these narrow sounds of the Pembrokeshire coast are perilous to ships and men. Here, in this very passage, lay two sets of rocks to the right and to the left, called by the name of the two perils attendant upon the wealthy young. For the first set of rocks is called ‘The Horses’ and the other ‘The Bitches’. These are rocks over which, I say, the rush of the ebb made a noise like a weir. We were through it in no time, at a pace which, had she touched anything, would have been the end of herself and of all aboard; but there was no danger of that because, as I have said, she had full way upon her and was lively to the helm. Nevertheless was it a relief to come tearing out of this perilous corridor into the wholesome width of St Bride’s Bay beyond.
+
+Now, as I was coming through this ticklish management of Ramsey Sound, I was too much taken up with creening below the boom to make out the water at the rush of the bows and to steer with precision, I was too much taken up with the business of exactitude under the strain, to turn to a tiring which, from the land long ago, had puzzled me. That is the way in which one of the most ancient roads in Britain comes down here to an open beach just above the rush and the roar of Ramsey Sound and stops dead upon the sands. That open beach is to this day called Porth Mawr - ‘The Great Port’. The ancient road here comes along the southern coast of Wales as far as Carmarthen and then branches, one branch coming up Cardigan Bay, which is called, I think, after St Helena, the mother of Constantine, and the other coming straight along by St David’s. They call these old roads ‘Roman roads’, and so I suppose they were, but still many of them were there in some form before this island entered the comity of Europe, before the Roman unity and order were finally imposed so that England became England.
+
+Anyhow, there was a very old road of the first importance, running down that way and near it stands the see of St David. Now the interest is this: it comes down to that beach above the narrow, roaring river of Ramsey Sound. Why on earth does it strike the sea there? It is true that antiquity pulled up boats on to the shore and might use the beach as we today use a harbour - though in our tidal seas a harbour was always better, I should have thought. But even if they thought the beach better than a harbour (which it manifestly could not be for commerce), why should they call it ‘The Great Port’? There it lies on a most impossible bit of coast, leading nowhere and as valueless a landing-place as you could get - granted a beach - anywhere in the island. Did the Ancients throw out great breakwaters and thus form a harbour? That could not be, for surely, had that been done, there would be remains of such mighty work.
+
+I leave it unsolved, as I and all other men must do this and all other problems, with the possible exception of the trisection of the plane angle, which I once all but caught hold of by the tips of my fingers during a long crossing of the Atlantic in a miserable lame steamer, too old for her job, in the year 1897, before the gods had left this broken world.
+
+The Nona came therefore grandly out of Ramsey Sound with a sweep and dignified nod into the calm of St Bride’s Bay, but I knew very well that there was before me another trial, more difficult still, called Jack Sound, between Skomer and the mainland, seven miles to the south.
+
+Lord, what a tangle of dangers are here for the wretched mariner! Rocks and eddies and overfalls and shooting tides; currents and (as you shall shortly hear) horrible great mists, fogs, vapours, malignant humours of the deep, mirages, false ground, where the anchor will not hold, and foul ground, where the anchor holds for ever, spills of wind off the irregular coast and monstrous gales coming out of the main west sea; and, most terrible of all, Wild Goose Race.

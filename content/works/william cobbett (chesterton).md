@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/William_Cobbett.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/biography
   - form/essay
@@ -85,8 +88,8 @@ tags:
 **Topoi:** [[World Upside Down]], [[Golden Age]]
 **Archetypes:** [[Self-Made Man]], [[Prophet]], [[Rebel]], [[Martyr Saint]], [[Tragic Hero]], [[Outsider]]
 **Motifs:** [[Journey]], [[Storm]], [[Fog and Smoke]], [[Bees]], [[Road]], [[Horse]], [[Cross]], [[Great House]]
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Reform]], [[Social Injustice]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Poverty]], [[Honour]], [[Truth]], [[Paradox]], [[Martyrdom]], [[Education]], [[Loneliness]], [[Greatness]], [[Democracy]], [[Money and Avarice]]
-**Forms & Genres:** [[Biography]], [[Essay]], [[Apologetics]], [[Literary Criticism]]
+**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Reform]], [[Social Injustice]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Poverty]], [[Honour]], [[Truth]], [[Paradox]], [[Martyrdom]], [[Education]], [[Loneliness]], [[Greatness]], [[Democracy]], [[Money and Avarice]], [[Economics]], [[History]]
+**Forms & Genres:** [[Biography]], [[Essay]], [[Apologetics]], [[Literary Criticism]], [[Nonfiction]]
 **Historical References:** [[Industrial Revolution]], [[French Revolution]], [[Reformation]], [[Napoleonic Wars the Navy]], [[Regency Georgian England]]
 **Settings:** [[Rural England]], [[America]], [[London]]
 

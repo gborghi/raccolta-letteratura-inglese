@@ -6,6 +6,7 @@ cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Chesterton/_raw/to_st_michael.md
 tags:
   - graph/work
+  - concept/economics
   - author/Chesterton
   - form/hymn
   - concept/good_vs_evil
@@ -46,7 +47,7 @@ tags:
 **Topoi:** [[Combat Strife]]
 
 **Motifs:** [[Swords and Weapons]], [[Serpent Snake]], [[Money and Gold]], [[Silence]]
-**Themes & Concepts:** [[Good vs Evil]], [[Temptation]], [[Faith]], [[Power of Language]], [[Power and Corruption]], [[Greed and Money]]
+**Themes & Concepts:** [[Good vs Evil]], [[Temptation]], [[Faith]], [[Power of Language]], [[Power and Corruption]], [[Greed and Money]], [[Economics]]
 **Forms & Genres:** [[Hymn]]
 **Historical References:** [[Bible]], [[Christianity]]
 **Characters:** [[Satan]], [[Michael]], [[Christ]]

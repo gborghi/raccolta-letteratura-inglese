@@ -6,6 +6,7 @@ cluster: Flowers · Spring · Garden
 source: Authors/Poe/_raw/The Domain of Arnheim.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Poe
   - concept/beauty
   - concept/the_sublime
@@ -43,7 +44,7 @@ tags:
 **Topoi:** [[Locus Amoenus]]
 **Motifs:** [[Garden]], [[Money and Gold]]
 **Themes & Concepts:** [[Beauty]], [[Sublime]], [[Artist and Society]]
-**Forms & Genres:** [[Essay]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Settings:** [[Garden (2)]]
 
 ## Testo integrale / Full text

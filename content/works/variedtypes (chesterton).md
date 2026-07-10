@@ -6,6 +6,9 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/VariedTypes.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/literary_criticism
   - form/essay
@@ -86,7 +89,7 @@ tags:
 
 **Archetypes:** [[King]], [[Prophet]]
 
-**Settings:** [[Italy]], [[Medieval England (2)]], [[Germany]]
+**Settings:** [[Italy]], [[Medieval England (2)]], [[Germany]], [[Europe]]
 
 **Motifs:** [[Crown]], [[Court (2)]]
 
@@ -94,8 +97,8 @@ tags:
 
 **Characters:** [[King Alfred (2)]], [[Christ]], [[Charlotte Brontë]], [[William Morris]], [[Lord Byron]], [[Alexander Pope]], [[St. Francis of Assisi]], [[Robert Louis Stevenson]], [[Edmond Rostand]], [[Charles II]], [[Thomas Carlyle]], [[Leo Tolstoy]], [[Girolamo Savonarola]], [[Sir Walter Scott]], [[Bret Harte]], [[Maurice Maeterlinck]], [[John Ruskin]], [[Queen Victoria]], [[Kaiser Wilhelm II (the German Emperor)]], [[Alfred Lord Tennyson]], [[Elizabeth Barrett Browning]], [[Cyrano de Bergerac]]
 
-**Themes & Concepts:** [[Artist and Society]], [[Truth]], [[Appearance vs Reality]], [[Common Man]], [[Beauty]], [[Imagination]], [[Democracy]], [[Doubt]], [[Self-Denial and Renunciation]], [[Nature vs Civilization]], [[Kingship and Legitimacy]], [[Nationalism and Patriotism]], [[Power of Language]], [[Vanity]], [[Individualism]], [[Optimism and Pessimism]], [[Hero Worship]], [[The Spirit of Romance]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Biography]], [[Satire]], [[Verse Drama]]
+**Themes & Concepts:** [[Artist and Society]], [[Truth]], [[Appearance vs Reality]], [[Common Man]], [[Beauty]], [[Imagination]], [[Democracy]], [[Doubt]], [[Self-Denial and Renunciation]], [[Nature vs Civilization]], [[Kingship and Legitimacy]], [[Nationalism and Patriotism]], [[Power of Language]], [[Vanity]], [[Individualism]], [[Optimism and Pessimism]], [[Hero Worship]], [[The Spirit of Romance]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Biography]], [[Satire]], [[Verse Drama]], [[Nonfiction]]
 **Historical References:** [[Regency Georgian England]], [[Puritanism]], [[Renaissance]], [[Christianity]], [[Napoleonic Wars the Navy]], [[Medieval England]], [[Danish Invasions]], [[Battle of Ethandun]], [[King Alfred]]
 
 ## Testo integrale / Full text

@@ -7,6 +7,8 @@ source: >-
   Authors/Conan_Doyle/_raw/THE_LAST_OF_THE_LEGIONS_AND_OTHER_TALES_OF_LONG_AGO.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
+  - concept/history
   - author/Conan_Doyle
   - form/short_story
   - form/historical_novel
@@ -39,8 +41,8 @@ tags:
 ## Connections
 
 **Forms & Genres:** [[Short Story]], [[Historical Novel]]
-**Themes & Concepts:** [[Empire and Imperialism]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Fate and Free Will]], [[Freedom and Liberty]]
-**Motifs:** [[Ship]], [[Sea]], [[Fire]], [[Blood]], [[Time]]
+**Themes & Concepts:** [[Empire and Imperialism]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Fate and Free Will]], [[Freedom and Liberty]], [[History]]
+**Motifs:** [[Ship]], [[Sea]], [[Fire]], [[Blood]], [[Time]], [[Sea and Voyage]]
 **Historical References:** [[Roman History]], [[Ancient Rome]], [[British Empire]]
 **Settings:** [[Ancient Rome]]
 **Archetypes:** [[Hero]], [[Tyrant]], [[Outsider]], [[Martyr Saint]]

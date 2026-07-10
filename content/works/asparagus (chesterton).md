@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/asparagus.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/satire
@@ -45,8 +47,8 @@ tags:
 **Archetypes:** [[Common Man (2)]]
 
 **Motifs:** [[Food and Feasting]], [[Secrets]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Class Conflict]], [[Paradox]], [[Appearance vs Reality]], [[Democracy]], [[Secrecy and Concealment]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Class Conflict]], [[Paradox]], [[Appearance vs Reality]], [[Democracy]], [[Secrecy and Concealment]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 **Historical References:** [[French Revolution]], [[Tennyson]]
 
 ## Testo integrale / Full text

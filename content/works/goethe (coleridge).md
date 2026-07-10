@@ -6,6 +6,7 @@ cluster: Memory and Time · Memory · Nostalgia
 source: Authors/Coleridge/_raw/439_GOETHE.md
 tags:
   - graph/work
+  - setting/europe
   - author/Coleridge
   - concept/nostalgia
   - concept/exile
@@ -25,7 +26,7 @@ tags:
 **Motifs:** [[Flowers]]
 **Themes & Concepts:** [[Nostalgia]], [[Exile]], [[Romantic Love]]
 **Forms & Genres:** [[Comic Verse Song]]
-**Settings:** [[Italy]]
+**Settings:** [[Italy]], [[Europe]]
 
 ## Testo integrale / Full text
 

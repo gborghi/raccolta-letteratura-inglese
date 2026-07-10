@@ -6,6 +6,7 @@ cluster: Maturation and Growth · Childhood · Innocence and Experience
 source: Authors/Chesterton/_raw/child_psychology.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - form/satire
@@ -59,7 +60,7 @@ tags:
 **Archetypes:** [[Child]]
 **Motifs:** [[Childhood]], [[Moon]], [[Animals]], [[Music and Song]], [[Dance]]
 **Themes & Concepts:** [[Imagination]], [[Innocence and Experience]], [[Maturation and Growth]], [[Satire of Society]], [[Critique of Progress]], [[Education]], [[Literary Criticism (2)]], [[Paradox]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

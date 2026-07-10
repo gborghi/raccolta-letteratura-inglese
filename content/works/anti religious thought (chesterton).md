@@ -6,6 +6,9 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/anti_religious_thought.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - form/apologetics
@@ -56,14 +59,14 @@ tags:
 
 ## Connections
 
-**Settings:** [[Paris]]
+**Settings:** [[Paris]], [[Europe]]
 
 **Topoi:** [[Golden Age]]
 
 **Characters:** [[Voltaire]], [[Rousseau]], [[Montaigne]]
 
-**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Reform]], [[Fanaticism]], [[War and its Cost]]
-**Forms & Genres:** [[Essay]], [[Apologetics]]
+**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Reform]], [[Fanaticism]], [[War and its Cost]], [[History]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
 **Historical References:** [[Reformation]], [[French Revolution]], [[Romantic Movement (Sensibility)]], [[Christianity]], [[Catholic Church]], [[Renaissance]], [[Spanish Inquisition]], [[Thirty Years' War]], [[Islam]], [[Puritanism]], [[Ancient Rome]]
 
 ## Testo integrale / Full text

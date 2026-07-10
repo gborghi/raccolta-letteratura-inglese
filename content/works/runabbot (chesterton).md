@@ -6,6 +6,8 @@ cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: Authors/Chesterton/_raw/runabbot.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
   - author/Chesterton
   - form/biography
   - concept/humility
@@ -60,9 +62,9 @@ tags:
 
 **Motifs:** [[Fire]], [[Cross]], [[Imprisonment (2)]], [[Journey]]
 **Themes & Concepts:** [[Humility]], [[Temptation]], [[Pride]], [[Renunciation]], [[Poverty]], [[Conformity vs Individualism]], [[Ambition]]
-**Forms & Genres:** [[Biography]]
+**Forms & Genres:** [[Biography]], [[Nonfiction]]
 **Historical References:** [[Catholic Church]]
-**Settings:** [[Medieval England (2)]], [[Italy]], [[Castle]], [[Paris]]
+**Settings:** [[Medieval England (2)]], [[Italy]], [[Castle]], [[Paris]], [[Europe]]
 
 ## Testo integrale / Full text
 

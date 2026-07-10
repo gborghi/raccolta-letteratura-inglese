@@ -6,6 +6,8 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/Mormonism.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - form/apologetics
@@ -53,8 +55,8 @@ tags:
 
 **Motifs:** [[Journey]]
 
-**Themes & Concepts:** [[Faith and Doubt]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Fanaticism]]
-**Forms & Genres:** [[Essay]], [[Apologetics]]
+**Themes & Concepts:** [[Faith and Doubt]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Fanaticism]], [[History]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
 **Historical References:** [[Puritanism]], [[Bible]], [[Catholic Church]], [[Crusades]], [[Medieval England]], [[William the Conqueror]], [[Oliver Cromwell]], [[John Bunyan]], [[William Rufus]]
 
 ## Testo integrale / Full text

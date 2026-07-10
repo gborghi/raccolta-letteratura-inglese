@@ -1,0 +1,35 @@
+---
+title: "Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 2)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/danton--a-study-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/danton--a-study-(belloc)">Danton A Study</a> › <a href="/testi/belloc/atomized/danton_a_study/chapter_08_the_death_of_danton">Chapter 08 THE DEATH OF DANTON</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/danton_a_study/chapter_08_the_death_of_danton/part_01">‹ part 01</a><a class="ex-next" href="/testi/belloc/atomized/danton_a_study/chapter_08_the_death_of_danton/part_03">part 03 ›</a></div>
+</nav>
+
+
+Tallien was President that day, and he gave the reply to [[Robespierre]]. Now [[Robespierre]] was no good fencer. The supreme feint, the final disarming of opinion, was left to an abler man. He had gone home from the Committee to Duplay’s house in the early morning; a monomaniac hardly needing sleep, he reappeared at the early meeting of the Convention. But, poor debater as he was, he could take advantage of so easy an opportunity. In a speech which was twice applauded, he asserted that Legendre had demanded a privilege. He struck the note which above all others dominated those minds. “Are we here to defend principles or men? Give the right of speech to Danton, and you give rein to an extraordinary talent, you confuse the issue with a hundred memories, you permit the bias of friendship. Let the man defend himself by proofs and witnesses, not by eloquence and sentiment.” Yet he did not add — perhaps he hardly knew — that the memories and friendship would but have balanced a direct enmity, and that witnesses and proofs would be denied. Again he used that argument of government — had not they saved [[France]]? were they not the head of the police? did not they know in the past what they were doing? He assured them that a little waiting would produce conviction in them also. It did not, but time was gained; already half the Convention doubted.
+
+Legendre, bewildered, faltered a reply; he admitted error, and begged [[Robespierre]] not to misunderstand. He could have answered for Danton as for himself, but the tribunal was of course to be trusted. It was almost an apology.
+
+On that changing, doubtful opinion came with the force of a steel mould the hard, high voice of St. Just.
+
+St. Just spoke rarely. There has been mention in an earlier part of this book of the speech against the Girondins. There will be mention again of a vigorous and a nearly successful attempt to save Robespierre. That he should have been given the task of defending the Committee’s action that day is a singular proof of the grip which they had of the circumstances. Barrère could never have convinced an unsympathetic public opinion. Robespierre could meet a rising enthusiasm with nothing but dry and accurate phrases. But St. Just had the flame of his youth and of his energy, and his soul lived in his mouth.
+
+The report, even as we read it, has eloquence. Coming from him then, with his extreme beauty, his upright and determined bearing, it turned the scale. The note of the argument was as ably chosen as could be; moreover it represented without question the attitude of his own mind: it was this. “The last of the factions has to be destroyed; only one obstacle stands between you and the appreciation of the Republic.143 Time and again we have acted suddenly, but time and again we have acted well and on sufficient reasons — so it is now. If you save Danton you save a personality — something you have known and admired; you pay respect to individual talent, but you ruin the attempt in which you have so nearly succeeded. For the sake of a man you will sacrifice all the new liberty which you are giving to the whole world.” There follows a passionate apostrophe in which he speaks to Danton as though he stood before him, as striking as the parallel passage in the fourth Catiline Oration.144 Had Danton been present he would have been a man against a boy: a loud and strong voice, not violent in utterance, but powerful in phrase and in delivery, a character impressing itself by sheer force of self upon vacillating opinion. Had Danton spoken in reply, his hearers would have said with that moral conviction which is stronger than proof, “This man is the chief lover of [[France]].”
+
+But such is rhetoric, its falsity and its success — the gaps of silence grew to a convincing power. The accusations met with no reply; they remained the echo of a living voice; the answers to them could be framed only in the silent minds of the audience. The living voice won.
+
+And there was, as we have said, intense conviction to aid St. Just. He was a man who would forget and would exaggerate with all the faults of passion, but he believed the facts he gave. Not so Robespierre. Robespierre had furnished the notes of St. Just’s report,145 and Robespierre must have known that he had twisted all to one end. Robespierre was a man who was virtuous and true only to his ideal, not to his fellow-men. Robespierre had not deceived himself as he wrote, but he had deceived St. Just, and therefore the young “Archangel of Death” spoke with the added strength of faith, than which nothing leaps more readily from the lips to the ears. Can we doubt it? There is a phrase which convinces. When he ends by telling them what it is they save by sacrificing one idol, when he describes the Republic, he uses the phrase common to all apostolates, the superb “les mots que nous avons dits ne seront jamais perdus sur la terre” — the things which they had said would never be lost on earth.
+
+It ended. No one voted; the demand of the Committee passed without a murmur. The Convention was never again its own mistress; it had silenced and condemned itself.146
+
+Meanwhile at the Luxembourg the magistrate Dénizot was making the preparations for the trial. Each prisoner was asked the formal question of his guilt, and each replied in a single negative, but Danton added that he would die a Republican, and to the question of their defence replied that he would plead his own cause. Then, at half-past eleven they were transferred to the Conciergerie.
+
+From that moment his position becomes the attitude of the man fighting, as we have known it in the crisis of August 1792 and of the calling up of the armies. Ready as he had always been to see the real rather than the imaginary conditions, he recognised death with one chance only of escape. He knew far better than did poor Desmoulins the power of a State’s machinery; he felt its grasp and doubted of any issue. The people, for Desmoulins, were the delegators of power; for Danton the people were those who should, but who did not rule. To live again and enter the arena and save the life of the Republic the people must hear his voice, or else the fact of government would be more strong than all the rights and written justice in the world.

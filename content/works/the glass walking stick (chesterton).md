@@ -6,6 +6,9 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/The_Glass_Walking_Stick.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - form/literary_criticism
@@ -92,14 +95,14 @@ tags:
 
 **Archetypes:** [[King]], [[Hero]]
 
-**Settings:** [[Cathedral]], [[Spain]], [[Toledo]], [[The Escorial]], [[Camelot]]
+**Settings:** [[Cathedral]], [[Spain]], [[Toledo]], [[The Escorial]], [[Camelot]], [[Europe]]
 
 **Characters:** [[King Arthur]], [[Napoleon]], [[Robert Bruce]], [[General Wolfe]], [[Cyrano de Bergerac]], [[Chantecler]], [[St George]], [[Tom Jones]], [[Philip the Second]], [[George IV]], [[Edward VII]], [[George V]]
 
 **Topoi:** [[Sic Transit Gloria Mundi]]
 **Motifs:** [[Ruins the Abbey]], [[Memory]], [[Lion]]
-**Themes & Concepts:** [[Critique of Progress]], [[Nostalgia]], [[Nationalism and Patriotism]], [[Wonder and Gratitude]], [[Satire of Society]], [[Artist and Society]], [[Kingship and Legitimacy]], [[Heroism]], [[War and its Cost]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Heroic Couplet]]
+**Themes & Concepts:** [[Critique of Progress]], [[Nostalgia]], [[Nationalism and Patriotism]], [[Wonder and Gratitude]], [[Satire of Society]], [[Artist and Society]], [[Kingship and Legitimacy]], [[Heroism]], [[War and its Cost]], [[History]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Heroic Couplet]], [[Nonfiction]]
 **Historical References:** [[Medieval England]], [[Arthurian Legend]], [[Christianity]], [[Regency Georgian England]], [[Napoleonic Wars the Navy]], [[Victorian England]]
 
 ## Testo integrale / Full text

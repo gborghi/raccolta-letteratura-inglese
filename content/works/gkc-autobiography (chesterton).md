@@ -6,6 +6,8 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/GKC-Autobiography.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/autobiography
   - concept/conversion
@@ -76,8 +78,8 @@ tags:
 **Characters:** [[Hilaire Belloc]], [[Cecil Chesterton]], [[H. G. Wells]], [[George Bernard Shaw]], [[E. C. Bentley]]
 
 **Motifs:** [[Childhood]], [[Memory]], [[Journey]], [[The Golden Key]]
-**Themes & Concepts:** [[Conversion]], [[Faith]], [[Memory and Time]], [[Maturation and Growth]], [[Friendship]], [[Paradox]], [[Wonder and Gratitude]], [[Doubt]], [[Imagination]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[War and its Cost]]
-**Forms & Genres:** [[Fictional Autobiography]], [[Apologetics]]
+**Themes & Concepts:** [[Conversion]], [[Faith]], [[Memory and Time]], [[Maturation and Growth]], [[Friendship]], [[Paradox]], [[Wonder and Gratitude]], [[Doubt]], [[Imagination]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[War and its Cost]], [[History]]
+**Forms & Genres:** [[Fictional Autobiography]], [[Apologetics]], [[Nonfiction]]
 **Historical References:** [[Catholic Church]], [[First World War]], [[Marconi Scandal]]
 **Settings:** [[London]], [[America]], [[Oxford]], [[Jerusalem]]
 

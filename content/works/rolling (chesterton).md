@@ -6,6 +6,7 @@ cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Chesterton/_raw/rolling.md
 tags:
   - graph/work
+  - concept/history
   - author/Chesterton
   - form/ballad
   - topos/the_open_road
@@ -50,7 +51,7 @@ tags:
 
 **Topoi:** [[Open Road Homecoming]], [[Memento Mori]]
 **Motifs:** [[Road]], [[Wine and Drink]], [[Inn Tavern]], [[Flowers]], [[Rose]], [[Grave]]
-**Themes & Concepts:** [[Mortality]], [[Nationalism and Patriotism]], [[Joy]], [[Resignation]], [[Forgiveness]], [[Heaven and the Afterlife]], [[Nostalgia]], [[Order vs Chaos]]
+**Themes & Concepts:** [[Mortality]], [[Nationalism and Patriotism]], [[Joy]], [[Resignation]], [[Forgiveness]], [[Heaven and the Afterlife]], [[Nostalgia]], [[Order vs Chaos]], [[History]]
 **Forms & Genres:** [[Ballad Ballade]]
 **Settings:** [[Rural England]]
 

@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Jane_Austen_GE.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/literary_criticism
   - form/essay
@@ -59,7 +60,7 @@ tags:
 
 **Archetypes:** [[Corrupt Official]], [[Trickster]], [[Tyrant]]
 **Themes & Concepts:** [[Satire of Society]], [[Deception]], [[Appearance vs Reality]], [[Power and Corruption]], [[Truth]], [[Democracy]], [[Power of Language]], [[Feminism and the New Woman]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

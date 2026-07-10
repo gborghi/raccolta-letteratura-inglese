@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/american-morals.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - form/satire
@@ -48,8 +50,8 @@ tags:
 
 **Characters:** [[Avis D. Carlson]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Justice Right and Wrong]], [[Critique of Progress]], [[Truth]], [[Fanaticism]], [[Conformity vs Individualism]], [[Reform]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Themes & Concepts:** [[Satire of Society]], [[Justice Right and Wrong]], [[Critique of Progress]], [[Truth]], [[Fanaticism]], [[Conformity vs Individualism]], [[Reform]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 **Historical References:** [[Puritanism]], [[Ku Klux Klan]], [[Scopes Trial]], [[Prohibition Era]]
 
 ## Testo integrale / Full text

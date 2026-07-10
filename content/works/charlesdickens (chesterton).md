@@ -6,6 +6,8 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/CharlesDickens.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/biography
   - form/literary_criticism
@@ -94,8 +96,8 @@ tags:
 **Characters:** [[Samuel Pickwick]], [[Sam Weller]], [[Wilkins Micawber]], [[Nicholas Nickleby]], [[Oliver Twist]], [[David Copperfield]], [[Fagin]], [[Seth Pecksniff]], [[Daniel Quilp]], [[Wackford Squeers]], [[Sairey Gamp]], [[Ebenezer Scrooge]], [[Mr Bumble]], [[Dick Swiveller]], [[Paul Dombey]], [[Mr Sapsea]], [[Susan Nipper]], [[Vincent Crummles]], [[Harold Skimpole]], [[Amy Dorrit]], [[Edward Murdstone]], [[Dora Spenlow]], [[Agnes Wickfield]], [[Miss Havisham]], [[Pip]], [[Mr. Toots]], [[Mr. Guppy]], [[Uncle Pumblechook]]
 
 **Motifs:** [[City]], [[Money and Gold]], [[Fog and Smoke]], [[Prison]]
-**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Artist and Society]], [[Joy]], [[Reform]], [[Heroism]], [[Poverty]], [[Democracy]], [[Grotesque]], [[Imprisonment]], [[Optimism]]
-**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Melodrama]], [[Christmas Story Novella]]
+**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Artist and Society]], [[Joy]], [[Reform]], [[Heroism]], [[Poverty]], [[Democracy]], [[Grotesque]], [[Imprisonment]], [[Optimism]], [[History]]
+**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Melodrama]], [[Christmas Story Novella]], [[Nonfiction]]
 **Historical References:** [[Regency Georgian England]], [[Industrial Revolution]], [[America]], [[French Revolution]]
 **Settings:** [[London]]
 

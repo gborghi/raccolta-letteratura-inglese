@@ -6,6 +6,8 @@ cluster: City · London · Theatrum Mundi
 source: Authors/Dickens/_raw/Sketches_by_Boz.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Dickens
   - concept/satire_of_society
   - concept/the_common_man
@@ -86,8 +88,8 @@ tags:
 
 **Archetypes:** [[Self-Made Man]], [[Fool]]
 **Motifs:** [[City]], [[Road]], [[Money and Gold]], [[Clothing and Costume]], [[Inn Tavern]]
-**Themes & Concepts:** [[Satire of Society]], [[Common Man]], [[Poverty]], [[Social Injustice]], [[Class Conflict]], [[Artist and Society]], [[Appearance vs Reality]], [[Nature vs Civilization]]
-**Forms & Genres:** [[Short Story]], [[Essay]], [[Satire]], [[Sketch]]
+**Themes & Concepts:** [[Satire of Society]], [[Common Man]], [[Poverty]], [[Social Injustice]], [[Class Conflict]], [[Artist and Society]], [[Appearance vs Reality]], [[Nature vs Civilization]], [[Economics]]
+**Forms & Genres:** [[Short Story]], [[Essay]], [[Satire]], [[Sketch]], [[Nonfiction]]
 **Historical References:** [[Regency Georgian England]]
 **Settings:** [[London]]
 

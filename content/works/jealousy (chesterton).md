@@ -6,6 +6,7 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/Jealousy.md
 tags:
   - graph/work
+  - concept/history
   - author/Chesterton
   - form/satire
   - form/ballad
@@ -52,7 +53,7 @@ tags:
 
 **Characters:** [[Joan la Pucelle]], [[Sir Arthur Conan Doyle]], [[Dennis Bradley]]
 
-**Themes & Concepts:** [[Faith]], [[Satire of Society]], [[Jealousy]], [[Doubt]], [[Conversion]]
+**Themes & Concepts:** [[Faith]], [[Satire of Society]], [[Jealousy]], [[Doubt]], [[Conversion]], [[History]]
 **Forms & Genres:** [[Satire]], [[Ballad Ballade]], [[Comic Verse Song]], [[Mock Epic]]
 **Historical References:** [[Catholic Church]], [[Christianity]], [[Islam]], [[Dante]], [[Ancient Rome]]
 

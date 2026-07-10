@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/Myths_and_Metaphors.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - form/satire
@@ -48,7 +49,7 @@ tags:
 
 **Motifs:** [[Dawn]], [[Nature]], [[Clock]], [[Time]]
 **Themes & Concepts:** [[Critique of Progress]], [[Truth]], [[Imagination]], [[Paradox]], [[Faith]], [[Power of Language]], [[Deception]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

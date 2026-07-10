@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/Humanitarianism.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - concept/satire_of_society
   - concept/reform
@@ -47,7 +48,7 @@ tags:
 **Motifs:** [[Animals]], [[Birds]]
 
 **Themes & Concepts:** [[Satire of Society]], [[Reform]], [[Mercy]], [[Common Man]], [[Alienation]], [[Fanaticism]], [[Nationalism and Patriotism]], [[Moderation]], [[Sympathy]]
-**Forms & Genres:** [[Essay]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

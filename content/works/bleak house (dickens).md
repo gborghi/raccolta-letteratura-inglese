@@ -6,6 +6,7 @@ cluster: City · London · Theatrum Mundi
 source: Authors/Dickens/_raw/Bleak_House.md
 tags:
   - graph/work
+  - concept/economics
   - author/Dickens
   - form/novel
   - form/social_novel
@@ -130,7 +131,7 @@ tags:
 
 **Archetypes:** [[Detective]], [[Orphan]], [[(Reputed) Fallen Woman]], [[Corrupt Official]]
 **Motifs:** [[Fog and Smoke]], [[City]], [[Disease and Contagion]], [[Letters and Writing]], [[Ghosts]], [[Fire]], [[Secrets]]
-**Themes & Concepts:** [[Social Injustice]], [[Justice Right and Wrong]], [[Satire of Society]], [[Reform]], [[Class Conflict]], [[Poverty]], [[Deception]], [[Guilt]], [[Ratiocination Detection]], [[Identity]], [[Appearance vs Reality]]
+**Themes & Concepts:** [[Social Injustice]], [[Justice Right and Wrong]], [[Satire of Society]], [[Reform]], [[Class Conflict]], [[Poverty]], [[Deception]], [[Guilt]], [[Ratiocination Detection]], [[Identity]], [[Appearance vs Reality]], [[Economics]]
 **Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Detective Fiction]], [[Satire]]
 **Settings:** [[London]], [[Rural England]]
 **Characters:** [[Esther Summerson]], [[John Jarndyce]], [[Lady Dedlock]], [[Sir Leicester Dedlock]], [[Mr Tulkinghorn]], [[Inspector Bucket]], [[Ada Clare]], [[Richard Carstone]], [[Jo the Crossing-Sweeper]], [[Harold Skimpole]], [[Mrs Jellyby]]

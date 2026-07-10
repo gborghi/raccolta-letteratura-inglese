@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/The_Song_of_the_Wheels.md
 tags:
   - graph/work
+  - concept/economics
   - author/Chesterton
   - form/ballad
   - concept/class_conflict
@@ -45,7 +46,7 @@ tags:
 
 **Archetypes:** [[Rebel]], [[Tyrant]], [[Common Man (2)]], [[Satanic Figure]]
 **Motifs:** [[Wheel]], [[Money and Gold]], [[Garden]], [[Machine]]
-**Themes & Concepts:** [[Class Conflict]], [[Anti-Industrialism]], [[Social Injustice]], [[Poverty]], [[Power and Corruption]], [[Labor and Work]], [[Greed and Money]]
+**Themes & Concepts:** [[Class Conflict]], [[Anti-Industrialism]], [[Social Injustice]], [[Poverty]], [[Power and Corruption]], [[Labor and Work]], [[Greed and Money]], [[Economics]]
 **Forms & Genres:** [[Ballad Ballade]]
 
 ## Testo integrale / Full text

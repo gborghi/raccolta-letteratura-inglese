@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/Divorce_Democracy.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - concept/marriage_and_fidelity
   - motif/marriage
@@ -55,8 +58,8 @@ tags:
 **Archetypes:** [[Common Man (2)]]
 
 **Motifs:** [[Marriage]], [[Home]]
-**Themes & Concepts:** [[Marriage and Fidelity]], [[Class Conflict]], [[Social Injustice]], [[Poverty]], [[Power and Corruption]], [[Distributism]], [[Democracy]], [[Critique of Progress]], [[Common Man]], [[Nationalism and Patriotism]], [[Freedom]], [[Satire of Society]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Marriage and Fidelity]], [[Class Conflict]], [[Social Injustice]], [[Poverty]], [[Power and Corruption]], [[Distributism]], [[Democracy]], [[Critique of Progress]], [[Common Man]], [[Nationalism and Patriotism]], [[Freedom]], [[Satire of Society]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

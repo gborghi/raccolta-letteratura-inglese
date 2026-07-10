@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Chesterton/_raw/kingcole.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
   - author/Chesterton
   - form/parody
   - form/song
@@ -44,7 +45,7 @@ tags:
 
 **Characters:** [[Old King Cole]]
 
-**Motifs:** [[Wine and Drink]], [[Music and Song]], [[Crown]], [[Sea]]
+**Motifs:** [[Wine and Drink]], [[Music and Song]], [[Crown]], [[Sea]], [[Sea and Voyage]]
 **Themes & Concepts:** [[Joy]], [[Imagination]], [[Mortality]], [[Literary Criticism (2)]]
 **Forms & Genres:** [[Parody]], [[Comic Verse Song]], [[Lyric]], [[Poem Sequence]]
 

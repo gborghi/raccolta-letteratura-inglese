@@ -6,6 +6,8 @@ cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Chesterton/_raw/Incredulity.md
 tags:
   - graph/work
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - concept/rationcination_detection
   - concept/appearance_vs_reality
@@ -88,7 +90,7 @@ tags:
 
 **Archetypes:** [[Detective]], [[Trickster]], [[Double Doppelganger]], [[Avenger]]
 **Motifs:** [[Concealment Hidden Identity]], [[Supernatural]], [[Blood]], [[Money and Gold]], [[Ghosts]], [[Great House]], [[Light and Dark]], [[Mirror]], [[Snow]], [[Animals]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Faith]], [[Faith and Doubt]], [[Guilt]], [[Justice Right and Wrong]], [[Deception]], [[Uncanny]], [[Crime and Punishment]], [[Revenge]], [[Money and Avarice]], [[Power and Corruption]], [[Class Conflict]], [[Fanaticism]]
+**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Faith]], [[Faith and Doubt]], [[Guilt]], [[Justice Right and Wrong]], [[Deception]], [[Uncanny]], [[Crime and Punishment]], [[Revenge]], [[Money and Avarice]], [[Power and Corruption]], [[Class Conflict]], [[Fanaticism]], [[Economics]], [[History]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Gothic Novel]]
 **Historical References:** [[Christianity]], [[Bible]], [[Catholic Church]], [[First World War]], [[Industrial Revolution]], [[Medieval England]]
 **Characters:** [[Father Brown]], [[Flambeau]]

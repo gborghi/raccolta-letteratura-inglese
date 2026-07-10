@@ -6,6 +6,7 @@ cluster: Problem Play
 source: Authors/Shakespeare/_raw/038_Alls_Well_that_Ends_Well.md
 tags:
   - graph/work
+  - concept/economics
   - author/Shakespeare
   - concept/love_romantic
   - concept/unrequited_love
@@ -67,7 +68,7 @@ tags:
 **Topoi:** [[World Upside Down]]
 **Archetypes:** [[Lover]], [[Orphan]]
 **Motifs:** [[Marriage]], [[Concealment Hidden Identity]]
-**Themes & Concepts:** [[Romantic Love]], [[Unrequited Frustrated Love]], [[Marriage and Fidelity]], [[Deception]], [[Class Conflict]], [[Appearance vs Reality]]
+**Themes & Concepts:** [[Romantic Love]], [[Unrequited Frustrated Love]], [[Marriage and Fidelity]], [[Deception]], [[Class Conflict]], [[Appearance vs Reality]], [[Economics]]
 **Forms & Genres:** [[Comedy]], [[Problem Play]], [[Blank Verse]]
 **Settings:** [[Court]]
 **Characters:** [[Helen]], [[Bertram]], [[Countess of Rossillion]], [[Parolles]], [[King of France]], [[Lafew]], [[Diana]]

@@ -1,0 +1,21 @@
+---
+title: "On Everything — On certain Manners and Customs (part 2)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/on-everything-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/on-everything-(belloc)">On Everything</a> › <a href="/testi/belloc/atomized/on_everything/story_17_on_certain_manners_and_customs">Story 17 On certain Manners and Customs</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/on_everything/story_17_on_certain_manners_and_customs/part_01">‹ part 01</a><a class="ex-next" href="/testi/belloc/atomized/on_everything/story_19_the_duel/part_01">part 01 ›</a></div>
+</nav>
+
+
+I cannot conclude without telling you briefly the manner in which their Kings are elected, for it reflects in every detail at once the originality and the wisdom of this people.
+
+There are in Monomotapa some three or four hundred public halls in which is conducted the national sport, which consists in competitions between well-known talkers as to who can talk the longest without exhaustion, and it rapidly becomes known, through well-developed agencies of information as well as by public repute, which individuals have attained to the greatest proficiency in this regard. Sometimes in the remotest province will arise a particular star, but more often it is in the Metropolis or its neighbourhood that your really great talkers can be found; a man in the [[Tradition|tradition]] of that great King of the last century who upon one occasion talked the clock round and was in reward for that feat permitted to hold the Kingship for three terms in succession.
+
+When by a process of elimination the two strongest talkers have been discovered, they are brought to the capital, set up upon a stage before a vast audience of Assessors (of which my friend, as I have told you, was one), and begin talking one against the other with great rapidity, starting at a signal made by an official who is paid for this duty a very high salary indeed. It may well be imagined that the interest in the struggle grows keen after the first few hours have passed. The panting breath, the discoloured cheeks, the drooping attitude of either competitor, call forth cheers of encouragement from his supporters and even murmurs of sympathy from his numerous judges. At last, it may be in the sixth or the seventh hour, one of the two goes groggy — if I may so express myself — he falters in his words, perhaps repeats himself, passes his hand to his forehead or takes a drink of gin (which, from its resemblance to water, is greatly favoured in these contests). Such signals of distress are the beginning of the end. His successful rival, straining himself to one last effort, will pour out a great string of sentences of an approved pattern, dealing as a rule with the glories and virtues of those who have listened to him, of their ancestry, and their hold upon the Monomotapian State, and as the defeated competitor falls lifeless to the floor this successful fellow is crowned amid the applause of the vast assembly. I was at the pains to ask whether it was necessary that these long harangues should make sense, for it seemed to me that this added labour would very materially handicap many men who might otherwise possess all the physical requirements of victory, and I was free to add that it would seem to me, at least, as a foreigner, very foolish to weigh down some fine athlete worthy of the Crown by demanding of him the rare characteristics of the pedant. I was relieved to hear that there was no obligation as to the choice of words used or the order in which they were to be pronounced, saving that they must be words in the vulgar tongue. But it seems, oddly enough, that the trainers in this sport after generations of experience have discovered that the competitors actually suffer less fatigue if they will repeat certain set and ritual phrases than if they take refuge in mere gibberish, just as men marching in step are said to suffer less fatigue than men marching at ease. So at least I was assured, but my insufficient acquaintance with the Monomotapian tongue forbade me to make certain upon the matter.

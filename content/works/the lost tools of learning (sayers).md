@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Sayers/_raw/The_Lost_Tools_of_Learning.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Sayers
   - archetype/child
   - archetype/mentor
@@ -58,13 +60,14 @@ tags:
 - [Part 8](/testi/sayers/atomized/the_lost_tools_of_learning/part/part_08)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13.8</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">24.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26.9</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">51.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">24.6</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">27.4</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">16%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">52.6</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
+**Forms & Genres:** [[Nonfiction]]
 **Archetypes:** [[Child]], [[Mentor]]
 **Motifs:** [[The Book]], [[Machine]]
-**Themes & Concepts:** [[Education]], [[Classical Education]], [[The Trivium]], [[Childhood And Growth]], [[Critique of Progress]], [[Truth]], [[Imagination]], [[Liberty]], [[Reform]], [[Creativity]], [[Faith]]
+**Themes & Concepts:** [[Education]], [[Classical Education]], [[The Trivium]], [[Childhood And Growth]], [[Critique of Progress]], [[Truth]], [[Imagination]], [[Liberty]], [[Reform]], [[Creativity]], [[Faith]], [[History]]
 **Forms:** [[Essay]]
 **Historical References:** [[Medieval England]], [[Classical Antiquity]], [[Christianity]], [[Renaissance]], [[Reformation]]
 **Settings:** [[Oxford]]

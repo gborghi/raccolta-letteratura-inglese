@@ -1,0 +1,69 @@
+---
+title: Caliban's Guide to Letters
+author: Belloc
+type: work
+cluster: Familiar Essay · Paradox · The Common Man
+source: Authors/Belloc/_raw/Calibans_Guide_to_Letters.md
+tags:
+  - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
+  - author/Belloc
+  - form/satire
+  - form/parody
+  - form/essay
+  - concept/satire_of_society
+  - concept/vulgarity
+  - concept/hypocrisy
+  - concept/fame_and_publicity
+  - concept/vanity
+  - concept/money_and_avarice
+  - motif/book_reading
+  - motif/letters_and_writing
+  - motif/money_and_gold
+  - histref/victorian_england
+  - histref/boer_war
+  - histref/british_empire
+  - setting/rural_england
+  - setting/london
+  - archetype/corrupt_official
+  - topos/world_upside_down
+---
+*by Belloc*  ·  **Cluster:** [[Familiar Essay · Paradox · The Common Man]]
+
+> [!abstract] 
+> A sustained comic satire (1903) framed as a mock instruction manual for the modern hack, teaching the aspiring journalist how to review, interview, write political appeals and pad out prose for pay. Belloc lampoons Edwardian journalism, the cult of the 'Anglo-Saxon' Empire, and the pompous Nonconformist worthy Dr. Thomas Caliban through deadpan mock-biography.
+
+## Capitoli / Chapters
+
+- [PREFACE.](/testi/belloc/atomized/calibans_guide_to_letters/story_01_preface)
+- [INTRODUCTION.](/testi/belloc/atomized/calibans_guide_to_letters/story_02_introduction)
+- [REVIEWING.](/testi/belloc/atomized/calibans_guide_to_letters/story_03_reviewing)
+- [POLITICAL APPEALS.](/testi/belloc/atomized/calibans_guide_to_letters/story_04_political_appeals)
+- [THE SHORT STORY.](/testi/belloc/atomized/calibans_guide_to_letters/story_05_the_short_story)
+- [THE SHORT LYRIC.](/testi/belloc/atomized/calibans_guide_to_letters/story_06_the_short_lyric)
+- [THE INTERVIEW.](/testi/belloc/atomized/calibans_guide_to_letters/story_07_the_interview)
+- [THE PERSONAL PAR.](/testi/belloc/atomized/calibans_guide_to_letters/story_08_the_personal_par)
+- [THE TOPOGRAPHICAL ARTICLE.](/testi/belloc/atomized/calibans_guide_to_letters/story_09_the_topographical_article)
+- [ON EDITING.](/testi/belloc/atomized/calibans_guide_to_letters/story_10_on_editing)
+- [ON REVELATIONS.](/testi/belloc/atomized/calibans_guide_to_letters/story_11_on_revelations)
+- [SPECIAL PROSE.](/testi/belloc/atomized/calibans_guide_to_letters/story_12_special_prose)
+- [APPENDIX](/testi/belloc/atomized/calibans_guide_to_letters/story_13_appendix)
+- [NOTE ON TITLES.](/testi/belloc/atomized/calibans_guide_to_letters/story_14_note_on_titles)
+- [NOTE ON STYLE.](/testi/belloc/atomized/calibans_guide_to_letters/story_15_note_on_style)
+- [THE ODE.](/testi/belloc/atomized/calibans_guide_to_letters/story_16_the_ode)
+- [ON REMAINDERS AND PULPING.](/testi/belloc/atomized/calibans_guide_to_letters/story_17_on_remainders_and_pulping)
+
+
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">25.3</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13.6</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">16.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.7</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
+## Connections
+
+**Forms & Genres:** [[Satire]], [[Parody]], [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[Satire of Society]], [[Vulgarity]], [[Hypocrisy]], [[Fame and Publicity]], [[Vanity]], [[Money and Avarice]], [[Economics]], [[History]]
+**Motifs:** [[Book Reading]], [[Letters and Writing]], [[Money and Gold]]
+**Historical References:** [[Victorian England]], [[Boer War]], [[British Empire]]
+**Settings:** [[Rural England]], [[London]]
+**Archetypes:** [[Corrupt Official]]
+**Topoi:** [[World Upside Down]]

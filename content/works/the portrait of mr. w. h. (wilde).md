@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Wilde/_raw/010_The_Portrait_of_Mr_W_H.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Wilde
   - concept/friendship
   - concept/the_artist_and_society
@@ -63,7 +64,7 @@ tags:
 **Archetypes:** [[Martyr Saint]], [[Trickster]]
 **Motifs:** [[Letters and Writing]], [[Book Reading]], [[Blood]], [[Concealment Hidden Identity]], [[Death]], [[Eyes and Sight]]
 **Themes & Concepts:** [[Friendship]], [[Artist and Society]], [[Immortality of Art Fame]], [[Deception]], [[Faith]], [[Martyrdom]], [[Truth]], [[Beauty]]
-**Forms & Genres:** [[Short Story]], [[Essay]], [[Literary Criticism]]
+**Forms & Genres:** [[Short Story]], [[Essay]], [[Literary Criticism]], [[Nonfiction]]
 **Historical References:** [[Elizabethan England]], [[Renaissance]]
 **Settings:** [[London]]
 **Characters:** [[Hamlet]], [[Faust]], [[Cyril Graham]], [[Erskine]], [[Willie Hughes]]

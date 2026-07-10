@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Coleridge/_raw/023_TO_THE_REV_GEORGE_COLERIDGE.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Coleridge
   - form/essay
   - concept/imagination
@@ -25,7 +26,7 @@ tags:
 ## Connections
 
 **Themes & Concepts:** [[Imagination]], [[Truth]], [[Education]], [[Friendship]]
-**Forms & Genres:** [[Essay]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

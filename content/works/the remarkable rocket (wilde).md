@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Wilde/_raw/015_The_Remarkable_Rocket.md
 tags:
   - graph/work
+  - concept/economics
   - author/Wilde
   - concept/pride
   - concept/satire_of_society
@@ -47,7 +48,7 @@ tags:
 **Topoi:** [[Vanitas]], [[World Upside Down]]
 **Archetypes:** [[Fool]], [[Antihero]]
 **Motifs:** [[Fire]], [[Animals]], [[Marriage]], [[White and Red]], [[Water]], [[Moon]]
-**Themes & Concepts:** [[Pride]], [[Satire of Society]], [[Appearance vs Reality]], [[Alienation]], [[Deception]], [[Class Conflict]]
+**Themes & Concepts:** [[Pride]], [[Satire of Society]], [[Appearance vs Reality]], [[Alienation]], [[Deception]], [[Class Conflict]], [[Economics]]
 **Forms & Genres:** [[Fairy Tale Fantasy]], [[Satire]], [[Fable]]
 **Settings:** [[Court]]
 **Characters:** [[Remarkable Rocket]]

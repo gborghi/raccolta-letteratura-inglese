@@ -6,6 +6,9 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/Man_Orthodox.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/apologetics
@@ -173,8 +176,8 @@ tags:
 **Characters:** [[Christ]], [[Satan]], [[Beatrice]], [[Sam Weller]], [[Job]], [[Robinson Crusoe]]
 
 **Motifs:** [[Supernatural]], [[Serpent Snake]], [[Dragon]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Joy]], [[Grace and Redemption]], [[Original Sin]], [[Freedom and Liberty]], [[Grotesque]], [[Distributism]], [[Resurrection]], [[Wonder]], [[Nationalism and Patriotism]], [[Democracy]], [[Poverty]], [[Vulgarity]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Aphorism]], [[Fairy Tale Fantasy]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Joy]], [[Grace and Redemption]], [[Original Sin]], [[Freedom and Liberty]], [[Grotesque]], [[Distributism]], [[Resurrection]], [[Wonder]], [[Nationalism and Patriotism]], [[Democracy]], [[Poverty]], [[Vulgarity]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Aphorism]], [[Fairy Tale Fantasy]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Bible]], [[French Revolution]], [[Puritanism]], [[Reformation]], [[Islam]], [[Dante]], [[Catholic Church]], [[Eastern Religion Comparative Religion]], [[Industrial Revolution]], [[Classical Antiquity]], [[Arthur Balfour]], [[Pope Pius X]], [[Alfred Harmsworth (Lord Northcliffe)]], [[Walt Whitman]]
 
 ## Testo integrale / Full text

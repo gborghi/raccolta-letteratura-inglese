@@ -6,6 +6,8 @@ cluster: Historical Novel · War and its Cost · Honour and Chivalry
 source: Authors/Conan_Doyle/_raw/RODNEY_STONE.md
 tags:
   - graph/work
+  - concept/history
+  - concept/economics
   - author/Conan_Doyle
   - form/historical_novel
   - form/bildungsroman
@@ -63,12 +65,12 @@ tags:
 - [Chapter 22: THE END](/testi/conan_doyle/atomized/rodney_stone/chapter_23_the_end)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-58.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">50.5</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">51.3</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">117.3</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-59.2</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">50.8</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">51.7</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">117.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
 **Forms & Genres:** [[Historical Novel]], [[Bildungsroman]], [[Fictional Autobiography]]
-**Themes & Concepts:** [[Masculinity and the Male Code]], [[Honour]], [[Family and Lineage]], [[Courage]], [[Crime and Punishment]], [[Class Conflict]]
+**Themes & Concepts:** [[Masculinity and the Male Code]], [[Honour]], [[Family and Lineage]], [[Courage]], [[Crime and Punishment]], [[Class Conflict]], [[Economics]], [[History]]
 **Motifs:** [[Ghosts]], [[House Mansion]], [[Journey]], [[Money and Gold]]
 **Historical References:** [[Regency Georgian England]], [[Napoleonic Wars the Navy]], [[Nelson]]
 **Settings:** [[London]], [[Rural England]]

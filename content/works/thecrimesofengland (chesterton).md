@@ -6,6 +6,10 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/TheCrimesOfEngland.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/satire
@@ -92,7 +96,7 @@ tags:
 
 **Archetypes:** [[Tyrant]], [[Villain]], [[Martyr Saint]], [[Hero]], [[Common Man (2)]]
 
-**Settings:** [[Germany]], [[Denmark]], [[Italy]], [[Russia]], [[Paris]], [[Rural England]], [[Battlefield]], [[Ireland]]
+**Settings:** [[Germany]], [[Denmark]], [[Italy]], [[Russia]], [[Paris]], [[Rural England]], [[Battlefield]], [[Ireland]], [[Europe]]
 
 **Motifs:** [[Machine]], [[Horse]], [[Flags and Banners]], [[Blood]]
 
@@ -100,8 +104,8 @@ tags:
 
 **Characters:** [[Frederick the Great]], [[Napoleon]], [[Napoleon III]], [[Bismarck]], [[William Cobbett]], [[Kaiser Wilhelm II]], [[Duke of Wellington]], [[Blucher]], [[Lord Salisbury]], [[Garibaldi]], [[Carlyle]], [[Maria Theresa]], [[William Pitt]], [[Castlereagh]], [[Hans Andersen]]
 
-**Themes & Concepts:** [[Satire of Society]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Power and Corruption]], [[Democracy]], [[Freedom and Liberty]], [[Slavery]], [[Kingship and Legitimacy]], [[Class Conflict]], [[Common Man]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Apologetics]]
+**Themes & Concepts:** [[Satire of Society]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Power and Corruption]], [[Democracy]], [[Freedom and Liberty]], [[Slavery]], [[Kingship and Legitimacy]], [[Class Conflict]], [[Common Man]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Apologetics]], [[Nonfiction]]
 **Historical References:** [[First World War]], [[Reformation]], [[French Revolution]], [[Napoleonic Wars the Navy]], [[Thirty Years' War]], [[Irish Question]], [[Catholic Church]]
 
 ## Testo integrale / Full text

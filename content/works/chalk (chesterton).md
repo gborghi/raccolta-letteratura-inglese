@@ -6,6 +6,7 @@ cluster: Wonder and Gratitude · Sublime · Storm
 source: Authors/Chesterton/_raw/chalk.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - concept/wonder_and_gratitude
@@ -55,7 +56,7 @@ tags:
 **Topoi:** [[Book of Nature]], [[Sublime in Nature]], [[Pastoral Retreat]]
 **Motifs:** [[White and Red]], [[Nature]], [[Light and Dark]], [[Hill]], [[Chalk]]
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Mercy]], [[Faith]], [[Imagination]], [[Paradox]], [[Virtue]]
-**Forms & Genres:** [[Essay]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Settings:** [[Rural England]]
 
 ## Testo integrale / Full text

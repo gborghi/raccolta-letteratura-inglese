@@ -6,6 +6,9 @@ cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Chesterton/_raw/innocence.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - concept/rationcination_detection
   - concept/appearance_vs_reality
@@ -99,10 +102,10 @@ tags:
 
 **Archetypes:** [[Detective]], [[Villain]], [[Trickster]], [[Fool]], [[Prophet]]
 **Motifs:** [[Concealment Hidden Identity]], [[Supernatural]], [[Blood]], [[Cross]], [[Money and Gold]], [[Swords and Weapons]], [[Garden]], [[Eyes and Sight]], [[City]], [[Letters and Writing]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Guilt]], [[Conscience]], [[Justice Right and Wrong]], [[Grace and Redemption]], [[Sin and the Fall]], [[Good vs Evil]], [[Faith]], [[Innocence and Experience]], [[Crime and Punishment]], [[Class Conflict]], [[Social Injustice]], [[Fanaticism]], [[Eastern Religion and Asceticism]]
+**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Guilt]], [[Conscience]], [[Justice Right and Wrong]], [[Grace and Redemption]], [[Sin and the Fall]], [[Good vs Evil]], [[Faith]], [[Innocence and Experience]], [[Crime and Punishment]], [[Class Conflict]], [[Social Injustice]], [[Fanaticism]], [[Eastern Religion and Asceticism]], [[Economics]], [[History]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
 **Historical References:** [[Christianity]], [[Catholic Church]], [[French Revolution]], [[Greek Mythology]]
-**Settings:** [[London]], [[Scotland the Highlands]], [[Rural England]], [[Paris]], [[Battlefield]]
+**Settings:** [[London]], [[Scotland the Highlands]], [[Rural England]], [[Paris]], [[Battlefield]], [[Europe]]
 **Characters:** [[Father Brown]], [[Flambeau]], [[Valentin]], [[Israel Gow]], [[John Turnbull Angus]], [[Isidore Smythe]], [[Laura Hope]], [[James Welkin]], [[Leonard Quinton]], [[Prince Saradine]], [[Wilfred Bohun]], [[Pauline Stacey]], [[Kalon]], [[Arthur St. Clare]], [[Sir Aaron Armstrong]], [[Patrick Royce]]
 
 ## Testo integrale / Full text

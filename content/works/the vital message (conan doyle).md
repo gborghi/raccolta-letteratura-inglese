@@ -6,6 +6,8 @@ cluster: Spiritualism · Faith and Doubt · The Afterlife
 source: Authors/Conan_Doyle/_raw/THE_VITAL_MESSAGE.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Conan_Doyle
   - form/essay
   - form/apologetics
@@ -39,8 +41,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Apologetics]]
-**Themes & Concepts:** [[Spiritualism]], [[Faith and Doubt]], [[Immortality of the Soul]], [[Heaven and the Afterlife]], [[Reason and Rationalism]], [[Death and Love]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
+**Themes & Concepts:** [[Spiritualism]], [[Faith and Doubt]], [[Immortality of the Soul]], [[Heaven and the Afterlife]], [[Reason and Rationalism]], [[Death and Love]], [[History]]
 **Motifs:** [[Soul]], [[Death]], [[Light and Dark]]
 **Historical References:** [[Christianity]], [[Bible]], [[Darwinism (Evolution)]]
 **Characters:** [[Christ]]

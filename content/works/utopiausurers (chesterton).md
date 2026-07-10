@@ -6,6 +6,10 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/UtopiaUsurers.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - concept/anti_industrialism
@@ -67,11 +71,11 @@ tags:
 
 **Archetypes:** [[Tyrant]], [[Fool]], [[Rebel]], [[Corrupt Official]]
 
-**Settings:** [[Germany]], [[London]], [[Ireland]]
+**Settings:** [[Germany]], [[London]], [[Ireland]], [[Europe]]
 
 **Motifs:** [[Money and Gold]], [[Prison]], [[Chains]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Power and Corruption]], [[Social Injustice]], [[Class Conflict]], [[Critique of Progress]], [[Slavery]], [[Crime and Punishment]], [[Satire of Society]], [[Freedom and Liberty]], [[Democracy]], [[Nationalism and Patriotism]], [[Eugenics]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Power and Corruption]], [[Social Injustice]], [[Class Conflict]], [[Critique of Progress]], [[Slavery]], [[Crime and Punishment]], [[Satire of Society]], [[Freedom and Liberty]], [[Democracy]], [[Nationalism and Patriotism]], [[Eugenics]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

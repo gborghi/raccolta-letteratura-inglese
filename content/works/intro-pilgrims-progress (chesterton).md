@@ -6,6 +6,8 @@ cluster: Allegory · Quest · Pilgrim
 source: Authors/Chesterton/_raw/intro-pilgrims-progress.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/literary_criticism
   - form/allegory
@@ -67,8 +69,8 @@ tags:
 **Topoi:** [[Quest]], [[Paradise Lost]], [[Life as a Battle]]
 **Archetypes:** [[Pilgrim]], [[Satanic Figure]]
 **Motifs:** [[Journey]], [[City]], [[Imprisonment (2)]]
-**Themes & Concepts:** [[Faith]], [[Sin and the Fall]], [[Grace and Redemption]], [[Fear]], [[Critique of Progress]], [[Conversion]], [[Despair]], [[War and its Cost]]
-**Forms & Genres:** [[Literary Criticism]], [[Allegory]], [[Biography]], [[Epic]], [[Essay]]
+**Themes & Concepts:** [[Faith]], [[Sin and the Fall]], [[Grace and Redemption]], [[Fear]], [[Critique of Progress]], [[Conversion]], [[Despair]], [[War and its Cost]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Allegory]], [[Biography]], [[Epic]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Puritanism]], [[Christianity]], [[Bible]], [[Renaissance]], [[French Revolution]], [[English Civil War]]
 
 ## Testo integrale / Full text

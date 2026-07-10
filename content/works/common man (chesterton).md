@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/Common_Man.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/literary_criticism
@@ -70,8 +72,8 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Common Man]], [[Critique of Progress]], [[Satire of Society]], [[Distributism]], [[Faith]], [[Paradox]], [[Artist and Society]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Apologetics]]
+**Themes & Concepts:** [[Common Man]], [[Critique of Progress]], [[Satire of Society]], [[Distributism]], [[Faith]], [[Paradox]], [[Artist and Society]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Apologetics]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Catholic Church]]
 
 ## Testo integrale / Full text

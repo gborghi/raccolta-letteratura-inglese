@@ -7,6 +7,8 @@ source: >-
   Authors/Conan_Doyle/_raw/THE_DEALINGS_OF_CAPTAIN_SHARKEY_AND_OTHER_TALES_OF_PIRATES.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
+  - concept/economics
   - author/Conan_Doyle
   - form/adventure_fiction
   - form/short_story
@@ -34,8 +36,8 @@ tags:
 ## Connections
 
 **Forms & Genres:** [[Adventure Fiction]], [[Short Story]]
-**Themes & Concepts:** [[Revenge]], [[Crime and Punishment]], [[Deception]], [[Greed and Money]], [[Fate and Free Will]]
-**Motifs:** [[Sea]], [[Ship]], [[Swords and Weapons]], [[Money and Gold]]
+**Themes & Concepts:** [[Revenge]], [[Crime and Punishment]], [[Deception]], [[Greed and Money]], [[Fate and Free Will]], [[Economics]]
+**Motifs:** [[Sea]], [[Ship]], [[Swords and Weapons]], [[Money and Gold]], [[Sea and Voyage]]
 **Settings:** [[Island]], [[Ship]]
 **Characters:** [[Captain Sharkey]]
 **Archetypes:** [[Villain]], [[Trickster]], [[Avenger]]

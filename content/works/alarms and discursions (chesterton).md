@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/alarms_and_discursions.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - concept/paradox
@@ -72,8 +75,8 @@ tags:
 
 **Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]], [[Golden Age]], [[Night Journey Vision]]
 **Motifs:** [[Gold and Grey]], [[City]], [[Wheel]], [[Money and Gold]], [[Snow]], [[Dreams]]
-**Themes & Concepts:** [[Paradox]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Distributism]], [[Wonder and Gratitude]], [[Nature vs Civilization]], [[Nationalism and Patriotism]], [[War and its Cost]], [[Democracy]], [[Satire of Society]], [[Grotesque]], [[Paganism and Classical Revival]], [[Class Conflict]], [[Eugenics and Social Darwinism]]
-**Forms & Genres:** [[Essay]], [[Fable]], [[Satire]]
+**Themes & Concepts:** [[Paradox]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Distributism]], [[Wonder and Gratitude]], [[Nature vs Civilization]], [[Nationalism and Patriotism]], [[War and its Cost]], [[Democracy]], [[Satire of Society]], [[Grotesque]], [[Paganism and Classical Revival]], [[Class Conflict]], [[Eugenics and Social Darwinism]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Fable]], [[Satire]], [[Nonfiction]]
 **Historical References:** [[King Alfred]], [[Battle of Ethandun]], [[Industrial Revolution]], [[French Revolution]], [[Danish Invasions]], [[Medieval England]], [[Classical Antiquity]], [[Futurism]]
 **Settings:** [[Rural England]], [[Industrial City]], [[London]]
 **Characters:** [[King Alfred (2)]], [[Ebenezer Scrooge]], [[Robespierre]], [[Duc de Chambertin-Pommard]]

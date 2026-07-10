@@ -6,6 +6,7 @@ cluster: Wars of the Roses
 source: Authors/Shakespeare/_raw/004_Henry_VI_Part_One.md
 tags:
   - graph/work
+  - concept/economics
   - author/Shakespeare
   - form/history_play
   - form/blank_verse
@@ -73,7 +74,7 @@ tags:
 ## Connections
 
 **Motifs:** [[White and Red]], [[Swords and Weapons]], [[Crown]]
-**Themes & Concepts:** [[War and its Cost]], [[Kingship and Legitimacy]], [[Order vs Chaos]], [[Class Conflict]], [[Ambition]]
+**Themes & Concepts:** [[War and its Cost]], [[Kingship and Legitimacy]], [[Order vs Chaos]], [[Class Conflict]], [[Ambition]], [[Economics]]
 **Forms & Genres:** [[History Play]], [[Blank Verse]]
 **Historical References:** [[Medieval England]], [[Wars of the Roses]]
 **Settings:** [[Battlefield]]

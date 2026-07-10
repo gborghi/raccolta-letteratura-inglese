@@ -6,6 +6,11 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Spice_Of_Life.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/literary_criticism
@@ -136,16 +141,16 @@ tags:
 
 **Archetypes:** [[Detective]], [[Fool]], [[Usurper]], [[King]], [[Trickster]], [[Madwoman]], [[Child]]
 
-**Settings:** [[London]], [[Paris]], [[Italy]], [[Egypt]], [[Cathedral]], [[Medieval England (2)]], [[Orient]], [[Rural England]], [[Holy Land (Jerusalem and Bethlehem)]]
+**Settings:** [[London]], [[Paris]], [[Italy]], [[Egypt]], [[Cathedral]], [[Medieval England (2)]], [[Orient]], [[Rural England]], [[Holy Land (Jerusalem and Bethlehem)]], [[Europe]]
 
-**Motifs:** [[Cave]], [[Storm]], [[Mirror]], [[Ghosts]], [[Light and Dark]], [[Crown]], [[Dreams]], [[Ship]], [[Wine and Drink]]
+**Motifs:** [[Cave]], [[Storm]], [[Mirror]], [[Ghosts]], [[Light and Dark]], [[Crown]], [[Dreams]], [[Ship]], [[Wine and Drink]], [[Sea and Voyage]]
 
 **Topoi:** [[Sic Transit Gloria Mundi]], [[World Upside Down]], [[Theatrum Mundi]], [[Carpe Diem]], [[Golden Age]], [[Life as a Battle]], [[Beatus Ille (Happy the Man Rural Retreat)]]
 
 **Characters:** [[Macbeth]], [[Lady Macbeth]], [[King Lear]], [[Goneril]], [[Regan]], [[Falstaff]], [[Jane Eyre]], [[Mr Rochester]], [[Paul Emanuel]], [[Caliban]], [[Odysseus Ulysses]], [[Wilkins Micawber]], [[Dick Swiveller]], [[Seth Pecksniff]], [[Sam Weller]], [[Daniel Quilp]], [[Ralph Nickleby]], [[Little Nell]], [[Wackford Squeers]], [[Augustus Snodgrass]], [[Alice]], [[Scheherezade]], [[Sherlock Holmes]]
 
-**Themes & Concepts:** [[Artist and Society]], [[Wonder and Gratitude]], [[Joy]], [[Faith]], [[Imagination]], [[Ratiocination Detection]], [[Kingship and Legitimacy]], [[Nationalism and Patriotism]], [[Madness]], [[Ambition]], [[Fate and Free Will]], [[Temptation]], [[Power and Corruption]], [[Marriage and Fidelity]], [[Nostalgia]], [[Faith and Doubt]], [[Original Sin]], [[Paganism and Classical Revival]], [[Distributism]], [[Education]], [[Grotesque]], [[Critique of Progress]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Detective Fiction]], [[Fable]], [[Fairy Tale Fantasy]], [[Melodrama]], [[Travel Writing]], [[Biography]], [[Satire]]
+**Themes & Concepts:** [[Artist and Society]], [[Wonder and Gratitude]], [[Joy]], [[Faith]], [[Imagination]], [[Ratiocination Detection]], [[Kingship and Legitimacy]], [[Nationalism and Patriotism]], [[Madness]], [[Ambition]], [[Fate and Free Will]], [[Temptation]], [[Power and Corruption]], [[Marriage and Fidelity]], [[Nostalgia]], [[Faith and Doubt]], [[Original Sin]], [[Paganism and Classical Revival]], [[Distributism]], [[Education]], [[Grotesque]], [[Critique of Progress]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Detective Fiction]], [[Fable]], [[Fairy Tale Fantasy]], [[Melodrama]], [[Travel Writing]], [[Biography]], [[Satire]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

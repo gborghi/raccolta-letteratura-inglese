@@ -6,6 +6,7 @@ cluster: Night Journey Vision · Katabasis Descent · Quest Hero
 source: Authors/Poe/_raw/The Narrative of Arthur Gordon Pym of Nantucket.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Poe
   - topos/the_quest
   - topos/night_journey
@@ -70,7 +71,7 @@ tags:
 **Archetypes:** [[Outsider]], [[Quest Hero]]
 **Motifs:** [[Sea]], [[Storm]], [[Journey]], [[White and Red]], [[Blood]], [[Death]]
 **Themes & Concepts:** [[Terror and Horror]], [[Sublime]], [[Appearance vs Reality]], [[Survival]], [[Uncanny]]
-**Forms & Genres:** [[Novel]], [[Travel Writing]]
+**Forms & Genres:** [[Novel]], [[Travel Writing]], [[Nonfiction]]
 **Settings:** [[Sea (2)]], [[Ship]]
 
 ## Testo integrale / Full text

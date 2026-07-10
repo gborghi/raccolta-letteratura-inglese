@@ -6,6 +6,7 @@ cluster: Swords and Weapons · Power and Corruption · Tyrant
 source: Authors/Coleridge/_raw/P00_THE_FALL_OF_ROBESPIERRE.md
 tags:
   - graph/work
+  - setting/europe
   - author/Coleridge
   - concept/power_and_corruption
   - concept/ambition
@@ -42,7 +43,7 @@ tags:
 **Themes & Concepts:** [[Power and Corruption]], [[Ambition]], [[Revenge]], [[Deception]], [[War and its Cost]]
 **Forms & Genres:** [[Verse Drama]], [[History Play]], [[Blank Verse]]
 **Historical References:** [[French Revolution]]
-**Settings:** [[Paris]]
+**Settings:** [[Paris]], [[Europe]]
 
 ## Testo integrale / Full text
 

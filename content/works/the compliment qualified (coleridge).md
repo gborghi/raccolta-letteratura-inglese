@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Coleridge/_raw/336_THE_COMPLIMENT_QUALIFIED.md
 tags:
   - graph/work
+  - concept/economics
   - author/Coleridge
   - form/epigram
   - form/satire
@@ -23,7 +24,7 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]], [[Literary Criticism (2)]], [[Deception]], [[Money and Avarice]]
+**Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]], [[Literary Criticism (2)]], [[Deception]], [[Money and Avarice]], [[Economics]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 
 ## Testo integrale / Full text

@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/how-not-to-do-it.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - concept/distributism
   - concept/class_conflict
@@ -41,8 +43,8 @@ tags:
 
 **Archetypes:** [[Pharisee]]
 
-**Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Reform]], [[Critique of Progress]], [[Honour]], [[Freedom and Liberty]], [[Individualism]], [[Money and Avarice]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Reform]], [[Critique of Progress]], [[Honour]], [[Freedom and Liberty]], [[Individualism]], [[Money and Avarice]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

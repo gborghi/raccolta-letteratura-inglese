@@ -1,0 +1,35 @@
+---
+title: "Marie Antoinette — Chapter 8: FIGARO (part 4)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/marie-antoinette-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/marie-antoinette-(belloc)">Marie Antoinette</a> › <a href="/testi/belloc/atomized/marie_antoinette/chapter_09_figaro">Chapter 09 FIGARO</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/marie_antoinette/chapter_09_figaro/part_03">‹ part 03</a><a class="ex-next" href="/testi/belloc/atomized/marie_antoinette/chapter_09_figaro/part_05">part 05 ›</a></div>
+</nav>
+
+
+A thousand lesser incidents of this time she could not herself, had you asked her daily, have recorded. One among such petty details it is worth the reader’s while to recall, though it had made upon her even less impression than the babble about Beaumarchais’ play; though it passed completely from her memory. It was the presence now and then upon the stairways of Versailles, and for moments only, of a short woman, very fair, with a small, well-arched foot, and delicate hands, quick and even furtive of glance, not beautiful but attractive and provoking in face, dressed in a manner that combined excess with the evidences of poverty, but in her gestures of a passable breeding. This figure was often seen; now leaving the room of some lady of the Court, now crossing the courtyard on foot towards the town.
+
+The Queen may or may not have heard that this woman, though an adventuress, was (from over the left) a Valois; of some birth, therefore, but very poor, and given to borrowing small sums: Marie Antoinette’s sister-in-law of Provence, Madame, may or may not have told the Queen that she had got this woman a tiny advance of thirty pounds upon her tiny pension of twenty-four. Whether her name of “De la Motte,” or so much as the presence of this chance passer, was noted by Marie Antoinette is not known, but certainly if either were, it took no more place in her mind than any other of the hundred insignificant names she heard and forgot every day. Moreover, after the early spring of 1782, this woman was no longer seen at Versailles; she had borrowed a few pounds, and was gone.
+
+With May the true life of the Court and the active interests of the Queen awoke to receive the first of those great political visits which form the historical pageant of Versailles: the heir of Catherine of Russia came with his wife, and the whole year might almost have been named from so conspicuous an event.
+
+The inordinate pomp of royalty in its old age had led to a fashion of incognito which did not have, and was not intended to have, its occasional modern effect of privacy, but which, by cutting short interminable and necessary ritual, left crowned travellers the freer for luxury and dissipation. It saved them the judges, the orators, the Governors, the Universities — in general the middle classes, and left them free for actors, wine, and their own company, and the frenzied plaudits of the innumerable poor. The Emperor of [[Austria]] had set the fashion five years before; it was followed now by the Russian Court, and Catherine’s son chose to present himself in [[France]] under the somewhat theatrical alias of the “Comte du Nord.”
+
+The Grand-Duke Paul had the face of a Tartar, and — what was piquant — the manners, and, above all, the ready epigrams of a Parisian. His wife was a huge German woman, rather absolute and — what was curious — learned. For exactly a month they dominated the Court of [[France]]; from the end of May to the end of June they filled it with their presence, and not a little of the hankering after French things and French alliances, which, much later, distinguished Paul III. during the revolutionary wars, may have sprung from this short and vivid episode of his twenty-eighth year.
+
+It is characteristic of Marie Antoinette that the prospect of a great encounter and of the society of equals confused her; it is equally characteristic of her that once she had got over that nervousness she drew the young man and his wife at once into that rather isolated and over-familiar circle of intimates with which Mercy, her brother, and the French reproached her, but without which, as it seemed, she could not live. Behind the solemn and rare functions, the regal hospitality of the Condés at Chantilly and the Court ball at Versailles, was a whole atmosphere of gambling and private theatricals; of plays at Trianon, intimate suppers, costly presents given at a moment’s thought, and, very late at night, in the rooms of Madame de Polignac or in the Queen’s, when the King had left them, a complete ease full of little improvised dances and familiar jests. In such an atmosphere the German Grand-Duchess maintained, perhaps a little stiffly, her formal compliments, but the Russian Grand-Duke went headlong; he suffered the spell; there was even a moment when he confided to the Queen his humiliation at home and the tyranny of his mother Catherine.
+
+Upon one matter the husband and the wife most certainly agreed, for to the second it was belles-lettres, to the first Parisiana: they must have things read to them “by the authors.” All the little tricks with which the wealthy and leisured enveigle the masters of the pen to visit their palaces, to amuse them for an hour, were set at work.
+
+Of the many so caught one was especially demanded, and the Queen heard again, not without boredom, the perpetual name of Beaumarchais. “Oh yes, you must hear Beaumarchais!” Madame de Lamballe had got him to her rooms. It was difficult, but she had got him. The Archbishop of Toulouse knew him well. He was splendid. “You must hear him read this play of his; it has been forbidden, you know. It is seditious. It is so witty, and he does read it so well!” The Comte du Nord and his wife asked no better than to be in the swim. Beaumarchais was willing enough; he came and read to them, and they heard from his thin ironic lips, saw illustrated by his exact gesture and brilliant, ambitious little eyes, the edge and sharpness of a drama that worked — once it was public — like an acid, to the destruction of all their world. How they applauded!
+
+That warm month of long evenings that fade into early dawns shining with lamps in the park, with candles and mirrors in the vast length of the palace, was approaching its end, when, for the last time, Marie Antoinette devised her last considerable fête — once more at Trianon.
+
+It was to be a garden fête at night: by this time certainly wearisome to the Grand-Duchess, but to the Grand-Duke attractive — with this one flaw, that on the morrow he would be gone. The fête was held; it was brilliant and full. At its close when, as custom demanded, the royal party passed out, down a lane of guests on either side, the Queen saw — for a moment — a pair of red stockings; the legs were neither meagre nor young. All the rest of the figure was a large dark cloak, but she caught beneath the hat of it the somewhat flushed and large face of the Grand Almoner.

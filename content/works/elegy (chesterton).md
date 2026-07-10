@@ -6,6 +6,7 @@ cluster: Grief and Loss · Elegy · Clothing and Costume
 source: Authors/Chesterton/_raw/elegy.md
 tags:
   - graph/work
+  - concept/economics
   - author/Chesterton
   - concept/nationalism_and_patriotism
   - concept/war_and_its_cost
@@ -44,7 +45,7 @@ tags:
 **Archetypes:** [[Common Man (2)]], [[Corrupt Official]]
 
 **Motifs:** [[Grave]], [[Birds]], [[Bees]], [[Cross]], [[Stars]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Satire of Society]], [[Mortality]], [[Class Conflict]], [[Power and Corruption]], [[Social Injustice]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Satire of Society]], [[Mortality]], [[Class Conflict]], [[Power and Corruption]], [[Social Injustice]], [[Economics]]
 **Forms & Genres:** [[Elegy]], [[Satire]]
 **Settings:** [[Rural England]], [[Battlefield]], [[Court]]
 

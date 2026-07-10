@@ -6,6 +6,8 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/ortho14.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/apologetics
   - concept/faith_and_doubt
@@ -75,8 +77,8 @@ tags:
 **Characters:** [[Christ]], [[Joan of Arc]], [[Nietzsche]], [[Tolstoy]]
 
 **Topoi:** [[World Upside Down]], [[Paradise Lost]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Paradox]], [[Conversion]], [[Joy]], [[Wonder and Gratitude]], [[Faith]], [[Madness]], [[Critique of Progress]], [[Democracy]], [[Original Sin]], [[Fate and Free Will]], [[Tradition]], [[Authority]]
-**Forms & Genres:** [[Apologetics]], [[Fictional Autobiography]], [[Essay]]
+**Themes & Concepts:** [[Faith and Doubt]], [[Paradox]], [[Conversion]], [[Joy]], [[Wonder and Gratitude]], [[Faith]], [[Madness]], [[Critique of Progress]], [[Democracy]], [[Original Sin]], [[Fate and Free Will]], [[Tradition]], [[Authority]], [[History]]
+**Forms & Genres:** [[Apologetics]], [[Fictional Autobiography]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Bible]], [[Classical Antiquity]], [[Crusades]], [[French Revolution]], [[Eastern Religion Comparative Religion]], [[Islam]]
 
 ## Testo integrale / Full text

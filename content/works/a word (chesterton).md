@@ -6,6 +6,8 @@ cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Chesterton/_raw/a_word.md
 tags:
   - graph/work
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/narrative_poem
   - form/lyric
@@ -49,7 +51,7 @@ tags:
 **Topoi:** [[Ages of the World]], [[Sic Transit Gloria Mundi]], [[Fortune's Wheel]]
 **Archetypes:** [[Christ Figure]]
 **Motifs:** [[Stars]], [[Fire]], [[Cross]], [[Swords and Weapons]], [[Sea]], [[Crown]], [[Fog and Smoke]], [[Wheel]], [[Machine]]
-**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Faith]], [[Anti-Industrialism]], [[Labor and Work]]
+**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Faith]], [[Anti-Industrialism]], [[Labor and Work]], [[Economics]], [[History]]
 **Forms & Genres:** [[Narrative Poem]], [[Lyric]]
 **Historical References:** [[Christianity]], [[Bible]], [[Roman History]], [[Crusades]], [[Industrial Revolution]]
 **Characters:** [[Christ]]

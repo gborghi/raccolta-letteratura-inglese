@@ -6,6 +6,7 @@ cluster: Social Novel (Novel of Manners)
 source: Authors/Austen/_raw/Sense and Sensibility.md
 tags:
   - graph/work
+  - concept/economics
   - author/Austen
   - concept/appearance_vs_reality
   - concept/love_romantic
@@ -98,7 +99,7 @@ tags:
 
 **Archetypes:** [[Lover]]
 **Motifs:** [[Marriage]], [[Money and Gold]], [[Letters and Writing]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Romantic Love]], [[Marriage and Fidelity]], [[Unrequited Frustrated Love]], [[Satire of Society]], [[Deception]], [[Class Conflict]], [[Grief and Loss]], [[Self-Knowledge]]
+**Themes & Concepts:** [[Appearance vs Reality]], [[Romantic Love]], [[Marriage and Fidelity]], [[Unrequited Frustrated Love]], [[Satire of Society]], [[Deception]], [[Class Conflict]], [[Grief and Loss]], [[Self-Knowledge]], [[Economics]]
 **Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Satire]]
 **Historical References:** [[Romantic Movement (Sensibility)]]
 **Settings:** [[Rural England]]

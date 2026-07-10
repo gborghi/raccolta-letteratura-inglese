@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Coleridge/_raw/417_ADAPTATIONS.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Coleridge
   - form/literary_criticism
   - form/essay
@@ -23,7 +24,7 @@ tags:
 
 **Topoi:** [[Immortality Through Verse]]
 **Themes & Concepts:** [[Artist and Society]], [[Romantic Love]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

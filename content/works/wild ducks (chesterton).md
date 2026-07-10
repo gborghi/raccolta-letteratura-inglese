@@ -6,6 +6,10 @@ cluster: Paradox · Food and Feasting · Aphorism
 source: Authors/Chesterton/_raw/Wild_Ducks.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/satire
@@ -121,10 +125,10 @@ tags:
 
 **Topoi:** [[Vanitas]], [[Beatus Ille (Happy the Man Rural Retreat)]], [[Sic Transit Gloria Mundi]]
 **Motifs:** [[Food and Feasting]], [[Journey]], [[Birds]], [[Window]], [[Stone and Marble]], [[Road]]
-**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Satire of Society]], [[Common Man]], [[Critique of Progress]], [[Nature vs Civilization]], [[Artist and Society]], [[Literary Criticism (2)]], [[Nationalism and Patriotism]], [[War and its Cost]], [[Power and Corruption]], [[Democracy]], [[Freedom]], [[Anti-Industrialism]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Travel Writing]], [[Literary Criticism]], [[Biography]]
+**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Satire of Society]], [[Common Man]], [[Critique of Progress]], [[Nature vs Civilization]], [[Artist and Society]], [[Literary Criticism (2)]], [[Nationalism and Patriotism]], [[War and its Cost]], [[Power and Corruption]], [[Democracy]], [[Freedom]], [[Anti-Industrialism]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Travel Writing]], [[Literary Criticism]], [[Biography]], [[Nonfiction]]
 **Historical References:** [[Regency Georgian England]], [[First World War]], [[French Revolution]], [[Puritanism]], [[Medieval England]], [[Napoleonic Wars the Navy]], [[Napoleon]], [[William Penn]], [[Ruskin]], [[Shelley]], [[Jane Austen]]
-**Settings:** [[London]], [[New York]], [[Paris]], [[Rural England]]
+**Settings:** [[London]], [[New York]], [[Paris]], [[Rural England]], [[Europe]]
 
 ## Testo integrale / Full text
 

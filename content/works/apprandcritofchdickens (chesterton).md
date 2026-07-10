@@ -6,6 +6,10 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/ApprAndCritOfChDickens.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/literary_criticism
   - form/essay
@@ -165,13 +169,13 @@ tags:
 
 **Archetypes:** [[Detective]], [[Orphan]]
 
-**Settings:** [[London]], [[America]], [[Italy]], [[Industrial City]], [[Paris]]
+**Settings:** [[London]], [[America]], [[Italy]], [[Industrial City]], [[Paris]], [[Europe]]
 
 **Characters:** [[Sam Weller]], [[Samuel Pickwick]], [[Nathaniel Winkle]], [[Augustus Snodgrass]], [[Tracy Tupman]], [[Tony Weller]], [[Nicholas Nickleby]], [[Wackford Squeers]], [[Madeline Bray]], [[Vincent Crummles]], [[Oliver Twist]], [[Bill Sikes]], [[Nancy]], [[Mr Bumble]], [[Fagin]], [[Little Nell]], [[Dick Swiveller]], [[Marchioness]], [[Daniel Quilp]], [[Sally Brass]], [[Sampson Brass]], [[Kit Nubbles]], [[Simon Tappertit]], [[Sir John Chester]], [[Barnaby Rudge]], [[Grip the Raven]], [[Seth Pecksniff]], [[Sairey Gamp]], [[Martin Chuzzlewit]], [[Old Martin Chuzzlewit]], [[Jonas Chuzzlewit]], [[Ebenezer Scrooge]], [[Captain Cuttle]], [[Florence Dombey]], [[Paul Dombey]], [[Edith Granger]], [[David Copperfield]], [[Wilkins Micawber]], [[Betsey Trotwood]], [[Clara Peggotty]], [[Dora Spenlow]], [[Agnes Wickfield]], [[James Steerforth]], [[Little Emily]], [[Krook]], [[Jo the Crossing-Sweeper]], [[Richard Carstone]], [[Harold Skimpole]], [[Mrs Jellyby]], [[Sir Leicester Dedlock]], [[Josiah Bounderby]], [[Thomas Gradgrind]], [[Stephen Blackpool]], [[William Dorrit]], [[Amy Dorrit]], [[Arthur Clennam]], [[Mrs Clennam]], [[Sydney Carton]], [[Pip]], [[Joe Gargery]], [[Mrs Joe Gargery]], [[Silas Wegg]], [[Nicodemus Boffin]], [[Bradley Headstone]], [[John Jasper]], [[John Harmon]], [[Lizzie Hexam]], [[Aaron]], [[Ralph Nickleby]], [[Smike]], [[Cheeryble Brothers]], [[Monks]], [[Bella Wilfer]], [[Mr Venus]], [[John Jarndyce]], [[Ada Clare]], [[Esther Summerson]], [[Durdles]], [[Helena Landless]], [[Neville Landless]], [[Rosa Bud]], [[Mr Grewgious]], [[Mr Crisparkle]], [[Trotty Veck]], [[Alfred Jingle]], [[Mrs Bardell]], [[Mr. Podsnap]], [[Mr. Veneering]], [[Mr. Lammle]], [[Mr. Fledgeby]], [[Toots]], [[Major Bagstock]], [[Cousin Feenix]], [[Mrs. Nickleby]], [[Mrs. Skewton]], [[Caddy Jellyby]], [[Trabb's boy]], [[Mrs. Lirriper]]
 
 **Motifs:** [[City]], [[Fog and Smoke]], [[Prison]], [[Christmas]]
-**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Artist and Society]], [[Reform]], [[Satire of Society]], [[Grotesque]], [[Poverty]], [[Crime and Punishment]], [[Imprisonment]], [[Democracy]], [[Charity]], [[Hope]], [[Anti-Industrialism]], [[Education]], [[Power and Corruption]], [[Hypocrisy]], [[Sentimentality]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]], [[Detective Fiction]], [[Melodrama]], [[Historical Novel]], [[Bildungsroman]], [[Travel Writing]], [[Fairy Tale Fantasy]], [[Novel]]
+**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Artist and Society]], [[Reform]], [[Satire of Society]], [[Grotesque]], [[Poverty]], [[Crime and Punishment]], [[Imprisonment]], [[Democracy]], [[Charity]], [[Hope]], [[Anti-Industrialism]], [[Education]], [[Power and Corruption]], [[Hypocrisy]], [[Sentimentality]], [[Economics]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]], [[Detective Fiction]], [[Melodrama]], [[Historical Novel]], [[Bildungsroman]], [[Travel Writing]], [[Fairy Tale Fantasy]], [[Novel]], [[Nonfiction]]
 **Historical References:** [[French Revolution]], [[Regency Georgian England]], [[Industrial Revolution]], [[Puritanism]]
 
 ## Testo integrale / Full text

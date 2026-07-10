@@ -1,0 +1,35 @@
+---
+title: "Danton: A Study — Chapter 8: ROBESPIERRE (part 20)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/danton--a-study-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/danton--a-study-(belloc)">Danton A Study</a> › <a href="/testi/belloc/atomized/danton_a_study/chapter_09_robespierre">Chapter 09 ROBESPIERRE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/danton_a_study/chapter_09_robespierre/part_19">‹ part 19</a><a class="ex-next" href="/testi/belloc/atomized/danton_a_study/chapter_09_robespierre/part_21">part 21 ›</a></div>
+</nav>
+
+
+As to the accusations such as that of Lafayette (Memoirs, iv. 139, 140), “He commanded the massacre of September and paid the murderers, who went all covered with [[Blood|blood]] to get their money from Roland,” I attach no importance to them at all. Even the phrase in which Danton is supposed to have saluted the return of the murderers from Versailles is very doubtful. It does not occur in any contemporary account; it is not in the Moniteur; it is not in the “Révolutions de [[Paris]];” Madame Roland does not quote it, even on hearsay; it is not one of Peltier’s inventions, and I have some difficulty in tracing it to its origin.
+
+I think, then, that the general position of Danton during the days of September may be summed up as follows. He did not regard the lives of the prisoners as being of the first importance; he did not use what would have been to his certain knowledge a useless energy in protesting; he did not (as he might conceivably have done) form a special and vigorous tribunal to replace that which was on the point of acquitting L. de Montmorin. By all those, therefore, who would regard public order and a security for life as being more important than the success of a political idea, or the integrity and defence of a nation, he can be accused of a criminal negligence in the matter of the massacres of September. He certainly cannot be accused of having designed them; he cannot be accused on any definite proof of having approved them, and he cannot be accused of having failed to share in the regret and misery which that terrible blunder caused. If we may judge the attitude of his mind by comparing it with that of contemporaries, rather than by comparing it with our own attitude in a time of security and order, we may say that the massacres taught him a more definite lesson than they taught to Roland, for they caused him to pursue a policy of conciliation and to strengthen the government; that, on the other hand, he did less to stop them than Manuel did; and that in a comparison with men whom we know to have been honest, such as Roland himself, or by a contrast with men whom we know to have been evil, such as Hébert, or whom we know to have been frenzied, such as Marat — judged in the midst of all this, Danton will appear responsible to history for having been guilty of indifference at a moment when he might have saved his reputation by protesting, though perhaps his protest would not have saved a single life.
+
+The object of the remainder of this Appendix is to provide for the reader certain documents that illustrate the statements and the line of argument in the text. Of these documents but few have been translated, because only a few appeal to any one but a special student of the Revolution, or are necessary to the understanding of this book.
+
+By far the most important of the documents here printed is the last, Barrère’s report of the 29th of May 1793. Hitherto unpublished, it furnishes (to my mind) the most complete explanation of the somewhat complicated manœuvres pursued by the Committee, manœuvres which permitted the revolution of May 31st and June 2nd.
+
+To each document a short preface has been attached for the purpose of explaining its origin and of mentioning the authorities (if any) in which it can be found.
+
+V. SHORT MEMOIR by A. R. C. de St. ALBIN
+
+THIS MEMOIR WAS published for the first time as an article in the Critique Française of the 15th of March 1864. It was so published by the author himself, and, though appearing seventy years after Danton’s death, is not without importance. De St. Albin, who is better known by his first name of Rousselin, had some personal acquaintance with Danton (though he was but a boy at the time) and he lived to a great age. He had, moreover, an acquaintance with the family after the Revolutionary period. These circumstances make his testimony decisive on all non-controversial points and valuable on many others.
+
+The criticisms to be made against his account are obvious. It is too florid; it errs also in giving an amiable and somewhat mediocre character to the statesman himself and to all his relatives and surroundings. We have in it but a poor expression of the energy that was Danton’s chief character, and which the writer’s own mind cannot reflect. It was, moreover, written so very long after the events which it describes that in more than one place an error of date or number has been committed; especially in the incident of Barentin at the close of the memoir, with which M. Aulard finds so much fault, and in the amount of his wife’s dowry, which was not 40,000 but only 20,000 livres. On the other hand, it is fresh, full of personal recollections, written by a trustworthy man, and gives many interesting details on the earlier and less known part of Danton’s life.
+
+“La famille de Danton n’a point à se prévaloir d’une antique noblesse. Le nom de Danton est commun dans la contrée d’Arcis-sur-Aube, il est apparu avec un certain bruit, en 1740, dans les querelles du jansénisme. Parmi les pièces de théâtre destinées à populariser ces discussions théologiques, il en est une intitulée La Banqueroute des marchands de miracles, qui est signée du P. Danton. On a supposé, non sans raison, qui cet ecclésiastique était un grand-oncle du conventionnel.
+
+“Georges-Jacques Danton naquit à Arcis-sur-Aube le 26 octobre 1759. Il était fils de Jacques Danton, procureur au bailliage d’Arcis, qui avait épousé, en 1754, Jeanne-Madeleine Camut. Le père mourut le 24 février 1762, âgé d’environ quarante ans, laissant sa femme enceinte et quatre enfants en bas âge, deux filles et deux garçons, Georges-Jacques Danton resta sous la tutelle de sa mère, femme douée de toutes les qualités qui commandent l’estime. C’est par la sensibilité et la douceur du caractère que la mère de Danton élevait et gouvernait sa jeune famille. Georges, celui de ses enfants dont l’extérieur indiquait le plus de force et de volonté, était le plus docile envers elle. Se jeune indépendance était bien vite soumise quand sa mère parlait à son cœur. La tendresse obtenait ce que la crainte aurait vainement tenté d’arracher. Madame veuve Danton eut un heureux auxiliaire pour le soutien de sa maison dans son père, entrepreneur des ponts et chaussées de la province de Champagne. Celui-ci donna les premières leçons à son petit-fils: il voyait avec joie ses mâles dispositions.

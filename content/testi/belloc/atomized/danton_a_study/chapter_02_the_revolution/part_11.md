@@ -1,0 +1,43 @@
+---
+title: "Danton: A Study — Chapter 1: THE REVOLUTION (part 11)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/danton--a-study-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/danton--a-study-(belloc)">Danton A Study</a> › <a href="/testi/belloc/atomized/danton_a_study/chapter_02_the_revolution">Chapter 02 THE REVOLUTION</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/danton_a_study/chapter_02_the_revolution/part_10">‹ part 10</a><a class="ex-next" href="/testi/belloc/atomized/danton_a_study/chapter_03_the_youth_of_danton/part_01">part 01 ›</a></div>
+</nav>
+
+
+What place did Danton take in this transformation? Of his opinions in detail, his habit of body and mind, his convictions, the accidents of his life, it is the purport of this biography to treat. I will attempt only a very brief description of his position, to make clear the drift of his Revolutionary career, and with this close a chapter whose only object has been to describe the surroundings of a character with which the rest of this book is concerned.
+
+Danton belonged to the bourgeoisie in rank, to the less visionary in the bent of his mind. A young and successful lawyer of thirty, the Revolution found him unknown to politics and not desiring election. It was the accident of oratory that gave him his first position. He discovered himself to be a leader, and there grouped round him a knot of the most ardent, some of them the most brilliant, younger reformers. The electoral district to which he happened to belong became through him the most democratic, and, in some ways, the most violent of [[Paris]].
+
+That part of him which led to such a position was his sympathy. His tenderness (and he had a great share of this quality) was hidden under the energy of his rough voice, great frame, and violent gesture. His pity he was slow to express. But the great crowd of men who were unrepresented, the smaller but more influential class of those who felt and knew but could not speak — these were attracted to him because he had the instinct of the people. He was a demagogue at moments and for a purpose, but never by profession nor for any period of time. What he was, however, all his life and by nature, was a Tribune.
+
+The secret workings of the soil, the power that makes all the qualities of a nation from its wine to its heroes, these had produced him as they produce the tree or the harvest. He is the most French, the most national, the nearest to the mother of all the Revolutionary group. He summed up [[France]]; and, the son of a small lawyer in Champagne, he was a peasant, a bourgeois, almost a soldier as well. When we study him it is like looking at a landscape of Rousseau’s or a figure of Millet’s. We feel [[France]].
+
+His voice was a good symbol of his mind, for there was heard in it not only the deep tone of a multitude, but that quality which comes from the mingling of many parts — the noise of waters or of leaves. In his political attitude he attained this collective quality, not by a varying point of view which is confusion, but by an integration. His opinions erred on the side of bluntness and of directness. They were expressed in plain sentences of a dozen words; he abhorred the classical allusion, he was chary of metaphor. He spoke as a crowd would speak, or an army, or a tribe, if it had a voice.
+
+This was Danton, the public orator and the Tribune, who for two years was heard at the Cordeliers, who spoke always for the purely democratic [[Reform|reform]], who opposed the moderates, and who helped to destroy the compromise. Never identified with [[Paris]], he yet saw clearly the necessity of [[Paris]]. He admitted her claim, fenced with her arrogance, but never worshipped her idols; once or twice he even dared to blame her worst follies. Elected to the administration of the city, he played but a slight rôle, and until the spring of 1792 there is in him no other quality.
+
+The spring of 1792 produced the war with Europe, and from that date Danton appears in another light. Had he died then, we should have known him only by chance references, a centre of strong reforming speeches, an obscure man in opposition. But with the outbreak of a war which he had done nothing to bring on, and which his party thought unwise, Danton shows that his character, in summing up his fellows, caught especially their patriotism. [[France]] was the first thought, and if we could hear not the debaters only, but all the voices of France when the invasion began, it would be this immediate necessity of saving the country that would drown all other opinions. Thence, and for a full year after, Danton becomes the leading man of France. The ability which has led to his legal success (now that his office is abolished and its reimbursement invested in land) seems turned upon the political situation, and such ability combined with such a representative quality pushes him to the front. Two qualities appeared in him which he himself perhaps had not guessed — the power of rapid organisation, and the power of so judging character as to bring diplomacy to bear upon every accident as it arrived.
+
+It was not strictly he who made the 10th of August, but he was the leader. He saw that with the king in power the Prussians would reach Paris, and more than any man he organised the insurrection. That was the one act of violence in his life.
+
+The rest of the nineteen months that fate allowed were spent in the attempt to reconcile and harmonise all the forces he could gather for the salvation of the nation, Perhaps it was his chief fault that in this matter he held to no pure idea.
+
+A Republican and an ardent reformer, he yet seems to have thought France of so much the first importance that he compromised and trafficked with all possible allies. He attempted to stave off the war with England; he attempted to keep Dumouriez; he tried to prevent vengeance from following the Girondins; when the extremists captured the great Committee, he acquiesced, and still wrestled with the forces of disunion. He would have hidden, if possible, those wounds which weakened France in the eyes of the world, and he waged a futile war with the pure idealists — the men of one dogma, who in so many separate camps were destroying each other for their civic faith, and preparing all the evils of a persecution.
+
+On another side of political action he appeared more resolute than any man. It was he who saw the necessity of a strong government, he who created the revolutionary tribunal, and he who is chiefly responsible for the first Committee of Public Safety. He made the dictatorship, caring nothing for the principle, caring only to throw back the foreigner. “He stamped with his foot, and armies came out of the earth.” The violent metaphor is just. There is a succession, a stream of great armies (they say four millions of men!) pouring out from France for twenty years. If you will glance at the head of that stream, and wonder when you read of [[Napoleon]] what first called up the regiments, you may see on the Champ de Mars in ‘92, and later demanding the great levy of ‘93, the presence of Danton, the orator with the voice of command, the attitude of a charge, the right arm thrown forward in the gesture of the sword.
+
+Possessed of astounding vigour, but lacking ambition, a lover of immediate but not of permanent fame, his superb energy after a year of effort spent itself in a demand for repose. In September 1793 he thought his work done and his position secure. He went back into his country home, walked in the fields he loved (and of which he talked before his death), revelled in Arcis, filling himself with the convivial pleasure that he had always desired. He came back in November secure and happy — ready, almost from without and as a spectator, to continue the task of welding the nation together. It was too late. He had created a machine too strong for his control. He had seen the Terror swallow up the Girondins, and had cried because he could not save them.
+
+With the winter he began his protests, his persistent demands for reason and for common-sense; in the religious and in the political persecution he called for a truce; always his effort turned to the old idea — a united Republican France, strong against Europe, with exceptional powers against treason in a time of danger, but with a margin on the side of mercy.
+
+He failed. The extreme theorists whom he despised had captured his dictatorship, and in April 1794 they killed him.

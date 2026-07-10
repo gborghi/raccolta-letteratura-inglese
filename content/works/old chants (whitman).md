@@ -6,6 +6,7 @@ cluster: Bible · Sin and the Fall · Fall from Innocence
 source: Authors/Whitman/_raw/366_Old_Chants.md
 tags:
   - graph/work
+  - concept/history
   - author/Whitman
   - concept/the_artist_and_society
   - histref/classical_antiquity
@@ -26,7 +27,7 @@ tags:
 ## Connections
 
 **Motifs:** [[Music and Song]]
-**Themes & Concepts:** [[Artist and Society]]
+**Themes & Concepts:** [[Artist and Society]], [[History]]
 **Forms & Genres:** [[Free Verse]]
 **Historical References:** [[Classical Antiquity]], [[Bible]], [[Greek Mythology]], [[Arthurian Legend]], [[Dante]]
 **Settings:** [[America]]

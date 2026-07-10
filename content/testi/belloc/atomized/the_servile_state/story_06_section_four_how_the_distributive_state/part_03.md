@@ -1,0 +1,41 @@
+---
+title: "The Servile State — Section Four. How the Distributive State Failed (part 3)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/the-servile-state-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/the-servile-state-(belloc)">The Servile State</a> › <a href="/testi/belloc/atomized/the_servile_state/story_06_section_four_how_the_distributive_state">Story 06 Section Four How the Distributive State</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/the_servile_state/story_06_section_four_how_the_distributive_state/part_02">‹ part 02</a><a class="ex-next" href="/testi/belloc/atomized/the_servile_state/story_06_section_four_how_the_distributive_state/part_04">part 04 ›</a></div>
+</nav>
+
+
+In the place of a powerful Crown disposing of revenues far greater than that of any subject, you had a Crown at its wit’s end for money, and dominated by subjects some of whom were its equals in wealth, and who could, especially through the action of Parliament (which they now controlled), do much what they willed with Government.
+
+In other words, by the first third of the seventeenth century, by 1630 — 40, the economic revolution was finally accomplished, and the new economic reality thrusting itself upon the old traditions of [[England]] was a powerful oligarchy of large owners overshadowing an impoverished and dwindled monarchy.
+
+Other causes had contributed to this deplorable result. The change in the value of money had hit the Crown very hard;2 the peculiar history of the Tudor family, their violent passions, their lack of resolution and of any continuous policy, to some extent the character of Charles I himself, and many another subsidiary cause may be quoted. But the great main fact upon which the whole thing is dependent is the fact that the Monastic Lands, at least a fifth of the wealth of the country, had been transferred to the great landowners, and that this transference had tipped the scale over entirely in their favour as against the peasantry.
+
+The diminished and impoverished Crown could no longer stand. It fought against the new wealth, the struggle of the Civil Wars; it was utterly defeated; and when a final settlement was arrived at in 1660, you have all the realities of power in the hands of a small powerful class of wealthy men, the King still surrounded by the forms and traditions of his old power, but in practice a salaried puppet. And in that economic world which underlies all political appearances, the great dominating note was that a few wealthy families had got hold of the bulk of the means of production in [[England]], while the same families exercised all local administrative power and were moreover the Judges, the Higher Education, the Church, and the generals. They quite overshadowed what was left of central government in this country.
+
+Take, as a starting-point for what followed, the date 1700. By that time more than half of the English were dispossessed of capital and of land. Not one man in two, even if you reckon the very small owners, inhabited a house of which he was the secure possessor, or tilled land from which he could not be turned off.
+
+Such a proportion may seem to us to-day a wonderfully free arrangement, and certainly if nearly one-half of our population were possessed of the means of production, we should be in a very different situation from that in which we find ourselves. But the point to seize is that, though the bad business was very far from completion in or about the year 1700, yet by that date [[England]] had already become Capitalist. She had already permitted a vast section of her population to become proletarian, and it is this and not the so-called “[[Industrial Revolution]],” a later thing, which accounts for the terrible social condition in which we find ourselves to-day.
+
+How true this is what I still have to say in this section will prove.
+
+In an England thus already cursed with a very large proletariat class, and in an England already directed by a dominating Capitalist class, possessing the means of production, there came a great industrial development.
+
+Had that industrial development come upon a people economically free, it would have taken a co-operative form. Coming as it did upon a people which had already largely lost its economic freedom, it took at its very origin a Capitalist form, and this form it has retained, expanded, and perfected throughout two hundred years.
+
+It was in England that the Industrial System arose. It was in England that all its traditions and habits were formed; and because the England in which it arose was already a Capitalist England, modern Industrialism, wherever you see it at work to-day, having spread from England, has proceeded upon the Capitalist model.
+
+It was in 1705 that the first practical steam-engine, Newcomen’s, was set to work. The life of a man elapsed before this invention was made, by Watt’s introduction of the condenser, into the great instrument of production which has transformed our industry — but in those sixty years all the origins of the Industrial System are to be discovered. It was just before Watt’s patent that Hargreaves’ spinning-jenny appeared. Thirty years earlier, Abraham Darby of Colebrook Dale, at the end of a long series of experiments which had covered more than a century, smelted iron-ore successfully with coke. Not twenty years later, King introduced the flying shuttle, the first great improvement in the hand-loom; and in general the period covered by such a life as that of Dr Johnson, born just after Newcomen’s engine was first set working, and dying seventy-four years afterwards, when the Industrial System was in full blast, covers that great transformation of England. A man who, as a child, could remember the last years of Queen Anne, and who lived to the eve of the French Revolution, saw passing before his eyes the change which transformed English society and has led it to the expansion and peril in which we see it to-day.
+
+What was the characteristic mark of that half-century and more? Why did the new inventions give us the form of society now known and hated under the name of Industrial? Why did the vast increase in the powers of production, in population and in accumulation of wealth, turn the mass of Englishmen into a poverty-stricken proletariat, cut off the rich from the rest of the nation, and develop to the full all the evils which we associate with the Capitalist State?
+
+To that question an answer almost as universal as it is unintelligent has been given. That answer is not only unintelligent but false, and it will be my business here to show how false it is. The answer so provided in innumerable textbooks, and taken almost as commonplace in our universities, is that the new methods of production — the new machinery, the new implements — fatally and of themselves developed a Capitalist State in which a few should own the means of production and the mass should be proletariat. The new instruments, it is pointed out, were on so vastly greater a scale than the old, and were so much more expensive, that the small man could not afford them; while the rich man, who could afford them, ate up by his competition, and reduced from the position of a small owner to that of a wage-earner, his insufficiently equipped competitor who still attempted to struggle on with the older and cheaper tools. To this (we are told) the advantages of concentration were added in favour of the large owner against the small. Not only were the new instruments expensive almost in proportion to their efficiency, but, especially after the introduction of steam, they were efficient in proportion to their concentration in few places and under the direction of a few men. Under the effect of such false arguments as these we have been taught to believe that the horrors of the Industrial System were a blind and necessary product of material and impersonal forces, and that wherever the steam engine, the power loom, the blast furnace and the rest were introduced, there fatally would soon appear a little group of owners exploiting a vast majority of the dispossessed.

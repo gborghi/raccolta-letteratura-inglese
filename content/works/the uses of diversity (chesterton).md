@@ -6,6 +6,10 @@ cluster: Paradox · Food and Feasting · Aphorism
 source: Authors/Chesterton/_raw/The_Uses_of_Diversity.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/satire
@@ -132,7 +136,7 @@ tags:
 
 **Archetypes:** [[Detective]], [[Fool]], [[Tyrant]]
 
-**Settings:** [[London]], [[Paris]], [[Rural England]], [[Medieval England (2)]], [[Egypt]]
+**Settings:** [[London]], [[Paris]], [[Rural England]], [[Medieval England (2)]], [[Egypt]], [[Europe]]
 
 **Motifs:** [[Home]], [[Fire]], [[Food and Feasting]], [[Animals]], [[Clothing and Costume]]
 
@@ -140,8 +144,8 @@ tags:
 
 **Characters:** [[Emma Woodhouse]], [[Henry Tilney]], [[Catherine Morland]], [[Harriet Smith]], [[Robert Martin]], [[Macbeth]], [[Lady Macbeth]], [[Theseus]], [[Hermia]], [[Helena]], [[Hippolyta]], [[Bottom]], [[Falstaff]], [[Cardinal Wolsey]], [[Herod Antipas]], [[Duncan]], [[Claudius]], [[Judge Parry]], [[George Meredith]], [[George Wyndham]], [[Bernard Shaw]], [[Tennyson]], [[Cyrano de Bergerac]], [[Peter Pan]], [[Sherlock Holmes]]
 
-**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Satire of Society]], [[Critique of Progress]], [[Faith]], [[Artist and Society]], [[Joy]], [[Nationalism and Patriotism]], [[Democracy]], [[Marriage and Fidelity]], [[Ratiocination Detection]], [[Distributism]], [[Common Man]], [[Conscience]], [[War and its Cost]], [[Class Conflict]], [[Identity]], [[Metamorphosis Transformation]], [[Grotesque]], [[Supernatural (2)]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Literary Criticism]]
+**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Satire of Society]], [[Critique of Progress]], [[Faith]], [[Artist and Society]], [[Joy]], [[Nationalism and Patriotism]], [[Democracy]], [[Marriage and Fidelity]], [[Ratiocination Detection]], [[Distributism]], [[Common Man]], [[Conscience]], [[War and its Cost]], [[Class Conflict]], [[Identity]], [[Metamorphosis Transformation]], [[Grotesque]], [[Supernatural (2)]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Literary Criticism]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

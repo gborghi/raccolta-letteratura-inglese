@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Wilde/_raw/028_The_Soul_of_Man_under_Socialism.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Wilde
   - concept/individualism
   - concept/the_artist_and_society
@@ -49,8 +51,8 @@ tags:
 **Topoi:** [[Golden Age]], [[World Upside Down]]
 **Archetypes:** [[Rebel]], [[Christ Figure]]
 **Motifs:** [[Money and Gold]], [[Rose]], [[Childhood]], [[City]]
-**Themes & Concepts:** [[Individualism]], [[Artist and Society]], [[Poverty]], [[Social Injustice]], [[Reform]], [[Satire of Society]], [[Self-Knowledge]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
+**Themes & Concepts:** [[Individualism]], [[Artist and Society]], [[Poverty]], [[Social Injustice]], [[Reform]], [[Satire of Society]], [[Self-Knowledge]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Nonfiction]]
 **Historical References:** [[Regency Georgian England]], [[French Revolution]], [[Christianity]]
 **Settings:** [[Industrial City]]
 **Characters:** [[Christ]]

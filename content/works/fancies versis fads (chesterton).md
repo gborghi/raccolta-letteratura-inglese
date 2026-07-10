@@ -6,6 +6,10 @@ cluster: Paradox · Food and Feasting · Aphorism
 source: Authors/Chesterton/_raw/Fancies_Versis_Fads.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/satire
@@ -91,7 +95,7 @@ tags:
 
 **Archetypes:** [[Rebel]], [[Tyrant]], [[Martyr Saint]]
 
-**Settings:** [[London]], [[Medieval England (2)]], [[America]], [[New England America]], [[Venice]], [[Denmark]], [[Ancient Rome]]
+**Settings:** [[London]], [[Medieval England (2)]], [[America]], [[New England America]], [[Venice]], [[Denmark]], [[Ancient Rome]], [[Europe]]
 
 **Motifs:** [[Food and Feasting]], [[Clothing and Costume]], [[Swords and Weapons]], [[Imprisonment (2)]], [[Ghosts]], [[Wheel]]
 
@@ -99,8 +103,8 @@ tags:
 
 **Characters:** [[Hamlet]], [[Portia]], [[Shylock]], [[Macbeth]], [[Lady Macbeth]], [[Banquo]], [[Claudius]], [[Falstaff]], [[Sam Weller]], [[Tony Weller]], [[Samuel Pickwick]], [[Artful Dodger]], [[Dorian Gray]], [[Rosalind]], [[Viola]], [[King Arthur]], [[Gulliver]], [[Joan of Arc]]
 
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Wonder and Gratitude]], [[Anti-Industrialism]], [[Equality in Death]], [[Democracy]], [[Freedom and Liberty]], [[Crime and Punishment]], [[Slavery]], [[Distributism]], [[Marriage and Fidelity]], [[Education]], [[Class Conflict]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]]
+**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Wonder and Gratitude]], [[Anti-Industrialism]], [[Equality in Death]], [[Democracy]], [[Freedom and Liberty]], [[Crime and Punishment]], [[Slavery]], [[Distributism]], [[Marriage and Fidelity]], [[Education]], [[Class Conflict]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

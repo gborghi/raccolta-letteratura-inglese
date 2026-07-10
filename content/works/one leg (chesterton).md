@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/one_leg.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - concept/wonder_and_gratitude
@@ -50,7 +51,7 @@ tags:
 
 **Topoi:** [[Book of Nature]]
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Paradox]], [[Joy]], [[Humility]], [[Solitude]], [[Renunciation]], [[Body]]
-**Forms & Genres:** [[Essay]], [[Aphorism]]
+**Forms & Genres:** [[Essay]], [[Aphorism]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

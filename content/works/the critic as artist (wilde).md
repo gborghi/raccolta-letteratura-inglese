@@ -6,6 +6,8 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Wilde/_raw/026_The_Critic_as_Artist.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Wilde
   - concept/the_artist_and_society
   - concept/beauty
@@ -47,8 +49,8 @@ tags:
 **Topoi:** [[Immortality Through Verse]], [[Book of Nature]]
 **Archetypes:** [[Self-Made Man]]
 **Motifs:** [[Music and Song]], [[Mirror]], [[Book Reading]], [[Flowers]], [[Silence]]
-**Themes & Concepts:** [[Artist and Society]], [[Beauty]], [[Imagination]], [[Paradox]], [[Beauty and Truth]], [[Immortality of Art Fame]], [[Truth]], [[Self-Knowledge]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Aphorism]], [[Epigram]]
+**Themes & Concepts:** [[Artist and Society]], [[Beauty]], [[Imagination]], [[Paradox]], [[Beauty and Truth]], [[Immortality of Art Fame]], [[Truth]], [[Self-Knowledge]], [[History]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Aphorism]], [[Epigram]], [[Nonfiction]]
 **Historical References:** [[Ancient Greece]], [[Classical Antiquity]], [[Renaissance]]
 **Characters:** [[Christ]]
 

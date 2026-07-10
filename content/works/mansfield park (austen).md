@@ -6,6 +6,7 @@ cluster: Social Novel (Novel of Manners)
 source: Authors/Austen/_raw/Mansfield Park.md
 tags:
   - graph/work
+  - concept/economics
   - author/Austen
   - concept/marriage_and_fidelity
   - concept/class_conflict
@@ -95,7 +96,7 @@ tags:
 
 **Archetypes:** [[Innocent]], [[Lover]]
 **Motifs:** [[Marriage]]
-**Themes & Concepts:** [[Marriage and Fidelity]], [[Class Conflict]], [[Conscience]], [[Temptation]], [[Maturation and Growth]], [[Humility]], [[Appearance vs Reality]], [[Romantic Love]], [[Satire of Society]]
+**Themes & Concepts:** [[Marriage and Fidelity]], [[Class Conflict]], [[Conscience]], [[Temptation]], [[Maturation and Growth]], [[Humility]], [[Appearance vs Reality]], [[Romantic Love]], [[Satire of Society]], [[Economics]]
 **Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Bildungsroman]]
 **Settings:** [[Rural England]]
 **Characters:** [[Fanny Price]], [[Edmund Bertram]], [[Sir Thomas Bertram]], [[Henry Crawford]], [[Mary Crawford]], [[Mrs Norris]], [[Maria Bertram]]

@@ -6,6 +6,7 @@ cluster: Social Novel (Novel of Manners)
 source: Authors/Austen/_raw/Northanger Abbey.md
 tags:
   - graph/work
+  - concept/economics
   - author/Austen
   - concept/imagination
   - concept/appearance_vs_reality
@@ -84,7 +85,7 @@ tags:
 
 **Archetypes:** [[Innocent]], [[Lover]]
 **Motifs:** [[Book Reading]], [[Ruins the Abbey]], [[Marriage]]
-**Themes & Concepts:** [[Imagination]], [[Appearance vs Reality]], [[Innocence and Experience]], [[Maturation and Growth]], [[Satire of Society]], [[Marriage and Fidelity]], [[Romantic Love]], [[Deception]], [[Class Conflict]]
+**Themes & Concepts:** [[Imagination]], [[Appearance vs Reality]], [[Innocence and Experience]], [[Maturation and Growth]], [[Satire of Society]], [[Marriage and Fidelity]], [[Romantic Love]], [[Deception]], [[Class Conflict]], [[Economics]]
 **Forms & Genres:** [[Novel]], [[Parody]], [[Social Novel (Novel of Manners)]], [[Satire]], [[Bildungsroman]], [[Gothic Novel]]
 **Historical References:** [[Regency Georgian England]]
 **Settings:** [[Rural England]]

@@ -6,6 +6,7 @@ cluster: Science Fiction · Discovery · Reason vs the Supernatural
 source: Authors/Conan_Doyle/_raw/DANGER_AND_OTHER_STORIES.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
   - author/Conan_Doyle
   - form/science_fiction
   - form/short_story
@@ -35,7 +36,7 @@ tags:
 
 **Forms & Genres:** [[Science Fiction]], [[Short Story]]
 **Themes & Concepts:** [[War and its Cost]], [[Empire and Imperialism]], [[Terror and Horror]]
-**Motifs:** [[Ship]], [[Sea]]
+**Motifs:** [[Ship]], [[Sea]], [[Sea and Voyage]]
 **Historical References:** [[First World War]]
 **Settings:** [[London]], [[Ship]]
 **Archetypes:** [[Villain]]

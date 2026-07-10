@@ -1,0 +1,57 @@
+---
+title: "This and That and the Other — THE HUMAN CHARLATAN"
+author: "Belloc"
+unitType: story
+parentWork: "works/this-and-that-and-the-other-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/this-and-that-and-the-other-(belloc)">This and That and the Other</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/this_and_that_and_the_other/story_31_paris_and_the_east">‹ Story 31 PARIS AND THE EAST</a><a class="ex-next" href="/testi/belloc/atomized/this_and_that_and_the_other/story_33_the_barbarians">Story 33 THE BARBARIANS ›</a></div>
+</nav>
+
+
+XXXI THE HUMAN CHARLATAN
+
+IT IS CURIOUS that the Scientific Spirit has never tabulated any research, even superficial, upon the human type of charlatan.
+
+It is the essence of a charlatan that he aims at the results of certain excellences in the full consciousness that he does not possess those excellences. The material upon which he works is twofold: the ignorance and the noble appetite for reverence in his fellow men.
+
+Where animals are concerned the Scientific Spirit has tabulated a good deal of careful research in this department. We know fairly well the habits of the Cuckoo. What seemingly harmless organisms are poisonous to us, and why, we have discovered and can catalogue. The successful deception practised for purposes of secrecy or greed by such and such a creature, we can discover in our books. But no one has tabulated the human charlatan.
+
+An admirable example upon which one can test the whole theory of charlatanism is the ridiculous Lombroso.
+
+To begin with you have the name. He was no more of an Italian than Disraeli, or than the present Mayor of Rome: but his Italian name deceives and is intended to deceive, not necessarily that it was assumed, but that it was paraded as national. Hundreds of honest men thought themselves praising the Italian character and Italian civilisation when the newspapers (themselves half duped) had persuaded them to blow the trumpet of Lombroso.
+
+One of the characteristics of the charlatan is that he parades the object with which he desires to dupe you, and simultaneously hides his methods in pushing the thing forward. The purveyor of cheap jewellery in Whitechapel does this. He lets you have the glitter of his article full and strong. Where he got it, of his own connection with it, and what it is, you learn last in the business or not at all. The whole process is one of suggestion, or, as our forefathers called it, “hoodwinking.” Lombroso was true to type in this regard.
+
+The European Press was deluged one day with notices, praise, reviews of a book which was called Degeneration. It was a tenth-rate book, but we were compelled to hear of it. No words were fine enough to describe its author. We learnt that his name was Nordau. There was no process of logic in the book, there was no labour. Where it asserted (it was a mass of assertions) it usually trespassed on ground which the author could not pretend to any familiarity with. Those who are already alive to the international trick were suspicious and upon their guard from the very moment that they smelt the thing. The infinitely larger number who do not understand the nature of international forces were taken in. For one man who read the farrago a hundred were taught to magnify the name of Nordau. Only when this process of suggestion had well sunk in did the public casually learn that the said Nordau was a connection of Lombroso’s.
+
+A book of greater value (which is not saying much) proceeded from the pen of one Ferrero. It proposed an examination of the Roman Empire and the Roman people. Its thesis was, of course, a degradation of both. For one man who so much as saw that book, a hundred went away with the vague impression that a certain great Ferrero dominated European thought. He gave opinions (among other things) upon the polity of England so absurd and ignorant that, had the process of suggestion not run on before, those opinions would only have attained some small measure of notoriety from their very fatuousness. But the international trick had reversed the common and healthy process of human thought. We were not allowed to judge the man by his work; no, we must accept the work on the authority of the man; only after the trick had been successfully worked did it come out that Ferrero was a connection of Lombroso’s.
+
+Lombroso’s own department of charlatanry was to attack Christian morals in the shape of denying man’s power of choice between good and evil.
+
+In another epoch and with other human material to work upon his stock-in-trade would have taken some other form, but Lombroso had been born into that generation immediately preceding our own, whose chief intellectual vice was materialism. A name could be cheaply made upon the lines of materialism, and Lombroso took to it as naturally as his spiritual forerunners took to rationalist Deism and as his spiritual descendants will take to spurious mysticism. We shall have in the near future our Lombrosos of the Turning Table, the Rapping Devil, and the Manifesting Dead Great Aunt — indeed this development coincided with his own old age — but as things were, the easiest charlantry in his years of vigour was to be pursued upon Materialist lines, and on Materialist lines did the worthy Lombroso proceed. His method was childishly simple, and we ought to blush for our time or rather for that of our immediate seniors that it should have duped anybody — but it was far from childishly guileless.
+
+When the laws are chiefly concerned in defending the possessions of those already wealthy, and when society, in the decline or depression of religion, takes to the worshipping of wealth, those whom the laws will punish are generally poor. Such a time was that into which Lombroso was born. No man was executed for treason, few men were imprisoned for it. Cheating on a large scale was an avenue to social advancement in most of the progressive European countries. The purveying of false news was a way to fortune: the forestaller and the briber were masters of the Senate. The sword was sheathed. The popular instinct which would repress and punish cowardice, oppression, the sexual abominations of the rich, and their cruelties, had no outlet for its expression. The prisons of Europe were filled in the main with the least responsible, the weakest willed, and the most unfortunate of the very poor. We owe to Lombroso the epoch-making discovery that the weakest willed, the least responsible, and the most unfortunate of the very poor often suffer from physical degradation. With such an intellectual equipment Lombroso erected the majestic structure of human irresponsibility.
+
+Two hundred men and women are arrested for picking pockets in such and such a district in the course of a year. The contempt for human dignity which is characteristic of modern injustice permits these poor devils to be treated like so many animals, to be thrashed, tortured, caged, and stripped: measured, recorded, dealt with as vile bodies for experiment. Lombroso (or for that matter any one possessed of a glimmering of human reason) can see that of these two hundred unfortunate wretches, a larger proportion will be diseased or malformed, than would be the case among two hundred taken at random among the better fed or better housed and more carefully nurtured citizens. The Charlatan is in clover! He gathers his statistics: twenty-three per cent. squint, eighteen per cent. have lice — what is really conclusive no less than ninety-three per cent. suffer from metagrobolisation of the hyperdromedaries, which is scientist Greek for the consequences of not having enough to eat. It does not take much knowledge of men and things to see what the Charlatan can make of such statistics. Lombroso pumps the method dry and then produces a theory uncommonly comfortable to the well-to-do — that their fellow-men if unfortunate can be treated as irresponsible chattels.
+
+There is the beginning and end of the whole humbug.
+
+With the characteristic lack of reason which is at once the weakness and the strength of this vicious clap-trap, a totally disconnected — and equally obvious — series of facts is dragged in. If men drink too much, or if they have inherited insanity, or are in any other way afflicted, by their own fault or that of others, in the action of the will, they will be prone to irresponsibilities and to follies; and where such irresponsibilities and follies endanger the comfort of the well-to-do, the forces of modern society will be used to restrain them. Their acts of violence or of unrestrained cupidity being unaccompanied by calculation will lead to the lock-up. And so you have another stream of statistics showing that “alcoholism” (which is Scientist for drinking too much) and epilepsy and lunacy do not make for material success.
+
+On these two disparate legs poses the rickety structure which has probably already done its worst in European jurisprudence and against which the common sense of society is already reacting.
+
+Fortunately for men Charlatanry of that calibre has no very permanent effect. It is too silly and too easily found out. If Lombroso had for one moment intended a complete theory of Materialist morals or had for one moment believed in the stuff which he used for self-advertisement, he would have told us how physically to distinguish the cosmopolitan and treasonable financier, the fraudulent company-worker, the traitor, the tyrant, the pornographer, and the coward. These in high places are the curse of modern Europe — not the most wretched of the very poor. Of course Lombroso could tell us nothing of the sort; for there is nothing to tell.
+
+Incidentally it is worthy of remark that this man was one of those charlatans who are found out in time. Common sense revolted and in revolting managed to expose its enemy very effectively while that enemy was still alive. A hundred tricks were played upon the fellow: it is sufficient to quote two.
+
+After a peculiarly repulsive trial for murder in Paris, a wag sent the photograph of two hands, a right hand and a left hand, to the great criminologist, telling him they were those of the murderer, and asking for his opinion. He replied in a document crammed with the pompous terms of the scientific cheap-jack, hybrid Greek and Latin, and barbarous in the extreme. He discovered malformations in the fingers and twenty other mysteries of his craft, which exactly proved why these hands were necessarily and by the predestination of blind Nature the hands of a murderer. Then it was that the wag published his letter and the reply with the grave annotation that the left hand was his own (he was a man of letters) and the right hand that of an honest fellow who washed down his carriage.
+
+The other anecdote is as follows: Lombroso produced a piece of fatuous nonsense about the Political Criminal Woman. He based it upon “the skull of Charlotte Corday” — which skull he duly analysed, measured, and labelled with the usual regiment of long and incomprehensible words. Upon the first examination of the evidence it turned out that the skull was no more Charlotte Corday’s than Queen Anne’s — a medical student had sold it to a humble Curiosity Shop, and the dealer, who seems to have had some intellectual affinity with the Lombroso tribe, had labelled it for purposes of sale, “The Skull of Charlotte Corday.” Lombroso swallowed it.
+
+The Ass!

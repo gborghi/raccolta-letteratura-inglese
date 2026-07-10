@@ -1,0 +1,33 @@
+---
+title: "The Cruise of the Nona (part 7)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/the-cruise-of-the-nona-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/the-cruise-of-the-nona-(belloc)">The Cruise of the Nona</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/the_cruise_of_the_nona/part/part_06">‹ part 06</a><a class="ex-next" href="/testi/belloc/atomized/the_cruise_of_the_nona/part/part_08">part 08 ›</a></div>
+</nav>
+
+
+I myself once wrote a book about politicians, called A Change in the Cabinet. It was universally agreed in all that old world of professional politicians who were still educated men that my book, whether good or bad, was monstrously accurate to the way the people of that world talk and go on. But the book will never be held by any large public to be accurate; or, at any rate, will not satisfy the desire of the large public for a particular kind of pompous convention, such as never was by sea or land. And on the whole I think the large public are right. Literature has no business to be a mirror of life. We can see life for ourselves without literature. What literature ought to do, I take it, is to make a type or expression of life, which is quite a different thing from a mere reflection, and what is more, literature is there for fun and not for copying. Hence the greatest of human writings have very little relation to actual speech. The heroes of the poet Homer say things as satisfactory as have ever been said, yet they say them in a highly conventional and stilted way, using a very small vocabulary and (what is really extraordinary!) talking all the time in hexameters. Certainly no one ever did that in real life except an old Don whom I used to know at Oxford.
+
+This man spoke with a dactylic stammer, thus: ‘Wüggâ-gâ, züggâ-gâ, üggër-gà Nâggâ-gâ, Wûggâ-à, Hûggër-gâ... In my... wugga ga... d-dugga-g - opinion.’
+
+He was the only living person I have ever heard who gave the effect of speaking in ordinary life as the persons of the poets speak. It was well worth hearing; but, of course, one could not understand a word of it. Nor did he ever produce the great effects of the ancients.
+
+One of the most delightful things about words is their habit of coming up out of nothing, like the little particles of ice which float to the surface of the Thames at the beginning of a frost, rising silently, floating up from the bottom of the river, or like the little oak trees that crop up everywhere like weeds in the fields of my home. Boy is a word of that kind, ‘girl’ is another, Teg’ is another, ‘donkey’ is another, ‘plough’, though a little earlier, is another. No one can tell you where they came from; they are like our modern masters, they have no ancestry. But, unlike our modern masters, they remain. Someone in some clique started the expression and it spread. One can see examples of the process going on all round one today. One sometimes even knows the man who invented a new term and the medium through which it spread. There are one or two Eton words of this sort, and one or two Balliol words which are in the way of becoming regular English; for individual men of large acquaintance and fertile mind started these new words, some of which are beginning to take root.
+
+But of all things that words do, what pleases me most is their habit of adventure; the way they have of sitting tight and doing nothing but their ordinary job for centuries, and then shooting out and taking quite different work and travelling about, changing colour and shape as they go.
+
+I am very fond of the word ‘cad’. It is the most useful missile in the English language. It is very hard and knobby, and you can be certain of your effect. And yet how brief its career! How singular its arrival at its present exalted state! It is a shortened form of ‘cadet’, the younger son of a great family, which came by extension to apply to the less fortunate. It wandered about in this vague form for about a lifetime, and then settled down into two separate uses, applying to a particular sort of domestic, I believe, in one of the universities, and also to the people who used to hang on at the back of the old horse omnibuses and take the money in those happy days of my youth when there were no bell-punches and no uniforms, and all Charing Cross resounded to the cry of ‘Liverpool Street’, towards which goal every omnibus cad entreated you.
+
+‘Cad’ having settled down on these two honourable but ill-paid occupations, slyly got in by a side door and established itself in a totally different meaning, which it has now achieved, and which it looks like keeping. For now it means: ‘A male deficient in one particular small set of those many moral qualities which, when combined with the national tradition of wealth, build up what is called in England a “gentleman”.’ That is what the word ‘cad’ means today, and that is what gives it its value. It is a very odd formation. The ‘gentleman’ is the ideal of our once aristocratic and now plutocratic English state; it is the ideal which members of the wealthier governing class must conform to or attempt to attain. That ideal (its worshippers will be surprised to hear) has not a few vices, a number of virtues, and a very great many habits or characters which are neither virtuous nor vicious - such as the accent.
+
+Now the cad is not at all a man who lacks all these, he is only a man who lacks one particular set of the many virtues. He lacks the particular kind of reticence and the particular kind of generosity which go to the making of the character called ‘a gentleman’. He may have a reticence of another kind, and a generosity of another kind, and still be a cad. On the whole, of the cads and gentlemen I have met, I would give the cads a shade of odds in the matter of salvation; which is not without its importance either.
+
+It will be interesting to watch the process of the word and see what happens to it. I do not think it will last long, for the whole civilization to which it applies and in which it has a meaning is breaking up like mist before a rising [[Wind|wind]]. It is not a word you could translate into any other language, and the English society to which it attaches is changing in a whirl. I wonder what posterity will make of it? What will posterity make of this strange habit, suddenly arisen within fifty years (and soon to die), of regarding a particular sort of provincial wealthy man as a general ideal for all humanity, and of regarding a man lacking somewhat of that ideal’s qualities as the basest of mankind?

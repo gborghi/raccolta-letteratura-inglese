@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/debate.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - concept/distributism
   - concept/class_conflict
@@ -50,8 +52,8 @@ tags:
 
 **Characters:** [[Bernard Shaw]], [[Hilaire Belloc]]
 
-**Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Power and Corruption]], [[Reform]], [[Common Man]], [[Anti-Industrialism]], [[Democracy]], [[Slavery]], [[Freedom and Liberty]], [[Labor and Work]], [[Individualism]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Power and Corruption]], [[Reform]], [[Common Man]], [[Anti-Industrialism]], [[Democracy]], [[Slavery]], [[Freedom and Liberty]], [[Labor and Work]], [[Individualism]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

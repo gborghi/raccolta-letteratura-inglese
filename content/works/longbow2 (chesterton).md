@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/longbow2.md
 tags:
   - graph/work
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/short_story
   - form/satire
@@ -88,7 +90,7 @@ tags:
 **Characters:** [[Colonel Crane]], [[Owen Hood]], [[Hilary Pierce]], [[Wilding White]], [[Enoch Oates]], [[Bellew Blair]], [[Audrey Smith]], [[Elizabeth Seymour]], [[Joan Hardy]], [[Sir Horace Hunter]], [[Lord Normantowers]], [[Earl of Eden]]
 
 **Topoi:** [[World Upside Down]], [[Pastoral Retreat]], [[Quest]]
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Satire of Society]], [[Nationalism and Patriotism]], [[Joy]], [[Paradox]], [[Class Conflict]], [[Romantic Love]], [[Truth]], [[Critique of Progress]], [[Common Man]], [[Power and Corruption]]
+**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Satire of Society]], [[Nationalism and Patriotism]], [[Joy]], [[Paradox]], [[Class Conflict]], [[Romantic Love]], [[Truth]], [[Critique of Progress]], [[Common Man]], [[Power and Corruption]], [[Economics]], [[History]]
 **Forms & Genres:** [[Short Story]], [[Satire]], [[Allegory]], [[Fairy Tale Fantasy]], [[Mock Epic]]
 **Settings:** [[Rural England]], [[River Thames]], [[Inn]], [[London]], [[Underworld Cave]], [[Garden (2)]]
 

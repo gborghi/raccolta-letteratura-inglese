@@ -6,6 +6,7 @@ cluster: Science Fiction · Discovery · Reason vs the Supernatural
 source: Authors/Conan_Doyle/_raw/THE_DISINTEGRATION_MACHINE.md
 tags:
   - graph/work
+  - concept/economics
   - author/Conan_Doyle
   - form/science_fiction
   - form/short_story
@@ -33,7 +34,7 @@ tags:
 ## Connections
 
 **Forms & Genres:** [[Science Fiction]], [[Short Story]]
-**Themes & Concepts:** [[Power and Corruption]], [[Critique of Progress]], [[Greed and Money]], [[Reason and Rationalism]], [[Materialism]]
+**Themes & Concepts:** [[Power and Corruption]], [[Critique of Progress]], [[Greed and Money]], [[Reason and Rationalism]], [[Materialism]], [[Economics]]
 **Motifs:** [[Machine]], [[Uncanny]]
 **Settings:** [[London]]
 **Characters:** [[Professor Challenger]]

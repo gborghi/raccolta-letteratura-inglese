@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/morality.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/apologetics
@@ -52,8 +55,8 @@ tags:
 
 **Characters:** [[Mr. Robinson]]
 
-**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Humility]], [[Grace and Redemption]], [[Reform]], [[War and its Cost]], [[Anti-Industrialism]], [[Faith]], [[Common Man]], [[Charity]], [[Value and Scarcity]]
-**Forms & Genres:** [[Essay]], [[Apologetics]]
+**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Humility]], [[Grace and Redemption]], [[Reform]], [[War and its Cost]], [[Anti-Industrialism]], [[Faith]], [[Common Man]], [[Charity]], [[Value and Scarcity]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

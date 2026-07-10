@@ -6,6 +6,8 @@ cluster: War and Empire · History · Nationalism and Patriotism
 source: Authors/Conan_Doyle/_raw/THE_FUTURE_OF_CANADIAN_LITERATURE.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Conan_Doyle
   - form/essay
   - form/literary_criticism
@@ -32,8 +34,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Literary Criticism]]
-**Themes & Concepts:** [[Artist and Society]], [[Creativity and Artistic Labor]], [[Nationalism and Patriotism]], [[Tradition]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Nonfiction]]
+**Themes & Concepts:** [[Artist and Society]], [[Creativity and Artistic Labor]], [[Nationalism and Patriotism]], [[Tradition]], [[History]]
 **Motifs:** [[Book Reading]]
 **Historical References:** [[George Bernard Shaw]], [[George Meredith]], [[Robert Louis Stevenson]]
 **Settings:** [[Canada]]

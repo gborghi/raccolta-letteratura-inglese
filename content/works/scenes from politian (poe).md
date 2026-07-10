@@ -6,6 +6,7 @@ cluster: Blood · Verse Drama · Revenge
 source: Authors/Poe/_raw/Scenes From Politian.md
 tags:
   - graph/work
+  - setting/europe
   - author/Poe
   - topos/the_unattainable_beloved
   - topos/love_as_religion
@@ -49,7 +50,7 @@ tags:
 **Themes & Concepts:** [[Revenge]], [[Romantic Love]], [[Melancholy]], [[Honour]], [[Grief and Loss]], [[Guilt]], [[Conscience]]
 **Forms & Genres:** [[Verse Drama]], [[Tragedy]], [[Blank Verse]], [[Fragment]]
 **Historical References:** [[Renaissance]]
-**Settings:** [[Italy]], [[Garden (2)]]
+**Settings:** [[Italy]], [[Garden (2)]], [[Europe]]
 
 ## Testo integrale / Full text
 

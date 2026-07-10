@@ -1,0 +1,37 @@
+---
+title: "Marie Antoinette — Chapter 8: FIGARO (part 1)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/marie-antoinette-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/marie-antoinette-(belloc)">Marie Antoinette</a> › <a href="/testi/belloc/atomized/marie_antoinette/chapter_09_figaro">Chapter 09 FIGARO</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/marie_antoinette/chapter_08_the_children/part_05">‹ part 05</a><a class="ex-next" href="/testi/belloc/atomized/marie_antoinette/chapter_09_figaro/part_02">part 02 ›</a></div>
+</nav>
+
+
+CHAPTER VIII. FIGARO
+
+MONDAY, OCTOBER 22, 1781, to April 27, 1784
+
+THE birth of an heir struck, as it seemed, an epoch in the evident transformation of the Monarchy and in the increasing position which Marie Antoinette occupied upon that scene; not that such a birth was either unexpected or unlikely. The Court and the nation had known for now three years that the royal family was established; it was certain that children would now support and surround the throne, and even in the preceding year nothing but a natural accident had postponed the hope of a prince. But the living presence of the child, the founding of a secure succession within so short a period from the earlier disappointment, had, as have all symbols, an effect greater than that which calculable chances could expect.
+
+A wide popular enthusiasm, though later it was extinguished, did for the moment rise spontaneously to the encouragement of Government, and that initiative which the French had for centuries demanded and still demanded from the custodians of their State was, as it were, thrust into the hand of Louis.
+
+Of all qualities in ruling that which this people will least forgive is ease: in their delight at the news of a Dauphin, [[France]], and particularly [[Paris]], implicitly urged to energy if not the good-humoured and slow-thoughted man who was in theory the whole executive, at least the machinery of which he was the centre. A new phase of one sort or another had certainly begun.
+
+Sudden causes of change are never unaccompanied by coincidence; allied forces invariably converge upon the main cause of change and unite for a common effort. Three such advancing supports synchronised in these last months of 1781 — the new aspect of the Austrian Alliance, the success in America, and the death of old Maurepas, who since the accession of Louis XVI. had presided at the Council. Each of these accidents was singly powerful; in their combination they were irresistible; and a moment of opportunity, to which a man of rapid decision might have given great effect, was apparent even to Louis in the close of that year.
+
+The result of [[Maria Theresa]]’s death and of Joseph II.’s uncontrolled power in [[Austria]] had now matured. The naïf but persistent enmity of the Emperor towards the [[Faith]] — whose doctrines were in his little vision as barbaric as the Gothic architecture, and whose rapid elimination from European culture he took for granted — was, if not the mainspring, at least the chief expression of that general action whereby he imperilled his house and profoundly modified the situation of [[Austria]]. His preparation to rob and destroy the religious orders, his unconcealed contempt for the ideal they represented, his similar pretension that patriotism was a superstition, his petty but sincere conviction that none save material benefits guided by moral abstractions were of use to mankind — in a word, his despotic atheism — culminated in an “Edict of Toleration,” which, when allowance is made for a century’s development, may be compared for its affront against the customs of his subjects to that which had cost James II. of England his throne. In itself it had no bearing upon [[France]] and was hardly heard of in that country, but it was a recantation of all that [[Maria Theresa]] had stood for; it meant an open admiration for Frederick of Prussia, his method and his principle; it argued a philosophy which would, not reluctantly and of necessity, but eagerly and of set purpose, overset old traditions and sacred landmarks, that had attempted the suppression of a national language in Hungary, and was to suggest time and again, as a simple solution of political problems, the denial of all that for which men have always been prepared to die.
+
+This act, the precursor and the type of so many others of his, was signed in Vienna during that same month of October 1781 which saw the happy delivery of his sister at Versailles and the culmination of the American War upon the Chesapeake. Nay, these capital events fell within one week. It was upon a Monday that the Edict was promulgated, upon the following Monday that the Dauphin was born, upon the Friday between that the English and German garrison in Yorktown laid down its arms.
+
+The success of the war in America, especially the dramatic finale of Cornwallis’ surrender, had an effect upon opinion in [[Paris]] which, though it was sudden and short, was yet very powerful. The French, having of all nations by far the most general experience of war, are slow to adventures of such a kind as had been their intervention in America: the Court had been especially slow; the King perhaps the most reluctant of all — in the last peril of death he exclaimed against the memory of that campaign. Once engaged, therefore, if matters had gone ill (as the French troops in America most characteristically swore they would go ill!), or even if a long and indefinite campaign had dragged on through succeeding years so that the full financial effect of the struggle could have been felt before its close, then the whole weight of blame would have fallen upon Versailles. At it was, Yorktown came like the thrust of a spur, and the Monarchy, doubtful as was its course, leapt forward.
+
+The death of Maurepas was the last coincidence of these three; it was as exactly synchronous and as full of effect as either of its fellow accidents. The capitulation of Lord Cornwallis was known in [[Paris]] precisely thirty-one days after it had taken place. It was upon the 19th of November, a Monday, that Louis had the news. The Queen had not yet risen from child-bed, Louis was sitting with her in her room, when the Duc de Lauzun was announced, and gave the message that Yorktown had surrendered. Upon the Wednesday following, De Maurepas was dead. The importance of that passing lay in this, that Louis, at such a juncture, now first attempted to be free.
+
+All men are chafed, and that perpetually, by what they know of their own defects, and Louis could not forget, from his accession onwards, that it was always in him to yield to a quicker brain. He thought it shameful in a King. He never yielded from weakness, but often from bewilderment. His own decision would come to him after he had acted on the decision of another. He understood, he desired to act, later than did his advisers: often so late that, by the time his will was formed, occasion had passed. If, when his slow judgment had matured, he found it different from that upon which immediate action had been taken, he was angered. If that immediate action had proved disastrous, he was secretly indignant that his slower wit had not prevailed. But, stronger than all these reasons, the mere instinct of the imperfect warned him to a distaste of guidance.

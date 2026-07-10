@@ -6,6 +6,7 @@ cluster: Paradox · Food and Feasting · Aphorism
 source: Authors/Chesterton/_raw/methuselahite.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - form/satire
@@ -37,7 +38,7 @@ tags:
 ## Connections
 
 **Themes & Concepts:** [[Paradox]], [[Courage]], [[Mortality]], [[Critique of Progress]], [[Survival]], [[War and its Cost]], [[Satire of Society]], [[Power of Language]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

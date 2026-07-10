@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/The_Persecution_of_Religion.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - form/apologetics
@@ -57,7 +58,7 @@ tags:
 **Characters:** [[Bernard Shaw]], [[Nietzsche]], [[Darwin]], [[Aristotle]]
 
 **Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Paradox]], [[Satire of Society]], [[Madness]], [[Reform]], [[Providence]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Satire]], [[Literary Criticism]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Satire]], [[Literary Criticism]], [[Nonfiction]]
 **Historical References:** [[Christianity]]
 
 ## Testo integrale / Full text

@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Coleridge/_raw/415_APOLOGETIC_PREFACE_TO_FIRE_FAMINE_AND_SLAUGHTER.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Coleridge
   - form/apologetics
   - form/essay
@@ -30,7 +31,7 @@ tags:
 ## Connections
 
 **Themes & Concepts:** [[Imagination]], [[Revenge]], [[War and its Cost]], [[Artist and Society]], [[Faith and Doubt]]
-**Forms & Genres:** [[Apologetics]], [[Essay]], [[Literary Criticism]]
+**Forms & Genres:** [[Apologetics]], [[Essay]], [[Literary Criticism]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Dante]]
 
 ## Testo integrale / Full text

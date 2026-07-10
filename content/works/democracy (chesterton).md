@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/democracy.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - concept/anti_industrialism
   - concept/the_common_man
@@ -44,8 +46,8 @@ tags:
 
 **Characters:** [[Thomas Jefferson]], [[Jean-Jacques Rousseau]]
 
-**Themes & Concepts:** [[Anti-Industrialism]], [[Common Man]], [[Critique of Progress]], [[Original Sin]], [[Power and Corruption]], [[Distributism]], [[Satire of Society]], [[Democracy]], [[Social Injustice]], [[Class Conflict]], [[Indirection and Impersonal Systems]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Anti-Industrialism]], [[Common Man]], [[Critique of Progress]], [[Original Sin]], [[Power and Corruption]], [[Distributism]], [[Satire of Society]], [[Democracy]], [[Social Injustice]], [[Class Conflict]], [[Indirection and Impersonal Systems]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

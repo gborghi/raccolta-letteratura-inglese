@@ -6,6 +6,8 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/God_in_the_Cave.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - concept/paradox
   - concept/love_divine
@@ -69,8 +71,8 @@ tags:
 
 **Topoi:** [[World Upside Down]], [[Quest]], [[Golden Age]]
 **Motifs:** [[Grave]], [[Stars]], [[Ghosts]], [[Supernatural]], [[Light and Dark]]
-**Themes & Concepts:** [[Paradox]], [[Divine Love]], [[Humility]], [[Faith and Doubt]], [[Wonder and Gratitude]], [[Common Man]], [[Slavery]], [[Individualism]], [[Paganism and Classical Revival]], [[Good vs Evil]], [[Truth]]
-**Forms & Genres:** [[Apologetics]], [[Essay]]
+**Themes & Concepts:** [[Paradox]], [[Divine Love]], [[Humility]], [[Faith and Doubt]], [[Wonder and Gratitude]], [[Common Man]], [[Slavery]], [[Individualism]], [[Paganism and Classical Revival]], [[Good vs Evil]], [[Truth]], [[History]]
+**Forms & Genres:** [[Apologetics]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Greek Mythology]], [[Bible]], [[Ancient Greece]], [[Ancient Rome]], [[Eastern Religion Comparative Religion]]
 **Settings:** [[Underworld Cave]], [[Orient]], [[Ancient Rome]], [[Ancient Greece (2)]]
 **Characters:** [[Christ]], [[Herod]], [[Magi]], [[Shepherds]]

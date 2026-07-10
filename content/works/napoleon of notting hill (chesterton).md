@@ -6,6 +6,7 @@ cluster: City · London · Theatrum Mundi
 source: Authors/Chesterton/_raw/Napoleon_of_Notting_Hill.md
 tags:
   - graph/work
+  - concept/economics
   - author/Chesterton
   - form/novel
   - form/satire
@@ -85,7 +86,7 @@ tags:
 **Topoi:** [[World Upside Down]], [[Poet as Prophet]], [[Last Stand]]
 **Archetypes:** [[Fool]], [[King]], [[Hero]], [[Rebel]], [[Common Man (2)]], [[Double Doppelganger]]
 **Motifs:** [[Swords and Weapons]], [[Blood]], [[City]], [[Clothing and Costume]], [[Flags and Banners]], [[Crown]], [[Lamp-post]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Heroism]], [[Honour]], [[Critique of Progress]], [[Anti-Industrialism]], [[Maturation and Growth]], [[Satire of Society]], [[Nature vs Civilization]], [[Democracy]], [[Kingship and Legitimacy]], [[Common Man]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Heroism]], [[Honour]], [[Critique of Progress]], [[Anti-Industrialism]], [[Maturation and Growth]], [[Satire of Society]], [[Nature vs Civilization]], [[Democracy]], [[Kingship and Legitimacy]], [[Common Man]], [[Economics]]
 **Forms & Genres:** [[Novel]], [[Satire]], [[Allegory]], [[Mock Epic]]
 **Settings:** [[London]], [[Modern Metropolis]]
 **Characters:** [[Auberon Quin]], [[Adam Wayne]], [[James Barker]], [[Mr Buck]], [[James Turnbull]], [[Mr Wilson]], [[Provost Swindon]], [[Wilfrid Lambert]], [[Mr Bowles]]

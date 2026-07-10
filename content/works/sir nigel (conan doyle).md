@@ -6,6 +6,8 @@ cluster: Historical Novel · War and its Cost · Honour and Chivalry
 source: Authors/Conan_Doyle/_raw/SIR_NIGEL.md
 tags:
   - graph/work
+  - concept/history
+  - concept/economics
   - author/Conan_Doyle
   - form/historical_novel
   - form/medieval_romance
@@ -66,12 +68,12 @@ tags:
 - [HOW THE THIRD MESSENGER CAME TO COSFORD](/testi/conan_doyle/atomized/sir_nigel/story_28_how_the_third_messenger_came_to_cosford)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-109.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">72.8</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">75.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">178.3</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-110.4</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">73.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">75.9</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">178.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
 **Forms & Genres:** [[Historical Novel]], [[Medieval Romance]]
-**Themes & Concepts:** [[Honour]], [[Family and Lineage]], [[Class Conflict]], [[Fate and Free Will]], [[Power and Corruption]]
+**Themes & Concepts:** [[Honour]], [[Family and Lineage]], [[Class Conflict]], [[Fate and Free Will]], [[Power and Corruption]], [[Economics]], [[History]]
 **Motifs:** [[Horse]], [[Journey]], [[Great House]], [[Swords and Weapons]]
 **Historical References:** [[Medieval England]], [[Hundred Years' War]], [[Catholic Church]]
 **Settings:** [[Rural England]], [[Continental Europe (Brussels)]]

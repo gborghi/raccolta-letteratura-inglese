@@ -6,6 +6,7 @@ cluster: Ode · Nature vs Civilization · Pastoral Retreat
 source: Authors/Poe/_raw/Landor's Cottage.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Poe
   - concept/beauty
   - concept/the_artist_and_society
@@ -52,7 +53,7 @@ tags:
 **Topoi:** [[Locus Amoenus]], [[Beatus Ille (Happy the Man Rural Retreat)]]
 **Motifs:** [[Nature]], [[Garden]], [[Flowers]], [[Water]], [[River]], [[Fog and Smoke]], [[Journey]]
 **Themes & Concepts:** [[Beauty]], [[Artist and Society]], [[Imagination]], [[Nature vs Civilization]], [[Wonder and Gratitude]]
-**Forms & Genres:** [[Short Story]], [[Travel Writing]]
+**Forms & Genres:** [[Short Story]], [[Travel Writing]], [[Nonfiction]]
 **Settings:** [[New England America]], [[Pastoral Countryside]]
 
 ## Testo integrale / Full text

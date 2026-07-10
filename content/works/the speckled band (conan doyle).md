@@ -6,6 +6,7 @@ cluster: Detective Fiction · Ratiocination Detection · Crime and Punishment
 source: Authors/Conan_Doyle/_raw/THE_SPECKLED_BAND.md
 tags:
   - graph/work
+  - concept/economics
   - author/Conan_Doyle
   - form/detective_fiction
   - form/melodrama
@@ -34,7 +35,7 @@ tags:
 ## Connections
 
 **Forms & Genres:** [[Detective Fiction]], [[Melodrama]]
-**Themes & Concepts:** [[Crime and Punishment]], [[Justice Right and Wrong]], [[Greed and Money]], [[Fear]], [[Power and Corruption]]
+**Themes & Concepts:** [[Crime and Punishment]], [[Justice Right and Wrong]], [[Greed and Money]], [[Fear]], [[Power and Corruption]], [[Economics]]
 **Motifs:** [[Serpent Snake]], [[Great House]], [[Night]]
 **Settings:** [[Rural England]]
 **Characters:** [[Sherlock Holmes]], [[Doctor Watson]], [[Dr. Rylott]], [[Enid Stonor]]

@@ -6,6 +6,7 @@ cluster: Swords and Weapons · Power and Corruption · Tyrant
 source: Authors/Wilde/_raw/000_Vera_or_The_Nihilists.md
 tags:
   - graph/work
+  - setting/europe
   - author/Wilde
   - form/tragedy
   - form/verse_drama
@@ -63,7 +64,7 @@ tags:
 **Themes & Concepts:** [[Power and Corruption]], [[Revenge]], [[Romantic Love]], [[Martyrdom]], [[Fate and Free Will]], [[Deception]], [[Kingship and Legitimacy]], [[Social Injustice]], [[Reform]]
 **Forms & Genres:** [[Tragedy]], [[Verse Drama]], [[Melodrama]]
 **Historical References:** [[Christianity]], [[Bible]]
-**Settings:** [[Russia]], [[Court]]
+**Settings:** [[Russia]], [[Court]], [[Europe]]
 **Characters:** [[Christ]], [[Vera Sabouroff]], [[Prince Paul Maraloffski]], [[Czarevitch Alexis]], [[Czar Ivan]], [[Michael]]
 
 ## Testo integrale / Full text

@@ -8,6 +8,7 @@ cluster: War and its Cost · American Civil War · Battlefield
 source: Authors/Whitman/_raw/Complete_Prose_Works.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Whitman
   - form/autobiography
   - form/essay
@@ -85,7 +86,7 @@ tags:
 
 **Motifs:** [[Nature]], [[Death]]
 **Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Common Man]], [[Democracy]], [[Artist and Society]], [[Power and Corruption]]
-**Forms & Genres:** [[Fictional Autobiography]], [[Essay]]
+**Forms & Genres:** [[Fictional Autobiography]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[American Civil War]]
 **Settings:** [[Battlefield]], [[America]]
 

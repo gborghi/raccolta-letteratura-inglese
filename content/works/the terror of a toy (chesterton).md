@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/The_Terror_of_a_Toy.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - form/satire
@@ -54,8 +56,8 @@ tags:
 **Topoi:** [[War as Glory]]
 
 **Motifs:** [[Swords and Weapons]], [[Childhood]], [[Blood]], [[Machine]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Maturation and Growth]], [[Heroism]], [[Paradox]], [[Innocence and Experience]], [[Common Man]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Maturation and Growth]], [[Heroism]], [[Paradox]], [[Innocence and Experience]], [[Common Man]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

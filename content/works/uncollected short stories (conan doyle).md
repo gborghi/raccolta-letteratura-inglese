@@ -6,6 +6,7 @@ cluster: Domestic and Social Fiction · Romantic Love · Class
 source: Authors/Conan_Doyle/_raw/UNCOLLECTED_SHORT_STORIES.md
 tags:
   - graph/work
+  - concept/economics
   - author/Conan_Doyle
   - form/short_story
   - form/satire
@@ -38,7 +39,7 @@ tags:
 ## Connections
 
 **Forms & Genres:** [[Short Story]], [[Satire]]
-**Themes & Concepts:** [[Deception]], [[Wit]], [[Crime and Punishment]], [[Money and Avarice]]
+**Themes & Concepts:** [[Deception]], [[Wit]], [[Crime and Punishment]], [[Money and Avarice]], [[Economics]]
 **Motifs:** [[Secrets]], [[Money and Gold]], [[Supernatural]]
 **Settings:** [[London]]
 **Archetypes:** [[Trickster]], [[Fool]]

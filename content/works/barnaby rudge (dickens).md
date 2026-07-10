@@ -6,6 +6,7 @@ cluster: Order vs Chaos · Historical Novel · Fanaticism
 source: Authors/Dickens/_raw/Barnaby_Rudge.md
 tags:
   - graph/work
+  - concept/history
   - author/Dickens
   - form/novel
   - form/historical_novel
@@ -143,7 +144,7 @@ tags:
 **Topoi:** [[World Upside Down]]
 **Archetypes:** [[Innocent]], [[Fool]], [[Rebel]], [[Ghost]]
 **Motifs:** [[Fire]], [[Blood]], [[Inn Tavern]], [[Animals]], [[City]], [[Madness (2)]]
-**Themes & Concepts:** [[Order vs Chaos]], [[Social Injustice]], [[Faith and Doubt]], [[Madness]], [[Guilt]], [[Innocence and Experience]], [[Fanaticism]], [[War and its Cost]]
+**Themes & Concepts:** [[Order vs Chaos]], [[Social Injustice]], [[Faith and Doubt]], [[Madness]], [[Guilt]], [[Innocence and Experience]], [[Fanaticism]], [[War and its Cost]], [[History]]
 **Forms & Genres:** [[Novel]], [[Historical Novel]], [[Social Novel (Novel of Manners)]]
 **Historical References:** [[Christianity]], [[Catholic Church]]
 **Settings:** [[London]], [[Inn]]

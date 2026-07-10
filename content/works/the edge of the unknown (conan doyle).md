@@ -6,6 +6,7 @@ cluster: Spiritualism · Faith and Doubt · The Afterlife
 source: Authors/Conan_Doyle/_raw/THE_EDGE_OF_THE_UNKNOWN.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Conan_Doyle
   - form/essay
   - concept/spiritualism
@@ -31,7 +32,7 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Themes & Concepts:** [[Spiritualism]], [[Unseen The Hidden]], [[Immortality of the Soul]], [[Deception]], [[Faith and Doubt]]
 **Motifs:** [[Ghosts]], [[Supernatural]], [[Uncanny]], [[Death]]
 **Characters:** [[Sir Arthur Conan Doyle]]

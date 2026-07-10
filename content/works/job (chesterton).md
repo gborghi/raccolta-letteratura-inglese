@@ -6,6 +6,7 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/job.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/apologetics
   - form/literary_criticism
@@ -61,7 +62,7 @@ tags:
 **Characters:** [[Job]], [[Jehovah]], [[Jacob]], [[Socrates]]
 
 **Themes & Concepts:** [[Paradox]], [[Faith and Doubt]], [[Doubt]], [[Wonder and Gratitude]], [[Providence]], [[Grief and Loss]], [[Humility]], [[Suffering]], [[Individualism]], [[Justice Right and Wrong]]
-**Forms & Genres:** [[Apologetics]], [[Literary Criticism]], [[Epic]]
+**Forms & Genres:** [[Apologetics]], [[Literary Criticism]], [[Epic]], [[Nonfiction]]
 **Historical References:** [[Bible]], [[Ancient Greece]]
 
 ## Testo integrale / Full text

@@ -6,6 +6,7 @@ cluster: City · London · Theatrum Mundi
 source: Authors/Dickens/_raw/Our_Mutual_Friend.md
 tags:
   - graph/work
+  - concept/economics
   - author/Dickens
   - concept/money_gold_greed
   - concept/power_and_corruption
@@ -131,7 +132,7 @@ tags:
 **Topoi:** [[Sleeper Awakes]]
 **Archetypes:** [[Self-Made Man]], [[Villain]], [[Double Doppelganger]]
 **Motifs:** [[Money and Gold]], [[Dust]], [[River]], [[Water]], [[City]], [[Concealment Hidden Identity]]
-**Themes & Concepts:** [[Greed and Money]], [[Power and Corruption]], [[Satire of Society]], [[Class Conflict]], [[Identity]], [[Appearance vs Reality]], [[Grace and Redemption]], [[Romantic Love]], [[Social Injustice]], [[Deception]]
+**Themes & Concepts:** [[Greed and Money]], [[Power and Corruption]], [[Satire of Society]], [[Class Conflict]], [[Identity]], [[Appearance vs Reality]], [[Grace and Redemption]], [[Romantic Love]], [[Social Injustice]], [[Deception]], [[Economics]]
 **Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]]
 **Historical References:** [[Regency Georgian England]]
 **Settings:** [[London]], [[River Thames]]

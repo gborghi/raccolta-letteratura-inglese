@@ -7,6 +7,7 @@ source: >-
   Authors/Conan_Doyle/_raw/MY_FRIEND_THE_MURDERER_AND_OTHER_MYSTERIES_AND_ADVENTURES.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
   - author/Conan_Doyle
   - form/short_story
   - form/adventure_fiction
@@ -36,7 +37,7 @@ tags:
 
 **Forms & Genres:** [[Short Story]], [[Adventure Fiction]]
 **Themes & Concepts:** [[Crime and Punishment]], [[Empire and Imperialism]], [[Revenge]], [[Deception]], [[Justice Right and Wrong]], [[Terror and Horror]]
-**Motifs:** [[Journey]], [[Ship]], [[Money and Gold]], [[Secrets]]
+**Motifs:** [[Journey]], [[Ship]], [[Money and Gold]], [[Secrets]], [[Sea and Voyage]]
 **Settings:** [[Australia]], [[American Frontier]]
 **Archetypes:** [[Villain]], [[Outsider]], [[Trickster]]
 **Topoi:** [[Journey of Life]]

@@ -6,6 +6,8 @@ cluster: Madwoman · Great House
 source: Authors/Bronte/_raw/Jane Eyre.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Bronte
   - form/novel
   - form/bildungsroman
@@ -96,8 +98,8 @@ tags:
 
 **Archetypes:** [[Orphan]], [[Outsider]], [[Lover]], [[Madwoman]]
 **Motifs:** [[Fire]], [[Madness (2)]], [[Supernatural]], [[Eyes and Sight]], [[Great House]]
-**Themes & Concepts:** [[Romantic Love]], [[Marriage and Fidelity]], [[Conscience]], [[Faith]], [[Identity]], [[Alienation]], [[Class Conflict]], [[Grace and Redemption]], [[Maturation and Growth]], [[Madness]], [[Temptation]]
-**Forms & Genres:** [[Novel]], [[Bildungsroman]], [[Gothic Novel]], [[Fictional Autobiography]]
+**Themes & Concepts:** [[Romantic Love]], [[Marriage and Fidelity]], [[Conscience]], [[Faith]], [[Identity]], [[Alienation]], [[Class Conflict]], [[Grace and Redemption]], [[Maturation and Growth]], [[Madness]], [[Temptation]], [[Economics]]
+**Forms & Genres:** [[Novel]], [[Bildungsroman]], [[Gothic Novel]], [[Fictional Autobiography]], [[Nonfiction]]
 **Historical References:** [[Christianity]]
 **Settings:** [[Rural England]]
 **Characters:** [[Jane Eyre]], [[Mr Rochester]], [[Bertha Mason]], [[St John Rivers]], [[Mrs Reed]], [[Mrs Fairfax]], [[Adele Varens]], [[Helen Burns]]

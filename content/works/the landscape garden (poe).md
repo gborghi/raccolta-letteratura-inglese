@@ -6,6 +6,7 @@ cluster: Flowers · Spring · Garden
 source: Authors/Poe/_raw/The Landscape Garden.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Poe
   - topos/locus_amoenus
   - topos/book_of_nature
@@ -51,7 +52,7 @@ tags:
 **Archetypes:** [[Self-Made Man]]
 **Motifs:** [[Garden]], [[Nature]], [[Flowers]], [[Money and Gold]]
 **Themes & Concepts:** [[Beauty]], [[Imagination]], [[Artist and Society]], [[Natural Order]], [[Immortality of Art Fame]], [[Sublime]], [[Providence]]
-**Forms & Genres:** [[Essay]], [[Short Story]]
+**Forms & Genres:** [[Essay]], [[Short Story]], [[Nonfiction]]
 **Settings:** [[Garden (2)]]
 
 ## Testo integrale / Full text

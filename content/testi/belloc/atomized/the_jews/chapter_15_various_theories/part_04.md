@@ -1,0 +1,33 @@
+---
+title: "The Jews — Chapter 14: VARIOUS THEORIES (part 4)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/the-jews-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/the-jews-(belloc)">The Jews</a> › <a href="/testi/belloc/atomized/the_jews/chapter_15_various_theories">Chapter 15 VARIOUS THEORIES</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/the_jews/chapter_15_various_theories/part_03">‹ part 03</a><a class="ex-next" href="/testi/belloc/atomized/the_jews/chapter_15_various_theories/part_05">part 05 ›</a></div>
+</nav>
+
+
+Of the causes of friction, even of acute friction, which I have enumerated in former pages, there is the habit of secrecy, there is the mutual contempt, arising in each from a sense of superiority over the other; there is the quarrel between what is national and what is international, between what is of us and what is alien. There are, in a word, plenty of elements suggesting accidental antagonism, but of intrinsic antagonism there is no evidence — there is no evidence, I mean, that the Jews would still desire to destroy a society in which they found themselves at their ease.
+
+And, if we examine ourselves, we shall be equally convinced that there is no corresponding desire upon our side to do a wrong to the Jew. We also are exasperated by the memory of insult in moments of quarrel, of international action opposing our national interests and of friction between what is native and what is alien; but that is a very different thing from permanent and necessary antagonism. I know very well what is called “modern thought” gives to the unconscious part of man a large place and reduces, as much as it can, the field of reason. I cannot agree with it. It seems to me that man is essentially rational; and his political relations can be arranged consonantly with his conscious morals and his conscious logic.
+
+At any rate, if they cannot, there is an end of all statesmanship and of all useful political action even in details.
+
+Next, there are the two converse attitudes towards the question which certainly are affecting, the one an increasing audience upon our side and the other perhaps an interested though but secret audience upon the other; I mean those two converse theories whereby, on the one side, there is the Messianic idea of the Jew ultimately controlling the world, on the other an extreme dread of that idea and a belief that it is being actively pursued to the destruction of our institutions and religion.
+
+I can understand that, with the traditions of his race behind him and with the tone of their sacred writings in his ears, a Jew should lean in some degree to such a conception, or at any rate that some Jews should lean towards it. Certainly in face of the ridiculously exaggerated power of the Jews in recent times (it is now declining, for secrecy was of its essence and it has now been brought into the arena of open discussion) it was natural that men should fall into the exaggeration of panic. They saw the Jew, a tiny fraction of most communities, not more than a twentieth of any community, exercising a power quite out of proportion to his numbers or, indeed, to his ability; and they saw that power directed towards ends which were Jewish ends and therefore hostile or indifferent to the rest of mankind. But my reason for rejecting not only exaggerations of this idea but its fundamental implication is that it seems to me practically impossible. It connotes abilities upon the Jewish side, a continuous will upon the Jewish side, both of which are obviously absent. And you have only to look at history to see that long before things come to anything like a struggle for supremacy it is the Jew who suffers most from the suspicion of holding such a design, not we. Indeed, that is one of the important elements in the dangerous situation which has been created to-day.
+
+That large and greatly increasing body of men who so fear Jewish domination, and are vigorously reacting against the Jews under the influence of that fear, are much more likely to end with injustice to the Jew than with subservience to him. It is from this atmosphere that the great misfortunes of the past have arisen. It is of the essence of any solution that this mood should be exorcised upon the one side as upon the other.
+
+There is another theory which I have read of in more than one learned Jewish treatise and which has been repeated (after Jewish authors themselves had launched it) by many non-Jewish societies and historians, to the effect that the very survival of the Jews, their very existence as a separate community, was due to conditions common in the past, now disappeared, and that therefore the present difficulties can safely be left to time.
+
+This is, of course, to make the general assertion that the Jewish race can be absorbed, and that absorption is the solution. That conclusion I summarily rejected in the earlier pages of this book on the historical ground that it has had the most favourable circumstances for success and yet has always failed. But in the particular case stated it has an argument of its own and one needing very special examination: it is this: —
+
+Those who defend this theory tell us that however favourable the opportunities for absorption were in the past they are nothing to the opportunities of the present and the future, and that therefore the argument from history fails. In the past (they tell us) the Jews were exclusive and even made of their exclusiveness a religion. They on their side mixed as little as possible with the world around them and we on our side maintained that exclusion by an equal insistence upon the difference between ourselves and them. We had in those days, it is maintained, a religion based upon the Incarnation and therefore abhorrent to the Jew; that religion is dead or dying, and with it the tendency to exclusion from outside has disappeared; while on the Jewish side there is also a great weakening of the old religious bond, less of the old Messianic dogma, and on both sides the enormous melting-pot3 that makes for absorption with an intensity and rapidity quite unknown in the past. It was one thing to absorb the Jew when it took a month to go as an ordinary traveller from [[London]] to Rome, it is another thing when it takes three days. It was one thing to absorb the Jew when in the greater part of cases there was a bar to the mixing of the races, based upon the nerves of religion, it is quite another thing to absorb the Jew when those most powerful of emotional forces have disappeared — and so forth.

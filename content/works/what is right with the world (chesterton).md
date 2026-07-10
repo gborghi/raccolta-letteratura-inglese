@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/What_is_Right_With_the_World.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - concept/wonder_and_gratitude
@@ -67,8 +70,8 @@ tags:
 
 **Characters:** [[Beatrice]]
 
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Critique of Progress]], [[Paradox]], [[Joy]], [[Common Man]], [[Sin and the Fall]], [[Faith]], [[Natural Order]], [[Union]], [[Democracy]], [[Eastern Religion and Asceticism]], [[Paganism and Classical Revival]], [[Justice Right and Wrong]], [[Reform]], [[Order vs Chaos]], [[Labor and Work]], [[Distributism]], [[Conformity vs Individualism]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Critique of Progress]], [[Paradox]], [[Joy]], [[Common Man]], [[Sin and the Fall]], [[Faith]], [[Natural Order]], [[Union]], [[Democracy]], [[Eastern Religion and Asceticism]], [[Paganism and Classical Revival]], [[Justice Right and Wrong]], [[Reform]], [[Order vs Chaos]], [[Labor and Work]], [[Distributism]], [[Conformity vs Individualism]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

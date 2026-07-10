@@ -6,6 +6,7 @@ cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Poe/_raw/The Murders in the Rue Morgue.md
 tags:
   - graph/work
+  - setting/europe
   - author/Poe
   - concept/rationcination_detection
   - concept/appearance_vs_reality
@@ -61,7 +62,7 @@ tags:
 **Motifs:** [[Blood]], [[City]], [[Night]], [[Eyes and Sight]], [[Animals]]
 **Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Terror and Horror]], [[Identity]], [[Imagination]], [[Justice Right and Wrong]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Settings:** [[Paris]]
+**Settings:** [[Paris]], [[Europe]]
 **Characters:** [[C. Auguste Dupin]]
 
 ## Testo integrale / Full text

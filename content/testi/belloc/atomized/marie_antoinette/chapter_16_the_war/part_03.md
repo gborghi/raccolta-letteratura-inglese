@@ -1,0 +1,37 @@
+---
+title: "Marie Antoinette — Chapter 15: THE WAR (part 3)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/marie-antoinette-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/marie-antoinette-(belloc)">Marie Antoinette</a> › <a href="/testi/belloc/atomized/marie_antoinette/chapter_16_the_war">Chapter 16 THE WAR</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/marie_antoinette/chapter_16_the_war/part_02">‹ part 02</a><a class="ex-next" href="/testi/belloc/atomized/marie_antoinette/chapter_16_the_war/part_04">part 04 ›</a></div>
+</nav>
+
+
+I have repeatedly insisted in this book upon the inability of Marie Antoinette to perceive the French mind. As a young woman her misconception of her husband’s people dealt with no more than personalities, ladies’ maids, duchesses, and the rest. When Gaul moved, and when she began her attempt at power in 1787, along through the communal millioned action of the Revolution, this misconception became a strong creed, a vision, as it were. She saw the French people intensely active, cruel, cowardly, and unstable: much in them of the cat and the fox, nothing of the eagle. She perceived their great mobs and their sudden united actions — but these phenomena were to her sporadic; she saw them — she did not reason upon them nor argue from them some peculiar regimental talent in the populace; and if you had told her that these appearances of marching thousands were due to a power of organisation from below — a national aptitude for the machinery necessary to arms and to diplomacy — the words would have seemed to her simply meaningless. She could not so much as conceive humanity to be capable of organisation save by the direct action of a few placed above it.
+
+Of military qualities she understood nothing. She confused order, silence, and similarity of buttons with discipline. She had no conception of ferocity as the raw material of valour. Safe out of [[Paris]] she would without a moment’s hesitation have ordered the invasion, and she would have expected its successful issue in less than six weeks. Even in [[Paris]] she would have bargained to conquer with a “whiff of grape-shot” or some such rubbish; but in [[Paris]], without one regiment to hand and without regular artillery, she felt that the very bodies of her family were in peril from “monsters and from tigers” — the words are her own: hence only did she hesitate and demand an armed congress rather than an invasion. To that armed congress and its menace she had no doubt at all that the French would yield.
+
+A metaphor will explain the situation clearly. A human being, caught by some fierce animal but not yet mauled, appeals in a whisper to a comrade near by to load, and, if possible, by some demonstration of human force and of intelligent will to make the wild beast loose its hold; he begs that comrade to do nothing merely provocative lest the animal should rend him upon whom it has pounced: but, of course, that comrade is to fire at the first active gesture of attack the brute may deliver. Of the ultimate victory of his armed comrade the man in peril feels there can be no doubt at all; he only advises a particular caution on account of his own situation and impotence.
+
+Moreover, she was convinced, and says it in so many words, that the French would give way at once before the presence of a great and silent but determined force upon their frontier.
+
+So clear is the plan in her mind that she is bitterly impatient of the necessary caution and delay of diplomacy, and of the long process of negotiation whereby Berlin is brought into the agreement, the tergiversations of Madrid are discounted and the exact balance between desire for war and power to wage it are sounded. Here and there the peevishness of her early womanhood appears in the complaints she makes, almost as though she had been abandoned by her brother and his armies.
+
+At last, in February 1792, this long correspondence is ended. The French nation has, upon the whole, accepted, its young rhetoricians have enthusiastically acclaimed, the approach of war. She, true to her plan, proposes that her brother shall meet this growing enthusiasm by positive demands, definitely formulated, dealing with the internal affairs of the French people, proceeding from Vienna and demanding instant reply. We now know that she herself drafted these demands, and on the 16th of February Mercy writes to tell her that the Emperor will order the French Parliament to maintain the French Monarchy in its full rights and liberty, to withdraw the French armies from the frontier, to respect the imperial rights of the Alsatian feudatories; and that he will at once back up this ultimatum with an additional force, beyond that already gathering, of 40,000 men. She acknowledges the plan and confirms it. A fortnight later, upon the 1st of March, Mercy can give her the last great news: Prussia has formally consented to move, though demanding, of course, from the French Monarchy after its victory compensation for the cost of the campaign — which will surely be willingly accorded.
+
+It was on the 1st of March, I say, that this final news was written, when, as so continually chances throughout Marie Antoinette’s life, a special fate appears and intervenes.
+
+On the 1st of March the King of Prussia has agreed to march with Leopold, and all is ready for that armed demonstration which would, as she was convinced, calm this great storm about her. On that same day, the 1st of March, Leopold lay dead. Doctors assure us that he was not poisoned.
+
+Two things followed upon that death: first, the heir, her nephew, a sickly boy of twenty-four, now held in Vienna all the power that in those days accompanied a [[Crown]], and he in his weakness was now the master of the armies his father had summoned.
+
+Secondly, there must be a long delay for the business and the trapping of his election and his crowning.
+
+Her plan meanwhile had failed. It was to be not a silent threat of arms, but war. The French temper had taken Leopold’s command as a challenge. The ultimatum she had suggested or drafted was met by a total change in the Executive of [[France]]. Dumouriez was made the chief man in the new Ministry and was put personally in charge of Foreign Affairs. The guns were certainly ready. For ten days after Dumouriez’ nomination the Queen drew from him his designs; and on the tenth day wrote secretly to Mercy in cipher betraying the French plan of campaign upon the Meuse. Three days later the last of her friends who could command an army, the King of Sweden, stabbed a fortnight earlier, died; and on the 20th of April her husband, as “the Head of the French Executive,” read out in a firm voice a declaration of war against her nephew “the King of Hungary” — for he was not yet crowned Emperor. Having so read it in a firm voice he went back home, and Marie Antoinette and he must now bethink themselves how the madness of the Parisians, when the invasion should begin, might be fended off — at least from their own persons and from their heir, until their saviours should show the white Austrian uniforms in Paris and march the grotesque Prussian march within sight and hearing of the Tuileries. On the 30th of the month she advised Mercy that the first proclamation of the invaders had best be mild.

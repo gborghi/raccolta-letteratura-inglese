@@ -6,6 +6,9 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/meaning_of_the_crusade.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - histref/the_crusades
@@ -87,8 +90,8 @@ tags:
 **Topoi:** [[Quest]], [[Combat Strife]]
 **Archetypes:** [[Pilgrim]], [[Hero]], [[Rebel]], [[Common Man (2)]]
 **Motifs:** [[Cross]], [[Blood]], [[Fire]], [[Swords and Weapons]], [[Dust]], [[Light and Dark]], [[Garden]], [[Hill]], [[Wheel]], [[Journey]]
-**Themes & Concepts:** [[War and its Cost]], [[Heroism]], [[Martyrdom]], [[Faith]], [[Common Man]], [[Democracy]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Fanaticism]], [[Satire of Society]], [[Reason and Rationalism]], [[Popular Revolution]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[War and its Cost]], [[Heroism]], [[Martyrdom]], [[Faith]], [[Common Man]], [[Democracy]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Fanaticism]], [[Satire of Society]], [[Reason and Rationalism]], [[Popular Revolution]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Historical References:** [[Crusades]], [[Christianity]], [[French Revolution]], [[Islam]], [[First World War]], [[Dante]], [[Russian Revolution]]
 
 ## Testo integrale / Full text

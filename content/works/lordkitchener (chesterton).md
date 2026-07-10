@@ -6,6 +6,9 @@ cluster: Heroism · Hero · Last Stand
 source: Authors/Chesterton/_raw/LordKitchener.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/biography
   - concept/heroism
@@ -74,7 +77,7 @@ tags:
 
 ## Connections
 
-**Settings:** [[Egypt]], [[Desert]], [[Russia]], [[Battlefield]], [[Sea (2)]], [[Ship]], [[South Africa]]
+**Settings:** [[Egypt]], [[Desert]], [[Russia]], [[Battlefield]], [[Sea (2)]], [[Ship]], [[South Africa]], [[Europe]]
 
 **Topoi:** [[Last Stand]], [[Combat Strife]], [[Open Road Homecoming]], [[Night Journey Vision]]
 
@@ -82,8 +85,8 @@ tags:
 
 **Archetypes:** [[Hero]], [[Tragic Hero]], [[Avenger]], [[Prophet]], [[Martyr Saint]]
 **Motifs:** [[Sea]], [[Crown]], [[Machine]], [[Silence]], [[Drums and Bugles]], [[River]], [[Ship]], [[Light and Dark]], [[Blood]]
-**Themes & Concepts:** [[Heroism]], [[Honour]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Common Man]], [[Fanaticism]], [[Friendship]], [[Fate and Free Will]], [[Conversion]], [[Masculinity and the Male Code]], [[Self-Sacrifice]], [[Reconciliation]], [[Greatness]], [[Silence (2)]], [[Martyrdom]]
-**Forms & Genres:** [[Biography]], [[Sketch]], [[Elegy]]
+**Themes & Concepts:** [[Heroism]], [[Honour]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Common Man]], [[Fanaticism]], [[Friendship]], [[Fate and Free Will]], [[Conversion]], [[Masculinity and the Male Code]], [[Self-Sacrifice]], [[Reconciliation]], [[Greatness]], [[Silence (2)]], [[Martyrdom]], [[History]]
+**Forms & Genres:** [[Biography]], [[Sketch]], [[Elegy]], [[Nonfiction]]
 **Historical References:** [[First World War]], [[Islam and the East]], [[Crusades]], [[Irish Question]]
 
 ## Testo integrale / Full text

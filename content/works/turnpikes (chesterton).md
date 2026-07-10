@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/turnpikes.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/satire
@@ -53,8 +56,8 @@ tags:
 **Characters:** [[Pitt]], [[Dundas]]
 
 **Motifs:** [[Road]], [[Machine]]
-**Themes & Concepts:** [[Critique of Progress]], [[Anti-Industrialism]], [[Paradox]], [[Satire of Society]], [[Justice Right and Wrong]], [[Reform]], [[Social Injustice]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
+**Themes & Concepts:** [[Critique of Progress]], [[Anti-Industrialism]], [[Paradox]], [[Satire of Society]], [[Justice Right and Wrong]], [[Reform]], [[Social Injustice]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Nonfiction]]
 **Historical References:** [[Medieval England]], [[Dante]], [[Regency Georgian England]]
 
 ## Testo integrale / Full text

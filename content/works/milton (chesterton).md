@@ -6,6 +6,9 @@ cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Chesterton/_raw/Milton.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/literary_criticism
   - form/essay
@@ -55,8 +58,8 @@ tags:
 
 **Topoi:** [[Paradise Lost]]
 **Archetypes:** [[Satanic Figure]]
-**Themes & Concepts:** [[Pride]], [[Appearance vs Reality]], [[Democracy]], [[Liberty Political Freedom]], [[Fate and Free Will]], [[Class Conflict]], [[Power and Corruption]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]]
+**Themes & Concepts:** [[Pride]], [[Appearance vs Reality]], [[Democracy]], [[Liberty Political Freedom]], [[Fate and Free Will]], [[Class Conflict]], [[Power and Corruption]], [[Economics]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Puritanism]], [[Reformation]], [[French Revolution]], [[Calvinism]]
 **Characters:** [[Satan]], [[Milton]], [[Shakespeare]], [[Oliver Cromwell]]
 

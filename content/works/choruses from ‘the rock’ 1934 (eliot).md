@@ -6,6 +6,7 @@ cluster: City · London · Theatrum Mundi
 source: Authors/Eliot/_raw/057_CHORUSES_FROM_THE_ROCK_1934.md
 tags:
   - graph/work
+  - concept/economics
   - author/Eliot
   - concept/faith
   - concept/faith_and_doubt
@@ -34,7 +35,7 @@ tags:
 **Topoi:** [[Eternal Return]]
 **Archetypes:** [[Prophet]]
 **Motifs:** [[City]], [[Light and Dark]], [[Dust]], [[Bells]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Anti-Industrialism]], [[Critique of Progress]], [[Spiritual Emptiness]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Anti-Industrialism]], [[Critique of Progress]], [[Spiritual Emptiness]], [[Economics]]
 **Forms & Genres:** [[Free Verse]]
 **Historical References:** [[Christianity]], [[Bible]]
 **Settings:** [[London]]

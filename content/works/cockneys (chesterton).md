@@ -6,6 +6,8 @@ cluster: City · London · Theatrum Mundi
 source: Authors/Chesterton/_raw/cockneys.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - form/essay
   - concept/the_common_man
@@ -57,8 +59,8 @@ tags:
 
 **Archetypes:** [[Fool]]
 **Motifs:** [[City]], [[Inn Tavern]], [[Music and Song]]
-**Themes & Concepts:** [[Common Man]], [[Joy]], [[Nationalism and Patriotism]], [[Paradox]], [[Class Conflict]], [[Poverty]], [[Democracy]], [[Reform]], [[Grotesque]], [[Satire of Society]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Common Man]], [[Joy]], [[Nationalism and Patriotism]], [[Paradox]], [[Class Conflict]], [[Poverty]], [[Democracy]], [[Reform]], [[Grotesque]], [[Satire of Society]], [[Appearance vs Reality]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Settings:** [[London]]
 
 ## Testo integrale / Full text

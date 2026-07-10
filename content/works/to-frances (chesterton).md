@@ -6,6 +6,8 @@ cluster: Letters and Writing · Immortality Through Verse · Immortality of Art 
 source: Authors/Chesterton/_raw/to-frances.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
+  - form/nonfiction
   - author/Chesterton
   - concept/love_romantic
   - concept/wonder_and_gratitude
@@ -65,7 +67,7 @@ tags:
 
 **Historical References:** [[Bible]], [[Christianity]]
 
-**Forms & Genres:** [[Biography]]
+**Forms & Genres:** [[Biography]], [[Nonfiction]]
 
 **Archetypes:** [[Death Personified (2)]], [[Lover]], [[Fool]]
 
@@ -75,7 +77,7 @@ tags:
 
 **Characters:** [[Death Personified]], [[Frances Blogg]], [[Edmund Clerihew Bentley]], [[Lucian Oldershaw]], [[Mrs. Blogg]]
 
-**Motifs:** [[Letters and Writing]], [[Marriage]], [[Home]], [[Clothing and Costume]], [[Book Reading]], [[Fire]], [[Sea]]
+**Motifs:** [[Letters and Writing]], [[Marriage]], [[Home]], [[Clothing and Costume]], [[Book Reading]], [[Fire]], [[Sea]], [[Sea and Voyage]]
 **Themes & Concepts:** [[Romantic Love]], [[Wonder and Gratitude]], [[Mortality]], [[Marriage and Fidelity]], [[Death and Love]], [[Metamorphosis Transformation]], [[Imagination]], [[Friendship]]
 
 ## Testo integrale / Full text

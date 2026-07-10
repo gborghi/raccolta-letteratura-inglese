@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Coleridge/_raw/318_TO_A_VIRTUOUS_OECONOMIST_WERNICKE.md
 tags:
   - graph/work
+  - concept/economics
   - author/Coleridge
   - form/epigram
   - concept/poverty
@@ -22,7 +23,7 @@ tags:
 ## Connections
 
 **Motifs:** [[Money and Gold]]
-**Themes & Concepts:** [[Poverty]], [[Humility]], [[Money and Avarice]]
+**Themes & Concepts:** [[Poverty]], [[Humility]], [[Money and Avarice]], [[Economics]]
 **Forms & Genres:** [[Epigram]]
 
 ## Testo integrale / Full text

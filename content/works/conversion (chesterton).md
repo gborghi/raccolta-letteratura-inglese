@@ -6,6 +6,9 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/conversion.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - concept/conversion
   - histref/catholic_church
@@ -68,8 +71,8 @@ tags:
 
 **Topoi:** [[World Upside Down]], [[Journey of Life]]
 
-**Themes & Concepts:** [[Conversion]], [[Faith]], [[Faith and Doubt]], [[Truth]], [[Grace and Redemption]], [[Martyrdom]], [[Distributism]], [[Paganism and Classical Revival]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Freedom and Liberty]], [[Paradox]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Apologetics]], [[Essay]]
+**Themes & Concepts:** [[Conversion]], [[Faith]], [[Faith and Doubt]], [[Truth]], [[Grace and Redemption]], [[Martyrdom]], [[Distributism]], [[Paganism and Classical Revival]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Freedom and Liberty]], [[Paradox]], [[Appearance vs Reality]], [[Economics]], [[History]]
+**Forms & Genres:** [[Apologetics]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Catholic Church]], [[Christianity]], [[Ancient Rome]], [[Reformation]], [[Puritanism]], [[Romantic Movement (Sensibility)]], [[Renaissance]], [[First World War]], [[Dante]], [[John Henry Newman]], [[Pope Leo XIII]]
 
 ## Testo integrale / Full text

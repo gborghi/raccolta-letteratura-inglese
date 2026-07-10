@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Poe/_raw/A Tale of Jerusalem.md
 tags:
   - graph/work
+  - concept/history
   - author/Poe
   - concept/satire_of_society
   - concept/faith
@@ -35,7 +36,7 @@ tags:
 
 **Topoi:** [[World Upside Down]]
 **Motifs:** [[Lamb]], [[Money and Gold]], [[Fog and Smoke]]
-**Themes & Concepts:** [[Satire of Society]], [[Faith]], [[Appearance vs Reality]], [[Deception]], [[Grotesque]]
+**Themes & Concepts:** [[Satire of Society]], [[Faith]], [[Appearance vs Reality]], [[Deception]], [[Grotesque]], [[History]]
 **Forms & Genres:** [[Satire]], [[Short Story]]
 **Historical References:** [[Bible]], [[Roman History]], [[Ancient Rome]]
 

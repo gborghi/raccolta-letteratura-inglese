@@ -6,6 +6,8 @@ cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Chesterton/_raw/secret_Fr_Brown.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/history
   - author/Chesterton
   - form/detective_fiction
   - form/short_story
@@ -79,14 +81,14 @@ tags:
 
 **Historical References:** [[Catholic Church]], [[Christianity]], [[Bible]]
 
-**Settings:** [[Castle]], [[Rural England]], [[Spain]]
+**Settings:** [[Castle]], [[Rural England]], [[Spain]], [[Europe]]
 
 **Motifs:** [[Concealment Hidden Identity]], [[Mirror]], [[Gems Jewels]], [[Secrets]], [[Storm]]
 
 **Topoi:** [[Double]]
 
 **Archetypes:** [[Detective]], [[Villain]], [[Double Doppelganger]], [[Avenger]], [[Trickster]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Sin and the Fall]], [[Grace and Redemption]], [[Conscience]], [[Imagination]], [[Secrecy and Concealment]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Deception]], [[Identity]], [[Revenge]], [[Forgiveness]], [[Self-Deception]], [[Mesmerism]]
+**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Sin and the Fall]], [[Grace and Redemption]], [[Conscience]], [[Imagination]], [[Secrecy and Concealment]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Deception]], [[Identity]], [[Revenge]], [[Forgiveness]], [[Self-Deception]], [[Mesmerism]], [[History]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
 **Characters:** [[Father Brown]], [[Sherlock Holmes Homage]], [[Flambeau]], [[Grandison Chace]], [[Michael Moonshine]], [[John Bankes]], [[Sir Arthur Travers]], [[Mrs. Mandeville]], [[Marquis of Marne]], [[Hugo Romaine]], [[James Hardcastle]]
 

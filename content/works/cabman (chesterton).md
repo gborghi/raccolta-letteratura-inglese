@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/cabman.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - concept/doubt
@@ -53,7 +54,7 @@ tags:
 **Characters:** [[The Extraordinary Cabman]], [[H.G. Wells]]
 
 **Themes & Concepts:** [[Doubt]], [[Truth]], [[Appearance vs Reality]], [[Common Man]], [[Temptation]], [[Democracy]], [[Fate and Free Will]], [[Paradox]]
-**Forms & Genres:** [[Essay]], [[Parable]]
+**Forms & Genres:** [[Essay]], [[Parable]], [[Nonfiction]]
 **Settings:** [[London]]
 
 ## Testo integrale / Full text

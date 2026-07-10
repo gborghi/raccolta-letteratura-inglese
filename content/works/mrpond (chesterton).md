@@ -6,6 +6,8 @@ cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Chesterton/_raw/MrPond.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/history
   - author/Chesterton
   - form/detective_fiction
   - form/short_story
@@ -65,7 +67,7 @@ tags:
 
 **Historical References:** [[First World War]], [[Irish Question]], [[Puritanism]]
 
-**Settings:** [[London]], [[Scotland the Highlands]], [[Germany]], [[Rural England]]
+**Settings:** [[London]], [[Scotland the Highlands]], [[Germany]], [[Rural England]], [[Europe]]
 
 **Topoi:** [[All the World's a Stage]], [[Double]]
 
@@ -73,7 +75,7 @@ tags:
 
 **Archetypes:** [[Detective]], [[Fool]], [[Villain]], [[Corrupt Official]]
 **Motifs:** [[Death]], [[Blood]], [[Concealment Hidden Identity]], [[Swords and Weapons]], [[Garden]], [[Moon]]
-**Themes & Concepts:** [[Paradox]], [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Revenge]], [[Guilt]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Kingship and Legitimacy]], [[Self-Deception]], [[Fanaticism]], [[Power and Corruption]]
+**Themes & Concepts:** [[Paradox]], [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Revenge]], [[Guilt]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Kingship and Legitimacy]], [[Self-Deception]], [[Fanaticism]], [[Power and Corruption]], [[History]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Fairy Tale Fantasy]], [[Melodrama]]
 
 ## Testo integrale / Full text

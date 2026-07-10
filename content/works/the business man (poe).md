@@ -6,6 +6,7 @@ cluster: Money and Gold · Poverty · Imprisonment
 source: Authors/Poe/_raw/The Business Man.md
 tags:
   - graph/work
+  - concept/economics
   - author/Poe
   - concept/satire_of_society
   - concept/deception
@@ -43,7 +44,7 @@ tags:
 
 **Archetypes:** [[Self-Made Man]], [[Trickster]], [[Fool]]
 **Motifs:** [[Money and Gold]], [[City]]
-**Themes & Concepts:** [[Satire of Society]], [[Deception]], [[Appearance vs Reality]], [[Anti-Industrialism]]
+**Themes & Concepts:** [[Satire of Society]], [[Deception]], [[Appearance vs Reality]], [[Anti-Industrialism]], [[Economics]]
 **Forms & Genres:** [[Satire]], [[Short Story]]
 
 ## Testo integrale / Full text

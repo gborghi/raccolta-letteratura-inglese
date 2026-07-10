@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Chesterton/_raw/rotarians.md
 tags:
   - graph/work
+  - concept/economics
   - author/Chesterton
   - form/epigram
   - form/satire
@@ -43,7 +44,7 @@ tags:
 
 **Archetypes:** [[Martyr Saint]]
 **Motifs:** [[Wheel]], [[Money and Gold]]
-**Themes & Concepts:** [[Satire of Society]], [[Martyrdom]], [[Deception]], [[Power of Language]], [[Money and Avarice]]
+**Themes & Concepts:** [[Satire of Society]], [[Martyrdom]], [[Deception]], [[Power of Language]], [[Money and Avarice]], [[Economics]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 
 ## Testo integrale / Full text

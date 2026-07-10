@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/Social_Reform_BC.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - form/essay
   - concept/social_injustice
@@ -66,8 +68,8 @@ tags:
 **Characters:** [[Malthus]], [[Godwin]], [[Dean of St. Paul's]]
 
 **Motifs:** [[Marriage]], [[Home]]
-**Themes & Concepts:** [[Social Injustice]], [[Class Conflict]], [[Poverty]], [[Reform]], [[Power and Corruption]], [[Distributism]], [[Common Man]], [[Critique of Progress]], [[Money and Avarice]], [[Slavery]], [[Labor and Work]], [[Freedom]], [[Procreation]], [[Paradox]], [[Democracy]], [[Charity]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Themes & Concepts:** [[Social Injustice]], [[Class Conflict]], [[Poverty]], [[Reform]], [[Power and Corruption]], [[Distributism]], [[Common Man]], [[Critique of Progress]], [[Money and Avarice]], [[Slavery]], [[Labor and Work]], [[Freedom]], [[Procreation]], [[Paradox]], [[Democracy]], [[Charity]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

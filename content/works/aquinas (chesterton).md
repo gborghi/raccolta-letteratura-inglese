@@ -6,6 +6,10 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/aquinas.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/biography
   - form/apologetics
@@ -89,7 +93,7 @@ tags:
 
 ## Connections
 
-**Settings:** [[Italy]], [[Paris]], [[Castle]], [[Court]]
+**Settings:** [[Italy]], [[Paris]], [[Castle]], [[Court]], [[Europe]]
 
 **Motifs:** [[Fire]], [[Imprisonment (2)]], [[Book Reading]], [[Cross]]
 
@@ -98,8 +102,8 @@ tags:
 **Characters:** [[Christ]], [[Thomas Aquinas]], [[St. Francis of Assisi]], [[St. Dominic]], [[Frederick II]], [[Albertus Magnus]], [[St. Bonaventure]], [[Siger of Brabant]], [[St. Louis (King Louis IX of France)]], [[Martin Luther]], [[Aristotle]], [[Plato]]
 
 **Archetypes:** [[Wise Old Man Sage]], [[Martyr Saint]], [[Mentor]], [[Prophet]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Truth]], [[Wonder and Gratitude]], [[Sin and the Fall]], [[Grace and Redemption]], [[Humility]], [[Self-Knowledge]], [[Natural Order]], [[Critique of Progress]], [[Fate and Free Will]], [[Reconciliation]], [[Distributism]], [[Eastern Religion and Asceticism]], [[Poverty]], [[Conversion]], [[Order vs Chaos]], [[Being and Existence]]
-**Forms & Genres:** [[Biography]], [[Apologetics]], [[Essay]]
+**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Truth]], [[Wonder and Gratitude]], [[Sin and the Fall]], [[Grace and Redemption]], [[Humility]], [[Self-Knowledge]], [[Natural Order]], [[Critique of Progress]], [[Fate and Free Will]], [[Reconciliation]], [[Distributism]], [[Eastern Religion and Asceticism]], [[Poverty]], [[Conversion]], [[Order vs Chaos]], [[Being and Existence]], [[Economics]], [[History]]
+**Forms & Genres:** [[Biography]], [[Apologetics]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Catholic Church]], [[Reformation]], [[Classical Antiquity]], [[Medieval England]], [[Islam]], [[Inquisition]], [[Eastern Religion Comparative Religion]], [[Crusades]], [[Renaissance]]
 
 ## Testo integrale / Full text

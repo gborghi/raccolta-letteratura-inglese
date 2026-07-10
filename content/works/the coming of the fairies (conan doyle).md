@@ -6,6 +6,7 @@ cluster: Spiritualism · Faith and Doubt · The Afterlife
 source: Authors/Conan_Doyle/_raw/THE_COMING_OF_THE_FAIRIES.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Conan_Doyle
   - form/essay
   - concept/spiritualism
@@ -46,11 +47,11 @@ tags:
 - [Chapter 14](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_18)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-45.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">42.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">42.5</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">91.7</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-46.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">42.6</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">42.7</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">92</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
-**Forms & Genres:** [[Essay]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Themes & Concepts:** [[Spiritualism]], [[Faith and Doubt]], [[Wonder]], [[Deception]]
 **Motifs:** [[Supernatural]], [[Uncanny]], [[Nature]]
 **Settings:** [[Rural England]]

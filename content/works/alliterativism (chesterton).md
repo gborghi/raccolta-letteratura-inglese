@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Chesterton/_raw/alliterativism.md
 tags:
   - graph/work
+  - setting/europe
   - author/Chesterton
   - form/satire
   - form/parody
@@ -35,7 +36,7 @@ tags:
 
 ## Connections
 
-**Settings:** [[Germany]], [[Continental Europe (Brussels)]]
+**Settings:** [[Germany]], [[Continental Europe (Brussels)]], [[Europe]]
 
 **Topoi:** [[World Upside Down]]
 

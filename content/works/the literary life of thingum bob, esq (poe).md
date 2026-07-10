@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: 'Authors/Poe/_raw/The Literary Life of Thingum Bob, Esq.md'
 tags:
   - graph/work
+  - form/nonfiction
   - author/Poe
   - concept/satire_of_society
   - concept/the_artist_and_society
@@ -54,7 +55,7 @@ tags:
 **Archetypes:** [[Fool]], [[Trickster]]
 **Motifs:** [[Book Reading]], [[Letters and Writing]], [[Money and Gold]]
 **Themes & Concepts:** [[Satire of Society]], [[Artist and Society]], [[Pride]], [[Ambition]], [[Deception]], [[Appearance vs Reality]], [[Power and Corruption]]
-**Forms & Genres:** [[Satire]], [[Fictional Autobiography]], [[Parody]]
+**Forms & Genres:** [[Satire]], [[Fictional Autobiography]], [[Parody]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

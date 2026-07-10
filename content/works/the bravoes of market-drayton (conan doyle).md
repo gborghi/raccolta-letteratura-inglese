@@ -6,6 +6,8 @@ cluster: War and Empire · History · Nationalism and Patriotism
 source: Authors/Conan_Doyle/_raw/THE_BRAVOES_OF_MARKET-DRAYTON.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Conan_Doyle
   - form/essay
   - concept/crime_and_punishment
@@ -38,8 +40,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]]
-**Themes & Concepts:** [[Crime and Punishment]], [[Justice Right and Wrong]], [[Guilt]], [[Deception]], [[Poverty]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[Crime and Punishment]], [[Justice Right and Wrong]], [[Guilt]], [[Deception]], [[Poverty]], [[History]]
 **Motifs:** [[Blood]], [[Money and Gold]], [[Secrets]]
 **Historical References:** [[Victorian England]]
 **Settings:** [[Rural England]], [[London]]

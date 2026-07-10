@@ -6,6 +6,7 @@ cluster: World Upside Down · Comedy
 source: Authors/Shakespeare/_raw/001_The_Taming_of_the_Shrew.md
 tags:
   - graph/work
+  - setting/europe
   - author/Shakespeare
   - form/comedy
   - form/verse_drama
@@ -71,7 +72,7 @@ tags:
 **Themes & Concepts:** [[Marriage and Fidelity]], [[Romantic Love]], [[Appearance vs Reality]], [[Deception]], [[Identity]], [[Satire of Society]]
 **Forms & Genres:** [[Comedy]], [[Verse Drama]], [[Blank Verse]]
 **Historical References:** [[Elizabethan England]]
-**Settings:** [[Italy]]
+**Settings:** [[Italy]], [[Europe]]
 **Characters:** [[Katherina]], [[Petruchio]], [[Bianca]], [[Baptista]], [[Lucentio]], [[Tranio]], [[Grumio]], [[Hortensio]], [[Christopher Sly]]
 
 ## Testo integrale / Full text

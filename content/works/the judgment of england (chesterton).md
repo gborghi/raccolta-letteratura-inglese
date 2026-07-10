@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/The_Judgment_of_England.md
 tags:
   - graph/work
+  - concept/economics
   - author/Chesterton
   - form/epigram
   - form/lyric
@@ -41,7 +42,7 @@ tags:
 **Topoi:** [[World Upside Down]], [[Poet as Prophet]]
 
 **Motifs:** [[Money and Gold]], [[Decay]]
-**Themes & Concepts:** [[Social Injustice]], [[Anti-Industrialism]], [[Common Man]], [[Critique of Progress]], [[Apocalypse]], [[Greed and Money]]
+**Themes & Concepts:** [[Social Injustice]], [[Anti-Industrialism]], [[Common Man]], [[Critique of Progress]], [[Apocalypse]], [[Greed and Money]], [[Economics]]
 **Forms & Genres:** [[Epigram]], [[Lyric]], [[Satire]]
 **Historical References:** [[Industrial Revolution]], [[Oliver Goldsmith]]
 

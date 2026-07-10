@@ -6,6 +6,8 @@ cluster: War and Empire · History · Nationalism and Patriotism
 source: Authors/Conan_Doyle/_raw/GREAT_BRITAIN_AND_THE_NEXT_WAR.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Conan_Doyle
   - form/essay
   - concept/war_and_its_cost
@@ -31,6 +33,6 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]]
-**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Empire and Imperialism]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Empire and Imperialism]], [[History]]
 **Historical References:** [[Kaiser Wilhelm II]], [[First World War]], [[Napoleonic Wars the Navy]]

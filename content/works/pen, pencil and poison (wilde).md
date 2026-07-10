@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Wilde/_raw/025_Pen_Pencil_and_Poison.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Wilde
   - concept/the_artist_and_society
   - concept/beauty
@@ -49,7 +50,7 @@ tags:
 **Archetypes:** [[Villain]], [[Satanic Figure]], [[Outsider]]
 **Motifs:** [[Concealment Hidden Identity]], [[Death]], [[Money and Gold]], [[Letters and Writing]], [[Blood]]
 **Themes & Concepts:** [[Artist and Society]], [[Beauty]], [[Good vs Evil]], [[Paradox]], [[Guilt]], [[Revenge]], [[Terror and Horror]]
-**Forms & Genres:** [[Biography]], [[Essay]], [[Literary Criticism]]
+**Forms & Genres:** [[Biography]], [[Essay]], [[Literary Criticism]], [[Nonfiction]]
 **Historical References:** [[Regency Georgian England]], [[Romantic Movement (Sensibility)]]
 **Settings:** [[London]]
 

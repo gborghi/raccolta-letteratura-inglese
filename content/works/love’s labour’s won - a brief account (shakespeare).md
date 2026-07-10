@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Shakespeare/_raw/012_Loves_Labours_Won.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Shakespeare
   - form/literary_criticism
   - form/comedy
@@ -24,7 +25,7 @@ tags:
 
 **Motifs:** [[Book Reading]]
 **Themes & Concepts:** [[Romantic Love]], [[Marriage and Fidelity]], [[Artist and Society]]
-**Forms & Genres:** [[Literary Criticism]], [[Comedy]]
+**Forms & Genres:** [[Literary Criticism]], [[Comedy]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

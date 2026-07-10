@@ -6,6 +6,9 @@ cluster: Swords and Weapons · Power and Corruption · Tyrant
 source: Authors/Chesterton/_raw/TheAppOfTyranny.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - concept/war_and_its_cost
@@ -67,15 +70,15 @@ tags:
 
 ## Connections
 
-**Settings:** [[Germany]], [[Russia]], [[Italy]], [[Continental Europe (Brussels)]]
+**Settings:** [[Germany]], [[Russia]], [[Italy]], [[Continental Europe (Brussels)]], [[Europe]]
 
 **Motifs:** [[Swords and Weapons]], [[Flags and Banners]]
 
 **Topoi:** [[War as Glory]]
 
 **Archetypes:** [[Tyrant]], [[Villain]], [[Fool]]
-**Themes & Concepts:** [[War and its Cost]], [[Power and Corruption]], [[Order vs Chaos]], [[Nationalism and Patriotism]], [[Honour]], [[Liberty Political Freedom]], [[Democracy]], [[Deception]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Racial Supremacy and Pseudo-Science]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[War and its Cost]], [[Power and Corruption]], [[Order vs Chaos]], [[Nationalism and Patriotism]], [[Honour]], [[Liberty Political Freedom]], [[Democracy]], [[Deception]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Racial Supremacy and Pseudo-Science]], [[History]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Historical References:** [[First World War]], [[King Alfred]], [[Danish Invasions]], [[French Revolution]], [[Napoleonic Wars the Navy]], [[Islam and the East]], [[Roman History]], [[Renaissance]], [[Christianity]], [[Ancient Greece]], [[Bible]], [[Kaiser Wilhelm II]], [[Frederick the Great]], [[Friedrich Nietzsche]], [[Houston Stewart Chamberlain]], [[Michelangelo]]
 
 ## Testo integrale / Full text

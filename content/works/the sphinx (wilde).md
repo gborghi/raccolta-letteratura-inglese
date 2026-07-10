@@ -6,6 +6,7 @@ cluster: Greek Mythology · Lust Sexual Desire · Desire
 source: Authors/Wilde/_raw/030_The_Sphinx.md
 tags:
   - graph/work
+  - concept/history
   - author/Wilde
   - topos/immortality_through_verse
   - topos/memento_mori
@@ -48,7 +49,7 @@ tags:
 **Topoi:** [[Immortality Through Verse]], [[Memento Mori]], [[Sic Transit Gloria Mundi]], [[Ubi Sunt]]
 **Archetypes:** [[Femme Fatale]], [[Temptress]], [[Monster]]
 **Motifs:** [[Desire]], [[Night]], [[Moon]], [[Cross]], [[Ruins the Abbey]], [[Serpent Snake]], [[Supernatural]], [[Animals]]
-**Themes & Concepts:** [[Lust Sexual Desire]], [[Temptation]], [[Sin and the Fall]], [[Faith and Doubt]], [[Transience]], [[Grotesque]]
+**Themes & Concepts:** [[Lust Sexual Desire]], [[Temptation]], [[Sin and the Fall]], [[Faith and Doubt]], [[Transience]], [[Grotesque]], [[History]]
 **Forms & Genres:** [[Narrative Poem]], [[Dramatic Monologue]]
 **Historical References:** [[Greek Mythology]], [[Classical Antiquity]], [[Bible]]
 **Settings:** [[Egypt]], [[Orient]]

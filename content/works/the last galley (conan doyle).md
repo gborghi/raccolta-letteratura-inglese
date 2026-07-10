@@ -6,6 +6,8 @@ cluster: Historical Novel · War and its Cost · Honour and Chivalry
 source: Authors/Conan_Doyle/_raw/THE_LAST_GALLEY.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
+  - concept/history
   - author/Conan_Doyle
   - form/short_story
   - form/historical_novel
@@ -59,13 +61,13 @@ tags:
 - [THE TERROR OF BLUE JOHN GAP](/testi/conan_doyle/atomized/the_last_galley/story_18_the_terror_of_blue_john_gap)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">24</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">25.5</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">50.4</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">24.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">25.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">50.9</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
 **Forms & Genres:** [[Short Story]], [[Historical Novel]]
-**Themes & Concepts:** [[Empire and Imperialism]], [[War and its Cost]], [[Fate and Free Will]], [[Power and Corruption]], [[Faith and Doubt]], [[Justice Right and Wrong]]
-**Motifs:** [[Ship]], [[Sea]], [[Fire]], [[Blood]], [[Time]]
+**Themes & Concepts:** [[Empire and Imperialism]], [[War and its Cost]], [[Fate and Free Will]], [[Power and Corruption]], [[Faith and Doubt]], [[Justice Right and Wrong]], [[History]]
+**Motifs:** [[Ship]], [[Sea]], [[Fire]], [[Blood]], [[Time]], [[Sea and Voyage]]
 **Historical References:** [[Ancient Rome]], [[Roman History]], [[Carthage]], [[Christianity]]
 **Settings:** [[Ancient Rome]], [[Africa]]
 **Archetypes:** [[Tyrant]], [[Martyr Saint]], [[Avenger]]

@@ -6,6 +6,7 @@ cluster: Adventure Fiction · Empire and Imperialism · Peril and Survival
 source: Authors/Conan_Doyle/_raw/THE_ADVENTURES_OF_GERARD.md
 tags:
   - graph/work
+  - setting/europe
   - author/Conan_Doyle
   - form/adventure_fiction
   - form/short_story
@@ -45,7 +46,7 @@ tags:
 - [The Last Adventure of the Brigadier](/testi/conan_doyle/atomized/the_adventures_of_gerard/story_08_the_last_adventure_of_the_brigadier)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-19.8</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">33.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">37.3</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">23%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">70</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-20.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">33.5</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">37.4</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">23%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">70.3</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
@@ -53,7 +54,7 @@ tags:
 **Themes & Concepts:** [[Vanity]], [[Honour]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Satire of Society]]
 **Motifs:** [[Swords and Weapons]], [[Journey]], [[Prison]]
 **Historical References:** [[Napoleonic Wars the Navy]], [[Napoleon]]
-**Settings:** [[France]], [[Continental Europe (Brussels)]], [[Battlefield]]
+**Settings:** [[France]], [[Continental Europe (Brussels)]], [[Battlefield]], [[Europe]]
 **Characters:** [[Brigadier Gerard]], [[Napoleon Bonaparte]]
 **Archetypes:** [[Hero]], [[Fool]]
 **Topoi:** [[War as Glory]]

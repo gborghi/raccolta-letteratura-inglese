@@ -6,6 +6,7 @@ cluster: Paradox · Food and Feasting · Aphorism
 source: Authors/Chesterton/_raw/On_Abraham_Lincoln.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - concept/paradox
@@ -54,7 +55,7 @@ tags:
 
 **Archetypes:** [[Martyr Saint]], [[Self-Made Man]]
 **Themes & Concepts:** [[Paradox]], [[Heroism]], [[Truth]], [[Martyrdom]], [[Critique of Progress]], [[Vanity of Worldly Things]], [[Conformity vs Individualism]], [[Self-Reliance and Earned Success]]
-**Forms & Genres:** [[Essay]], [[Aphorism]]
+**Forms & Genres:** [[Essay]], [[Aphorism]], [[Nonfiction]]
 **Historical References:** [[American Civil War]], [[Puritanism]]
 **Characters:** [[Abraham Lincoln]], [[Ulysses S. Grant]]
 

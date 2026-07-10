@@ -6,6 +6,8 @@ cluster: War and Empire · History · Nationalism and Patriotism
 source: Authors/Conan_Doyle/_raw/THE_CASE_OF_MR_GEORGE_EDALJI.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Conan_Doyle
   - form/essay
   - concept/justice_right_and_wrong
@@ -39,12 +41,12 @@ tags:
 - [MR. WYNNE’S STATEMENT](/testi/conan_doyle/atomized/the_case_of_mr_george_edalji/story_07_mr_wynnes_statement)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">29.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.6</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">20%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">28.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.8</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18.9</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">21%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26.2</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
-**Forms & Genres:** [[Essay]]
-**Themes & Concepts:** [[Justice Right and Wrong]], [[Crime and Punishment]], [[Racial Supremacy and Pseudo-Science]], [[Ratiocination Detection]], [[Social Injustice]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[Justice Right and Wrong]], [[Crime and Punishment]], [[Racial Supremacy and Pseudo-Science]], [[Ratiocination Detection]], [[Social Injustice]], [[History]]
 **Motifs:** [[Letters and Writing]], [[Secrets]], [[Animals]]
 **Historical References:** [[Victorian England]]
 **Settings:** [[Rural England]], [[London]]

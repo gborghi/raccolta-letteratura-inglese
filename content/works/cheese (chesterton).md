@@ -6,6 +6,9 @@ cluster: Paradox · Food and Feasting · Aphorism
 source: Authors/Chesterton/_raw/cheese.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/satire
@@ -56,8 +59,8 @@ tags:
 
 **Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]], [[Paradise Lost]]
 **Motifs:** [[Food and Feasting]], [[Inn Tavern]], [[Bread and Wine Eucharist]], [[Journey]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Nature vs Civilization]], [[Distributism]], [[Paradox]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Nature vs Civilization]], [[Distributism]], [[Paradox]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 **Settings:** [[Rural England]], [[Industrial City]]
 
 ## Testo integrale / Full text

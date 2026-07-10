@@ -1,0 +1,33 @@
+---
+title: "The Cruise of the Nona (part 56)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/the-cruise-of-the-nona-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/the-cruise-of-the-nona-(belloc)">The Cruise of the Nona</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/the_cruise_of_the_nona/part/part_55">‹ part 55</a><a class="ex-next" href="/testi/belloc/atomized/the_cruise_of_the_nona/part/part_57">part 57 ›</a></div>
+</nav>
+
+
+To return to harbours.
+
+When Man became the master of Earth and supplanted Heaven - which was round about the middle of the last century - he bethought him of making great harbours where no harbour had been before, and of supplementing the few secure inlets of the sea. Cherbourg was the first of them, the French being here, as usual, in the vanguard of challenge. It was attempted even in the century before. There were rocks and islands to afford a foundation, then the great breakwater was flung like a bridge across them with a pass to the left and to the right. But though Cherbourg is secure enough, there can be a memorable swell when the [[Wind|wind]] is in a northerly point.
+
+Plymouth was, I think, the next, and serves its purpose, but it does not wholly check the violence of a southerly [[Wind|wind]].
+
+Did not this same harbour of Portland come third? At any rate, it is the one complete success. It has caught an angle and the defences have been made sure. It is deep, yet not too deep, and no gale alarms it. What Nature built up in the Chesil Beach protects it from the main gale, and the land so curls round that no weight of [[Wind|wind]] and sea can strike it from the north-eastern side; and even from the south-east the Shambles are a sort of protection. Moreover, the entrances are not endangered by the make of the tide, nor, I believe, do they silt. The southern one was blocked during the War by the sinking of a [[Ship|ship]]; but even so, the great harbour is an easy refuge and a wonderful good gift for sailing men. But when people thought that, on the model of this, they could continue indefinitely, they were disappointed: yes, even in the tideless Mediterranean. We shall see whether Tangiers, standing outside and subject to the ceaseless strength of ocean, will succeed or no. But for the rest, the natural harbour still holds the field, and anyone would rather have the roads of Corfu, or the inland water behind the Wight, than anything man ever made.
+
+I wonder sometimes whether the Roman Empire did not attempt the same sort of thing. If it did, all the traces have gone. There are great Roman roads, which comes down now right on to open shores: that one, for instance, which I spoke of running through Pembrokeshire and striking the sea just above that narrow torrent of a tideway between Ramsey Island and the mainland. I thought when I first came across this strange ending of a great road, I thought, fantastically enough, what a fine harbour this narrow passage would have made had men of old blocked it on its northern entry. Then you would have had a good quiet inlet, many fathom deep, looking into the sheltered water of St Bride’s Bay and quite secure. I half persuaded myself that the lords of the world, from whom we inherit all that we have and are, did so block that northern entry, and did so create a harbour. But it was a nightmare guess not fit for the waking brain, for if they had built a wall between the Welsh mainland and the island, surely some traces would have remained, and there is nothing whatsoever. Yet why does that great road end so astonishingly today, (and so many centuries past), upon an impossible coast, whence nothing could be shipped? The Pedlar’s Way through Norfolk, ending as abruptly on a coast some way from the harbour of Brancaster (itself now eaten away), may be explained by the disappearance of some former shelter engulfed by the sea, as Dunwich has been engulfed; or worn down as the natural breakwaters of Hastings were worn down under the influence of the waves. But I must confess that St David’s Road, ending’ sharply on that wild shore, puzzles me. The Lead Road of the Mendips comes down to where there is no harbour today. All the other Roman roads which I can call to mind in the island, and which reach the sea, reach it at a port, or at a ferry, or what was once a port or a ferry. But this St David’s road remains inexplicable.
+
+It is a strange thing, beyond the average of chance, that so very few deep land-locked harbours should be of service to mankind. One hears it said sometimes that the number is small in any case. This is not so. The number is not small, though ill-distributed: it is exceedingly large. The whole Dalmatian coast is made up of a mass of such shelters. The Fjords of Scandinavia are a wealth of the same, and the Arctic abounds in them. But there seems a perverse arrangement whereby the deep harbours and secure have nothing inland to serve while endless stretches of coastline are to be found all over the world, with much for export, but to which, in the same most exasperating manner, harbours have been refused.
+
+Africa is quite astonishing in this. There are not four natural landlocked harbours, I believe, in the whole line of coast from Alexandria round by Barbary and the West, up from the Cape to the head of the Red Sea. The most that man can do is to use the shelter of islands, or the curl of a headland, or here and there a small and insufficient recess, or the mouth of a river. The French have made their small harbours in Northern Africa artificially, and Alexandria is artificial. The few openings which, serve Morocco are very ill-provided, Rabat almost dries out at low tide, so does Laraiche, that charming little Spanish, clearly, port, which I hope the coming perils will spare.
+
+All down the Adriatic coast of Italy there is nothing between the thigh and the heel, since Ravenna dried away. Ancona is only a curl of headland, and Bari means very little. Brindisi is ideal, and Taranto must have been exactly what antiquity needed, shallower than, but as secure as, Cadiz. But for the rest, all the eastern shelf of Italy, and the heel of the boat, is without a base on the sea.
+
+Unwisely, pedantically, but much more hypocritically, the less-exhausted countries, who were for the moment the masters of the settlement, refused the Dalmatian coast to Italy after the War. I trust that the force of things and the new vigour of the Italian people and the now increasing embarrassments of what is Puritan and base in Europe will, before I die, repair the error.

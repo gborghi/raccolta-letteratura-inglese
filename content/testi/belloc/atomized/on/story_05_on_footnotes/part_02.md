@@ -1,0 +1,31 @@
+---
+title: "On — ON FOOTNOTES (part 2)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/on-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/on-(belloc)">On</a> › <a href="/testi/belloc/atomized/on/story_05_on_footnotes">Story 05 ON FOOTNOTES</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/on/story_05_on_footnotes/part_01">‹ part 01</a><a class="ex-next" href="/testi/belloc/atomized/on/story_09_on_the_cathedral_of_seville_and_the_misa/part_01">part 01 ›</a></div>
+</nav>
+
+
+The late Mr. Andrew Lang used to say that the writer who writes under the pseudonym of “Anatole France” must have had his footnotes for his Life of Joan of Arc done by contract. The idea opens up a wide horizon. A man of name would sit down to write a general history of something of which he had a smattering, and would then turn it over to a poor man who would hack for him in the British Museum and find references — and they could always be found — for pretty well any statement he had chosen to make.
+
+At any rate, in this particular case of Anatole France’s Joan of Arc, Andrew Lang amply proved that the writer had never read his original authorities, though he quoted them in heaps.
+
+And that reminds me of another footnote vice (the subject is a perfect jungle of vices!), which is the habit of copying other people’s footnotes. I did it myself when I was young; I was lured into it by Oxford and I ask pardon of God and man. It is very common, and a little ingenuity will hide one’s tracks. A learned man who was also civilised and ironical — but much too sparing in wine — told me once this amusing story.
+
+He was reading up an economic question, and he found himself perpetually referred to a pamphlet of the late seventeenth century wherein was a certain economic statement upon the point of his research. Book after book referred him to this supposed statement, but he being, as I have said, a learned, civilised, and ironical man (though too sparing in wine) concluded from his general knowledge — and very few learned men have general knowledge — that, in the words of the Old Kent Road murderer, “There must be some mistake.” He couldn’t believe any seventeenth-century pamphlet had said what this oft-quoted pamphlet was made responsible for.
+
+He proceeded to look up the pamphlet, the references to which followed him about like a dog through all his research. He found there were two copies — and only two. One was in a certain public library, the other in a rich man’s house. The public library was far off, and the rich man was nearer by — an hour’s journey in the train. So he wrote to the rich man and asked him whether he might look at this pamphlet in the library which his ancestors had accumulated, but to which the rich man had added nothing, being indeed indifferent to reading and writing. The rich man very politely answered that his library had unfortunately been burnt down, and that the pamphlet had been burnt with it. Whereupon the learned man was at the pains of taking a long journey to consult the copy kept in the public library. He discovered two things: (a) that the copy had never been used at all — it was uncut; (b) that the references always given had hardly any relation to the actual text. Then did he, as is the habit of all really learned people, go and waste a universe of energy in working out the textual criticism of the corruption, and he proved that the last time any one had, with his own eyes, really seen that particular passage, instead of merely pretending that he had seen it, was in the year 1738 — far too long ago! Ever since then the reference had been first corrupted and then copied and recopied its corrupted form by the University charlatans.
+
+But I myself have had a similar experience (as the silent man said when his host had described at enormous length his adventure with the tiger). I was pursued for years by a monstrous piece of nonsense about some Papal Bull forbidding chemical research: and the footnote followed that lie. It was from Avignon that the thing was supposed to have come. It seemed to me about as probable as that Napoleon the Third should have forbidden the polka. At last — God knows how unwillingly! — I looked the original Bull up in the big collection printed at Lyons. It was as I had suspected. The Bull had nothing whatever to do with chemical experiments. It said not a word against the honest man who produces a poison or an explosive mixture to the greater happiness of the race. It left the whole world free to pour one colourless liquid into another colourless liquid and astonish the polytechnic with their fumes. What it did say was that if anybody went about collecting lead and brass under the promise of secretly turning them into silver and gold, that man was a liar and must pay a huge fine, and that those whom he had gulled must have their metal restored to them — which seems sound enough.
+
+Here you will say to me what is said to every reformer: “What would you put in its place if you killed the little footnote, all so delicate and compact? How could you replace it? How can we know that the historian is telling the truth unless he gives us his references? It is true that it prevents history from being properly written and makes it, to-day, unreadable. It is true that it has become charlatan and therefore historically almost useless. But you must have some guarantee of original authority. How will you make sure of it?”
+
+I should answer, let a man put his footnotes in very small print indeed at the end of a volume, and, if necessary, let him give specimens rather than a complete list. For instance, let a man who writes history as it should be written — with all the physical details in evidence, the weather, the dress, colours, everything — write on for the pleasure of his reader and not for his critic. But let him take sections here and there, and in an appendix show the critic how it is being done. Let him keep his notes and challenge criticism. I think he will be secure. He will not be secure from the anger of those who cannot write clearly, let alone vividly, and who have never in their lives been able to resurrect the past, but he will be secure from their destructive effect.

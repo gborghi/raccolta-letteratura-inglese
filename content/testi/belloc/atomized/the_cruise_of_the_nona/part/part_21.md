@@ -1,0 +1,35 @@
+---
+title: "The Cruise of the Nona (part 21)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/the-cruise-of-the-nona-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/the-cruise-of-the-nona-(belloc)">The Cruise of the Nona</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/the_cruise_of_the_nona/part/part_20">‹ part 20</a><a class="ex-next" href="/testi/belloc/atomized/the_cruise_of_the_nona/part/part_22">part 22 ›</a></div>
+</nav>
+
+
+When they had played this farce with us long enough, the Powers halted the sea, as is their fashion every six hours, and we found ourselves close aboard a large ketch which lay at anchor off that Skomer shore. There was one man upon the deck, smoking a pipe and keeping his mind empty, as is the duty of all mortals in such few intervals of leisure as heaven affords us. He bade us not knock into him, and we called out to him (but not very loud, for we were at a familiar cast of but few yards) that if we came too close aboard we would shove off and do him no harm. We asked him who he was and where he was going. He did not tell us who he was, but he told us where he was going, which was to Cork, and what he had on board, which was a cargo of coal.
+
+The lazy sun, half-way down the sky, looked indifferently upon us; the quite smooth sea turned again in its perpetual come and go, and took us slowly back in so many hours, till we found ourselves again by evening where we had started, at the mouth of Jack Sound. What this current or tide movement was which had thus taken us nearly round Skomer and back again, I know not, but it was a journey that cost nothing, and, tedious as it was, we had at least learned another few miles of shore. It seemed, however, all of a set purpose, for the [[Wind|wind]] now blew again lightly but steadily from the north-east.
+
+The ebb was well on its way, and we could point through Jack Sound, and hope to be in Milford Haven, round St Anne’s Head, before the late darkness of this day in early June.
+
+So did we enter that passage.
+
+Jack Sound in that evening light was a repetition of Ramsey, only more violent, for we were more in the full roar of the ebb. There was the same rush as of a millrace, the same cataracts of falling water over the landward rocks. We came out of it with the setting sun glorious upon our starboard quarter, and ran quickly for the end of Skokholm - another Scandinavian name - sure (in that steady breeze) of rounding St Anne’s Head easily before darkness, and dropping anchor in some cove of Milford Haven.
+
+But nothing is ever certain at sea. We were, perhaps, a mile from the Head when there rolled up with astonishing rapidity from out the main ocean a solid bank of cloud, sweeping the level of the sea. I say cloud rather than fog, because it was so solid and so dark. It caught us like a cloak thrown over a man’s head; and, before we knew where we were, we found ourselves steering hopelessly by the card, not daring to keep too much out, lest we should lose the mouth of the haven; not daring to keep too much in, lest we should strike: and nothing to prevent that but listening anxiously to the great fog-blast, which was now hooting regularly in its panic from the height of the headland.
+
+What followed for nearly two hours was such an adventure as only wretched amateurs would indulge in, and amateurs in a craft which did not draw more than six feet of water. The [[Wind|wind]], such as it was, had dropped, of course, with the fog. It gave us only enough way to creep eastward before it; and what we proposed to do was so to feel our way in the fading light through that dense mist until we should hear the slight surge of water upon the rocks of the haven mouth to port, that is, on the north side of the haven entry. I had a large plan aboard, and I knew that there was water close up to the shore, and that it was plain enough going, with nothing hidden beneath the surface. So we gingerly put her head slightly round, when we made out the mournful menace of the fog-horn to have come just aft of the beam; my companion took the helm, and I went forward with the lead, and also to call out to him to put the helm up whenever that might be made necessary by our getting too close. We faintly heard already the slight wash of the gently heaving water, and I saw, some few yards off the bow, little gleams of white through the mist, which were the foam sliding from the rock surfaces, as we slipped by. The Nona’s movement was so very slight that even if she had struck a glancing blow, nothing that was not jagged would have harmed her greatly; but we were preserved and did not touch.
+
+We had this further good fortune, that, just as it grew quite dark, the sound of the slight surge to leeward receded and disappeared so that we knew we had turned the headland and opened the first bay of that long inland arm of the sea. Our chart showed us good depth and good holding ground, and a good berth for the night granted that there should be no other craft about. We heard none such through the fog; no voices, no swinging spars, no movement at all. So when we had got well into the bight, we dropped anchor; trusting to luck that, as she swung to her chain, she would not strike shoal ground nor anything near. Had we still had the dinghy I would have gone out and explored, and made certain and risked my chance of getting back aboard through the mist, but, having no dinghy, we had to take things as they were, and these seemed secure enough, for we were well out of the fairway. The first of the night was interrupted by that perpetual call of the great horn upon the headland, but before midnight the fog lifted, the sound ceased, and a profound silence fell upon the sea and the land. We had also the comfort of seeing that we had plenty of room to swing, with the shore perhaps a quarter of a mile away.
+
+That night as I fell asleep I designed the second and third verses of the ‘Chaunty of the Nona’.
+
+The next morning we found, following the flood up the Haven, a very slight breeze from the west and north, not enough to allow us to beat up against the current; so we passed the time till the beginning of the ebb, or rather till the flood should slacken, sailing slowly up that long fiord, Milford Haven, of which one reads so much in history, but which today, having no industrial hinterland, has half dropped out of men’s memories. Two evils of the past are rooted in its landscape, for it was here that the first Tudor claimant, ‘the foul usurper, Henry Tydder’, landed with his French mercenaries to try for the Crown, which he grasped in two weeks on Bosworth Field. And it was hence that the transports sailed for the Puritan orgy of lust, loot, and massacre in Ireland under Cromwell’s leadership. I wondered as I cruised about, watching the shores and the little town near by, what further fate Milford Haven might hold for England. Things go by threes - especially evils - what will the third curse arising from this inlet be?

@@ -6,6 +6,10 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/As_I_Was_Saying.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/satire
@@ -94,7 +98,7 @@ tags:
 
 ## Connections
 
-**Settings:** [[London]], [[Italy]]
+**Settings:** [[London]], [[Italy]], [[Europe]]
 
 **Motifs:** [[Machine]], [[Clock]]
 
@@ -102,8 +106,8 @@ tags:
 
 **Characters:** [[Lady Macbeth]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Paradox]], [[Education]], [[Nostalgia]], [[Transience]], [[Democracy]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Distributism]], [[Power and Corruption]], [[Mortality]], [[Money and Avarice]], [[Labor and Work]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Paradox]], [[Education]], [[Nostalgia]], [[Transience]], [[Democracy]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Distributism]], [[Power and Corruption]], [[Mortality]], [[Money and Avarice]], [[Labor and Work]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Puritanism]], [[Voltaire]], [[Frederick the Great]], [[Samuel Taylor Coleridge]], [[George Meredith]], [[William Morris]], [[Darwinism]]
 
 ## Testo integrale / Full text

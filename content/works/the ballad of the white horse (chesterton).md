@@ -6,6 +6,8 @@ cluster: Heroism · Hero · Last Stand
 source: Authors/Chesterton/_raw/The_Ballad_of_the_White_Horse.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
+  - concept/history
   - author/Chesterton
   - concept/faith
   - concept/heroism
@@ -78,8 +80,8 @@ tags:
 
 **Topoi:** [[Last Stand]], [[War as Glory]], [[Quest]]
 **Archetypes:** [[King]], [[Hero]], [[Villain]], [[Great Mother]]
-**Motifs:** [[Horse]], [[Swords and Weapons]], [[Supernatural]], [[Blood]], [[Battlefield (2)]], [[Fire]], [[Sea]], [[Music and Song]], [[Flags and Banners]], [[Concealment Hidden Identity]]
-**Themes & Concepts:** [[Faith]], [[Heroism]], [[War and its Cost]], [[Good vs Evil]], [[Nationalism and Patriotism]], [[Honour]], [[Fate and Free Will]], [[Grace and Redemption]], [[Hope]], [[Conversion]]
+**Motifs:** [[Horse]], [[Swords and Weapons]], [[Supernatural]], [[Blood]], [[Battlefield (2)]], [[Fire]], [[Sea]], [[Music and Song]], [[Flags and Banners]], [[Concealment Hidden Identity]], [[Sea and Voyage]]
+**Themes & Concepts:** [[Faith]], [[Heroism]], [[War and its Cost]], [[Good vs Evil]], [[Nationalism and Patriotism]], [[Honour]], [[Fate and Free Will]], [[Grace and Redemption]], [[Hope]], [[Conversion]], [[History]]
 **Forms & Genres:** [[Epic]], [[Ballad Ballade]], [[Narrative Poem]]
 **Historical References:** [[King Alfred]], [[Battle of Ethandun]], [[Danish Invasions]], [[Christianity]], [[Norse Pagan Myth]], [[Medieval England]]
 **Settings:** [[Battlefield]], [[Rural England]]

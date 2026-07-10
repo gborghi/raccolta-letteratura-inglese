@@ -1,0 +1,34 @@
+---
+title: "Introduction to ‘The Footpath Way: An Anthology for Walkers’ (part 1)"
+author: "Belloc"
+unitType: excerpt
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · Introduction to The Footpath Way An Anthology for</div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/belloc/atomized/introduction_to_the_footpath_way_an_anthology_for/part/part_02">part 02 ›</a></div>
+</nav>
+
+
+INTRODUCTION BY [[Hilaire Belloc|HILAIRE BELLOC]]
+
+SO LONG AS man does not bother about what he is or whence he came or whither he is going, the whole thing seems as simple as the verb “to be”; and you may say that the moment he does begin thinking about what he is (which is more than thinking that he is) and whence he came and whither he is going, he gets on to a lot of roads that lead nowhere, and that spread like the fingers of a hand or the sticks of a fan; so that if he pursues two or more of them he soon gets beyond his straddle, and if he pursues only one he gets farther and farther from the rest of all knowledge as he proceeds. You may say that and it will be true. But there is one kind of knowledge a man does get when he thinks about what he is, whence he came and whither he is going, which is this: that it is the only important question he can ask himself.
+
+Now the moment a man begins asking himself those questions (and all men begin at some time or another if you give them rope enough) man finds himself a very puzzling fellow. There was a school — it can hardly be called a school of philosophy — and it is now as dead as mutton, but anyhow there was a school which explained the business in the very simple method known to the learned as tautology — that is, saying the same thing over and over again. For just as the woman in Molière was dumb because she was affected with the quality of dumbness, so man, according to this school, did all the extraordinary things he does do because he had developed in that way. They took in a lot of people while they were alive (I believe a few of the very old ones still survive), they took in nobody more than themselves; but they have not taken in any of the younger generation. We who come after these scientists continue to ask ourselves the old question, and if there is no finding of an answer to it, so much the worse; for asking it, every instinct of our nature tells us, is the proper curiosity of man.
+
+Of the great many things which man does which he should not do or need not do, if he were wholly explained by the verb “to be,” you may count walking. Of course if you build up a long series of guesses as to the steps by which he learnt to walk, and call that an explanation, there is no more to be said. It is as though I were to ask you why Mr Smith went to Liverpool, and you were to answer by giving me a list of all the stations between Euston and Lime Street, in their exact order. At least that is what it would be like if your guesses were accurate, not only in their statement, but also in their proportion, and also in their order. It is millions to one that your guesses are nothing of the kind. But even granted by a miracle that you have got them all quite right (which is more than the wildest fanatic would grant to the dearest of his geologians) it tells me nothing.
+
+What on earth persuaded the animal to go on like that? Or was it nothing on earth but something in heaven?
+
+Just watch a man walking, if he is a proper man, and see the business of it: how he expresses his pride, or his determination, or his tenacity, or his curiosity, or perhaps his very purpose in his stride! Well, all that business of walking that you are looking at is a piece of extraordinarily skilful trick-acting, such that were the animal not known to do it you would swear he could never be trained to it by any process, however lengthy, or however minute, or however strict. This is what happens when a man walks: first of all he is in stable equilibrium, though the arc of stability is minute. If he stands with his feet well apart, his centre of gravity (which is about half way up him or a little more) may oscillate within an arc of about five degrees on either side of stability and tend to return to rest. But if it oscillates beyond that five degrees or so, the stability of his equilibrium is lost, and down he comes. Men have been known to sleep standing up without a support, especially on military service, which is the most fatiguing thing in the world; but it is extremely rare, and you may say of a man so standing, even with his feet well spread, that he is already doing a fine athletic feat.
+
+But wait a moment: he desires to go, to proceed, to reach a distant point, and instead of going on all fours, where equilibrium would indeed be stable, what does he do? He deliberately lifts one of his supports off the ground, and sends his equilibrium to the devil; at the same time he leans a little forward so as to make himself fall towards the object he desires to attain. You do not know that he does this, but that is because you are a man and your ignorance of it is like the ignorance in which so many really healthy people stand to religion, or the ignorance of a child who thinks his family established for ever in comfort, wealth and security. What you really do, man, when you want to get to that distant place (and let this be a parable of all adventure and of all desire) is to take an enormous risk, the risk of coming down bang and breaking something: you lift one foot off the ground, and, as though that were not enough, you deliberately throw your centre of gravity forward so that you begin to fall.
+
+That is the first act of the comedy.
+
+The second act is that you check your fall by bringing the foot which you had swung into the air down upon the ground again.
+
+That you would say was enough of a bout. Slide the other foot up, take a rest, get your breath again and glory in your feat. But not a bit of it! The moment you have got that loose foot of yours firm on the earth, you use the impetus of your first tumble to begin another one. You get your centre of gravity by the momentum of your going well forward of the foot that has found the ground, you lift the other foot without a care, you let it swing in the fashion of a pendulum, and you check your second fall in the same manner as you checked your first; and even after that second clever little success you do not bring your feet both firmly to the ground to recover yourself before the next venture: you go on with the business, get your centre of gravity forward of the foot that is now on the ground, swinging the other beyond it like a pendulum, stopping your third catastrophe, and so on; and you have come to do all this so that you think it the most natural thing in the world!

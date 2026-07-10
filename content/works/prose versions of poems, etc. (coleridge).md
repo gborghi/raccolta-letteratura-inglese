@@ -6,6 +6,7 @@ cluster: Imagination · Fragment · Heroic Couplet
 source: Authors/Coleridge/_raw/416_PROSE_VERSIONS_OF_POEMS_ETC.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Coleridge
   - form/essay
   - concept/imagination
@@ -31,7 +32,7 @@ tags:
 **Topoi:** [[Poet as Prophet]]
 **Motifs:** [[Mirror]], [[Sun]], [[Birds]], [[Seasons]]
 **Themes & Concepts:** [[Imagination]], [[Romantic Love]], [[Melancholy]]
-**Forms & Genres:** [[Essay]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

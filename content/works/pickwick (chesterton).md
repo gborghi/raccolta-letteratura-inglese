@@ -6,6 +6,8 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Pickwick.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/literary_criticism
   - form/essay
@@ -54,8 +56,8 @@ tags:
 
 **Historical References:** [[Puritanism]], [[Medieval England]], [[Regency Georgian England]]
 
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Friendship]], [[Joy]], [[Common Man]], [[Charity]], [[Comradeship]], [[Freedom and Liberty]], [[Nostalgia]], [[Tolerance]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Friendship]], [[Joy]], [[Common Man]], [[Charity]], [[Comradeship]], [[Freedom and Liberty]], [[Nostalgia]], [[Tolerance]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Nonfiction]]
 **Characters:** [[Falstaff]], [[Samuel Pickwick]], [[Nathaniel Winkle]], [[Tony Weller]], [[Robin Hood]], [[Fagin]], [[Mr. Stiggins]], [[Friar Tuck]], [[Wife of Bath]]
 
 ## Testo integrale / Full text

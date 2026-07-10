@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/midsummer_nights_dream.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/literary_criticism
   - form/essay
@@ -58,7 +59,7 @@ tags:
 **Archetypes:** [[Fool]], [[Trickster]]
 **Motifs:** [[Dreams]], [[Supernatural]], [[Fog and Smoke]], [[Night]]
 **Themes & Concepts:** [[Joy]], [[Imagination]], [[Appearance vs Reality]], [[Greatness]], [[Common Man]], [[Nationalism and Patriotism]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Comedy]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Comedy]], [[Nonfiction]]
 **Historical References:** [[Elizabethan England]], [[Puritanism]]
 **Settings:** [[Enchanted Wood (2)]], [[Medieval England (2)]], [[Rural England]]
 **Characters:** [[Hamlet]], [[Bottom]], [[Puck]], [[Theseus]]

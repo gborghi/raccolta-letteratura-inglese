@@ -6,6 +6,8 @@ cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: Authors/Chesterton/_raw/heret12.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - concept/faith
   - concept/humility
@@ -82,8 +84,8 @@ tags:
 
 **Topoi:** [[Golden Age]], [[Paradise Lost]]
 **Motifs:** [[Stars]], [[Wine and Drink]], [[Clothing and Costume]], [[Bread and Wine Eucharist]]
-**Themes & Concepts:** [[Faith]], [[Humility]], [[Paradox]], [[Pride]], [[Original Sin]], [[Grace and Redemption]], [[Critique of Progress]], [[Paganism and Classical Revival]], [[Nationalism and Patriotism]], [[Artist and Society]], [[Democracy]], [[Family]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Literary Criticism]], [[Satire]]
+**Themes & Concepts:** [[Faith]], [[Humility]], [[Paradox]], [[Pride]], [[Original Sin]], [[Grace and Redemption]], [[Critique of Progress]], [[Paganism and Classical Revival]], [[Nationalism and Patriotism]], [[Artist and Society]], [[Democracy]], [[Family]], [[History]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Literary Criticism]], [[Satire]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Classical Antiquity]], [[Irish Question]]
 **Characters:** [[Odysseus Ulysses]], [[Rudyard Kipling]], [[Bernard Shaw]], [[H. G. Wells]], [[George Moore]], [[Lowes Dickinson]], [[McCabe]], [[Whistler]], [[Omar Khayyam]]
 

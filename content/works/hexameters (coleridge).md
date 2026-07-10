@@ -6,6 +6,7 @@ cluster: Melancholy · Suffering · Pain and Suffering
 source: Authors/Coleridge/_raw/161_HEXAMETERS.md
 tags:
   - graph/work
+  - setting/europe
   - author/Coleridge
   - form/hexameter_verse
   - form/verse_epistle
@@ -26,7 +27,7 @@ tags:
 **Motifs:** [[Eyes and Sight]]
 **Themes & Concepts:** [[Grief and Loss]], [[Melancholy]], [[Exile]]
 **Forms & Genres:** [[Hexameter Verse]], [[Verse Epistle]]
-**Settings:** [[Germany]]
+**Settings:** [[Germany]], [[Europe]]
 
 ## Testo integrale / Full text
 

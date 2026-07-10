@@ -6,6 +6,7 @@ cluster: Ottava Rima
 source: Authors/Keats/_raw/030_ISABELLA.md
 tags:
   - graph/work
+  - setting/europe
   - author/Keats
   - form/ottava_rima
   - form/narrative_poem
@@ -33,7 +34,7 @@ tags:
 **Themes & Concepts:** [[Romantic Love]], [[Grief and Loss]], [[Social Injustice]]
 **Forms & Genres:** [[Ottava Rima]], [[Narrative Poem]]
 **Historical References:** [[Renaissance]]
-**Settings:** [[Italy]]
+**Settings:** [[Italy]], [[Europe]]
 **Characters:** [[Isabella]], [[Lorenzo]]
 
 ## Testo integrale / Full text

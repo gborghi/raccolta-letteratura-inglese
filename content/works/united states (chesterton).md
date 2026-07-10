@@ -6,6 +6,8 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/United_States.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - form/biography
   - concept/conversion
@@ -56,8 +58,8 @@ tags:
 
 **Characters:** [[Cecil Chesterton]], [[Hilaire Belloc]]
 
-**Themes & Concepts:** [[Conversion]], [[Distributism]], [[Power and Corruption]], [[War and its Cost]], [[Democracy]], [[Courage]], [[Truth]], [[Nationalism and Patriotism]], [[Reform]]
-**Forms & Genres:** [[Biography]]
+**Themes & Concepts:** [[Conversion]], [[Distributism]], [[Power and Corruption]], [[War and its Cost]], [[Democracy]], [[Courage]], [[Truth]], [[Nationalism and Patriotism]], [[Reform]], [[Economics]]
+**Forms & Genres:** [[Biography]], [[Nonfiction]]
 **Historical References:** [[First World War]], [[Catholic Church]]
 
 ## Testo integrale / Full text

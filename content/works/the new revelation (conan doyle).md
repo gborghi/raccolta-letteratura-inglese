@@ -6,6 +6,8 @@ cluster: Spiritualism · Faith and Doubt · The Afterlife
 source: Authors/Conan_Doyle/_raw/THE_NEW_REVELATION.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Conan_Doyle
   - form/apologetics
   - form/essay
@@ -39,8 +41,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Apologetics]], [[Essay]]
-**Themes & Concepts:** [[Spiritualism]], [[Faith and Doubt]], [[Immortality of the Soul]], [[Rationalism]], [[Revelation]], [[Providence]]
+**Forms & Genres:** [[Apologetics]], [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[Spiritualism]], [[Faith and Doubt]], [[Immortality of the Soul]], [[Rationalism]], [[Revelation]], [[Providence]], [[History]]
 **Motifs:** [[Soul]], [[Ghosts]], [[Death]]
 **Historical References:** [[Christianity]], [[Darwinism (Evolutionary Theory)]], [[First World War]], [[Catholic Church]]
 **Archetypes:** [[Prophet]]

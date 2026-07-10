@@ -6,6 +6,7 @@ cluster: Money and Gold · Poverty · Imprisonment
 source: Authors/Dickens/_raw/Little_Dorrit.md
 tags:
   - graph/work
+  - concept/economics
   - author/Dickens
   - form/social_novel
   - form/novel
@@ -129,7 +130,7 @@ tags:
 
 **Archetypes:** [[Innocent]], [[Martyr Saint]], [[Corrupt Official]], [[Self-Made Man]]
 **Motifs:** [[Money and Gold]], [[City]], [[Light and Dark]], [[Ruins the Abbey]]
-**Themes & Concepts:** [[Poverty]], [[Social Injustice]], [[Class Conflict]], [[Satire of Society]], [[Pride]], [[Humility]], [[Guilt]], [[Grace and Redemption]], [[Romantic Love]], [[Appearance vs Reality]], [[Imprisonment]]
+**Themes & Concepts:** [[Poverty]], [[Social Injustice]], [[Class Conflict]], [[Satire of Society]], [[Pride]], [[Humility]], [[Guilt]], [[Grace and Redemption]], [[Romantic Love]], [[Appearance vs Reality]], [[Imprisonment]], [[Economics]]
 **Forms & Genres:** [[Social Novel (Novel of Manners)]], [[Novel]], [[Satire]]
 **Historical References:** [[Regency Georgian England]]
 **Settings:** [[London]]

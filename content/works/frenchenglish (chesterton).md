@@ -6,6 +6,9 @@ cluster: Paradox · Food and Feasting · Aphorism
 source: Authors/Chesterton/_raw/frenchenglish.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - form/essay
   - concept/paradox
@@ -48,14 +51,14 @@ tags:
 
 ## Connections
 
-**Settings:** [[Paris]]
+**Settings:** [[Paris]], [[Europe]]
 
 **Motifs:** [[Flowers]], [[Great House]], [[Money and Gold]]
 
 **Characters:** [[Sam Weller]], [[John Bull]]
 
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Artist and Society]], [[Democracy]], [[Eastern Religion and Asceticism]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Artist and Society]], [[Democracy]], [[Eastern Religion and Asceticism]], [[Appearance vs Reality]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Historical References:** [[French Revolution]], [[Eastern Religion Comparative Religion]]
 
 ## Testo integrale / Full text

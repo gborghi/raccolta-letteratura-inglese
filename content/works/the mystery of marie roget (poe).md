@@ -6,6 +6,7 @@ cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Poe/_raw/The Mystery of Marie Roget.md
 tags:
   - graph/work
+  - setting/europe
   - author/Poe
   - form/detective_fiction
   - form/short_story
@@ -73,7 +74,7 @@ tags:
 **Motifs:** [[Death]], [[Blood]], [[River]], [[Water]], [[Grave]], [[Letters and Writing]]
 **Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Justice Right and Wrong]], [[Fate and Free Will]], [[Terror and Horror]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Settings:** [[Paris]], [[City (2)]]
+**Settings:** [[Paris]], [[City (2)]], [[Europe]]
 **Characters:** [[Sherlock Holmes Homage]], [[C. Auguste Dupin]], [[Marie Roget]]
 
 ## Testo integrale / Full text

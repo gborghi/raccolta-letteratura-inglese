@@ -6,6 +6,8 @@ cluster: War and Empire · History · Nationalism and Patriotism
 source: Authors/Conan_Doyle/_raw/THE_LOVE_AFFAIR_OF_GEORGE_VINCENT_PARKER.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Conan_Doyle
   - form/essay
   - concept/crime_and_punishment
@@ -39,8 +41,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]]
-**Themes & Concepts:** [[Crime and Punishment]], [[Justice Right and Wrong]], [[Jealousy]], [[Madness]], [[Revenge]], [[Guilt]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[Crime and Punishment]], [[Justice Right and Wrong]], [[Jealousy]], [[Madness]], [[Revenge]], [[Guilt]], [[History]]
 **Motifs:** [[Letters and Writing]], [[Blood]], [[Secrets]]
 **Historical References:** [[Victorian England]]
 **Settings:** [[Rural England]], [[Industrial City]]

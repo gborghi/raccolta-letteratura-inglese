@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Bronte/_raw/Shirley.md
 tags:
   - graph/work
+  - concept/history
+  - concept/economics
   - author/Bronte
   - form/novel
   - form/social_novel
@@ -90,7 +92,7 @@ tags:
 
 **Archetypes:** [[Self-Made Man]], [[Rebel]]
 **Motifs:** [[Money and Gold]], [[Swords and Weapons]]
-**Themes & Concepts:** [[Class Conflict]], [[Social Injustice]], [[Anti-Industrialism]], [[Reform]], [[Poverty]], [[Romantic Love]], [[Marriage and Fidelity]], [[Identity]], [[Faith]], [[Nationalism and Patriotism]], [[Common Man]]
+**Themes & Concepts:** [[Class Conflict]], [[Social Injustice]], [[Anti-Industrialism]], [[Reform]], [[Poverty]], [[Romantic Love]], [[Marriage and Fidelity]], [[Identity]], [[Faith]], [[Nationalism and Patriotism]], [[Common Man]], [[Economics]], [[History]]
 **Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Historical Novel]]
 **Historical References:** [[Industrial Revolution]], [[Napoleonic Wars the Navy]], [[Christianity]]
 **Settings:** [[Rural England]], [[Industrial City]]

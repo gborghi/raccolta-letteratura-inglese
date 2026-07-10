@@ -6,6 +6,8 @@ cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Wilde/_raw/029_De_Profundis.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Wilde
   - character/christ
   - archetype/christ_figure
@@ -61,8 +63,8 @@ tags:
 **Topoi:** [[Katabasis Descent]], [[Fall from Innocence]]
 **Archetypes:** [[Christ Figure]], [[Martyr Saint]], [[Outsider]], [[Scapegoat]]
 **Motifs:** [[Cross]], [[Suffering (2)]], [[Prison]], [[Letters and Writing]], [[Bread and Wine Eucharist]], [[Seasons]], [[Money and Gold]]
-**Themes & Concepts:** [[Humility]], [[Grace and Redemption]], [[Conversion]], [[Grief and Loss]], [[Self-Knowledge]], [[Melancholy]], [[Guilt]], [[Faith]], [[Individualism]], [[Beauty]]
-**Forms & Genres:** [[Fictional Autobiography]], [[Essay]]
+**Themes & Concepts:** [[Humility]], [[Grace and Redemption]], [[Conversion]], [[Grief and Loss]], [[Self-Knowledge]], [[Melancholy]], [[Guilt]], [[Faith]], [[Individualism]], [[Beauty]], [[History]]
+**Forms & Genres:** [[Fictional Autobiography]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Bible]], [[Dante]], [[Greek Tragedy]]
 **Characters:** [[Christ]]
 

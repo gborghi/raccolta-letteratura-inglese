@@ -1,0 +1,37 @@
+---
+title: "Hills and the Sea — THE SEA-WALL OF THE WASH (part 2)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/hills-and-the-sea-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/hills-and-the-sea-(belloc)">Hills and the Sea</a> › <a href="/testi/belloc/atomized/hills_and_the_sea/story_15_the_sea_wall_of_the_wash">Story 15 THE SEA WALL OF THE WASH</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/hills_and_the_sea/story_15_the_sea_wall_of_the_wash/part_01">‹ part 01</a><a class="ex-next" href="/testi/belloc/atomized/hills_and_the_sea/story_15_the_sea_wall_of_the_wash/part_03">part 03 ›</a></div>
+</nav>
+
+
+There are miles and miles of it right up to the EMBANKMENT, the great and old SEA-WALL, which protects the houses of men. You have but to eliminate that embankment to imagine what the whole countryside must have been like before it was raised, and the meaning of the Fens becomes clear to you. The Fens were long ago but the continuation inland of this sea-morass. The tide channels of the marsh were all of one kind, though they differed so much in size. Some of these channels were small without name; some a little larger, and these had a local name; others were a little larger again, and worthy to be called rivers — the Ouse, the Nen, the Welland, the Glen, the Witham. But, large or small, they were nothing, all of them, but the scouring of tide-channels in the light and sodden slime. It was the high tide that drowned all this land, the low tide that drained it; and wherever a patch could be found just above the influence of the tide or near enough to some main channel for the rush and swirl of the water to drain the island, there the villages grew. Wherever such a patch could be found men built their first homes. Sometimes, before men civic, came the holy hermits. But man, religious, or greedy, or just wandering, crept in after each inundation and began to tame the water and spread out even here his slow, interminable conquest. So Wisbeach, so March, so Boston grew, and so — the oldest of them all — the Isle of Ely.
+
+The nature of the country (a nature at which I had but guessed whenever before this I had wandered through it, and which I had puzzled at as I viewed its mere history) was quite clear, now that I stood upon the wall that fenced it in from the salt water. It was easy to see not only what judgments had been mistaken, but also in what way they had erred. One could see why and how the homelessness of the place had been exaggerated. One could see how the level was just above (not, as in Holland, below) the mean of the tides. One could discover the manner in which communication from the open sea was possible. The deeps lead out through the sand; they are but continuations under water of that tide-scouring which is the note of all the place inland, and out, far out, we could see the continuation of the river-beds, and at their mouths far into the sea, the sails.
+
+A man sounding as he went before the north-east [[Wind|wind]] was led by force into the main channels. He was “shepherded” into Lynn River or Wisbeach River or Boston River, according as he found the water shoaler to one side or other of his boat. So must have come the first Saxon pirates from the mainland: so (hundreds of years later) came here our portion of that swarm of Pagans, which all but destroyed Europe; so centuries before either of them, in a time of which there is no record, the ignorant seafaring men from the east and the north must have come right up into our island, as the sea itself creeps right up into the land through these curious crevices and draughts in the Fenland wall.
+
+Men — at least the men of our race — have made everything for themselves; and they will never cease. They continue to extend and possess. It is not only the architecture; it is the very landscape of Europe which has been made by Europeans. In what way did we begin to form this difficult place, which is neither earth nor water, and in which we might have despaired? It was conquered by human artifice, of course, somewhat as Frisia and the Netherlands, and, as we may believe, the great bay of the Cotentin were conquered; but it has certain special characters of its own, and these again are due to the value in this place of the tides, and to the absence of those natural dykes of sand which were, a thousand years ago, the beginnings of Holland.
+
+* * *
+
+Two methods, working side by side, have from the beginning of human habitation reclaimed the Fens. The first has been the canalisation, the fencing in of the tideways; the second has been the banking out of the general sea. The spring tides covered much of this land, and when they retired left it drowned. Against their universal advancing sheet of water a bank could be made. Such a bank cut off the invasion of the hundreds of runnels, small and great, by which the more ordinary tides that could not cover the surface had yet crept into the soil and soaked it through.
+
+When such a bank had been built, gates, as it were, permitted the water to spend its force and also to use its ebb and flow for the draining of the land beyond. The gates which let the tide pour up and down the main ways became the new mouths of the main rivers; inland the courses of the rivers (which now took all the sea and thus became prodigious) were carefully guarded. Even before trenches were dug to drain the fields around, earth was thrown up on either side of the rivers to confine them each to one permanent channel; nor did the level of the rivers rise, or their beds gets clogged; the strength of the tide sufficed for the deepening of their channels. Into the rivers so fortified the other waterways of the Fens were conducted.
+
+By these methods alone much of the land was rendered habitable and subject to the plough. Probably these methods were enough to make it all it was in the Middle Ages. It was only far later, almost in our own time, that water was gathered by trenches in the lowland beneath the rivers and pumped out artificially with mills; nor is it quite certain even now that this method (borrowed from Holland) is the best; for the land, as I have said, is above and not below the sea.
+
+Of these words, whose tradition is immemorial, the greatest, of course, are the sea-walls.
+
+Perhaps the river-walls came first, but the great bank which limited and protected the land against the sea is also older than any history.
+
+It is called Roman, and relics of Rome have been found in it, but it has not the characteristic of Roman work. It runs upon no regular lines; its contour is curved and variable. It is surely far older than the Roman occupation. Earth, heaped and beaten hard, is the most enduring of things; the tumuli all over England have outlasted even the monoliths, and the great defensive mounds at Norwich and at Oxford are stronger and clearer cut than anything that the Middle Ages have left. This bank, which first made Fenland, still stands most conspicuous. You may follow it from the Nene above Sutton Bridge right over to Lynn River, and again northward from Sutton Bridge (or rather, from the ferry above it) right round outside Long Sutton and Holbeach, and by Forsdyke Bridge and outside Swyneshead; everywhere it encloses and protects the old parishes, and everywhere seaward of it the names of the fields mark the newest of endeavours.

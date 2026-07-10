@@ -6,6 +6,10 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/Well_And_Shallows.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/apologetics
   - form/essay
@@ -107,11 +111,11 @@ tags:
 
 **Archetypes:** [[Martyr Saint]], [[Tyrant]]
 
-**Settings:** [[London]], [[Russia]], [[Germany]], [[Italy]], [[Spain]], [[Austria]], [[Ireland]]
+**Settings:** [[London]], [[Russia]], [[Germany]], [[Italy]], [[Spain]], [[Austria]], [[Ireland]], [[Europe]]
 
 **Motifs:** [[Well]], [[Fog and Smoke]]
-**Themes & Concepts:** [[Faith]], [[Conversion]], [[Critique of Progress]], [[Faith and Doubt]], [[Paradox]], [[Marriage and Fidelity]], [[Distributism]], [[Solitude]], [[Conformity vs Individualism]], [[Eastern Religion and Asceticism]], [[Democracy]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[Grace and Redemption]], [[Materialism]], [[Fascism]], [[Communism]]
-**Forms & Genres:** [[Apologetics]], [[Essay]]
+**Themes & Concepts:** [[Faith]], [[Conversion]], [[Critique of Progress]], [[Faith and Doubt]], [[Paradox]], [[Marriage and Fidelity]], [[Distributism]], [[Solitude]], [[Conformity vs Individualism]], [[Eastern Religion and Asceticism]], [[Democracy]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[Grace and Redemption]], [[Materialism]], [[Fascism]], [[Communism]], [[Economics]], [[History]]
+**Forms & Genres:** [[Apologetics]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Catholic Church]], [[Reformation]], [[Christianity]], [[Puritanism]], [[First World War]], [[Irish Question]], [[Russian Revolution]]
 **Characters:** [[Virgin Mary]], [[Sir Thomas More]], [[Henry VIII]], [[Martin Luther]], [[Karl Marx]], [[Paul Claudel]], [[Charles Darwin]], [[Engelbert Dollfuss]]
 

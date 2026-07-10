@@ -6,6 +6,7 @@ cluster: Swords and Weapons · Power and Corruption · Tyrant
 source: Authors/Chesterton/_raw/Sword.md
 tags:
   - graph/work
+  - concept/history
   - author/Chesterton
   - concept/faith
   - concept/paradox
@@ -71,7 +72,7 @@ tags:
 
 **Archetypes:** [[Hero]], [[Child]], [[Damsel]], [[Tyrant]], [[Scapegoat]], [[Witch Enchantress]]
 **Motifs:** [[Swords and Weapons]], [[Cross]], [[Supernatural]], [[Clothing and Costume]], [[Concealment Hidden Identity]], [[River]]
-**Themes & Concepts:** [[Faith]], [[Paradox]], [[Good vs Evil]], [[Honour]], [[Critique of Progress]], [[Heroism]], [[Appearance vs Reality]], [[Courage]], [[Fanaticism]]
+**Themes & Concepts:** [[Faith]], [[Paradox]], [[Good vs Evil]], [[Honour]], [[Critique of Progress]], [[Heroism]], [[Appearance vs Reality]], [[Courage]], [[Fanaticism]], [[History]]
 **Forms & Genres:** [[Short Story]]
 **Historical References:** [[Medieval England]], [[Puritanism]], [[English Restoration]]
 **Settings:** [[Rural England]]

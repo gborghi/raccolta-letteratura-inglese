@@ -6,6 +6,8 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Wilde/_raw/027_The_Truth_of_Masks.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Wilde
   - motif/masks_disguise
   - motif/clothing
@@ -42,8 +44,8 @@ tags:
 
 **Topoi:** [[Theatrum Mundi]]
 **Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Truth]], [[Beauty]], [[Paradox]], [[Artist and Society]], [[Imagination]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]]
+**Themes & Concepts:** [[Appearance vs Reality]], [[Truth]], [[Beauty]], [[Paradox]], [[Artist and Society]], [[Imagination]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Elizabethan England]], [[Renaissance]], [[Classical Antiquity]]
 **Settings:** [[Court]]
 **Characters:** [[Hamlet]], [[Falstaff]]

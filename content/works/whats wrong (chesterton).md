@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/whats_wrong.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - concept/distributism
   - concept/anti_industrialism
@@ -73,8 +76,8 @@ tags:
 **Characters:** [[Jones]], [[Hudge]], [[Gudge]], [[Mrs. Grundy]], [[George Bernard Shaw]]
 
 **Topoi:** [[World Upside Down]]
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Social Injustice]], [[Common Man]], [[Reform]], [[Education]], [[Marriage and Fidelity]], [[Satire of Society]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Feminism]], [[Family]], [[Socialism]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Satire]]
+**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Social Injustice]], [[Common Man]], [[Reform]], [[Education]], [[Marriage and Fidelity]], [[Satire of Society]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Feminism]], [[Family]], [[Socialism]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Satire]], [[Nonfiction]]
 **Historical References:** [[Industrial Revolution]], [[Regency Georgian England]], [[French Revolution]], [[Puritanism]], [[Reformation]]
 **Settings:** [[Industrial City]]
 

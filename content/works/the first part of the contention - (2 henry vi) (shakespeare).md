@@ -6,6 +6,7 @@ cluster: Wars of the Roses
 source: Authors/Shakespeare/_raw/002_The_First_Part_of_the_Contention_(2_Henry_VI).md
 tags:
   - graph/work
+  - concept/economics
   - author/Shakespeare
   - topos/fortunes_wheel
   - topos/world_upside_down
@@ -74,7 +75,7 @@ tags:
 **Topoi:** [[Fortune's Wheel]], [[World Upside Down]], [[Great Chain of Being]]
 **Archetypes:** [[Usurper]], [[King]], [[Rebel]]
 **Motifs:** [[Crown]], [[Blood]], [[Supernatural]]
-**Themes & Concepts:** [[Kingship and Legitimacy]], [[Ambition]], [[Power and Corruption]], [[Order vs Chaos]], [[Class Conflict]], [[War and its Cost]], [[Deception]]
+**Themes & Concepts:** [[Kingship and Legitimacy]], [[Ambition]], [[Power and Corruption]], [[Order vs Chaos]], [[Class Conflict]], [[War and its Cost]], [[Deception]], [[Economics]]
 **Forms & Genres:** [[History Play]], [[Verse Drama]], [[Blank Verse]]
 **Historical References:** [[Wars of the Roses]], [[Medieval England]]
 **Settings:** [[Medieval England (2)]], [[Court]]

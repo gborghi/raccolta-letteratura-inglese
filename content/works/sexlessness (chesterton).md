@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/sexlessness.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - form/satire
@@ -48,7 +49,7 @@ tags:
 
 **Motifs:** [[Marriage]], [[Home]]
 **Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Identity]], [[Reform]], [[Procreation]], [[Waste Land (Sterility)]], [[Slavery]], [[Labor and Work]], [[Natural Order]], [[Freedom]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

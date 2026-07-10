@@ -1,0 +1,35 @@
+---
+title: "Six British Battles — Part 6: THE ACTION (part 36)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/six-british-battles-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/six-british-battles-(belloc)">Six British Battles</a> › <a href="/testi/belloc/atomized/six_british_battles/chapter_15_the_action">Chapter 15 THE ACTION</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/six_british_battles/chapter_15_the_action/part_35">‹ part 35</a><a class="ex-next" href="/testi/belloc/atomized/six_british_battles/chapter_15_the_action/part_37">part 37 ›</a></div>
+</nav>
+
+
+It was by that time past one o’clock, and this first furious attempt upon Hougomont, unintended by the Emperor, and a sheer waste, had doubly failed. It had failed in itself — the house and garden still remained untaken, the post was still held. It had failed in its object, which had been to draw Wellington, and to get him to send numerous troops from his centre to his right in defence of the threatened place.
+
+Meanwhile the Emperor, for whom this diversion of a few regiments against Hougomont was but a small matter, had prepared and was about to deliver his main attack.
+
+The reader will see upon the contours of the coloured map a definite spur of land marked with a broad green band in front of the French order of battle, and further marked by the green letter “B” in the very centre of the map. It was along this spur and at about one o’clock that the Emperor drew up a great battery of eighty pieces in order to prepare the assault upon the opposing ridge, which was to be delivered the moment their fire had ceased. [[Napoleon]] at that moment was watching his army and its approaching engagement from that summit upon the great road marked “A” in green upon my coloured map, whence the whole landscape to the north and west lies open.
+
+There he received the report of Ney that the guns were ready, and only waiting for the order.
+
+A little while before the guns were ready and Ney had reported to that effect, [[Napoleon]] had received Grouchy’s letter, in which it was announced that the mass of the Prussian army had retreated on Wavre. He had replied to it with instructions to Grouchy so to act that no Prussian corps at Wavre could come and join Wellington. Hardly had the Emperor dictated this reply when, looking northward and then eastward over the great view, he saw, somewhat over four miles away, a shadow, or a movement, or a stain upon the bare uplands towards Wavre; he thought that appearance to be companies of men. A few moments later a sergeant of Silesian Hussars, taken prisoner by certain cavalry detachments far out to the east, was brought in. He had upon him a letter sent from Bulow to Wellington announcing that the Prussians were at hand, and the prisoner further told the Emperor that the troops just perceived were the vanguard of the Prussian reinforcement. Thus informed, the Emperor caused a postscript to be added to his dictated letter, and bade Grouchy march at once towards this Prussian column, fall upon it while it was still upon the march and defenceless and destroy it.
+
+Such an order presupposed Grouchy’s ability to act upon it; [[Napoleon]] took that ability for granted. But Grouchy, as a fact, could not act upon it in time. Hard riding could not get Napoleon’s note to Grouchy’s quarters within much less than an hour and a half. When it got there Grouchy himself must be found, and that done his 33,000 must be got together in order to take the new direction. Further, the Emperor could not know in what state Grouchy’s forces might be, nor what direction they might already have taken. It should be mentioned, however, to explain Napoleon’s evident hope at the moment of things going well, that the prisoner had told the Emperor it was commonly believed in the Prussian lines that Grouchy was actually marching to join him, Napoleon, at that moment. Napoleon sent some cavalry off eastward to watch the advent of the Prussians; he ordered his remnant of one army corps, the Sixth, which he had kept in reserve behind his line, to march down the hill to the village of Plancenoit and stand ready to meet the Prussian attack; and having done all this, he made ready for the assault upon the ridge which Wellington’s troops held.
+
+That assault was to be preceded, as I have said, by artillery preparation from the great battery of eighty guns which lay along the spur to the north and in front of the French line. For half an hour those guns filled the shallow valley with their smoke; at half-past one they ceased, and Erlon’s First Corps d’Armée, fresh to the combat, because it had so unfortunately missed both Ligny and Quatre Bras, began to descend from its position, to cross the bottom, and to climb the opposite slope, while over the heads of the assaulting columns the French and English cannon answered each other from height to height.
+
+The advance across the valley, as will be apparent from the map, had upon its right the village of Papelotte, upon its left the farm of La Haye Sainte, and for its objective that highway which runs along the top of the ridge, and of which the most part was in those days a sunken road, as effective for defence as a regular trench.
+
+Following a practice which he never abandoned, which he had found universally successful, and upon which he ever relied, the [[Duke of Wellington]] had kept his British troops, the nucleus of his defensive plan, for the last and worst of the action. He had stationed to take the first brunt those troops upon which he least relied, and these were the first Dutch-Belgian brigade under Bijlandt. This body was stationed in front of the sunken road (at the point marked A in red upon the map). Behind it he had put Pack’s brigade and Kemp’s, both British; to the left of it, but also behind the road, Best’s Hanoverian brigade. Papelotte village he held with Perponcher’s Belgians.
+
+It will be seen that the crushing fire of the French eighty guns maintained for half an hour had fallen full upon the Dutch-Belgians, standing exposed upon the forward slope at a range of not more than 800 yards. At the French charge, though that was delivered through high standing crops and over drenched and slippery soil up the slope, Bijlandt’s brigade broke. It is doubtful indeed whether any other troops would not have broken under such circumstances. Unfortunately the incident has been made the subject of repeated and most ungenerous accusation. A body purposely set forward before the whole line to stand such fearful pounding and to shelter the rest; one, moreover, which in two days of fighting certainly lost one-fourth of its number in killed and wounded, and probably lost more than one-third, is deserving of a much more chivalrous judgment than that shown by most historians in its regard. Anyhow, Kemp’s brigade quickly filled the gap left by the failure of the Netherlanders, and began to press back the French charge.

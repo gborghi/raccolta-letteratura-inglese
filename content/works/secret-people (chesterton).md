@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/secret-people.md
 tags:
   - graph/work
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/ballad
   - form/narrative_poem
@@ -59,7 +61,7 @@ tags:
 **Topoi:** [[Fortune's Wheel]], [[War as Glory]]
 
 **Motifs:** [[Silence]], [[Chains]], [[Crown]], [[Blood]], [[Ruins the Abbey]], [[Money and Gold]]
-**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Power and Corruption]], [[Poverty]], [[War and its Cost]], [[Kingship and Legitimacy]], [[Freedom and Liberty]], [[Secrecy and Concealment]]
+**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Power and Corruption]], [[Poverty]], [[War and its Cost]], [[Kingship and Legitimacy]], [[Freedom and Liberty]], [[Secrecy and Concealment]], [[Economics]], [[History]]
 **Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]]
 **Historical References:** [[Reformation]], [[Napoleonic Wars the Navy]], [[Wars of the Roses]], [[French Revolution]], [[Puritanism]], [[English Civil War]]
 **Settings:** [[Rural England]], [[Battlefield]], [[Sea (2)]]

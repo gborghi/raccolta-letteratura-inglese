@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/WhatISawInAmerica.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/travel_writing
   - form/essay
@@ -81,8 +84,8 @@ tags:
 
 **Characters:** [[Abraham Lincoln]], [[Thomas Jefferson]], [[H. G. Wells]], [[Henry Ford]], [[Andrew Jackson]], [[Walt Whitman]], [[Charles Dickens]]
 
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Justice Right and Wrong]], [[Identity]], [[Critique of Progress]], [[Democracy]], [[Slavery]], [[Anti-Industrialism]], [[Distributism]], [[Common Man]], [[Conformity vs Individualism]], [[Freedom and Liberty]], [[Power and Corruption]], [[Money and Avarice]], [[Prohibition]]
-**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Satire]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Justice Right and Wrong]], [[Identity]], [[Critique of Progress]], [[Democracy]], [[Slavery]], [[Anti-Industrialism]], [[Distributism]], [[Common Man]], [[Conformity vs Individualism]], [[Freedom and Liberty]], [[Power and Corruption]], [[Money and Avarice]], [[Prohibition]], [[Economics]], [[History]]
+**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Satire]], [[Nonfiction]]
 **Historical References:** [[American Civil War]], [[Irish Question]], [[Puritanism]], [[French Revolution]], [[Industrial Revolution]]
 
 ## Testo integrale / Full text

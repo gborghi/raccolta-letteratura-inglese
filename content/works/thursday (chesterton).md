@@ -6,6 +6,8 @@ cluster: Unclustered
 source: Authors/Chesterton/_raw/thursday.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/history
   - author/Chesterton
   - character/gabriel_syme
   - character/lucian_gregory
@@ -93,13 +95,13 @@ tags:
 
 **Archetypes:** [[Detective]], [[Trickster]], [[Rebel]], [[Satanic Figure]], [[Double Doppelganger]], [[Christ Figure]]
 
-**Settings:** [[London]], [[River Thames]], [[Rural England]], [[Underworld Cave]], [[Sea (2)]], [[France]]
+**Settings:** [[London]], [[River Thames]], [[Rural England]], [[Underworld Cave]], [[Sea (2)]], [[France]], [[Europe]]
 
 **Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]], [[Light and Dark]], [[Eyes and Sight]], [[Fire]], [[Garden]], [[Sun]]
 
 **Topoi:** [[Double]], [[World Upside Down]], [[Quest]], [[Katabasis Descent]], [[Theatrum Mundi]]
 
-**Themes & Concepts:** [[Order vs Chaos]], [[Appearance vs Reality]], [[Secrecy and Concealment]], [[Identity]], [[Fear]], [[Paradox]], [[Faith and Doubt]], [[Providence]], [[Anarchism]]
+**Themes & Concepts:** [[Order vs Chaos]], [[Appearance vs Reality]], [[Secrecy and Concealment]], [[Identity]], [[Fear]], [[Paradox]], [[Faith and Doubt]], [[Providence]], [[Anarchism]], [[History]]
 
 **Characters:** [[Gabriel Syme]], [[Lucian Gregory]], [[Sunday]], [[Rosamond Gregory]], [[The Secretary]], [[Dr. Bull]], [[Professor de Worms]], [[Marquis de St. Eustache]], [[Gogol]], [[Colonel Ducroix]]
 

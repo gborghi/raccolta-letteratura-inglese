@@ -1,0 +1,37 @@
+---
+title: "The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 4)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/the-mercy-of-allah-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/the-mercy-of-allah-(belloc)">The Mercy of Allah</a> › <a href="/testi/belloc/atomized/the_mercy_of_allah/chapter_05_entitled_milh_or_salt">Chapter 05 ENTITLED MILH OR SALT</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/the_mercy_of_allah/chapter_05_entitled_milh_or_salt/part_03">‹ part 03</a><a class="ex-next" href="/testi/belloc/atomized/the_mercy_of_allah/chapter_05_entitled_milh_or_salt/part_05">part 05 ›</a></div>
+</nav>
+
+
+“He it was who talked most incessantly and before the largest gatherings, thus creating a taste for public discussion. He it was who discussed practical remedies whenever discontent appeared, and he who worked out every detail in the interesting reports upon the condition of the starving. To the thousands whom he addressed his manner never grew stale. His eloquence was sober, his speeches with praise of Izmat and quotations from the Sacred Books, as also with known jests — things which this practical people infinitely preferred to empty theories of the Mainland. So all went well; and I (blind to the future, alas!) went down that path of statesmanship along which my friend led me, little knowing whither it would lead me.
+
+“I did not often speak myself at the public meetings so frequently held (they were indeed the noble pastime of this patriot folk), lest my foreign accent should hurt my dignity. For I had not yet a complete command of the language, though it was now two years since I had become a citizen and subject of the Monarch to whom we were all so devoted. But I would sit by the side of my friend Tarib and others as they harangued the populace in the open places of the city or, upon occasions, in the mosques. On such occasions I would show by my smiles and applause my approval of all that was said for the betterment of the poor or the rich, as the case might be, and I always laughed at the ritual jests, sometimes even before they were delivered. In this way I grew familiar with most of those in the capital and with many of the provincial towns, and hoped to conquer general favour.
+
+“I was present when Ibn Rashn delivered his great harangue to a vast assembly, denouncing the foreign practice of marrying a fifth wife — which abomination there was some danger of seeing introduced into his beloved land. I was present also when the same great and eloquent man gave his second great harangue, insisting upon the necessity of fifth wives and carrying that reform by acclamation as a law. Seated with others on the raised platform which surrounded the orator I applauded the Grand Vizier in his solemn declaration against shaving, a thing (said he) abhorrent to every true believer, and heard the sway of argument for and against the custom; which (I am glad to say) was afterwards put down with the utmost severity of the law. But my happiest memories are still of those numerous days when my intimate the Tribune Tarib — who could never be accused of any petty thing — poured forth his soul upon the poverty of the commons and extolled to them the national pride and glory of doing nothing to change it: in which principles he was applauded with frenzy. This spirit was peculiar to this happy land and no one expressed it in wiser or more memorable terms than he who was now my bosom friend.
+
+“But there came a time — I had been in Izmat about three years — when it was clearly necessary to strike a new note.
+
+“There was at the moment of which I speak some little commotion in the city on account of a dearth of rice, the diet of the poorer classes, or at least the diet of the poorer classes when they could obtain it; for there was a custom deeply rooted in this conservative people that when the poorer classes could not obtain rice, they should do without it.
+
+“At this juncture the difficulty had risen to the middle classes, and these joined with the populace. Ill ease grew general. A complaint of stringency was abroad, from the ranks of those who starved to death up to the merchants and the lords themselves. Even the moderately rich could no longer afford the services of more than a dozen dancing girls.
+
+“The whole Island was in a ferment and the capital was so disturbed that one might have thought oneself at times among the degraded tribes of the Mainland.
+
+“Processions had appeared in the streets, sometimes actually accompanied by musical instruments of a loud and distressing order. Banners had been carried, and upon one occasion the litter of no less a person than the Lord Executioner had been detained for half an hour in a block caused by the multitudes proceeding to hear a favourite orator. The Council had taken note of these things and my friend the Tribune Tarib, the Lord Doubler, was naturally deputed to deal with them in his own inimitable way.
+
+“He went on foot to the vast meeting that had been convened in the Mosque of Nasr-ed-din the founder of the Dynasty. We also went with him thus humbly, the better to please the public eye. With some dozen others of my rank I sat upon a rug immediately at the foot of the orator and listened entranced to his impassioned words.
+
+“Never had I heard him more inspired! It was a great volume of sound, the words in which followed each other in quick succession, often meaningless but never pedantic, and throughout the speech he was careful to interpolate short passages which the meanest intellect could clearly follow and which exactly corresponded to the desires of his hearers. ‘Why should you starve?’ cried he, ‘while all around you is wealth? Which the wealthy will be the first to forego.’ Murmurs of applause burst from the lips of the Treasurer and the Grand Vizier, while I myself — I am not ashamed to say — cried aloud in my enthusiasm for the sentiment. ‘Why,’ said he, ‘do you lack your poor pittance of rice while the bloated rich’ — and he looked round at the galleries as though to find them there— ‘have their fill of the tenderest lamb stuffed with pistachio nuts? And who shall blame them?’ Again there rose a wave of applause in which I joined more heartily than ever, for the words reminded me of that delicious viand, which I had, but an hour before, very plentifully consumed. ‘Why,’ — he shouted in louder tones— ‘Why do you permit yourselves to be loaded with an intolerable burden of taxation? Which our wealthier classes bear also in an immoderate degree?’
+
+“At this phrase the exultation of the Lord Chief Treasurer knew no bounds, and he led the stream of cheering which it so richly deserved. ‘How long are we to wait for that reform which our fathers — especially among the gentry — demanded and so nearly obtained?’ He looked round upon them for a moment in a dramatic pause, and then said in solemn tones, ‘A tax upon the worthless rich, and more especially’ (yet louder) ‘upon the alien rich and more especially still’ (his voice now booming like a hammering of drums) ‘upon the alien rich who stand idle fattening upon the revenues of the State, this I say....’ But the delirium of acquiescence aroused by this noble sentiment cut off the rest of his phrase and drowned his voice for the space in which a man might recite the prayer for the Caliph.

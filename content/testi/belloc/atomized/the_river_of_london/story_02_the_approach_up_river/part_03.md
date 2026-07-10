@@ -1,0 +1,29 @@
+---
+title: "The River of London — THE APPROACH UP RIVER (part 3)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/the-river-of-london-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/the-river-of-london-(belloc)">The River of London</a> › <a href="/testi/belloc/atomized/the_river_of_london/story_02_the_approach_up_river">Story 02 THE APPROACH UP RIVER</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/the_river_of_london/story_02_the_approach_up_river/part_02">‹ part 02</a><a class="ex-next" href="/testi/belloc/atomized/the_river_of_london/story_03_london_the_first_crossing_of_the_thames/part_01">part 01 ›</a></div>
+</nav>
+
+
+For the rest, as I say, and with the exception of those rare survivals of which Tilbury is the most striking, modern industrialism, down to its last manifestations, has captured the Lower Thames and stands in a bleak contrast against the windy emptiness of the flats. Nowhere is one more oddly struck by this than opposite the great tanks which have been put up for the storage of petrol — the last of our necessities. From Tilbury upwards, wherever there is available space or good ground, it is the haste, the necessity, and the carelessness of modern exchange directed for the immediate profit of men who perpetually change their methods of acquirement (and even their homes) that marks the [[River|river]]. It is a new sort of desolation, the obverse (and not a pleasant one) of that more natural desolation which Nature made by stretching out her marshes and lagoons upon either side of the tideway.
+
+And I say “exchange,” not production. Thames-side used to do many things, but in particular to tan leather and to build ships. The tanneries have nearly gone; the shipyards are in process of death. In the last journey which I made up the tide some months ago to see [[London]] once more from the [[River|river]] I passed what may be the last of the men-of-war built upon Thames-side. It lay completing upon the northern shore. It was the [[Ship|ship]] round which had turned the discussion whether or no the Thames could still successfully build against the north, and if the official answer is to be that it cannot, then this decision will mark the end of the oldest trade of the [[River|river]] and that most native to its life. But we live in a time when most things are dying.
+
+For all this lamentable cloak of purposeless industrialism, chaotic and already murmuring with the sounds of its own dissolution, the gradual envelopment of a man who comes up river, his reception by the hugeness of modern [[London]] is a thing which no one who has experienced it can forget.
+
+Indeed, the utter ruin of order and of plan, which is but the outward manifestation of the ruin of religion, has destroyed the sense of approach everywhere around that great helpless, apathetic nation which we call [[London]], save where it could not be wholly destroyed, and that is along the [[Water|water]] which was its most ancient highway.
+
+RICHMOND BRIDGE
+
+Come in from what direction you will, save by the Thames, and the approach to London is a waste of eyesight. No one has imagined for two hundred years such a thing as a gate or a limit. There is no kind of salutation offered or of barrier presented or of definition laid down. Draggle-tail financial experiments of no interest or purpose to those responsible for them, save abstract wealth, stand isolated in fields as often as not given up to weeds and rubbish, and new roads half made end everywhere in dust-heaps or in mud. Then for one mile after another you pass the thousands of little houses all shamelessly similar, for in none does a man intend to make his being, to possess his soul, or to live and die there. There is not even a city wall remaining from the past, nor so much as a broad outer street, delimiting what may still be noble and permanent from these hopeless suburbs. Little scraps of what were once happy and united villages still stand like islands in this flood of mean brick. For the most part they are to be distinguished no longer save by the narrowness and crookedness of their streets, and when at last one comes to the inner part, where there is something of history and of meaning and of an inherited culture, one comes upon it without introduction and without grace. Of all cities that ever were, modern London least deserves a wall, gates, and a senate.
+
+But the entry by the river cannot be wholly destroyed. The river is too strong. And therefore a man does here receive a physical impression almost worthy of the magnitude of the things he seeks. He does get some idea of London and some introduction to it. The houses and the places of change, and the great stores and the abrupt street-ends with their [[Water|water]] steps, cluster in groups with narrower and narrower gaps between them, until at last they come up all together in rank and enclose one avenue of flood, banked everywhere by brick and crowded with the interlacing of vessels. It is a thing which, if a man could draw it properly, would make the best record of our time for the curiosity of those who are to come after us. Accustomed as we are to an eternal noise drowning thought and human life wherever the haphazard and violent activity of our time is at work, there is an odd broken silence in this waterway of sails and chains and alarms, guarded and hemmed in by the leagues of houses. The mainspring of the moving road is silent, the power of that one thing in the view which is not made by man, the rushing upward of the [[Water|water]]; between all these new and artificial things the strength of the Thames survives with no more sound in its going than when it went through other silences before men found it.

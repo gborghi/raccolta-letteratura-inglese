@@ -6,6 +6,8 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/Christianity_and_Rationalism.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - form/apologetics
@@ -65,8 +67,8 @@ tags:
 
 **Characters:** [[Christ]], [[Robert Blatchford]], [[Moses]]
 
-**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Doubt]], [[Truth]], [[Critique of Progress]], [[Paradox]], [[Self-Denial and Renunciation]], [[Paganism and Classical Revival]], [[War and its Cost]], [[Supernatural (2)]], [[Joy]], [[Rationalism]], [[Revelation]]
-**Forms & Genres:** [[Essay]], [[Apologetics]]
+**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Doubt]], [[Truth]], [[Critique of Progress]], [[Paradox]], [[Self-Denial and Renunciation]], [[Paganism and Classical Revival]], [[War and its Cost]], [[Supernatural (2)]], [[Joy]], [[Rationalism]], [[Revelation]], [[History]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Catholic Church]], [[French Revolution]], [[Bible]], [[Eastern Religion Comparative Religion]]
 
 ## Testo integrale / Full text

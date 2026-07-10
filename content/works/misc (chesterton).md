@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/misc.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/satire
@@ -119,8 +122,8 @@ tags:
 **Characters:** [[King John]]
 
 **Archetypes:** [[Corrupt Official]], [[Tyrant]], [[Villain]], [[Self-Made Man]], [[Fool]], [[Detective]]
-**Themes & Concepts:** [[Satire of Society]], [[Common Man]], [[Critique of Progress]], [[Paradox]], [[Distributism]], [[Freedom and Liberty]], [[Democracy]], [[Class Conflict]], [[Money and Avarice]], [[Power and Corruption]], [[Fate and Free Will]], [[Kingship and Legitimacy]], [[Nature vs Civilization]], [[Nationalism and Patriotism]], [[Eastern Religion and Asceticism]], [[Crime and Punishment]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Sketch]]
+**Themes & Concepts:** [[Satire of Society]], [[Common Man]], [[Critique of Progress]], [[Paradox]], [[Distributism]], [[Freedom and Liberty]], [[Democracy]], [[Class Conflict]], [[Money and Avarice]], [[Power and Corruption]], [[Fate and Free Will]], [[Kingship and Legitimacy]], [[Nature vs Civilization]], [[Nationalism and Patriotism]], [[Eastern Religion and Asceticism]], [[Crime and Punishment]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Sketch]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

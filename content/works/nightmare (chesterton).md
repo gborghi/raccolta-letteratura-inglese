@@ -6,6 +6,8 @@ cluster: Terror and Horror · Madness
 source: Authors/Chesterton/_raw/nightmare.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - concept/terror_and_horror
   - concept/imagination
@@ -66,8 +68,8 @@ tags:
 **Topoi:** [[Night Journey Vision]], [[World Upside Down]]
 
 **Motifs:** [[Supernatural]], [[Dreams]], [[Night]], [[Cross]], [[Horse]], [[Eyes and Sight]], [[Wind]], [[Moon]], [[Gold and Grey]]
-**Themes & Concepts:** [[Terror and Horror]], [[Imagination]], [[Grotesque]], [[Faith]], [[Madness]], [[Paganism and Classical Revival]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Terror and Horror]], [[Imagination]], [[Grotesque]], [[Faith]], [[Madness]], [[Paganism and Classical Revival]], [[History]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

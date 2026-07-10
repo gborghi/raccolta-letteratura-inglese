@@ -6,6 +6,7 @@ cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Keats/_raw/028_HAPPY_IS_ENGLAND_I_COULD_BE_CONTENT.md
 tags:
   - graph/work
+  - setting/europe
   - author/Keats
   - concept/nationalism_and_patriotism
   - setting/rural_england
@@ -23,7 +24,7 @@ tags:
 
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[Beauty]]
 **Forms & Genres:** [[Sonnet]]
-**Settings:** [[Rural England]], [[Italy]]
+**Settings:** [[Rural England]], [[Italy]], [[Europe]]
 
 ## Testo integrale / Full text
 

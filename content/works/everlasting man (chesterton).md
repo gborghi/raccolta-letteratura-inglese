@@ -6,6 +6,8 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/everlasting_man.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/apologetics
   - form/essay
@@ -68,8 +70,8 @@ tags:
 **Topoi:** [[Paradise Lost]], [[Ages of the World]], [[Pastoral Retreat]]
 **Archetypes:** [[Christ Figure]], [[Prophet]], [[Wise Old Man Sage]]
 **Motifs:** [[Supernatural]], [[Cave]], [[Dying and Reviving God]]
-**Themes & Concepts:** [[Faith]], [[Grace and Redemption]], [[Conversion]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Good vs Evil]], [[Imagination]], [[Identity]], [[Truth]], [[Paganism and Classical Revival]], [[Paradox]], [[Resurrection]], [[Eastern Religion and Asceticism]]
-**Forms & Genres:** [[Apologetics]], [[Essay]]
+**Themes & Concepts:** [[Faith]], [[Grace and Redemption]], [[Conversion]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Good vs Evil]], [[Imagination]], [[Identity]], [[Truth]], [[Paganism and Classical Revival]], [[Paradox]], [[Resurrection]], [[Eastern Religion and Asceticism]], [[History]]
+**Forms & Genres:** [[Apologetics]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Catholic Church]], [[Bible]], [[Classical Antiquity]], [[Eastern Religion Comparative Religion]], [[Punic Wars]]
 **Characters:** [[Christ]], [[Buddha]], [[Confucius]], [[Mahomet]], [[Socrates]], [[H. G. Wells]], [[Herod the Great]], [[Julian the Apostate]]
 

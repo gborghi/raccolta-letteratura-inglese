@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Eliot/_raw/124_Y_Z.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Eliot
   - form/biography
   - motif/the_book
@@ -25,7 +26,7 @@ tags:
 
 **Motifs:** [[Book Reading]], [[Animals]]
 **Themes & Concepts:** [[Artist and Society]]
-**Forms & Genres:** [[Biography]]
+**Forms & Genres:** [[Biography]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

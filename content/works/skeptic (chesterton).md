@@ -6,6 +6,8 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/skeptic.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - concept/faith
@@ -47,8 +49,8 @@ tags:
 **Historical References:** [[Greek Mythology]], [[Greek Tragedy]], [[Christianity]]
 
 **Motifs:** [[Supernatural]], [[Ghosts]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Paradox]], [[Deception]], [[Fanaticism]]
-**Forms & Genres:** [[Essay]], [[Apologetics]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Paradox]], [[Deception]], [[Fanaticism]], [[History]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

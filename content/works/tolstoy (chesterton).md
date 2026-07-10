@@ -6,6 +6,9 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/tolstoy.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/literary_criticism
   - form/essay
@@ -68,7 +71,7 @@ tags:
 
 **Archetypes:** [[Rebel]], [[Prophet]]
 
-**Settings:** [[Russia]], [[Battlefield]], [[Caucasus]]
+**Settings:** [[Russia]], [[Battlefield]], [[Caucasus]], [[Europe]]
 
 **Motifs:** [[Animals]], [[Death]], [[Nature]]
 
@@ -76,8 +79,8 @@ tags:
 
 **Characters:** [[Leo Tolstoy]], [[Ivan Turgenev]], [[Anna Karenina]]
 
-**Themes & Concepts:** [[Faith]], [[Madness]], [[War and its Cost]], [[Artist and Society]], [[Truth]], [[Fanaticism]], [[Conversion]], [[Critique of Progress]], [[Nationalism and Patriotism]], [[Simplification of Life]], [[Realism]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Biography]]
+**Themes & Concepts:** [[Faith]], [[Madness]], [[War and its Cost]], [[Artist and Society]], [[Truth]], [[Fanaticism]], [[Conversion]], [[Critique of Progress]], [[Nationalism and Patriotism]], [[Simplification of Life]], [[Realism]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Biography]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

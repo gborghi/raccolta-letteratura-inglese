@@ -6,6 +6,7 @@ cluster: Blood · Verse Drama · Revenge
 source: Authors/Wilde/_raw/008_A_Florentine_Tragedy.md
 tags:
   - graph/work
+  - setting/europe
   - author/Wilde
   - concept/jealousy
   - concept/revenge
@@ -49,7 +50,7 @@ tags:
 **Themes & Concepts:** [[Jealousy]], [[Revenge]], [[Marriage and Fidelity]], [[Lust Sexual Desire]], [[Appearance vs Reality]], [[Power and Corruption]]
 **Forms & Genres:** [[Verse Drama]], [[Blank Verse]], [[Tragedy]], [[Fragment]]
 **Historical References:** [[Renaissance]]
-**Settings:** [[Italy]]
+**Settings:** [[Italy]], [[Europe]]
 **Characters:** [[Simone]], [[Bianca]], [[Guido Bardi]]
 
 ## Testo integrale / Full text

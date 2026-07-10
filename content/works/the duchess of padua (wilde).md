@@ -6,6 +6,8 @@ cluster: Swords and Weapons · Power and Corruption · Tyrant
 source: Authors/Wilde/_raw/001_The_Duchess_of_Padua.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/history
   - author/Wilde
   - form/tragedy
   - form/verse_drama
@@ -56,10 +58,10 @@ tags:
 **Topoi:** [[Love-Death (Liebestod)]], [[Love as Religion]]
 **Archetypes:** [[Avenger]], [[Tyrant]], [[(Reputed) Fallen Woman]], [[Lover]]
 **Motifs:** [[Blood]], [[Death]], [[Swords and Weapons]], [[Poison]], [[Court (2)]], [[Letters and Writing]]
-**Themes & Concepts:** [[Revenge]], [[Romantic Love]], [[Unrequited Frustrated Love]], [[Guilt]], [[Sin and the Fall]], [[Grace and Redemption]], [[Justice Right and Wrong]], [[Mercy]], [[Power and Corruption]], [[Social Injustice]], [[Deception]], [[Fate and Free Will]]
+**Themes & Concepts:** [[Revenge]], [[Romantic Love]], [[Unrequited Frustrated Love]], [[Guilt]], [[Sin and the Fall]], [[Grace and Redemption]], [[Justice Right and Wrong]], [[Mercy]], [[Power and Corruption]], [[Social Injustice]], [[Deception]], [[Fate and Free Will]], [[History]]
 **Forms & Genres:** [[Tragedy]], [[Verse Drama]], [[Blank Verse]]
 **Historical References:** [[Christianity]], [[Bible]], [[Renaissance]]
-**Settings:** [[Italy]], [[Court]]
+**Settings:** [[Italy]], [[Court]], [[Europe]]
 **Characters:** [[Guido Ferranti]], [[Beatrice]], [[Duke Simone Gesso]], [[Count Moranzone]], [[Ascanio Cristofano]]
 
 ## Testo integrale / Full text

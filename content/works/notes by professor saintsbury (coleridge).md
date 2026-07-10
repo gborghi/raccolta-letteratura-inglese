@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Coleridge/_raw/411_NOTES_BY_PROFESSOR_SAINTSBURY.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Coleridge
   - form/literary_criticism
   - form/essay
@@ -22,7 +23,7 @@ tags:
 ## Connections
 
 **Themes & Concepts:** [[Artist and Society]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Pindaric Ode]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Pindaric Ode]], [[Nonfiction]]
 **Historical References:** [[Romantic Movement (Sensibility)]]
 
 ## Testo integrale / Full text

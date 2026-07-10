@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Dickens/_raw/A_Childs_History_of_England.md
 tags:
   - graph/work
+  - concept/economics
   - author/Dickens
   - concept/satire_of_society
   - form/satire
@@ -54,7 +55,7 @@ tags:
 **Topoi:** [[World Upside Down]], [[Theatrum Mundi]]
 **Archetypes:** [[Fool]], [[Corrupt Official]]
 **Motifs:** [[Concealment Hidden Identity]], [[Road]], [[Horse]], [[Inn Tavern]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Anti-Industrialism]], [[Nostalgia]], [[Pride]], [[Appearance vs Reality]], [[Grotesque]], [[Common Man]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Anti-Industrialism]], [[Nostalgia]], [[Pride]], [[Appearance vs Reality]], [[Grotesque]], [[Common Man]], [[Economics]]
 **Forms & Genres:** [[Satire]], [[Parody]], [[Short Story]]
 **Historical References:** [[Industrial Revolution]], [[Regency Georgian England]]
 **Settings:** [[Industrial City]]

@@ -6,6 +6,7 @@ cluster: City · London · Theatrum Mundi
 source: Authors/Chesterton/_raw/The_Angry_Street.md
 tags:
   - graph/work
+  - concept/economics
   - author/Chesterton
   - concept/satire_of_society
   - concept/anti_industrialism
@@ -59,7 +60,7 @@ tags:
 
 **Topoi:** [[World Upside Down]], [[Night Journey Vision]]
 **Motifs:** [[City]], [[Clock]], [[Supernatural]], [[Madness (2)]], [[Horse]], [[Chains]], [[Road]], [[Hill]], [[Dreams]]
-**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Labor and Work]], [[Slavery]], [[Apocalypse]], [[Uncanny]]
+**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Labor and Work]], [[Slavery]], [[Apocalypse]], [[Uncanny]], [[Economics]]
 **Forms & Genres:** [[Short Story]], [[Parable]]
 **Settings:** [[London]], [[Modern Metropolis]]
 

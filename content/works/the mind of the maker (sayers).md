@@ -6,6 +6,8 @@ cluster: Faith · Providence · Divine Love
 source: Authors/Sayers/_raw/The_Mind_of_the_Maker.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Sayers
   - archetype/artist
   - archetype/christ_figure
@@ -71,13 +73,14 @@ tags:
 - [Chapter 14: Appendix](/testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-29.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">39.7</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">42.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">17%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">90</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-30.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">40.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">43.2</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">17%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">90.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
+**Forms & Genres:** [[Nonfiction]]
 **Archetypes:** [[Artist]], [[Christ Figure]]
 **Motifs:** [[Light and Dark]], [[The Book]], [[Fire]], [[Cross]]
-**Themes & Concepts:** [[The Trinity]], [[Creativity]], [[Imagination]], [[Faith]], [[Artist and Society]], [[Fate and Free Will]], [[Good vs Evil]], [[Incarnation]], [[Paradox]], [[Original Sin]], [[Truth]], [[Providence]], [[Creativity and Artistic Labor]], [[Love Divine]]
+**Themes & Concepts:** [[The Trinity]], [[Creativity]], [[Imagination]], [[Faith]], [[Artist and Society]], [[Fate and Free Will]], [[Good vs Evil]], [[Incarnation]], [[Paradox]], [[Original Sin]], [[Truth]], [[Providence]], [[Creativity and Artistic Labor]], [[Love Divine]], [[History]]
 **Forms:** [[Essay]], [[Apologetics]], [[Literary Criticism]]
 **Historical References:** [[Christianity]], [[Bible]], [[Catholic Church]], [[Dante]], [[Classical Antiquity]]
 **Characters:** [[The Trinity]], [[God The Father]], [[God The Son]], [[God The Holy Ghost]], [[The Writer]], [[Artist]], [[Augustine]], [[Aquinas]], [[Dante]]

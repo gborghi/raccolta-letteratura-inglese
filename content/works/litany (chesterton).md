@@ -6,6 +6,7 @@ cluster: Faith · Providence · Divine Love
 source: Authors/Chesterton/_raw/litany.md
 tags:
   - graph/work
+  - concept/history
   - author/Chesterton
   - form/lyric
   - form/hymn
@@ -49,7 +50,7 @@ tags:
 **Topoi:** [[World Upside Down]]
 
 **Motifs:** [[Mirror]], [[Light and Dark]], [[Rose]], [[Window]], [[Stars]]
-**Themes & Concepts:** [[Divine Love]], [[Faith]], [[Wonder and Gratitude]], [[Providence]], [[Eternity]], [[Paradox]], [[Incarnation]]
+**Themes & Concepts:** [[Divine Love]], [[Faith]], [[Wonder and Gratitude]], [[Providence]], [[Eternity]], [[Paradox]], [[Incarnation]], [[History]]
 **Forms & Genres:** [[Lyric]], [[Hymn]], [[Litany]]
 **Historical References:** [[Christianity]], [[Bible]], [[Litany of Loreto]]
 **Characters:** [[Virgin Mary]], [[Christ]]

@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/philosophy.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - concept/truth
@@ -41,7 +42,7 @@ tags:
 **Historical References:** [[Christianity]]
 
 **Themes & Concepts:** [[Truth]], [[Doubt]], [[Faith]], [[Fate and Free Will]], [[Education]], [[Perception and Consciousness]], [[Appearance vs Reality]], [[Self]], [[Critique of Progress]], [[Common Man]]
-**Forms & Genres:** [[Essay]], [[Apologetics]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

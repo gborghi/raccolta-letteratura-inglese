@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Coleridge/_raw/077_TO_A_YOUNG_ASS_ITS_MOTHER_BEING_TETHERED_NEAR_IT.md
 tags:
   - graph/work
+  - concept/economics
   - author/Coleridge
   - form/lyric
   - motif/animals
@@ -26,7 +27,7 @@ tags:
 
 **Topoi:** [[Pastoral Retreat]]
 **Motifs:** [[Animals]], [[Chains]]
-**Themes & Concepts:** [[Social Injustice]], [[Poverty]], [[Reform]], [[Class Conflict]]
+**Themes & Concepts:** [[Social Injustice]], [[Poverty]], [[Reform]], [[Class Conflict]], [[Economics]]
 **Forms & Genres:** [[Lyric]]
 
 ## Testo integrale / Full text

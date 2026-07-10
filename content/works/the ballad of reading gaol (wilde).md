@@ -6,6 +6,7 @@ cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Wilde/_raw/031_The_Ballad_of_Reading_Gaol.md
 tags:
   - graph/work
+  - concept/history
   - author/Wilde
   - topos/memento_mori
   - topos/dance_of_death
@@ -63,7 +64,7 @@ tags:
 **Topoi:** [[Memento Mori]], [[Dance of Death]], [[Fortune's Wheel]]
 **Archetypes:** [[Scapegoat]], [[Christ Figure]], [[Outsider]], [[Martyr Saint]]
 **Motifs:** [[Death]], [[Blood]], [[Grave]], [[Cross]], [[Rose]], [[White and Red]], [[Clock]], [[Bells]], [[Dawn]], [[Supernatural]]
-**Themes & Concepts:** [[Mortality]], [[Guilt]], [[Mercy]], [[Justice Right and Wrong]], [[Social Injustice]], [[Grace and Redemption]], [[Martyrdom]], [[Conscience]], [[Alienation]], [[Terror and Horror]]
+**Themes & Concepts:** [[Mortality]], [[Guilt]], [[Mercy]], [[Justice Right and Wrong]], [[Social Injustice]], [[Grace and Redemption]], [[Martyrdom]], [[Conscience]], [[Alienation]], [[Terror and Horror]], [[History]]
 **Forms & Genres:** [[Ballad Ballade]], [[Elegy]], [[Lyric]]
 **Historical References:** [[Christianity]], [[Bible]], [[Regency Georgian England]]
 **Characters:** [[Christ]], [[Death Personified]]

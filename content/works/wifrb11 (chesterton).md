@@ -6,6 +6,9 @@ cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Chesterton/_raw/wifrb11.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - concept/appearance_vs_reality
   - concept/guilt
@@ -74,10 +77,10 @@ tags:
 
 **Archetypes:** [[Detective]], [[Christ Figure]], [[Double Doppelganger]], [[Trickster]]
 **Motifs:** [[Concealment Hidden Identity]], [[Light and Dark]], [[Blood]], [[Mirror]], [[Fire]], [[Secrets]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Guilt]], [[Ratiocination Detection]], [[Sin and the Fall]], [[Deception]], [[Conscience]], [[Grace and Redemption]], [[Good vs Evil]], [[Justice Right and Wrong]], [[Identity]], [[Greed and Money]]
+**Themes & Concepts:** [[Appearance vs Reality]], [[Guilt]], [[Ratiocination Detection]], [[Sin and the Fall]], [[Deception]], [[Conscience]], [[Grace and Redemption]], [[Good vs Evil]], [[Justice Right and Wrong]], [[Identity]], [[Greed and Money]], [[Economics]], [[History]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
 **Historical References:** [[Christianity]], [[Elizabethan England]], [[Ancient Rome]]
-**Settings:** [[London]], [[Italy]], [[Paris]], [[Germany]], [[America]]
+**Settings:** [[London]], [[Italy]], [[Paris]], [[Germany]], [[America]], [[Europe]]
 **Characters:** [[Father Brown]], [[Flambeau]]
 
 ## Testo integrale / Full text

@@ -6,6 +6,9 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/BalladStBarbara.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/ballad
   - form/lyric
@@ -86,13 +89,13 @@ tags:
 
 **Archetypes:** [[Martyr Saint]], [[Tyrant]]
 
-**Settings:** [[London]], [[Paris]], [[Desert]], [[Medieval England (2)]]
+**Settings:** [[London]], [[Paris]], [[Desert]], [[Medieval England (2)]], [[Europe]]
 
 **Characters:** [[Christ]], [[Herod Antipas]], [[Lazarus the Risen Man]], [[King Arthur]], [[Barbara]]
 
 **Topoi:** [[Ubi Sunt]], [[Sic Transit Gloria Mundi]], [[Last Stand]], [[Memento Mori]], [[World Upside Down]], [[Quest]]
 **Motifs:** [[Ruins the Abbey]], [[Grave]], [[Swords and Weapons]], [[Window]], [[Bells]], [[Stone and Marble]], [[Money and Gold]], [[Horse]], [[Eyes and Sight]], [[Fire]], [[Dragon]]
-**Themes & Concepts:** [[War and its Cost]], [[Martyrdom]], [[Faith]], [[Nostalgia]], [[Distributism]], [[Social Injustice]], [[Nationalism and Patriotism]], [[Conversion]], [[Satire of Society]], [[Critique of Progress]], [[Freedom and Liberty]], [[Marriage and Fidelity]], [[Self-Sacrifice]], [[Grief and Loss]], [[Greed and Money]]
+**Themes & Concepts:** [[War and its Cost]], [[Martyrdom]], [[Faith]], [[Nostalgia]], [[Distributism]], [[Social Injustice]], [[Nationalism and Patriotism]], [[Conversion]], [[Satire of Society]], [[Critique of Progress]], [[Freedom and Liberty]], [[Marriage and Fidelity]], [[Self-Sacrifice]], [[Grief and Loss]], [[Greed and Money]], [[Economics]], [[History]]
 **Forms & Genres:** [[Ballad Ballade]], [[Lyric]], [[Sonnet]], [[Elegy]], [[Satire]]
 **Historical References:** [[First World War]], [[Crusades]], [[Christianity]], [[Arthurian Legend]], [[French Revolution]], [[Industrial Revolution]], [[British Empire]]
 

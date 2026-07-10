@@ -6,6 +6,7 @@ cluster: Alienation · Outsider · Exile
 source: Authors/Coleridge/_raw/174_HOME-SICK.md
 tags:
   - graph/work
+  - setting/europe
   - author/Coleridge
   - form/lyric
   - concept/exile
@@ -26,7 +27,7 @@ tags:
 **Motifs:** [[Wind]]
 **Themes & Concepts:** [[Exile]], [[Nostalgia]], [[Nationalism and Patriotism]], [[Marriage and Fidelity]]
 **Forms & Genres:** [[Lyric]]
-**Settings:** [[Germany]]
+**Settings:** [[Germany]], [[Europe]]
 
 ## Testo integrale / Full text
 

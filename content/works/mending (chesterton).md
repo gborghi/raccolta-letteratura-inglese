@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/mending.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - concept/reform
@@ -43,7 +44,7 @@ tags:
 
 **Topoi:** [[Great Chain of Being]]
 **Themes & Concepts:** [[Reform]], [[Paradox]], [[Critique of Progress]], [[Charity]], [[Justice Right and Wrong]]
-**Forms & Genres:** [[Essay]], [[Apologetics]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

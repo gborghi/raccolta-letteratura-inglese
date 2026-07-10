@@ -6,6 +6,8 @@ cluster: Ship · Endurance
 source: Authors/Chesterton/_raw/titanic.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - form/essay
   - concept/critique_of_progress
@@ -60,8 +62,8 @@ tags:
 **Characters:** [[Sylvia Pankhurst]], [[W. T. Stead]]
 
 **Motifs:** [[Ship]], [[Sea]]
-**Themes & Concepts:** [[Critique of Progress]], [[Satire of Society]], [[Class Conflict]], [[Mortality]], [[Heroism]], [[Equality in Death]], [[Self-Sacrifice]], [[Democracy]], [[Comradeship]], [[Conscience]], [[Courage]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Critique of Progress]], [[Satire of Society]], [[Class Conflict]], [[Mortality]], [[Heroism]], [[Equality in Death]], [[Self-Sacrifice]], [[Democracy]], [[Comradeship]], [[Conscience]], [[Courage]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Settings:** [[Ship]], [[Sea (2)]]
 
 ## Testo integrale / Full text

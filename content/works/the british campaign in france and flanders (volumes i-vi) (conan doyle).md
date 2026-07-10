@@ -7,6 +7,9 @@ source: >-
   Authors/Conan_Doyle/_raw/THE_BRITISH_CAMPAIGN_IN_FRANCE_AND_FLANDERS_VOLUMES_I-VI.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Conan_Doyle
   - form/essay
   - concept/war_and_its_cost
@@ -33,10 +36,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]]
-**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Empire and Imperialism]], [[Courage]], [[Endurance]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Empire and Imperialism]], [[Courage]], [[Endurance]], [[History]]
 **Motifs:** [[Blood]], [[Flags and Banners]]
 **Historical References:** [[First World War]], [[British Empire]], [[Kaiser Wilhelm II]]
-**Settings:** [[Continental Europe (Brussels)]], [[Battlefield]], [[France]]
+**Settings:** [[Continental Europe (Brussels)]], [[Battlefield]], [[France]], [[Europe]]
 **Archetypes:** [[Hero]]
 **Topoi:** [[War as Glory]], [[Last Stand]]

@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Wilde/_raw/014_The_Devoted_Friend.md
 tags:
   - graph/work
+  - concept/economics
   - author/Wilde
   - concept/friendship
   - concept/deception
@@ -50,7 +51,7 @@ tags:
 **Topoi:** [[World Upside Down]]
 **Archetypes:** [[Trickster]], [[Villain]], [[Innocent]], [[Scapegoat]]
 **Motifs:** [[Garden]], [[Flowers]], [[Animals]], [[Storm]], [[Water]], [[Death]], [[Seasons]]
-**Themes & Concepts:** [[Friendship]], [[Deception]], [[Satire of Society]], [[Appearance vs Reality]], [[Class Conflict]], [[Grief and Loss]]
+**Themes & Concepts:** [[Friendship]], [[Deception]], [[Satire of Society]], [[Appearance vs Reality]], [[Class Conflict]], [[Grief and Loss]], [[Economics]]
 **Forms & Genres:** [[Fable]], [[Fairy Tale Fantasy]], [[Satire]]
 **Settings:** [[Pastoral Countryside]]
 **Characters:** [[Little Hans]], [[Hugh the Miller]]

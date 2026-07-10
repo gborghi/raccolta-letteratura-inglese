@@ -6,6 +6,7 @@ cluster: Court · Medieval England · History Play
 source: Authors/Keats/_raw/002_CALIDORE.md
 tags:
   - graph/work
+  - concept/history
   - author/Keats
   - form/romance_medieval
   - motif/nature
@@ -23,6 +24,7 @@ tags:
 
 ## Connections
 
+**Themes & Concepts:** [[History]]
 **Topoi:** [[Locus Amoenus]]
 **Archetypes:** [[Hero]]
 **Motifs:** [[Nature]]

@@ -6,6 +6,7 @@ cluster: Verona
 source: Authors/Shakespeare/_raw/000_The_Two_Gentlemen_of_Verona.md
 tags:
   - graph/work
+  - setting/europe
   - author/Shakespeare
   - form/comedy
   - form/verse_drama
@@ -74,7 +75,7 @@ tags:
 **Themes & Concepts:** [[Romantic Love]], [[Friendship]], [[Marriage and Fidelity]], [[Deception]], [[Unrequited Frustrated Love]], [[Identity]]
 **Forms & Genres:** [[Comedy]], [[Verse Drama]], [[Blank Verse]]
 **Historical References:** [[Elizabethan England]]
-**Settings:** [[Italy]], [[Verona]]
+**Settings:** [[Italy]], [[Verona]], [[Europe]]
 **Characters:** [[Valentine]], [[Proteus]], [[Julia]], [[Silvia]], [[Launce]], [[Speed]], [[Duke of Milan]], [[Thurio]]
 
 ## Testo integrale / Full text

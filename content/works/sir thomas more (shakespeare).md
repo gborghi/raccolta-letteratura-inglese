@@ -6,6 +6,8 @@ cluster: Court · Medieval England · History Play
 source: Authors/Shakespeare/_raw/031_Sir_Thomas_More.md
 tags:
   - graph/work
+  - concept/history
+  - concept/economics
   - author/Shakespeare
   - form/history_play
   - form/verse_drama
@@ -70,7 +72,7 @@ tags:
 **Topoi:** [[Fortune's Wheel]], [[Contemptus Mundi]], [[Memento Mori]]
 **Archetypes:** [[Martyr Saint]], [[King]], [[Rebel]]
 **Motifs:** [[Cross]], [[City]], [[Grave]]
-**Themes & Concepts:** [[Martyrdom]], [[Conscience]], [[Kingship and Legitimacy]], [[Order vs Chaos]], [[Class Conflict]], [[Exile]], [[Faith]], [[Humility]], [[Mortality]]
+**Themes & Concepts:** [[Martyrdom]], [[Conscience]], [[Kingship and Legitimacy]], [[Order vs Chaos]], [[Class Conflict]], [[Exile]], [[Faith]], [[Humility]], [[Mortality]], [[Economics]], [[History]]
 **Forms & Genres:** [[History Play]], [[Verse Drama]], [[Blank Verse]]
 **Historical References:** [[Christianity]], [[Catholic Church]], [[Reformation]], [[Medieval England]]
 **Settings:** [[London]], [[Court]]

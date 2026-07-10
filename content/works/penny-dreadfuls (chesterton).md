@@ -6,6 +6,8 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/penny-dreadfuls.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/literary_criticism
@@ -56,8 +58,8 @@ tags:
 
 **Characters:** [[Robin Hood]], [[Dick Deadshot]]
 
-**Themes & Concepts:** [[Common Man]], [[Heroism]], [[Imagination]], [[Satire of Society]], [[Artist and Society]], [[Class Conflict]], [[Crime and Punishment]], [[Truth]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]]
+**Themes & Concepts:** [[Common Man]], [[Heroism]], [[Imagination]], [[Satire of Society]], [[Artist and Society]], [[Class Conflict]], [[Crime and Punishment]], [[Truth]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -6,6 +6,7 @@ cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Wilde/_raw/022_The_Sphinx_Without_a_Secret.md
 tags:
   - graph/work
+  - setting/europe
   - author/Wilde
   - concept/appearance_vs_reality
   - concept/deception
@@ -42,7 +43,7 @@ tags:
 **Themes & Concepts:** [[Appearance vs Reality]], [[Deception]], [[Unrequited Frustrated Love]], [[Identity]], [[Romantic Love]]
 **Forms & Genres:** [[Short Story]]
 **Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]], [[Paris]]
+**Settings:** [[London]], [[Paris]], [[Europe]]
 
 ## Testo integrale / Full text
 

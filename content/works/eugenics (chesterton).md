@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/Eugenics.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - concept/social_injustice
   - concept/power_and_corruption
@@ -55,8 +57,8 @@ tags:
 
 **Motifs:** [[Home]], [[Prison]]
 
-**Themes & Concepts:** [[Social Injustice]], [[Power and Corruption]], [[Critique of Progress]], [[Common Man]], [[Poverty]], [[Class Conflict]], [[Distributism]], [[Doubt]], [[Freedom and Liberty]], [[Slavery]], [[Democracy]], [[Reform]], [[Natural Order]], [[Capitalism]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Themes & Concepts:** [[Social Injustice]], [[Power and Corruption]], [[Critique of Progress]], [[Common Man]], [[Poverty]], [[Class Conflict]], [[Distributism]], [[Doubt]], [[Freedom and Liberty]], [[Slavery]], [[Democracy]], [[Reform]], [[Natural Order]], [[Capitalism]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -6,6 +6,7 @@ cluster: Court · Medieval England · History Play
 source: Authors/Shakespeare/_raw/020_2_Henry_IV.md
 tags:
   - graph/work
+  - concept/history
   - author/Shakespeare
   - topos/theatrum_mundi
   - topos/tempus_fugit
@@ -68,7 +69,7 @@ tags:
 **Topoi:** [[Theatrum Mundi]], [[Tempus Fugit]], [[Memento Mori]]
 **Archetypes:** [[Fool]], [[King]], [[Rebel]]
 **Motifs:** [[Inn Tavern]], [[Time]], [[Death]], [[Crown]], [[Madness (2)]]
-**Themes & Concepts:** [[Kingship and Legitimacy]], [[Mortality]], [[Conscience]], [[Power and Corruption]], [[Disillusionment]], [[Maturation and Growth]]
+**Themes & Concepts:** [[Kingship and Legitimacy]], [[Mortality]], [[Conscience]], [[Power and Corruption]], [[Disillusionment]], [[Maturation and Growth]], [[History]]
 **Forms & Genres:** [[History Play]], [[Blank Verse]], [[Verse Drama]]
 **Historical References:** [[Medieval England]]
 **Settings:** [[Court]], [[Inn]]

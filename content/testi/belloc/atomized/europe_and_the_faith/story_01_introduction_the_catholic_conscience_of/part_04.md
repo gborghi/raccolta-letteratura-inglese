@@ -1,0 +1,35 @@
+---
+title: "Europe and the Faith — INTRODUCTION. THE CATHOLIC CONSCIENCE OF HISTORY (part 4)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/europe-and-the-faith-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/europe-and-the-faith-(belloc)">Europe and the Faith</a> › <a href="/testi/belloc/atomized/europe_and_the_faith/story_01_introduction_the_catholic_conscience_of">Story 01 INTRODUCTION THE CATHOLIC CONSCIENCE OF</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/europe_and_the_faith/story_01_introduction_the_catholic_conscience_of/part_03">‹ part 03</a><a class="ex-next" href="/testi/belloc/atomized/europe_and_the_faith/story_01_introduction_the_catholic_conscience_of/part_05">part 05 ›</a></div>
+</nav>
+
+
+He sees that the stand made by St. Thomas was not very important in its special claims, and was probably (taken as an isolated action) unreasonable. But he soon gets to see, as he reads and as he notes the rapid and profound transformation of all civilization which was taking place in that generation, that St. Thomas was standing out for a principle, ill clothed in his particular plea, but absolute in its general appreciation: the freedom of the Church. He stood out in particular for what had been the concrete symbols of the Church’s liberty in the past. The direction of his actions was everything, whether his symbol was well or ill chosen. The particular customs might go. But to challenge the new claims of civil power at that moment was to save the Church. A movement was afoot which might have then everywhere accomplished what was only accomplished in parts of Europe four hundred years later, to wit, a dissolution of the unity and the discipline of Christendom.
+
+St. Thomas had to fight on ground chosen by the enemy; he fought and he resisted in the spirit dictated by the Church. He fought for no dogmatic point, he fought for no point to which the Church of five hundred years earlier or five hundred years later would have attached importance. He fought for things which were purely temporal arrangements; which had indeed until quite recently been the guarantee of the Church’s liberty, but which were in his time upon the turn of becoming negligible. But the spirit in which he fought was a determination that the Church should never be controlled by the civil power, and the spirit against which he fought was the spirit which either openly or secretly believes the Church to be an institution merely human, and therefore naturally subjected, as an inferior, to the processes of the monarch’s (or, worse, the politician’s) law.
+
+A Catholic sees, as he reads the story, that St. Thomas was obviously and necessarily to lose, in the long run, every concrete point on which he had stood out, and yet he saved throughout Europe the ideal thing for which he was standing out. A Catholic perceives clearly why the enthusiasm of the populace rose: the guarantee of the plain man’s healthy and moral existence against the threat of the wealthy, and the power of the State — the self-government of the general Church, had been defended by a champion up to the point of death. For the morals enforced by the Church are the guarantee of freedom.
+
+Further the Catholic reader is not content, as is the non-Catholic, with a blind, irrational assertion that the miracles could not take place. He is not wholly possessed of a firm, and lasting [[Faith|faith]] that no marvelous events ever take place. He reads the evidence. He cannot believe that there was a conspiracy of falsehood (in the lack of all proof of such conspiracy). He is moved to a conviction that events so minutely recorded and so amply testified, happened. Here again is the European, the chiefly reasonable man, the Catholic, pitted against the barbarian skeptic with his empty, unproved, mechanical dogmas of material sequence.
+
+And these miracles, for a Catholic reader, are but the extreme points fitting in with the whole scheme. He knows what European civilization was before the twelfth century. He knows what it was to become after the sixteenth. He knows why and how the Church would stand out against a certain itch for change. He appreciates why and how a character like that of St. Thomas would resist. He is in no way perplexed to find that the resistance failed on its technical side. He sees that it succeeded so thoroughly in its spirit as to prevent, in a moment when its occurrence would have been far more dangerous and general than in the sixteenth century, the overturning of the connection between Church and State.
+
+The enthusiasm of the populace he particularly comprehends. He grasps the connection between that enthusiasm and the miracles which attended St. Thomas’ intercession; not because the miracles were fantasies, but because a popular recognition of deserved sanctity is the later accompaniment and the recipient of miraculous power.
+
+It is the details of history which require the closest analysis. I have, therefore, chosen a significant detail with which to exemplify my case.
+
+Just as a man who thoroughly understands the character of the English squires and of their position in the English countrysides would have to explain at some length (and with difficulty) to a foreigner how and why the evils of the English large estates were, though evils, national; just as a particular landlord case of peculiar complexity or violent might afford him a special test; so the martyrdom of St. Thomas makes, for the Catholic who is viewing Europe, a very good example whereby he can show how well he understands what is to other men not understandable, and how simple is to him, and how human, a process which, to men not Catholic, can only be explained by the most grotesque assumptions; as that universal contemporary testimony must be ignored; that men are ready to die for things in which they do not believe; that the philosophy of a society does not permeate that society; or that a popular enthusiasm ubiquitous and unchallenged, is mechanically produced to the order of some centre of government! All these absurdities are connoted in the non-Catholic view of the great quarrel, nor is there any but the Catholic conscience of Europe that explains it.
+
+The Catholic sees that the whole of the à Becket business was like the struggle of a man who is fighting for his liberty and is compelled to maintain it (such being the battleground chosen by his opponents) upon a privilege inherited from the past. The non-Catholic simply cannot understand it and does not pretend to understand it.
+
+Now let us turn from this second example, highly definite and limited, to a third quite different from either of the other two and the widest of all. Let us turn to the general aspect of all European history. We can here make a list of the great lines on which the Catholic can appreciate what other men only puzzle at, and can determine and know those things upon which other men make no more than a guess.

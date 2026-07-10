@@ -6,6 +6,7 @@ cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Chesterton/_raw/grocer.md
 tags:
   - graph/work
+  - concept/economics
   - author/Chesterton
   - concept/satire_of_society
   - concept/anti_industrialism
@@ -44,7 +45,7 @@ tags:
 
 **Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]], [[Memento Mori]]
 **Motifs:** [[Wine and Drink]], [[Food and Feasting]], [[Inn Tavern]], [[Money and Gold]], [[Poison]]
-**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Common Man]], [[Distributism]], [[Deception]], [[Greed and Money]]
+**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Common Man]], [[Distributism]], [[Deception]], [[Greed and Money]], [[Economics]]
 **Forms & Genres:** [[Comic Verse Song]], [[Ballad Ballade]], [[Satire]]
 **Settings:** [[Inn]]
 

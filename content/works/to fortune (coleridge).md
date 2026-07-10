@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Coleridge/_raw/049_TO_FORTUNE.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Coleridge
   - form/essay
   - form/satire
@@ -22,7 +23,7 @@ tags:
 
 **Topoi:** [[Fortune's Wheel]]
 **Themes & Concepts:** [[Satire of Society]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -6,6 +6,7 @@ cluster: Ghosts · Ghost · Death and Love
 source: Authors/Bronte/_raw/Wuthering Heights.md
 tags:
   - graph/work
+  - concept/economics
   - author/Bronte
   - concept/love_romantic
   - concept/revenge
@@ -92,7 +93,7 @@ tags:
 
 **Archetypes:** [[Outsider]], [[Avenger]], [[Satanic Figure]], [[Ghost]]
 **Motifs:** [[Ghosts]], [[Supernatural]], [[Storm]], [[Nature]], [[Grave]], [[Death]], [[Dreams]], [[Window]]
-**Themes & Concepts:** [[Romantic Love]], [[Revenge]], [[Grief and Loss]], [[Alienation]], [[Class Conflict]], [[Nature vs Civilization]], [[Lust Sexual Desire]], [[Good vs Evil]], [[Mortality]]
+**Themes & Concepts:** [[Romantic Love]], [[Revenge]], [[Grief and Loss]], [[Alienation]], [[Class Conflict]], [[Nature vs Civilization]], [[Lust Sexual Desire]], [[Good vs Evil]], [[Mortality]], [[Economics]]
 **Forms & Genres:** [[Novel]], [[Gothic Novel]]
 **Settings:** [[Rural England]]
 **Characters:** [[Heathcliff]], [[Catherine Earnshaw]], [[Edgar Linton]], [[Nelly Dean]], [[Mr Lockwood]], [[Hindley Earnshaw]], [[Isabella Linton]], [[Hareton Earnshaw]], [[Linton Heathcliff]], [[Cathy Linton]]

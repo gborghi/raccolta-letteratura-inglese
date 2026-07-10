@@ -6,6 +6,7 @@ cluster: Education · Self-Made Man · Wheel
 source: Authors/Dickens/_raw/Hard_Times.md
 tags:
   - graph/work
+  - concept/economics
   - author/Dickens
   - form/social_novel
   - form/novel
@@ -130,7 +131,7 @@ tags:
 
 **Archetypes:** [[Self-Made Man]], [[Common Man (2)]], [[Innocent]]
 **Motifs:** [[City]], [[Fog and Smoke]], [[Fire]], [[Money and Gold]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Class Conflict]], [[Social Injustice]], [[Poverty]], [[Education]], [[Imagination]], [[Reform]], [[Satire of Society]], [[Marriage and Fidelity]]
+**Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Class Conflict]], [[Social Injustice]], [[Poverty]], [[Education]], [[Imagination]], [[Reform]], [[Satire of Society]], [[Marriage and Fidelity]], [[Economics]]
 **Forms & Genres:** [[Social Novel (Novel of Manners)]], [[Novel]], [[Satire]]
 **Historical References:** [[Industrial Revolution]], [[Regency Georgian England]]
 **Settings:** [[Industrial City]]

@@ -6,6 +6,7 @@ cluster: Education · Self-Made Man · Wheel
 source: Authors/Bronte/_raw/Agnes Grey.md
 tags:
   - graph/work
+  - concept/economics
   - author/Bronte
   - form/novel
   - form/bildungsroman
@@ -73,7 +74,7 @@ tags:
 
 **Archetypes:** [[Outsider]]
 **Motifs:** [[Money and Gold]], [[Sea]]
-**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Class Conflict]], [[Faith]], [[Humility]], [[Romantic Love]], [[Marriage and Fidelity]], [[Education]], [[Maturation and Growth]], [[Identity]]
+**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Class Conflict]], [[Faith]], [[Humility]], [[Romantic Love]], [[Marriage and Fidelity]], [[Education]], [[Maturation and Growth]], [[Identity]], [[Economics]]
 **Forms & Genres:** [[Novel]], [[Bildungsroman]], [[Social Novel (Novel of Manners)]]
 **Historical References:** [[Christianity]]
 **Settings:** [[Rural England]]

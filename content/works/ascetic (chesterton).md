@@ -6,6 +6,7 @@ cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Chesterton/_raw/ascetic.md
 tags:
   - graph/work
+  - concept/economics
   - author/Chesterton
   - form/ballad
   - form/satire
@@ -44,7 +45,7 @@ tags:
 **Characters:** [[Higgins]]
 
 **Motifs:** [[Wine and Drink]], [[Fire]], [[Death]], [[Money and Gold]]
-**Themes & Concepts:** [[Joy]], [[Faith]], [[Spiritual Emptiness]], [[Critique of Progress]], [[Satire of Society]], [[Self-Denial and Renunciation]], [[Money and Avarice]], [[Poverty]]
+**Themes & Concepts:** [[Joy]], [[Faith]], [[Spiritual Emptiness]], [[Critique of Progress]], [[Satire of Society]], [[Self-Denial and Renunciation]], [[Money and Avarice]], [[Poverty]], [[Economics]]
 **Forms & Genres:** [[Ballad Ballade]], [[Satire]]
 **Historical References:** [[Classical Antiquity]]
 

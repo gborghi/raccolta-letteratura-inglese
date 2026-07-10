@@ -6,6 +6,7 @@ cluster: Guilt · Conscience · Fate and Free Will
 source: Authors/Eliot/_raw/096_MURDER_IN_THE_CATHEDRAL.md
 tags:
   - graph/work
+  - concept/history
   - author/Eliot
   - form/verse_drama
   - form/tragedy
@@ -51,7 +52,7 @@ tags:
 **Topoi:** [[Fortune's Wheel]]
 **Archetypes:** [[Martyr Saint]], [[Christ Figure]]
 **Motifs:** [[Wheel]], [[Blood]], [[Cross]], [[Bread and Wine Eucharist]], [[Seasons]], [[Swords and Weapons]], [[Death]]
-**Themes & Concepts:** [[Martyrdom]], [[Temptation]], [[Faith]], [[Conscience]], [[Power and Corruption]], [[Pride]], [[Humility]], [[Providence]], [[Kingship and Legitimacy]], [[Common Man]], [[Good vs Evil]], [[Fate and Free Will]]
+**Themes & Concepts:** [[Martyrdom]], [[Temptation]], [[Faith]], [[Conscience]], [[Power and Corruption]], [[Pride]], [[Humility]], [[Providence]], [[Kingship and Legitimacy]], [[Common Man]], [[Good vs Evil]], [[Fate and Free Will]], [[History]]
 **Forms & Genres:** [[Verse Drama]], [[Tragedy]]
 **Historical References:** [[Medieval England]], [[Catholic Church]], [[Christianity]], [[Bible]]
 **Settings:** [[Cathedral]], [[Medieval England (2)]]

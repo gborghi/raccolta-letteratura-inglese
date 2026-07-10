@@ -6,6 +6,7 @@ cluster: Maturation and Growth · Childhood · Innocence and Experience
 source: Authors/Chesterton/_raw/artist.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
   - author/Chesterton
   - form/narrative_poem
   - form/satire
@@ -58,7 +59,7 @@ tags:
 
 **Topoi:** [[World Upside Down]], [[Fall from Innocence]], [[Locus Amoenus]]
 **Archetypes:** [[Child]], [[Artist]], [[Fool]], [[Wise Old Man Sage]]
-**Motifs:** [[Dreams]], [[Nature]], [[Childhood]], [[Flowers]], [[Moon]], [[Sun]], [[Sea]], [[Stars]]
+**Motifs:** [[Dreams]], [[Nature]], [[Childhood]], [[Flowers]], [[Moon]], [[Sun]], [[Sea]], [[Stars]], [[Sea and Voyage]]
 **Themes & Concepts:** [[Artist and Society]], [[Satire of Society]], [[Wonder and Gratitude]], [[Innocence and Experience]], [[Maturation and Growth]], [[Nature vs Civilization]], [[Order vs Chaos]], [[Critique of Progress]], [[Vanity]], [[Indolence]]
 **Forms & Genres:** [[Narrative Poem]], [[Satire]], [[Comic Verse Song]]
 

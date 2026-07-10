@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Poe/_raw/How to Write a Blackwood Article.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Poe
   - concept/satire_of_society
   - concept/the_artist_and_society
@@ -43,7 +44,7 @@ tags:
 
 **Motifs:** [[Letters and Writing]], [[Book Reading]], [[Clothing and Costume]]
 **Themes & Concepts:** [[Satire of Society]], [[Artist and Society]], [[Deception]], [[Pride]], [[Terror and Horror]]
-**Forms & Genres:** [[Satire]], [[Parody]], [[Literary Criticism]]
+**Forms & Genres:** [[Satire]], [[Parody]], [[Literary Criticism]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

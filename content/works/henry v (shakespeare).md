@@ -6,6 +6,7 @@ cluster: Court · Medieval England · History Play
 source: Authors/Shakespeare/_raw/022_Henry_V.md
 tags:
   - graph/work
+  - concept/history
   - author/Shakespeare
   - topos/war_as_glory
   - topos/the_last_stand
@@ -75,7 +76,7 @@ tags:
 **Topoi:** [[War as Glory]], [[Last Stand]], [[Theatrum Mundi]]
 **Archetypes:** [[King]], [[Hero]]
 **Motifs:** [[Swords and Weapons]], [[Crown]], [[Dawn]]
-**Themes & Concepts:** [[War and its Cost]], [[Heroism]], [[Kingship and Legitimacy]], [[Nationalism and Patriotism]], [[Honour]]
+**Themes & Concepts:** [[War and its Cost]], [[Heroism]], [[Kingship and Legitimacy]], [[Nationalism and Patriotism]], [[Honour]], [[History]]
 **Forms & Genres:** [[History Play]], [[Blank Verse]], [[Verse Drama]]
 **Historical References:** [[Medieval England]]
 **Settings:** [[Battlefield]], [[Court]]

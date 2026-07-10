@@ -6,6 +6,7 @@ cluster: Blood · Verse Drama · Revenge
 source: Authors/Shakespeare/_raw/017_The_Merchant_of_Venice.md
 tags:
   - graph/work
+  - setting/europe
   - author/Shakespeare
   - concept/justice
   - concept/mercy
@@ -70,7 +71,7 @@ tags:
 **Themes & Concepts:** [[Justice Right and Wrong]], [[Mercy]], [[Revenge]], [[Alienation]], [[Romantic Love]], [[Friendship]], [[Appearance vs Reality]]
 **Forms & Genres:** [[Tragicomedy]], [[Comedy]], [[Verse Drama]]
 **Historical References:** [[Bible]]
-**Settings:** [[Venice]]
+**Settings:** [[Venice]], [[Europe]]
 **Characters:** [[Shylock]], [[Portia]], [[Antonio]], [[Bassanio]], [[Jessica]], [[Lorenzo]], [[Gratiano]], [[Nerissa]], [[Launcelot Gobbo]]
 
 ## Testo integrale / Full text

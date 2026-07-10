@@ -6,6 +6,7 @@ cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Wilde/_raw/007_La_Sainte_Courtisane.md
 tags:
   - graph/work
+  - concept/history
   - author/Wilde
   - concept/conversion
   - concept/faith_and_doubt
@@ -48,7 +49,7 @@ tags:
 **Topoi:** [[Contemptus Mundi]], [[Love as Religion]], [[World Upside Down]]
 **Archetypes:** [[Femme Fatale]], [[(Reputed) Fallen Woman]], [[Temptress]], [[Pilgrim]]
 **Motifs:** [[Cross]], [[Desire]], [[Death]], [[Clothing and Costume]], [[Money and Gold]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Conversion]], [[Faith and Doubt]], [[Temptation]], [[Lust Sexual Desire]], [[Sin and the Fall]], [[Grace and Redemption]], [[Martyrdom]]
+**Themes & Concepts:** [[Conversion]], [[Faith and Doubt]], [[Temptation]], [[Lust Sexual Desire]], [[Sin and the Fall]], [[Grace and Redemption]], [[Martyrdom]], [[History]]
 **Forms & Genres:** [[Verse Drama]], [[Fragment]]
 **Historical References:** [[Christianity]], [[Bible]], [[Classical Antiquity]]
 **Settings:** [[Egypt]]

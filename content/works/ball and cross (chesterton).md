@@ -6,6 +6,7 @@ cluster: Allegory · Quest · Pilgrim
 source: Authors/Chesterton/_raw/ball_and_cross.md
 tags:
   - graph/work
+  - concept/history
   - author/Chesterton
   - form/novel
   - form/allegory
@@ -102,7 +103,7 @@ tags:
 **Topoi:** [[Quest]], [[World Upside Down]], [[Combat Strife]], [[Locus Amoenus]], [[Last Stand]]
 **Archetypes:** [[Satanic Figure]], [[Pilgrim]], [[Fool]], [[Rebel]], [[Christ Figure]], [[Lover]], [[Wise Old Man Sage]]
 **Motifs:** [[Swords and Weapons]], [[Cross]], [[Fire]], [[Sea]], [[Journey]], [[Madness (2)]], [[Dreams]], [[Imprisonment (2)]], [[Garden]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Doubt]], [[Good vs Evil]], [[Honour]], [[Heroism]], [[Madness]], [[Temptation]], [[Satire of Society]], [[Fanaticism]], [[Friendship]], [[Romantic Love]], [[Reconciliation]], [[Grace and Redemption]]
+**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Doubt]], [[Good vs Evil]], [[Honour]], [[Heroism]], [[Madness]], [[Temptation]], [[Satire of Society]], [[Fanaticism]], [[Friendship]], [[Romantic Love]], [[Reconciliation]], [[Grace and Redemption]], [[History]]
 **Forms & Genres:** [[Novel]], [[Allegory]], [[Satire]]
 **Historical References:** [[Christianity]], [[Catholic Church]], [[French Revolution]], [[Bible]]
 **Settings:** [[Scotland the Highlands]], [[London]], [[Garden (2)]], [[Ship]]

@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Poe/_raw/Some Words with a Mummy.md
 tags:
   - graph/work
+  - concept/economics
   - author/Poe
   - concept/critique_of_progress
   - concept/satire_of_society
@@ -51,7 +52,7 @@ tags:
 **Topoi:** [[Sleeper Awakes]], [[World Upside Down]]
 **Archetypes:** [[Monster]]
 **Motifs:** [[Supernatural]], [[Grave]], [[Ruins the Abbey]], [[Clothing and Costume]]
-**Themes & Concepts:** [[Critique of Progress]], [[Satire of Society]], [[Grotesque]], [[Appearance vs Reality]], [[Anti-Industrialism]]
+**Themes & Concepts:** [[Critique of Progress]], [[Satire of Society]], [[Grotesque]], [[Appearance vs Reality]], [[Anti-Industrialism]], [[Economics]]
 **Forms & Genres:** [[Satire]], [[Short Story]]
 **Historical References:** [[Industrial Revolution]]
 **Settings:** [[Egypt]]

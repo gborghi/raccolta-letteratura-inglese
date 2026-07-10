@@ -6,6 +6,7 @@ cluster: Dreams · Moon
 source: Authors/Coleridge/_raw/173_SOMETHING_CHILDISH_BUT_VERY_NATURAL.md
 tags:
   - graph/work
+  - setting/europe
   - author/Coleridge
   - form/lyric
   - concept/love_romantic
@@ -26,7 +27,7 @@ tags:
 **Motifs:** [[Dreams]], [[Sleep]], [[Birds]]
 **Themes & Concepts:** [[Romantic Love]], [[Exile]]
 **Forms & Genres:** [[Lyric]]
-**Settings:** [[Germany]]
+**Settings:** [[Germany]], [[Europe]]
 
 ## Testo integrale / Full text
 

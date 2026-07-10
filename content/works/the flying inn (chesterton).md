@@ -6,6 +6,8 @@ cluster: Wine and Drink · Ballad Ballade · Road
 source: Authors/Chesterton/_raw/The_Flying_Inn.md
 tags:
   - graph/work
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - concept/satire_of_society
   - concept/critique_of_progress
@@ -97,7 +99,7 @@ tags:
 **Topoi:** [[Open Road Homecoming]], [[World Upside Down]], [[Carpe Diem]]
 **Archetypes:** [[Rebel]], [[Outsider]], [[Trickster]], [[Prophet]]
 **Motifs:** [[Wine and Drink]], [[Inn Tavern]], [[Road]], [[Journey]], [[Sea]], [[Music and Song]], [[Cross]], [[Food and Feasting]], [[Machine]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Nationalism and Patriotism]], [[Common Man]], [[Distributism]], [[Joy]], [[Faith and Doubt]], [[Good vs Evil]], [[Heroism]], [[Romantic Love]], [[Deception]], [[Fanaticism]], [[Power and Corruption]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Nationalism and Patriotism]], [[Common Man]], [[Distributism]], [[Joy]], [[Faith and Doubt]], [[Good vs Evil]], [[Heroism]], [[Romantic Love]], [[Deception]], [[Fanaticism]], [[Power and Corruption]], [[Economics]], [[History]]
 **Forms & Genres:** [[Novel]], [[Satire]], [[Comic Verse Song]]
 **Historical References:** [[Christianity]], [[Islam and the East]], [[Crusades]]
 **Settings:** [[Rural England]], [[Sea (2)]], [[Inn]]

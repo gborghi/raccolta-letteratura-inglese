@@ -6,6 +6,7 @@ cluster: Terror and Horror · Madness
 source: Authors/Poe/_raw/The Imp of the Perverse.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Poe
   - concept/guilt
   - concept/conscience
@@ -35,7 +36,7 @@ tags:
 **Archetypes:** [[Satanic Figure]]
 **Motifs:** [[Madness (2)]], [[Death]], [[Clock]]
 **Themes & Concepts:** [[Guilt]], [[Conscience]], [[Fate and Free Will]], [[Madness]], [[Self-Knowledge]], [[Terror and Horror]], [[Good vs Evil]]
-**Forms & Genres:** [[Essay]], [[Short Story]]
+**Forms & Genres:** [[Essay]], [[Short Story]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -6,6 +6,7 @@ cluster: Social Novel (Novel of Manners)
 source: Authors/Austen/_raw/Emma.md
 tags:
   - graph/work
+  - concept/economics
   - author/Austen
   - concept/marriage_and_fidelity
   - concept/love_romantic
@@ -104,7 +105,7 @@ tags:
 
 **Archetypes:** [[Lover]]
 **Motifs:** [[Marriage]], [[Letters and Writing]]
-**Themes & Concepts:** [[Marriage and Fidelity]], [[Romantic Love]], [[Class Conflict]], [[Appearance vs Reality]], [[Satire of Society]], [[Self-Knowledge]], [[Pride]], [[Deception]], [[Maturation and Growth]]
+**Themes & Concepts:** [[Marriage and Fidelity]], [[Romantic Love]], [[Class Conflict]], [[Appearance vs Reality]], [[Satire of Society]], [[Self-Knowledge]], [[Pride]], [[Deception]], [[Maturation and Growth]], [[Economics]]
 **Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Satire]]
 **Historical References:** [[Regency Georgian England]]
 **Settings:** [[Rural England]]

@@ -6,6 +6,8 @@ cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Chesterton/_raw/FourFaultlessFelons.md
 tags:
   - graph/work
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/detective_fiction
   - form/short_story
@@ -99,7 +101,7 @@ tags:
 **Characters:** [[Count Raoul de Marillac]], [[John Hume]], [[Barbara Traill]], [[Walter Windrush]], [[Jacob Nadoway]], [[Alan Nadoway]], [[Colonel Grimm]], [[Isidor Simon]]
 
 **Archetypes:** [[Detective]], [[Scapegoat]], [[Trickster]], [[Antihero]]
-**Themes & Concepts:** [[Paradox]], [[Appearance vs Reality]], [[Ratiocination Detection]], [[Innocence and Experience]], [[Guilt]], [[Justice Right and Wrong]], [[Deception]], [[Self-Sacrifice]], [[Distributism]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Kingship and Legitimacy]], [[Power and Corruption]], [[Eastern Religion and Asceticism]], [[Self-Denial and Renunciation]], [[Money and Avarice]]
+**Themes & Concepts:** [[Paradox]], [[Appearance vs Reality]], [[Ratiocination Detection]], [[Innocence and Experience]], [[Guilt]], [[Justice Right and Wrong]], [[Deception]], [[Self-Sacrifice]], [[Distributism]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Kingship and Legitimacy]], [[Power and Corruption]], [[Eastern Religion and Asceticism]], [[Self-Denial and Renunciation]], [[Money and Avarice]], [[Economics]], [[History]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Satire]]
 
 ## Testo integrale / Full text

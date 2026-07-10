@@ -6,6 +6,7 @@ cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
 source: Authors/Eliot/_raw/021_Lune_de_Miel.md
 tags:
   - graph/work
+  - setting/europe
   - author/Eliot
   - concept/marriage_and_fidelity
   - motif/decay
@@ -24,7 +25,7 @@ tags:
 
 **Motifs:** [[Decay]], [[Ruins the Abbey]]
 **Themes & Concepts:** [[Marriage and Fidelity]], [[Immortality of Art Fame]], [[Grotesque]]
-**Settings:** [[Italy]]
+**Settings:** [[Italy]], [[Europe]]
 
 ## Testo integrale / Full text
 

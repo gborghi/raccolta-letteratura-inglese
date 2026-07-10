@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/on_evil_euphemisms.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - form/satire
@@ -44,7 +45,7 @@ tags:
 **Characters:** [[Fagin]]
 
 **Themes & Concepts:** [[Deception]], [[Truth]], [[Satire of Society]], [[Marriage and Fidelity]], [[Power of Language]], [[Crime and Punishment]], [[Critique of Progress]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

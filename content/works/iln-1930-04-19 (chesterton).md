@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/ILN-1930-04-19.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - concept/war_and_its_cost
   - concept/nationalism_and_patriotism
@@ -42,7 +43,7 @@ tags:
 
 **Motifs:** [[Blood]], [[Battlefield (2)]]
 **Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Artist and Society]], [[Appearance vs Reality]], [[Satire of Society]], [[Truth]], [[Power of Language]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Problem Play]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Problem Play]], [[Nonfiction]]
 **Historical References:** [[First World War]]
 
 ## Testo integrale / Full text

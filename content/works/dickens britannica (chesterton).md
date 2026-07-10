@@ -6,6 +6,10 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/dickens_Britannica.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/literary_criticism
   - form/biography
@@ -103,10 +107,10 @@ tags:
 
 **Characters:** [[Wilkins Micawber]], [[William Dorrit]], [[Samuel Pickwick]], [[Sam Weller]], [[Nathaniel Winkle]], [[Oliver Twist]], [[Mr Bumble]], [[Ralph Nickleby]], [[Vincent Crummles]], [[Barnaby Rudge]], [[Dick Swiveller]], [[Sampson Brass]], [[Little Nell]], [[Marchioness]], [[Martin Chuzzlewit]], [[Seth Pecksniff]], [[Sairey Gamp]], [[Nicodemus Boffin]], [[Paul Dombey]], [[David Copperfield]], [[James Steerforth]], [[Dora Spenlow]], [[Richard Carstone]], [[Mrs Jellyby]], [[Thomas Gradgrind]], [[Mr Merdle]], [[Edwin Drood]], [[John Dickens]], [[Catherine Dickens]], [[Mr Chadband]]
 
-**Themes & Concepts:** [[Imagination]], [[Artist and Society]], [[Common Man]], [[Poverty]], [[Satire of Society]], [[Reform]], [[Imprisonment]], [[Greed and Money]], [[Democracy]], [[Grotesque]], [[Exaggeration]]
-**Forms & Genres:** [[Literary Criticism]], [[Biography]], [[Sketch]], [[Christmas Story Novella]], [[Detective Fiction]], [[Historical Novel]], [[Bildungsroman]], [[Social Novel (Novel of Manners)]]
+**Themes & Concepts:** [[Imagination]], [[Artist and Society]], [[Common Man]], [[Poverty]], [[Satire of Society]], [[Reform]], [[Imprisonment]], [[Greed and Money]], [[Democracy]], [[Grotesque]], [[Exaggeration]], [[Economics]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Biography]], [[Sketch]], [[Christmas Story Novella]], [[Detective Fiction]], [[Historical Novel]], [[Bildungsroman]], [[Social Novel (Novel of Manners)]], [[Nonfiction]]
 **Historical References:** [[Regency Georgian England]], [[Industrial Revolution]], [[French Revolution]], [[Puritanism]]
-**Settings:** [[London]], [[America]], [[Italy]], [[Rural England]]
+**Settings:** [[London]], [[America]], [[Italy]], [[Rural England]], [[Europe]]
 
 ## Testo integrale / Full text
 

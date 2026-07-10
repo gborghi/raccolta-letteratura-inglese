@@ -6,6 +6,9 @@ cluster: War and its Cost · American Civil War · Battlefield
 source: Authors/Chesterton/_raw/On_America.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - histref/american_civil_war
@@ -52,8 +55,8 @@ tags:
 
 **Topoi:** [[Golden Age]], [[Ubi Sunt]]
 
-**Themes & Concepts:** [[Honour]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Nostalgia]], [[Slavery]], [[Reconciliation]], [[Democracy]], [[Freedom and Liberty]], [[Anti-Industrialism]], [[Power and Corruption]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Honour]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Nostalgia]], [[Slavery]], [[Reconciliation]], [[Democracy]], [[Freedom and Liberty]], [[Anti-Industrialism]], [[Power and Corruption]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Historical References:** [[American Civil War]], [[Puritanism]], [[First World War]]
 **Characters:** [[Abraham Lincoln]], [[John Wilkes Booth]]
 

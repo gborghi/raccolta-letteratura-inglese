@@ -6,6 +6,10 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Twelve_Types.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/literary_criticism
   - form/biography
@@ -96,16 +100,16 @@ tags:
 
 **Archetypes:** [[Hero]], [[Prophet]], [[Martyr Saint]], [[Fool]]
 
-**Settings:** [[Italy]], [[London]], [[Scotland the Highlands]], [[Russia]]
+**Settings:** [[Italy]], [[London]], [[Scotland the Highlands]], [[Russia]], [[Europe]]
 
-**Motifs:** [[Fire]], [[Light and Dark]], [[Clothing and Costume]], [[Swords and Weapons]], [[Concealment Hidden Identity]], [[Sea]]
+**Motifs:** [[Fire]], [[Light and Dark]], [[Clothing and Costume]], [[Swords and Weapons]], [[Concealment Hidden Identity]], [[Sea]], [[Sea and Voyage]]
 
 **Topoi:** [[Contemptus Mundi]], [[Poet as Prophet]]
 
 **Characters:** [[Jane Eyre]], [[Mr Rochester]], [[Christ]], [[Charlotte Bronte]], [[William Morris]], [[Lord Byron]], [[Alexander Pope]], [[St Francis of Assisi]], [[Edmond Rostand]], [[Charles II]], [[Robert Louis Stevenson]], [[Thomas Carlyle]], [[Leo Tolstoy]], [[Girolamo Savonarola]], [[Sir Walter Scott]], [[Cyrano de Bergerac]], [[Prince Florizel of Bohemia]], [[Rob Roy]], [[Meg Merrilees]]
 
-**Themes & Concepts:** [[Identity]], [[Artist and Society]], [[Heroism]], [[Faith]], [[Paradox]], [[Democracy]], [[Doubt]], [[Greatness]], [[Power of Language]], [[Asceticism]], [[Optimism and Pessimism]], [[Cult of Simplicity]], [[The Spirit of Romance]]
-**Forms & Genres:** [[Literary Criticism]], [[Biography]], [[Essay]], [[Satire]], [[Comedy]], [[Verse Drama]]
+**Themes & Concepts:** [[Identity]], [[Artist and Society]], [[Heroism]], [[Faith]], [[Paradox]], [[Democracy]], [[Doubt]], [[Greatness]], [[Power of Language]], [[Asceticism]], [[Optimism and Pessimism]], [[Cult of Simplicity]], [[The Spirit of Romance]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Biography]], [[Essay]], [[Satire]], [[Comedy]], [[Verse Drama]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

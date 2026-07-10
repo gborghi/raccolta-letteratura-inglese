@@ -6,6 +6,8 @@ cluster: War and Empire · History · Nationalism and Patriotism
 source: Authors/Conan_Doyle/_raw/THE_CASE_OF_MR_OSCAR_SLATER.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Conan_Doyle
   - form/essay
   - concept/justice_right_and_wrong
@@ -39,8 +41,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]]
-**Themes & Concepts:** [[Justice Right and Wrong]], [[Crime and Punishment]], [[Ratiocination Detection]], [[Antisemitism]], [[Social Injustice]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[Justice Right and Wrong]], [[Crime and Punishment]], [[Ratiocination Detection]], [[Antisemitism]], [[Social Injustice]], [[History]]
 **Motifs:** [[Secrets]], [[Money and Gold]], [[Letters and Writing]]
 **Historical References:** [[Victorian England]]
 **Settings:** [[Industrial City]], [[London]]

@@ -6,6 +6,7 @@ cluster: Ghosts · Ghost · Death and Love
 source: Authors/Chesterton/_raw/shop-of-ghosts.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - form/fairy_tale
@@ -53,7 +54,7 @@ tags:
 **Archetypes:** [[Ghost]]
 **Motifs:** [[Ghosts]], [[Light and Dark]]
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Immortality]], [[Nostalgia]], [[Immortality of Art Fame]]
-**Forms & Genres:** [[Essay]], [[Fairy Tale Fantasy]]
+**Forms & Genres:** [[Essay]], [[Fairy Tale Fantasy]], [[Nonfiction]]
 **Characters:** [[Death Personified]], [[Robin Hood]], [[Charles Dickens]], [[Sir Richard Steele]], [[Ben Jonson]]
 
 ## Testo integrale / Full text

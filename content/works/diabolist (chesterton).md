@@ -6,6 +6,7 @@ cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Chesterton/_raw/diabolist.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - concept/good_vs_evil
   - concept/temptation
@@ -60,7 +61,7 @@ tags:
 **Archetypes:** [[Satanic Figure]]
 **Motifs:** [[Fire]], [[Light and Dark]], [[Stars]]
 **Themes & Concepts:** [[Good vs Evil]], [[Temptation]], [[Conscience]], [[Conversion]], [[Faith and Doubt]], [[Sin and the Fall]], [[Terror and Horror]], [[Paradox]], [[Despair]], [[Unseen The Hidden]]
-**Forms & Genres:** [[Essay]], [[Fictional Autobiography]], [[Apologetics]]
+**Forms & Genres:** [[Essay]], [[Fictional Autobiography]], [[Apologetics]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

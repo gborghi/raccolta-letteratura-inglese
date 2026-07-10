@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/christmas-games.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/satire
@@ -55,8 +57,8 @@ tags:
 
 **Topoi:** [[Golden Age]], [[World Upside Down]]
 **Motifs:** [[Childhood]], [[Money and Gold]], [[Fire]]
-**Themes & Concepts:** [[Imagination]], [[Wonder and Gratitude]], [[Maturation and Growth]], [[Critique of Progress]], [[Distributism]], [[Common Man]], [[Paradox]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Parody]]
+**Themes & Concepts:** [[Imagination]], [[Wonder and Gratitude]], [[Maturation and Growth]], [[Critique of Progress]], [[Distributism]], [[Common Man]], [[Paradox]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Parody]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

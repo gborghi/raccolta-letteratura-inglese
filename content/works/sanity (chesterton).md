@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/Sanity.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - concept/distributism
@@ -73,8 +76,8 @@ tags:
 
 **Characters:** [[Sherlock Holmes Homage]], [[Henry Ford]]
 
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Common Man]], [[Reform]], [[Power and Corruption]], [[Critique of Progress]], [[Freedom and Liberty]], [[Slavery]], [[Money and Avarice]], [[Satire of Society]]
-**Forms & Genres:** [[Essay]], [[Fable]], [[Parable]], [[Satire]]
+**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Common Man]], [[Reform]], [[Power and Corruption]], [[Critique of Progress]], [[Freedom and Liberty]], [[Slavery]], [[Money and Avarice]], [[Satire of Society]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Fable]], [[Parable]], [[Satire]], [[Nonfiction]]
 **Historical References:** [[Industrial Revolution]], [[French Revolution]], [[Catholic Church]], [[Puritanism]], [[Bible]], [[Irish Question]]
 
 ## Testo integrale / Full text

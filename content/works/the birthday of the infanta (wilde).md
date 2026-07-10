@@ -6,6 +6,8 @@ cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Wilde/_raw/017_The_Birthday_of_the_Infanta.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/economics
   - author/Wilde
   - concept/the_grotesque
   - concept/beauty
@@ -56,10 +58,10 @@ tags:
 **Topoi:** [[Double]], [[Vanitas]], [[Fall from Innocence]]
 **Archetypes:** [[Double Doppelganger]], [[Outsider]], [[Scapegoat]], [[Tyrant]]
 **Motifs:** [[Mirror]], [[Rose]], [[Flowers]], [[Death]], [[Concealment Hidden Identity]], [[Animals]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Grotesque]], [[Beauty]], [[Appearance vs Reality]], [[Identity]], [[Alienation]], [[Grief and Loss]], [[Class Conflict]]
+**Themes & Concepts:** [[Grotesque]], [[Beauty]], [[Appearance vs Reality]], [[Identity]], [[Alienation]], [[Grief and Loss]], [[Class Conflict]], [[Economics]]
 **Forms & Genres:** [[Fairy Tale Fantasy]], [[Allegory]]
 **Historical References:** [[Reformation]], [[Catholic Church]]
-**Settings:** [[Court]], [[Italy]]
+**Settings:** [[Court]], [[Italy]], [[Europe]]
 **Characters:** [[Infanta]], [[Dwarf]], [[Don Pedro]]
 
 ## Testo integrale / Full text

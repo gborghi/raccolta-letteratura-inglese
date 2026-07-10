@@ -6,6 +6,7 @@ cluster: World Upside Down · Comedy
 source: Authors/Wilde/_raw/006_The_Importance_of_Being_Earnest.md
 tags:
   - graph/work
+  - concept/economics
   - author/Wilde
   - concept/satire_of_society
   - concept/marriage_and_fidelity
@@ -49,7 +50,7 @@ tags:
 **Topoi:** [[World Upside Down]], [[Theatrum Mundi]], [[Double]]
 **Archetypes:** [[Fool]], [[Trickster]], [[Lover]]
 **Motifs:** [[Marriage]], [[Concealment Hidden Identity]], [[Food and Feasting]], [[Letters and Writing]], [[Garden]]
-**Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]], [[Appearance vs Reality]], [[Deception]], [[Identity]], [[Class Conflict]]
+**Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]], [[Appearance vs Reality]], [[Deception]], [[Identity]], [[Class Conflict]], [[Economics]]
 **Forms & Genres:** [[Comedy]], [[Satire]], [[Epigram]]
 **Historical References:** [[Regency Georgian England]]
 **Settings:** [[London]], [[Rural England]]

@@ -6,6 +6,7 @@ cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
 source: Authors/Chesterton/_raw/For_a_War_Memorial.md
 tags:
   - graph/work
+  - concept/economics
   - author/Chesterton
   - form/epigram
   - concept/heroism
@@ -45,7 +46,7 @@ tags:
 
 **Topoi:** [[Sic Transit Gloria Mundi]], [[Ubi Sunt]], [[Memento Mori]]
 **Motifs:** [[Ruins the Abbey]], [[Storm]], [[Grave]], [[Stone and Marble]], [[Lightning]]
-**Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Immortality]], [[Nationalism and Patriotism]], [[Money and Avarice]], [[Vanity of Worldly Things]], [[Transience]], [[Memory and Time]]
+**Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Immortality]], [[Nationalism and Patriotism]], [[Money and Avarice]], [[Vanity of Worldly Things]], [[Transience]], [[Memory and Time]], [[Economics]]
 **Forms & Genres:** [[Epigram]], [[Inscription]]
 **Historical References:** [[Ancient Rome]], [[Carthage]]
 

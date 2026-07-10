@@ -6,6 +6,9 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Robert_Browning.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/biography
   - form/literary_criticism
@@ -78,10 +81,10 @@ tags:
 
 **Characters:** [[Caliban]], [[Elizabeth Barrett Browning]], [[Edward Moulton Barrett]], [[Pompilia]], [[Giuseppe Caponsacchi]], [[Guido Franceschini]]
 
-**Themes & Concepts:** [[Artist and Society]], [[Imagination]], [[Joy]], [[Romantic Love]], [[Marriage and Fidelity]], [[Grotesque]], [[Wonder and Gratitude]], [[Paradox]], [[Truth]], [[Justice Right and Wrong]], [[Immortality of the Soul]], [[Grief and Loss]], [[Faith and Doubt]], [[Self-Sacrifice]], [[Optimism]]
-**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Dramatic Monologue]], [[Epic]], [[History Play]], [[Sonnet]]
+**Themes & Concepts:** [[Artist and Society]], [[Imagination]], [[Joy]], [[Romantic Love]], [[Marriage and Fidelity]], [[Grotesque]], [[Wonder and Gratitude]], [[Paradox]], [[Truth]], [[Justice Right and Wrong]], [[Immortality of the Soul]], [[Grief and Loss]], [[Faith and Doubt]], [[Self-Sacrifice]], [[Optimism]], [[History]]
+**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Dramatic Monologue]], [[Epic]], [[History Play]], [[Sonnet]], [[Nonfiction]]
 **Historical References:** [[Regency Georgian England]], [[French Revolution]], [[Romantic Movement (Sensibility)]], [[Puritanism]]
-**Settings:** [[Italy]], [[Venice]], [[London]]
+**Settings:** [[Italy]], [[Venice]], [[London]], [[Europe]]
 
 ## Testo integrale / Full text
 

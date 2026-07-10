@@ -6,6 +6,7 @@ cluster: Great Expectations
 source: Authors/Dickens/_raw/Great_Expectations.md
 tags:
   - graph/work
+  - concept/economics
   - author/Dickens
   - form/bildungsroman
   - form/novel
@@ -118,7 +119,7 @@ tags:
 
 **Archetypes:** [[Orphan]], [[Self-Made Man]], [[Outsider]], [[Crone]]
 **Motifs:** [[Childhood]], [[Money and Gold]], [[Clothing and Costume]], [[Fire]], [[Grave]], [[Ruins the Abbey]]
-**Themes & Concepts:** [[Maturation and Growth]], [[Identity]], [[Class Conflict]], [[Guilt]], [[Conscience]], [[Unrequited Frustrated Love]], [[Appearance vs Reality]], [[Pride]], [[Grace and Redemption]], [[Innocence and Experience]]
+**Themes & Concepts:** [[Maturation and Growth]], [[Identity]], [[Class Conflict]], [[Guilt]], [[Conscience]], [[Unrequited Frustrated Love]], [[Appearance vs Reality]], [[Pride]], [[Grace and Redemption]], [[Innocence and Experience]], [[Economics]]
 **Forms & Genres:** [[Bildungsroman]], [[Novel]]
 **Historical References:** [[Regency Georgian England]]
 **Settings:** [[London]], [[Rural England]]

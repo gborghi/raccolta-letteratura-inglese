@@ -1,0 +1,38 @@
+---
+title: "A General Sketch of the European War, the First Phase — Part 2: THE FORCES OPPOSED (part 16)"
+author: "Belloc"
+unitType: excerpt
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · A General Sketch of the European War the First Pha › <a href="/testi/belloc/atomized/a_general_sketch_of_the_european_war_the_first_pha/chapter_03_the_forces_opposed">Chapter 03 THE FORCES OPPOSED</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/a_general_sketch_of_the_european_war_the_first_pha/chapter_03_the_forces_opposed/part_15">‹ part 15</a><a class="ex-next" href="/testi/belloc/atomized/a_general_sketch_of_the_european_war_the_first_pha/chapter_03_the_forces_opposed/part_17">part 17 ›</a></div>
+</nav>
+
+
+Secondly, the high explosives of recent years, coupled with the vast size of this new mobile howitzer shell, is capable, when the howitzer shell strikes modern fortification, of doing grievous damage which, repeated over several days, turns the fort into a mass of ruins.
+
+Thirdly, the difficulty of accurate aiming over such distances and of locating your hits so that they destroy the comparative small area of the fort is got over by the use of aircraft, which fly above the fort, note the hits, and signal the results.
+
+Now, the Germans maintained that under these quite recently modified conditions not even the best handled and heaviest gunned permanent fort could hold out more than a few days. The French believed that it could, and they trusted in the stopping power not only of individual works (such as the fortress of Manonvilliers on the frontier), but more especially of great rings of forts, such as surround Liége, Namur, Verdun, etc., and enclose an area within the security of which large bodies of troops can be held ready, armies which no one would dare to leave behind them without having first reduced them to surrender.
+
+The very first days of the war proved that the German theory was right and the French wrong. The French theory, upon which such enormous funds had been expended, had been perfectly right until within quite recent years the conditions had changed. Port Arthur, for instance, only ten years ago, could hold out for months and months. In this war no individual fort has held out for more than eleven days.
+
+It might be imagined under such circumstances that the very existence of fortresses was doomed; yet we note that Verdun continues to make a big bulge in the German line four months after the first shots fell on its forts, and that the Germans are actively restoring the great Belgian rings they have captured at Liége, Antwerp, and Namur.
+
+Why is this? It is because another German theory has proved right in practice.
+
+III. This German theory which has proved right in practice is what may be called “the mobile defence of a fortress.” It proposes no longer to defend upon expensive permanent works precisely located upon the map, but upon a number of improvised batteries in which heavy guns can move somewhat behind field-works concealed as much as possible, numerous and constructed rapidly under the conditions of the campaign. Such works dotted round the area you desire to defend are quite a different thing to reduce from isolated, restricted, permanent forts. In the first place, the enemy does not know where they are; in the second place, you can make new ones at short notice; in the third place, if a howitzer does spot your heavy gun, you can move it or its neighbours to a new position; in the fourth place, the circumference you are defending is much larger, and the corresponding area that the besiegers have to search with their fire more extended. Thus, in the old forts round Verdun, about a dozen permanent works absolutely fixed and ascertainable upon the map, and covering altogether but a few acres, constituted the defence of the town. Before September was out the heavy guns had been moved to trenches far advanced into the field to the north and east, temporary rails had been laid down to permit their lateral movement — that is, to let them shift from a place where they had perhaps been spotted to a new place, under cover of darkness, and the sectors thus thrown out in front of the old fortifications in this improvised mobile fashion were at least three times as long as the line made by the ring of old forts, while the area that had to be searched was perhaps a hundred times as large. For in the place of the narrowly restricted permanent fort, with, say, ten heavy guns, you had those same ten heavy guns dotted here and there in trenches rapidly established in half a dozen separate, unknown, and concealed spots, along perhaps a mile of wooded hill, and free to operate when moved over perhaps double that front.
+
+IV. In Grand Strategy a German general theory of strategics was opposed to a French general theory of strategics, and upon which of the two should prove right depended, much more than on any of the previous points, the ultimate issue of the campaign.
+
+This is far the most important point for the reader’s consideration. It may be said with justice that no one can understand this war who has not grasped the conflict between these two fundamental conceptions of armed bodies in action, and the manner in which (by the narrowest and most fortunate margin!) events in the first phase of the war justified the French as against the German school.
+
+I must therefore beg the reader’s leave to go somewhat thoroughly into the matter, for it is the foundation of all that will follow when we come to the narration of events and the story of the Western battle which began in the retreat from the Sambre and ended in the [[Battle of the Marne]].
+
+The first postulate in all military problems is that, other things being equal, numbers are the decisive factor in war. This does not mean that absolute superiority of numbers decides a campaign necessarily in favour of the superior power. What it means is that in any particular field, if armament and discipline are more or less equal on the two sides, the one that has been able to mass the greater number in that field will have the victory. He will disperse or capture his enemy, or at the least he will pin him and take away his initiative — of which word “initiative” more later. Now, this field in which one party has the superior numbers can only be a portion of the whole area of operations. But if it is what is called the decisive portion, then he who has superior numbers in the decisive time and place will win not only there but everywhere. His local victory involves consequent success along the whole of his line.
+
+For instance, supposing five men are acting against three. Five is more than three; and if the forces bear upon each other equally, the five will defeat the three. But if the five are so badly handled that they get arranged in groups of two, two, and one, and if the three are so well handled that they strike swiftly at the first isolated two and defeat them, thus bringing up the next isolated two, who are in their turn defeated, the three will, at the end of the struggle, have only one to deal with, and the five will have been beaten by the three because, although five is larger than three, yet in the decisive time and place the three never have more than two against them. It may be broadly laid down that the whole art of strategics consists for the man with superior numbers in bringing all his numbers to bear, and for the man with inferior numbers in attempting by his cunning to compel his larger opponent to fight in separated portions, and to be defeated in detail.

@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/oak.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/ballad
   - form/allegory
@@ -58,8 +61,8 @@ tags:
 
 **Characters:** [[Lord Ivywood]], [[King Charles II]], [[Collingwood]]
 
-**Motifs:** [[Nature]], [[Blood]], [[Seed and Germination]], [[Decay]], [[Sea]], [[Ship]], [[Concealment Hidden Identity]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Critique of Progress]], [[Nature vs Civilization]], [[Natural Order]], [[Regeneration]], [[Kingship and Legitimacy]], [[Paganism and Classical Revival]], [[Power and Corruption]]
+**Motifs:** [[Nature]], [[Blood]], [[Seed and Germination]], [[Decay]], [[Sea]], [[Ship]], [[Concealment Hidden Identity]], [[Sea and Voyage]]
+**Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Critique of Progress]], [[Nature vs Civilization]], [[Natural Order]], [[Regeneration]], [[Kingship and Legitimacy]], [[Paganism and Classical Revival]], [[Power and Corruption]], [[Economics]], [[History]]
 **Forms & Genres:** [[Ballad Ballade]], [[Allegory]], [[Comic Verse Song]]
 
 ## Testo integrale / Full text

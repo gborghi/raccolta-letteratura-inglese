@@ -1,0 +1,33 @@
+---
+title: "On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 17)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/on-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/on-(belloc)">On</a> › <a href="/testi/belloc/atomized/on/story_09_on_the_cathedral_of_seville_and_the_misa">Story 09 ON THE CATHEDRAL OF SEVILLE AND THE MISA</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/on/story_09_on_the_cathedral_of_seville_and_the_misa/part_16">‹ part 16</a><a class="ex-next" href="/testi/belloc/atomized/on/story_09_on_the_cathedral_of_seville_and_the_misa/part_18">part 18 ›</a></div>
+</nav>
+
+
+The imposition of a standard education upon the poorer people in the State Schools is having an effect, but we hardly know in what direction, although the agency has been at work for some fifty years. Its chief observable effect so far seems to be not in the modification of accent, but in the syllabic pronunciation of certain words, especially names of places.
+
+I have heard — like a tale from a far country — the astonishing story that little innocent children were told to say CI-REN-CES-TER in the place of “Cisseter.” And there is again with this change another change, which is the introduction of new and usually pedantic Græco-Latin terms in the place of the old native terms. This is not only the effect of the schools, it is also the effect of the Press and of the ubiquitous action of the modern English State official, who plays a far larger part in our society than do his colleagues in any other province of Europe, not excepting the Germanies. He impresses himself especially in medicine: but also in law, in the payment of State doles and insurances, in the gathering of State dues, in minute and continual inquisition upon every detail of daily life in the home and the factory and the field.
+
+Would you believe that a stout peasant could use the word “circumference” (which is not quite accurate) for the outside headlands of a ploughed field? It was used to me only last week by a man on my farm. And as for “dilution,” “percentage,” “contributory” and “implement,” they have become the tame kittens of cottage speech and roam about at large. With such have also come a great mass of legal and quasi-legal terms, and these are modifying the language as much as anything. There we have a most interesting parallel to a thing which changed all the speech of Europe at the end of the Roman Empire, for a great mass of our words which used to be called “Teutonic” have turned out, as Wiener shows in his revolutionary essay, to be no more “Teutonic” than the Æneid. They are corruptions of the technical terms used in the Roman Law Courts and Bureaus of Administration. Such, for instance, is all the group of words “Ritter, Rider, Road” — they come from the Posting system of the Roman Empire and its taxation.
+
+But this is taking me very far from my original text of accents, and I return to it with a certain matter for conclusion — it is a matter really near my heart, and it has been haunting me ever since I began this article. It is the slight differences of pronunciation between people of my own social rank (which may be called the professional middle class) and the richer class above it. I mean (in so far as it still exists) the permanently rich class. Here I must say at once that I champion, not only without hesitation but with contempt for all other opinion, the pronunciation of my own class. Not only in accent but in every other thing it is the class which has made the civilisation of Europe, and when the people above us differ from us, they are just as wrong as the people below us. So much for them....
+
+But it rankles all the same, that my superiors should put on airs, and I will take a test case: the word “PIANO.” When I say “Curse the piano” (and it is a horrible instrument, is it not?) I make it rhyme with the name of the suffete “HANNO,” but those above me make it rhyme with “AH NO.” They make of it a more pathetic, and I a more downright word.
+
+It is curious that these slight differences in accent should exist, for the two sets of people are brought up together in the same schools, they meet daily, and even (I am ashamed to say) inter-marry. Many would pretend that by this time of day there was no difference left. But there is; and if you watch half a dozen typical words closely I think you will agree with me. I am not speaking of locutions, you will note, but of accent. Now in our locutions we differ enormously from those above and below us, and when I say above and below I do not mean above and below in any scale except the ludicrous but powerful, constant scale of social vanity. Our locutions, I am afraid, we tend to submit to the judgment of those wealthier than ourselves. It is a pity, for our locutions are right and theirs are wrong. For instance, it is right to say “Riding in a carriage,” and wrong to say “Driving in a carriage,” but “Riding in a carriage” has been heavily defeated by “Driving in a carriage,” and is now on the run. Personally, I regret it.
+
+It is high time that a new etiquette book came out about these things. The last one I remember reviewing is now twelve years old, and it was not quite satisfactory, because it dealt largely with (a) the abuse of vulgarisms of which no one ever heard, and (b) the assertion of rules which were not sound rules at all. It came as a message from the rich to the middle class, and was therefore a very unnatural pronouncement. For it is our part to teach them and not their part to teach us. For instance, this book said: “Do not talk of people by their postal towns, do not say (if you are going to stop at a rich man’s house) that you are going to stop at Puddiford, or whatever the name of the nearest market town may be, but give his palace its full title, and with due respect.” But I, for my part, never heard any one allude to a rich man’s house by the nearest postal town. On the contrary, my experience is that people tumble over each other to underline or shout the name of the palace in which they propose to find a brief and humiliating entertainment from Saturday to Monday.
+
+Again, in this book we were told not to say “Port,” but “Port Wine” — but that would lead me into the most bitter controversy of modern times, compared with which the old quarrel between Θεοτὁκοϛ [Greek: theotokos] and θεογὁνοϛ [Greek: theogonos] was but a lovers’ tiff. So I end.... But talking of accents, have I got those Greek accents right? I doubt it, for I write this in Wolverhampton, a town divorced from Hellas and heavily blanketing the Alexandrians.
+
+ON TRUTH AND THE ADMIRALTY

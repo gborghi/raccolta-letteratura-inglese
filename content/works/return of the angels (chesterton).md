@@ -6,6 +6,8 @@ cluster: Faith · Providence · Divine Love
 source: Authors/Chesterton/_raw/Return_of_the_Angels.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - concept/faith
@@ -47,8 +49,8 @@ tags:
 **Topoi:** [[Book of Nature]]
 
 **Motifs:** [[Supernatural]], [[Light and Dark]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Conversion]], [[Paradox]], [[Providence]], [[Pragmatism (Method of the Hypothesis)]]
-**Forms & Genres:** [[Essay]], [[Apologetics]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Conversion]], [[Paradox]], [[Providence]], [[Pragmatism (Method of the Hypothesis)]], [[History]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Eastern Religion Comparative Religion]], [[Darwinism (Evolutionary Theory)]]
 
 ## Testo integrale / Full text

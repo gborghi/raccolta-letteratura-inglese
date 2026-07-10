@@ -1,0 +1,57 @@
+---
+title: "On Nothing and Kindred Subjects — ON A HOUSE"
+author: "Belloc"
+unitType: story
+parentWork: "works/on-nothing-and-kindred-subjects-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/on-nothing-and-kindred-subjects-(belloc)">On Nothing and Kindred Subjects</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/on_nothing_and_kindred_subjects/story_06_henry_de_la_mere_ullmo">‹ Story 06 HENRY DE LA MERE ULLMO</a><a class="ex-next" href="/testi/belloc/atomized/on_nothing_and_kindred_subjects/story_08_the_illness_of_my_muse">Story 08 THE ILLNESS OF MY MUSE ›</a></div>
+</nav>
+
+
+ON A HOUSE
+
+I APPEAL LOUDLY to the Muse of History (whose name I forget and you never knew) to help me in the description of this house, for —
+
+The Muse of Tragedy would overstrain herself on it;
+
+The Muse of Comedy would be impertinent upon it;
+
+The Muse of Music never heard of it;
+
+The Muse of Fine Arts disapproved of it;
+
+The Muse of Public Instruction … (Tut, tut! There I was nearly making a tenth Muse! I was thinking of the French Ministry.)
+
+The Muse of Epic Poetry did not understand it;
+
+The Muse of Lyric Poetry still less so;
+
+The Muse of Astronomy is thinking of other things;
+
+The Muse Polyhymnia (or Polymnia, who, according to Smith’s Dictionary of Antiquities, is commonly represented in a pensive attitude) has no attribute and does no work.
+
+And as for little Terpsichore whose feet are like the small waves in summer time, she would laugh in a peal if I asked her to write, think of, describe, or dance in this house (and that makes eleven Muses. No matter; better more than less).
+
+Yet it was a house worthy of description and careful inventory, and for that reason I have appealed to the Muse of History whose business it is to set down everything in order as it happens, judging between good and evil, selecting facts, condensing narratives, admitting picturesque touches, and showing her further knowledge by the allusive method or use of the dependent clause. Well then, inspired, I will tell you exactly how that house was disposed. First, there ran up the middle of it a staircase which, had Horace seen it (and heaven knows he was the kind of man to live in such a house), he would have called in his original and striking way “Res Angusta Domi,” for it was a narrow thing. Narrow do I call it? Yes — and yet not so narrow. It was narrow enough to avoid all appearance of comfort or majesty, yet not so narrow as to be quaint or snug. It was so designed that two people could walk exactly abreast, for it was necessary that upon great occasions the ladies should be taken down from the drawing-room by the gentlemen to the dining-room, yet it would have been a sin and a shame to make it wider than that, and the house was not built in the days of crinolines. Upon these occasions it was customary for the couples to go down in order and in stately fashion, and the hostess went last; but do not imagine that there was any order of precedence. Oh, no! Far from it, they went as they were directed.
+
+This staircase filled up a kind of Chimney or Funnel, or rather Parallelepiped, in the house: half-way between each floor was a landing where it turned right round on itself, and on each floor a larger landing flanked by two doors on either side, which made four altogether. This staircase was covered with Brussels carpet (and let me tell you in passing that no better covering for stairs was ever yet invented; it wears well and can be turned, and when the uppers are worn you can move the whole thing down one file and put the steps where the uppers were. None of your cocoanut stuff or gimcracks for the honest house: when there is money you should have Brussels, when you have none linoleum — but I digress). The stair-rods were of brass and beautifully polished, the banisters of iron painted to look like mahogany; and this staircase, which I may take to be the emblem of a good life lived for duty, went up one pair, and two pair, and three pair — all in the same way, and did not stop till it got to the top. But just as a good life has beneath it a human basis so this (heaven forgive me!) somewhat commonplace staircase changed its character when it passed the hall door, and as it ran down to the basement had no landing, ornament, carpet or other paraphernalia, but a sound flight of stone steps with a cold rim of unpainted metal for the hand.
+
+The hall that led to these steps was oblong and little furnished. There was a hat-rack, a fireplace (in which a fire was not lit) and two pictures; one a photograph of the poor men to whom the owner paid weekly wages at his Works, all set out in a phalanx, or rather fan, with the Owner of the House (and them) in the middle, the other a steel engraving entitled “The Monarch of the Forest,” from a painting by Sir Edwin Landseer. It represented a stag and was very ugly.
+
+On the ground floor of the House (which is a libel, for it was some feet above the ground, and was led up to by several steps, as the porch could show) there were four rooms — the Dining-room, the Smoking-room, the Downstairs-room and the Back-room. The Dining-room was so called because all meals were held in it; the Smoking-room because it was customary to smoke all over the house (except the Drawing-room); the Back-room because it was at the back, and the Downstairs-room because it was downstairs. Upon my soul, I would give you a better reason if I had one, but I have none. Only I may say that the Smoking-room was remarkable for two stuffed birds, the Downstairs-room from the fact that the Owner lived in it and felt at ease there, the Back-room from the fact that no one ever went into it (and quite right too), while the Dining-room — but the Dining-room stands separate.
+
+The Dining-room was well carpeted; it had in its midst a large mahogany table so made that it could get still larger by the addition of leaves inside; there were even flaps as well. It had eleven chairs, and these in off-times stood ranged round the wall thinking of nothing, but at meal times were (according to the number wanted) put round the table. It is a theory among those who believe that a spirit nourishes all things from within, that there was some competition amongst these chairs as to which should be used at table, so dull, forlorn and purposeless was their life against the wall. Seven pictures hung on that wall; not because it was a mystic number, but because it filled up all the required space; two on each side of the looking-glass and three large ones on the opposite wall. They were all of them engravings, and one of them at least was that of a prominent statesman (Lord Beaconsfield), while the rest had to do with historical subjects, such as the visit of Prince Albert to the Exhibition of 1851, and I really forget what else. There was a Chiffonier at the end of the room in which the wines and spirits were kept, and which also had a looking-glass above it; also a white cloth on the top for no reason on earth. An arm-chair (in which the Owner sat) commonly stood at the head of the table; this remained there even between meals, and was a symbol that he was master of the house. Four meals were held here. Breakfast at eight, dinner at one, tea at six, and a kind of supper (when the children had gone to bed) at nine or so. But what am I saying — quo Musa Historiae tendis? — dear! dear! I thought I was back again in the old times! a thousand pardons. At the time my story opens — and closes also for that matter (for I deal of the Owner and the House in articulo mortis so to speak; on the very edge of death) — it was far otherwise. Breakfast was when you like (for him, however, always at the same old hour, and there he would sit alone, his wife dead, his son asleep — trying to read his newspaper, but staring out from time to time through the window and feeling very companion-less). Dinner was no longer dinner; there was “luncheon” to which nobody came except on Saturdays. Then there was another thing (called by the old name of dinner) at half-past seven, and what had happened to supper no one ever made out. Some people said it had gone to Prince’s, but certainly the Owner never followed it there.
+
+On the next floor was the Drawing-room, noted for its cabinet of curiosities, its small aquarium, its large sofa, its piano and its inlaid table. The back of the drawing-room was another room beyond folding doors. This would have been convenient if a dance had ever been given in the house. On the other side were the best bedroom and a dressing-room. Each in its way what might be expected, save that at the head of the best bed were two little pockets as in the time of our grandfathers; also there was a Chevalier looking-glass and on the dressing-table a pin-cushion with pins arranged in a pattern. The fire-place and the mantelpiece were of white marble and had on them two white vases picked out in bright green, a clock with a bronze upon it representing a waiter dressed up partly in fifteenth-century plate and partly in twelfth-century mail, and on the wall were two Jewish texts, each translated into Jacobean English and illuminated with a Victorian illumination. One said: “He hath prevented all my ways.” The other said: “Wisdom is better than Rubies.” But the gothic “u” was ill made and it looked like “Rabies.” There was also in the room a good wardrobe of a kind now difficult to get, made out of cedar and very reasonable in arrangement. There was, moreover (now it occurs to me), a little table for writing on; there was writing paper with “Wood Thorpe” on it, but there were no stamps, and the ink was dry in the bottles (for there were two bottles).
+
+Well, now, shall I be at the pains of telling you what there was upstairs? Not I! I am tired enough as it is of detailing all these things. I will speak generally. There were four bedrooms. They were used by the family, and above there was an attic which belonged to the servants. The decoration of the wall was everywhere much the same, save that it got a little meaner as one rose, till at last, in the top rooms of all, there was nothing but little photographs of sweethearts or pictures out of illustrated papers stuck against the walls. The wall-paper, that had cost 3s. 3d. a piece in the hall and dining-room, and 7s. 6d. in the drawing-room, suddenly began to cost 1s. 4d. in the upper story and the attic was merely whitewashed.
+
+One thing more there was, a little wooden gate. It had been put there when the children were little, and had remained ever since at the top of the stairs. Why? It may have been mere routine. It may have been romance. The Owner was a practical man, and the little gate was in the way; it was true he never had to shut and open it on his way to bed, and but rarely even saw it. Did he leave it there from a weak sentiment or from a culpable neglect? He was not a sentimental man; on the other hand, he was not negligent. There is a great deal to be said on both sides, and it is too late to discuss that now.
+
+Heaven send us such a house, or a house of some kind; but Heaven send us also the liberty to furnish it as we choose. For this it was that made the Owner’s joy: he had done what he liked in his own surroundings, and I very much doubt whether the people who live in Queen Anne houses or go in for timber fronts can say the same.

@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/On_Abolishing_Sunday.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - concept/critique_of_progress
@@ -52,8 +55,8 @@ tags:
 
 **Characters:** [[Henry Ford]]
 
-**Themes & Concepts:** [[Critique of Progress]], [[Natural Order]], [[Satire of Society]], [[Individualism]], [[Conformity vs Individualism]], [[Labor and Work]], [[Distributism]], [[Anti-Industrialism]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Apologetics]]
+**Themes & Concepts:** [[Critique of Progress]], [[Natural Order]], [[Satire of Society]], [[Individualism]], [[Conformity vs Individualism]], [[Labor and Work]], [[Distributism]], [[Anti-Industrialism]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Apologetics]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Bible]], [[Islam]], [[Truce of God]]
 
 ## Testo integrale / Full text

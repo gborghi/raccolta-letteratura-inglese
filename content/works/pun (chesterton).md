@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/pun.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - form/literary_criticism
@@ -46,7 +47,7 @@ tags:
 **Motifs:** [[Letters and Writing]], [[Wordplay]]
 
 **Themes & Concepts:** [[Artist and Society]], [[Critique of Progress]], [[Beauty]], [[Joy]], [[Power of Language]], [[Paradox]], [[Wit]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Epigram]], [[Heroic Couplet]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Epigram]], [[Heroic Couplet]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

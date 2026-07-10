@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/america.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - form/satire
@@ -43,8 +45,8 @@ tags:
 
 **Characters:** [[Thomas Jefferson]]
 
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Faith and Doubt]], [[Truth]], [[Democracy]], [[Conformity vs Individualism]], [[Freedom and Liberty]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Travel Writing]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Faith and Doubt]], [[Truth]], [[Democracy]], [[Conformity vs Individualism]], [[Freedom and Liberty]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Travel Writing]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Catholic Church]], [[Spanish Inquisition]], [[Islam and the East]], [[Declaration of Independence]]
 
 ## Testo integrale / Full text

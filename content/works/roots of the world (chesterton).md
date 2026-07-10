@@ -6,6 +6,7 @@ cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Chesterton/_raw/Roots_of_the_World.md
 tags:
   - graph/work
+  - concept/history
   - author/Chesterton
   - form/allegory
   - form/fable
@@ -52,7 +53,7 @@ tags:
 **Topoi:** [[Fall from Innocence]], [[Paradise Lost]]
 
 **Motifs:** [[Garden]], [[Flowers]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Doubt]], [[Truth]], [[Conscience]], [[Sin and the Fall]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Doubt]], [[Truth]], [[Conscience]], [[Sin and the Fall]], [[History]]
 **Forms & Genres:** [[Allegory]], [[Fable]], [[Parable]]
 **Historical References:** [[Christianity]], [[Bible]], [[Robert Blatchford]]
 **Settings:** [[Garden (2)]]

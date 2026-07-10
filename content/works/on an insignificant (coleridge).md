@@ -6,6 +6,7 @@ cluster: Mortality · Grave · Memento Mori
 source: Authors/Coleridge/_raw/310_ON_AN_INSIGNIFICANT.md
 tags:
   - graph/work
+  - concept/economics
   - author/Coleridge
   - form/epigram
   - topos/memento_mori
@@ -24,7 +25,7 @@ tags:
 
 **Topoi:** [[Memento Mori]]
 **Motifs:** [[Dust]], [[Grave]]
-**Themes & Concepts:** [[Grotesque]], [[Money and Avarice]]
+**Themes & Concepts:** [[Grotesque]], [[Money and Avarice]], [[Economics]]
 **Forms & Genres:** [[Epigram]]
 
 ## Testo integrale / Full text

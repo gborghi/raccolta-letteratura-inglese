@@ -6,6 +6,9 @@ cluster: Maturation and Growth · Childhood · Innocence and Experience
 source: Authors/Chesterton/_raw/Robert_Louis_Stevenson.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/biography
   - form/literary_criticism
@@ -105,10 +108,10 @@ tags:
 **Topoi:** [[Fall from Innocence]], [[Double]], [[Quest]], [[Golden Age]], [[Open Road Homecoming]]
 **Archetypes:** [[Double Doppelganger]], [[Child]], [[Shadow]], [[Artist]], [[Quest Hero]]
 **Motifs:** [[Childhood]], [[Nightingale]], [[Journey]], [[Light and Dark]], [[Swords and Weapons]], [[Disease and Contagion]], [[Toy Theatre]]
-**Themes & Concepts:** [[Artist and Society]], [[Innocence and Experience]], [[Maturation and Growth]], [[Joy]], [[Imagination]], [[Sin and the Fall]], [[Faith]], [[Critique of Progress]], [[Heroism]], [[Good vs Evil]], [[Disillusionment]], [[Courage]], [[Conscience]], [[Creativity and Artistic Labor]], [[Fate and Free Will]], [[Nostalgia]], [[Vanity]], [[Paganism and Classical Revival]], [[Mortality]], [[Identity]], [[Optimism and Pessimism]]
-**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Essay]], [[Gothic Novel]], [[Historical Novel]], [[Detective Fiction]]
+**Themes & Concepts:** [[Artist and Society]], [[Innocence and Experience]], [[Maturation and Growth]], [[Joy]], [[Imagination]], [[Sin and the Fall]], [[Faith]], [[Critique of Progress]], [[Heroism]], [[Good vs Evil]], [[Disillusionment]], [[Courage]], [[Conscience]], [[Creativity and Artistic Labor]], [[Fate and Free Will]], [[Nostalgia]], [[Vanity]], [[Paganism and Classical Revival]], [[Mortality]], [[Identity]], [[Optimism and Pessimism]], [[History]]
+**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Essay]], [[Gothic Novel]], [[Historical Novel]], [[Detective Fiction]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Puritanism]], [[Aestheticism and the Decadent Movement]]
-**Settings:** [[Scotland the Highlands]], [[Paris]], [[America]], [[London]], [[Edinburgh]], [[South Seas - Pacific Islands]]
+**Settings:** [[Scotland the Highlands]], [[Paris]], [[America]], [[London]], [[Edinburgh]], [[South Seas - Pacific Islands]], [[Europe]]
 
 ## Testo integrale / Full text
 

@@ -6,6 +6,7 @@ cluster: Order vs Chaos · Historical Novel · Fanaticism
 source: Authors/Shakespeare/_raw/027_Troilus_and_Cressida.md
 tags:
   - graph/work
+  - concept/history
   - author/Shakespeare
   - form/verse_drama
   - form/tragicomedy
@@ -82,7 +83,7 @@ tags:
 **Topoi:** [[Combat Strife]], [[War as Glory]], [[Tempus Fugit]]
 **Archetypes:** [[Femme Fatale]], [[Hero]], [[(Reputed) Fallen Woman]], [[Prophet]]
 **Motifs:** [[Blood]], [[Swords and Weapons]], [[Time]]
-**Themes & Concepts:** [[War and its Cost]], [[Honour]], [[Disillusionment]], [[Lust Sexual Desire]], [[Marriage and Fidelity]], [[Satire of Society]], [[Order vs Chaos]], [[Deception]]
+**Themes & Concepts:** [[War and its Cost]], [[Honour]], [[Disillusionment]], [[Lust Sexual Desire]], [[Marriage and Fidelity]], [[Satire of Society]], [[Order vs Chaos]], [[Deception]], [[History]]
 **Forms & Genres:** [[Verse Drama]], [[Tragicomedy]], [[Satire]], [[Blank Verse]]
 **Historical References:** [[Greek Mythology]], [[Classical Antiquity]]
 **Settings:** [[Battlefield]]

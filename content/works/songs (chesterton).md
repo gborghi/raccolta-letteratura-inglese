@@ -6,6 +6,7 @@ cluster: Education · Self-Made Man · Wheel
 source: Authors/Chesterton/_raw/songs.md
 tags:
   - graph/work
+  - concept/economics
   - author/Chesterton
   - form/song
   - form/satire
@@ -48,7 +49,7 @@ tags:
 **Topoi:** [[World Upside Down]]
 
 **Motifs:** [[Wheel]], [[Money and Gold]], [[Machine]]
-**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Critique of Progress]], [[Education]], [[Labor and Work]], [[Greed and Money]], [[Freedom]], [[Class Conflict]]
+**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Critique of Progress]], [[Education]], [[Labor and Work]], [[Greed and Money]], [[Freedom]], [[Class Conflict]], [[Economics]]
 **Forms & Genres:** [[Comic Verse Song]], [[Satire]]
 
 ## Testo integrale / Full text

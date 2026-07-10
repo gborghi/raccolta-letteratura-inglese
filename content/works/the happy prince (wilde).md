@@ -6,6 +6,7 @@ cluster: Allegory · Quest · Pilgrim
 source: Authors/Wilde/_raw/011_The_Happy_Prince.md
 tags:
   - graph/work
+  - concept/economics
   - author/Wilde
   - concept/social_injustice
   - concept/poverty
@@ -50,7 +51,7 @@ tags:
 **Topoi:** [[Love as Religion]], [[Contemptus Mundi]]
 **Archetypes:** [[Martyr Saint]], [[Christ Figure]], [[King]]
 **Motifs:** [[Money and Gold]], [[Birds]], [[Swallow]], [[City]], [[Death]], [[Winter]], [[Eyes and Sight]], [[Gold and Grey]]
-**Themes & Concepts:** [[Social Injustice]], [[Poverty]], [[Grace and Redemption]], [[Divine Love]], [[Mercy]], [[Friendship]], [[Grief and Loss]], [[Class Conflict]]
+**Themes & Concepts:** [[Social Injustice]], [[Poverty]], [[Grace and Redemption]], [[Divine Love]], [[Mercy]], [[Friendship]], [[Grief and Loss]], [[Class Conflict]], [[Economics]]
 **Forms & Genres:** [[Fairy Tale Fantasy]], [[Allegory]]
 **Historical References:** [[Christianity]], [[Regency Georgian England]]
 **Settings:** [[Egypt]], [[Industrial City]]

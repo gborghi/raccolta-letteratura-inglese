@@ -6,6 +6,7 @@ cluster: Science Fiction · Discovery · Reason vs the Supernatural
 source: Authors/Conan_Doyle/_raw/THE_DOINGS_OF_RAFFLES_HAW.md
 tags:
   - graph/work
+  - concept/economics
   - author/Conan_Doyle
   - form/novel
   - form/science_fiction
@@ -46,12 +47,12 @@ tags:
 - [Chapter 15: THE GREATER SECRET](/testi/conan_doyle/atomized/the_doings_of_raffles_haw/chapter_15_the_greater_secret)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-32.2</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">41.5</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">43.3</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">95.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-32.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">41.7</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">43.5</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">96</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
 **Forms & Genres:** [[Novel]], [[Science Fiction]]
-**Themes & Concepts:** [[Greed and Money]], [[Materialism]], [[Power and Corruption]], [[Charity]], [[Vanity of Worldly Things]]
+**Themes & Concepts:** [[Greed and Money]], [[Materialism]], [[Power and Corruption]], [[Charity]], [[Vanity of Worldly Things]], [[Economics]]
 **Motifs:** [[House Mansion]], [[Great House]], [[Money and Gold]], [[Gems Jewels]]
 **Settings:** [[Rural England]]
 **Archetypes:** [[Self-Made Man]]

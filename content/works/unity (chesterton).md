@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Chesterton/_raw/unity.md
 tags:
   - graph/work
+  - concept/history
   - author/Chesterton
   - form/satire
   - form/ballad
@@ -51,7 +52,7 @@ tags:
 
 **Characters:** [[Isaiah Bunter]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Faith]], [[Martyrdom]], [[Union]], [[Fanaticism]], [[Paradox]]
+**Themes & Concepts:** [[Satire of Society]], [[Faith]], [[Martyrdom]], [[Union]], [[Fanaticism]], [[Paradox]], [[History]]
 **Forms & Genres:** [[Satire]], [[Ballad Ballade]], [[Epigram]], [[Comic Verse Song]]
 **Historical References:** [[Christianity]], [[Eastern Religion Comparative Religion]], [[Kikuyu Controversy]]
 

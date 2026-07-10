@@ -6,6 +6,9 @@ cluster: Heroism · Hero · Last Stand
 source: Authors/Chesterton/_raw/The_Polish_Ideal.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - concept/heroism
@@ -49,13 +52,13 @@ tags:
 
 ## Connections
 
-**Settings:** [[Poland]]
+**Settings:** [[Poland]], [[Europe]]
 
 **Topoi:** [[Last Stand]], [[War as Glory]]
 **Archetypes:** [[Hero]], [[Cavalier]]
 **Motifs:** [[Horse]]
-**Themes & Concepts:** [[Heroism]], [[Honour]], [[Faith]], [[Fate and Free Will]], [[Nationalism and Patriotism]], [[Providence]], [[Paradox]]
-**Forms & Genres:** [[Essay]], [[Travel Writing]]
+**Themes & Concepts:** [[Heroism]], [[Honour]], [[Faith]], [[Fate and Free Will]], [[Nationalism and Patriotism]], [[Providence]], [[Paradox]], [[History]]
+**Forms & Genres:** [[Essay]], [[Travel Writing]], [[Nonfiction]]
 **Historical References:** [[Catholic Church]], [[Puritanism]], [[Polish-Soviet War]]
 **Characters:** [[Don Quixote]], [[Sergius]], [[Bluntzschli]]
 

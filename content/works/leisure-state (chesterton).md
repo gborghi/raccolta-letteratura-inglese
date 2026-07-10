@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/leisure-state.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - concept/distributism
@@ -49,8 +52,8 @@ tags:
 
 **Motifs:** [[Machine]]
 
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Satire of Society]], [[Labor and Work]], [[Freedom and Liberty]], [[Class Conflict]], [[Democracy]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Satire of Society]], [[Labor and Work]], [[Freedom and Liberty]], [[Class Conflict]], [[Democracy]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Historical References:** [[Industrial Revolution]], [[Bolshevism and the Russian Revolution]], [[H.G. Wells's The World Set Free]]
 
 ## Testo integrale / Full text

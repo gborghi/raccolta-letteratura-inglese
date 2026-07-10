@@ -6,6 +6,9 @@ cluster: War and Empire · History · Nationalism and Patriotism
 source: Authors/Conan_Doyle/_raw/THE_DEBATABLE_CASE_OF_MRS_EMSLEY.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Conan_Doyle
   - form/essay
   - concept/crime_and_punishment
@@ -36,8 +39,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]]
-**Themes & Concepts:** [[Crime and Punishment]], [[Justice Right and Wrong]], [[Ratiocination Detection]], [[Deception]], [[Greed and Money]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[Crime and Punishment]], [[Justice Right and Wrong]], [[Ratiocination Detection]], [[Deception]], [[Greed and Money]], [[Economics]], [[History]]
 **Motifs:** [[Letters and Writing]], [[Money and Gold]], [[Blood]]
 **Historical References:** [[Victorian England]]
 **Settings:** [[London]]

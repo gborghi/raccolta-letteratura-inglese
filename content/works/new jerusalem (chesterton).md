@@ -6,6 +6,10 @@ cluster: Allegory · Quest · Pilgrim
 source: Authors/Chesterton/_raw/New_Jerusalem.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/travel_writing
   - form/essay
@@ -98,10 +102,10 @@ tags:
 **Topoi:** [[Quest]], [[World Upside Down]], [[Combat Strife]], [[Last Stand]], [[Open Road Homecoming]]
 **Archetypes:** [[Pilgrim]], [[Prophet]], [[Tyrant]], [[Martyr Saint]]
 **Motifs:** [[Cross]], [[Snow]], [[Lion]], [[Crown]], [[Journey]], [[Dragon]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Nationalism and Patriotism]], [[Exile]], [[Paradox]], [[Slavery]], [[Democracy]], [[Fanaticism]], [[Class Conflict]], [[Supernatural (2)]], [[War and its Cost]], [[Distributism]], [[Money and Avarice]], [[Anti-Industrialism]], [[Zionism]]
-**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Apologetics]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Nationalism and Patriotism]], [[Exile]], [[Paradox]], [[Slavery]], [[Democracy]], [[Fanaticism]], [[Class Conflict]], [[Supernatural (2)]], [[War and its Cost]], [[Distributism]], [[Money and Avarice]], [[Anti-Industrialism]], [[Zionism]], [[Economics]], [[History]]
+**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Apologetics]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Bible]], [[Crusades]], [[Eastern Religion Comparative Religion]], [[Islam]], [[Orient Arabia]], [[First World War]], [[French Revolution]], [[Ancient Rome]]
-**Settings:** [[Orient]], [[Desert]], [[Egypt]], [[Ancient Rome]], [[Paris]], [[London]]
+**Settings:** [[Orient]], [[Desert]], [[Egypt]], [[Ancient Rome]], [[Paris]], [[London]], [[Europe]]
 
 ## Testo integrale / Full text
 

@@ -6,6 +6,10 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/GKC_Come_to_Think.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/satire
@@ -117,7 +121,7 @@ tags:
 
 **Archetypes:** [[King]], [[Self-Made Man]], [[Detective]], [[Tyrant]]
 
-**Settings:** [[America]], [[American South]], [[Italy]]
+**Settings:** [[America]], [[American South]], [[Italy]], [[Europe]]
 
 **Motifs:** [[Serpent Snake]], [[Money and Gold]]
 
@@ -125,8 +129,8 @@ tags:
 
 **Characters:** [[Hamlet]], [[Macbeth]], [[Abraham Lincoln]], [[Elizabeth Bennet]], [[Mr Wickham]], [[Emma Woodhouse]], [[Three Witches]], [[Napoleon]], [[Ferdinand Foch]], [[Charles Dickens]], [[King George V]]
 
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Original Sin]], [[Ratiocination Detection]], [[Truth]], [[Fate and Free Will]], [[Democracy]], [[Nationalism and Patriotism]], [[Money and Avarice]], [[Distributism]], [[Kingship and Legitimacy]], [[Honour]], [[Power and Corruption]], [[Vulgarity]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Detective Fiction]], [[Ode]], [[Epigram]]
+**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Original Sin]], [[Ratiocination Detection]], [[Truth]], [[Fate and Free Will]], [[Democracy]], [[Nationalism and Patriotism]], [[Money and Avarice]], [[Distributism]], [[Kingship and Legitimacy]], [[Honour]], [[Power and Corruption]], [[Vulgarity]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Detective Fiction]], [[Ode]], [[Epigram]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

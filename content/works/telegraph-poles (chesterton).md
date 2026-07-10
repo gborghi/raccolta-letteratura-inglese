@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/telegraph-poles.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - concept/anti_industrialism
   - concept/critique_of_progress
@@ -51,8 +53,8 @@ tags:
 **Topoi:** [[Sublime in Nature]]
 
 **Motifs:** [[Nature]], [[Machine]], [[Light and Dark]], [[Uncanny]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Nature vs Civilization]], [[Wonder and Gratitude]], [[Democracy]], [[Order vs Chaos]], [[Money and Avarice]], [[Common Man]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Nature vs Civilization]], [[Wonder and Gratitude]], [[Democracy]], [[Order vs Chaos]], [[Money and Avarice]], [[Common Man]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Historical References:** [[Industrial Revolution]]
 
 ## Testo integrale / Full text

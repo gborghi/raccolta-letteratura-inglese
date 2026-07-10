@@ -6,6 +6,9 @@ cluster: War and Empire · History · Nationalism and Patriotism
 source: Authors/Conan_Doyle/_raw/A_VISIT_TO_THREE_FRONTS_JUNE_1916.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Conan_Doyle
   - form/travel_writing
   - form/essay
@@ -36,10 +39,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Travel Writing]], [[Essay]]
-**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Empire and Imperialism]], [[Suffering and Pain]]
+**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Empire and Imperialism]], [[Suffering and Pain]], [[History]]
 **Motifs:** [[Fire]], [[Ruins the Abbey]]
 **Historical References:** [[First World War]]
-**Settings:** [[Battlefield]], [[France]], [[Italy]]
+**Settings:** [[Battlefield]], [[France]], [[Italy]], [[Europe]]
 **Archetypes:** [[Hero]]
 **Topoi:** [[War as Glory]]

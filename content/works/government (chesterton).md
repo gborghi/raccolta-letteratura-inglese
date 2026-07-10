@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/government.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - concept/satire_of_society
   - concept/critique_of_progress
@@ -40,8 +42,8 @@ tags:
 **Archetypes:** [[Common Man (2)]]
 
 **Motifs:** [[Letters and Writing]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Power and Corruption]], [[Identity]], [[Distributism]], [[Freedom and Liberty]], [[Individualism]], [[Reform]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Power and Corruption]], [[Identity]], [[Distributism]], [[Freedom and Liberty]], [[Individualism]], [[Reform]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

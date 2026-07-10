@@ -6,6 +6,7 @@ cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
 source: Authors/Chesterton/_raw/towers-of-time.md
 tags:
   - graph/work
+  - concept/history
   - author/Chesterton
   - form/lyric
   - topos/sic_transit_gloria_mundi
@@ -51,7 +52,7 @@ tags:
 
 **Topoi:** [[Sic Transit Gloria Mundi]], [[Fortune's Wheel]], [[Ubi Sunt]], [[Contemptus Mundi]]
 **Motifs:** [[Ruins the Abbey]], [[Nature]], [[Time]], [[Light and Dark]], [[Sun]], [[Crown]]
-**Themes & Concepts:** [[Transience]], [[Pride]], [[Faith]], [[Freedom and Liberty]], [[Power and Corruption]], [[Eternity]], [[Grace and Redemption]]
+**Themes & Concepts:** [[Transience]], [[Pride]], [[Faith]], [[Freedom and Liberty]], [[Power and Corruption]], [[Eternity]], [[Grace and Redemption]], [[History]]
 **Forms & Genres:** [[Lyric]], [[Hymn]]
 **Historical References:** [[Ancient Rome]], [[Bible]], [[Catholic Church]], [[Carthage]]
 **Characters:** [[Virgin Mary]]

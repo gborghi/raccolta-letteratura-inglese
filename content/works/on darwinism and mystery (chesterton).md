@@ -6,6 +6,8 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/On_Darwinism_and_Mystery.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - concept/faith_and_doubt
@@ -49,8 +51,8 @@ tags:
 
 **Characters:** [[Charles Darwin]], [[Thomas Henry Huxley]], [[Edward Clodd]]
 
-**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Sublime]], [[Providence]], [[Unseen The Hidden]], [[Agnosticism]]
-**Forms & Genres:** [[Essay]], [[Apologetics]]
+**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Sublime]], [[Providence]], [[Unseen The Hidden]], [[Agnosticism]], [[History]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Bible]], [[Darwinism]]
 
 ## Testo integrale / Full text

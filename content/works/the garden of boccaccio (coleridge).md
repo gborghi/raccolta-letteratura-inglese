@@ -6,6 +6,8 @@ cluster: Flowers · Spring · Garden
 source: Authors/Coleridge/_raw/286_THE_GARDEN_OF_BOCCACCIO.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/history
   - author/Coleridge
   - topos/locus_amoenus
   - concept/imagination
@@ -31,9 +33,9 @@ tags:
 
 **Topoi:** [[Locus Amoenus]], [[Pastoral Retreat]]
 **Motifs:** [[Memory]], [[Garden]], [[Childhood]]
-**Themes & Concepts:** [[Imagination]], [[Melancholy]], [[Romantic Love]]
+**Themes & Concepts:** [[Imagination]], [[Melancholy]], [[Romantic Love]], [[History]]
 **Historical References:** [[Renaissance]], [[Greek Mythology]], [[Norse Pagan Myth]]
-**Settings:** [[Italy]], [[Garden (2)]]
+**Settings:** [[Italy]], [[Garden (2)]], [[Europe]]
 
 ## Testo integrale / Full text
 

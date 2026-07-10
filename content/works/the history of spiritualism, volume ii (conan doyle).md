@@ -6,6 +6,8 @@ cluster: Spiritualism · Faith and Doubt · The Afterlife
 source: Authors/Conan_Doyle/_raw/THE_HISTORY_OF_SPIRITUALISM_VOLUME_II.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
   - author/Conan_Doyle
   - form/essay
   - form/biography
@@ -46,14 +48,14 @@ tags:
 - [Chapter 11](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii/chapter_11)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-50.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">38.9</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">42.3</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">31%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">75</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-51.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">39.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">42.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">31%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">75.7</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Biography]]
+**Forms & Genres:** [[Essay]], [[Biography]], [[Nonfiction]]
 **Themes & Concepts:** [[Spiritualism]], [[Immortality of the Soul]], [[Argument from Authority]], [[Heaven and the Afterlife]], [[Rationalism]]
 **Motifs:** [[Ghosts]], [[Supernatural]], [[Uncanny]], [[Soul]]
 **Historical References:** [[First World War]], [[Christianity]]
-**Settings:** [[London]], [[Italy]]
+**Settings:** [[London]], [[Italy]], [[Europe]]
 **Characters:** [[Emanuel Swedenborg]]
 **Archetypes:** [[Prophetess Seer]], [[Prophet]]

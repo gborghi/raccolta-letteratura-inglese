@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/Tremendous_Trifles.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - form/satire
@@ -108,9 +111,9 @@ tags:
 **Characters:** [[Robin Hood]], [[Parkinson]], [[Father Christmas]], [[President Kruger]], [[Charles Dickens]]
 
 **Motifs:** [[Eyes and Sight]], [[Journey]], [[Fire]], [[Ghosts]], [[Wind]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Imagination]], [[Paradox]], [[Common Man]], [[Joy]], [[Humility]], [[Satire of Society]], [[Democracy]], [[Good vs Evil]], [[Critique of Progress]], [[Paganism and Classical Revival]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Travel Writing]], [[Ballad Ballade]], [[Sketch]]
-**Settings:** [[London]], [[Paris]], [[Continental Europe (Brussels)]]
+**Themes & Concepts:** [[Wonder and Gratitude]], [[Imagination]], [[Paradox]], [[Common Man]], [[Joy]], [[Humility]], [[Satire of Society]], [[Democracy]], [[Good vs Evil]], [[Critique of Progress]], [[Paganism and Classical Revival]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Travel Writing]], [[Ballad Ballade]], [[Sketch]], [[Nonfiction]]
+**Settings:** [[London]], [[Paris]], [[Continental Europe (Brussels)]], [[Europe]]
 
 ## Testo integrale / Full text
 

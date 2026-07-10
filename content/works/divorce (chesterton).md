@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/divorce.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - concept/marriage_and_fidelity
   - motif/marriage
@@ -68,8 +71,8 @@ tags:
 **Characters:** [[Orlando]], [[Valentine]], [[Cain]], [[King Lear]], [[Henry VIII]]
 
 **Motifs:** [[Marriage]], [[Window]], [[Flag]], [[Chains]], [[Home]], [[Vow]]
-**Themes & Concepts:** [[Marriage and Fidelity]], [[Distributism]], [[Class Conflict]], [[Critique of Progress]], [[Faith]], [[Slavery]], [[Individualism]], [[Nationalism and Patriotism]], [[Honour]], [[Freedom and Liberty]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Marriage and Fidelity]], [[Distributism]], [[Class Conflict]], [[Critique of Progress]], [[Faith]], [[Slavery]], [[Individualism]], [[Nationalism and Patriotism]], [[Honour]], [[Freedom and Liberty]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Historical References:** [[Catholic Church]], [[Reformation]], [[First World War]], [[Irish Question]]
 
 ## Testo integrale / Full text

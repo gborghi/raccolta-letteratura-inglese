@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Dickens/_raw/American_Notes.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
   - author/Dickens
   - form/travel_writing
   - form/essay
@@ -64,8 +66,8 @@ tags:
 **Archetypes:** [[Pilgrim]]
 **Motifs:** [[Journey]], [[Sea]], [[City]], [[Road]]
 **Themes & Concepts:** [[Social Injustice]], [[Satire of Society]], [[Reform]], [[Justice Right and Wrong]], [[Alienation]], [[Truth]], [[Critique of Progress]], [[Slavery]]
-**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Satire]]
-**Settings:** [[Ship]], [[Italy]]
+**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Satire]], [[Nonfiction]]
+**Settings:** [[Ship]], [[Italy]], [[Europe]]
 
 ## Testo integrale / Full text
 

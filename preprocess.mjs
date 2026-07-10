@@ -1075,7 +1075,7 @@ async function main() {
     Eliot: "author-eliot", Chesterton: "author-chesterton", Dickens: "author-dickens",
     Austen: "author-austen", Bronte: "author-bronte", Poe: "author-poe", Wilde: "author-wilde",
     Coleridge: "author-coleridge", Whitman: "author-whitman", Sayers: "author-sayers",
-    "Conan Doyle": "author-conan-doyle",
+    "Conan Doyle": "author-conan-doyle", Belloc: "author-belloc",
   }
   const authorsWheel = authors
     .filter((a) => !EXCLUDE_AUTHORS.has(a))
@@ -1168,15 +1168,15 @@ title: English Literature — A Knowledge Graph
 
 ## Authors
 
-Spin through the thirteen authors — each emblem opens that author's works.
+Spin through the ${authorsWheel.length} authors — each emblem opens that author's works.
 
-<div class="radial-wheel" data-wheel="authors" data-center="Authors" data-center-sub="13 voices"></div>
+<div class="radial-wheel" data-wheel="authors" data-center="Authors" data-center-sub="${authorsWheel.length} voices"></div>
 
 ## Thematic clusters
 
 The ${clusters.length} clusters group works by the constellations of theme and form they share. Here are the twelve largest.
 
-<div class="radial-wheel" data-wheel="clusters" data-center="Clusters" data-center-sub="62 in all"></div>
+<div class="radial-wheel" data-wheel="clusters" data-center="Clusters" data-center-sub="${clusters.length} in all"></div>
 
 <p style="margin-top:1.2rem; text-align:center"><a class="btn" href="naviga">Explore the concept spaces →</a> &nbsp; <a class="btn btn-primary" href="opere">All works table →</a></p>
 `

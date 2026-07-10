@@ -6,6 +6,8 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/intro-love-and-freindship.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/literary_criticism
   - form/essay
@@ -62,8 +64,8 @@ tags:
 
 **Characters:** [[Elizabeth Bennet]], [[Fanny Price]], [[Laura]], [[Sophia]], [[Mr Bennet]]
 
-**Themes & Concepts:** [[Artist and Society]], [[Imagination]], [[Joy]], [[Satire of Society]], [[Individualism]], [[Greatness]], [[Literary Criticism (2)]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]], [[Parody]], [[Epistolary Diary Novel]]
+**Themes & Concepts:** [[Artist and Society]], [[Imagination]], [[Joy]], [[Satire of Society]], [[Individualism]], [[Greatness]], [[Literary Criticism (2)]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]], [[Parody]], [[Epistolary Diary Novel]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

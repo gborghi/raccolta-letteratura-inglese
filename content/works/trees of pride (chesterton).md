@@ -6,6 +6,7 @@ cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Chesterton/_raw/trees_of_pride.md
 tags:
   - graph/work
+  - concept/economics
   - author/Chesterton
   - form/detective_fiction
   - form/short_story
@@ -76,7 +77,7 @@ tags:
 
 **Archetypes:** [[Detective]], [[Villain]], [[Trickster]], [[Outsider]]
 **Motifs:** [[Supernatural]], [[Sea]], [[Enchanted Wood]], [[Well]], [[Serpent Snake]], [[Concealment Hidden Identity]], [[Disease and Contagion]], [[Birds]], [[Poison]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Doubt]], [[Pride]], [[Common Man]], [[Deception]], [[Justice Right and Wrong]], [[Crime and Punishment]], [[Guilt]], [[Class Conflict]]
+**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Doubt]], [[Pride]], [[Common Man]], [[Deception]], [[Justice Right and Wrong]], [[Crime and Punishment]], [[Guilt]], [[Class Conflict]], [[Economics]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
 **Settings:** [[Rural England]], [[Sea (2)]], [[Underworld Cave]]
 

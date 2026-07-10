@@ -6,6 +6,7 @@ cluster: Court · Medieval England · History Play
 source: Authors/Shakespeare/_raw/018_1_Henry_IV.md
 tags:
   - graph/work
+  - concept/history
   - author/Shakespeare
   - topos/theatrum_mundi
   - topos/fall_from_innocence
@@ -71,7 +72,7 @@ tags:
 **Topoi:** [[Theatrum Mundi]], [[Fall from Innocence]]
 **Archetypes:** [[Fool]], [[King]], [[Rebel]]
 **Motifs:** [[Inn Tavern]], [[Wine and Drink]], [[Crown]], [[Honour (2)]]
-**Themes & Concepts:** [[Kingship and Legitimacy]], [[Honour]], [[Maturation and Growth]], [[Power and Corruption]], [[Appearance vs Reality]]
+**Themes & Concepts:** [[Kingship and Legitimacy]], [[Honour]], [[Maturation and Growth]], [[Power and Corruption]], [[Appearance vs Reality]], [[History]]
 **Forms & Genres:** [[History Play]], [[Blank Verse]], [[Verse Drama]]
 **Historical References:** [[Medieval England]]
 **Settings:** [[Court]], [[Inn]], [[Battlefield]]

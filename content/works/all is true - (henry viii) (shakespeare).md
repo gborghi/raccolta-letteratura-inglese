@@ -6,6 +6,7 @@ cluster: Court · Medieval England · History Play
 source: Authors/Shakespeare/_raw/046_All_Is_True_(Henry_VIII).md
 tags:
   - graph/work
+  - concept/history
   - author/Shakespeare
   - form/history_play
   - form/blank_verse
@@ -60,7 +61,7 @@ tags:
 **Topoi:** [[Fortune's Wheel]], [[Sic Transit Gloria Mundi]]
 **Archetypes:** [[King]], [[Corrupt Official]], [[Martyr Saint]]
 **Motifs:** [[Crown]], [[Wheel]]
-**Themes & Concepts:** [[Power and Corruption]], [[Ambition]], [[Pride]], [[Conscience]], [[Kingship and Legitimacy]], [[Marriage and Fidelity]], [[Providence]], [[Martyrdom]]
+**Themes & Concepts:** [[Power and Corruption]], [[Ambition]], [[Pride]], [[Conscience]], [[Kingship and Legitimacy]], [[Marriage and Fidelity]], [[Providence]], [[Martyrdom]], [[History]]
 **Forms & Genres:** [[History Play]], [[Blank Verse]]
 **Historical References:** [[Reformation]], [[Christianity]], [[Bible]]
 **Settings:** [[Court]]

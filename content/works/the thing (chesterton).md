@@ -6,6 +6,9 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/The_Thing.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/apologetics
   - form/essay
@@ -88,8 +91,8 @@ tags:
 **Characters:** [[St. Francis of Assisi]], [[St. Joan of Arc]]
 
 **Motifs:** [[Book Reading]], [[Home]], [[Food and Feasting]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Conversion]], [[Doubt]], [[Truth]], [[Critique of Progress]], [[Order vs Chaos]], [[Paradox]], [[Satire of Society]], [[Democracy]], [[Conformity vs Individualism]], [[Distributism]], [[Nationalism and Patriotism]], [[Common Man]]
-**Forms & Genres:** [[Apologetics]], [[Essay]], [[Satire]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Conversion]], [[Doubt]], [[Truth]], [[Critique of Progress]], [[Order vs Chaos]], [[Paradox]], [[Satire of Society]], [[Democracy]], [[Conformity vs Individualism]], [[Distributism]], [[Nationalism and Patriotism]], [[Common Man]], [[Economics]], [[History]]
+**Forms & Genres:** [[Apologetics]], [[Essay]], [[Satire]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Catholic Church]], [[Reformation]], [[Puritanism]], [[Islam]]
 
 ## Testo integrale / Full text

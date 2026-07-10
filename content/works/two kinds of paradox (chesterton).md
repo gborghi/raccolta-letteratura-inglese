@@ -6,6 +6,8 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Two_Kinds_of_Paradox.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - form/literary_criticism
@@ -47,8 +49,8 @@ tags:
 **Historical References:** [[Lewis Carroll]], [[Edward Lear]], [[Bernard Shaw]], [[Oscar Wilde]], [[Friedrich Nietzsche]], [[Holbrook Jackson]]
 
 **Topoi:** [[World Upside Down]]
-**Themes & Concepts:** [[Paradox]], [[Imagination]], [[Truth]], [[Artist and Society]], [[Satire of Society]], [[Power of Language]], [[Creative Sterility]], [[Nonsense]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Aphorism]], [[Epigram]]
+**Themes & Concepts:** [[Paradox]], [[Imagination]], [[Truth]], [[Artist and Society]], [[Satire of Society]], [[Power of Language]], [[Creative Sterility]], [[Nonsense]], [[History]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Aphorism]], [[Epigram]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

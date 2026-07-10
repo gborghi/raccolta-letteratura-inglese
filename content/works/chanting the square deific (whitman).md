@@ -6,6 +6,7 @@ cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Whitman/_raw/237_Chanting_the_Square_Deific.md
 tags:
   - graph/work
+  - concept/history
   - author/Whitman
   - concept/good_vs_evil
   - archetype/christ_figure
@@ -28,7 +29,7 @@ tags:
 ## Connections
 
 **Archetypes:** [[Christ Figure]], [[Satanic Figure]]
-**Themes & Concepts:** [[Good vs Evil]], [[Self-Knowledge]], [[Divine Love]]
+**Themes & Concepts:** [[Good vs Evil]], [[Self-Knowledge]], [[Divine Love]], [[History]]
 **Forms & Genres:** [[Hymn]]
 **Historical References:** [[Christianity]], [[Eastern Religion Comparative Religion]], [[Greek Mythology]]
 **Characters:** [[Christ]], [[Satan]]

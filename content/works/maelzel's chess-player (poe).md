@@ -6,6 +6,7 @@ cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Poe/_raw/Maelzel's Chess-Player.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Poe
   - concept/rationcination_detection
   - concept/appearance_vs_reality
@@ -49,7 +50,7 @@ tags:
 **Archetypes:** [[Detective]]
 **Motifs:** [[Concealment Hidden Identity]], [[Mirror]]
 **Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Truth]], [[Critique of Progress]]
-**Forms & Genres:** [[Essay]], [[Detective Fiction]]
+**Forms & Genres:** [[Essay]], [[Detective Fiction]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

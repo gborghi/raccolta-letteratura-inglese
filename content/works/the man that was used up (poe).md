@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Poe/_raw/The Man That Was Used Up.md
 tags:
   - graph/work
+  - concept/economics
   - author/Poe
   - concept/satire_of_society
   - concept/critique_of_progress
@@ -49,7 +50,7 @@ tags:
 **Topoi:** [[World Upside Down]]
 **Archetypes:** [[Hero]]
 **Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Anti-Industrialism]], [[Appearance vs Reality]], [[Grotesque]], [[Heroism]], [[War and its Cost]], [[Identity]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Anti-Industrialism]], [[Appearance vs Reality]], [[Grotesque]], [[Heroism]], [[War and its Cost]], [[Identity]], [[Economics]]
 **Forms & Genres:** [[Satire]], [[Short Story]]
 **Historical References:** [[Industrial Revolution]]
 

@@ -6,6 +6,7 @@ cluster: Lyric · Romantic Love · Marriage and Fidelity
 source: Authors/Chesterton/_raw/rash_vows.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - concept/marriage_and_fidelity
@@ -54,7 +55,7 @@ tags:
 
 **Topoi:** [[Love as Religion]], [[Quest]]
 **Themes & Concepts:** [[Marriage and Fidelity]], [[Identity]], [[Self-Knowledge]], [[Critique of Progress]], [[Disillusionment]], [[Heroism]], [[Romantic Love]], [[Freedom and Liberty]], [[Self-Sacrifice]], [[Paradox]], [[Honour]]
-**Forms & Genres:** [[Essay]], [[Apologetics]]
+**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

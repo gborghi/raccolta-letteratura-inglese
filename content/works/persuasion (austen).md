@@ -6,6 +6,7 @@ cluster: Problem Play
 source: Authors/Austen/_raw/Persuasion.md
 tags:
   - graph/work
+  - concept/economics
   - author/Austen
   - concept/love_romantic
   - concept/marriage_and_fidelity
@@ -77,7 +78,7 @@ tags:
 
 **Archetypes:** [[Lover]]
 **Motifs:** [[Marriage]], [[Autumn]], [[Sea]], [[Letters and Writing]]
-**Themes & Concepts:** [[Romantic Love]], [[Marriage and Fidelity]], [[Unrequited Frustrated Love]], [[Nostalgia]], [[Melancholy]], [[Memory and Time]], [[Class Conflict]], [[Pride]], [[Satire of Society]], [[Appearance vs Reality]], [[Deception]]
+**Themes & Concepts:** [[Romantic Love]], [[Marriage and Fidelity]], [[Unrequited Frustrated Love]], [[Nostalgia]], [[Melancholy]], [[Memory and Time]], [[Class Conflict]], [[Pride]], [[Satire of Society]], [[Appearance vs Reality]], [[Deception]], [[Economics]]
 **Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Satire]]
 **Historical References:** [[Napoleonic Wars the Navy]], [[Regency Georgian England]]
 **Settings:** [[Rural England]]

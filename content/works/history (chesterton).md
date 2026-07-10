@@ -6,6 +6,10 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/history.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - concept/nationalism_and_patriotism
   - concept/the_common_man
@@ -130,10 +134,10 @@ tags:
 
 **Topoi:** [[Ages of the World]], [[Golden Age]], [[Fortune's Wheel]], [[War as Glory]]
 **Motifs:** [[Crown]], [[Swords and Weapons]], [[Money and Gold]], [[Ruins the Abbey]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Common Man]], [[Distributism]], [[Anti-Industrialism]], [[Class Conflict]], [[Social Injustice]], [[Kingship and Legitimacy]], [[Power and Corruption]], [[Critique of Progress]], [[Heroism]], [[Democracy]], [[Freedom and Liberty]], [[Slavery]], [[Greed and Money]], [[Labor and Work]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Common Man]], [[Distributism]], [[Anti-Industrialism]], [[Class Conflict]], [[Social Injustice]], [[Kingship and Legitimacy]], [[Power and Corruption]], [[Critique of Progress]], [[Heroism]], [[Democracy]], [[Freedom and Liberty]], [[Slavery]], [[Greed and Money]], [[Labor and Work]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Historical References:** [[Medieval England]], [[Crusades]], [[Reformation]], [[Industrial Revolution]], [[Christianity]], [[Catholic Church]], [[Wars of the Roses]], [[Ancient Rome]], [[French Revolution]], [[Renaissance]], [[Puritanism]], [[Elizabethan England]], [[Napoleonic Wars the Navy]], [[First World War]], [[Islam]], [[Grail Legend]], [[Arthurian Legend]], [[Danish Invasions]], [[Battle of Ethandun]], [[Regency Georgian England]], [[Irish Question]], [[Thirty Years' War]]
-**Settings:** [[Medieval England (2)]], [[Rural England]], [[Scotland the Highlands]], [[Germany]], [[London]]
+**Settings:** [[Medieval England (2)]], [[Rural England]], [[Scotland the Highlands]], [[Germany]], [[London]], [[Europe]]
 
 ## Testo integrale / Full text
 

@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/A_Shy_Bird.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - concept/paradox
@@ -60,8 +62,8 @@ tags:
 
 **Topoi:** [[Golden Age]]
 **Motifs:** [[Music and Song]], [[Nightingale]], [[Birds]]
-**Themes & Concepts:** [[Paradox]], [[Identity]], [[Nationalism and Patriotism]], [[Common Man]], [[Artist and Society]], [[Nostalgia]], [[Patience and Waiting]], [[Comradeship]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]]
+**Themes & Concepts:** [[Paradox]], [[Identity]], [[Nationalism and Patriotism]], [[Common Man]], [[Artist and Society]], [[Nostalgia]], [[Patience and Waiting]], [[Comradeship]], [[History]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Nonfiction]]
 **Settings:** [[Rural England]]
 
 ## Testo integrale / Full text

@@ -1,0 +1,45 @@
+---
+title: "Hills and the Sea — THE DEPARTURE"
+author: "Belloc"
+unitType: story
+parentWork: "works/hills-and-the-sea-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/hills-and-the-sea-(belloc)">Hills and the Sea</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/hills_and_the_sea/story_32_the_man_of_the_desert">‹ Story 32 THE MAN OF THE DESERT</a><a class="ex-next" href="/testi/belloc/atomized/hills_and_the_sea/story_34_the_idea_of_a_pilgrimage">Story 34 THE IDEA OF A PILGRIMAGE ›</a></div>
+</nav>
+
+
+THE DEPARTURE
+
+ONCE, IN BARBARY, I grew tired of unusual things, especially of palms, and desired to return to Europe and the things I knew; so I went down from the hills to the sea coast, and when after two days I had reached the railway, I took a train for Algiers and reached that port at evening.
+
+From Algiers it is possible to go at once and for almost any sum one chooses to any part of the world. The town is on a sharp slope of a theatre of hills, and in the quiet harbour below it there are all sorts of ships, but mostly steamships, moored with their sterns towards the quay. For there is no tide here, and the ships can lie quite still.
+
+I sat upon a wall of the upper town and considered how each of these ships were going to some different place, and how pleasant it was to roam about the world. Behind the ships, along the stone quays, were a great number of wooden huts, of offices built, into archways, of little houses, booths, and dens, in each of which you could take your passage to some place or other.
+
+“Now,” said I to myself, “now is the time to be free.” For one never feels master of oneself unless one is obeying no law, plan, custom, trend, or necessity, but simply spreading out at ease and occupying the world. In this also Aristotle was misled by fashion, or was ill-informed by some friend of his, or was, perhaps, lying for money when he said that liberty was obedience to a self-made law; for the most distant hint of law is odious to liberty. True, it is more free to obey a law of one’s own making than of some one else’s; just as if a man should give himself a punch in the eye it would be less hurtful and far less angering than one given by a passer-by; yet to suffer either would not be a benefit of freedom. Liberty cannot breathe where the faintest odour of regulation is to be discovered, but only in that ether whose very nature is largeness. Oh! Diviner Air! how few have drunk you, and in what deep draughts have I!
+
+I had a great weight of coined, golden, metallic money all loose in my pocket. There was no call upon me nor any purpose before me. I spent an hour looking down upon the sea and the steamships, and taking my pick out of all the world.
+
+One thing, however, guided me, which was this: that desire, to be satisfied at all, must be satisfied at once; and of the many new countries I might seek that would most attract me whose [[Ship|ship]] was starting soonest. So I looked round for mooring cables in the place of anchor chains, for Blue Peter, for smoke from funnels, for little boats coming and going, and for all that shows a steamboat to be off; when I saw, just behind a large new boat in such a condition of bustle, a sign in huge yellow letters staring on a bright black ground, which said, “To the Balearic Islands, eight shillings”; underneath, in smaller yellow letters, was written: “Gentlemen The Honourable Travellers are warned that they must pay for any food they consume.” When I had read this notice I said to myself: “I will go to the Balearic Islands, of which the rich have never heard. I, poor and unencumbered, will go and visit these remote places, which have in their time received all the influences of the world, and which yet have no history; for I am tired of this Africa, where so many men are different from me.” As I said this to myself I saw a little picture in my mind of three small islands standing in the middle of the sea, quite alone, and inhabited by happy men; but this picture, as it always is with such pictures, was not at all the same as what I saw when next morning the islands rose along the north to which we steered.
+
+I went down to the quay by some large stone steps which an Englishman had built many years ago, and I entered the office above which this great sign was raised. Within was a tall man of doubtful race, smoking a cigarette made of loose paper, and gazing kindly at the air. He was full of reveries. Of this man I asked when the boat would be starting. He told me it started in half an hour, a little before the setting of the sun. So I bought a ticket for eight shillings, upon which it was clearly printed in two languages that I had bound myself to all manner of things by the purchase, and especially that I might not go below, but must sit upon deck all night; nevertheless, I was glad to hold that little bit of printed prose, for it would enable me to reach the Balearic Islands, which for all other men are names in a dream. I then went up into the town of Algiers, and was careful to buy some ham from a Jew, some wine from a Mohammedan, and some bread and chocolate from a very indifferent Christian. After that I got aboard. As I came over the side I heard the sailors, stokers, and people all talking to each other in low tones, and I at once recognised the tongue called Catalan.
+
+I had heard this sort of Latin in many places, some lonely and some populous. I had heard it once from a chemist at Perpignan who dressed a wound of mine, and this was the first time I heard it. Very often after in the valleys of the Pyrenees, in the Cerdagne, and especially in Andorra, hundreds of men had spoken to me in Catalan. At Urgel, that notable city where there is only one shop and where the streets are quite narrow and Moorish, a woman and six or seven men had spoken Catalan to me for nearly one hour: it was in a cellar surrounded by great barrels, and I remember it well. So, also, on the River Noguera, coming up again into the hills, a girl who took the toll at the wooden bridge had spoken Catalan to me. But none of these had I ever answered so that they could understand, and on this account I was very grieved to hear the Catalan tongue, though I remembered that if I spoke to them with ordinary Spanish words or in French with a strong Southern accent they would usually have some idea of what I was saying.
+
+As the evening fell the cables were slipped without songs, and with great dignity, rapidity, and order the [[Ship|ship]] was got away.
+
+I knew a man once, a seafaring man, a Scotchman, with whom I travelled on a very slow old boat in the Atlantic, who told me that the Northern people of Europe were bravest in a unexpected danger, but the Southern in a danger long foreseen. He said he had known many of both kinds, and had served under them and commanded them. He said that in sudden accident the Northerner was the more reliable man, but that if an act of great danger had to be planned and coolly achieved, then the Southerner was strongest in doing what he had to do. He said that in taking the ground he would rather have a Northern, but in bringing in a short [[Ship|ship]] a Southern crew.
+
+He was a man who observed closely, and never said a thing because he had read it. Indeed, he did not read, and he had in a little hanging shelf above his bunk only four or five tattered books, and even these were magazines. I remembered his testimony now as I watched these Catalans letting the ship go free, and I believed it, comparing it with history and the things I had myself seen. They did everything with such regularity and so silently that it was a different deck from what one would have had in the heave of the Channel. With Normans or Bretons, or Cornishmen or men of Kent, but especially with men from London river, there would have been all sorts of cursing and bellowing, and they could not have touched a rope without throwing themselves into attitudes of violence. But these men took the sea quite quietly, nor could you tell from their faces which was rich and which was poor.
+
+It was not till the ship was out throbbing swiftly Over the smooth sea and darkness had fallen that they began to sing. Then those of them who were not working gathered together with a stringed instrument forward and sang of pity and of death. One of them said to me, “Knight, can your grace sing?” I told him that I could sing, certainly, but that my singing was unpleasing, and that I only knew foreign songs. He said that singing was a great solace, and desired to hear a song of my own country. So I sang them a song out of Sussex, to which they listened in deep silence, and when it was concluded their leader snapped and twanged at the strings again and began another song about the riding of horses in the hills.
+
+So we passed the short night until the sky upon our quarter grew faintly pale and the little [[Wind|wind]] that rises before morning awakened the sea.
+
+* * *

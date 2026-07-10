@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/On_Lying_In_Bed.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - concept/paradox
@@ -46,8 +48,8 @@ tags:
 
 **Characters:** [[Cyrano de Bergerac]]
 
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Heroism]], [[Imagination]], [[Critique of Progress]], [[Indolence]], [[Common Man]], [[Conformity vs Individualism]], [[Freedom]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Heroism]], [[Imagination]], [[Critique of Progress]], [[Indolence]], [[Common Man]], [[Conformity vs Individualism]], [[Freedom]], [[History]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

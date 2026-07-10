@@ -6,6 +6,7 @@ cluster: Court · Medieval England · History Play
 source: Authors/Keats/_raw/001_SPECIMEN_OF_AN_INDUCTION_TO_A_POEM.md
 tags:
   - graph/work
+  - concept/history
   - author/Keats
   - form/romance_medieval
   - histref/medieval_england
@@ -22,6 +23,7 @@ tags:
 
 ## Connections
 
+**Themes & Concepts:** [[History]]
 **Motifs:** [[Swords and Weapons]]
 **Forms & Genres:** [[Medieval Romance]], [[Heroic Couplet]], [[Fragment]]
 **Historical References:** [[Medieval England]], [[Renaissance]]

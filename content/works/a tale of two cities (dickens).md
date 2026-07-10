@@ -6,6 +6,9 @@ cluster: Order vs Chaos · Historical Novel · Fanaticism
 source: Authors/Dickens/_raw/A_Tale_of_Two_Cities.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/history
+  - concept/economics
   - author/Dickens
   - form/novel
   - form/historical_novel
@@ -105,10 +108,10 @@ tags:
 **Topoi:** [[Sleeper Awakes]], [[Fortune's Wheel]]
 **Archetypes:** [[Martyr Saint]], [[Christ Figure]], [[Avenger]], [[Double Doppelganger]]
 **Motifs:** [[Blood]], [[Wine and Drink]], [[Storm]], [[City]], [[Light and Dark]]
-**Themes & Concepts:** [[Revenge]], [[Social Injustice]], [[Class Conflict]], [[Grace and Redemption]], [[Martyrdom]], [[War and its Cost]], [[Order vs Chaos]], [[Romantic Love]]
+**Themes & Concepts:** [[Revenge]], [[Social Injustice]], [[Class Conflict]], [[Grace and Redemption]], [[Martyrdom]], [[War and its Cost]], [[Order vs Chaos]], [[Romantic Love]], [[Economics]], [[History]]
 **Forms & Genres:** [[Novel]], [[Historical Novel]], [[Social Novel (Novel of Manners)]]
 **Historical References:** [[French Revolution]]
-**Settings:** [[Paris]], [[London]]
+**Settings:** [[Paris]], [[London]], [[Europe]]
 **Characters:** [[Sydney Carton]], [[Charles Darnay]], [[Lucie Manette]], [[Doctor Manette]], [[Madame Defarge]], [[Ernest Defarge]], [[Jarvis Lorry]], [[Miss Pross]], [[Jerry Cruncher]], [[Marquis St. Evremonde]]
 
 ## Testo integrale / Full text

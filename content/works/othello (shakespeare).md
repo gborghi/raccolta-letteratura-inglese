@@ -6,6 +6,7 @@ cluster: Blood · Verse Drama · Revenge
 source: Authors/Shakespeare/_raw/033_Othello.md
 tags:
   - graph/work
+  - setting/europe
   - author/Shakespeare
   - form/tragedy
   - form/verse_drama
@@ -77,7 +78,7 @@ tags:
 **Themes & Concepts:** [[Jealousy]], [[Deception]], [[Appearance vs Reality]], [[Alienation]], [[Romantic Love]], [[Marriage and Fidelity]], [[Revenge]], [[Good vs Evil]], [[Pride]], [[Guilt]], [[Mortality]]
 **Forms & Genres:** [[Tragedy]], [[Verse Drama]], [[Blank Verse]]
 **Historical References:** [[Orient Arabia]]
-**Settings:** [[Venice]], [[Court]]
+**Settings:** [[Venice]], [[Court]], [[Europe]]
 **Characters:** [[Othello]], [[Iago]], [[Desdemona]], [[Cassio]], [[Emilia]], [[Roderigo]], [[Brabantio]], [[Bianca]]
 
 ## Testo integrale / Full text

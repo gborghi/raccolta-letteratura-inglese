@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/strange-city.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - concept/truth
   - concept/imagination
@@ -50,7 +51,7 @@ tags:
 
 **Motifs:** [[City]]
 **Themes & Concepts:** [[Truth]], [[Imagination]], [[Faith]], [[Paradox]], [[Wonder and Gratitude]], [[Power of Language]], [[One Life (Pantheism)]], [[Heaven and the Afterlife]], [[Natural Order]], [[Eternity]], [[Beauty]], [[Paganism and Classical Revival]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]]
+**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -1,0 +1,35 @@
+---
+title: "Six British Battles — Part 6: THE ACTION (part 4)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/six-british-battles-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/six-british-battles-(belloc)">Six British Battles</a> › <a href="/testi/belloc/atomized/six_british_battles/chapter_15_the_action">Chapter 15 THE ACTION</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/six_british_battles/chapter_15_the_action/part_03">‹ part 03</a><a class="ex-next" href="/testi/belloc/atomized/six_british_battles/chapter_15_the_action/part_05">part 05 ›</a></div>
+</nav>
+
+
+Roubaix overlooks from a slight elevation the valley of the Marque. Lest the word “valley” be misleading, let me hasten to add that that stream here flows at the bottom of a very slight and very broad depression. But, at any rate, from Roubaix one overlooks that depression for some miles; one sees five miles distant the fortifications of Lille, and the intervening country is open enough to betray the presence of troops. Indeed, once Roubaix was captured, the English commander could see across those fields, a couple of hours’ march away, the tents of the great French camp at Sainghin under the walls of the fortress.
+
+Now, along that river valley and across those fields there should have been apparent in those mid hours of the day, when the Guards had stormed Roubaix, the great host of the fourth and fifth columns coming up in support of the second and third.
+
+If the time-table had been observed, the Arch-Duke and Kinsky, over 25,000 men, should have been across the Marque before dawn, should have pushed back the French forces outside Lille, and should, long before noon, have been covering those fields between Roubaix and Lille with their advancing squadrons and battalions. There was no sign of them. If, or when, the French body near Lille were free to advance and attack the Duke of York’s left flank, there was no one between to prevent their doing so. That great body of the third and fourth columns, more than half of all the men who were advancing from the Scheldt to meet Clerfayt, had failed to come up to time. That was why the Duke of York desired to push no further than Roubaix, and even to leave only an advance guard to hold that place while he withdrew the bulk of his command to Lannoy.
+
+But his decision was overruled. The Emperor and his staff, who, following up the march of this third column, were now at Templeuve, thought it imperative that Mouveaux should be held. Only thus, in their judgment, could the junction with Clerfayt (who, though late, must surely be now near at hand) be accomplished. And certainly, unless Mouveaux were held, Otto could not hold his advanced position at Tourcoing. The order was therefore sent to York to take Mouveaux. In the disastrous issue that order has naturally come in for sharp blame; but it must be remembered that much of the plan was already successfully accomplished, that Clerfayt was thought to be across the Lys, and that if the French around Courtrai, and hitherward from Courtrai to Tourcoing, were to be cut off, it was imperative to effect the junction with Clerfayt without delay. Had Clerfayt been, as he should have been at that hour in the afternoon of Saturday the 17th, between the Lys and the line Mouveaux-Tourcoing, the order given by the Austrian staff to the Duke of York would not only have been approved by the military opinion of posterity, but any other order would have been thought a proof of indecision and bad judgment.
+
+Upon receiving this order to take Mouveaux, York obeyed. The afternoon was now far advanced, very heavy work had been done, a forward march of nearly six miles had been undertaken, accompanied by continual fighting — latterly, outside Roubaix, of a heavy sort. But if Mouveaux was to be held before nightfall, an immediate attack must be made, and York ordered his men forward.
+
+Mouveaux stands upon one of those very slight crests which barely diversify the flat country in which Roubaix and Tourcoing stand. The summit of that crest is but little more than fifty feet higher than the bottom of the low, broad depression between it and the centre of Roubaix, of which swollen town it is to-day a western suburb. Slight as is the elevation, it does, as I have said, command a view towards the Lys and Wervicq; and the evenness and length of the very gentle slope upon the Roubaix side make it an excellent defensive position.
+
+I have pointed out how the columns of attack as they advanced could not fail to find an increasing resistance. Roubaix had held out more strongly than Lannoy, Mouveaux was to hold out more strongly than Roubaix. The position was palisaded and entrenched. Redoubts had even been hastily thrown up by the French at either end of it, but the weight of the attacking column told. It was again the Guards who were given the task of carrying the trenches at the bayonet, and after a sharp struggle they were successful. The French, as they retired, set fire to the village (which stands upon the very summit of that roll of land), and were charged in their retirement by Abercromby with the English Dragoons. They left three hundred upon the field, and three field-pieces as well. Despite the great superiority of numbers which York’s columns still commanded over the enemy immediately before him, it was a brilliant feat, especially when one considers that it came at the very end of a day that was hot for the season, that had begun before one o’clock in the morning, and that had involved the carrying of three positions, each more stoutly defended than the last, within an advance of over seven miles.
+
+Mouveaux thus carried, the head of York’s column was on a line with the head of Otto’s, which held Tourcoing just two miles away. The heads of either column now occupied the main road between Lille and Courtrai (which passes through Mouveaux and Tourcoing), and the heads of either column also held the slight crests from which the belated advance of Clerfayt from the Lys could be watched and awaited.
+
+But though there was evidence of heavy fighting down in the river valley five miles to the north and west, and though it seemed probable from the sound of the firing that Clerfayt with the sixth body had crossed the Lys at Wervicq and was now on the right side of it, upon the southern bank, there was no sign of his advancing columns in those empty fields towards Linselles and the river over which the setting sun glared.
+
+Neither, as his troops prepared to bivouac for the night upon the slopes of Mouveaux, could York, looking southward, find any indication of the fourth and fifth columns under Kinsky and the Arch-Duke which should have come up to this same position at Mouveaux by noon seven hours before. The flat and marshy fields upon either bank of the Marque were anxiously scanned in vain as the twilight deepened. Down there, far off, the cannon had been heard all that afternoon round the French camp at Sainghin, but nothing had come through.

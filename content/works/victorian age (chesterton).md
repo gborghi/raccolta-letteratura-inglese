@@ -6,6 +6,9 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Victorian_Age.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/literary_criticism
   - histref/victorian_england
@@ -66,8 +69,8 @@ tags:
 
 **Characters:** [[Thomas Gradgrind]], [[Jane Eyre]], [[Mr Rochester]], [[Heathcliff]], [[Samuel Pickwick]], [[Seth Pecksniff]], [[Little Nell]], [[Daniel Quilp]], [[David Copperfield]], [[Betsey Trotwood]], [[King Arthur]], [[Major Pendennis]], [[Lancelot]], [[Silas Marner]], [[Tess]]
 
-**Themes & Concepts:** [[Artist and Society]], [[Faith and Doubt]], [[Order vs Chaos]], [[Reform]], [[Democracy]], [[Class Conflict]], [[Satire of Society]], [[Critique of Progress]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]]
+**Themes & Concepts:** [[Artist and Society]], [[Faith and Doubt]], [[Order vs Chaos]], [[Reform]], [[Democracy]], [[Class Conflict]], [[Satire of Society]], [[Critique of Progress]], [[Economics]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Regency Georgian England]], [[Industrial Revolution]], [[French Revolution]], [[Reformation]], [[Catholic Church]], [[Puritanism]], [[Romantic Movement (Sensibility)]], [[Christianity]], [[Oxford Movement]], [[Utilitarianism]], [[Darwinism (Evolution)]]
 
 ## Testo integrale / Full text

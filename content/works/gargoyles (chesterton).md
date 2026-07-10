@@ -6,6 +6,8 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Chesterton/_raw/gargoyles.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - form/allegory
@@ -63,8 +65,8 @@ tags:
 **Topoi:** [[World Upside Down]], [[Great Chain of Being]], [[Golden Age]]
 
 **Motifs:** [[Animals]], [[Sun]], [[Water]], [[Stone and Marble]], [[Ruins the Abbey]], [[Jewel]]
-**Themes & Concepts:** [[Grotesque]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Paradox]], [[Artist and Society]], [[Paganism and Classical Revival]], [[Order vs Chaos]]
-**Forms & Genres:** [[Essay]], [[Allegory]], [[Parable]]
+**Themes & Concepts:** [[Grotesque]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Paradox]], [[Artist and Society]], [[Paganism and Classical Revival]], [[Order vs Chaos]], [[History]]
+**Forms & Genres:** [[Essay]], [[Allegory]], [[Parable]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Ancient Greece]], [[Medieval England]]
 
 ## Testo integrale / Full text

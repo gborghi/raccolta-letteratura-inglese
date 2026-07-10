@@ -6,6 +6,9 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/St_Francis.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - concept/faith
   - concept/humility
@@ -88,15 +91,15 @@ tags:
 
 ## Connections
 
-**Settings:** [[Italy]], [[Mountains]]
+**Settings:** [[Italy]], [[Mountains]], [[Europe]]
 
 **Characters:** [[Christ]], [[Virgin Mary]], [[St. Francis of Assisi]], [[Pietro Bernadone]], [[St. Clare of Assisi]], [[St. Dominic]], [[Bernard of Quintaville]]
 
 **Topoi:** [[World Upside Down]], [[Contemptus Mundi]], [[Poet as Prophet]]
 **Archetypes:** [[Martyr Saint]], [[Christ Figure]], [[Fool]], [[Pilgrim]]
 **Motifs:** [[Nature]], [[Animals]], [[Birds]], [[Fire]], [[Water]], [[Sun]], [[Cave]], [[Cross]], [[Nakedness]], [[Dreams]], [[Light and Dark]], [[Clothing and Costume]]
-**Themes & Concepts:** [[Faith]], [[Humility]], [[Poverty]], [[Conversion]], [[Grace and Redemption]], [[Divine Love]], [[Paradox]], [[Wonder and Gratitude]], [[Nature vs Civilization]], [[Martyrdom]], [[Self-Denial and Renunciation]], [[Joy]], [[Democracy]], [[Original Sin]], [[Providence]], [[Romantic Love]]
-**Forms & Genres:** [[Biography]], [[Apologetics]], [[Essay]]
+**Themes & Concepts:** [[Faith]], [[Humility]], [[Poverty]], [[Conversion]], [[Grace and Redemption]], [[Divine Love]], [[Paradox]], [[Wonder and Gratitude]], [[Nature vs Civilization]], [[Martyrdom]], [[Self-Denial and Renunciation]], [[Joy]], [[Democracy]], [[Original Sin]], [[Providence]], [[Romantic Love]], [[History]]
+**Forms & Genres:** [[Biography]], [[Apologetics]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Catholic Church]], [[Crusades]], [[Renaissance]], [[Dante]], [[Islam and the East]], [[Spanish Inquisition]]
 
 ## Testo integrale / Full text

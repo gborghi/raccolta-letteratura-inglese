@@ -6,6 +6,8 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Chesterton/_raw/americanisation.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/economics
   - author/Chesterton
   - form/song
   - form/satire
@@ -33,10 +35,10 @@ tags:
 
 **Historical References:** [[Dostoevsky]], [[Samuel Johnson]]
 
-**Settings:** [[America]], [[New York]], [[Russia]]
+**Settings:** [[America]], [[New York]], [[Russia]], [[Europe]]
 
 **Topoi:** [[Dance of Death]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Critique of Progress]], [[Nostalgia]], [[Anti-Industrialism]], [[Freedom and Liberty]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Critique of Progress]], [[Nostalgia]], [[Anti-Industrialism]], [[Freedom and Liberty]], [[Economics]]
 **Forms & Genres:** [[Comic Verse Song]], [[Satire]], [[Epigram]]
 
 ## Testo integrale / Full text

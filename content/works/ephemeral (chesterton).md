@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/ephemeral.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - concept/critique_of_progress
   - concept/the_artist_and_society
@@ -56,8 +58,8 @@ tags:
 
 **Topoi:** [[World Upside Down]]
 
-**Themes & Concepts:** [[Critique of Progress]], [[Artist and Society]], [[Satire of Society]], [[Transience]], [[Faith]], [[Common Man]], [[Secrecy and Concealment]], [[Power and Corruption]], [[Social Injustice]], [[Religious Persecution]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Critique of Progress]], [[Artist and Society]], [[Satire of Society]], [[Transience]], [[Faith]], [[Common Man]], [[Secrecy and Concealment]], [[Power and Corruption]], [[Social Injustice]], [[Religious Persecution]], [[History]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

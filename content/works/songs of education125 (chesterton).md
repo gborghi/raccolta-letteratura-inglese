@@ -6,6 +6,8 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Chesterton/_raw/Songs_of_Education125.md
 tags:
   - graph/work
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/song
   - form/sonnet_sequence
@@ -54,7 +56,7 @@ tags:
 
 **Characters:** [[Thomas Becket]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Nationalism and Patriotism]], [[Education]], [[Critique of Progress]], [[Power and Corruption]], [[Class Conflict]], [[Anti-Industrialism]], [[Money and Avarice]], [[Antisemitism]]
+**Themes & Concepts:** [[Satire of Society]], [[Nationalism and Patriotism]], [[Education]], [[Critique of Progress]], [[Power and Corruption]], [[Class Conflict]], [[Anti-Industrialism]], [[Money and Avarice]], [[Antisemitism]], [[Economics]], [[History]]
 **Forms & Genres:** [[Comic Verse Song]], [[Poem Sequence]], [[Satire]], [[Parody]]
 **Historical References:** [[Regency Georgian England]], [[Roman History]], [[Danish Invasions]], [[Crusades]], [[Industrial Revolution]], [[Napoleonic Wars the Navy]]
 

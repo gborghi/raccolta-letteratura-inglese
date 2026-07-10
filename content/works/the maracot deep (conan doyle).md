@@ -6,6 +6,7 @@ cluster: Science Fiction · Discovery · Reason vs the Supernatural
 source: Authors/Conan_Doyle/_raw/THE_MARACOT_DEEP.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
   - author/Conan_Doyle
   - form/science_fiction
   - form/adventure_fiction
@@ -46,11 +47,14 @@ tags:
 - [Chapter 6](/testi/conan_doyle/atomized/the_maracot_deep/chapter_06)
 - [Chapter 7](/testi/conan_doyle/atomized/the_maracot_deep/chapter_07)
 
+
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">1.3</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">25.5</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">27.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">50</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+
 ## Connections
 
 **Forms & Genres:** [[Science Fiction]], [[Adventure Fiction]], [[Novel]]
 **Themes & Concepts:** [[Wonder]], [[Reason and Rationalism]], [[Fate and Free Will]], [[Courage]], [[Terror and Horror]], [[Nature vs Civilization]]
-**Motifs:** [[Sea]], [[Water]], [[Light and Dark]], [[Journey]], [[Ruins the Abbey]]
+**Motifs:** [[Sea]], [[Water]], [[Light and Dark]], [[Journey]], [[Ruins the Abbey]], [[Sea and Voyage]]
 **Settings:** [[Ship]]
 **Characters:** [[Professor Maracot]], [[Cyrus Headley]], [[Bill Scanlan]]
 **Archetypes:** [[Quest Hero]], [[Mentor]], [[Hero]]

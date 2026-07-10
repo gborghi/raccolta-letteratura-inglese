@@ -6,6 +6,7 @@ cluster: Court · Medieval England · History Play
 source: Authors/Shakespeare/_raw/009_Edward_III.md
 tags:
   - graph/work
+  - concept/history
   - author/Shakespeare
   - form/history_play
   - form/blank_verse
@@ -60,7 +61,7 @@ tags:
 
 **Topoi:** [[Combat Strife]], [[War as Glory]]
 **Motifs:** [[Crown]]
-**Themes & Concepts:** [[Kingship and Legitimacy]], [[War and its Cost]], [[Heroism]], [[Honour]], [[Mercy]], [[Temptation]], [[Marriage and Fidelity]], [[Nationalism and Patriotism]]
+**Themes & Concepts:** [[Kingship and Legitimacy]], [[War and its Cost]], [[Heroism]], [[Honour]], [[Mercy]], [[Temptation]], [[Marriage and Fidelity]], [[Nationalism and Patriotism]], [[History]]
 **Forms & Genres:** [[History Play]], [[Blank Verse]]
 **Historical References:** [[Medieval England]]
 **Settings:** [[Battlefield]]

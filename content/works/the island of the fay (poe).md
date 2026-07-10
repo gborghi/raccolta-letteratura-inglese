@@ -6,6 +6,7 @@ cluster: Ode · Nature vs Civilization · Pastoral Retreat
 source: Authors/Poe/_raw/The Island of the Fay.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Poe
   - topos/book_of_nature
   - topos/locus_amoenus
@@ -40,7 +41,7 @@ tags:
 **Topoi:** [[Book of Nature]], [[Locus Amoenus]], [[Memento Mori]]
 **Motifs:** [[Nature]], [[River]], [[Water]], [[Light and Dark]], [[Death]], [[Supernatural]], [[Seasons]]
 **Themes & Concepts:** [[Mortality]], [[Transience]], [[Sublime]], [[Wonder and Gratitude]], [[Natural Order]], [[Imagination]]
-**Forms & Genres:** [[Essay]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Settings:** [[Enchanted Wood (2)]]
 
 ## Testo integrale / Full text

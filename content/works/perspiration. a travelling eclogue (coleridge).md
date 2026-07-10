@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Coleridge/_raw/051_PERSPIRATION_A_TRAVELLING_ECLOGUE.md
 tags:
   - graph/work
+  - concept/economics
   - author/Coleridge
   - form/fragment
   - form/satire
@@ -24,7 +25,7 @@ tags:
 ## Connections
 
 **Motifs:** [[Sun]], [[Dust]], [[Animals]]
-**Themes & Concepts:** [[Class Conflict]], [[Satire of Society]]
+**Themes & Concepts:** [[Class Conflict]], [[Satire of Society]], [[Economics]]
 **Forms & Genres:** [[Fragment]], [[Satire]]
 
 ## Testo integrale / Full text

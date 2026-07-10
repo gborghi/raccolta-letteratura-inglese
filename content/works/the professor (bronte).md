@@ -6,6 +6,8 @@ cluster: Education · Self-Made Man · Wheel
 source: Authors/Bronte/_raw/The Professor.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Bronte
   - form/novel
   - form/bildungsroman
@@ -76,8 +78,8 @@ tags:
 
 **Archetypes:** [[Self-Made Man]], [[Lover]], [[Outsider]]
 **Motifs:** [[Money and Gold]], [[Letters and Writing]]
-**Themes & Concepts:** [[Self-Reliance and Earned Success]], [[Romantic Love]], [[Marriage and Fidelity]], [[Education]], [[Identity]], [[Class Conflict]], [[Self-Knowledge]], [[Maturation and Growth]], [[Faith]], [[Common Man]]
-**Forms & Genres:** [[Novel]], [[Bildungsroman]], [[Fictional Autobiography]]
+**Themes & Concepts:** [[Self-Reliance and Earned Success]], [[Romantic Love]], [[Marriage and Fidelity]], [[Education]], [[Identity]], [[Class Conflict]], [[Self-Knowledge]], [[Maturation and Growth]], [[Faith]], [[Common Man]], [[Economics]]
+**Forms & Genres:** [[Novel]], [[Bildungsroman]], [[Fictional Autobiography]], [[Nonfiction]]
 **Settings:** [[Industrial City]], [[Continental Europe (Brussels)]]
 **Characters:** [[William Crimsworth]], [[Frances Henri]], [[Edward Crimsworth]], [[Monsieur Pelet]], [[Zoraide Reuter]], [[Yorke Hunsden]]
 

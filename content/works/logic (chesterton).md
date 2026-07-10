@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/logic.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - concept/satire_of_society
@@ -51,8 +53,8 @@ tags:
 
 **Characters:** [[Tilden]], [[St. Thomas Aquinas]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Truth]], [[Paradox]], [[Common Man]], [[Nationalism and Patriotism]], [[Power of Language]]
-**Forms & Genres:** [[Essay]], [[Aphorism]], [[Apologetics]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Truth]], [[Paradox]], [[Common Man]], [[Nationalism and Patriotism]], [[Power of Language]], [[History]]
+**Forms & Genres:** [[Essay]], [[Aphorism]], [[Apologetics]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Bible]], [[Ancient Greece]], [[Scholasticism]]
 
 ## Testo integrale / Full text

@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Poe/_raw/Diddling.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Poe
   - concept/deception
   - concept/satire_of_society
@@ -45,7 +46,7 @@ tags:
 **Archetypes:** [[Trickster]]
 **Motifs:** [[Money and Gold]], [[Concealment Hidden Identity]], [[City]]
 **Themes & Concepts:** [[Deception]], [[Satire of Society]], [[Appearance vs Reality]], [[Common Man]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

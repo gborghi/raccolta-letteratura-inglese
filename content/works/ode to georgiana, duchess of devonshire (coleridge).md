@@ -6,6 +6,7 @@ cluster: Heroism · Hero · Last Stand
 source: Authors/Coleridge/_raw/186_ODE_TO_GEORGIANA_DUCHESS_OF_DEVONSHIRE.md
 tags:
   - graph/work
+  - concept/economics
   - author/Coleridge
   - form/ode
   - form/pindaric_ode
@@ -26,7 +27,7 @@ tags:
 ## Connections
 
 **Archetypes:** [[Great Mother]], [[Hero]]
-**Themes & Concepts:** [[Freedom and Liberty]], [[Class Conflict]], [[Social Injustice]], [[Poverty]], [[Heroism]]
+**Themes & Concepts:** [[Freedom and Liberty]], [[Class Conflict]], [[Social Injustice]], [[Poverty]], [[Heroism]], [[Economics]]
 **Forms & Genres:** [[Ode]], [[Pindaric Ode]]
 
 ## Testo integrale / Full text

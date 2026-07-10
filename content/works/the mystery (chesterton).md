@@ -6,6 +6,7 @@ cluster: Wonder and Gratitude · Sublime · Storm
 source: Authors/Chesterton/_raw/the_mystery.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
   - author/Chesterton
   - form/lyric
   - concept/wonder_and_gratitude
@@ -42,7 +43,7 @@ tags:
 **Settings:** [[Garden (2)]]
 
 **Topoi:** [[Paradise Lost]], [[Fall from Innocence]], [[Inexpressibility]], [[World Upside Down]], [[Sublime in Nature]]
-**Motifs:** [[Sun]], [[Garden]], [[Sea]]
+**Motifs:** [[Sun]], [[Garden]], [[Sea]], [[Sea and Voyage]]
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Sublime]], [[Paradox]], [[Sin and the Fall]], [[Wonder]]
 **Forms & Genres:** [[Lyric]], [[Ode]]
 

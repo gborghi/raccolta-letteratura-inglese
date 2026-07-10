@@ -6,6 +6,8 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Chesterton/_raw/success.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Chesterton
   - concept/satire_of_society
   - concept/money_and_avarice
@@ -55,8 +57,8 @@ tags:
 **Characters:** [[Midas]], [[Vanderbilt]]
 
 **Motifs:** [[Money and Gold]], [[Secrets]]
-**Themes & Concepts:** [[Satire of Society]], [[Money and Avarice]], [[Pride]], [[Critique of Progress]], [[Self-Reliance and Earned Success]], [[Deception]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Themes & Concepts:** [[Satire of Society]], [[Money and Avarice]], [[Pride]], [[Critique of Progress]], [[Self-Reliance and Earned Success]], [[Deception]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 **Historical References:** [[Classical Antiquity]], [[Industrial Revolution]]
 
 ## Testo integrale / Full text

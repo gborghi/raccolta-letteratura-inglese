@@ -8,6 +8,7 @@ cluster: War and its Cost · American Civil War · Battlefield
 source: Authors/Whitman/_raw/The_Wound_Dresser.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Whitman
   - concept/war_and_its_cost
   - concept/grief_and_loss
@@ -36,7 +37,7 @@ tags:
 
 **Motifs:** [[Death]], [[Blood]], [[Comradeship (2)]]
 **Themes & Concepts:** [[War and its Cost]], [[Grief and Loss]], [[Common Man]], [[Mortality]], [[Friendship]], [[Humility]], [[Nationalism and Patriotism]]
-**Forms & Genres:** [[Fictional Autobiography]]
+**Forms & Genres:** [[Fictional Autobiography]], [[Nonfiction]]
 **Historical References:** [[American Civil War]]
 **Settings:** [[Washington DC]]
 

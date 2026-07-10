@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/All_I_Survey.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/satire
@@ -113,8 +116,8 @@ tags:
 **Characters:** [[Jonathan Swift]], [[Thomas Gray]], [[Geoffrey Chaucer]], [[Sir Walter Scott]], [[Vachel Lindsay]], [[Charles II]], [[Robert Louis Stevenson]], [[Lord Byron]]
 
 **Topoi:** [[World Upside Down]], [[Ubi Sunt]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Anti-Industrialism]], [[Common Man]], [[Maturation and Growth]], [[Education]], [[Paradox]], [[Artist and Society]], [[War and its Cost]], [[Nostalgia]], [[Distributism]], [[Democracy]], [[Fate and Free Will]], [[Paganism and Classical Revival]], [[Freedom and Liberty]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Anti-Industrialism]], [[Common Man]], [[Maturation and Growth]], [[Education]], [[Paradox]], [[Artist and Society]], [[War and its Cost]], [[Nostalgia]], [[Distributism]], [[Democracy]], [[Fate and Free Will]], [[Paganism and Classical Revival]], [[Freedom and Liberty]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Medieval England]], [[Industrial Revolution]], [[Puritanism]], [[Romantic Movement (Sensibility)]], [[Ancient Rome]], [[French Revolution]]
 
 ## Testo integrale / Full text

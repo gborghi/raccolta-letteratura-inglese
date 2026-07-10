@@ -6,6 +6,8 @@ cluster: Education · Self-Made Man · Wheel
 source: Authors/Chesterton/_raw/Compulsory_Education.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - concept/education
   - concept/faith_and_doubt
@@ -50,8 +52,8 @@ tags:
 
 **Characters:** [[Queen Elizabeth]], [[Queen Victoria]], [[William Jennings Bryan]], [[Charles Darwin]]
 
-**Themes & Concepts:** [[Education]], [[Faith and Doubt]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Faith]], [[Conformity vs Individualism]]
-**Forms & Genres:** [[Essay]]
+**Themes & Concepts:** [[Education]], [[Faith and Doubt]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Faith]], [[Conformity vs Individualism]], [[History]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Islam]], [[Bible]], [[Elizabethan England]], [[Scopes Trial]]
 
 ## Testo integrale / Full text

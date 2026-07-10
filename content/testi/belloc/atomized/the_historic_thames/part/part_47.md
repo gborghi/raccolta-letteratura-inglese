@@ -1,0 +1,29 @@
+---
+title: "The Historic Thames (part 47)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/the-historic-thames-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/the-historic-thames-(belloc)">The Historic Thames</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/the_historic_thames/part/part_46">‹ part 46</a><span></span></div>
+</nav>
+
+
+This bridge of Staines was most unfortunate. It broke down again and again. Even an experiment in stone at the end of the last century was a failure, because the foundations did not go deep enough into the bed of the [[River|river]]. An iron absurdity succeeded the stone, and luckily broke down also, until at last, in the thirties of the nineteenth century, the whole thing was rebuilt, 200 yards above the old traditional site.
+
+Staines is of interest in another way, because it marks one of those boundaries between the maritime and the wholly inland part of a [[River|river]] which is in so many of the English valleys associated with some important crossing. The jurisdiction of the port of [[London]] over the [[River|river]] extended as high as the little island just opposite the mouth of the Colne. On this island can still be seen the square stone shaft which is at least as old as the thirteenth century (though it stands on more modern steps), and which marks this limit, as it does also the shire mark between Middlesex and Buckingham.
+
+We have, after the Dissolution it is true, and when the financial standing of most of these places had been struck a heavy blow, a valuable estimate for many of them in the inquiry ordered by Pole in 1555. This estimate gives Abingdon less than 1500 of population, Reading less than 3000, Windsor about 1000; and in general one may say that with the sixteenth century, whether the population was diminishing (as certainly contemporary witnesses believed), or whether it had increased beyond the maximum which England had seen before the Black Death, at any rate the relative importance of the various centres of population had not very greatly changed during those long five centuries of customary rule and of firm [[Tradition|tradition]]. The towns and villages which Shakespeare would have passed in a journey up the river, though probably shrunk somewhat from what they had been in, let us say, the days of Edward I. or of his grandson, when the Middle Ages were in their full vigour and before the Black Death had ruined our countrysides, were still a string of some such large villages and small walled boroughs as his ancestry had seen for many hundred years, disfigured only and changed by the scaffolded ruins here and there of the great religious foundations. Windsor, Wallingford, Reading, Abingdon, and even [[Oxford]], were towns appearing to him much as Lechlade to-day remains or Abingdon still. As for the riverside villages their agricultural and native population was certainly larger than that which they now possess; and in general the effect produced upon such a journey was of a sort of even distribution of population gradually increasing from the loneliness of the upper river to the growing sites between Windsor and [[London]], but in no part exaggerated; larger everywhere in proportion to the importance of the stream, or of agricultural or of strategical position, and forming together one united countryside, bound together even in its architecture by the common commerce of the river.
+
+The seventeenth and eighteenth centuries did little to disturb this equilibrium or to destroy this even [[Tradition|tradition]]. The opening up of the waterways and the great improvement of the highroads, and the building of bridges, and the expansion of wealth at the end of the eighteenth century had indeed some considerable effect in increasing the population of England as a whole, but the smaller country towns, in the south at least, and in the Thames Valley, seem to have benefited fairly equally from the general change. The new canals, entering at [[Oxford]] and at Reading, gave a certain lead to both those centres, and even the Severn Canal, entering at Lechlade, did a little for that up-river town. The new fashion of the public schools (which had now long been captured by the wealthier classes) also increased the importance of Eton, and towards the close of the period the now rapidly expanding capital had overfed the villages within reach of [[London]] with a considerable accession of population. But it is remarkable how evenly spread was even this industrial development.
+
+The twin towns of Abingdon and Reading, for instance, twin monasteries, twin corporations, had for all these centuries preserved their ratio of the up-country town and the larger centre that was the neighbour of London and Windsor. In the beginning of the nineteenth century, in spite of the general increase of population, that ratio was still well preserved: it is about three to one. But the Railway found one and left the other.
+
+The Railway came, and in our own generation that ratio began to change out of all knowledge. It grows from four, five, six, to seven to one. After a short halt you have eight, nine and at last — after eighty years — more than ten to one. The last census (that of 1901) is still more significant: Abingdon positively declines, and the last ratio is twelve.
+
+It is through the Railway, and even then long after its first effect might have been expected, that the Valley of the Thames, later than any other wealthy district in England, loses, as all at last are doomed to lose, its historic [[Tradition|tradition]], and suffers the social revolution which has made modern England the unique and perilous thing it is among the nations of the world.

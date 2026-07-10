@@ -6,6 +6,8 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Chesterton/_raw/Don_Quixote.md
 tags:
   - graph/work
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - topos/the_quest
   - archetype/quest_hero
@@ -92,7 +94,7 @@ tags:
 **Topoi:** [[Quest]], [[World Upside Down]], [[Open Road Homecoming]]
 **Archetypes:** [[Quest Hero]], [[Fool]], [[King]], [[Rebel]]
 **Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]], [[Ruins the Abbey]], [[Lion]]
-**Themes & Concepts:** [[Madness]], [[Appearance vs Reality]], [[Distributism]], [[Nostalgia]], [[Satire of Society]], [[Conversion]], [[Romantic Love]], [[Class Conflict]], [[Kingship and Legitimacy]], [[Labor and Work]], [[Identity]], [[Democracy]]
+**Themes & Concepts:** [[Madness]], [[Appearance vs Reality]], [[Distributism]], [[Nostalgia]], [[Satire of Society]], [[Conversion]], [[Romantic Love]], [[Class Conflict]], [[Kingship and Legitimacy]], [[Labor and Work]], [[Identity]], [[Democracy]], [[Economics]], [[History]]
 **Forms & Genres:** [[Novel]], [[Satire]], [[Parable]]
 **Historical References:** [[Medieval England]], [[Catholic Church]], [[Arthurian Legend]], [[Crusades]], [[French Revolution]], [[Industrial Revolution]]
 **Characters:** [[Don Quixote]], [[Michael Herne]], [[John Braintree]], [[Douglas Murrel]], [[Olive Ashley]], [[Rosamund Severne]], [[Julian Archer]], [[Lord Seawood]], [[Lord Eden]]

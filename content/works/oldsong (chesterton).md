@@ -6,6 +6,8 @@ cluster: City · London · Theatrum Mundi
 source: Authors/Chesterton/_raw/oldsong.md
 tags:
   - graph/work
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/ballad
   - motif/the_city
@@ -54,7 +56,7 @@ tags:
 **Characters:** [[Robin Hood]], [[Cobbett]]
 
 **Motifs:** [[City]], [[Money and Gold]], [[Horse]], [[Storm]], [[Lightning]], [[Machine]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Common Man]], [[Apocalypse]], [[Money and Avarice]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[Freedom and Liberty]]
+**Themes & Concepts:** [[Anti-Industrialism]], [[Common Man]], [[Apocalypse]], [[Money and Avarice]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[Freedom and Liberty]], [[Economics]], [[History]]
 **Forms & Genres:** [[Ballad Ballade]]
 **Historical References:** [[Bible]], [[Industrial Revolution]], [[Luddite Movement]]
 **Settings:** [[London]], [[Rural England]]

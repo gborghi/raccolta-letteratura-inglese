@@ -6,6 +6,8 @@ cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Chesterton/_raw/Ballad_of_St_Barbara.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/history
   - author/Chesterton
   - form/ballad
   - form/narrative_poem
@@ -58,10 +60,10 @@ tags:
 **Topoi:** [[Last Stand]], [[Sic Transit Gloria Mundi]], [[War as Glory]]
 **Archetypes:** [[Martyr Saint]], [[Tyrant]], [[Christ Figure]]
 **Motifs:** [[Window]], [[Swords and Weapons]], [[Blood]], [[Light and Dark]], [[Lightning]], [[Chains]], [[Flags and Banners]]
-**Themes & Concepts:** [[Martyrdom]], [[Faith]], [[War and its Cost]], [[Heroism]], [[Freedom and Liberty]], [[Nationalism and Patriotism]], [[Self-Sacrifice]], [[Providence]]
+**Themes & Concepts:** [[Martyrdom]], [[Faith]], [[War and its Cost]], [[Heroism]], [[Freedom and Liberty]], [[Nationalism and Patriotism]], [[Self-Sacrifice]], [[Providence]], [[History]]
 **Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]]
 **Historical References:** [[First World War]], [[Christianity]], [[Ancient Rome]], [[Greek Mythology]], [[Battle of the Marne]]
-**Settings:** [[Battlefield]], [[Paris]], [[Africa]]
+**Settings:** [[Battlefield]], [[Paris]], [[Africa]], [[Europe]]
 
 ## Testo integrale / Full text
 

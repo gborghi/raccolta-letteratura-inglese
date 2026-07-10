@@ -6,6 +6,9 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/Irish_Impressions.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/travel_writing
   - form/essay
@@ -87,8 +90,8 @@ tags:
 
 **Characters:** [[W. B. Yeats]], [[Roger Casement]], [[Thomas Kettle]], [[Charles Stewart Parnell]], [[George Russell (A.E.)]], [[Sergeant Sheridan]]
 
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Distributism]], [[Anti-Industrialism]], [[Social Injustice]], [[War and its Cost]], [[Pride]], [[Humility]], [[Class Conflict]], [[Poverty]], [[Justice Right and Wrong]], [[Democracy]], [[Power and Corruption]], [[Paradox]], [[Martyrdom]], [[Empire and Imperialism]], [[Family and Lineage]], [[Religious Sectarianism]]
-**Forms & Genres:** [[Travel Writing]], [[Essay]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Distributism]], [[Anti-Industrialism]], [[Social Injustice]], [[War and its Cost]], [[Pride]], [[Humility]], [[Class Conflict]], [[Poverty]], [[Justice Right and Wrong]], [[Democracy]], [[Power and Corruption]], [[Paradox]], [[Martyrdom]], [[Empire and Imperialism]], [[Family and Lineage]], [[Religious Sectarianism]], [[Economics]], [[History]]
+**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Irish Question]], [[First World War]], [[Christianity]], [[Catholic Church]], [[Reformation]], [[Industrial Revolution]]
 **Settings:** [[Rural England]], [[Industrial City]], [[Pastoral Countryside]], [[Ireland]]
 

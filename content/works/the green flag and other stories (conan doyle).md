@@ -6,6 +6,8 @@ cluster: Adventure Fiction · Empire and Imperialism · Peril and Survival
 source: Authors/Conan_Doyle/_raw/THE_GREEN_FLAG_AND_OTHER_STORIES.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
+  - concept/economics
   - author/Conan_Doyle
   - form/short_story
   - form/adventure_fiction
@@ -50,13 +52,13 @@ tags:
 - [A FOREIGN OFFICE ROMANCE](/testi/conan_doyle/atomized/the_green_flag_and_other_stories/story_12_a_foreign_office_romance)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-26.3</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">38.5</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">39.7</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">86.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-27.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">38.9</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">40.1</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">87.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
 **Forms & Genres:** [[Short Story]], [[Adventure Fiction]]
-**Themes & Concepts:** [[Empire and Imperialism]], [[Nationalism and Patriotism]], [[Honour]], [[Courage]], [[Greed and Money]]
-**Motifs:** [[Flag]], [[Flags and Banners]], [[Sea]], [[Blood]], [[Ship]]
+**Themes & Concepts:** [[Empire and Imperialism]], [[Nationalism and Patriotism]], [[Honour]], [[Courage]], [[Greed and Money]], [[Economics]]
+**Motifs:** [[Flag]], [[Flags and Banners]], [[Sea]], [[Blood]], [[Ship]], [[Sea and Voyage]]
 **Historical References:** [[British Empire]]
 **Settings:** [[Africa]], [[Ship]], [[Ireland]]
 **Characters:** [[Captain Sharkey]]

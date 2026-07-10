@@ -6,6 +6,7 @@ cluster: Satire of Society · Epigram · Satire
 source: Authors/Coleridge/_raw/319_LENFANT_PRODIGUE.md
 tags:
   - graph/work
+  - concept/economics
   - author/Coleridge
   - form/epigram
   - form/satire
@@ -22,7 +23,7 @@ tags:
 ## Connections
 
 **Motifs:** [[Money and Gold]]
-**Themes & Concepts:** [[Money and Avarice]], [[Satire of Society]]
+**Themes & Concepts:** [[Money and Avarice]], [[Satire of Society]], [[Economics]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 
 ## Testo integrale / Full text

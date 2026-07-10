@@ -6,6 +6,9 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/Poems.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/lyric
   - form/ballad
@@ -103,11 +106,11 @@ tags:
 
 **Archetypes:** [[Hero]], [[Common Man (2)]], [[Tyrant]], [[Corrupt Official]]
 
-**Settings:** [[Sea (2)]], [[Battlefield]], [[Italy]], [[London]], [[Rural England]], [[Orient]], [[Mountains]], [[Ship]]
+**Settings:** [[Sea (2)]], [[Battlefield]], [[Italy]], [[London]], [[Rural England]], [[Orient]], [[Mountains]], [[Ship]], [[Europe]]
 
 **Topoi:** [[Last Stand]], [[War as Glory]], [[Immortality Through Verse]], [[Open Road Homecoming]], [[Life as a Battle]], [[Memento Mori]]
 **Motifs:** [[Swords and Weapons]], [[Sea]], [[Cross]], [[Stars]], [[Drums and Bugles]], [[Flags and Banners]], [[Wheel]], [[Wine and Drink]], [[Money and Gold]]
-**Themes & Concepts:** [[Faith]], [[War and its Cost]], [[Romantic Love]], [[Marriage and Fidelity]], [[Nationalism and Patriotism]], [[Joy]], [[Doubt]], [[Satire of Society]], [[Social Injustice]], [[Freedom and Liberty]], [[Distributism]], [[Anti-Industrialism]], [[Grief and Loss]], [[Heroism]], [[Christmas and the Nativity]]
+**Themes & Concepts:** [[Faith]], [[War and its Cost]], [[Romantic Love]], [[Marriage and Fidelity]], [[Nationalism and Patriotism]], [[Joy]], [[Doubt]], [[Satire of Society]], [[Social Injustice]], [[Freedom and Liberty]], [[Distributism]], [[Anti-Industrialism]], [[Grief and Loss]], [[Heroism]], [[Christmas and the Nativity]], [[Economics]], [[History]]
 **Forms & Genres:** [[Lyric]], [[Ballad Ballade]], [[Hymn]], [[Narrative Poem]], [[Sonnet]], [[Ode]], [[Satire]], [[Translation]], [[Comic Verse Song]], [[Verse Epistle]]
 **Historical References:** [[Battle of Lepanto]], [[Christianity]], [[Catholic Church]], [[Islam]], [[Crusades]], [[French Revolution]], [[Napoleonic Wars the Navy]], [[King Alfred]], [[Reformation]], [[Wars of the Roses]]
 **Characters:** [[Don John of Austria]], [[Christ]], [[Don Quixote]], [[Cervantes]], [[F.E. Smith]], [[Walter Long]]

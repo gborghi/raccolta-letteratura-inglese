@@ -6,6 +6,7 @@ cluster: Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
 source: Authors/Eliot/_raw/016_Burbank_with_a_Baedeker_Bleistein_with_a_Cigar.md
 tags:
   - graph/work
+  - setting/europe
   - author/Eliot
   - concept/satire_of_society
   - topos/sic_transit_gloria_mundi
@@ -25,7 +26,7 @@ tags:
 **Topoi:** [[Sic Transit Gloria Mundi]]
 **Motifs:** [[Ruins the Abbey]], [[Money and Gold]], [[Decay]]
 **Themes & Concepts:** [[Satire of Society]]
-**Settings:** [[Venice]]
+**Settings:** [[Venice]], [[Europe]]
 
 ## Testo integrale / Full text
 

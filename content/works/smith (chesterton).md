@@ -6,6 +6,8 @@ cluster: Martyrdom · Martyr Saint · Cross
 source: Authors/Chesterton/_raw/smith.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/history
   - author/Chesterton
   - form/ode
   - form/satire
@@ -38,12 +40,12 @@ tags:
 
 **Archetypes:** [[Martyr Saint]]
 
-**Settings:** [[Russia]], [[Mountains]]
+**Settings:** [[Russia]], [[Mountains]], [[Europe]]
 
 **Characters:** [[F. E. Smith]]
 
 **Motifs:** [[Cross]], [[Flags and Banners]]
-**Themes & Concepts:** [[Satire of Society]], [[Martyrdom]], [[Nationalism and Patriotism]]
+**Themes & Concepts:** [[Satire of Society]], [[Martyrdom]], [[Nationalism and Patriotism]], [[History]]
 **Forms & Genres:** [[Ode]], [[Satire]]
 **Historical References:** [[Christianity]], [[Islam]], [[Welsh Disestablishment]]
 

@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/twelve-men.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - concept/the_common_man
@@ -58,7 +59,7 @@ tags:
 **Characters:** [[Christ]]
 
 **Themes & Concepts:** [[Common Man]], [[Justice Right and Wrong]], [[Paradox]], [[Humility]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Faith]], [[Courage]], [[Democracy]], [[Crime and Punishment]]
-**Forms & Genres:** [[Essay]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Bible]]
 
 ## Testo integrale / Full text

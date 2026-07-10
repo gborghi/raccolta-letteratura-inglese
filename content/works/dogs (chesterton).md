@@ -6,6 +6,7 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/dogs.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - motif/animals
   - concept/nature_vs_civilization
@@ -41,7 +42,7 @@ tags:
 
 **Motifs:** [[Animals]], [[Fire]], [[Home]], [[Book Reading]]
 **Themes & Concepts:** [[Nature vs Civilization]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Self-Knowledge]], [[Friendship]], [[Identity]], [[Paradox]], [[Common Man]]
-**Forms & Genres:** [[Essay]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -6,6 +6,8 @@ cluster: War and Empire · History · Nationalism and Patriotism
 source: Authors/Conan_Doyle/_raw/A_GLIMPSE_OF_THE_ARMY.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Conan_Doyle
   - form/travel_writing
   - form/sketch
@@ -35,8 +37,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Travel Writing]], [[Sketch]]
-**Themes & Concepts:** [[War and its Cost]], [[Empire and Imperialism]], [[Suffering and Pain]], [[Mortality]]
+**Forms & Genres:** [[Travel Writing]], [[Sketch]], [[Nonfiction]]
+**Themes & Concepts:** [[War and its Cost]], [[Empire and Imperialism]], [[Suffering and Pain]], [[Mortality]], [[History]]
 **Motifs:** [[Fire]], [[Blood]]
 **Historical References:** [[Boer War (Second South African War)]], [[British Empire]]
 **Settings:** [[South Africa]], [[Battlefield]], [[Military Camp]]

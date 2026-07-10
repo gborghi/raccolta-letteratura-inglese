@@ -6,6 +6,8 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/The_Speaker.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/literary_criticism
   - form/essay
@@ -94,8 +96,8 @@ tags:
 **Characters:** [[Christ]], [[Judas Iscariot]], [[Job]]
 
 **Motifs:** [[Letters and Writing]], [[Clothing and Costume]], [[Ghosts]]
-**Themes & Concepts:** [[Friendship]], [[Artist and Society]], [[Joy]], [[Faith]], [[Melancholy]], [[Nationalism and Patriotism]], [[Mortality]], [[Eastern Religion and Asceticism]], [[Education]], [[Suffering and Pain]], [[Wonder]], [[Paradox]], [[The Woman Question]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Sonnet]], [[Fairy Tale Fantasy]], [[Novel]]
+**Themes & Concepts:** [[Friendship]], [[Artist and Society]], [[Joy]], [[Faith]], [[Melancholy]], [[Nationalism and Patriotism]], [[Mortality]], [[Eastern Religion and Asceticism]], [[Education]], [[Suffering and Pain]], [[Wonder]], [[Paradox]], [[The Woman Question]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Sonnet]], [[Fairy Tale Fantasy]], [[Novel]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

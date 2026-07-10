@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Chesterton/_raw/American_Fundamentalists.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/essay
   - form/satire
@@ -32,8 +34,8 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Paradox]], [[Critique of Progress]], [[Faith and Doubt]], [[Satire of Society]], [[Nostalgia]], [[Democracy]], [[Common Man]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]]
+**Themes & Concepts:** [[Paradox]], [[Critique of Progress]], [[Faith and Doubt]], [[Satire of Society]], [[Nostalgia]], [[Democracy]], [[Common Man]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[Bible]], [[Scopes Trial]]
 
 ## Testo integrale / Full text

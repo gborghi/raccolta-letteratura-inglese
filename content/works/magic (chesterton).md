@@ -6,6 +6,7 @@ cluster: Temptation · Good vs Evil · Serpent Snake
 source: Authors/Chesterton/_raw/Magic.md
 tags:
   - graph/work
+  - concept/history
   - author/Chesterton
   - form/comedy
   - form/verse_drama
@@ -87,7 +88,7 @@ tags:
 **Characters:** [[Hastings]], [[The Duke]], [[Doctor Grimthorpe]], [[Rev. Cyril Smith]], [[Morris Carleon]], [[Patricia Carleon]], [[The Conjurer]]
 
 **Motifs:** [[Supernatural]], [[Light and Dark]], [[Music and Song]], [[Clothing and Costume]], [[Concealment Hidden Identity]], [[Great House]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Good vs Evil]], [[Temptation]], [[Appearance vs Reality]], [[Imagination]], [[Madness]], [[Deception]], [[Secrecy and Concealment]], [[Satire of Society]], [[Romantic Love]], [[Grace and Redemption]], [[Spiritualism]]
+**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Good vs Evil]], [[Temptation]], [[Appearance vs Reality]], [[Imagination]], [[Madness]], [[Deception]], [[Secrecy and Concealment]], [[Satire of Society]], [[Romantic Love]], [[Grace and Redemption]], [[Spiritualism]], [[History]]
 **Forms & Genres:** [[Comedy]], [[Verse Drama]], [[Problem Play]]
 
 ## Testo integrale / Full text

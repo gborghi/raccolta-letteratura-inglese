@@ -6,6 +6,8 @@ cluster: Essay · Critique of Progress · Common Man
 source: Authors/Poe/_raw/Philosophy of Furniture.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/economics
   - author/Poe
   - concept/beauty
   - concept/satire_of_society
@@ -33,8 +35,8 @@ tags:
 ## Connections
 
 **Motifs:** [[Money and Gold]], [[Light and Dark]], [[Mirror]], [[White and Red]], [[Gold and Grey]]
-**Themes & Concepts:** [[Beauty]], [[Satire of Society]], [[Appearance vs Reality]], [[Power and Corruption]], [[Distributism]], [[Imagination]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Themes & Concepts:** [[Beauty]], [[Satire of Society]], [[Appearance vs Reality]], [[Power and Corruption]], [[Distributism]], [[Imagination]], [[Economics]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 
 ## Testo integrale / Full text
 

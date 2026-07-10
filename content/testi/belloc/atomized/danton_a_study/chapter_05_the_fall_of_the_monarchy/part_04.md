@@ -1,0 +1,35 @@
+---
+title: "Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 4)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/danton--a-study-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/danton--a-study-(belloc)">Danton A Study</a> › <a href="/testi/belloc/atomized/danton_a_study/chapter_05_the_fall_of_the_monarchy">Chapter 05 THE FALL OF THE MONARCHY</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/danton_a_study/chapter_05_the_fall_of_the_monarchy/part_03">‹ part 03</a><a class="ex-next" href="/testi/belloc/atomized/danton_a_study/chapter_05_the_fall_of_the_monarchy/part_05">part 05 ›</a></div>
+</nav>
+
+
+The failure of his policy, the check which had been given to the Cordeliers, and the uselessness of their protests on the 1st, 2nd, and 3rd of July, had a marked effect upon the position of Danton even in his own district. He had been president when they were issued, and his friend D’Eglantine had been secretary. One may say that the policy of resistance was Danton’s, and that but for his leadership it would have been unheard. Hence, when it has notoriously failed, that great mass of men who (when there is no party system) follow the event, lost their faith in him.
+
+Bailly is not only elected by an enormous majority in all Paris74 on the 2nd of August, but even Danton’s own district, now become the Section of the Théâtre Français, abandoned his policy for the moment. In a poll of 580, 478 votes were given for Bailly.
+
+In this moment of reverse he might with great ease have thrown himself upon all the forces that were for the moment irregular. The Federation of July had brought to [[Paris]] a crowd of deputies from the Departments, and to these provincials the good-humour and the comradeship of this Champenois had something attractive about it. In a [[Paris]] which bewildered them they found in him something that they could understand. In a meeting held by a section of them in the Bois de Boulogne it is Danton who is the leading figure. When the deputies of Marseilles ask for Chenier’s “Charles IX.,” it is Danton who gets it played for them at the Théâtre Français in spite of the opposition of the Court; and again it is Danton who is singled out during an entr’acte for personal attack by the loyalists, who had come to hiss the play.75
+
+The unrepresented still followed him, and he still inspired a vague fear in the minds of men like Lafayette. Innocent of any violence, he stood (to those who saw him from a great distance) for insurrection. He was remembered as the defender of Marat, and Marat in turn annoyed him by repeated mention and praise in his ridiculous journal. Note also that the time was one in which the two camps were separating, though slowly, and the rôle of a demagogue would have been as tempting to a foolish man on the Radical, as the rôle of true knight was to so many foolish men on the Conservative side. Each part was easy to play, and each was futile.
+
+Danton refused such a temptation. He, almost alone at that moment (with the exception, in a much higher sphere, of Mirabeau), was capable of being taught by defeat. He desired a solid foundation for action. Here were certain existing things: the club of the Cordeliers, which had for a while failed him; the Friends of the Constitution, which were a growing power; the limited suffrage of [[Paris]], which he regretted, but which was the only legal force he could appeal to; the new municipal constitution, which he had bitterly opposed, but which was an accomplished fact. Now it is to all these realities that he turns his mind. He will re-capture his place in the Section, and make of the quarter of the Odéon a new République des Cordeliers. He will re-establish his position with Paris. He will attempt to enter, and perhaps later to control, this new municipality. It was for such an attitude that St. Just reproached him so bitterly in the act of accusation of April 1794, while at the moment he was adopting that attitude he was the mark of the most violent diatribe from the Conservatives. Nothing defines Danton at this moment so clearly as the fact that he alone of the popular party knew how to be practical and to make enemies.
+
+The month of August may be taken as the time when Danton had to be most careful if he desired to preserve his place and to avoid a fall into violence and unreason. It was the 2nd of that month (as we have said) that saw Bailly’s election, the 5th that gave Danton a personal shock, for on that date he received, for an office which he really coveted and for which he was a candidate, but 193 votes out of over 3000 present.
+
+From that moment he devotes all his energy to reconstruction. The first evidence of his new attitude appears with the early days of September. Already the old meeting of the Cordeliers had been changed into the club, and already his influence was gaining ground again in the debates and in the local battalion of the National Guard, when the news of Nancy came to Paris.
+
+A conflict between the National Guard and the people, an example of that with which Lafayette continually menaced Paris — the conflict of the armed bourgeoisie and the artisans, or rather of the militia used as a professional army against the people — this had happened at last. It was an occasion for raving. Marat raved loudly, and the royalists gave vent to not a little complacent raving on their side. In the great question whether the army was to be democratic or not, whether reaction was to possess its old disciplined arm, it would seem that reaction had won, and [[France]] had seen a little rehearsal of what in ten months was to produce the 17th of July.
+
+In such conditions the attitude of the Cordeliers was of real importance. During all Lafayette’s attempt to centralise the militia of Paris this battalion had remained independent; its attitude during the days of October, its defence of Marat in January, had proved this. The crisis appeared to demand from this revolutionary body a strong protest against the use of the militia as an army to be aimed against the people. Such a protest might have been the cause of an outbreak in Paris. Under these circumstances Danton — by what arguments we cannot tell (for the whole affair is only known to us by a few lines of Desmoulins) — obtained from his battalion a carefully-worded pronouncement. “For all the high opinion we have of the National Guards who took part in the affair of Nancy, we can express no other sentiment than regret for what has happened.”76 It was moderate to the degree of the common-place, but it saved Danton from the abyss and from the street.
+
+There followed another check in which he showed once more his power of self-control. The “Notables” — corresponding something to the aldermen of our new municipal scheme in England — were to be elected for Paris a little after the elections for the mayor and for the governor of the Commune. Each Section was to elect three, and Danton had so far regained his influence at home as to be elected for the Théâtre Français.

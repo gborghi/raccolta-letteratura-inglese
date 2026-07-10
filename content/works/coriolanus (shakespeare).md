@@ -6,6 +6,7 @@ cluster: Honour · Ancient Rome
 source: Authors/Shakespeare/_raw/040_Coriolanus.md
 tags:
   - graph/work
+  - concept/economics
   - author/Shakespeare
   - form/tragedy
   - form/blank_verse
@@ -77,7 +78,7 @@ tags:
 **Topoi:** [[War as Glory]]
 **Archetypes:** [[Tragic Hero]], [[Hero]], [[Great Mother]]
 **Motifs:** [[Swords and Weapons]], [[Blood]]
-**Themes & Concepts:** [[Pride]], [[Honour]], [[Heroism]], [[Class Conflict]], [[Power and Corruption]], [[Revenge]], [[War and its Cost]], [[Exile]]
+**Themes & Concepts:** [[Pride]], [[Honour]], [[Heroism]], [[Class Conflict]], [[Power and Corruption]], [[Revenge]], [[War and its Cost]], [[Exile]], [[Economics]]
 **Forms & Genres:** [[Tragedy]], [[Blank Verse]]
 **Historical References:** [[Ancient Rome]], [[Roman History]]
 **Settings:** [[Ancient Rome]], [[Battlefield]]

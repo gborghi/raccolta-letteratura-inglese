@@ -1,0 +1,99 @@
+---
+title: "Sonnets and Verse — The Death And Last Confession Of Wandering Peter"
+author: "Belloc"
+unitType: story
+parentWork: "works/sonnets-and-verse-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/sonnets-and-verse-(belloc)">Sonnets and Verse</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/sonnets_and_verse/story_36_an_oracle">‹ Story 36 An Oracle</a><a class="ex-next" href="/testi/belloc/atomized/sonnets_and_verse/story_38_dedicatory_ode">Story 38 Dedicatory Ode ›</a></div>
+</nav>
+
+
+THE DEATH AND LAST CONFESSION OF WANDERING PETER
+
+When Peter Wanderwide was young
+
+He wandered everywhere he would:
+
+And all that he approved was sung,
+
+And most of what he saw was good.
+
+When Peter Wanderwide was thrown
+
+By Death himself beyond Auxerre,
+
+He chanted in heroic tone
+
+To priests and people gathered there:
+
+“If all that I have loved and seen
+
+Be with me on the Judgment Day,
+
+I shall be saved the crowd between
+
+From Satan and his foul array.
+
+“Almighty God will surely cry,
+
+‘St Michael! Who is this that stands
+
+With Ireland in his dubious eye,
+
+And Perigord between his hands,
+
+“‘And on his arm the stirrup-thongs,
+
+And in his gait the narrow seas,
+
+And in his mouth Burgundian songs,
+
+But in his heart the Pyrenees?’
+
+“St Michael then will answer right
+
+(And not without angelic shame),
+
+‘I seem to know his face by sight:
+
+I cannot recollect his name ...?’
+
+“St Peter will befriend me then,
+
+Because my name is Peter too:
+
+‘I know him for the best of men
+
+That ever wallopped barley brew.
+
+“‘And though I did not know him well
+
+And though his soul were clogged with sin,
+
+I hold the keys of Heaven and Hell.
+
+Be welcome, noble Peterkin.’
+
+“Then shall I spread my native wings
+
+And tread secure the heavenly floor,
+
+And tell the Blessed doubtful things
+
+Of Val d’Aran and Perigord.”
+
+—— —
+
+This was the last and solemn jest
+
+Of weary Peter Wanderwide.
+
+He spoke it with a failing zest,
+
+And having spoken it, he died.

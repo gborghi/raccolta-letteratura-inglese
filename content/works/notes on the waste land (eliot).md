@@ -6,6 +6,8 @@ cluster: Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy
 source: Authors/Eliot/_raw/033_Notes_on_the_Waste_Land.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Eliot
   - histref/the_grail_legend
   - form/literary_criticism
@@ -25,8 +27,8 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Waste Land (Sterility)]]
-**Forms & Genres:** [[Literary Criticism]]
+**Themes & Concepts:** [[Waste Land (Sterility)]], [[History]]
+**Forms & Genres:** [[Literary Criticism]], [[Nonfiction]]
 **Historical References:** [[Grail Legend]], [[Dante]], [[Eastern Religion Comparative Religion]]
 **Characters:** [[Tiresias]]
 

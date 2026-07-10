@@ -6,6 +6,7 @@ cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: Authors/Chesterton/_raw/Our_Birthday.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - form/essay
   - concept/wonder_and_gratitude
@@ -43,7 +44,7 @@ tags:
 **Characters:** [[Bernard Shaw]], [[Job]]
 
 **Themes & Concepts:** [[Wonder and Gratitude]], [[Humility]], [[Critique of Progress]], [[Joy]], [[Providence]], [[Self and Cosmos]], [[Pride]], [[Self-Sufficiency]]
-**Forms & Genres:** [[Essay]]
+**Forms & Genres:** [[Essay]], [[Nonfiction]]
 **Historical References:** [[Bible]]
 
 ## Testo integrale / Full text

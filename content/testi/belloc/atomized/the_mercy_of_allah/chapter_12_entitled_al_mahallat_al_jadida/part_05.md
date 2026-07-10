@@ -1,0 +1,37 @@
+---
+title: "The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 5)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/the-mercy-of-allah-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/the-mercy-of-allah-(belloc)">The Mercy of Allah</a> › <a href="/testi/belloc/atomized/the_mercy_of_allah/chapter_12_entitled_al_mahallat_al_jadida">Chapter 12 ENTITLED AL MAHALLAT AL JADIDA</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/the_mercy_of_allah/chapter_12_entitled_al_mahallat_al_jadida/part_04">‹ part 04</a><a class="ex-next" href="/testi/belloc/atomized/the_mercy_of_allah/chapter_12_entitled_al_mahallat_al_jadida/part_06">part 06 ›</a></div>
+</nav>
+
+
+“I was proceeding when he burst out into extravagant gratitude; called me his benefactor, kissed my hand again and again, and irrelevantly alluded again to that little sister of his who really had nothing to do with the case. I checked him and continued:
+
+“‘I will do more. You do not know your own value — I mean your own moral and intellectual worth — nor what admiration they excite in men who judge as I do that the rest is dross. Our enterprise is clearly lost’ — he nodded his agreement. ‘My investment you may say is gone: or, at any rate, I must take it for what it is worth as a thing half-derelict and gravely threatened by the authorities. But you shall not go under. Your high talents shall not be wasted so long as I have credit for commerce.... Come. Our original agreement is useless now. It is waste paper. Well, we’ll tear it up.’
+
+“‘Oh, sir!’ said he. ‘And what of you? All this trust in me and my work, all this fund of money laid out by you! All this kindness and support without which I — —’
+
+“‘Say no more,’ I interrupted, ‘my mind is made up. I have here a draft of my intention, which I hope will jump with yours.’ So saying I pulled out duplicate papers on which were written very simple terms. The original (and now worthless) agreement for an imaginary and unobtainable profit was cancelled. I promised in the new draft to take over the wretched unfinished works (they were worth nothing), to indemnify the poor fellow against any public claims, and to guarantee him an ample salary for one year from the date of signing. I now added more. I bound myself, in the event of his death or prolonged imprisonment within this year, to pay to his heirs the sum of 100 pieces of gold. This, I pointed out to him, would provide for his little sister (of whom I had now heard enough), while to myself I excused the extravagance by considering his really robust health and the power of my protection to save him from incarceration.
+
+“I would not have believed that a human being could feel so strongly. He fell at my feet, calling me his [[Providence|providence]], his all, his bulwark and refuge. He said he did not know there was such goodness among men. I bade him not exaggerate. I reminded him how noble minds had in all ages loved to support the Arts, and cited Yussouf-abd-Arham, Sulim-ben-Achab, Muswuf, Wawoo, Mah and other worthies. At last our business was completed, the new deeds signed and attested by my servants, and the gallant fellow, for whose ingenuous character I still retain a profound respect, was put to sleep in happy exhaustion upon soft carpets in my guest-room. I there left him to dream of his little sister and his mud-heaps, while I betook myself to a short casting-up of accounts followed by nightly prayers to the All-Merciful who guides His servant into pleasant places.
+
+“Next morning I sent the Enthusiast back to his labours (with a little cash to carry on with) and very carefully thought out my plans.
+
+“First, at the next dinner I gave, I told my guests (who were, as usual, among the chief men of the city) that I proposed a deal in corn with the factors of Tambulistan: the place did not, as a fact, exist, but the name was well chosen and attractive. They were distant (I said) but in correspondence with me; and as they had a glut and I had news of a dearth in my own country I had taken the opportunity of a deal through third parties. I saw a profit of some 100 pieces of gold. Not more (said I). I was a modest man and only did business in a small way. My guests gallantly denied this and smiled in polite interest, but no more, till, a little later in the meal, I said that the transaction had been just a little heavy for me and that I had looked round for some one who would help in settlement and would share the profit. I told them this profit was fairly certain, that no ready cash was required more than I had myself provided, but that, as a bill or two would do no harm, I had obtained one from a friend at home. All this in the way of general talk.
+
+“As might be expected, the Chief Magistrate of the town (my most honoured guest) approached me after dinner and told me privately that he would be happy to oblige. I told him there was no sort of necessity, I could draw what I would on my letters from home, or at any rate enough to meet the case. That if he really cared to share my little adventure I expected about ten per cent. profit on the sum engaged — but indeed it was too small for me to trouble him with it. I accepted his pledge of 100 pieces of gold — but I stoutly refused any paper, ‘Your name is enough,’ I said, ‘I shall gratefully use it. My people will trust my word.’
+
+“I gave out next morning that I was going into the hills to meet a messenger. I did indeed pass through the city gate and proceeded till I was well out of sight; but as there was no sense in fatiguing myself I slept through the heat in a wood, watched through the warm night, and returned travel-stained in the evening of the second day.
+
+“On the morning of the third day I met the Chief Magistrate in the Bazaar: I stopped him, chatted, and then and there paid him eleven pieces of gold. ‘I met my messenger from Tambulistan’ (said I) ‘we exchanged parcels, and I find I have netted just over the ten per cent. These eleven pieces are your proportion upon your kind investment of 100.’ He protested of course that it had been no investment, merely a few friendly words of support; but he took the money, and I could see that he was pleased. He was curiously pleased. Indeed, he was so pleased that, though a discreet man, he could not forbear mentioning the matter to his wife. Rich men love small windfalls.
+
+“In a few hours, therefore, the Head Mufti, the Chief of the Guard, and two very important councillors had in their various ways touched casually upon the wheat trade during short conversations in which each had separately engaged me under the shades of the Bazaar. A little later, as I took the air by the riverside at evening, the principal Ascetic of the district, who had come in to buy his few lentils for the week, spoke to me briefly of the same matter. I gave each of them a different answer, alluding to various cargoes of wheat, caravans of wheat and tumbrils of wheat — all in technical terms; to risks, to covering sums, to transfers from one district to another. In each case I refused anything but a pledge to stand in with a transaction somewhat beyond my unaided powers; in each case I ridiculed the smallness of the little adventure; in each case I paid, after the lapse of a few days, to one a single piece of gold as his profit, to another two, to another three. And each was very pleased.

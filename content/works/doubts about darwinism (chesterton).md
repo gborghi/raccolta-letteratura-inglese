@@ -6,6 +6,7 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/Doubts_About_Darwinism.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Chesterton
   - concept/critique_of_progress
   - concept/doubt
@@ -47,7 +48,7 @@ tags:
 
 **Motifs:** [[Animals]]
 **Themes & Concepts:** [[Critique of Progress]], [[Doubt]], [[Faith and Doubt]], [[Natural Order]], [[Common Man]], [[Darwinism (Evolutionary Theory)]], [[Argument from Authority]]
-**Forms & Genres:** [[Essay]], [[Satire]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
 **Historical References:** [[Bible]], [[First World War]]
 
 ## Testo integrale / Full text

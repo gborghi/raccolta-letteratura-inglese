@@ -6,6 +6,7 @@ cluster: Short Story · Concealment Hidden Identity · Justice Right and Wrong
 source: Authors/Chesterton/_raw/scandal_Fr_Brown.md
 tags:
   - graph/work
+  - concept/economics
   - author/Chesterton
   - form/detective_fiction
   - form/short_story
@@ -69,7 +70,7 @@ tags:
 **Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]]
 
 **Archetypes:** [[Detective]], [[Corrupt Official]], [[Avenger]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Guilt]], [[Sin and the Fall]], [[Grace and Redemption]], [[Justice Right and Wrong]], [[Mercy]], [[Class Conflict]], [[Money and Avarice]], [[Power and Corruption]], [[Satire of Society]], [[Labor and Work]], [[Identity]], [[Fanaticism]]
+**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Guilt]], [[Sin and the Fall]], [[Grace and Redemption]], [[Justice Right and Wrong]], [[Mercy]], [[Class Conflict]], [[Money and Avarice]], [[Power and Corruption]], [[Satire of Society]], [[Labor and Work]], [[Identity]], [[Fanaticism]], [[Economics]]
 **Forms & Genres:** [[Detective Fiction]], [[Short Story]]
 **Historical References:** [[Catholic Church]], [[Puritanism]]
 **Characters:** [[Father Brown]], [[Flambeau]]

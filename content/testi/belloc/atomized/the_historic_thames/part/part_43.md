@@ -1,0 +1,35 @@
+---
+title: "The Historic Thames (part 43)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/the-historic-thames-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/the-historic-thames-(belloc)">The Historic Thames</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/the_historic_thames/part/part_42">‹ part 42</a><a class="ex-next" href="/testi/belloc/atomized/the_historic_thames/part/part_44">part 44 ›</a></div>
+</nav>
+
+
+The real elements of uncertainty lie, first in the number of people normally inhabiting one house at that time, and secondly, in the exact meaning of the word “haga” or “close.”
+
+As to the first point, we may take it that one household of five would be the least, ten would be the most, to be present under the roof of an isolated family; but we must remember that the Middle Ages contained in their social system a conception of community which not only appeared (and is still remembered) in connection with monastic institutions, but which inspired the whole of military and civil life. To put it briefly, a man at the time of the Conquest, and for centuries later, would rather have lived as part of a community than as an individual householder, and conversely, those indices of importance and social position which we now estimate in furniture and other forms of ostentation were then to be found in the number of dependants surrounding the head of the house. A merchant, for example, if he flourished, was the head of a very numerous community; every parish church in a town represented a society of priests and of their servants, and of course a garrison (such as Wallingford pre-eminently possessed) meant a very large community indeed. We are usually safe, at any rate in the towns, if we multiply the known number of tenements by ten in order to arrive at the number of souls inhabiting the borough. To give the Wallingford of the Conquest a minimum of 5000, if we were certain that 500 (or, to speak exactly, 491) was the number of single units of taxation within the borough, would be to set that minimum quite low enough.
+
+The second difficulty is that of establishing the meaning of the word “haga.” In some cases it may represent one single large establishment. But on the other hand we can point to six which between them covered a whole acre, and no one with the least acquaintance of mediæval municipal topography, no one, for instance, who knows the history of twelfth-century Paris, would allow one-sixth of an acre to a single average house within the walls of a town. A close would have one or more wells, it is true; some closes certainly would have gardens, but the labour of fortification, and the privilege of market, were each of them causes which forbade any great extension of open spaces, save in the case of privileged or wealthy communities or individuals.
+
+From what we know of closes elsewhere, it is more probable that these at Wallingford were the “cells” as it were of the borough organism. A man would be granted in the first growth of the town a unit of land with definitely established boundaries, which he would probably enclose (the word “haga” refers to such an enclosure), and though at first there might be only one house upon it, it would be to his interest to multiply the tenements within this unit, which unit rendered a regular, customary and unchanging due to its various superiors, whatever the number of inhabitants it grew to contain.
+
+If we turn to a comparison based upon taxation we have equal difficulties, though difficulties of a different sort. We saw in the case of Old Windsor that a community of perhaps 1000, probably of more, but at any rate something more like a large village than a town (and one moreover not rated as a town), paid in dues the equivalent of thirty loads of wheat. Wallingford paid the equivalent of only twenty or twenty-two. But on the other hand the total Farm of the Borough, the globular price at which the taxes could be reckoned upon to yield a profit, was equivalent to no less than 400 such loads.
+
+Judged by the number of hagæ we should have a Wallingford about five times the size of Old Windsor. Judged by the taxable capacity we should have an Old Wallingford of more than ten times the size of Old Windsor.
+
+Here again a further element of complexity enters. It was quite out of the spirit of the Middle Ages to estimate dues, whether to a feudal superior or to the National Government, or even minor payments made to a true proprietorial owner at the full capacity of the economic unit concerned. All such payment was customary. Even where, in the later Middle Ages, a man indubitably owned (in our modern sense of the word “owned”) a piece of freehold land, and let it (in our modern sense of the word “let”), it would not have occurred to him or his tenant that the very highest price obtainable for the productive capacity of the land should be paid. The philosophy permeating the whole of society compelled the owner and the tenant, even in this extreme case, to a customary arrangement; for it was an arrangement intended to be permanent, to allow for wide fluctuations of value, and therefore to be necessarily a minimum. If this was the case in the later Middle Ages where undoubted proprietary right was concerned, still more was it the case in the early Middle Ages with the customary feudal dues; these varied infinitely from place to place, rising in scale from those of privileged communities wholly exempt to those of places such as we believe Old Windsor to have been, which paid (and these were the exceptions), not indeed every penny that they could pay (as they would now have to pay a modern landlord), but half, or perhaps more than half, such a rent.
+
+Where Wallingford stood in this scale it is quite impossible to say, and we can only conclude with the very general statement that the Wallingford of the Conquest consisted of certainly more than 5000 souls, more probably of 10,000, and quite possibly of more than 10,000.
+
+Having taken Wallingford with its minute and valuable record as a sort of unit, we can roughly compare it with other centres of populations upon the [[River|river]] at the same date.
+
+Old Windsor we have already dealt with, and made it out from a fifth to a tenth of Wallingford. Reading was apparently far smaller. Indeed Reading is one of the puzzles of the early history of the Thames Valley. We have already seen in discussing these strategical points upon the [[River|river]] what advantages it had, and yet it appears only sporadically in ancient history as a military post. The Danes hold it on the first occasion on which we find the site recorded, in the latter half of the ninth century: it has a castle during the anarchy of the twelfth, but it is a castle which soon disappears. It frequently plays a part in the Civil Wars of the seventeenth, but the part it plays is only temporary.

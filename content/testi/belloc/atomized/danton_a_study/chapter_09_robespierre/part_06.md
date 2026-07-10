@@ -1,0 +1,39 @@
+---
+title: "Danton: A Study — Chapter 8: ROBESPIERRE (part 6)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/danton--a-study-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/danton--a-study-(belloc)">Danton A Study</a> › <a href="/testi/belloc/atomized/danton_a_study/chapter_09_robespierre">Chapter 09 ROBESPIERRE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/danton_a_study/chapter_09_robespierre/part_05">‹ part 05</a><a class="ex-next" href="/testi/belloc/atomized/danton_a_study/chapter_09_robespierre/part_07">part 07 ›</a></div>
+</nav>
+
+
+It was upon the 25th of June that the armies met and fought with blazing hay about them and ripe harvest that had caught fire. Kleber recovered the left wing, as Cromwell at Naseby, after it had given way. Marceau obstinately held the right in front of Fleurus, as Davoust did at Austerlitz ten years later. And towards evening the watchers in the balloon above the French ranks saw in regular and stiff retreat the last army of the old world. By the end of Messidor the English were in Holland, the Austrians upon the Rhine, the whole of Belgium was in the hands of the Republic.
+
+The sun which set upon the death of Danton had risen again.
+
+So in [[Robespierre]]’s own country his fall was prepared by circumstances. At Arras, his birthplace, one could almost hear the guns of Fleurus; he and his thin soul belonged to those plains of the north where the Norman and the Burgundian, and the Provençal and the Gascon, born in more generous places, were driving the enemy before them.
+
+St. Just came back from the front. He at least had seen on what Revolutionary [[France]] was really bent, and in what she was vigorous. With the superb courage that belonged to his energy and his youth he had led the charges. Living with the soldiers, he had seen more closely, and with more accuracy than is common in visionaries, the needs of an army. Why did he come back to continue the insane drama whose seven weeks of action count more with the enemies of [[France]] than all her centuries?
+
+Because the armies and their victories, though affording proof of what the nation was and of what it required, could afford that proof only to a just and even mind. The soldiers themselves did not express a political opinion; their whole mind was bent upon the breaking of the line, the attempt in which they had succeeded. Of [[Paris]], Revolutionary in the last few months, they knew little. They judged it as our contemporaries do — on hearsay; and it seemed to them that there stood in the capital a powerful Committee full of patriots, who had by an intense, an almost furious energy, saved them — the soldiers. Men who risk their lives every day and see death constantly are not likely to be horror-stricken at an excess of rigour in government. In their eyes a number of men had fallen, places had changed, the central power was surrounded by a tumult, but they had been clothed and fed almost by a miracle — their battles had been made possible. The year since the great conscription had drawn them from their homes had been for them a struggle of continual promise, ending in a great achievement. Already the soldier was half-professional; the eager volunteer of 1792, full of his politics, had given place to a type which the wanton policy of the old regime was forging to its own destruction. For it was forging the veterans who cared more and more for the Revolutionary thing, and less and less for the discussions and the theories, till at last they produced the Empire.
+
+St. Just therefore could not warn [[Robespierre]]. St. Just himself had learnt no lesson. His ideal was still in his eyes the salvation of [[France]], and even of the world; the victory of Fleurus only made it the more possible to carry his ideal out in action. He had seen the emigrants who were taken in that battle spared for the first time by the French soldiery, but he did not recognise the tremendous import of this, nor appreciate what our own time has thoroughly learnt, that it is the success or the failure of the national defence which rules the temper of a nation.
+
+When the news of Fleurus became known in [[Paris]] the law of Prairial had been in action for nearly three weeks. By the time the victory and its meaning had fully sunk into the mind of the capital half the short period of [[Robespierre]] had expired. How much was due to fear upon his part, how much to mere blindness, we cannot tell, but the very moment when the necessity for the Terror patently disappeared was the moment chosen by him for the aggravation of his system.
+
+He attacked the Mountain.
+
+It will be remembered that the Convention had feared for itself when it gave the full power into his hands. On the 11th of June Bourdon from the Oise had carried a motion which would have defended the deputies, but which Robespierre had caused to be cancelled upon the following day.
+
+With an attack, however, appearing as a reality instead of remaining as a threat, even the “Marsh” grew afraid. He put into his speech an excellent maxim, that “not success of armies abroad or on the frontier are the greatness of a nation, but the virtue of its private citizens within” (21st Messidor) — a truth appearing perhaps at the very worst moment, for it translated itself at once in the minds of his audience into “the victories mean nothing to me; the guillotine is for the defence not of the nation but of my dogmas.” And his faith went on sacrificing its innumerable victims.
+
+Another and a final element was added to the forces against him. The Committee began to refuse his leadership. It must be remembered that Robespierre was not absolute master in the sense in which (for example) an English general would be master of an Indian province after the suppression of a mutiny. Circumstances, immense popularity, above all the kind of men who composed the great Committee, are the explanation of his power. His power was a fact, but a fact based on no theoretical right, and therefore possessed of no elements of endurance. Even the Committee was in the eyes of all the governed, and of some of its own members, only the servant of the national welfare. Two men upon it were Robespierrians — Couthon and St. Just; one was a turncoat by nature — Barrère; two more were men of the Hébertian type, most unreliable for an idealist to deal with — Billaud and Collot. Finally there remains Carnot, the worker, and four others — the two Prieurs, Lindet and St. André.
+
+Robespierre could be virtually a master, but a master only on the tolerance of superior though latent force. He could inspire terror by the common knowledge that the machinery was in his hands, that its terrible punishment was practically his to inflict at pleasure. But something put it into his hand, and something could take it away. It cannot be too often repeated, if we wish to understand the Revolution, that from the fall of Lafayette to the 13th of October 1795 there was no disciplined armed force at the service of the Government, there was nobody better armed or better drilled than the man in the street — not even gunners, the first necessity of modern masters, for the very artillery was amateur; above all, there was no armed body whose members obeyed without question, who were, as a good army must be, a rigid instrument of government framed upon a device which multiplies a hundredfold the strength of each man in the public service. The “strong men” of history, whom our reactionaries delight to honour, have always had such an instrument at their disposition, but when there is no one to fire at a command, your strong man is like any other, save that he is a little weaker for shouting.

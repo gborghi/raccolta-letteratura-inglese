@@ -6,6 +6,8 @@ cluster: Christianity · Faith and Doubt · Doubt
 source: Authors/Chesterton/_raw/upon-this-rock.md
 tags:
   - graph/work
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/apologetics
   - concept/faith
@@ -53,8 +55,8 @@ tags:
 ## Connections
 
 **Motifs:** [[Bread and Wine Eucharist]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Grace and Redemption]], [[Democracy]], [[Kingship and Legitimacy]], [[Self-Denial and Renunciation]], [[Forgiveness]], [[Development of Doctrine]], [[Heresy and Schism]]
-**Forms & Genres:** [[Apologetics]], [[Essay]]
+**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Grace and Redemption]], [[Democracy]], [[Kingship and Legitimacy]], [[Self-Denial and Renunciation]], [[Forgiveness]], [[Development of Doctrine]], [[Heresy and Schism]], [[History]]
+**Forms & Genres:** [[Apologetics]], [[Essay]], [[Nonfiction]]
 **Historical References:** [[Catholic Church]], [[Christianity]], [[Bible]], [[Reformation]], [[Puritanism]]
 **Characters:** [[Virgin Mary]], [[Christ]], [[St. Peter]]
 

@@ -6,6 +6,7 @@ cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Shakespeare/_raw/021_Much_Ado_About_Nothing.md
 tags:
   - graph/work
+  - setting/europe
   - author/Shakespeare
   - topos/love_as_war
   - archetype/villain
@@ -65,7 +66,7 @@ tags:
 **Motifs:** [[Concealment Hidden Identity]], [[Eyes and Sight]], [[Love]]
 **Themes & Concepts:** [[Romantic Love]], [[Deception]], [[Appearance vs Reality]], [[Honour]], [[Marriage and Fidelity]], [[Jealousy]]
 **Forms & Genres:** [[Comedy]], [[Verse Drama]]
-**Settings:** [[Italy]]
+**Settings:** [[Italy]], [[Europe]]
 **Characters:** [[Benedick]], [[Beatrice]], [[Claudio]], [[Hero (2)]], [[Don Pedro]], [[Don John]], [[Dogberry]], [[Leonato]]
 
 ## Testo integrale / Full text

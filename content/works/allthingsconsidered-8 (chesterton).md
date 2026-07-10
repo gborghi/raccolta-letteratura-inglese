@@ -6,6 +6,10 @@ cluster: Paradox · Food and Feasting · Aphorism
 source: Authors/Chesterton/_raw/AllThingsConsidered-8.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
+  - concept/economics
   - author/Chesterton
   - form/essay
   - form/satire
@@ -100,10 +104,10 @@ tags:
 
 **Characters:** [[Joan la Pucelle]], [[Tom Jones]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Paradox]], [[Common Man]], [[Truth]], [[Justice Right and Wrong]], [[Artist and Society]], [[Nationalism and Patriotism]], [[Democracy]], [[Money and Avarice]], [[Secrecy and Concealment]], [[Martyrdom]], [[Vanity]], [[Education]], [[Class Conflict]], [[Deception]], [[Grotesque]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Literary Criticism]]
+**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Paradox]], [[Common Man]], [[Truth]], [[Justice Right and Wrong]], [[Artist and Society]], [[Nationalism and Patriotism]], [[Democracy]], [[Money and Avarice]], [[Secrecy and Concealment]], [[Martyrdom]], [[Vanity]], [[Education]], [[Class Conflict]], [[Deception]], [[Grotesque]], [[Economics]], [[History]]
+**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Literary Criticism]], [[Nonfiction]]
 **Historical References:** [[Christianity]], [[French Revolution]], [[Puritanism]], [[Catholic Church]]
-**Settings:** [[London]], [[Paris]], [[Oxford]]
+**Settings:** [[London]], [[Paris]], [[Oxford]], [[Europe]]
 
 ## Testo integrale / Full text
 

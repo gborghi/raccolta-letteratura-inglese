@@ -6,6 +6,8 @@ cluster: Historical Novel · War and its Cost · Honour and Chivalry
 source: Authors/Conan_Doyle/_raw/THE_WHITE_COMPANY.md
 tags:
   - graph/work
+  - setting/europe
+  - concept/history
   - author/Conan_Doyle
   - form/historical_novel
   - form/adventure_fiction
@@ -84,14 +86,14 @@ tags:
 - [Chapter 15](/testi/conan_doyle/atomized/the_white_company/chapter_48)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-114.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">73.8</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">77.3</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">179.7</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-114.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">74</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">77.4</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">180</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
 **Forms & Genres:** [[Historical Novel]], [[Adventure Fiction]]
-**Themes & Concepts:** [[Honour]], [[Masculinity and the Male Code]], [[War and its Cost]], [[Maturation and Growth]]
+**Themes & Concepts:** [[Honour]], [[Masculinity and the Male Code]], [[War and its Cost]], [[Maturation and Growth]], [[History]]
 **Motifs:** [[Journey]], [[Swords and Weapons]], [[Inn Tavern]]
 **Historical References:** [[Medieval England]]
-**Settings:** [[France]], [[Spain]], [[Rural England]], [[Castle]]
+**Settings:** [[France]], [[Spain]], [[Rural England]], [[Castle]], [[Europe]]
 **Archetypes:** [[Hero]], [[Quest Hero]], [[Mentor]]
 **Topoi:** [[Quest]], [[Open Road Homecoming]]

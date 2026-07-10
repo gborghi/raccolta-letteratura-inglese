@@ -6,6 +6,7 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Eliot/_raw/125_Also_by_T_S_Eliot.md
 tags:
   - graph/work
+  - form/nonfiction
   - author/Eliot
   - motif/the_book
   - form/literary_criticism
@@ -23,7 +24,7 @@ tags:
 
 **Motifs:** [[Book Reading]]
 **Themes & Concepts:** [[Artist and Society]]
-**Forms & Genres:** [[Literary Criticism]], [[Verse Drama]]
+**Forms & Genres:** [[Literary Criticism]], [[Verse Drama]], [[Nonfiction]]
 **Historical References:** [[Christianity]]
 
 ## Testo integrale / Full text

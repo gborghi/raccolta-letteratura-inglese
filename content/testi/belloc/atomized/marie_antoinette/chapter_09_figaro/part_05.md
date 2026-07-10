@@ -1,0 +1,35 @@
+---
+title: "Marie Antoinette — Chapter 8: FIGARO (part 5)"
+author: "Belloc"
+unitType: excerpt
+parentWork: "works/marie-antoinette-(belloc)"
+tags:
+  - graph/excerpt
+  - author/Belloc
+---
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Belloc · <a href="/works/marie-antoinette-(belloc)">Marie Antoinette</a> › <a href="/testi/belloc/atomized/marie_antoinette/chapter_09_figaro">Chapter 09 FIGARO</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/belloc/atomized/marie_antoinette/chapter_09_figaro/part_04">‹ part 04</a><a class="ex-next" href="/testi/belloc/atomized/marie_antoinette/chapter_09_figaro/part_06">part 06 ›</a></div>
+</nav>
+
+
+This little incident disturbed her. Here was a private gala of her own, given only to those of her private circle privately invited by her, and this odious man must creep in. Next day when her guests were gone she spent some portion of her considerable energy in ferreting out the culprit. The incident was traced to the lodge-keeper of Trianon, who had taken a bribe from the Cardinal under a promise that if he were let in he would keep a strict disguise and would not penetrate into the gardens. The lodge-keeper was sent his way to starve, and later — since he really did begin to starve — was given back his place by this impulsive woman.
+
+It was a very little though a very exasperating incident that a great officer of the [[Crown]], whom etiquette compelled her to meet in chapel, but whom she had carefully excluded from her intimacy and her privileges, should have appeared by a trick at a party so especially her own. Perhaps she remembered it as one remembers for a long while petty accidents that have sharply moved us for an hour. He certainly remembered it, for he had been found out in no very dignified manœuvre. He was certainly sore; but in men of his stupidity, of his privileges, and of his habits of luxury, hatred is no enduring passion. His ambition, however, such as it was, remained; he was the more determined to succeed in that high object of recognition and of friendship with the Queen, from the results of this disastrous attempt and from the failure of his appearance on that June night at Trianon.... It was but a week later that Madame de la Motte came in to [[Paris]], called at his palace in the Marais, and reminded him of his earlier charities.
+
+The uneventful summer came and passed, full of the customary glories and the customary distractions. No date marked evil or good. The American War, though it languished, was now decided, and England had given up the struggle. The reform of the French finances, though ceaselessly a topic of council, was as ceaselessly neglected. The Emperor continues to badger Mercy, and Mercy to badger the Queen upon matters of no importance save to Joseph II.’s ill-considered plans of aggrandisement.
+
+Fersen, pottering between Philadelphia and Baltimore, wrote home — wearily — but not to her.
+
+It was a long summer of nothingness during which Marie Antoinette’s position was confirmed, her public view a trifle, if but a trifle, enlarged. With her habits permitted, her popularity sufficient, her influence established, she had a foretaste of that security such as should accompany middle life, and such as is native to women for whom such satisfaction is allied with maternity; she turned for an added interest to her children.
+
+The little Princess Royal could talk and run; the baby Dauphin knew his sister already and moved his arms at her approach. The two children between them filled daily a larger and more natural place in the Queen’s thoughts. They could not indeed weaken the habits which those first feverish three years had rooted and the next had done nothing to destroy, but their innocence and the nameless bond of the flesh enlarged her; their growth, their surprising discovery of new days. It was not wholly without reason that the King their father grew at this moment to listen in smaller things to her advice beyond that of others.
+
+Ceremonial, or rather lucrative, as were the functions of the Princesse de Guémenée, she was yet constantly in attendance upon the children, of which she was titular governess, and the Queen was constantly in her society. The charge was a great one; if it had first been granted as a favour to one of the set of favourites, it had now ripened into something more, for the common interest in such a couple as Madame Royale and the heir gave rise, in this middle of ‘82, to an occasional communion between the Queen and the gouvernante which neither found in the general and much more continual amusement of their set. Their intimacy was the greater that the children had been sent through the park to Trianon during the hot weather, that the Princesse de Guémenée was with them secluded there, and that there she and the Queen were necessarily often alone together. In her favourite retreat and under her domestic trees, the approaching vaccination of the little girl — a matter of moment at that time — and a dozen details of the sort concerned them. By a petty accident of a sort common to aristocracies the Cardinal de Rohan, the Queen’s aversion, happened to be own brother to Madame de Guémenée, the Queen’s chief friend. Not a word was said in favour of that brother, for these were matters upon which even the Queen’s favourites were compelled to keep silence; but the populace, who do not understand such complexities, remembered the relationship.
+
+The complaints of the lesser woman upon the debts of herself and her husband — though such complaints are wearying to the closest friendships — did no more than slightly weary the Queen. They were soon forgotten, for Marie Antoinette held in a profound manner that [[Faith|faith]] in chance good fortunes and in ultimate relief from embarrassment without which those who never labour could not live; and when the complaints were done with, she turned to speak of the children.
+
+So August went by and most of September, when, one morning at the close of that month, Monsieur de Guémenée very suddenly declared that he could not so much as attempt to pay his debts, and threw himself upon his creditors.
+
+It was a shock. I have repeatedly insisted in this book upon the insignificance of French extravagance in the close of the eighteenth century, in comparison with the modern figures of our Plutocracy, and on the modesty of the sums the historian has to deal with — £5000 a year was a princely fortune; the Cardinal de Rohan’s £30,000 a year seemed almost the revenue of a State, an income beyond computation. Well, in such a world, accustomed to such a scale of wealth, the Guémenées went bankrupt for a solid million of our English pounds. It opened a whirlpool in the finances of the time, and the creditors, to make matters worse, were of every rank and spread throughout the kingdom; there were peasants among them, prelates, farmers-general, and — most clamorous of all — a few large and many small shopkeepers of [[Paris]]. To these last — especially to the smaller ones — delay would be fatal. Delay was precisely the expedient chosen.

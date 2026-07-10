@@ -6,6 +6,9 @@ cluster: Artist and Society · Truth · Regency Georgian England
 source: Authors/Chesterton/_raw/Shaw.md
 tags:
   - graph/work
+  - setting/europe
+  - form/nonfiction
+  - concept/history
   - author/Chesterton
   - form/biography
   - form/literary_criticism
@@ -83,7 +86,7 @@ tags:
 
 **Archetypes:** [[Orphan]], [[Prophet]], [[Rebel]]
 
-**Settings:** [[London]], [[Ancient Rome]], [[Egypt]], [[Germany]], [[Ireland]]
+**Settings:** [[London]], [[Ancient Rome]], [[Egypt]], [[Germany]], [[Ireland]], [[Europe]]
 
 **Motifs:** [[Wine and Drink]], [[Music and Song]], [[Animals]], [[Home]]
 
@@ -91,8 +94,8 @@ tags:
 
 **Characters:** [[Julius Caesar]], [[Cleopatra]], [[Hamlet]], [[George Bernard Shaw]], [[William Shakespeare]], [[Henrik Ibsen]], [[Friedrich Nietzsche]], [[Oscar Wilde]], [[Jonathan Swift]], [[Napoleon Bonaparte]], [[Charles Stewart Parnell]], [[Candida]], [[Mrs. Warren]]
 
-**Themes & Concepts:** [[Artist and Society]], [[Paradox]], [[Critique of Progress]], [[Doubt]], [[Marriage and Fidelity]], [[Nationalism and Patriotism]], [[Democracy]], [[Poverty]], [[War and its Cost]], [[Resurrection]], [[Fanaticism]], [[Vanity]], [[Creative Evolution and the Superman]]
-**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Verse Drama]], [[Epigram]], [[Satire]], [[Problem Play]]
+**Themes & Concepts:** [[Artist and Society]], [[Paradox]], [[Critique of Progress]], [[Doubt]], [[Marriage and Fidelity]], [[Nationalism and Patriotism]], [[Democracy]], [[Poverty]], [[War and its Cost]], [[Resurrection]], [[Fanaticism]], [[Vanity]], [[Creative Evolution and the Superman]], [[History]]
+**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Verse Drama]], [[Epigram]], [[Satire]], [[Problem Play]], [[Nonfiction]]
 **Historical References:** [[Puritanism]], [[Irish Question]], [[First World War]]
 
 ## Testo integrale / Full text

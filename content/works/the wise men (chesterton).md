@@ -6,6 +6,7 @@ cluster: Grace and Redemption · Humility · Bread and Wine Eucharist
 source: Authors/Chesterton/_raw/the_wise_men.md
 tags:
   - graph/work
+  - concept/history
   - author/Chesterton
   - form/lyric
   - form/hymn
@@ -50,7 +51,7 @@ tags:
 **Topoi:** [[Quest]]
 
 **Motifs:** [[Light and Dark]], [[Stars]], [[Snow]], [[Serpent Snake]], [[Lion]], [[Prayer]], [[Bread and Wine Eucharist]], [[Home]]
-**Themes & Concepts:** [[Humility]], [[Wonder and Gratitude]], [[Faith]], [[Truth]], [[Grace and Redemption]], [[Pride]], [[Paradox]]
+**Themes & Concepts:** [[Humility]], [[Wonder and Gratitude]], [[Faith]], [[Truth]], [[Grace and Redemption]], [[Pride]], [[Paradox]], [[History]]
 **Forms & Genres:** [[Lyric]], [[Hymn]]
 **Historical References:** [[Bible]], [[Christianity]], [[Greek Mythology]]
 **Characters:** [[Christ]], [[Magi]]

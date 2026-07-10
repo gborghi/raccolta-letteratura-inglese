@@ -6,6 +6,9 @@ cluster: Historical Novel · War and its Cost · Honour and Chivalry
 source: Authors/Conan_Doyle/_raw/UNCLE_BERNAC.md
 tags:
   - graph/work
+  - motif/sea_and_voyage
+  - setting/europe
+  - concept/history
   - author/Conan_Doyle
   - form/historical_novel
   - concept/exile
@@ -52,14 +55,14 @@ tags:
 - [Chapter 17](/testi/conan_doyle/atomized/uncle_bernac/chapter_17)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-47.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">39</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">38.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">77</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-48.3</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">39.5</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">39.3</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">78.7</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
 **Forms & Genres:** [[Historical Novel]]
-**Themes & Concepts:** [[Exile]], [[Family and Lineage]], [[Deception]], [[Secrecy and Concealment]], [[Empire and Imperialism]]
-**Motifs:** [[Journey]], [[Sea]], [[Storm]], [[Letters and Writing]]
+**Themes & Concepts:** [[Exile]], [[Family and Lineage]], [[Deception]], [[Secrecy and Concealment]], [[Empire and Imperialism]], [[History]]
+**Motifs:** [[Journey]], [[Sea]], [[Storm]], [[Letters and Writing]], [[Sea and Voyage]]
 **Historical References:** [[Napoleon]], [[Napoleonic Wars the Navy]], [[French Revolution]]
-**Settings:** [[France]], [[Ship]]
+**Settings:** [[France]], [[Ship]], [[Europe]]
 **Characters:** [[Napoleon Bonaparte]]
 **Archetypes:** [[Hero]], [[Villain]]
