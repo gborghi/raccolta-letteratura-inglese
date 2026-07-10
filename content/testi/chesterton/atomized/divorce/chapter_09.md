@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/divorce-(chesterton)">The Superstition of Divorce</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/divorce/chapter_08">‹ Chapter 08</a><a class="ex-next" href="/testi/chesterton/atomized/divorce/chapter_01/part_01">part 01 ›</a></div>
@@ -76,3 +78,76 @@ in art as much as in ethics, in poetry as much as in politics,
 is choice; a creative power in the will as [[Well|well]] as in the mind.
 Without that [[Self|self]]-limitation of somebody, nothing living will ever
 see the light.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/divorce-(chesterton)">The Superstition of Divorce</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/divorce/chapter_08">‹ Chapter 08</a><a class="ex-next" href="/testi/chesterton/atomized/divorce/chapter_01/part_01">part 01 ›</a></div>
+</nav>
+
+# [[divorce]] — Capitolo 9
+
+IX
+
+CONCLUSIONE
+
+Questo è un pamphlet e non un libro; e chi scrive un pamphlet
+non solo tratta di cose passeggere, ma in genere di cose che
+egli spera passeranno.  In quel senso è scopo di un pamphlet
+essere superato al più presto possibile.  Può sopravvivere solo quando
+non riesce.  I pamphlet riusciti sono necessariamente noiosi;
+e per quanto io non nutra grandi speranze che questo riesca, oso
+dire che è comunque abbastanza noioso.  È concepito soltanto per annotare
+certe fugaci proposte del momento, e paragonarle con certe
+ricorrenti necessità della stirpe; ma specialmente la necessità
+di qualche spontanea formazione sociale più libera di quella dello stato.
+Se fosse più nella [[Nature|natura]] di un'opera letteraria, con qualcosa
+come un'[[Ambition|ambizione]] di [[Endurance|durata]], potrei andare più a fondo nella questione,
+e dare qualche suggerimento sulla [[philosophy|filosofia]] o religione del [[Marriage|matrimonio]],
+e sulla [[philosophy|filosofia]] o religione di tutte queste piuttosto casuali deviazioni
+da esso.  Un giorno forse tenterò di scrivere qualcosa sulla
+querela spirituale o psicologica tra la [[Faith|fede]] e le mode.
+Qui dirò soltanto, in conclusione, che credo che la fallacia universale
+sia qui una fallacia dell'essere universali.  V'è un senso
+in cui è davvero una possibilità umana, se pure eroica, [[Love|amare]] tutti;
+e lo studente giovane non troverà un cattivo esercizio preliminare
+[[Love|amare]] qualcuno.  Ma la fallacia che intendo è quella dell'uomo che non è
+nemmeno pago di [[Love|amare]] tutti, ma desidera davvero essere tutti.
+Egli desidera percorrere cento strade insieme; [[Sleep|dormire]]
+in cento case insieme; vivere cento vite insieme.
+Fare qualcosa di simile nell'[[Imagination|immaginazione]] è una delle occasionali
+visioni dell'arte e della poesia; tentarlo nell'arte della vita non è soltanto
+anarchia ma inazione.  Anche nelle arti può essere solo il primo accenno
+e non l'adempimento finale; un uomo non può lavorare a un tempo nel bronzo
+e nel marmo, o suonare l'organo e il violino allo stesso [[Time|tempo]].
+La visione universale di essere un tale Briareo è un [[nightmare|incubo]] di insensatezza
+perfino nel mondo meramente immaginativo; e finisce in mero nichilismo
+nel mondo sociale.  Se un uomo avesse cento case, vi sarebbero
+ancora più case dei giorni che avrebbe per sognarle;
+se un uomo avesse cento mogli, vi sarebbero ancora più donne
+di quante potrebbe mai conoscerne.  Sarebbe un folle sultano geloso
+dell'intera razza umana, e perfino dei morti e dei [[unborn|non nati]].
+Credo che dietro l'arte e la [[philosophy|filosofia]] del nostro [[Time|tempo]] vi sia
+un considerevole elemento di questa sconfinata [[Ambition|ambizione]] e di questa
+fame innaturale; e poiché in queste ultime parole tocco
+soltanto lievemente cose che richiederebbero un ben più ampio trattamento,
+ammetterò che lo squarcio dell'antico tetto dell'uomo è
+probabilmente solo una parte di una tale espansione senza fine e vuota.
+Chiesi nell'ultimo capitolo che cosa coloro che sono più selvaggiamente impegnati nella mera
+[[Dance|danza]] del [[divorce|divorzio]], fantastica quanto la [[Dance of Death|danza della morte]], davvero si aspettassero
+per sé o per i loro figli.  E nel senso più profondo io
+credo che questa sia la risposta: che si aspettano l'impossibile, cioè
+l'universale.  Non piangono per la [[Moon|luna]], che è un [[Desire|desiderio]] definito
+e perciò difendibile.  Piangono per il mondo;
+e quando l'avessero, ne vorrebbero un altro.  In ultima istanza
+vorrebbero provare ogni situazione, non in fantasia ma di fatto,
+ma non possono rifiutarne alcuna e perciò non possono risolversi su alcuna.
+In quanto ciò è lo stato d'animo moderno, è cosa tanto letale
+da essere già morta.  Ciò di cui vi è vitale bisogno dappertutto,
+nell'arte quanto nell'etica, nella poesia quanto nella politica,
+è la scelta; un potere creativo nella volontà [[Well|non]] meno che nella mente.
+Senza quell'auto-[[Self|limitazione]] di qualcuno, nulla di vivente vedrà
+mai la luce.

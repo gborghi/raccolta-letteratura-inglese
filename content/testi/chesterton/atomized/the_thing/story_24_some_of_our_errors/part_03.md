@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a> › <a href="/testi/chesterton/atomized/the_thing/story_24_some_of_our_errors">Story 24 SOME OF OUR ERRORS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_24_some_of_our_errors/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_27_what_we_think_about/part_01">part 01 ›</a></div>
@@ -55,5 +57,58 @@ we should abuse our own vulgarisation of the English language.
 Upon this one point, of the restatement of religious ideas,
 the reformers are right in everything except the one essential;
 which is knowing where to throw the blame.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a> › <a href="/testi/chesterton/atomized/the_thing/story_24_some_of_our_errors">Story 24 SOME OF OUR ERRORS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_24_some_of_our_errors/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_27_what_we_think_about/part_01">part 01 ›</a></div>
+</nav>
+
+Ma il mondo fa scempio di tutte queste parole, siano esse nella
+[[Bible|Bibbia]] inglese o nel Canone latino. Vi sono molte parole
+d'uso cattolico che nella pratica sono state a questo modo stravolte.
+Quando un [[Outsider|estraneo]] sente che un cattolico si è astenuto da qualcosa
+per [[Fear|timore]] di "dare scandalo", riceve subito l'irritata
+impressione che ciò significhi il [[Fear|timore]] di mettere in chiacchiera tutte le vecchie
+comari sciocche della città. Naturalmente non significa nulla del genere.
+Non significa questo in greco. Non significa questo in latino.
+Non dovrebbe significare questo in inglese. Dovrebbe significare ciò che dice:
+il [[Fear|timore]] di far inciampare qualcuno, di porre una pietra d'intoppo
+sul cammino di qualche essere umano che fatica ad andare avanti. Se induco
+a gozzoviglie un uomo che va tenuto lontano dal bere, sto dando scandalo.
+Se dico ciò che potrebbe essere un sano realismo per certi ascoltatori,
+a una persona giovane e [[Innocent|innocente]] che di sicuro lo avvertirà come
+mera oscenità, sto dando scandalo. Sto facendo ciò che per me
+è giusto, a rischio di fargli fare ciò che per lui è sbagliato.
+Dire che questo è ingiustificabile è manifesto buon senso morale. Ma
+non è ciò che si trasmette nell'inglese moderno parlando di dare scandalo.
+Tutto ciò che si trasmette nell'inglese moderno è che la persona che così
+agisce sta disprezzando le chiacchiere oziose e la critica irresponsabile;
+il che è esattamente ciò per cui tutti i santi e i martiri hanno con coerenza
+vissuto e sono morti. Ed è questo un buon esempio di ciò che io intendo
+per [[Translation|traduzione]]; o, se si preferisce la parola, per riformulazione.
+Ma ciò non significa voltarsi indietro a insultare la vecchia formulazione,
+che era in realtà del tutto correttamente enunciata. Significa soltanto riformulare
+esattamente ciò che la vecchia formulazione enuncia.
+
+Potrei dare molti altri esempi di parole che erano giuste nel loro
+uso latino, ma che si sono oscurate nel loro abuso inglese.
+Lo avverto sempre nella frase, necessariamente frequente, "offendere" Dio;
+che in origine aveva quasi il significato tremendo di ferire Dio.
+Ma la parola è degenerata attraverso la sua applicazione all'uomo,
+finché il suono di essa è del tutto meschino e travisato. Diciamo che
+il signor Binks si è offeso, o che zia Susanna se la prenderà a male;
+e perdiamo di vista la [[Truth|verità]] essenziale, e persino il dogma, che
+(in quel senso più basso) Dio è l'ultimo a prendersela a male.
+Ma anche qui non dovremmo insultare la lingua latina;
+dovremmo insultare la nostra volgarizzazione della lingua inglese.
+Su questo unico punto, la riformulazione delle idee religiose,
+i riformatori hanno ragione in tutto tranne che nell'unica cosa essenziale:
+sapere dove gettare la colpa.
 
 -/-

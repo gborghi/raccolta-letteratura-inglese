@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/trees-of-pride-(chesterton)">The Trees of Pride</a> › <a href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane">Story 04 THE WAGER OF SQUIRE VANE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/trees_of_pride/story_05_the_mystery_of_the_well_well/part_01">part 01 ›</a></div>
@@ -56,3 +58,55 @@ and half masked by thistles and rank grass like a green beard.
 For where he stood now was three yards away from the [[Well|well]],
 and he had not yet himself realized that he had sprung back all
 that distance from the brink when the [[Water|water]] spoke.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/trees-of-pride-(chesterton)">The Trees of Pride</a> › <a href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane">Story 04 THE WAGER OF SQUIRE VANE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/trees_of_pride/story_05_the_mystery_of_the_well_well/part_01">part 01 ›</a></div>
+</nav>
+
+Una di queste piste battute e interrotte andava dallo spazio sotto
+gli alberi dei pavoni verso l'esterno, dentro il bosco, per una ventina di iarde,
+e poi si arrestava.  Oltre quel punto non un ramoscello era spezzato né
+una foglia smossa.  Non aveva uscita, ma egli non poteva credere
+che non avesse meta.  Dopo qualche ulteriore riflessione, si inginocchiò
+e prese a tagliar via erba e argilla col coltello,
+e si stupì della facilità con cui si staccavano.
+In pochi istanti un'intera sezione del terreno si sollevò come un coperchio;
+era un coperchio rotondo e offriva un aspetto bizzarro, come un berretto piatto
+con piume verdi.  Poiché, benché il disco stesso fosse di legno,
+vi era sopra uno strato di terra con l'erba viva che ancora vi cresceva.
+E la rimozione del coperchio rotondo rivelò un foro rotondo, nero come la
+[[Night|notte]] e in apparenza senza fondo.  Paynter comprese all'istante.
+Era piuttosto vicino al mare perché vi si scavasse un [[Well|pozzo]], ma il viaggiatore
+aveva conosciuto pozzi scavati anche più vicino.  Si [[Rose|levò]] in piedi con
+il gran coltello in pugno, un cipiglio sul volto, e i suoi
+dubbi risolti.  Non rifuggiva più dal nominare ciò che sapeva.
+Non era il primo cadavere che fosse stato gettato in un [[Well|pozzo]];
+qui, senza pietra né epitaffio, era la [[Grave|tomba]] dello squire Vane.
+In un lampo tutte le follie mitologiche su santi e pavoni
+furono dimenticate; fu colpito alla testa, come da una clava di pietra,
+dal comune buon senso umano del delitto.
+
+Cyprian Paynter sostò a lungo presso il [[Well|pozzo]] nel bosco, vi girò
+intorno meditando, ne esaminò l'orlo e l'anello d'erba che lo cingeva,
+frugò a fondo il terreno circostante, tornò indietro e si fermò accanto
+al [[Well|pozzo]] ancora una volta.  Le sue ricerche e riflessioni erano state tanto lunghe
+che non si era avveduto che il giorno era trascorso e che il bosco
+e il mondo all'intorno cominciavano già a impregnarsi
+della ricchezza della sera.  La giornata era stata radiosamente calma;
+il mare pareva immobile come il [[Well|pozzo]], e il [[Well|pozzo]] era immobile
+come uno [[Mirror|specchio]].  E poi, del tutto senza preavviso, lo [[Mirror|specchio]] si mosse
+da sé come una cosa viva.
+
+Nel [[Well|pozzo]], nel bosco, l'[[Water|acqua]] balzò e gorgogliò, con un
+rumore [[Grotesque|grottesco]] come di qualcosa che inghiotte, e poi si riassestò
+con un secondo suono.  Cyprian non riusciva a vedere dentro il [[Well|pozzo]] con chiarezza,
+poiché l'apertura, da dove stava, era un'ellisse, una mera fessura,
+mezzo mascherata da cardi ed erba rigogliosa come una barba verde.
+Poiché dove ora si trovava era a tre iarde dal [[Well|pozzo]],
+ed egli stesso non si era ancora reso conto d'essere balzato all'indietro per tutta
+quella distanza dall'orlo quando l'[[Water|acqua]] parlò.

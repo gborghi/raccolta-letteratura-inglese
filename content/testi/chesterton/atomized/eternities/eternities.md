@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/eternities-(chesterton)">eternities</a></div>
 </nav>
@@ -31,3 +33,30 @@ In heaven I shall stand on gold and glass,
   Still brooding earth's arithmetic to spell;  
   Or see the fading of the fires of hell  
 Ere I have thanked my God for all the grass.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/eternities-(chesterton)">eternities</a></div>
+</nav>
+
+[[eternities|Eternità]]  
+
+G.K.Chesterton  
+
+Non so contare i ciottoli nel ruscello.  
+  [[Well|Bene]] Egli ha parlato: "Non giurare sul tuo capo.  
+  Tu non conosci i capelli", benché Egli, leggiamo,  
+scriva quel numero selvaggio nel Suo strano libro.  
+
+Non so contare le sabbie né scandagliare i mari,  
+  la [[Death|Morte]] viene, e lascio tanto sentiero non calcato.  
+  Concedimi l'aureola immortale, o mio Dio,  
+e nominerò le [[Leaves|foglie]] sopra gli alberi,  
+
+In cielo starò su oro e cristallo,  
+  ancora rimuginando l'aritmetica della terra;  
+  o vedrò svanire i fuochi dell'inferno  
+prima d'aver ringraziato il mio Dio per tutta l'erba.

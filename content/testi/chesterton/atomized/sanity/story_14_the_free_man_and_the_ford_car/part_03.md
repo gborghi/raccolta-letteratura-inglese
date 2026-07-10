@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a> › <a href="/testi/chesterton/atomized/sanity/story_14_the_free_man_and_the_ford_car">Story 14 THE FREE MAN AND THE FORD CAR</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_14_the_free_man_and_the_ford_car/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_16_the_religion_of_small_property/part_01">part 01 ›</a></div>
@@ -69,5 +71,72 @@ If anyone will try saying this (tenderly, of course) to any
 considerable number of large farmers, who have lived for some [[Time|time]]
 on their own farms with their own families, he will discover
 the defects of the approach.
+
+= = = = = = = = = = = = = = = =
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a> › <a href="/testi/chesterton/atomized/sanity/story_14_the_free_man_and_the_ford_car">Story 14 THE FREE MAN AND THE FORD CAR</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_14_the_free_man_and_the_ford_car/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_16_the_religion_of_small_property/part_01">part 01 ›</a></div>
+</nav>
+
+Su questo punto di compromesso immediato con le macchine, dunque, sono
+incline a concludere che sia del tutto giusto usare le macchine esistenti
+nella misura in cui creano una psicologia capace di disprezzare le macchine;
+ma non se creano una psicologia che le rispetta.
+La Ford è un'eccellente illustrazione della questione;
+anche migliore dell'altra illustrazione che ho dato, quella di una fornitura
+elettrica per piccole officine. Se possedere una Ford significa
+esultare per una Ford, la cosa è abbastanza [[Melancholy|malinconica]]; non ci porta
+molto più in là di Tooting o dell'esultare per un tram di Tooting.
+Ma se possedere una Ford significa esultare per un campo di grano
+o di trifoglio, per un paesaggio fresco e un'atmosfera libera, essa può essere
+l'inizio di molte cose... e persino la fine di molte cose.
+Può essere, per esempio, la fine dell'automobile e l'inizio
+del cottage. Così potremmo quasi dire che il trionfo finale
+del signor Ford non è quando l'uomo sale in automobile, ma quando
+entusiasticamente ne cade fuori. È quando trova in qualche luogo,
+in remoti angoli rurali che normalmente non avrebbe potuto raggiungere,
+quell'equilibrio perfetto e quella combinazione di siepe, albero e prato
+in presenza dei quali qualunque [[Machine|macchina]] moderna appare d'un tratto
+un'assurdità; sì, persino un'assurdità antiquata.
+Probabilmente quell'uomo felice, avendo trovato il luogo della sua vera [[Home|casa]],
+procederà con gioia a fare a pezzi l'automobile con un grosso martello,
+mettendo per la prima [[Time|volta]] i suoi frammenti di ferro a qualche uso reale,
+come utensili da cucina o attrezzi da [[Garden|giardino]]. Questo è usare uno strumento
+scientifico nel modo giusto; perché è usarlo come strumento.
+L'uomo ha usato la macchina moderna per fuggire dalla società moderna;
+e la ragionevolezza e la rettitudine di tale condotta si raccomandano all'istante
+alla mente. Non è così per i fratelli più deboli che non si
+accontentano di fidarsi dell'automobile del signor Ford, ma si fidano
+anche del credo del signor Ford. Se accettare l'automobile significa accettare la [[philosophy|filosofia]] che ho
+appena criticato, l'idea che certi uomini nascano per fabbricare automobili,
+o piuttosto piccoli pezzi di automobili, allora sarà assai più degno di un
+filosofo dire francamente che gli uomini non hanno mai avuto bisogno di automobili.
+È solo perché l'uomo era stato mandato in [[Exile|esilio]] su un
+treno ferroviario che deve essere ricondotto a [[Home|casa]] in automobile.
+È solo perché ogni macchina è stata usata per mettere le cose per storto
+che qualche macchina può ora essere usata a buon diritto per rimetterle a posto.
+Ma nel complesso concludo che così può essere usata; e la mia ragione
+è quella che ho considerato in una pagina precedente sotto il titolo
+di «La possibilità di guarigione». Ho fatto notare che il nostro ideale è
+tanto sano e semplice, tanto in accordo con gli istinti antichi e generali
+degli uomini, che una volta che gli si conceda un'occasione in qualsiasi luogo
+esso migliorerà quell'occasione con la propria vitalità interiore, perché vi è
+una qualche reazione verso la salute ogni volta che si rimuove una malattia.
+L'uomo che ha usato l'automobile per trovare la sua fattoria sarà più
+interessato alla fattoria che all'automobile; certamente più interessato
+di quanto lo sia al negozio dove un tempo comprò l'automobile. Né il signor Ford
+riuscirà sempre a corteggiarlo per ricondurlo a quel negozio, nemmeno dicendogli teneramente
+che non è adatto a essere un signore della terra, un cavaliere di cavalli,
+o un padrone di bestiame; giacché il suo intelletto carente e il suo degradato
+tipo antropologico lo rendono adatto solo a operazioni meschine e meccaniche.
+Se qualcuno proverà a dire questo (teneramente, s'intende) a un
+numero considerevole di grandi agricoltori, che hanno vissuto per qualche [[Time|tempo]]
+sulle proprie fattorie con le proprie famiglie, scoprirà
+i difetti dell'approccio.
 
 = = = = = = = = = = = = = = = =

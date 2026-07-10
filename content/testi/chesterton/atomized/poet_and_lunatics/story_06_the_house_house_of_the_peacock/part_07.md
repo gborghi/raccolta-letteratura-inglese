@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a> › <a href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_house_of_the_peacock">Story 06 THE house HOUSE OF THE PEACOCK</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_house_of_the_peacock/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel_jewel/part_01">part 01 ›</a></div>
@@ -75,5 +77,78 @@ And he continued his walk along the suburban [[Road|road]],
 unconsciously taking in the new tint of the lawns by moonlight.
 But he did not see any more peacocks; and it may be accounted
 probable that he did not want to see any.
+
+VII
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a> › <a href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_house_of_the_peacock">Story 06 THE house HOUSE OF THE PEACOCK</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_house_of_the_peacock/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel_jewel/part_01">part 01 ›</a></div>
+</nav>
+
+Crundle balzò malfermo in piedi, la bocca ancora in movimento,
+e ne videro all'angolo un lieve tocco di schiuma.
+
+"Quel che voglio sapere," cominciò con voce sonora; e poi la voce
+parve inaridirglisi in gola ed egli oscillò due volte e cadde
+in avanti sulla tavola tra i rottami del suo stesso vino e del suo cristallo.
+
+"Non so se serva un poliziotto," disse Noel; "ma dovremo
+mandare a chiamare un medico."
+
+"Vi occorreranno due medici per ciò che gli andrà fatto,"
+disse Gale; e si diresse verso la [[Window|finestra]] da cui era entrato.
+
+Noel lo accompagnò fino al cancello del [[Garden|giardino]], oltre il pavone
+e il verde prato, che sotto la forte luce lunare pareva quasi
+azzurro come il pavone.  Quando il poeta fu fuori dal cancello,
+si voltò e disse un'ultima parola.
+
+"Voi siete Norman Noel, il grande viaggiatore, credo.  M'interessate più
+di quanto abbia fatto quell'infelice monomaniaco; e voglio porvi una domanda.
+Perdonatemi se immagino cose per voi, per così dire; è un mio vezzo.
+Avete studiato le superstizioni in tutto il mondo, e avete visto
+cose in confronto alle quali tutto quel discorrere di sale e coltelli da tavola
+è come un gioco di conseguenze da [[Child|bambino]].  Siete stato nelle oscure
+foreste sulle quali il vampiro sembra passare più immenso di un drago;
+o tra le [[Mountains|montagne]] del lupo mannaro, dove si dice che un uomo possa scorgere
+nel volto dell'amico o della moglie gli occhi di una bestia feroce.
+Avete conosciuto gente che aveva vere superstizioni; nere, torreggianti,
+terrifiche superstizioni; siete vissuto con quella gente;
+e voglio porvi una domanda su di essa."
+
+"Sembra che voi stesso ne sappiate qualcosa," rispose Noel;
+"ma risponderò a qualunque domanda vogliate."
+
+"Non erano forse uomini più felici di voi?"
+
+Gale fece una pausa mentre poneva la domanda, poi proseguì.
+"Non cantavano forse, in verità, più [[songs|canzoni]], e non ballavano più [[Dance|danze]],
+e non bevevano il vino con più schietta allegria?  Ciò perché essi
+credevano nel male.  In malefici incantesimi, forse, in cattiva sorte,
+nel male sotto ogni sorta di simboli stupidi e ignoranti;
+ma pur sempre in qualcosa da combattere.  Essi almeno leggevano le cose
+in bianco e nero, e vedevano la vita come il [[Battlefield|campo di battaglia]] che essa è.
+Ma voi siete infelice perché non credete nel male, e ritenete
+filosofico vedere ogni cosa nella stessa luce grigia.  E io
+vi parlo così stanotte; perché stanotte avete avuto un risveglio.
+Avete visto qualcosa di degno d'odio e siete stato felice.  Un semplice omicidio
+forse non l'avrebbe fatto.  Se fosse stato qualche vecchio damerino,
+o anche qualche giovane damerino, forse non avrebbe mai toccato il nervo.
+Ma so ciò che avete provato; c'era qualcosa di vergognoso oltre ogni parola
+nella [[Death|morte]] di quel povero, goffo cugino di campagna."
+
+Noel annuì.  "Credo fosse la forma delle sue code di rondine," disse.
+
+"Lo pensavo," rispose Gale.  "[[Well|Ebbene]], quella è la [[Road|strada]] verso la realtà.
+Buona [[Night|notte]]."
+
+E proseguì la sua passeggiata lungo la [[Road|strada]] suburbana,
+cogliendo inconsciamente la nuova tinta dei prati al chiaro di luna.
+Ma non vide altri pavoni; ed è probabile a credersi
+che non ne volesse vedere altri.
 
 VII

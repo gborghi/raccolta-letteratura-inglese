@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/two-kinds-of-paradox-(chesterton)">Two Kinds of Paradox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/two_kinds_of_paradox/part/part_01">‹ part 01</a><span></span></div>
@@ -61,3 +63,60 @@ of things at all unless he had thought they were things and there was some
 [[Truth|truth]] about them.  Here we have the black nonsense, like black [[Magic|magic]],
 that shuts down the brain.  "A lie is that which you do not believe."
 That is a lie; so perhaps Mr. Jackson does not believe it
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/two-kinds-of-paradox-(chesterton)">Two Kinds of Paradox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/two_kinds_of_paradox/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Porterò quegli esempi che mi capita di avere sott'occhio.
+Vedo sul mio tavolo un libro di aforismi di un giovane scrittore socialista,
+il signor Holbrook Jackson; s'intitola "Platitudes in the Making",
+e illustra curiosamente questa differenza tra il [[Paradox|paradosso]]
+che avvia il pensiero e il [[Paradox|paradosso]] che il pensiero lo impedisce.
+Beninteso, l'autore ha letto troppo Nietzsche e [[Shaw]],
+e troppo poco pensatori meno brancolanti e più afferranti.
+Ma dice molte cose davvero buone di suo, e queste
+illustrano alla perfezione ciò che qui intendo circa l'assurdità suggestiva e
+quella distruttiva.
+
+Così in un punto dice: "Sopportate i folli di buon grado: potrebbero aver ragione".
+Mi pare buono; ma qui intendo specialmente che mi colpisce
+come fecondo e libero. Con quell'idea puoi fare qualcosa,
+essa apre un viale. Si può andare cercando fra le proprie più solide
+conoscenze e i propri parenti i fuochi di un'infallibilità nascosta.
+Si può immaginare di scorgere la stella dell'eterna giovinezza nell'occhio
+alquanto vacuo dello zio Giorgio; si può seguire fiocamente qualche profondo ritmo
+della [[Nature|natura]] nelle infinite ripetizioni con cui la signorina Bootle
+racconta una storia; e nei grugniti e negli ansiti del maggiore
+della porta accanto si può udire, per così dire, il grido di un dio strangolato.
+Non può mai restringere le nostre menti, non può mai arrestare la nostra vita,
+supporre che un particolare [[Fool|folle]] non sia poi così [[Fool|folle]] come sembra.
+Deve andare tutto a incremento della [[Charity|carità]], e la [[Charity|carità]] è l'[[Imagination|immaginazione]]
+del cuore.
+
+Volto la pagina seguente, e m'imbatto in ciò che chiamo il [[Paradox|paradosso]] sterile.
+Sotto il titolo di "Consigli", il signor Jackson scrive: "Non pensare: fa'".
+È esattamente come dire "Non mangiare: digerisci". Ogni fare
+che non sia meccanico o accidentale implica pensiero;
+solo il mondo moderno sembra aver dimenticato che può
+esistere una cosa come il pensiero decisivo e drammatico.
+Tutto ciò che viene dalla volontà deve passare per la mente,
+per quanto possa passarvi in fretta. L'unica cosa che l'uomo forte
+possa "fare" senza pensare è qualcosa come inciampare in uno zerbino.
+Questo non è nemmeno far saltare la mente; è semplicemente farla fermare.
+Prendo un altro paio di casi a caso. "Lo scopo della vita è la vita".
+Ciò mi tocca come in ultima analisi vero; sempre a patto che l'autore sia
+abbastanza liberale da includervi la vita eterna. Ma anche se è assurdità,
+è un'assurdità pensosa.
+
+In un'altra pagina leggo: "La [[Truth|verità]] è la propria concezione delle cose".
+Questa è assurdità sconsiderata. Un uomo non avrebbe mai avuto alcuna concezione
+delle cose se non avesse pensato che erano cose e che vi era una qualche
+[[Truth|verità]] su di esse. Qui abbiamo l'assurdità nera, come la nera [[Magic|magia]],
+che spegne il cervello. "Una menzogna è ciò che tu non credi".
+Questa è una menzogna; sicché forse il signor Jackson non la crede

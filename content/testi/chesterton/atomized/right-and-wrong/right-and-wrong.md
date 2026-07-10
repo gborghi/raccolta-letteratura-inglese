@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/right-and-wrong-(chesterton)">right-and-wrong</a></div>
 </nav>
@@ -52,4 +54,53 @@ The [[Song]] of Right and Wrong
 	       And the [[Death|death]]-[[Dance|dance]] of our times,  
 	       Heaven sent us Soda [[Water]]  
 	       As a torment for our crimes.  
+				   - G.K. Chesterton
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/right-and-wrong-(chesterton)">right-and-wrong</a></div>
+</nav>
+
+Il [[Song|Canto]] del Giusto e dell'Ingiusto  
+
+	       -------------------------------------------------------------  
+
+	       Banchetta col vino o digiuna con l'[[Water|acqua]]  
+	       e il tuo [[Honour|onore]] starà sicuro,  
+	       figlio e figlia di Dio Onnipotente,  
+	       lui il valoroso, lei la pura;  
+	       se un angelo giù dal cielo  
+	       ti reca altre cose da bere,  
+	       ringrazialo delle gentili premure,  
+	       e va' a versarle nel lavandino.  
+
+	       Il tè è come l'Oriente in cui cresce,  
+	       un gran Mandarino giallo  
+	       con urbanità di modi  
+	       e inconsapevolezza del peccato;  
+	       tutte le donne, come un harem,  
+	       alla sua codina vanno in fila;  
+	       e, come tutto l'Oriente in cui cresce,  
+	       è [[Poison|Veleno]] quando è forte.  
+
+	       Il tè, benché Orientale,  
+	       è almeno un gentiluomo;  
+	       il cacao è un mascalzone e un vile,  
+	       il cacao è una bestia volgare,  
+	       il cacao è uno sciocco, sleale,  
+	       bugiardo, strisciante furfante e buffone,  
+	       e può [[Well|ben]] essere grato  
+	       allo [[Fool|sciocco]] che lo trangugia.  
+
+	       Quanto a tutte le acque ventose,  
+	       piovvero come tempeste  
+	       quando la buona bevanda fu disonorata  
+	       dai beoni della città;  
+	       quando il vino rosso portò rossa rovina  
+	       e la [[Death|danza]]-[[Dance|di morte]] dei nostri tempi,  
+	       il Cielo ci mandò l'[[Water|Acqua]] di Soda  
+	       come tormento per i nostri crimini.  
 				   - G.K. Chesterton

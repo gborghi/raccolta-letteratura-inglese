@@ -95,6 +95,11 @@ function layoutCircle(tiles: HTMLElement[], labels: HTMLElement[]) {
     const t = tiles[i]
     t.style.left = 50 + tileR * cos + "%"
     t.style.top = 50 + tileR * sin + "%"
+    // Consistent clockwise shingle: each tile overlaps its counter-clockwise
+    // neighbour and is overlapped by its clockwise one. (i+1)%n keeps tile 0
+    // (12 o'clock apex, e.g. Austen) above its left neighbour but below tile 1
+    // (e.g. Belloc), moving the unavoidable circular seam off the apex.
+    t.style.zIndex = String((i + 1) % n)
     const labelR = i % 2 === 0 ? labelR_inner : labelR_outer
     const l = labels[i]
     l.style.left = 50 + labelR * cos + "%"

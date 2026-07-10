@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/new-jerusalem-(chesterton)">New Jerusalem</a> › <a href="/testi/chesterton/atomized/new_jerusalem/chapter_06">Chapter 06</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/new_jerusalem/chapter_06/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/new_jerusalem/chapter_07/part_01">part 01 ›</a></div>
@@ -76,5 +78,22 @@ who has received an omen.  For two voices had met in my ears;
 and within the same narrow space and in the same dark hour,
 electric and yet eclipsed with cloud, I had heard [[Islam]] crying
 from the turret and Israel wailing at the wall.
+
+= = = = = = = = = = = = = = = =
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/new-jerusalem-(chesterton)">New Jerusalem</a> › <a href="/testi/chesterton/atomized/new_jerusalem/chapter_06">Chapter 06</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/new_jerusalem/chapter_06/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/new_jerusalem/chapter_07/part_01">part 01 ›</a></div>
+</nav>
+
+La [[Storm|tempesta]] stava certo montando. Fuori della Porta di Giaffa la [[Road|strada]] sale ripida ed è spaccata in due dal cuneo di un alto edificio, che pare stretto come una torre e sporge come la prua di una [[Ship|nave]]. Vi è qualcosa di quasi teatrale nella sua posizione e nella sua scenografia, la sua unica alta [[Window|finestra]] a tendaggi e il balcone, con una sorta di pertica o asta di [[Flag|bandiera]]; ché il luogo è ufficiale, o piuttosto municipale. Intorno si gonfiava la folla, coi suoi [[songs|canti]] e [[Poems|poemi]] e la sua appassionata retorica in una specie di crescendo, e poi d'un tratto la tenda della [[Window|finestra]] [[Rose|si sollevò]] come il sipario del teatro, e vedemmo su quell'alto balcone il fez rosso e l'alta figura del Sindaco maomettano di Gerusalemme.
+
+Non compresi le sue osservazioni in arabo; ma so riconoscere quando un uomo sta calmando una folla, e la folla si fece davvero più calma. Fu come se una [[Storm|tempesta]] si fosse gonfiata nella [[Night|notte]] e si spegnesse a poco a poco in un grigio mattino; ma vi sono perpetui brontolii di quella [[Storm|tempesta]]. Il mio punto, per il momento, è che le esasperazioni provengono soprattutto dai due estremi delle due grandi tradizioni semitiche del monoteismo; e certo non in primo luogo da quei poveri cristiani d'Oriente del cui [[Fanaticism|fanatismo]] ci hanno insegnato a farci beffe. Di [[Time|tanto]] in [[Time|tanto]] vi sono lampi degli estremi del [[Fanaticism|fanatismo]] orientale che sono quasi spaventosi al sentire occidentale. Sembrano incrinare la lucidatura dei dignitosi capi dell'aristocrazia araba e della scuola di cultura sionista, e rivelano una sostanza vulcanica di cui sono stati fatti soltanto i credi orientali. Un giorno un selvaggio proclama ebraico passa di mano in mano, denunciando gli ebrei sleali che rifiutano di insegnare l'ebraico; dicendo ai medici di lasciarli morire e agli ospedali di lasciarli marcire, risonante di quell'antico, inconfondibile e terribile accento che comandava agli uomini di sfracellare i loro figli contro le pietre. Un altro giorno la [[City|città]] è tappezzata di manifesti stampati a Damasco, che dicono agli ebrei i quali guardavano alla Palestina come a una [[Home|patria]] nazionale, che vi troveranno un cimitero nazionale. E quando questi gridi cozzano, è come il cozzare di quelle due ricurve spade orientali che si incrociavano e si reincrociavano e roteavano come ruote fiammeggianti, all'avanguardia della folla in marcia.
+
+Sentii la piena pressione del problema quando per la prima volta girai attorno all'intero recinto dell'Haram, i cortili dell'antico Tempio, dove le alte torri dei muezzin sorgono ora a ogni angolo, e udii le chiare voci del richiamo alla [[Prayer|preghiera]]. Il cielo era greve di una [[Storm|tempesta]] che divenne la bufera di neve; ed era l'[[Time|ora]] in cui i vecchi ebrei battono le mani e piangono su quelle che si crede siano le ultime pietre del Tempio. Vi era nella mia stessa mente un moto che si accordava a queste cose, e che era colpito dagli stretti limiti e dai ripidi fianchi di quella piattaforma dei [[Mountains|monti]]; poiché il senso della crisi non sta solo nell'intensità degli ideali, ma nelle condizioni stesse della realtà, la realtà con cui questo capitolo si è aperto. E il suo peso è il peso della Palestina; l'angustia dei confini e la stratificazione della roccia. Una voce, non della mia ragione ma piuttosto risonante pesantemente nel mio cuore, sembrava ripetere frasi simili a proverbi pessimistici. Non c'è posto per il Tempio di Salomone se non sulle rovine della Moschea di Omar. Non c'è posto per la nazione degli ebrei se non nel paese degli arabi. E questi sussurri mi giunsero dapprima non come conclusioni intellettuali sulle condizioni del caso, di cui avrei molto altro da dire e da [[Hope|sperare]]; ma piuttosto come accenni di qualcosa di immediato e minaccioso eppure misterioso. Sentii quasi un momentaneo impulso a fuggire dal luogo, come chi ha ricevuto un presagio. Poiché due voci si erano incontrate nelle mie orecchie; e nel medesimo stretto spazio e nella medesima buia ora, elettrica eppure eclissata di nubi, avevo udito l'[[Islam]] gridare dalla torretta e Israele lamentarsi al muro.
 
 = = = = = = = = = = = = = = = =

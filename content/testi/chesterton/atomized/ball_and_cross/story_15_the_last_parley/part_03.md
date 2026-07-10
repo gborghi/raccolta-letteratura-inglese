@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a> › <a href="/testi/chesterton/atomized/ball_and_cross/story_15_the_last_parley">Story 15 The Last Parley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_15_the_last_parley/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_16_dies_irae/part_01">part 01 ›</a></div>
@@ -75,3 +77,74 @@ the Master down, and then fell under the same almost fairy fatalism
 as his companion.  In some strange way it did seem that the more
 smoothly they yielded, the more swiftly would events sweep on
 to some great collision.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a> › <a href="/testi/chesterton/atomized/ball_and_cross/story_15_the_last_parley">Story 15 The Last Parley</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_15_the_last_parley/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_16_dies_irae/part_01">part 01 ›</a></div>
+</nav>
+
+"La sfera e...", ripeté.
+
+"Che cos'hai?" chiese MacIan.
+
+"Ho fatto [[A Dream|un sogno]]", disse Turnbull, con voce impastata e oscura, "in cui
+vedevo la [[Cross|croce]] piantata storta e la sfera al sicuro..."
+
+"Ho fatto [[A Dream|un sogno]]", disse MacIan, "in cui vedevo la [[Cross|croce]] eretta
+e la sfera invisibile.  Erano entrambi [[Dreams|sogni]] usciti dall'inferno.
+Ci vuole pure una terra rotonda su cui piantare la [[Cross|croce]].
+Ma qui sta la differenza tremenda: che il mondo rotondo non consente
+neppure a restare rotondo.  Gli astronomi ci ripetono sempre che
+ha forma d'arancia, o d'uovo, o di salsiccia tedesca.
+Sballottano il vecchio mondo come una vescica e lo pestano fino a
+mille forme informi.  Turnbull, non possiamo fidarci che la sfera
+sia sempre una sfera; non possiamo fidarci che la ragione sia ragionevole.
+Alla fine il gran globo terrestre pencolerà tutto da un lato,
+e solo la [[Cross|croce]] resterà diritta."
+
+Vi fu un lungo [[Silence|silenzio]], e poi Turnbull disse, esitante:
+"Ti è venuto in mente che dacché... dacché quei due [[Dreams|sogni]],
+o qualunque cosa fossero..."
+
+"[[Well|Ebbene]]?" mormorò MacIan.
+
+"Da allora", proseguì Turnbull, con la stessa voce bassa, "da allora
+non abbiamo mai neppure cercato le nostre spade."
+
+"Hai ragione", rispose Evan quasi impercettibilmente.  "Abbiamo trovato
+qualcosa che entrambi odiamo più di quanto ci siamo mai odiati a vicenda,
+e credo di sapere come si chiama."
+
+Turnbull parve aggrottarsi e trasalire per un istante.  "Non ha
+molta importanza come lo chiami", disse, "purché tu gli stia
+alla larga."
+
+I cespugli si ruppero e si spezzarono di scatto dietro di loro, e una figura altissima
+si stagliò su Turnbull con una curva arrogante e un mento sporgente,
+un mento la cui forma spiccava stranamente perfino nella sua [[Shadow|ombra]]
+sul sentiero.
+
+"Vedi che non è così facile", disse MacIan tra i denti.
+
+Alzarono lo sguardo negli occhi del Maestro, ma solo per un istante.
+Gli occhi erano colmi di un'ira gelata e glaciale, una specie di odio
+del tutto senza cuore.  La sua voce fu per la prima [[Time|volta]] priva d'ironia.
+Non c'era in essa più sarcasmo di quanto ve ne sia in una mazza di ferro.
+
+"Sarete dentro l'edificio entro tre minuti", disse,
+con precisione polverizzante, "oppure sarete presi di mira dall'artiglieria
+a tutte le finestre.  Si parla troppo in questo [[Garden|giardino]];
+intendiamo chiuderlo.  Sarete alloggiati all'interno."
+
+"Ah!" disse MacIan, con un lungo e soddisfatto sospiro, "allora avevo ragione."
+
+E volse le spalle e camminò docilmente verso l'edificio.
+Turnbull parve vagliare per qualche minuto l'idea di stendere
+il Maestro con un pugno, e poi cadde sotto il medesimo fatalismo quasi
+fatato del compagno.  In qualche modo strano pareva davvero che quanto più
+docilmente cedevano, tanto più rapidamente gli eventi si sarebbero precipitati
+verso qualche grande collisione.

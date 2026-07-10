@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-wise-men-(chesterton)">the wise men</a></div>
 </nav>
@@ -76,3 +78,75 @@ And the whole heaven shouts and shakes,
 For God Himself is born again,  
 And we are little children walking  
   Through the [[Snow|snow]] and rain.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-wise-men-(chesterton)">the wise men</a></div>
+</nav>
+
+# i re magi
+
+I RE MAGI  
+
+	      di G.K. Chesterton  
+
+Cammina lieve, sotto [[Snow|neve]] o pioggia,  
+  per trovare il luogo dove gli uomini possono pregare;  
+la via è tutta così semplice  
+  che potremmo smarrirla.  
+
+Oh, abbiam imparato a scrutare e chinarci  
+  su enigmi tormentati fin dalla giovinezza,  
+conosciamo tutto il labirintico sapere,  
+siamo i tre re magi d'un tempo,  
+  e sappiamo ogni cosa fuorché la [[Truth|Verità]].  
+
+Abbiamo girato e rigirato attorno al [[Hill|colle]]  
+  e perduto il bosco tra gli alberi,  
+e imparato lunghi nomi per ogni male,  
+e serviamo gli dèi fabbricati, chiamando ancora  
+  le furie le Eumenidi.  
+
+Gli dèi della violenza presero il velo  
+  della visione e della [[philosophy|filosofia]],  
+il Serpente che portò a tutti gli uomini sciagura  
+morde la propria maledetta coda,  
+  e si chiama [[Eternity|Eternità]].  
+
+Va' umilmente ... ha grandinato e nevicato...  
+  con voci basse e lanterne accese;  
+così semplice è la [[Road|Via]],  
+  che potremmo sviarci da essa.  
+
+Il mondo si fa terribile e bianco,  
+  e d'un bianco accecante l'alba che spunta;  
+camminiamo smarriti nella luce,  
+poiché qualcosa è troppo grande per lo sguardo,  
+  e qualcosa troppo semplice per dirsi.  
+
+Il [[Child|Bambino]] che era prima che i mondi iniziassero  
+  (... ci basta camminare un poco,  
+ci basta vedere un chiavistello aperto...)  
+il [[Child|Bambino]] che giocava con la [[Moon|luna]] e il sole  
+  sta giocando con un po' di fieno.  
+
+La [[house|casa]] da cui i cieli son nutriti,  
+  la vecchia strana [[house|casa]] che è la nostra,  
+dove giochi di parole non si dicono mai,  
+e la [[Mercy|Misericordia]] è semplice come il pane,  
+  e l'[[Honour|Onore]] è duro come la pietra.  
+
+Va' umilmente, umili sono i cieli,  
+  e bassa e grande e fiera la Stella;  
+così vicina giace la Mangiatoia  
+  che potremmo viaggiare lontano.  
+
+Ascolta! Una risata come un [[Lion|leone]] si desta  
+  per ruggire alla pianura che risuona.  
+E tutto il cielo grida e trema,  
+perché Dio stesso nasce di nuovo,  
+e noi siamo piccoli fanciulli che camminano  
+  attraverso la [[Snow|neve]] e la pioggia.

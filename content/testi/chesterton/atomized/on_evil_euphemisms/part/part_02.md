@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/on-evil-euphemisms-(chesterton)">on evil euphemisms</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/on_evil_euphemisms/part/part_01">‹ part 01</a><span></span></div>
@@ -61,3 +63,60 @@ and I for one prefer the coarse language of our fathers.
                       ------------------
 
 [Transcribed by Anthony Caetano]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/on-evil-euphemisms-(chesterton)">on evil euphemisms</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/on_evil_euphemisms/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Comunque sia, mi rifiuto rispettosamente di lasciarmi impressionare dalla pretesa di candore
+e di realismo avanzata proprio ora per uomini, donne e movimenti.
+Mi pare evidente che questa non sia davvero l'epoca dell'audacia
+ma soltanto della pubblicità; che si potrebbe piuttosto descrivere come la prudenza
+che fa un gran baccano. Gran parte dell'equivoco nasce dal [[Double|doppio]] senso
+della parola pubblicità. Poiché anche la pubblicità è un eufemismo affatto tipico,
+un termine elusivo. Pubblicità non significa svelare la vita
+pubblica nell'interesse dello spirito pubblico. Significa soltanto adulare
+imprese private nell'interesse di persone private. Significa
+fare complimenti in pubblico; ma non muovere critiche in pubblico.
+Resteremmo tutti assai sorpresi se, uscendo dalla porta di
+casa una mattina, vedessimo un cartellone su un lato della [[Road|strada]] che dice:
+`Usate il Latte di Miggle; È Tutta Panna', e un cartellone sull'altro lato
+della strada con su scritto: `Non Usate il Latte di Miggle; È Quasi Tutt'[[Water|Acqua]].'
+Il mondo moderno resterebbe assai turbato se mi si permettesse
+di erigere un'insegna luminosa fiammeggiante che proclami la mia precisa opinione
+sul Vino di Porto Coloniale lodato nell'insegna fiammeggiante di fronte.
+Tutta questa pubblicità potrà avere qualcosa a che fare con la [[Freedom|libertà]]
+di commercio; ma non ha nulla a che fare con la [[Freedom|libertà]] della [[Truth|verità]].
+La pubblicità dev'essere lode, e la lode dev'essere in qualche misura eufemismo.
+Deve porre la cosa in una forma più mite e più inoffensiva
+di quanto si potrebbe, per quanto quella mitezza possa
+sembrare gridare a megafoni o divampare in titoloni.
+E proprio come questa sorta di rumorosa evasione è impiegata a favore del cattivo
+vino e del cattivo latte, così è impiegata a favore della cattiva morale.
+Quando qualcuno vuol muovere una guerra sociale contro ciò che tutte le persone
+normali hanno considerato come una decenza sociale, la primissima cosa che fa
+è trovare qualche termine artificiale che suoni relativamente decente.
+Egli non ha del vero [[Courage|coraggio]] che opporrebbe il vizio alla
+virtù più di quanto l'inserzionista comune abbia il [[Courage|coraggio]] di reclamizzare
+la birra come arsenico. La sua intelligenza, tale quale è, è interamente
+un'intelligenza commerciale e in tal misura del tutto convenzionale.
+Egli è un bottegaio che allestisce la [[Window|vetrina]]; è di certo
+tutto il contrario di un [[Rebel|ribelle]] o di un rivoltoso che infrange la [[Window|vetrina]].
+Se non altro per questa ragione, resto freddo e rifiuto la debita riverenza
+al [[Marriage|Matrimonio]] di Prova e al libro che parla con tanta reverenza
+della Rivolta della Gioventù. Poiché questa sorta di rivolta mi colpisce come
+nient'altro che rivoltante; e di certo non particolarmente realistica.
+Con le passioni che sono naturali alla gioventù noi tutti simpatizziamo;
+col [[Pain|dolore]] che spesso nasce dalla lealtà e dal dovere simpatizziamo
+ancor di più; ma nessuno ha da simpatizzare con gli esperti di pubblicità
+che scelgono espressioni piacevoli per cose spiacevoli;
+e io, per parte mia, preferisco il linguaggio ruvido dei nostri padri.
+
+                      ------------------
+
+[Trascritto da Anthony Caetano]

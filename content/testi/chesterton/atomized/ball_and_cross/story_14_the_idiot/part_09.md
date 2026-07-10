@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a> › <a href="/testi/chesterton/atomized/ball_and_cross/story_14_the_idiot">Story 14 The Idiot</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_14_the_idiot/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_15_the_last_parley/part_01">part 01 ›</a></div>
@@ -69,3 +71,68 @@ until the [[Stars|stars]] fall."  Then he looked up suddenly, and said:
 
 "My name is [[Beatrice]] Drake," she replied with complete gravity.
 "You can see it on my certificate of lunacy."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a> › <a href="/testi/chesterton/atomized/ball_and_cross/story_14_the_idiot">Story 14 The Idiot</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_14_the_idiot/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_15_the_last_parley/part_01">part 01 ›</a></div>
+</nav>
+
+MacIan fissò lei, poi i propri stivali, poi il cielo e poi
+di nuovo lei.  Ormai era del tutto certo di non essere pazzo,
+e questo, anzi, non faceva che accrescere la sua perplessità.
+
+Poi le si avvicinò e disse con voce arida e terribile:
+"Oh, non abbassarti a fare la [[Fool|sciocca]] con uno [[Fool|sciocco]] come me.
+Sei davvero rinchiusa qui come paziente... perché ci hai aiutati
+a fuggire?"
+
+"Sì," disse lei, sempre sorridendo, ma la sua voce ferma aveva un tremito.
+
+Evan si gettò il grosso gomito sulla fronte e scoppiò in [[Tears|lacrime]].
+
+Il puro limone del cielo sbiadì in un bianco più puro mentre il grande
+tramonto crollava in silenzio.  Gli [[Birds|uccelli]] si posarono di nuovo sugli alberi;
+la [[Moon|luna]] cominciò a splendere di luce propria.  Il signor [[James Turnbull]] proseguiva
+le sue ricerche botaniche sulla struttura del rododendro.
+Ma la dama non si mosse di un pollice finché Evan non risollevò il volto;
+e quando lo fece, vide all'ultimo bagliore del sole che non era
+solo il suo volto a essere bagnato.
+
+Il signor [[James Turnbull]] aveva professato per tutta la vita un profondo interesse
+per la scienza fisica, e i fenomeni di un buon [[Garden|giardino]] erano davvero
+un piacere per lui; ma dopo tre quarti d'ora circa persino
+l'apostolo della scienza cominciò a trovare i rododendri una noia, e provò
+un certo sollievo quando uno sviluppo inatteso degli eventi lo costrinse
+a trasferire le sue ricerche all'argomento altrettanto interessante
+delle malvarose, che crescevano una cinquantina di piedi più avanti lungo il sentiero.
+La causa apparente del suo spostamento fu la ricomparsa inattesa dei suoi
+due altri conoscenti che camminavano e discorrevano faticosamente per la via,
+con la testa nera china vicino a quella bruna.  Persino le malvarose
+trattennero Turnbull solo per breve [[Time|tempo]].  Assorbiti rapidamente tutti
+i principi importanti che governano la crescita di quei vegetali,
+saltò un'aiuola e rientrò nell'edificio.
+Gli altri due risalivano lungo il lento corso del sentiero parlando
+e parlando.  Nessuno all'infuori di Dio sa cosa dissero (poiché di certo
+loro l'hanno dimenticato), e se pure lo ricordassi non lo ripeterei.
+Quando si separarono in cima al viale, lei tese di nuovo la mano
+nello stesso modo [[Well|beneducato]], sebbene tremasse; lui parve
+frenare un gesto mentre la lasciava ricadere.
+
+"Se dev'essere davvero sempre così," disse lui, con voce impastata, "non
+importerebbe restare qui per sempre."
+
+"Hai tentato di ucciderti quattro volte per me," disse lei,
+con voce incerta, "e io sono stata incatenata come una [[Madwoman|folle]] per te.
+Credo davvero che dopo questo..."
+
+"Sì, lo so," disse Evan a voce bassa, guardando in basso.
+"Dopo questo apparteniamo l'uno all'altra.  Siamo in qualche modo venduti l'uno all'altra...
+finché non cadranno le [[Stars|stelle]]."  Poi alzò gli occhi all'improvviso e disse:
+"A proposito, come ti chiami?"
+
+"Mi chiamo [[Beatrice]] Drake," rispose lei con perfetta gravità.
+"Puoi leggerlo sul mio certificato di follia."

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/smith-(chesterton)">smith</a></div>
 </nav>
@@ -72,3 +74,71 @@ Talk about the pews and steeples
    And the cash that goes therewith!  
 But the souls of Christian peoples...  
                       Chuck it, [[smith|Smith]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/smith-(chesterton)">smith</a></div>
+</nav>
+
+Anticristo, ovvero la Riunione della Cristianità: Un'Ode  
+=================================================   
+
+G K Chesterton  
+
+   "Un disegno di legge che ha turbato la [[Conscience|coscienza]] di ogni comunità cristiana  
+    d'Europa." -- Il Sig. F. E. [[smith|Smith]], sul disegno di legge per la Disistituzione della Chiesa Gallese.  
+
+Stringono forse le loro croci,  
+                      F. E. [[smith|Smith]],  
+là dove la flotta bretone dondola,  
+                      lo fanno, [[smith|Smith]]?  
+Digiuni, tremanti, sanguinanti,  
+   attendono le nuove da questa nostra [[City|città]]?  
+Gemendo "Ecco la Seconda Lettura!"  
+   Sibilando "C'è ancora la Commissione!"  
+Se la voce di Cecil vacilla,  
+   se l'argomento di McKenna ha vigore,  
+tremano forse per i loro altari?  
+                      Lo fanno, [[smith|Smith]]?  
+
+I contadini russi attorno al loro pope  
+                      accalcati, [[smith|Smith]],  
+ne sentono parlare, lo [[Hope|spero]],  
+                      non è vero, [[smith|Smith]]?  
+Nei villaggi montani che vestono  
+   le vette oltre i confini caucasici,  
+dove la Chiesa di Stato nulla significa  
+   e mai udirono parlare del Galles,  
+leggono tutto sull'Hansard --  
+   con un bignami per decifrarlo --  
+"Decime gallesi: il Dott. [[Clifford]] ha risposto."  
+                      Davvero, [[smith|Smith]]?  
+
+Nelle terre dove i cristiani furono,  
+                      F. E. [[smith|Smith]],  
+nelle piccole terre spogliate,  
+                      [[smith|Smith]], o [[smith|Smith]]!  
+Dove le bande turche s'affannano  
+   e il nome Tory è benedetto  
+da quando acclamarono la [[Cross|Croce]] di Dizzy  
+   sui vessilli venuti da Occidente!  
+Agli uomini par men grave se  
+   l'[[Islam]] arde i loro parenti e affini,  
+purché un curato viva a Cardiff  
+                      salvato da [[smith|Smith]].  
+
+Molto, devo ammetterlo,  
+                      mi placherebbe, [[smith|Smith]]!  
+se lasciassi questo tema [[Alone|in pace]],  
+                      Santo [[smith|Smith]]!  
+Per la tua causa legale o civile  
+   combatti [[Well|bene]] e incassi l'onorario;  
+per il tuo Dio o sogno o diavolo  
+   risponderai, non a me.  
+Parla pure di panche e campanili  
+   e del denaro che ne consegue!  
+Ma le anime dei popoli cristiani...  
+                      Piantala, [[smith|Smith]]!

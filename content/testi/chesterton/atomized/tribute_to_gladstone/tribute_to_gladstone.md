@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/tribute-to-gladstone-(chesterton)">Tribute To Gladstone</a></div>
 </nav>
@@ -50,3 +52,49 @@ Pass on: one agony long-drawn
 Was merrier than your mirth;  
 When hand in hand came [[Death|death]] and [[Dawn|dawn]]  
 And [[spring]] was on the earth.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/tribute-to-gladstone-(chesterton)">Tribute To Gladstone</a></div>
+</nav>
+
+# Omaggio a Gladstone
+
+Quanto segue fu stampato in una raccolta di omaggi a W E Gladstone  
+in seguito alla sua [[Death|morte]] nel maggio 1898. Fu curato da Samuel Jacob e  
+Chas F Forshaw e pubblicato da Elliot Stock, 62 Paternoster Row, [[London|Londra]].  
+
+L'omaggio di G. K. Chesterton fu stampato su The Speaker e recita così;  
+
+Levate il capo; in vita, in [[Death|morte]],  
+Dio sa che alta portava la fronte;  
+Lasciamo il fiato spezzato del codardo,  
+che vide un uomo forte spirare.  
+
+Se dovete dire "Non verrà più  
+il suo pari: la [[Flag|bandiera]] è ammainata,"  
+non gli state troppo accanto; ché non s'oda  
+quella calunnia sul mondo  
+
+La buona terra verde che amò e calcò  
+resta ancora, segnata da molte cicatrici,  
+iscritta nelle cronache di Dio  
+astro che porta un gigante.  
+
+Cadde: ma il vessillo di Britannia sventola  
+sopra la sua [[Crown|corona]] riversa;  
+la nera [[Death|Morte]] avrà la sua fatica di re  
+prima che la [[Cross|croce]] tramonti.  
+
+O giovani d'un giorno più cupo,  
+vestiti dei pallidi colori dell'Arte,  
+il cui stesso [[Love|amore]] e odio son grigi,  
+il cui stesso peccato è triste,  
+
+Andate oltre: un'agonia lungamente protratta  
+fu più lieta della vostra allegria;  
+quando mano nella mano vennero [[Death|morte]] e [[Dawn|alba]]  
+e la [[spring|primavera]] era sulla terra.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/intro-love-and-freindship-(chesterton)">intro-love-and-freindship</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/intro-love-and-freindship/part/part_02">‹ part 02</a><span></span></div>
@@ -62,3 +64,61 @@ spirit was other than contented with a narrow domestic routine,
 in which she wrote a story as domestic as a diary in the intervals
 of pies and puddings, without so much as looking out of the [[Window|window]]
 to notice the [[French Revolution]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/intro-love-and-freindship-(chesterton)">intro-love-and-freindship</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/intro-love-and-freindship/part/part_02">‹ part 02</a><span></span></div>
+</nav>
+
+Vi è dunque, anche nel considerare i suoi più rozzi esperimenti giovanili,
+l'interesse di guardare una mente e non uno [[Mirror|specchio]].
+Può darsi che non sia consapevole di essere se stessa; ma non è, come tanti
+imitatori più colti, consapevole di essere qualcun altro.
+La forza, al suo primo e più fioco apparire, viene da dentro e non soltanto
+da fuori.  Questo interesse, che le appartiene in quanto individuo
+dotato di un istinto superiore per l'intelligente critica della vita,
+è la prima delle ragioni che giustificano uno studio delle sue opere giovanili;
+è un interesse per la psicologia della vocazione artistica.
+Non dirò del temperamento artistico; perché nessuno ebbe mai meno
+di quella noiosa cosa comunemente così chiamata di quanto ne avesse Jane Austen.
+Ma se questo [[Alone|soltanto]] sarebbe una ragione per scoprire come cominciò il suo lavoro,
+diventa ancor più pertinente quando abbiamo scoperto come cominciò davvero.
+Questa è qualcosa di più della scoperta di un documento;
+è la scoperta di un'ispirazione.  E quell'ispirazione era
+l'ispirazione di Gargantua e di [[Pickwick]]; era la gigantesca
+ispirazione della risata.
+
+Se parve strano chiamarla elementare, potrà parere altrettanto
+strano chiamarla esuberante.  Queste pagine tradiscono il suo segreto;
+che è di essere stata per natura esuberante.  E la sua potenza venne,
+come viene ogni potenza, dal controllo e dall'indirizzo dell'esuberanza.
+Ma c'è la presenza e la pressione di quella vitalità dietro le sue
+mille frivolezze; avrebbe potuto essere stravagante, se avesse voluto.
+Era l'esatto contrario di una zitella inamidata o affamata;
+avrebbe potuto essere una buffona come la Comare di Bath, se avesse scelto.
+È questo che dà una forza infallibile alla sua ironia.
+È questo che dà un peso sbalorditivo alle sue litoti.
+Anche in fondo a questa [[Artist|artista]], reputata senza passioni,
+c'era passione; ma la sua passione originaria era una sorta di gioioso
+disprezzo e uno spirito combattivo contro tutto ciò che riteneva
+morboso e lasso e velenosamente sciocco.  Le armi che forgiò
+erano così finemente rifinite che forse non l'avremmo mai saputo,
+se non per questi scorci della rozza fornace da cui uscirono.
+Infine vi sono due fatti ulteriori coinvolti, che lascerò
+ai critici moderni e ai corrispondenti dei giornali da meditare
+e spiegare a loro comodo.  Uno è che questa realista, nel rimproverare
+i romantici, si preoccupa moltissimo di rimproverarli proprio per la cosa
+per cui il sentimento rivoluzionario tanto li ha ammirati;
+cioè per la loro glorificazione dell'ingratitudine verso i genitori e per la loro comoda
+presunzione che i vecchi abbiano sempre torto.  «No!» dice il nobile
+Giovane in «[[Love|Amore]] e Amicizia», «mai si dovrà dire che io
+abbia fatto un favore a mio padre!»  E l'altro è che non v'è [[Shadow|ombra]]
+d'indizio in alcun luogo che questo intelletto indipendente e spirito ridente
+fosse altro che appagato di una angusta routine domestica,
+in cui scriveva una storia domestica come un diario negli intervalli
+di torte e budini, senza nemmeno affacciarsi alla [[Window|finestra]]
+per notare la [[French Revolution|Rivoluzione francese]].

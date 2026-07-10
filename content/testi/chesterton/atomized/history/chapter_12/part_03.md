@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">A Short History of England</a> › <a href="/testi/chesterton/atomized/history/chapter_12">Chapter 12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_13/part_01">part 01 ›</a></div>
@@ -58,5 +60,65 @@ their almost savage hinds as soldiers on the Protestant side.
 They were [[Well|well]] paid for it by step after step of promotion; but at
 this [[Time|time]] their principality was only the old Mark of Brandenburg.
 Their own name was Hohenzollern.
+
+--/--
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">A Short History of England</a> › <a href="/testi/chesterton/atomized/history/chapter_12">Chapter 12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_12/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_13/part_01">part 01 ›</a></div>
+</nav>
+
+# [[history]] — Capitolo 12 (parte 3)
+
+Oltre le frontiere dell'Impero che ormai sbiadiva si stendeva quella
+terra esterna, sciolta e vagante come un mare, che era traboccata
+nelle guerre barbariche. Per la maggior parte non era formalmente
+cristiana, ma appena civilizzata; un vago timore reverenziale per la
+cultura del sud e dell'ovest posava sulle sue forze selvagge come una
+leggera [[Frost|brina]]. Questo mondo semicivilizzato aveva dormito a
+lungo; ma aveva cominciato a sognare. Nella generazione prima di
+Elisabetta un grand'uomo che, con tutta la sua violenza, era nel
+profondo un sognatore, Martin Lutero, aveva gridato nel [[Sleep|sonno]]
+con voce simile al tuono, in parte contro il posto delle cattive
+consuetudini, ma in larga parte anche contro il posto delle buone
+opere nel disegno cristiano. Nella generazione dopo Elisabetta il
+diffondersi delle nuove dottrine selvagge nelle antiche terre selvagge
+aveva risucchiato l'Europa centrale in una guerra ciclica di credi. In
+essa la [[house|casa]] che rappresentava la leggenda del Sacro Romano
+Impero, l'Austria, la socia germanica della Spagna, combatté per
+l'antica religione contro una lega di altri Germani che combattevano
+per la nuova. Le condizioni continentali erano invero complicate, e si
+facevano sempre più complicate a mano a mano che il sogno di
+ricostituire l'[[unity|unità]] religiosa si allontanava. Erano
+complicate dalla ferma determinazione della Francia di essere una
+nazione nel pieno senso moderno; di stare libera e ben salda da ogni
+combinazione; un proposito che la portò, mentre odiava i propri
+protestanti in [[Home|patria]], a dare sostegno diplomatico a molti
+protestanti all'estero, semplicemente perché ciò conservava l'equilibrio
+di potere contro la gigantesca confederazione di Spagnoli e Austriaci.
+È complicata dall'ascesa di una potenza calvinista e commerciale nei
+Paesi Bassi, logica, sfidante, che difendeva valorosamente la propria
+indipendenza contro la Spagna. Ma nel complesso saremo nel giusto se
+scorgiamo le prime doglie dei moderni problemi internazionali in ciò
+che si chiama la [[Thirty Years' War|Guerra dei Trent'anni]]; sia che
+la chiamiamo la rivolta dei semipagani contro il Sacro Romano Impero,
+sia che la chiamiamo il sopraggiungere di nuove scienze, nuove
+filosofie e nuove etiche dal nord. La Svezia prese parte alla lotta, e
+mandò un [[Hero|eroe]] militare in aiuto della più nuova
+[[Germany|Germania]]. Ma la sorta di [[Heroism|eroismo]] militare
+ovunque esibita offriva una strana combinazione di scienza strategica
+sempre più complessa con la più nuda e cannibalesca crudeltà. Altre
+forze oltre la Svezia trovarono una carriera nella carneficina. Lontano
+a nord-est, in una terra sterile di paludi, una piccola ambiziosa
+famiglia di prestatori di denaro divenuti signorotti, vigile, parsimoniosa,
+del tutto egoista, adottò piuttosto tiepidamente le teorie di Lutero, e
+cominciò a prestare i suoi contadini quasi selvaggi come soldati dalla
+parte protestante. Ne furono [[Well|ben]] ripagati, promozione dopo
+promozione; ma a quel [[Time|tempo]] il loro principato era soltanto la
+vecchia Marca di Brandeburgo. Il loro nome era Hohenzollern.
 
 --/--

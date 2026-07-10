@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/rotarians-(chesterton)">rotarians</a></div>
 </nav>
@@ -34,3 +36,33 @@ G.K.Chesterton
       Degenerate hucksters quote  
       Republicans have had by right  
       [[rotarians|Rotarians]] by rote.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/rotarians-(chesterton)">rotarians</a></div>
+</nav>
+
+[[rotarians|Rotariani]] - (1927)  
+
+G.K.Chesterton  
+
+ Il Simbolo  
+      Il parlare al Rotary è Lode priva di Prova  
+      Il discorrere al Rotary verte per lo più sul grano  
+      Ma entrambi esigono un Emblema; e una [[Wheel|Ruota]] è proprio ciò che serve  
+      quando ragioni in circolo e fai affari in combriccola.  
+
+ A un pranzo rotariano  
+      Spezzata su una [[Wheel|ruota]] diversa dal Rotary  
+      il [[Body|corpo]] di Santa Caterina liberò il suo spirito  
+      Qui giace il [[Body|corpo]] perché l'[[Soul|anima]] si contorca  
+      spezzata in ogni giuntura fino a un verme senza giunture.  
+
+ Una Dichiarazione di Dipendenza  
+      La giustizia jeffersoniana che  
+      i mercanti degeneri citano,  
+      i Repubblicani l'hanno avuta di diritto,  
+      i [[rotarians|Rotariani]] a memoria.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a> › <a href="/testi/chesterton/atomized/queertrades/story_01_chapter_1">Story 01 Chapter 1</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_01_chapter_1/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_02_chapter_2/part_01">part 01 ›</a></div>
@@ -102,3 +104,102 @@ the title-deeds, and why he was not allowed to mention jackals.
 But, like so many old soldiers, Brown is religious, and believes
 that he will realize the rest of those purple adventures in
 a better world.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">The Club of Queer Trades</a> › <a href="/testi/chesterton/atomized/queertrades/story_01_chapter_1">Story 01 Chapter 1</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_01_chapter_1/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_02_chapter_2/part_01">part 01 ›</a></div>
+</nav>
+
+# [[queertrades]] — Capitolo 1 (parte 8)
+
+Northover s'inchinò. Poi, dopo una pausa, disse:
+
+«Signori, posso offrirvi il mio biglietto da visita. Se qualcuno di voi desiderasse,
+in qualunque momento, mettersi in comunicazione con me, malgrado l'opinione
+del maggiore Brown in proposito...»
+
+«Vi sarei grato per il vostro biglietto, signore,» disse il maggiore, con la sua
+voce brusca ma cortese. «Pago la sedia.»
+
+L'agente del Romanzesco e dell'Avventura porse il suo biglietto, ridendo.
+
+Diceva: «P. G. Northover, B.A., C.Q.T., Agenzia Avventura e Romanzo,
+14 Tanner's Court, Fleet Street.»
+
+«Che diamine è "C.QT."?» chiese Rupert Grant, sbirciando
+oltre la spalla del maggiore.
+
+«Non lo sapete?» ribatté Northover. «Non avete mai sentito
+parlare del Club dei Mestieri Bizzarri?»
+
+«Pare che ci sia una maledetta quantità di cose buffe di cui non abbiamo mai sentito parlare,»
+disse il piccolo maggiore, riflessivo. «E questo cos'è?»
+
+«Il Club dei Mestieri Bizzarri è una società composta esclusivamente di
+persone che hanno inventato qualche modo nuovo e curioso di far denaro.
+Fui uno dei primissimi membri.»
+
+«Ve lo meritate,» disse Basil, prendendo il suo grande cappello bianco,
+con un sorriso, e parlando per l'ultima volta quella sera.
+
+Quando furono usciti, l'agente dell'Avventura e del Romanzo aveva
+uno strano sorriso, mentre calpestava il fuoco e chiudeva a chiave la scrivania.
+«Un bel tipo, quel maggiore; quando non si ha un briciolo del poeta si ha
+qualche probabilità di essere una poesia. Ma pensare che una così meccanica creaturina
+di corda, proprio lui, finisca nelle reti di uno dei racconti di Grigsby,»
+e scoppiò a ridere forte nel silenzio.
+
+Proprio mentre la risata si spegneva in un'eco, giunse un colpo secco alla porta.
+Una testa da gufo, con baffi scuri, fu spinta dentro, con un'aria di scusa
+e alquanto assurda interrogazione.
+
+«Come! Di nuovo qui, maggiore?» gridò Northover sorpreso.
+«Cosa posso fare per voi?»
+
+Il maggiore si trascinò febbrilmente nella stanza.
+
+«È orribilmente assurdo,» disse. «Dev'essersi risvegliato qualcosa
+in me che non conoscevo prima. Ma, sull'anima mia, sento il più
+disperato desiderio di sapere come va a finire tutto quanto.»
+
+«Come va a finire tutto quanto?»
+
+«Sì,» disse il maggiore. «"Sciacalli", e gli atti di proprietà, e "Morte
+al maggiore Brown".»
+
+Il volto dell'agente si fece grave, ma i suoi occhi erano divertiti.
+
+«Mi dispiace terribilmente, maggiore,» disse, «ma ciò che chiedete è impossibile.
+Non conosco nessuno a cui accondiscenderei più volentieri; ma le regole dell'agenzia
+sono severe. Le Avventure sono riservate; voi siete un estraneo;
+non mi è permesso lasciarvi sapere un dito più del necessario.
+Spero proprio che comprendiate...»
+
+«Non c'è nessuno,» disse Brown, «che comprenda la disciplina meglio
+di me. Vi ringrazio molto. Buonanotte.»
+
+E il piccolo uomo si ritirò per l'ultima volta.
+
+Sposò la signorina Jameson, la dama dai capelli rossi e dalle
+vesti verdi. Era un'attrice, impiegata (con molte altre)
+dall'Agenzia del Romanzesco; e il suo matrimonio col compassato vecchio veterano
+suscitò un certo scalpore nel suo ambiente languido e intellettualizzato.
+Ella rispondeva sempre, con molta calma, di aver incontrato decine d'uomini
+che recitavano splendidamente nelle sciarade allestite per loro da Northover,
+ma di aver incontrato un solo uomo che fosse sceso in una carbonaia
+quando credeva davvero che vi si nascondesse un assassino.
+
+Il maggiore e lei vivono felici come uccellini, in un'assurda villetta,
+e lui si è dato al fumo. Per il resto è immutato...
+tranne, forse, che vi sono momenti in cui, sveglio e colmo di femminile
+altruismo qual è per natura il maggiore, cade in una trance
+di astrazione. Allora la moglie riconosce, con un sorriso nascosto,
+dallo sguardo cieco dei suoi occhi azzurri, che egli si domanda quali fossero
+gli atti di proprietà, e perché non gli fosse concesso di menzionare gli sciacalli.
+Ma, come tanti vecchi soldati, Brown è religioso, e crede
+che realizzerà il resto di quelle purpuree avventure in
+un mondo migliore.

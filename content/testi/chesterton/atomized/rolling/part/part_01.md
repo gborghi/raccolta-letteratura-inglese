@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/rolling-(chesterton)">rolling</a></div>
 </nav>
@@ -42,3 +44,41 @@ But walk with clearer eyes and ears this path that wandereth,
 And see undrugged in evening light the decent inn of [[Death|death]];  
 For there is good news yet to hear and fine things to be seen,  
 Before we go to Paradise by way of Kensal Green.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/rolling-(chesterton)">rolling</a></div>
+</nav>
+
+La [[rolling|Tortuosa]] [[Road|Strada]] Inglese  
+
+Prima che il Romano giungesse a Rye o s'inoltrasse fino al Severn,  
+l'ubriacone inglese [[rolling|barcollante]] fece la [[rolling|tortuosa]] [[Road|strada]] inglese.  
+Una [[Road|strada]] sbandante, una [[rolling|tortuosa]] [[Road|strada]], che vaga per la contea,  
+e dietro a lui corsero il parroco, il sagrestano e il signorotto;  
+una [[Road|strada]] allegra, una [[Road|strada]] intricata, e tale quale calcammo  
+la [[Night|notte]] che andammo a Birmingham passando per Beachy Head.  
+
+Non sapevo alcun male di Bonaparte e molto del Signorotto,  
+e a combattere il Francese non molto [[Desire|desideravo]];  
+ma sfondai le loro baionette perché venivano schierati  
+a raddrizzare la storta [[Road|strada]] che un ubriacone inglese fece,  
+dove tu ed io scendemmo il vicolo con boccali di birra in mano,  
+la [[Night|notte]] che andammo a Glastonbury passando per Goodwin Sands.  
+
+I suoi peccati gli furono perdonati; o perché i [[Flowers|fiori]] corrono  
+dietro a lui, e le siepi tutte si rinvigoriscono al sole?  
+La cosa selvaggia andava da sinistra a destra e non sapeva quale fosse quale,  
+ma la [[Rose|rosa]] selvatica gli stava sopra quando lo trovarono nel fosso.  
+Dio ci perdoni, e non c'indurisca; non vedemmo così chiaro  
+la [[Night|notte]] che andammo a Bannockburn passando per Brighton Pier.  
+
+Amici miei, non torneremo a scimmiottare un'antica ira,  
+né a protrarre la follia della gioventù fino a farne la vergogna dell'età,  
+ma percorreremo con occhi e orecchi più limpidi questo sentiero che vagabonda,  
+e vedremo, non drogati, nella luce della sera, la decorosa locanda della [[Death|morte]];  
+perché c'è ancora buona novella da udire e belle cose da vedere,  
+prima d'andare in Paradiso passando per Kensal Green.

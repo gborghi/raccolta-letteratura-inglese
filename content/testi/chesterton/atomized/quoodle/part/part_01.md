@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/quoodle-(chesterton)">quoodle</a></div>
 </nav>
@@ -53,3 +55,52 @@ They haven't got no noses,
 They haven't got no noses,  
 And goodness only knowses  
 The Noselessness of Man.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/quoodle-(chesterton)">quoodle</a></div>
+</nav>
+
+IL [[Song|CANTO]] DI [[quoodle|QUOODLE]]  
+
+G.K.Chesterton  
+
+Non hanno naso alcuno,  
+i figli caduti d'Eva;  
+persino il profumo di rose  
+non è ciò che suppongono;  
+ma più di quanto la mente riveli  
+e più di quanto l'uomo creda.  
+
+Non hanno naso alcuno,  
+non sanno neppure dire  
+quando porta e buio serrano  
+il parco che un Giudeo racchiude,  
+dove persino la legge di Mosè  
+ti lascia rubare un odore.  
+
+Il brillante odore dell'[[Water|acqua]],  
+il valoroso odore d'una pietra,  
+l'odore di rugiada e tuono,  
+le vecchie ossa sepolte sotto,  
+son cose in cui inciampano  
+ed errano, se lasciati [[Alone|soli]].  
+
+Il [[Wind|vento]] dai boschi d'[[Winter|inverno]],  
+il profumo di [[Flowers|fiori]] senza profumo,  
+il respiro dell'ornamento delle spose,  
+l'odore di trappola e monito,  
+l'odore del mattino di [[Sunday|domenica]],  
+Dio ce li donò per nostri  
+
+   *    *    *    *    *
+
+E qui [[quoodle|Quoodle]] rivela  
+tutte le cose che [[quoodle|Quoodle]] può,  
+non hanno naso alcuno,  
+non hanno naso alcuno,  
+e lo sa solo il buon Dio  
+la Senzanasità dell'Uomo.

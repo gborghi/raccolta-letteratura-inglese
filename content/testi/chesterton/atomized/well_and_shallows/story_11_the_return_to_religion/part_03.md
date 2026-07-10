@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a> › <a href="/testi/chesterton/atomized/well_and_shallows/story_11_the_return_to_religion">Story 11 The Return To Religion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_11_the_return_to_religion/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_12_the_reaction_of_the_intellectuals/part_01">part 01 ›</a></div>
@@ -65,5 +67,68 @@ a benighted and bestial life, unconscious of its own cause and of its
 own consequences.  But Man has taken to himself again his own weapons;
 will and worship and reason and the vision of the plan in things;
 and we are once more in the morning of the world.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a> › <a href="/testi/chesterton/atomized/well_and_shallows/story_11_the_return_to_religion">Story 11 The Return To Religion</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_11_the_return_to_religion/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_12_the_reaction_of_the_intellectuals/part_01">part 01 ›</a></div>
+</nav>
+
+Perché la replica, non solo della religione ma della ragione e della radicata
+[[Sanity|sanità]] del genere umano, è abbastanza ovvia. "Se la pensi così,
+allora di certo non fonderai famiglie; né fonderai alcunché d'altro.
+Non costruirai case; non stringerai società;
+non farai in alcun modo gli affari del mondo.
+Non pianterai mai un albero, per timore di desiderare, la settimana dopo, d'averlo
+piantato altrove; non metterai mai una patata in pentola
+a lessare o a stufare, perché sarà troppo tardi per tirarla fuori;
+tutto il tuo umore è colpito e crivellato di viltà e sterilità;
+il tuo modo di affrontare qualsiasi problema è cercare scuse per non
+affrontarlo affatto. [[Well|Benissimo]]; e sia così; il Signore sia con te.
+Potrai essere rispettato per la tua sincerità; potrai essere compatito
+per la tua sensibilità; potrai conservare qualcuna di quelle
+qualità correttive che rendono utile, all'occasione, essere scettici.
+Ma se sei troppo scettico per fare queste cose, devi
+farti da parte davanti a chi le sa fare; devi consegnare
+il mondo a coloro che credono che il mondo sia governabile;
+a coloro che credono che gli uomini possano costruire case, stringere società,
+fissare appuntamenti, fare promesse -- e mantenerle. E se è
+necessario, per mantenere una promessa o lessare una patata o comportarsi
+da essere umano, credere in Dio che fa l'Uomo, in Dio fatto
+Uomo, o in Dio fatto Uomo che viene sulle nuvole nella gloria --
+[[Well|ebbene]], allora devi almeno dare una possibilità a questi creduli
+fanatici che sanno credere l'uno e sanno fare l'altro."
+È questo che intendo per [[Survival|Sopravvivenza]] spirituale del Più Adatto.
+È per questo che la vecchia frase, che è probabilmente un errore nella
+[[history|storia]] naturale, è una [[Truth|verità]] nella [[Supernatural|soprannaturale]] [[history|storia]]. La cosa organica
+chiamata religione ha di fatto gli organi che afferrano la vita.
+Può nutrirsi là dove lo scrupoloso dubbioso non trova cibo; può
+riprodursi là dove lo scettico solitario si vanta di essere sterile.
+Sarà pure accettare un miracolo credere nel libero arbitrio; ma è
+accettare la [[Madness|follia]], presto o tardi, non crederci.
+Sarà pure un folle rischio fare un voto; ma è una quieta, strisciante e
+inevitabile rovina rifiutarsi di farne uno. Sarà pure incredibile
+che un credo solo sia la [[Truth|verità]] e gli altri siano relativamente falsi;
+ma non è solo incredibile, bensì anche intollerabile, che non vi
+sia alcuna [[Truth|verità]] né dentro né fuori dei credi, e che tutti siano ugualmente falsi.
+Perché nessuno potrà mai raddrizzare alcunché, se tutti hanno ugualmente torto.
+L'intenso interesse del momento è che l'Uomo di Scienza,
+l'[[Hero|eroe]] del mondo moderno e l'ultimo dei grandi servitori
+dell'umanità, ha d'un tratto e drammaticamente rifiutato d'avere ancora
+a che fare con questa tetra faccenda del rosicchiare negazioni,
+del cieco grattare e raschiar via le fondamenta stesse
+del dominio dell'uomo. Perché l'opera dello scettico nell'ultimo
+centinaio d'anni è stata davvero molto simile alla sterile furia di qualche
+primordiale [[Monster|mostro]]; senz'occhi, senza mente, meramente distruttivo e divorante;
+un verme gigantesco che consuma un mondo che nemmeno riusciva a vedere;
+una vita ottenebrata e bestiale, inconsapevole della propria causa e delle proprie
+conseguenze. Ma l'Uomo ha ripreso a sé le proprie armi;
+la volontà e l'adorazione e la ragione e la visione del disegno nelle cose;
+e siamo ancora una volta nel mattino del mondo.
 
 -/-

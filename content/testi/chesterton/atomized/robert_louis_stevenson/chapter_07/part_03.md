@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a> › <a href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_07">Chapter 07</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_08/part_01">part 01 ›</a></div>
@@ -71,5 +73,74 @@ The very movement of the sentence is the movement of a man going
 somewhere and generally fighting something; and that is where optimism
 and pessimism are alike opposed to that ultimate or potential peace,
 which the violent take by [[Storm|storm]].
+
+* * * *
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a> › <a href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_07">Chapter 07</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_07/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_08/part_01">part 01 ›</a></div>
+</nav>
+
+Vi sono naturalmente molti altri segni vividi dello stile di Stevenson,
+oltre a questo particolare elemento della frase scelta e appuntita,
+o piuttosto specialmente la combinazione di frasi scelte e appuntite.
+Potrei ricavare assai più di quanto abbia ricavato da qualcosa nelle sue
+frasi dal passo rapido, specie nella narrazione, che corrisponde
+alla sua [[philosophy|filosofia]] dell'atteggiamento militante e delle virtù attive.
+Quella parola angoloso, che sono stato costretto a usare troppo spesso,
+appartiene all'acutezza dei suoi gesti verbali tanto quanto
+alle sciabole e alle mannaie dei suoi pirati di cartapesta.
+Quelle prime figure teatrali, tratte dallo [[Sketch|schizziario]] di Skelt, erano tutte
+per loro [[Nature|natura]] come istantanee di persone in rapido movimento.
+Jack Tre-Dita non avrebbe potuto restare in eterno col randello
+o la sciabola roteata attorno al capo, né [[Robin Hood]] con la freccia
+tesa fino all'orecchio; e le descrizioni dei personaggi di Stevenson
+sono di rado statiche, bensì descrizioni dinamiche; e trattano piuttosto
+di come un uomo fece o disse qualcosa che di com'egli era fatto.
+Lo stile scozzese acuto e scaltro di Ephraim Mackellar
+o di David Balfour sembra, per il suo stesso suono, esattamente adatto a
+descrivere un uomo che schiocca le dita o batte col bastone.
+Senza dubbio un [[artist|artista]] così accurato come Stevenson variava lo stile per adattarlo
+al soggetto e a chi parla; non dovremmo cercare queste asciutte
+o brusche brevità nelle deliberazioni da dilettante di Loudon Dodd;
+ma conosco pochissime opere dello scrittore in cui non vi siano,
+al momento culminante, frasi corte e taglienti come il coltello che il Capitano Wicks
+si conficcò nella propria mano.  Qualcosa si sarebbe dovuto dire anche,
+naturalmente, dei passi in cui Stevenson suona deliberatamente
+un diverso strumento musicale; come quando si esercitò sui
+Flauti di Pan in rispettosa [[Imitation|imitazione]] di Meredith su un flautino da un soldo.
+Qualcosa si sarebbe dovuto dire dello stile delle sue [[Poems|poesie]]; che sono
+forse più riuscite nella loro fraseologia che nella loro poesia.
+Ma anche queste pullulano di queste frasi separate, tese e incisive;
+la descrizione dei rami intrecciati come spade incrociate in battaglia;
+degli uomini che reggono i cieli cadenti come cariatidi dalla fronte serena;
+le rumorose scale dell'[[Honour|onore]] e i lucenti occhi del pericolo.
+Ma ho già spiegato che non professo alcun rigore scientifico
+riguardo a questi problemi d'esecuzione; e posso soltanto parlare dello stile
+di Stevenson per come esso tocca in particolare il mio gusto e la mia fantasia.
+E la cosa che più mi colpisce è ancora questo senso di qualcuno
+trafitto da un fioretto in un bottone preciso; di una sorta di scrupolosità
+che ha ancora qualcosa dello spirito combattivo, che mira a un bersaglio
+e coglie il segno, e non è certo un mero, ozioso trastullarsi con
+le parole per amore della loro eleganza esteriore o della loro intrinseca melodia.
+Come parte della presente critica, una simile affermazione è soltanto un altro
+modo di dire, con la vecchia frase, che lo stile è l'uomo;
+e che l'uomo era certamente un uomo e non soltanto un uomo di lettere.
+Trovo ovunque, persino nella sua semplice dizione e sintassi,
+quel tema che è l'intera [[philosophy|filosofia]] delle fiabe, degli antichi
+romanzi cavallereschi e persino dell'assurdo libretto del piccolo teatro—
+la concezione che l'uomo è nato con [[Hope|speranza]] e [[Courage|coraggio]] sì,
+ma nato fuori da ciò che era destinato a raggiungere; che vi è
+una [[Quest|cerca]], una prova, un giudizio di Dio o un pellegrinaggio di scoperta;
+ovvero, in altre parole, che qualunque altra cosa l'uomo sia, egli non è
+sufficiente a sé stesso, né attraverso la pace né attraverso la [[Despair|disperazione]].
+Il movimento stesso della frase è il movimento di un uomo che va
+in qualche luogo e generalmente combatte qualcosa; ed è lì che l'ottimismo
+e il pessimismo sono ugualmente opposti a quella pace ultima o potenziale,
+che i violenti prendono d'[[Storm|assalto]].
 
 * * * *

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">What's Wrong with the World</a> › <a href="/testi/chesterton/atomized/whats_wrong/chapter_07">Chapter 07</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whats_wrong/chapter_07/part_12">‹ part 12</a><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_08/part_01">part 01 ›</a></div>
@@ -61,5 +63,64 @@ to me about the poor chain-makers on Cradley Heath.  I know
 all about them and what they are doing.  They are engaged in a
 very wide-spread and flourishing industry of the present age.
 They are making [[Chains|chains]].
+
+* * *
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">What's Wrong with the World</a> › <a href="/testi/chesterton/atomized/whats_wrong/chapter_07">Chapter 07</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whats_wrong/chapter_07/part_12">‹ part 12</a><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_08/part_01">part 01 ›</a></div>
+</nav>
+
+Il Femminista (che significa, credo, chi ha in antipatia i principali
+caratteri femminili) ha ascoltato il mio sciolto monologo,
+scoppiando in ogni [[Time|momento]] d'un represso grido di protesta.
+A questo punto proromperà e dirà: "Ma che dobbiamo fare?
+C'è il commercio moderno e i suoi impiegati; c'è la famiglia moderna
+con le sue figlie nubili; ovunque si esige lo specialismo;
+la parsimonia e la coscienziosità femminile sono richieste e fornite.
+Che importa se in astratto preferiremmo
+l'antica donna umana e domestica; potremmo preferire il [[Garden|Giardino]]
+dell'Eden. Ma poiché le donne hanno mestieri devono avere sindacati.
+Poiché le donne lavorano nelle fabbriche, devono votare sulle leggi di fabbrica. Se
+sono nubili devono essere in commercio; se sono in commercio
+devono essere in politica. Ci vogliono regole nuove per un mondo nuovo,
+anche se non è migliore". Dissi una volta a un Femminista:
+"La questione non è se le donne siano abbastanza buone per il voto:
+è se il voto sia abbastanza buono per le donne". Egli non rispose che:
+"Ah, andate a dirlo alle fabbricatrici di catene di Cradley Heath".
+
+Ora questo è l'atteggiamento che io attacco. È l'immane eresia del
+Precedente. È l'idea che, perché ci siamo cacciati in un pasticcio, dobbiamo
+farci più impasticciati per adattarci; che, perché abbiamo preso una svolta sbagliata
+tempo [[Time|fa]], dobbiamo andare avanti e non indietro; che, perché
+abbiamo perso la strada, dobbiamo perdere anche la mappa; e perché abbiamo
+mancato il nostro ideale, dobbiamo dimenticarlo. "Vi sono numerose eccellenti
+persone che non trovano il voto poco femminile; e vi possono essere entusiasti
+della nostra bella industria moderna che non trovano le fabbriche
+poco femminili". Ma se queste cose sono poco femminili non è una risposta
+dire che si incastrano l'una nell'altra. Non mi accontento
+dell'affermazione che mia figlia debba avere poteri poco femminili perché ha
+torti poco femminili. La fuliggine industriale e l'inchiostro da stampa politico sono due
+neri che non fanno un bianco. La maggior parte dei Femministi
+converrebbe probabilmente con me che la femminilità è sotto una vergognosa tirannia
+nelle botteghe e negli opifici. Ma io voglio distruggere la tirannia. Essi vogliono
+distruggere la femminilità. È questa l'unica differenza.
+
+Se potremo recuperare la limpida visione della donna come una torre
+dalle molte finestre, l'eterno femminino immoto da cui i suoi figli,
+gli specialisti, muovono; se potremo preservare la tradizione
+d'una cosa centrale che è ancor più umana della [[Democracy|democrazia]]
+e ancor più pratica della politica; se, in una parola,
+sia possibile ristabilire la famiglia, affrancata dallo sporco
+cinismo e dalla crudeltà dell'epoca commerciale, lo discuterò
+nell'ultima sezione di questo libro. Ma nel frattempo non parlatemi
+delle povere fabbricatrici di catene di Cradley Heath. So
+tutto di loro e di ciò che fanno. Sono impegnate in una
+industria assai diffusa e fiorente dell'età presente.
+Fabbricano [[Chains|catene]].
 
 * * *

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/oldsong-(chesterton)">oldsong</a></div>
 </nav>
@@ -73,3 +75,72 @@ For [[London]] Bridge is broken down, broken down, broken down;
 Blow the horn of Huntington from Scotland to the sea --  
 ...Only flash of thunder-light, a flying dream of thunder-light,  
 Had shown under the shattered sky a people that were free.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/oldsong-(chesterton)">oldsong</a></div>
+</nav>
+
+La Vecchia [[Song|Canzone]]  
+
+Un cielo livido su [[London|Londra]]  
+E come i corsieri di ferro che s'impennano  
+Un urto di motori si arrestò  
+E io seppi che la fine era vicina:  
+E qualcosa disse che lontano, oltre i colli e lontano  
+Veniva un tuono strisciante e la fine di tutte le cose quaggiù.  
+Poiché il Ponte di [[London|Londra]] è crollato, crollato, crollato,  
+Come lo scavo apre la luce del giorno sulle vie sommerse d'un tempo,  
+Il [[Lightning|Fulmine]] guardò la città di [[London|Londra]], il ponte crollato della città di [[London|Londra]].  
+La fine di una [[Road|strada]] spezzata dove gli uomini non andranno più.  
+
+Vidi i re della città di [[London|Londra]],  
+I re che comprano e vendono,  
+Che la eressero con pani da un soldo  
+E con menzogne da un soldo [[Well|pure]]:  
+
+E dove le vie erano lastricate d'oro la carta avvizzita  
+    splendeva come oro,  
+La luce bruciante delle promesse che lastricano le vie dell'inferno.  
+Poiché i pani da un soldo si dissolveranno, si dissolveranno, si dissolveranno,  
+Beffando gli uomini che mercanteggiarono il grano che non coltivarono;  
+Con volti affamati alla porta, centomila alla porta,  
+Un lampo di tuono su [[London|Londra]] e lo scoprirsi del nemico.  
+
+Udii i cento fabbricanti di spilli  
+Rallentare il loro fragore straziante,  
+Finché nel silenzio si poté udire  
+Il cadere dello spillo:  
+E in qualche luogo uomini fuori le mura, sotto il bosco, fuori  
+    le mura,  
+Avevano trovato il luogo dove [[London|Londra]] finisce e l'Inghilterra può cominciare.  
+Poiché spilli e aghi si piegano e si spezzano, si piegano e si spezzano, si piegano e si spezzano,  
+Più in fretta delle lance che si spezzano o dell'arco che si tende,  
+Di cortei pallidi nella luce del tuono, tra il carico del tuono e la luce del tuono,  
+Le Centene in marcia sui colli nelle guerre di tanto tempo fa.  
+
+Vidi il grande Cobbett cavalcare,  
+Il cavaliere delle contee;  
+E il suo volto era rosso di giudizio  
+E d'una luce di fuochi luddisti:  
+E a sud verso il Sussex e il mare i fuochi balzarono per la libertà,  
+La tromba della piccola gente d'arme, il martello degli squire;  
+Poiché le sbarre di ferro s'arrugginiscono, s'arrugginiscono, s'arrugginiscono,  
+Si spezzano davanti al martello e al cavaliere che irrompe,  
+Gridando che tutti gli uomini all'ultimo, e al peggio e all'ultimo,  
+Hanno trovato il luogo dove l'Inghilterra finisce e l'Inghilterra può cominciare.  
+
+I suoi zoccoli di [[Horse|cavallo]] ti precedono  
+Ben oltre i tuoi pneumatici che scoppiano;  
+E il [[Time|Tempo]] è ricongiunto dietro di lui  
+E i nostri figli sono coi nostri padri.  
+
+Meteora strisciante sulle Downs egli cavalca sopra le città marcescenti,  
+Il Cavaliere dell'[[Apocalypse|Apocalisse]], il Cavalcatore delle Contee.  
+Poiché il Ponte di [[London|Londra]] è crollato, crollato, crollato;  
+Suonate il corno di Huntington dalla Scozia al mare --  
+...Solo un lampo di luce di tuono, un sogno volante di luce di tuono,  
+Aveva mostrato sotto il cielo in frantumi un popolo che era libero.

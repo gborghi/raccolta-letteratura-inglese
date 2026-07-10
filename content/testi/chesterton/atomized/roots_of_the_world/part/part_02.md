@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/roots-of-the-world-(chesterton)">Roots of the World</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/roots_of_the_world/part/part_01">‹ part 01</a><span></span></div>
@@ -53,3 +55,52 @@ to deny the existence of a personal Mr. [[Jones]], because he is
 within the scope of evolution and his edges are rubbed away.
 The evolutionists uproot the world, but not the [[Flowers|flowers]].
 The Titans never scaled heaven, but they laid waste the earth.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/roots-of-the-world-(chesterton)">Roots of the World</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/roots_of_the_world/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Tutti coloro che hanno cercato, in nome della scienza, di sradicare
+la religione mi paiono molto simili al fanciullo nel [[Garden|giardino]].
+Gli scettici non riescono a strappare le radici del [[Christianity|Cristianesimo]];
+ma riescono a strappare le radici della comune vite e del fico d'ogni uomo,
+del [[Garden|giardino]] d'ogni uomo e dell'orto d'ogni [[Garden|uomo]].
+I secolaristi non sono riusciti a demolire le cose divine;
+ma i secolaristi sono riusciti a demolire le cose secolari.
+Una religione non può essere dimostrata mostruosa alla fine; una religione è
+mostruosa fin dall'inizio. Si annuncia come straordinaria.
+Si offre come stravagante. Gli scettici, al più, non possono che
+chiederci di rigettare il nostro credo come qualcosa di folle. E noi l'abbiamo accettato
+come qualcosa di folle. Fin qui si penserebbe che ci sarebbe un
+mero vicolo cieco, un blocco tra noi e coloro che non sanno sentire come noi.
+Ma poi segue la curiosa esperienza pratica che ha ratificato
+la religione nella nostra ragione per sempre. Perché i nemici della religione non
+possono lasciarla in [[Alone|pace]]. Si affannano a fracassare la religione.
+Non possono fracassare la religione; ma fracassano tutto il resto.
+Con i vostri quesiti e dilemmi non avete fatto scempio nella [[Faith|Fede]],:
+essa fu, fin dal principio, una convinzione trascendentale; non può
+essere resa più trascendentale di quanto già fosse. Ma avete
+(se questo può esservi di conforto) fatto un certo scempio nella comune
+morale e nel comune buon senso.
+
+Gli avversari della nostra religione non ci obbligano ad accettare i loro assiomi;
+i nostri assiomi restano quel che erano prima; ma essi obbligano se stessi
+a ogni dottrina di follia e di [[Despair|disperazione]]. Non colpiscono noi,
+ma precipitano oltre noi nella palude e nell'abisso.
+Il signor Blatchford non può obbligarci al commento che l'uomo non è l'immagine
+del suo creatore, poiché tale affermazione è tanto dogmatica quanto la sua negazione.
+Ma può, e si obbliga, all'affermazione, umanamente ridicola
+e intollerabile, che io non debba biasimare un prepotente né lodare l'uomo
+che lo atterra. Gli evoluzionisti non possono spingerci, per via
+dell'innominata gradazione nella [[Nature|Natura]], a negare la personalità di Dio,
+poiché un Dio personale potrebbe [[Well|ben]] operare per gradazioni come in ogni
+altro modo; ma spingono se stessi, attraverso quelle gradazioni,
+a negare l'esistenza di un personale signor [[Jones]], perché egli è
+entro la portata dell'evoluzione e i suoi contorni si sfumano.
+Gli evoluzionisti sradicano il mondo, ma non i [[Flowers|fiori]].
+I Titani non scalarono mai il cielo, ma devastarono la terra.

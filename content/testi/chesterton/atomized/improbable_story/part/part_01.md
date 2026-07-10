@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/improbable-story-(chesterton)">improbable story</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/improbable_story/part/part_02">part 02 ›</a></div>
@@ -96,3 +98,95 @@ had gone wrong."
 "If you mean another digestion gone wrong," I said, "I never heard
 of one here that went right.  This is the heart of the Empire,
 and the other organs are in an equally bad way."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/improbable-story-(chesterton)">improbable story</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/improbable_story/part/part_02">part 02 ›</a></div>
+</nav>
+
+# storia improbabile
+
+Una Storia Alquanto Improbabile
+
+di G. K. Chesterton
+da Tremendous Trifles (1909)
+
+Non riesco a ricordare se questo racconto sia vero o no.  Se lo rileggessi
+con molta attenzione, ho il sospetto che giungerei
+alla conclusione che non lo è.  Ma, purtroppo, non posso rileggerlo
+con molta attenzione perché, vedete, non è ancora scritto.
+L'immagine e l'idea di esso mi si aggrapparono addosso per gran parte
+della mia fanciullezza; forse lo sognai prima di saper parlare; o me lo raccontai
+prima di saper leggere; o lo lessi prima di saper ricordare.
+Nel complesso, tuttavia, sono certo di non averlo letto,
+perché i bambini hanno ricordi molto nitidi di cose simili;
+e dei libri di cui ero davvero ghiotto rammento ancora,
+non solo la forma, la mole e la rilegatura, ma perfino la posizione
+delle parole stampate su molte delle pagine.  Nel complesso,
+propendo per l'opinione che mi sia accaduto prima di nascere.
+
+			* * * * *
+
+A ogni modo, raccontiamo ora la storia con tutti i vantaggi
+dell'atmosfera che le è rimasta attaccata.  Potete immaginarmi,
+per amor di discussione, seduto a pranzo in uno di quei ristoranti
+a pasto rapido nella [[City|Città]] dove gli uomini consumano il cibo così in fretta che esso
+perde ogni qualità di cibo, e si prendono la loro mezz'ora
+di svago così in fretta che essa perde ogni qualità di svago;
+affrettarsi durante il proprio svago è la più poco pratica delle azioni.
+Portavano tutti alti cilindri lucenti, come se non potessero perdere un istante
+nemmeno per appenderli a un gancio, e avevano tutti un occhio un po' sviato,
+ipnotizzato dall'enorme occhio dell'[[Clock|orologio]].  Insomma, erano gli schiavi
+della schiavitù moderna, se ne udivano tintinnare le catene.
+Ciascuno era, di fatto, legato da una catena; la catena più pesante mai legata
+a un uomo — si chiama catena da orologio.
+
+Ora, tra costoro, ne entrò e si sedette di fronte a me uno
+che quasi subito diede avvio a un monologo ininterrotto.
+Nell'abito era come tutti gli altri uomini, eppure ne era sorprendentemente
+l'opposto in ogni modo.  Portava un alto cilindro lucente
+e una lunga finanziera, ma li portava come tali cose solenni
+erano fatte per essere portate; portava il cappello di seta come se fosse una mitra,
+e la finanziera come se fosse l'efod di un sommo sacerdote.
+Non solo appese il cappello al gancio, ma sembrava
+(tale era la sua maestosità) quasi chiedere permesso al cappello
+per farlo, e scusarsi col gancio per servirsene.
+Quando si fu seduto su una sedia di legno con l'aria di chi
+ne considera i sentimenti, e ebbe rivolto una sorta di lieve inchino
+o riverenza al tavolo di legno stesso, come se fosse un altare,
+non potei fare a meno di lasciarmi sfuggire qualche commento.
+Perché l'uomo era un uomo grande, dal volto sanguigno e dall'aria prospera,
+eppure trattava ogni cosa con una cura che rasentava quasi
+il nervosismo.
+
+Per dire qualcosa che esprimesse il mio interesse dissi:
+"Questo mobilio è piuttosto solido; ma, certo, la gente lo tratta
+con troppa noncuranza."
+
+Mentre alzavo lo sguardo dubbioso, il mio occhio incontrò il suo, e vi restò fisso
+com'era fisso il suo in uno sguardo apocalittico.  L'avevo creduto
+ordinario quando era entrato, salvo per i suoi modi strani e guardinghi;
+ma se le altre persone l'avessero visto allora, avrebbero strillato
+e svuotato la stanza.  Non lo videro, e continuarono a fare
+un fracasso con le forchette, e un mormorio con la loro conversazione.
+Ma il volto dell'uomo era il volto di un maniaco.
+
+"Intendeva qualcosa di particolare con quell'osservazione?" chiese infine,
+e il [[Blood|sangue]] rifluì lentamente nel suo volto.
+
+"Assolutamente nulla," risposi.  "Qui non si intende mai nulla;
+rovina la digestione alla gente."
+
+Si ritrasse zoppicando e si asciugò l'ampia fronte con un gran fazzoletto;
+eppure pareva esserci una sorta di rammarico nel suo sollievo.
+
+"Temevo forse," disse a voce bassa, "che un altro di loro
+fosse andato storto."
+
+"Se intende un'altra digestione andata storta," dissi, "non ne ho mai sentita
+una, qui, che sia andata per il verso giusto.  Questo è il cuore dell'Impero,
+e gli altri organi sono messi altrettanto male."

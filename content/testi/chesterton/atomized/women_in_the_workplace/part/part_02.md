@@ -7,6 +7,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · Women in the Workplace</div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/women_in_the_workplace/part/part_01">‹ part 01</a><span></span></div>
@@ -76,3 +78,76 @@ that is not found in any of the fragmentary experiences of the
 division of labour.
 
 (Illustrated [[London]] News, December 18, 1926)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · Women in the Workplace</div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/women_in_the_workplace/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Togliere cento donne da cento case e dar loro
+cento navi sarebbe evidentemente impossibile, a meno che tutte le navi
+non fossero canoe.  E ciò significherebbe portare a lunghezze piuttosto fanatiche
+l'ideale individualista della gente che pagaia la propria canoa.
+Togliere le cento donne dalle cento case e metterle
+su dieci navi, o più probabilmente su due navi, significa evidentemente accrescere
+enormemente il numero delle serve e diminuire il numero delle padrone.
+L'unica [[Ship|nave]] che io ricordi manovrata così (o forse
+dovremmo dire donnovrata) era la [[Ship|nave]] della Bab Ballad comandata
+dal Tenente Bellaye:  [Nota: il tenente è l'[[Hero|eroe]] di
+"The Bumboat Woman's Story" di Gilbert.  È così amato che numerose
+giovani donne travestite da marinai si imbarcano clandestine sulla sua [[Ship|nave]].] persino
+là si potrebbe dire che le giovani dame che navigavano con lui
+avessero in fondo un ideale più domestico che professionale.
+Ma quel comandante navale non era egli stesso molto professionale, e si
+ricorderà che dispensava i suoi marinai dalla maggior parte dei loro doveri
+e si divertiva a sparare col suo unico cannone grosso.
+
+[[Fear|Temo]] che l'esperienza della maggior parte delle donne subordinate nelle botteghe
+e nelle fabbriche sia un po' più faticosa.  Ho preso un esempio estremamente
+elementare e rozzo, ma non sono il primo retore
+che abbia trovato conveniente discutere lo Stato sotto la brillante
+e originale similitudine di una [[Ship|nave]].  Ma il principio si applica altrettanto
+a una bottega quanto a una [[Ship|nave]].  Si applica con speciale esattezza
+alla bottega moderna, che è quasi più grande della [[Ship|nave]] moderna.
+Una bottega o una fabbrica deve constare di una vastissima maggioranza di serve;
+e una delle poche istituzioni umane in cui non vi è bisogno
+di una simile enorme maggioranza di serve è la casa domestica.
+Continuo dunque a pensare che, per la dama interessata alle navi, il momento più
+supremo e simbolico sia il momento in cui le sue navi tornano a [[Home|casa]].
+E penso che vi siano certe navi simboliche che farebbero assai
+meglio a tornare a [[Home|casa]] e a restarci.
+
+So tutto delle necessarie modifiche e dei compromessi prodotti
+dalle condizioni accidentali dell'oggi. Non sono irragionevole al riguardo.
+Ma ciò di cui discutiamo non è il suggerimento che l'ideale vada
+modificato.  È il suggerimento che l'ideale vada abolito.
+È il suggerimento che un nuovo criterio o metodo di giudizio vada
+applicato alla faccenda, il quale non è il criterio del se la cosa
+sia un lavoro intero, nel senso di un lavoro [[Self|auto]]-sufficiente e soddisfacente,
+ma del se sia quel che si chiama un lavoro a mezzo-[[Time|tempo]]—cioè, una cosa
+da misurarsi col calcolo meccanico dell'impiego moderno.
+
+Vi sono stati dèi domestici e santi domestici e
+folletti domestici.  Non sono sicuro che vi siano stati finora
+dèi di fabbrica o santi di fabbrica o folletti di fabbrica.  Potrei sbagliarmi,
+ché non sono un esperto commerciale, ma di essi non ho ancora sentito parlare.
+E pensiamo che la ragione stia nella distinzione che
+feci all'inizio di queste osservazioni.  L'[[Imagination|immaginazione]] e
+l'istinto religioso e il senso umano dell'[[Humour|umorismo]] hanno libero
+gioco quando la gente ha a che fare con qualcosa che, per quanto piccolo,
+è tondo e completo come un cosmo.
+
+Il luogo dove nascono i bambini, dove muoiono gli uomini, dove il dramma
+della vita mortale è recitato, non è un ufficio o una bottega o un ministero.
+È qualcosa di assai più piccolo per dimensione e assai più grande per portata.
+E mentre nessuno sarebbe tanto [[Fool|sciocco]] da pretendere che sia
+l'unico luogo dove la gente dovrebbe lavorare, o persino l'unico luogo
+dove le donne dovrebbero lavorare, esso ha un carattere di [[unity|unità]] e universalità
+che non si trova in nessuna delle esperienze frammentarie della
+divisione del lavoro.
+
+(Illustrated [[London]] News, 18 dicembre 1926)

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_18_the_need_of_personalities_in_politics">‹ Story 18 The Need of Personalities in Politics</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_20_the_apostle_and_the_wild_ducks">Story 20 The Apostle and the Wild Ducks ›</a></div>
@@ -74,3 +76,73 @@ that never existed.  He cannot make anything except a [[Window|window]];
 for a [[Window|window]] is simply a hole.  When he has blown everything to atoms,
 when no stack or stone stands about us for many miles, he will say,
 with an insane simplicity:  `I have made the largest window in the world.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_18_the_need_of_personalities_in_politics">‹ Story 18 The Need of Personalities in Politics</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_20_the_apostle_and_the_wild_ducks">Story 20 The Apostle and the Wild Ducks ›</a></div>
+</nav>
+
+La Più Grande [[Window|Finestra]] del Mondo
+
+È una cosa terribile aver calcato campi di battaglia prima
+che fossero combattuti.  Dà a un uomo un brivido freddo e spettrale,
+come di essere il bimbo [[unborn|non ancora nato]].  Ma ero un ragazzo, e quasi
+un bimbo, quando fui la prima volta in Belgio; e non posso che mettere
+per iscritto la realtà che allora mi colpì.  Oltre certe strade
+sfavillanti di oggetti d'ottone, che parevano perennemente in vendita,
+quasi fuori dalla vista del grande Campanile, c'è (o c'era)
+una specie di museo del grande Memling.  Tra i quadri
+ve n'era uno che persino da ragazzo non riuscii a dimenticare; e ben pochi
+poeti o profeti possono immaginare quanto un ragazzo sappia dimenticare.
+Era un quadro in cui la [[Window|finestra]] pareva a malapena più larga
+della fessura di una porta.  Eppure attraverso quella fessura l'occhio umano
+poteva quasi, nella forte retorica delle Scritture, prendere le ali
+dell'aurora e dimorare negli estremi confini del mare.
+
+E ricordo una voce vicino a me che parlava con un accento che non era
+né francese né fiammingo né il mio:  `Vede quanto erano strette le finestre
+a quei tempi.'
+
+Sì, lo vedevo.  Cominciai anche a vedere, per la prima volta, quanto strette
+siano le menti a questi tempi.  Guardai di nuovo la piccola finestra
+e la giudicai la più grande finestra del mondo.
+Semplicemente perché l'apertura era stretta, sapevo che il paesaggio era vasto.
+Se gli artisti moderni l'avessero spazzata in uno stile più ampio, non l'avrei
+notata più di qualche centinaio di miglia di carta da parati.
+Si noti poi non solo l'orgoglio di una piccola nazione, ma l'orgoglio
+del contadinato ricco.  Guardate dalla feritoia di una torretta in
+Cumberland o in Calabria e c'è la possibilità che l'occhio
+incappi in qualcosa di lievemente deprimente.  Ma qualunque striscia di Belgio
+sarà una collana di gioielli.  Si noti, in terzo luogo, che la sottigliezza
+della veduta è in gran parte dovuta allo spessore delle mura.
+Non v'è traccia di ciò che la gente volgare chiama `una prospettiva':
+la [[house|casa]] non si apre indefinitamente al mondo esterno.
+L'uomo di Memling vede il mondo dalla sua [[Window|finestra]].
+Ma resta pur sempre il fatto ultimo che la [[Window|finestra]] era la sua [[Window|finestra]]
+e il mondo non è il suo mondo.  Avrei allora ritenuto
+del tutto inconcepibile che qualcuno assalisse quella torretta.
+Ma avrei ritenuto altrettanto inconcepibile che qualcuno
+mancasse di difenderla.  Un uomo che vivesse in una tale [[house|casa]] potrebbe
+quasi chiudere la porta d'ingresso per proteggere la [[Beauty|bellezza]] della [[Window|finestra]].
+
+Non sono mai più stato in Belgio da allora; non ho mai incontrato alcuno che
+possa in qualche modo essere in relazione con un'idea rivoluzionaria o antinazionale.
+Eppure per me il Belgio ha continuato a significare quel piccolo campo di visione,
+che rendeva certo un così vasto campo di prosperità.  Quel buco della serratura è ancora
+la più grande [[Window|finestra]] del mondo.
+
+Da allora non ho più visto quel paese, se non in spaventose fotografie.
+A poco a poco ho cominciato a capire che cosa intendesse il mio amico straniero
+quando parlava dell'inutile strettezza della [[Window|finestra]] medievale.
+A giudicare dalle fotografie, egli ha allargato moltissimo gli effetti
+architettonici; ha dilatato una [[Window|finestra]] dentro l'[[Window|altra]] e ampliato i locali;
+ha lasciato lunghe file di strade in cui è impossibile dire
+se abbia combinato le finestre che esistono, o risparmiato le finestre
+che non sono mai esistite.  Egli non sa fare altro che una [[Window|finestra]];
+perché una [[Window|finestra]] non è che un buco.  Quando avrà ridotto ogni cosa in atomi,
+quando nessuna catasta o pietra si ergerà attorno a noi per molte miglia, dirà,
+con folle semplicità:  `Ho fatto la più grande finestra del mondo.'

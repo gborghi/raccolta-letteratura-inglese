@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/what-is-right-with-the-world-(chesterton)">What is Right With the World</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/what_is_right_with_the_world/part/part_03">‹ part 03</a><span></span></div>
@@ -72,3 +74,71 @@ The voice of the special rebels and prophets, recommending discontent,
 should, as I have said, sound now and then suddenly, like a trumpet.
 But the voices of the saints and sages, recommending, contentment,
 should sound unceasingly, like the sea.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/what-is-right-with-the-world-(chesterton)">What is Right With the World</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/what_is_right_with_the_world/part/part_03">‹ part 03</a><span></span></div>
+</nav>
+
+D'altra parte, i nostri tentativi di raddrizzare lo squilibrio estremo
+della ricchezza dovranno pur avere presto qualche esito; qualcosa si farà
+per alleviare la tortura perpetua di una compassione incompetente;
+a questa nostra anarchia malevola si sostituirà un qualche disegno,
+foss'anche soltanto quello di una servitù benevola. E man mano che queste due
+inquietudini particolari, quella intorno all'universo e quella intorno allo Stato,
+si acquieteranno in un ordine più silenzioso e più durevole, emergeranno sempre più
+quelle verità primarie e arcaiche che la [[Dust|polvere]] di questi due conflitti aveva velato.
+Risolte in via relativa le questioni secondarie, ci ritroveremo
+tanto più alla presenza delle questioni primarie dell'Uomo.
+
+Perché al presente siamo tutti inclini a un medesimo errore: tendiamo a dare
+alla politica troppa importanza. Tendiamo a dimenticare quanto grande parte
+della vita di un uomo resti identica sotto un Sultano e sotto un Senato,
+sotto Nerone o sotto san Luigi. L'alba è una gloria che non ha fine,
+alzarsi dal letto è una seccatura che non ha fine; il cibo e gli amici saranno benvenuti;
+il lavoro e gli estranei vanno accettati e sopportati; gli [[Birds|uccelli]] andranno a dormire
+e i bambini no, fino all'ultima sera del mondo. E il pericolo peggiore
+è che, nella nostra pur giusta rivolta moderna contro accidenti intollerabili,
+possiamo aver scardinato proprio quelle cose che [[Alone|sole]] rendono tollerabile la vita di ogni giorno.
+Sarà una [[Tragedy|tragedia]] ironica se, dopo aver faticato per trovare riposo,
+ci scopriremo inguaribilmente inquieti. Sarà triste se, dopo aver
+lavorato per la nostra vacanza, scopriremo di aver disimparato tutto tranne il lavoro.
+L'uomo moderno tipico è il milionario impazzito che si è sfiancato
+per far denaro, e poi scopre di non saper godere nemmeno del denaro.
+C'è il pericolo che il riformatore sociale sviluppi in segreto e di nascosto
+un po' della [[Madness|follia]] del milionario che denuncia.
+Può scoprire di aver imparato a costruire campi da gioco ma
+di aver dimenticato come si gioca. Può agitarsi per la pace e la quiete,
+e non far altro che propagare la propria agitazione mentale. Nella sua lunga battaglia
+per procurare a uno schiavo un mezzo giorno di riposo può giungere a negare con rabbia quelle cose
+antiche e naturali, il gusto dell'esistere, la divinità dell'uomo,
+la sacralità delle cose semplici, la salute e l'[[Humour|umorismo]] della terra,
+che [[Alone|sole]] fanno di un mezzo giorno di riposo anche solo mezzo riposo, o di uno schiavo
+anche solo mezzo uomo.
+
+C'è un pericolo in quella frase moderna, «divina insoddisfazione».
+C'è anche della [[Truth|verità]], si capisce; ma è soltanto una [[Truth|verità]] di specie particolare
+e secondaria. Molto della disputa tra il [[Christianity|Cristianesimo]] e il
+mondo è dovuto a questo fatto: che in genere vi sono due verità,
+per così dire, in ogni dato momento di rivolta o di reazione, e poi l'antico
+truismo di fondo che nondimeno è vero in ogni [[Time|tempo]].
+Talora vale la pena di far notare che il nero non è così nero
+come lo si dipinge; ma il nero resta nero, e non bianco.
+Così è dei meriti della contentezza e della scontentezza. È vero che
+in certe crisi acute e dolorose di oppressione o di disonore
+la scontentezza è un dovere e la vergogna può chiamarci come una tromba.
+Ma non è vero che l'uomo debba guardare la vita con occhio
+scontento, per quanto nobile d'animo. Non è vero che, nella sua relazione primaria
+e nuda con il mondo, nella sua relazione col sesso, col [[Pain|dolore]],
+con la [[Comradeship|fratellanza]], con la [[Grave|tomba]] o col tempo che fa, l'uomo debba fare
+della scontentezza il suo ideale: è nera follia. Metà delle sue povere piccole speranze
+di felicità sono appese al fatto che egli trovi graziosa una piccola [[house|casa]], incantevole
+una moglie qualunque, sopportabile un piede zoppo, e non così cattive le carte cattive.
+La voce dei ribelli e dei profeti particolari, che raccomanda la scontentezza,
+dovrebbe, come ho detto, risuonare di tanto in tanto d'improvviso, come una tromba.
+Ma le voci dei santi e dei saggi, che raccomandano la contentezza,
+dovrebbero risuonare senza posa, come il mare.

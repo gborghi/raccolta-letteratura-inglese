@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">A Short History of England</a> › <a href="/testi/chesterton/atomized/history/chapter_13">Chapter 13</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_14/part_01">part 01 ›</a></div>
@@ -62,5 +64,66 @@ before a mighty mob at Whitehall, cut off the anointed head
 of the sacramental man of the Middle Ages.  For another,
 far away in the western shires, cut down the thorn of Glastonbury,
 from which had grown the whole story of Britain.
+
+--/--
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">A Short History of England</a> › <a href="/testi/chesterton/atomized/history/chapter_13">Chapter 13</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_14/part_01">part 01 ›</a></div>
+</nav>
+
+# [[history]] — Capitolo 13 (parte 4)
+
+Fu il Whig più che il Puritano a trionfare in quel giorno,
+fu l'inglese col suo compromesso aristocratico;
+e perfino ciò che seguì la [[Death|morte]] di Cromwell, la Restaurazione,
+fu un compromesso aristocratico, e persino un compromesso whig.
+La folla poteva acclamare come per un [[King|re]] medievale; ma il Protettorato
+e la Restaurazione erano più d'un sol pezzo di quanto la folla capisse.
+Perfino nelle cose superficiali dove pareva esservi un riscatto
+si trattava in ultima analisi d'una tregua. Così il regime puritano era sorto
+principalmente per una cosa ignota al medievalismo: il militarismo.
+Truppe professionali scelte, addestrate con durezza ma pagate profumatamente,
+furono il nuovo e alieno strumento per cui i Puritani
+si fecero padroni. Furono sciolte e il loro ritorno fu osteggiato
+da Tories e Whigs; ma il loro ritorno pareva sempre imminente,
+perché era nello spirito del nuovo, arcigno mondo della
+[[Thirty Years' War]]. Una scoperta è una malattia inguaribile;
+e si era scoperto che una folla poteva essere trasformata
+in un millepiedi di ferro, che schiacciava folle più grandi e più sciolte.
+Similmente i resti del Natale furono strappati
+ai Puritani; ma dovettero infine essere strappati di nuovo
+da Dickens agli Utilitaristi, e potrebbero ancora dover essere
+strappati da qualcuno ai vegetariani e agli astemi.
+Lo strano esercito passò e svanì quasi come un'invasione mussulmana;
+ma aveva fatto la differenza che il valore in armi e
+la vittoria fanno sempre, quand'anche fosse solo una differenza negativa.
+Fu la rottura finale nella nostra [[history|storia]]; fu il frangitore
+di molte cose, e forse della ribellione popolare nella nostra terra.
+È in certo modo un simbolo verbale che questi uomini fondassero
+la [[New England|Nuova Inghilterra]] in [[America]], poiché in verità cercarono di fondarla qui.
+Per un [[Paradox|paradosso]], vi era qualcosa di preistorico nella stessa
+[[Nakedness|nudità]] della loro novità. Persino le cose antiche e selvagge
+che invocavano diventavano più selvagge nel diventare più nuove.
+Nell'osservare quello che chiamavano il loro Sabato ebraico, avrebbero
+dovuto lapidare il più rigoroso degli ebrei. Ed essi (e invero la loro
+epoca in genere) trasformarono il rogo delle [[Witch|streghe]] da episodio in epidemia.
+I distruttori e le cose distrutte scomparvero insieme;
+ma restano come qualcosa di più nobile del legalismo rosicchiante
+di certi cinici whig che continuarono la loro opera.
+Erano soprattutto anti-storici, come i Futuristi
+in [[Italy|Italia]]; e vi era in loro questa inconsapevole [[Greatness|grandezza]],
+che il loro stesso sacrilegio era pubblico e solenne come
+un sacramento; ed erano ritualisti perfino da iconoclasti.
+Fu, a ben considerare, solo un esempio assai secondario
+della loro strana e violenta semplicità che uno di essi,
+davanti a una possente folla a Whitehall, mozzasse il capo unto
+dell'uomo sacramentale del Medioevo. Poiché un altro,
+lontano nelle contee occidentali, abbatté il biancospino di Glastonbury,
+da cui era cresciuta tutta la storia della Britannia.
 
 --/--

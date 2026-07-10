@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a> › <a href="/testi/chesterton/atomized/the_thing/story_27_what_we_think_about">Story 27 WHAT WE THINK ABOUT</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_27_what_we_think_about/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_33_the_spirit_of_christmas/part_01">part 01 ›</a></div>
@@ -60,5 +62,63 @@ and that I have plenty of things to think about without falling
 back on a Baconian [[Madness|madness]] of pagan parallels, or establishing
 the connection between the tale of the bull killed by Mithras
 and the tune the old cow died of.
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a> › <a href="/testi/chesterton/atomized/the_thing/story_27_what_we_think_about">Story 27 WHAT WE THINK ABOUT</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_27_what_we_think_about/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_33_the_spirit_of_christmas/part_01">part 01 ›</a></div>
+</nav>
+
+Si potrebbe naturalmente addurre un numero qualsiasi di altri esempi.
+Costui (se posso usare ancora una volta la garbata locuzione cinese)
+avrebbe ben presto esaurito l'ebbrezza di scoprire che Maria
+e Maia cominciano entrambe con la M, o che la Madre di [[Christ|Cristo]]
+e la madre di Cupido erano entrambe raffigurate come donne.
+Ma so che non esaurirò mai la profondità di quell'
+insondabile [[Paradox|paradosso]] definito con tanta sfida nel titolo stesso
+di Madre di Dio.  So che vi sono sviluppi non soltanto assai più profondi,
+ma assai più freschi e più liberi del pensiero e dell'[[Imagination|immaginazione]],
+in quell'[[Riddle|enigma]] dell'umano perfetto che ebbe un tempo naturale
+autorità sul soprannaturalmente divino, che in qualunque sorta di
+identificazione iconoclasta che assimila tutte le immagini sacre
+appiattendone i volti.  Nel [[Time|tempo]] in cui [[Christ|Cristo]] sarà davvero reso
+identico a Osiride, ben poco potrà restare dell'uno o dell'altro;
+ma [[Christ|Cristo]], come lo concepisce la [[Catholic Church|Chiesa Cattolica]], è egli stesso un composto
+e una combinazione, non di due cose irreali, ma di due reali.
+Allo stesso modo un'Astarte identica a una delle Madonne di Raffaello,
+o viceversa, parrebbe comunque una visione alquanto priva di lineamenti;
+mentre c'è qualcosa che è, nel senso più intellettuale del termine,
+unico nella concezione della THEOTOKOS.  Insomma, in tutta questa
+mera unificazione di tradizioni, vere o false, c'è qualcosa che
+si può descrivere assai semplicemente come noioso.  Ma i dogmi non sono noiosi.
+Perfino quelle che si chiamano sottili distinzioni dottrinali non sono noiose.
+Sono come le più fini operazioni della chirurgia: separano un nervo
+dall'altro, ma danno la vita.  È facile spianare ogni cosa
+per miglia all'intorno con la dinamite, se il nostro unico scopo è dare la [[Death|morte]].
+Ma proprio come il fisiologo ha a che fare con tessuti viventi,
+così il teologo ha a che fare con idee viventi; e se traccia
+una linea tra esse, è naturalmente una linea sottilissima.
+È usanza, benché a questo [[Time|tempo]] sia già un'usanza piuttosto stantia,
+lamentarsi che i Greci o gli Italiani i quali disputavano sulla Trinità
+o sul Sacramento spaccassero il capello.  Non so che spaccare
+capelli sia più tetro dello sbiancarli, nel vano tentativo
+di far combaciare la chioma d'oro di Freya e quella nera di Cotytto.
+La suddivisione d'un capello ci dice almeno qualcosa della
+sua struttura; mentre la sua semplice scoloritura non ci dice nulla.
+La teologia ci introduce alla struttura delle idee; mentre il sincretismo
+teosofico si limita a lavar via tutti i colori dalle colorate
+fiabe del mondo.  Ma il mio unico scopo, in questa sede, è
+rassicurare il gentile signore che si angustiava per il segreto malanno
+della modernità che dovrebbe rodere la mia mente, per il resto vuota.
+Mi affretto con fervore a spiegare che sto proprio [[Well|bene]], grazie;
+e che ho un mucchio di cose a cui pensare senza dover ripiegare
+su una baconiana [[Madness|follia]] di paralleli pagani, o stabilire
+il nesso tra la storia del toro ucciso da Mitra
+e la nenia con cui morì la vecchia vacca.
 
 -/-

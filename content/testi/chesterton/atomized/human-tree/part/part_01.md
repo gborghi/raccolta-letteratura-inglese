@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/human-tree-(chesterton)">human-tree</a></div>
 </nav>
@@ -46,5 +48,49 @@ Lest we whisper, lest we [[Wonder|wonder]]
 But I saw him there [[Alone|alone]],  
 Standing stiller than a stone  
   Lest a moth should fall.  
+
+G.K. CHESTERTON
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/human-tree-(chesterton)">human-tree</a></div>
+</nav>
+
+L'Albero Umano  
+
+Molti sono stati gli [[lovers|amanti]] della Terra,  
+provati in mari e in guerre, io credo;  
+eppure il più possente io ho veduto:  
+  sì, il migliore io vidi.  
+Uno che in un campo [[Alone|solo]]  
+si ergeva più immoto d'una pietra  
+  per timore che una falena volasse.  
+
+Gli [[Birds|uccelli]] avevano nidificato tra i suoi capelli,  
+sulle sue scarpe muschi rari,  
+imperi d'insetti vi fiorivano,  
+  vermi in antiche guerre;  
+ma i suoi occhi ardono come vetro,  
+udendo un gran mare d'erba  
+  ruggire verso le [[Stars|stelle]].  
+
+Da essi all'albero umano  
+[[Rose|saliva]] un grido di continuo:  
+`Tu sei immoto, Padre nostro, noi  
+  volentieri vorremmo che tu annuissi.  
+Rendi i cieli come sangue sotto di te,  
+e anche se ci uccidi, noi ti conosceremo.  
+  Rispondici, o Dio!  
+
+`Mostra la tua antica fama e il tuo tuono,  
+spezza una volta la quiete in due,  
+per timore che sussurriamo, che ci [[Wonder|domandiamo]]  
+  sei tu davvero là?'  
+Ma io lo vidi là [[Alone|solo]],  
+in piedi più immoto d'una pietra  
+  per timore che una falena cadesse.  
 
 G.K. CHESTERTON

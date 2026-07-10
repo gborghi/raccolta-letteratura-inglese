@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/gold-leaves-(chesterton)">gold-leaves</a></div>
 </nav>
@@ -36,3 +38,35 @@ Gold [[Leaves]]
 	  Hidden in wood or wold,  
 	But I am come to [[Autumn|autumn]],  
 	  When all the [[Leaves|leaves]] are gold.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/gold-leaves-(chesterton)">gold-leaves</a></div>
+</nav>
+
+Foglie d'[[Leaves|Oro]]  
+
+di G.K.Chesterton  
+
+	Ecco! Sono giunto all'[[Autumn|autunno]],  
+	  quando tutte le [[Leaves|foglie]] sono d'oro;  
+	capelli grigi e [[Leaves|foglie]] dorate gridano  
+	  che l'anno ed io siam vecchi.  
+
+	In gioventù cercai il principe degli uomini,  
+	  capitano in guerre cosmiche,  
+	il nostro Titano, e financo le erbacce si mostravano  
+	  ribelli, verso le [[Stars|stelle]].  
+
+	Ma ora una gran cosa nella strada  
+	  mi pare ogni umano cenno,  
+	dove mutano in strana [[democracy|democrazia]]  
+	  le mille maschere di Dio.  
+
+	In gioventù cercai il fiore d'oro  
+	  celato in bosco o brughiera,  
+	ma sono giunto all'[[Autumn|autunno]],  
+	  quando tutte le [[Leaves|foglie]] sono d'oro.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/job-(chesterton)">Introduction to the Book of Job</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/job/part/part_03">‹ part 03</a><span></span></div>
@@ -67,3 +69,66 @@ this [[Paradox|paradox]] of the best man in the worst fortune.
 I need not say that in the freest and most philosophical
 sense there is one Old Testament figure who is truly a type;
 or say what is prefigured in the wounds of Job.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/job-(chesterton)">Introduction to the Book of Job</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/job/part/part_03">‹ part 03</a><span></span></div>
+</nav>
+
+Nulla potrebbe essere migliore, artisticamente parlando, di questo ottimismo
+che irrompe attraverso l'agnosticismo come oro fiammeggiante lungo i bordi
+di una nuvola nera.  Chi guarda superficialmente all'origine barbarica
+dell'[[Epic|epopea]] potrà giudicare fantasioso leggere tanto significato artistico
+nelle sue similitudini occasionali o nelle sue frasi accidentali.  Ma nessuno
+che conosca [[Well|bene]] i grandi esempi della poesia semibarbara,
+come nella [[Song|Canzone]] di Rolando o nelle antiche ballate, cadrà in questo errore.
+Nessuno che sappia che cosa sia la poesia primitiva può non rendersi conto che, mentre
+la sua forma cosciente è semplice, alcuni dei suoi effetti più fini sono sottili.
+L'Iliade riesce a esprimere l'idea che [[Hector|Ettore]] e Sarpedonte abbiano
+un certo tono o una certa tinta di triste e cavalleresca [[Resignation|rassegnazione]], non abbastanza
+amara da chiamarsi pessimismo né abbastanza gioviale da chiamarsi ottimismo;
+Omero non avrebbe mai potuto dire questo con parole elaborate.  Ma in qualche modo
+riesce a dirlo con parole semplici.  La [[Song|Canzone]] di Rolando riesce
+a esprimere l'idea che il [[Christianity|Cristianesimo]] imponga ai suoi eroi un [[Paradox|paradosso]]:
+un [[Paradox|paradosso]] di grande [[Humility|umiltà]] nella materia dei loro peccati unito
+a grande ferocia nella materia delle loro idee.  Certo la [[Song|Canzone]]
+di Rolando non potrebbe dire questo; ma lo trasmette.  Allo stesso modo
+il Libro di Giobbe va accreditato di molti sottili effetti che erano
+nell'[[Soul|anima]] dell'autore senza essere, forse, nella sua mente.
+E di questi il più importante di gran lunga rimane ancora da enunciare.
+Non so, e [[Doubt|dubito]] che perfino gli studiosi lo sappiano, se il Libro
+di Giobbe abbia avuto un grande effetto, o alcun effetto, sull'ulteriore sviluppo
+del pensiero ebraico.  Ma se pure ebbe qualche effetto, può averli salvati
+da un enorme crollo e da una [[Decay|decadenza]].  Qui in questo Libro la domanda
+è davvero posta: se Dio punisca invariabilmente il vizio con castighi
+terreni e ricompensi la virtù con la prosperità terrena.
+Se gli Ebrei avessero risposto a quella domanda in modo errato, avrebbero potuto
+perdere tutta la loro successiva influenza nella [[history|storia]] umana.  Avrebbero potuto
+sprofondare persino al livello della moderna società [[Well|ben]] educata.
+Poiché, una volta che la gente ha cominciato a credere che la prosperità sia la ricompensa
+della virtù, la calamità successiva è ovvia.  Se la prosperità è considerata
+la ricompensa della virtù, sarà considerata il sintomo della virtù.
+Gli uomini abbandoneranno il gravoso compito di rendere prosperi gli uomini buoni.
+Adotteranno il compito più agevole di far passare per buoni gli uomini prosperi.
+Questo, che è accaduto in tutto il commercio e il giornalismo moderni,
+è l'ultima Nemesi del malvagio ottimismo dei consolatori di Giobbe.
+Se gli Ebrei poterono esserne salvati, li salvò il Libro di Giobbe.  Il Libro
+di Giobbe è soprattutto notevole, come ho insistito da capo a fondo, per il fatto
+che non si conclude in un modo convenzionalmente soddisfacente.
+A Giobbe non viene detto che le sue sventure furono dovute ai suoi peccati o parte
+di un qualche piano per il suo miglioramento.
+
+Ma nel prologo vediamo Giobbe tormentato non perché fosse
+il peggiore degli uomini, ma perché era il migliore.  È la lezione
+di tutta l'opera che l'uomo è massimamente consolato dai paradossi.
+Ecco il più oscuro e il più strano dei paradossi;
+ed è, per ogni umana testimonianza, il più rassicurante.
+Non ho bisogno di suggerire quale alta e strana [[history|storia]] attendesse
+questo [[Paradox|paradosso]] dell'uomo migliore nella peggiore sorte.
+Non ho bisogno di dire che, nel senso più libero e più filosofico,
+vi è una figura dell'Antico Testamento che è veramente un tipo;
+né di dire ciò che è prefigurato nelle piaghe di Giobbe.

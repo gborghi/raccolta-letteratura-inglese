@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/femina-(chesterton)">femina</a></div>
 </nav>
@@ -44,3 +46,43 @@ Then a calm voice fell all the thunder through,
 	    A tone less rough:  
 'Thou hast begun to [[Love|love]] one of my works  
 	    Almost enough.'
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/femina-(chesterton)">femina</a></div>
+</nav>
+
+[[femina|Femina]] Contra Mundum  
+====================  
+
+G K Chesterton  
+
+Il sole era nero di giudizio, e la [[Moon|luna]]  
+	    [[Blood|Sangue]]: ma nel mezzo  
+vidi un uomo in piedi, che diceva: 'A me almeno  
+	    l'erba è verde.  
+
+'Non v'era stella che scordassi di [[Fear|temere]]  
+	    con [[Love|amore]] e [[Wonder|stupore]].  
+Gli [[Birds|uccelli]] mi hanno amato'; ma nessuna risposta venne --  
+	    solo il tuono.  
+
+   .     .     .     .     .     .     .     .  
+
+Ancora una volta l'uomo si levò, dicendo: 'La porta d'un casolare,  
+	    per la quale sbirciai  
+in quell'istante mentre mi voltavo -- sì, sono vile;  
+	    eppure i miei occhi ardevano.  
+
+'Poiché avevo pesato le [[Mountains|montagne]] su una bilancia,  
+	    e i cieli su una stadera,  
+vengo a vendere le [[Stars|stelle]] -- lampade vecchie per nuove --  
+	    vecchie [[Stars|stelle]] in saldo.'  
+
+Poi una voce calma cadde attraverso tutto il tuono,  
+	    un tono meno aspro:  
+'Hai cominciato ad [[Love|amare]] una delle mie opere  
+	    quasi abbastanza.'

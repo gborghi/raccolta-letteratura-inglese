@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/nightmare-(chesterton)">nightmare</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/nightmare/part/part_01">‹ part 01</a><span></span></div>
@@ -41,5 +43,44 @@ amorous cow whose [[Child|child]] was the [[Moon]]-Calf. We will rise to
 that mad infinite where there is neither up nor down, the high
 topsy-turveydom of the heavens.  I will ride on the [[nightmare|Nightmare]];
 but she shall not ride on me.
+
+--G.K.Chesterton
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/nightmare-(chesterton)">nightmare</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/nightmare/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Questa è, immagino, la vera dottrina in materia di Racconti
+del Terrore e cose simili: dottrina che, se un uomo di lettere non crede [[Well|bene]]
+e davvero, senza [[Doubt|dubbio]] finirà col farsi saltare le cervella
+o con lo scrivere male.  L'uomo, pilastro centrale del mondo,
+deve stare eretto e diritto; intorno a lui tutti gli alberi e le bestie
+e gli elementi e i diavoli possono torcersi e arricciarsi come fumo, se vogliono.
+Tutta la letteratura davvero fantasiosa non è che il contrasto tra
+le curve bizzarre della [[Nature|Natura]] e la rettitudine dell'[[Soul|anima]].
+L'uomo può contemplare quanta bruttezza vuole, se è certo che non
+l'adorerà; ma ve ne sono alcuni così deboli da adorare
+una cosa solo perché è brutta.  Costoro vanno incatenati
+al bello.  Non è sempre sbagliato spingersi, come [[Dante]],
+sull'orlo del più basso promontorio e guardare giù nell'inferno.
+È quando si guarda in alto verso l'inferno che, probabilmente,
+si è commesso un grave errore di calcolo.
+
+* * * *
+
+Perciò non vedo nulla di male nel cavalcare con l'[[nightmare|Incubo]] questa [[Night|notte]];
+esso mi nitrisce dalle cime ondeggianti degli alberi e dal [[Wind|vento]] ruggente;
+lo afferrerò e lo cavalcherò attraverso l'aria tremenda.
+Boschi ed erbacce del pari strappano alle radici nella tempesta montante,
+come se tutti volessero volare con noi oltre la [[Moon|luna]], come quella folle,
+amorosa vacca il cui [[Child|figlio]] fu il [[Moon|Vitello Lunare]]. Ci leveremo
+verso quell'infinito folle dove non c'è né su né giù, l'alto
+capovolgimento dei cieli.  Cavalcherò l'[[nightmare|Incubo]];
+ma esso non cavalcherà me.
 
 --G.K.Chesterton

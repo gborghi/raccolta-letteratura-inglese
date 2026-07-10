@@ -221,7 +221,7 @@ He was not specially lucid; but he was moderately intelligible
 
 [[Milton]]: l'uomo e il poeta
 
-			   G K Chesterton
+G K Chesterton  
 
 Tutta la mole di materia acuta e preziosa scritta o compilata
 

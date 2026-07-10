@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns">Chapter 01 A SERMON ON INNS</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_02_the_end_of_olive_island/part_01">part 01 ›</a></div>
@@ -50,3 +52,42 @@ He said it to the seagulls because the young lady, after staring at him with sta
 
 
 And again he spread his arms out, as if addressing a mass meeting of millions, all [[Alone|alone]] on the dark seashore.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns">Chapter 01 A SERMON ON INNS</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_02_the_end_of_olive_island/part_01">part 01 ›</a></div>
+</nav>
+
+«Povero vecchio Hump!» disse. «Ma guarda, me n'ero dimenticata. Dev'essere quasi tanto in pena quanto me! [[Hope|Spero]] che quest'uomo non voglia essere troppo sciocco a proposito di questo! Preferirei che non riguardasse proprio questo!»
+
+
+
+«E il signor Pumph mi diss-e che la locanda fu battezzata da un suo amico assai in-timo, un irlandese che era stato Capitano nella Marina Reale britannica, ma aveva rassegnato il suo in-carico per sdegno del trattamento riservato all'Irlanda. Pur lasciando il servizio, conservò appena a suf-ficienza della superstizione dei vostri marinai d'occidente da desiderare che la locanda dell'amico portasse il nome della sua vecchia [[Ship|nave]]. Ma poiché il nome della [[Ship|nave]] era 'Il Regno Unito—'»
+
+
+
+La sua allieva, se non si poteva dire esattamente che sedesse ai suoi piedi, senza dubbio si sporgeva assai avidamente sopra il suo capo. In mezzo alla [[Solitude|solitudine]] delle sabbie ella gridò con voce alta e chiara: «Sapete dirmi il nome del Capitano?»
+
+
+
+Il vecchio signore sobbalzò, sbatté le palpebre e fissò come una civetta spaventata. Avendo parlato per ore come se avesse un uditorio di migliaia, parve d'un tratto assai imbarazzato di scoprire che aveva persino un uditorio di uno solo. A questo [[Time|momento]] sembravano ormai le uniche creature umane lungo la riva; quasi le uniche creature viventi, salvo i gabbiani. Il sole, calando finalmente, pareva essersi spaccato come potrebbe spaccarsi un'arancia [[Blood|sanguigna]]; e linee di luce rosso-[[Blood|sangue]] si erano sparse lungo i cieli fessi, bassi e piatti. Questo brusco e tardivo splendore tolse ogni colore al berretto rosso e all'ombrello verde dell'uomo; ma la sua scura figura, netta contro il mare e il tramonto, restava la stessa, salvo che era più agitata di prima.
+
+
+
+«Il nome», disse, «il nome del Capitano. Io... io ho inteso che fosse Dalroy. Ma ciò che desidero indicare, ciò che desidero esporre, è che anche qui il cercatore della [[Truth|verità]] può trovare la connessione delle sue idee. Mi fu spiegato dal signor Pumph ch'egli stava riordinando il luogo di festa, in proporzione non trascurabile a causa del previsto ritorno del Capitano in questione, il quale, a quanto pareva, aveva preso servizio in una Marina non molto grande, ma l'aveva lasciata e stava tornando a [[Home|casa]]. Ora, notate bene, tutti voi, amici miei», disse ai gabbiani, «che anche qui la catena della [[logic|logica]] tiene.»
+
+
+
+Lo disse ai gabbiani perché la giovane dama, dopo averlo fissato un istante con occhi trasognati ed essersi appoggiata pesantemente alla ringhiera, gli aveva voltato le spalle ed era rapidamente scomparsa nel crepuscolo. Dopo che i suoi passi frettolosi si furono spenti, non vi fu altro rumore che il fievole ma possente fusciare del mare ormai lontano, l'occasionale strido di un uccello marino e il suono ininterrotto di un soliloquio.
+
+
+
+«Notate, tutti voi», proseguì l'uomo agitando il suo ombrello verde così furiosamente che quasi si spalancò come una verde [[Flag|bandiera]] spiegata, e poi piantandolo a fondo nella sabbia, nella sabbia in cui i suoi padri guerrieri avevano così spesso piantato le loro tende, «notate tutti voi questo fatto meraviglioso! Che quando, essendo per un [[Time|tempo]], per un [[Time|tempo]], stupito-imbarazzato—colto, come direste voi, alla sprovvista—dall'assenza di qualsiasi prova assoluta di influenza orientale nella frase 'la vecchia [[Ship|nave]]', domandai da quale paese il Capitano stesse tornando, il signor Pumph mi disse con solennità: 'Dalla Turchia.' Dalla Turchia! Dal più vicino paese della Religione! So che gli uomini dicono che non è il nostro paese; che nessuno sa da dove veniamo, quale sia il nostro paese. Che importa da dove veniamo, se rechiamo un messaggio dal Paradiso? Con un gran galoppare di cavalli lo rechiamo, e non abbiamo [[Time|tempo]] di fermarci nei luoghi. Ma ciò che portiamo è l'unico credo che abbia riguardato quella che voi chiamereste, con le vostre grandi parole, la verginità della ragione di un uomo, che non ha posto nessun uomo più in alto di un [[Prophet|profeta]], e ha rispettato la [[Solitude|solitudine]] di Dio.»
+
+
+
+E di nuovo spalancò le braccia, come rivolgendosi a un'adunata di milioni, tutto [[Alone|solo]] sull'oscura riva del mare.

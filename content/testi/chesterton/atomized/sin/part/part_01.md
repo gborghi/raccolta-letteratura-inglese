@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/sin-(chesterton)">sin</a></div>
 </nav>
@@ -39,3 +41,38 @@ Buried and bricked in a forgotten hell;
   Prince among angels in the highest place,  
   God help me, I will smite him on the face,  
 Before the glory of the face of God.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/sin-(chesterton)">sin</a></div>
+</nav>
+
+# sin
+
+Il Peccato Imperdonabile  
+====================
+
+G K Chesterton  
+
+Non piango, amata, né maledico.  
+  [[Silence|Silenzio]] e forza, questi due almeno sono buoni.  
+  Mi diede sole e [[Stars|stelle]] e quanto poté,  
+ma non l'[[Love|amore]] d'una donna; ché quello è suo.  
+
+Sigillò il suo cuore al saggio e all'indagatore --  
+  sì, con sette sigilli, come ha sigillato la [[Grave|tomba]].  
+  E se lo desse a uno schiavo ubriaco,  
+il Giorno del Giudizio non la accuserà.  
+
+Solo questo: se uno, che [[Well|ben]] merita,  
+  toccando le tue esili giovani mani e corteggiando,  
+  non si senta una cosa strisciante, un bruto,  
+sepolto e murato in un inferno dimenticato;  
+
+[[Prophet|Profeta]] e poeta pur sia sopra la zolla,  
+  principe fra gli angeli nel più alto seggio,  
+  Dio m'aiuti, lo colpirò sul volto,  
+dinanzi alla gloria del volto di Dio.

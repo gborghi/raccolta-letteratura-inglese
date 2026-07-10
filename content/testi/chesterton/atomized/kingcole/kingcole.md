@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/kingcole-(chesterton)">kingcole</a></div>
 </nav>
@@ -82,3 +84,81 @@ Rigid, relentless, capable of going on for ever;
 They play my accompaniment; but I shall take no notice of any accompaniment;  
 I myself am a complete orchestra.  
 So long.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/kingcole-(chesterton)">kingcole</a></div>
+</nav>
+
+Variazioni su un'Aria  
+
+Il vecchio Re [[King|Cole]]  
+Era un'[[Soul|anima]] gaia  
+E un'[[Soul|anima]] gaia era lui  
+Chiamò la sua pipa  
+e chiamò la sua ciotola  
+e chiamò i suoi tre violini  
+
+alla maniera di Lord Tennyson  
+
+Cole, instancabile principe di Colchester,  
+Che più s'allegra con l'età e coi lunghi giorni,  
+Più fondo nel riso e nel [[Desire|desiderio]] di vita  
+Come quel rampicante di Virginia sui nostri muri  
+Fiammeggia scarlatto al declinare dell'anno;  
+Chiamò la sua bevanda e quell'altra erba  
+Anch'essa di Virginia, dai boschi d'occidente  
+Dove l'inglese Raleigh frenò il vanto di Spagna,  
+E accendendo gioia con gioia, e ammucchiando  
+Piacere come [[Crown|corona]] al piacere, mi comandò  
+Quei tre, i menestrelli le cui casacche istoriate  
+Splendevano delle conchiglie d'ostrica di Colchester;  
+E questi tre suonarono, e suonando crebbero più bramosi  
+Di allegria e di musica; finché venne il pagano  
+E il Re [[King|Cole]] dormì presso il mare del nord.  
+
+alla maniera di W.B. Yeats  
+
+D'un vecchio [[King|Re]] in una storia  
+Dalla grigia gente del mare ho udito,  
+Il cui cuore non era più spezzato  
+Che le ali d'un uccello.  
+
+Non appena la [[Moon|luna]] fu d'argento  
+E le tenui [[Stars|stelle]] cominciarono,  
+Prese la sua pipa e il suo boccale,  
+Come un vecchio contadino.  
+
+E tre alte ombre erano con lui  
+E vennero al suo comando;  
+E suonarono innanzi a lui per sempre  
+I violini del paese delle fate.  
+
+E morì nella giovane [[Summer|estate]]  
+Del [[Desire|desiderio]] del mondo;  
+Prima che i nostri cuori fossero spezzati  
+Come stecchi in un [[Fire|fuoco]].  
+
+alla maniera di Walt Whitman  
+
+Io chiaroveggente,  
+Io conscio di te, vecchio camerata,  
+Che non ho bisogno di telescopio, lorgnette, binocolo, occhiale da teatro, pince-nez da miope,  
+Io che trapasso duemila anni con l'occhio nudo e non vergognoso;  
+La [[Crown|corona]] non può nasconderti a me,  
+I muffiti vecchi orpelli feudali-araldici non possono nasconderti a me,  
+Percepisco che bevi.  
+(Sto bevendo con te. Sono ubriaco quanto te.)  
+Vedo che inali tabacco, sbuffi, fumi, sputi  
+(non ho nulla in contrario al tuo sputare),  
+Tu profetico dell'ampiezza americana,  
+Tu che anticipi i larghi modi virili di questi Stati;  
+Vedo in te anche moti, fremiti, [[Tears|lacrime]], [[Desire|desiderio]] del melodioso,  
+Saluto i tuoi tre violinisti, che senza fine fanno vibrazioni,  
+Rigidi, implacabili, capaci d'andare avanti per sempre;  
+Suonano il mio accompagnamento; ma io non baderò ad alcun accompagnamento;  
+Io stesso sono un'orchestra completa.  
+A presto.

@@ -888,7 +888,7 @@ details.cerca-facet > summary {
 }
 .rw-tilespoke:hover,
 .rw-tilespoke:focus-visible {
-  z-index: 6;
+  z-index: 25; /* above the per-tile shingle (0..n-1), below labels (30) */
   outline: none;
 }
 .rw-tilespoke:hover .rw-tile,
@@ -1115,4 +1115,35 @@ ul.tags {
 .cr-guard-it {
   color: var(--gray);
   font-style: italic;
+}
+
+/* Search index loading spinner (see searchLoading.inline.ts). The top-bar search
+   button stays inert for seconds while the large contentIndex loads + FlexSearch
+   builds; this spinner tells the visitor to wait. */
+.search-button {
+  position: relative;
+}
+.search-loading .search-button {
+  cursor: progress;
+}
+.search-index-spinner {
+  display: inline-block;
+  width: 0.85em;
+  height: 0.85em;
+  margin-left: 0.4rem;
+  vertical-align: middle;
+  border: 2px solid var(--lightgray);
+  border-top-color: var(--secondary);
+  border-radius: 50%;
+  animation: search-index-spin 0.7s linear infinite;
+}
+@keyframes search-index-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .search-index-spinner {
+    animation-duration: 2s;
+  }
 }

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/cockneys-(chesterton)">cockneys</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/cockneys/part/part_02">‹ part 02</a><span></span></div>
@@ -76,6 +78,82 @@ to their traditions who has now come out into the daylight,
 that the scriptures might be fulfilled.  For the two things
 that a healthy person hates most between heaven and hell are
 a woman who is not dignified and a man who is.
+
+-------------------------------------------------------------------------------
+
+Part of an etext in progress by Rob Szarka.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/cockneys-(chesterton)">cockneys</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/cockneys/part/part_02">‹ part 02</a><span></span></div>
+</nav>
+
+Ma i volgari giornali umoristici sono tanto sottili e veri da
+essere perfino profetici.  Se davvero volete sapere che cosa sta per
+accadere al futuro della nostra [[democracy|democrazia]], non leggete le moderne
+profezie sociologiche, non leggete nemmeno le Utopie del signor Wells
+a questo scopo, per quanto dobbiate certamente leggerle
+se avete a cuore l'onestà schietta e il buon inglese.  Se
+volete sapere che cosa accadrà, studiate le pagine di Snaps
+o di Patchy Bits come se fossero le oscure tavole incise con
+gli oracoli degli dèi.  Perché, per meschini e grossolani che siano,
+in tutta serietà, essi contengono ciò che è del tutto assente da
+ogni Utopia e da ogni congettura sociologica del nostro [[Time|tempo]]:
+contengono qualche indizio delle abitudini reali e dei desideri
+manifesti del popolo inglese.  Se davvero vogliamo scoprire
+che cosa la [[democracy|democrazia]] finirà per fare di sé stessa, lo troveremo
+di sicuro non nella letteratura che studia il popolo,
+ma nella letteratura che il popolo studia.
+
+Posso addurre due casi fortuiti in cui la battuta comune o cockney fu una profezia
+assai migliore delle attente osservazioni dell'osservatore più colto.
+Quando l'Inghilterra si agitava, prima delle ultime elezioni generali,
+sull'esistenza del lavoro cinese, vi era una netta differenza
+tra il tono dei politici e il tono del popolo.
+I politici che disapprovavano il lavoro cinese si affannavano
+a spiegare che non disapprovavano in alcun senso
+i Cinesi.  Secondo loro, era una pura questione di correttezza giuridica,
+se certe clausole nel contratto di ingaggio non fossero
+incompatibili con le nostre tradizioni costituzionali: secondo loro,
+il caso sarebbe stato identico se quella gente fosse stata di Cafri
+o di Inglesi.  Tutto suonava mirabilmente illuminato e lucido;
+e al confronto la battuta popolare appariva, naturalmente, assai povera.
+Perché la battuta popolare contro i lavoratori cinesi era semplicemente
+che erano Cinesi; era un'obiezione contro un tipo alieno;
+i giornali popolari erano pieni di frizzi su codini e facce gialle.
+Sembrava che i politici liberali sollevassero un'obiezione
+intellettuale a un dubbio documento di Stato; mentre sembrava che la
+plebe radicale non facesse che sghignazzare idiotamente alla vista
+degli abiti di un cinese.  Ma l'istinto popolare aveva ragione,
+poiché i vizi rivelati erano vizi cinesi.
+
+Ma c'è un altro caso più piacevole e più attuale.
+I giornali popolari si ostinarono sempre a raffigurare la Donna Nuova
+o la Suffragetta come una donna brutta, grassa, con gli occhiali,
+con abiti sformati, e in genere mentre cade da una bicicletta.
+Come nudo fatto esteriore, non v'era una parola di [[Truth|verità]]
+in tutto ciò.  Le capofila del movimento di emancipazione femminile
+non sono affatto brutte; la maggior parte sono straordinariamente belle.
+Né sono indifferenti all'arte o al costume decorativo;
+molte di esse sono spaventosamente attaccate a queste cose.
+Eppure l'istinto popolare aveva ragione.  Perché l'istinto popolare
+era che in questo movimento, a torto o a ragione,
+vi era un elemento di indifferenza alla dignità femminile,
+una disponibilità del tutto nuova delle donne a farsi [[Grotesque|grottesche]].
+Queste donne davvero disprezzavano la qualità pontificale della donna.
+E nelle nostre strade e intorno al nostro Parlamento abbiamo visto
+la maestosa donna dell'arte e della cultura mutarsi nella donna comica
+di Comic Bits.  E che si giudichi giustificabile l'esibizione
+o no, la profezia dei giornali comici è giustificata;
+le masse sane e volgari erano consapevoli di un nemico nascosto
+delle loro tradizioni, che ora è venuto alla luce del giorno,
+affinché le scritture si adempissero.  Perché le due cose
+che una persona sana odia di più tra il cielo e l'inferno sono
+una donna che non è dignitosa e un uomo che lo è.
 
 -------------------------------------------------------------------------------
 

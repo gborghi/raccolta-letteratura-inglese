@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/new-jerusalem-(chesterton)">New Jerusalem</a> › <a href="/testi/chesterton/atomized/new_jerusalem/chapter_08">Chapter 08</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/new_jerusalem/chapter_08/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/new_jerusalem/chapter_09/part_01">part 01 ›</a></div>
@@ -58,5 +60,61 @@ mystery will abide the best.  And however much or little our
 spiritual inquirers may lift the veil from their invisible kings,
 they will not find a vision more vivid than a man walking unveiled
 upon the [[Mountains|mountains]], seen of men and seeing; a visible god.
+
+= = = = = = = = = = = = = = = =
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/new-jerusalem-(chesterton)">New Jerusalem</a> › <a href="/testi/chesterton/atomized/new_jerusalem/chapter_08">Chapter 08</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/new_jerusalem/chapter_08/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/new_jerusalem/chapter_09/part_01">part 01 ›</a></div>
+</nav>
+
+In una parola, il mondo moderno finirà probabilmente esattamente dove la
+[[Bible|Bibbia]] comincia.  In quell'inevitabile schierarsi di spirito contro spirito,
+o di dio contro dio, ci troveremo presto in condizione di rendere maggior
+giustizia non solo al Nuovo Testamento, ma anche all'Antico Testamento.
+I nostri discendenti potrebbero benissimo fare proprio ciò
+di cui deridiamo gli antichi Ebrei; brancolare verso, e aggrapparsi al, proprio
+dio come a uno che si erge sopra rivali che paiono altrettanto reali.
+Anch'essi potrebbero sentirlo non anzitutto come l'unico o persino il supremo,
+ma solo come il migliore; e dover attendere i miracoli delle epoche per provare
+che è anche il più potente.  Anche per loro, dapprima egli potrà
+essere sentito come proprio, prima di essere esteso ad altri; anch'egli,
+dalla collisione con colossali idolatrie e torreggianti tirannie
+spirituali, potrà emergere solo come un Dio delle Battaglie e un Signore degli Eserciti.
+Qui, tra le distese oscure e la montagna avvolta di nubi, si combatté
+ciò che deve apparire persino all'indifferente una lotta di giganti
+capace di deviare il mondo dal suo corso; il Jehovah dei [[Mountains|monti]]
+che abbatte il Baal del [[Desert|deserto]] e il Dagon del mare.  Qui vagò
+e resistette quel popolo strano e terribile e tenace che teneva
+alta al di sopra di tutte le sue virtù e i suoi vizi un'unica idea indistruttibile;
+che essi non erano che strumenti in quella mano tremenda.
+Qui fu il primo trionfo di coloro che, in un senso al di là
+della nostra comprensione, avevano rettamente scelto tra le potenze invisibili,
+e trovarono la loro scelta un grande dio al di sopra di tutti gli dèi.  Così il futuro
+potrà soffrire non della perdita ma della molteplicità della [[Faith|fede]];
+e il suo destino essere assai più simile alla guerra nebulosa e mitologica
+nel [[Desert|deserto]] che alla secca radianza del teismo o del monismo.
+Non ho detto nulla qui della mia [[Faith|fede]], né di quel nome sul quale,
+ne sono [[Well|ben]] persuaso, il mondo farà somma saggezza a invocare.
+Ma credo davvero che la tradizione fondata in quella lontana battaglia tribale,
+in quella lontana terra d'Oriente, si sia in effetti giustificata conducendo
+fino a una [[Truth|verità]] duratura; e che sarà ancora una volta giustificata
+da tutti i suoi figli.  Ciò che è sopravvissuto attraverso un'epoca di ateismo
+come la cosa più indistruttibile sopravvivrebbe attraverso un'epoca di politeismo
+come la più indispensabile.  Se tra molti dèi non potesse per il momento
+provarsi il più forte, alcuni saprebbero comunque che è il migliore.
+La sua presenza centrale perdurerebbe attraverso tempi di nube e confusione,
+in cui fosse giudicata solo come un mito tra i miti o un uomo tra gli uomini.
+Persino l'antica prova pagana dell'umanità e l'apparizione del [[Body|corpo]],
+riguardo alla quale ho citato il verso sul politeista pagano
+cantato dal poeta neo-pagano, è una prova che quel mistero
+incarnato sosterrà meglio di ogni altro.  E per quanto tanto o poco i nostri
+indagatori spirituali possano sollevare il velo dai loro re invisibili,
+non troveranno una visione più viva di un uomo che cammina senza velo
+sui [[Mountains|monti]], visto dagli uomini e vedente; un dio visibile.
 
 = = = = = = = = = = = = = = = =

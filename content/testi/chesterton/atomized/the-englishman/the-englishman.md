@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-englishman-(chesterton)">the-englishman</a></div>
 </nav>
@@ -41,5 +43,44 @@ But though he is jolly company
 And very pleased to dine,  
 It isn't safe to give him nuts  
 Unless you give him wine.  
+
+-- G.K.Chesterton
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-englishman-(chesterton)">the-englishman</a></div>
+</nav>
+
+L'Inglese  
+
+San Giorgio era per l'Inghilterra,  
+e prima di uccidere il drago  
+bevve una pinta di birra inglese  
+da un boccale inglese.  
+Poiché, per quanto digiuni di buon grado  
+in cilicio o in cotta di maglia,  
+non è prudente dargli dolci  
+se non gli dài anche la birra.  
+
+San Giorgio era per l'Inghilterra,  
+e con gran galanteria liberò  
+la dama lasciata in pasto al drago  
+e legata a un albero;  
+ma poiché rappresentava l'Inghilterra  
+e sapeva cosa significa l'Inghilterra,  
+se non gli dài la pancetta  
+non devi dargli i fagioli.  
+
+San Giorgio è per l'Inghilterra,  
+e porterà lo scudo che portava  
+quando usciremo in armatura  
+con la [[Cross|croce]] di battaglia davanti.  
+Ma per quanto sia lieta compagnia  
+e ben contento di cenare,  
+non è prudente dargli le noci  
+se non gli dài il vino.  
 
 -- G.K.Chesterton

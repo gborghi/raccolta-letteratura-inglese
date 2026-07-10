@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/logic-(chesterton)">logic</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/logic/part/part_01">‹ part 01</a><span></span></div>
@@ -68,3 +70,67 @@ that it should be occasionally discussed at least as intelligently
 as it is played.
 
 (An [[Essay|essay]] reprinted in "The Thing")
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/logic-(chesterton)">logic</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/logic/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Nei buoni vecchi tempi del razionalismo vittoriano era
+abitudine convenzionale schernire San Tommaso d'[[aquinas|Aquino]] e i
+teologi medievali; e specialmente ripetere all'infinito una [[Well|ben]] logora
+facezia sull'uomo che discuteva quanti angeli potessero [[Dance|danzare]] sulla
+punta di un ago.  I comodi e mercantili vittoriani,
+col loro danaro e le loro mercanzie, avrebbero [[Well|ben]] potuto sentire un'estremità più aguzza
+del medesimo ago, anche se fosse stata l'altra estremità.
+Sarebbe stato bene per le loro anime cercare quell'ago,
+non nel pagliaio della metafisica medievale, ma nell'ordinato
+astuccio da aghi della loro prediletta [[Bible|Bibbia]] tascabile.  Sarebbe stato
+meglio per loro meditare, non su quanti angeli potessero stare
+sulla punta di un ago, ma su quanti cammelli potessero passare
+per la cruna di esso.  Ma vi è un altro commento su questa curiosa
+facezia o motto, più pertinente al nostro scopo qui.
+Se il mistico medievale mai discusse davvero di angeli in piedi
+su un ago, almeno non discusse come se il fine degli angeli
+fosse stare su un ago; come se Dio avesse creato tutti gli Angeli
+e gli Arcangeli, tutti i Troni, le Virtù, le Potestà e i Principati,
+unicamente affinché vi fosse qualcosa con cui vestire
+e ornare la sconveniente [[Nakedness|nudità]] della punta di un ago.
+Ma è così che ragionano i razionalisti moderni.
+Il mistico medievale non avrebbe nemmeno detto che un ago esiste
+per essere un piedistallo per gli angeli.  Il mistico medievale sarebbe
+stato il primo a dire che un ago esiste per far vestiti agli uomini.
+Poiché i mistici medievali, nella loro fosca via trascendentale, erano molto
+interessati alle vere ragioni delle cose e alla distinzione
+tra i mezzi e il fine.  Volevano sapere a che cosa una cosa
+servisse davvero e quale fosse la dipendenza di un'idea da un'altra.
+E avrebbero persino potuto suggerire, ciò che tanti giornalisti sembrano
+dimenticare, la paradossale possibilità che il Tennis fosse fatto per l'Uomo
+e non l'Uomo per il Tennis.
+
+I Modernisti furono singolarmente sventurati quando dissero che dal mondo
+moderno non ci si deve attendere che tolleri gli antichi metodi sillogistici
+degli Scolastici.  Proponevano di rottamare l'unico strumento
+medievale di cui il mondo moderno avrà più immediatamente bisogno.
+Vi sarebbe stato un caso assai migliore nel dire che il
+revival dell'architettura gotica è stato sentimentale e futile;
+che il movimento preraffaellita nell'arte fu solo un episodio eccentrico;
+che l'uso alla moda della parola "costruire" per ogni possibile
+sorta di istituzione sociale era affettato e artificiale;
+che il feudalesimo della Giovane Inghilterra era assai diverso da quello
+della Vecchia Inghilterra.  Ma questo metodo di deduzione netta e precisa, con la
+definizione dei postulati e l'effettiva risposta alla domanda,
+è qualcosa di cui l'intera nostra società, adulata dai giornali,
+ha acuto e istantaneo bisogno; come gli avvelenati hanno bisogno di medicina.
+Ho preso qui un solo esempio, capitatomi sott'occhio
+tra centomila che sfrecciano ogni ora.
+E poiché il Tennis, come ogni altro buon gioco, va giocato
+con la testa oltre che [[Well|con]] la mano, ritengo altamente auspicabile
+che venga occasionalmente discusso almeno con la stessa intelligenza
+con cui è giocato.
+
+(Un [[Essay|saggio]] ristampato in "The Thing")

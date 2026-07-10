@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/nevercometrue-(chesterton)">Nevercometrue</a></div>
 </nav>
@@ -36,3 +38,35 @@ In [[Nevercometrue]] come true.
         G.K. Chesterton  
 
 [Published in G.K.'s Weekly, 28th March, 1925]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/nevercometrue-(chesterton)">Nevercometrue</a></div>
+</nav>
+
+[[Song|Canzone]]  
+
+C'è un suono di flauti e di liuti stanotte  
+nell'isola di [[Nevercometrue]];  
+in un'isola illuminata dal [[Fire|fuoco]] nei mari della [[Night|notte]]  
+nera di profondità d'azzurro;  
+e l'uomo che avrei potuto essere io danzerò la [[Dance|danza]]  
+con la donna che avresti potuto essere tu:  
+sotto il mondo dove un uomo ricorda  
+più di quanto abbia mai saputo.  
+
+C'è un fragore di [[songs|canti]] nei gong stanotte,  
+nel [[Garden|giardino]] di [[Nevercometrue]];  
+sotto gli alberi dei terribili [[Flowers|fiori]]  
+che sbocciano quando la [[Moon|luna]] è azzurra;  
+e l'uomo che io non fui mai è sposato  
+alla donna che tu non fosti mai--  
+o nulla di più vicino di tutto ciò che è,  
+in [[Nevercometrue]] fatto vero.  
+
+          G.K. Chesterton
+
+[Pubblicato in G.K.'s Weekly, 28 marzo 1925]

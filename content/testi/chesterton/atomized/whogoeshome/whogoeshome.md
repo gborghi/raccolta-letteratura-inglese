@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/whogoeshome-(chesterton)">WhoGoesHome</a></div>
 </nav>
@@ -30,3 +32,29 @@ Who Goes [[Home]]?
           Who is for Liberty? Who goes [[Home|home]]?  
 
                G. K. Chesterton
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/whogoeshome-(chesterton)">WhoGoesHome</a></div>
+</nav>
+
+Chi Va a [[Home|Casa]]?  
+
+          Nella [[City|città]] posata su melma e limo  
+          gridano nel loro parlamento 'Chi va a [[Home|casa]]?'  
+          e nessuna risposta viene da arco o cupola,  
+          perché nessuno nella [[City|città]] delle tombe va a [[Home|casa]].  
+          Eppure costoro periranno e comprenderanno,  
+          perché Dio ha pietà di questa grande terra.  
+
+          Uomini che tornano uomini; chi va a [[Home|casa]]?  
+          Campana a martello e trombettiere! Chi va a [[Home|casa]]?  
+          Perché c'è [[Blood|sangue]] sul campo e [[Blood|sangue]] sulla spuma  
+          e [[Blood|sangue]] sul [[Body|corpo]] quando l'Uomo va a [[Home|casa]].  
+          E una voce d'addio . . . Chi è per la Vittoria?  
+          Chi è per la Libertà? Chi va a [[Home|casa]]?  
+
+G. K. Chesterton  

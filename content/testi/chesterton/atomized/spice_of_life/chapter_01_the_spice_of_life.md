@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general">Chapter 02 LITERATURE IN GENERAL ›</a></div>
@@ -58,3 +60,57 @@ the [[Sonnet|sonnet]] or the ode the contemplative life.  The [[Essay|essay]] is
 
 Extract from introductory [[Essay|essay]] by G. K. Chesterton to Essays
 of the Year.  See pp.  173-5 for all sources.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general">Chapter 02 LITERATURE IN GENERAL ›</a></div>
+</nav>
+
+Parte quinta:  Il sale della vita
+
+Il poliziotto comico
+
+L'amico di Capone
+
+Sul perdere la testa
+
+Il sale della vita
+
+Sui frammenti
+
+Fonti
+
+Il [[Essay|SAGGIO]] di G. K. Chesterton.
+
+Il [[Essay|SAGGIO]] è l'unica forma letteraria che confessa, nel suo stesso nome,
+che l'atto avventato noto come scrivere è davvero un salto nel buio.
+Quando gli uomini tentano di scrivere una [[Tragedy|tragedia]], non chiamano la [[Tragedy|tragedia]]
+una prova. Coloro che hanno faticato attraverso i dodici libri di un [[Epic|poema epico]],
+scrivendolo di propria mano, di rado hanno preteso di aver
+buttato giù un [[Epic|poema epico]] come esperimento.  Ma un [[Essay|saggio]],
+tanto per il suo stesso nome [[Well|quanto]] per la sua stessa [[Nature|natura]], è davvero una prova
+ed è davvero un esperimento.  Un uomo non scrive davvero un [[Essay|saggio]].
+Egli davvero [[Essay|saggia]] di scrivere un [[Essay|saggio]].  Un risultato è che,
+mentre vi sono molti saggi famosi, non v'è per fortuna alcun [[Essay|saggio]] modello.
+Il [[Essay|saggio]] perfetto non è mai stato scritto, per la semplice ragione
+che il [[Essay|saggio]] non è mai stato davvero scritto.  Gli uomini hanno tentato
+di scrivere qualcosa, per scoprire che cosa dovesse essere.
+Sotto questo aspetto il [[Essay|saggio]] è un prodotto tipicamente moderno ed è
+pieno dell'avvenire e della lode dell'esperimento e dell'avventura.
+In sé rimane alquanto sfuggente, e confesserò di essere
+assillato dal debole sospetto che il [[Essay|saggio]] diverrà probabilmente
+più stringente e dogmatico, soltanto a causa delle profonde e mortali
+divisioni che i problemi etici ed economici potranno imporci.
+Ma [[Hope|speriamo]] che vi sarà sempre un posto per il [[Essay|saggio]] che è
+davvero un [[Essay|saggio]].  San Tommaso d'[[aquinas|Aquino]], col suo consueto buon senso,
+disse che né la vita attiva né quella contemplativa possono
+viversi senza svago, sotto forma di scherzi e giochi.
+Il dramma o il [[Epic|poema epico]] si potrebbero dire la vita attiva della letteratura;
+il [[Sonnet|sonetto]] o l'ode la vita contemplativa.  Il [[Essay|saggio]] è lo scherzo.
+
+Estratto dal [[Essay|saggio]] introduttivo di G. K. Chesterton a Essays
+of the Year.  Vedi pp.  173-5 per tutte le fonti.

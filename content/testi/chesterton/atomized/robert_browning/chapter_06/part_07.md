@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/robert-browning-(chesterton)">Robert Browning</a> › <a href="/testi/chesterton/atomized/robert_browning/chapter_06">Chapter 06</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_browning/chapter_06/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/robert_browning/chapter_07/part_01">part 01 ›</a></div>
@@ -75,3 +77,74 @@ earth mean nothing? Do grey skies and wastes covered with thistles
 mean nothing? Does an old [[Horse|horse]] turned out to graze mean nothing? If
 it does, there is but one further [[Truth|truth]] to be added--that everything
 means nothing.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/robert-browning-(chesterton)">Robert Browning</a> › <a href="/testi/chesterton/atomized/robert_browning/chapter_06">Chapter 06</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_browning/chapter_06/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/robert_browning/chapter_07/part_01">part 01 ›</a></div>
+</nav>
+
+Molti che potrebbero capire come la ruvidezza possa essere una qualità
+artistica, negherebbero risolutamente, e nella maggior parte dei casi a ragione, che
+l'oscurità possa in qualsiasi circostanza immaginabile essere una qualità
+artistica. Ma anche qui l'opera di Browning richiede un'analisi alquanto più
+cauta e comprensiva. Vi è una certa specie di
+fascino, un fascino strettamente artistico, che scaturisce dal
+fatto che una cosa sia adombrata in modo tale da lasciare una certa tormentosa
+incertezza perfino alla fine. È [[Well|bene]], talvolta, comprendere a metà una
+poesia allo stesso modo in cui comprendiamo a metà il mondo. Uno dei
+più profondi e strani di tutti gli stati d'animo umani è quello che
+d'improvviso ci coglie forse in un [[Garden|giardino]] di [[Night|notte]], o nel profondo di prati
+in pendio: la sensazione che ogni fiore e ogni foglia abbia appena proferito
+qualcosa di stupendamente diretto e importante, e che noi, per un
+prodigio d'imbecillità, non l'abbiamo udito né compreso. Vi è un certo
+valore poetico, e genuino per giunta, in questo senso d'aver mancato
+il pieno significato delle cose. Vi è [[Beauty|bellezza]], non solo nella sapienza, ma
+in questa stordita e drammatica ignoranza.
+
+Ma in [[Truth|verità]] è assai difficile tenere il passo con tutti gli strani
+e non classificati meriti artistici di Browning. Egli tentava sempre
+esperimenti; talvolta falliva, producendo metri goffi e irritanti,
+pensieri sbilanciati e sovraccarichi. Assai più spesso
+trionfava, producendo una folla di [[Poems|poesie]] arditamente concepite, ognuna delle
+quali, presa a sé, avrebbe potuto fondare una scuola artistica. Ma
+riuscisse o non riuscisse, non cessò mai dalla sua feroce
+caccia alla novità poetica. Non divenne mai un conservatore. L'ultimo
+libro che pubblicò in [[Time|vita]] sua, _Parleyings with Certain People of
+Importance in their Day_, era una nuova poesia, e più rivoluzionaria di
+_Paracelsus_. È questa la vera luce in cui considerare Browning come
+[[artist|artista]]. Egli aveva deciso di non lasciare punto del cosmo inornato dalla
+sua poesia che gli fosse possibile ornare. Un mirabile
+esempio si trova in quello splendido poema "Childe Roland alla Torre
+Oscura giunse." È l'accenno di un tipo di poesia interamente nuovo e curioso,
+la poesia dell'aspetto squallido e affamato della terra
+stessa. I poeti audaci che desideravano evadere dai giardini
+e frutteti convenzionali avevano lungamente avuto l'abitudine di celebrare la poesia
+di paesaggi aspri e tetri, ma Browning non si accontenta di questo.
+Egli insiste nel celebrare la poesia dei paesaggi meschini. Quel senso
+di squallore nella [[Nature|natura]], come d'un uomo non rasato, non era mai stato
+reso con questo entusiasmo e questa gioia primeva.
+
+    "Se qualche cencioso gambo di cardo si spingeva
+       sopra i compagni, il capo veniva mozzato; i giunchi
+       ne erano gelosi. Che cosa fece quei buchi e strappi
+    nelle dure foglie [[Leaves|scure]] della romice, ammaccate a sventare
+    ogni [[Hope|speranza]] di verzura? è una bestia che deve incedere
+       pestandone via la vita, coi propositi d'una bestia."
+
+Questa è una perfetta realizzazione di quel sentimento inquietante che ci coglie,
+non tanto spesso tra le [[Mountains|montagne]] e le cascate d'[[Water|acqua]], quanto su qualche
+brughiera semi-affamata al crepuscolo, o percorrendo qualche grigia e meschina
+via. È il [[Song|canto]] della [[Beauty|bellezza]] del rifiuto; e Browning fu il
+primo a cantarlo. Curiosamente, è stato uno dei [[Poems|poemi]] intorno ai
+quali si sono poste la maggior parte di quelle pedantesche e triviali domande
+che vengono poste invariabilmente da coloro che trattano Browning come una scienza
+anziché come un poeta: "Che cosa significa il poema di 'Childe Roland'?" L'
+unica risposta genuina a ciò è: "Che cosa significa alcunché?" Significa forse la
+terra nulla? Significano nulla i grigi cieli e le lande coperte di cardi?
+Significa nulla un vecchio [[Horse|cavallo]] messo a pascolare? Se
+non significa nulla, non v'è che un'ulteriore [[Truth|verità]] da aggiungere: che ogni cosa
+non significa nulla.

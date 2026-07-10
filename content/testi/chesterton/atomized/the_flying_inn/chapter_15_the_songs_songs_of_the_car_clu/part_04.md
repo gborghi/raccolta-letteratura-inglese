@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_15_the_songs_songs_of_the_car_clu">Chapter 15 THE songs SONGS OF THE CAR CLU</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_15_the_songs_songs_of_the_car_clu/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_16_the_seven_moods_of_dorian/part_01">part 01 ›</a></div>
@@ -45,3 +47,38 @@ All this did Mr. Humphrey Pump observe, not without interest. The place, remote 
 
 
 The remorseful chauffeur, after many adventures, did actually find his way back to the little moonlit wood where he had left his master and the [[donkey]]. But his master and the [[donkey]] had vanished.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a> › <a href="/testi/chesterton/atomized/the_flying_inn/chapter_15_the_songs_songs_of_the_car_clu">Chapter 15 THE songs SONGS OF THE CAR CLU</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_15_the_songs_songs_of_the_car_clu/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_16_the_seven_moods_of_dorian/part_01">part 01 ›</a></div>
+</nav>
+
+Il capitano Patrick Dalroy balzò fuori dall'automobile così di scatto che quasi barcollò e scivolò sulla [[Road|strada]]. Il cane balzò dietro di lui, abbaiando furiosamente.
+
+
+
+«Hump», disse Patrick, con calma. «Ho scoperto tutto di te. So che cosa mi ha sempre lasciato perplesso a proposito dell'inglese».
+
+
+
+Poi, dopo un istante di [[Silence|silenzio]], disse: «Aveva ragione quel francese che disse (dimentico come lo formulò) che tu marci a Trafalgar Square per liberarti del tuo malumore; non per liberarti del tuo [[Tyrant|tiranno]]. Il nostro amico era prontissimo a [[Rebel|ribellarsi]] correndo via. [[Rebel|Ribellarsi]] restando seduto immobile era troppo per lui. Leggi il Punch? Sono certo che sì. Il Pump e il Punch devono essere quasi gli unici superstiti dell'Età Vittoriana. Ricordi una vecchia battuta in una vignetta eccellente, che rappresentava due irlandesi cenciosi col fucile, in attesa dietro un muro di pietra di sparare a un latifondista? Uno degli irlandesi dice che il latifondista è in ritardo, e aggiunge: "[[Hope|Spero]] che non sia capitato qualche incidente al povero signore". [[Well|Ebbene]], è tutto perfettamente vero; conoscevo intimamente quell'irlandese, ma voglio dirti un segreto sul suo conto. Era un inglese».
+
+
+
+L'autista aveva fatto retromarcia con trepida cautela fino all'ingresso del garage, che era adiacente a una latteria, o soltanto separato da essa da un vicolo nero e smilzo, non più largo, all'apparenza, della fessura d'una porta. Doveva però essere più largo di quanto sembrasse, perché il capitano Dalroy vi scomparve dentro.
+
+
+
+Pareva avesse fatto cenno all'autista di seguirlo; comunque quel funzionario lo seguì all'istante. Il funzionario ne uscì di nuovo con una fretta quasi colpevole, toccandosi il berretto e ficcandosi in tasca fogli sciolti. Poi il funzionario tornò ancora una volta da quella che egli chiamava la "garrige", portando cose più grandi e più sciolte sul braccio.
+
+
+
+Tutto ciò osservò il signor Humphrey Pump, non senza interesse. Il luogo, per remoto che fosse, era evidentemente un rendez-vous per automobilisti. Altrimenti un automobilista altissimo, imbacuccato e mascherato al grado più impenetrabile, difficilmente si sarebbe avvicinato per parlargli. Ancor meno l'alto automobilista gli avrebbe porto un simile orribile travestimento di panni e occhialoni, in un fagotto sul braccio. Meno che mai un automobilista, per alto che fosse, gli avrebbe detto da dietro il berretto e gli occhialoni: «Metti su questa roba, Hump, e poi entreremo nella latteria. Aspetto l'automobile. Quale automobile, mio cercatore di [[Truth|verità]]? Ma l'automobile che sto per comprare perché tu la guidi».
+
+
+
+L'autista pieno di rimorso, dopo molte avventure, ritrovò davvero la via del boschetto rischiarato dalla luna dove aveva lasciato il suo padrone e l'[[donkey|asino]]. Ma il suo padrone e l'[[donkey|asino]] erano svaniti.

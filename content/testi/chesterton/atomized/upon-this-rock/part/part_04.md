@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/upon-this-rock-(chesterton)">upon-this-rock</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/upon-this-rock/part/part_03">‹ part 03</a><span></span></div>
@@ -53,4 +55,54 @@ with conviction; but anything I wrote on this last topic might
 be defaced with enthusiasm.
 
 [From An Outline of [[Christianity]] ([[London]], 1926). Reprinted
+in G.K. Chesterton, The [[Catholic Church]] and [[conversion|Conversion]] (1960).]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/upon-this-rock-(chesterton)">upon-this-rock</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/upon-this-rock/part/part_03">‹ part 03</a><span></span></div>
+</nav>
+
+Della più popolare, più poetica e praticamente più ispiratrice
+di tutte le tradizioni distintamente cattoliche del [[Christianity|Cristianesimo]], dirò
+qui pochissimo; anzi, dirò una cosa sola.
+L'[[Honour|onore]] reso a Maria come Madre di Dio è, tra mille
+altre cose, un esempio perfettissimo della [[Truth|verità]] cui sono
+più volte ritornato:  che perfino quelle che possiamo chiamare
+le verità protestanti furono salvate soltanto dall'autorità cattolica.
+Tra queste vi è la necessarissima [[Truth|verità]] della subordinazione di Maria
+a [[Christ|Cristo]], essendo in fondo la subordinazione della creatura
+al Creatore.  Nulla diverte i cattolici più del suggerimento,
+così frequente nella vecchia propaganda protestante, che essi debbano essere
+liberati dalla superstizione detta mariolatria, come gente liberata
+dal peso della luce del giorno.  Tutta la spiritualità spontanea,
+a differenza della necessaria ortodossia dottrinale, sta
+dalla parte dell'estensione e persino dell'eccesso di questo culto.
+Se i cattolici fossero stati lasciati al loro giudizio privato, alla loro
+personale esperienza religiosa, al loro senso dello spirito essenziale
+di [[Christ|Cristo]] e del [[Christianity|Cristianesimo]], a uno qualunque dei criteri liberali o latitudinari
+della [[Truth|verità]], avrebbero da tempo innalzato la Madonna a
+un'altezza di supremazia e splendore sovrumani che avrebbe davvero
+potuto mettere a repentaglio il puro monoteismo nel cuore del credo.
+Su intere distese dell'opinione popolare ella sarebbe potuta essere una dea
+più universale di Iside.  È l'autorità di Roma che ha
+impedito a tali cattolici di abbandonarsi a simile mariolatria;
+la rigorosa definizione che distingueva tra una donna perfetta
+e un Uomo divino.  Ma se questo fosse luogo per l'espressione del sentimento,
+poco [[Doubt|dubbio]] resterebbe su quale direzione prendano tutti i nostri più diretti
+e democratici sentimenti.  Lungo tutta questa esposizione ho
+ignorato l'insensata affettazione dell'imparzialità.  È impossibile
+per chiunque enunciare ciò in cui crede come se non ci credesse.
+Ma mi sono sforzato di descrivere i tratti più familiari
+di questa sola religione in termini di [[logic|logica]], non di retorica.
+E su quest'ultima questione della dottrina riguardante la Vergine
+concluderò senza altre parole.  È solo ragionevole
+che un credo presentato da chi lo professa sia enunciato
+con convinzione; ma qualunque cosa scrivessi su quest'ultimo tema rischierebbe
+di essere deturpata dall'entusiasmo.
+
+[Da An Outline of [[Christianity]] ([[London|Londra]], 1926). Ristampato
 in G.K. Chesterton, The [[Catholic Church]] and [[conversion|Conversion]] (1960).]

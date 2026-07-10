@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/pickwick-(chesterton)">Pickwick</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/pickwick/part/part_02">‹ part 02</a><span></span></div>
@@ -67,5 +69,70 @@ They were comic characters, if not to themselves, at least to each other.
 And even in isolation, any one of them who had with him (as he often had)
 a tattered volume of [[Pickwick]], must have felt that he carried his
 country in his pocket.
+
+G. K. Chesterton.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/pickwick-(chesterton)">Pickwick</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/pickwick/part/part_02">‹ part 02</a><span></span></div>
+</nav>
+
+E questa è la [[Truth|verità]] sull'avventura inglese anche fuori dall'Inghilterra.
+Il suo tipo di [[Endurance|resistenza]] non è stato lo stoicismo, ma piuttosto la tolleranza.
+Potremmo dire che fosse fin troppo tollerante, se non avesse la rara virtù
+di tollerare l'intollerabile.  Ciò che ha davvero reso gli inglesi,
+al di là delle mere adulazioni giornalistiche e sciovinistiche, un [[success|successo]] nelle
+colonie e nelle campagne in paesi selvaggi, fu una certa comica
+accettazione dell'incongruo; una certa capacità, nel cockney o nel villano
+inglese, di continuare a essere assurdamente simile a se stesso
+anche quando, nella formula rituale, non sa più dove diavolo si trova.
+Questo è un merito nazionale che, come altri meriti nazionali, si acquista
+a prezzo di perdere altre cose; di perdere, per esempio,
+il pieno status del cittadino e la piena esperienza ereditata
+che viene dal restare radicati in civiltà antichissime.  Ma è
+forse la più umoristica e attraente di tutte le virtù nazionali;
+e uomini che conoscono davvero dall'interno le varie nazioni
+dell'umanità europea non hanno trovato nulla di più umano dell'ordinaria
+comica [[Song|canzone]] inglese o dei discorsi dei Tommies nelle trincee.
+Di tutta quella grande tradizione popolare "[[Pickwick]]" è il supremo capolavoro
+artistico e comprensivo, e persino il miracolo.  I suoi difetti stessi sono
+i suoi meriti; poiché corrispondono a questa particolare [[morality|moralità]] nazionale.
+Se la storia è caotica, è perché la [[philosophy|filosofia]] del popolo
+è stata a lungo caotica, e anzi persino pericolosamente caotica.
+Se è persino, in un certo senso, superficiale, essendo una scrematura
+della superficie di una società vasta e variegata, è perché è vera.
+In quel senso lo spirito inglese ha davvero una certa
+superficialità il cui movente più profondo è la socievolezza.
+Perde qualcosa, in verità, perde moltissimo, nel non pensare
+a ritroso fino ai primi principi o nell'affrontare le verità fondamentali.
+Ma guadagna anche moltissimo nella grande virtù della [[Charity|carità]];
+sia nella forma della pazienza con i compagni sia nell'ospitalità agli stranieri.
+Le amicizie non vengono spezzate dalle faide dell'intelletto;
+e se vi è fin troppo poco riconoscimento dell'idea di [[Truth|verità]],
+vi è un preziosissimo riconoscimento dell'idea di fiducia.
+
+Nulla è più inglese o più caratteristico nell'[[Epic|epopea]] di [[Pickwick]]
+del fatto che la brigata di compagni è comica nella sua incongruità.
+Divergono e non litigano; oppure litigano e non si separano.
+Vi è un presupposto e un'atmosfera di assurda tolleranza
+distesa su tutta la storia, così che non ci aspettiamo mai che il ridicolo
+sia altro che ridicolo.  Il signor [[Pickwick]] chiama il signor Winkle
+un impostore; ma non pare avere nulla in contrario agli impostori.
+Denuncia i suoi seguaci per aver giocato con i sentimenti femminili e
+poi si limita a ridere quando la denuncia si rivolge contro se stesso.
+Corre per tutta la storia l'implicazione che l'assurda
+compagnia porterà a termine la sua assurda avventura; e quell'implicazione
+è stata tacita in molte compagnie di persone inglesi.
+Devono esserci stati molti gruppi di inglesi in accampamenti e in buchi
+e cantucci coloniali, composti di uomini che in qualche modo andavano d'accordo,
+per quanto ciascuno fosse considerato assai poca cosa come individuo.
+Erano personaggi comici, se non a se stessi, almeno l'uno all'altro.
+E persino nell'isolamento, chiunque di loro avesse con sé (come spesso aveva)
+un logoro volume del [[Pickwick]], deve aver sentito di portare il suo
+paese nella tasca.
 
 G. K. Chesterton.

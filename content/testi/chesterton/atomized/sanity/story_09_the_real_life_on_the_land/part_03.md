@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a> › <a href="/testi/chesterton/atomized/sanity/story_09_the_real_life_on_the_land">Story 09 THE REAL LIFE ON THE LAND</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_09_the_real_life_on_the_land/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_11_the_wheel_wheel_of_fate/part_01">part 01 ›</a></div>
@@ -65,5 +67,68 @@ men like cannon balls; but they do not return to them like boomerangs.
 We need a social circle in which things constantly return to
 those that threw them; and men who know the end and the beginning
 and the rounding of our little life.
+
+= = = = = = = = = = = = = = = =
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a> › <a href="/testi/chesterton/atomized/sanity/story_09_the_real_life_on_the_land">Story 09 THE REAL LIFE ON THE LAND</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_09_the_real_life_on_the_land/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_11_the_wheel_wheel_of_fate/part_01">part 01 ›</a></div>
+</nav>
+
+La maggior parte di noi, in un certo senso, comprende che questo è vero; ma molti
+di noi non hanno ancora compreso che è vero anche il suo rovescio.
+Ed è proprio quell'altra [[Truth|verità]], una volta afferrata, a condurci
+al punto successivo, necessario, riguardo alla piena condizione del contadino.
+E il punto è questo: che anche il contadino avrà un'esperienza soltanto
+parziale, se coltiva le cose in campagna al solo scopo di venderle
+alla città. Naturalmente, è soltanto uno scherzo rappresentare l'ignoranza
+della città o della campagna tanto [[Grotesque|grottesca]] quanto ho
+suggerito a titolo d'esempio. Il cittadino non crede davvero
+che il latte piova dalle nuvole o che le fette di pancetta crescano sugli alberi,
+per quanto abbia le idee un po' confuse sulle zucche. Qualcosa ne sa;
+ma non abbastanza da rendere di gran valore il suo parere.
+Il campagnolo non crede davvero che il latte serva da calce
+o le zucche da guanciali, anche se non li vede mai usati così.
+Ma se egli è un mero produttore e non un consumatore di quelle cose,
+la sua posizione diventa parziale quanto quella di un qualsiasi scrivano londinese;
+quasi altrettanto angusta e persino più servile. Dato il meraviglioso
+[[Romance|romanzo]] della zucca, è cosa cattiva che il contadino
+conosca soltanto l'inizio della storia, così com'è cosa cattiva
+che lo scrivano ne conosca soltanto la fine.
+
+Inserisco qui questa osservazione generale per una ragione particolare.
+Prima di venire alla convenienza pratica del contadino che consuma
+ciò che produce (e alla ragione per cui la si ritiene, come ha sostenuto
+il signor Heseltine, assai più praticabile del metodo per cui egli vende soltanto
+ciò che produce), ritengo [[Well|bene]] far notare che questa via,
+pur essendo più conveniente, non è una mera resa alla convenienza.
+Mi pare cosa ottima, in teoria non meno che [[Well|nella]] pratica,
+che vi sia un [[Body|corpo]] di cittadini dediti anzitutto a produrre
+e a consumare, e non a scambiare. Mi pare parte del nostro ideale,
+e non semplicemente parte del nostro compromesso, che vi sia nella
+comunità una specie di nucleo non solo di semplicità, ma di completezza.
+Lo scambio e la varietà potranno allora avere il loro posto ragionevole,
+come l'avevano nel vecchio mondo delle fiere e dei mercati. Ma vi
+sarebbe da qualche parte, al centro della civiltà, un tipo umano
+davvero indipendente; nel senso di produrre e consumare entro
+la propria cerchia sociale. Non dico che una vita umana così
+completa rappresenti un'umanità completa. Non dico che lo Stato
+abbia bisogno soltanto dell'uomo che nulla chiede allo Stato. Ma dico
+che quest'uomo, che provvede da sé ai propri bisogni, è molto necessario.
+Lo dico in gran parte a causa della sua assenza dalla civiltà moderna,
+per cui la civiltà moderna ha perduto l'[[unity|unità]]. Non è affare di nessuno
+osservare un processo nella sua interezza, vedere da dove vengono le cose
+e dove vanno. Nessuno segue l'intero corso tortuoso
+del [[River|fiume]] di latte che scorre dalla mucca al lattante.
+Nessuno che sia presente alla [[Death|morte]] del maiale si sente responsabile di comprendere
+che la prova del maiale sta nel mangiarlo. Gli uomini si lanciano le zucche l'un l'altro
+come palle di cannone; ma esse non tornano loro come boomerang.
+Ci occorre una cerchia sociale in cui le cose tornino di continuo
+a chi le ha lanciate; e uomini che conoscano la fine e l'inizio
+e il compiersi della nostra piccola vita.
 
 = = = = = = = = = = = = = = = =

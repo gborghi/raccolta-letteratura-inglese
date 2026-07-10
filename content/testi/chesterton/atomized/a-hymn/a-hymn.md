@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/a-hymn-(chesterton)">a-hymn</a></div>
 </nav>
@@ -43,3 +45,42 @@ In ire and exultation
   Aflame with [[Faith|faith]], and free,  
 Lift up a living nation,  
   A single [[Sword|sword]] to thee.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/a-hymn-(chesterton)">a-hymn</a></div>
+</nav>
+
+Un [[Hymn|Inno]]  
+
+di G.K.Chesterton  
+
+O Dio di terra e altare,  
+  Chinati e ascolta il nostro grido,  
+Vacillano i nostri sovrani terreni,  
+  il nostro popolo va alla deriva e muore;  
+Le mura d'oro ci seppelliscono,  
+  le spade dello scherno dividono,  
+Non toglierci il tuo tuono,  
+  ma togli il nostro [[Pride|orgoglio]].  
+
+Da tutto ciò che il terrore insegna,  
+  dalle menzogne di lingua e penna,  
+da tutti i facili discorsi  
+  che confortano gli uomini crudeli,  
+dalla vendita e profanazione  
+  dell'[[Honour|onore]] e della [[Sword|spada]],  
+dal [[Sleep|sonno]] e dalla dannazione,  
+  liberaci, buon Signore.  
+
+Lega in un vincolo vivente  
+  il principe, il prete e il servo,  
+unisci tutte le nostre vite insieme,  
+  colpiscici e salvaci tutti;  
+Nell'ira e nell'esultanza  
+  ardenti di [[Faith|fede]], e liberi,  
+solleva una nazione viva,  
+  un'unica [[Sword|spada]] verso di te.

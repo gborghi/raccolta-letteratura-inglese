@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/return-of-the-angels-(chesterton)">Return of the Angels</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/return_of_the_angels/part/part_01">‹ part 01</a><span></span></div>
@@ -57,3 +59,56 @@ theory because of this or that triviality--because of a
 justification of the Fourth Gospel or a rap on the table.
 We have returned to it because, by the rejection of rationalism,
 the world becomes suddenly rational.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/return-of-the-angels-(chesterton)">Return of the Angels</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/return_of_the_angels/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Cominciamo dal principio.  Un evento sorprendente e sensazionale
+è accaduto di recente; alludo alla comparsa della creatura
+chiamata uomo.  È un evento recente, considerato in scala cosmica;
+è, comparativamente parlando, soltanto un poco troppo antico per essere
+finito nei titoli dei giornali della sera.  La novità, la subitaneità e l'assoluta
+unicità dell'ascesa dell'uomo ricordano il Giappone in Oriente;
+solo che qui vale ancor di più.... Vi potranno essere cento spiegazioni di questo.
+Nessun uomo assennato direbbe che ciò comporti una deduzione spirituale.
+Ma vi si accorda, e vi si accorda assai [[Well|bene]], il supporre che
+esista un'altra atmosfera di vita oltre a quella animale, e che questo
+mondo spirituale sia irrotto in qualche modo in quella creatura in quel momento.
+Il fenomeno non prova la Religione, ma la religione spiega
+il Fenomeno.  Il Fenomeno è tanto solitario quanto l'Incarnazione.
+Lo si può spiegare dicendo che in un certo senso esso fu l'Incarnazione.
+Poi proseguiamo.  C'è una cosa che l'intera razza umana,
+senza alcuna eccezione, attesta.  Dalle età e dalle terre più remote,
+ovunque si trovi il seme dell'uomo, esso dichiara questo: che una tale
+irruzione ebbe luogo al principio, che essi o i loro
+padri hanno avuto a che fare con un essere più oscuro o più meraviglioso.
+Se la testimonianza umana significa qualcosa, questa è forse l'unica
+cosa sulla quale abbiamo una prova schiacciante.
+
+Abbiamo una testimonianza umana quasi schiacciante della necessità della [[morality|moralità]];
+abbiamo una testimonianza umana del tutto schiacciante della realtà della
+vita spirituale.  Siamo abbastanza pronti a citare la testimonianza di tutta
+l'umanità a sostegno dei regolamenti di polizia o dei dati dell'etica;
+ma pensiamo che l'umanità debba dire sciocchezze quando, con un
+grido universale, invoca questa cosa che è più antica del peccato.
+Che Marco Aurelio e i Pellerossa, che i saggi indù e i briganti
+italiani e il signor Spurgeon e Sir William Crookes giungano tutti per
+varie strade a questa conclusione, ecco una cosa importante.
+Una cosa ancor più importante è che questa fede nello spirito,
+lungi dall'essere una cosa morbosa, è tenuta da quasi tutte
+le persone fisicamente robuste che vivono all'aria aperta.
+Vigorosi contadini e fittavoli alti sei piedi credono tutti nelle fate.
+Il razionalismo è una malattia delle città, come il problema degli alloggi.
+Tutto questo è, s'intende, solo suggestivo, ma è assai suggestivo.
+Il Fenomeno non prova la Religione; ma la Religione spiega
+il Fenomeno.... Non siamo tornati alla teoria
+spirituale a causa di questa o quella banalità--per via di una
+giustificazione del Quarto Vangelo o d'un colpetto sul tavolo.
+Vi siamo tornati perché, col rigetto del razionalismo,
+il mondo diventa d'un tratto razionale.

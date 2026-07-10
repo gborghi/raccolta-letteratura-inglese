@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">What's Wrong with the World</a> › <a href="/testi/chesterton/atomized/whats_wrong/chapter_05">Chapter 05</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whats_wrong/chapter_05/part_14">‹ part 14</a><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_06/part_01">part 01 ›</a></div>
@@ -77,5 +79,80 @@ general, less human and intimate.  But the world will be like a
 broken-hearted woman who makes a humdrum [[Marriage|marriage]] because she may not
 make a happy one; Socialism may be the world's deliverance, but it is
 not the world's [[Desire|desire]].
+
+* * *
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">What's Wrong with the World</a> › <a href="/testi/chesterton/atomized/whats_wrong/chapter_05">Chapter 05</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whats_wrong/chapter_05/part_14">‹ part 14</a><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_06/part_01">part 01 ›</a></div>
+</nav>
+
+Un simile apologo non è letteralmente esagerazione alcuna dei fatti
+della [[history|storia]] inglese.  I ricchi letteralmente cacciarono i poveri
+dalla vecchia [[house|casa]] dell'ospite sulla [[Road|strada]], dicendo loro in breve
+che era la [[Road|strada]] del progresso.  Li spinsero letteralmente con la forza
+nelle fabbriche e nella moderna [[Slavery|schiavitù]] del salario, assicurando loro per tutto
+il [[Time|tempo]] che questa era l'unica via alla ricchezza e alla civiltà.
+Proprio come avevano strappato il contadino dal cibo e dalla birra del convento
+dicendo che le strade del cielo erano lastricate d'oro,
+così ora lo strapparono dal cibo e dalla birra del villaggio
+dicendogli che le strade di [[London|Londra]] erano lastricate d'oro.
+Come era entrato nel tetro portico del [[Puritanism|Puritanesimo]], così entrò
+nel tetro portico dell'Industrialismo, sentendosi dire che ciascuno di essi
+era la porta del futuro.  Finora egli è passato soltanto di [[Prison|prigione]]
+in [[Prison|prigione]], anzi, in prigioni sempre più buie, poiché il Calvinismo apriva
+una piccola [[Window|finestra]] sul cielo.  E ora gli si chiede, con gli stessi
+toni istruiti e autorevoli, di entrare in un altro oscuro portico,
+alla cui soglia deve consegnare, in mani non viste, i suoi figli,
+i suoi piccoli averi e tutte le abitudini dei suoi padri.
+
+Se quest'ultima apertura sia in [[Truth|verità]] più invitante delle vecchie
+aperture del [[Puritanism|Puritanesimo]] e dell'Industrialismo, lo si potrà discutere in seguito.
+Ma vi può essere ben poco [[Doubt|dubbio]], credo, che se qualche forma
+di Collettivismo verrà imposta all'Inghilterra, essa verrà imposta,
+come tutto il resto, da una classe politica istruita
+sopra un popolo in parte apatico e in parte ipnotizzato.
+L'aristocrazia sarà pronta ad "amministrare" il Collettivismo quanto lo fu
+ad amministrare il [[Puritanism|Puritanesimo]] o il Manchesterismo; per certi versi un simile
+potere politico centralizzato è necessariamente attraente per essa.
+Non sarà così arduo come certi [[Innocent|ingenui]] Socialisti sembrano
+supporre indurre l'Onorevole Tomnoddy a farsi carico della fornitura
+del latte al [[Well|pari]] di quella dei francobolli—con uno stipendio maggiorato.
+Il signor Bernard [[Shaw]] ha osservato che i ricchi sono migliori dei poveri
+nei consigli parrocchiali perché sono liberi dalla "timidezza finanziaria".
+Ora, la classe dirigente inglese è del tutto libera dalla timidezza finanziaria.
+Il Duca del Sussex sarà pronto a farsi Amministratore del Sussex
+per la stessa paga.  Sir William Harcourt, quel tipico [[aristocrat|aristocratico]],
+lo espresse assai correttamente.  "Noi" (cioè, l'aristocrazia)
+"siamo tutti Socialisti, ormai".
+
+Ma non è questa la nota essenziale su cui [[Desire|desidero]] concludere.
+La mia tesi principale è che, necessari o no,
+tanto l'Industrialismo quanto il Collettivismo sono stati accettati come necessità—
+non come ideali o desideri nudi e crudi.  Nessuno amava la Scuola di Manchester;
+la si sopportava come l'unico modo di produrre ricchezza.
+Nessuno ama la scuola Marxiana; la si sopporta come l'unico modo
+di prevenire la [[Poverty|povertà]].  Il cuore di nessuno è davvero nell'idea
+d'impedire a un uomo libero di possedere la propria fattoria, o a una vecchia
+di coltivare il proprio [[Garden|orto]], non più di quanto il cuore di alcuno
+fosse davvero nella spietata battaglia delle macchine.
+Lo scopo di questo capitolo è sufficientemente adempiuto nell'indicare
+che anche questa proposta è un pis aller, un disperato ripiego—
+come l'astinenzialismo.  Non mi propongo di dimostrare qui che il Socialismo
+è un [[Poison|veleno]]; mi basta sostenere che è una medicina
+e non un vino.
+
+L'idea della proprietà privata universale ma privata, l'idea di
+famiglie libere ma pur sempre famiglie, di domesticità democratica ma pur sempre
+domestica, di un uomo una [[house|casa]]—questa rimane la vera visione e
+la calamita dell'umanità.  Il mondo potrà accettare qualcosa di più ufficiale e
+generale, meno umano e intimo.  Ma il mondo sarà come una
+donna dal cuore infranto che fa un [[Marriage|matrimonio]] scialbo perché non le è dato
+farne uno felice; il Socialismo potrà essere la liberazione del mondo, ma non è
+il [[Desire|desiderio]] del mondo.
 
 * * *

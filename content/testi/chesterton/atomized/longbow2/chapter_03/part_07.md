@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a> › <a href="/testi/chesterton/atomized/longbow2/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_04/part_01">part 01 ›</a></div>
@@ -89,3 +91,89 @@ of Enoch Oates; and even before reaching that supreme test, he will
 have to support the recital of The Elusive Companion of Parson White;
 for these, as has been said, are tales of topsy-turvydom, and they
 often work backwards.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">Tales of the Long Bow</a> › <a href="/testi/chesterton/atomized/longbow2/chapter_03">Chapter 03</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_04/part_01">part 01 ›</a></div>
+</nav>
+
+# [[longbow2]] — Capitolo 3 (parte 7)
+
+«Direi,» rispose Joan Hardy, sempre sorridendo, «che avevate bisogno
+di qualcuno che si prendesse cura di voi.»
+
+Egli la fissò per un istante in modo quasi assorto,
+come se non avesse ben compreso; poi rise in modo incontenibile,
+come un uomo che ha scorto qualcosa vicinissimo a sé che sa
+di essere uno [[Fool|sciocco]] a non aver visto prima. Così un uomo inciampa in qualcosa
+in un gioco a nascondino, e viene squassato dalle risa.
+
+«Che urtone ti dà la madre terra quando cadi da un aeroplano,»
+disse, «specie quando la tua [[Ship|nave]] volante non è che un maiale volante.
+La terra dei veri contadini e dei veri maiali... non offenderti;
+ti assicuro che la confusione è un complimento. Che gran cosa è
+il buon senso del [[Horse|cavallo]], e quanto più fine, davvero, della poesia di Pegaso!
+E quando c'è per giunta tutto ciò che [[Well|pure]] rende il cielo terso
+e la terra benigna, [[Beauty|bellezza]] e coraggio e il levare del capo...
+[[Well|ebbene]], hai ragione tu, Joan. Vuoi prenderti cura di me?
+Vuoi restare a [[Home|casa]] e tarpare le ali al mio maiale?»
+
+L'aveva presa per le mani; ma lei rideva ancora
+mentre rispondeva.
+
+«Sì... te l'ho detto che non potevo farne a meno... ma devi proprio lasciarmi, Hilary.
+Vedo i tuoi amici scendere dalla cava.»
+
+Mentre parlava, infatti, si vedevano il colonnello Crane e Owen Hood
+discendere il pendio e passare attraverso uno schermo di alberi esili
+verso di loro.
+
+«Salve!» disse Hilary Pierce allegramente. «Voglio che
+mi facciate le vostre congratulazioni. Joan mi crede un tremendo ciarlatano, e ha ragione;
+sono ciò che è stato chiamato un ipocrita felice. Perlomeno voi
+potrete pensare che mi sia reso colpevole di un po' d'inganno in quest'ultima faccenda,
+quando vi darò la notizia. [[Well|Ebbene]], confesserò.»
+
+«A quale notizia alludete?» domandò il colonnello con curiosità.
+
+Hilary Pierce ghignò e fece un gesto oltre la spalla verso la
+congerie di paracadute suini, a indicare la sua ultima e culminante follia.
+
+«La [[Truth|verità]] è,» disse ridendo, «che quello era solo un fuoco d'artificio finale
+per festeggiare la vittoria o la sconfitta, comunque vogliate chiamarla.
+Non ce n'è più bisogno, perché il veto è tolto.»
+
+«Tolto?» esclamò Hood. «E perché mai? È piuttosto
+sconcertante quando i pazzi di colpo rinsaviscono così.»
+
+«Non ha avuto niente a che vedere coi pazzi,» rispose Pierce con calma.
+«Il vero mutamento è avvenuto molto più in alto, o piuttosto molto più in basso.
+Comunque sia, molto più in fondo alle cose, dove i Grandi
+Affari vengono decisi dai grandi personaggi.»
+
+«Quale mutamento?» chiese il colonnello.
+
+«Il vecchio Oates si è dato a un altro affare,» rispose Pierce con calma.
+
+«E che diavolo c'entra il vecchio Oates?» chiese Hood sbarrando gli occhi.
+«Intendi quello yankee che si aggira sognante fra le rovine medievali?»
+
+«Oh, lo so,» disse Pierce stancamente, «pensavo che non c'entrasse
+nulla; pensavo fossero gli ebrei e i vegetariani, e tutti gli altri;
+ma sono strumenti assai [[Innocent|innocenti]]. La [[Truth|verità]] è che Enoch
+Oates è il più grande insaccatore e importatore di carne di maiale al mondo,
+e LUI non voleva concorrenza dai nostri contadini. E quel che
+dice si fa, come si esprimerebbe lui. Ora, grazie a Dio, ha imboccato
+un'altra strada.»
+
+Ma se qualche lettore indomito desidera sapere quale fosse la nuova strada
+che il signor Oates imboccò e perché, si teme che l'unica sua via
+sia attendere e leggere con pazienza la storia del Lusso Esclusivo
+di Enoch Oates; e ancor prima di giungere a quella prova suprema, dovrà
+sopportare il racconto dell'Elusivo Compagno del Parroco White;
+perché questi, come si è detto, sono racconti di mondo alla rovescia, e spesso
+procedono all'indietro.

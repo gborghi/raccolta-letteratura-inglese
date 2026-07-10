@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-polish-ideal-(chesterton)">The Polish Ideal</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_polish_ideal/part/part_01">‹ part 01</a><span></span></div>
@@ -72,3 +74,71 @@ John Bull's Other Island (1904).
 3.  See Belloc's "Ballade to Our Lady of Czestochowa".
 
 4.  Dégagé means casual, relaxed.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-polish-ideal-(chesterton)">The Polish Ideal</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_polish_ideal/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Quando i Polacchi sconfissero i bolscevichi sul campo di battaglia,
+fu precisamente quello.  Fu l'antica tradizione cavalleresca che sconfiggeva
+tutto ciò che è moderno, tutto ciò che è necessitarista,
+tutto ciò che è meccanico nel metodo e materialistico nella [[philosophy|filosofia]].
+Fu la nozione marxiana che tutto è inevitabile, sconfitta
+dalla nozione cristiana che nulla è inevitabile--no, nemmeno
+ciò che è già accaduto.  Il signor Belloc ha trasfuso l'ideale polacco
+in versi dedicati a un grande santuario polacco--
+
+  [[Hope|Speranza]] dei Mezzo-Sconfitti; [[house|casa]] d'oro;
+  Santuario della [[Sword|spada]] e torre d'avorio.[3]
+
+Prima di lasciare questi cavalieri polacchi posso osservare che ebbi
+un'altra occasione di vederli alle gare di salto nel
+Concours Hippique, e mi limiterò a menzionare un episodio e a lasciarlo lì,
+poiché ha qualcosa di una [[Parable|parabola]].  Il percorso comprendeva il consueto
+ostacolo alto, ma ce n'era uno che appariva di foggia [[Novel|nuova]]
+e praticamente insuperabile.  Comunque, uno dopo l'altro in
+quella lunga processione di cavalieri ammirevoli, francesi, polacchi e italiani,
+falliva a questa prova finale, finché il fallimento non venne trattato come cosa
+scontata; anche gli esperti in simili occasioni divergono sui gradi
+di merito e di sventura, e io non sono un esperto di [[Horse|cavalli]].
+Uno dei Lancieri mi chiese scherzosamente se avessi intenzione di gareggiare.
+Diedi l'ovvia risposta che, in groppa al mio elefante prediletto,
+mi sarei impegnato a scavalcare molte delle barriere, benché di certo
+non l'ultima di tutte, che [[Doubt|dubito]] una giraffa potrebbe cavalcare.
+Ma il sentimento generale sembrava essere che sarei stato più utile
+come ostacolo che come superatore di ostacoli, e che, se mi fossi disteso
+sul percorso, avrei potuto essere peggio del peggiore degli ostacoli.
+
+Vi fu un po' di divertimento e un po' di compassione per un giovane polacco--che era,
+credo, un principiante o persona relativamente inesperta--la cui cavalcatura in qualche
+modo inciampò così che il cavaliere fu scagliato oltre la testa del [[Horse|cavallo]].
+Almeno, pensai che fosse scagliato oltre la testa del [[Horse|cavallo]],
+e poi scoprii, tra alcune stupefacenti e sussultanti evoluzioni,
+che stava facendo ciò che si può solo definire aggrapparsi alle orecchie del [[Horse|cavallo]].
+Mentre il [[Horse|cavallo]] danzava per il percorso in maniera dégagé[4],
+il cavaliere sembrava strisciargli giù per il collo in qualche modo incredibile e
+rotolò di nuovo in sella.  Trovò una staffa e cercò invano
+di trovare l'altra.  Poi vi rinunciò--alla staffa, non alla gara.
+Superò un ostacolo abbastanza basso davanti a sé, e poi, sembrando
+raccogliere un impeto selvaggio dal nulla, con una staffa che volava libera
+e oscillando in sella, caricò l'ultima impossibile barriera,
+e, primo di tutta quella compagnia, la valicò come un uccello.
+E qualcuno disse al mio fianco con una brusca esclamazione,
+in inglese:  "Ecco, questi sono i Polacchi!"
+
+[[Hope|Speranza]] dei Mezzo-Sconfitti; [[house|casa]] d'oro...
+
+1.  Gli Ironsides erano i soldati puritani che combatterono sotto Cromwell
+nelle guerre civili inglesi.
+
+2.  Tom Broadbent è un personaggio della commedia di George Bernard [[Shaw]]
+John Bull's Other Island (1904).
+
+3.  Vedi "Ballade to Our Lady of Czestochowa" di Belloc.
+
+4.  Dégagé significa disinvolto, rilassato.

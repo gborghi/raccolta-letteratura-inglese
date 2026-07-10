@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/our-birthday-(chesterton)">Our Birthday</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/our_birthday/part/part_02">part 02 ›</a></div>
@@ -66,3 +68,65 @@ a good thing to be alive.  On that matter, and it is a basic matter,
 there really is a basis of agreement; and Mr. [[Shaw]] and I,
 giving our performance as morning [[Stars|stars]] that sing together,
 will sing in perfect harmony if hardly with equal technique.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/our-birthday-(chesterton)">Our Birthday</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/our_birthday/part/part_02">part 02 ›</a></div>
+</nav>
+
+# Il Nostro Compleanno
+
+Il Nostro Compleanno
+
+Da G. K.'s Weekly, 21 marzo 1935.
+Scritto in occasione del decimo anniversario della testata.
+
+Poiché questo è un Numero di Compleanno, mi propongo di scrivere sui compleanni
+in modo futile e irresponsabile, come si conviene a un'occasione festiva;
+e di lasciare a un numero successivo alcune delle questioni serie
+che vi sono sollevate.  Ricordo che tanto tempo fa, in una
+delle mie innumerevoli controversie con il signor Bernard [[Shaw]], commentai
+una sua sprezzante osservazione secondo cui non festeggiava il proprio compleanno
+e non si sarebbe scomodato per quello di nessun altro; e sostenni che questo
+illustra esattamente l'unico punto sul quale ha davvero torto;
+e che se solo avesse conservato il suo compleanno, avrebbe potuto conservare molte altre
+cose insieme ad esso.  Si noterà che, con la magnifica
+magnanimità nella quale non è mai venuto meno, specie nel trattare
+con me e le mie romantiche illusioni, ha contribuito a questo
+numero speciale con un articolo che affronta questioni vitalissime.
+[[Hope|Spero]] di rispondere a quell'articolo, più nel dettaglio, a tempo debito;
+qui darò solo una replica molto generale sul particolare
+aspetto che è ottimamente ed esattamente rappresentato dai Compleanni.
+
+Per un'ora felice, parlando di Compleanni, non mi abbasserò a parlare
+del Controllo delle Nascite. Ma quando il signor [[Shaw]] chiede perché io [[Doubt|dubiti]] che lui e io,
+per non parlare del signor H. G. Wells e del signor Bertrand Russell, possiamo formare
+un comitato per produrre un credo, per non dire un cosmo—la mia risposta generale
+è che la differenza comincia con la nascita stessa della concezione.
+Un Compleanno incarna certe idee implicite; con alcune delle quali egli concorda
+e ha ragione; con altre delle quali dissente e ha torto.
+In certe faccende la differenza tra noi sembra ridursi a questo:
+che io riconosco molto rispettosamente che egli dissente da me;
+ma egli non vuole nemmeno permettere che io dissenta da lui.
+Ma c'è una [[Truth|verità]] fondamentale sulla quale non ho mai
+per un solo istante dissentito da lui.  Qualunque altra cosa egli sia, non è
+mai stato un pessimista; né, in materia spirituale, un disfattista.
+È perlomeno dalla parte della Vita, e in tal senso della Nascita.
+Quando i Figli di Dio esultano di gioia, semplicemente perché la creazione
+è in essere, lo splendido grido o muggito wagneriano del signor [[Shaw]] si
+mescolerà al mio meno musicale ma ugualmente mistico [[Song|canto]] di lode.
+So bene che nello stesso poema il patriarca Giobbe, sotto la stretta
+di irritazioni contingenti, maledice davvero il giorno in cui nacque;
+prega che le [[Stars|stelle]] del suo crepuscolo siano oscure e che esso non sia
+annoverato tra i giorni dell'anno; ma sono certo che G.B.S. non
+spingerà il suo disprezzo per le celebrazioni dei compleanni fino a quel punto.
+Il primo fatto riguardo alla celebrazione di un compleanno è che essa
+è un modo di affermare con sfida, e persino con sfarzo, che è
+una buona cosa essere vivi.  Su quella faccenda, e è una faccenda basilare,
+c'è davvero un fondamento d'accordo; e il signor [[Shaw]] e io,
+dando la nostra esibizione come [[Stars|stelle]] del mattino che cantano insieme,
+canteremo in perfetta armonia, seppure con tecnica non proprio pari.

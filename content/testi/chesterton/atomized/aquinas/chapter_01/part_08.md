@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a> › <a href="/testi/chesterton/atomized/aquinas/chapter_01">Chapter 01</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_01/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_02/part_01">part 01 ›</a></div>
@@ -74,5 +76,78 @@ of Heaven; the Domini canes of the medieval pun; the [[dogs|Dogs]] of God.
 And if we would measure how real and rending seemed that revolution,
 what a break with the past, we can see it in the first and most
 extraordinary event in the life of St. Thomas [[aquinas|Aquinas]].
+
+--/--
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">St. Thomas Aquinas</a> › <a href="/testi/chesterton/atomized/aquinas/chapter_01">Chapter 01</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_01/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_02/part_01">part 01 ›</a></div>
+</nav>
+
+# [[aquinas]] — Capitolo 1 (parte 8)
+
+Ma vi è un legame anteriore e più essenziale fra Domenico
+e Francesco, che è più pertinente allo scopo immediato di questo libro.
+In tempi posteriori furono accostati nella gloria perché erano stati,
+nel loro [[Time|tempo]], accostati nell'infamia; o almeno nell'impopolarità.
+Poiché fecero la cosa più impopolare che gli uomini possano fare;
+avviarono un movimento popolare.  L'uomo che osa rivolgere un appello
+diretto al popolo si procura sempre una lunga serie di nemici—
+a cominciare dal popolo.  Nella misura in cui i poveri cominciano
+a capire che egli intende aiutarli e non ferirli, le solide
+classi soprastanti cominciano a serrarsi, risolute a ostacolare e non aiutare.
+I ricchi, e persino i dotti, talvolta sentono non irragionevolmente
+che la cosa muterà il mondo, non solo nella sua mondanità
+o nella sua saggezza mondana, ma in qualche misura forse nella sua vera saggezza.
+Un simile sentimento non era innaturale in questo caso; se consideriamo,
+per esempio, l'atteggiamento davvero temerario di San Francesco nel rifiutare
+i libri e l'erudizione; o la tendenza che i Frati mostrarono in seguito
+ad appellarsi al Papa in spregio dei vescovi locali e
+degli officiali ecclesiastici.  In breve, San Domenico e San Francesco crearono
+una Rivoluzione, altrettanto popolare e impopolare quanto la [[French Revolution|Rivoluzione francese]].
+Ma è oggi assai arduo sentire che persino la [[French Revolution|Rivoluzione francese]]
+fu fresca come realmente fu.  La Marsigliese un tempo suonava come
+la voce umana del vulcano o la [[Dance|danza]]-melodia del terremoto,
+e i re della terra tremavano. alcuni temendo che i cieli
+potessero cadere; altri temendo assai più che potesse farsi giustizia.
+La Marsigliese oggi si suona ai pranzi diplomatici,
+dove sorridenti monarchi incontrano raggianti milionari, ed è piuttosto meno
+rivoluzionaria di "[[Home|Casa]] Dolce [[Home|Casa]]".  Inoltre, è oltremodo pertinente
+ricordare che i moderni rivoluzionari chiamerebbero oggi la rivolta
+dei Giacobini francesi insufficiente, proprio come chiamerebbero la rivolta
+dei Frati insufficiente.  Direbbero che nessuna delle due andò abbastanza lontano;
+ma molti, ai loro giorni, pensarono che andarono fin troppo lontano.
+Nel caso dei Frati, gli ordini più alti dello Stato,
+e in qualche misura persino della Chiesa, furono profondamente scandalizzati
+da un simile allentarsi di selvaggi predicatori popolari fra il popolo.
+Non ci è affatto facile sentire che eventi lontani fossero così
+sconcertanti e perfino disdicevoli.  Le rivoluzioni si mutano in istituzioni;
+le rivolte che rinnovano la giovinezza delle vecchie società a loro volta invecchiano;
+e il passato, che era pieno di cose nuove, di scissioni e innovazioni
+e insurrezioni, ci appare come un'unica trama di tradizione.
+
+Ma se desideriamo un fatto che renda vivido questo urto
+di mutamento e sfida, e mostri quanto rozzo e stracciato, quanto quasi
+turbolento nella sua temeraria novità, quanto del rigagnolo e quanto remoto
+dalla vita raffinata sembrò davvero a molti, ai suoi giorni, questo
+esperimento dei Frati, c'è qui un fatto assai pertinente
+a rivelarlo.  Mostra quanto una Cristianità stabile e già antica
+lo sentì davvero come qualcosa di simile alla fine di un'epoca;
+e come le vie stesse della terra sembrino tremare sotto i piedi
+del nuovo e senza nome esercito; la marcia dei Mendicanti.
+Una mistica filastrocca infantile suggerisce l'atmosfera di una simile crisi:
+"Odi, odi, i [[dogs|cani]] abbaiano; i Mendicanti stanno venendo in città".
+Vi furono molte città che quasi si fortificarono contro di loro,
+e molti cani da guardia della proprietà e del rango davvero abbaiarono, e udirono forte,
+quando quei Mendicanti passarono; ma più forte era il canto dei Mendicanti
+che cantavano il loro Cantico al Sole, e più forte il latrare dei Segugi
+del Cielo; i Domini canes del calembour medievale; i [[dogs|Cani]] di Dio.
+E se volessimo misurare quanto reale e lacerante sembrò quella rivoluzione,
+quale rottura col passato, possiamo vederlo nel primo e più
+straordinario evento della vita di San Tommaso d'[[aquinas|Aquino]].
 
 --/--

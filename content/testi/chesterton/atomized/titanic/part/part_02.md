@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/titanic-(chesterton)">titanic</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/titanic/part/part_01">‹ part 01</a><span></span></div>
@@ -45,3 +47,44 @@ a kindness that was entirely universal.  His [[Death|death]] may [[Well|well]]
 become a legend.
 
 G. K. Chesterton
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/titanic-(chesterton)">titanic</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/titanic/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Ma, in verità, una regola vera può fare a meno di eccezioni come
+le Suffragette; de minimis non curat lex.  E se la parola "regola"
+si usa nel senso più ampio di un tentativo di mantenere un certo
+tenore di condotta privata per rispetto dell'opinione pubblica,
+possiamo solo dire che questo non è soltanto un vero trionfo morale, ma è,
+nelle nostre presenti condizioni, un trionfo piuttosto sorprendente e rassicurante.
+È proprio questa [[Conscience|coscienza]] collettiva che lo Stato moderno
+ha pericolosamente trascurato.  Vi era probabilmente più fraternità
+istintiva e senso di interessi comuni, oserei dire,
+non sul vascello di un vecchio capitano, ma su quello di un vecchio pirata, di quanto
+ve ne fosse tra gli emigranti, gli aristocratici, i giornalisti
+o i milionari che partirono per morire insieme sulla grande [[Ship|nave]].
+Che essi trovassero in modo così crudele la loro fratellanza e
+il bisogno che l'uomo ha del rispetto del suo prossimo, è un
+fatto tremendo, ma certo l'opposto di un fatto degradante.
+Il caso del signor Stead, che sento con emozioni piuttosto particolari,
+di simpatia e insieme di dissenso, è assai tipico dell'intera [[Tragedy|tragedia]].
+Il signor Stead era uomo troppo grande e coraggioso per richiedere che si celassero
+le sue esagerazioni o i suoi umori più sbilanciati; la sua forza stava
+in una fiammeggiante certezza, che si indebolisce soltanto chiamandola sincerità,
+e in una fame e sete di simpatia umana.  Il suo eccesso, possiamo dire,
+con vero rispetto, andava in direzione della megalomania; una fanciullesca
+fede nei grandi imperi, nei grandi giornali, nelle grandi alleanze--nelle grandi navi.
+Faticò come un Titano per quella combinazione anglo-americana di
+cui la [[Ship|nave]] colata a picco può [[Well|ben]] dirsi l'emblema.
+E alla fine tutte queste grandi cose gli crollarono intorno, e cose alquanto
+più grandi rimasero:  un [[Courage|coraggio]] tutto individuale;
+una bontà tutta universale.  La sua [[Death|morte]] potrà [[Well|ben]]
+diventare leggenda.
+
+G. K. Chesterton  

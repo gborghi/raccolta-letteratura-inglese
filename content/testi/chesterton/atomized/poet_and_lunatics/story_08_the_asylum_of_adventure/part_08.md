@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a> › <a href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure">Story 08 THE ASYLUM OF ADVENTURE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure/part_07">‹ part 07</a><span></span></div>
@@ -96,3 +98,95 @@ The children in the corner of the little [[Garden|garden]] gazed with interest a
 a gentleman in funeral full-dress behaving in a somewhat unusual manner.
 
 THE END
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a> › <a href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure">Story 08 THE ASYLUM OF ADVENTURE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure/part_07">‹ part 07</a><span></span></div>
+</nav>
+
+"Sì, quello è il dottor Wilson; ho preso accordi con lui proprio stamattina,"
+rispose [[Diana]], sempre fissando.
+
+Il dottore si fermò di colpo davanti a loro, girando la testa a destra
+e a sinistra alla maniera dei terrier, e guardandoli con la fronte
+e le palpebre corrugate.
+
+"Così questo è il dottor Wilson," disse Gale cortesemente.  "Buongiorno, dottor Starkey."
+
+Poi, mentre gli agenti in borghese si spostavano e si serravano attorno al dottore,
+Gale aggiunse pensoso:
+
+"Sapevo che non avresti mai mancato di cogliere un'allusione."
+
+A una strada o due dallo strano manicomio c'era una sorta
+di parco giocattolo, non molto più grande di un [[Garden|giardino]] sul retro, ma disposto
+in vialetti ornamentali e piantato di arbusti fioriti, come un'oasi
+per le nutrici nomadi che trascinavano in giro i bambini di quel sobborgo.
+Era ornato anche di lunghe panchine dalle spalliere ricciute, e una
+di queste panchine, a sua volta, era ornata da una coppia vestita di nero
+che si sforzava, con un certo smarrimento, di apparire rispettabile.
+Per selvaggi che fossero stati gli eventi di quel pomeriggio, si erano mossi assai rapidamente
+ed era appena sera.  Il tramonto andava calando attorno
+agli angoli del cielo e del bizzarro piccolo [[Garden|giardino]] pubblico,
+e c'era poco rumore se non il richiamo stridulo ma fioco
+di certi bambini indugianti su un gioco tirato per le lunghe.
+
+Fu qui che egli le raccontò tutta la storia del voto avventato
+e di tutto ciò che era accaduto tra il salvataggio nel [[Garden|giardino]] in riva al fiume
+e il funerale nel cimitero della Cornovaglia.
+
+"L'unica cosa che non capisco," disse infine lei, "è perché tu
+pensassi che mi avessero portata in quel luogo; o perché pensassi che
+esistesse un luogo simile."
+
+"Ebbene, perché," disse lui guardando il vialetto di ghiaia con un
+leggero imbarazzo, "perché davvero non stavo vantandomi quando
+dissi a Starkey all'inizio che capivo il tipo di mente
+che aveva, e potevo esagerarla nella direzione in cui andava.
+Starkey non mancava mai un'occasione di applicare o malapplicare un'idea,
+specialmente l'idea di qualcun altro.  Quando il povero Jimmy Hurrel si vantò
+di essere immune dalla punizione perché era un pazzo evaso,
+fui certo che un seme era stato gettato nella mente di Starkey e sarebbe germogliato.
+Fui certo che l'avrebbe seguito e usato, come usò la mia fantasia
+dell'altalena o del pergolato.  Finché Jim era vivo, egli sapeva che io
+avevo un motivo per il [[Silence|silenzio]]; ma nell'istante in cui Jim morì, colpì.
+Fu velocissimo; la sua mente è come un lampo di [[Lightning|folgore]];
+rapida ma storta.  Mandò uno dei suoi maniaci prezzolati a spaccarmi
+il cranio con una pietra mentre venivo da te.  Intercettò il mio telegramma,
+e ti attirò via prima che ti potessero raccontare l'intera storia.
+Ma quel che voglio sapere è che cosa pensi tu dell'intera storia."
+
+"Il voto era certo abbastanza avventato," disse lei.  "Per tutto quel [[Time|tempo]] tu
+avresti potuto dipingere quadri e fare ogni sorta di bene.
+Non pare giusto che un genio debba restare legato a un pazzo
+da poche parole."
+
+Egli si tirò su di colpo.  "Per amor di Dio, non dire questo!" gridò.
+"Non dire che non ci si dovrebbe legare a un pazzo con poche parole!
+Non dire che è sbagliato, ti imploro, qualunque altra cosa tu dica!
+Un pensiero raccapricciante!  Un'idea perfettamente turpe!"
+
+"Che vuoi dire?" chiese lei.  "Perché no?"
+
+"Perché," disse lui, "voglio che tu faccia un voto avventato.  Voglio
+che tu ti leghi con poche parole a un pazzo."
+
+Vi fu un [[Silence|silenzio]], al termine del quale ella sorrise d'improvviso e posò
+la mano sul braccio di lui.
+
+"No," disse, "solo uno sciocco... Mi sei sempre piaciuto, anche quando ti credevo
+davvero un pazzo; quel giorno che ti mettesti a testa in giù.
+Ma ora non credo che il mio voto sarà poi così avventato.... Che diamine
+stai facendo adesso?... Oh, dico... per l'amor del cielo...."
+
+"Che altro dovrei fare," rispose lui con calma, "dopo ciò che hai
+appena detto?  Mi metto di nuovo a testa in giù."
+
+I bambini nell'angolo del piccolo [[Garden|giardino]] fissarono con interesse
+un signore in stretto abito da lutto che si comportava in modo alquanto insolito.
+
+FINE

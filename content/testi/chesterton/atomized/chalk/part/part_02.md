@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/chalk-(chesterton)">chalk</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/chalk/part/part_01">‹ part 01</a><span></span></div>
@@ -72,3 +74,71 @@ And I stood there in a trance of pleasure, realizing that this
 Southern England is not only a grand peninsula, and a tradition
 and a civilization; it is something even more admirable.
 It is a piece of [[chalk]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/chalk-(chesterton)">chalk</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/chalk/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Ma mentre sedevo scarabocchiando quelle sciocche figure sulla carta marrone,
+cominciò ad [[Dawn|albeggiarmi]] in mente, con mio gran disgusto, che mi ero lasciato
+dietro un [[chalk|gesso]], e per giunta un [[chalk|gesso]] dei più squisiti ed essenziali.
+Frugai in tutte le mie tasche, ma non riuscii a trovare alcun
+[[chalk|gesso]] bianco. Ora, chi ha dimestichezza con la [[philosophy|filosofia]]
+(anzi, con la religione) che si simboleggia nell'arte del disegnare
+sulla carta marrone, sa che il bianco è positivo ed essenziale.
+Non posso trattenermi dall'osservare qui un significato morale.
+Una delle sagge e terribili verità che quest'arte della carta marrone rivela
+è questa: che il bianco è un colore. Non è una mera assenza di colore;
+è una cosa splendente e affermativa, feroce come il rosso,
+definita come il nero. Quando, per così dire, la vostra matita si fa
+rovente al rosso, disegna rose; quando si fa rovente al bianco, disegna [[Stars|stelle]].
+E una delle due o tre sfidanti verità della migliore
+[[morality|moralità]] religiosa, del vero [[Christianity|Cristianesimo]], per esempio,
+è esattamente questa stessa cosa; l'asserzione capitale della [[morality|moralità]]
+religiosa è che il bianco è un colore. La virtù non è l'assenza
+dei vizi o il tenersi lontani dai pericoli morali; la virtù è una cosa viva
+e a sé stante, come il [[Pain|dolore]] o un particolare odore.
+La [[Mercy|Misericordia]] non significa non essere crudeli o risparmiare agli uomini la [[Revenge|vendetta]]
+o la punizione; significa una cosa piana e positiva come il sole,
+che o si è visto o non si è visto. La castità non significa
+astensione dal peccato sessuale; significa qualcosa di fiammeggiante,
+come Giovanna d'Arco. In una parola, Dio dipinge in molti colori;
+ma non dipinge mai tanto sfarzosamente, avrei quasi detto tanto vistosamente,
+come quando dipinge in bianco. In un certo senso la nostra epoca ha compreso
+questo fatto, e lo ha espresso nel nostro cupo abbigliamento. Perché se
+fosse davvero vero che il bianco è una cosa vuota e incolore,
+negativa e non impegnativa, allora si userebbe il bianco invece
+del nero e del grigio per il funerale di questo periodo pessimistico.
+Vedremmo signori di [[City|città]] in redingote di immacolata
+tela argentea, con cilindri bianchi come mirabili gigli d'aro.
+Il che non è il caso.
+
+Intanto, non riuscivo a trovare il mio [[chalk|gesso]].
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sedevo sulla [[Hill|collina]] in una sorta di [[Despair|disperazione]]. Non c'era città
+più vicina di Chichester dove fosse anche solo remotamente probabile
+trovare una cosa come un negoziante di colori per [[Artist|artisti]].
+E tuttavia, senza il bianco, i miei assurdi quadretti sarebbero stati
+inutili quanto il mondo sarebbe se non vi fosse in esso nessuna brava persona.
+Mi guardai attorno stupidamente, spremendomi il cervello in cerca di espedienti.
+Poi d'un tratto mi alzai e proruppi in risate, di nuovo e di nuovo,
+tanto che le mucche mi fissarono e convocarono un consiglio. Immaginate un uomo
+nel Sahara che si rammarichi di non avere sabbia per la sua clessidra.
+Immaginate un gentiluomo in mezzo all'oceano che desideri aver portato con sé
+un po' d'[[Water|acqua]] salata per qualche esperimento chimico.
+Ero seduto in un immenso magazzino di [[chalk|gesso]] bianco.
+Il paesaggio era fatto interamente di [[chalk|gesso]] bianco.
+[[chalk|Gesso]] bianco s'ammucchiava per miglia e miglia fino a incontrare il cielo.
+Mi chinai e staccai un pezzo dalla roccia su cui sedevo; non
+segnava tanto [[Well|bene]] quanto i gessi da negozio; ma faceva il suo effetto.
+E rimasi lì in un'estasi di piacere, comprendendo che questa
+Inghilterra meridionale non è soltanto una grande penisola, e una tradizione
+e una civiltà; è qualcosa di ancora più ammirevole.
+È un pezzo di [[chalk|gesso]].

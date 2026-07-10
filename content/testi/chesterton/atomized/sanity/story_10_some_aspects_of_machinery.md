@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_09_the_real_life_on_the_land">‹ Story 09 THE REAL LIFE ON THE LAND</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_11_the_wheel_wheel_of_fate">Story 11 THE Wheel WHEEL OF FATE ›</a></div>
@@ -20,5 +22,23 @@ IV SOME ASPECTS OF MACHINERY
   2. The [[Romance]] of Machinery
   3. The Holiday of the Slave
   4. The Free Man and the Ford Car
+
+= = = = = = = = = = = = = = = =
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_09_the_real_life_on_the_land">‹ Story 09 THE REAL LIFE ON THE LAND</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_11_the_wheel_wheel_of_fate">Story 11 THE Wheel WHEEL OF FATE ›</a></div>
+</nav>
+
+IV ALCUNI ASPETTI DELLA MACCHINA
+
+  1. La [[Wheel|Ruota]] del Fato
+  2. Il [[Romance|Fascino]] della macchina
+  3. La vacanza dello schiavo
+  4. L'uomo libero e la Ford
 
 = = = = = = = = = = = = = = = =

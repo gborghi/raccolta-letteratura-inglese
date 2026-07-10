@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/cabman-(chesterton)">cabman</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/cabman/part/part_01">‹ part 01</a><span></span></div>
@@ -67,4 +69,68 @@ though it had rocked for an instant, had remained erect.
 
 The Extraordinary [[cabman|Cabman]] first appeared in [[London]]'s Daily News.  It was
 later collected in the volume of essays Tremendous Trifles.
+----------------------------------------------------------------------------
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/cabman-(chesterton)">cabman</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/cabman/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Guardai l'uomo. Nessun [[cabman]] disonesto qualunque
+penserebbe di creare una menzogna tanto solida, colossale e creativa.
+E quell'uomo non era un [[cabman]] disonesto. Se mai un volto umano fu
+greve e semplice e umile, con due grandi occhi azzurri sporgenti
+come quelli di una rana, se mai (in breve) un volto umano fu tutto ciò che un volto umano
+dovrebbe essere, era il volto di quel risentito e rispettoso [[cabman]].
+Guardai su e giù per la strada; un crepuscolo insolitamente scuro
+sembrava calare. E per un secondo il vecchio [[nightmare|incubo]]
+dello scettico mi posò il dito sul nervo. Cos'era la certezza?
+Era qualcuno certo di qualcosa? Cielo! pensare al monotono solco
+degli scettici che continuano a chiedersi se possediamo una vita futura.
+La domanda eccitante per il vero scetticismo è se possediamo una vita passata.
+Cos'è un minuto fa, razionalisticamente considerato, se non una
+tradizione e un'immagine? L'oscurità si fece più fitta dalla [[Road|strada]].
+Il [[cabman]] mi diede con calma i particolari più minuti del gesto,
+delle parole, del corso d'azione complesso ma coerente che avevo
+tenuto fin da quella notevole occasione in cui l'avevo chiamato fuori
+dalla stazione di Euston. Come sapevo (direbbero i miei amici scettici)
+di non averlo chiamato fuori da Euston? Ero fermo nella mia asserzione;
+lui era del tutto altrettanto fermo nella sua. Era evidentemente un uomo tanto onesto
+quanto me, e membro di una professione assai più rispettabile.
+In quell'istante l'universo e le [[Stars|stelle]] oscillarono d'un capello
+dal loro equilibrio, e le fondamenta della terra furono scosse.
+Ma per la stessa ragione per cui credo nella [[democracy|Democrazia]], per la stessa
+ragione per cui credo nel libero arbitrio, per la stessa ragione per cui
+credo nel carattere fisso della virtù, la ragione che si
+potrebbe esprimere solo dicendo che non scelgo di essere un pazzo,
+continuai a credere che questo onesto [[cabman]] avesse torto,
+e gli ripetei che l'avevo davvero preso all'angolo di
+Leicester Square. Egli cominciò con la stessa evidente e ponderosa sincerità:
+"Mi avete chiamato fuori dalla stazione di Euston, e avete detto..."
+
+E in quel momento sui suoi lineamenti calò una sorta
+di spaventosa trasfigurazione di vivo stupore,
+come se fosse stato acceso al pari di una lampada dall'interno.
+"Ma, vi chiedo scusa, signore," disse. "Vi chiedo scusa.
+Vi chiedo scusa. Vi ho preso a Leicester Square. Ora ricordo.
+Vi chiedo scusa." E con ciò quest'uomo sorprendente fece schioccare
+la frusta con secco colpo sul suo [[Horse|cavallo]] e se ne andò sobbalzando.
+Tutto questo colloquio, davanti allo stendardo di San Giorgio lo giuro,
+è rigorosamente vero.
+
+Guardai lo strano [[cabman]] mentre si rimpiccioliva nella distanza
+e nelle brume. Non so se avessi ragione nell'immaginare
+che, per quanto il suo volto fosse sembrato tanto onesto, vi fosse qualcosa
+di ultraterreno e demoniaco in lui, quando lo si vedeva di spalle.
+Forse era stato mandato a tentarmi dalla mia adesione a quelle
+sanità e certezze che avevo difeso poco prima nella giornata.
+In ogni caso mi diede piacere ricordare che il mio senso della realtà,
+per quanto avesse vacillato per un istante, era rimasto eretto.
+
+The Extraordinary [[cabman|Cabman]] apparve per la prima volta sul Daily News di [[London]]. Fu
+in seguito raccolto nel volume di saggi Tremendous Trifles.
 ----------------------------------------------------------------------------

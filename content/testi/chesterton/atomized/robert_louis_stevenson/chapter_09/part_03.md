@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a> › <a href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_09">Chapter 09</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_10/part_01">part 01 ›</a></div>
@@ -75,5 +77,20 @@ as the [[Soul|soul]] of [[Nature|nature]]; the _anima mundi_ of the pantheists.
 In this way Stevenson represented the same deep, ancient, hieratic and
 traditional [[Truth|truth]] that was taught to that generation by William Morris;
 and neither of them had the least idea what it was.
+
+* * * *
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a> › <a href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_09">Chapter 09</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_10/part_01">part 01 ›</a></div>
+</nav>
+
+Mi sono soffermato su questa parentesi, perché essa preannuncia la veduta generale verso cui tendono, in ultima analisi, tutte queste critiche piuttosto divaganti: che Stevenson stava dalla parte della [[Truth|verità]] senza comprendere del tutto la [[Truth|verità]] per cui si batteva. Se l'avesse compresa, avrebbe saputo che quel virile mestiere d'artigiano che era fin troppo pronto ad ammirare in Villon era in realtà legato a certe virtù, le quali non erano meno virtù di un artigiano per il fatto di essere le virtù di un ladro. Nessuno pretende che Villon fosse un santo; ma gli esterni socialmente disdicevoli del suo peccato non fanno di lui (per chi condivide la sua [[Faith|fede]]) un peccatore specialmente o supremamente disperato. Se fu un ladro, nessuno può provare che non fosse un ladro penitente; e il sistema morale a cui era legato aveva innalzato un uomo simile ai suoi altari sotto il titolo alquanto paradossale di Buon Ladrone. Fu probabilmente l'ultimo uomo ad aspettarsi di essere in persona, quella [[Night|notte]], in paradiso; eppure non era più lontano dal cielo per il solo fatto che rischiava di essere impiccato in cima a una forca. Qui abbiamo di nuovo, immagino, un tocco di calvinismo col suo dito di [[Fear|paura]]. Vi è pure quel truce e petroso ottimismo attribuito al Vecchio Testamento, col suo divino favoritismo per i fortunati. Ma per quanto la superficie di questa critica piuttosto superficiale fosse estranea a quel libero arbitrio che è il credo del mestiere, lo spirito personale e creativo che stava sotto la critica era pur sempre quello del genuino artigiano cristiano. Quando Stevenson si accinse a descrivere Villon e la sua banda di straccioni, sotto la [[Snow|neve]] e i [[gargoyles|gargoyle]] della [[Paris|Parigi]] medievale, scolpì il suo [[Grotesque|grottesco]] con la stessa cura di un doccione e bilanciò la sua storia con la stessa bellezza di una ballata francese. Non prese oppio e assenzio per poi sedersi ad attendere che innominabili energie cosmiche si riversassero nella sua [[Soul|anima]] dal nulla. Il suo spirito era uno spirito del tutto diverso dallo scetticismo mistico comune al suo [[Time|tempo]]. Era responsabile; era deliberato; era parsimonioso; meritava appieno il dignitoso titolo di lavoratore.
+
+Il punto qui è che perfino il suo difetto principale come [[artist|artista]] era tipicamente il difetto di un artigiano. Lavorava troppo strettamente, forse, producendo soltanto una cosa perfetta nel suo genere a partire da certi materiali, con un certo metodo e sotto i limiti di un certo stile. La stessa specie di critica che avverte una ballata francese come forma troppo fissa e artificiosa, la stessa specie di critica che avverte una Vergine del Trecento come troppo rigida o affettata nella posa, avverte senza dubbio un racconto di Stevenson come troppo scarno nei suoi materiali o troppo severo nella sua [[unity|unità]] stilistica. Come ho spiegato più sopra, non intendo suggerire che tale critica sia del tutto ingiusta o irragionevole. L'opera di Stevenson ha i suoi difetti, come ogni buona opera; e la sua carenza principale appare davvero in un certo vizio di magrezza, prodotto da questo istinto per la dura semplificazione. Ma nessuno potrebbe scrivere adeguatamente una [[history|storia]] della letteratura del diciannovesimo secolo senza notare questa importante svolta nella direzione di una scelta verbale più serrata e più vigile, rispetto tanto alla gioviale trascuratezza che la precedette quanto alla più cupa trascuratezza che è venuta dopo. Qualunque altra cosa Stevenson rappresenti, egli certo rappresenta l'idea che la letteratura non sia mera sensazione né mera espressione di [[Self|sé]] né mero documento; ma sia sensazione che si appella a certi sensi, espressione di [[Self|sé]] in un certo materiale e documento in un certo stile. E in questo egli affermava certamente i diritti dell'[[Soul|anima]] dell'uomo, contro le varie forze informi che alcuni consideravano l'[[Soul|anima]] della [[Nature|natura]]; l'_anima mundi_ dei panteisti. In tal modo Stevenson rappresentava quella stessa profonda, antica, ieratica e tradizionale [[Truth|verità]] che a quella generazione veniva insegnata da William Morris; e nessuno dei due aveva la minima idea di cosa fosse.
 
 * * * *

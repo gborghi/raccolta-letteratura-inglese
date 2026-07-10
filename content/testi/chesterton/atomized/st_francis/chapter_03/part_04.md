@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/st-francis-(chesterton)">St Francis</a> › <a href="/testi/chesterton/atomized/st_francis/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/st_francis/chapter_03/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/st_francis/chapter_04/part_01">part 01 ›</a></div>
@@ -70,3 +72,69 @@ for whom he did many services; to this man he gave what money
 he could and mounted and rode on.  We do not know how far he rode,
 or with what sense of the things around him; but it is said that
 when he looked back, he could see no figure on the [[Road|road]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/st-francis-(chesterton)">St Francis</a> › <a href="/testi/chesterton/atomized/st_francis/chapter_03">Chapter 03</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/st_francis/chapter_03/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/st_francis/chapter_04/part_01">part 01 ›</a></div>
+</nav>
+
+In alto, nella buia [[house|casa]] di Assisi, Francesco Bernardone dormiva e sognava
+armi. Gli venne nelle tenebre una visione splendida di spade,
+foggiate a forma di [[Cross|croce]] alla maniera dei Crociati, di lance e scudi
+ed elmi appesi in un'alta armeria, tutti recanti il sacro segno.
+Al risveglio accolse il sogno come una tromba che lo chiamava
+al [[Battlefield|campo di battaglia]], e si precipitò fuori a prendere [[Horse|cavallo]] e armi.
+Godeva di tutti gli esercizi della cavalleria; ed era evidentemente
+un cavaliere compiuto e un uomo d'arme secondo i criteri dell'accampamento.
+Certo in ogni [[Time|tempo]] avrebbe preferito una cavalleria di stampo
+cristiano; ma pare chiaro che fosse anche in una disposizione d'animo
+assetata di gloria, sebbene in lui quella gloria sarebbe stata sempre
+tutt'uno con l'[[Honour|onore]]. Non era privo di una qualche visione
+di quella corona d'alloro che Cesare ha lasciato in eredità a tutti i Latini.
+Mentre cavalcava alla guerra, la gran porta nell'alto muro di Assisi
+risuonò della sua ultima vanteria: «Tornerò gran principe».
+
+Poco più avanti lungo la [[Road|strada]] la sua malattia [[Rose|risorse]] di nuovo e lo abbatté.
+Sembra assai probabile, alla luce del suo temperamento impetuoso,
+che egli fosse partito a cavallo molto prima di essere in grado di muoversi.
+E nelle tenebre di questa seconda e ben più desolante interruzione,
+pare che avesse un altro sogno, nel quale una voce gli disse:
+«Hai frainteso il senso della visione. Torna alla tua
+città». E Francesco se ne tornò strascicandosi nella sua malattia ad Assisi,
+figura assai squallida, delusa e forse persino derisa,
+senza nulla da fare se non aspettare ciò che sarebbe accaduto poi.
+Fu la sua prima discesa in un oscuro burrone che si chiama la valle
+dell'umiliazione, che gli parve assai roccioso e desolato,
+ma nel quale in seguito avrebbe trovato molti [[Flowers|fiori]].
+
+Ma non era soltanto deluso e umiliato; era anche molto
+perplesso e sconcertato. Continuava a credere fermamente che i suoi due [[Dreams|sogni]]
+dovessero pur significare qualcosa; e non riusciva a immaginare che cosa
+potessero mai significare. Fu mentre andava vagando, si potrebbe persino
+dire fantasticando, per le strade di Assisi e per i campi fuori
+delle mura della [[City|città]], che gli capitò un episodio che non
+sempre è stato messo subito in rapporto con la faccenda dei [[Dreams|sogni]],
+ma che a me pare esserne il coronamento evidente. Cavalcava
+svogliatamente in un luogo qualunque lungo la via, apparentemente in aperta campagna,
+quando vide una figura che gli veniva incontro lungo la [[Road|strada]] e si fermò;
+perché vide che era un lebbroso. E capì all'istante che il suo
+[[Courage|coraggio]] era messo alla prova, non come lo mette alla prova il mondo, ma come
+lo metterebbe chi conoscesse i [[Secrets|segreti]] del cuore di un uomo.
+Ciò che vedeva avanzare non era lo stendardo e le lance di Perugia,
+davanti a cui non gli venne mai in mente di ritrarsi; né gli eserciti che combattevano
+per la [[Crown|corona]] di Sicilia, ai quali aveva sempre pensato come un uomo coraggioso
+pensa a un pericolo volgare e comune. Francesco Bernardone vide la sua [[Fear|paura]]
+salire verso di lui lungo la [[Road|strada]]; la [[Fear|paura]] che viene da dentro
+e non da fuori; benché stesse là, bianca e orribile, nella luce del sole.
+Per una volta nella lunga corsa della sua vita la sua [[Soul|anima]] dovette fermarsi.
+Poi balzò da [[Horse|cavallo]], senza conoscere via di mezzo tra l'immobilità
+e la fulmineità, e si slanciò sul lebbroso e lo strinse tra le braccia.
+Fu l'inizio di una lunga vocazione di servizio tra molti lebbrosi,
+per i quali fece molte cose; a quest'uomo diede quel denaro
+che poteva, poi rimontò a cavallo e proseguì. Non sappiamo quanto lontano cavalcasse,
+né con quale coscienza delle cose intorno a sé; ma si racconta che,
+quando si volse a guardare indietro, non riuscì a vedere alcuna figura sulla [[Road|strada]].

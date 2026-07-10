@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-song-of-the-wheels-(chesterton)">The Song of the Wheels</a></div>
 </nav>
@@ -104,3 +106,103 @@ Cometh [[Fear|fear]] and [[Greed|greed]] of fame, cometh deadly sin;
 If a man grow faint, master, take him ere he kneels,  
 Take him, break him, rend him, end him, roll him, crush him  
    with the wheels.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-song-of-the-wheels-(chesterton)">The Song of the Wheels</a></div>
+</nav>
+
+# Il [[Song|Canto]] delle Ruote
+
+Il [[Song|Canto]] delle Ruote  
+
+[Scritto durante un venerdì e un sabato dell'agosto 1911]  
+
+[[King|Re]] Dives passeggiava nel suo [[Garden|giardino]] tutto [[Alone|solo]],  
+Dove i suoi [[Flowers|fiori]] son fatti di ferro e i suoi alberi son fatti di  
+   pietra,  
+E i suoi alveari son colmi di tuono e il [[Lightning|fulmine]] balza  
+   e uccide,  
+Ché i mulini di Dio macinano lenti; ed egli lavora con altri  
+   mulini.  
+Dives trovò un possente [[Silence|silenzio]]; e gli mancò il pulsare e il  
+   balzo,  
+Il rumore di tutte le insonni creature che lo cantavano al [[Sleep|sonno]].  
+Ed egli disse: "Una vite è caduta---o un bullone è scivolato via---  
+Qualche piccola cosa si è spostata": e le piccole cose risposero:  
+
+"Invoca le ruote, padrone, invoca le ruote;  
+Ci stiamo riposando, padrone, scoprendo che effetto fa,  
+Rigida la legge del tuo e del mio: il furto sempre schiviamo---  
+Tutte le ruote sono tue, padrone---di' alle ruote di correre!  
+Sì, le Ruote sono possenti dèi---mettile in moto, allora!  
+Noi siamo solo uomini, padrone, hai mai sentito parlare degli uomini?  
+
+"Oh, vivono sulla terra come pesci, e un rantolo è tutto il loro  
+   respiro.  
+Dio per vuoti onori diede loro soltanto la [[Death|morte]] e lo scherno della  
+   [[Death|morte]],  
+E tu calpesti i vermi come tappeto e premi una pietra  
+   che stride  
+Solo che Dio, il quale li fece vermi, non li fece ruote.  
+L'uomo chiuderà il suo cuore contro di te e non troverai  
+   la [[spring|sorgente]].  
+L'uomo che vuole la cosa che non desidera, la cosa intollerabile---  
+Una volta che preferisce il suo ventre vuoto alla tua testa vuota  
+Terra e cielo ammutoliscono davanti a lui: egli è più forte dei  
+   morti.  
+
+"Invoca le ruote, padrone, invoca le ruote,  
+L'acciaio è sotto la tua mano, la pietra sotto i tuoi tacchi,  
+L'acciaio non riderà mai forte, udendo ciò che udimmo,  
+La pietra non si spezzerà mai il cuore, folle di [[Hope|speranza]] differita---  
+Uomini di tatto che arbitrano, lenta [[Reform|riforma]] che risana---  
+Serba il grasso fetido, padrone, serbalo per le ruote.  
+
+"[[King|Re]] Dives nel [[Garden|giardino]], nulla abbiamo da dare o tenere---  
+(Persino mentre il bimbo veniva alla vita si vendevano i legni marci.)  
+Il selvaggio conosce una caverna e i contadini serbano un lotto,  
+Di tutte le cose che gli uomini hanno avuto---ecco! noi non le  
+   abbiamo.  
+Non un lembo di terra dove le formiche depongano le uova---  
+Solo questa povera zolla di terra che va in giro su gambe---  
+Solo questa povera dimora errante, solo questi due alberi che  
+   camminano,  
+Solo mani e cuori e stomaci---che avete voi a che fare  
+   con questi?  
+Avete macchine grandi e brunite, alte oltre il sapere dei nostri  
+   padri,  
+Perché dovreste far pace e commercio con gente tanto fragile  
+   come gli uomini?  
+
+"Invoca le ruote, padrone, invoca le ruote,  
+Sono sorde ai demagoghi, sorde ai rozzi appelli;  
+Sono nostre le nostre mani, padrone?---come [[Doubt|dubitano]] i dottori!  
+Sono nostre le nostre gambe, padrone? le ruote sanno correre senza---  
+Prova che gli scambi sono delicati---capiranno.  
+Tutte le ruote sono leali; guarda come stanno immobili!"  
+
+[[King|Re]] Dives passeggiava nel suo [[Garden|giardino]] al sole,  
+Levò la mano contro il cielo, e chiamò le ruote a  
+   correre,  
+E i suoi occhi erano occhi d'odio, le sue labbra erano  
+   arricciate,  
+E invocò suo padre che è signore sotto il mondo,  
+Assiso nella Porta del Tradimento, nella porta dei sigilli infranti,  
+"Piegale e legale, piegale e legale, piegale e  
+   legale in ruote,  
+Che ancora una volta in tutto il mio [[Garden|giardino]] possano oscillare e suonare  
+   e turbinare---  
+Il rumore di tutte le cose insonni che cantano l'[[Soul|anima]] al  
+   [[Sleep|sonno]]."  
+
+Invoca le ruote, padrone, invoca le ruote,  
+Stancanti si fanno le feste quando si saltano i pasti,  
+Per la Porta del Tradimento, per la porta interiore,  
+Vengono [[Fear|paura]] e [[Greed|avidità]] di fama, viene il peccato mortale;  
+Se un uomo vien meno, padrone, prendilo prima che s'inginocchi,  
+Prendilo, spezzalo, sbranalo, finiscilo, arrotolalo, schiaccialo  
+   con le ruote.

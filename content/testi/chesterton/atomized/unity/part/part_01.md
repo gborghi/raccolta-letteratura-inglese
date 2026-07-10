@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/unity-(chesterton)">unity</a></div>
 </nav>
@@ -48,3 +50,44 @@ And the crew of the Captain's gig.
 
 [The reference to "the crew of the Captain's gig" is from the poem "The Yarn  
 of the [[Nancy]] Bell" by Gilbert.]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/unity-(chesterton)">unity</a></div>
+</nav>
+
+LA PIÙ ALTA [[unity|UNITÀ]]  
+
+Il Rev. Isaiah Bunter è scomparso nell'interno delle Isole Salomone, e si teme che possa essere stato divorato dagli indigeni, giacché vi è stato un notevole risveglio di usanze religiose tra i Polinesiani.--Un vero trafiletto tratto da un vero Giornale; solo i nomi sono mutati.  
+
+Fu Isaiah Bunter  
+che salpò ai confini del mondo,  
+e diffuse la religione in un modo  
+che non intendeva affatto.  
+
+Diede, se non il banchetto del Vangelo,  
+almeno un pasto rituale;  
+e in un senso assai doloroso  
+fu divorato con zelo.  
+
+E chi siamo noi (come dice Henson)  
+per chiudere la porta?  
+E non dovrebbero gli Evangelici  
+saltar tutti a spargere Gore?  
+
+E più d'un uomo si fonderà nell'uomo,  
+diventando uno, non due,  
+quando schiocca per la terra sgomenta  
+il Bacio di Kikuyu.  
+
+Quando l'Uomo è il Turco, e l'Ateo,  
+Esseno, Erastiano[,] Whig,  
+e il Thug e il Druso e il Cattolico  
+e la ciurma del canotto del Capitano.  
+		(G. K. Chesterton - 1914)  
+
+[Il riferimento alla «ciurma del canotto del Capitano» è tratto dalla poesia «The Yarn  
+of the [[Nancy]] Bell» di Gilbert.]

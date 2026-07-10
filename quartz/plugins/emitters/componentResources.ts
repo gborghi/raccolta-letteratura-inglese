@@ -20,6 +20,8 @@ import braniTableScript from "../../components/scripts/braniTable.inline"
 import relatedWorksScript from "../../components/scripts/relatedWorks.inline"
 // @ts-ignore
 import copyrightGuardScript from "../../components/scripts/copyrightGuard.inline"
+// @ts-ignore
+import searchLoadingScript from "../../components/scripts/searchLoading.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
@@ -122,6 +124,9 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     // Date-driven copyright guard: hides in-copyright text + links until the PD year,
     // then self-reveals. Runs on every page (see copyrightGuard.inline.ts).
     copyrightGuardScript,
+    // Spinner on the top-bar search button until the (large) contentIndex has
+    // loaded + FlexSearch is built (see searchLoading.inline.ts).
+    searchLoadingScript,
   )
 
   if (cfg.analytics?.provider === "google") {

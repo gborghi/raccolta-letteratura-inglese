@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a> › <a href="/testi/chesterton/atomized/ball_and_cross/story_16_dies_irae">Story 16 Dies Irae</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_16_dies_irae/part_03">‹ part 03</a><span></span></div>
@@ -84,3 +86,83 @@ He looked vaguely about at the [[Fire|fire]] that was already fading,
 and there among the ashes lay two shining things that had survived
 the [[Fire|fire]], his [[Sword|sword]] and Turnbull's, fallen haphazard in the pattern
 of a [[Cross|cross]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a> › <a href="/testi/chesterton/atomized/ball_and_cross/story_16_dies_irae">Story 16 Dies Irae</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_16_dies_irae/part_03">‹ part 03</a><span></span></div>
+</nav>
+
+Ma non era il [[Wind|vento]]; o, se era il [[Wind|vento]], erano due venti
+che soffiavano in direzioni opposte.  Poiché mentre una metà dell'immenso
+[[Fire|fuoco]] si piegava da un lato verso le alture interne, l'altra metà,
+esattamente con lo stesso angolo, si piegava verso oriente in direzione del mare.
+Sicché la terra e l'oceano poterono contemplare, dove non v'era stata che una mera
+massa di fiamme, una cosa divisa come una V — una lingua di fiamma biforcuta.
+Ma se era un prodigio per quei lontani, era qualcosa oltre
+ogni parola per quei ben vicini.  Come gli echi dell'ultimo grido di Evan
+risuonarono e si spensero nel frastuono universale, la volta di fuoco sul suo capo
+si aprì lungo il mezzo, e, ripiegandosi indietro in due grandi flutti d'oro,
+pendette da ogni lato, tanto immensa e innocua quanto due colli in pendio giacciono
+ai due lati di una valle.  Giù per il centro di questo solco, o abisso,
+correva un sentiero piccolo, sgombro di tutto tranne le ceneri, e giù per questo piccolo
+sentiero camminava un piccolo vecchio che cantava come se fosse [[Alone|solo]]
+in un bosco in [[spring]].
+
+Quando [[James Turnbull]] vide ciò, d'improvviso protese una mano e parve
+sostenersi sulla robusta spalla di Madeleine Durand.
+Poi, dopo un istante di esitazione, posò l'altra mano sulla
+spalla di MacIan.  I suoi occhi azzurri parevano straordinariamente
+brillanti e belli.  In molti giornali e riviste scettiche
+in seguito fu tristemente o severamente rimproverato di aver abbandonato
+le certezze del materialismo.  Per tutta la vita fino a quel momento
+egli era stato onestissimamente certo che il materialismo fosse un fatto.
+Ma differiva dagli scrittori delle riviste precisamente in questo:
+che preferiva un fatto perfino al materialismo.
+
+Come la piccola figura cantante si faceva sempre più vicina, Evan cadde in
+ginocchio, e dopo un istante lo seguì [[Beatrice]]; poi Madeleine
+cadde in ginocchio, e dopo un più lungo istante Turnbull seguì.
+Poi il piccolo vecchio passò oltre loro cantando giù per quel corridoio
+di fiamme.  Non ne avevano guardato il volto.
+
+Quando fu passato, alzarono lo sguardo.  Mentre la prima luce
+del [[Fire|fuoco]] era balzata a oriente e a occidente, dipingendo i fianchi delle navi
+di luce di [[Fire|fuoco]] o strappando rosse scintille dalle case dalle finestre,
+essa non aveva finora colpito verso l'alto, poiché sopra vi era la
+ponderosa e rococò caverna del suo stesso mostruoso fumo colorato.
+Ma ora il [[Fire|fuoco]] era volto a sinistra e a destra come i capelli di una donna
+divisi nel mezzo, e ora gli aste della sua luce potevano saettare
+in su nei cieli vuoti e colpire qualsiasi cosa, uccello o nuvola.
+Ma colpì qualcosa che non era né nuvola né uccello.
+Lontano, lontano, in su, in quegli immensi vuoti dello spazio, qualcosa
+volava veloce e splendeva luminoso, qualcosa che splendeva
+troppo forte e volava troppo rapido per essere uno dei volatili dell'aria,
+per quanto la rossa luce lo illuminasse da sotto come il petto di un uccello.
+Tutti sapevano che era una [[Ship|nave]] volante, e tutti sapevano di chi.
+
+Mentre fissavano in alto, la piccola macchia di luce parve leggermente inclinarsi,
+e due punti neri caddero dal suo orlo.  Tutti i visi impazienti,
+levati in su, guardarono i due punti mentre si facevano sempre più grandi
+nella loro corsa in giù.  Poi qualcuno urlò, e nessuno guardò
+più in alto.  Poiché i due corpi, più grandi a ogni secondo di volo,
+distesi e sparpagliati nella luce del [[Fire|fuoco]], erano i corpi morti
+dei due dottori che il professor [[Lucifer]] aveva portato con sé —
+il debole e sogghignante Quayle, il freddo e goffo Hutton.
+Precipitarono con uno schianto nel folto del [[Fire|fuoco]].
+
+"Se ne sono andati!" urlò [[Beatrice]], nascondendo il capo.
+"O Dio!  Sono perduti!"
+
+Evan le pose il braccio attorno, e ricordò la propria visione.
+
+"No, non sono perduti," disse.  "Sono salvi.  Non ha portato
+via alcuna anima con sé, dopotutto."
+
+Guardò vagamente il [[Fire|fuoco]] che già svaniva,
+e là tra le ceneri giacevano due cose lucenti che erano sopravvissute
+al [[Fire|fuoco]], la sua [[Sword|spada]] e quella di Turnbull, cadute a caso nella figura
+di una [[Cross|croce]].

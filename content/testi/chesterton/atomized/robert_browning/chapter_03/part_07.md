@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/robert-browning-(chesterton)">Robert Browning</a> › <a href="/testi/chesterton/atomized/robert_browning/chapter_03">Chapter 03</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_browning/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/robert_browning/chapter_04/part_01">part 01 ›</a></div>
@@ -61,3 +63,18 @@ not appear to have had many hopes, or to have made many attempts at a
 father was in [[Truth|truth]] not a man to be treated with; hardly, perhaps,
 even a man to be blamed. She knew to all intents and purposes that she
 had grown up in the [[house]] of a madman.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/robert-browning-(chesterton)">Robert Browning</a> › <a href="/testi/chesterton/atomized/robert_browning/chapter_03">Chapter 03</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_browning/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/robert_browning/chapter_04/part_01">part 01 ›</a></div>
+</nav>
+
+Browning organizzò la stravagante avventura con grande prudenza e conoscenza della [[Nature|natura]] umana. Una mattina presto del settembre 1846 Miss Barrett uscì tranquillamente dalla [[house|casa]] del padre, divenne la signora Robert Browning in una chiesa di Marylebone e tornò [[Home|a casa]] come se nulla fosse accaduto. In questo accordo Browning mostrò qualcosa di quella vera penetrazione dello spirito umano che dovrebbe fare del poeta il più pratico di tutti gli uomini. L'episodio era, per la [[Nature|natura]] stessa delle cose, quasi insopportabilmente eccitante per sua moglie, nonostante il [[Courage|coraggio]] davvero miracoloso con cui lo sostenne; ed egli desiderava, perciò, chiamare in aiuto l'effetto misteriosamente calmante di scene e volti familiari. Vale la pena menzionare un episodio insignificante che è quasi insondabilmente caratteristico di Browning. Si è già osservato in queste pagine che egli era, per eccellenza, uno di quegli uomini le cui opinioni in espansione non alterano di un capello l'effettiva pianta del loro senso morale. Browning avrebbe sentito giuste le stesse cose e sbagliate le stesse cose, qualunque idea avesse professato. Durante il breve e assai penoso periodo fra il suo effettivo [[Marriage|matrimonio]] e la sua effettiva fuga, è quanto mai significativo che egli non volesse far visita alla [[house|casa]] di Wimpole Street, perché sarebbe stato costretto a chiedere se Miss Barrett fosse libera. Stava recitando una menzogna; ingannava un padre; esponeva una donna malata a un rischio terribile; e queste cose non se le nascose per un solo istante, eppure non riusciva a indursi a dire due parole a una domestica. Qui può esservi in parte il sentimento dell'uomo di lettere per la sacralità della parola pronunciata, ma vi è ben più una certa radicata [[morality|moralità]] tradizionale che è impossibile tanto descrivere quanto giustificare. La rispettabilità di Browning era una cosa più antica e più primeva delle più antiche e primeve passioni degli altri uomini. Se vogliamo comprenderlo, dobbiamo sempre ricordare che, trattando di una qualunque delle sue azioni, non dobbiamo chiederci se l'azione contenga la più alta [[morality|moralità]], ma se noi ci saremmo sentiti inclini a compierla noi stessi.
+
+Alla fine l'equivoco ed estenuante interregno era finito. La signora Browning uscì per la seconda [[Time|volta]] quasi in punta di piedi dalla [[house|casa]] del padre, accompagnata soltanto dalla cameriera e dal cane, al quale a stento si riuscì a impedire di abbaiare. Prima della fine del giorno, con ogni probabilità, Barrett aveva scoperto che la figlia morente era fuggita con Browning in [[Italy|Italia]].
+
+Non lo rividero mai più, e a stento poco più di una fioca eco giunse loro del terremoto domestico che si lasciarono alle spalle. Non pare che nutrissero molte speranze, né che facessero molti tentativi di [[Reconciliation|riconciliazione]]. Elizabeth Barrett aveva scoperto finalmente che suo padre era in [[Truth|verità]] non un uomo con cui trattare; a stento, forse, persino un uomo da biasimare. Sapeva a tutti gli effetti di essere cresciuta nella [[house|casa]] di un pazzo.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_13">Chapter 13</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_14/part_01">part 01 ›</a></div>
@@ -73,3 +75,72 @@ stamped solemnly after the shouting columns of halberdiers which were,
 by this [[Time|time]], parading the streets.  He had, however, nothing to
 do with the wrecking of the statue of General Wilson, which took
 place before morning.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a> › <a href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_13">Chapter 13</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_14/part_01">part 01 ›</a></div>
+</nav>
+
+Un boato di acclamazioni irruppe sulle sue parole, e ogni altro discorso
+divenne impossibile.  Pallido fino alle labbra, il grande patriota tentò
+ancora e ancora di parlare; ma nemmeno la sua autorità poteva tenere a freno
+le masse cupe e ruggenti nella strada sotto di lui.
+Disse qualcos'altro, ma non fu udibile.
+Alla fine discese mestamente dalla soffitta in cui viveva,
+e si confuse con la folla ai piedi delle case.
+Trovato il generale Turnbull, gli posò la mano sulla spalla con una strana
+tenerezza e gravità, e disse:
+
+"Domani, vecchio mio, avremo un'esperienza nuova, fresca come
+i [[Flowers|fiori]] di [[spring|primavera]].  Saremo sconfitti.  Tu ed io siamo passati
+insieme attraverso tre battaglie, e in un modo o nell'altro ci è sfuggito questo
+singolare diletto.  È un peccato che probabilmente non potremo
+scambiarci le nostre impressioni, perché, come nel modo più seccante accade,
+saremo probabilmente entrambi morti."
+
+Turnbull parve vagamente sorpreso.
+
+"Non m'importa granché di essere morto," disse, "ma perché mai
+dici che saremo sconfitti?"
+
+"La risposta è molto semplice," replicò Wayne, con calma.  "È perché
+dobbiamo essere sconfitti.  Ci siamo trovati prima d'ora nei più orribili frangenti;
+ma in tutti quelli ero perfettamente certo che le [[Stars|stelle]] fossero dalla nostra parte,
+e che dovessimo cavarcela.  Ora so che non dobbiamo cavarcela;
+e ciò mi toglie tutto ciò con cui vincevo."
+
+Mentre Wayne parlava trasalì un poco, perché entrambi gli uomini si avvidero
+che una terza figura li stava ascoltando... una figura piccola
+dagli occhi meravigliati.
+
+"È davvero vero, mio caro Wayne," disse il [[King|Re]], interrompendo,
+"che credi che domani sarai battuto?"
+
+"Non ci può essere [[Doubt|dubbio]] alcuno al riguardo," replicò [[Adam Wayne]];
+"la vera ragione è quella di cui ho appena parlato.
+Ma come concessione al tuo materialismo, aggiungerò che essi
+hanno un esercito organizzato di cento città alleate contro la nostra sola.
+Ciò di per sé, tuttavia, sarebbe irrilevante."
+
+Quin, con i suoi occhi tondi, pareva stranamente insistente.
+
+"Sei proprio sicuro," disse, "che dovrai essere battuto?"
+
+"Temo," disse Turnbull, cupamente, "che non ci possa essere
+[[Doubt|dubbio]] al riguardo."
+
+"Allora," gridò il [[King|Re]], spalancando le braccia, "datemi un'alabarda!
+Datemi un'alabarda, qualcuno!  [[Desire|Desidero]] che tutti gli uomini siano testimoni
+che io, Auberon, [[King|Re]] d'Inghilterra, qui e ora abdico e supplico
+il Prevosto di Notting [[Hill]] di permettermi di arruolarmi nel suo esercito.
+Datemi un'alabarda!"
+
+Ne afferrò una da una guardia di passaggio e, imbracciatala,
+marciò solennemente dietro le colonne urlanti di alabardieri che, a
+quest'[[Time|ora]], sfilavano per le strade.  Non ebbe però nulla a
+che fare con la demolizione della statua del generale Wilson, che avvenne
+prima del mattino.

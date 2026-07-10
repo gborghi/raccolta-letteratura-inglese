@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a> › <a href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle">Story 08 THOMAS CARLYLE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_tolstoy_and_the_cult_of_simplici/part_01">part 01 ›</a></div>
@@ -107,3 +109,106 @@ necessities of [[Honour|honour]] and justice and compassion. To this madhouse, i
 can hardly be denied, has Carlyle's intellectual [[Courage|courage]] brought many at
 
 last.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a> › <a href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle">Story 08 THOMAS CARLYLE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_09_tolstoy_tolstoy_and_the_cult_of_simplici/part_01">part 01 ›</a></div>
+</nav>
+
+pessimista d'oggi a provare che il sole e una buona cena lo scuotono
+
+di angoscia inconsolabile. Carlyle era fortemente posseduto da questa
+
+mania di coerenza spirituale. Voleva assumere la stessa visione delle
+
+guerre degli angeli e della più meschina rissa alla fiera di Donnybrook. Fu
+
+questa specie di [[logic|logica]] insana a condurlo ai suoi errori principali, mai
+
+i suoi entusiasmi naturali. Prendiamo un esempio. La difesa della
+
+[[Slavery|schiavitù]] fatta da Carlyle è cosa del tutto ridicola, debole tanto nell'argomento quanto nell'
+
+istinto morale. La [[Truth|verità]] è che egli la sposò solo per la passione
+
+di applicare dappertutto la sua paradossale difesa dell'aristocrazia. Egli
+
+sbagliò, naturalmente, perché non vide che la [[Slavery|schiavitù]] non ha nulla al
+
+mondo a che fare con l'aristocrazia, che ne è, anzi, quasi il
+
+contrario. La difesa che Carlyle e tutti i suoi difensori riflessivi
+
+hanno fatto dell'aristocrazia era che poche persone potessero più rapidamente e
+
+fermamente decidere gli affari pubblici nell'interesse del popolo. Ma la [[Slavery|schiavitù]]
+
+non è nemmeno intesa come un [[government|governo]] a beneficio dei governati. È
+
+un possesso dei governati dichiaratamente a beneficio dei governanti.
+
+L'aristocrazia usa i forti al servizio dei deboli; la [[Slavery|schiavitù]] usa
+
+i deboli al servizio dei forti. Non è una degradazione per l'uomo come
+
+essere spirituale, quale Carlyle fermamente lo credeva, che egli debba essere
+
+governato e guidato per il proprio bene come un [[Child|bambino]]--poiché un [[Child|bambino]] che è
+
+sempre governato e guidato lo consideriamo il tipo stesso dell'esistenza
+
+spirituale. Ma è una degradazione e una contraddizione assoluta a quella
+
+spiritualità umana in cui Carlyle credeva, che un uomo debba essere posseduto
+
+come un utensile per il bene altrui, come se non avesse un destino personale
+
+nel Cosmo. Attiriamo l'attenzione su questo particolare errore di Carlyle
+
+perché pensiamo che sia un curioso esempio dei luoghi sprecati e immondi
+
+nei quali quel notevole animale, 'il maiale intero', più di
+
+una volta lo condusse.
+
+Sotto questo aspetto Carlyle ha avuto un'influenza indubbiamente lunga e
+
+indubbiamente cattiva. L'intera etica politica recente
+
+che concepisce che, se solo andiamo abbastanza lontano, possiamo finire una cosa una
+
+volta per tutte, che l'esser forti consiste principalmente nell'esser deliberatamente
+
+sordi e ciechi, deve gran parte del suo completo dominio al suo esempio.
+
+Da lui scaturisce la maggior parte della [[philosophy|filosofia]] di Nietzsche, che è nei
+
+tempi moderni il supremo maniaco di questa coerenza lunatica. Sebbene
+
+Nietzsche e Carlyle fossero in realtà profondamente diversi, Carlyle
+
+essendo un ostinato contadino e Nietzsche un [[aristocrat|aristocratico]] assai fragile,
+
+si somigliavano in questa sola qualità di cui parliamo, la strana e
+
+pietosa audacia con cui applicavano il loro unico criterio etico a
+
+ogni cosa in cielo e in terra. Il discepolo di Nietzsche, invero,
+
+abbraccia l'immoralità come una [[Faith|fede]] austera e difficile. Si sprona
+
+alla lussuria e alla crudeltà con lo stesso trepido entusiasmo con
+
+cui un cristiano si sprona alla purezza e alla pazienza; lotta come
+
+un monaco lotta con visioni e tentazioni bestiali, contro le antiche
+
+necessità dell'[[Honour|onore]] e della giustizia e della compassione. A questo manicomio,
+
+difficilmente si può negare, il [[Courage|coraggio]] intellettuale di Carlyle ne ha condotti molti alla
+
+fine.

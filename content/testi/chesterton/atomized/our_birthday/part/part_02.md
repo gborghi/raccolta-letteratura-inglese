@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/our-birthday-(chesterton)">Our Birthday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/our_birthday/part/part_01">‹ part 01</a><span></span></div>
@@ -71,3 +73,70 @@ the only representative of the implications of my Birthday.
 I do not even mind calling it the [[Pride|pride]] of birth, which of course
 has nothing to do with the [[Pride|pride]] of rank; so long as it involves
 the [[Humility|humility]] of birth also.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/our-birthday-(chesterton)">Our Birthday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/our_birthday/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+Ma c'è un secondo fatto riguardo ai Compleanni, e al [[Song|canto]] natale
+di tutto il creato, un fatto che in realtà discende da questo; ma che,
+a quanto mi pare, l'altra scuola di pensiero si rifiuta quasi
+di riconoscere. Il nòcciolo di quel fatto è semplicemente che è un fatto.
+Rallegrandomi del mio Compleanno, mi rallegro di qualcosa
+che non ho io stesso prodotto. Essendo grato della mia nascita,
+sono grato di qualcosa che è già accaduto;
+che è accaduto, per quanto ad alcuni possa parer triste, un bel po' di [[Time|tempo]] fa.
+Ora mi pare che il signor [[Shaw]] e la sua scuola comincino quasi
+ogni cosa nello spirito di chi dice: sceglierò
+io stesso il 17 ottobre come data della mia nascita.
+Mi propongo di nascere a Market Harborough; ho scelto per padre
+un dentista assai capace e umano, mentre mia madre sarà istruita
+come direttrice didattica di prim'ordine, per il tremendo onore e la responsabilità
+della sua posizione; prima di ciò, credo che la manderò a Girton.
+La [[house|casa]] che ho scelto per nascervi guarda su un elegante
+parco ornamentale, ecc., ecc.» In altre parole, mi pare che i pensatori
+moderni di questa specie non abbiano semplicemente alcuna [[philosophy|filosofia]] o poesia o possibile
+atteggiamento, verso le cose che ricevono dal reale
+mondo che già esiste; dal passato; dal genitore;
+dalla tradizione patria o dalla [[philosophy|filosofia]] morale dell'umanità.
+Parlano soltanto di fare cose; come se potessero fare se stessi
+non meno di [[Well|quanto facciano]] ogni altra cosa. Parlano sempre di fare
+una religione; e non riescono a ficcarsi in testa la nozione stessa
+di ricevere una rivelazione. Parlano sempre di fare
+un credo; senza vedere che ciò comporta fare un cosmo.
+Ma anche allora, non potremmo in alcun modo fare il cosmo che ha fatto noi.
+Ora nessuno che sappia qualcosa dei miei piccoli gusti e pregiudizi
+dirà che io non simpatizzi con la nozione del fare le cose.
+Credo nel fare migliaia di cose; fare scherzi,
+fare quadri, fare (a differenza del contraffare) merci, fare libri,
+e persino articoli (dei quali, come il lettore mestamente s'avvedrà,
+non c'è mai fine), fare giocattoli, fare arnesi, fare fattorie, fare case,
+fare chiese, fare sacre immagini; e, incidentalmente, anche
+fare guerra a chi volesse impedirmi di fare queste cose.
+Ma l'officina, per quanto vasta, è solo una metà del mondo.
+C'è tutto un problema della mente umana, che si occupa necessariamente
+delle cose che essa non ha fatto; delle cose
+che non poté fare; compresa se stessa. E dico che così è per
+qualunque visione della vita che [[Leaves|tralasci]] tutto quell'aspetto della vita;
+ogni ricettività, ogni gratitudine, ogni eredità, ogni adorazione.
+A meno che un filosofo non abbia una [[philosophy|filosofia]] capace di rendere tollerabile
+e sostenibile il suo atteggiamento verso tutte le realtà che sono
+attorno a lui e davanti a lui e dietro di lui... allora egli ha solo mezza
+[[philosophy|filosofia]]; cieco, per quanto sia l'uomo più arguto del mondo,
+in quel senso è un mezzo scemo.
+
+Il signor Bernard [[Shaw]] è certamente uno degli uomini più arguti del mondo,
+e riguardo a interi, vasti aspetti della vita, uno dei più saggi.
+Ma se dovessi sedermi con lui a un comitato di evoluzionisti,
+per redigere un credo per l'umanità, mi pare di prevedere che questa è la linea
+lungo la quale finirò per emettere la mia Relazione di Minoranza.
+Mi ritroverò a essere il rappresentante, e sospetto
+l'unico rappresentante, delle implicazioni del mio Compleanno.
+Non mi dispiace nemmeno chiamarlo l'[[Pride|orgoglio]] della nascita, che naturalmente
+non ha nulla a che vedere con l'[[Pride|orgoglio]] del rango; purché comporti
+anche l'[[Humility|umiltà]] della nascita.

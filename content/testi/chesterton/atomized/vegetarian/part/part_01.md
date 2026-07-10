@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/vegetarian-(chesterton)">vegetarian</a></div>
 </nav>
@@ -57,3 +59,56 @@ Than the milk of the wild mares of the Barbarian
   I will stick to port and sherry,  
   For they are so very, very,  
 So very, very, very, [[vegetarian|Vegetarian]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/vegetarian-(chesterton)">vegetarian</a></div>
+</nav>
+
+IL [[vegetarian|VEGETARIANO]] LOGICO  
+
+G.K.Chesterton  
+
+"Perché non dovrei concedermi una bevanda puramente [[vegetarian|vegetariana]]?  Perché non dovrei  
+assumere le verdure nella loro forma più alta, per così dire?  I modesti  
+vegetariani dovrebbero attenersi al vino o alla birra, semplici bevande vegetali,  
+invece di riempire i loro calici col [[Blood|sangue]] di tori ed elefanti,  
+come fanno tutti i convenzionali mangiatori di carne, suppongo"--Dalroy.  
+
+  Mi troverai a bere rum,  
+  come un marinaio in un tugurio,  
+mi troverai a bere birra come un bavarese,  
+  mi troverai a bere gin  
+  nella più infima delle taverne  
+perché sono un rigido [[vegetarian|Vegetariano]].  
+
+  Così svuotai del vino la taverna,  
+  e provai a scalarne l'insegna,  
+e provai a salutare il poliziotto chiamandolo "Marion".  
+  Ma disse che non sapevo parlare,  
+  e mi spedì dal Giudice  
+perché ero un Felice [[vegetarian|Vegetariano]].  
+
+  Oh, conosco un dottor Gluck,  
+  e il suo naso aveva un uncino,  
+e i suoi modi erano tutto fuorché ariani;  
+  così gli diedi tutto il maiale  
+  che avevo, su una forchetta,  
+perché io stesso sono un [[vegetarian|Vegetariano]].  
+
+  Sto zitto al Club,  
+  sto zitto al pub,  
+sto zitto su una maledetta vetta del Darien;  
+  perché mi rimpinzo a vita  
+  cacciando piselli con un coltello,  
+perché sono un rigido [[vegetarian|Vegetariano]].  
+
+  Il latte delle vacche non contaminerà  
+  la mia privata [[house|dimora]]  
+più del latte delle giumente selvagge del Barbaro;  
+  mi atterrò al porto e allo sherry,  
+  perché sono tanto, tanto,  
+tanto, tanto, tanto [[vegetarian|vegetariani]].

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ascetic-(chesterton)">ascetic</a></div>
 </nav>
@@ -59,4 +61,60 @@ But I, I cannot read it
 (Although I run and run),  
 Of them that do not have the [[Faith|faith]],  
 And will not have the fun.  
+          (G. K. Chesterton - 1913)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ascetic-(chesterton)">ascetic</a></div>
+</nav>
+
+IL [[Song|CANTO]] DELLO STRANO [[ascetic|ASCETA]]  
+
+Fossi stato un Pagano,  
+avrei lodato la vite purpurea,  
+i miei schiavi avrebbero scavato le vigne,  
+e io avrei bevuto il vino.  
+Ma Higgins è un Pagano,  
+e i suoi schiavi si fanno smunti e grigi,  
+perché lui possa bere un poco di latte tiepido  
+esattamente due volte al giorno.  
+
+Fossi stato un Pagano,  
+avrei incoronato i riccioli di Neèra,  
+e riempito la vita di [[Love|amori]],  
+la mia [[house|casa]] di fanciulle danzanti;  
+ma Higgins è un Pagano,  
+e in aule di conferenza è costretto,  
+dove le sue zie, che non sono maritate,  
+esigono di essere divorziate.  
+
+Fossi stato un Pagano,  
+avrei spedito i miei eserciti,  
+e trascinato dietro i miei carri  
+i Capi del Settentrione.  
+Ma Higgins è un Pagano,  
+e spinge la tetra penna d'oca,  
+per prestare ai poveri quel buffo denaro  
+che li fa più poveri ancora.  
+
+Fossi stato un Pagano,  
+avrei innalzato la mia pira,  
+e in un grande turbine rosso  
+sarei salito ruggendo al cielo;  
+ma Higgins è un Pagano,  
+e un uomo più ricco di me:  
+e lo cacciano in un forno,  
+proprio come fosse un pasticcio.  
+
+Ora chiunque corra può leggerlo,  
+l'[[Riddle|enigma]] che io scrivo,  
+del perché questo povero vecchio peccatore  
+debba peccare senza diletto—  
+ma io, io non so leggerlo  
+(per quanto corra e corra),  
+di coloro che non hanno la [[Faith|fede]],  
+e non vogliono avere lo spasso.  
           (G. K. Chesterton - 1913)

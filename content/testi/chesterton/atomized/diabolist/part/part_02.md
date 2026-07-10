@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/diabolist-(chesterton)">diabolist</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/diabolist/part/part_01">‹ part 01</a><span></span></div>
@@ -67,3 +69,66 @@ but I have never known, or even dared to think, what was that place
 at which he stopped and refrained.
 
 (from Tremendous Trifles, 1909)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/diabolist-(chesterton)">diabolist</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/diabolist/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+"È tutto ciò che ti chiedo di ammettere," dissi.  "Concedimi
+quei pochi punti rossi e da essi dedurrò la [[morality|morale]] cristiana.
+Un tempo pensavo come te, che il piacere provato in una scintilla
+volante fosse cosa che poteva andare e venire con quella scintilla.
+Un tempo pensavo che quel diletto fosse libero come il [[Fire|fuoco]].
+Un tempo pensavo che la stella rossa che vediamo fosse [[Alone|sola]] nello spazio.
+Ma ora so che la stella rossa è soltanto sull'apice
+di un'invisibile piramide di virtù.  Quel [[Fire|fuoco]] rosso è soltanto
+il fiore su uno stelo di abitudini viventi, che tu non puoi vedere.
+Solo perché tua madre ti fece dire 'Grazie' per un dolcetto
+sei ora capace di ringraziare la [[Nature|Natura]] o il caos per quelle rosse [[Stars|stelle]]
+d'un istante o per le bianche [[Stars|stelle]] di tutto il [[Time|tempo]].  Solo perché fosti
+umile davanti ai fuochi d'artificio del cinque di novembre puoi ora
+godere di ogni fuoco che ti càpiti di vedere.  Ti piacciono
+rossi solo perché ti fu raccontato del [[Blood|sangue]] dei martiri;
+ti piacciono splendenti solo perché lo splendore è una gloria.
+Quella fiamma fiorì dalle virtù, e con le virtù svanirà.
+Seduci una donna, e quella scintilla sarà meno luminosa.
+Versa [[Blood|sangue]], e quella scintilla sarà meno rossa.  Sii davvero malvagio,
+e ti saranno come le macchie su una carta da parati."
+
+Aveva un'orribile lealtà d'intelletto che mi faceva [[Despair|disperare]] della
+sua [[Soul|anima]].  Un ateo comune e innocuo avrebbe negato che la religione
+producesse [[Humility|umiltà]], o l'[[Humility|umiltà]] una gioia semplice: ma egli ammetteva entrambe.
+Diceva soltanto: "Ma non troverò forse nel male una vita tutta sua?
+Ammesso che per ogni donna che rovino una di quelle scintille rosse si spegnerà:
+non crescerà forse il piacere della rovina ..."
+
+"Vedi quel [[Fire|fuoco]]?" chiesi.  "Se avessimo una vera [[democracy|democrazia]] battagliera,
+qualcuno ti brucerebbe in esso; come l'adoratore del demonio che sei."
+
+"Forse," disse, nel suo modo stanco e leale.  "Solo che ciò che tu chiami male
+io lo chiamo bene."
+
+Discese i grandi gradini [[Alone|solo]], e sentii come se volessi
+che i gradini fossero spazzati e ripuliti.  Lo seguii più tardi, e mentre andavo a cercare
+il mio cappello nel basso, buio corridoio dove era appeso, udii d'improvviso la sua
+voce di nuovo, ma le parole erano inudibili.  Mi fermai, trasalendo:
+poi udii la voce di uno dei più vili tra i suoi sodali dire,
+"Nessuno può mai saperlo."  E poi udii quelle due o tre
+parole che ricordo in ogni sillaba e non posso dimenticare.
+Udii il [[diabolist|Diabolista]] dire: "Ti dico che ho fatto già tutto il resto.
+Se faccio quello, non conoscerò più la differenza tra il bene e il male."
+Mi precipitai fuori senza osar fermarmi; e passando accanto al [[Fire|fuoco]]
+non sapevo se fosse l'inferno o il furioso [[Love|amore]] di Dio.
+
+Ho poi saputo che è morto: si può dire, credo,
+che si sia [[suicide|suicidato]]; benché lo abbia fatto con strumenti di piacere,
+non con strumenti di [[Pain|dolore]].  Dio lo aiuti, conosco la [[Road|strada]] che percorse;
+ma non ho mai saputo, né osato pensare, quale fosse quel luogo
+al quale si fermò e si trattenne.
+
+(da Tremendous Trifles, 1909)

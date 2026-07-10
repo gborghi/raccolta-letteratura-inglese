@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/united-states-(chesterton)">United States</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/united_states/part/part_02">part 02 ›</a></div>
@@ -34,3 +36,18 @@ often in the intervals of bitter warfare and by the aid of a
 brilliant [[Memory|memory]], to put together these pages on the [[history]],
 so necessary and so strangely neglected, of the great [[democracy]]
 which he never patronised, which he not only loved but honoured.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/united-states-(chesterton)">United States</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/united_states/part/part_02">part 02 ›</a></div>
+</nav>
+
+# Stati Uniti
+
+INTRODUZIONE
+
+L'autore di questo libro, mio fratello, morì in un ospedale militare francese per gli effetti dell'esposizione al freddo nell'ultimo feroce combattimento che spezzò la potenza prussiana sulla Cristianità; combattimento per cui si era offerto volontario dopo essere stato congedato per infermità e rimandato a [[Home|casa]]. Ogni appunto che io possa buttar giù su di lui parrà per forza sconnesso e incongruo; poiché in un simile rapporto la [[Memory|memoria]] è un guazzabuglio di generalizzazione e dettaglio, che le parole non sanno dire. Una cosa almeno può dirsi qui a proposito. Prima di morire fece almeno due cose che desiderava. Una può sembrare assai più grande dell'altra; ma egli non avrebbe esitato a nominarle insieme. Vide la fine di un impero che era l'[[nightmare|incubo]] delle nazioni; ma credo gli piacque quasi altrettanto l'esser riuscito, spesso negli intervalli della guerra amara e col soccorso di una [[Memory|memoria]] brillante, a mettere insieme queste pagine sulla [[history|storia]], così necessaria e così stranamente trascurata, della grande [[democracy|democrazia]] che egli non trattò mai con sufficienza, che non solo amò ma onorò.

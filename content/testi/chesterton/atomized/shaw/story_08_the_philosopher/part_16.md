@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/shaw-(chesterton)">Shaw</a> › <a href="/testi/chesterton/atomized/shaw/story_08_the_philosopher">Story 08 THE PHILOSOPHER</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_15">‹ part 15</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_09_the_later_phases/part_01">part 01 ›</a></div>
@@ -71,3 +73,70 @@ there was one especially, whose voice was heard and whose
 spear was never broken.
 
 THE END
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/shaw-(chesterton)">Shaw</a> › <a href="/testi/chesterton/atomized/shaw/story_08_the_philosopher">Story 08 THE PHILOSOPHER</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_15">‹ part 15</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_09_the_later_phases/part_01">part 01 ›</a></div>
+</nav>
+
+Da ultimo, egli ha cancellato il puro cinico.  È stato tanto
+più cinico di chiunque altro per il pubblico bene, che nessuno
+ha più osato da allora essere davvero cinico per qualcosa di più piccolo.
+I petardi cinesi dei cinici frivoli non riescono più a eccitarci
+dopo la dinamite del cinico serio e aspirante.
+Bernard [[Shaw]] e io (che incanutiamo insieme)
+possiamo ricordare un'epoca che molti dei suoi seguaci non conoscono:
+un'epoca di reale pessimismo.  Gli anni dal 1885 al 1898 furono
+come le ore del pomeriggio in una ricca [[house|dimora]] dalle grandi sale;
+le ore prima del [[Time|tè]].  Non credevano in nulla tranne
+le buone maniere; e l'essenza delle buone maniere è celare uno sbadiglio.
+Uno sbadiglio si può definire un urlo silenzioso.  Il potere che il giovane
+pessimista di quel [[Time|tempo]] mostrava in questa direzione avrebbe stupito
+chiunque tranne lui.  Sbadigliava tanto largo da [[Swallow|inghiottire]] il mondo.
+Inghiottì il mondo come una pillola sgradevole prima di ritirarsi
+a un eterno riposo.  Ora l'ultima e migliore gloria di [[Shaw]] è
+che nei circoli dove questa creatura si trovava, essa non è.
+Non è stata uccisa (non so esattamente perché), ma si è
+di fatto trasformata in un idealista alla [[Shaw]].  Non è esagerazione.
+Incontro uomini che, quando li conobbi nel 1898, erano appena un po' troppo
+pigri per distruggere l'universo.  Ora sono consapevoli di non essere
+del tutto degni di abolire qualche regolamento di [[Prison|prigione]].  Questa distruzione
+e [[conversion|conversione]] mi paiono il segno di qualcosa di davvero grande.
+È sempre grande distruggere un tipo senza distruggere un uomo.
+I seguaci di [[Shaw]] sono ottimisti; alcuni di essi sono tanto semplici
+da usare persino la parola.  Sono talvolta ottimisti piuttosto pallidi,
+spesso ottimisti assai preoccupati, occasionalmente, a dire il [[Truth|vero]],
+ottimisti piuttosto [[Cross|irritati]]:  ma [non] sono pessimisti;
+possono esultare benché non possano ridere.  Egli ha almeno
+inaridito tra loro la mera posa dell'impossibilità.
+Come ogni grande maestro, ha maledetto il fico sterile.
+Poiché nulla, tranne quell'impossibilità, è davvero impossibile.
+
+* * * *
+
+So che è tutto molto strano.  Dall'altezza di ottocento
+anni fa, o di ottocento anni a venire, la nostra epoca deve
+apparire incredibilmente bizzarra.  Chiamiamo il dodicesimo secolo [[ascetic|ascetico]].
+Chiamiamo il nostro [[Time|tempo]] edonista e colmo di lode e di piacere.
+Ma nell'età [[ascetic|ascetica]] l'[[Love|amore]] per la vita era evidente ed enorme,
+tanto che doveva essere frenato.  In un'età edonista il piacere
+è sempre affondato in basso, tanto che deve essere incoraggiato.
+Quanto in alto [[Rose|salì]] il mare della felicità umana nel Medioevo,
+lo sappiamo ora solo dalle colossali mura che essi eressero per tenerlo
+entro i confini.  Quanto in basso affondò la felicità umana nel ventesimo
+secolo i nostri figli lo sapranno solo da questi straordinari
+libri moderni, che dicono alla gente che è un dovere essere
+allegri e che la vita, dopotutto, non è così brutta.  L'umanità non
+produce mai ottimisti finché non ha cessato di produrre uomini felici.
+È strano essere costretti a imporre una festa come un digiuno,
+e a spingere gli uomini a un banchetto con le lance.  Ma questo sarà
+scritto del nostro [[Time|tempo]]:  che quando lo spirito che nega assediò
+l'ultima cittadella, bestemmiando la vita stessa, ve ne furono alcuni,
+ve ne fu uno soprattutto, la cui voce fu udita e la cui
+lancia non fu mai spezzata.
+
+FINE

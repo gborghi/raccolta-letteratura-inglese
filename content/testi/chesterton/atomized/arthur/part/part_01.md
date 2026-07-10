@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/arthur-(chesterton)">arthur</a></div>
 </nav>
@@ -34,3 +36,33 @@ Lest human [[Fable|fable]] touch historic fact,
 Chase myths like moths, and fight them with a pin.  
 Take comfort; rest--there needs not this ado.  
 You shall not be a myth, I promise you.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/arthur-(chesterton)">arthur</a></div>
+</nav>
+
+"Il Mito di [[Arthur|Artù]]"  
+di G. K. Chesterton  
+
+O dotto che mai imparasti a imparare,  
+se non a dedurre, con passi timidi e piccoli,  
+da fumo torreggiante che il [[Fire|fuoco]] mai può bruciare  
+e da racconti alti che gli uomini mai furon alti.  
+Di', hai mai pensato che sorta d'uomo sia  
+colui di cui si dice "Poteva atterrare giganti"?  
+O quali forti memorie sull'abisso del [[Time|tempo]]  
+sorressero la pompa di Camelot e la [[Crown|corona]].  
+E perché un solo vessillo riempie tutto lo sfondo,  
+oltre i cortei di tante lance,  
+e per quale magia nelle colline occidentali  
+un trono resta vuoto per mille anni.  
+Voi che ritenete, incuranti di quest'immenso impatto,  
+storia immortale un peccato mortale;  
+per timore che l'umana [[Fable|favola]] tocchi il fatto storico,  
+inseguite miti come falene, e li combattete con uno spillo.  
+Consolatevi; riposate--non occorre tanto affanno.  
+Non sarete un mito, ve lo prometto.

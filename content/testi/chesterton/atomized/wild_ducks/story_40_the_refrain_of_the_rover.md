@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_39_the_words_of_strong_poetry">‹ Story 39 The Words of Strong Poetry</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_41_on_reflection">Story 41 ON REFLECTION ›</a></div>
@@ -63,3 +65,62 @@ I can imagine a seaman singing with the proper doleful boom:
 The small coincidence is worth noting; because it is [[Well|well]] to remember
 that there is a whole literature which is lucky in being quite unconnected
 with literary men.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_39_the_words_of_strong_poetry">‹ Story 39 The Words of Strong Poetry</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_41_on_reflection">Story 41 ON REFLECTION ›</a></div>
+</nav>
+
+Il ritornello del vagabondo
+
+Un moderno uomo di genio, Gauguin credo, disse che un artista deve
+essere o un rivoluzionario o un plagiario. Avrebbe potuto, in tutta
+onestà, aggiungere che la maggior parte dei grandissimi artisti erano
+plagiari. Autori antiquati del tipo di Chaucer e Shakespeare erano
+assai entusiasti del copiare; finché autori più moderni non divennero
+più entusiasti del copyright. Ma attraverso tutta la poesia, dal
+medioevo giù fino ai tempi moderni, corre qualcosa come un'eco
+sempiterna che porta in sé un elemento d'incanto. Vi sono ritornelli
+che ricorrono in ogni sorta di canzone; come `Over the Hills and Far
+Away', o `On Christmas Day in the Morning', o `Under the Greenwood
+Tree'. Ma di recente mi sono piuttosto divertito a notare due o tre
+casi in cui due o tre poeti avevano ripetuto la stessa frase, così come
+[[Well|come]] lo stesso sentimento. Voglio dire che avevano
+dichiaratamente usato una ripetizione verbale, che il volgo potrebbe
+davvero chiamare plagio. Una serie cominciava, come immaginavo, con
+quel briosa [[Song|canto]] di Byron, `We'll go no more a-roving'. La
+sua bellezza precipua è quella byroniana bellezza della rapidità, che
+spesso viene trascurata. Consta di tre strofe di quattro versi
+ciascuna; ma potrebbe dirsi tutto in un fiato. L'unica grande qualità
+che Byron conservò sempre era esattamente quella dualità che andava di
+continuo vantandosi d'aver perduto. Era il Gusto; una fanciullesca
+capacità di godimento, specialmente della propria poesia. Ora, essa
+riappare quasi con le medesime parole nelle opere di W. E. Henley, che
+professava il credo assai diverso di un ottimismo piuttosto burrascoso;
+sebbene la sua burrascosità lo inducesse talvolta a scagliare la
+stampella contro gli amici, quando dissentivano su qualche sottile
+sfumatura di critica. È probabilmente più noto per la poesia in cui
+ringrazia qualsiasi dio vi sia per la sua anima indomabile; benché io
+nutra i miei privati dubbi sull'anima indomabile che si accompagna a un
+temperamento indomabile. Eppure era un bravo tipo a modo suo, e i suoi
+amici lo amavano, sebbene scagliasse loro la stampella. Scrisse una
+lirica che semplicemente muta `We'll go no more a-roving' in `We'll go
+no more a-roaming'. Potrebbe almeno chiamarsi un'eco; ma io ora sto
+difendendo le echi. E ora scopro, dalle recenti e affascinantissime
+memorie di un comune marinaio, che entrambe le [[Poems|poesie]]
+potrebbero essere state echi; ed entrambi i poeti plagiari. Poiché egli
+cita una canzone di mare, cantata dai comuni marinai, che a me stesso
+piace più di entrambe le produzioni letterarie. Posso immaginare un
+marinaio cantare con il debito lugubre rimbombo:
+
+           A-roving--, a-roving--, since roving's been my ru-u-in
+                    I'll go no more a-roving
+                    With you, fair maid!
+
+La piccola coincidenza merita d'esser notata; perché è [[Well|bene]]
+ricordare che esiste tutta una letteratura fortunata nell'essere del
+tutto slegata dagli uomini di lettere.

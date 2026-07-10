@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/donkey-(chesterton)">donkey</a></div>
 </nav>
@@ -36,3 +38,35 @@ The [[donkey|Donkey]]
           One far fierce hour and sweet:  
         There was a shout about my ears,  
           And palms before my feet.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/donkey-(chesterton)">donkey</a></div>
+</nav>
+
+L'[[donkey|Asino]]  
+
+G.K.Chesterton  
+
+        Quando i pesci volavano e le foreste camminavano  
+          e i fichi crescevano sul rovo,  
+        in un istante in cui la [[Moon|luna]] era [[Blood|sangue]]  
+          fu allora, di certo, che io nacqui.  
+
+        Con testa mostruosa e verso nauseante  
+          e orecchie come ali erranti,  
+        la [[Parody|parodia]] ambulante del diavolo  
+          d'ogni cosa a quattro zampe.  
+
+        Fuorilegge cencioso della terra,  
+          d'antica volontà storta;  
+        affamatemi, frustatemi, deridetemi: sto muto,  
+          custodisco ancora il mio segreto.  
+
+        Stolti! Anch'io ebbi la mia ora;  
+          un'ora lontana, fiera e dolce:  
+        vi fu un grido intorno alle mie orecchie,  
+          e palme davanti ai miei piedi.

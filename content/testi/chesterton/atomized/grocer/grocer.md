@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/grocer-(chesterton)">grocer</a></div>
 </nav>
@@ -79,3 +81,78 @@ But now the sands are running out
 From sugar of a sort,  
 The [[grocer|Grocer]] trembles; for his [[Time|time]],  
 Just like his weight, is short.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/grocer-(chesterton)">grocer</a></div>
+</nav>
+
+La [[Song|Canzone]] contro i Droghieri  
+
+(Da "The Flying Inn", 1914)  
+
+Dio creò il malvagio [[grocer|Droghiere]]  
+come mistero e come segno,  
+perché gli uomini fuggissero le botteghe orrende  
+e andassero a cenare nelle osterie;  
+dove il lardo pende dalla trave  
+e il vino sta nella botte,  
+e Dio che creò il buon riso  
+ha visto che son cosa buona.  
+
+Il [[grocer|Droghiere]] dal cuore malvagio  
+chiamerebbe sua madre "Signora",  
+e le farebbe inchini e riverenze,  
+per dannarne la vecchia [[Soul|anima]],  
+e stropicciando le orride mani chiederebbe  
+quale fosse il prossimo articolo,  
+benché MORTIS IN ARTICULO  
+dovrebbe esserle il testo appropriato.  
+
+I suoi sostegni non sono i suoi figli,  
+ma ragazzi impertinenti mal pagati,  
+che gridano "Cassa!" e si sbatton di qua e di là  
+per esercitare il suo malvagio mestiere;  
+tiene una dama in gabbia  
+crudelmente tutto il giorno,  
+e la fa contare e la chiama "Signorina"  
+finché non si spegne.  
+
+Le menti giuste degli osti  
+li spingono di quando in quando  
+a stappare una bottiglia con un amico  
+o a offrire agli uomini senza denaro,  
+ma chi ha mai visto il [[grocer|Droghiere]]  
+offrire alle serve i suoi tè  
+o stappare una bottiglia di salsa di pesce  
+o pagare a un uomo un [[cheese|formaggio]]?  
+
+Ci vende le sabbie d'Arabia  
+per zucchero a contanti;  
+spazza la bottega e vende la [[Dust|polvere]]  
+come il sale più puro della città,  
+rimpinza di scatole di carne avvelenata  
+i poveri sudditi del [[King|Re]],  
+e quando muoiono a migliaia,  
+ebbene, ride a più non posso.  
+
+Il malvagio [[grocer|Droghiere]] drogherizza  
+in liquori e in vino,  
+non francamente e in compagnia  
+come gli uomini cenano nelle osterie;  
+ma stipato con sapone e sardine  
+e portato via dai valletti,  
+per essere ghermito dalle Duchesse  
+e bevuto nei salottini da toeletta.  
+
+L'[[grocer|Droghiere]] istruito dall'inferno  
+ha un tempio fatto di latta,  
+e la rovina dei buoni osti  
+vi è predicata a gran voce;  
+ma ora le sabbie stan colando via  
+da uno zucchero d'un certo tipo,  
+il [[grocer|Droghiere]] trema; ché il suo [[Time|tempo]],  
+proprio come il suo peso, è corto.

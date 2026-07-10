@@ -7,6 +7,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · wine-and-water</div>
 </nav>
@@ -36,3 +38,36 @@ And you can't get wine at a P.S.A., or chapel, or Eisteddfod,
 For the Curse of [[Water]] has come again because of the wrath of God,
 And [[Water|water]] is on the Bishop's board and the Higher Thinker's shrine,
 But I don't care where the [[Water|water]] goes if it doesn't get into the wine.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · wine-and-water</div>
+</nav>
+
+Vino e [[Water|Acqua]]
+
+di G.K.Chesterton  
+
+Il vecchio Noè aveva un allevamento di struzzi e polli su vastissima scala,
+mangiava l'uovo con un mestolo in un portauovo grande come un secchio,
+e la zuppa che prendeva era Zuppa d'Elefante e il pesce che prendeva era Balena,
+ma tutto ciò era poca cosa rispetto alla cantina che imbarcò quando salpò,
+e Noè diceva spesso a sua moglie quando sedeva a pranzo,
+"Non m'importa dove vada l'[[Water|acqua]], purché non finisca nel vino."
+
+La cateratta della rupe del cielo cadde accecante giù dall'orlo
+come volesse lavar via le [[Stars|stelle]] come schiuma che scende in un lavello,
+i sette cieli precipitarono ruggendo perché le gole dell'inferno bevessero,
+e Noè strizzò l'occhio e disse: "Sembra pioggia, mi pare,
+l'[[Water|acqua]] ha sommerso il Cervino fondo come una miniera del Mendip,
+ma non m'importa dove vada l'[[Water|acqua]], purché non finisca nel vino."
+
+Ma Noè peccò, e noi abbiamo peccato; su piedi malfermi camminammo,
+finché un grande grosso astemio nero ci fu mandato come castigo,
+e non trovi vino a una P.S.A., né in cappella, né a un Eisteddfod,
+ché la Maledizione dell'[[Water|Acqua]] è tornata per l'ira di Dio,
+e l'[[Water|acqua]] è sulla mensa del Vescovo e al sacrario del Pensatore Superiore,
+ma non m'importa dove vada l'[[Water|acqua]], purché non finisca nel vino.

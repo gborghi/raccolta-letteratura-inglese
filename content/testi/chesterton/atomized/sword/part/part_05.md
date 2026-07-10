@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/sword-(chesterton)">Sword</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sword/part/part_04">‹ part 04</a><span></span></div>
@@ -85,3 +87,84 @@ you with it after all.'
 The next instant the Magnetic [[Sword]] of the Royal Society vanished
 from men's view for ever; and Tryon could see nothing but Jeremy's
 little [[Cross|cross]] of wood heaving with the heaving stream.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/sword-(chesterton)">Sword</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sword/part/part_04">‹ part 04</a><span></span></div>
+</nav>
+
+Allora si levò per un istante, nella luce tempestosa, quel raro ma
+autentico spirito per amore del quale gli uomini hanno [[Alone|soltanto]] tollerato l'aristocrazia,
+ovvero la divisione dell'uomo dall'uomo. Il volto sfregiato di Sir Guy appariva
+insolitamente imbronciato, o persino astioso; ma egli si volse alla sua
+scorta di figli. "Dobbiamo riportarlo sano e salvo alla Grange,"
+disse acido; "voi ragazzi avete tutti le vostre spade, credo.
+Meglio che le sguainiate."
+
+"Perché?" chiese Humphrey a occhi sbarrati.
+
+"Perché," rispose il padre, "sono spade vinte,
+come la mia." E sguainò la sua lunga lama, che colse la bianca
+luce del mattino.
+
+"Ragazzi," disse, "è nelle mani di Dio se costui sia stregone o no.
+Ma si dovrà dire del nostro [[Blood|Sangue]] che abbiamo condotto folle e mazze
+a uccidere un uomo che aveva battuto ciascuno di noi lealmente con la [[Sword|spada]]?
+Si dirà che, quando i Griffin trovarono chi li eguagliasse, guairono contro la [[Magic|magia]]?
+Fate cerchio intorno a lui, e lo porteremo vivo attraverso
+un migliaio di [[Witch|caccia]]-streghe."
+
+Già un semicerchio di spade sguainate gli si era stretto intorno alla vittima
+come una collana di aculei. A quei tempi le folle erano assai più ardite
+contro i loro padroni di quanto lo siano oggi. Ma anche quella folla
+riconosceva ai Griffin una reputazione militare superiore al loro semplice
+rango territoriale; e le parti risultavano perciò più pari.
+Non c'era [[Sword|spada]] in quella ressa migliore di una [[Sword|spada]] Griffin;
+tranne la [[Sword|spada]] che pendeva inutile al fianco di un uomo immobilizzato.
+
+Prima dell'attimo seguente, che sarebbe stato [[Blood|sangue]] e distruzione,
+l'uomo dalla [[Sword|spada]] inutile parlò. "Se qualche gentiluomo,"
+disse con marmorea calma, "vorrà soltanto mettere una mano nella tasca
+del mio farsetto, credo che si risparmierà lo spargimento di sangue."
+
+Vi fu un lungo [[Silence|silenzio]]; e tutti guardarono Dennis Tryon:
+l'uomo che non aveva temuto lo stregone. Tutti, compresa Dorothy;
+e Dennis si fece avanti. Trovò un foglio ripiegato
+nel farsetto, lo aprì e lo lesse con sempre maggiore [[Wonder|meraviglia]] sul
+tondo volto giovanile. Alla terza frase si tolse il cappello.
+A ciò la folla lo fissò sempre più: era caduta d'un tratto in silenzio
+e tutti erano consapevoli di un mutamento e di un raffreddarsi in quell'aria intensa.
+
+"Parrebbe," disse infine, "che questa sia una lettera
+privata di Sua Maestà, che non leggerò per intero.
+Ma essa consiglia e permette a Sir Godfrey Skene di esercitarsi con la nuova
+[[Sword]] Magnetica che la Royal Society da qualche [[Time|tempo]]
+tenta di fabbricare in virtù di un suggerimento di Lord Verulam,
+fondatore della nostra [[philosophy|Filosofia]] Naturale. L'intera lama è magnetizzata;
+e si pensa che possa persino strappare qualsiasi altra arma di ferro
+dalla mano."
+
+Fece una pausa, con un certo imbarazzo, e poi disse:
+"Vi si aggiunge che soltanto un'arma di legno o d'altro simile materiale
+potrebbe essere usata contro di essa."
+
+Sir Guy si volse a lui d'un tratto e disse: "È questo ciò che voi
+chiamate [[philosophy|Filosofia]] Naturale?"
+
+"Sì," rispose Tryon.
+
+"Vi ringrazio," disse Griffin. "Non c'è bisogno che la insegniate ai miei figli."
+
+Poi mosse a grandi passi verso il prigioniero, e gli strappò via la [[Sword|spada]],
+spezzando la cintura che la reggeva.
+
+"Se non fosse la mano stessa di Sua Maestà," disse, "ti scaglierei
+via insieme ad essa, dopotutto."
+
+L'istante seguente la [[Sword]] Magnetica della Royal Society svanì
+per sempre dalla vista degli uomini; e Tryon non poté vedere altro che la piccola
+[[Cross|croce]] di legno di Jeremy sobbalzante nella corrente sobbalzante.

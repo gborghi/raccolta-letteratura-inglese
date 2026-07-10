@@ -45,20 +45,20 @@
    "appearance vs reality",
    "satire of society",
    "marriage",
+   "economics",
    "class conflict",
    "deception",
    "letters writing",
-   "childhood and growth",
-   "self and soul"
+   "childhood and growth"
   ],
   "words": 580532,
   "sentences": 40326
  },
  "Belloc": {
-  "works": 0,
-  "lexical_richness_rttr": 30.5,
+  "works": 63,
+  "lexical_richness_rttr": 30.3,
   "avg_sentence_words": 16.9,
-  "flesch_reading_ease": 61.6,
+  "flesch_reading_ease": 61.5,
   "flesch_kincaid_grade": 8.9,
   "gunning_fog": 11.6,
   "pct_complex_words": 12.1,
@@ -77,37 +77,37 @@
    "dolly",
    "terrard",
    "before",
-   "brassington",
    "first",
+   "brassington",
    "higginson",
    "repton",
    "lexington",
    "grizzlebeard",
    "paris",
-   "barnett",
    "even",
+   "barnett",
    "demaine",
-   "sussex",
    "modern",
+   "sussex",
    "after",
    "road",
-   "mallard",
-   "though"
+   "though",
+   "mallard"
   ],
   "top_concepts": [
+   "economics",
+   "history",
    "satire of society",
    "money and avarice",
    "money and gold",
    "faith",
-   "wine and drink",
-   "road",
    "capitalism",
-   "nationalism and patriotism",
    "tradition",
-   "letters and writing"
+   "wine and drink",
+   "road"
   ],
-  "words": 2354179,
-  "sentences": 139416
+  "words": 2395308,
+  "sentences": 141499
  },
  "Bronte": {
   "works": 7,
@@ -152,14 +152,14 @@
   "top_concepts": [
    "love romantic",
    "identity",
+   "economics",
    "class conflict",
    "faith",
    "marriage and fidelity",
    "childhood and growth",
    "money gold",
    "the common man",
-   "social injustice",
-   "alienation"
+   "social injustice"
   ],
   "words": 800893,
   "sentences": 59170
@@ -205,16 +205,16 @@
    "cobbett"
   ],
   "top_concepts": [
+   "history",
    "critique of progress",
    "satire of society",
    "paradox",
+   "economics",
    "nationalism and patriotism",
    "world upside down",
    "faith",
    "democracy",
-   "wonder and gratitude",
-   "distributism",
-   "power and corruption"
+   "wonder and gratitude"
   ],
   "words": 2991155,
   "sentences": 183939
@@ -315,16 +315,16 @@
    "challenger"
   ],
   "top_concepts": [
+   "history",
    "crime and punishment",
    "justice right and wrong",
    "empire and imperialism",
    "journey",
    "ratiocination detection",
    "deception",
+   "economics",
    "letters and writing",
-   "blood",
-   "money and gold",
-   "war and its cost"
+   "blood"
   ],
   "words": 3762690,
   "sentences": 272809
@@ -375,11 +375,11 @@
    "satire of society",
    "poverty",
    "money gold",
+   "economics",
    "appearance vs reality",
    "grace and redemption",
    "class conflict",
-   "guilt",
-   "the journey"
+   "guilt"
   ],
   "words": 3423424,
   "sentences": 261305
@@ -645,6 +645,7 @@
    "evil"
   ],
   "top_concepts": [
+   "history",
    "the book",
    "truth",
    "imagination",
@@ -653,8 +654,7 @@
    "machine",
    "education",
    "classical education",
-   "the trivium",
-   "childhood and growth"
+   "the trivium"
   ],
   "words": 54456,
   "sentences": 2946

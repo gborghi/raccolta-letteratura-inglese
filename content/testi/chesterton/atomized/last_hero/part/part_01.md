@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/last-hero-(chesterton)">last hero</a></div>
 </nav>
@@ -66,4 +68,67 @@ You never laughed in all your life as I shall laugh in [[Death|death]].
 (Written in 1901)  
 
 Note: this poem has been set to music by [[Michael]] Longcor.  
+_________________________________________________________________
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/last-hero-(chesterton)">last hero</a></div>
+</nav>
+
+# l'ultimo [[Hero|eroe]]
+
+L'Ultimo [[Hero|Eroe]]  
+
+          G.K. Chesterton
+
+Il [[Wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
+Vi fu strage d'alberi e crollo di torri a venti miglia di distanza,  
+E trascinato come una foglia livida io vado innanzi alla sua marea,  
+Vomitato fuori di [[house|casa]] e di stalla, mendico di [[Flag|vessillo]] e di sposa.  
+I cieli sono curvi attorno al mio capo, urlanti come guerre di serafini,  
+Con piogge che spegnerebbero il sole e monderebbero il cielo delle [[Stars|stelle]],  
+Piogge come il precipitare di mari in rovina da mondi segreti lassù,  
+Il fragore delle piogge di Dio nessuno se non il solitario [[Love|ama]].  
+Banchettate nella mia sala, o nemici, e mangiate e bevete e tracannate,  
+Voi non amaste mai il sole in cielo come io ho amato la pioggia.  
+
+La sorte della battaglia muta — così sia ogni battaglia;  
+Io rubai loro la mia sposa, essi la rubarono a me.  
+La strappai dalla sua sala dai tetti rossi, cavalcai e vidi levarsi,  
+Più bello dei [[Flowers|fiori]] viventi l'odio nei suoi occhi.  
+Non mi amò mai, mai si piegò, mai fu meno divina;  
+Il tramonto non mi amò mai, il [[Wind|vento]] non fu mai mio.  
+Fu forse nulla ch'ella stesse imperiale nella costrizione?  
+Il [[Silence|Silenzio]] stesso reso più dolce dallo strascico del suo abito.  
+O voi che vuotate la coppa della vita, o voi che portate la [[Crown|corona]],  
+Voi non amaste mai il sorriso di una donna come io ho amato il suo cipiglio.  
+
+Il [[Wind|vento]] soffiò da Bergen fino all'albeggiare del giorno,  
+Cavalcano e corrono con cinquanta lance per rompere e sbarrare la mia via,  
+Non morrò [[Alone|solo]], [[Alone|solo]], ma congiunto a tutte le potenze,  
+Allegro come l'antico sole e combattendo come i [[Flowers|fiori]].  
+Com'è bianco il loro acciaio, come brillano i loro occhi! [[Love|Amo]] ogni furfante ridente,  
+Gridate forte e dategli il benvenuto al banchetto dei prodi.  
+Sì, li benedirò mentre si chinano e li [[Love|amerò]] là dove giacciono,  
+Quando sui loro teschi la [[Sword|spada]] che vibro cadrà fracassandosi dal cielo.  
+L'ora in cui la [[Death|morte]] è come una luce e il [[Blood|sangue]] è come una [[Rose|rosa]], —  
+Voi non amaste mai i vostri amici, amici miei, come io [[Love|amerò]] i miei nemici.  
+
+Sapete voi cosa perderà la terra questa [[Night|notte]], quali ricchi prestiti non contati,  
+Quale greve oro di storie non narrate seppellite con le mie ossa?  
+I miei amori in prati profondi e fiochi, le mie navi che veleggiavano a loro agio,  
+Increspando il purpureo piumaggio di mari strani e segreti.  
+Vedere questa bella terra com'è fu dato a me [[Alone|solo]],  
+Il colpo che mi spezza la fronte questa [[Night|notte]] spezzerà la cupola del cielo.  
+I cieli che vidi, gli alberi che vidi, dopo nessun occhio vedrà,  
+Questa [[Night|notte]] muoio la [[Death|morte]] di Dio; le [[Stars|stelle]] moriranno con me;  
+Un solo suono spezzerà tutte le lance e romperà il fiato della tromba:  
+Voi non rideste mai in tutta la vita come io riderò nella [[Death|morte]].  
+
+(Scritto nel 1901)  
+
+Nota: questa poesia è stata musicata da [[Michael]] Longcor.  
 _________________________________________________________________

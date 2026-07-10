@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/frenchenglish-(chesterton)">frenchenglish</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/frenchenglish/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/frenchenglish/part/part_03">part 03 ›</a></div>
@@ -63,3 +65,62 @@ of England through many centuries, to produce at last the generous
 and genial fruit of English snobbishness.  And it requires battery
 and barricade, [[songs]] in the streets, and ragged men dead for an idea,
 to produce and justify the terrible flower of French indecency.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/frenchenglish-(chesterton)">frenchenglish</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/frenchenglish/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/frenchenglish/part/part_03">part 03 ›</a></div>
+</nav>
+
+La cosa si può render chiara agli inglesi solo capovolgendola.
+Si supponga che un francese venisse dalla Francia democratica a vivere in Inghilterra,
+dove l'[[Shadow|ombra]] delle grandi casate cade ancora dappertutto,
+e dove persino la [[Freedom|libertà]] fu, nella sua origine, aristocratica.
+Se il francese vedesse la nostra aristocrazia e le piacesse, se vedesse
+il nostro snobismo e gli piacesse, se si mettesse a imitarlo,
+tutti sappiamo che cosa proveremmo.  Tutti sappiamo che proveremmo
+che quel particolare francese era un ripugnante moscerino.  Starebbe
+imitando l'aristocrazia inglese; starebbe imitando il vizio inglese.
+Ma non capirebbe neppure il vizio che plagia:
+soprattutto non capirebbe che il vizio è in parte una virtù.
+Non capirebbe quegli elementi negli inglesi che
+bilanciano lo snobismo e lo rendono umano:  la grande bontà
+degli inglesi, la loro ospitalità, la loro poesia inconsapevole,
+il loro conservatorismo sentimentale, che davvero ammira la piccola nobiltà.
+Il monarchico francese vede che agli inglesi piace il loro [[King|Re]].  Ma non
+afferra che, mentre è vile adorare un [[King|Re]], è quasi nobile
+adorare un [[King|Re]] impotente.  L'impotenza dei sovrani hannoveriani
+ha innalzato il leale suddito inglese quasi alla cavalleria e
+alla dignità di un giacobita.  Il francese vede che il servitore inglese
+è rispettoso:  non si rende conto che è anche irrispettoso;
+che esiste una leggenda inglese del servitore umoristico e fedele,
+che è tanto una personalità quanto il suo padrone; il Caleb Balderstone,
+il [[Sam Weller]].  Vede che gli inglesi ammirano un nobile; non
+tiene conto del fatto che essi ammirano un nobile soprattutto quando non
+si comporta da tale.  Amano che un nobile sia inconsapevole e amabile:
+lo schiavo può essere umile, ma il padrone non deve essere superbo.
+Il padrone è la Vita, come essi vorrebbero goderla; e tra le gioie
+che [[Desire|desiderano]] in lui non ve n'è alcuna che [[Desire|desiderino]] più sinceramente
+di quella della generosità, del gettare danaro tra gli uomini, o,
+per usare la nobile parola medievale, largesse - la gioia della larghezza.
+Ecco perché un [[cabman|cocchiere]] vi dice che non siete un gentiluomo se gli date
+la tariffa esatta.  Non solo la sua borsa, ma la sua [[Soul|anima]] è ferita.
+Avete ferito il suo ideale.  Avete sfregiato la sua visione del
+perfetto [[aristocrat|aristocratico]].  Tutto ciò è davvero molto sottile ed elusivo;
+è molto difficile separare ciò che è mera servilità da
+ciò che è una sorta di nobiltà vicaria nell'[[Love|amore]] inglese per un lord.
+E nessun francese potrebbe facilmente afferrarlo affatto.  Lo crederebbe
+mera servilità; e se gli piacesse, sarebbe uno schiavo.
+Così ogni inglese deve (dapprima) sentire il candore francese
+come mera brutalità.  E se gli piace, è un bruto.
+Questi meriti nazionali non vanno intesi con tanta facilità.
+Richiede lunghi anni di pienezza e di quiete, la lenta crescita
+di grandi parchi, la stagionatura delle travi di quercia, il cupo arricchirsi
+del vino rosso nelle cantine e nelle locande, tutto l'ozio e la vita
+dell'Inghilterra attraverso molti secoli, per produrre alla fine il generoso
+e geniale frutto dello snobismo inglese.  E richiede batteria
+e barricata, [[songs|canti]] per le strade, e uomini cenciosi morti per un'idea,
+per produrre e giustificare il terribile fiore dell'indecenza francese.

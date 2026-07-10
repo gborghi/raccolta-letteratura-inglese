@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/praise-of-dust-(chesterton)">praise of dust</a></div>
 </nav>
@@ -53,3 +55,52 @@ Eater of stones, may haply hear
   By his own splendour swore  
 To make a fairer face than heaven,  
   Of [[Dust|dust]] and nothing more."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/praise-of-dust-(chesterton)">praise of dust</a></div>
+</nav>
+
+# lode della [[Dust|polvere]]
+
+La Lode Della [[Dust|Polvere]]  
+
+G. K. Chesterton  
+
+«Che dire della vile [[Dust|polvere]]?» disse il predicatore.  
+  E mi parve che il mondo intero si destasse,  
+la pietra morta visse sotto il mio piede,  
+  e tutto il mio [[Body|corpo]] parlò.  
+
+«Tu, che fai il [[Tyrant|tiranno]] alla [[Dust|polvere]],  
+  e ne calpesti il volto rugoso,  
+questa stella paziente che non ti scaglia  
+  lontano nello spazio senza dimora.  
+
+«Scendi giù dal tuo polveroso santuario  
+  a veder la [[Dust|polvere]] viva,  
+i [[Flowers|fiori]] che, finito il tuo sermone,  
+  stanno ardendo in silenzio.  
+
+«Ricchi fiori bianchi e rossi come [[Blood|sangue]]; pietre,  
+  licheni che come [[Fire|fuoco]] incrostano;  
+un baglior d'azzurro, un lampo d'oro,  
+  la visione della [[Dust|polvere]].  
+
+«Passa oltre tutto questo: finché giungi  
+  dove, al margine d'una [[City|città]],  
+sotto un albero--lo conosco [[Well|bene]]--  
+  sotto la sporgenza d'un graticcio,  
+
+«Il sole cade su un capo bruno.  
+  Anche tu, o freddo d'argilla,  
+mangiatore di pietre, forse udrai  
+  le trombe di quel giorno  
+
+«quando Dio a tutti i suoi paladini  
+  per il proprio splendore giurò  
+di fare un volto più bello del cielo,  
+  di [[Dust|polvere]] e nulla più.»

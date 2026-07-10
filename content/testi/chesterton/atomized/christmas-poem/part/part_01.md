@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/christmas-poem-(chesterton)">christmas-poem</a></div>
 </nav>
@@ -62,5 +64,65 @@ Christmas Poem
      To the things that cannot be and that are,  
      To the place where God was homeless  
      And all men are at [[Home|home]].  
+
+     (Gilbert Keith Chesterton)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/christmas-poem-(chesterton)">christmas-poem</a></div>
+</nav>
+
+Poesia di Natale  
+
+	      di G.K. Chesterton  
+
+     Andò una madre cacciata via  
+     da un'osteria, a vagare;  
+     nel luogo dove lei era senza casa  
+     ogni uomo è a [[Home|casa]].  
+     La stalla folle, lì vicino,  
+     con travi tremanti e sabbia che scorre,  
+     divenne cosa più salda a durare e a reggere  
+     che le squadrate pietre di Roma.  
+
+     Ché gli uomini han nostalgia nelle lor case,  
+     e stranieri sotto il sole,  
+     e posano il capo in terra straniera  
+     ogni volta che il giorno finisce.  
+
+     Qui abbiamo battaglia e occhi fiammeggianti,  
+     e sorte e [[Honour|onore]] e alta sorpresa,  
+     ma le nostre case son sotto cieli miracolosi  
+     dove ebbe inizio il racconto del Natale.  
+
+     Un [[Child|bambino]] in una stalla immonda,  
+     dove le bestie brucano e sbavano;  
+     solo dove Egli fu senza casa  
+     siamo tu ed io a [[Home|casa]];  
+     abbiamo mani che plasmano e teste che sanno,  
+     ma il cuore l'abbiamo perduto---quanto tempo fa!  
+     in un luogo che né carta né [[Ship|nave]] può mostrare  
+     sotto la cupola del cielo.  
+
+     Questo mondo è folle come una fiaba di vecchia comare,  
+     e strane sono le cose semplici,  
+     la terra basta e basta l'aria  
+     al nostro [[Wonder|stupore]] e alla nostra guerra;  
+     ma il nostro riposo è lontano quanto oscilla il [[Fire|fuoco]]-drago  
+     e la nostra pace è riposta in cose impossibili  
+     dove cozzarono e tuonarono ali impensabili  
+     attorno a una stella incredibile.  
+
+     A una [[house|casa]] aperta nella sera  
+     a [[Home|casa]] verranno tutti gli uomini,  
+     a un luogo più antico dell'Eden  
+     e a una città più alta di Roma.  
+     Alla fine del cammino della stella errante,  
+     alle cose che non possono essere e che sono,  
+     al luogo dove Dio fu senza casa  
+     e ogni uomo è a [[Home|casa]].  
 
      (Gilbert Keith Chesterton)

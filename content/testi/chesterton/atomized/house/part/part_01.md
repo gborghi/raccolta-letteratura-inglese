@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/house-(chesterton)">house</a></div>
 </nav>
@@ -61,3 +63,60 @@ To the end of the way of the wandering star,
 To the things that cannot be and that are,  
 To the place where God was homeless  
 And all men are at [[Home|home]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/house-(chesterton)">house</a></div>
+</nav>
+
+La [[house|Casa]] del Natale  
+
+Di: G. K. Chesterton  
+
+Andò una madre spinta fuori  
+da una locanda a errare;  
+nel luogo dove lei era senza casa  
+tutti gli uomini sono a [[Home|casa]].  
+La stalla sgangherata lì accanto,  
+con travi tremanti e sabbia che scorre,  
+divenne cosa più salda a durare e reggere  
+delle squadrate pietre di Roma.  
+
+Poiché gli uomini hanno nostalgia dentro le loro case,  
+e sono stranieri sotto il sole,  
+e posano il capo in una terra straniera  
+ogni volta che il giorno finisce.  
+Qui abbiamo battaglia e occhi fiammeggianti,  
+e sorte e [[Honour|onore]] e alta sorpresa,  
+ma le nostre case stanno sotto cieli miracolosi  
+dove ebbe inizio il racconto del Natale.  
+
+Un [[Child|Bambino]] in una stalla sudicia,  
+dove le bestie mangiano e spumeggiano;  
+solo là dove Egli fu senza casa  
+tu ed io siamo a [[Home|casa]];  
+abbiamo mani che plasmano e teste che sanno,  
+ma il cuore l'abbiamo perduto - quanto tempo fa!  
+In un luogo che né carta né [[Ship|nave]] può mostrare  
+sotto la cupola del cielo.  
+
+Questo mondo è selvaggio come una favola di vecchie comari,  
+e strane sono le cose semplici,  
+la terra basta e l'aria basta  
+al nostro [[Wonder|stupore]] e alla nostra guerra;  
+ma il nostro riposo è lontano quanto vola il drago di [[Fire|fuoco]]  
+e la nostra pace è riposta in cose impossibili  
+dove cozzarono e tuonarono ali impensabili  
+attorno a una stella incredibile.  
+
+A una [[house|casa]] aperta nella sera  
+verranno gli uomini a [[Home|casa]],  
+a un luogo più antico dell'Eden  
+e a una città più alta di Roma.  
+Alla fine del cammino della stella errante,  
+alle cose che non possono essere eppure sono,  
+al luogo dove Dio fu senza casa  
+e tutti gli uomini sono a [[Home|casa]].

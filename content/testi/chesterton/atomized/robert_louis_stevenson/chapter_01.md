@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_02">Chapter 02 ›</a></div>
@@ -26,5 +28,29 @@ CHAPTER
 VIII THE LIMITS OF A CRAFT
   IX THE [[philosophy|PHILOSOPHY]] OF GESTURE
    X THE MORAL OF STEVENSON
+
+* * * *
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_02">Chapter 02 ›</a></div>
+</nav>
+
+CAPITOLO
+
+   I "IL MITO DI STEVENSON"
+  II NEL PAESE DI SKELT
+ III GIOVINEZZA ED EDIMBURGO
+  IV LA REAZIONE VERSO IL [[Romance|ROMANZESCO]]
+   V I RACCONTI SCOZZESI
+  VI LO STILE DI STEVENSON
+ VII SPERIMENTAZIONE E VARIETÀ
+VIII I LIMITI DI UN MESTIERE
+  IX LA [[philosophy|FILOSOFIA]] DEL GESTO
+   X LA MORALE DI STEVENSON
 
 * * * *

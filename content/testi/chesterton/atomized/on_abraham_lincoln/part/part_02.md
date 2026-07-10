@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/on-abraham-lincoln-(chesterton)">On Abraham Lincoln</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/on_abraham_lincoln/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/on_abraham_lincoln/part/part_03">part 03 ›</a></div>
@@ -79,3 +81,22 @@ or even by the spirit of the age, where ideas were concerned.
 I do not believe he would have admitted that Slavery was right,
 if the South had won the War and the slaves States had prospered
 ten times more than the free.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/on-abraham-lincoln-(chesterton)">On Abraham Lincoln</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/on_abraham_lincoln/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/on_abraham_lincoln/part/part_03">part 03 ›</a></div>
+</nav>
+
+Poiché questo grand'uomo aveva un vizio segreto assai più impopolare, fra i suoi seguaci, dell'abitudine di bere. Aveva l'abitudine di pensare. Potremmo quasi chiamarla l'abitudine del pensare in segreto, una cupa consolazione simile a quella del bere di nascosto; poiché nei suoi primi anni dovette praticarla senza che nessuno l'apprezzasse, e si è detto ch'egli risolvesse le proposizioni di Euclide come sollievo dopo essere stato tormentato dalla moglie. Questa abitudine di pensare non era la cosa sventata comunemente chiamata libero pensiero, benché possa averne raccolto un poco nei suoi giorni meno illuminati. Era vero pensiero, il che significa sapere esattamente dove tracciare la linea: una [[logic|logica]] che spesso viene scambiata per compromesso.
+
+La grande gloria di [[Lincoln]] è che, quasi [[Alone|solo]] fra i politici, sapeva davvero cosa pensasse della politica. Pensava davvero che la [[Slavery|schiavitù]] fosse un male, ma pensava davvero che lo smembramento dell'[[america|America]] fosse peggio. È del tutto possibile che una persona intelligente dissenta da lui sull'uno o su entrambi questi punti. Ma egli fu una persona intelligente quando li enunciò in quel modo, e li dispose in quell'ordine. In breve, aveva un innato [[Love|amore]] della [[Truth|Verità]]; e, come ogni uomo dotato di tale [[Love|amore]], nutriva un naturale disgusto per la mera Tendenza. Non aveva alcun uso del progresso, dell'evoluzione, dell'andare con la corrente, del lasciare che lo spirito del secolo lo guidasse avanti. Sapeva esattamente cosa pensava, non solo circa la perfezione, ma la proporzione della [[Truth|verità]]; non solo circa la direzione, ma la distanza. Non aveva sempre ragione; ma cercava sempre di essere ragionevole, e proprio in quel senso che i suoi speciali ammiratori non hanno mai compreso, da quel giorno a oggi. Cercava di essere ragionevole. Non sorprende che la sua vita sia stata un [[Martyrdom|martirio]], e ch'egli sia morto assassinato.
+
+XL.  Su me stesso a proposito di [[Abraham Lincoln]]
+
+UN critico americano, apparentemente di [[Persuasion|persuasione]] battista, ha proferito una furiosa denuncia contro di me per la mia celebre calunnia su [[Abraham Lincoln]]. E ciò è strano, come diceva il poeta; perché ero sotto la ferma impressione di aver scritto un elogio di [[Abraham Lincoln]]. Accade che io abbia un particolare entusiasmo per [[Lincoln]]; e mi sforzai di enunciare le vere ragioni per ammirarlo, e le vere cose in cui era ammirevole. Ma a quanto pare tutte le cose che io reputo ammirevoli il critico battista le reputa abominevoli, e viceversa. Tanto profonde sono le divisioni morali in questa felice età dell'[[Union|unione]] di tutti i credi e tutte le nazioni.
+
+Comincerò con un esempio semplice eppure curioso. Dissi che [[Lincoln]] aveva quel genere di mente che non si dà davvero pensiero del Progresso o dello spirito del secolo. Che ciò sia o no un fatto, non ho quasi bisogno di dire che era inteso come un complimento. Intendevo dire che pensava con la propria testa e aveva convinzioni indipendenti e indistruttibili, immutate dalla moda e dal luogo comune. Ma il critico americano considera addirittura la mia osservazione come un insulto mortale al suo [[Lincoln]] ideale. Dichiara con passione che [[Lincoln]] fu influenzato dal Progresso. Afferma, tremando d'indignazione, che [[Lincoln]] fu governato dallo spirito del secolo. E, cosa più straordinaria di tutte, cita addirittura in favore di [[Lincoln]] qualcosa che [[Lincoln]] disse contro se stesso: quando modestamente osservò che «non aveva governato gli eventi, ma ne era stato governato». È del tutto possibile che Lincoln lo abbia detto, in una sorta di umorosa umiltà e autodenigrazione; ma non vedo perché, per il fatto che denigrò se stesso, il suo adoratore quasi idolatra sia tenuto a denigrarlo. Di certo non vedo perché il critico debba denigrarlo in uno stile così dannoso come questo. Sono abbastanza sicuro che Lincoln non si sarebbe lasciato governare dagli eventi, né persino dallo spirito del secolo, dove fossero in gioco le idee. Non credo che avrebbe ammesso che la Schiavitù fosse giusta, se il Sud avesse vinto la Guerra e gli Stati schiavisti avessero prosperato dieci volte più di quelli liberi.

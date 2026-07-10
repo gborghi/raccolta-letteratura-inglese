@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/unborn-(chesterton)">unborn</a></div>
 </nav>
@@ -46,3 +48,45 @@ tags:
                   Of selfishness or scorn,  
                 If only I could find the door,  
                   If only I were born.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/unborn-(chesterton)">unborn</a></div>
+</nav>
+
+"Per il Bimbo [[unborn|Non Nato]]"  
+
+	      di G.K. Chesterton  
+
+                Se gli alberi fossero alti e corte le erbe,  
+                  come in qualche folle fiaba,  
+                se qua e là un mare fosse azzurro  
+                  oltre il pallido frangente,  
+
+                Se un [[Fire|fuoco]] fisso pendesse nell'aria  
+                  a scaldarmi per un giorno intero,  
+                se folte chiome verdi crescessero su grandi colli,  
+                  io so cosa farei.  
+
+                Nel buio giaccio; sognando che là  
+                  vi siano grandi occhi freddi o gentili,  
+                e vie contorte e porte silenziose,  
+                  e uomini vivi dietro di esse.  
+
+                Vengano le nubi di [[Storm|tempesta]]: meglio un'ora,  
+                  e il permesso di piangere e lottare,  
+                che tutte le età in cui ho regnato  
+                  sugli imperi della [[Night|notte]].  
+
+                Penso che se mi concedessero  
+                  di stare dentro il mondo,  
+                sarei buono per tutto il giorno  
+                  che trascorressi nel paese delle fate.  
+
+                Non udrebbero da me una parola  
+                  d'egoismo o di scherno,  
+                se solo potessi trovare la porta,  
+                  se solo fossi nato.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/alarms-and-discursions-(chesterton)">Alarms and Discursions</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/alarms_and_discursions/chapter_02">Chapter 02 ›</a></div>
@@ -46,3 +48,46 @@ catches a ball.
 
 "Now," said the priest, "I have made a tower which is a little
 worthy of the sun."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/alarms-and-discursions-(chesterton)">Alarms and Discursions</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/alarms_and_discursions/chapter_02">Chapter 02 ›</a></div>
+</nav>
+
+
+I
+
+C'era una [[Time|volta]], su un'isola, un popolo allegro e [[Innocent|innocente]],
+per lo più pastori e coltivatori della terra.  Erano repubblicani,
+come tutte le anime primitive e semplici; discutevano i propri affari
+sotto un albero, e ciò che più si avvicinava a un sovrano in carne e ossa
+era una sorta di sacerdote, o bianco [[Witch|stregone]], che recitava per loro le preghiere.
+Adoravano il sole, non in modo idolatra, ma come l'aurea [[Crown|corona]]
+del dio che tutti quei fanciulli vedono quasi con la stessa chiarezza del sole.
+
+Ora, questo sacerdote ebbe dal suo popolo l'incarico di costruire una grande torre,
+rivolta al cielo in saluto al Dio-Sole; ed egli ponderò a lungo
+e gravemente prima di scegliere i materiali.  Poiché era risoluto a non usare
+nulla che non fosse quasi limpido e squisito quanto la luce stessa del sole;
+non avrebbe usato nulla che non fosse lavato bianco come la pioggia
+sa lavare i cieli, nulla che non sfavillasse immacolato
+come quella [[Crown|corona]] di Dio.  Non avrebbe voluto nulla di [[Grotesque|grottesco]] o di oscuro;
+non avrebbe voluto neppure nulla di enfatico né alcunché di misterioso.
+Avrebbe voluto tutte le arcate lievi come una risata e candide come la [[logic|logica]].
+Costruì il tempio in tre cortili concentrici, ciascuno
+più fresco e più squisito di sostanza dell'altro.
+Ché il muro esterno era una siepe di gigli bianchi, così fitti
+che a stento si scorgeva uno stelo verde; e il muro dentro
+a quello era di cristallo, che frantumava il sole in un milione di [[Stars|stelle]].
+E il muro dentro a quello, che era la torre stessa, era una torre
+d'[[Water|acqua]] pura, spinta in alto in una fontana perpetua; e sulla punta
+e cresta stessa di quella guglia spumeggiante stava un grande diamante fiammeggiante,
+che l'[[Water|acqua]] lanciava in alto in eterno e riafferrava come un [[Child|bambino]]
+afferra una palla.
+
+"Ora," disse il sacerdote, "ho fatto una torre che è un poco
+degna del sole."

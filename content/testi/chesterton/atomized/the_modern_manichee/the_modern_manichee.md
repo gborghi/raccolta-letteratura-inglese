@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-modern-manichee-(chesterton)">The Modern Manichee</a></div>
 </nav>
@@ -61,5 +63,64 @@ The venom of that repudiated [[Guilt|guilt]]
 Poisons the sea and every natural flood  
 As once a wavering [[Tyrant|tyrant]] washed his hands,  
 And touching, turned the [[Water|water]] black with [[Blood|blood]].  
+
+                             G K Chesterton.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-modern-manichee-(chesterton)">The Modern Manichee</a></div>
+</nav>
+
+# Il manicheo moderno
+
+Il manicheo moderno  
+
+Egli dice che non v'è peccato, e ogni suo peccato  
+Gli si gonfia intorno in un mondo fatto spietato;  
+La mezzanotte del suo universo di vergogna  
+È la vasta [[Shadow|ombra]] della sua spudoratezza.  
+Incolpa tutto ciò che lo generò, dèi o bruti,  
+E non genera figli che sferza come con la verga.  
+Le colpe dei figli fatte ricadere sui padri  
+Per ogni generazione, indietro fino a un Dio geloso.  
+
+   I campi che risanano gli umili, le liete foreste  
+Che cantano agli uomini confessi e agli uomini consolati,  
+Per lui non sono che giungle, avide e brancolanti,  
+Senza cuore nuove, senza venerazione antiche.  
+Oltre l'[[Pride|orgoglio]] della sua fredda compassione  
+Non v'è che crudeltà e [[Pain|dolore]] imputato:  
+Rapportato a quell'umore, il gioco d'un fanciullo nel bosco  
+Fa compagni l'uccisore e l'ucciso.  
+
+   L'[[Innocent|innocente]] brama delle creature non cadute  
+Lo muove a un orrore nascosto ma a nessuna letizia;  
+Una [[morality|moralità]] malriposta marcisce nelle radici inconsce,  
+La sua [[Conscience|coscienza]] soffocata puzza per la verde terra.  
+Le cose verdi si spingono su come orribili lumache enormi,  
+Corni verdi e grossi, ciascuno levando un occhio sogghignante  
+Ch'egli a stento può dir fiore; sta sdraiato osceno,  
+I suoi organi spalancati al cielo beffardo.  
+
+   Buio di quel crepuscolo, l'antico rosso dio dei giardini  
+Ancóra pagano ma non più gioioso,  
+Ridesta i cupi adultèri della [[Dust|polvere]],  
+Cieco, frustrato, senza speranza, cavo nel cuore;  
+Le piante son bruti legati con verde fune e ruggenti  
+I loro terribili oscuri amori d'albero in albero:  
+Egli rifugge come da un dardo, se accanto a lui, cantando,  
+Passa l'ape, dorato ruffiano e mezzano.  
+
+   Egli dice: 'Non ho peccato; io scaglio la pietra',  
+E getta il suo sassolino contro il santuario,  
+Scaglia via peccato e pietra contro la [[house|casa]]  
+La cui salute ha mutato in vino le acque della terra.  
+Il veleno di quella [[Guilt|colpa]] ripudiata  
+Avvelena il mare e ogni flusso naturale  
+Come un tempo un [[Tyrant|tiranno]] esitante si lavò le mani,  
+E, toccandola, fece l'[[Water|acqua]] nera di [[Blood|sangue]].  
 
                              G K Chesterton.

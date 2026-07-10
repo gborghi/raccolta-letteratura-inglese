@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a> › <a href="/testi/chesterton/atomized/ball_and_cross/story_13_the_dream_of_turnbull">Story 13 The Dream of Turnbull</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_13_the_dream_of_turnbull/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_14_the_idiot/part_01">part 01 ›</a></div>
@@ -90,3 +92,89 @@ that it was by [[Christ]]'s own choice that He descended into hell.
 When he again realized anything, he was lying on his elbow on
 the lawn of the lunatic asylum, and the last red of the sunset
 had not yet disappeared.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">The Ball and the Cross</a> › <a href="/testi/chesterton/atomized/ball_and_cross/story_13_the_dream_of_turnbull">Story 13 The Dream of Turnbull</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_13_the_dream_of_turnbull/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_14_the_idiot/part_01">part 01 ›</a></div>
+</nav>
+
+«Hanno delle vite!» disse Turnbull, severo; «e per me questo basta.
+Mi era parso di capire che consideraste la vita sacra.»
+
+«Sì, certo!» esclamò il suo [[Mentor|mentore]] con una sorta di animazione idealistica.
+«Sì, certo! La Vita è sacra... ma le vite non sono sacre.
+Miglioriamo la Vita eliminando delle vite. Voi, da libero pensatore,
+sapete trovarci qualche difetto?»
+
+«Sì,» disse Turnbull con concisione.
+
+«Eppure applaudite il tirannicidio,» disse lo straniero con
+gaiezza razionalistica. «Che incoerenza! In fondo si riduce a questo:
+approvate che si tolga la vita a coloro per i quali essa è un trionfo
+e un piacere. Ma non volete togliere la vita a coloro per i quali
+essa è un peso e una fatica.»
+
+Turnbull si [[Rose|alzò]] in piedi nella vettura con notevole ponderatezza,
+ma il suo volto pareva stranamente pallido. L'altro proseguì con entusiasmo.
+
+«La Vita, sì, la Vita è davvero sacra!» gridò; «ma vite nuove per vite vecchie!
+Vite buone per vite cattive! In quel medesimo luogo dove ora giace disteso un
+ubriaco buono a nulla, un [[Artist|artista]] da marciapiede più o meno bramoso d'esser morto...
+in quel medesimo punto vi saranno in futuro quadri viventi;
+vi saranno fanciulle e fanciulli d'oro che balzeranno nel sole.»
+
+Turnbull, ancora in piedi, dischiuse le labbra. «Volete farmi
+scendere, per favore?» disse, del tutto tranquillo, come chi ferma un omnibus.
+
+«Farvi scendere... che intendete?» gridò il suo capo. «Vi sto portando
+al fronte della guerra rivoluzionaria, dove sarete uno
+dei primi capi rivoluzionari.»
+
+«Vi ringrazio,» rispose Turnbull con la medesima penosa costrizione.
+«Ho sentito parlare della vostra guerra rivoluzionaria, e credo tutto sommato
+che preferirei trovarmi in qualunque altro luogo.»
+
+«Volete forse essere condotto in un monastero,» ringhiò l'altro,
+«con MacIan e le sue Madonne che ammiccano?»
+
+«Voglio essere condotto in un manicomio,» disse Turnbull distintamente,
+dando l'indicazione con una sorta di precisione. «Voglio tornare
+esattamente allo stesso manicomio da cui sono venuto.»
+
+«Perché?» chiese lo sconosciuto.
+
+«Perché voglio un po' di compagnia sana e salubre,» rispose Turnbull.
+
+Vi fu un lungo e singolare [[Silence|silenzio]], e poi l'uomo che guidava
+la [[Machine|macchina]] volante disse con la massima freddezza: «Non vi riporterò indietro.»
+
+E allora Turnbull disse con eguale freddezza: «Allora salterò
+giù dalla vettura.»
+
+Lo sconosciuto si [[Rose|levò]] in tutta la sua statura, e l'espressione dei suoi
+occhi pareva fatta di ironie dietro ironie, come due specchi
+che si riflettono infinitamente l'un l'altro. Alla fine disse, molto gravemente:
+«Credete che io sia il diavolo?»
+
+«Sì,» disse Turnbull, con violenza. «Perché io credo che il diavolo sia [[A Dream|un sogno]],
+e così siete voi. Non credo in voi né nella vostra [[Ship|nave]] volante
+né nella vostra ultima battaglia del mondo. È tutto un [[nightmare|incubo]].
+Dico come fatto di dogma e di [[Faith|fede]] che è tutto un [[nightmare|incubo]].
+E sarò martire della mia [[Faith|fede]] non meno di santa Caterina,
+perché salterò giù da questa [[Ship|nave]] e correrò il rischio di svegliarmi sano e salvo nel mio letto.»
+
+Dopo aver oscillato due volte col vascello oscillante, si tuffò oltre il bordo
+come ci si tuffa nel mare. Per alcuni istanti incredibili [[Stars|stelle]] e spazio
+e pianeti parvero sfrecciargli accanto verso l'alto come volano in alto le scintille; eppure
+in quella discesa nauseante era colmo di una felicità innaturale.
+Non riusciva a collegarla ad alcuna idea, tranne una che gli sfuggiva a metà...
+ciò che Evan aveva detto della differenza tra [[Christ]] e [[Satan]];
+che fu per libera scelta di [[Christ]] che Egli discese all'inferno.
+
+Quando tornò a percepire qualcosa, giaceva sul gomito sul
+prato del manicomio, e l'ultimo rosso del tramonto
+non era ancora scomparso.

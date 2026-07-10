@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/st-francis-(chesterton)">St Francis</a> › <a href="/testi/chesterton/atomized/st_francis/chapter_10">Chapter 10</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/st_francis/chapter_10/part_02">‹ part 02</a><span></span></div>
@@ -76,3 +78,75 @@ nothing in return to establish against it; to have nothing to set
 up under the overhanging, overwhelming arches of such a temple
 of [[Time|time]] and [[Eternity|eternity]], but this brief candle burnt out so quickly
 before his shrine.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/st-francis-(chesterton)">St Francis</a> › <a href="/testi/chesterton/atomized/st_francis/chapter_10">Chapter 10</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/st_francis/chapter_10/part_02">‹ part 02</a><span></span></div>
+</nav>
+
+Poiché questo è lo spirito pieno e ultimo con cui dovremmo volgerci
+a San Francesco: nello spirito della gratitudine per ciò che ha fatto.
+Egli fu soprattutto un grande donatore; e teneva massimamente
+al genere migliore di dono, quello che si chiama rendimento di grazie.
+Se un altro grande uomo scrisse una grammatica dell'assenso, di lui si può [[Well|ben]] dire
+che scrisse una grammatica dell'accettazione; una grammatica della gratitudine.
+Comprese fino alle sue profondità stesse la teoria del ringraziamento;
+e le sue profondità sono un abisso senza fondo.  Egli sapeva che la lode
+di Dio poggia sul terreno più saldo quando poggia sul nulla.
+Sapeva che possiamo misurare al meglio il torreggiante miracolo del semplice
+fatto dell'esistenza se comprendiamo che, se non fosse per qualche strana [[Mercy|misericordia]],
+non esisteremmo nemmeno.  E qualcosa di quella più vasta [[Truth|verità]] si ripete
+in forma minore nei nostri stessi rapporti con un così possente artefice di [[history|storia]].
+Anch'egli è un donatore di cose che non avremmo nemmeno potuto immaginare
+da noi; anch'egli è troppo grande per qualcosa che non sia gratitudine.
+Da lui venne un intero risveglio del mondo e un'[[Dawn|alba]] in cui tutte le
+forme e i colori poterono essere visti di nuovo.  I potenti uomini di genio che crearono
+la civiltà cristiana che conosciamo compaiono nella [[history|storia]] quasi come suoi
+servitori e imitatori.  Prima che [[Dante]] fosse, egli aveva dato la poesia all'[[Italy|Italia]];
+prima che San Luigi regnasse, egli si era levato come tribuno dei poveri;
+e prima che Giotto avesse dipinto i quadri, egli aveva inscenato le scene.
+Quel grande pittore che diede inizio a tutta l'ispirazione umana della
+pittura europea era andato egli stesso da San Francesco per essere ispirato.
+Si narra che, quando San Francesco mise in scena, alla sua semplice maniera,
+una Natività di Betlemme, con re e angeli nelle rigide
+e gaie vesti medievali e le parrucche dorate che facevano
+da aureole, si compì un miracolo colmo della gloria francescana.
+Il santo [[Child|Bambino]] era una bambola o bambino di legno, e si narrava
+che egli lo abbracciò e che l'immagine prese vita tra le sue braccia.
+Egli di certo non pensava a cose minori; ma possiamo almeno
+dire che una cosa prese vita tra le sue braccia; e quella cosa era ciò
+che chiamiamo il dramma.  Salvo il suo intenso e personale [[Love|amore]] per il [[Song|canto]],
+egli forse non incarnò di persona questo spirito in alcuna di queste arti.
+Egli era lo spirito che veniva incarnato.  Egli era l'essenza e la sostanza spirituale
+che camminava per il mondo, prima che alcuno avesse visto queste cose
+in forme visibili da esso derivate: un [[Fire|fuoco]] errante come venuto dal nulla,
+al quale uomini più materiali poterono accendere torce e candele.
+Egli era l'[[Soul|anima]] della civiltà medievale prima ancora che essa trovasse un [[Body|corpo]].
+Un'altra e assai diversa corrente di ispirazione spirituale
+deriva in gran parte da lui; tutta quell'energia riformatrice medievale
+e moderna che si compendia nel motto Deus est Deus Pauperum.
+Il suo ardore astratto per gli esseri umani era in una moltitudine di
+giuste leggi medievali contro l'[[Pride|orgoglio]] e la crudeltà delle ricchezze;
+oggi sta dietro a molto di ciò che vagamente si chiama socialismo cristiano
+e più correttamente si può chiamare democrazia cattolica.
+Né sul versante artistico né su quello sociale qualcuno pretenderebbe
+che queste cose non sarebbero esistite senza di lui; eppure è
+rigorosamente vero dire che non possiamo ora immaginarle senza di lui,
+poiché egli è vissuto e ha mutato il mondo.
+
+E qualcosa di quel senso di impotenza che era più di metà
+della sua forza discenderà su chiunque sappia che cosa quell'ispirazione
+sia stata nella [[history|storia]], e possa solo registrarla in una serie di
+frasi sconnesse e misere.  Egli conoscerà qualcosa di ciò che
+San Francesco intendeva con il grande e buon debito che non può essere pagato.
+Sentirà a un tempo il [[Desire|desiderio]] di aver fatto infinitamente di più
+e la futilità di aver fatto qualcosa.  Saprà che cosa
+significhi stare sotto un tale [[deluge|diluvio]] di prodigi di un uomo morto, e non avere
+nulla in cambio da opporgli; non avere nulla da erigere
+sotto le arcate incombenti e travolgenti di un tale tempio
+del [[Time|Tempo]] e dell'[[Eternity|Eternità]], se non questa breve candela consumata così in fretta
+dinanzi al suo sacrario.

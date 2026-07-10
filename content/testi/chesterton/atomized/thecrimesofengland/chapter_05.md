@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/thecrimesofengland-(chesterton)">TheCrimesOfEngland</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_04">‹ Chapter 04</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_06">Chapter 06 ›</a></div>
@@ -33,3 +35,32 @@ Language--Exaggerated Truths versus
 Exaggerated Lies--Defeat of the People--Triumph
 
 of the German Mercenaries.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/thecrimesofengland-(chesterton)">TheCrimesOfEngland</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_04">‹ Chapter 04</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_06">Chapter 06 ›</a></div>
+</nav>
+
+CAPITOLO V
+
+L'INGHILTERRA PERDUTA
+
+[[Truth|Verità]] su Inghilterra e Irlanda--L'omicidio
+
+e i due Viaggiatori--Vera difesa
+
+dell'Inghilterra--La rivoluzione perduta--Storia
+
+di Cobbett e dei Tedeschi--Esattezza
+
+storica di Cobbett--Violenza della lingua
+
+inglese--Verità esagerate contro
+
+Menzogne esagerate--Sconfitta del Popolo--Trionfo
+
+dei mercenari tedeschi.

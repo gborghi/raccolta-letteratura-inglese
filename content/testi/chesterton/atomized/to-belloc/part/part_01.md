@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/to-belloc-(chesterton)">to-belloc</a></div>
 </nav>
@@ -65,3 +67,64 @@ That strikes the [[Stars|stars]] on Campden [[Hill]]
 G.K.C.  
 
 (Preface to Chesterton's "The Napoleon of Notting [[Hill]]").
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/to-belloc-(chesterton)">to-belloc</a></div>
+</nav>
+
+A HILAIRE BELLOC  
+
+	      di G.K. Chesterton  
+
+Per ogni minuscola città o luogo  
+Dio fece le [[Stars|stelle]] apposta;  
+i bimbi guardano in su con faccia da gufo  
+e le vedono impigliate in un albero;  
+tu vedesti una [[Moon|luna]] dai Sussex Downs,  
+una [[Moon|luna]] del Sussex, ancora senza viaggi,  
+io vidi una [[Moon|luna]] che era della città,  
+la più grande lampada su Campden [[Hill]].  
+
+Sì; il Cielo è ovunque a [[Home|casa]] sua,  
+la grande cappa azzurra che sempre calza,  
+e così è (calma; giungono  
+infine alla meta, i miei sensi vaganti),  
+così è per la cosa eroica;  
+questa non finirà con la fine del mondo,  
+e per quanto oscillino i cupi ingranaggi,  
+non aver troppa paura, amico mio.  
+
+Questa non finì presso l'urna di Nelson  
+dove siede un'Inghilterra immortale--  
+né dove i tuoi alti giovani, a loro volta,  
+bevvero la [[Death|morte]] come vino ad Austerlitz.  
+E quando i pedanti c'imposero di notare  
+quali freddi accadimenti meccanici  
+dovessero venire, le nostre anime dissero nel buio:  
+"Può darsi; ma vi sono cose più probabili."  
+
+Più probabile che per queste piane lontane,  
+questi tetri livelli lisci e liberi,  
+i tamburi fracassino un valzer di guerra  
+e la [[Death|Morte]] [[Dance|danzi]] con la Libertà;  
+più probabile che le barricate strombazzino  
+strage in basso e fumo in alto,  
+e [[Death|morte]] e odio e inferno proclamino  
+che gli uomini han trovato qualcosa da [[Love|amare]].  
+
+Lontano dai tuoi soleggiati altipiani  
+vidi il sogno; le strade che calcavo,  
+le diritte strade illuminate si slanciarono e incontrarono  
+le strade stellate che indicano Dio.  
+Questa leggenda di un'ora [[Epic|epica]],  
+da [[Child|bambino]] la sognai, e la sogno ancora,  
+sotto la grande grigia torre dell'[[Water|acqua]]  
+che colpisce le [[Stars|stelle]] su Campden [[Hill]]  
+
+G.K.C.  
+
+(Prefazione a "The Napoleon of Notting [[Hill]]" di Chesterton).

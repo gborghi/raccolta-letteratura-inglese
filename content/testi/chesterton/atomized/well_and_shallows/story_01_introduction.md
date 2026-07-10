@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_02_introductory_note">Story 02 Introductory Note ›</a></div>
@@ -58,5 +60,61 @@ THE SCRIPTURE READER
 AN EXPLANATION
 WHY PROTESTANTS PROHIBIT
 WHERE IS THE [[Paradox|PARADOX]]?
+
+-/-
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_02_introductory_note">Story 02 Introductory Note ›</a></div>
+</nav>
+
+INTRODUZIONE
+APOLOGIA DEI BUFFONI
+
+LE MIE SEI CONVERSIONI
+I. LA RELIGIONE DEI FOSSILI
+II. QUANDO IL MONDO TORNÒ INDIETRO
+III. LA RESA SUL SESSO
+IV. IL PROBLEMA DEL LIBRO DI [[Prayer|PREGHIERE]]
+V. IL CROLLO DEL MATERIALISMO
+VI. IL CASO DELLA SPAGNA
+VII. IL [[Well|POZZO]] E LE SECCHE
+
+IL RITORNO ALLA RELIGIONE
+LA REAZIONE DEGLI INTELLETTUALI
+LEGGEREZZA--O LEVITAZIONE
+IN DIFESA DEGLI EREMITI
+UCCIDERE IL NERVO
+IL CASO CLAUDEL
+IL NICHILISMO SUPERIORE
+L'[[ascetic|ASCETA]] A PIEDE LIBERO
+IL BOLSCEVICO ALL'INDIETRO
+L'ULTIMA SVOLTA
+IL NUOVO LUTERO
+BAMBINI E DISTRIBUTISMO
+TRE NEMICI DELLA FAMIGLIA
+IL DON E IL CAVALIERE
+LA CHIESA E L'AGORAFOBIA
+DI NUOVO NELLA NEBBIA
+IL MOMENTO STORICO
+MARIA E IL [[convert|CONVERTITO]]
+UN SECOLO DI EMANCIPAZIONE
+TERMINI DEL MESTIERE
+IL LIBERO PENSIERO CONGELATO
+SCANDALIZZARE I MODERNISTI
+UNA GRAMMATICA DELLA CAVALLERIA
+RIFLESSIONI SU UNA MELA MARCIA
+SESSO E PROPRIETÀ
+SAN TOMMASO MORO
+IL RITORNO DI CESARE
+AUSTRIA
+IL LETTORE DELLE SCRITTURE
+UNA SPIEGAZIONE
+PERCHÉ I PROTESTANTI PROIBISCONO
+DOV'È IL [[Paradox|PARADOSSO]]?
 
 -/-

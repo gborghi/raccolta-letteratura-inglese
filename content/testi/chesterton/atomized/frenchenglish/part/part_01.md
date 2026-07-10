@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/frenchenglish-(chesterton)">frenchenglish</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/frenchenglish/part/part_02">part 02 ›</a></div>
@@ -69,3 +71,68 @@ where he has not sown, and taking up where he has not laid down;
 he is trying to taste the fruit when he has never toiled over the tree.
 He is trying to pluck the exquisite fruit of French cynicism,
 when he has never tilled the rude but rich soil of French virtue.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/frenchenglish-(chesterton)">frenchenglish</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/frenchenglish/part/part_02">part 02 ›</a></div>
+</nav>
+
+"Francesi e Inglesi"
+
+Di G. K. Chesterton
+
+È ovvio che vi sia una grande differenza tra l'essere
+internazionali e l'essere cosmopoliti. Tutti gli uomini buoni sono internazionali.
+Quasi tutti gli uomini cattivi sono cosmopoliti. Se dobbiamo essere internazionali
+dobbiamo essere nazionali. Ed è in gran parte perché coloro che si
+dicono amici della pace non hanno insistito a sufficienza
+su questa distinzione, che essi non fanno presa sul grosso di alcuna
+delle nazioni cui appartengono. Pace internazionale significa una pace
+tra le nazioni, non una pace dopo la distruzione delle nazioni,
+come la pace buddhista dopo la distruzione della personalità.
+L'[[Golden Age|età dell'oro]] del buon europeo è come il cielo del cristiano:
+è un luogo dove le persone si [[Love|ameranno]] l'un l'altra; non come
+il cielo dell'indù, un luogo dove esse saranno l'una l'altra.
+E nel caso del carattere nazionale ciò si può vedere in un modo curioso.
+Si troverà generalmente, credo, che quanto più un uomo davvero
+apprezza e ammira l'[[Soul|anima]] di un altro popolo, tanto meno tenterà
+di imitarla; sarà consapevole che vi è in essa qualcosa
+di troppo profondo e troppo ingovernabile per imitarlo. L'inglese che ha
+un debole per la Francia cercherà di farsi francese; l'inglese che ammira
+la Francia rimarrà ostinatamente inglese. Questo si nota in particolare
+nel caso dei nostri rapporti coi francesi, perché è
+una delle spiccate peculiarità dei francesi che i loro vizi
+siano tutti in superficie, e le loro straordinarie virtù celate.
+Si potrebbe quasi dire che i loro vizi sono il fiore delle loro virtù.
+
+Così la loro oscenità è l'espressione del loro appassionato [[Love|amore]]
+di trascinare tutte le cose alla luce. L'avarizia dei loro contadini
+significa l'indipendenza dei loro contadini. Ciò che gli inglesi chiamano
+la loro rozzezza per le strade è un aspetto della loro eguaglianza sociale.
+L'aria preoccupata delle loro donne è connessa con la responsabilità
+delle loro donne; e una certa inconsapevole brutalità di fretta
+e di gesto negli uomini è legata al loro inesauribile e
+straordinario [[Courage|coraggio]] militare. Di tutti i paesi, dunque,
+la Francia è il peggiore che uno [[Fool|sciocco]] superficiale possa ammirare.
+Uno [[Fool|sciocco]] odii pure la Francia: se lo [[Fool|sciocco]] l'ama, presto sarà un furfante.
+Egli di certo l'ammirerà, non solo per le cose che
+non sono lodevoli, ma addirittura per le cose che non ci sono.
+Ammirerà la grazia e l'[[Indolence|indolenza]] del popolo più industrioso
+del mondo. Ammirerà il [[Romance|romanzesco]] e la fantasia del popolo più
+risolutamente rispettabile e ordinario del mondo.
+Questo errore l'inglese lo farà se ammira la Francia
+troppo in fretta; ma l'errore che egli fa sulla Francia sarà
+lieve in confronto all'errore che fa su se stesso.
+Un inglese che professa di amare davvero i romanzi realisti francesi,
+di sentirsi davvero a [[Home|casa]] in un moderno teatro francese, di
+non provare alcun turbamento al primo vedere le selvagge caricature francesi,
+commette un errore molto pericoloso per la propria sincerità.
+Sta ammirando qualcosa che non comprende. Sta mietendo
+dove non ha seminato, e raccogliendo dove non ha deposto;
+sta cercando di assaggiare il frutto quando non ha mai faticato sull'albero.
+Sta cercando di cogliere il frutto squisito del cinismo francese,
+quando non ha mai dissodato il rude ma ricco suolo della virtù francese.

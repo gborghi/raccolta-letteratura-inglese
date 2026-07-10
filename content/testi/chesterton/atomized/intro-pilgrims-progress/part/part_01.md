@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/intro-pilgrims-progress-(chesterton)">intro-pilgrims-progress</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/intro-pilgrims-progress/part/part_02">part 02 ›</a></div>
@@ -77,3 +79,76 @@ thing was ever produced.  Nothing stronger can be said of it than
 that it dwarfs altogether into insignificance "Grace Abounding"
 published before it, and "The Holy War," published afterwards.
 Bunyan, released from [[Prison|prison]], died quietly in 1688.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/intro-pilgrims-progress-(chesterton)">intro-pilgrims-progress</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/intro-pilgrims-progress/part/part_02">part 02 ›</a></div>
+</nav>
+
+Introduzione a «IL VIAGGIO DEL [[Pilgrim|PELLEGRINO]]» di John Bunyan,
+di G.K. Chesterton.
+
+John Bunyan nacque nel 1628, con ogni probabilità nel novembre
+di quell'anno, poiché il suo battesimo seguì in quello stesso mese.
+Il suo luogo natale fu il villaggio di Elstow, appena fuori Bedford.
+La sua famiglia era un buon esempio di una cosa di cui vi sono
+molti esempi, e di cui non ve ne potranno mai essere troppi:
+una sorta di aristocrazia plebea, umile e insignificante quanto a nome
+e mestiere, ma radicata alla terra come un ducato regale.
+L'idea che le origini di Bunyan giacciano tra calderai vagabondi è un errore;
+giacciono tra calderai assai rispettabili, la cui presenza si può rintracciare
+per generazioni e che avevano lasciato testimonianze come un'intera fattoria
+chiamata da sempre «Bonyon's End». Il nonno di Bunyan,
+Thomas Bunyan, era un piccolo bottegaio o «merciaio ambulante» morto nel 1641;
+del padre si sa meno, oltre al fatto che ebbe tre mogli,
+delle quali la seconda fu la madre di John Bunyan, e la terza
+fu a tutti gli effetti la sua peggior nemica.
+
+Egli stesso ha lasciato scritto che la sua giovinezza fu sregolata,
+ma a giudicare dagli esempi che ne dà sembrerebbe potersi vantare
+soltanto di una specie assai blanda e goffa di sregolatezza.
+Con ogni umana probabilità non fu in realtà che un ragazzo rozzo e impacciato,
+che talora capitava in mezzo a compagnie dubbie, e assai più spesso
+se ne andava alla deriva, imbronciato, tutto solo. Servì in giovane età nell'esercito,
+episodio niente affatto insolito nella carriera di quella specie di sfaccendati cupi.
+È sorta qualche disputa, non certo sulla realtà del suo
+servizio militare, ma sulla parte per cui combatté nella Guerra Civile.
+L'evidenza interna generale, tuttavia, come [[Well|pure]] un'enorme probabilità
+morale, lo assegna al campo dei Parlamentari.
+
+Nell'anno della Restaurazione fu arrestato per aver predicato ad
+assemblee illegali, e fu imprigionato nel carcere di Bedford per dodici anni.
+In quell'improvviso isolamento, escluso da ogni efficace azione o parola,
+gli venne in mente di mettersi a scrivere sistematicamente, e aprì la prima
+[[Window|finestra]] sull'oscuro e stupefacente dramma che si era svolto dentro
+la sua personalità in apparenza scialba, mentre correva per i campi per fuggire
+la matrigna o si appoggiava alla picca presso i fuochi di guardia
+della grande guerra.
+
+Scrisse «Grace Abounding to the Worst of Sinners», forse l'opera più
+potente mai forgiata dal genio con i materiali della morbosità.
+Di certo nessun decadente parigino, nessun poeta alla Swinburne, nessun
+[[Artist|artista]] alla Beardsley riuscì così compiutamente a dare alla malattia il vigore della salute.
+È il capolavoro di un elemento che ha diritto ad avere
+un capolavoro, giacché è un elemento vivo e ricorrente:
+l'elemento dell'[[Soul|anima]] oscura e isterica della prima giovinezza.
+È l'[[Epic|epica]] del pessimismo dell'adolescenza.
+
+Nello stesso periodo scrisse un'opera meno nota, intitolata «La [[City|Città]] Santa».
+Fu liberato nel 1672, ma poiché rifiutò di rinunciare alla predicazione,
+ormai potente e popolare, fu ricacciato di nuovo in
+[[Prison|prigione]] nel 1675. Fu durante questa seconda detenzione che scrisse
+l'opera che lo ha posto definitivamente tra gli immortali inglesi,
+«Il viaggio del [[Pilgrim|Pellegrino]]». Molte controversie sono divampate se
+egli dovesse il tipo di narrazione allegorica a qualcosa che l'aveva preceduto,
+ma tutte le allegorie citate a questo proposito sono quasi
+tanto dissimili dal «Viaggio del [[Pilgrim|Pellegrino]]» quanto lo sono dalla «Fiera delle [[Vanity|Vanità]]».
+Il calderaio di Elstow produsse una cosa originale, se mai una cosa
+originale fu prodotta. Nulla di più forte si può dirne
+che questo: essa rimpicciolisce fino all'insignificanza «Grace Abounding»,
+pubblicato prima, e «The Holy War», pubblicato dopo.
+Bunyan, uscito di [[Prison|prigione]], morì tranquillamente nel 1688.

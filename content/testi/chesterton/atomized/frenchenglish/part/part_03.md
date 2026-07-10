@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/frenchenglish-(chesterton)">frenchenglish</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/frenchenglish/part/part_02">‹ part 02</a><span></span></div>
@@ -58,5 +60,59 @@ This restless people seeks to keep itself in a perpetual agony
 of the revolutionary mood.  Frenchmen, seeking revolution,
 may find the humiliation of humanity inspiring.  But God forbid
 that two pleasure-seeking Englishmen should ever find it pleasant!"
+
+				     -- G. K. Chesterton.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/frenchenglish-(chesterton)">frenchenglish</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/frenchenglish/part/part_02">‹ part 02</a><span></span></div>
+</nav>
+
+Quando ero a [[Paris|Parigi]] poco [[Time|tempo]] fa, andai con un amico
+inglese a una successione straordinariamente brillante e rapida di
+commedie francesi, ciascuna della durata di una ventina di minuti.
+Erano tutte sorprendentemente efficaci; ma ce n'era una così efficace
+che io e il mio amico ci mettemmo a litigare fuori, e per poco non
+dovemmo essere separati dalla polizia. Voleva mostrare come gli uomini
+si comportino davvero in un naufragio o in un disastro navale, come
+crollino, come urlino, come si azzuffino l'un l'altro senza scopo e per
+puro odio d'ogni cosa. E poi vi era aggiunta, con tutta quell'orribile
+ironia che Voltaire inaugurò, una scena in cui un grande statista
+teneva un discorso sopra i loro corpi, dicendo che erano tutti eroi e
+morti in un fraterno abbraccio. Io e il mio amico uscimmo dal teatro, e
+poiché egli era vissuto a lungo a [[Paris|Parigi]], disse, da francese:
+"Che ammirevole disposizione artistica! Non è squisito?" "No," risposi,
+assumendo per quanto possibile l'atteggiamento tradizionale di John
+Bull nelle vignette del Punch — "No, non è squisito. Forse è privo di
+significato; se è privo di significato non m'importa. Ma se ha un
+significato io so qual è; è che sotto tutto il loro sfarzo di
+cavalleria gli uomini non sono soltanto bestie, ma perfino bestie
+braccate. Non so molto dell'umanità, specialmente quando l'umanità
+parla in francese. Ma so quando una cosa è fatta per elevare l'[[Soul|anima]]
+umana, e quando è fatta per deprimerla. So che il Cyrano de Bergerac
+(dove gli attori parlavano ancora più in fretta) era fatto per
+incoraggiare l'uomo. E so che questo era fatto per scoraggiarlo."
+"Queste sentimentali e morali concezioni dell'arte," cominciò il mio
+amico, ma irruppi nelle sue parole come una luce irruppe nella mia
+mente. "Lasci che le dica," dissi, "ciò che Jaurès disse a Liebknecht
+al Congresso socialista: `Voi non siete morto sulle barricate.' Voi
+siete un inglese, come me, e dovreste essere amabile quanto lo sono io.
+Questa gente ha un certo diritto di essere terribile nell'arte, perché
+è stata terribile in politica. Possono sopportare finte torture sulla
+scena; hanno visto torture vere nelle strade. Sono stati feriti per
+l'idea di [[democracy|Democrazia]]. Sono stati feriti per l'idea del
+Cattolicesimo. Non è per loro così del tutto innaturale essere feriti
+per l'idea di letteratura. Ma, per mille fulmini, per me è del tutto
+innaturale! E la cosa peggiore di tutte è che io, che sono un inglese,
+amante della comodità, debba trovare conforto in cose come questa. I
+francesi qui non cercano conforto, ma piuttosto inquietudine. Questo
+popolo irrequieto cerca di mantenersi in una perpetua agonia dell'umore
+rivoluzionario. I francesi, cercando la rivoluzione, possono trovare
+ispirante l'umiliazione dell'umanità. Ma Dio non voglia che due inglesi
+in cerca di piacere la trovino mai piacevole!"
 
 				     -- G. K. Chesterton.

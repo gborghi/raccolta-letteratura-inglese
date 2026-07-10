@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a> › <a href="/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life">Chapter 06 THE SPICE OF LIFE</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life/part_05">‹ part 05</a><span></span></div>
@@ -126,4 +128,127 @@ On Fragments Daily News, March 31, 1906
 
 ** This is the text of a broadcast talk given by G. K. Chesterton
 for the British Broadcasting Corporation in their series
+THE SPICE OF LIFE.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a> › <a href="/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life">Chapter 06 THE SPICE OF LIFE</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life/part_05">‹ part 05</a><span></span></div>
+</nav>
+
+THE SPICE OF LIFE
+
+by
+
+G. K. Chesterton  
+
+Sul [[Essay|Saggio]] Un estratto dall'ultimo paragrafo di un [[Essay|saggio]] introduttivo
+agli Essays of the Year 1931-32. Pubblicato da The Argonaut Press, 1932
+
+SAGGI SULLA LETTERATURA IN GENERALE
+
+Letteratura sentimentale The Speaker, 27 luglio 1901
+
+Come scrivere un [[Detective|Poliziesco]] G. K's Weekly, 17 ottobre,
+
+Racconto
+
+[[Humour|Umorismo]] Encyclopaedia Britannica. Scritto maggio 1928
+
+La narrativa come cibo [[Essay|Saggio]] composito. I "Fiction as Food"
+da The Lending Library and Book Borrower's Record, nov. 1934.
+
+II "Leggere il [[Novel|Romanzo]]",
+
+T. P's Weekly, 7 aprile 1911
+
+L'[[Soul|Anima]] in ogni leggenda New Witness, 15 luglio 1921
+
+SU LIBRI E SCRITTORI PARTICOLARI
+
+I Macbeth Data ignota. Prima pubblicazione
+
+John o' [[London]]'s Weekly, 5 gen. 1951
+
+La [[Tragedy|Tragedia]] di [[King Lear|Re Lear]] Introduzione a un'edizione illustrata
+di [[King Lear|Re Lear]] pubblicata da David Magee, San Francisco, 1950--
+Illustrata da Yunge
+
+Le notti eterne Daily News, 7 novembre 1901
+
+Le favole di Esopo Introduzione a un'edizione limitata delle favole di Esopo
+pubblicata da William Heinemann, [[London]] e Doubleday Page & Co.,
+[[New York]], 1912. Illustrata da [[Arthur]] Rackham
+
+Entrambi i lati dello Specchio--The Listener, 29 novembre 1933
+
+Deformante
+
+E così a letto G. K's Weekly, 23 gennaio 1936
+
+Grande al naturale in Dickens Daily News, 8 febbraio 1902
+
+Dispute su Dickens The Academy. Data ignota.
+
+Charlotte Bronte come Contributo a un volume commemorativo
+
+Romantica del centenario preparato dalla Bronte Society.
+Pubblicato da T. Fisher Unwin, 1917
+
+PENSIERO E FEDE
+
+Il pensiero antireligioso nel Contributo a An Outline of
+Settecento [[Christianity|Cristianesimo]]; the Story of
+our Civilization. Vol. IV. [[Christianity|Cristianesimo]] and Modern Thought, 1926.
+The Waverley Book Co., [[London]]
+
+L'accampamento e la New Witness, 22 settembre,
+
+[[Cathedral|Cattedrale]]
+
+L'aspetto religioso di [[Essay|Saggio]] firmato. Data e origine
+
+Westminster Abbey ignote
+
+Il fine religioso dell' The Torchbearer, 1925 [[Education|Educazione]]
+
+La [[philosophy|Filosofia]] delle isole The Venture Annual, 1903
+
+IN [[Home|PATRIA]] E ALL'ESTERO
+
+Sulle vacanze New Witness, 21 maggio 1914
+
+Il contadino Daily News, 8 luglio 1911
+
+La stazione ferroviaria perduta New Witness, 24 ottobre 1919
+
+Betlemme e le grandi New Witness, 8 dicembre 1922
+
+Città
+
+La sacralità dei luoghi Illustrated [[London]] News, 11 gennaio 1930
+
+Scipione e i bambini G. K's Weekly, 30 maggio 1935
+
+La vera questione G. K's Weekly, 5 giugno 1926
+
+THE SPICE OF LIFE
+
+Il poliziotto comico Daily News, 2 aprile 1910
+
+L'amico di Capone [[New York]] American, 12 luglio 1935
+
+Sul perdere la testa The Odd Volume Annual, 1910
+
+Il sale della vita The Listener, 18 marzo 1936
+
+Sui frammenti Daily News, 31 marzo 1906
+
+------------------------
+
+** Questo è il testo di una conversazione radiofonica tenuta da G. K. Chesterton
+per la British Broadcasting Corporation nella loro serie
 THE SPICE OF LIFE.

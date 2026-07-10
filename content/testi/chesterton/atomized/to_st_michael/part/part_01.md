@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/to-st-michael-(chesterton)">to st michael</a></div>
 </nav>
@@ -75,3 +77,74 @@ Marshal the world and purge of rot and riot
 Rule through the world till all the world be quiet:  
 Only establish when the world is broken  
 What is unbroken is the word.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/to-st-michael-(chesterton)">to st michael</a></div>
+</nav>
+
+# a san [[Michael|michele]]
+
+A San [[Michael|Michele]] in [[Time|Tempo]] di Pace  
+
+[[Michael|Michele]], [[Michael|Michele]]: [[Michael|Michele]] del Mattino,  
+[[Michael|Michele]] dell'Esercito del Signore,  
+Irrigidisci tu la mano sulla [[Sword|spada]] immota, [[Michael|Michele]],  
+Piegata e serrata sulla [[Sword|spada]] rinfoderata, [[Michael|Michele]],  
+Sotto la pienezza delle bianche vesti cadenti,  
+Cingici col segreto della [[Sword|spada]].  
+
+Quando il mondo si incrinò per un ghigno nel cielo,  
+lasciando per tutto il [[Time|tempo]] una cicatrice sul firmamento,  
+tu ti levasti contro l'Orrore nell'altissimo,  
+trascinando giù il più alto che guardava dall'alto l'Altissimo:  
+strappando dal settimo cielo l'inferno dell'esaltazione  
+giù per i sette cieli finché ardano i mari oscuri:  
+Tu che nel tuono scagliasti giù il Drago  
+sai in quale [[Silence|silenzio]] il Serpente possa tornare.  
+
+Giù per l'universo la vasta [[Night|notte]] che cala  
+([[Michael|Michele]], [[Michael|Michele]]: [[Michael|Michele]] del Mattino!)  
+Lontano giù per l'universo le calme profonde che chiamano  
+([[Michael|Michele]], [[Michael|Michele]]: [[Michael|Michele]] della [[Sword|Spada]]!)  
+Non lasciarci dimenticare nei lavacri d'ogni oblio,  
+nel sospiro lungamente tratto dalla frenesia e dall'inquietudine  
+nell'immenso santo sempiterno [[Silence|silenzio]]  
+In principio era il Verbo.  
+
+Quando dagli abissi del morente Dio, sbigottiti,  
+angeli e demoni che tutto fanno tranne morire  
+vedendoLo caduto là dove tu non potevi seguire,  
+vedendoLo asceso là dove tu non potevi volare,  
+la mano sull'elsa, hai arrestato tutte le tue legioni  
+attendendo il Tetelestai e l'acclamazione,  
+spade che Lo salutano morto ed eterno  
+Dio oltre Dio e più grande del Suo Nome.  
+
+Intorno a noi e sopra di noi i freddi pensieri striscianti  
+([[Michael|Michele]], [[Michael|Michele]]: [[Michael|Michele]] del grido di battaglia!)  
+Intorno a noi e sotto di noi il mondo affollato che dorme  
+([[Michael|Michele]], [[Michael|Michele]]: [[Michael|Michele]] della Carica!)  
+Custodiscici il Verbo; il convegno e la fiducia  
+il filo sull'[[Honour|onore]] e la lama che non arrugginisce  
+sottile come il capello e più tesa della corda dell'arpa  
+pronta come quando risuonò sul brocchiere.  
+
+Colui che ci dà la pace; non come la dà il mondo:  
+Colui che ci dà la legge; non come gli scribi:  
+Sarà egli ammansito per l'ammollimento delle città  
+paziente nell'usura; delicato nelle tangenti?  
+Coloro che vengono a placarci, dicendo che la [[Sword|spada]] è spezzata,  
+spezzano l'uomo con la carestia, li incatenano con l'oro,  
+li vendono come pecore; ed Egli conoscerà quel vendere  
+poiché fu più che ucciso. Fu venduto.  
+
+[[Michael|Michele]], [[Michael|Michele]]: [[Michael|Michele]] dell'Adunata,  
+[[Michael|Michele]] della marcia sui [[Mountains|monti]] del Signore,  
+Schiera il mondo e purgalo di marciume e tumulto  
+Regna per il mondo finché tutto il mondo sia quieto:  
+Solo stabilisci quando il mondo è spezzato  
+Ciò che non si spezza è la parola.

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/prayer-(chesterton)">prayer</a></div>
 </nav>
@@ -36,3 +38,35 @@ Men say the sun was darkened: yet I had
   Thought it beat brightly, even on--Calvary:  
   And He that hung upon the Torturing Tree  
 Heard all the crickets singing, and was glad.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/prayer-(chesterton)">prayer</a></div>
+</nav>
+
+Una [[prayer|Preghiera]] nelle Tenebre  
+
+G.K.Chesterton  
+
+Questo solo, o cielo--se io rimugino o deliro,  
+  non compatirmi; ma sia nutrito il mondo,  
+  sì, nella mia [[Madness|follia]] se mi abbatto morto,  
+bada tu all'erba che cresce sulla mia [[Grave|tomba]].  
+
+Se oso ringhiare tra questo sole e questa zolla,  
+  gemere e strepitare, dammi grazia di ammettere,  
+  nel sole e nella pioggia e nel frutto a suo tempo mostrato,  
+il fulgido [[Silence|silenzio]] dello scherno di Dio.  
+
+Grazie a Dio le [[Stars|stelle]] stanno oltre il mio potere,  
+  se devo penare in una [[Night|notte]] d'ira,  
+  grazie a Dio le mie [[Tears|lacrime]] mai turberanno una falena,  
+né alcuna mia maledizione abbatterà un fiore.  
+
+Dicono che il sole si oscurò: eppure io avevo  
+  creduto che splendesse luminoso, persino sul--Calvario:  
+  E Colui che pendeva dall'Albero del Tormento  
+udì tutti i grilli cantare, e ne fu lieto.

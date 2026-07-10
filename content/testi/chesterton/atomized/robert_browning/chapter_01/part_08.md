@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/robert-browning-(chesterton)">Robert Browning</a> › <a href="/testi/chesterton/atomized/robert_browning/chapter_01">Chapter 01</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_browning/chapter_01/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/robert_browning/chapter_02/part_01">part 01 ›</a></div>
@@ -59,3 +61,58 @@ foppery which defies them. Just as he walked in coolly and yet
 impulsively into a private drawing-room and offered to play, so he
 walked at this [[Time|time]] into the huge and crowded salon of European
 literature and offered to sing.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/robert-browning-(chesterton)">Robert Browning</a> › <a href="/testi/chesterton/atomized/robert_browning/chapter_01">Chapter 01</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_browning/chapter_01/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/robert_browning/chapter_02/part_01">part 01 ›</a></div>
+</nav>
+
+Uno degli argomenti prediletti fra coloro che amano condurre lunghe
+controversie su Browning (e il loro nome è legione) è la
+questione se le opere teatrali di Browning, come lo _Strafford_, fossero
+davvero un successo sulla scena. Poiché non si mettono mai d'accordo su ciò che
+costituisce un [[success|successo]] a teatro, è difficile arbitrare le loro
+dispute. Ma il fatto generale è assai semplice: un dramma come
+lo _Strafford_ non fu un gigantesco [[success|successo]] teatrale, e nessuno, c'è
+da presumere, immaginò mai che lo sarebbe stato. D'altra parte, esso
+non fu certo un fallimento, ma fu goduto e applaudito come lo sono
+centinaia di ottimi drammi che restano in cartellone solo una settimana o due, come fanno molti
+drammi eccellenti, e come tutti i drammi dovrebbero fare. Soprattutto, il
+preciso [[success|successo]] che accompagnò la rappresentazione dello _Strafford_ dal
+punto di vista dei più colti e sensibili fu del tutto
+sufficiente a collocare Browning in una certa e definita posizione letteraria.
+Come personalità classica e consolidata egli non entrò nel suo
+regno che anni e decenni dopo; non, in verità, finché non fu
+prossimo a varcare la soglia dell'ultimo riposo. Ma come personalità
+distaccata ed eccentrica, come un uomo che esisteva e che era sorto ai margini
+della letteratura, il mondo cominciò a prendere coscienza di lui in questo [[Time|periodo]].
+
+Di ciò che egli era personalmente nell'epoca in cui divenne così personalmente
+manifesto, la signora Bridell Fox ci ha lasciato un piccolo [[Sketch|ritratto]] assai vivido. Ella
+descrive come Browning si presentasse alla [[house|casa]] (egli conosceva suo
+padre), e trovato quel gentiluomo fuori, chiedesse con una sorta di brusca
+cortesia se poteva suonare il pianoforte. Questo tratto è assai
+caratteristico del misto di aplomb e di incoscienza che segnava le maniere
+sociali di Browning. "Egli era allora," scrive ella, "snello e bruno, e assai
+bello, e — posso accennarlo? — appena un tantino dandy, dedito a
+guanti di capretto color limone e cose simili, proprio lo specchio della moda
+e il modello del bel portamento. Ma pieno di '[[Ambition|ambizione]]', avido di [[success|successo]],
+avido di fama, e, quel che più conta, deciso a conquistare la fama e a
+raggiungere il [[success|successo]]." Questo è il miglior ritratto che possiamo avere del
+Browning di quei giorni: un giovane del tutto [[Self|soddisfatto di sé]], ma non [[Self|impacciato]];
+uno che aveva superato, ma solo di poco superato, il puro
+romanticismo della sua fanciullezza, che lo faceva correre dietro alle carovane degli zingari
+e ascoltare gli usignoli nel bosco; un uomo la cui incandescente
+vitalità, ora che aveva abbandonato gli zingari e non si era ancora immersa
+in casuistici [[Poems|poemi]], si dedicava eccitatamente a inezie, come
+guanti di capretto color limone e la fama. Ma un uomo pur sempre e sopra
+ogni cosa perfettamente giovane e naturale, che professava quel gusto damerino che
+segue le mode, e non quel gusto damerino più sciocco e più corruttore
+che le sfida. Proprio come entrò con freddezza e insieme
+d'impulso in un salotto privato e si offrì di suonare, così egli
+entrò in questo [[Time|periodo]] nell'enorme e affollata sala della letteratura
+europea e si offrì di cantare.

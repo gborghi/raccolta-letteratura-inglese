@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a> › <a href="/testi/chesterton/atomized/the_glass_walking_stick/story_08_wolfe_and_the_midshipman">Story 08 Wolfe And The Midshipman</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_08_wolfe_and_the_midshipman/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_10_the_national_anthem/part_01">part 01 ›</a></div>
@@ -73,3 +75,72 @@ by a familiar and obvious emblem--what is the poor devil to do?
 Pause and think of that point; for it is a perfectly practical point.
 What are the popular emblems of peace, if we are to cut out all
 that comes from myths or mysteries or the past?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a> › <a href="/testi/chesterton/atomized/the_glass_walking_stick/story_08_wolfe_and_the_midshipman">Story 08 Wolfe And The Midshipman</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_08_wolfe_and_the_midshipman/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_10_the_national_anthem/part_01">part 01 ›</a></div>
+</nav>
+
+Coloro che stanno predisponendo il Memoriale della Pace della Società
+delle Nazioni non avrebbero la minima obiezione a ricoprirlo
+di segni e di simboli che un tempo furono religiosi.
+Non avrebbero da obiettare a una statua della Pace che regge il ramoscello d'ulivo
+come una statua di Minerva; non avrebbero da obiettare a una figura
+simbolica dell'Aurora munita della lira o dei cavalli di [[Apollo]];
+non si sdegnerebbero se qualcuno raffigurasse la femminilità nella forma
+di [[Diana]] cacciatrice o la virilità nella forma di Ercole a riposo.
+Tutte queste cose ormai sono davvero un'[[Allegory|allegoria]]. E se i cristiani
+sapessero accettare una modificazione tanto insignificante della loro visione,
+di stampo modernista, da convenire che il [[Christianity|Cristianesimo]] è morto, potrebbero tranquillamente continuare a servirsi
+di tutta la loro grande ricchezza storica e agiografica di immagini
+e illustrazioni; e nessuno avrebbe da obiettare a diecimila angeli
+o a un milione di martiri o a un numero qualsiasi di croci e di aureole.
+Ma il fondamento della resistenza è che l'intero paragone moderno
+tra il declino del Paganesimo e il declino del [[Christianity|Cristianesimo]]
+è falso. Il Paganesimo, nel senso storico di Politeismo,
+declinò una volta per tutte. Il [[Christianity|Cristianesimo]] è declinato venti volte;
+ma nessuno di quanti lo odiavano fu mai del tutto certo che fosse morto.
+Gli storici razionalisti dell'Ottocento trovavano
+facile tracciare in una curva l'ascesa e la caduta di una religione.
+Dimostravano con grande lucidità, a loro piena soddisfazione, che un simile
+mostro storico fu dapprima un mito, poi una superstizione,
+poi una tradizione, e poi un'astrazione e un'[[Allegory|allegoria]].
+E ciò che scrivevano era in gran parte vero, se si fosse dato il caso
+che scrivessero la [[history|storia]] di Giove-Ammone. Ma come [[history|storia]] dell'
+Europa post-pagana, comunemente detta Cristianità, semplicemente non è vero.
+Non è la storia di qualcosa che dominò il mondo intero,
+come una divinità pagana dominava tutta la [[City|città]]. Non è la storia
+di qualcosa che si perdeva quando un uomo lasciava la propria [[City|città]],
+e allargava la mente considerando gli dèi di altre città.
+Non cominciò con l'essere potente come il Paganesimo; non giunse mai
+a essere impotente come il Paganesimo. Fu la storia di qualcosa
+che era malsicuro nella sua massima sicurezza e ancora vivo nel suo punto più basso;
+qualcosa che continuamente esce dalle Catacombe e vi torna
+dentro; qualcosa che non è mai del tutto accettabile quando appare;
+e mai del tutto dimenticato quando scompare.
+
+È questa vigilanza affatto unica e perfino innaturale che, essa [[Alone|sola]], può
+spiegare una difficoltà come quella sollevata a proposito dell'immagine scolpita della Pace.
+È che, pur proclamando la pace politica, essa proclama
+la guerra spirituale. Le sue cose non possono essere usate come cose morte per adornare
+un qualche trionfo altrui; non saremo lo [[skeleton|scheletro]] a nessun banchetto
+pagano né il cadavere per un qualsiasi trafugamento scientifico di [[Body|corpi]]. Ma,
+del tutto a prescindere dalle nostre diverse opinioni individuali su tali questioni
+di [[philosophy|filosofia]], resta un problema assai pratico di [[history|storia]].
+Questi misteri sono lo sfondo del passato dell'europeo moderno, proprio come
+quei miti erano lo sfondo del passato del più scettico dei Pagani.
+E la cosa può essere sottoposta a una prova perfettamente pratica.
+Se aveste detto a uno degli ultimi scultori greci che egli non
+doveva rappresentare nulla dei grandi miti greci,
+probabilmente avrebbe risposto: «E che cosa dovrei rappresentare?».
+Quelle cose erano tutto l'immaginario della sua fantasia.
+Se dite a un artista della cultura cristiana, quali che siano le sue opinioni,
+che deve rappresentare la pace o la carità o l'amore universale
+con un emblema familiare e ovvio, che cosa mai deve fare, poveraccio?
+Fermatevi a riflettere su questo punto; perché è un punto perfettamente pratico.
+Quali sono gli emblemi popolari della pace, se dobbiamo tagliar via tutto
+ciò che proviene dai miti o dai misteri o dal passato?

@@ -8,6 +8,8 @@ tags:
   - author/Chesterton
 ---
 
+<div class="qlang-switch" data-default="en"></div>
+
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/works/shop-of-ghosts-(chesterton)">shop-of-ghosts</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shop-of-ghosts/part/part_01">‹ part 01</a><span></span></div>
@@ -98,4 +100,98 @@ Mr. Dickens took off his hat with a flourish like a man calling
 a mob to rise.
 
 "I understand it now," he cried, "you will never die."
+----------------------------------------------------------------------------
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/works/shop-of-ghosts-(chesterton)">shop-of-ghosts</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shop-of-ghosts/part/part_01">‹ part 01</a><span></span></div>
+</nav>
+
+"Tutta la gente nuova ha abbandonato la mia bottega.  Non riesco a spiegarmelo.
+Sembrano avercela con me per motivi tanto curiosi e contraddittori,
+questi uomini di scienza, questi innovatori.
+Dicono che riempio la gente di superstizioni e la rendo troppo visionaria;
+dicono che riempio la gente di salsicce e la rendo troppo grossolana.
+Dicono che le mie parti celesti sono troppo celesti; dicono che le mie parti
+terrene sono troppo terrene; non so proprio che cosa vogliano, davvero.
+Come possono le cose celesti essere troppo celesti, o le cose terrene
+troppo terrene?  Come si può essere troppo buoni, o troppo allegri?
+Non capisco.  Ma una cosa la capisco [[Well|bene]] abbastanza.
+Questa gente moderna vive, e io sono morto."
+
+"Sarai anche morto," risposi.  "Dovresti saperlo tu.
+Ma quanto a ciò che fanno loro, non chiamarlo vivere."
+
+Un [[Silence|silenzio]] cadde d'improvviso fra noi, che in qualche modo mi aspettavo
+restasse ininterrotto.  Ma non era caduto da più di pochi secondi quando,
+nell'assoluta quiete, udii distintamente un passo rapidissimo avvicinarsi
+sempre più lungo la strada.  Un istante dopo una figura
+si precipitò nella bottega e restò incorniciata sulla soglia.
+Portava un grande cappello bianco spinto all'indietro come per impazienza;
+aveva attillati calzoni neri all'antica, un vistoso sparato
+e panciotto d'altri tempi, e una vecchia giacca stravagante.  Aveva occhi grandi,
+spalancati, luminosi come quelli di un attore che avvince;
+aveva un volto pallido, nervoso, e una frangia di barba.
+Abbracciò la bottega e il vecchio in uno sguardo che parve letteralmente
+un lampo e proferì l'esclamazione di un uomo del tutto sbalordito.
+
+"Santo cielo!" gridò; "non può essere lei!  Non è lei!
+Ero venuto a chiedere dov'era la sua [[Grave|tomba]]."
+
+"Non sono ancora morto, signor Dickens," disse il vecchio gentiluomo, con un
+debole sorriso; "ma sto morendo," si affrettò ad aggiungere per rassicurarlo.
+
+"Ma, diamine, lei stava morendo già ai miei [[Time|tempi]]," disse il signor Charles Dickens
+con vivacità; "e non è invecchiato di un giorno."
+
+"Mi sento così da molto [[Time|tempo]]," disse Babbo Natale.
+
+Il signor Dickens si voltò e sporse la testa dalla porta
+nel buio.
+
+"Dick," ruggì a squarciagola; "è ancora vivo."
+
+Un'altra [[Shadow|ombra]] oscurò la soglia, ed entrò un gentiluomo assai più grande e
+più sanguigno, con un'enorme parrucca, sventolandosi il volto acceso
+con un cappello militare del taglio della [[Queen|regina]] Anna.  Portava la testa [[Well|ben]] eretta come un soldato,
+e il suo volto infuocato aveva persino un'aria di arroganza, subito
+smentita dagli occhi, che erano letteralmente umili
+come quelli di un cane.  La sua [[Sword|spada]] faceva un gran fracasso, come se la bottega
+fosse troppo piccola per essa.
+
+"In verità," disse Sir [[Richard]] Steele, "è cosa quanto mai prodigiosa,
+giacché quell'uomo stava morendo quando scrissi di Sir Roger de Coverley
+e del suo giorno di Natale."
+
+I miei sensi si facevano più fiochi e la stanza più buia.
+Pareva riempirsi di nuovi venuti.
+
+"È sempre stato inteso," disse un uomo robusto, che portava
+la testa con umorismo e ostinazione un po' inclinata da un lato (credo
+fosse Ben Jonson) "è sempre stato inteso, consule Jacobo,
+sotto il nostro [[King|re]] Giacomo e la sua defunta Maestà, che tali buone e cordiali
+usanze fossero cadute inferme, e prossime a scomparire dal mondo.
+Questa barba grigia di certo non era più gagliarda quando lo conobbi di quanto lo sia adesso."
+
+E mi parve anche di udire un uomo vestito di verde, come [[Robin Hood]],
+dire in un francese normanno un po' confuso: "Ma io vidi quell'uomo morire."
+
+"Mi sento così da molto [[Time|tempo]]," disse Babbo Natale,
+di nuovo nel suo modo fievole.
+
+Il signor Charles Dickens d'improvviso si sporse verso di lui.
+
+"Da quando?" chiese.  "Da quando è nato?"
+
+"Sì," disse il vecchio, e sprofondò tremante in una sedia.
+"Sono sempre stato morente."
+
+Il signor Dickens si tolse il cappello con un ampio gesto come chi chiama
+una folla a insorgere.
+
+"Ora capisco," gridò, "lei non morirà mai."
 ----------------------------------------------------------------------------
