@@ -31,6 +31,8 @@ jobs:
         run: npx quartz build
         env:
           NODE_OPTIONS: "--max-old-space-size=14336"
+      - name: Slim tags index page
+        run: node scripts/gen-tags-table.mjs public
       - name: Report build output
         run: |
           echo "## Build output" >> "$GITHUB_STEP_SUMMARY"

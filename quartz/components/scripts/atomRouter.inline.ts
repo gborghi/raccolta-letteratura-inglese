@@ -90,6 +90,20 @@ function build(reader: HTMLElement) {
   let lang: "en" | "it" =
     anyIt && localStorage.getItem(LANG_KEY) === "it" ? "it" : "en"
 
+  // per-atom "Capitoli correlati" (#17): keyed by workSlug#atomId. Loaded async; a
+  // re-render fires once it arrives. The router owns this (not relatedWorks.inline.ts)
+  // because the reading pane is swapped on every atom change.
+  const workSlug = reader.dataset.work || ""
+  const BP = (document.body && (document.body as HTMLElement).dataset.basepath) || ""
+  let relatedData: Record<string, Array<Record<string, unknown>>> | null = null
+  fetch(`${BP}/static/chapter_related.json`)
+    .then((r) => r.json())
+    .then((d) => {
+      relatedData = d
+      render(shownId)
+    })
+    .catch(() => {})
+
   // ---- reader chrome ----
   const worktitle = reader.dataset.worktitle || document.title
   const bar = el("div", "ar-bar")
@@ -118,8 +132,9 @@ function build(reader: HTMLElement) {
   toc.setAttribute("aria-label", "Indice")
   const pane = el("article", "ar-pane")
   shell.append(toc, pane)
+  const relatedEl = el("aside", "ar-related")
 
-  reader.replaceChildren(bar, shell)
+  reader.replaceChildren(bar, shell, relatedEl)
 
   // ---- table of contents (grouped by chapter) ----
   const tocList = el("ul", "ar-toc-list")
@@ -156,6 +171,7 @@ function build(reader: HTMLElement) {
   toc.append(tocList)
 
   // ---- rendering ----
+  let shownId = order[0] // the resolved leaf currently displayed (drives prev/next)
   function idx(id: string) {
     return order.indexOf(id)
   }
@@ -165,6 +181,7 @@ function build(reader: HTMLElement) {
   }
   function render(id: string) {
     const a = byId.get(id) || atoms[0]
+    shownId = a.id
     let nodes = lang === "it" && a.it.length ? a.it : a.en
     pane.replaceChildren(...nodes.map((n) => n))
     if (lang === "it" && !a.it.length && anyIt) {
@@ -182,6 +199,43 @@ function build(reader: HTMLElement) {
     )
     const active = toc.querySelector(".ar-toc-link.active") as HTMLElement | null
     active?.scrollIntoView({ block: "nearest" })
+    // related chapters for this atom
+    relatedEl.replaceChildren()
+    relatedEl.className = "ar-related"
+    // #17 tags are chapter-level; a part atom (chapter_01--part_01) inherits its
+    // chapter's related set, so fall back to the chapter id.
+    const rel =
+      relatedData &&
+      (relatedData[`${workSlug}#${a.id}`] ||
+        relatedData[`${workSlug}#${a.id.split("--")[0]}`])
+    if (rel && rel.length) {
+      relatedEl.className = "ar-related related-works"
+      relatedEl.append(el("h2", undefined, "Capitoli correlati"))
+      const ul = document.createElement("ul")
+      for (const it of rel) {
+        const li = document.createElement("li")
+        li.className = "rw-chapter"
+        const parts = String(it.href).split("#")
+        const link = document.createElement("a")
+        link.href = parts[0] === workSlug ? `#${parts[1]}` : `${BP}/${it.href}`
+        link.textContent = String(it.title || "")
+        li.append(link)
+        if (it.work) {
+          const w = document.createElement("span")
+          w.className = "rw-author"
+          w.textContent = ` — ${it.work}`
+          li.append(w)
+        }
+        if (it.plot) {
+          const p = document.createElement("div")
+          p.className = "rw-plot"
+          p.textContent = String(it.plot)
+          li.append(p)
+        }
+        ul.append(li)
+      }
+      relatedEl.append(ul)
+    }
     const i = idx(a.id)
     prevBtn.disabled = i <= 0
     nextBtn.disabled = i >= order.length - 1
@@ -189,34 +243,38 @@ function build(reader: HTMLElement) {
     window.scrollTo(0, 0)
   }
   function go(id: string, push: boolean) {
-    if (!byId.has(id)) id = order[0]
+    if (!byId.has(id)) {
+      // a chapter/aggregate id (e.g. #chapter_01 from a related card, a wikilink to a
+      // whole chapter, or the 404 redirect): land on that chapter's first leaf.
+      id = order.find((o) => o.startsWith(`${id}--`)) || order[0]
+    }
     render(id)
     if (push && location.hash.slice(1) !== id) history.pushState(null, "", `#${id}`)
     shell.classList.remove("toc-open")
   }
   function current(): string {
-    const h = decodeURIComponent(location.hash.slice(1))
-    return byId.has(h) ? h : order[0]
+    // raw hash — go() resolves chapter/aggregate ids to a leaf.
+    return decodeURIComponent(location.hash.slice(1)) || order[0]
   }
 
   enBtn.onclick = () => {
     lang = "en"
     localStorage.setItem(LANG_KEY, "en")
     applyLangButtons()
-    render(current())
+    render(shownId)
   }
   itBtn.onclick = () => {
     lang = "it"
     localStorage.setItem(LANG_KEY, "it")
     applyLangButtons()
-    render(current())
+    render(shownId)
   }
   prevBtn.onclick = () => {
-    const i = idx(current())
+    const i = idx(shownId)
     if (i > 0) go(order[i - 1], true)
   }
   nextBtn.onclick = () => {
-    const i = idx(current())
+    const i = idx(shownId)
     if (i < order.length - 1) go(order[i + 1], true)
   }
   tocBtn.onclick = () => shell.classList.toggle("toc-open")
@@ -233,10 +291,10 @@ function build(reader: HTMLElement) {
   document.addEventListener("keydown", (e) => {
     if ((e.target as HTMLElement).matches?.("input,textarea")) return
     if (e.key === "ArrowRight") {
-      const i = idx(current())
+      const i = idx(shownId)
       if (i < order.length - 1) go(order[i + 1], true)
     } else if (e.key === "ArrowLeft") {
-      const i = idx(current())
+      const i = idx(shownId)
       if (i > 0) go(order[i - 1], true)
     }
   })

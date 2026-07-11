@@ -47,6 +47,10 @@ jobs:
         run: node scripts/compress-search-index.mjs
         env:
           NODE_OPTIONS: "--max-old-space-size=8192"
+      - name: Slim tags index page
+        # Replace the ~24MB server-rendered /tags/ aggregator with a lightweight client
+        # table (static/tags.json + tags-table.js) so no single file nears the 25 MiB cap.
+        run: node scripts/gen-tags-table.mjs public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

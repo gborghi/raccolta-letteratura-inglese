@@ -418,6 +418,14 @@ function stripUnitChrome(s) {
     .trim()
 }
 
+// SPA: map an old per-atom slug (testi/author/sub/work/chapter[/part]) to its new
+// fragment url (testi/author/sub/work#chapter[--part]). First 4 segments are the
+// work page; the rest is the atom id. Used to repoint #17 chapter interlinks.
+function slugToFrag(s) {
+  const p = s.split("/")
+  return p.length > 4 ? p.slice(0, 4).join("/") + "#" + p.slice(4).join("--") : s
+}
+
 function bilingualBody(en, it) {
   return (
     `<div class="qlang-switch" data-default="en"></div>\n\n` +
@@ -434,6 +442,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
   const workUnits = new Map() // work href -> [{ slug, title, relU }] reading units (TOC)
   const workContainers = new Map() // work href -> { slug, title, relU } full-text page (single-essay fallback)
   const workParts = new Map() // work href -> [{ slug, order, relU }] flat "part_NN" excerpts (no chapter layer)
+  const atomMeta = new Map() // SPA: frag href -> { title, work, workHref } for EVERY unit (powers #17 chapter cards)
   let copied = 0
 
   const authors = await fs.readdir(AUTHORS_DIR, { withFileTypes: true })
@@ -531,6 +540,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
             // chapter id to its first leaf).
             unitHref.set(authPath, frag)
             unitHref.set(authPath.replace(/\.md$/, ""), frag)
+            atomMeta.set(frag, { title: prettyFromFilename(it.fileName), work: workLabel, workHref: parentWorkHref || "" })
             const isIntro = it.unitType === "work"
             const isLeaf = !isIntro && !childrenOf.has(it.slug)
             if (!isIntro && !isLeaf) continue // aggregate chapter -> TOC grouping only
@@ -541,6 +551,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
             const title =
               (wt ? applyWorkTitle(h1Title, wt) : cleanWikilinks(h1Title)) ||
               prettyFromFilename(it.fileName)
+            atomMeta.set(frag, { title, work: workLabel, workHref: parentWorkHref || "" })
             const chapLabel = it.parentItem
               ? prettyFromFilename(it.parentItem.fileName)
               : isIntro
@@ -757,7 +768,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
       }
     }
   }
-  return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers, workParts }
+  return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers, workParts, atomMeta }
 }
 
 async function main() {
@@ -856,7 +867,7 @@ async function main() {
   }
 
   // ---- Publish atomized excerpts / play scenes / long-poem sections ----
-  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts } = await publishUnits(rawSourceToWork, translations)
+  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts, atomMeta } = await publishUnits(rawSourceToWork, translations)
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "excerpts.json"),
     JSON.stringify(excerpts),
@@ -1083,6 +1094,9 @@ async function main() {
         workHref: u.workHref || "",
       })
     }
+    // SPA: excerpts only cover leaf frags; atomMeta also carries aggregate chapters,
+    // so a chapter-level related item still resolves a title/work.
+    if (SPA) for (const [k, v] of atomMeta) if (!unitMeta.has(k)) unitMeta.set(k, v)
     const TOP_N = 6
     const DF_CAP = 200
     // token = "c:<character>" or "t:<theme>"; build per-chapter token lists + df.
@@ -1125,17 +1139,18 @@ async function main() {
         .sort((a, b) => b[1].s - a[1].s || b[1].shared - a[1].shared)
         .slice(0, TOP_N)
         .map(([oh, v]) => {
-          const m = unitMeta.get(oh) || {}
+          const key = SPA ? slugToFrag(oh) : oh
+          const m = unitMeta.get(key) || {}
           const plot = tags[oh]?.plot || ""
           return {
-            href: oh,
+            href: key,
             title: m.title || oh,
             work: m.work || "",
             shared: v.shared,
             plot: plot.length > 160 ? plot.slice(0, 157) + "…" : plot,
           }
         })
-      if (top.length) chapterRelated[href] = top
+      if (top.length) chapterRelated[SPA ? slugToFrag(href) : href] = top
     }
     await fs.writeFile(
       path.join(ROOT, "quartz", "static", "chapter_related.json"),
