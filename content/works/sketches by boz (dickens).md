@@ -26847,3 +26847,5 @@ construction of the prison itself has been changed.
 respited during his Majesty’s pleasure.
 
 [429] [In its original form.]
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

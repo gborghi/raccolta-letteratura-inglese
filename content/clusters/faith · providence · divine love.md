@@ -13,3 +13,18 @@ tags:
 ## Works
 
 <div class="concept-works" data-slug="clusters/faith-·-providence-·-divine-love"></div>
+
+## Connected works · other authors
+
+*Cross-author connections — works whose primary cluster differs but which share this theme.*
+
+- [[Europe and the Faith (Belloc)]]
+- [[Sonnets and Verse (Belloc)]]
+- [[The Cruise of the Nona (Belloc)]]
+- [[The History of Spiritualism, Volume I (Conan Doyle)]]
+- [[The History of Spiritualism, Volume II (Conan Doyle)]]
+- [[The Land of Mist (Conan Doyle)]]
+- [[The New Revelation (Conan Doyle)]]
+- [[The Path to Rome (Belloc)]]
+- [[The Vital Message (Conan Doyle)]]
+- [[Verses (Belloc)]]

@@ -39975,3 +39975,5 @@ very beautiful, and that my husband is very handsome, and that my
 guardian has the brightest and most benevolent face that ever was
 seen, and that they can very well do without much beauty in me—even
 supposing—.
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

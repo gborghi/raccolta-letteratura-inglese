@@ -6,6 +6,7 @@ cluster: Detective Fiction · Ratiocination Detection · Crime and Punishment
 source: Authors/Conan_Doyle/_raw/THE_CASE-BOOK_OF_SHERLOCK_HOLMES.md
 tags:
   - graph/work
+  - concept/appearance_vs_reality
   - concept/economics
   - author/Conan_Doyle
   - form/detective_fiction
@@ -46,7 +47,7 @@ tags:
 - [ADVENTURE XII. THE ADVENTURE OF SHOSCOMBE OLD PLACE](/testi/conan_doyle/atomized/the_case_book_of_sherlock_holmes/story_12_adventure_xii_the_adventure_of_shoscombe)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">34.3</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14.9</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19.3</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">22%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26.1</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">33.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.3</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">23%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26.7</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
@@ -57,3 +58,5 @@ tags:
 **Settings:** [[London]]
 **Characters:** [[Sherlock Holmes]], [[Doctor Watson]]
 **Archetypes:** [[Detective]], [[Villain]]
+
+**Also relevant to:** [[Appearance vs Reality · Beauty · Eyes and Sight]]

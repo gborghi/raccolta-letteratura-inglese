@@ -13,3 +13,17 @@ tags:
 ## Works
 
 <div class="concept-works" data-slug="clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight"></div>
+
+## Connected works · other authors
+
+*Cross-author connections — works whose primary cluster differs but which share this theme.*
+
+- [[But Soft- We Are Observed! (Belloc)]]
+- [[Mr. Petre (Belloc)]]
+- [[The Adventures of Sherlock Holmes (Conan Doyle)]]
+- [[The Case-Book of Sherlock Holmes (Conan Doyle)]]
+- [[The Hound of the Baskervilles (Conan Doyle)]]
+- [[The Memoirs of Sherlock Holmes (Conan Doyle)]]
+- [[The Missing Masterpiece (Belloc)]]
+- [[The Return of Sherlock Holmes (Conan Doyle)]]
+- [[The Valley of Fear (Conan Doyle)]]

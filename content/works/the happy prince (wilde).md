@@ -148,3 +148,5 @@ Then they melted the statue in a furnace, and the Mayor held a meeting of the Co
 “What a strange thing!” said the overseer of the workmen at the foundry. “This broken lead heart will not melt in the furnace. We must throw it away.” So they threw it on a dust-heap where the dead Swallow was also lying.
 “Bring me the two most precious things in the city,” said God to one of His Angels; and the Angel brought Him the leaden heart and the dead bird.
 “You have rightly chosen,” said God, “for in my garden of Paradise this little bird shall sing for evermore, and in my city of gold the Happy Prince shall praise me.”
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

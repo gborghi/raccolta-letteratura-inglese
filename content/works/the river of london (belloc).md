@@ -6,6 +6,7 @@ cluster: Travel Writing · Pilgrimage · Landscape
 source: Authors/Belloc/_raw/The_River_of_London.md
 tags:
   - graph/work
+  - concept/alienation
   - motif/sea_and_voyage
   - form/nonfiction
   - concept/history
@@ -54,3 +55,5 @@ tags:
 **Historical References:** [[Roman History]], [[Industrial Revolution]], [[Medieval England]], [[Reformation]]
 **Settings:** [[River Thames]], [[London]]
 **Topoi:** [[Sic Transit Gloria Mundi]], [[Book of Nature]]
+
+**Also relevant to:** [[Alienation · Outsider · Exile]]

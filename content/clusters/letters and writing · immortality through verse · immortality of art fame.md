@@ -13,3 +13,13 @@ tags:
 ## Works
 
 <div class="concept-works" data-slug="clusters/letters-and-writing-·-immortality-through-verse-·-immortality-of-art-fame"></div>
+
+## Connected works · other authors
+
+*Cross-author connections — works whose primary cluster differs but which share this theme.*
+
+- [[Caliban's Guide to Letters (Belloc)]]
+- [[Lambkin's Remains (Belloc)]]
+- [[Preface to 'Kai Lung's Golden Hours' (Belloc)]]
+- [[The Future of Canadian Literature (Conan Doyle)]]
+- [[Through the Magic Door (Conan Doyle)]]

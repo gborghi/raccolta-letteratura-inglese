@@ -97,3 +97,5 @@ tags:
 **Characters:** [[King Dives]]
 **Archetypes:** [[Pilgrim]], [[Rebel]]
 **Topoi:** [[Open Road Homecoming]], [[Carpe Diem]]
+
+**Also relevant to:** [[Faith · Providence · Divine Love]]

@@ -68,4 +68,6 @@ Yea! and more musically sweet to me
 Thy dissonant harsh bray of joy would be,  
 Than warbled melodies that soothe to rest   35  
 The aching of pale Fashion’s vacant breast!  
-1794.  
+1794.
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

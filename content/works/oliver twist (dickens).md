@@ -18923,3 +18923,5 @@ earth, to visit spots hallowed by the love—the love beyond the grave—of
 those whom they knew in life, I believe that the shade of Agnes
 sometimes hovers round that solemn nook. I believe it none the less
 because that nook is in a Church, and she was weak and erring.
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

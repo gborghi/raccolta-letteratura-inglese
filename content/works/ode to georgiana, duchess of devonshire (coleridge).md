@@ -120,4 +120,6 @@ Where once the Austrian fell   80
 Beneath the shaft of Tell!  
 O Lady, nursed in pomp and pleasure!  
 Thence learn’d you that heroic measure.  
-1799.  
+1799.
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

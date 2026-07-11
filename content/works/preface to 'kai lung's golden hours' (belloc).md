@@ -38,3 +38,5 @@ tags:
 **Historical References:** [[Robert Blatchford]]
 **Archetypes:** [[The Writer]]
 **Topoi:** [[Immortality Through Verse]]
+
+**Also relevant to:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]

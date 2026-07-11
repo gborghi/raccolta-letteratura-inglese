@@ -163,3 +163,5 @@ And lo! through the painted windows came the sunlight streaming upon him, and th
 He stood there in the raiment of a king, and the gates of the jewelled shrine flew open, and from the crystal of the many-rayed monstrance shone a marvellous and mystical light.  He stood there in a king’s raiment, and the Glory of God filled the place, and the saints in their carven niches seemed to move.  In the fair raiment of a king he stood before them, and the organ pealed out its music, and the trumpeters blew upon their trumpets, and the singing boys sang.
 And the people fell upon their knees in awe, and the nobles sheathed their swords and did homage, and the Bishop’s face grew pale, and his hands trembled.  ‘A greater than I hath crowned thee,’ he cried, and he knelt before him.
 And the young King came down from the high altar, and passed home through the midst of the people.  But no man dared look upon his face, for it was like the face of an angel.
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

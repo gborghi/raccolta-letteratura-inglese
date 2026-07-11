@@ -127,3 +127,5 @@ tags:
 **Characters:** [[Virgin Mary]]
 **Archetypes:** [[Pilgrim]], [[Poet as Prophet (2)]]
 **Topoi:** [[Open Road Homecoming]], [[Carpe Diem]], [[Memento Mori]]
+
+**Also relevant to:** [[Faith · Providence · Divine Love]]

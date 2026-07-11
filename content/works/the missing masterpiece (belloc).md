@@ -64,3 +64,5 @@ tags:
 **Settings:** [[Paris]], [[France]], [[Rural England]], [[Europe]]
 **Archetypes:** [[Artist]], [[Trickster]]
 **Topoi:** [[World Upside Down]]
+
+**Also relevant to:** [[Appearance vs Reality · Beauty · Eyes and Sight]]

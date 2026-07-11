@@ -1115,6 +1115,13 @@ async function main() {
     [/^Seasons/, "cluster-seasons"],
     [/^Nature ·/, "cluster-nature"],
     [/^Sea ·/, "cluster-sea"],
+    // Added 2026-07-11: cross-author theme spokes (see Clusters notes' "Connected
+    // works · other authors" sections). Each regex matches one existing Louvain cluster.
+    [/^Faith/, "cluster-faith"],
+    [/^Appearance/, "cluster-appearance"],
+    [/^Letters and Writing/, "cluster-immortality"],
+    [/^Greek Mythology/, "cluster-myth"],
+    [/^Alienation/, "cluster-alienation"],
   ]
   const clustersWheel = clusterEmblem
     .map(([re, img]) => {
@@ -1132,6 +1139,15 @@ async function main() {
       }
     })
     .filter(Boolean)
+
+  // Social Issues is a hand-authored cross-author aggregator note (not a Louvain
+  // community), so it never appears in topClustersAll — push its spoke explicitly.
+  clustersWheel.push({
+    label: "Social Issues",
+    sub: "23 works",
+    img: "cluster-social",
+    href: sluggify("Clusters/Social Issues · Labour · Reform"),
+  })
 
   const wheelData = { authors: authorsWheel, axes: axesWheel, clusters: clustersWheel }
   await fs.writeFile(
@@ -1174,7 +1190,7 @@ Spin through the ${authorsWheel.length} authors — each emblem opens that autho
 
 ## Thematic clusters
 
-The ${clusters.length} clusters group works by the constellations of theme and form they share. Here are the twelve largest.
+The ${clusters.length} clusters group works by the constellations of theme and form they share. Here is a curated selection of ${clustersWheel.length} cross-author themes.
 
 <div class="radial-wheel" data-wheel="clusters" data-center="Clusters" data-center-sub="${clusters.length} in all"></div>
 

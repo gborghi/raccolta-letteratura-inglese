@@ -51139,3 +51139,5 @@ THOMAS NELSON AND SONS.
     _reward_ her!" _changed to_
 
     _reward_ her!'"
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

@@ -3919,3 +3919,5 @@ always said of him, that he knew how to keep Christmas
 well, if any man alive possessed the knowledge. May that
 be truly said of us, and all of us! And so, as Tiny Tim
 observed, God bless Us, Every One!
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

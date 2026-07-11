@@ -10072,3 +10072,5 @@ in the present month of October; to which my attention has been
 attracted, since these sheets have been passing through the press.  He
 will find some specimens there, by no means remarkable to any man who has
 been in America, but sufficiently striking to one who has not.
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

@@ -13,3 +13,14 @@ tags:
 ## Works
 
 <div class="concept-works" data-slug="clusters/alienation-·-outsider-·-exile"></div>
+
+## Connected works · other authors
+
+*Cross-author connections — works whose primary cluster differs but which share this theme.*
+
+- [[The Captain of the Pole-Star, and Other Tales (Conan Doyle)]]
+- [[The Land of Mist (Conan Doyle)]]
+- [[The Mystery of Cloomber (Conan Doyle)]]
+- [[The Refugees (Conan Doyle)]]
+- [[The River of London (Belloc)]]
+- [[Uncle Bernac (Conan Doyle)]]

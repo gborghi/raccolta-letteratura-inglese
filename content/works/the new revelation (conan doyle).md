@@ -6,6 +6,7 @@ cluster: Spiritualism · Faith and Doubt · The Afterlife
 source: Authors/Conan_Doyle/_raw/THE_NEW_REVELATION.md
 tags:
   - graph/work
+  - concept/faith
   - form/nonfiction
   - concept/history
   - author/Conan_Doyle
@@ -46,3 +47,5 @@ tags:
 **Motifs:** [[Soul]], [[Ghosts]], [[Death]]
 **Historical References:** [[Christianity]], [[Darwinism (Evolutionary Theory)]], [[First World War]], [[Catholic Church]]
 **Archetypes:** [[Prophet]]
+
+**Also relevant to:** [[Faith · Providence · Divine Love]]

@@ -6,6 +6,7 @@ cluster: Medieval Romance · Chivalric Love · Translation
 source: Authors/Belloc/_raw/The_Romance_of_Tristan_and_Iseult.md
 tags:
   - graph/work
+  - concept/desire
   - motif/sea_and_voyage
   - author/Belloc
   - form/translation
@@ -51,3 +52,5 @@ tags:
 **Settings:** [[Ireland]], [[Sea (2)]], [[Castle]]
 **Archetypes:** [[Lover]], [[Tragic Hero]]
 **Topoi:** [[Love-Death (Liebestod)]], [[Unattainable Beloved]]
+
+**Also relevant to:** [[Greek Mythology · Lust Sexual Desire · Desire]]

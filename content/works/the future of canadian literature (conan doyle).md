@@ -6,6 +6,7 @@ cluster: War and Empire · History · Nationalism and Patriotism
 source: Authors/Conan_Doyle/_raw/THE_FUTURE_OF_CANADIAN_LITERATURE.md
 tags:
   - graph/work
+  - concept/immortality_of_art_fame
   - form/nonfiction
   - concept/history
   - author/Conan_Doyle
@@ -42,3 +43,5 @@ tags:
 **Characters:** [[George Bernard Shaw]], [[George Meredith]], [[Robert Louis Stevenson]], [[H.G. Wells]]
 **Archetypes:** [[The Writer]]
 **Topoi:** [[Poet as Prophet]]
+
+**Also relevant to:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]

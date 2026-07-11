@@ -37018,3 +37018,5 @@ and all its blighted fruits. They went quietly down into the roaring
 streets, inseparable and blessed; and as they passed along in sunshine
 and shade, the noisy and the eager, and the arrogant and the froward and
 the vain, fretted and chafed, and made their usual uproar.
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

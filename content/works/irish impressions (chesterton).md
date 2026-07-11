@@ -3606,3 +3606,5 @@ once gone forth, not the torches of conquerors or destroyers;
 but as missionaries in the very midnight of the Dark Ages,
 like a multitude of moving candles, that were the light of the world.
 The End
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

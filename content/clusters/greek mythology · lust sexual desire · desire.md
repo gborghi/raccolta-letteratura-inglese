@@ -13,3 +13,10 @@ tags:
 ## Works
 
 <div class="concept-works" data-slug="clusters/greek-mythology-·-lust-sexual-desire-·-desire"></div>
+
+## Connected works · other authors
+
+*Cross-author connections — works whose primary cluster differs but which share this theme.*
+
+- [[The Parasite (Conan Doyle)]]
+- [[The Romance of Tristan and Iseult (Belloc)]]

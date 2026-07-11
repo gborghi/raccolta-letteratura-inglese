@@ -11811,3 +11811,5 @@ FOOTNOTES
 
 {0}  _Reprinted Pieces_ was released as a separate eText by Project
 Gutenberg, and is not included in this eText.
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

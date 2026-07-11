@@ -6,6 +6,7 @@ cluster: Gothic and Supernatural · Terror and Horror · The Unseen
 source: Authors/Conan_Doyle/_raw/THE_PARASITE.md
 tags:
   - graph/work
+  - concept/desire
   - author/Conan_Doyle
   - form/epistolary_diary_novel
   - form/gothic_novel
@@ -48,3 +49,5 @@ tags:
 **Motifs:** [[Eyes and Sight]], [[Uncanny]], [[Chains]]
 **Characters:** [[Austin Gilroy]], [[Miss Penclosa]], [[Agatha Marden]]
 **Archetypes:** [[Femme Fatale]], [[Antihero]]
+
+**Also relevant to:** [[Greek Mythology · Lust Sexual Desire · Desire]]

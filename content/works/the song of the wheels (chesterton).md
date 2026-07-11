@@ -140,3 +140,5 @@ Cometh fear and greed of fame, cometh deadly sin;
 If a man grow faint, master, take him ere he kneels,  
 Take him, break him, rend him, end him, roll him, crush him  
    with the wheels.
+
+**Also relevant to:** [[Social Issues · Labour · Reform]]

@@ -52,3 +52,5 @@ tags:
 **Settings:** [[London]], [[Modern Metropolis]]
 **Archetypes:** [[Self-Made Man]], [[Trickster]]
 **Topoi:** [[World Upside Down]]
+
+**Also relevant to:** [[Appearance vs Reality · Beauty · Eyes and Sight]]

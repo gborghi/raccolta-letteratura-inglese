@@ -88,6 +88,17 @@ function layoutCircle(tiles: HTMLElement[], labels: HTMLElement[]) {
   const crowded = n >= 10
   const labelR_inner = crowded ? 19 : 22 // closer ring (even spokes)
   const labelR_outer = crowded ? 25 : 22 // farther ring (odd spokes, still inner side)
+  // A circular shingle can only ever be monotone up to ONE seam — z-index is a
+  // total order, so somewhere around the ring the "each tile above its counter-
+  // clockwise neighbour" rule must reverse. Only immediate neighbours overlap
+  // (tile Ø 27% vs. ~30% next-nearest spacing), so that reversal is a single
+  // adjacent pair; park it at the BOTTOM (6 o'clock), the least-noticed spot,
+  // instead of the upper-left tile the old (i+1)%n formula left it on (which put
+  // Wilde/Sea under both their neighbours). `seam` = the lowest tile, chosen so
+  // the reversed pair straddles the bottom; z then climbs clockwise from it, so
+  // every visible upper-arc overlap (e.g. Whitman<Wilde<Austen<Belloc) is
+  // consistent.
+  const seam = Math.round(n / 2)
   for (let i = 0; i < n; i++) {
     const angle = (i / n) * 2 * Math.PI - Math.PI / 2 // start at 12 o'clock
     const cos = Math.cos(angle)
@@ -95,11 +106,7 @@ function layoutCircle(tiles: HTMLElement[], labels: HTMLElement[]) {
     const t = tiles[i]
     t.style.left = 50 + tileR * cos + "%"
     t.style.top = 50 + tileR * sin + "%"
-    // Consistent clockwise shingle: each tile overlaps its counter-clockwise
-    // neighbour and is overlapped by its clockwise one. (i+1)%n keeps tile 0
-    // (12 o'clock apex, e.g. Austen) above its left neighbour but below tile 1
-    // (e.g. Belloc), moving the unavoidable circular seam off the apex.
-    t.style.zIndex = String((i + 1) % n)
+    t.style.zIndex = String((i - seam + n) % n)
     const labelR = i % 2 === 0 ? labelR_inner : labelR_outer
     const l = labels[i]
     l.style.left = 50 + labelR * cos + "%"
