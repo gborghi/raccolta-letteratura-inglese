@@ -816,6 +816,9 @@ details.cerca-facet > summary {
   text-decoration: none !important;
   color: var(--dark);
   transition: transform 0.18s ease;
+  /* base shingle order, set per-tile by radialWheel.inline.ts via --rw-z.
+     Kept as a variable (not an inline z-index) so the :hover rule below wins. */
+  z-index: var(--rw-z, 0);
 }
 .rw-tile {
   display: block;

@@ -106,7 +106,10 @@ function layoutCircle(tiles: HTMLElement[], labels: HTMLElement[]) {
     const t = tiles[i]
     t.style.left = 50 + tileR * cos + "%"
     t.style.top = 50 + tileR * sin + "%"
-    t.style.zIndex = String((i - seam + n) % n)
+    // Write the base stacking order as a CSS variable (NOT an inline z-index):
+    // an inline z-index would outrank the stylesheet `.rw-tilespoke:hover`
+    // rule, so hovering could no longer raise a tile above its neighbours.
+    t.style.setProperty("--rw-z", String((i - seam + n) % n))
     const labelR = i % 2 === 0 ? labelR_inner : labelR_outer
     const l = labels[i]
     l.style.left = 50 + labelR * cos + "%"
