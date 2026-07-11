@@ -33,7 +33,7 @@ tags:
 
 ## Testo / Text
 
-- [quoodle](/testi/chesterton/atomized/quoodle/quoodle)
+- [quoodle](/testi/chesterton/atomized/quoodle#quoodle)
 
 ## Connections
 

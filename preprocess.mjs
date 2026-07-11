@@ -196,6 +196,17 @@ const KW_JSON = path.join(ROOT, "quartz", "static", "works_kw.json")
 // truth for #17 chapter interlinking. Optional: absent on a fresh checkout.
 const CHAPTER_TAGS = path.join(ROOT, "data", "chapter_tags.json")
 
+// --- Reading-page SPA restructure (file-count reduction for Cloudflare Pages) ---
+// When SPA=1, a work's atomized reading units are emitted as ONE markdown page: each
+// atom's body (bilingual, unchanged) is concatenated behind an inline
+// `<span class="atom-split" data-atom …>` marker. Quartz renders the whole page
+// normally (wikilinks, prose, translations — full text stays in the HTML, so SEO is
+// preserved); atomRouter.inline.ts then partitions the rendered DOM at those markers
+// into sections and shows one at a time (the proven qlang DOM-partition pattern).
+// Cuts ~19.8k pages -> ~460, clearing Cloudflare Pages' 20k-file cap. Every atom
+// stays deep-linkable at <workSlug>#<atomId>. Default OFF until the path is verified.
+const SPA = process.env.SPA === "1"
+
 const STOPWORDS = new Set((
   // English
   "a about an and are as at be been but by can did do does each for from had has have he her here him his how i if in into is it its no not of on one or our so that the their them then there these they this to too two up was we were what when where which who will with you your " +
@@ -393,6 +404,20 @@ function classifyUnit(relParts, fileName) {
 // translated (IT) body — all plain markdown so it renders normally. qlang.inline.ts
 // partitions the article DOM at the marker and toggles language client-side (no
 // navigation, no server call).
+// SPA mode: lift an atom's translated body into a section by removing the page
+// chrome preprocess bakes into a standalone unit page (nav, in-section child list,
+// qlang switch, readability box, and the leading "# [[..]]" H1), leaving only text.
+// The EN side needs no stripping — it is built from the clean source body directly.
+function stripUnitChrome(s) {
+  return s
+    .replace(/<div class="qlang-switch"[^>]*><\/div>/g, "")
+    .replace(/<nav class="excerpt-nav">[\s\S]*?<\/nav>/g, "")
+    .replace(/<nav class="excerpt-children">[\s\S]*?<\/nav>/g, "")
+    .replace(/<div class="work-readability"[\s\S]*?<\/div>/g, "")
+    .replace(/^#\s*\[\[[^\]]*\]\].*$/gm, "")
+    .trim()
+}
+
 function bilingualBody(en, it) {
   return (
     `<div class="qlang-switch" data-default="en"></div>\n\n` +
@@ -488,6 +513,93 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
         }
         const childLabel = (k) =>
           k.unitType === "excerpt" ? `Part ${k.order}` : prettyFromFilename(k.fileName)
+
+        // ---- SPA mode: emit ONE page per work (atoms behind atom-split markers) ----
+        if (SPA) {
+          const workSlug = sluggify(`${TESTI_REL}/${author}/${sub}/${workDir}`)
+          const wt = workTitle(author, workDir)
+          const workLabel = wt || workDir.replace(/_/g, " ")
+          const atomIdOf = (it) =>
+            it.slug.slice(workSlug.length + 1).replace(/\//g, "--") || "intro"
+          const blocks = []
+          for (const it of items) {
+            const atomId = atomIdOf(it)
+            const authPath = `Authors/${author}/${sub}/${it.relU}`
+            const frag = `${workSlug}#${atomId}`
+            // every unit — leaf, aggregate chapter, or work root — resolves into the
+            // one work page (aggregates land on their own anchor; the router maps a
+            // chapter id to its first leaf).
+            unitHref.set(authPath, frag)
+            unitHref.set(authPath.replace(/\.md$/, ""), frag)
+            const isIntro = it.unitType === "work"
+            const isLeaf = !isIntro && !childrenOf.has(it.slug)
+            if (!isIntro && !isLeaf) continue // aggregate chapter -> TOC grouping only
+
+            const srcAbs = path.join(subRoot, it.relU.split("/").join(path.sep))
+            const raw = await fs.readFile(srcAbs, "utf8")
+            const { body, title: h1Title } = splitUnit(raw)
+            const title =
+              (wt ? applyWorkTitle(h1Title, wt) : cleanWikilinks(h1Title)) ||
+              prettyFromFilename(it.fileName)
+            const chapLabel = it.parentItem
+              ? prettyFromFilename(it.parentItem.fileName)
+              : isIntro
+                ? ""
+                : prettyFromFilename(it.fileName)
+            let enBody = stripLeadingH1IfMatchesTitle(stripJunkSeparators(body), title)
+            const kind = isIntro ? "intro" : it.unitType
+            let block =
+              `\n\n<span class="atom-split" data-atom="${esc(atomId)}" ` +
+              `data-title="${esc(title)}" data-chapter="${esc(chapLabel)}" data-kind="${kind}"></span>\n\n` +
+              enBody
+            const unitRel = `${TESTI_REL}/${author}/${sub}/${it.relU}`.toLowerCase()
+            const tr = translations.get(unitRel)
+            if (tr)
+              block +=
+                `\n\n<span class="qlang-split" data-lang="it"></span>\n\n` +
+                stripUnitChrome(tr.body_it || "")
+            blocks.push(block)
+
+            // indexes (Brani / cerca / #17 / work-note TOC) point at the fragment url
+            if (isIntro) {
+              if (parentWorkHref) workContainers.set(parentWorkHref, { slug: frag, title, relU: it.relU })
+            } else {
+              if (parentWorkHref && ["chapter", "scene", "story", "section"].includes(it.unitType)) {
+                if (!workUnits.has(parentWorkHref)) workUnits.set(parentWorkHref, [])
+                workUnits.get(parentWorkHref).push({ slug: frag, title, relU: it.relU })
+              }
+              if (parentWorkHref && it.unitType === "excerpt" && !it.parentItem) {
+                if (!workParts.has(parentWorkHref)) workParts.set(parentWorkHref, [])
+                workParts.get(parentWorkHref).push({ slug: frag, order: it.order, relU: it.relU })
+              }
+              excerpts.push({
+                href: frag, title, author,
+                work: workLabel, workHref: parentWorkHref || "",
+                unitType: it.unitType, order: it.order,
+              })
+              const kw = keywords(body)
+              if (kw) excerptsKw[frag] = kw
+            }
+          }
+
+          const fm =
+            `---\n` +
+            `title: ${JSON.stringify(workLabel)}\n` +
+            `author: ${JSON.stringify(authorName)}\n` +
+            `unitType: work\n` +
+            (parentWorkHref ? `parentWork: ${JSON.stringify(parentWorkHref)}\n` : "") +
+            `tags:\n  - graph/excerpt\n  - author/${author}\n` +
+            `---\n\n`
+          const mount =
+            `<div class="atom-reader" data-work="${esc(workSlug)}" data-author="${esc(authorName)}"` +
+            (parentWorkHref ? ` data-workhref="${esc(parentWorkHref)}"` : "") +
+            `></div>\n`
+          const dest = path.join(CONTENT, `${workSlug}.md`.split("/").join(path.sep))
+          await fs.mkdir(path.dirname(dest), { recursive: true })
+          await fs.writeFile(dest, fm + mount + blocks.join("\n\n"))
+          copied++
+          continue // skip the classic per-atom emission for this work
+        }
 
         for (let i = 0; i < items.length; i++) {
           const it = items[i]
@@ -1243,6 +1355,27 @@ Every chapter, story, scene, section and paragraph-level excerpt across the pros
 <div id="brani-table"></div>
 `
   await fs.writeFile(path.join(CONTENT, "brani.md"), brani)
+
+  // SPA backward-compat: old per-atom URLs (/testi/<author>/<sub>/<work>/<chapter>/
+  // <part>) no longer exist as pages. Emit a 404 that rewrites any such path to the
+  // work's single page + atom fragment (/testi/<author>/<sub>/<work>#<chapter>--<part>),
+  // so existing deep links, bookmarks and search-engine results keep resolving. One
+  // file, works on GitHub Pages and Cloudflare Pages alike. SPA-only (in classic mode
+  // the atom pages exist, so a redirect here could mis-fire on genuine 404s).
+  if (SPA) {
+    const notFound =
+      `---\ntitle: "Pagina non trovata · Not found"\n---\n\n` +
+      `<div class="nf-msg"><p><strong>Pagina non trovata.</strong> Reindirizzamento in corso…</p>\n` +
+      `<p><a href="/">Torna alla home</a></p></div>\n\n` +
+      `<script>\n(function(){\n` +
+      `  var p=decodeURIComponent(location.pathname).replace(/\\/index\\.html$/,"").replace(/\\/$/,"");\n` +
+      `  var m=p.match(/^(.*)\\/testi\\/([^/]+)\\/(atomized|plays|long)\\/([^/]+)\\/(.+)$/i);\n` +
+      `  if(m){\n` +
+      `    var atom=m[5].replace(/\\//g,"--");\n` +
+      `    location.replace(m[1]+"/testi/"+m[2]+"/"+m[3]+"/"+m[4]+"#"+atom);\n` +
+      `  }\n})();\n</script>\n`
+    await fs.writeFile(path.join(CONTENT, "404.md"), notFound)
+  }
 
   // author landing pages (NLP footprint + EN/IT bio tabs + scoped works table).
   // Regenerated here every run because content/ is wiped at the top of main().

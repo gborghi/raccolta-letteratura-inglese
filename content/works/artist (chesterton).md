@@ -49,7 +49,7 @@ tags:
 
 ## Testo / Text
 
-- [artist](/testi/chesterton/atomized/artist/artist)
+- [artist](/testi/chesterton/atomized/artist#artist)
 
 ## Connections
 

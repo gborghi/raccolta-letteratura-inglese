@@ -45,9 +45,9 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Book I](/testi/keats/long/hyperion/section_01_book_i)
-- [Book II](/testi/keats/long/hyperion/section_02_book_ii)
-- [Book III](/testi/keats/long/hyperion/section_03_book_iii)
+- [Book I](/testi/keats/long/hyperion#section_01_book_i)
+- [Book II](/testi/keats/long/hyperion#section_02_book_ii)
+- [Book III](/testi/keats/long/hyperion#section_03_book_iii)
 
 ## Connections
 

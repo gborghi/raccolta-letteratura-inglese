@@ -41,7 +41,7 @@ tags:
 
 ## Testo / Text
 
-- [last_hero](/testi/chesterton/atomized/last_hero/last_hero)
+- [last_hero](/testi/chesterton/atomized/last_hero#last_hero)
 
 ## Connections
 

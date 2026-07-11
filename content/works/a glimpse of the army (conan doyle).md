@@ -33,7 +33,7 @@ tags:
 
 ## Testo / Text
 
-- [A GLIMPSE OF THE ARMY](/testi/conan_doyle/atomized/a_glimpse_of_the_army/a_glimpse_of_the_army)
+- [A GLIMPSE OF THE ARMY](/testi/conan_doyle/atomized/a_glimpse_of_the_army#a_glimpse_of_the_army)
 
 ## Connections
 

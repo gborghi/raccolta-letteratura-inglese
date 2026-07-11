@@ -40,12 +40,9 @@ tags:
 > [!abstract] 
 > An essay-history of the Lower Thames as 'London River', framed by a firsthand voyage up the tide from the sea to the Pool that reads the past in successive stratified layers. Belloc contrasts the Thames with the Scheldt and Seine, attacks materialist history and the desolation wrought by modern industrialism, and mourns the Gothic London lost to the Great Fire, insisting London is a 'function of the Thames'.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [INTRODUCTION](/testi/belloc/atomized/the_river_of_london/story_01_introduction)
-- [THE APPROACH UP RIVER](/testi/belloc/atomized/the_river_of_london/story_02_the_approach_up_river)
-- [LONDON THE FIRST CROSSING OF THE THAMES](/testi/belloc/atomized/the_river_of_london/story_03_london_the_first_crossing_of_the_thames)
-- [ENDNOTES.](/testi/belloc/atomized/the_river_of_london/story_04_endnotes)
+- [INTRODUCTION](/testi/belloc/atomized/the_river_of_london#story_01_introduction)
 
 ## Connections
 

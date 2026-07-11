@@ -31,7 +31,7 @@ tags:
 
 ## Testo / Text
 
-- [anti-puritan](/testi/chesterton/atomized/anti-puritan/anti-puritan)
+- [anti-puritan](/testi/chesterton/atomized/anti-puritan#anti-puritan)
 
 ## Connections
 

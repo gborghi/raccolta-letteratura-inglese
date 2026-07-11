@@ -38,24 +38,17 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Scene 1](/testi/shakespeare/plays/edward_iii/scenes/scene_1)
-- [Scene 2](/testi/shakespeare/plays/edward_iii/scenes/scene_2)
-- [Scene 3](/testi/shakespeare/plays/edward_iii/scenes/scene_3)
-- [Scene 4](/testi/shakespeare/plays/edward_iii/scenes/scene_4)
-- [Scene 5](/testi/shakespeare/plays/edward_iii/scenes/scene_5)
-- [Scene 6](/testi/shakespeare/plays/edward_iii/scenes/scene_6)
-- [Scene 7](/testi/shakespeare/plays/edward_iii/scenes/scene_7)
-- [Scene 8](/testi/shakespeare/plays/edward_iii/scenes/scene_8)
-- [Scene 9](/testi/shakespeare/plays/edward_iii/scenes/scene_9)
-- [Scene 10](/testi/shakespeare/plays/edward_iii/scenes/scene_10)
-- [Scene 11](/testi/shakespeare/plays/edward_iii/scenes/scene_11)
-- [Scene 12](/testi/shakespeare/plays/edward_iii/scenes/scene_12)
-- [Scene 13](/testi/shakespeare/plays/edward_iii/scenes/scene_13)
-- [Scene 14](/testi/shakespeare/plays/edward_iii/scenes/scene_14)
-- [Scene 15](/testi/shakespeare/plays/edward_iii/scenes/scene_15)
-- [Scene 16](/testi/shakespeare/plays/edward_iii/scenes/scene_16)
-- [Scene 17](/testi/shakespeare/plays/edward_iii/scenes/scene_17)
-- [Scene 18](/testi/shakespeare/plays/edward_iii/scenes/scene_18)
+- [Scene 5](/testi/shakespeare/plays/edward_iii#scenes--scene_5)
+- [Scene 7](/testi/shakespeare/plays/edward_iii#scenes--scene_7)
+- [Scene 8](/testi/shakespeare/plays/edward_iii#scenes--scene_8)
+- [Scene 9](/testi/shakespeare/plays/edward_iii#scenes--scene_9)
+- [Scene 10](/testi/shakespeare/plays/edward_iii#scenes--scene_10)
+- [Scene 11](/testi/shakespeare/plays/edward_iii#scenes--scene_11)
+- [Scene 13](/testi/shakespeare/plays/edward_iii#scenes--scene_13)
+- [Scene 14](/testi/shakespeare/plays/edward_iii#scenes--scene_14)
+- [Scene 15](/testi/shakespeare/plays/edward_iii#scenes--scene_15)
+- [Scene 16](/testi/shakespeare/plays/edward_iii#scenes--scene_16)
+- [Scene 17](/testi/shakespeare/plays/edward_iii#scenes--scene_17)
 
 ## Connections
 

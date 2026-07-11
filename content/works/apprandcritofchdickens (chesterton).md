@@ -160,10 +160,9 @@ tags:
 > [!abstract] 
 > Chesterton's 1911 book of critical introductions to each of Dickens's novels, championing his exuberant characters, his defence of the common man, and the social vision of his fiction. Form: literary criticism; themes: the common man, social injustice, the artist and society.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Chapter 1: PAGE](/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page)
-- [Book 2: celebrated characters who are both especially exuberant and](/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_celebrated_characters_who_are)
+- [ApprAndCritOfChDickens](/testi/chesterton/atomized/apprandcritofchdickens#apprandcritofchdickens)
 
 ## Connections
 

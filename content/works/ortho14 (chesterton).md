@@ -55,13 +55,8 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Preface](/testi/chesterton/atomized/ortho14/story_02_preface)
-- [Orthodoxy](/testi/chesterton/atomized/ortho14/story_03_orthodoxy)
-- [Ii The Maniac](/testi/chesterton/atomized/ortho14/story_04_ii_the_maniac)
-- [Iii The Suicide Of Thought](/testi/chesterton/atomized/ortho14/story_05_iii_the_suicide_of_thought)
-- [Iv The Ethics Of Elfland](/testi/chesterton/atomized/ortho14/story_06_iv_the_ethics_of_elfland)
-- [Vii The Eternal Revolution](/testi/chesterton/atomized/ortho14/story_07_vii_the_eternal_revolution)
-- [Ix Authority And The Adventurer](/testi/chesterton/atomized/ortho14/story_08_ix_authority_and_the_adventurer)
+- [Preface](/testi/chesterton/atomized/ortho14#story_02_preface)
+- [Orthodoxy](/testi/chesterton/atomized/ortho14#story_03_orthodoxy)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">64.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">9.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.5</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

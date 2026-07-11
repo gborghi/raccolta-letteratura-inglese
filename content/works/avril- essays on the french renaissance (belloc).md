@@ -41,9 +41,8 @@ tags:
 
 ## Capitoli / Chapters
 
-- [DEDICATION](/testi/belloc/atomized/avril_essays_on_the_french_renaissance/story_01_dedication)
-- [CHARLES OF ORLEANS.](/testi/belloc/atomized/avril_essays_on_the_french_renaissance/story_02_charles_of_orleans)
-- [THE COMPLAINT.](/testi/belloc/atomized/avril_essays_on_the_french_renaissance/story_03_the_complaint)
+- [DEDICATION](/testi/belloc/atomized/avril_essays_on_the_french_renaissance#story_01_dedication)
+- [CHARLES OF ORLEANS.](/testi/belloc/atomized/avril_essays_on_the_french_renaissance#story_02_charles_of_orleans)
 
 ## Connections
 

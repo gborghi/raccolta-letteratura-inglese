@@ -31,18 +31,9 @@ tags:
 > [!abstract] 
 > A satirical novel set in a near-future 1953: a man landing in England loses all memory of his past and, taken for a great financier named John K. Petre, is swept into the worlds of finance, publicity and politics. Belloc lampoons the credulity of markets, press and public before the mere appearance of wealth and importance.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Chapter 1](/testi/belloc/atomized/mr_petre/chapter_01)
-- [Chapter 2](/testi/belloc/atomized/mr_petre/chapter_02)
-- [Chapter 3](/testi/belloc/atomized/mr_petre/chapter_03)
-- [Chapter 4](/testi/belloc/atomized/mr_petre/chapter_04)
-- [Chapter 5](/testi/belloc/atomized/mr_petre/chapter_05)
-- [Chapter 6](/testi/belloc/atomized/mr_petre/chapter_06)
-- [Chapter 7](/testi/belloc/atomized/mr_petre/chapter_07)
-- [Chapter 8](/testi/belloc/atomized/mr_petre/chapter_08)
-- [Chapter 9](/testi/belloc/atomized/mr_petre/chapter_09)
-- [Chapter 10](/testi/belloc/atomized/mr_petre/chapter_10)
+- [Mr. Petre](/testi/belloc/atomized/mr_petre#mr_petre)
 
 ## Connections
 

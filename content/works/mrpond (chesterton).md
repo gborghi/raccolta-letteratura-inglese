@@ -58,10 +58,9 @@ tags:
 > [!abstract] 
 > A 1937 collection of detective short stories in which the mild civil servant Mr Pond utters seemingly self-contradictory remarks that prove literally true, each unfolding into a mystery of crime, espionage and logical paradox.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [A Tall Story](/testi/chesterton/atomized/mrpond/story_04_a_tall_story)
-- [Louis; and shouted as if on parade:](/testi/chesterton/atomized/mrpond/story_05_louis_and_shouted_as_if_on_parade)
+- [MrPond](/testi/chesterton/atomized/mrpond#mrpond)
 
 ## Connections
 

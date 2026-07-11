@@ -30,12 +30,12 @@ tags:
 
 ## Testo / Text
 
-- [THE DEBATABLE CASE OF MRS. EMSLEY](/testi/conan_doyle/atomized/the_debatable_case_of_mrs_emsley/the_debatable_case_of_mrs_emsley)
+- [THE DEBATABLE CASE OF MRS. EMSLEY](/testi/conan_doyle/atomized/the_debatable_case_of_mrs_emsley#the_debatable_case_of_mrs_emsley)
 
 ## Parti / Parts
 
-- [Part 1](/testi/conan_doyle/atomized/the_debatable_case_of_mrs_emsley/part/part_01)
-- [Part 2](/testi/conan_doyle/atomized/the_debatable_case_of_mrs_emsley/part/part_02)
+- [Part 1](/testi/conan_doyle/atomized/the_debatable_case_of_mrs_emsley#part--part_01)
+- [Part 2](/testi/conan_doyle/atomized/the_debatable_case_of_mrs_emsley#part--part_02)
 
 ## Connections
 

@@ -28,7 +28,7 @@ tags:
 
 ## Testo / Text
 
-- [Preface to ‘Kai Lung’s Golden Hours’](/testi/belloc/atomized/preface_to_kai_lungs_golden_hours/preface_to_kai_lungs_golden_hours)
+- [Preface to ‘Kai Lung’s Golden Hours’](/testi/belloc/atomized/preface_to_kai_lungs_golden_hours#preface_to_kai_lungs_golden_hours)
 
 ## Connections
 

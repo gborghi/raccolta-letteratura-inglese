@@ -24,20 +24,20 @@ tags:
 
 ## Capitoli / Chapters
 
-- [DEDICATION.](/testi/belloc/atomized/more_beasts_for_worse_children/story_01_dedication)
-- [INTRODUCTION](/testi/belloc/atomized/more_beasts_for_worse_children/story_02_introduction)
-- [The Python](/testi/belloc/atomized/more_beasts_for_worse_children/story_03_the_python)
-- [The Welsh Mutton](/testi/belloc/atomized/more_beasts_for_worse_children/story_04_the_welsh_mutton)
-- [The Porcupine](/testi/belloc/atomized/more_beasts_for_worse_children/story_05_the_porcupine)
-- [The Scorpion](/testi/belloc/atomized/more_beasts_for_worse_children/story_06_the_scorpion)
-- [The Crocodile](/testi/belloc/atomized/more_beasts_for_worse_children/story_07_the_crocodile)
-- [The Vulture](/testi/belloc/atomized/more_beasts_for_worse_children/story_08_the_vulture)
-- [The Bison](/testi/belloc/atomized/more_beasts_for_worse_children/story_09_the_bison)
-- [The Viper](/testi/belloc/atomized/more_beasts_for_worse_children/story_10_the_viper)
-- [The Llama](/testi/belloc/atomized/more_beasts_for_worse_children/story_11_the_llama)
-- [The Chamois](/testi/belloc/atomized/more_beasts_for_worse_children/story_12_the_chamois)
-- [The Frozen Mammoth](/testi/belloc/atomized/more_beasts_for_worse_children/story_13_the_frozen_mammoth)
-- [The Microbe](/testi/belloc/atomized/more_beasts_for_worse_children/story_14_the_microbe)
+- [DEDICATION.](/testi/belloc/atomized/more_beasts_for_worse_children#story_01_dedication)
+- [INTRODUCTION](/testi/belloc/atomized/more_beasts_for_worse_children#story_02_introduction)
+- [The Python](/testi/belloc/atomized/more_beasts_for_worse_children#story_03_the_python)
+- [The Welsh Mutton](/testi/belloc/atomized/more_beasts_for_worse_children#story_04_the_welsh_mutton)
+- [The Porcupine](/testi/belloc/atomized/more_beasts_for_worse_children#story_05_the_porcupine)
+- [The Scorpion](/testi/belloc/atomized/more_beasts_for_worse_children#story_06_the_scorpion)
+- [The Crocodile](/testi/belloc/atomized/more_beasts_for_worse_children#story_07_the_crocodile)
+- [The Vulture](/testi/belloc/atomized/more_beasts_for_worse_children#story_08_the_vulture)
+- [The Bison](/testi/belloc/atomized/more_beasts_for_worse_children#story_09_the_bison)
+- [The Viper](/testi/belloc/atomized/more_beasts_for_worse_children#story_10_the_viper)
+- [The Llama](/testi/belloc/atomized/more_beasts_for_worse_children#story_11_the_llama)
+- [The Chamois](/testi/belloc/atomized/more_beasts_for_worse_children#story_12_the_chamois)
+- [The Frozen Mammoth](/testi/belloc/atomized/more_beasts_for_worse_children#story_13_the_frozen_mammoth)
+- [The Microbe](/testi/belloc/atomized/more_beasts_for_worse_children#story_14_the_microbe)
 
 ## Connections
 

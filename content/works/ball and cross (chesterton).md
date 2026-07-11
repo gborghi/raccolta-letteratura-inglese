@@ -76,24 +76,9 @@ tags:
 > [!abstract] 
 > A philosophical adventure novel in which a devout Catholic Highlander (MacIan) and an atheist (Turnbull) try to fight a duel over God's existence while a sceptical, indifferent modern society and the Satanic Professor Lucifer conspire to stop them, ending in an apocalyptic asylum fire; dramatizes faith vs doubt, good vs evil and the modern flight from belief.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [A Discussion Somewhat in the Air](/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air)
-- [The Religion of the Stipendiary Magistrate](/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra)
-- [Some Old Curiosities](/testi/chesterton/atomized/ball_and_cross/story_03_some_old_curiosities)
-- [The Peacemaker](/testi/chesterton/atomized/ball_and_cross/story_04_the_peacemaker)
-- [The Other Philosopher](/testi/chesterton/atomized/ball_and_cross/story_05_the_other_philosopher)
-- [The Village of Grassley-in-the-Hole](/testi/chesterton/atomized/ball_and_cross/story_06_the_village_of_grassley_in_the_hole)
-- [An Interlude of Argument](/testi/chesterton/atomized/ball_and_cross/story_07_an_interlude_of_argument)
-- [The Strange Lady](/testi/chesterton/atomized/ball_and_cross/story_08_the_strange_lady)
-- [The Swords Rejoined](/testi/chesterton/atomized/ball_and_cross/story_09_the_swords_rejoined)
-- [A Scandal in the Village](/testi/chesterton/atomized/ball_and_cross/story_10_a_scandal_in_the_village)
-- [A Museum of Souls](/testi/chesterton/atomized/ball_and_cross/story_11_a_museum_of_souls)
-- [The Dream of MacIan](/testi/chesterton/atomized/ball_and_cross/story_12_the_dream_of_macian)
-- [The Dream of Turnbull](/testi/chesterton/atomized/ball_and_cross/story_13_the_dream_of_turnbull)
-- [The Idiot](/testi/chesterton/atomized/ball_and_cross/story_14_the_idiot)
-- [The Last Parley](/testi/chesterton/atomized/ball_and_cross/story_15_the_last_parley)
-- [Dies Irae](/testi/chesterton/atomized/ball_and_cross/story_16_dies_irae)
+- [ball and cross](/testi/chesterton/atomized/ball_and_cross#ball_and_cross)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">73.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">17</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

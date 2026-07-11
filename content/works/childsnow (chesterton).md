@@ -39,7 +39,7 @@ tags:
 
 ## Testo / Text
 
-- [childsnow](/testi/chesterton/atomized/childsnow/childsnow)
+- [childsnow](/testi/chesterton/atomized/childsnow#childsnow)
 
 ## Connections
 

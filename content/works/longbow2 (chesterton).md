@@ -68,16 +68,9 @@ tags:
 > [!abstract] 
 > A collection of comic-fantastic tales in which impossible English idioms come literally true; eccentric Englishmen launch a distributist agrarian revolution, turning the world upside down in defence of the land.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Chapter 1](/testi/chesterton/atomized/longbow2/chapter_01)
-- [Chapter 2](/testi/chesterton/atomized/longbow2/chapter_02)
-- [Chapter 3](/testi/chesterton/atomized/longbow2/chapter_03)
-- [Chapter 4](/testi/chesterton/atomized/longbow2/chapter_04)
-- [Chapter 5](/testi/chesterton/atomized/longbow2/chapter_05)
-- [Chapter 6](/testi/chesterton/atomized/longbow2/chapter_06)
-- [Chapter 7](/testi/chesterton/atomized/longbow2/chapter_07)
-- [Chapter 8](/testi/chesterton/atomized/longbow2/chapter_08)
+- [Tales of the Long Bow](/testi/chesterton/atomized/longbow2#longbow2)
 
 ## Connections
 

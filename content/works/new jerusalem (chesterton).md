@@ -76,21 +76,9 @@ tags:
 > [!abstract] 
 > A 1920 travel book recording Chesterton's journey to Palestine and Jerusalem, weaving impressions of the Holy City with meditations on Christianity, Islam, Judaism, the Crusades, Zionism and the meaning of the pilgrim's quest.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Chapter 1](/testi/chesterton/atomized/new_jerusalem/chapter_01)
-- [Chapter 2](/testi/chesterton/atomized/new_jerusalem/chapter_02)
-- [Chapter 3](/testi/chesterton/atomized/new_jerusalem/chapter_03)
-- [Chapter 4](/testi/chesterton/atomized/new_jerusalem/chapter_04)
-- [Chapter 5](/testi/chesterton/atomized/new_jerusalem/chapter_05)
-- [Chapter 6](/testi/chesterton/atomized/new_jerusalem/chapter_06)
-- [Chapter 7](/testi/chesterton/atomized/new_jerusalem/chapter_07)
-- [Chapter 8](/testi/chesterton/atomized/new_jerusalem/chapter_08)
-- [Chapter 9](/testi/chesterton/atomized/new_jerusalem/chapter_09)
-- [Chapter 10](/testi/chesterton/atomized/new_jerusalem/chapter_10)
-- [Chapter 11](/testi/chesterton/atomized/new_jerusalem/chapter_11)
-- [Chapter 12](/testi/chesterton/atomized/new_jerusalem/chapter_12)
-- [Chapter 13](/testi/chesterton/atomized/new_jerusalem/chapter_13)
+- [New Jerusalem](/testi/chesterton/atomized/new_jerusalem#new_jerusalem)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">57.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.8</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26.3</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

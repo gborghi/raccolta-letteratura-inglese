@@ -37,11 +37,9 @@ tags:
 > [!abstract] 
 > A topographical and historical portrait of the county of Sussex, tracing how its geography — the South Downs, the Weald, the coastal harbours and marshes — shaped its settlement and history from prehistoric trackways through Roman, Saxon and Norman times. Belloc blends geology, history and affectionate landscape description into a study of local English character.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Part 1: THE PHYSICAL NATURE OF THE COUNTY](/testi/belloc/atomized/sussex/chapter_01_the_physical_nature_of_the_cou)
-- [Part 2: THE HISTORICAL DEVELOPMENT OF SUSSEX](/testi/belloc/atomized/sussex/chapter_02_the_historical_development_of)
-- [Part 3: THE INDIVIDUAL CHARACTER OF SUSSEX AND THE WAY TO SEE THE COUNTY](/testi/belloc/atomized/sussex/chapter_03_the_individual_character_of_su)
+- [Sussex](/testi/belloc/atomized/sussex#sussex)
 
 ## Connections
 

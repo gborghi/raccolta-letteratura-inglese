@@ -29,12 +29,12 @@ tags:
 
 ## Testo / Text
 
-- [THE HOLOCAUST OF MANOR PLACE](/testi/conan_doyle/atomized/the_holocaust_of_manor_place/the_holocaust_of_manor_place)
+- [THE HOLOCAUST OF MANOR PLACE](/testi/conan_doyle/atomized/the_holocaust_of_manor_place#the_holocaust_of_manor_place)
 
 ## Parti / Parts
 
-- [Part 1](/testi/conan_doyle/atomized/the_holocaust_of_manor_place/part/part_01)
-- [Part 2](/testi/conan_doyle/atomized/the_holocaust_of_manor_place/part/part_02)
+- [Part 1](/testi/conan_doyle/atomized/the_holocaust_of_manor_place#part--part_01)
+- [Part 2](/testi/conan_doyle/atomized/the_holocaust_of_manor_place#part--part_02)
 
 ## Connections
 

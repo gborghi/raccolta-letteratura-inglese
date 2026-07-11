@@ -34,7 +34,7 @@ tags:
 
 ## Testo / Text
 
-- [great-minimum](/testi/chesterton/atomized/great-minimum/great-minimum)
+- [great-minimum](/testi/chesterton/atomized/great-minimum#great-minimum)
 
 ## Connections
 

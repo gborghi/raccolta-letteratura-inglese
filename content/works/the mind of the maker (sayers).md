@@ -57,23 +57,11 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Chapter 1: Preface](/testi/sayers/atomized/the_mind_of_the_maker/chapter_01_preface)
-- [Chapter 2: The "Laws" of Nature and Opinion](/testi/sayers/atomized/the_mind_of_the_maker/chapter_02_the_laws_of_nature_and_opinion)
-- [Chapter 3: The Image of God](/testi/sayers/atomized/the_mind_of_the_maker/chapter_03_the_image_of_god)
-- [Chapter 4: Idea, Energy, Power](/testi/sayers/atomized/the_mind_of_the_maker/chapter_04_idea_energy_power)
-- [Chapter 5: The Energy Revealed in Creation](/testi/sayers/atomized/the_mind_of_the_maker/chapter_05_the_energy_revealed_in_creatio)
-- [Chapter 6: Free Will and Miracle](/testi/sayers/atomized/the_mind_of_the_maker/chapter_06_free_will_and_miracle)
-- [Chapter 7: The Energy Incarnate in Self-Expression](/testi/sayers/atomized/the_mind_of_the_maker/chapter_07_the_energy_incarnate_in_self_e)
-- [Chapter 8: Maker of All Things—Maker of Ill Things](/testi/sayers/atomized/the_mind_of_the_maker/chapter_08_maker_of_all_thingsmaker_of_il)
-- [Chapter 9: Pentecost](/testi/sayers/atomized/the_mind_of_the_maker/chapter_09_pentecost)
-- [Chapter 10: The Love of the Creature](/testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature)
-- [Chapter 11: Scalene Trinities](/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities)
-- [Chapter 12: Problem Picture](/testi/sayers/atomized/the_mind_of_the_maker/chapter_12_problem_picture)
-- [Chapter 13: Postscript: The Worth of the Work](/testi/sayers/atomized/the_mind_of_the_maker/chapter_13_postscript_the_worth_of_the_wo)
-- [Chapter 14: Appendix](/testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix)
+- [Chapter 1: Preface](/testi/sayers/atomized/the_mind_of_the_maker#chapter_01_preface)
+- [Chapter 7: The Energy Incarnate in Self-Expression](/testi/sayers/atomized/the_mind_of_the_maker#chapter_07_the_energy_incarnate_in_self_e)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-30.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">40.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">43.2</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">17%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">90.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">24.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">27.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">21%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">48.4</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 
@@ -112,20 +100,8 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Chapter 1: Preface](/testi/sayers/atomized/the_mind_of_the_maker/chapter_01_preface)
-- [Chapter 2: The "Laws" of Nature and Opinion](/testi/sayers/atomized/the_mind_of_the_maker/chapter_02_the_laws_of_nature_and_opinion)
-- [Chapter 3: The Image of God](/testi/sayers/atomized/the_mind_of_the_maker/chapter_03_the_image_of_god)
-- [Chapter 4: Idea, Energy, Power](/testi/sayers/atomized/the_mind_of_the_maker/chapter_04_idea_energy_power)
-- [Chapter 5: The Energy Revealed in Creation](/testi/sayers/atomized/the_mind_of_the_maker/chapter_05_the_energy_revealed_in_creatio)
-- [Chapter 6: Free Will and Miracle](/testi/sayers/atomized/the_mind_of_the_maker/chapter_06_free_will_and_miracle)
-- [Chapter 7: The Energy Incarnate in Self-Expression](/testi/sayers/atomized/the_mind_of_the_maker/chapter_07_the_energy_incarnate_in_self_e)
-- [Chapter 8: Maker of All Things—Maker of Ill Things](/testi/sayers/atomized/the_mind_of_the_maker/chapter_08_maker_of_all_thingsmaker_of_il)
-- [Chapter 9: Pentecost](/testi/sayers/atomized/the_mind_of_the_maker/chapter_09_pentecost)
-- [Chapter 10: The Love of the Creature](/testi/sayers/atomized/the_mind_of_the_maker/chapter_10_the_love_of_the_creature)
-- [Chapter 11: Scalene Trinities](/testi/sayers/atomized/the_mind_of_the_maker/chapter_11_scalene_trinities)
-- [Chapter 12: Problem Picture](/testi/sayers/atomized/the_mind_of_the_maker/chapter_12_problem_picture)
-- [Chapter 13: Postscript: The Worth of the Work](/testi/sayers/atomized/the_mind_of_the_maker/chapter_13_postscript_the_worth_of_the_wo)
-- [Chapter 14: Appendix](/testi/sayers/atomized/the_mind_of_the_maker/chapter_14_appendix)
+- [Chapter 1: Preface](/testi/sayers/atomized/the_mind_of_the_maker#chapter_01_preface)
+- [Chapter 7: The Energy Incarnate in Self-Expression](/testi/sayers/atomized/the_mind_of_the_maker#chapter_07_the_energy_incarnate_in_self_e)
 
 ## Connections
 

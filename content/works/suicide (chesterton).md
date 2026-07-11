@@ -30,7 +30,7 @@ tags:
 
 ## Testo / Text
 
-- [suicide](/testi/chesterton/atomized/suicide/suicide)
+- [suicide](/testi/chesterton/atomized/suicide#suicide)
 
 ## Connections
 

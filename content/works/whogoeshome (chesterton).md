@@ -33,7 +33,7 @@ tags:
 
 ## Testo / Text
 
-- [WhoGoesHome](/testi/chesterton/atomized/whogoeshome/whogoeshome)
+- [WhoGoesHome](/testi/chesterton/atomized/whogoeshome#whogoeshome)
 
 ## Connections
 

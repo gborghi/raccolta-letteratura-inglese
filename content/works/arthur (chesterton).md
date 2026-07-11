@@ -35,7 +35,7 @@ tags:
 
 ## Testo / Text
 
-- [arthur](/testi/chesterton/atomized/arthur/arthur)
+- [arthur](/testi/chesterton/atomized/arthur#arthur)
 
 ## Connections
 

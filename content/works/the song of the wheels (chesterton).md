@@ -36,7 +36,7 @@ tags:
 
 ## Testo / Text
 
-- [The_Song_of_the_Wheels](/testi/chesterton/atomized/the_song_of_the_wheels/the_song_of_the_wheels)
+- [The_Song_of_the_Wheels](/testi/chesterton/atomized/the_song_of_the_wheels#the_song_of_the_wheels)
 
 ## Connections
 

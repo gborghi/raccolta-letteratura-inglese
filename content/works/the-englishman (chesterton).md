@@ -33,7 +33,7 @@ tags:
 
 ## Testo / Text
 
-- [the-englishman](/testi/chesterton/atomized/the-englishman/the-englishman)
+- [the-englishman](/testi/chesterton/atomized/the-englishman#the-englishman)
 
 ## Connections
 

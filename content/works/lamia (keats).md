@@ -32,8 +32,8 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Part I](/testi/keats/long/lamia/section_01_part_i)
-- [Part II](/testi/keats/long/lamia/section_02_part_ii)
+- [Part I](/testi/keats/long/lamia#section_01_part_i)
+- [Part II](/testi/keats/long/lamia#section_02_part_ii)
 
 ## Connections
 

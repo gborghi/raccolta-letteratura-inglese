@@ -55,12 +55,9 @@ tags:
 > [!abstract] 
 > A book-length critical survey of Victorian literature, treating the Victorian Compromise, its great novelists and poets, and the breakup of that compromise; argues that a writer's creed and moral attitude are inseparable from his art.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Chapter 1](/testi/chesterton/atomized/victorian_age/chapter_01)
-- [Chapter 2](/testi/chesterton/atomized/victorian_age/chapter_02)
-- [Chapter 3](/testi/chesterton/atomized/victorian_age/chapter_03)
-- [Chapter 4](/testi/chesterton/atomized/victorian_age/chapter_04)
+- [Victorian Age](/testi/chesterton/atomized/victorian_age#victorian_age)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">57.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.7</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">22.3</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

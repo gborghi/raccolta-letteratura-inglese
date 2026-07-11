@@ -73,18 +73,9 @@ tags:
 > [!abstract] 
 > Chesterton's biography of St. Francis, reading the saint's life of poverty, humility, love of nature and conversion as a divine paradox; an apologetic and devotional study.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Chapter 1](/testi/chesterton/atomized/st_francis/chapter_01)
-- [Chapter 2](/testi/chesterton/atomized/st_francis/chapter_02)
-- [Chapter 3](/testi/chesterton/atomized/st_francis/chapter_03)
-- [Chapter 4](/testi/chesterton/atomized/st_francis/chapter_04)
-- [Chapter 5](/testi/chesterton/atomized/st_francis/chapter_05)
-- [Chapter 6](/testi/chesterton/atomized/st_francis/chapter_06)
-- [Chapter 7](/testi/chesterton/atomized/st_francis/chapter_07)
-- [Chapter 8](/testi/chesterton/atomized/st_francis/chapter_08)
-- [Chapter 9](/testi/chesterton/atomized/st_francis/chapter_09)
-- [Chapter 10](/testi/chesterton/atomized/st_francis/chapter_10)
+- [St Francis](/testi/chesterton/atomized/st_francis#st_francis)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">59.2</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14.2</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">24</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

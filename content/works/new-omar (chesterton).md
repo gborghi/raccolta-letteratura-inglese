@@ -35,7 +35,7 @@ tags:
 
 ## Testo / Text
 
-- [new-omar](/testi/chesterton/atomized/new-omar/new-omar)
+- [new-omar](/testi/chesterton/atomized/new-omar#new-omar)
 
 ## Connections
 

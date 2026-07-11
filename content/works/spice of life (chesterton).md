@@ -126,14 +126,9 @@ tags:
 > [!abstract] 
 > A wide-ranging collection of literary and religious essays (on Dickens, Shakespeare's Macbeth and Lear, detective stories, fragments, faith and place), the title essay written months before Chesterton's death. Literary criticism and the joy of life.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Part 5: The Spice of Life](/testi/chesterton/atomized/spice_of_life/chapter_01_the_spice_of_life)
-- [Part 1: LITERATURE IN GENERAL](/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general)
-- [Part 2: PARTICULAR BOOKS AND WRITERS](/testi/chesterton/atomized/spice_of_life/chapter_03_particular_books_and_writers)
-- [Part 3: THOUGHT AND BELIEF](/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief)
-- [Part 4: AT HOME AND ABROAD](/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad)
-- [Part 5: THE SPICE OF LIFE](/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life)
+- [Part 5: The Spice of Life](/testi/chesterton/atomized/spice_of_life#chapter_01_the_spice_of_life)
 
 ## Connections
 

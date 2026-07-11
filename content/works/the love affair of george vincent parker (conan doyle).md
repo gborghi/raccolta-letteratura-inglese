@@ -32,12 +32,12 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Volume 1](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker/chapter_01)
-- [Volume 2](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker/chapter_02)
-- [Volume 3](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker/chapter_03)
-- [Volume 4](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker/chapter_04)
-- [Volume 5](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker/chapter_05)
-- [Volume 6](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker/chapter_06)
+- [Volume 1](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker#chapter_01)
+- [Volume 2](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker#chapter_02)
+- [Volume 3](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker#chapter_03)
+- [Volume 4](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker#chapter_04)
+- [Volume 5](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker#chapter_05)
+- [Volume 6](/testi/conan_doyle/atomized/the_love_affair_of_george_vincent_parker#chapter_06)
 
 ## Connections
 

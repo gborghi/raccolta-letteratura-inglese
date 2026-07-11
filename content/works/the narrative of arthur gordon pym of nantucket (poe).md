@@ -37,30 +37,13 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Chapter 2](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_01)
-- [Chapter 3](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_02)
-- [Chapter 4](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_03)
-- [Chapter 5](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_04)
-- [Chapter 6](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_05)
-- [Chapter 7](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_06)
-- [Chapter 8](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_07)
-- [Chapter 9](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_08)
-- [Chapter 10](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_09)
-- [Chapter 11](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_10)
-- [Chapter 12](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_11)
-- [Chapter 13](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_12)
-- [Chapter 14](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_13)
-- [Chapter 15](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_14)
-- [Chapter 16](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_15)
-- [Chapter 17](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_16)
-- [Chapter 18](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_17)
-- [Chapter 19](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_18)
-- [Chapter 20](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_19)
-- [Chapter 21](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_20)
-- [Chapter 22](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_21)
-- [Chapter 23](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_22)
-- [Chapter 24](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_23)
-- [Chapter 25](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_24)
+- [Chapter 10](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket#chapter_09)
+- [Chapter 15](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket#chapter_14)
+- [Chapter 16](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket#chapter_15)
+- [Chapter 17](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket#chapter_16)
+- [Chapter 19](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket#chapter_18)
+- [Chapter 21](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket#chapter_20)
+- [Chapter 23](/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket#chapter_22)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">57.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">27.1</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

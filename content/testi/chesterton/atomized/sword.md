@@ -1,0 +1,1136 @@
+---
+title: "Sword"
+author: "Chesterton"
+unitType: work
+parentWork: "works/sword-(chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+<div class="atom-reader" data-work="testi/chesterton/atomized/sword" data-author="Chesterton" data-workhref="works/sword-(chesterton)"></div>
+
+
+<span class="atom-split" data-atom="sword" data-title="Sword" data-chapter="" data-kind="intro"></span>
+
+
+THE [[Sword|SWORD]] OF WOOD [1928]
+
+DOWN in the little village of Grayling-Abbot, in Somerset, men did
+not know that the world we live in had begun.  They did not know
+that all we have come to call 'modern' had silently entered England,
+and changed the air of it.  [[Well]], they did not know it very clearly
+even in [[London]]:  though one or two shrewd men like my Lord Clarendon,
+and perhaps Prince Rupert, with his chemicals and his sad eyes,
+may have had a glimmer of it.
+
+On the contrary, by the theory of the thing, the old world had returned.
+Christmas could be kept again; the terrible army was disbanded;
+the swarthy young man with the sour, humorous face, who had been cheered
+from Dover to Whitehall, brought back in him the [[Blood|blood]] of kings.
+Every one was saying (especially in Grayling-Abbot) that now it would
+be Merry England again.  But the swarthy young man knew better.
+The Merry Monarch knew he was not meant to make Merry England.
+If he treated his own life as a [[Comedy|comedy]], it was for a philosophical
+reason; because [[Comedy|comedy]] is the only poetry of compromise.
+And he was a compromise; and he knew it.  Therefore he turned,
+like Prince Rupert, to the chemicals; and played with the little
+toys that were to become the terrible engines of modern science.
+So he might have played with tiger-cubs, so long as they were as small
+as his spaniels.
+
+But down in Grayling-Abbot it was much easier to believe that old
+England had been restored, because it had never, in any serious sense,
+been disturbed.  The fierce religious quarrels of the seventeenth
+century had only stirred that rustic neighbourhood to occasional
+panics of [[Witch|witch]]-burning. And these, though much rarer in the
+medieval society, were not inconsistent with it.  The squire,
+Sir Guy Griffin, was famous as a fighter quite in the medieval style.
+Though he had commanded a troop under Newcastle in the Civil Wars
+with conspicuous [[success]], the local legend of his bodily prowess
+eclipsed any national chronicle of his military capacity.
+Through two or three counties round Grayling-Abbot, his reputation
+for swordsmanship had quite eclipsed his reputation for generalship.
+So, in the Middle Ages, it happened that Coeur-de-[[Lion]]'s hand could
+keep his head:  it happened that Bruce's hand could keep his head.
+And in both cases the head has suffered unfairly from the glorification
+of the hand.
+
+The same almost unbroken medieval tradition even clung round
+the young schoolmaster, Dennis Tryon, who was just locking up his
+little school for the last [[Time|time]]; having been transferred to a private
+post at Sir Guy's own [[house]], to teach Sir Guy's six hulking sons,
+who had learned their father's skill with the [[Sword|sword]], and hitherto
+declined to learn anything else.  In numberless and nameless ways,
+Tryon expressed the old traditions.  He was not a Puritan,
+yet he wore black clothes because he might have been a priest.
+Though he had learned to fence and [[Dance|dance]] at College, like [[Milton]],
+he was plainly dressed and weaponless; because the vague legend
+remained that a student was a sort of clerk, and a clerk was a sort
+of clergyman.  He wore his brown hair long, like a Cavalier.
+But as it was his own hair, it was long and straight:
+while the Cavaliers were already beginning to wear other people's hair,
+which was long and curly.  In that strict brown frame, his face
+had the boyish, frank, rather round appearance that may be
+seen in old miniatures of Falkland or the Duke of Monmouth.
+His favourite authors were George Herbert and Sir Thomas Browne;
+and he was very young.
+
+He was addressing a last word to a last pupil, who happened to be
+lingering outside the school--a minute boy of seven, playing with one
+of those wooden swords, made of two lengths of lath nailed across
+each other, which boys have played with in all centuries.
+
+'Jeremy Bunt,' said Tryon, with a rather [[Melancholy|melancholy]] playfulness,
+'your [[Sword|sword]] is, as it seems to me, much an improvement on most we
+have lately looked on.  I observe its end is something blunt;
+doubtless for that gallant reason that led [[Orlando]] to blunt
+his [[Sword|sword]] when fighting the lady, whose name, in the ingenious
+[[Romance|romance]], escapes me.  Let it suffice you, little one.
+It will kill the Giants, like Master Jack's [[Sword|sword]] of sharpness,
+at least as [[Well|well]] as the swords of a standing army ever will.
+If you be minded to save the Lady Angelica from the ogre, it will
+turn the dragon to stone as quick as any [[Sword|sword]] of steel would do.
+And, oh, Jeremy, if the [[Fable|fable]] be false, the moral is not false.
+If a little boy be good and brave, he should be great, and he may be.
+If he be bad and base, he should be beaten with a staff'--
+here Tryon tapped him very softly on the shoulders with a long
+black walking-cane that was commonly his only ferule--'but in
+either way, to my thinking, your [[Sword|sword]] is as good as any other.
+Only, dear Jeremy'--and he bent over the [[Child|child]] swiftly, with a sudden
+tenderness--'always remember your kind of [[Sword|sword]] is stronger if one
+holds it by the wrong end.'
+
+He reversed the little [[Sword|sword]] in the [[Child|child]]'s hand, making it
+a wooden [[Cross|cross]], and then went striding up the [[Road|road]] like the [[Wind|wind]],
+leaving the staring boy behind.
+
+When he became conscious that human feet were following him,
+he knew they could not possibly be the feet of the boy.
+He looked round; and Jeremy was still hovering in the distance;
+but the rush of feet came from a far different cause.
+
+A young lady was hurrying by close under the high hedge that was
+nearly as old as the Plantagenets.  Her costume was like his own,
+in the sense that it had the quietude of the Puritan with the cut
+of the Cavalier.  Her dress was as dark as Barebones could
+have asked; but the ringlets under her hood were yellow and curly,
+for the same reason that his own hair was brown and straight:
+because they were her own.  Nothing else was notable about her,
+except that she was pretty and seemed rather in a hurry;
+and that her delicate profile was pointed resolutely up the [[Road|road]].
+The face was a little pale.
+
+Tryon turned again to look back on his tracks; and this [[Time|time]] saw
+another figure more formidable than Jeremy with the wooden [[Sword|sword]].
+
+A tall, swaggering figure, almost black against the sunlight,
+was coming down the [[Road|road]] with a rapidity that almost amounted to a run.
+He had a wide hat with feathers, and long, luxuriant hair,
+in the latest [[London]] manner; but it was not any such feathers
+or flourishes that arrested Tryon's attention.  He had seen old
+Sir Guy Griffin, who still wore his wild, white hair half-way down
+his back, to show (very unnecessarily) that he was not a Puritan.
+He had seen Sir Guy stick in his hat the most startling
+cock's feathers, but that was because he had no other feathers.
+But Tryon knew at a glance that Sir Guy would never have come forward
+in such extraordinary attitudes.  The tall, fantastic man actually
+drew his [[Sword|sword]] as he rushed forward; and offered it like a lance to be
+splintered as from the end of a long tilting-yard. Such frolics may have
+happened a hundred times round the 'Cock' of [[Buckingham]] and Dorset.
+But it was an action utterly unknown to the gentry round Grayling-Abbot,
+when they settled affairs of [[Honour|honour]].
+
+While he was still looking up the [[Road|road]] at the advancing figure,
+he found himself breathlessly addressed by the escaping girl.
+
+'You must not fight him,' she said, 'he has beaten everybody.
+He has beaten even Sir Guy, and all his sons.'  She cast her eyes
+about him and cried out in horror:  'And where is your [[Sword|sword]]?'
+
+'With my spurs, mistress,' replied the schoolmaster, in the best
+style of Ariosto.  'I have to win them both.'
+
+She looked at him rather wildly and said:  'But he has never been
+beaten in swordsmanship.'
+
+Tryon, with a smile, made a salute with his black walking-stick. 'A
+man with no [[Sword|sword]],' he said, 'can never be beaten in swordsmanship.'
+
+The girl stood for one moment staring at him as if, even in that
+scene of scurry and chase, [[Time|time]] were suspended for a flash.
+Then she seemed to leap again like a hunted thing and plunged on:
+and it was only some hundred yards higher up the [[Road|road]] that she
+again halted, hesitated, and looked back.  In much the same manner
+Master Jeremy Bunt, who had not the faintest intention of deserting
+the delightful school in which he was no longer required to do any work,
+actually ran forward.  Perhaps their curiosity ought to be excused.
+For they were certainly looking at the most astounding duel
+the world had ever seen.  It was the duel of the naked [[Sword|sword]]
+and the walking-stick: probably the only merely defensive battle
+ever fought on this earth.
+
+The day was full of sun and [[Wind|wind]], the two chief ingredients
+of a glorious day; but till that moment even Mr. Tryon,
+though of a [[Pastoral|pastoral]] and poetical turn, had not noticed anything
+specially splendid in the sky or landscape.  Now the [[Beauty|beauty]] of this
+world came upon him with the violence of a [[Supernatural|supernatural]] vision;
+for he was very certain it was a vision that he soon must lose.
+He was a good fencer with the foil in the Collegiate manner.
+But it was not to be expected that any human being could emerge victorious
+from a prolonged fight in which he had no means of retaliation;
+and especially as his opponent, whether from drink or devilry,
+was clearly fighting to the [[Death|death]].  Tryon could not be certain that
+the wild creature even knew that his [[Sword|sword]] only struck against wood.
+
+Dennis Tryon took in every glory of the good English land,
+and the still more glorious English climate, with the corner of
+his eye; he took it in with that same swift, indirect and casual,
+yet absolutely substantial way in which [[Nature]] is noticed in the old
+English poets that he loved.  For the great poets of England,
+from Chaucer to Dryden, had a trick that has since been lost,
+the trick of implying the [[Nature|nature]] of a scene without apparently even
+attempting to describe it.  Thus, any one reading the line 'Pack,
+clouds, away,' knows at once it is the kind of clouds called _cumuli,_
+and could not possibly be meant for level or streaky clouds.
+Or any one reading [[Milton]]'s line about the princess's turret
+'bosomed high in tufted trees' knows it means partly leafless trees,
+as in early [[spring]] or [[Autumn|autumn]], when the edge of the forest shows
+soft against the sky, like a brush or broom, sweeping heaven.
+With the same sort of subconscious solidity, Tryon realized
+the rounded and half-rosy morning clouds that curled or huddled
+in the blue above the downs; and the mute [[Mercy|mercy]] of the forests,
+that faded from grey to purple before they mixed with heaven.
+[[Death]], in a hat with black plumes, was shooting a thousand shining
+arrows at him every instant; and he had never loved the world
+so much before.
+
+For indeed that one streak of white steel came at him like a shower
+of shining arrows.  He had to make a new parry for every new lunge;
+and, with each, perversely remembered some episode of College fencing.
+When the bright point of [[Death|death]] missed his heart and slid
+past his elbow, he saw suddenly a meadow beside the Thames.
+When he seemed blinded, by the very light on that [[Lightning|lightning]] blade,
+leaping at his eyes, but passing over his shoulder, he saw the old
+lawn at Merton as if its grass had sprung out of the [[Road|road]] around him.
+But he began more and more to realize something else.
+He realized that if he had held a real [[Sword|sword]], he could have killed
+his enemy six times over with the _riposte._ When the heart-thrust
+was turned, he could have put his [[Sword|sword]] like a carving-knife
+into a pudding-if it had been a [[Sword|sword]].  When the parry protected
+his eyes, nothing else could have protected his opponent,
+except the unpenetrating quality of a walking-stick. His brain was
+of the very clear kind that can play two games of chess at once.
+While still whirling his black walking-stick in a complicated but
+impromptu clockwork of fence, he saw quite clearly a logical alternative.
+Either the man thought he was fighting someone with a [[Sword|sword]]:
+in which case he was a very bad fencer.  Or else he knew he was
+fighting someone with a stick, in which case he was a very bad man:
+or (as the more timid modern phrase goes) a very bad sportsman.
+
+He acted suddenly in a way adapted to either case.  He introduced
+into his swordplay a stroke of single-stick, also learned at College,
+jerking his stick up so as to strike and jar the man's elbow; and then,
+before the arm could recover its nerve, smote the [[Sword|sword]] clean out of
+the hand.  A look at the man's black, bewildered expression was enough.
+Tryon was now quite certain the man's advantage had only been
+in his [[Sword|sword]].  He was also quite certain the man knew it.
+With all the rush of his released romanticism, which roared
+like the [[Wind|wind]], and rolled like the clouds, and blazed like the sun
+which he had thought to see no more, he sprang forward and pinned
+the man by the throat, with a shout of laughter.  Then he said,
+with more restrained [[Humour|humour]], what he had said to the little boy
+up the [[Road|road]].
+
+'If he be bad and base,' said Tryon, 'he should be beaten with a staff.'
+And whirling the walking-stick round his head, he laid three thundering
+and echoing thwacks across the shoulders of his disarmed enemy,
+and walked off up the [[Road|road]] again like the [[Wind|wind]].
+
+He did not notice further what his murderous enemy might attempt,
+but he was honestly puzzled about the conduct of the crowd.
+For, by this [[Time|time]], there was a very considerable crowd.
+The [[Sword|sword]]-bearing Jeremy was quite prominent in the throng behind him;
+the lady with the golden curls and the sensitive profile was herself
+pausing a moment on the outskirts of the throng in front.
+
+As he started up the [[Road|road]] again, the mob set up a roar,
+redoubled and quadrupled, and several gentlemen present whirled
+their plumed hats and shouted observations he could not hear.
+What was even more extraordinary, a great part of the crowd
+(including the young lady, who vanished early) appeared to be
+disappearing up the [[Road|road]], as if bringing news of some great
+victory like Agincourt.
+
+By the [[Time|time]] he came from Grayling-Abbot to Grayling-le-Griffin,
+the next village, there were ten heads at every cottage [[Window|window]];
+and girls threw [[Flowers|flowers]], that missed him and fell on the [[Road|road]].
+By the [[Time|time]] he came to the outskirts of the Park, with the stone griffins,
+there were triumphal arches.
+
+'It seems that I was not a little hasty with Master Bunt,' said Tryon
+to himself, with a puzzled smile.  'It is plain I have fallen into
+the Kingdom of [[Queen]] Mab.  It is I, and not Master Jeremy, who have,
+in some sense, saved Angelica from the dragon.  I was rather more
+embarrassed in the matter of arms, and she rather less embarrassed
+in the matter of attire, and there, truly, the difference seems to end.
+But the strangest thing of all is that, whatever I have done,
+I have done it with a [[Sword|sword]] of wood, like little Jeremy's.'
+
+In his academic reflections, he lifted his long black stick to look
+at it; and, as he did so, the cry of many crowds broke about him
+like a cannonade.  For he had come to the very doors of Griffin Grange,
+to which he had been summoned on his much milder tutorial errand.
+And the great Sir Guy himself came out at the entrance.
+He might even have justified his mythic name, allowing for certain
+alterations of accident.  For a griffin was supposed to be a mixture
+of the [[Lion|lion]] and the eagle; and certainly Sir Guy's mane might have
+been a [[Lion|lion]]'s, but that it was largely white; and his nose might
+have been an eagle's, but that it was partly red.
+
+His face had at first a dangerous and even dissipated look,
+and Tryon had one momentary [[Doubt|doubt]] about the reason of his defeat.
+But when he looked again at Sir Guy's erect figure and animated eye;
+when he rather timidly accepted his decisive handshake and received
+congratulations in his clear and comfortable voice, the [[Doubt|doubt]] vanished.
+And the young schoolmaster felt even more bewildered in
+receiving the equally adoring, though rather more gaping,
+congratulations of the six strenuous sons.  At the first glance,
+Tryon felt something like [[Despair|despair]] about their Greek and Latin.
+But he also felt an increasing conviction that any of them could
+have knocked him anywhere with a cudgel.  His own triumph began
+to seem as fantastic and incredible as his triumphal arches.
+
+'Assuredly it is a strange matter,' he said to himself in his simplicity.
+'I was a tolerable good fencer at Merton, but not excellent.
+Not so good as Wilton or [[smith|Smith]] or old [[King]] of [[Christ]] Church.
+It is not to be believed that men like these could not beat him
+with their great swords, when I could beat him with a stick.
+This is some jest of the great gentry, as in the ingenious tale
+of Master Cervantes.'
+
+He therefore received the uproarious plaudits of old Griffin
+and his sons with some reserve; but, after a little [[Time|time]],
+it was hard for one so simple not to perceive their simplicity.
+They really did regard him, as little Jeremy would have regarded him,
+as a fairy-tale [[Hero|hero]] who had freed their valley from an ogre.
+The people at the windows had not been conspirators.
+The triumphal arches had not been practical jokes.  He was really
+the god of the countryside and he had not a notion why.
+
+Three things convinced him finally of the reality of his reputation.
+One was the mysterious fact that the young Griffins (that brood
+of mythic monsters) really made some attempt to learn.
+Humphrey, the eldest and biggest, got the genitive of _quis_ right
+the third [[Time|time]], though wrong again the fourth, fifth, and sixth.
+The attempts of Geoffrey to distinguish between _fingo_ and _figo_
+would have moved a heart of stone:  and Miles, the youngest,
+was really interested in the verb _ferre;_ though (being a
+waterside character) he had some tendency to end it with a 'y.'
+Underneath all this exceptional mental [[Ambition|ambition]], Tryon could
+see the huge, silent respect which savages and schoolboys feel
+everywhere for one who has 'done' something in the bodily way.
+The old rural and real aristocracy of England had not that rather cold
+and clumsy class-consciousness we now call the public-school spirit;
+and they enjoyed sports instead of worshipping them.  But boys
+are the same in all ages, and one of their sports is [[Hero|hero]]-worship.
+
+The next and yet more fascinating fact was Sir Guy.
+He was not, it was clear, in the common sense an amiable man.
+Just as the slash he had at the battle of Newbury made his
+eagle face almost as ugly as it was handsome, so the neglects
+and disappointments of his once promising military career had
+made his tongue and temper as bitter as they were sincere.
+Yet Tryon felt he owed the very knowledge of such an attitude
+to a confidence the old man would not have reposed in other people.
+
+'The [[King]] hath his own again,' old Griffin would say gloomily.
+'But I think it is too late.  Indeed it might nigh as [[Well|well]] be
+the [[King of France]] come to rule us as the [[King]] of England.
+He hath brought back with him French women that act in stage plays
+as if they were boys; and tricks fit for pothecaries or conjurers
+at a fair, and tricks like this fellow's that twitched away my [[Sword|sword]],
+and every one else's--till he met his master, thank God.'
+And he smiled at Tryon, sourly, but with respect.
+
+'Is the gentleman I met,' asked Tryon, rather timidly,
+one from the [[Court]]?'
+
+'Yes,' answered the old man.  'Did you look at his face?'
+
+'Only his eyes,' said the fencer, smiling; 'they are black.'
+
+'His face is painted,' said Griffin.  'That is the sort of thing they
+do in [[London]].  And he wears a pile of false hair out of a barber's;
+and walks about in it, like the [[house]] of a Jack-in-the Green.
+But his was the best [[Sword|sword]], as old Noll's was the best army.
+And what could we do?'
+
+The third fact, which affected Dennis Tryon most deeply of all, was a
+glimpse or two of the girl he had saved from the obstreperous courtier.
+It appeared she was the parson's daughter, one Dorothy Hood,
+who was often in and out of the Grange, but always avoided him.
+He had every sort of delicacy himself; and a comprehension of her
+attitude made him finally certain of his own inexplicable importance.
+If this had been, as he first thought, a trick played on him
+in the style of the Duke and the Tinker, so charming a girl
+(and he thought her more charming every [[Time|time]] she flashed down a
+corridor or disappeared through a door) would certainly have been
+set to draw him on.  If there was a conspiracy, she must be in it;
+and her part in it would be plain.  But she was not playing the part.
+He caught himself rather wishing she were.
+
+The last stroke came when he heard her saying to Sir Guy,
+by the accident of two open doors:  'All say, 'twas witchcraft;
+and that God helped the young gentleman only because he was good, and--'
+
+He walked wildly away.  He was the kind of academic cavalier,
+who had learnt all worldly manners in an unworldly cloister.
+To him, therefore, eavesdropping was in all cases, horrible;
+in her case, damnable.
+
+On one occasion he plucked up his [[Courage|courage]] to stop and thank her
+for having warned him of the danger of the duel.
+
+Her delicate, pale face, always tremulous, became positively troubled.
+'But then I did not know,' she said.  'I knew you were not afraid.
+But I did not know then you were fighting the devils.'
+
+'Truly, and I do not know it now,' he answered.  'By my thinking,
+I was fighting one man, and no such great fighting at that.'
+
+'Everybody says it was the devils,' she said with a beautiful simplicity.
+'My father says so.'
+
+When she had slipped away, Dennis was left meditating:  and a new
+and rather grim impression grew stronger and stronger upon him.
+The more he heard from servants or strangers, the clearer it
+was that the local legend was hardening into a tale of himself
+as exorcist breaking the spell of a warlock.
+
+The youngest boy, Miles, who had been (as usual) down by the [[River|river]],
+said the villagers were walking along the bank, looking for the old
+pool where witches were drowned.  Humphrey said it would be no good
+if they found it, for the tall man with the painted face had gone back
+to [[London]].  But an hour later, Geoffrey came in with other news:
+the wicked wizard had gone out of Grayling, but the mob had stopped
+him on the [[Road|road]] to Salisbury.
+
+When Tryon bestirred himself with curiosity and alarm and
+looked out of the Grange gates he found fearful confirmation,
+almost in the image of a place of pestilence or a [[City|city]] of the dead.
+The whole population of the two villages of Grayling (save for such
+non-combatants as the wooden-sworded Bunt) had vanished from their
+streets and houses.  They returned in the dark hour before [[Dawn|dawn]];
+and they brought with them the man with the [[Magic|magic]] [[Sword|sword]].
+
+Men in modern England, who have never seen a revolution,
+who have never seen even a real mob, cannot imagine what the capture
+of a [[Witch|witch]] was like.  It was for all the populace of that valley
+a vast rising against an emperor and oppressor, a being taller,
+more terrible, more universal, than any one would have called
+either Charles I or Cromwell, even in jest.  It was not,
+as the modern people say, the worrying of some silly old woman.
+It was for them a revolt against Kehama, the Almighty Man.  It was
+for them a rebellion of the good angels after the victory of [[Satan]].
+Dorothy Hood was sufficiently frightened of the mob to take Tryon's
+hand in the crowd, and hold it in a way that made them understand
+each other with an intimate tenderness never afterwards dissolved.
+But it never occurred to her to be sorry for the warlock.
+
+He was standing on the [[River|river]] bank, with his hands tied behind him,
+but the [[Sword|sword]] still at his side; no one feeling disposed to meddle
+with it.  His peruke had been torn off; and his cropped head seemed
+to make more glaring and horrible the unnatural colours of his face.
+It was like some painted demon mask.  But he was quite composed,
+and even contemptuous.  Every now and then people threw things at him,
+as at one in the pillory; even little Jeremy Bunt flinging his
+wooden [[Sword|sword]], with all the enthusiasm of the Children's Crusade.
+But most things missed him and fell into the flowing [[River|river]] behind,
+into which (there could be little [[Doubt|doubt]]) he himself was to be
+flung at last.
+
+Then stood up for an instant in the stormy light, that rare but
+real spirit, for whose sake [[Alone|alone]] men have endured aristocracy,
+or the division of man from man.  Sir Guy's scarred face looked
+rather unusually sulky, or even spiteful; but he turned to his
+bodyguard of sons.  'We must get him back safe to the Grange,'
+he said sourly; 'you boys have all your swords, I think.
+You had best draw them.'
+
+'Why?' asked the staring Humphrey.
+
+'Why,' answered his father, 'because they are conquered swords,
+like my own.'  And he drew his long blade, that took the white
+light of the morning.
+
+'Boys,' he said, 'it is in the hand of God if he be warlock or no.
+But is it to be said of our [[Blood|blood]] that we brought crowds and clubs
+to kill a man who had whipped each one of us fairly with the [[Sword|sword]]?
+Shall men say that when Griffins met their match they whined about [[Magic|magic]]?
+Make a ring round him, and we will bring him alive through
+a thousand [[Witch|witch]]-smellers.'
+
+Already a half-ring of naked swords had swung round the victim
+like a spiked necklace.  In those days mobs were much bolder
+against their masters than they are to-day. But even that mob
+gave to the Griffins a military reputation beyond their mere
+territorial rank; and the parties were thus the more equal.
+There was no [[Sword|sword]] in that crowd better than a Griffin [[Sword|sword]];
+except the [[Sword|sword]] that hung useless at the hip of a pinioned man.
+
+Before the next moment, which must have been [[Blood|blood]] and destruction,
+the man with the useless [[Sword|sword]] spoke.  'If some gentleman,'
+he said with marmoreal calm, 'will but put a hand in the pocket
+of my doublet, I think bloodshed will be spared.'
+
+There was a long [[Silence|silence]]; and every one looked at Dennis Tryon:
+the man who had not feared the wizard.  Every one included Dorothy;
+and Dennis stepped forward.  He found a folded piece of paper
+in the doublet, opened it and read it with more and more [[Wonder|wonder]] on
+his round young face.  At the third sentence he took his hat off.
+At this the crowd stared more and more:  it had fallen suddenly silent
+and all were conscious of a change and a cooling in that intense air.
+
+'It would appear,' he said at last, 'that this is a privy
+letter from His Majesty, which I will not read in entirety.
+But it advises and permits Sir Godfrey Skene to practise with the new
+Magnetic [[Sword]] which the Royal Society has for some little [[Time|time]]
+attempted to manufacture in pursuance of a suggestion of Lord Verulam,
+the founder of our Natural [[philosophy|Philosophy]].  The whole blade is magnetized;
+and it is thought it may even pull any other iron weapon out
+of the hand.'
+
+He paused a moment, in some embarrassment, and then said:
+'It is added that only a weapon of wood or such other material
+could be used against it.'
+
+Sir Guy turned to him suddenly and said:  'Is that what you
+call Natural [[philosophy|Philosophy]]?'
+
+'Yes,' replied Tryon.
+
+'I thank you,' said Griffin.  'You need not teach it to my sons.'
+
+Then he strode towards the prisoner, and rent the [[Sword|sword]] away,
+bursting the belt that held it.
+
+'If it were not His Majesty's own hand,' he said, 'I would throw
+you with it after all.'
+
+The next instant the Magnetic [[Sword]] of the Royal Society vanished
+from men's view for ever; and Tryon could see nothing but Jeremy's
+little [[Cross|cross]] of wood heaving with the heaving stream.
+
+
+
+
+<span class="atom-split" data-atom="part--part_01" data-title="Sword (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+
+
+THE [[Sword|SWORD]] OF WOOD [1928]
+
+DOWN in the little village of Grayling-Abbot, in Somerset, men did
+not know that the world we live in had begun.  They did not know
+that all we have come to call 'modern' had silently entered England,
+and changed the air of it.  [[Well]], they did not know it very clearly
+even in [[London]]:  though one or two shrewd men like my Lord Clarendon,
+and perhaps Prince Rupert, with his chemicals and his sad eyes,
+may have had a glimmer of it.
+
+On the contrary, by the theory of the thing, the old world had returned.
+Christmas could be kept again; the terrible army was disbanded;
+the swarthy young man with the sour, humorous face, who had been cheered
+from Dover to Whitehall, brought back in him the [[Blood|blood]] of kings.
+Every one was saying (especially in Grayling-Abbot) that now it would
+be Merry England again.  But the swarthy young man knew better.
+The Merry Monarch knew he was not meant to make Merry England.
+If he treated his own life as a [[Comedy|comedy]], it was for a philosophical
+reason; because [[Comedy|comedy]] is the only poetry of compromise.
+And he was a compromise; and he knew it.  Therefore he turned,
+like Prince Rupert, to the chemicals; and played with the little
+toys that were to become the terrible engines of modern science.
+So he might have played with tiger-cubs, so long as they were as small
+as his spaniels.
+
+But down in Grayling-Abbot it was much easier to believe that old
+England had been restored, because it had never, in any serious sense,
+been disturbed.  The fierce religious quarrels of the seventeenth
+century had only stirred that rustic neighbourhood to occasional
+panics of [[Witch|witch]]-burning. And these, though much rarer in the
+medieval society, were not inconsistent with it.  The squire,
+Sir Guy Griffin, was famous as a fighter quite in the medieval style.
+Though he had commanded a troop under Newcastle in the Civil Wars
+with conspicuous [[success]], the local legend of his bodily prowess
+eclipsed any national chronicle of his military capacity.
+Through two or three counties round Grayling-Abbot, his reputation
+for swordsmanship had quite eclipsed his reputation for generalship.
+So, in the Middle Ages, it happened that Coeur-de-[[Lion]]'s hand could
+keep his head:  it happened that Bruce's hand could keep his head.
+And in both cases the head has suffered unfairly from the glorification
+of the hand.
+
+The same almost unbroken medieval tradition even clung round
+the young schoolmaster, Dennis Tryon, who was just locking up his
+little school for the last [[Time|time]]; having been transferred to a private
+post at Sir Guy's own [[house]], to teach Sir Guy's six hulking sons,
+who had learned their father's skill with the [[Sword|sword]], and hitherto
+declined to learn anything else.  In numberless and nameless ways,
+Tryon expressed the old traditions.  He was not a Puritan,
+yet he wore black clothes because he might have been a priest.
+Though he had learned to fence and [[Dance|dance]] at College, like [[Milton]],
+he was plainly dressed and weaponless; because the vague legend
+remained that a student was a sort of clerk, and a clerk was a sort
+of clergyman.  He wore his brown hair long, like a Cavalier.
+But as it was his own hair, it was long and straight:
+while the Cavaliers were already beginning to wear other people's hair,
+which was long and curly.  In that strict brown frame, his face
+had the boyish, frank, rather round appearance that may be
+seen in old miniatures of Falkland or the Duke of Monmouth.
+His favourite authors were George Herbert and Sir Thomas Browne;
+and he was very young.
+
+He was addressing a last word to a last pupil, who happened to be
+lingering outside the school--a minute boy of seven, playing with one
+of those wooden swords, made of two lengths of lath nailed across
+each other, which boys have played with in all centuries.
+
+'Jeremy Bunt,' said Tryon, with a rather [[Melancholy|melancholy]] playfulness,
+'your [[Sword|sword]] is, as it seems to me, much an improvement on most we
+have lately looked on.  I observe its end is something blunt;
+doubtless for that gallant reason that led [[Orlando]] to blunt
+his [[Sword|sword]] when fighting the lady, whose name, in the ingenious
+[[Romance|romance]], escapes me.  Let it suffice you, little one.
+It will kill the Giants, like Master Jack's [[Sword|sword]] of sharpness,
+at least as [[Well|well]] as the swords of a standing army ever will.
+If you be minded to save the Lady Angelica from the ogre, it will
+turn the dragon to stone as quick as any [[Sword|sword]] of steel would do.
+And, oh, Jeremy, if the [[Fable|fable]] be false, the moral is not false.
+If a little boy be good and brave, he should be great, and he may be.
+If he be bad and base, he should be beaten with a staff'--
+here Tryon tapped him very softly on the shoulders with a long
+black walking-cane that was commonly his only ferule--'but in
+either way, to my thinking, your [[Sword|sword]] is as good as any other.
+Only, dear Jeremy'--and he bent over the [[Child|child]] swiftly, with a sudden
+tenderness--'always remember your kind of [[Sword|sword]] is stronger if one
+holds it by the wrong end.'
+
+He reversed the little [[Sword|sword]] in the [[Child|child]]'s hand, making it
+a wooden [[Cross|cross]], and then went striding up the [[Road|road]] like the [[Wind|wind]],
+leaving the staring boy behind.
+
+When he became conscious that human feet were following him,
+he knew they could not possibly be the feet of the boy.
+He looked round; and Jeremy was still hovering in the distance;
+but the rush of feet came from a far different cause.
+
+A young lady was hurrying by close under the high hedge that was
+nearly as old as the Plantagenets.  Her costume was like his own,
+in the sense that it had the quietude of the Puritan with the cut
+of the Cavalier.  Her dress was as dark as Barebones could
+have asked; but the ringlets under her hood were yellow and curly,
+for the same reason that his own hair was brown and straight:
+because they were her own.  Nothing else was notable about her,
+except that she was pretty and seemed rather in a hurry;
+and that her delicate profile was pointed resolutely up the [[Road|road]].
+The face was a little pale.
+
+
+
+
+<span class="atom-split" data-atom="part--part_02" data-title="Sword (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+
+
+Tryon turned again to look back on his tracks; and this [[Time|time]] saw
+another figure more formidable than Jeremy with the wooden [[Sword|sword]].
+
+A tall, swaggering figure, almost black against the sunlight,
+was coming down the [[Road|road]] with a rapidity that almost amounted to a run.
+He had a wide hat with feathers, and long, luxuriant hair,
+in the latest [[London]] manner; but it was not any such feathers
+or flourishes that arrested Tryon's attention.  He had seen old
+Sir Guy Griffin, who still wore his wild, white hair half-way down
+his back, to show (very unnecessarily) that he was not a Puritan.
+He had seen Sir Guy stick in his hat the most startling
+cock's feathers, but that was because he had no other feathers.
+But Tryon knew at a glance that Sir Guy would never have come forward
+in such extraordinary attitudes.  The tall, fantastic man actually
+drew his [[Sword|sword]] as he rushed forward; and offered it like a lance to be
+splintered as from the end of a long tilting-yard. Such frolics may have
+happened a hundred times round the 'Cock' of [[Buckingham]] and Dorset.
+But it was an action utterly unknown to the gentry round Grayling-Abbot,
+when they settled affairs of [[Honour|honour]].
+
+While he was still looking up the [[Road|road]] at the advancing figure,
+he found himself breathlessly addressed by the escaping girl.
+
+'You must not fight him,' she said, 'he has beaten everybody.
+He has beaten even Sir Guy, and all his sons.'  She cast her eyes
+about him and cried out in horror:  'And where is your [[Sword|sword]]?'
+
+'With my spurs, mistress,' replied the schoolmaster, in the best
+style of Ariosto.  'I have to win them both.'
+
+She looked at him rather wildly and said:  'But he has never been
+beaten in swordsmanship.'
+
+Tryon, with a smile, made a salute with his black walking-stick. 'A
+man with no [[Sword|sword]],' he said, 'can never be beaten in swordsmanship.'
+
+The girl stood for one moment staring at him as if, even in that
+scene of scurry and chase, [[Time|time]] were suspended for a flash.
+Then she seemed to leap again like a hunted thing and plunged on:
+and it was only some hundred yards higher up the [[Road|road]] that she
+again halted, hesitated, and looked back.  In much the same manner
+Master Jeremy Bunt, who had not the faintest intention of deserting
+the delightful school in which he was no longer required to do any work,
+actually ran forward.  Perhaps their curiosity ought to be excused.
+For they were certainly looking at the most astounding duel
+the world had ever seen.  It was the duel of the naked [[Sword|sword]]
+and the walking-stick: probably the only merely defensive battle
+ever fought on this earth.
+
+The day was full of sun and [[Wind|wind]], the two chief ingredients
+of a glorious day; but till that moment even Mr. Tryon,
+though of a [[Pastoral|pastoral]] and poetical turn, had not noticed anything
+specially splendid in the sky or landscape.  Now the [[Beauty|beauty]] of this
+world came upon him with the violence of a [[Supernatural|supernatural]] vision;
+for he was very certain it was a vision that he soon must lose.
+He was a good fencer with the foil in the Collegiate manner.
+But it was not to be expected that any human being could emerge victorious
+from a prolonged fight in which he had no means of retaliation;
+and especially as his opponent, whether from drink or devilry,
+was clearly fighting to the [[Death|death]].  Tryon could not be certain that
+the wild creature even knew that his [[Sword|sword]] only struck against wood.
+
+Dennis Tryon took in every glory of the good English land,
+and the still more glorious English climate, with the corner of
+his eye; he took it in with that same swift, indirect and casual,
+yet absolutely substantial way in which [[Nature]] is noticed in the old
+English poets that he loved.  For the great poets of England,
+from Chaucer to Dryden, had a trick that has since been lost,
+the trick of implying the [[Nature|nature]] of a scene without apparently even
+attempting to describe it.  Thus, any one reading the line 'Pack,
+clouds, away,' knows at once it is the kind of clouds called _cumuli,_
+and could not possibly be meant for level or streaky clouds.
+Or any one reading [[Milton]]'s line about the princess's turret
+'bosomed high in tufted trees' knows it means partly leafless trees,
+as in early [[spring]] or [[Autumn|autumn]], when the edge of the forest shows
+soft against the sky, like a brush or broom, sweeping heaven.
+With the same sort of subconscious solidity, Tryon realized
+the rounded and half-rosy morning clouds that curled or huddled
+in the blue above the downs; and the mute [[Mercy|mercy]] of the forests,
+that faded from grey to purple before they mixed with heaven.
+[[Death]], in a hat with black plumes, was shooting a thousand shining
+arrows at him every instant; and he had never loved the world
+so much before.
+
+For indeed that one streak of white steel came at him like a shower
+of shining arrows.  He had to make a new parry for every new lunge;
+and, with each, perversely remembered some episode of College fencing.
+When the bright point of [[Death|death]] missed his heart and slid
+past his elbow, he saw suddenly a meadow beside the Thames.
+When he seemed blinded, by the very light on that [[Lightning|lightning]] blade,
+leaping at his eyes, but passing over his shoulder, he saw the old
+lawn at Merton as if its grass had sprung out of the [[Road|road]] around him.
+But he began more and more to realize something else.
+He realized that if he had held a real [[Sword|sword]], he could have killed
+his enemy six times over with the _riposte._ When the heart-thrust
+was turned, he could have put his [[Sword|sword]] like a carving-knife
+into a pudding-if it had been a [[Sword|sword]].  When the parry protected
+his eyes, nothing else could have protected his opponent,
+except the unpenetrating quality of a walking-stick. His brain was
+of the very clear kind that can play two games of chess at once.
+While still whirling his black walking-stick in a complicated but
+impromptu clockwork of fence, he saw quite clearly a logical alternative.
+Either the man thought he was fighting someone with a [[Sword|sword]]:
+in which case he was a very bad fencer.  Or else he knew he was
+fighting someone with a stick, in which case he was a very bad man:
+or (as the more timid modern phrase goes) a very bad sportsman.
+
+
+
+
+<span class="atom-split" data-atom="part--part_03" data-title="Sword (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+
+
+He acted suddenly in a way adapted to either case.  He introduced
+into his swordplay a stroke of single-stick, also learned at College,
+jerking his stick up so as to strike and jar the man's elbow; and then,
+before the arm could recover its nerve, smote the [[Sword|sword]] clean out of
+the hand.  A look at the man's black, bewildered expression was enough.
+Tryon was now quite certain the man's advantage had only been
+in his [[Sword|sword]].  He was also quite certain the man knew it.
+With all the rush of his released romanticism, which roared
+like the [[Wind|wind]], and rolled like the clouds, and blazed like the sun
+which he had thought to see no more, he sprang forward and pinned
+the man by the throat, with a shout of laughter.  Then he said,
+with more restrained [[Humour|humour]], what he had said to the little boy
+up the [[Road|road]].
+
+'If he be bad and base,' said Tryon, 'he should be beaten with a staff.'
+And whirling the walking-stick round his head, he laid three thundering
+and echoing thwacks across the shoulders of his disarmed enemy,
+and walked off up the [[Road|road]] again like the [[Wind|wind]].
+
+He did not notice further what his murderous enemy might attempt,
+but he was honestly puzzled about the conduct of the crowd.
+For, by this [[Time|time]], there was a very considerable crowd.
+The [[Sword|sword]]-bearing Jeremy was quite prominent in the throng behind him;
+the lady with the golden curls and the sensitive profile was herself
+pausing a moment on the outskirts of the throng in front.
+
+As he started up the [[Road|road]] again, the mob set up a roar,
+redoubled and quadrupled, and several gentlemen present whirled
+their plumed hats and shouted observations he could not hear.
+What was even more extraordinary, a great part of the crowd
+(including the young lady, who vanished early) appeared to be
+disappearing up the [[Road|road]], as if bringing news of some great
+victory like Agincourt.
+
+By the [[Time|time]] he came from Grayling-Abbot to Grayling-le-Griffin,
+the next village, there were ten heads at every cottage [[Window|window]];
+and girls threw [[Flowers|flowers]], that missed him and fell on the [[Road|road]].
+By the [[Time|time]] he came to the outskirts of the Park, with the stone griffins,
+there were triumphal arches.
+
+'It seems that I was not a little hasty with Master Bunt,' said Tryon
+to himself, with a puzzled smile.  'It is plain I have fallen into
+the Kingdom of [[Queen]] Mab.  It is I, and not Master Jeremy, who have,
+in some sense, saved Angelica from the dragon.  I was rather more
+embarrassed in the matter of arms, and she rather less embarrassed
+in the matter of attire, and there, truly, the difference seems to end.
+But the strangest thing of all is that, whatever I have done,
+I have done it with a [[Sword|sword]] of wood, like little Jeremy's.'
+
+In his academic reflections, he lifted his long black stick to look
+at it; and, as he did so, the cry of many crowds broke about him
+like a cannonade.  For he had come to the very doors of Griffin Grange,
+to which he had been summoned on his much milder tutorial errand.
+And the great Sir Guy himself came out at the entrance.
+He might even have justified his mythic name, allowing for certain
+alterations of accident.  For a griffin was supposed to be a mixture
+of the [[Lion|lion]] and the eagle; and certainly Sir Guy's mane might have
+been a [[Lion|lion]]'s, but that it was largely white; and his nose might
+have been an eagle's, but that it was partly red.
+
+His face had at first a dangerous and even dissipated look,
+and Tryon had one momentary [[Doubt|doubt]] about the reason of his defeat.
+But when he looked again at Sir Guy's erect figure and animated eye;
+when he rather timidly accepted his decisive handshake and received
+congratulations in his clear and comfortable voice, the [[Doubt|doubt]] vanished.
+And the young schoolmaster felt even more bewildered in
+receiving the equally adoring, though rather more gaping,
+congratulations of the six strenuous sons.  At the first glance,
+Tryon felt something like [[Despair|despair]] about their Greek and Latin.
+But he also felt an increasing conviction that any of them could
+have knocked him anywhere with a cudgel.  His own triumph began
+to seem as fantastic and incredible as his triumphal arches.
+
+'Assuredly it is a strange matter,' he said to himself in his simplicity.
+'I was a tolerable good fencer at Merton, but not excellent.
+Not so good as Wilton or [[smith|Smith]] or old [[King]] of [[Christ]] Church.
+It is not to be believed that men like these could not beat him
+with their great swords, when I could beat him with a stick.
+This is some jest of the great gentry, as in the ingenious tale
+of Master Cervantes.'
+
+He therefore received the uproarious plaudits of old Griffin
+and his sons with some reserve; but, after a little [[Time|time]],
+it was hard for one so simple not to perceive their simplicity.
+They really did regard him, as little Jeremy would have regarded him,
+as a fairy-tale [[Hero|hero]] who had freed their valley from an ogre.
+The people at the windows had not been conspirators.
+The triumphal arches had not been practical jokes.  He was really
+the god of the countryside and he had not a notion why.
+
+Three things convinced him finally of the reality of his reputation.
+One was the mysterious fact that the young Griffins (that brood
+of mythic monsters) really made some attempt to learn.
+Humphrey, the eldest and biggest, got the genitive of _quis_ right
+the third [[Time|time]], though wrong again the fourth, fifth, and sixth.
+The attempts of Geoffrey to distinguish between _fingo_ and _figo_
+would have moved a heart of stone:  and Miles, the youngest,
+was really interested in the verb _ferre;_ though (being a
+waterside character) he had some tendency to end it with a 'y.'
+Underneath all this exceptional mental [[Ambition|ambition]], Tryon could
+see the huge, silent respect which savages and schoolboys feel
+everywhere for one who has 'done' something in the bodily way.
+The old rural and real aristocracy of England had not that rather cold
+and clumsy class-consciousness we now call the public-school spirit;
+and they enjoyed sports instead of worshipping them.  But boys
+are the same in all ages, and one of their sports is [[Hero|hero]]-worship.
+
+
+
+
+<span class="atom-split" data-atom="part--part_04" data-title="Sword (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+
+
+The next and yet more fascinating fact was Sir Guy.
+He was not, it was clear, in the common sense an amiable man.
+Just as the slash he had at the battle of Newbury made his
+eagle face almost as ugly as it was handsome, so the neglects
+and disappointments of his once promising military career had
+made his tongue and temper as bitter as they were sincere.
+Yet Tryon felt he owed the very knowledge of such an attitude
+to a confidence the old man would not have reposed in other people.
+
+'The [[King]] hath his own again,' old Griffin would say gloomily.
+'But I think it is too late.  Indeed it might nigh as [[Well|well]] be
+the [[King of France]] come to rule us as the [[King]] of England.
+He hath brought back with him French women that act in stage plays
+as if they were boys; and tricks fit for pothecaries or conjurers
+at a fair, and tricks like this fellow's that twitched away my [[Sword|sword]],
+and every one else's--till he met his master, thank God.'
+And he smiled at Tryon, sourly, but with respect.
+
+'Is the gentleman I met,' asked Tryon, rather timidly,
+one from the [[Court]]?'
+
+'Yes,' answered the old man.  'Did you look at his face?'
+
+'Only his eyes,' said the fencer, smiling; 'they are black.'
+
+'His face is painted,' said Griffin.  'That is the sort of thing they
+do in [[London]].  And he wears a pile of false hair out of a barber's;
+and walks about in it, like the [[house]] of a Jack-in-the Green.
+But his was the best [[Sword|sword]], as old Noll's was the best army.
+And what could we do?'
+
+The third fact, which affected Dennis Tryon most deeply of all, was a
+glimpse or two of the girl he had saved from the obstreperous courtier.
+It appeared she was the parson's daughter, one Dorothy Hood,
+who was often in and out of the Grange, but always avoided him.
+He had every sort of delicacy himself; and a comprehension of her
+attitude made him finally certain of his own inexplicable importance.
+If this had been, as he first thought, a trick played on him
+in the style of the Duke and the Tinker, so charming a girl
+(and he thought her more charming every [[Time|time]] she flashed down a
+corridor or disappeared through a door) would certainly have been
+set to draw him on.  If there was a conspiracy, she must be in it;
+and her part in it would be plain.  But she was not playing the part.
+He caught himself rather wishing she were.
+
+The last stroke came when he heard her saying to Sir Guy,
+by the accident of two open doors:  'All say, 'twas witchcraft;
+and that God helped the young gentleman only because he was good, and--'
+
+He walked wildly away.  He was the kind of academic cavalier,
+who had learnt all worldly manners in an unworldly cloister.
+To him, therefore, eavesdropping was in all cases, horrible;
+in her case, damnable.
+
+On one occasion he plucked up his [[Courage|courage]] to stop and thank her
+for having warned him of the danger of the duel.
+
+Her delicate, pale face, always tremulous, became positively troubled.
+'But then I did not know,' she said.  'I knew you were not afraid.
+But I did not know then you were fighting the devils.'
+
+'Truly, and I do not know it now,' he answered.  'By my thinking,
+I was fighting one man, and no such great fighting at that.'
+
+'Everybody says it was the devils,' she said with a beautiful simplicity.
+'My father says so.'
+
+When she had slipped away, Dennis was left meditating:  and a new
+and rather grim impression grew stronger and stronger upon him.
+The more he heard from servants or strangers, the clearer it
+was that the local legend was hardening into a tale of himself
+as exorcist breaking the spell of a warlock.
+
+The youngest boy, Miles, who had been (as usual) down by the [[River|river]],
+said the villagers were walking along the bank, looking for the old
+pool where witches were drowned.  Humphrey said it would be no good
+if they found it, for the tall man with the painted face had gone back
+to [[London]].  But an hour later, Geoffrey came in with other news:
+the wicked wizard had gone out of Grayling, but the mob had stopped
+him on the [[Road|road]] to Salisbury.
+
+When Tryon bestirred himself with curiosity and alarm and
+looked out of the Grange gates he found fearful confirmation,
+almost in the image of a place of pestilence or a [[City|city]] of the dead.
+The whole population of the two villages of Grayling (save for such
+non-combatants as the wooden-sworded Bunt) had vanished from their
+streets and houses.  They returned in the dark hour before [[Dawn|dawn]];
+and they brought with them the man with the [[Magic|magic]] [[Sword|sword]].
+
+Men in modern England, who have never seen a revolution,
+who have never seen even a real mob, cannot imagine what the capture
+of a [[Witch|witch]] was like.  It was for all the populace of that valley
+a vast rising against an emperor and oppressor, a being taller,
+more terrible, more universal, than any one would have called
+either Charles I or Cromwell, even in jest.  It was not,
+as the modern people say, the worrying of some silly old woman.
+It was for them a revolt against Kehama, the Almighty Man.  It was
+for them a rebellion of the good angels after the victory of [[Satan]].
+Dorothy Hood was sufficiently frightened of the mob to take Tryon's
+hand in the crowd, and hold it in a way that made them understand
+each other with an intimate tenderness never afterwards dissolved.
+But it never occurred to her to be sorry for the warlock.
+
+He was standing on the [[River|river]] bank, with his hands tied behind him,
+but the [[Sword|sword]] still at his side; no one feeling disposed to meddle
+with it.  His peruke had been torn off; and his cropped head seemed
+to make more glaring and horrible the unnatural colours of his face.
+It was like some painted demon mask.  But he was quite composed,
+and even contemptuous.  Every now and then people threw things at him,
+as at one in the pillory; even little Jeremy Bunt flinging his
+wooden [[Sword|sword]], with all the enthusiasm of the Children's Crusade.
+But most things missed him and fell into the flowing [[River|river]] behind,
+into which (there could be little [[Doubt|doubt]]) he himself was to be
+flung at last.
+
+
+
+
+<span class="atom-split" data-atom="part--part_05" data-title="Sword (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+
+
+Then stood up for an instant in the stormy light, that rare but
+real spirit, for whose sake [[Alone|alone]] men have endured aristocracy,
+or the division of man from man.  Sir Guy's scarred face looked
+rather unusually sulky, or even spiteful; but he turned to his
+bodyguard of sons.  'We must get him back safe to the Grange,'
+he said sourly; 'you boys have all your swords, I think.
+You had best draw them.'
+
+'Why?' asked the staring Humphrey.
+
+'Why,' answered his father, 'because they are conquered swords,
+like my own.'  And he drew his long blade, that took the white
+light of the morning.
+
+'Boys,' he said, 'it is in the hand of God if he be warlock or no.
+But is it to be said of our [[Blood|blood]] that we brought crowds and clubs
+to kill a man who had whipped each one of us fairly with the [[Sword|sword]]?
+Shall men say that when Griffins met their match they whined about [[Magic|magic]]?
+Make a ring round him, and we will bring him alive through
+a thousand [[Witch|witch]]-smellers.'
+
+Already a half-ring of naked swords had swung round the victim
+like a spiked necklace.  In those days mobs were much bolder
+against their masters than they are to-day. But even that mob
+gave to the Griffins a military reputation beyond their mere
+territorial rank; and the parties were thus the more equal.
+There was no [[Sword|sword]] in that crowd better than a Griffin [[Sword|sword]];
+except the [[Sword|sword]] that hung useless at the hip of a pinioned man.
+
+Before the next moment, which must have been [[Blood|blood]] and destruction,
+the man with the useless [[Sword|sword]] spoke.  'If some gentleman,'
+he said with marmoreal calm, 'will but put a hand in the pocket
+of my doublet, I think bloodshed will be spared.'
+
+There was a long [[Silence|silence]]; and every one looked at Dennis Tryon:
+the man who had not feared the wizard.  Every one included Dorothy;
+and Dennis stepped forward.  He found a folded piece of paper
+in the doublet, opened it and read it with more and more [[Wonder|wonder]] on
+his round young face.  At the third sentence he took his hat off.
+At this the crowd stared more and more:  it had fallen suddenly silent
+and all were conscious of a change and a cooling in that intense air.
+
+'It would appear,' he said at last, 'that this is a privy
+letter from His Majesty, which I will not read in entirety.
+But it advises and permits Sir Godfrey Skene to practise with the new
+Magnetic [[Sword]] which the Royal Society has for some little [[Time|time]]
+attempted to manufacture in pursuance of a suggestion of Lord Verulam,
+the founder of our Natural [[philosophy|Philosophy]].  The whole blade is magnetized;
+and it is thought it may even pull any other iron weapon out
+of the hand.'
+
+He paused a moment, in some embarrassment, and then said:
+'It is added that only a weapon of wood or such other material
+could be used against it.'
+
+Sir Guy turned to him suddenly and said:  'Is that what you
+call Natural [[philosophy|Philosophy]]?'
+
+'Yes,' replied Tryon.
+
+'I thank you,' said Griffin.  'You need not teach it to my sons.'
+
+Then he strode towards the prisoner, and rent the [[Sword|sword]] away,
+bursting the belt that held it.
+
+'If it were not His Majesty's own hand,' he said, 'I would throw
+you with it after all.'
+
+The next instant the Magnetic [[Sword]] of the Royal Society vanished
+from men's view for ever; and Tryon could see nothing but Jeremy's
+little [[Cross|cross]] of wood heaving with the heaving stream.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Allora si levò per un istante, nella luce tempestosa, quel raro ma
+autentico spirito per amore del quale gli uomini hanno [[Alone|soltanto]] tollerato l'aristocrazia,
+ovvero la divisione dell'uomo dall'uomo. Il volto sfregiato di Sir Guy appariva
+insolitamente imbronciato, o persino astioso; ma egli si volse alla sua
+scorta di figli. "Dobbiamo riportarlo sano e salvo alla Grange,"
+disse acido; "voi ragazzi avete tutti le vostre spade, credo.
+Meglio che le sguainiate."
+
+"Perché?" chiese Humphrey a occhi sbarrati.
+
+"Perché," rispose il padre, "sono spade vinte,
+come la mia." E sguainò la sua lunga lama, che colse la bianca
+luce del mattino.
+
+"Ragazzi," disse, "è nelle mani di Dio se costui sia stregone o no.
+Ma si dovrà dire del nostro [[Blood|Sangue]] che abbiamo condotto folle e mazze
+a uccidere un uomo che aveva battuto ciascuno di noi lealmente con la [[Sword|spada]]?
+Si dirà che, quando i Griffin trovarono chi li eguagliasse, guairono contro la [[Magic|magia]]?
+Fate cerchio intorno a lui, e lo porteremo vivo attraverso
+un migliaio di [[Witch|caccia]]-streghe."
+
+Già un semicerchio di spade sguainate gli si era stretto intorno alla vittima
+come una collana di aculei. A quei tempi le folle erano assai più ardite
+contro i loro padroni di quanto lo siano oggi. Ma anche quella folla
+riconosceva ai Griffin una reputazione militare superiore al loro semplice
+rango territoriale; e le parti risultavano perciò più pari.
+Non c'era [[Sword|spada]] in quella ressa migliore di una [[Sword|spada]] Griffin;
+tranne la [[Sword|spada]] che pendeva inutile al fianco di un uomo immobilizzato.
+
+Prima dell'attimo seguente, che sarebbe stato [[Blood|sangue]] e distruzione,
+l'uomo dalla [[Sword|spada]] inutile parlò. "Se qualche gentiluomo,"
+disse con marmorea calma, "vorrà soltanto mettere una mano nella tasca
+del mio farsetto, credo che si risparmierà lo spargimento di sangue."
+
+Vi fu un lungo [[Silence|silenzio]]; e tutti guardarono Dennis Tryon:
+l'uomo che non aveva temuto lo stregone. Tutti, compresa Dorothy;
+e Dennis si fece avanti. Trovò un foglio ripiegato
+nel farsetto, lo aprì e lo lesse con sempre maggiore [[Wonder|meraviglia]] sul
+tondo volto giovanile. Alla terza frase si tolse il cappello.
+A ciò la folla lo fissò sempre più: era caduta d'un tratto in silenzio
+e tutti erano consapevoli di un mutamento e di un raffreddarsi in quell'aria intensa.
+
+"Parrebbe," disse infine, "che questa sia una lettera
+privata di Sua Maestà, che non leggerò per intero.
+Ma essa consiglia e permette a Sir Godfrey Skene di esercitarsi con la nuova
+[[Sword]] Magnetica che la Royal Society da qualche [[Time|tempo]]
+tenta di fabbricare in virtù di un suggerimento di Lord Verulam,
+fondatore della nostra [[philosophy|Filosofia]] Naturale. L'intera lama è magnetizzata;
+e si pensa che possa persino strappare qualsiasi altra arma di ferro
+dalla mano."
+
+Fece una pausa, con un certo imbarazzo, e poi disse:
+"Vi si aggiunge che soltanto un'arma di legno o d'altro simile materiale
+potrebbe essere usata contro di essa."
+
+Sir Guy si volse a lui d'un tratto e disse: "È questo ciò che voi
+chiamate [[philosophy|Filosofia]] Naturale?"
+
+"Sì," rispose Tryon.
+
+"Vi ringrazio," disse Griffin. "Non c'è bisogno che la insegniate ai miei figli."
+
+Poi mosse a grandi passi verso il prigioniero, e gli strappò via la [[Sword|spada]],
+spezzando la cintura che la reggeva.
+
+"Se non fosse la mano stessa di Sua Maestà," disse, "ti scaglierei
+via insieme ad essa, dopotutto."
+
+L'istante seguente la [[Sword]] Magnetica della Royal Society svanì
+per sempre dalla vista degli uomini; e Tryon non poté vedere altro che la piccola
+[[Cross|croce]] di legno di Jeremy sobbalzante nella corrente sobbalzante.

@@ -36,7 +36,7 @@ tags:
 
 ## Testo / Text
 
-- [ascetic](/testi/chesterton/atomized/ascetic/ascetic)
+- [ascetic](/testi/chesterton/atomized/ascetic#ascetic)
 
 ## Connections
 

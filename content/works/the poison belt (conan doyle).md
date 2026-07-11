@@ -35,12 +35,12 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Chapter 1](/testi/conan_doyle/atomized/the_poison_belt/chapter_01)
-- [Chapter 2](/testi/conan_doyle/atomized/the_poison_belt/chapter_02)
-- [Chapter 3](/testi/conan_doyle/atomized/the_poison_belt/chapter_03)
-- [Chapter 4](/testi/conan_doyle/atomized/the_poison_belt/chapter_04)
-- [Chapter 5](/testi/conan_doyle/atomized/the_poison_belt/chapter_05)
-- [Chapter 6](/testi/conan_doyle/atomized/the_poison_belt/chapter_06)
+- [Chapter 1](/testi/conan_doyle/atomized/the_poison_belt#chapter_01)
+- [Chapter 2](/testi/conan_doyle/atomized/the_poison_belt#chapter_02)
+- [Chapter 3](/testi/conan_doyle/atomized/the_poison_belt#chapter_03)
+- [Chapter 4](/testi/conan_doyle/atomized/the_poison_belt#chapter_04)
+- [Chapter 5](/testi/conan_doyle/atomized/the_poison_belt#chapter_05)
+- [Chapter 6](/testi/conan_doyle/atomized/the_poison_belt#chapter_06)
 
 ## Connections
 

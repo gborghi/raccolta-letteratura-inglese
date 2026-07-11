@@ -30,7 +30,7 @@ tags:
 
 ## Testo / Text
 
-- [right-and-wrong](/testi/chesterton/atomized/right-and-wrong/right-and-wrong)
+- [right-and-wrong](/testi/chesterton/atomized/right-and-wrong#right-and-wrong)
 
 ## Connections
 

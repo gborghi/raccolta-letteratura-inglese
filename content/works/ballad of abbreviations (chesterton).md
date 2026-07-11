@@ -30,7 +30,7 @@ tags:
 
 ## Testo / Text
 
-- [Ballad_Of_Abbreviations](/testi/chesterton/atomized/ballad_of_abbreviations/ballad_of_abbreviations)
+- [Ballad_Of_Abbreviations](/testi/chesterton/atomized/ballad_of_abbreviations#ballad_of_abbreviations)
 
 ## Connections
 

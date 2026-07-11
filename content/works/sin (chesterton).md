@@ -29,7 +29,7 @@ tags:
 
 ## Testo / Text
 
-- [sin](/testi/chesterton/atomized/sin/sin)
+- [sin](/testi/chesterton/atomized/sin#sin)
 
 ## Connections
 

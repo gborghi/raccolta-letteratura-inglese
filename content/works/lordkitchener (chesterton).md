@@ -73,7 +73,7 @@ tags:
 
 ## Testo / Text
 
-- [LordKitchener](/testi/chesterton/atomized/lordkitchener/lordkitchener)
+- [LordKitchener](/testi/chesterton/atomized/lordkitchener#lordkitchener)
 
 ## Connections
 

@@ -51,14 +51,9 @@ tags:
 > [!abstract] 
 > Apologetic treatise on the psychology and stages of conversion to Catholicism, treating the convert as a modern witness/martyr to the truth of the Faith.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Chapter 1: INTRODUCTORY:  A NEW RELIGION](/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion)
-- [Chapter 2: THE OBVIOUS BLUNDERS](/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders)
-- [Chapter 3: THE REAL OBSTACLES](/testi/chesterton/atomized/conversion/chapter_03_the_real_obstacles)
-- [Chapter 4: THE WORLD INSIDE OUT](/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out)
-- [Chapter 5: THE EXCEPTION PROVES THE RULE](/testi/chesterton/atomized/conversion/chapter_05_the_exception_proves_the_rule)
-- [Chapter 6: A NOTE ON PRESENT PROSPECTS](/testi/chesterton/atomized/conversion/chapter_06_a_note_on_present_prospects)
+- [Chapter 6: A NOTE ON PRESENT PROSPECTS](/testi/chesterton/atomized/conversion#chapter_06_a_note_on_present_prospects)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">57.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.6</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.1</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">25.6</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

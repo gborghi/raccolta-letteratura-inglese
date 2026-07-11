@@ -63,16 +63,9 @@ tags:
 > [!abstract] 
 > A framed collection of Father Brown stories in which the priest reveals his 'secret' method: solving crime by imaginative empathy with the criminal's soul rather than scientific deduction. Detective fiction with theological depth.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [THE MIRROR OF THE MAGISTRATE](/testi/chesterton/atomized/secret_fr_brown/story_01_the_mirror_mirror_of_the_magistrate)
-- [THE MAN WITH TWO BEARDS](/testi/chesterton/atomized/secret_fr_brown/story_02_the_man_with_two_beards)
-- [THE SONG OF THE FLYING FISH](/testi/chesterton/atomized/secret_fr_brown/story_03_the_song_song_of_the_flying_fish)
-- [THE ACTOR AND THE ALIBI](/testi/chesterton/atomized/secret_fr_brown/story_04_the_actor_and_the_alibi)
-- [THE VANISHING OF VAUDREY](/testi/chesterton/atomized/secret_fr_brown/story_05_the_vanishing_of_vaudrey)
-- [THE WORST CRIME IN THE WORLD](/testi/chesterton/atomized/secret_fr_brown/story_06_the_worst_crime_in_the_world)
-- [THE RED MOON OF MERU](/testi/chesterton/atomized/secret_fr_brown/story_07_the_red_moon_moon_of_meru)
-- [THE CHIEF MOURNER OF MARNE](/testi/chesterton/atomized/secret_fr_brown/story_08_the_chief_mourner_of_marne)
+- [secret Fr Brown](/testi/chesterton/atomized/secret_fr_brown#secret_fr_brown)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">72.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.2</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">17.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

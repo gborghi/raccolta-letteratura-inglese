@@ -32,10 +32,9 @@ tags:
 
 ## Capitoli / Chapters
 
-- [PREFACE](/testi/conan_doyle/atomized/a_visit_to_three_fronts_june_1916/story_01_preface)
-- [A GLIMPSE OF THE BRITISH ARMY](/testi/conan_doyle/atomized/a_visit_to_three_fronts_june_1916/story_02_a_glimpse_of_the_british_army)
-- [A GLIMPSE OF THE ITALIAN ARMY](/testi/conan_doyle/atomized/a_visit_to_three_fronts_june_1916/story_03_a_glimpse_of_the_italian_army)
-- [A GLIMPSE OF THE FRENCH LINE](/testi/conan_doyle/atomized/a_visit_to_three_fronts_june_1916/story_04_a_glimpse_of_the_french_line)
+- [PREFACE](/testi/conan_doyle/atomized/a_visit_to_three_fronts_june_1916#story_01_preface)
+- [A GLIMPSE OF THE BRITISH ARMY](/testi/conan_doyle/atomized/a_visit_to_three_fronts_june_1916#story_02_a_glimpse_of_the_british_army)
+- [A GLIMPSE OF THE ITALIAN ARMY](/testi/conan_doyle/atomized/a_visit_to_three_fronts_june_1916#story_03_a_glimpse_of_the_italian_army)
 
 ## Connections
 

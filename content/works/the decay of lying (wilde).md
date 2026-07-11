@@ -40,7 +40,7 @@ tags:
 
 ## Testo / Text
 
-- [The Decay of Lying](/testi/wilde/atomized/024_the_decay_of_lying/024_the_decay_of_lying)
+- [The Decay of Lying](/testi/wilde/atomized/024_the_decay_of_lying#024_the_decay_of_lying)
 
 ## Connections
 

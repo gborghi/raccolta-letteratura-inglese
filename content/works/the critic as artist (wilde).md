@@ -42,7 +42,7 @@ tags:
 
 ## Testo / Text
 
-- [The Critic as Artist](/testi/wilde/atomized/026_the_critic_as_artist/026_the_critic_as_artist)
+- [The Critic as Artist](/testi/wilde/atomized/026_the_critic_as_artist#026_the_critic_as_artist)
 
 ## Connections
 

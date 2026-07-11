@@ -40,7 +40,7 @@ tags:
 
 ## Testo / Text
 
-- [to-belloc](/testi/chesterton/atomized/to-belloc/to-belloc)
+- [to-belloc](/testi/chesterton/atomized/to-belloc#to-belloc)
 
 ## Connections
 

@@ -44,7 +44,7 @@ tags:
 
 ## Testo / Text
 
-- [a_word](/testi/chesterton/atomized/a_word/a_word)
+- [a_word](/testi/chesterton/atomized/a_word#a_word)
 
 ## Connections
 

@@ -32,7 +32,7 @@ tags:
 
 ## Testo / Text
 
-- [Little_Door](/testi/chesterton/atomized/little_door/little_door)
+- [Little_Door](/testi/chesterton/atomized/little_door#little_door)
 
 ## Connections
 

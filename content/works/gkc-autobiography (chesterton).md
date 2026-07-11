@@ -49,24 +49,9 @@ tags:
 > [!abstract] 
 > Chesterton's 1936 autobiography recounting his Kensington childhood, Fleet Street journalism, friendships and intellectual conversion to orthodoxy and the Catholic faith; built on memory, wonder, paradox and the defence of tradition.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Chapter 1](/testi/chesterton/atomized/gkc_autobiography/chapter_01)
-- [Chapter 2](/testi/chesterton/atomized/gkc_autobiography/chapter_02)
-- [Chapter 3](/testi/chesterton/atomized/gkc_autobiography/chapter_03)
-- [Chapter 4](/testi/chesterton/atomized/gkc_autobiography/chapter_04)
-- [Chapter 5](/testi/chesterton/atomized/gkc_autobiography/chapter_05)
-- [Chapter 6](/testi/chesterton/atomized/gkc_autobiography/chapter_06)
-- [Chapter 7](/testi/chesterton/atomized/gkc_autobiography/chapter_07)
-- [Chapter 8](/testi/chesterton/atomized/gkc_autobiography/chapter_08)
-- [Chapter 9](/testi/chesterton/atomized/gkc_autobiography/chapter_09)
-- [Chapter 10](/testi/chesterton/atomized/gkc_autobiography/chapter_10)
-- [Chapter 11](/testi/chesterton/atomized/gkc_autobiography/chapter_11)
-- [Chapter 12](/testi/chesterton/atomized/gkc_autobiography/chapter_12)
-- [Chapter 13](/testi/chesterton/atomized/gkc_autobiography/chapter_13)
-- [Chapter 14](/testi/chesterton/atomized/gkc_autobiography/chapter_14)
-- [Chapter 15](/testi/chesterton/atomized/gkc_autobiography/chapter_15)
-- [Chapter 16](/testi/chesterton/atomized/gkc_autobiography/chapter_16)
+- [GKC-Autobiography](/testi/chesterton/atomized/gkc_autobiography#gkc_autobiography)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">56.7</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.8</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.1</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">26</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

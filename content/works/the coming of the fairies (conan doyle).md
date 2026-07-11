@@ -27,27 +27,25 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Chapter 1](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_01)
-- [Chapter 2](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_02)
-- [Chapter 3](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_03)
-- [Chapter 4](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_04)
-- [Chapter 5](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_05)
-- [Chapter 6](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_06)
-- [Chapter 7](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_07)
-- [Chapter 8](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_08)
-- [Chapter 2](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_09)
-- [Chapter 3](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_10)
-- [Chapter 5](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_11)
-- [Chapter 6](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_12)
-- [Chapter 8](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_13)
-- [Chapter 10](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_14)
-- [Chapter 11](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_15)
-- [Chapter 12](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_16)
-- [Chapter 13](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_17)
-- [Chapter 14](/testi/conan_doyle/atomized/the_coming_of_the_fairies/chapter_18)
+- [Chapter 2](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_02)
+- [Chapter 3](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_03)
+- [Chapter 4](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_04)
+- [Chapter 5](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_05)
+- [Chapter 7](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_07)
+- [Chapter 8](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_08)
+- [Chapter 2](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_09)
+- [Chapter 3](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_10)
+- [Chapter 5](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_11)
+- [Chapter 6](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_12)
+- [Chapter 8](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_13)
+- [Chapter 10](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_14)
+- [Chapter 11](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_15)
+- [Chapter 12](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_16)
+- [Chapter 13](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_17)
+- [Chapter 14](/testi/conan_doyle/atomized/the_coming_of_the_fairies#chapter_18)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-46.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">42.6</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">42.7</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">92</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-39.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">39.8</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">40</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">84.7</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 

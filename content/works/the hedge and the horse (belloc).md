@@ -30,10 +30,9 @@ tags:
 > [!abstract] 
 > A satirical novel built on the proverb that one man may steal a horse while another may not look over a hedge — a fable of Fate's injustice in money and reputation. It opens with the tale of the reclusive New York usurer John Scott Guthrie, who amasses a fortune and settles a watched, teetotal-conditioned allowance on his feckless English nephew Wilfred Straddle.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [M. H.](/testi/belloc/atomized/the_hedge_and_the_horse/story_01_m_h)
-- [John Scott’S Baby Passes Night In Cells](/testi/belloc/atomized/the_hedge_and_the_horse/story_02_john_scotts_baby_passes_night_in_cells)
+- [The Hedge and the Horse](/testi/belloc/atomized/the_hedge_and_the_horse#the_hedge_and_the_horse)
 
 ## Connections
 

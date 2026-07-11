@@ -27,7 +27,7 @@ tags:
 
 ## Testo / Text
 
-- [Broad_Minded_Bishop](/testi/chesterton/atomized/broad_minded_bishop/broad_minded_bishop)
+- [Broad_Minded_Bishop](/testi/chesterton/atomized/broad_minded_bishop#broad_minded_bishop)
 
 ## Connections
 

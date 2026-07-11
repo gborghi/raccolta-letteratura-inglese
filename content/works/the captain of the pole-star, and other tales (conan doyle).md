@@ -32,15 +32,15 @@ tags:
 
 ## Capitoli / Chapters
 
-- [THE CAPTAIN OF THE “POLE-STAR.”](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales/story_01_the_captain_of_the_pole_star)
-- [F. HABAKUK JEPHSON’S STATEMENT.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales/story_02_f_habakuk_jephsons_statement)
-- [THE GREAT KEINPLATZ EXPERIMENT.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales/story_03_the_great_keinplatz_experiment)
-- [THE MAN FROM ARCHANGEL.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales/story_04_the_man_from_archangel)
-- [THAT LITTLE SQUARE BOX.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales/story_05_that_little_square_box)
-- [JOHN HUXFORD’S HIATUS.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales/story_06_john_huxfords_hiatus)
-- [CYPRIAN OVERBECK WELLS — A LITERARY MOSAIC.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales/story_07_cyprian_overbeck_wells_a_literary_mosaic)
-- [JOHN BARRINGTON COWLES.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales/story_08_john_barrington_cowles)
-- [ELIAS B. HOPKINS, THE PARSON OF JACKMAN’S GULCH.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales/story_09_elias_b_hopkins_the_parson_of_jackmans_g)
+- [THE CAPTAIN OF THE “POLE-STAR.”](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales#story_01_the_captain_of_the_pole_star)
+- [F. HABAKUK JEPHSON’S STATEMENT.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales#story_02_f_habakuk_jephsons_statement)
+- [THE GREAT KEINPLATZ EXPERIMENT.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales#story_03_the_great_keinplatz_experiment)
+- [THE MAN FROM ARCHANGEL.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales#story_04_the_man_from_archangel)
+- [THAT LITTLE SQUARE BOX.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales#story_05_that_little_square_box)
+- [JOHN HUXFORD’S HIATUS.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales#story_06_john_huxfords_hiatus)
+- [CYPRIAN OVERBECK WELLS — A LITERARY MOSAIC.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales#story_07_cyprian_overbeck_wells_a_literary_mosaic)
+- [JOHN BARRINGTON COWLES.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales#story_08_john_barrington_cowles)
+- [ELIAS B. HOPKINS, THE PARSON OF JACKMAN’S GULCH.](/testi/conan_doyle/atomized/the_captain_of_the_polestar_and_other_tales#story_09_elias_b_hopkins_the_parson_of_jackmans_g)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">31.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.9</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">20.9</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

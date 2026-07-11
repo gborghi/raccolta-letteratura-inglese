@@ -32,21 +32,20 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Ballycannon.](/testi/belloc/atomized/the_great_inquiry/story_01_ballycannon)
-- [And On This.](/testi/belloc/atomized/the_great_inquiry/story_02_and_on_this)
-- [Faithfully Reported](/testi/belloc/atomized/the_great_inquiry/story_03_faithfully_reported)
-- [And Ornamented With Sharp Cuts Drawn On The Spot](/testi/belloc/atomized/the_great_inquiry/story_04_and_ornamented_with_sharp_cuts_drawn_on)
-- [3 Henrietta Street, Covent Garden, W.C.](/testi/belloc/atomized/the_great_inquiry/story_05_3_henrietta_street_covent_garden_w_c)
-- [The Drain Of Gold.](/testi/belloc/atomized/the_great_inquiry/story_06_the_drain_of_gold)
-- [Technical Information.](/testi/belloc/atomized/the_great_inquiry/story_07_technical_information)
-- [Dumping.](/testi/belloc/atomized/the_great_inquiry/story_08_dumping)
-- [The Animals.](/testi/belloc/atomized/the_great_inquiry/story_09_the_animals)
-- [Report Of The Committee](/testi/belloc/atomized/the_great_inquiry/story_10_report_of_the_committee)
-- [The Fiscal Conditions](/testi/belloc/atomized/the_great_inquiry/story_11_the_fiscal_conditions)
-- [Made In Poor Old Kent.](/testi/belloc/atomized/the_great_inquiry/story_12_made_in_poor_old_kent)
+- [Ballycannon.](/testi/belloc/atomized/the_great_inquiry#story_01_ballycannon)
+- [And On This.](/testi/belloc/atomized/the_great_inquiry#story_02_and_on_this)
+- [Faithfully Reported](/testi/belloc/atomized/the_great_inquiry#story_03_faithfully_reported)
+- [And Ornamented With Sharp Cuts Drawn On The Spot](/testi/belloc/atomized/the_great_inquiry#story_04_and_ornamented_with_sharp_cuts_drawn_on)
+- [3 Henrietta Street, Covent Garden, W.C.](/testi/belloc/atomized/the_great_inquiry#story_05_3_henrietta_street_covent_garden_w_c)
+- [The Drain Of Gold.](/testi/belloc/atomized/the_great_inquiry#story_06_the_drain_of_gold)
+- [Technical Information.](/testi/belloc/atomized/the_great_inquiry#story_07_technical_information)
+- [Dumping.](/testi/belloc/atomized/the_great_inquiry#story_08_dumping)
+- [Report Of The Committee](/testi/belloc/atomized/the_great_inquiry#story_10_report_of_the_committee)
+- [The Fiscal Conditions](/testi/belloc/atomized/the_great_inquiry#story_11_the_fiscal_conditions)
+- [Made In Poor Old Kent.](/testi/belloc/atomized/the_great_inquiry#story_12_made_in_poor_old_kent)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">31.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">16.7</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">28%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">32.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">16.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">28%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13.9</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 

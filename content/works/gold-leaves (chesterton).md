@@ -35,7 +35,7 @@ tags:
 
 ## Testo / Text
 
-- [gold-leaves](/testi/chesterton/atomized/gold-leaves/gold-leaves)
+- [gold-leaves](/testi/chesterton/atomized/gold-leaves#gold-leaves)
 
 ## Connections
 

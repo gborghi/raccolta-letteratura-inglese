@@ -42,12 +42,9 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Introduction](/testi/dickens/atomized/the_cricket_on_the_hearth/story_01_introduction)
-- [The Cricket On The Hearth](/testi/dickens/atomized/the_cricket_on_the_hearth/story_02_the_cricket_on_the_hearth)
-- [The Cricket On The Hearth](/testi/dickens/atomized/the_cricket_on_the_hearth/story_03_the_cricket_on_the_hearth)
-- [Chirp The First](/testi/dickens/atomized/the_cricket_on_the_hearth/story_04_chirp_the_first)
-- [Chirp The Second](/testi/dickens/atomized/the_cricket_on_the_hearth/story_05_chirp_the_second)
-- [Chirp The Third](/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_third)
+- [Introduction](/testi/dickens/atomized/the_cricket_on_the_hearth#story_01_introduction)
+- [The Cricket On The Hearth](/testi/dickens/atomized/the_cricket_on_the_hearth#story_02_the_cricket_on_the_hearth)
+- [The Cricket On The Hearth](/testi/dickens/atomized/the_cricket_on_the_hearth#story_03_the_cricket_on_the_hearth)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">79</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">6</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14.9</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

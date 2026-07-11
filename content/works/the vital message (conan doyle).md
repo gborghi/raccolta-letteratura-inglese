@@ -34,11 +34,10 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Chapter 1](/testi/conan_doyle/atomized/the_vital_message/chapter_01)
-- [Chapter 2](/testi/conan_doyle/atomized/the_vital_message/chapter_02)
-- [Chapter 3](/testi/conan_doyle/atomized/the_vital_message/chapter_03)
-- [Chapter 4](/testi/conan_doyle/atomized/the_vital_message/chapter_04)
-- [Chapter 5](/testi/conan_doyle/atomized/the_vital_message/chapter_05)
+- [Chapter 1](/testi/conan_doyle/atomized/the_vital_message#chapter_01)
+- [Chapter 2](/testi/conan_doyle/atomized/the_vital_message#chapter_02)
+- [Chapter 3](/testi/conan_doyle/atomized/the_vital_message#chapter_03)
+- [Chapter 4](/testi/conan_doyle/atomized/the_vital_message#chapter_04)
 
 ## Connections
 

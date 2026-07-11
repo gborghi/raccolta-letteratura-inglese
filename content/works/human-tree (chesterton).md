@@ -41,7 +41,7 @@ tags:
 
 ## Testo / Text
 
-- [human-tree](/testi/chesterton/atomized/human-tree/human-tree)
+- [human-tree](/testi/chesterton/atomized/human-tree#human-tree)
 
 ## Connections
 

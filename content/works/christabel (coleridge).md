@@ -28,11 +28,11 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Preface](/testi/coleridge/long/christabel/section_00_preface)
-- [Part I](/testi/coleridge/long/christabel/section_01_part_i)
-- [Conclusion to Part I](/testi/coleridge/long/christabel/section_02_conclusion_to_part_i)
-- [Part II](/testi/coleridge/long/christabel/section_03_part_ii)
-- [Conclusion to Part II](/testi/coleridge/long/christabel/section_04_conclusion_to_part_ii)
+- [Preface](/testi/coleridge/long/christabel#section_00_preface)
+- [Part I](/testi/coleridge/long/christabel#section_01_part_i)
+- [Conclusion to Part I](/testi/coleridge/long/christabel#section_02_conclusion_to_part_i)
+- [Part II](/testi/coleridge/long/christabel#section_03_part_ii)
+- [Conclusion to Part II](/testi/coleridge/long/christabel#section_04_conclusion_to_part_ii)
 
 ## Connections
 

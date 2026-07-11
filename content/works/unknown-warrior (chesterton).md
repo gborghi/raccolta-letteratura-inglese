@@ -40,7 +40,7 @@ tags:
 
 ## Testo / Text
 
-- [unknown-warrior](/testi/chesterton/atomized/unknown-warrior/unknown-warrior)
+- [unknown-warrior](/testi/chesterton/atomized/unknown-warrior#unknown-warrior)
 
 ## Connections
 

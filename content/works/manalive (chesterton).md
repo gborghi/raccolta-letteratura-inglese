@@ -63,18 +63,9 @@ tags:
 > [!abstract] 
 > A comic-allegorical novel in which the wild eccentric Innocent Smith is put on mock-trial for crimes (murder, burglary, desertion, polygamy) that prove to be exuberant affirmations of life; a celebration of wonder, innocence, joy and gratitude against grey modern pessimism.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Chapter 1](/testi/chesterton/atomized/manalive/chapter_01)
-- [Chapter 2](/testi/chesterton/atomized/manalive/chapter_02)
-- [Chapter 3](/testi/chesterton/atomized/manalive/chapter_03)
-- [Chapter 4](/testi/chesterton/atomized/manalive/chapter_04)
-- [Chapter 5](/testi/chesterton/atomized/manalive/chapter_05)
-- [Chapter 1](/testi/chesterton/atomized/manalive/chapter_07)
-- [Chapter 2](/testi/chesterton/atomized/manalive/chapter_08)
-- [Chapter 3](/testi/chesterton/atomized/manalive/chapter_09)
-- [Chapter 4](/testi/chesterton/atomized/manalive/chapter_10)
-- [Chapter 5](/testi/chesterton/atomized/manalive/chapter_11)
+- [Chapter 5](/testi/chesterton/atomized/manalive#chapter_11)
 
 ## Connections
 

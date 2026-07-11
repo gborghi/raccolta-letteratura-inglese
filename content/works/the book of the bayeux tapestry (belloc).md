@@ -36,10 +36,9 @@ tags:
 > [!abstract] 
 > A historical study of the Bayeux Tapestry read as the one surviving pictorial record of the Norman Conquest and the making of medieval Christendom. Belloc argues from costume, heraldry and Wace's Roman de Rou for a twelfth-century date, then narrates the embroidery panel by panel as a symbolic chronicle of Harold, Edward and William.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Introduction](/testi/belloc/atomized/the_book_of_the_bayeux_tapestry/story_01_introduction)
-- [Notes](/testi/belloc/atomized/the_book_of_the_bayeux_tapestry/story_02_notes)
+- [The Book of the Bayeux Tapestry](/testi/belloc/atomized/the_book_of_the_bayeux_tapestry#the_book_of_the_bayeux_tapestry)
 
 ## Connections
 

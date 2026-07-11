@@ -41,7 +41,7 @@ tags:
 
 ## Testo / Text
 
-- [rolling](/testi/chesterton/atomized/rolling/rolling)
+- [rolling](/testi/chesterton/atomized/rolling#rolling)
 
 ## Connections
 

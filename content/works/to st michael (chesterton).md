@@ -38,7 +38,7 @@ tags:
 
 ## Testo / Text
 
-- [to_st_michael](/testi/chesterton/atomized/to_st_michael/to_st_michael)
+- [to_st_michael](/testi/chesterton/atomized/to_st_michael#to_st_michael)
 
 ## Connections
 

@@ -38,7 +38,7 @@ tags:
 
 ## Testo / Text
 
-- [elegy](/testi/chesterton/atomized/elegy/elegy)
+- [elegy](/testi/chesterton/atomized/elegy#elegy)
 
 ## Connections
 

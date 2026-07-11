@@ -31,9 +31,9 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Act I, Scene 1](/testi/coleridge/plays/the_fall_of_robespierre/act_1/scene_1)
-- [Act II, Scene 1](/testi/coleridge/plays/the_fall_of_robespierre/act_2/scene_1)
-- [Act III, Scene 1](/testi/coleridge/plays/the_fall_of_robespierre/act_3/scene_1)
+- [Act I, Scene 1](/testi/coleridge/plays/the_fall_of_robespierre#act_1--scene_1)
+- [Act II, Scene 1](/testi/coleridge/plays/the_fall_of_robespierre#act_2--scene_1)
+- [Act III, Scene 1](/testi/coleridge/plays/the_fall_of_robespierre#act_3--scene_1)
 
 ## Connections
 

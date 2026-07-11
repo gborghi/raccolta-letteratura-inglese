@@ -35,15 +35,15 @@ tags:
 
 ## Testo / Text
 
-- [Introduction to ‘Essays in Literature and History’](/testi/belloc/atomized/introduction_to_essays_in_literature_and_history/introduction_to_essays_in_literature_and_history)
+- [Introduction to ‘Essays in Literature and History’](/testi/belloc/atomized/introduction_to_essays_in_literature_and_history#introduction_to_essays_in_literature_and_history)
 
 ## Parti / Parts
 
-- [Part 1](/testi/belloc/atomized/introduction_to_essays_in_literature_and_history/part/part_01)
-- [Part 2](/testi/belloc/atomized/introduction_to_essays_in_literature_and_history/part/part_02)
-- [Part 3](/testi/belloc/atomized/introduction_to_essays_in_literature_and_history/part/part_03)
-- [Part 4](/testi/belloc/atomized/introduction_to_essays_in_literature_and_history/part/part_04)
-- [Part 5](/testi/belloc/atomized/introduction_to_essays_in_literature_and_history/part/part_05)
+- [Part 1](/testi/belloc/atomized/introduction_to_essays_in_literature_and_history#part--part_01)
+- [Part 2](/testi/belloc/atomized/introduction_to_essays_in_literature_and_history#part--part_02)
+- [Part 3](/testi/belloc/atomized/introduction_to_essays_in_literature_and_history#part--part_03)
+- [Part 4](/testi/belloc/atomized/introduction_to_essays_in_literature_and_history#part--part_04)
+- [Part 5](/testi/belloc/atomized/introduction_to_essays_in_literature_and_history#part--part_05)
 
 ## Connections
 

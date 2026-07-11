@@ -35,27 +35,9 @@ tags:
 > [!abstract] 
 > Dickens's travel book recording his 1842 journey through the United States (and, in this edition, Pictures from Italy), observing American institutions, prisons, factory life, and above all delivering a sustained indictment of slavery. Central matter: travel writing as social observation and reformist satire of institutions, with a strong moral critique of slavery and social injustice.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Chapter 18](/testi/dickens/atomized/american_notes/chapter_01)
-- [Chapter 1](/testi/dickens/atomized/american_notes/chapter_02)
-- [Chapter 2](/testi/dickens/atomized/american_notes/chapter_03)
-- [Chapter 3](/testi/dickens/atomized/american_notes/chapter_04)
-- [Chapter 4](/testi/dickens/atomized/american_notes/chapter_05)
-- [Chapter 5](/testi/dickens/atomized/american_notes/chapter_06)
-- [Chapter 6](/testi/dickens/atomized/american_notes/chapter_07)
-- [Chapter 7](/testi/dickens/atomized/american_notes/chapter_08)
-- [Chapter 8](/testi/dickens/atomized/american_notes/chapter_09)
-- [Chapter 9](/testi/dickens/atomized/american_notes/chapter_10)
-- [Chapter 10](/testi/dickens/atomized/american_notes/chapter_11)
-- [Chapter 11](/testi/dickens/atomized/american_notes/chapter_12)
-- [Chapter 12](/testi/dickens/atomized/american_notes/chapter_13)
-- [Chapter 13](/testi/dickens/atomized/american_notes/chapter_14)
-- [Chapter 14](/testi/dickens/atomized/american_notes/chapter_15)
-- [Chapter 15](/testi/dickens/atomized/american_notes/chapter_16)
-- [Chapter 16](/testi/dickens/atomized/american_notes/chapter_17)
-- [Chapter 17](/testi/dickens/atomized/american_notes/chapter_18)
-- [Chapter 18](/testi/dickens/atomized/american_notes/chapter_19)
+- [Chapter 18](/testi/dickens/atomized/american_notes#chapter_01)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">58.7</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.1</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">9%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">28.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

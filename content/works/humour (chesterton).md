@@ -49,13 +49,13 @@ tags:
 
 ## Testo / Text
 
-- [Humour](/testi/chesterton/atomized/humour/humour)
+- [Humour](/testi/chesterton/atomized/humour#humour)
 
 ## Parti / Parts
 
-- [Part 1](/testi/chesterton/atomized/humour/part/part_01)
-- [Part 2](/testi/chesterton/atomized/humour/part/part_02)
-- [Part 3](/testi/chesterton/atomized/humour/part/part_03)
+- [Part 1](/testi/chesterton/atomized/humour#part--part_01)
+- [Part 2](/testi/chesterton/atomized/humour#part--part_02)
+- [Part 3](/testi/chesterton/atomized/humour#part--part_03)
 
 ## Connections
 

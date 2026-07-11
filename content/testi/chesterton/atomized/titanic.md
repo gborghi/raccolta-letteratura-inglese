@@ -1,0 +1,318 @@
+---
+title: "titanic"
+author: "Chesterton"
+unitType: work
+parentWork: "works/titanic-(chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+<div class="atom-reader" data-work="testi/chesterton/atomized/titanic" data-author="Chesterton" data-workhref="works/titanic-(chesterton)"></div>
+
+
+<span class="atom-split" data-atom="titanic" data-title="titanic" data-chapter="" data-kind="intro"></span>
+
+
+The Great Shipwreck as Analogy
+
+G.K.Chesterton
+
+May 11, 1912
+
+The Illustrated [[London]] News
+
+The [[Tragedy|tragedy]] of the great shipwreck is too terrific for any
+analogies of mere fancy.  But the analogy which springs to the mind
+between the great modern [[Ship|ship]] and our great modern society
+that sent it forth--this analogy is not a fancy.  It is a fact;
+a fact perhaps too large and plain for the eyes easily to take in.
+Our whole civilization is indeed very like the [[titanic|TITANIC]]; alike in
+its power and its impotence, it security and its insecurity.
+Technically considered, the sufficiency of the precautions are
+a matter for technical inquiry.  But psychologically considered,
+there can be no [[Doubt|doubt]] that such vast elaboration and system induce
+a frame of mind which is inefficient rather than efficient.
+Quite apart from the question of whether anyone was to blame,
+the big outstanding fact remains:  that there was no sort
+of sane proportion between the provision for luxury and levity,
+and the extent of the provision for need and desperation.
+The scheme did far too much for prosperity and far too little
+for distress--just like the modern State.  Mr. Veneering,
+it will be remembered, in his electoral address, "instituted a
+new and striking comparison between the State and a [[Ship|ship]]";
+the comparison, if not new, is becoming a little too striking.
+By the [[Time|time]] you have made your [[Ship|ship]] as big as a commonwealth it
+does become very like a [[Ship|ship]]--rather like a sinking [[Ship|ship]].
+
+For there is a real connection between such catastrophes
+and a certain frame of mind which refuses to expect them.
+A rough man going about the sea in a small boat may make
+every other kind of mistake:  he may obey superstitions;
+he may take too much rum; he may get drunk; he may get drowned.
+But, cautious or reckless, drunk or sober, he cannot forget that he is
+in a boat and that a boat is as dangerous a beast as a wild [[Horse|horse]].
+The very lines of the boat have the swift poetry of peril; the very
+carriage and gestures of the boat are those of a thing assailed.
+But if you make your boat so large that it does not even look like
+a boat, but like a sort of watering-place, it must, by the deepest
+habit of human [[Nature|nature]], induce a less vigilant attitude of the mind.
+An [[aristocrat]] on board [[Ship|ship]] who travels with a garage for his motor
+almost feels as if he were travelling with the trees of his park.
+People living in open-air cafes sprinkled with liqueurs and ices get
+as far from the thought of any revolt of the elements as they are from
+that of an earthquake under the Hotel Cecil.  The mental process is
+quite illogical, but it is quite inevitable.  Of course, both sailors
+and passengers are intellectually aware that motors at sea are often
+less useful than life-boats, and that ices are no antidote to icebergs.
+But man is not only governed by what he thinks but by what he chooses
+to think about; and the sights that sink into us day by day
+colour our minds with every tint between insolence and terror.
+This is one of the worst evils in that extreme separation of social
+classes which marks the modern [[Ship|ship]]--and State.
+
+But whether or no our unhappy fellow-creatures on the [[titanic|TITANIC]] suffered
+more than they need from this unreality of original outlook, they cannot
+have had less instinct of actuality than we have who are left alive
+on land:  and now that they are dead they are much more real than we.
+They have known what papers and politicians never know--of what man
+is really made, and what manner of thing is our [[Nature|nature]] at its best
+and worst.  It is this curious, cold, flimsy incapacity to conceive
+what a THING is like that appears in so many places, even in the comments
+on this astounding sorrow.  It appears in the displeasing incident
+of Miss Sylvia Pankhurst, who, immediately after the disaster,
+seems to have hastened to assure the public that men must get no credit
+for giving the boats up to women, because it was the "rule" at sea.
+Whether this was a graceful thing for a gay spinster to say
+to eight hundred widows in the very hour of doom is not worth
+inquiry here, Like cannibalism, it is a matter of taste.
+But what chiefly astonishes me in the remark is the utter
+absence which it reveals of the rudiments of political thought.
+What does Miss Pankhurst imagine a "rule" is--a sort of basilisk?
+Some hundreds of men are, in the exact and literal sense of the proverb,
+between the devil and the deep sea.  It is their business, if they can
+make up their minds to it, to accept the deep sea and resist the devil.
+What does Miss Pankhurst suppose a "rule" could do to them
+in such extremities?  Does she think the captain would fine
+every man sixpence who expressed a preference for his life?
+Has it occurred to her that a hundredth part of the [[Ship|ship]]'s population
+could have thrown the captain and all the authorities into the sea?
+But Miss Pankhurst's remark although imbecile, is informing.
+Now I see the abject and idolatrous way in which she uses the word "rule,"
+I begin to understand the abject and idolatrous way in which she uses
+the word "vote."  She cannot see that wills and not words control events.
+If ever she is in a [[Fire|fire]] or shipwreck with men below a certain
+standard of European morals, she will soon find out that the existence
+of a rule depends on whether people can be induced to obey it.
+And if she ever has a vote in the very low state of European politics,
+she will very soon find out that its importance depends on whether you can
+induce the man you vote for to obey his mandate or any of his promises.
+It is vain to rule if your subjects can and do disobey you.
+It is vain to vote if your delegates can and do disobey you.
+
+But, indeed, a real rule can do without such exceptions as
+the Suffragettes; de minimis non curat lex.  And if the word "rule"
+be used in the wider sense of an attempt to maintain a certain
+standard of private conduct out of respect for public opinion,
+we can only say that not only is this a real moral triumph, but it is,
+in our present condition, rather a surprising and reassuring one.
+It is exactly this corporate [[Conscience|conscience]] that the modern State
+has dangerously neglected.  There was probably more instinctive
+fraternity and sense of identical interests, I will say,
+not on an old skipper's vessel, but on an old pirate's, than there
+was between the emigrants, the aristocrats, the journalists,
+or the millionaires who set out to die together on the great [[Ship|ship]].
+That they found in so cruel a way their brotherhood and
+the need of man for the respect of his neighbour, this is a
+dreadful fact, but certainly the reverse of a degrading one.
+The case of Mr. Stead, which I feel with rather special emotions,
+both of sympathy and difference, is very typical of the whole [[Tragedy|tragedy]].
+Mr. Stead was far too great and brave a man to require any concealment
+of his exaggerations or his more unbalanced moods; his strength was
+in a flaming certainty, which one only weakens by calling sincerity,
+and a hunger and thirst for human sympathy.  His excess, we may say,
+with real respect, was in the direction of megalomania; a childlike
+belief in big empires, big newspapers, big alliances--big ships.
+He toiled like a Titan for that Anglo-American combination of
+which the [[Ship|ship]] that has gone down may [[Well|well]] be called the emblem.
+And at the last all these big things broke about him, and somewhat
+bigger things remained:  a [[Courage|courage]] that was entirely individual;
+a kindness that was entirely universal.  His [[Death|death]] may [[Well|well]]
+become a legend.
+
+G. K. Chesterton
+
+
+
+
+<span class="atom-split" data-atom="part--part_01" data-title="titanic (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+
+
+The Great Shipwreck as Analogy
+
+G.K.Chesterton
+
+May 11, 1912
+
+The Illustrated [[London]] News
+
+The [[Tragedy|tragedy]] of the great shipwreck is too terrific for any
+analogies of mere fancy.  But the analogy which springs to the mind
+between the great modern [[Ship|ship]] and our great modern society
+that sent it forth--this analogy is not a fancy.  It is a fact;
+a fact perhaps too large and plain for the eyes easily to take in.
+Our whole civilization is indeed very like the [[titanic|TITANIC]]; alike in
+its power and its impotence, it security and its insecurity.
+Technically considered, the sufficiency of the precautions are
+a matter for technical inquiry.  But psychologically considered,
+there can be no [[Doubt|doubt]] that such vast elaboration and system induce
+a frame of mind which is inefficient rather than efficient.
+Quite apart from the question of whether anyone was to blame,
+the big outstanding fact remains:  that there was no sort
+of sane proportion between the provision for luxury and levity,
+and the extent of the provision for need and desperation.
+The scheme did far too much for prosperity and far too little
+for distress--just like the modern State.  Mr. Veneering,
+it will be remembered, in his electoral address, "instituted a
+new and striking comparison between the State and a [[Ship|ship]]";
+the comparison, if not new, is becoming a little too striking.
+By the [[Time|time]] you have made your [[Ship|ship]] as big as a commonwealth it
+does become very like a [[Ship|ship]]--rather like a sinking [[Ship|ship]].
+
+For there is a real connection between such catastrophes
+and a certain frame of mind which refuses to expect them.
+A rough man going about the sea in a small boat may make
+every other kind of mistake:  he may obey superstitions;
+he may take too much rum; he may get drunk; he may get drowned.
+But, cautious or reckless, drunk or sober, he cannot forget that he is
+in a boat and that a boat is as dangerous a beast as a wild [[Horse|horse]].
+The very lines of the boat have the swift poetry of peril; the very
+carriage and gestures of the boat are those of a thing assailed.
+But if you make your boat so large that it does not even look like
+a boat, but like a sort of watering-place, it must, by the deepest
+habit of human [[Nature|nature]], induce a less vigilant attitude of the mind.
+An [[aristocrat]] on board [[Ship|ship]] who travels with a garage for his motor
+almost feels as if he were travelling with the trees of his park.
+People living in open-air cafes sprinkled with liqueurs and ices get
+as far from the thought of any revolt of the elements as they are from
+that of an earthquake under the Hotel Cecil.  The mental process is
+quite illogical, but it is quite inevitable.  Of course, both sailors
+and passengers are intellectually aware that motors at sea are often
+less useful than life-boats, and that ices are no antidote to icebergs.
+But man is not only governed by what he thinks but by what he chooses
+to think about; and the sights that sink into us day by day
+colour our minds with every tint between insolence and terror.
+This is one of the worst evils in that extreme separation of social
+classes which marks the modern [[Ship|ship]]--and State.
+
+But whether or no our unhappy fellow-creatures on the [[titanic|TITANIC]] suffered
+more than they need from this unreality of original outlook, they cannot
+have had less instinct of actuality than we have who are left alive
+on land:  and now that they are dead they are much more real than we.
+They have known what papers and politicians never know--of what man
+is really made, and what manner of thing is our [[Nature|nature]] at its best
+and worst.  It is this curious, cold, flimsy incapacity to conceive
+what a THING is like that appears in so many places, even in the comments
+on this astounding sorrow.  It appears in the displeasing incident
+of Miss Sylvia Pankhurst, who, immediately after the disaster,
+seems to have hastened to assure the public that men must get no credit
+for giving the boats up to women, because it was the "rule" at sea.
+Whether this was a graceful thing for a gay spinster to say
+to eight hundred widows in the very hour of doom is not worth
+inquiry here, Like cannibalism, it is a matter of taste.
+But what chiefly astonishes me in the remark is the utter
+absence which it reveals of the rudiments of political thought.
+What does Miss Pankhurst imagine a "rule" is--a sort of basilisk?
+Some hundreds of men are, in the exact and literal sense of the proverb,
+between the devil and the deep sea.  It is their business, if they can
+make up their minds to it, to accept the deep sea and resist the devil.
+What does Miss Pankhurst suppose a "rule" could do to them
+in such extremities?  Does she think the captain would fine
+every man sixpence who expressed a preference for his life?
+Has it occurred to her that a hundredth part of the [[Ship|ship]]'s population
+could have thrown the captain and all the authorities into the sea?
+But Miss Pankhurst's remark although imbecile, is informing.
+Now I see the abject and idolatrous way in which she uses the word "rule,"
+I begin to understand the abject and idolatrous way in which she uses
+the word "vote."  She cannot see that wills and not words control events.
+If ever she is in a [[Fire|fire]] or shipwreck with men below a certain
+standard of European morals, she will soon find out that the existence
+of a rule depends on whether people can be induced to obey it.
+And if she ever has a vote in the very low state of European politics,
+she will very soon find out that its importance depends on whether you can
+induce the man you vote for to obey his mandate or any of his promises.
+It is vain to rule if your subjects can and do disobey you.
+It is vain to vote if your delegates can and do disobey you.
+
+
+
+
+<span class="atom-split" data-atom="part--part_02" data-title="titanic (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+
+
+But, indeed, a real rule can do without such exceptions as
+the Suffragettes; de minimis non curat lex.  And if the word "rule"
+be used in the wider sense of an attempt to maintain a certain
+standard of private conduct out of respect for public opinion,
+we can only say that not only is this a real moral triumph, but it is,
+in our present condition, rather a surprising and reassuring one.
+It is exactly this corporate [[Conscience|conscience]] that the modern State
+has dangerously neglected.  There was probably more instinctive
+fraternity and sense of identical interests, I will say,
+not on an old skipper's vessel, but on an old pirate's, than there
+was between the emigrants, the aristocrats, the journalists,
+or the millionaires who set out to die together on the great [[Ship|ship]].
+That they found in so cruel a way their brotherhood and
+the need of man for the respect of his neighbour, this is a
+dreadful fact, but certainly the reverse of a degrading one.
+The case of Mr. Stead, which I feel with rather special emotions,
+both of sympathy and difference, is very typical of the whole [[Tragedy|tragedy]].
+Mr. Stead was far too great and brave a man to require any concealment
+of his exaggerations or his more unbalanced moods; his strength was
+in a flaming certainty, which one only weakens by calling sincerity,
+and a hunger and thirst for human sympathy.  His excess, we may say,
+with real respect, was in the direction of megalomania; a childlike
+belief in big empires, big newspapers, big alliances--big ships.
+He toiled like a Titan for that Anglo-American combination of
+which the [[Ship|ship]] that has gone down may [[Well|well]] be called the emblem.
+And at the last all these big things broke about him, and somewhat
+bigger things remained:  a [[Courage|courage]] that was entirely individual;
+a kindness that was entirely universal.  His [[Death|death]] may [[Well|well]]
+become a legend.
+
+G. K. Chesterton
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma, in verità, una regola vera può fare a meno di eccezioni come
+le Suffragette; de minimis non curat lex.  E se la parola "regola"
+si usa nel senso più ampio di un tentativo di mantenere un certo
+tenore di condotta privata per rispetto dell'opinione pubblica,
+possiamo solo dire che questo non è soltanto un vero trionfo morale, ma è,
+nelle nostre presenti condizioni, un trionfo piuttosto sorprendente e rassicurante.
+È proprio questa [[Conscience|coscienza]] collettiva che lo Stato moderno
+ha pericolosamente trascurato.  Vi era probabilmente più fraternità
+istintiva e senso di interessi comuni, oserei dire,
+non sul vascello di un vecchio capitano, ma su quello di un vecchio pirata, di quanto
+ve ne fosse tra gli emigranti, gli aristocratici, i giornalisti
+o i milionari che partirono per morire insieme sulla grande [[Ship|nave]].
+Che essi trovassero in modo così crudele la loro fratellanza e
+il bisogno che l'uomo ha del rispetto del suo prossimo, è un
+fatto tremendo, ma certo l'opposto di un fatto degradante.
+Il caso del signor Stead, che sento con emozioni piuttosto particolari,
+di simpatia e insieme di dissenso, è assai tipico dell'intera [[Tragedy|tragedia]].
+Il signor Stead era uomo troppo grande e coraggioso per richiedere che si celassero
+le sue esagerazioni o i suoi umori più sbilanciati; la sua forza stava
+in una fiammeggiante certezza, che si indebolisce soltanto chiamandola sincerità,
+e in una fame e sete di simpatia umana.  Il suo eccesso, possiamo dire,
+con vero rispetto, andava in direzione della megalomania; una fanciullesca
+fede nei grandi imperi, nei grandi giornali, nelle grandi alleanze--nelle grandi navi.
+Faticò come un Titano per quella combinazione anglo-americana di
+cui la [[Ship|nave]] colata a picco può [[Well|ben]] dirsi l'emblema.
+E alla fine tutte queste grandi cose gli crollarono intorno, e cose alquanto
+più grandi rimasero:  un [[Courage|coraggio]] tutto individuale;
+una bontà tutta universale.  La sua [[Death|morte]] potrà [[Well|ben]]
+diventare leggenda.
+
+G. K. Chesterton

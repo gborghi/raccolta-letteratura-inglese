@@ -33,12 +33,12 @@ tags:
 
 ## Testo / Text
 
-- [pun](/testi/chesterton/atomized/pun/pun)
+- [pun](/testi/chesterton/atomized/pun#pun)
 
 ## Parti / Parts
 
-- [Part 1](/testi/chesterton/atomized/pun/part/part_01)
-- [Part 2](/testi/chesterton/atomized/pun/part/part_02)
+- [Part 1](/testi/chesterton/atomized/pun#part--part_01)
+- [Part 2](/testi/chesterton/atomized/pun#part--part_02)
 
 ## Connections
 

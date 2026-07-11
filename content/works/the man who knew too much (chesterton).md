@@ -45,16 +45,9 @@ tags:
 > [!abstract] 
 > A cycle of detective stories whose disillusioned sleuth Horne Fisher 'knows too much' about the corruption of the governing class to expose the crimes he solves. Themes: political corruption, the cost of knowledge, justice frustrated, and patriotic self-sacrifice.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [The Face in the Target](/testi/chesterton/atomized/the_man_who_knew_too_much/story_01_the_face_in_the_target)
-- [The Vanishing Prince](/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince)
-- [The Soul of the Schoolboy](/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy)
-- [The Bottomless Well](/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well)
-- [The Fad of the Fisherman](/testi/chesterton/atomized/the_man_who_knew_too_much/story_05_the_fad_of_the_fisherman)
-- [The Hole in the Wall](/testi/chesterton/atomized/the_man_who_knew_too_much/story_06_the_hole_in_the_wall)
-- [The Temple of Silence](/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence)
-- [The Vengeance of the Statue](/testi/chesterton/atomized/the_man_who_knew_too_much/story_08_the_vengeance_of_the_statue)
+- [The Man Who Knew Too Much](/testi/chesterton/atomized/the_man_who_knew_too_much#the_man_who_knew_too_much)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">71.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7.9</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18.4</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

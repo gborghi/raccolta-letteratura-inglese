@@ -30,17 +30,16 @@ tags:
 
 ## Capitoli / Chapters
 
-- [The Adventure of Wisteria Lodge](/testi/conan_doyle/atomized/his_last_bow/story_01_the_adventure_of_wisteria_lodge)
-- [The Adventure of the Cardboard Box](/testi/conan_doyle/atomized/his_last_bow/story_02_the_adventure_of_the_cardboard_box)
-- [The Adventure of the Red Circle](/testi/conan_doyle/atomized/his_last_bow/story_03_the_adventure_of_the_red_circle)
-- [The Adventure of the Bruce-Partington Plans](/testi/conan_doyle/atomized/his_last_bow/story_04_the_adventure_of_the_bruce_partington_pl)
-- [The Adventure of the Dying Detective](/testi/conan_doyle/atomized/his_last_bow/story_05_the_adventure_of_the_dying_detective)
-- [The Disappearance of Lady Frances Carfax](/testi/conan_doyle/atomized/his_last_bow/story_06_the_disappearance_of_lady_frances_carfax)
-- [The Adventure of the Devil’s Foot](/testi/conan_doyle/atomized/his_last_bow/story_07_the_adventure_of_the_devils_foot)
-- [His Last Bow.- The War Service of Sherlock Holmes](/testi/conan_doyle/atomized/his_last_bow/story_08_his_last_bow_the_war_service_of_sherlock)
+- [The Adventure of the Cardboard Box](/testi/conan_doyle/atomized/his_last_bow#story_02_the_adventure_of_the_cardboard_box)
+- [The Adventure of the Red Circle](/testi/conan_doyle/atomized/his_last_bow#story_03_the_adventure_of_the_red_circle)
+- [The Adventure of the Bruce-Partington Plans](/testi/conan_doyle/atomized/his_last_bow#story_04_the_adventure_of_the_bruce_partington_pl)
+- [The Adventure of the Dying Detective](/testi/conan_doyle/atomized/his_last_bow#story_05_the_adventure_of_the_dying_detective)
+- [The Disappearance of Lady Frances Carfax](/testi/conan_doyle/atomized/his_last_bow#story_06_the_disappearance_of_lady_frances_carfax)
+- [The Adventure of the Devil’s Foot](/testi/conan_doyle/atomized/his_last_bow#story_07_the_adventure_of_the_devils_foot)
+- [His Last Bow.- The War Service of Sherlock Holmes](/testi/conan_doyle/atomized/his_last_bow#story_08_his_last_bow_the_war_service_of_sherlock)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-2.3</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">29.7</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">33.5</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">65</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">2.8</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">27.9</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">31.5</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">60.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 

@@ -31,13 +31,13 @@ tags:
 
 ## Testo / Text
 
-- [THE CASE OF MR. OSCAR SLATER](/testi/conan_doyle/atomized/the_case_of_mr_oscar_slater/the_case_of_mr_oscar_slater)
+- [THE CASE OF MR. OSCAR SLATER](/testi/conan_doyle/atomized/the_case_of_mr_oscar_slater#the_case_of_mr_oscar_slater)
 
 ## Parti / Parts
 
-- [Part 1](/testi/conan_doyle/atomized/the_case_of_mr_oscar_slater/part/part_01)
-- [Part 2](/testi/conan_doyle/atomized/the_case_of_mr_oscar_slater/part/part_02)
-- [Part 3](/testi/conan_doyle/atomized/the_case_of_mr_oscar_slater/part/part_03)
+- [Part 1](/testi/conan_doyle/atomized/the_case_of_mr_oscar_slater#part--part_01)
+- [Part 2](/testi/conan_doyle/atomized/the_case_of_mr_oscar_slater#part--part_02)
+- [Part 3](/testi/conan_doyle/atomized/the_case_of_mr_oscar_slater#part--part_03)
 
 ## Connections
 

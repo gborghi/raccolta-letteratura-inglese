@@ -42,7 +42,7 @@ tags:
 
 ## Testo / Text
 
-- [aristocrat](/testi/chesterton/atomized/aristocrat/aristocrat)
+- [aristocrat](/testi/chesterton/atomized/aristocrat#aristocrat)
 
 ## Connections
 

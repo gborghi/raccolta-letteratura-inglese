@@ -51,15 +51,15 @@ tags:
 
 ## Testo / Text
 
-- [Lord Arthur Savile's Crime](/testi/wilde/atomized/020_lord_arthur_saviles_crime/020_lord_arthur_saviles_crime)
+- [Lord Arthur Savile's Crime](/testi/wilde/atomized/020_lord_arthur_saviles_crime#020_lord_arthur_saviles_crime)
 
 ## Parti / Parts
 
-- [Part 1](/testi/wilde/atomized/020_lord_arthur_saviles_crime/part/part_01)
-- [Part 2](/testi/wilde/atomized/020_lord_arthur_saviles_crime/part/part_02)
-- [Part 3](/testi/wilde/atomized/020_lord_arthur_saviles_crime/part/part_03)
-- [Part 4](/testi/wilde/atomized/020_lord_arthur_saviles_crime/part/part_04)
-- [Part 5](/testi/wilde/atomized/020_lord_arthur_saviles_crime/part/part_05)
+- [Part 1](/testi/wilde/atomized/020_lord_arthur_saviles_crime#part--part_01)
+- [Part 2](/testi/wilde/atomized/020_lord_arthur_saviles_crime#part--part_02)
+- [Part 3](/testi/wilde/atomized/020_lord_arthur_saviles_crime#part--part_03)
+- [Part 4](/testi/wilde/atomized/020_lord_arthur_saviles_crime#part--part_04)
+- [Part 5](/testi/wilde/atomized/020_lord_arthur_saviles_crime#part--part_05)
 
 ## Connections
 

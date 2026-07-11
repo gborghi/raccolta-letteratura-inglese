@@ -41,7 +41,7 @@ tags:
 
 ## Testo / Text
 
-- [litany](/testi/chesterton/atomized/litany/litany)
+- [litany](/testi/chesterton/atomized/litany#litany)
 
 ## Connections
 

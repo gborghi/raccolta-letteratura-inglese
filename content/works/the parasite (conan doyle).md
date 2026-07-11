@@ -33,14 +33,14 @@ tags:
 
 ## Testo / Text
 
-- [THE PARASITE](/testi/conan_doyle/atomized/the_parasite/the_parasite)
+- [THE PARASITE](/testi/conan_doyle/atomized/the_parasite#the_parasite)
 
 ## Parti / Parts
 
-- [Part 1](/testi/conan_doyle/atomized/the_parasite/part/part_01)
-- [Part 2](/testi/conan_doyle/atomized/the_parasite/part/part_02)
-- [Part 3](/testi/conan_doyle/atomized/the_parasite/part/part_03)
-- [Part 4](/testi/conan_doyle/atomized/the_parasite/part/part_04)
+- [Part 1](/testi/conan_doyle/atomized/the_parasite#part--part_01)
+- [Part 2](/testi/conan_doyle/atomized/the_parasite#part--part_02)
+- [Part 3](/testi/conan_doyle/atomized/the_parasite#part--part_03)
+- [Part 4](/testi/conan_doyle/atomized/the_parasite#part--part_04)
 
 ## Connections
 

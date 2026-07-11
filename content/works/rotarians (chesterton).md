@@ -32,7 +32,7 @@ tags:
 
 ## Testo / Text
 
-- [rotarians](/testi/chesterton/atomized/rotarians/rotarians)
+- [rotarians](/testi/chesterton/atomized/rotarians#rotarians)
 
 ## Connections
 

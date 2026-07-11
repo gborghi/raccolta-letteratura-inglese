@@ -52,12 +52,12 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Part I](/testi/wilde/long/the_ballad_of_reading_gaol/section_01_part_i)
-- [Part II](/testi/wilde/long/the_ballad_of_reading_gaol/section_02_part_ii)
-- [Part III](/testi/wilde/long/the_ballad_of_reading_gaol/section_03_part_iii)
-- [Part IV](/testi/wilde/long/the_ballad_of_reading_gaol/section_04_part_iv)
-- [Part V](/testi/wilde/long/the_ballad_of_reading_gaol/section_05_part_v)
-- [Part VI](/testi/wilde/long/the_ballad_of_reading_gaol/section_06_part_vi)
+- [Part I](/testi/wilde/long/the_ballad_of_reading_gaol#section_01_part_i)
+- [Part II](/testi/wilde/long/the_ballad_of_reading_gaol#section_02_part_ii)
+- [Part III](/testi/wilde/long/the_ballad_of_reading_gaol#section_03_part_iii)
+- [Part IV](/testi/wilde/long/the_ballad_of_reading_gaol#section_04_part_iv)
+- [Part V](/testi/wilde/long/the_ballad_of_reading_gaol#section_05_part_v)
+- [Part VI](/testi/wilde/long/the_ballad_of_reading_gaol#section_06_part_vi)
 
 ## Connections
 

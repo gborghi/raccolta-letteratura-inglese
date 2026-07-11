@@ -72,15 +72,8 @@ tags:
 
 ## Capitoli / Chapters
 
-- [INTRODUCTION TO THE FIRST EDITION](/testi/chesterton/atomized/shaw/story_01_introduction_to_the_first_edition)
-- [THE PROBLEM OF A PREFACE](/testi/chesterton/atomized/shaw/story_02_the_problem_of_a_preface)
-- [THE IRISHMAN](/testi/chesterton/atomized/shaw/story_03_the_irishman)
-- [THE PURITAN](/testi/chesterton/atomized/shaw/story_04_the_puritan)
-- [THE PROGRESSIVE](/testi/chesterton/atomized/shaw/story_05_the_progressive)
-- [THE CRITIC](/testi/chesterton/atomized/shaw/story_06_the_critic)
-- [THE DRAMATIST](/testi/chesterton/atomized/shaw/story_07_the_dramatist)
-- [THE PHILOSOPHER](/testi/chesterton/atomized/shaw/story_08_the_philosopher)
-- [THE LATER PHASES](/testi/chesterton/atomized/shaw/story_09_the_later_phases)
+- [INTRODUCTION TO THE FIRST EDITION](/testi/chesterton/atomized/shaw#story_01_introduction_to_the_first_edition)
+- [THE PROBLEM OF A PREFACE](/testi/chesterton/atomized/shaw#story_02_the_problem_of_a_preface)
 
 ## Connections
 

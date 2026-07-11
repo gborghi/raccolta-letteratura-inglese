@@ -38,18 +38,18 @@ tags:
 
 ## Capitoli / Chapters
 
-- [THE GREEN FLAG](/testi/conan_doyle/atomized/the_green_flag_and_other_stories/story_01_the_green_flag)
-- [CAPTAIN SHARKEY.](/testi/conan_doyle/atomized/the_green_flag_and_other_stories/story_02_captain_sharkey)
-- [THE DEALINGS OF CAPTAIN SHARKEY WITH STEPHEN CRADDOCK](/testi/conan_doyle/atomized/the_green_flag_and_other_stories/story_03_the_dealings_of_captain_sharkey_with_ste)
-- [HOW COPLEY BANKS SLEW CAPTAIN SHARKEY](/testi/conan_doyle/atomized/the_green_flag_and_other_stories/story_04_how_copley_banks_slew_captain_sharkey)
-- [THE CROXLEY MASTER](/testi/conan_doyle/atomized/the_green_flag_and_other_stories/story_05_the_croxley_master)
-- [THE LORD OF CHATEAU NOIR](/testi/conan_doyle/atomized/the_green_flag_and_other_stories/story_06_the_lord_of_chateau_noir)
-- [THE STRIPED CHEST](/testi/conan_doyle/atomized/the_green_flag_and_other_stories/story_07_the_striped_chest)
-- [A SHADOW BEFORE](/testi/conan_doyle/atomized/the_green_flag_and_other_stories/story_08_a_shadow_before)
-- [THE KING OF THE FOXES](/testi/conan_doyle/atomized/the_green_flag_and_other_stories/story_09_the_king_of_the_foxes)
-- [THE THREE CORRESPONDENTS](/testi/conan_doyle/atomized/the_green_flag_and_other_stories/story_10_the_three_correspondents)
-- [THE DEBUT OF BIMBASHI JOYCE](/testi/conan_doyle/atomized/the_green_flag_and_other_stories/story_11_the_debut_of_bimbashi_joyce)
-- [A FOREIGN OFFICE ROMANCE](/testi/conan_doyle/atomized/the_green_flag_and_other_stories/story_12_a_foreign_office_romance)
+- [THE GREEN FLAG](/testi/conan_doyle/atomized/the_green_flag_and_other_stories#story_01_the_green_flag)
+- [CAPTAIN SHARKEY.](/testi/conan_doyle/atomized/the_green_flag_and_other_stories#story_02_captain_sharkey)
+- [THE DEALINGS OF CAPTAIN SHARKEY WITH STEPHEN CRADDOCK](/testi/conan_doyle/atomized/the_green_flag_and_other_stories#story_03_the_dealings_of_captain_sharkey_with_ste)
+- [HOW COPLEY BANKS SLEW CAPTAIN SHARKEY](/testi/conan_doyle/atomized/the_green_flag_and_other_stories#story_04_how_copley_banks_slew_captain_sharkey)
+- [THE CROXLEY MASTER](/testi/conan_doyle/atomized/the_green_flag_and_other_stories#story_05_the_croxley_master)
+- [THE LORD OF CHATEAU NOIR](/testi/conan_doyle/atomized/the_green_flag_and_other_stories#story_06_the_lord_of_chateau_noir)
+- [THE STRIPED CHEST](/testi/conan_doyle/atomized/the_green_flag_and_other_stories#story_07_the_striped_chest)
+- [A SHADOW BEFORE](/testi/conan_doyle/atomized/the_green_flag_and_other_stories#story_08_a_shadow_before)
+- [THE KING OF THE FOXES](/testi/conan_doyle/atomized/the_green_flag_and_other_stories#story_09_the_king_of_the_foxes)
+- [THE THREE CORRESPONDENTS](/testi/conan_doyle/atomized/the_green_flag_and_other_stories#story_10_the_three_correspondents)
+- [THE DEBUT OF BIMBASHI JOYCE](/testi/conan_doyle/atomized/the_green_flag_and_other_stories#story_11_the_debut_of_bimbashi_joyce)
+- [A FOREIGN OFFICE ROMANCE](/testi/conan_doyle/atomized/the_green_flag_and_other_stories#story_12_a_foreign_office_romance)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-27.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">38.9</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">40.1</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">87.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

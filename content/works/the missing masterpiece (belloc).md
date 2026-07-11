@@ -35,26 +35,12 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Chapter 1](/testi/belloc/atomized/the_missing_masterpiece/chapter_01)
-- [Chapter 2](/testi/belloc/atomized/the_missing_masterpiece/chapter_02)
-- [Chapter 3](/testi/belloc/atomized/the_missing_masterpiece/chapter_03)
-- [Chapter 4](/testi/belloc/atomized/the_missing_masterpiece/chapter_04)
-- [Chapter 5](/testi/belloc/atomized/the_missing_masterpiece/chapter_05)
-- [Chapter 6](/testi/belloc/atomized/the_missing_masterpiece/chapter_06)
-- [Chapter 7](/testi/belloc/atomized/the_missing_masterpiece/chapter_07)
-- [Chapter 8](/testi/belloc/atomized/the_missing_masterpiece/chapter_08)
-- [Chapter 9](/testi/belloc/atomized/the_missing_masterpiece/chapter_09)
-- [Chapter 10](/testi/belloc/atomized/the_missing_masterpiece/chapter_10)
-- [Chapter 11](/testi/belloc/atomized/the_missing_masterpiece/chapter_11)
-- [Chapter 12](/testi/belloc/atomized/the_missing_masterpiece/chapter_12)
-- [Chapter 13](/testi/belloc/atomized/the_missing_masterpiece/chapter_13)
-- [Chapter 14](/testi/belloc/atomized/the_missing_masterpiece/chapter_14)
-- [Chapter 15](/testi/belloc/atomized/the_missing_masterpiece/chapter_15)
-- [Chapter 16](/testi/belloc/atomized/the_missing_masterpiece/chapter_16)
-- [Chapter 17](/testi/belloc/atomized/the_missing_masterpiece/chapter_17)
-- [Chapter 18](/testi/belloc/atomized/the_missing_masterpiece/chapter_18)
-- [Chapter 19](/testi/belloc/atomized/the_missing_masterpiece/chapter_19)
-- [Chapter 20](/testi/belloc/atomized/the_missing_masterpiece/chapter_20)
+- [Chapter 2](/testi/belloc/atomized/the_missing_masterpiece#chapter_02)
+- [Chapter 3](/testi/belloc/atomized/the_missing_masterpiece#chapter_03)
+- [Chapter 6](/testi/belloc/atomized/the_missing_masterpiece#chapter_06)
+- [Chapter 9](/testi/belloc/atomized/the_missing_masterpiece#chapter_09)
+- [Chapter 10](/testi/belloc/atomized/the_missing_masterpiece#chapter_10)
+- [Chapter 16](/testi/belloc/atomized/the_missing_masterpiece#chapter_16)
 
 ## Connections
 

@@ -27,8 +27,8 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Canto I](/testi/keats/long/the_fall_of_hyperion/section_01_canto_i)
-- [Canto II](/testi/keats/long/the_fall_of_hyperion/section_02_canto_ii)
+- [Canto I](/testi/keats/long/the_fall_of_hyperion#section_01_canto_i)
+- [Canto II](/testi/keats/long/the_fall_of_hyperion#section_02_canto_ii)
 
 ## Connections
 

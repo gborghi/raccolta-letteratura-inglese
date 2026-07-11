@@ -57,16 +57,9 @@ tags:
 > [!abstract] 
 > A linked cycle of detective/mystery stories featuring the poet Gabriel Gale, who solves crimes through imaginative sympathy; explores sanity, madness, the supernatural and good vs evil.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [THE FANTASTIC FRIENDS](/testi/chesterton/atomized/poet_and_lunatics/story_01_the_fantastic_friends)
-- [THE YELLOW BIRD](/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird)
-- [THE SHADOW OF THE SHARK](/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_shadow_of_the_shark)
-- [THE CRIME OF GABRIEL GALE](/testi/chesterton/atomized/poet_and_lunatics/story_04_the_crime_of_gabriel_gale)
-- [THE FINGER OF STONE](/testi/chesterton/atomized/poet_and_lunatics/story_05_the_finger_of_stone)
-- [THE HOUSE OF THE PEACOCK](/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_house_of_the_peacock)
-- [THE PURPLE JEWEL](/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel_jewel)
-- [THE ASYLUM OF ADVENTURE](/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure)
+- [Poet and Lunatics](/testi/chesterton/atomized/poet_and_lunatics#poet_and_lunatics)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">70.7</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.3</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.1</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

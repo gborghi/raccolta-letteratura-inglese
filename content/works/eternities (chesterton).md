@@ -30,7 +30,7 @@ tags:
 
 ## Testo / Text
 
-- [eternities](/testi/chesterton/atomized/eternities/eternities)
+- [eternities](/testi/chesterton/atomized/eternities#eternities)
 
 ## Connections
 

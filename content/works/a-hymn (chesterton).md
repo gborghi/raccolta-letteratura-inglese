@@ -37,7 +37,7 @@ tags:
 
 ## Testo / Text
 
-- [a-hymn](/testi/chesterton/atomized/a-hymn/a-hymn)
+- [a-hymn](/testi/chesterton/atomized/a-hymn#a-hymn)
 
 ## Connections
 

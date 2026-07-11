@@ -41,7 +41,7 @@ tags:
 
 ## Testo / Text
 
-- [christmas-poem](/testi/chesterton/atomized/christmas-poem/christmas-poem)
+- [christmas-poem](/testi/chesterton/atomized/christmas-poem#christmas-poem)
 
 ## Connections
 

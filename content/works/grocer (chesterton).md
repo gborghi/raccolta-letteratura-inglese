@@ -37,7 +37,7 @@ tags:
 
 ## Testo / Text
 
-- [grocer](/testi/chesterton/atomized/grocer/grocer)
+- [grocer](/testi/chesterton/atomized/grocer#grocer)
 
 ## Connections
 

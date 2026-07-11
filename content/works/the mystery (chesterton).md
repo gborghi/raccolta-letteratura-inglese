@@ -34,7 +34,7 @@ tags:
 
 ## Testo / Text
 
-- [the_mystery](/testi/chesterton/atomized/the_mystery/the_mystery)
+- [the_mystery](/testi/chesterton/atomized/the_mystery#the_mystery)
 
 ## Connections
 

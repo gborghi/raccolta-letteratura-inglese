@@ -68,16 +68,9 @@ tags:
 > [!abstract] 
 > A collection of Father Brown detective stories in which the priest-sleuth solves crimes by reason and human insight while debunking false miracles and superstition; detective fiction with theological undercurrents.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [The Resurrection of Father Brown](/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown)
-- [The Arrow of Heaven](/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven)
-- [The Oracle of the Dog](/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog)
-- [The Miracle of Moon Crescent](/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent)
-- [The Curse of the Golden Cross](/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross)
-- [The Dagger with Wings](/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings)
-- [The Doom of the Darnaways](/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways)
-- [The Ghost of Gideon Wise](/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise)
+- [Incredulity](/testi/chesterton/atomized/incredulity#incredulity)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">72.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.3</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">20.1</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

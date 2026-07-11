@@ -38,7 +38,7 @@ tags:
 
 ## Testo / Text
 
-- [spring](/testi/chesterton/atomized/spring/spring)
+- [spring](/testi/chesterton/atomized/spring#spring)
 
 ## Connections
 

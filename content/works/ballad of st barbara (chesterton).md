@@ -51,7 +51,7 @@ tags:
 
 ## Testo / Text
 
-- [Ballad_of_St_Barbara](/testi/chesterton/atomized/ballad_of_st_barbara/ballad_of_st_barbara)
+- [Ballad_of_St_Barbara](/testi/chesterton/atomized/ballad_of_st_barbara#ballad_of_st_barbara)
 
 ## Connections
 

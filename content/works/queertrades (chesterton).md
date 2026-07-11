@@ -38,14 +38,9 @@ tags:
 > [!abstract] 
 > A cycle of fantastic detective stories about a club whose members must invent their own trade; mysteries solved by the eccentric ex-judge Basil Grant. Themes: ratiocination, the grotesque, wonder in the everyday.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Chapter 1](/testi/chesterton/atomized/queertrades/story_01_chapter_1)
-- [Chapter 2](/testi/chesterton/atomized/queertrades/story_02_chapter_2)
-- [Chapter 3](/testi/chesterton/atomized/queertrades/story_03_chapter_3)
-- [Chapter 4](/testi/chesterton/atomized/queertrades/story_04_chapter_4)
-- [Chapter 5](/testi/chesterton/atomized/queertrades/story_05_chapter_5)
-- [Chapter 6](/testi/chesterton/atomized/queertrades/story_06_chapter_6)
+- [The Club of Queer Trades](/testi/chesterton/atomized/queertrades#queertrades)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">74.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">6.7</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">9.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15.4</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

@@ -34,7 +34,7 @@ tags:
 
 ## Testo / Text
 
-- [donkey](/testi/chesterton/atomized/donkey/donkey)
+- [donkey](/testi/chesterton/atomized/donkey#donkey)
 
 ## Connections
 

@@ -51,7 +51,7 @@ tags:
 
 ## Testo / Text
 
-- [lepanto](/testi/chesterton/atomized/lepanto/lepanto)
+- [lepanto](/testi/chesterton/atomized/lepanto#lepanto)
 
 ## Connections
 

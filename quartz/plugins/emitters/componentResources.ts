@@ -22,6 +22,8 @@ import relatedWorksScript from "../../components/scripts/relatedWorks.inline"
 import copyrightGuardScript from "../../components/scripts/copyrightGuard.inline"
 // @ts-ignore
 import searchLoadingScript from "../../components/scripts/searchLoading.inline"
+// @ts-ignore
+import atomRouterScript from "../../components/scripts/atomRouter.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
@@ -127,6 +129,9 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     // Spinner on the top-bar search button until the (large) contentIndex has
     // loaded + FlexSearch is built (see searchLoading.inline.ts).
     searchLoadingScript,
+    // Reading-page SPA: partitions a work page's atom-split sections and shows one
+    // atom at a time with a TOC, prev/next and EN/IT toggle (see atomRouter.inline.ts).
+    atomRouterScript,
   )
 
   if (cfg.analytics?.provider === "google") {

@@ -35,7 +35,7 @@ tags:
 
 ## Testo / Text
 
-- [kingcole](/testi/chesterton/atomized/kingcole/kingcole)
+- [kingcole](/testi/chesterton/atomized/kingcole#kingcole)
 
 ## Connections
 

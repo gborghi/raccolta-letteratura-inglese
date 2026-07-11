@@ -34,7 +34,7 @@ tags:
 
 ## Testo / Text
 
-- [Nevercometrue](/testi/chesterton/atomized/nevercometrue/nevercometrue)
+- [Nevercometrue](/testi/chesterton/atomized/nevercometrue#nevercometrue)
 
 ## Connections
 

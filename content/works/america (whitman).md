@@ -24,13 +24,13 @@ tags:
 
 ## Testo / Text
 
-- [America](/testi/chesterton/atomized/america/america)
+- [America](/testi/chesterton/atomized/america#america)
 
 ## Parti / Parts
 
-- [Part 1](/testi/chesterton/atomized/america/part/part_01)
-- [Part 2](/testi/chesterton/atomized/america/part/part_02)
-- [Part 3](/testi/chesterton/atomized/america/part/part_03)
+- [Part 1](/testi/chesterton/atomized/america#part--part_01)
+- [Part 2](/testi/chesterton/atomized/america#part--part_02)
+- [Part 3](/testi/chesterton/atomized/america#part--part_03)
 
 ## Connections
 

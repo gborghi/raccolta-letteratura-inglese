@@ -44,7 +44,7 @@ tags:
 
 ## Testo / Text
 
-- [towers-of-time](/testi/chesterton/atomized/towers-of-time/towers-of-time)
+- [towers-of-time](/testi/chesterton/atomized/towers-of-time#towers-of-time)
 
 ## Connections
 

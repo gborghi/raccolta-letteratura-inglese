@@ -32,7 +32,7 @@ tags:
 
 ## Testo / Text
 
-- [Jones](/testi/chesterton/atomized/jones/jones)
+- [Jones](/testi/chesterton/atomized/jones#jones)
 
 ## Connections
 

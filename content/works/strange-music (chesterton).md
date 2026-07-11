@@ -32,7 +32,7 @@ tags:
 
 ## Testo / Text
 
-- [strange-music](/testi/chesterton/atomized/strange-music/strange-music)
+- [strange-music](/testi/chesterton/atomized/strange-music#strange-music)
 
 ## Connections
 

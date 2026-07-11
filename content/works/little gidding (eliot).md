@@ -32,11 +32,11 @@ tags:
 
 ## Capitoli / Chapters
 
-- [I](/testi/eliot/long/little_gidding/section_01_part_i)
-- [II](/testi/eliot/long/little_gidding/section_02_part_ii)
-- [III](/testi/eliot/long/little_gidding/section_03_part_iii)
-- [IV](/testi/eliot/long/little_gidding/section_04_part_iv)
-- [V](/testi/eliot/long/little_gidding/section_05_part_v)
+- [I](/testi/eliot/long/little_gidding#section_01_part_i)
+- [II](/testi/eliot/long/little_gidding#section_02_part_ii)
+- [III](/testi/eliot/long/little_gidding#section_03_part_iii)
+- [IV](/testi/eliot/long/little_gidding#section_04_part_iv)
+- [V](/testi/eliot/long/little_gidding#section_05_part_v)
 
 ## Connections
 

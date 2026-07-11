@@ -33,7 +33,7 @@ tags:
 
 ## Testo / Text
 
-- [The_Judgment_of_England](/testi/chesterton/atomized/the_judgment_of_england/the_judgment_of_england)
+- [The_Judgment_of_England](/testi/chesterton/atomized/the_judgment_of_england#the_judgment_of_england)
 
 ## Connections
 

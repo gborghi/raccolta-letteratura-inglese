@@ -40,7 +40,7 @@ tags:
 
 ## Testo / Text
 
-- [house](/testi/chesterton/atomized/house/house)
+- [house](/testi/chesterton/atomized/house#house)
 
 ## Connections
 

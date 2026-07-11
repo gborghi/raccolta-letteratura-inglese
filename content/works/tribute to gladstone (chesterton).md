@@ -38,7 +38,7 @@ tags:
 
 ## Testo / Text
 
-- [Tribute_To_Gladstone](/testi/chesterton/atomized/tribute_to_gladstone/tribute_to_gladstone)
+- [Tribute_To_Gladstone](/testi/chesterton/atomized/tribute_to_gladstone#tribute_to_gladstone)
 
 ## Connections
 

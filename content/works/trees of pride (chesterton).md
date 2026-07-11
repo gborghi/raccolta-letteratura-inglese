@@ -57,12 +57,9 @@ tags:
 > [!abstract] 
 > A 1922 mystery novella set on the Cornish coast: peasant legends of poisonous 'peacock trees', a squire's disappearance, a faked murder unravelled by a detective doctor; pits rational scepticism against folk wisdom.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [THE TALE OF THE PEACOCK TREES](/testi/chesterton/atomized/trees_of_pride/story_03_the_tale_of_the_peacock_trees)
-- [THE WAGER OF SQUIRE VANE](/testi/chesterton/atomized/trees_of_pride/story_04_the_wager_of_squire_vane)
-- [THE MYSTERY OF THE WELL](/testi/chesterton/atomized/trees_of_pride/story_05_the_mystery_of_the_well_well)
-- [THE CHASE AFTER THE TRUTH](/testi/chesterton/atomized/trees_of_pride/story_06_the_chase_after_the_truth_truth)
+- [trees of pride](/testi/chesterton/atomized/trees_of_pride#trees_of_pride)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">73.7</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7.6</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.3</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

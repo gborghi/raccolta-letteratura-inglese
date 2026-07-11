@@ -34,11 +34,11 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Chapter 4](/testi/conan_doyle/atomized/the_new_revelation/chapter_01)
-- [Chapter 1](/testi/conan_doyle/atomized/the_new_revelation/chapter_02)
-- [Chapter 2](/testi/conan_doyle/atomized/the_new_revelation/chapter_03)
-- [Chapter 3](/testi/conan_doyle/atomized/the_new_revelation/chapter_04)
-- [Chapter 4](/testi/conan_doyle/atomized/the_new_revelation/chapter_05)
+- [Chapter 4](/testi/conan_doyle/atomized/the_new_revelation#chapter_01)
+- [Chapter 1](/testi/conan_doyle/atomized/the_new_revelation#chapter_02)
+- [Chapter 2](/testi/conan_doyle/atomized/the_new_revelation#chapter_03)
+- [Chapter 3](/testi/conan_doyle/atomized/the_new_revelation#chapter_04)
+- [Chapter 4](/testi/conan_doyle/atomized/the_new_revelation#chapter_05)
 
 ## Connections
 

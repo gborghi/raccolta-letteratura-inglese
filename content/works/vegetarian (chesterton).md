@@ -31,7 +31,7 @@ tags:
 
 ## Testo / Text
 
-- [vegetarian](/testi/chesterton/atomized/vegetarian/vegetarian)
+- [vegetarian](/testi/chesterton/atomized/vegetarian#vegetarian)
 
 ## Connections
 

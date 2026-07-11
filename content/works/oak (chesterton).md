@@ -49,7 +49,7 @@ tags:
 
 ## Testo / Text
 
-- [oak](/testi/chesterton/atomized/oak/oak)
+- [oak](/testi/chesterton/atomized/oak#oak)
 
 ## Connections
 

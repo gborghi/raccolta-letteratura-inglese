@@ -35,7 +35,7 @@ tags:
 
 ## Testo / Text
 
-- [Gloria_in_Profundis](/testi/chesterton/atomized/gloria_in_profundis/gloria_in_profundis)
+- [Gloria_in_Profundis](/testi/chesterton/atomized/gloria_in_profundis#gloria_in_profundis)
 
 ## Connections
 

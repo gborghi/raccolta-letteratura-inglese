@@ -67,8 +67,16 @@ function trim(file, resolve) {
     try {
       counts = tokens(fs.readFileSync(mdPath, "utf8"))
     } catch {
-      missing++
-      counts = new Map() // keep entry but empty; fallback below
+      // SPA restructure: atomized excerpts have no standalone file (their key is a
+      // `workSlug#atomId` fragment). preprocess already stored the excerpt's vocab as
+      // the index value, so tokenize that instead of failing.
+      const stored = idx[href]
+      if (typeof stored === "string" && stored) {
+        counts = tokens(stored)
+      } else {
+        missing++
+        counts = new Map()
+      }
     }
     tf.set(href, counts)
     for (const w of counts.keys()) df.set(w, (df.get(w) || 0) + 1)

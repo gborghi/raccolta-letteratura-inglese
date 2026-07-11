@@ -28,7 +28,7 @@ tags:
 
 ## Testo / Text
 
-- [Part 2](/testi/conan_doyle/atomized/the_edge_of_the_unknown/chapter_01)
+- [THE EDGE OF THE UNKNOWN](/testi/conan_doyle/atomized/the_edge_of_the_unknown#the_edge_of_the_unknown)
 
 ## Connections
 

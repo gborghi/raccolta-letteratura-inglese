@@ -39,7 +39,7 @@ tags:
 
 ## Testo / Text
 
-- [Francis_Xavier](/testi/chesterton/atomized/francis_xavier/francis_xavier)
+- [Francis_Xavier](/testi/chesterton/atomized/francis_xavier#francis_xavier)
 
 ## Connections
 

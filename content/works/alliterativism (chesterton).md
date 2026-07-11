@@ -32,7 +32,7 @@ tags:
 
 ## Testo / Text
 
-- [alliterativism](/testi/chesterton/atomized/alliterativism/alliterativism)
+- [alliterativism](/testi/chesterton/atomized/alliterativism#alliterativism)
 
 ## Connections
 

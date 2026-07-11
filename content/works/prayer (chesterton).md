@@ -42,7 +42,7 @@ tags:
 
 ## Testo / Text
 
-- [prayer](/testi/chesterton/atomized/prayer/prayer)
+- [prayer](/testi/chesterton/atomized/prayer#prayer)
 
 ## Connections
 

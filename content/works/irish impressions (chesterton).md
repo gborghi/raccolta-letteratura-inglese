@@ -67,15 +67,15 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Two Stones in a Square](/testi/chesterton/atomized/irish_impressions/story_01_two_stones_in_a_square)
-- [The Root of Reality](/testi/chesterton/atomized/irish_impressions/story_02_the_root_of_reality)
-- [The Family and the Feud](/testi/chesterton/atomized/irish_impressions/story_03_the_family_and_the_feud)
-- [The Paradox of Labour](/testi/chesterton/atomized/irish_impressions/story_04_the_paradox_of_labour)
-- [The Englishman in Ireland](/testi/chesterton/atomized/irish_impressions/story_05_the_englishman_in_ireland)
-- [The Mistake of England](/testi/chesterton/atomized/irish_impressions/story_06_the_mistake_of_england)
-- [The Mistake of Ireland](/testi/chesterton/atomized/irish_impressions/story_07_the_mistake_of_ireland)
-- [An Example and a Question](/testi/chesterton/atomized/irish_impressions/story_08_an_example_and_a_question)
-- [Belfast and the Religious Problem](/testi/chesterton/atomized/irish_impressions/story_09_belfast_and_the_religious_problem)
+- [Two Stones in a Square](/testi/chesterton/atomized/irish_impressions#story_01_two_stones_in_a_square)
+- [The Root of Reality](/testi/chesterton/atomized/irish_impressions#story_02_the_root_of_reality)
+- [The Family and the Feud](/testi/chesterton/atomized/irish_impressions#story_03_the_family_and_the_feud)
+- [The Paradox of Labour](/testi/chesterton/atomized/irish_impressions#story_04_the_paradox_of_labour)
+- [The Englishman in Ireland](/testi/chesterton/atomized/irish_impressions#story_05_the_englishman_in_ireland)
+- [The Mistake of England](/testi/chesterton/atomized/irish_impressions#story_06_the_mistake_of_england)
+- [The Mistake of Ireland](/testi/chesterton/atomized/irish_impressions#story_07_the_mistake_of_ireland)
+- [An Example and a Question](/testi/chesterton/atomized/irish_impressions#story_08_an_example_and_a_question)
+- [Belfast and the Religious Problem](/testi/chesterton/atomized/irish_impressions#story_09_belfast_and_the_religious_problem)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">57.2</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">24.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

@@ -45,25 +45,21 @@ tags:
 
 ## Capitoli / Chapters
 
-- [PREFACE](/testi/belloc/atomized/the_french_revolution/story_01_preface)
-- [THE POLITICAL THEORY OF THE REVOLUTION](/testi/belloc/atomized/the_french_revolution/story_02_the_political_theory_of_the_revolution)
-- [ROUSSEAU](/testi/belloc/atomized/the_french_revolution/story_03_rousseau)
-- [THE CHARACTERS OF THE REVOLUTION](/testi/belloc/atomized/the_french_revolution/story_04_the_characters_of_the_revolution)
-- [THE QUEEN](/testi/belloc/atomized/the_french_revolution/story_05_the_queen)
-- [MIRABEAU](/testi/belloc/atomized/the_french_revolution/story_06_mirabeau)
-- [LA FAYETTE](/testi/belloc/atomized/the_french_revolution/story_07_la_fayette)
-- [DUMOURIEZ](/testi/belloc/atomized/the_french_revolution/story_08_dumouriez)
-- [DANTON](/testi/belloc/atomized/the_french_revolution/story_09_danton)
-- [CARNOT](/testi/belloc/atomized/the_french_revolution/story_10_carnot)
-- [MARAT](/testi/belloc/atomized/the_french_revolution/story_11_marat)
-- [ROBESPIERRE](/testi/belloc/atomized/the_french_revolution/story_12_robespierre)
-- [THE PHASES OF THE REVOLUTION](/testi/belloc/atomized/the_french_revolution/story_13_the_phases_of_the_revolution)
-- [From the 17th of July 1789 to the 6th of Oct. 1789.](/testi/belloc/atomized/the_french_revolution/story_14_from_the_17th_of_july_1789_to_the_6th_of)
-- [From October 1789 to June 1791.](/testi/belloc/atomized/the_french_revolution/story_15_from_october_1789_to_june_1791)
-- [From June 1791 to September 1792.](/testi/belloc/atomized/the_french_revolution/story_16_from_june_1791_to_september_1792)
+- [PREFACE](/testi/belloc/atomized/the_french_revolution#story_01_preface)
+- [ROUSSEAU](/testi/belloc/atomized/the_french_revolution#story_03_rousseau)
+- [THE CHARACTERS OF THE REVOLUTION](/testi/belloc/atomized/the_french_revolution#story_04_the_characters_of_the_revolution)
+- [MIRABEAU](/testi/belloc/atomized/the_french_revolution#story_06_mirabeau)
+- [LA FAYETTE](/testi/belloc/atomized/the_french_revolution#story_07_la_fayette)
+- [DUMOURIEZ](/testi/belloc/atomized/the_french_revolution#story_08_dumouriez)
+- [DANTON](/testi/belloc/atomized/the_french_revolution#story_09_danton)
+- [CARNOT](/testi/belloc/atomized/the_french_revolution#story_10_carnot)
+- [MARAT](/testi/belloc/atomized/the_french_revolution#story_11_marat)
+- [ROBESPIERRE](/testi/belloc/atomized/the_french_revolution#story_12_robespierre)
+- [From the 17th of July 1789 to the 6th of Oct. 1789.](/testi/belloc/atomized/the_french_revolution#story_14_from_the_17th_of_july_1789_to_the_6th_of)
+- [From October 1789 to June 1791.](/testi/belloc/atomized/the_french_revolution#story_15_from_october_1789_to_june_1791)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">25.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">28.9</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">30%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">42.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-8.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">24.3</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">28.1</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">30%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">40</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 

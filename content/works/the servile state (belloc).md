@@ -39,15 +39,9 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Synopsis of the Servile State](/testi/belloc/atomized/the_servile_state/story_01_synopsis_of_the_servile_state)
-- [Introduction. The Subject of This Book](/testi/belloc/atomized/the_servile_state/story_02_introduction_the_subject_of_this_book)
-- [Section One. Definitions](/testi/belloc/atomized/the_servile_state/story_03_section_one_definitions)
-- [Section Two. Our Civilisation Was Originally Servile](/testi/belloc/atomized/the_servile_state/story_04_section_two_our_civilisation_was_origina)
-- [Section Three. How the Servile Institution Was for a Time Dissolved](/testi/belloc/atomized/the_servile_state/story_05_section_three_how_the_servile_institutio)
-- [Section Four. How the Distributive State Failed](/testi/belloc/atomized/the_servile_state/story_06_section_four_how_the_distributive_state)
-
-
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">6.4</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">22.7</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">33%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">24.2</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+- [Synopsis of the Servile State](/testi/belloc/atomized/the_servile_state#story_01_synopsis_of_the_servile_state)
+- [Introduction. The Subject of This Book](/testi/belloc/atomized/the_servile_state#story_02_introduction_the_subject_of_this_book)
+- [Section Two. Our Civilisation Was Originally Servile](/testi/belloc/atomized/the_servile_state#story_04_section_two_our_civilisation_was_origina)
 
 ## Connections
 

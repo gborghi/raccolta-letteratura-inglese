@@ -24,10 +24,9 @@ tags:
 > [!abstract] 
 > A mock-didactic ABC in comic verse, each letter yoked to an absurd little tale and an ironic 'Moral' that parodies the improving alphabet-books for children. Belloc uses the schoolroom form to skewer priggish virtue and pompous instruction, deriving deliberately useless or perverse lessons from bears, cobras, and prehistoric beasts.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [DEDICATION.](/testi/belloc/atomized/a_moral_alphabet/story_01_dedication)
-- [THE ALPHABET.](/testi/belloc/atomized/a_moral_alphabet/story_02_the_alphabet)
+- [DEDICATION.](/testi/belloc/atomized/a_moral_alphabet#story_01_dedication)
 
 ## Connections
 

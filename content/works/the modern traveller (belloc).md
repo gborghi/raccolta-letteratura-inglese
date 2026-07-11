@@ -32,17 +32,17 @@ tags:
 
 ## Testo / Text
 
-- [The Modern Traveller](/testi/belloc/atomized/the_modern_traveller/the_modern_traveller)
+- [The Modern Traveller](/testi/belloc/atomized/the_modern_traveller#the_modern_traveller)
 
 ## Parti / Parts
 
-- [Part 1](/testi/belloc/atomized/the_modern_traveller/part/part_01)
-- [Part 2](/testi/belloc/atomized/the_modern_traveller/part/part_02)
-- [Part 3](/testi/belloc/atomized/the_modern_traveller/part/part_03)
-- [Part 4](/testi/belloc/atomized/the_modern_traveller/part/part_04)
-- [Part 5](/testi/belloc/atomized/the_modern_traveller/part/part_05)
-- [Part 6](/testi/belloc/atomized/the_modern_traveller/part/part_06)
-- [Part 7](/testi/belloc/atomized/the_modern_traveller/part/part_07)
+- [Part 1](/testi/belloc/atomized/the_modern_traveller#part--part_01)
+- [Part 2](/testi/belloc/atomized/the_modern_traveller#part--part_02)
+- [Part 3](/testi/belloc/atomized/the_modern_traveller#part--part_03)
+- [Part 4](/testi/belloc/atomized/the_modern_traveller#part--part_04)
+- [Part 5](/testi/belloc/atomized/the_modern_traveller#part--part_05)
+- [Part 6](/testi/belloc/atomized/the_modern_traveller#part--part_06)
+- [Part 7](/testi/belloc/atomized/the_modern_traveller#part--part_07)
 
 ## Connections
 

@@ -34,7 +34,7 @@ tags:
 
 ## Testo / Text
 
-- [smith](/testi/chesterton/atomized/smith/smith)
+- [smith](/testi/chesterton/atomized/smith#smith)
 
 ## Connections
 

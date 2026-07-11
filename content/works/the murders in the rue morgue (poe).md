@@ -33,25 +33,25 @@ tags:
 
 ## Testo / Text
 
-- [The Murders in the Rue Morgue](/testi/poe/atomized/the_murders_in_the_rue_morgue/the_murders_in_the_rue_morgue)
+- [The Murders in the Rue Morgue](/testi/poe/atomized/the_murders_in_the_rue_morgue#the_murders_in_the_rue_morgue)
 
 ## Parti / Parts
 
-- [Part 1](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_01)
-- [Part 2](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_02)
-- [Part 3](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_03)
-- [Part 4](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_04)
-- [Part 5](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_05)
-- [Part 6](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_06)
-- [Part 7](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_07)
-- [Part 8](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_08)
-- [Part 9](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_09)
-- [Part 10](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_10)
-- [Part 11](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_11)
-- [Part 12](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_12)
-- [Part 13](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_13)
-- [Part 14](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_14)
-- [Part 15](/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_15)
+- [Part 1](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_01)
+- [Part 2](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_02)
+- [Part 3](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_03)
+- [Part 4](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_04)
+- [Part 5](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_05)
+- [Part 6](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_06)
+- [Part 7](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_07)
+- [Part 8](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_08)
+- [Part 9](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_09)
+- [Part 10](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_10)
+- [Part 11](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_11)
+- [Part 12](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_12)
+- [Part 13](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_13)
+- [Part 14](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_14)
+- [Part 15](/testi/poe/atomized/the_murders_in_the_rue_morgue#part--part_15)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">64.3</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.9</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.9</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18.6</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

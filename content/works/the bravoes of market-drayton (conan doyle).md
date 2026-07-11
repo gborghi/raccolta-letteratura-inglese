@@ -30,13 +30,13 @@ tags:
 
 ## Testo / Text
 
-- [THE BRAVOES OF MARKET-DRAYTON](/testi/conan_doyle/atomized/the_bravoes_of_market_drayton/the_bravoes_of_market_drayton)
+- [THE BRAVOES OF MARKET-DRAYTON](/testi/conan_doyle/atomized/the_bravoes_of_market_drayton#the_bravoes_of_market_drayton)
 
 ## Parti / Parts
 
-- [Part 1](/testi/conan_doyle/atomized/the_bravoes_of_market_drayton/part/part_01)
-- [Part 2](/testi/conan_doyle/atomized/the_bravoes_of_market_drayton/part/part_02)
-- [Part 3](/testi/conan_doyle/atomized/the_bravoes_of_market_drayton/part/part_03)
+- [Part 1](/testi/conan_doyle/atomized/the_bravoes_of_market_drayton#part--part_01)
+- [Part 2](/testi/conan_doyle/atomized/the_bravoes_of_market_drayton#part--part_02)
+- [Part 3](/testi/conan_doyle/atomized/the_bravoes_of_market_drayton#part--part_03)
 
 ## Connections
 

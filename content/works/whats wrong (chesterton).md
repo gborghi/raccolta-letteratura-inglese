@@ -54,15 +54,10 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Part 1: THE HOMELESSNESS OF MAN](/testi/chesterton/atomized/whats_wrong/chapter_01_the_homelessness_of_man)
-- [Part 2: IMPERIALISM, OR THE MISTAKE ABOUT MAN](/testi/chesterton/atomized/whats_wrong/chapter_02_imperialism_or_the_mistake_abo)
-- [Part 3: FEMINISM, OR THE MISTAKE ABOUT WOMAN](/testi/chesterton/atomized/whats_wrong/chapter_03_feminism_or_the_mistake_about)
-- [Part 5: THE HOME OF MAN](/testi/chesterton/atomized/whats_wrong/chapter_04_the_home_home_of_man)
-- [Part 1](/testi/chesterton/atomized/whats_wrong/chapter_05)
-- [Part 2](/testi/chesterton/atomized/whats_wrong/chapter_06)
-- [Part 3](/testi/chesterton/atomized/whats_wrong/chapter_07)
-- [Part 4](/testi/chesterton/atomized/whats_wrong/chapter_08)
-- [Part 5](/testi/chesterton/atomized/whats_wrong/chapter_09)
+- [Part 1: THE HOMELESSNESS OF MAN](/testi/chesterton/atomized/whats_wrong#chapter_01_the_homelessness_of_man)
+- [Part 2: IMPERIALISM, OR THE MISTAKE ABOUT MAN](/testi/chesterton/atomized/whats_wrong#chapter_02_imperialism_or_the_mistake_abo)
+- [Part 3: FEMINISM, OR THE MISTAKE ABOUT WOMAN](/testi/chesterton/atomized/whats_wrong#chapter_03_feminism_or_the_mistake_about)
+- [Part 5: THE HOME OF MAN](/testi/chesterton/atomized/whats_wrong#chapter_04_the_home_home_of_man)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">59.5</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.6</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">22.6</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

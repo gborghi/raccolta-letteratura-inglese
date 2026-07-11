@@ -32,16 +32,16 @@ tags:
 
 ## Capitoli / Chapters
 
-- [INTRODUCTION](/testi/belloc/atomized/cautionary_tales_for_children/story_01_introduction)
-- [Jim](/testi/belloc/atomized/cautionary_tales_for_children/story_02_jim)
-- [Henry King](/testi/belloc/atomized/cautionary_tales_for_children/story_03_henry_king)
-- [Matilda](/testi/belloc/atomized/cautionary_tales_for_children/story_04_matilda)
-- [Franklin Hyde](/testi/belloc/atomized/cautionary_tales_for_children/story_05_franklin_hyde)
-- [MORAL](/testi/belloc/atomized/cautionary_tales_for_children/story_06_moral)
-- [Godolphin Horne](/testi/belloc/atomized/cautionary_tales_for_children/story_07_godolphin_horne)
-- [Algernon](/testi/belloc/atomized/cautionary_tales_for_children/story_08_algernon)
-- [Hildebrand](/testi/belloc/atomized/cautionary_tales_for_children/story_09_hildebrand)
-- [Lord Lundy](/testi/belloc/atomized/cautionary_tales_for_children/story_10_lord_lundy)
+- [INTRODUCTION](/testi/belloc/atomized/cautionary_tales_for_children#story_01_introduction)
+- [Jim](/testi/belloc/atomized/cautionary_tales_for_children#story_02_jim)
+- [Henry King](/testi/belloc/atomized/cautionary_tales_for_children#story_03_henry_king)
+- [Matilda](/testi/belloc/atomized/cautionary_tales_for_children#story_04_matilda)
+- [Franklin Hyde](/testi/belloc/atomized/cautionary_tales_for_children#story_05_franklin_hyde)
+- [MORAL](/testi/belloc/atomized/cautionary_tales_for_children#story_06_moral)
+- [Godolphin Horne](/testi/belloc/atomized/cautionary_tales_for_children#story_07_godolphin_horne)
+- [Algernon](/testi/belloc/atomized/cautionary_tales_for_children#story_08_algernon)
+- [Hildebrand](/testi/belloc/atomized/cautionary_tales_for_children#story_09_hildebrand)
+- [Lord Lundy](/testi/belloc/atomized/cautionary_tales_for_children#story_10_lord_lundy)
 
 ## Connections
 

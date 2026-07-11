@@ -25,7 +25,7 @@ tags:
 
 ## Testo / Text
 
-- [WHEN THE WORLD SCREAMED](/testi/conan_doyle/atomized/when_the_world_screamed/when_the_world_screamed)
+- [WHEN THE WORLD SCREAMED](/testi/conan_doyle/atomized/when_the_world_screamed#when_the_world_screamed)
 
 ## Connections
 

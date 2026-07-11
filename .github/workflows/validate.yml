@@ -1,0 +1,62 @@
+name: Validate build (no deploy)
+
+# Builds the committed content/ exactly like the deploy workflow but STOPS before
+# Pages deployment — used to prove a large change (e.g. the SPA reading-page
+# restructure) compiles, emits, and stays under host file/size caps, without
+# touching the live site. Trigger: push to the `spa-validate` branch, or manually.
+on:
+  push:
+    branches:
+      - spa-validate
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install dependencies
+        run: npm ci
+      - name: Restore Quartz plugins
+        run: npx quartz plugin restore
+      - name: Build Quartz
+        run: npx quartz build
+        env:
+          NODE_OPTIONS: "--max-old-space-size=14336"
+      - name: Report build output
+        run: |
+          echo "## Build output" >> "$GITHUB_STEP_SUMMARY"
+          html=$(find public -name '*.html' | wc -l)
+          files=$(find public -type f | wc -l)
+          echo "- html pages: $html" | tee -a "$GITHUB_STEP_SUMMARY"
+          echo "- total files: $files (Cloudflare Pages cap = 20000)" | tee -a "$GITHUB_STEP_SUMMARY"
+          if [ "$files" -gt 20000 ]; then echo "::error::over the 20000-file cap ($files)"; exit 1; fi
+          echo "- largest file: $(find public -type f -printf '%s %p\n' | sort -rn | head -1 | awk '{printf "%.1f MB %s", $1/1048576, $2}')" | tee -a "$GITHUB_STEP_SUMMARY"
+          echo "- any file > 25 MiB (CF per-file cap):" | tee -a "$GITHUB_STEP_SUMMARY"
+          find public -type f -size +26214400c -printf '%s %p\n' | tee -a "$GITHUB_STEP_SUMMARY" || true
+          s="public/testi/chesterton/atomized/ortho14.html"
+          echo "- Orthodoxy SPA page: atom-reader=$(grep -c 'atom-reader' "$s" || echo 0) atom-split=$(grep -o 'atom-split' "$s" | wc -l)" | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Build mobile search index
+        run: node scripts/make-mobile-index.mjs
+      - name: Compress desktop search index
+        run: node scripts/compress-search-index.mjs
+        env:
+          NODE_OPTIONS: "--max-old-space-size=8192"
+      - name: Report index sizes
+        run: |
+          echo "- contentIndex.json: $(du -h public/static/contentIndex.json | cut -f1)" | tee -a "$GITHUB_STEP_SUMMARY"
+          echo "- contentIndexMobile.json: $(du -h public/static/contentIndexMobile.json | cut -f1)" | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Upload built site
+        uses: actions/upload-artifact@v4
+        with:
+          name: public-spa
+          path: public
+          retention-days: 3

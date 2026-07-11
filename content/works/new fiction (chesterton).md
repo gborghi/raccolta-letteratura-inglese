@@ -24,7 +24,7 @@ tags:
 
 ## Testo / Text
 
-- [New_Fiction](/testi/chesterton/atomized/new_fiction/new_fiction)
+- [New_Fiction](/testi/chesterton/atomized/new_fiction#new_fiction)
 
 ## Connections
 

@@ -35,7 +35,7 @@ tags:
 
 ## Testo / Text
 
-- [unborn](/testi/chesterton/atomized/unborn/unborn)
+- [unborn](/testi/chesterton/atomized/unborn#unborn)
 
 ## Connections
 

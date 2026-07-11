@@ -37,12 +37,9 @@ tags:
 > [!abstract] 
 > Dickens's Christmas 'Goblin Story' in which a poor ticket-porter, Trotty Veck, is shown by the spirits of the bells visions of despair and degradation among the poor; central themes are social injustice, poverty, the dignity of the common man, and redemption from despair into hope.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Chapter 1: First Quarter](/testi/dickens/atomized/the_chimes/chapter_01_first_quarter)
-- [Chapter 2: The Second Quarter](/testi/dickens/atomized/the_chimes/chapter_02_the_second_quarter)
-- [Chapter 3: Third Quarter](/testi/dickens/atomized/the_chimes/chapter_03_third_quarter)
-- [Chapter 4: Fourth Quarter](/testi/dickens/atomized/the_chimes/chapter_04_fourth_quarter)
+- [The Chimes](/testi/dickens/atomized/the_chimes#the_chimes)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">82.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">5.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">7.7</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">5%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13.9</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

@@ -36,7 +36,7 @@ tags:
 
 ## Testo / Text
 
-- [carol](/testi/chesterton/atomized/carol/carol)
+- [carol](/testi/chesterton/atomized/carol#carol)
 
 ## Connections
 

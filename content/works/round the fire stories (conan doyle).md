@@ -31,13 +31,13 @@ tags:
 
 ## Capitoli / Chapters
 
-- [THE MAN WITH THE WATCHES](/testi/conan_doyle/atomized/round_the_fire_stories/story_01_the_man_with_the_watches)
-- [THE BLACK DOCTOR](/testi/conan_doyle/atomized/round_the_fire_stories/story_02_the_black_doctor)
-- [THE JEW’S BREASTPLATE](/testi/conan_doyle/atomized/round_the_fire_stories/story_03_the_jews_breastplate)
-- [THE LOST SPECIAL](/testi/conan_doyle/atomized/round_the_fire_stories/story_04_the_lost_special)
-- [THE CLUB-FOOTED GROCER](/testi/conan_doyle/atomized/round_the_fire_stories/story_05_the_club_footed_grocer)
-- [THE SEALED ROOM](/testi/conan_doyle/atomized/round_the_fire_stories/story_06_the_sealed_room)
-- [THE BRAZILIAN CAT](/testi/conan_doyle/atomized/round_the_fire_stories/story_07_the_brazilian_cat)
+- [THE MAN WITH THE WATCHES](/testi/conan_doyle/atomized/round_the_fire_stories#story_01_the_man_with_the_watches)
+- [THE BLACK DOCTOR](/testi/conan_doyle/atomized/round_the_fire_stories#story_02_the_black_doctor)
+- [THE JEW’S BREASTPLATE](/testi/conan_doyle/atomized/round_the_fire_stories#story_03_the_jews_breastplate)
+- [THE LOST SPECIAL](/testi/conan_doyle/atomized/round_the_fire_stories#story_04_the_lost_special)
+- [THE CLUB-FOOTED GROCER](/testi/conan_doyle/atomized/round_the_fire_stories#story_05_the_club_footed_grocer)
+- [THE SEALED ROOM](/testi/conan_doyle/atomized/round_the_fire_stories#story_06_the_sealed_room)
+- [THE BRAZILIAN CAT](/testi/conan_doyle/atomized/round_the_fire_stories#story_07_the_brazilian_cat)
 
 ## Connections
 

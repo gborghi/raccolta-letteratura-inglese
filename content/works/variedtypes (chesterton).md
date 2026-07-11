@@ -83,7 +83,7 @@ tags:
 
 ## Testo / Text
 
-- [VariedTypes](/testi/chesterton/atomized/variedtypes/variedtypes)
+- [VariedTypes](/testi/chesterton/atomized/variedtypes#variedtypes)
 
 ## Connections
 

@@ -35,7 +35,7 @@ tags:
 
 ## Testo / Text
 
-- [suprise](/testi/chesterton/atomized/suprise/suprise)
+- [suprise](/testi/chesterton/atomized/suprise#suprise)
 
 ## Connections
 

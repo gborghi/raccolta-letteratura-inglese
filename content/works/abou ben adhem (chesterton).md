@@ -38,7 +38,7 @@ tags:
 
 ## Testo / Text
 
-- [Abou_ben_Adhem](/testi/chesterton/atomized/abou_ben_adhem/abou_ben_adhem)
+- [Abou_ben_Adhem](/testi/chesterton/atomized/abou_ben_adhem#abou_ben_adhem)
 
 ## Connections
 

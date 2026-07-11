@@ -49,19 +49,8 @@ tags:
 
 ## Capitoli / Chapters
 
-- [ON A SENSE OF PROPORTION](/testi/chesterton/atomized/sanity/story_03_on_a_sense_of_proportion)
-- [A MISUNDERSTANDING ABOUT METHOD](/testi/chesterton/atomized/sanity/story_05_a_misunderstanding_about_method)
-- [SOME ASPECTS OF THE LAND--](/testi/chesterton/atomized/sanity/story_06_some_aspects_of_the_land)
-- [THE SIMPLE TRUTH](/testi/chesterton/atomized/sanity/story_07_the_simple_truth_truth)
-- [VOWS AND VOLUNTEERS](/testi/chesterton/atomized/sanity/story_08_vows_and_volunteers)
-- [THE REAL LIFE ON THE LAND](/testi/chesterton/atomized/sanity/story_09_the_real_life_on_the_land)
-- [SOME ASPECTS OF MACHINERY--](/testi/chesterton/atomized/sanity/story_10_some_aspects_of_machinery)
-- [THE WHEEL OF FATE](/testi/chesterton/atomized/sanity/story_11_the_wheel_wheel_of_fate)
-- [THE ROMANCE OF MACHINERY](/testi/chesterton/atomized/sanity/story_12_the_romance_romance_of_machinery)
-- [THE HOLIDAY OF THE SLAVE](/testi/chesterton/atomized/sanity/story_13_the_holiday_of_the_slave)
-- [THE FREE MAN AND THE FORD CAR](/testi/chesterton/atomized/sanity/story_14_the_free_man_and_the_ford_car)
-- [THE RELIGION OF SMALL PROPERTY](/testi/chesterton/atomized/sanity/story_16_the_religion_of_small_property)
-- [A SUMMARY](/testi/chesterton/atomized/sanity/story_17_a_summary)
+- [SOME ASPECTS OF THE LAND--](/testi/chesterton/atomized/sanity#story_06_some_aspects_of_the_land)
+- [SOME ASPECTS OF MACHINERY--](/testi/chesterton/atomized/sanity#story_10_some_aspects_of_machinery)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">57.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">12%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">24.9</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

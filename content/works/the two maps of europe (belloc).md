@@ -34,19 +34,11 @@ tags:
 
 ## Capitoli / Chapters
 
-- [FOREWORD](/testi/belloc/atomized/the_two_maps_of_europe/story_01_foreword)
-- [THE TWO MAPS OF EUROPE](/testi/belloc/atomized/the_two_maps_of_europe/story_02_the_two_maps_of_europe)
-- [NUMBERS IN WAR](/testi/belloc/atomized/the_two_maps_of_europe/story_03_numbers_in_war)
-- [SUPPLY](/testi/belloc/atomized/the_two_maps_of_europe/story_04_supply)
-- [WAR TO-DAY AND YESTERDAY](/testi/belloc/atomized/the_two_maps_of_europe/story_05_war_to_day_and_yesterday)
-- [WHAT TO BELIEVE IN WAR NEWS](/testi/belloc/atomized/the_two_maps_of_europe/story_06_what_to_believe_in_war_news)
-- [WHAT THE WAR HAS TAUGHT US](/testi/belloc/atomized/the_two_maps_of_europe/story_07_what_the_war_has_taught_us)
-- [THE POINTS AT ISSUE](/testi/belloc/atomized/the_two_maps_of_europe/story_08_the_points_at_issue)
-- [LESSONS WE HAVE LEARNT](/testi/belloc/atomized/the_two_maps_of_europe/story_09_lessons_we_have_learnt)
-- [THE POLITICAL RESULTS](/testi/belloc/atomized/the_two_maps_of_europe/story_10_the_political_results)
-
-
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-4.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">31.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">33.8</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">15%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">69.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+- [FOREWORD](/testi/belloc/atomized/the_two_maps_of_europe#story_01_foreword)
+- [WHAT THE WAR HAS TAUGHT US](/testi/belloc/atomized/the_two_maps_of_europe#story_07_what_the_war_has_taught_us)
+- [THE POINTS AT ISSUE](/testi/belloc/atomized/the_two_maps_of_europe#story_08_the_points_at_issue)
+- [LESSONS WE HAVE LEARNT](/testi/belloc/atomized/the_two_maps_of_europe#story_09_lessons_we_have_learnt)
+- [THE POLITICAL RESULTS](/testi/belloc/atomized/the_two_maps_of_europe#story_10_the_political_results)
 
 ## Connections
 

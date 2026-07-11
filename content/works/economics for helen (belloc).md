@@ -31,29 +31,17 @@ tags:
 
 ## Capitoli / Chapters
 
-- [WHAT IS WEALTH?](/testi/belloc/atomized/economics_for_helen/story_01_what_is_wealth)
-- [THE THREE THINGS NECESSARY TO THE PRODUCTION OF WEALTH](/testi/belloc/atomized/economics_for_helen/story_02_the_three_things_necessary_to_the_produc)
-- [THE PROCESS OF PRODUCTION](/testi/belloc/atomized/economics_for_helen/story_03_the_process_of_production)
-- [THE THREE PARTS OF PRODUCED WEALTH](/testi/belloc/atomized/economics_for_helen/story_04_the_three_parts_of_produced_wealth)
-- [EXCHANGE](/testi/belloc/atomized/economics_for_helen/story_05_exchange)
-- [FREE TRADE AND PROTECTION](/testi/belloc/atomized/economics_for_helen/story_06_free_trade_and_protection)
-- [MONEY](/testi/belloc/atomized/economics_for_helen/story_07_money)
-- [INTRODUCTION](/testi/belloc/atomized/economics_for_helen/story_08_introduction)
-- [PROPERTY: THE CONTROL OF WEALTH](/testi/belloc/atomized/economics_for_helen/story_09_property_the_control_of_wealth)
-- [THE SERVILE STATE](/testi/belloc/atomized/economics_for_helen/story_10_the_servile_state)
-- [THE CAPITALIST STATE](/testi/belloc/atomized/economics_for_helen/story_11_the_capitalist_state)
-- [THE DISTRIBUTIVE STATE](/testi/belloc/atomized/economics_for_helen/story_12_the_distributive_state)
-- [SOCIALISM](/testi/belloc/atomized/economics_for_helen/story_13_socialism)
-- [INTERNATIONAL EXCHANGE](/testi/belloc/atomized/economics_for_helen/story_14_international_exchange)
-- [FREE TRADE AND PROTECTION AS POLITICAL ISSUES](/testi/belloc/atomized/economics_for_helen/story_15_free_trade_and_protection_as_political_i)
-- [BANKING](/testi/belloc/atomized/economics_for_helen/story_16_banking)
-- [NATIONAL LOANS AND TAXATION](/testi/belloc/atomized/economics_for_helen/story_17_national_loans_and_taxation)
-- [THE SOCIAL (OR HISTORICAL) VALUE OF MONEY](/testi/belloc/atomized/economics_for_helen/story_18_the_social_or_historical_value_of_money)
-- [USURY](/testi/belloc/atomized/economics_for_helen/story_19_usury)
-- [ECONOMIC IMAGINARIES](/testi/belloc/atomized/economics_for_helen/story_20_economic_imaginaries)
+- [WHAT IS WEALTH?](/testi/belloc/atomized/economics_for_helen#story_01_what_is_wealth)
+- [THE PROCESS OF PRODUCTION](/testi/belloc/atomized/economics_for_helen#story_03_the_process_of_production)
+- [EXCHANGE](/testi/belloc/atomized/economics_for_helen#story_05_exchange)
+- [FREE TRADE AND PROTECTION](/testi/belloc/atomized/economics_for_helen#story_06_free_trade_and_protection)
+- [INTRODUCTION](/testi/belloc/atomized/economics_for_helen#story_08_introduction)
+- [THE SERVILE STATE](/testi/belloc/atomized/economics_for_helen#story_10_the_servile_state)
+- [THE DISTRIBUTIVE STATE](/testi/belloc/atomized/economics_for_helen#story_12_the_distributive_state)
+- [SOCIALISM](/testi/belloc/atomized/economics_for_helen#story_13_socialism)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-26.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">31.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">34.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">29%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">57.3</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">0.4</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">21.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">24.9</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">30%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">31.9</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 

@@ -62,28 +62,10 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Clue Of The Pressman](/testi/chesterton/atomized/fourfaultlessfelons/story_01_clue_of_the_pressman)
-- [The Moderate Murderer](/testi/chesterton/atomized/fourfaultlessfelons/story_02_the_moderate_murderer)
-- [Ii The Boy Who Made A Scene](/testi/chesterton/atomized/fourfaultlessfelons/story_03_ii_the_boy_who_made_a_scene)
-- [Iii The Man Who Could Not Hate](/testi/chesterton/atomized/fourfaultlessfelons/story_04_iii_the_man_who_could_not_hate)
-- [V The Theory Of Moderate Murder](/testi/chesterton/atomized/fourfaultlessfelons/story_05_v_the_theory_of_moderate_murder)
-- [Vi The Thing That Really Happened](/testi/chesterton/atomized/fourfaultlessfelons/story_06_vi_the_thing_that_really_happened)
-- [The Honest Quack](/testi/chesterton/atomized/fourfaultlessfelons/story_07_the_honest_quack)
-- [Ii The Man With The Black Bag](/testi/chesterton/atomized/fourfaultlessfelons/story_08_ii_the_man_with_the_black_bag)
-- [Iv The Disease Of Duodiapsychosis](/testi/chesterton/atomized/fourfaultlessfelons/story_09_iv_the_disease_of_duodiapsychosis)
-- [V The Secret Of The Tree](/testi/chesterton/atomized/fourfaultlessfelons/story_10_v_the_secret_of_the_tree)
-- [An Hour. Harrington.](/testi/chesterton/atomized/fourfaultlessfelons/story_11_an_hour_harrington)
-- [The Ecstatic Thief](/testi/chesterton/atomized/fourfaultlessfelons/story_12_the_ecstatic_thief)
-- [Ii The Burglar And The Brooch](/testi/chesterton/atomized/fourfaultlessfelons/story_13_ii_the_burglar_and_the_brooch)
-- [V The Thief On Trial](/testi/chesterton/atomized/fourfaultlessfelons/story_14_v_the_thief_on_trial)
-- [Vi The Cleansing Of The Name](/testi/chesterton/atomized/fourfaultlessfelons/story_15_vi_the_cleansing_of_the_name)
-- [The Loyal Traitor](/testi/chesterton/atomized/fourfaultlessfelons/story_16_the_loyal_traitor)
-- [Ii The Procession Of The Plotters](/testi/chesterton/atomized/fourfaultlessfelons/story_17_ii_the_procession_of_the_plotters)
-- [Iii The Princess Intervenes](/testi/chesterton/atomized/fourfaultlessfelons/story_18_iii_the_princess_intervenes)
-- [Iv The Unreasonableness Of Woman](/testi/chesterton/atomized/fourfaultlessfelons/story_19_iv_the_unreasonableness_of_woman)
-- [V The Terms Of A Traitor](/testi/chesterton/atomized/fourfaultlessfelons/story_20_v_the_terms_of_a_traitor)
-- [Vi The Speaking Of The Word](/testi/chesterton/atomized/fourfaultlessfelons/story_21_vi_the_speaking_of_the_word)
-- [Epilogue Of The Pressman](/testi/chesterton/atomized/fourfaultlessfelons/story_22_epilogue_of_the_pressman)
+- [The Moderate Murderer](/testi/chesterton/atomized/fourfaultlessfelons#story_02_the_moderate_murderer)
+- [V The Secret Of The Tree](/testi/chesterton/atomized/fourfaultlessfelons#story_10_v_the_secret_of_the_tree)
+- [The Loyal Traitor](/testi/chesterton/atomized/fourfaultlessfelons#story_16_the_loyal_traitor)
+- [Epilogue Of The Pressman](/testi/chesterton/atomized/fourfaultlessfelons#story_22_epilogue_of_the_pressman)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">68.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.5</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">19</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

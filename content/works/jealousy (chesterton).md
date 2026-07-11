@@ -39,7 +39,7 @@ tags:
 
 ## Testo / Text
 
-- [Jealousy](/testi/chesterton/atomized/jealousy/jealousy)
+- [Jealousy](/testi/chesterton/atomized/jealousy#jealousy)
 
 ## Connections
 

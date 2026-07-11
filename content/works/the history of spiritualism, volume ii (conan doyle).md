@@ -36,20 +36,19 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Chapter 1](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii/chapter_01)
-- [Chapter 2](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii/chapter_02)
-- [Chapter 3](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii/chapter_03)
-- [Chapter 4](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii/chapter_04)
-- [Chapter 5](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii/chapter_05)
-- [Chapter 6](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii/chapter_06)
-- [Chapter 7](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii/chapter_07)
-- [Chapter 8](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii/chapter_08)
-- [Chapter 9](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii/chapter_09)
-- [Chapter 10](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii/chapter_10)
-- [Chapter 11](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii/chapter_11)
+- [Chapter 1](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii#chapter_01)
+- [Chapter 2](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii#chapter_02)
+- [Chapter 3](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii#chapter_03)
+- [Chapter 4](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii#chapter_04)
+- [Chapter 5](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii#chapter_05)
+- [Chapter 6](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii#chapter_06)
+- [Chapter 7](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii#chapter_07)
+- [Chapter 8](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii#chapter_08)
+- [Chapter 9](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii#chapter_09)
+- [Chapter 10](/testi/conan_doyle/atomized/the_history_of_spiritualism_volume_ii#chapter_10)
 
 
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-52.7</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">40</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">43.5</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">31%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">78</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
+<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-48.9</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">38.5</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">42</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">31%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">74</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 

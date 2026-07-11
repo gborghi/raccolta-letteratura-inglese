@@ -36,7 +36,7 @@ tags:
 
 ## Testo / Text
 
-- [deluge](/testi/chesterton/atomized/deluge/deluge)
+- [deluge](/testi/chesterton/atomized/deluge#deluge)
 
 ## Connections
 

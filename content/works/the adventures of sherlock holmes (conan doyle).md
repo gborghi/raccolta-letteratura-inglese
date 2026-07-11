@@ -33,18 +33,18 @@ tags:
 
 ## Capitoli / Chapters
 
-- [A SCANDAL IN BOHEMIA](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes/story_01_a_scandal_in_bohemia)
-- [THE RED-HEADED LEAGUE](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes/story_02_the_red_headed_league)
-- [A CASE OF IDENTITY](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes/story_03_a_case_of_identity)
-- [THE BOSCOMBE VALLEY MYSTERY](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes/story_04_the_boscombe_valley_mystery)
-- [THE FIVE ORANGE PIPS](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes/story_05_the_five_orange_pips)
-- [THE MAN WITH THE TWISTED LIP](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes/story_06_the_man_with_the_twisted_lip)
-- [THE ADVENTURE OF THE BLUE CARBUNCLE](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes/story_07_the_adventure_of_the_blue_carbuncle)
-- [THE ADVENTURE OF THE SPECKLED BAND](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes/story_08_the_adventure_of_the_speckled_band)
-- [THE ADVENTURE OF THE ENGINEER’S THUMB](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes/story_09_the_adventure_of_the_engineers_thumb)
-- [THE ADVENTURE OF THE NOBLE BACHELOR](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes/story_10_the_adventure_of_the_noble_bachelor)
-- [THE ADVENTURE OF THE BERYL CORONET](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes/story_11_the_adventure_of_the_beryl_coronet)
-- [THE ADVENTURE OF THE COPPER BEECHES](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes/story_12_the_adventure_of_the_copper_beeches)
+- [A SCANDAL IN BOHEMIA](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes#story_01_a_scandal_in_bohemia)
+- [THE RED-HEADED LEAGUE](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes#story_02_the_red_headed_league)
+- [A CASE OF IDENTITY](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes#story_03_a_case_of_identity)
+- [THE BOSCOMBE VALLEY MYSTERY](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes#story_04_the_boscombe_valley_mystery)
+- [THE FIVE ORANGE PIPS](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes#story_05_the_five_orange_pips)
+- [THE MAN WITH THE TWISTED LIP](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes#story_06_the_man_with_the_twisted_lip)
+- [THE ADVENTURE OF THE BLUE CARBUNCLE](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes#story_07_the_adventure_of_the_blue_carbuncle)
+- [THE ADVENTURE OF THE SPECKLED BAND](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes#story_08_the_adventure_of_the_speckled_band)
+- [THE ADVENTURE OF THE ENGINEER’S THUMB](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes#story_09_the_adventure_of_the_engineers_thumb)
+- [THE ADVENTURE OF THE NOBLE BACHELOR](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes#story_10_the_adventure_of_the_noble_bachelor)
+- [THE ADVENTURE OF THE BERYL CORONET](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes#story_11_the_adventure_of_the_beryl_coronet)
+- [THE ADVENTURE OF THE COPPER BEECHES](/testi/conan_doyle/atomized/the_adventures_of_sherlock_holmes#story_12_the_adventure_of_the_copper_beeches)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-37.2</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">40.9</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">45.7</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">24%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">90.5</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

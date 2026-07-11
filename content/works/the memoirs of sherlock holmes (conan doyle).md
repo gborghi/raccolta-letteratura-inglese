@@ -34,16 +34,16 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Adventure II. The Yellow Face](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes/story_01_adventure_ii_the_yellow_face)
-- [Adventure III. The Stock-Broker’s Clerk](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes/story_02_adventure_iii_the_stock_brokers_clerk)
-- [Adventure IV. The “Gloria Scott”](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes/story_03_adventure_iv_the_gloria_scott)
-- [Adventure V. The Musgrave Ritual](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes/story_04_adventure_v_the_musgrave_ritual)
-- [Adventure VI. The Reigate Puzzle](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes/story_05_adventure_vi_the_reigate_puzzle)
-- [Adventure VII. The Crooked Man](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes/story_06_adventure_vii_the_crooked_man)
-- [Adventure VIII. The Resident Patient](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes/story_07_adventure_viii_the_resident_patient)
-- [Adventure IX. The Greek Interpreter](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes/story_08_adventure_ix_the_greek_interpreter)
-- [Adventure X. The Naval Treaty](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes/story_09_adventure_x_the_naval_treaty)
-- [Adventure XI. The Final Problem](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes/story_10_adventure_xi_the_final_problem)
+- [Adventure II. The Yellow Face](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes#story_01_adventure_ii_the_yellow_face)
+- [Adventure III. The Stock-Broker’s Clerk](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes#story_02_adventure_iii_the_stock_brokers_clerk)
+- [Adventure IV. The “Gloria Scott”](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes#story_03_adventure_iv_the_gloria_scott)
+- [Adventure V. The Musgrave Ritual](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes#story_04_adventure_v_the_musgrave_ritual)
+- [Adventure VI. The Reigate Puzzle](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes#story_05_adventure_vi_the_reigate_puzzle)
+- [Adventure VII. The Crooked Man](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes#story_06_adventure_vii_the_crooked_man)
+- [Adventure VIII. The Resident Patient](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes#story_07_adventure_viii_the_resident_patient)
+- [Adventure IX. The Greek Interpreter](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes#story_08_adventure_ix_the_greek_interpreter)
+- [Adventure X. The Naval Treaty](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes#story_09_adventure_x_the_naval_treaty)
+- [Adventure XI. The Final Problem](/testi/conan_doyle/atomized/the_memoirs_of_sherlock_holmes#story_10_adventure_xi_the_final_problem)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">29.3</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14.7</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">17.2</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">21%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">22.4</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

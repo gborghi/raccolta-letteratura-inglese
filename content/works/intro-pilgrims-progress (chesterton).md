@@ -54,13 +54,13 @@ tags:
 
 ## Testo / Text
 
-- [intro-pilgrims-progress](/testi/chesterton/atomized/intro-pilgrims-progress/intro-pilgrims-progress)
+- [intro-pilgrims-progress](/testi/chesterton/atomized/intro-pilgrims-progress#intro-pilgrims-progress)
 
 ## Parti / Parts
 
-- [Part 1](/testi/chesterton/atomized/intro-pilgrims-progress/part/part_01)
-- [Part 2](/testi/chesterton/atomized/intro-pilgrims-progress/part/part_02)
-- [Part 3](/testi/chesterton/atomized/intro-pilgrims-progress/part/part_03)
+- [Part 1](/testi/chesterton/atomized/intro-pilgrims-progress#part--part_01)
+- [Part 2](/testi/chesterton/atomized/intro-pilgrims-progress#part--part_02)
+- [Part 3](/testi/chesterton/atomized/intro-pilgrims-progress#part--part_03)
 
 ## Connections
 

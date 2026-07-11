@@ -87,20 +87,20 @@ tags:
 
 ## Testo / Text
 
-- [Poems](/testi/chesterton/atomized/poems/poems)
+- [Poems](/testi/chesterton/atomized/poems#poems)
 
 ## Parti / Parts
 
-- [Part 1](/testi/chesterton/atomized/poems/part/part_01)
-- [Part 2](/testi/chesterton/atomized/poems/part/part_02)
-- [Part 3](/testi/chesterton/atomized/poems/part/part_03)
-- [Part 4](/testi/chesterton/atomized/poems/part/part_04)
-- [Part 5](/testi/chesterton/atomized/poems/part/part_05)
-- [Part 6](/testi/chesterton/atomized/poems/part/part_06)
-- [Part 7](/testi/chesterton/atomized/poems/part/part_07)
-- [Part 8](/testi/chesterton/atomized/poems/part/part_08)
-- [Part 9](/testi/chesterton/atomized/poems/part/part_09)
-- [Part 10](/testi/chesterton/atomized/poems/part/part_10)
+- [Part 1](/testi/chesterton/atomized/poems#part--part_01)
+- [Part 2](/testi/chesterton/atomized/poems#part--part_02)
+- [Part 3](/testi/chesterton/atomized/poems#part--part_03)
+- [Part 4](/testi/chesterton/atomized/poems#part--part_04)
+- [Part 5](/testi/chesterton/atomized/poems#part--part_05)
+- [Part 6](/testi/chesterton/atomized/poems#part--part_06)
+- [Part 7](/testi/chesterton/atomized/poems#part--part_07)
+- [Part 8](/testi/chesterton/atomized/poems#part--part_08)
+- [Part 9](/testi/chesterton/atomized/poems#part--part_09)
+- [Part 10](/testi/chesterton/atomized/poems#part--part_10)
 
 ## Connections
 

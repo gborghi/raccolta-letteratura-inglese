@@ -32,7 +32,7 @@ tags:
 
 ## Testo / Text
 
-- [convert](/testi/chesterton/atomized/convert/convert)
+- [convert](/testi/chesterton/atomized/convert#convert)
 
 ## Connections
 

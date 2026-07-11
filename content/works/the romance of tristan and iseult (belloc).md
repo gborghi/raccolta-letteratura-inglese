@@ -37,11 +37,9 @@ tags:
 > [!abstract] 
 > Belloc's English translation of Joseph Bedier's reconstruction of the medieval Tristan legend: the orphaned Tristan wins Iseult of the Golden Hair for his uncle King Mark, but the two drink a fatal love-philtre and are bound in an adulterous, doomed passion. The tale runs through flight to the forest, ordeal, exile, and their death together for love.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Part 1](/testi/belloc/atomized/the_romance_of_tristan_and_iseult/chapter_01)
-- [Part 2](/testi/belloc/atomized/the_romance_of_tristan_and_iseult/chapter_02)
-- [Part 3](/testi/belloc/atomized/the_romance_of_tristan_and_iseult/chapter_03)
+- [The Romance of Tristan and Iseult](/testi/belloc/atomized/the_romance_of_tristan_and_iseult#the_romance_of_tristan_and_iseult)
 
 ## Connections
 

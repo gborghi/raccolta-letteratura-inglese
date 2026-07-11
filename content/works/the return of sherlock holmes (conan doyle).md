@@ -34,19 +34,19 @@ tags:
 
 ## Capitoli / Chapters
 
-- [THE ADVENTURE OF THE EMPTY HOUSE](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes/story_01_the_adventure_of_the_empty_house)
-- [THE ADVENTURE OF THE NORWOOD BUILDER](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes/story_02_the_adventure_of_the_norwood_builder)
-- [THE ADVENTURE OF THE DANCING MEN](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes/story_03_the_adventure_of_the_dancing_men)
-- [THE ADVENTURE OF THE SOLITARY CYCLIST](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes/story_04_the_adventure_of_the_solitary_cyclist)
-- [THE ADVENTURE OF THE PRIORY SCHOOL](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes/story_05_the_adventure_of_the_priory_school)
-- [THE ADVENTURE OF BLACK PETER](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes/story_06_the_adventure_of_black_peter)
-- [THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes/story_07_the_adventure_of_charles_augustus_milver)
-- [THE ADVENTURE OF THE SIX NAPOLEONS](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes/story_08_the_adventure_of_the_six_napoleons)
-- [THE ADVENTURE OF THE THREE STUDENTS](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes/story_09_the_adventure_of_the_three_students)
-- [THE ADVENTURE OF THE GOLDEN PINCE-NEZ](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes/story_10_the_adventure_of_the_golden_pince_nez)
-- [THE ADVENTURE OF THE MISSING THREE-QUARTER](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes/story_11_the_adventure_of_the_missing_three_quart)
-- [THE ADVENTURE OF THE ABBEY GRANGE](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes/story_12_the_adventure_of_the_abbey_grange)
-- [THE ADVENTURE OF THE SECOND STAIN](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes/story_13_the_adventure_of_the_second_stain)
+- [THE ADVENTURE OF THE EMPTY HOUSE](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes#story_01_the_adventure_of_the_empty_house)
+- [THE ADVENTURE OF THE NORWOOD BUILDER](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes#story_02_the_adventure_of_the_norwood_builder)
+- [THE ADVENTURE OF THE DANCING MEN](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes#story_03_the_adventure_of_the_dancing_men)
+- [THE ADVENTURE OF THE SOLITARY CYCLIST](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes#story_04_the_adventure_of_the_solitary_cyclist)
+- [THE ADVENTURE OF THE PRIORY SCHOOL](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes#story_05_the_adventure_of_the_priory_school)
+- [THE ADVENTURE OF BLACK PETER](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes#story_06_the_adventure_of_black_peter)
+- [THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes#story_07_the_adventure_of_charles_augustus_milver)
+- [THE ADVENTURE OF THE SIX NAPOLEONS](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes#story_08_the_adventure_of_the_six_napoleons)
+- [THE ADVENTURE OF THE THREE STUDENTS](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes#story_09_the_adventure_of_the_three_students)
+- [THE ADVENTURE OF THE GOLDEN PINCE-NEZ](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes#story_10_the_adventure_of_the_golden_pince_nez)
+- [THE ADVENTURE OF THE MISSING THREE-QUARTER](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes#story_11_the_adventure_of_the_missing_three_quart)
+- [THE ADVENTURE OF THE ABBEY GRANGE](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes#story_12_the_adventure_of_the_abbey_grange)
+- [THE ADVENTURE OF THE SECOND STAIN](/testi/conan_doyle/atomized/the_return_of_sherlock_holmes#story_13_the_adventure_of_the_second_stain)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-47.7</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">45.4</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">49.2</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">20%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">102.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

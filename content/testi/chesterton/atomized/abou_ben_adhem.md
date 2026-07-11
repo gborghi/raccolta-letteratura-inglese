@@ -1,0 +1,138 @@
+---
+title: "Abou ben Adhem"
+author: "Chesterton"
+unitType: work
+parentWork: "works/abou-ben-adhem-(chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+<div class="atom-reader" data-work="testi/chesterton/atomized/abou_ben_adhem" data-author="Chesterton" data-workhref="works/abou-ben-adhem-(chesterton)"></div>
+
+
+<span class="atom-split" data-atom="abou_ben_adhem" data-title="Abou_ben_Adhem" data-chapter="" data-kind="intro"></span>
+
+
+# Abou ben Adhem
+
+THE PHILANTHROPIST  
+
+(With apologies to a Beautiful Poem)  
+
+ABOU BEN ADHEM (may his tribe decrease  
+By cautious birth-control and die in peace)  
+Mellow with learning lightly took the word  
+That marked him not with them that [[Love|love]] the Lord,  
+And told the angel of the book and pen  
+"Write me as one that loves his fellow-men:  
+For them [[Alone|alone]] I labour; to reclaim  
+The ragged roaming Bedouin and to tame  
+To ordered service; to uproot their vine  
+Who mock the [[Prophet]], being mad with wine,  
+Let daylight through their tents and through their lives,  
+Number their camels, even count their wives;  
+Plot out the [[Desert|desert]] into streets and squares,  
+And count it a more fruitful work than theirs  
+Who lift a vain and visionary [[Love|love]]  
+To your vague Allah in the skies above."  
+
+Gently replied the angel of the pen:  
+"Labour in peace and [[Love|love]] your fellow-men:  
+And [[Love|love]] not God, since men [[Alone|alone]] are dear,  
+Only [[Fear|fear]] God; for you have Cause to [[Fear|fear]]."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+# «Abou_ben_Adhem»
+
+IL FILANTROPO  
+
+(Con le nostre scuse a una Bella Poesia)  
+
+ABOU BEN ADHEM (possa la sua tribù decrescere  
+per prudente controllo delle nascite, e morire in pace)  
+mite di dottrina, prese con leggerezza la parola  
+che non lo iscriveva fra coloro che [[Love|amano]] il Signore,  
+e disse all'angelo del libro e della penna  
+«Iscrivimi come uno che ama i suoi simili:  
+per essi [[Alone|soli]] io m'affatico; per ricondurre  
+il cencioso Beduino vagabondo, e per domarlo  
+a un ordinato servizio; per sradicare la vite di coloro  
+che scherniscono il [[Prophet|Profeta]], folli di vino,  
+per lasciar entrare la luce del giorno nelle loro tende e nelle loro vite,  
+contare i loro cammelli, e persino le loro mogli;  
+tracciare il [[Desert|deserto]] in strade e piazze,  
+e stimarlo opera più feconda di quella di coloro  
+che innalzano un vano e visionario [[Love|amore]]  
+al vostro vago Allah nei cieli lassù».  
+
+Dolcemente rispose l'angelo della penna:  
+«Affaticati in pace e [[Love|ama]] i tuoi simili:  
+e non [[Love|amare]] Dio, poiché [[Alone|soltanto]] gli uomini sono cari,  
+soltanto [[Fear|temi]] Dio; ché hai Ragione di [[Fear|temere]].»
+
+
+
+<span class="atom-split" data-atom="part--part_01" data-title="Abou_ben_Adhem (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+
+
+# Abou ben Adhem
+
+THE PHILANTHROPIST  
+
+(With apologies to a Beautiful Poem)  
+
+ABOU BEN ADHEM (may his tribe decrease  
+By cautious birth-control and die in peace)  
+Mellow with learning lightly took the word  
+That marked him not with them that [[Love|love]] the Lord,  
+And told the angel of the book and pen  
+"Write me as one that loves his fellow-men:  
+For them [[Alone|alone]] I labour; to reclaim  
+The ragged roaming Bedouin and to tame  
+To ordered service; to uproot their vine  
+Who mock the [[Prophet]], being mad with wine,  
+Let daylight through their tents and through their lives,  
+Number their camels, even count their wives;  
+Plot out the [[Desert|desert]] into streets and squares,  
+And count it a more fruitful work than theirs  
+Who lift a vain and visionary [[Love|love]]  
+To your vague Allah in the skies above."  
+
+Gently replied the angel of the pen:  
+"Labour in peace and [[Love|love]] your fellow-men:  
+And [[Love|love]] not God, since men [[Alone|alone]] are dear,  
+Only [[Fear|fear]] God; for you have Cause to [[Fear|fear]]."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+# «Abou_ben_Adhem»
+
+IL FILANTROPO  
+
+(Con le nostre scuse a una Bella Poesia)  
+
+ABOU BEN ADHEM (possa la sua tribù decrescere  
+per prudente controllo delle nascite, e morire in pace)  
+mite di dottrina, prese con leggerezza la parola  
+che non lo iscriveva fra coloro che [[Love|amano]] il Signore,  
+e disse all'angelo del libro e della penna  
+«Iscrivimi come uno che ama i suoi simili:  
+per essi [[Alone|soli]] io m'affatico; per ricondurre  
+il cencioso Beduino vagabondo, e per domarlo  
+a un ordinato servizio; per sradicare la vite di coloro  
+che scherniscono il [[Prophet|Profeta]], folli di vino,  
+per lasciar entrare la luce del giorno nelle loro tende e nelle loro vite,  
+contare i loro cammelli, e persino le loro mogli;  
+tracciare il [[Desert|deserto]] in strade e piazze,  
+e stimarlo opera più feconda di quella di coloro  
+che innalzano un vano e visionario [[Love|amore]]  
+al vostro vago Allah nei cieli lassù».  
+
+Dolcemente rispose l'angelo della penna:  
+«Affaticati in pace e [[Love|ama]] i tuoi simili:  
+e non [[Love|amare]] Dio, poiché [[Alone|soltanto]] gli uomini sono cari,  
+soltanto [[Fear|temi]] Dio; ché hai Ragione di [[Fear|temere]].»

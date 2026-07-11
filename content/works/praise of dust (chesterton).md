@@ -43,7 +43,7 @@ tags:
 
 ## Testo / Text
 
-- [praise_of_dust](/testi/chesterton/atomized/praise_of_dust/praise_of_dust)
+- [praise_of_dust](/testi/chesterton/atomized/praise_of_dust#praise_of_dust)
 
 ## Connections
 

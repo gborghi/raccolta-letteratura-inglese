@@ -35,11 +35,9 @@ tags:
 > [!abstract] 
 > Belloc's 1904 topographical and historical reconstruction of the Pilgrims' Way, the ancient east-west track along the North Downs between Winchester and Canterbury. Part meditation on the primal power of the Road and antiquity, part field diary, he walks and maps the route yard by yard to recover the lived experience of the earliest travellers.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [ON THE ROAD AND THE FASCINATION OF ANTIQUITY](/testi/belloc/atomized/the_old_road_from_canterbury_to_winchester/story_01_on_the_road_and_the_fascination_of_antiq)
-- [THE THEORY OF THE OLD ROAD](/testi/belloc/atomized/the_old_road_from_canterbury_to_winchester/story_02_the_theory_of_the_old_road)
-- [THE EXPLORATION OF THE ROAD](/testi/belloc/atomized/the_old_road_from_canterbury_to_winchester/story_03_the_exploration_of_the_road)
+- [ON THE ROAD AND THE FASCINATION OF ANTIQUITY](/testi/belloc/atomized/the_old_road_from_canterbury_to_winchester#story_01_on_the_road_and_the_fascination_of_antiq)
 
 ## Connections
 

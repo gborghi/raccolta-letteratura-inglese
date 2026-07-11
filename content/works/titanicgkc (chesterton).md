@@ -33,7 +33,7 @@ tags:
 
 ## Testo / Text
 
-- [titanicGKC](/testi/chesterton/atomized/titanicgkc/titanicgkc)
+- [titanicGKC](/testi/chesterton/atomized/titanicgkc#titanicgkc)
 
 ## Connections
 

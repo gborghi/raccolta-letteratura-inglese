@@ -41,7 +41,7 @@ tags:
 
 ## Testo / Text
 
-- [The_Modern_Manichee](/testi/chesterton/atomized/the_modern_manichee/the_modern_manichee)
+- [The_Modern_Manichee](/testi/chesterton/atomized/the_modern_manichee#the_modern_manichee)
 
 ## Connections
 

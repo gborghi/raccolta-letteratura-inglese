@@ -52,7 +52,7 @@ tags:
 
 ## Testo / Text
 
-- [secret-people](/testi/chesterton/atomized/secret-people/secret-people)
+- [secret-people](/testi/chesterton/atomized/secret-people#secret-people)
 
 ## Connections
 

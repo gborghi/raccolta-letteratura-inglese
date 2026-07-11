@@ -44,7 +44,7 @@ tags:
 
 ## Testo / Text
 
-- [Songs of Education125](/testi/chesterton/atomized/songs_of_education125/songs_of_education125)
+- [Songs of Education125](/testi/chesterton/atomized/songs_of_education125#songs_of_education125)
 
 ## Connections
 

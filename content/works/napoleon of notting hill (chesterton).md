@@ -61,23 +61,9 @@ tags:
 > [!abstract] 
 > A 1904 futuristic comic novel set in a drab 1984 London; the joker-king Auberon Quin revives medieval pageantry and the fanatic Adam Wayne fights a war for the sacredness of his little borough, dramatising local patriotism, romance versus rationalism, and the love of small things.
 
-## Capitoli / Chapters
+## Testo / Text
 
-- [Chapter 1](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_01)
-- [Chapter 2](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_02)
-- [Chapter 3](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_03)
-- [Chapter 1](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_04)
-- [Chapter 2](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_05)
-- [Chapter 3](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_06)
-- [Chapter 1](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_07)
-- [Chapter 2](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_08)
-- [Chapter 3](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_09)
-- [Chapter 1](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_10)
-- [Chapter 2](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_11)
-- [Chapter 3](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_12)
-- [Chapter 1](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_13)
-- [Chapter 2](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_14)
-- [Chapter 3](/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_15)
+- [Chapter 1](/testi/chesterton/atomized/napoleon_of_notting_hill#chapter_01)
 
 ## Connections
 

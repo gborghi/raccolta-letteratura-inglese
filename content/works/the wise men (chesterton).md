@@ -42,7 +42,7 @@ tags:
 
 ## Testo / Text
 
-- [the_wise_men](/testi/chesterton/atomized/the_wise_men/the_wise_men)
+- [the_wise_men](/testi/chesterton/atomized/the_wise_men#the_wise_men)
 
 ## Connections
 

@@ -38,7 +38,7 @@ tags:
 
 ## Testo / Text
 
-- [For_a_War_Memorial](/testi/chesterton/atomized/for_a_war_memorial/for_a_war_memorial)
+- [For_a_War_Memorial](/testi/chesterton/atomized/for_a_war_memorial#for_a_war_memorial)
 
 ## Connections
 

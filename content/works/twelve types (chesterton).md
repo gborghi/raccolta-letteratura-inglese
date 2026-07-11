@@ -82,17 +82,10 @@ tags:
 
 ## Capitoli / Chapters
 
-- [CHARLOTTE BRONTE](/testi/chesterton/atomized/twelve_types/story_01_charlotte_bronte)
-- [WILLIAM MORRIS AND HIS SCHOOL](/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school)
-- [THE OPTIMISM OF BYRON](/testi/chesterton/atomized/twelve_types/story_03_the_optimism_of_byron)
-- [POPE AND THE ART OF SATIRE](/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire_satire)
-- [FRANCIS](/testi/chesterton/atomized/twelve_types/story_05_francis)
-- [ROSTAND](/testi/chesterton/atomized/twelve_types/story_06_rostand)
-- [CHARLES II](/testi/chesterton/atomized/twelve_types/story_07_charles_ii)
-- [THOMAS CARLYLE](/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle)
-- [TOLSTOY AND THE CULT OF SIMPLICITY](/testi/chesterton/atomized/twelve_types/story_09_tolstoy_tolstoy_and_the_cult_of_simplici)
-- [SAVONAROLA](/testi/chesterton/atomized/twelve_types/story_10_savonarola)
-- [THE POSITION OF SIR WALTER SCOTT](/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott)
+- [CHARLOTTE BRONTE](/testi/chesterton/atomized/twelve_types#story_01_charlotte_bronte)
+- [THE OPTIMISM OF BYRON](/testi/chesterton/atomized/twelve_types#story_03_the_optimism_of_byron)
+- [ROSTAND](/testi/chesterton/atomized/twelve_types#story_06_rostand)
+- [SAVONAROLA](/testi/chesterton/atomized/twelve_types#story_10_savonarola)
 
 ## Connections
 

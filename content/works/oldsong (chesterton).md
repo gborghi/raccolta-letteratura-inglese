@@ -45,7 +45,7 @@ tags:
 
 ## Testo / Text
 
-- [oldsong](/testi/chesterton/atomized/oldsong/oldsong)
+- [oldsong](/testi/chesterton/atomized/oldsong#oldsong)
 
 ## Connections
 

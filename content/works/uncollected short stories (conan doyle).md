@@ -28,13 +28,13 @@ tags:
 
 ## Testo / Text
 
-- [UNCOLLECTED SHORT STORIES](/testi/conan_doyle/atomized/uncollected_short_stories/uncollected_short_stories)
+- [UNCOLLECTED SHORT STORIES](/testi/conan_doyle/atomized/uncollected_short_stories#uncollected_short_stories)
 
 ## Parti / Parts
 
-- [Part 1](/testi/conan_doyle/atomized/uncollected_short_stories/part/part_01)
-- [Part 2](/testi/conan_doyle/atomized/uncollected_short_stories/part/part_02)
-- [Part 3](/testi/conan_doyle/atomized/uncollected_short_stories/part/part_03)
+- [Part 1](/testi/conan_doyle/atomized/uncollected_short_stories#part--part_01)
+- [Part 2](/testi/conan_doyle/atomized/uncollected_short_stories#part--part_02)
+- [Part 3](/testi/conan_doyle/atomized/uncollected_short_stories#part--part_03)
 
 ## Connections
 

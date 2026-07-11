@@ -36,7 +36,7 @@ tags:
 
 ## Testo / Text
 
-- [songs](/testi/chesterton/atomized/songs/songs)
+- [songs](/testi/chesterton/atomized/songs#songs)
 
 ## Connections
 

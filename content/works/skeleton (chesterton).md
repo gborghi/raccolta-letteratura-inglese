@@ -32,7 +32,7 @@ tags:
 
 ## Testo / Text
 
-- [skeleton](/testi/chesterton/atomized/skeleton/skeleton)
+- [skeleton](/testi/chesterton/atomized/skeleton#skeleton)
 
 ## Connections
 

@@ -24,12 +24,12 @@ tags:
 
 ## Testo / Text
 
-- [GREAT BRITAIN AND THE NEXT WAR](/testi/conan_doyle/atomized/great_britain_and_the_next_war/great_britain_and_the_next_war)
+- [GREAT BRITAIN AND THE NEXT WAR](/testi/conan_doyle/atomized/great_britain_and_the_next_war#great_britain_and_the_next_war)
 
 ## Parti / Parts
 
-- [Part 1](/testi/conan_doyle/atomized/great_britain_and_the_next_war/part/part_01)
-- [Part 2](/testi/conan_doyle/atomized/great_britain_and_the_next_war/part/part_02)
+- [Part 1](/testi/conan_doyle/atomized/great_britain_and_the_next_war#part--part_01)
+- [Part 2](/testi/conan_doyle/atomized/great_britain_and_the_next_war#part--part_02)
 
 ## Connections
 

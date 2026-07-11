@@ -29,7 +29,7 @@ tags:
 
 ## Testo / Text
 
-- [THE DISINTEGRATION MACHINE](/testi/conan_doyle/atomized/the_disintegration_machine/the_disintegration_machine)
+- [THE DISINTEGRATION MACHINE](/testi/conan_doyle/atomized/the_disintegration_machine#the_disintegration_machine)
 
 ## Connections
 

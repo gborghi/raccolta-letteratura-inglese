@@ -63,31 +63,9 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Chapter 1: A SERMON ON INNS](/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns)
-- [Chapter 2: THE END OF OLIVE ISLAND](/testi/chesterton/atomized/the_flying_inn/chapter_02_the_end_of_olive_island)
-- [Chapter 3: THE SIGN OF “THE OLD SHIP”](/testi/chesterton/atomized/the_flying_inn/chapter_03_the_sign_of_the_old_ship_ship)
-- [Chapter 4: THE INN FINDS WINGS](/testi/chesterton/atomized/the_flying_inn/chapter_04_the_inn_finds_wings)
-- [Chapter 5: THE ASTONISHMENT OF THE AGENT](/testi/chesterton/atomized/the_flying_inn/chapter_05_the_astonishment_of_the_agent)
-- [Chapter 6: THE HOLE IN HEAVEN](/testi/chesterton/atomized/the_flying_inn/chapter_06_the_hole_in_heaven)
-- [Chapter 7: THE SOCIETY OF SIMPLE SOULS](/testi/chesterton/atomized/the_flying_inn/chapter_07_the_society_of_simple_souls)
-- [Chapter 8: VOX POPULI VOX DEI](/testi/chesterton/atomized/the_flying_inn/chapter_08_vox_populi_vox_dei)
-- [Chapter 9: THE HIGHER CRITICISM AND MR. HIBBS](/testi/chesterton/atomized/the_flying_inn/chapter_09_the_higher_criticism_and_mr_hi)
-- [Chapter 10: THE CHARACTER OF [[quoodle|QUOODLE](/testi/chesterton/atomized/the_flying_inn/chapter_10_the_character_of_quoodle_quood)
-- [Chapter 11: VEGETARIANISM IN THE DRAWING-ROOM](/testi/chesterton/atomized/the_flying_inn/chapter_11_vegetarianism_in_the_drawing_r)
-- [Chapter 12: VEGETARIANISM IN THE FOREST](/testi/chesterton/atomized/the_flying_inn/chapter_12_vegetarianism_in_the_forest)
-- [Chapter 13: THE BATTLE OF THE TUNNEL](/testi/chesterton/atomized/the_flying_inn/chapter_13_the_battle_of_the_tunnel)
-- [Chapter 14: THE CREATURE THAT MAN FORGETS](/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets)
-- [Chapter 15: THE SONGS OF THE CAR CLUB](/testi/chesterton/atomized/the_flying_inn/chapter_15_the_songs_songs_of_the_car_clu)
-- [Chapter 16: THE SEVEN MOODS OF DORIAN](/testi/chesterton/atomized/the_flying_inn/chapter_16_the_seven_moods_of_dorian)
-- [Chapter 17: THE POET IN PARLIAMENT](/testi/chesterton/atomized/the_flying_inn/chapter_17_the_poet_in_parliament)
-- [Chapter 18: THE REPUBLIC OF PEACEWAYS](/testi/chesterton/atomized/the_flying_inn/chapter_18_the_republic_of_peaceways)
-- [Chapter 19: THE HOSPITALITY OF THE CAPTAIN](/testi/chesterton/atomized/the_flying_inn/chapter_19_the_hospitality_of_the_captain)
-- [Chapter 20: THE TURK AND THE FUTURISTS](/testi/chesterton/atomized/the_flying_inn/chapter_20_the_turk_and_the_futurists)
-- [Chapter 21: THE ROAD TO ROUNDABOUT](/testi/chesterton/atomized/the_flying_inn/chapter_21_the_road_road_to_roundabout)
-- [Chapter 22: THE CHEMISTRY OF MR. CROOKE](/testi/chesterton/atomized/the_flying_inn/chapter_22_the_chemistry_of_mr_crooke)
-- [Chapter 23: THE MARCH ON IVYWOOD](/testi/chesterton/atomized/the_flying_inn/chapter_23_the_march_on_ivywood)
-- [Chapter 24: THE ENIGMAS OF LADY JOAN](/testi/chesterton/atomized/the_flying_inn/chapter_24_the_enigmas_of_lady_joan)
-- [Chapter 25: THE FINDING OF THE SUPERMAN](/testi/chesterton/atomized/the_flying_inn/chapter_25_the_finding_of_the_superman)
+- [Chapter 4: THE INN FINDS WINGS](/testi/chesterton/atomized/the_flying_inn#chapter_04_the_inn_finds_wings)
+- [Chapter 9: THE HIGHER CRITICISM AND MR. HIBBS](/testi/chesterton/atomized/the_flying_inn#chapter_09_the_higher_criticism_and_mr_hi)
+- [Chapter 25: THE FINDING OF THE SUPERMAN](/testi/chesterton/atomized/the_flying_inn#chapter_25_the_finding_of_the_superman)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">71.4</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">10.9</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">18.8</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
