@@ -27,35 +27,56 @@ interface Atom {
 
 const LANG_KEY = "eng-reader-lang"
 
-function partition(container: HTMLElement, mount: HTMLElement): Atom[] {
+// A marker (`.atom-split` / `.qlang-split`) is emitted as an inline <span>; the
+// markdown renderer wraps a lone inline element in a <p>, so the marker is usually
+// NOT a direct child of the article — it sits inside a <p> that contains nothing
+// else. Detect both shapes: the bare marker element, or a wrapper whose only element
+// child is a marker and which carries no text of its own.
+function markerOf(el: HTMLElement): HTMLElement | null {
+  if (el.classList && (el.classList.contains("atom-split") || el.classList.contains("qlang-split")))
+    return el
+  if (el.childElementCount === 1 && !(el.textContent || "").trim()) {
+    const c = el.firstElementChild as HTMLElement | null
+    if (c && c.classList && (c.classList.contains("atom-split") || c.classList.contains("qlang-split")))
+      return c
+  }
+  return null
+}
+
+function partition(
+  container: HTMLElement,
+  mount: HTMLElement,
+): { atoms: Atom[]; markerNodes: Node[] } {
   const atoms: Atom[] = []
+  const markerNodes: Node[] = [] // the top-level nodes (bare marker or its wrapping <p>) to detach
   let cur: Atom | null = null
   let lang: "en" | "it" = "en"
   for (const node of Array.from(container.childNodes)) {
     if (node === mount) continue
     if (node.nodeType === Node.ELEMENT_NODE) {
-      const el = node as HTMLElement
-      if (el.classList && el.classList.contains("atom-split")) {
-        cur = {
-          id: el.dataset.atom || `atom-${atoms.length}`,
-          title: el.dataset.title || "",
-          chapter: el.dataset.chapter || "",
-          kind: el.dataset.kind || "",
-          en: [],
-          it: [],
+      const marker = markerOf(node as HTMLElement)
+      if (marker) {
+        markerNodes.push(node)
+        if (marker.classList.contains("atom-split")) {
+          cur = {
+            id: marker.dataset.atom || `atom-${atoms.length}`,
+            title: marker.dataset.title || "",
+            chapter: marker.dataset.chapter || "",
+            kind: marker.dataset.kind || "",
+            en: [],
+            it: [],
+          }
+          atoms.push(cur)
+          lang = "en"
+        } else {
+          lang = "it"
         }
-        atoms.push(cur)
-        lang = "en"
-        continue
-      }
-      if (el.classList && el.classList.contains("qlang-split")) {
-        lang = "it"
         continue
       }
     }
     if (cur) (lang === "en" ? cur.en : cur.it).push(node)
   }
-  return atoms
+  return { atoms, markerNodes }
 }
 
 function el<K extends keyof HTMLElementTagNameMap>(
@@ -75,14 +96,13 @@ function build(reader: HTMLElement) {
   const container = reader.parentElement
   if (!container) return
 
-  const atoms = partition(container, reader)
+  const { atoms, markerNodes } = partition(container, reader)
   if (!atoms.length) return
   const anyIt = atoms.some((a) => a.it.length > 0)
 
-  // detach every atom's nodes + the marker spans from the flow
-  container
-    .querySelectorAll(".atom-split, .qlang-split")
-    .forEach((m) => m.remove())
+  // detach every atom's nodes + the marker nodes (bare span or its wrapping <p>) so
+  // no empty marker boxes linger in the flow
+  for (const m of markerNodes) m.parentNode?.removeChild(m)
   for (const a of atoms) for (const n of [...a.en, ...a.it]) n.parentNode?.removeChild(n)
 
   const order = atoms.map((a) => a.id)
