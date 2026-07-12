@@ -65,9 +65,17 @@ tags:
 > [!abstract] 
 > A book of travel essays reflecting on American democracy, Prohibition, business, Lincoln and the spirit of the nation; meditates on the rights of man, the creed of equality, and the contrast between America and England.
 
-## Testo / Text
+## Capitoli / Chapters
 
-- [WhatISawInAmerica](/testi/chesterton/atomized/whatisawinamerica#whatisawinamerica)
+- [Hodder And Stoughton](/testi/chesterton/atomized/whatisawinamerica#story_01_hodder_and_stoughton)
+- [Mcmxxii](/testi/chesterton/atomized/whatisawinamerica#story_02_mcmxxii)
+- [A Meditation In Broadway              33](/testi/chesterton/atomized/whatisawinamerica#story_03_a_meditation_in_broadway_33)
+- [Some American Cities                  63](/testi/chesterton/atomized/whatisawinamerica#story_04_some_american_cities_63)
+- [The American Business Man             97](/testi/chesterton/atomized/whatisawinamerica#story_05_the_american_business_man_97)
+- [Prohibition In Fact And Fancy        145](/testi/chesterton/atomized/whatisawinamerica#story_06_prohibition_in_fact_and_fancy_145)
+- [The Extraordinary American           182](/testi/chesterton/atomized/whatisawinamerica#story_07_the_extraordinary_american_182)
+- [Is The Atlantic Narrowing?           208](/testi/chesterton/atomized/whatisawinamerica#story_08_is_the_atlantic_narrowing_208)
+- [Wells And The World State            235](/testi/chesterton/atomized/whatisawinamerica#story_09_wells_and_the_world_state_235)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">56.1</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.2</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">14.6</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">13%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">23.3</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

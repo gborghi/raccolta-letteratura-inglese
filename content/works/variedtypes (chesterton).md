@@ -81,9 +81,16 @@ tags:
 > [!abstract] 
 > A collection of critical essays on figures such as Charlotte Bronte, William Morris, Byron, Pope, St Francis, Stevenson, Carlyle and Tolstoy; literary criticism that probes the inner truth and creed behind each writer's art.
 
-## Testo / Text
+## Capitoli / Chapters
 
-- [VariedTypes](/testi/chesterton/atomized/variedtypes#variedtypes)
+- [Published September, 1905](/testi/chesterton/atomized/variedtypes#story_01_published_september_1905)
+- [G.K.C.](/testi/chesterton/atomized/variedtypes#story_02_g_k_c)
+- [Rostand](/testi/chesterton/atomized/variedtypes#story_06_rostand)
+- [Savonarola](/testi/chesterton/atomized/variedtypes#story_09_savonarola)
+- [Alfred The Great](/testi/chesterton/atomized/variedtypes#story_12_alfred_the_great)
+- [The German Emperor](/testi/chesterton/atomized/variedtypes#story_14_the_german_emperor)
+- [Tennyson](/testi/chesterton/atomized/variedtypes#story_15_tennyson)
+- [Elizabeth Barrett Browning](/testi/chesterton/atomized/variedtypes#story_16_elizabeth_barrett_browning)
 
 ## Connections
 

@@ -75,6 +75,18 @@ tags:
 
 - [LordKitchener](/testi/chesterton/atomized/lordkitchener#lordkitchener)
 
+## Parti / Parts
+
+- [Part 1](/testi/chesterton/atomized/lordkitchener#part--part_01)
+- [Part 2](/testi/chesterton/atomized/lordkitchener#part--part_02)
+- [Part 3](/testi/chesterton/atomized/lordkitchener#part--part_03)
+- [Part 4](/testi/chesterton/atomized/lordkitchener#part--part_04)
+- [Part 5](/testi/chesterton/atomized/lordkitchener#part--part_05)
+- [Part 6](/testi/chesterton/atomized/lordkitchener#part--part_06)
+- [Part 7](/testi/chesterton/atomized/lordkitchener#part--part_07)
+- [Part 8](/testi/chesterton/atomized/lordkitchener#part--part_08)
+- [Part 9](/testi/chesterton/atomized/lordkitchener#part--part_09)
+
 ## Connections
 
 **Settings:** [[Egypt]], [[Desert]], [[Russia]], [[Battlefield]], [[Sea (2)]], [[Ship]], [[South Africa]], [[Europe]]
