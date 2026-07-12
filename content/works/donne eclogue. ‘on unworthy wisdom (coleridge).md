@@ -2,7 +2,7 @@
 title: 'DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM'
 author: Coleridge
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Coleridge/_raw/421_DONNE_ECLOGUE_ON_UNWORTHY_WISDOM.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - form/fragment
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Coleridge*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Donne's lines (altered by Coleridge for The Friend) on the recluse hermit knowing heaven's glory, with man as an epitome of God's book of creatures.

@@ -2,10 +2,11 @@
 title: A Font of Type
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Whitman/_raw/300_A_Font_of_Type.md
 tags:
   - graph/work
+  - form/free_verse
   - author/Whitman
   - motif/letters_writing
   - motif/the_book
@@ -14,7 +15,7 @@ tags:
   - concept/the_artist_and_society
 ---
 
-*by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > A free-verse metapoetic lyric on the latent power of typeface, the unspoken words slumbering as ocean waves; themes of writing, the book and creative potency.

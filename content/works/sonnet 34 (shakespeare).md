@@ -2,7 +2,7 @@
 title: Sonnet 34
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_034.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - concept/love_romantic
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Continues the storm-and-sun reproach; the friend's repentance and tears ransom the wrong done, though the wound and disgrace remain.

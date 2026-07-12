@@ -2,7 +2,7 @@
 title: Sonnet 1
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_001.md
 tags:
   - graph/work
@@ -20,7 +20,7 @@ tags:
   - motif/spring
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Shakespearean sonnet opening the procreation sequence; urges the fair youth to breed so beauty's rose does not die, contrasting increase with self-consuming waste.

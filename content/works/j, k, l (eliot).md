@@ -2,7 +2,7 @@
 title: 'J, K, L'
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Eliot/_raw/119_J_K_L.md
 tags:
   - graph/work
@@ -13,7 +13,7 @@ tags:
   - concept/alienation
 ---
 
-*by Eliot*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Eliot*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Index-of-first-lines fragment (J–L) listing openings including 'Let us go then, you and I' (Prufrock) and Practical Cats lines; apparatus to the collected poems.

@@ -2,7 +2,7 @@
 title: Sonnet 38
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_038.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - concept/love_romantic
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > The beloved as the tenth muse; he is the inexhaustible argument of the poet's verse, deserving the praise for eternal numbers.

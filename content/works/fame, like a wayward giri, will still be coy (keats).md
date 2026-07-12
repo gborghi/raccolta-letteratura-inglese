@@ -2,7 +2,7 @@
 title: 'Fame, like a wayward Giri, will still be coy'
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/127_Fame_like_a_wayward_Giri_will_still_be_coy.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - histref/the_bible
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sonnet personifying Fame as a coy, jilting gipsy-girl who shuns those who court her; reflection on the artist, ambition and the elusiveness of poetic renown.

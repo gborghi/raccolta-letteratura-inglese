@@ -2,7 +2,7 @@
 title: Sonnet 21
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_021.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
   - concept/love_romantic
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Anti-Petrarchan sonnet rejecting extravagant comparisons; the poet vows to write true love plainly rather than sell false praise.

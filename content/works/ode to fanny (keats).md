@@ -2,7 +2,7 @@
 title: Ode to Fanny
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/115_Ode_to_Fanny.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/flowers
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > An ode begging Fanny to keep her heart's pulse for the speaker alone, racked by jealousy and treating love as a sacred religion. Its themes are romantic love, jealousy, and love as worship.

@@ -1233,7 +1233,6 @@ async function main() {
     [/^Death/, "cluster-death"],
     [/Frustrated Love/, "cluster-love"],
     [/^Grief/, "cluster-grief"],
-    [/^Sonnet/, "cluster-sonnet"],
     [/^Wonder/, "cluster-wonder"],
     [/^Satire/, "cluster-satire"],
     [/^Transience/, "cluster-transience"],
@@ -1244,9 +1243,13 @@ async function main() {
     [/^Sea ·/, "cluster-sea"],
     // Added 2026-07-11: cross-author theme spokes (see Clusters notes' "Connected
     // works · other authors" sections). Each regex matches one existing Louvain cluster.
+    // NB: "Sonnet …" and "Letters and Writing …" clusters were REMOVED from the wheel
+    // 2026-07-12 — the wheel is MEANING-only. Sonnets are surfaced via the Forms axis
+    // (Forms/Sonnet + Forms/Shakespearean Sonnet notes); the "Letters and Writing"
+    // cluster is really a poetic-immortality theme (its members are lyrics/odes/sonnets,
+    // none are epistolary form) and is reachable via its concept page.
     [/^Faith/, "cluster-faith"],
     [/^Appearance/, "cluster-appearance"],
-    [/^Letters and Writing/, "cluster-immortality"],
     [/^Greek Mythology/, "cluster-myth"],
     [/^Alienation/, "cluster-alienation"],
   ]

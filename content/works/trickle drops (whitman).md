@@ -2,10 +2,11 @@
 title: Trickle Drops
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Whitman/_raw/056_Trickle_Drops.md
 tags:
   - graph/work
+  - form/free_verse
   - author/Whitman
   - motif/blood
   - concept/the_body
@@ -14,7 +15,7 @@ tags:
   - concept/comradeship
 ---
 
-*by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Intense Calamus lyric in which 'confession drops' of blood stain every page; blood, confession, shame and the body as the bleeding source of song.

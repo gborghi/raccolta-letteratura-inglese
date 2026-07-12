@@ -2,7 +2,7 @@
 title: Sonnet 78
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_078.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/birds
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > The rival-poet sequence begins; alien pens use the beloved as muse, but the poet claims him as all his art.

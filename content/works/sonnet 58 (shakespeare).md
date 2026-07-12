@@ -2,7 +2,7 @@
 title: Sonnet 58
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_058.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/time
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > The poet as bound vassal who must endure the beloved's liberty and absence; waiting is hell without blame.

@@ -2,7 +2,7 @@
 title: An Enigma
 author: Poe
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Poe/_raw/An Enigma.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - form/sonnet
 ---
 
-*by Poe*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Poe*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > A sonnet that both mocks shallow sonnets and conceals a lady's name acrostically; reflects on transience, immortality through naming, and the craft of the poetic riddle.

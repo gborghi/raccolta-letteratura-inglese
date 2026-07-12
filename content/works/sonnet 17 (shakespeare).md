@@ -2,7 +2,7 @@
 title: Sonnet 17
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_017.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - topos/inexpressibility
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Closes the procreation sequence; verse alone will be disbelieved, but a child plus the rhyme would let the youth live twice.

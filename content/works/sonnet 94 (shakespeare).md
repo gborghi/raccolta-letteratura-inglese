@@ -2,7 +2,7 @@
 title: Sonnet 94
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_094.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - motif/seasons
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > On those who have power to hurt but withhold it; the summer flower festering warns that sweetest things turn sourest by their deeds.

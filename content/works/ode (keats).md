@@ -2,7 +2,7 @@
 title: ODE
 author: Keats
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Keats/_raw/036_ODE.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - histref/classical_antiquity
 ---
 
-*by Keats*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Keats*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Ode on the dead poets who live doubly in an Elysian heaven and on earth through their verse; poetic immortality, the afterlife and the teaching power of song.

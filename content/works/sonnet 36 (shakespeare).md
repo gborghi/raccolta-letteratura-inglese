@@ -2,7 +2,7 @@
 title: Sonnet 36
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_036.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - concept/identity
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Separation sonnet; though their loves are one, the poet's guilt requires they live apart so shame does not touch the beloved.

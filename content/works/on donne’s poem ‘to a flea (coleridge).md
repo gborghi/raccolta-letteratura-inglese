@@ -2,7 +2,7 @@
 title: ON DONNE’S POEM ‘TO A FLEA
 author: Coleridge
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Coleridge/_raw/369_ON_DONNES_POEM_TO_A_FLEA.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - motif/animals
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Coleridge*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > A witty squib ennobling fleas immortalised by Donne, plus an ex-libris jingle and the famous burlesque ode on Fichte's idealism ('I, I, I! I itself I!'); literary allusion, philosophical parody, and immortality through verse.

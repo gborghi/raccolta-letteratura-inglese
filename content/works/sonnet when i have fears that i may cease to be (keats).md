@@ -2,7 +2,7 @@
 title: 'Sonnet: When I have fears that I may cease to be'
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/075_Sonnet_When_I_have_fears_that_I_may_cease_to_be.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - form/sonnet
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A Shakespearean sonnet on the fear of dying before fulfilling poetic ambition or knowing love, ending alone on the shore of the wide world; mortality, fame, love and transience.

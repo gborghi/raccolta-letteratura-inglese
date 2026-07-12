@@ -2,7 +2,7 @@
 title: 'M, N, O'
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Eliot/_raw/120_M_N_O.md
 tags:
   - graph/work
@@ -13,7 +13,7 @@ tags:
   - motif/the_sea
 ---
 
-*by Eliot*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Eliot*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Index-of-first-lines fragment (M–O) listing openings including 'Macavity's a Mystery Cat', 'Midwinter spring is its own season' (Little Gidding) and 'Miss Helen Slingsby'; apparatus to the corpus.

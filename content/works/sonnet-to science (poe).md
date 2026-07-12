@@ -2,7 +2,7 @@
 title: Sonnet-To Science
 author: Poe
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Poe/_raw/Sonnet-To Science.md
 tags:
   - graph/work
@@ -20,7 +20,7 @@ tags:
   - form/sonnet
 ---
 
-*by Poe*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sonnet attacking science as a vulture that preys on the poet's heart, banishing the mythological imagination (Diana, the Naiad, the Hamadryad) and dull realities against poetic vision.

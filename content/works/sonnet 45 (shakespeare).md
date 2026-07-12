@@ -2,7 +2,7 @@
 title: Sonnet 45
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_045.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - concept/love_romantic
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Air and fire (thought and desire) fly to the beloved in absence; melancholy and oscillating joy and sadness.

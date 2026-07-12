@@ -2,7 +2,7 @@
 title: Sonnet 22
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_022.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - concept/mortality
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Exchanged-hearts sonnet; the lover cannot feel old while the youth is young, their hearts dwelling in each other's breasts.

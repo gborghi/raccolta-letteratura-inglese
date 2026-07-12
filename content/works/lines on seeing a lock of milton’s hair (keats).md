@@ -2,7 +2,7 @@
 title: Lines On Seeing a Lock of Milton’s Hair
 author: Keats
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Keats/_raw/073_Lines_On_Seeing_a_Lock_of_Miltons_Hair.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - form/ode
 ---
 
-*by Keats*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Keats*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > An ode-like lyric venerating Milton as chief of organic numbers and swearing a Delian oath to hymn beauty and immortal song; poetic vocation, immortality of art and reverence.

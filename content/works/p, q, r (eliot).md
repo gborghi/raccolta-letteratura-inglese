@@ -2,7 +2,7 @@
 title: 'P, Q, R'
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Eliot/_raw/121_P_Q_R.md
 tags:
   - graph/work
@@ -13,7 +13,7 @@ tags:
   - concept/satire_of_society
 ---
 
-*by Eliot*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Eliot*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Index-of-first-lines fragment (P–R) listing openings such as 'Polyphiloprogenitive', 'Pipit sate upright' and the Nocturne opening; apparatus to the collected poems.

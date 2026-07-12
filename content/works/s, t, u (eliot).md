@@ -2,7 +2,7 @@
 title: 'S, T, U'
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Eliot/_raw/122_S_T_U.md
 tags:
   - graph/work
@@ -13,7 +13,7 @@ tags:
   - concept/mortality
 ---
 
-*by Eliot*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Eliot*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Index-of-first-lines fragment (S–U) listing openings including 'The winter evening settles down', 'Time present and time past' (Burnt Norton) and Practical Cats lines; apparatus to the corpus.

@@ -2,7 +2,7 @@
 title: Sonnet 39
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_039.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - concept/self_and_soul
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > On praising a beloved who is the better part of oneself; absence is a torment yet teaches how to make one twain through verse.

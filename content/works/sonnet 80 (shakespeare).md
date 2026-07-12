@@ -2,7 +2,7 @@
 title: Sonnet 80
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_080.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/letters_writing
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > The poet faints before a better spirit who praises the beloved; the rival's tall ship versus his saucy little barque on the ocean of worth.

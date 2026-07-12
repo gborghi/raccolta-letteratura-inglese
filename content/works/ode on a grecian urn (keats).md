@@ -2,7 +2,7 @@
 title: ODE ON A GRECIAN URN
 author: Keats
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Keats/_raw/033_ODE_ON_A_GRECIAN_URN.md
 tags:
   - graph/work
@@ -20,7 +20,7 @@ tags:
   - motif/silence
 ---
 
-*by Keats*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Keats*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Ode contemplating the frozen figures on a Greek urn and its 'Beauty is truth' message; art's immortality against human transience, beauty and truth, and the cost of stilled passion.

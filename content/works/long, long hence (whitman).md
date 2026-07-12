@@ -2,7 +2,7 @@
 title: 'Long, Long Hence'
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Whitman/_raw/362_Long_Long_Hence.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - form/free_verse
 ---
 
-*by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > A prophecy of poetic immortality: only after ages of accumulation and myriad readers will the poet's songs reach their fruition.

@@ -2,7 +2,7 @@
 title: Sonnet 107
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_107.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
   - archetype/tyrant
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > The mortal moon's eclipse endured; love survives and lives in verse as a monument outlasting tyrants' tombs of brass.

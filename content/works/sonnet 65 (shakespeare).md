@@ -2,7 +2,7 @@
 title: Sonnet 65
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_065.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - motif/flowers
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Mortality oversways brass, stone, earth, sea; only the miracle of black ink keeps the beloved's beauty bright.

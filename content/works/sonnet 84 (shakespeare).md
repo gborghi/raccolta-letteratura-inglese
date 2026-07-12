@@ -2,7 +2,7 @@
 title: Sonnet 84
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_084.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - motif/letters_writing
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > On the inexpressibility of the youth's beauty: the best praise is simply that 'you alone are you', and excess praise is a curse.

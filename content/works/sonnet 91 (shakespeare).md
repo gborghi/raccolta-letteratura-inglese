@@ -2,7 +2,7 @@
 title: Sonnet 91
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_091.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - concept/pride
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Catalogue of men's prides (birth, wealth, hawks, horses) all surpassed by the beloved's love, yet shadowed by fear of its loss.

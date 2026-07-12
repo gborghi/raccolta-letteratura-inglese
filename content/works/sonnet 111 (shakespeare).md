@@ -2,7 +2,7 @@
 title: Sonnet 111
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_111.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - concept/alienation
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Blaming Fortune for public means that stained his name like the dyer's hand; he drinks bitter potions of penance, cured by the friend's pity.

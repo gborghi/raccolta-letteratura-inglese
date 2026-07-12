@@ -2,7 +2,7 @@
 title: Sonnet 139
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_139.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - archetype/femme_fatale
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Begging her not to wound by glancing aside; love-as-war (eyes that slay), her infidelity, desire and pain.

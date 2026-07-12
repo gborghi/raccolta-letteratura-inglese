@@ -2,7 +2,7 @@
 title: The Unpardonable Sin
 author: Chesterton
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Chesterton/_raw/sin.md
 tags:
   - graph/work
@@ -22,7 +22,7 @@ tags:
 
 # sin
 
-*by Chesterton*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Chesterton*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sonnet on love, in which the speaker swears to smite even prophet or angel who fails to revere a woman's love as sacred. Themes of romantic love as religion and reverence.

@@ -2,7 +2,7 @@
 title: Sonnet 19
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_019.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
   - histref/greek_mythology
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Apostrophe to devouring time; despite time's worst the beloved will live ever young in the poet's verse.

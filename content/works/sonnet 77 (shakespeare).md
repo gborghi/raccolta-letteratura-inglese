@@ -2,7 +2,7 @@
 title: Sonnet 77
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_077.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - motif/time
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Glass, dial, and blank book teach the lessons of mortality, time's thievish progress, and memory committed to writing.

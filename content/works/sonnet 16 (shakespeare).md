@@ -2,7 +2,7 @@
 title: Sonnet 16
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_016.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - concept/immortality_of_art
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Pivot sonnet contrasting barren rhyme with the mightier way of children to make war on bloody tyrant time.

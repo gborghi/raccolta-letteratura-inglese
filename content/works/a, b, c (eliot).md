@@ -2,7 +2,7 @@
 title: 'A, B, C'
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Eliot/_raw/116_A_B_C.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - concept/spiritual_emptiness
 ---
 
-*by Eliot*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Eliot*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Index-of-first-lines fragment (A–C) for Eliot's collected verse, listing openings such as 'A cold coming we had of it', 'April is the cruellest month' and 'Among the smoke and fog'; an apparatus pointing to the whole corpus.

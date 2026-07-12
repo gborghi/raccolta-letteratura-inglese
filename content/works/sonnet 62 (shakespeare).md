@@ -2,7 +2,7 @@
 title: Sonnet 62
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_062.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - concept/beauty
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Sin of self-love confronted by the aging face in the glass; identity dissolves into love of the youth.

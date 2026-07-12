@@ -2,7 +2,7 @@
 title: SONNET
 author: Coleridge
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/222_SONNET_1.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - form/sonnet
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Sonnet translated from Marini in which lover and disdainful lady are doomed to burn in hell, love as fire and torment. Baroque conceit of love as damnation.

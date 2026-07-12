@@ -2,7 +2,7 @@
 title: Sonnet 56
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_056.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - concept/grief_and_loss
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > An appeal to renew love's force after absence; appetite, the parting ocean, and winter making summer sweeter.

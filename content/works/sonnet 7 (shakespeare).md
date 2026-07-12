@@ -2,7 +2,7 @@
 title: Sonnet 7
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_007.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - motif/eyes_sight
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > The sun's daily rise and decline as emblem of youth and age; the youth must get a son to be looked on in his decline.

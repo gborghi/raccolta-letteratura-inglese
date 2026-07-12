@@ -2,7 +2,7 @@
 title: Sonnet on the Sonnet
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/129_Sonnet_on_the_Sonnet.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - motif/music_and_song
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A self-reflexive sonnet about the sonnet form itself, comparing it to fettered Andromeda and seeking new metrical 'sandals' for Poesy; meta-poetic meditation on form and craft.

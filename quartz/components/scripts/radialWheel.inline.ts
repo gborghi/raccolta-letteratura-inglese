@@ -80,6 +80,60 @@ function buildCombined(s: Spoke, prefix: string, imgPrefix: string): HTMLAnchorE
   return a
 }
 
+// The circular shingle has ONE unavoidable seam: z-index is a total order, but
+// "every tile above one neighbour, below the other" is a *cyclic* relation, so no
+// single z per tile can satisfy it — one tile ends up below both its neighbours.
+// Heal it in GEOMETRY, not paint-order: draw a clipped duplicate of the seam tile,
+// clipped to just the sliver where it overlaps its counter-clockwise (higher-z)
+// neighbour, and float that sliver on top. The seam tile then reads below its
+// clockwise neighbour (original) yet above its counter-clockwise one (the sliver),
+// closing the cycle with no visible break. Returns the seam index used by layout.
+//
+// clip to the half-plane through the tile-box centre whose kept side faces (dx,dy);
+// Sutherland–Hodgman clip of the 0..100% square by that one plane.
+function halfPlaneClip(dx: number, dy: number): string {
+  const sq: [number, number][] = [
+    [0, 0],
+    [100, 0],
+    [100, 100],
+    [0, 100],
+  ]
+  const f = (p: [number, number]) => (p[0] - 50) * dx + (p[1] - 50) * dy
+  const out: [number, number][] = []
+  for (let i = 0; i < 4; i++) {
+    const a = sq[i]
+    const b = sq[(i + 1) % 4]
+    const fa = f(a)
+    const fb = f(b)
+    if (fa >= 0) out.push(a)
+    if (fa < 0 !== fb < 0) {
+      const t = fa / (fa - fb)
+      out.push([a[0] + t * (b[0] - a[0]), a[1] + t * (b[1] - a[1])])
+    }
+  }
+  return "polygon(" + out.map((p) => `${p[0].toFixed(1)}% ${p[1].toFixed(1)}%`).join(",") + ")"
+}
+
+function healSeam(stage: HTMLElement, tiles: HTMLElement[], before: Node, n: number) {
+  if (n < 3) return
+  const seam = Math.round(n / 2) // the tile left below both neighbours (base --rw-z 0)
+  const ccw = (seam - 1 + n) % n // its counter-clockwise neighbour (highest --rw-z)
+  const S = tiles[seam]
+  const P = tiles[ccw]
+  const sx = parseFloat(S.style.left)
+  const sy = parseFloat(S.style.top)
+  const dx = parseFloat(P.style.left) - sx // point the kept half at the ccw neighbour
+  const dy = parseFloat(P.style.top) - sy
+  const dup = S.cloneNode(true) as HTMLElement
+  dup.classList.add("rw-seamfix")
+  dup.removeAttribute("href")
+  dup.setAttribute("aria-hidden", "true")
+  dup.style.pointerEvents = "none"
+  dup.style.setProperty("--rw-z", String(n)) // above every base tile, below hover(25)/labels(30)
+  dup.style.clipPath = halfPlaneClip(dx, dy)
+  stage.insertBefore(dup, before) // above tiles, beneath centre medallion + labels
+}
+
 function layoutCircle(tiles: HTMLElement[], labels: HTMLElement[]) {
   const n = tiles.length
   const tileR = 37 // emblem ring radius (% of stage)
@@ -150,6 +204,9 @@ function renderWheel(root: HTMLElement, spokes: Spoke[], prefix: string, imgPref
   stage.appendChild(center)
   for (const l of labels) stage.appendChild(l)
   layoutCircle(tiles, labels)
+  // geometry-based seam heal: clipped duplicate goes above the tiles but beneath the
+  // centre medallion (the first node appended after the tiles).
+  healSeam(stage, tiles, center, tiles.length)
 
   root.replaceChildren(stage, fallback)
 

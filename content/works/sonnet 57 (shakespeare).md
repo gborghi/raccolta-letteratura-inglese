@@ -2,7 +2,7 @@
 title: Sonnet 57
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_057.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - archetype/lover
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > The poet as abject slave watching the clock for the beloved; jealous thought suppressed in love's foolish devotion.

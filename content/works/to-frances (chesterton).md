@@ -2,7 +2,7 @@
 title: To Frances
 author: Chesterton
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Chesterton/_raw/to-frances.md
 tags:
   - graph/work
@@ -44,7 +44,7 @@ tags:
 
 # to-frances
 
-*by Chesterton*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Chesterton*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Whimsical love-letters and a mock-autobiography addressed to his fiancee Frances Blogg; turns ordinary domestic objects sacramental, treats love and death as kindred transformations.

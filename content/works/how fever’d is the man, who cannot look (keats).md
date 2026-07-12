@@ -2,7 +2,7 @@
 title: 'How fever’d is the man, who cannot look'
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/128_How_feverd_is_the_man_who_cannot_look.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - concept/grace_and_redemption
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sonnet on accepting mortal life with temperate calm rather than vexing oneself; uses rose, plum and lake imagery to counsel against spoiling one's salvation by feverish self-torment.

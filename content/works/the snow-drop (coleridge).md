@@ -2,7 +2,7 @@
 title: THE SNOW-DROP
 author: Coleridge
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Coleridge/_raw/198_THE_SNOW-DROP.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - motif/music_and_song
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Coleridge*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > A lyric addressed to a snowdrop made immortal by Laura's (Mrs. Robinson's) song, bearing it to Pierian climes where the Phoenix nests and Lethe steals, a poem of art's immortality and memory.

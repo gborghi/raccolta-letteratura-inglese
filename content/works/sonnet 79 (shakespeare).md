@@ -2,7 +2,7 @@
 title: Sonnet 79
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_079.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - concept/beauty
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > The poet's muse decayed as a worthier rival pen takes his place; the rival only repays what the beloved already owns.

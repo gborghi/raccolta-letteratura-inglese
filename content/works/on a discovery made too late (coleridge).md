@@ -2,7 +2,7 @@
 title: ON A DISCOVERY MADE TOO LATE
 author: Coleridge
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/074_ON_A_DISCOVERY_MADE_TOO_LATE.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - motif/madness
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Sonnet probing the bleeding heart wounded by jealousy and lost hope; grief, jealousy, madness, and the painful self-reproach of reason. Form: sonnet.

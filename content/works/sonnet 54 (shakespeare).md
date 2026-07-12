@@ -2,7 +2,7 @@
 title: Sonnet 54
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_054.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - concept/beauty
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Beauty made deeper by truth; the rose versus the scentless canker bloom; verse distills the youth's truth.

@@ -2,7 +2,7 @@
 title: Sonnet on Sitting Down to Read King Lear Once Again
 author: Keats
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Keats/_raw/074_Sonnet_on_Sitting_Down_to_Read_King_Lear_Once_Again.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - form/sonnet
 ---
 
-*by Keats*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Keats*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > A sonnet bidding farewell to golden romance to burn through the tragic fire of King Lear and asking for new Phoenix wings; tragedy, Shakespeare, suffering and poetic rebirth.

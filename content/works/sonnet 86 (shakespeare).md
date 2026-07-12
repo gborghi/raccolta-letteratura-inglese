@@ -2,7 +2,7 @@
 title: Sonnet 86
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_086.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - motif/the_sea
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Climax of the rival-poet sequence: the rival's proud verse and 'familiar ghost' did not silence the speaker; only the youth's favour to the rival did.

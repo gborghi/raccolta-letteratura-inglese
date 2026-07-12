@@ -2,7 +2,7 @@
 title: PITT
 author: Coleridge
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/087_PITT.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - histref/the_bible
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A bitter sonnet denouncing Pitt as a Judas-apostate crucifying Freedom; invokes Mercy turned to wrath; themes of political betrayal, corruption, and Christ-imagery.

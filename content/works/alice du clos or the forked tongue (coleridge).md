@@ -2,7 +2,7 @@
 title: ALICE DU CLOS OR THE FORKED TONGUE
 author: Coleridge
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/281_ALICE_DU_CLOS_OR_THE_FORKED_TONGUE.md
 tags:
   - graph/work
@@ -21,7 +21,7 @@ tags:
   - archetype/villain
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A medieval ballad in which the vassal Sir Hugh's double-tongued slander goads jealous Lord Julian into killing his innocent betrothed Alice with an arrow. Themes: deception, jealousy, betrayal, innocence destroyed.

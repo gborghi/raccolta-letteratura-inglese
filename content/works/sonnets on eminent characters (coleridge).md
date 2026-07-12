@@ -2,7 +2,7 @@
 title: SONNETS ON EMINENT CHARACTERS
 author: Coleridge
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/081_SONNETS_ON_EMINENT_CHARACTERS.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - concept/satire_of_society
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Headnote and opening of Coleridge's series of sonnets addressed to eminent contemporaries for the Morning Chronicle; occasional sonnet sequence on public figures.

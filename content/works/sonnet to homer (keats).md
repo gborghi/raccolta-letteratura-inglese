@@ -2,7 +2,7 @@
 title: Sonnet to Homer
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/090_Sonnet_to_Homer.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - concept/immortality_of_art
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sonnet on the blind Homer to whom the gods granted inward sight, finding 'light on the shores of darkness'. It celebrates poetic vision, blindness as insight, and Greek myth and the sea.

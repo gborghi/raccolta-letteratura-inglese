@@ -2,7 +2,7 @@
 title: Sonnet 55
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_055.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - motif/time
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Not marble nor gilded monuments outlive this rhyme; immortality through verse against war, time, and oblivion.

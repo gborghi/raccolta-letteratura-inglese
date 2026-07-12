@@ -2,7 +2,7 @@
 title: Sonnet 3
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_003.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - concept/transience
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Mirror sonnet urging the youth to look in his glass and father a child; the child as the mother's glass renews her prime against time and death.

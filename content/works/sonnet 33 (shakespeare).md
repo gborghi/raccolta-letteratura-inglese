@@ -2,7 +2,7 @@
 title: Sonnet 33
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_033.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - concept/disillusionment
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > First of the 'sun' estrangement sonnets; the friend's love, like the morning sun masked by cloud, briefly shone then was hidden, yet is forgiven.

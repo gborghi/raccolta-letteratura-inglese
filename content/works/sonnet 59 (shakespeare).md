@@ -2,7 +2,7 @@
 title: Sonnet 59
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_059.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - motif/sun
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > If nothing is new, the cyclic return of all things; the wish to see the beloved's image in antique books of the past.

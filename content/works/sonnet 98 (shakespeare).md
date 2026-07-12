@@ -2,7 +2,7 @@
 title: Sonnet 98
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_098.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - motif/birds
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Absent in spring amid April's flowers and birdsong, the speaker finds them mere shadows of the beloved and feels it still winter.

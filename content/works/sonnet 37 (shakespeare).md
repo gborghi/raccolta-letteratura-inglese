@@ -2,7 +2,7 @@
 title: Sonnet 37
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_037.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - concept/friendship
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Lame-father sonnet; though made lame by fortune, the poet takes comfort and substance from the youth's worth, living by his glory.

@@ -2,7 +2,7 @@
 title: Sonnet 75
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_075.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - concept/jealousy
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > The beloved as food to life; the miser's alternating feast and famine, gluttony and starvation in love.

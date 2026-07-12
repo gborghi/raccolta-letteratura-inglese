@@ -2,7 +2,7 @@
 title: MUSOPHILUS
 author: Coleridge
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Coleridge/_raw/428_MUSOPHILUS.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/the_book
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Coleridge*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Stanzas from Daniel's Musophilus, used by Coleridge as mottoes: no state stands sure but on the grounds of right and learning, and 'blessed letters' make the dead live and confer immortality through writing.

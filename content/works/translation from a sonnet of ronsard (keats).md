@@ -2,7 +2,7 @@
 title: Translation from a Sonnet of Ronsard
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/110_Translation_from_a_Sonnet_of_Ronsard.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - topos/the_unattainable_beloved
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A translated sonnet on the heavenly-made beauty of Cassandra, whose descent sets the poet's heart afire with sweet burning pain. It treats idealized beauty, romantic love, and Greek myth.

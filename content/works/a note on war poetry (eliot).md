@@ -2,7 +2,7 @@
 title: A Note on War Poetry
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Eliot/_raw/075_A_Note_on_War_Poetry.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - topos/immortality_through_verse
 ---
 
-*by Eliot*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Eliot*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > WWII meditation on the relation of private experience, war and poetry; reflects on the cost of war and on art transmuting experience into the universal.

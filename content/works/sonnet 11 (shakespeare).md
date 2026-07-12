@@ -2,7 +2,7 @@
 title: Sonnet 11
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_011.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - topos/tempus_fugit
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Nature's seal-and-print metaphor; wisdom and increase against age and cold decay, urging the youth to print more copies of himself.

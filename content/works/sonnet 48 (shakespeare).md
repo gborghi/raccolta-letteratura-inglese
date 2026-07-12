@@ -2,7 +2,7 @@
 title: Sonnet 48
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_048.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - topos/the_unattainable_beloved
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > The beloved as precious treasure that cannot be locked up; fear of theft and loss in love.

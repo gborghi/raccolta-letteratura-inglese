@@ -39,4 +39,4 @@ tags:
 **Archetypes:** [[The Writer]]
 **Topoi:** [[Immortality Through Verse]]
 
-**Also relevant to:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+**Also relevant to:** [[Self-Knowledge · Immortality · Self-Reliance]]

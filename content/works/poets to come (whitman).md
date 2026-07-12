@@ -2,7 +2,7 @@
 title: Poets to Come
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Whitman/_raw/022_Poets_to_Come.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - concept/the_artist_and_society
 ---
 
-*by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Summons future poets to justify him; the speaker hurries back into darkness, expecting the main things from posterity. Prophet-poet, immortality through verse.

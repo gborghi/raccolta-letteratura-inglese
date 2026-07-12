@@ -2,7 +2,7 @@
 title: TO THE AUTHOR OF POEMS
 author: Coleridge
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Coleridge/_raw/105_TO_THE_AUTHOR_OF_POEMS.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - topos/poet_as_prophet
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Coleridge*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > A verse epistle to Joseph Cottle praising his modest verse via an allegory of the Poetic mount, Oblivion's stream, and the impassioned theme Poesy demands; themes of poetry, the artist, and nature.

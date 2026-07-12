@@ -2,7 +2,7 @@
 title: Sonnet 35
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_035.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - concept/appearance_vs_reality
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Excuses the friend's fault ('roses have thorns'); the poet's self-corrupting advocacy makes him accessory to the sweet thief's offence.

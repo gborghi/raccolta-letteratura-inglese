@@ -2,7 +2,7 @@
 title: Sonnet 125
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_125.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - motif/ruins
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Rejection of outward show and ruined 'bases for eternity' in favor of mutual, free devotion of a true soul; transience, truth, appearance vs reality.

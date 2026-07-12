@@ -2,7 +2,7 @@
 title: Sonnet 74
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_074.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - motif/swords_weapons
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Death's fell arrest carries off the body, but the spirit and the line remain with the beloved; verse as memorial.

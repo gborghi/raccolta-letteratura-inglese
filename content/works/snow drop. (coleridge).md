@@ -2,7 +2,7 @@
 title: SNOW DROP.
 author: Coleridge
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Coleridge/_raw/199_SNOW_DROP.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - motif/winter
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Coleridge*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > An earlier draft and textual variants of 'The Snow-Drop', with editorial framing and Mrs. Robinson's original, on the frail flower immortalized by enchantress-song.

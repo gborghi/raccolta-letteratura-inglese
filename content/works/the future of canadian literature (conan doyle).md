@@ -44,4 +44,4 @@ tags:
 **Archetypes:** [[The Writer]]
 **Topoi:** [[Poet as Prophet]]
 
-**Also relevant to:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+**Also relevant to:** [[Self-Knowledge · Immortality · Self-Reliance]]

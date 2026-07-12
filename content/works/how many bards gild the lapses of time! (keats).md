@@ -2,7 +2,7 @@
 title: HOW MANY BARDS GILD THE LAPSES OF TIME!
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/015_HOW_MANY_BARDS_GILD_THE_LAPSES_OF_TIME.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - motif/time
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Sonnet on the harmonious presence of past poets in the mind, likened to the blended sounds of evening; poetic tradition, memory and the music of nature.

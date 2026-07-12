@@ -2,7 +2,7 @@
 title: 'G, H, I'
 author: Eliot
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Eliot/_raw/118_G_H_I.md
 tags:
   - graph/work
@@ -13,7 +13,7 @@ tags:
   - concept/mortality
 ---
 
-*by Eliot*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Eliot*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Index-of-first-lines fragment (G–I), listing Practical Cats openings and 'Here I am, an old man in a dry month' (Gerontion), 'In my beginning is my end' (Four Quartets) and the Fable's opening line.

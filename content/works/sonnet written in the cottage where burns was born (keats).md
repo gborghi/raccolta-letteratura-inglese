@@ -2,7 +2,7 @@
 title: Sonnet Written in the Cottage where Burns was Born
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/103_Sonnet_Written_in_the_Cottage_where_Burns_was_Born.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - setting/scotland
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sonnet written in Burns's birthplace, the speaker drunk with whisky and homage, musing on mortality and fame at the dead poet's shrine. Its themes are mortality, fame, and the poet's legacy.

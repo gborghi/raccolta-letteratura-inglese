@@ -2,7 +2,7 @@
 title: 'Now Precedent Songs, Farewell'
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Whitman/_raw/347_Now_Precedent_Songs_Farewell.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - form/free_verse
 ---
 
-*by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > The aged poet bids farewell to his earlier songs, naming them as a strange procession born of his life's hot pulsing blood.

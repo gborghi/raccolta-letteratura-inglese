@@ -2,7 +2,7 @@
 title: Ode to Apollo
 author: Keats
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Keats/_raw/048_Ode_to_Apollo.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - form/ode
 ---
 
-*by Keats*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Keats*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > An ode imagining Apollo's western halls where the great bards (Homer, Virgil, Milton, Shakespeare, Spenser, Tasso) sing in turn; the poet's pantheon, music and song, classical myth.

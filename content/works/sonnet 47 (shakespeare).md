@@ -2,7 +2,7 @@
 title: Sonnet 47
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_047.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/love
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Eye and heart make a league; the beloved's picture and the poet's thoughts keep the absent friend present.

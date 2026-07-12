@@ -2,7 +2,7 @@
 title: Sonnet 49
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_049.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/money_gold
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Anticipating the time the beloved's love will be audited and withdrawn; self-abasement and unrequited fear.

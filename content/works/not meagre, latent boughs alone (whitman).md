@@ -2,7 +2,7 @@
 title: 'Not Meagre, Latent Boughs Alone'
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Whitman/_raw/343_Not_Meagre_Latent_Boughs_Alone.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - form/lyric
 ---
 
-*by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > His bare wintry songs may yet burst into future spring leaf and fruit, love and faith blooming like roses.

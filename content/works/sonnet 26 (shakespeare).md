@@ -2,7 +2,7 @@
 title: Sonnet 26
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_026.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - concept/humility
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Feudal vassalage sonnet; an 'embassage' of duty to the lord of his love, hoping a guiding star will make him worthy.

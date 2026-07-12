@@ -2,7 +2,7 @@
 title: Sonnet 88
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_088.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - concept/friendship
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Self-abnegating love: the speaker will fight against himself and bear all wrong to vindicate the beloved who has wronged him.

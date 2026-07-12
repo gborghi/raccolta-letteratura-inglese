@@ -2,7 +2,7 @@
 title: 'TO RICHARD BRINSLEY SHERIDAN, ESQ.'
 author: Coleridge
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/092_TO_RICHARD_BRINSLEY_SHERIDAN_ESQ.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - histref/classical_antiquity
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sonnet praising Sheridan's eloquence and wit, ranging from Petrarchan sweetness to patriot rage that scorches the political apostate; themes of eloquence, satire, and patriotism.

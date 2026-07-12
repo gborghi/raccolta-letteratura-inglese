@@ -2,7 +2,7 @@
 title: Sonnet 9
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_009.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - motif/death
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Procreation sonnet; to die issueless makes the world a weeping widow, and unused beauty is self-murderous waste.

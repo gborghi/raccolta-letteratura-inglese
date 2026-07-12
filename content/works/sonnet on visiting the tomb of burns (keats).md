@@ -2,7 +2,7 @@
 title: Sonnet on Visiting the Tomb of Burns
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/098_Sonnet_on_Visiting_the_Tomb_of_Burns.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - concept/transience
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sonnet at Burns's grave finding the cold beauty of the scene haunted by sickly imagination and the brevity of the northern summer. It mingles mortality, melancholy, and homage to a dead poet.

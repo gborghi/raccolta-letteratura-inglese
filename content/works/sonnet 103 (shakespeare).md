@@ -2,7 +2,7 @@
 title: Sonnet 103
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_103.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - motif/letters_writing
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > The muse's poverty: the beloved's own mirror shows more than verse can; inexpressibility of beauty surpassing the poet's art.

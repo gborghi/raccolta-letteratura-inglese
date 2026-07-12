@@ -2,7 +2,7 @@
 title: Sonnet 82
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_082.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - concept/friendship
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Rival-poet sonnet contrasting other writers' rhetorical 'painting' with the speaker's plain true praise of the fair youth.

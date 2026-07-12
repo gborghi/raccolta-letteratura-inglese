@@ -2,7 +2,7 @@
 title: Sonnet 124
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_124.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - concept/marriage_and_fidelity
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Love built far from accident, immune to fortune, time and politic chance; constancy of true love against mutability and fortune's wheel.

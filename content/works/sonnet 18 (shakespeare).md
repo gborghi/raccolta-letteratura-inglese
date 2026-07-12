@@ -2,7 +2,7 @@
 title: Sonnet 18
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_018.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
   - motif/letters_writing
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Famous 'Shall I compare thee to a summer's day'; the beloved's eternal summer is immortalized in the poet's eternal lines.

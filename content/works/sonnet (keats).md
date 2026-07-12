@@ -2,7 +2,7 @@
 title: 'Sonnet:'
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/121_Sonnet.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - motif/storm
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sonnet (on a dream of Dante's Paolo and Francesca) in which the poet's spirit, like Hermes lulling Argus, flees to the second circle of hell to float with pale-lipped lovers in the storm. It fuses dream, classical and Dantean myth, and doomed love.

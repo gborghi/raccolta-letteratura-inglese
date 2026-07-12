@@ -2,7 +2,7 @@
 title: Sonnet 122
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_122.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - motif/love
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > The beloved's gift (tables/notebook) given away because memory in the brain holds love beyond all date; memory, writing, and time.

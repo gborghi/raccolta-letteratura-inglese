@@ -2,7 +2,7 @@
 title: THE PICTURE OR THE LOVER’S RESOLUTION
 author: Coleridge
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/207_THE_PICTURE_OR_THE_LOVERS_RESOLUTION.md
 tags:
   - graph/work
@@ -21,7 +21,7 @@ tags:
   - form/blank_verse
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Blank-verse meditation in which the lover flees love through a wild wood, watches a reflected vision break and reform in a pool, and resolves to follow the maid. Themes of love-longing, imagination, illusion and nature.

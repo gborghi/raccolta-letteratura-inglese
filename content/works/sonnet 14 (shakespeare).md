@@ -2,7 +2,7 @@
 title: Sonnet 14
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_014.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - concept/truth
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Astronomy-and-prognostication sonnet; the youth's eyes are constant stars from which truth and beauty are read, thriving only if he procreates.

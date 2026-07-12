@@ -2,7 +2,7 @@
 title: HAPPY IS ENGLAND! I COULD BE CONTENT
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/028_HAPPY_IS_ENGLAND_I_COULD_BE_CONTENT.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - form/sonnet
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Patriotic sonnet content with England's woods and daughters yet yearning for Italian skies and deeper beauty; patriotism, nature and longing for the South.

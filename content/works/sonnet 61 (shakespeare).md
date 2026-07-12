@@ -2,7 +2,7 @@
 title: Sonnet 61
 author: Shakespeare
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_061.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - concept/grief_and_loss
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Sleepless nights haunted by the beloved's image; jealousy and the watchman's love while the friend wakes elsewhere.

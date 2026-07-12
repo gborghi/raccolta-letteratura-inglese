@@ -2,7 +2,7 @@
 title: Sonnet 101
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_101.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - concept/the_artist_and_society
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > The truant muse is taught to immortalize truth and beauty in verse, making the beloved outlive a gilded tomb.

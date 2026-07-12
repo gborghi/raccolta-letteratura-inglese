@@ -2,7 +2,7 @@
 title: Sonnet 15
 author: Shakespeare
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_015.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
   - motif/decay
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > The world as a stage where all grows briefly perfect then decays; the poet wars with time and engrafts the youth new through verse.

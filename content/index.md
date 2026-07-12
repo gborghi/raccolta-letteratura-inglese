@@ -33,8 +33,8 @@ Spin through the 15 authors — each emblem opens that author's works.
 
 ## Thematic clusters
 
-The 113 clusters group works by the constellations of theme and form they share. Here is a curated selection of 18 cross-author themes.
+The 111 clusters group works by the constellations of theme and form they share. Here is a curated selection of 16 cross-author themes.
 
-<div class="radial-wheel" data-wheel="clusters" data-center="Clusters" data-center-sub="113 in all"></div>
+<div class="radial-wheel" data-wheel="clusters" data-center="Clusters" data-center-sub="111 in all"></div>
 
 <p style="margin-top:1.2rem; text-align:center"><a class="btn" href="naviga">Explore the concept spaces →</a> &nbsp; <a class="btn btn-primary" href="opere">All works table →</a></p>

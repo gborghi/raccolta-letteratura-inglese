@@ -2,7 +2,7 @@
 title: 'BEN JONSON: A NYMPH’S PASSION'
 author: Coleridge
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/423_BEN_JONSON_A_NYMPHS_PASSION.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - form/song
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Jonson's love-lyric with Coleridge's modernized version 'Mutual Passion': a speaker hides her beloved's name for fear of rivals; concealed mutual love, jealousy and the praise of a fair youth.

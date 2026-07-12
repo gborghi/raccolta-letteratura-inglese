@@ -2,10 +2,11 @@
 title: Roots and Leaves Themselves Alone
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Whitman/_raw/054_Roots_and_Leaves_Themselves_Alone.md
 tags:
   - graph/work
+  - form/free_verse
   - author/Whitman
   - motif/nature
   - motif/leaves
@@ -14,7 +15,7 @@ tags:
   - motif/birds
 ---
 
-*by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Calamus poem offering scents, leaves and 'love-buds' that flower only if the reader brings warmth; nature, leaves, flowers and love as organic exchange.

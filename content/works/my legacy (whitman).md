@@ -2,10 +2,11 @@
 title: My Legacy
 author: Whitman
 type: work
-cluster: Letters and Writing · Immortality Through Verse · Immortality of Art Fame
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Whitman/_raw/283_My_Legacy.md
 tags:
   - graph/work
+  - form/free_verse
   - author/Whitman
   - concept/mortality
   - motif/memory
@@ -14,7 +15,7 @@ tags:
   - concept/war_and_its_cost
 ---
 
-*by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
+*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > A free-verse lyric contrasting a rich man's bequests with the poet's legacy of war remembrances bound in songs; themes of mortality, memory and the book.

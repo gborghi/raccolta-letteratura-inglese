@@ -2,7 +2,7 @@
 title: Sonnet to Fanny
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/135_Sonnet_to_Fanny.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - concept/ambition
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sonnet of desperate erotic supplication demanding the beloved's whole self, soul and body, lest the poet die or lose his purposes; jealous, all-consuming love.

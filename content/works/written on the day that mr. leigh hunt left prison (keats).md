@@ -2,7 +2,7 @@
 title: WRITTEN ON THE DAY THAT MR. LEIGH HUNT LEFT PRISON
 author: Keats
 type: work
-cluster: Sonnet · Shakespearean Sonnet · Jealousy
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/014_WRITTEN_ON_THE_DAY_THAT_MR_LEIGH_HUNT_LEFT_PRISON.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - concept/imagination
 ---
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Political sonnet celebrating the imprisoned Leigh Hunt's freedom of spirit (roaming with Spenser and Milton); liberty, friendship and the immortality of genius.
