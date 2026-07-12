@@ -2,7 +2,7 @@
 title: The Great Minimum
 author: Chesterton
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Chesterton/_raw/great-minimum.md
 tags:
   - graph/work
@@ -27,7 +27,7 @@ tags:
 
 # great-minimum
 
-*by Chesterton*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Chesterton*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A lyric of gratitude and wonder affirming that to have lived, loved, and seen beauty 'is something' even amid loss; celebrates desire, the mystic rose, and gratitude against a sceptical, jaded age.

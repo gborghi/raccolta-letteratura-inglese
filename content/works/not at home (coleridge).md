@@ -2,7 +2,7 @@
 title: NOT AT HOME
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/292_NOT_AT_HOME.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - archetype/lover
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A lyric on love and jealousy personified as twin-sisters, treating jealousy as love's inseparable shadow.

@@ -2,7 +2,7 @@
 title: Sonnet 105
 author: Shakespeare
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_105.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - histref/christianity
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Love defended against idolatry; the verse confined to constancy sings 'fair, kind, and true', love as quasi-religious devotion.

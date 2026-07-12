@@ -2,7 +2,7 @@
 title: REASON FOR LOVE’S BLINDNESS
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/245_REASON_FOR_LOVES_BLINDNESS.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - form/epigram
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Epigram on why Love is blind: his eyes are in his mind, seeing inward goodness with the heart. Themes of love and inward versus outward worth.

@@ -2,7 +2,7 @@
 title: WITH FIELDING’S ‘AMELIA’
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/038_WITH_FIELDINGS_AMELIA.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - concept/love_romantic
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A complimentary sonnet presented with Fielding's novel Amelia, praising its portrayal of wifely and social virtue and wishing a mother's daughters to resemble Amelia.

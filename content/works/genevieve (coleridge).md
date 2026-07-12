@@ -2,7 +2,7 @@
 title: GENEVIEVE
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/019_GENEVIEVE.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - concept/beauty
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A tender love lyric to Genevieve, prizing not her beauty but the pity and compassion of her soul as the true ground of the poet's love.

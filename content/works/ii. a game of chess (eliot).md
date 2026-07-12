@@ -2,7 +2,7 @@
 title: II. A Game of Chess
 author: Eliot
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Eliot/_raw/029_II_A_Game_of_Chess.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - histref/greek_mythology
 ---
 
-*by Eliot*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Eliot*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Second section: the gilded boudoir and Philomel, the neurotic dialogue, and the pub talk of Lil and abortion; sterile marriage, frustrated desire, violation and barren love high and low.

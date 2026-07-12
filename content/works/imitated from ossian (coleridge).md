@@ -2,7 +2,7 @@
 title: IMITATED FROM OSSIAN
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/040_IMITATED_FROM_OSSIAN.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - motif/moon
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > An Ossianic imitation in which a fading lily by a vale's stream becomes an emblem of transient youth and a lover's voice that lingers as a moonbeam in the beloved's dreams.

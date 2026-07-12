@@ -2,7 +2,7 @@
 title: FAREWELL TO LOVE
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/231_FAREWELL_TO_LOVE.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - form/sonnet
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Sonnet bidding farewell to Love, to whom the speaker gave his whole heart and whose blindness he caught. Themes of love, disillusionment and renunciation.

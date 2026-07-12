@@ -2,7 +2,7 @@
 title: LOVE AND FRIENDSHIP OPPOSITE
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/291_LOVE_AND_FRIENDSHIP_OPPOSITE.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - archetype/lover
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A short lyric epigram on the irreconcilable difference between love and friendship, arguing love unreturned grows ashamed of itself.

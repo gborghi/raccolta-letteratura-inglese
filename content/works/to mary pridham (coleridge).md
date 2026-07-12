@@ -2,7 +2,7 @@
 title: TO MARY PRIDHAM
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/280_TO_MARY_PRIDHAM.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - concept/friendship
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A father's blessing on his son Derwent's betrothed, reviving the poet's hope at the fulfilment of a son's earliest wish in love. Themes: romantic/familial love, hope, fulfilment.

@@ -2,7 +2,7 @@
 title: FROM THE GERMAN
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/170_FROM_THE_GERMAN.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/the_journey
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A short lyric after Goethe's Mignon ('Kennst du das Land'), yearning toward a warm southern land of citrons and myrtle to wander there with a beloved friend.

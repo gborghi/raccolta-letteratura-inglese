@@ -2,7 +2,7 @@
 title: THE HOUR WHEN WE SHALL MEET AGAIN
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/102_THE_HOUR_WHEN_WE_SHALL_MEET_AGAIN.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - archetype/lover
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A love-lyric composed in illness and absence longing for reunion with the beloved, with the rose-and-dawn emblem of mistress healing flower; themes of romantic love and longing.

@@ -2,7 +2,7 @@
 title: To Marie Louise (shew)
 author: Poe
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Poe/_raw/To Marie Louise (shew).md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - form/blank_verse
 ---
 
-*by Poe*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A grateful blank-verse tribute to Marie Louise Shew, whose presence restores the despairing speaker's faith in Truth, Virtue and Humanity, her words echoing the divine 'Let there be light'. Themes of love, gratitude, faith and the angelic beloved.

@@ -2,7 +2,7 @@
 title: NIL PEJUS EST CAELIBE VITÆ
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/002_NIL_PEJUS_EST_CAELIBE_VITÆ.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - topos/vanitas
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A Latin-titled lyric arguing that nothing is worse than a celibate, loveless life, contrasting marriage and affection against solitude, death, and oblivion.

@@ -2,7 +2,7 @@
 title: Sonnet 145
 author: Shakespeare
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_145.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - motif/dawn
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Lighter octosyllabic lyric: 'I hate' softened to 'not you', mercy saving his life; love, mercy and the heaven/hell antithesis.

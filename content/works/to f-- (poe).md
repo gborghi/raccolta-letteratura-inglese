@@ -2,7 +2,7 @@
 title: To F--
 author: Poe
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Poe/_raw/To F--.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A love lyric: amid the woes of his earthly path the speaker finds solace in the memory of the beloved, likened to a serene enchanted isle in a stormy sea. Themes of love, consolation and melancholy.

@@ -2,7 +2,7 @@
 title: To Frances S. Osgood
 author: Poe
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Poe/_raw/To Frances S. Osgood.md
 tags:
   - graph/work
@@ -13,7 +13,7 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A short complimentary love lyric counselling the beloved to remain exactly as she is to be endlessly praised and loved. Themes of love, beauty and constancy.

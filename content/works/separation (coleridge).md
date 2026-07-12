@@ -2,7 +2,7 @@
 title: SEPARATION
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/227_SEPARATION.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - form/song
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Love-lyric (after Cotton) of a soldier valuing true inward love over wealth and birth, unable to bear parting from Asra. Themes of love, separation and inward worth versus outward form.

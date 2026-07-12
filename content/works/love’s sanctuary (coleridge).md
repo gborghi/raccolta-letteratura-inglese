@@ -2,7 +2,7 @@
 title: LOVE’S SANCTUARY
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/204_LOVES_SANCTUARY.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - form/lyric
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A short devotional love-lyric enshrining the beloved like a saint in a heart-shrine, treating love as religion. Sonnet-like fragment.

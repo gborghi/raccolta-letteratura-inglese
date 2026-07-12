@@ -2,7 +2,7 @@
 title: Annabel Lee
 author: Poe
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Poe/_raw/Annabel Lee.md
 tags:
   - graph/work
@@ -26,7 +26,7 @@ tags:
   - character/annabel_lee
 ---
 
-*by Poe*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A musical ballad lamenting the death of a beautiful young beloved in a kingdom by the sea, whose love outlasts death; centers on love, grief, the death of a beautiful woman, and undying devotion.

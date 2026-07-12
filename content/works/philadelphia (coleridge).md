@@ -2,7 +2,7 @@
 title: PHILADELPHIA
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/178_PHILADELPHIA.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - archetype/lover
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A textual-variants note and alternate versions of the Lessing love-epigram 'Names'/'Die Namen', cataloguing classical pseudonyms and the refrain 'call me thine'.

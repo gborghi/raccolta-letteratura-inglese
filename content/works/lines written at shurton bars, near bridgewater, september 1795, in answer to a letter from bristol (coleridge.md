@@ -4,7 +4,7 @@ title: >-
   A LETTER FROM BRISTOL
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: >-
   Authors/Coleridge/_raw/103_LINES_WRITTEN_AT_SHURTON_BARS_NEAR_BRIDGEWATER_SEPTEMBER_1795_IN_ANSWER_TO_A_LET.md
 tags:
@@ -18,7 +18,7 @@ tags:
   - motif/rose
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A verse-letter to the absent beloved mingling sea-storm imagery, past melancholy soothed by love, and the electric flash of passion; themes of love, nature, storm, and consolation.

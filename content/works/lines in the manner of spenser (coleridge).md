@@ -2,7 +2,7 @@
 title: LINES IN THE MANNER OF SPENSER
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/101_LINES_IN_THE_MANNER_OF_SPENSER.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - archetype/lover
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A Spenserian-stanza dream-poem in which Love, an archer-elf, conjures a vision of the beloved Sara in sleep; themes of love, dreams, and pastiche of romance.

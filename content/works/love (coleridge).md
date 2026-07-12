@@ -2,7 +2,7 @@
 title: LOVE
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/185_LOVE.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
   - archetype/lover
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A celebrated ballad-lyric in which the poet woos Genevieve by a ruined tower with the tale of a knight crazed by unrequited love; song, pity and minstrelsy interpret his own desire and win her.

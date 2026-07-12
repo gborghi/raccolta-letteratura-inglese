@@ -2,7 +2,7 @@
 title: Sonnet 109
 author: Shakespeare
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_109.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - concept/love_romantic
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Denying falsehood despite absence and ranging; like a traveller he returns, calling the beloved his rose and his all.

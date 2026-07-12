@@ -2,7 +2,7 @@
 title: THE SIGH
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/062_THE_SIGH.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - concept/unrequited_love
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Lyric tracing the recurring sigh for Mary through youth, woe and exile; love, melancholy, hope's decline and the wanderer far from home.

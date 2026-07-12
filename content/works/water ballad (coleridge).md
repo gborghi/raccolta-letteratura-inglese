@@ -2,7 +2,7 @@
 title: WATER BALLAD
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/171_WATER_BALLAD.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - motif/water
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A song translated from the French in which a river-crossing becomes a courtship; the boat becomes the lovers' home, blending the journey-over-water with love and marriage.

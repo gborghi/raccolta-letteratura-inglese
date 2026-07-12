@@ -2,7 +2,7 @@
 title: The Strange Music
 author: Chesterton
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Chesterton/_raw/strange-music.md
 tags:
   - graph/work
@@ -25,7 +25,7 @@ tags:
 
 # strange-music
 
-*by Chesterton*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Chesterton*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A love lyric in which the beloved is an unplayed harp of hidden music; themes of unfulfilled love, hope, mortality and the soul's secret promise.

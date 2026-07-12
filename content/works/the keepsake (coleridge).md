@@ -2,7 +2,7 @@
 title: THE KEEPSAKE
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/191_THE_KEEPSAKE.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
   - motif/memory
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A blank-verse lyric in which faded summer flowers contrast with the embroidered keepsake (rose and forget-me-not in Emmeline's hair), a token pledging fidelity and remembrance until spring.

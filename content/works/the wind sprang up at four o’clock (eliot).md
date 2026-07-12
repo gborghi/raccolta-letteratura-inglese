@@ -2,7 +2,7 @@
 title: The wind sprang up at four o’clock
 author: Eliot
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Eliot/_raw/053_The_wind_sprang_up_at_four_oclock.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - form/lyric
 ---
 
-*by Eliot*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Eliot*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Lyric of wind breaking bells, swinging between life and death; the blackened river, death's other kingdom, Tartar horsemen; death and the uncanny.

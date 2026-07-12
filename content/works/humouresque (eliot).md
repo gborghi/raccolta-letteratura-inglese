@@ -2,7 +2,7 @@
 title: Humouresque
 author: Eliot
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Eliot/_raw/112_Humouresque.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - concept/spiritual_emptiness
 ---
 
-*by Eliot*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Eliot*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > After Laforgue: an elegy for a dead marionette with a common, comic face; the puppet as emblem of empty modern mannequins and the mask, half-bullying half-imploring.

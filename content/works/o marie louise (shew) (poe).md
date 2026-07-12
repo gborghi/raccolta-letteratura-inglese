@@ -2,7 +2,7 @@
 title: O Marie Louise (shew)
 author: Poe
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Poe/_raw/O Marie Louise (shew).md
 tags:
   - graph/work
@@ -21,7 +21,7 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A short lyric love poem on inexpressibility: the poet, who once boasted the 'power of words,' is struck speechless before the beloved's name, standing entranced on the threshold of dreams.

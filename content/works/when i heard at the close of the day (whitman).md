@@ -2,10 +2,11 @@
 title: When I Heard at the Close of the Day
 author: Whitman
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Whitman/_raw/052_When_I_Heard_at_the_Close_of_the_Day.md
 tags:
   - graph/work
+  - form/free_verse
   - author/Whitman
   - concept/love_romantic
   - concept/comradeship
@@ -15,13 +16,10 @@ tags:
   - motif/moon
 ---
 
-*by Whitman*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Whitman*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Calamus poem contrasting empty public fame with the happiness of lying beside the sleeping beloved by the sea; love, the body, the sea, dawn and autumn imagery.
-
-
-<div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">-162</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">99.7</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">104.7</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">5%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">257</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 
 ## Connections
 

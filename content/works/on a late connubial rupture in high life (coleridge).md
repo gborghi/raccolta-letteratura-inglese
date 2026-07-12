@@ -2,7 +2,7 @@
 title: ON A LATE CONNUBIAL RUPTURE IN HIGH LIFE
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/117_ON_A_LATE_CONNUBIAL_RUPTURE_IN_HIGH_LIFE.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - motif/rose
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sonnet sympathizing with the wronged Princess of Wales amid the pomp of state, and her infant; themes of unhappy marriage, grief, and the hollowness of rank.

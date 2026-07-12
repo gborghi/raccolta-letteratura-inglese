@@ -2,7 +2,7 @@
 title: Lines
 author: Keats
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/064_Lines.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - form/lyric
 ---
 
-*by Keats*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sensuous lyric of a lover slipping from his sleeping queen, dwelling on her faery lids and lips amid boundless love; desire, sleep, beauty and amorous reverie.

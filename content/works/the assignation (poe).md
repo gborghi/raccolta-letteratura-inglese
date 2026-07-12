@@ -2,7 +2,7 @@
 title: The Assignation
 author: Poe
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Poe/_raw/The Assignation.md
 tags:
   - graph/work
@@ -29,7 +29,7 @@ tags:
   - histref/classical_antiquity
 ---
 
-*by Poe*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A Byronic stranger in Venice and the married Marchesa Aphrodite share a forbidden love that ends in their simultaneous death by poison at the appointed hour; a tale of love-as-religion, doomed passion and aestheticism.

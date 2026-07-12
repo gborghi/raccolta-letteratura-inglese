@@ -2,7 +2,7 @@
 title: TO ASRA
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/202_TO_ASRA.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
   - archetype/lover
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A love-sonnet to Asra (Sara Hutchinson) whose ever-welling love, likened to spring-waters through snow, the poet would transmute into a dower of happy life and eternity for her.

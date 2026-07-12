@@ -2,7 +2,7 @@
 title: Sonnet 116
 author: Shakespeare
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_116.md
 tags:
   - graph/work
@@ -20,7 +20,7 @@ tags:
   - concept/immortality
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > The marriage of true minds: love as an ever-fixed mark and guiding star, unshaken by tempests and not time's fool even to the edge of doom.

@@ -2,7 +2,7 @@
 title: THE EXCHANGE
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/219_THE_EXCHANGE.md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - form/song
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Slight love-lyric on lovers exchanging hearts and the speaker trembling before the maiden's father. Romantic love in song form.

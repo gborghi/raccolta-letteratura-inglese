@@ -2,7 +2,7 @@
 title: FIRST ADVENT OF LOVE
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/266_FIRST_ADVENT_OF_LOVE.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - concept/innocence_and_experience
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A brief lyric likening love's first hope to Eve's first star and a soft south-west wind over Ceres' golden fields. Themes: romantic love, hope, nature imagery.

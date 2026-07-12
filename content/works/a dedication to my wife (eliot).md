@@ -2,7 +2,7 @@
 title: A Dedication to my Wife
 author: Eliot
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Eliot/_raw/078_A_Dedication_to_my_Wife.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/garden
 ---
 
-*by Eliot*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Eliot*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Intimate love lyric to his wife celebrating shared delight, the breathing of lovers and the rose-garden that is theirs alone.

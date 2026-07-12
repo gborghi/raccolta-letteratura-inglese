@@ -4,7 +4,7 @@ title: >-
   FLUTE
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: >-
   Authors/Coleridge/_raw/097_TO_THE_REV_W_J_HORT_WHILE_TEACHING_A_YOUNG_LADY_SOME_SONG-TUNES_ON_HIS_FLUTE.md
 tags:
@@ -17,7 +17,7 @@ tags:
   - motif/memory
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A lyric on flute-music waking memory and hope and dreams of retirement with the beloved in Freedom's dell; themes of music, love, and rural retreat.

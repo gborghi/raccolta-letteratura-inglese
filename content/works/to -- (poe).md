@@ -2,7 +2,7 @@
 title: To --
 author: Poe
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Poe/_raw/To -- (2).md
 tags:
   - graph/work
@@ -14,7 +14,7 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A brief love lyric in which the speaker, indifferent to his own desolate lot, is moved that the beloved should sorrow for a mere passer-by. Themes of love, melancholy and transience.

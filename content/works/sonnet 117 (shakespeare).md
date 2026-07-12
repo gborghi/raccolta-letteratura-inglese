@@ -2,7 +2,7 @@
 title: Sonnet 117
 author: Shakespeare
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_117.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - motif/the_sea
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > The speaker confesses neglect and wandering ('hoisted sail to all the winds') but pleads he strove only to prove the constancy of the beloved's love.

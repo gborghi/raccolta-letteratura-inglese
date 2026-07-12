@@ -2,7 +2,7 @@
 title: Sonnet 108
 author: Shakespeare
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/Sonnets/Sonnet_108.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
   - motif/dust
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Nothing new to write, yet like daily prayers the speaker repeats his love, eternal love that weighs not the dust of age.

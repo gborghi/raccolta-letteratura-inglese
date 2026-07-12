@@ -2,7 +2,7 @@
 title: WESTPHALIAN SONG
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/181_WESTPHALIAN_SONG.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - motif/love
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A literal translation of a Westphalian folk-song, a wry lover's message turning on a feigned report of death and a promise of return tomorrow.

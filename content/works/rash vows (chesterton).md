@@ -2,7 +2,7 @@
 title: A Defence of Rash Vows
 author: Chesterton
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Chesterton/_raw/rash_vows.md
 tags:
   - graph/work
@@ -30,7 +30,7 @@ tags:
 
 # rash vows
 
-*by Chesterton*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Chesterton*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > An essay defending the great vow (including marriage) as a sane binding of the self against the decadent 'free' man who fears his own mutability; on fidelity, identity and the self.

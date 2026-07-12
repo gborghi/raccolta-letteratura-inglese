@@ -2,7 +2,7 @@
 title: THE HAPPY HUSBAND
 author: Coleridge
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Coleridge/_raw/217_THE_HAPPY_HUSBAND.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
   - form/lyric
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Lyric fragment on married love, the very name of Wife a pledge of more than passing life. Themes of marriage, fidelity and joy.

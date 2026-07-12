@@ -2,7 +2,7 @@
 title: To Hilaire Belloc
 author: Chesterton
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Chesterton/_raw/to-belloc.md
 tags:
   - graph/work
@@ -33,7 +33,7 @@ tags:
 
 # to-belloc
 
-*by Chesterton*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Chesterton*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A dedicatory lyric to Belloc (preface to The Napoleon of Notting Hill), dreaming an epic hour of revolution and battle where streets of earth meet the starry streets that point to God.

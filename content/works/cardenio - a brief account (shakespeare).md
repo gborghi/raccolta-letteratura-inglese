@@ -2,7 +2,7 @@
 title: CARDENIO - A BRIEF ACCOUNT
 author: Shakespeare
 type: work
-cluster: Lyric · Romantic Love · Marriage and Fidelity
+cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Shakespeare/_raw/045_Cardenio.md
 tags:
   - graph/work
@@ -23,7 +23,7 @@ tags:
   - motif/marriage
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
+*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > An editorial prose account of the lost play Cardenio, attributed to Shakespeare and Fletcher and based on a Don Quixote episode; it summarizes a tragicomedy of rape, betrayed friendship, a disguised wronged heroine, madness for revenge, repentance and reconciliation.
