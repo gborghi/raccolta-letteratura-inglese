@@ -5438,6 +5438,116 @@ extraordinary thing is, that it is the chief boast of a people who have
 Shakespeare, Newton, Burke, and Darwin to boast of.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IN DIFESA DEL PATRIOTTISMO
+
+Il [[Decay|declino]] del patriottismo in Inghilterra negli ultimi due anni è una
+faccenda grave e sconfortante. Solo in conseguenza di un simile [[Decay|declino]]
+l'odierna brama di territorio ha potuto essere confusa con l'antico [[Love|amore]]
+di patria. Possiamo immaginare che se non esistesse più al mondo una coppia di
+[[lovers|innamorati]], tutto il vocabolario dell'[[Love|amore]] potrebbe, senza
+rimprovero, essere trasferito al più basso e automatico dei [[Desire|desideri]]. Se nessun
+tipo di passione cavalleresca e purificatrice rimanesse, non vi sarebbe nessuno
+rimasto a dire che la lussuria non porta nessuno dei segni dell'[[Love|amore]], che la lussuria è
+rapace e l'[[Love|amore]] pietoso, che la lussuria è cieca e l'[[Love|amore]] vigile, che
+la lussuria si sazia e l'[[Love|amore]] è insaziabile. Così è con l''[[Love|amore]] della
+[[City|città]],' quell'alta e antica passione intellettuale che è stata
+scritta in [[Blood|sangue]] rosso sulla stessa tavola delle passioni primigenie del nostro
+essere. Da ogni parte udiamo oggi parlare dell'[[Love|amore]] di patria, eppure
+chiunque nutra letteralmente un simile [[Love|amore]] deve restare sconcertato da tali discorsi,
+come un uomo che senta tutti gli uomini dire che la [[Moon|luna]] splende di giorno e il sole
+di [[Night|notte]]. La convinzione deve venirgli infine che questi uomini non
+comprendono cosa significhi la parola '[[Love|amore]],' che intendono, per [[Love|amore]] di
+patria, non ciò che un mistico intenderebbe per [[Love|amore]] di Dio, ma qualcosa
+di ciò che un [[Child|bambino]] intenderebbe per [[Love|amore]] della marmellata. Per chi ama la sua
+patria, per esempio, la nostra vantata indifferenza all'etica di una
+guerra nazionale è mera, misteriosa farfugliatura. È come dire a un uomo che
+un ragazzo ha commesso un omicidio, ma che non deve preoccuparsene perché è solo
+suo figlio. Qui chiaramente la parola '[[Love|amore]]' è usata senza senso. È
+essenza dell'[[Love|amore]] essere sensibile, è parte del suo destino; e chiunque
+si opponga all'una deve certamente sbarazzarsi dell'altro. Questa
+sensibilità, che sale talvolta a una sensibilità quasi morbosa, era
+il segno di tutti i grandi [[lovers|amanti]] come [[Dante]] e di tutti i grandi patrioti come
+Chatham. 'La mia patria, nel giusto o nel torto,' è una cosa che nessun patriota
+penserebbe di dire se non in un caso disperato. È come dire, 'Mia
+madre, ubriaca o sobria.' Non v'è [[Doubt|dubbio]] che, se la madre di un uomo perbene si desse
+al bere, egli condividerebbe le sue pene fino all'ultimo; ma parlare come se egli fosse
+in uno stato di gaia indifferenza sul fatto che sua madre si dia al bere o
+no non è certo il linguaggio di uomini che conoscono il grande mistero.
+
+Ciò di cui abbiamo davvero bisogno per la frustrazione e il rovesciamento di un sordo e
+rauco Jingoismo è una rinascita dell'[[Love|amore]] della terra natale. Quando
+essa verrà, tutte le grida stridule cesseranno d'un tratto. Perché il primo di tutti
+i segni dell'[[Love|amore]] è la serietà: l'[[Love|amore]] non accetterà falsi bollettini o
+la vuota vittoria delle parole. Stimerà sempre il più franco
+consigliere come il migliore. L'[[Love|Amore]] è attratto alla [[Truth|verità]] dall'infallibile magnetismo
+dell'agonia; non dà alcun piacere all'[[Lover|amante]] vedere dieci medici danzare con
+vociante ottimismo intorno a un letto di [[Death|morte]].
+
+Dobbiamo allora chiederci: perché questo recente movimento in Inghilterra,
+che a molti è onestamente parso una rinascita del patriottismo, ci sembra
+non avere nessuno dei segni del patriottismo—almeno, del patriottismo nella
+sua forma più alta? Perché l'adorazione dei nostri patrioti è stata rivolta
+interamente a qualità e circostanze buone in sé, ma
+comparativamente materiali e triviali:—il commercio, la forza fisica, una scaramuccia
+a una frontiera remota, un battibecco in un continente remoto? Le colonie sono
+cose di cui essere fieri, ma che un paese sia fiero solo delle sue
+estremità è come che un uomo sia fiero solo delle proprie gambe. Perché non v'è
+un alto patriottismo centrale e intellettuale, un patriottismo del capo e
+del cuore dell'Impero, e non meramente dei suoi pugni e dei suoi stivali? Un rozzo
+marinaio ateniese può ben aver pensato che la gloria di Atene
+consistesse nel remare col giusto tipo di remi, o nell'avere una buona scorta di
+aglio; ma [[Pericles|Pericle]] non pensava che questa fosse la gloria di Atene.
+Da noi, invece, non v'è alcuna differenza tra il
+patriottismo predicato dal signor Chamberlain e quello predicato dal signor Pat
+Rafferty, che canta 'Che ne pensate ora degli Irlandesi?' Sono entrambi
+onesti, ingenui, volgari elogi di trivialità e ovvietà.
+
+Ho, a torto o a ragione, un'idea della causa principale di questa
+meschinità nell'odierno patriottismo inglese, e tenterò di esporla.
+Si può in generale ammettere che un uomo ami la propria stirpe e il proprio
+ambiente, e che trovi in essi qualcosa da lodare; ma
+se sia o no la cosa più lodevole dipenderà dall'
+illuminazione dell'uomo circa i fatti. Se il figlio di Thackeray, mettiamo,
+fosse allevato nell'ignoranza della fama e del genio del padre, non è
+improbabile che sarebbe fiero del fatto che il padre era
+alto oltre sei piedi. Mi pare che noi, come nazione, siamo esattamente
+nella posizione di questo ipotetico [[Child|figlio]] di Thackeray. Ripieghiamo
+su cose grossolane e frivole per il nostro patriottismo, per una semplice ragione.
+Siamo l'unico popolo al mondo a cui non si insegnano nell'[[Childhood|infanzia]] la
+propria letteratura e la propria [[history|storia]].
+
+Siamo, come nazione, nella condizione davvero straordinaria di non conoscere
+i nostri stessi meriti. Abbiamo recitato una parte grande e splendida nella [[history|storia]]
+del pensiero e del sentimento universali; siamo stati tra i primi in
+quell'eterna e incruenta battaglia in cui i colpi non uccidono, ma
+creano. In pittura e musica siamo inferiori a molte altre nazioni; ma
+in letteratura, scienza, [[philosophy|filosofia]] ed eloquenza politica, se la [[history|storia]]
+è presa nel suo insieme, possiamo tener testa a chiunque. Ma tutta questa vasta
+eredità di gloria intellettuale è tenuta lontana dai nostri scolari come un'
+eresia; ed essi sono lasciati a vivere e morire in quel tipo tetro e infantile
+di patriottismo che appresero da una scatola di soldatini di stagno. Non v'è
+danno nella scatola di soldatini di stagno; non ci aspettiamo che i bambini siano ugualmente
+deliziati da una bella scatola di filantropi di stagno. Ma v'è
+gran danno nel fatto che il più sottile e più civile [[Honour|onore]] dell'
+Inghilterra non è presentato in modo da tenere il passo con la mente che si espande. Un
+ragazzo francese è educato alla gloria di Molière così [[Well|come]] a quella di Turenne; un
+ragazzo tedesco è educato alla propria grande [[philosophy|filosofia]] nazionale prima di apprendere
+la [[philosophy|filosofia]] dell'antichità. Il risultato è che, benché il patriottismo
+francese sia spesso folle e millantatore, benché il patriottismo tedesco sia
+spesso isolato e pedante, nessuno dei due è meramente tetro,
+comune e brutale, come è tanto spesso lo strano destino della nazione di
+Bacon e Locke. È abbastanza naturale, e perfino abbastanza giusto, date
+le circostanze. Un Inglese deve [[Love|amare]] l'Inghilterra per qualcosa;
+di conseguenza tende a esaltare il commercio o il pugilato, proprio come un
+Tedesco potrebbe tendere a esaltare la musica, o un Fiammingo a esaltare la pittura,
+perché crede davvero che sia il merito principale della propria patria. Non
+sarebbe minimamente straordinario se il vanto di divorare
+province e abbattere principi fosse il vanto principale di uno Zulu. La
+cosa straordinaria è che è il vanto principale di un popolo che ha
+Shakespeare, Newton, Burke e Darwin di cui vantarsi.
+
 
 
 <span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_02" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 2)" data-chapter="Story 18 A DEFENCE OF PATRIOTISM" data-kind="excerpt"></span>
@@ -5565,6 +5675,130 @@ the work.  You can easily comply with the terms of this agreement by
 keeping this work in the same format with its attached full Project
 Gutenberg-tm License when you share it without charge with others.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La peculiare mancanza di ogni generosità o delicatezza nell'odierno nazionalismo
+inglese pare non avere altra possibile origine se non in questo fatto della
+nostra unica negligenza, nell'[[Education|educazione]], dello studio della letteratura nazionale.
+Un Inglese non potrebbe essere tanto sciocco da disprezzare le altre nazioni se una
+volta sapesse quanto l'Inghilterra ha fatto per esse. I grandi uomini di lettere
+non possono evitare di essere umani e universali. L'assenza dell'insegnamento della
+letteratura inglese nelle nostre scuole è, a ben pensarci, un
+fenomeno quasi sbalorditivo. È ancor più sbalorditivo quando ascoltiamo gli
+argomenti addotti dai presidi e da altri conservatori dell'educazione
+contro l'insegnamento diretto dell'inglese. Si dice, per esempio, che una
+vasta quantità di grammatica e letteratura inglese si raccoglie nel corso
+dell'apprendere il latino e il greco. Questo è perfettamente vero, ma la
+follia rovesciata dell'idea non pare mai colpirli. È come
+dire che un neonato raccoglie l'arte del camminare nel corso dell'apprendere
+a saltellare, o che a un Francese si possa insegnare con successo il tedesco aiutando
+un Prussiano a imparare l'ashanti. Di certo il fondamento ovvio di ogni
+[[Education|educazione]] è la lingua in cui quell'[[Education|educazione]] è impartita; se un ragazzo
+ha [[Time|tempo]] di imparare una sola cosa, farebbe meglio a imparare quella.
+
+Abbiamo deliberatamente trascurato questa grande eredità di alto sentimento
+nazionale. Abbiamo fatto delle nostre public school i muri più saldi contro un
+sussurro dell'[[Honour|onore]] dell'Inghilterra. E abbiamo avuto la nostra punizione in questo
+strano e perverso fatto che, mentre una visione unificante del patriottismo
+può nobilitare bande di brutali selvaggi o di squallidi borghesi, ed essere la miglior
+cosa delle loro vite, noi, che siamo—a giudizio del mondo—umani,
+onesti e seri individualmente, abbiamo un patriottismo che è la cosa peggiore
+della nostra. Che abbiamo fatto, e dove abbiamo vagato, noi che
+abbiamo prodotto saggi che avrebbero potuto conversare con Socrate e poeti che
+avrebbero potuto camminare con [[Dante]], per parlare come se non avessimo mai fatto
+nulla di più intelligente che fondare colonie e prendere a calci i negri? Siamo
+i figli della luce, e siamo noi a sedere nelle tenebre. Se saremo
+giudicati, non sarà per la trasgressione meramente intellettuale di
+non saper apprezzare le altre nazioni, ma per la suprema trasgressione spirituale
+di non saper apprezzare noi stessi.
+
+FINE
+
+BILLING AND SONS, LTD., STAMPATORI, GUILDFORD
+
+Fine dell'eBook Project Gutenberg di The Defendant, di G.K. Chesterton
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE DEFENDANT ***
+
+***** This file should be named 12245-8.txt or 12245-8.zip *****
+Questo e tutti i file associati di vari formati si troveranno in:
+        http://www.gutenberg.net/1/2/2/4/12245/
+
+A cura di Robert Shimmin, Frank van Drogen e dei Proofreader
+Distribuiti di PG
+
+Le edizioni aggiornate sostituiranno la precedente — le vecchie edizioni
+verranno rinominate.
+
+Creare le opere a partire da edizioni a stampa di pubblico dominio significa che
+nessuno detiene un copyright statunitense su queste opere, sicché la Fondazione
+(e voi!) potete copiarle e distribuirle negli Stati Uniti senza
+permesso e senza pagare diritti d'autore. Regole speciali,
+esposte nella parte relativa ai Termini Generali d'Uso di questa licenza, si applicano al
+copiare e distribuire opere elettroniche Project Gutenberg-tm per
+proteggere il concetto e il marchio PROJECT GUTENBERG-tm. Project
+Gutenberg è un marchio registrato, e non può essere usato se
+fate pagare gli eBook, a meno che non riceviate uno specifico permesso. Se
+non fate pagare nulla per le copie di questo eBook, conformarsi alle
+regole è molto facile. Potete usare questo eBook per quasi qualunque scopo,
+come la creazione di opere derivate, rapporti, esecuzioni e
+ricerche. Esse possono essere modificate, stampate e regalate — potete fare
+praticamente QUALSIASI COSA con gli eBook di pubblico dominio. La ridistribuzione è
+soggetta alla licenza del marchio, specialmente la ridistribuzione
+commerciale.
+
+*** INIZIO: LICENZA COMPLETA ***
+
+LA LICENZA COMPLETA PROJECT GUTENBERG
+SI PREGA DI LEGGERE QUESTO PRIMA DI DISTRIBUIRE O USARE QUEST'OPERA
+
+Per proteggere la missione del Project Gutenberg-tm di promuovere la libera
+distribuzione di opere elettroniche, usando o distribuendo quest'opera
+(o qualunque altra opera associata in qualsiasi modo alla frase «Project
+Gutenberg»), voi accettate di conformarvi a tutti i termini della Licenza completa Project
+Gutenberg-tm (disponibile con questo file oppure in rete all'indirizzo
+http://gutenberg.net/license).
+
+Sezione 1. Termini Generali d'Uso e Ridistribuzione delle opere elettroniche
+Project Gutenberg-tm
+
+1.A. Leggendo o usando una qualsiasi parte di quest'opera elettronica Project Gutenberg-tm,
+voi indicate di aver letto, compreso, accettato e
+approvato tutti i termini di questa licenza e dell'accordo sulla proprietà intellettuale
+(marchio/copyright). Se non accettate di attenervi a tutti
+i termini di questo accordo, dovete cessare di usare e restituire o distruggere
+tutte le copie di opere elettroniche Project Gutenberg-tm in vostro possesso.
+Se avete pagato una tariffa per ottenere una copia o l'accesso a un'opera
+elettronica Project Gutenberg-tm e non accettate di essere vincolati dai
+termini di questo accordo, potete ottenere un rimborso dalla persona o
+dall'ente al quale avete pagato la tariffa, come esposto nel paragrafo 1.E.8.
+
+1.B. «Project Gutenberg» è un marchio registrato. Può essere
+usato o associato in qualsiasi modo a un'opera elettronica soltanto da persone che
+accettino di essere vincolate dai termini di questo accordo. Vi sono alcune
+cose che potete fare con la maggior parte delle opere elettroniche Project Gutenberg-tm
+anche senza conformarvi ai termini completi di questo accordo. Vedi
+il paragrafo 1.C qui sotto. Vi sono molte cose che potete fare con le opere
+elettroniche Project Gutenberg-tm se seguite i termini di questo accordo
+e aiutate a preservare il libero accesso futuro alle opere elettroniche Project
+Gutenberg-tm. Vedi il paragrafo 1.E qui sotto.
+
+1.C. La Project Gutenberg Literary Archive Foundation («la Fondazione»
+o PGLAF) detiene un copyright di raccolta sulla collezione di opere elettroniche
+Project Gutenberg-tm. Quasi tutte le singole opere della
+collezione sono di pubblico dominio negli Stati Uniti. Se una
+singola opera è di pubblico dominio negli Stati Uniti e voi vi
+trovate negli Stati Uniti, noi non rivendichiamo il diritto di impedirvi di
+copiare, distribuire, eseguire, esibire o creare opere derivate
+basate sull'opera, purché tutti i riferimenti a Project Gutenberg
+siano rimossi. Naturalmente, [[Hope|speriamo]] che voi sosteniate la missione del Project
+Gutenberg-tm di promuovere il libero accesso alle opere elettroniche
+condividendo liberamente le opere Project Gutenberg-tm nel rispetto dei termini di
+questo accordo, così da mantenere il nome Project Gutenberg-tm associato
+all'opera. Potete facilmente conformarvi ai termini di questo accordo
+mantenendo quest'opera nel medesimo formato con l'annessa Licenza completa Project
+Gutenberg-tm quando la condividete senza pagamento con altri.
 
 
 

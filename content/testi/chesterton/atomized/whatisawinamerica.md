@@ -14999,6 +14999,22 @@ WHAT IS [[America|AMERICA]]?                       1
 A MEDITATION IN A [[New York|NEW YORK]] HOTEL      19
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+MCMXXII
+
+Stampato in Gran Bretagna da T. and A. CONSTABLE LTD. presso la Edinburgh
+
+University Press
+
+_Indice_
+
+                                                  PAG.  
+
+CHE COS'È L'[[America|AMERICA]]?                       1
+
+UNA MEDITAZIONE IN UN HOTEL DI [[New York|NEW YORK]]      19
+
 
 
 <span class="atom-split" data-atom="story_03_a_meditation_in_broadway_33" data-title="WhatISawInAmerica — A Meditation In Broadway              33" data-chapter="Story 03 A Meditation In Broadway 33" data-kind="story"></span>
@@ -15065,6 +15081,14 @@ A NEW [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]              253
 
 THE SPIRIT OF [[America|AMERICA]]                267
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+WELLS E LO STATO MONDIALE            235
+
+UN NUOVO [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]              253
+
+LO SPIRITO DELL'[[America|AMERICA]]                267
 
 
 
@@ -15246,6 +15270,182 @@ and not the beginning.' The inquisitor, in his more than morbid
 curiosity, had then written down, 'Are you a polygamist?' The answer to
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+LO SPIRITO D'INGHILTERRA                281
+
+IL FUTURO DELLA [[Democracy|DEMOCRAZIA]]              295
+
+_Che cos'è l'[[America]]?_
+
+Non sono mai riuscito a perdere la mia vecchia convinzione che il viaggio restringa la
+
+mente. Per lo meno un uomo deve compiere un [[Double|doppio]] sforzo di [[Humility|umiltà]] morale e
+
+di energia immaginativa per impedirle di restringergli la mente. In verità v'è
+
+qualcosa di commovente e persino di tragico nel pensiero del
+
+turista sventato, che avrebbe potuto restare a [[Home|casa]] amando i Lapponi,
+
+abbracciando i Cinesi e stringendosi al cuore i Patagoni, a Hampstead
+
+o a Surbiton, se non fosse per il suo cieco e suicida impulso di andare a vedere che
+
+aspetto avessero. Questo non vuol essere una sciocchezza; ancor meno vuol essere
+
+la più sciocca specie di sciocchezza, che è il cinismo. Il vincolo umano
+
+che egli sente a [[Home|casa]] non è un'illusione. Al contrario, è piuttosto
+
+una realtà interiore. L'uomo è dentro tutti gli uomini. In un senso reale ogni uomo può essere
+
+dentro qualunque uomo. Ma viaggiare è lasciare l'interno e accostarsi
+
+pericolosamente all'esterno. Finché pensava agli uomini in
+
+astratto, come nude figure faticanti in qualche fregio classico, semplicemente come
+
+coloro che faticano e [[Love|amano]] i propri figli e muoiono, pensava la
+
+[[Truth|verità]] fondamentale su di loro. Andando a osservare i loro insoliti
+
+modi e costumi, li invita a mascherarsi con
+
+fantastiche maschere e costumi. Molti internazionalisti moderni parlano come se
+
+gli uomini di diverse nazionalità non dovessero che incontrarsi e mescolarsi e comprendersi
+
+l'un l'altro. In realtà quello è il momento del supremo pericolo — il momento
+
+in cui si incontrano. Potremmo rabbrividire, come al vecchio eufemismo per cui un
+
+incontro significava un duello.
+
+Il viaggio dovrebbe unire il divertimento all'istruzione; ma la maggior parte dei viaggiatori
+
+si diverte tanto che rifiuta di essere istruita. Non li biasimo
+
+per il fatto di divertirsi; è perfettamente naturale divertirsi di un
+
+Olandese perché è olandese o di un Cinese perché è cinese. Dove sbagliano
+
+è che prendono sul serio il proprio divertimento. Vi fondano
+
+le loro serie idee di istruzione internazionale. Si è detto che l'
+
+Inglese prova tristemente i suoi piaceri; e il piacere di disprezzare
+
+gli stranieri è quello che prova più tristemente di tutti. Viene per schernire
+
+e non resta a pregare, ma piuttosto a scomunicare. Quindi nelle
+
+relazioni internazionali si ride troppo poco, e si sogghigna
+
+troppo. Ma io credo che vi sia una via migliore, che consiste in gran
+
+parte nel riso; una forma di [[Friendship|amicizia]] tra le nazioni che è
+
+in realtà fondata sulle differenze. Accennare a una tale via migliore è la
+
+sola scusa di questo libro.
+
+Comincerò le mie impressioni americane con due impressioni che ebbi prima di
+
+andare in [[America]]. Una fu un episodio e l'altra un'idea; e
+
+prese insieme illustrano l'atteggiamento che intendo. Il primo principio
+
+è che nessuno dovrebbe vergognarsi di trovar buffa una cosa perché è
+
+straniera; il secondo è che dovrebbe vergognarsi di ritenerla sbagliata
+
+perché è buffa. La reazione dei suoi sensi e delle sue superficiali abitudini
+
+mentali contro qualcosa di nuovo, e per lui anormale, è una reazione perfettamente
+
+sana. Ma la mente che immagina che la semplice estraneità
+
+possa provare alcunché sull'inferiorità è una mente assai inadeguata.
+
+È inadeguata perfino nel criticare cose che possono davvero essere inferiori
+
+alle cose qui in gioco. È assai meglio ridere di un negro perché
+
+ha la faccia nera che sogghignare di lui perché ha il cranio sfuggente. È
+
+proporzionalmente ancor più preferibile ridere piuttosto che giudicare nel
+
+trattare con popoli altamente civili. Perciò pongo all'inizio
+
+due esempi pratici di ciò che sentivo riguardo all'[[America]] prima di vederla; il
+
+genere di cosa che un uomo ha il diritto di godersi come uno scherzo, e il genere di
+
+cosa che ha il dovere di comprendere e rispettare, perché è la
+
+spiegazione dello scherzo.
+
+Quando mi recai al consolato americano per regolarizzare i miei passaporti, ero
+
+capace di aspettarmi che il consolato americano fosse americano. Le ambasciate
+
+e i consolati sono per tradizione come isole del suolo che
+
+rappresentano; e ho spesso trovato la tradizione corrispondere a una [[Truth|verità]]. Ho
+
+visto l'inconfondibile funzionario francese vivere di frittate e un
+
+po' di vino e servire le sue sacre astrazioni sotto le ultime
+
+palme che orlano un [[Desert|deserto]]. Nel calore e nel frastuono di Turchi ed Egiziani litiganti,
+
+mi sono imbattuto d'improvviso, come col fresco urto della sua stessa
+
+doccia, nella svogliata amabilità del gentiluomo inglese. I
+
+funzionari che interpellai erano molto americani, specie nell'essere molto
+
+cortesi; poiché qualunque fosse stato l'umore o il significato di Martin
+
+Chuzzlewit, ho sempre trovato gli Americani di gran lunga il popolo più cortese
+
+del mondo. Mi misero tra le mani un modulo da compilare, in tutto
+
+e per tutto simile ad altri moduli che avevo compilato in altri uffici passaporti.
+
+Ma in realtà era assai diverso da qualsiasi modulo avessi mai compilato
+
+in vita mia. Per lo meno somigliava un po' a una versione più libera del gioco
+
+chiamato 'Confessioni' che i miei amici e io inventammo in gioventù; un
+
+questionario contenente domande come: 'Se vedeste un rinoceronte
+
+nel [[Garden|giardino]] sul davanti, che cosa fareste?' Uno dei miei amici, ricordo,
+
+scrisse: 'Farei voto d'astinenza.' Ma questa è un'altra storia, e potrebbe portare in scena il signor
+
+Pussyfoot Johnson prima del suo [[Time|tempo]].
+
+Una delle domande sul foglio era: 'Siete un anarchico?' Alla quale
+
+un filosofo distaccato si sentirebbe naturalmente incline a rispondere: 'Che
+
+diavolo ve ne importa? Siete voi un ateo?' insieme a qualche
+
+scherzoso tentativo di [[Cross|contro]]-interrogare il funzionario su che cosa costituisca un
+
+[Greek: archê]. Poi c'era la domanda: 'Siete favorevole a
+
+sovvertire il [[government|governo]] degli Stati Uniti con la forza?' A ciò
+
+scriverei: 'Preferisco rispondere a questa domanda alla fine del mio viaggio
+
+e non all'inizio.' L'inquisitore, nella sua più che morbosa
+
+curiosità, aveva poi scritto: 'Siete un poligamo?' La risposta a
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_02" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 2)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -15421,6 +15621,178 @@ divine, at least about human things.
 
 Now a creed is at once the broadest and the narrowest thing in the
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+questa è: 'Magari!' oppure 'Non sono così [[Fool|sciocco]],' a seconda della nostra
+
+esperienza dell'altro sesso. Ma forse una risposta migliore sarebbe quella
+
+data a W. T. Stead quando fece circolare la domanda retorica: 'Devo
+
+uccidere il mio fratello Boero?' — la risposta che diceva: 'Non immischiarti mai nelle
+
+faccende di famiglia.' Ma fra le molte cose che mi divertirono quasi al
+
+punto di trattare il modulo con tale irriverenza, la più divertente fu
+
+il pensiero dello spietato fuorilegge che si sentisse costretto a trattarlo
+
+con rispetto. Mi piace pensare al bandito straniero, che cerca di introdursi
+
+in [[America]] con documenti ufficiali sotto ufficiale protezione, e si mette
+
+a scrivere con bella gravità: 'Sono un anarchico. Vi odio
+
+tutti e desidero distruggervi.' Oppure: 'Intendo sovvertire con la forza il
+
+[[government|governo]] degli Stati Uniti quanto prima, piantando il lungo
+
+coltello a fodero della tasca sinistra dei pantaloni nel signor Harding alla prima
+
+occasione.' O ancora: 'Sì, sono un poligamo di sicuro, e le mie
+
+quarantasette mogli mi accompagnano nel viaggio travestite da
+
+segretarie.' Pare esservi una certa semplicità di mente in queste
+
+risposte; ed è rassicurante sapere che gli anarchici e i poligami
+
+sono così puri e buoni che alla polizia basta porre loro domande ed
+
+essi di certo non diranno menzogne.
+
+Ora, questo è un modello del genere di pratica straniera, fondata su problemi
+
+stranieri, di fronte alla quale il primo impulso di un uomo è naturalmente ridere. Né
+
+ho alcuna intenzione di scusarmi della mia risata. Un uomo è perfettamente
+
+autorizzato a ridere di una cosa perché gli capita di trovarla
+
+incomprensibile. Ciò che non ha il diritto di fare è ridere di essa in quanto
+
+incomprensibile, e poi criticarla come se la comprendesse. Il
+
+fatto stesso della sua estraneità e del suo mistero dovrebbe indurlo a riflettere
+
+sulle cause più profonde che rendono la gente così diversa da lui, e
+
+ciò senza semplicemente presumere che debbano essergli inferiori.
+
+Superficialmente è una faccenda piuttosto strana. Sarebbe abbastanza facile
+
+suggerire che in questo l'[[America]] ha introdotto uno spirito del tutto anormale
+
+di [[Inquisition|inquisizione]]; un'interferenza con la libertà ignota fra tutti gli
+
+antichi dispotismi e aristocrazie. Su ciò vi sarà qualcosa
+
+da dire più avanti; ma superficialmente è vero che questo grado di
+
+burocratismo è relativamente unico. In un [[Journey|viaggio]] che feci appena l'
+
+anno prima ebbi occasione di far vistare i miei documenti da governi che
+
+molte persone rispettabili in Occidente identificherebbero vagamente con corsari e
+
+assassini; sono stato dall'altra parte del Giordano, nella terra governata
+
+da un rozzo capo arabo, dove la polizia somigliava tanto ai briganti che ci si
+
+chiedeva che aspetto avessero i briganti. Ma non mi chiesero se
+
+fossi venuto a sovvertire il potere dello Sceriffo; e non mostrarono
+
+la minima curiosità per le mie opinioni personali sul fondamento etico dell'
+
+autorità civile. Questi ministri dell'antico dispotismo musulmano non si
+
+curavano se io fossi un anarchico; e naturalmente non si sarebbero
+
+preoccupati se fossi stato un poligamo. Il capo arabo era probabilmente
+
+egli stesso un poligamo. Questi schiavi dell'autocrazia asiatica si accontentavano,
+
+alla vecchia maniera liberale, di giudicarmi dalle mie azioni; non indagavano
+
+nei miei pensieri. Ritenevano il loro potere limitato alla limitazione della
+
+pratica; non mi vietavano di sostenere una teoria. Sarebbe facile
+
+argomentare qui che la [[Democracy|democrazia]] occidentale perseguita là dove perfino il
+
+dispotismo orientale tollera o emancipa. Sarebbe facile sviluppare la
+
+fantasia che, in confronto ai sultani della Turchia o dell'[[Egypt|Egitto]], la
+
+Costituzione americana sia una cosa come la [[Spanish Inquisition|Inquisizione spagnola]].
+
+Solo che il viaggiatore che si ferma a quel punto ha del tutto torto; e il
+
+viaggiatore fin troppo spesso si ferma a quel punto. Ha trovato qualcosa
+
+che lo fa ridere, e non permetterà che lo faccia pensare. E il
+
+rimedio non è disdire ciò che ha detto, e nemmeno, per così dire,
+
+ritirare la risata che ha riso, non negare che vi sia qualcosa di unico
+
+e curioso in questa [[Inquisition|inquisizione]] americana sulle nostre opinioni astratte,
+
+ma piuttosto proseguire il filo del pensiero, e seguire l'ammirevole
+
+consiglio del signor H. G. Wells, che disse: 'Non serve a molto pensare a una
+
+cosa se non la si pensa fino in fondo.' Non si tratta di negare che il burocratismo
+
+americano sia piuttosto peculiare su questo punto, ma di indagare che cosa
+
+sia davvero ciò che rende l'[[America]] peculiare, o ciò che è peculiare all'[[America]].
+
+In breve, si tratta di farsi qualche idea ultima di ciò che l'[[America]] _è_; e la
+
+risposta a quella domanda rivelerà qualcosa di assai più profondo e grandioso
+
+e più degno del nostro intelligente interesse.
+
+Può esser parso qualcosa di men che un complimento paragonare la
+
+Costituzione americana alla [[Spanish Inquisition|Inquisizione spagnola]]. Ma, per quanto strano, ciò
+
+comporta una [[Truth|verità]]; e forse ancor più stranamente, comporta un
+
+complimento. La Costituzione americana somiglia davvero all'Inquisizione
+
+[[Inquisition|spagnola]] in questo: che è fondata su un credo. L'[[America]] è la sola
+
+nazione al mondo che sia fondata su un credo. Quel credo è enunciato
+
+con dogmatica e persino teologica lucidità nella Dichiarazione d'
+
+Indipendenza; forse l'unico brano di politica pratica che sia anche
+
+politica teorica e anche grande letteratura. Enuncia che tutti
+
+gli uomini sono uguali nella loro pretesa alla giustizia, che i governi esistono per dar
+
+loro quella giustizia, e che la loro autorità è per tale ragione giusta. Essa
+
+certamente condanna l'anarchismo, e per implicazione condanna anche
+
+l'ateismo, poiché nomina chiaramente il Creatore come l'autorità ultima
+
+da cui questi eguali diritti derivano. Nessuno si aspetta che un moderno
+
+sistema politico proceda logicamente nell'applicazione di simili dogmi,
+
+e nella questione di Dio e del [[government|Governo]] è naturalmente Dio la cui pretesa
+
+è presa più alla leggera. Il punto è che vi è un credo, se non intorno alle cose
+
+divine, almeno intorno a quelle umane.
+
+Ora, un credo è insieme la cosa più ampia e la più angusta al
 
 
 
@@ -15600,6 +15972,180 @@ maintained that Herbert Spencer was an anarchist. It is practically
 certain that Auberon Herbert was an anarchist. But Herbert Spencer was
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+mondo. Nella sua [[Nature|natura]] è ampio quanto il suo disegno di una fratellanza di
+
+tutti gli uomini. Nella sua [[Nature|natura]] è limitato dalla sua definizione della [[Nature|natura]] di
+
+tutti gli uomini. Ciò valeva per la Chiesa cristiana, di cui si diceva con verità che
+
+non escludeva né Giudeo né Greco, ma che sostituiva senz'altro
+
+qualcos'altro alla religione ebraica o alla [[philosophy|filosofia]] greca. Si diceva con verità che
+
+fosse una rete che raccoglieva ogni sorta di cose; ma una rete di un certo
+
+disegno, il disegno di Pietro il Pescatore. E questo è vero perfino delle
+
+più disastrose distorsioni o degradazioni di quel credo; e vero
+
+fra le altre dell'[[Spanish Inquisition|Inquisizione spagnola]]. Poteva essere angusta
+
+in fatto di teologia, ma non poteva dichiararsi angusta in fatto di
+
+nazionalità o etnologia. L'[[Spanish Inquisition|Inquisizione spagnola]] poteva essere, va riconosciuto,
+
+inquisitoriale; ma l'[[Spanish Inquisition|Inquisizione spagnola]] non poteva essere meramente spagnola.
+
+Un tale Spagnolo, anche quando era più angusto del proprio credo, doveva essere
+
+più ampio del proprio impero. Poteva bruciare un filosofo perché era
+
+eterodosso; ma doveva accettare un barbaro perché era ortodosso. E
+
+vediamo, anche in tempi moderni, che la stessa Chiesa che si biasima perché
+
+fa dei saggi degli eretici è pure biasimata perché fa dei selvaggi dei sacerdoti. Ora, in
+
+una maniera assai più vaga e più evoluzionistica, c'è qualcosa della
+
+stessa idea sullo sfondo del grande esperimento americano; l'esperimento
+
+di una [[Democracy|democrazia]] di razze diverse che è stata paragonata a un
+
+crogiolo. Ma perfino quella metafora implica che il crogiolo stesso sia di una
+
+certa forma e di una certa sostanza; una sostanza piuttosto solida. Il
+
+crogiolo non deve fondersi. La forma originaria fu tracciata sulle linee della
+
+[[Democracy|democrazia]] jeffersoniana; e rimarrà in quella forma finché non
+
+diventi informe. L'[[America]] invita tutti gli uomini a divenire cittadini; ma
+
+implica il dogma che esista una cosa come la cittadinanza. Solo che, per
+
+quanto riguarda il suo ideale primario, la sua esclusività è religiosa
+
+perché non è razziale. Il missionario può condannare un cannibale,
+
+proprio perché non può condannare un Isolano delle Sandwich. E con
+
+qualcosa dello stesso spirito l'Americano può escludere un poligamo,
+
+proprio perché non può escludere un Turco.
+
+Ora, per l'[[America]] questa non è oziosa teoria. Poteva essere teorica,
+
+benché fosse del tutto sincera, quando quel grande gentiluomo della Virginia
+
+la dichiarò in un contesto che aveva ancora qualcosa del carattere di
+
+una campagna inglese. Ora non è più meramente teorica. Non c'è
+
+nulla che impedisca all'[[America]] di essere letteralmente invasa dai Turchi, come è
+
+invasa da Ebrei o Bulgari. Nella più squisitamente sconclusionata delle
+
+_Bab Ballads_, ci si dice a proposito del Pascià Bailey Ben: —
+
+     Un mattino bussò alle otto e mezza
+
+     un alto Pellerossa al suo cancello.
+
+     In Turchia, come forse saprai,
+
+     i Pellerossa sono assai rari.
+
+Ma l'inverso non è affatto detto che sia vero. Non c'è nulla nella
+
+[[Nature|natura]] delle cose che impedisca a un'emigrazione di Turchi di crescere e
+
+moltiplicarsi nelle pianure dove vagavano i Pellerossa; non c'è
+
+nulla che imponga che i Turchi siano assai rari. I Pellerossa,
+
+ahimè, saranno probabilmente più rari. E poiché preferisco di gran lunga i Pellerossa ai Turchi,
+
+per non parlare degli Ebrei, parlo senza pregiudizio; ma il punto qui è
+
+che l'[[America]], in parte per teoria originaria e in parte per accidente
+
+storico, è davvero aperta a mescolanze razziali che la maggior parte dei paesi
+
+riterrebbe incongrue o comiche. Ecco perché è giusto leggere ogni
+
+definizione o regola americana in una certa luce, e in rapporto a una
+
+posizione piuttosto unica. Non è giusto paragonare la posizione di coloro
+
+che possono incontrare Turchi nel vicolo dietro casa con quella di coloro che non hanno mai
+
+incontrato Turchi se non nelle _Bab Ballads_. Non è giusto semplicemente paragonare
+
+l'[[America]] all'Inghilterra nelle sue norme sul Turco. In breve, non è
+
+giusto fare ciò che probabilmente fa quasi ogni Inglese: guardare
+
+il questionario internazionale americano, ridere e accontentarsi
+
+di dire: 'Da noi in Inghilterra non abbiamo di queste sciocchezze.'
+
+Non abbiamo di queste sciocchezze in Inghilterra perché non abbiamo mai
+
+tentato di avere di quella [[philosophy|filosofia]] in Inghilterra. E, soprattutto,
+
+perché abbiamo l'enorme vantaggio di sentire naturale l'essere
+
+nazionali, perché non c'è altro da essere. L'Inghilterra di questi tempi non è
+
+[[Well|ben]] governata; l'Inghilterra non è [[Well|ben]] istruita; l'Inghilterra soffre di
+
+ricchezza e [[Poverty|povertà]] che non sono [[Well|ben]] distribuite. Ma l'Inghilterra è
+
+inglese; _esto perpetua_. L'Inghilterra è inglese come la Francia è francese o
+
+l'Irlanda irlandese; la gran massa degli uomini che dà per scontate certe tradizioni
+
+nazionali. Ora, questo ci offre un compito totalmente diverso e assai
+
+più facile. Non abbiamo un'[[Inquisition|inquisizione]], perché non abbiamo un
+
+credo; ma si può sostenere che non ci serva un credo, perché abbiamo
+
+un carattere. In qualsiasi delle vecchie nazioni l'[[unity|unità]] nazionale è
+
+preservata dal tipo nazionale. Poiché abbiamo un tipo, non abbiamo bisogno di
+
+avere un test.
+
+Prendete quella [[Innocent|innocente]] domanda, 'Siete un anarchico?', che è
+
+intrinsecamente altrettanto impudente di 'Siete un ottimista?' o 'Siete un
+
+filantropo?' Non discuto qui se queste cose siano
+
+giuste, ma se i più di noi siano in grado di conoscerle rettamente.
+
+Ora, è verissimo che la maggior parte degli Inglesi non trova necessario andare
+
+in giro tutto il giorno a chiedersi l'un l'altro se sono anarchici. È del tutto
+
+vero che la frase non compare su alcun modulo britannico che io abbia visto. Ma
+
+ciò non è solo perché la maggior parte degli Inglesi non è anarchica. È
+
+ancor più perché anche gli anarchici sono Inglesi. Per esempio,
+
+sarebbe facile prendersi gioco della formula americana notando che il
+
+berretto calzerebbe ogni sorta di calve teste accademiche. Si potrebbe [[Well|bene]]
+
+sostenere che Herbert Spencer fosse un anarchico. È praticamente
+
+certo che Auberon Herbert fosse un anarchico. Ma Herbert Spencer era
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_04" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 4)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -15773,6 +16319,176 @@ a word, what is unique is not [[America]] but what is called
 
 [[americanisation|Americanisation]]. We understand nothing till we understand the amazing
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+un Inglese straordinariamente tipico della classe media anticonformista.
+
+E Auberon Herbert era un [[aristocrat|aristocratico]] inglese straordinariamente tipico della
+
+vecchia e genuina aristocrazia. Ognuno sapeva in cuor suo che lo
+
+squire non avrebbe lanciato una bomba contro la [[Queen|Regina]], e l'anticonformista non
+
+avrebbe lanciato una bomba contro nessuno. Ognuno sapeva che c'era qualcosa
+
+di subconscio in un uomo come Auberon Herbert, che sarebbe emerso
+
+solo nel lanciare bombe contro i nemici dell'Inghilterra; come in effetti emerse nel
+
+suo figlio e omonimo, il generoso e non dimenticato, che cadde scagliando
+
+bombe dal cielo ben oltre la linea tedesca. Ognuno sa che
+
+normalmente, in ultima istanza, il gentiluomo inglese è patriottico. Ognuno
+
+sa che l'anticonformista inglese è nazionale anche quando nega
+
+di essere patriottico. Nulla è più notevole, in verità, del fatto che
+
+nessuno è più segnato dal marchio della propria nazione dell'uomo che
+
+dice che non dovrebbero esserci nazioni. Qualcuno chiamò Cobden l'
+
+Uomo Internazionale; ma nessun uomo poteva essere più inglese di Cobden.
+
+Tutti riconoscono in [[tolstoy|Tolstoj]] l'iconoclasta di ogni patriottismo; ma
+
+nessuno poteva essere più russo di [[tolstoy|Tolstoj]]. Nei vecchi paesi dove
+
+esistono questi tipi nazionali, ai tipi si può permettere di sostenere qualsiasi
+
+teoria. Anche se sostengono certe teorie, è improbabile che facciano
+
+certe cose. Così l'obiettore di coscienza, nel senso inglese,
+
+può essere ed è uno dei peculiari sottoprodotti dell'Inghilterra. Ma l'
+
+obiettore di coscienza avrà probabilmente un'obiezione di coscienza al
+
+lanciare bombe.
+
+Ora, sono ben lungi dall'intendere insinuare che questi test americani siano
+
+buoni test, o che non vi sia pericolo che la tirannia divenga la
+
+[[Temptation|tentazione]] dell'[[America]]. Avrò qualcosa da dire più avanti su quella
+
+[[Temptation|tentazione]] o tendenza. Né dico che essi applichino coerentemente questa
+
+concezione di una nazione con l'[[Soul|anima]] di una chiesa, protetta da selezione religiosa
+
+e non razziale. Se applicassero quel principio coerentemente,
+
+dovrebbero escludere i pessimisti e i ricchi cinici che negano l'
+
+ideale democratico; cosa eccellente ma piuttosto improbabile. Ciò che
+
+dico è che, quando ci rendiamo conto che questo principio esiste affatto, vediamo
+
+l'intera posizione in una prospettiva totalmente diversa. Diciamo che gli
+
+Americani stanno facendo qualcosa di eroico, o qualcosa di folle, o
+
+lo stanno facendo in modo impraticabile o indegno, invece di semplicemente
+
+chiederci che diavolo stiano facendo.
+
+Quando ci rendiamo conto del disegno democratico di un tale
+
+commonwealth cosmopolita, e lo paragoniamo alla nostra insulare fiducia o ai nostri istinti,
+
+vediamo subito perché una tale cosa debba essere non solo democratica ma dogmatica.
+
+Vediamo perché in certi punti tenda a essere inquisitrice o intollerante. Chiunque
+
+può cogliere il punto pratico semplicemente trasferendo nella vita privata
+
+un problema come quello dei due anarchici accademici, che per una
+
+coincidenza potrebbero chiamarsi i due Herbert. Supponiamo che un uomo dicesse: 'Buffle, il mio
+
+vecchio tutore di [[Oxford]], desidera conoscerti; vorrei che lo invitassi per un giorno
+
+o due. Ha le opinioni più strambe, ma è molto stimolante.' Non ci
+
+verrebbe in mente che la stramberia delle opinioni del docente di [[Oxford]] lo portasse
+
+a far saltare in aria la [[house|casa]]; perché il docente di [[Oxford]] è un tipo inglese.
+
+Supponiamo che qualcuno dicesse: 'Lascia che porti il vecchio Colonnello Robinson per
+
+il fine settimana; è un po' svitato ma piuttosto interessante.' Non
+
+prevedremmo che il colonnello dia di matto con un trinciante e
+
+offra un sacrificio umano nel [[Garden|giardino]]; poiché queste non sono fra le
+
+abitudini quotidiane di un vecchio colonnello inglese; e poiché conosciamo le sue abitudini,
+
+non ci curiamo delle sue opinioni. Ma supponiamo che qualcuno si offrisse di portare
+
+una persona dall'interno della Kamčatka a stare con noi per una settimana o
+
+due, e aggiungesse che la sua religione era una religione assai straordinaria,
+
+ci sentiremmo un po' più curiosi di sapere che genere di religione
+
+fosse. Se qualcuno desiderasse aggiungere un Ainu Peloso alla festa di famiglia a
+
+Natale, spiegando che il suo punto di vista era così individuale e
+
+interessante, vorremmo sapere qualcosa di più su di esso e su di lui. Saremmo
+
+tentati di stilare un questionario tanto fantastico quanto quello
+
+presentato all'emigrante che va in [[America]]. Chiederemmo che cosa fosse un Ainu
+
+Peloso, e quanto fosse peloso, e soprattutto che sorta di Ainu fosse.
+
+L'etichetta esigerebbe che gli chiedessimo di portare la moglie? E se gli
+
+chiedessimo di portare la moglie, quante mogli porterebbe? In breve, come
+
+nella formula americana, è un poligamo? Anche solo come questione di
+
+gestione domestica e di alloggio la domanda non è irrilevante. L'Ainu
+
+Peloso si accontenta del pelo, o indossa qualche veste? Se la polizia
+
+insiste perché indossi vesti, riconoscerà l'autorità della
+
+polizia? In breve, come nella formula americana, è un anarchico?
+
+Naturalmente questa generalizzazione sull'[[America]], come altre cose
+
+storiche, è soggetta a ogni sorta di divisioni [[Cross|trasversali]] ed eccezioni, da
+
+considerarsi a suo luogo. I negri sono un problema speciale, per
+
+ciò che gli uomini bianchi in passato fecero loro. I Giapponesi sono un problema
+
+speciale, per ciò che gli uomini [[Fear|temono]] che essi in futuro possano fare agli
+
+uomini bianchi. Gli Ebrei sono un problema speciale, per ciò che essi e i
+
+Gentili, nel passato, nel presente e nel futuro, paiono avere l'abitudine di
+
+farsi a vicenda. Ma il punto non è che nulla esista in [[America]]
+
+tranne questa idea; è che nulla di simile a questa idea esiste in alcun luogo
+
+tranne che in [[America]]. Questa idea non è internazionalismo; al contrario
+
+è decisamente nazionalismo. Gli Americani sono molto patriottici, e desiderano
+
+rendere i loro nuovi cittadini Americani patriottici. Ma è l'idea di
+
+fare una nuova nazione letteralmente di qualsiasi vecchia nazione capiti. In
+
+una parola, ciò che è unico non è l'[[America]] ma ciò che si chiama
+
+[[americanisation|Americanizzazione]]. Non comprendiamo nulla finché non comprendiamo lo stupefacente
 
 
 
@@ -15948,6 +16664,176 @@ may realise that equality is not some crude fairy tale about all men
 being equally tall or equally tricky; which we not only cannot believe
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+[[Ambition|ambizione]] di americanizzare il camciadalo e l'ainu peloso. Non stiamo
+
+cercando di anglicizzare migliaia di cuochi francesi o suonatori d'organetto italiani.
+
+La Francia non cerca di gallicizzare migliaia di gitanti inglesi o
+
+di prigionieri di guerra tedeschi. L'[[America]] è l'unico luogo al mondo dove
+
+questo processo, sano o malsano, possibile o impossibile, sia in corso.
+
+E il processo, come ho fatto notare, _non_ è internazionalizzazione.
+
+Sarebbe più esatto dire che è la nazionalizzazione degli
+
+internazionalizzati. È fare una [[Home|patria]] di vagabondi e una nazione
+
+di esuli. È questo che al tempo stesso illumina e addolcisce le
+
+regolazioni morali che possiamo davvero giudicare maniache o fanatiche. Sono
+
+anomale; ma in un certo senso questo esperimento di una [[Home|patria]] per i senza patria è
+
+anomalo. Insomma, si è riconosciuto da tempo che l'[[America]] era un
+
+asilo. È solo dal Proibizionismo che ha preso un poco l'aria di un
+
+asilo di folli.
+
+Fu prima di salpare per l'[[America]], come ho detto, che me ne stavo con il
+
+documento ufficiale in mano e questi pensieri in testa. Fu mentre me ne
+
+stavo sul suolo inglese che attraversai le due fasi del sorridere
+
+e poi del provare simpatia; del rendermi conto che il mio momentaneo divertimento, per
+
+essermi sentito chiedere se non fossi un anarchico, era in parte dovuto al fatto che
+
+non ero un americano. E in [[Truth|verità]] credo vi siano alcune cose che un uomo
+
+dovrebbe sapere sull'[[America]] prima di vederla. Ciò che sappiamo di un paese
+
+in anticipo può non influire su ciò che vediamo che esso è; ma influirà in modo vitale
+
+su ciò per cui lo apprezziamo, perché influirà in modo vitale
+
+su ciò che ci aspettiamo che sia. Posso dire onestamente di non essermi mai aspettato
+
+che l'[[America]] fosse ciò che nove decimi dei critici dei giornali immancabilmente
+
+danno per scontato che sia. Non l'ho mai creduta una sorta di colonia anglosassone,
+
+sapendo che era sempre più gremita di folle di coloni assai
+
+diversi. Durante la guerra sentivo che la peggiore propaganda in assoluto per gli
+
+Alleati fosse la propaganda a favore degli anglosassoni. Cercai di far notare
+
+che per un verso l'[[America]] è più vicina all'Europa di quanto lo sia l'Inghilterra. Se non è
+
+più vicina alla Bulgaria, è più vicina ai Bulgari; se non è più vicina
+
+alla Boemia, è più vicina ai Boemi. Nel mio albergo di [[New York]] il primo
+
+cameriere della sala da pranzo era un Boemo; il primo cameriere della
+
+grill-room era un Bulgaro. Gli Americani hanno in fondo alla
+
+strada nazionalità che per noi stanno ai confini della terra. Feci del mio meglio per
+
+persuadere i miei connazionali a non rivolgersi all'Americano come se fosse un
+
+Inglese piuttosto sciatto, che si fosse ritirato in campagna nelle province e
+
+non avesse udito le ultime notizie della città. Registrerò più avanti alcune
+
+di quelle sorprendenti realtà che il viaggiatore non si aspetta; e
+
+che, in certi casi [[Fear|temo]], in realtà non vede perché non le
+
+aspetta. Cercherò di rendere giustizia alla psicologia di ciò che il signor
+
+Belloc ha chiamato 'Rivelazioni di viaggio.' Ma vi sono alcune cose
+
+sull'[[America]] che un uomo dovrebbe vedere anche a occhi chiusi. Una è
+
+che uno Stato venuto all'esistenza unicamente attraverso il proprio ripudio e
+
+la propria avversione per la [[Crown|Corona]] britannica difficilmente sarà una copia rispettosa della
+
+Costituzione britannica. Un'altra è che il tratto principale della
+
+Dichiarazione d'Indipendenza è qualcosa che non solo è assente dalla
+
+Costituzione britannica, ma qualcosa che tutti i nostri costituzionalisti
+
+hanno immancabilmente ringraziato Dio, con la più allegra iattanza e vanteria,
+
+di aver tenuto fuori dalla Costituzione britannica. È la cosa
+
+chiamata astrazione o [[logic|logica]] accademica. È la cosa che gente tanto gioviale
+
+chiama teoria; e che quanti sanno praticarla chiamano pensiero.
+
+E la teoria, o pensiero, è l'ultima cosa a cui gli Inglesi siano
+
+avvezzi, sia per la loro struttura sociale sia per il loro tradizionale
+
+insegnamento. È la teoria dell'uguaglianza. È la pura concezione classica
+
+secondo cui nessun uomo deve aspirare a essere qualcosa di più di un cittadino,
+
+e nessun uomo deve sopportare di essere qualcosa di meno. Non è affatto
+
+particolarmente intelligibile a un Inglese, che tende nel suo meglio alle
+
+virtù del gentiluomo e nel suo peggio ai vizi dello snob. L'
+
+idealismo dell'Inghilterra, o se preferite il [[Romance|romanticismo]] dell'Inghilterra, non è stato
+
+principalmente il [[Romance|romanticismo]] del cittadino. Ma l'idealismo dell'[[America]], possiamo
+
+dirlo con sicurezza, ruota ancora interamente intorno al cittadino e al suo
+
+[[Romance|romanticismo]]. Le realtà sono tutt'altra faccenda, e considereremo
+
+a suo luogo la questione se l'ideale sarà in grado di plasmare
+
+le realtà o ne verrà semplicemente ridotto informe a suon di colpi. L'ideale è
+
+assediato da disuguaglianze della più torreggiante e folle specie nel
+
+campo industriale ed economico. Può essere divorato dal moderno
+
+capitalismo, forse la peggiore disuguaglianza mai esistita fra gli uomini. Di
+
+tutto ciò parleremo più avanti. Ma la cittadinanza è ancora l'ideale
+
+americano; c'è un esercito di realtà opposto a quell'ideale; ma non
+
+c'è alcun ideale opposto a quell'ideale. La plutocrazia americana non è mai riuscita a
+
+farsi rispettare come l'aristocrazia inglese. La cittadinanza è l'ideale
+
+americano; e non è mai stato l'ideale inglese. Ma è certo un
+
+ideale che può destare una certa generosità immaginativa e rispetto in un
+
+Inglese, se egli si degnerà di essere anche un uomo. In questa visione di
+
+plasmare molti popoli nell'immagine visibile del cittadino, egli può scorgere
+
+un'avventura spirituale che può ammirare dall'esterno, almeno
+
+quanto ammira il valore dei Musulmani e assai più di quanto
+
+ammiri le virtù del Medioevo. Non ha bisogno di mettersi a
+
+sviluppare l'uguaglianza, ma non ha bisogno di mettersi a fraintenderla. Egli
+
+può almeno capire ciò che Jefferson e [[Lincoln]] intendevano, e può
+
+forse trovare qualche aiuto in questo compito leggendo ciò che dissero. Egli
+
+può rendersi conto che l'uguaglianza non è una rozza favola secondo cui tutti gli uomini
+
+siano ugualmente alti o ugualmente scaltri; cosa che non solo non possiamo credere
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_06" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 6)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -16119,6 +17005,174 @@ hotels. There are indeed. There are hotels toppling to the [[Stars|stars]], hote
 
 covering the acreage of villages, hotels in multitudinous number like a
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+ma non possiamo credere che qualcuno vi creda. È un assoluto morale per
+
+cui tutti gli uomini hanno un valore invariabile e indistruttibile e una dignità
+
+intangibile come la [[Death|morte]]. Può almeno essere un filosofo e vedere che
+
+l'uguaglianza è un'idea; e non essere semplicemente uno di quegli scettici dalla testa molle
+
+che, saliti con bassi trucchi in alto loco, bevono cattivo champagne in
+
+squallidi salotti d'albergo, e si ripetono l'un l'altro venti volte, con
+
+instancabile iterazione, che l'uguaglianza è un'illusione.
+
+In [[Truth|verità]] è la disuguaglianza a essere l'illusione. L'estrema
+
+sproporzione fra gli uomini, che ci pare di vedere nella vita, è cosa fatta di
+
+luci mutevoli e di ombre che si allungano, un crepuscolo pieno di fantasie e
+
+distorsioni. Troviamo un uomo famoso e non possiamo vivere abbastanza a lungo da
+
+vederlo dimenticato; vediamo una razza dominante e non possiamo indugiare a vederla [[Decay|decadere]].
+
+È l'esperienza degli uomini che ritorna sempre all'uguaglianza degli uomini;
+
+è la media che in ultimo giustifica l'uomo medio. È quando
+
+gli uomini hanno visto e sofferto molto e giungono al termine di esperimenti più elaborati,
+
+che vedono gli uomini come uomini sotto un'eguale luce di [[Death|morte]] e
+
+di quotidiano riso; e non meno misteriosi per essere molti. Né è
+
+invano che questi democratici d'Occidente hanno cercato il blasone della loro
+
+[[Flag|bandiera]] in quella grande moltitudine di luci immortali che perdurano dietro i
+
+fuochi che vediamo, e le hanno raccolte nell'angolo di Old Glory il cui
+
+fondo è come la [[Night|notte]] scintillante. Poiché veramente, nello spirito tanto
+
+[[Well|quanto]] nel simbolo, soli e lune e meteore passano e riempiono i nostri
+
+cieli d'una conflagrazione fugace e quasi teatrale; e ovunque
+
+la vecchia [[Shadow|ombra]] si china sulla terra, le [[Stars|stelle]] ritornano.
+
+_Una meditazione in un albergo di [[New York]]_
+
+Tutto ciò deve cominciare con delle scuse e non con un'apologia. Quando andai
+
+vagando per gli Stati travestito da conferenziere, ero [[Well|ben]] consapevole
+
+di non essere sufficientemente [[Well|ben]] travestito per fare la spia. Ero anzi nella
+
+peggiore posizione possibile per fare il turista. Un conferenziere davanti a un pubblico
+
+americano difficilmente può trovarsi nell'umore vacanziero del turista. È
+
+piuttosto il pubblico a fare il turista; anche se contempla uno spettacolo alquanto
+
+[[Melancholy|malinconico]]. C'è chi dice che la gente venga a vedere il conferenziere e non
+
+a udirlo; nel qual caso sembra un vero peccato che egli debba disturbare
+
+e affliggere le loro menti con una conferenza. Potrebbe semplicemente esibirsi
+
+su un palco o una pedana per una somma pattuita; o essere esposto come un
+
+[[Monster|mostro]] in un serraglio. Dall'elefante del circo non ci si aspetta che tenga un
+
+discorso. Ma è altrettanto vero che all'elefante del circo non è concesso
+
+di scrivere un libro. Le sue impressioni di viaggio sarebbero un po' sommarie e
+
+forse un po' troppo specializzate. Nel viaggiare unicamente di circo in
+
+circo si muoverebbe, per così dire, in cerchi piuttosto ristretti. Jumbo il
+
+grande elefante (con cui non sono così ambizioso da
+
+paragonarmi), prima di andare infine allo spettacolo di Barnum, trascorse una
+
+considerevole e spero felice parte della sua vita a Regent's Park. Ma se
+
+avesse scritto un libro sull'Inghilterra, fondato sulle sue impressioni dello Zoo,
+
+esso sarebbe potuto risultare un po' sproporzionato e persino fuorviante nella sua
+
+versione della flora e della fauna di quel paese. Potrebbe immaginare che
+
+leoni e leopardi fossero più comuni di quanto siano nelle nostre siepi e
+
+nei nostri viottoli di campagna, o che il capo e il collo della giraffa fossero altrettanto propri
+
+dei nostri paesaggi quanto il campanile di un villaggio. Ed ecco perché mi scuso in
+
+anticipo per una probabile mancanza di proporzione in quest'opera. Come l'
+
+elefante, posso aver visto troppo di uno speciale recinto dove una
+
+speciale sorta di leoni è radunata insieme. Posso esagerare lo
+
+spazio territoriale, a differenza di quello verticale occupato dalla
+
+giraffa spirituale; poiché la giraffa può certo essere considerata un esempio
+
+di Elevazione, ed è persino, in un certo senso, un'intellettuale. Soprattutto,
+
+farò probabilmente generalizzazioni fin troppo generali; e
+
+insufficienti proprio perché esagerate. A questa sorta di [[Doubt|dubbio]] tutte le mie
+
+impressioni sono soggette; e fra esse la generalizzazione negativa con
+
+cui darò inizio a questa vagabonda meditazione sugli alberghi americani.
+
+In tutti i miei vagabondaggi americani non vidi mai una cosa come una locanda. Possono
+
+esistere; ma non fermano il viaggiatore su ogni [[Road|strada]] come
+
+fanno in Inghilterra e in Europa. I saloon non esistevano più quando vi
+
+fui, a causa della recente [[Reform|riforma]] che riservava gli alcolici alle
+
+classi più agiate. Ma sentiamo che i saloon ci sono stati; se così
+
+si può dire, la loro assenza è ancora presente. Rimangono nella
+
+struttura della strada e nell'idioma della lingua. Ma i saloon
+
+non erano locande. Se fossero stati locande, sarebbe stato assai più arduo persino
+
+per il potere della moderna plutocrazia sradicarli. Vi sarà una
+
+caccia assai diversa quando il Cervo Bianco sarà braccato nelle foreste o
+
+quando il [[Lion|Leone]] Rosso si volgerà a far fronte. Ma la gente non poteva provare per il
+
+saloon americano ciò che proverà per le locande inglesi. Non potevano
+
+sentire che il Proibizionista, quel volgare buttafuori, stesse buttando
+
+Chaucer fuori dal Tabard e Shakespeare fuori dalla [[Mermaid]]. In giustizia
+
+verso i Proibizionisti americani bisogna riconoscere che non stavano
+
+compiendo proprio una simile profanazione; e che molti di loro sentivano il saloon un
+
+luogo particolarmente velenoso. Sentivano davvero che i luoghi di mescita
+
+erano usati soltanto come farmacie. Così hanno attuato la grande
+
+ricostruzione, per cui sarà necessario usare soltanto le farmacie come
+
+luoghi di mescita. Ma qui non mi occupo del problema del
+
+Proibizionismo se non nella misura in cui è implicato nell'affermazione che i
+
+saloon non erano in alcun senso locande. In secondo luogo, naturalmente, ci sono gli
+
+alberghi. Eccome. Ci sono alberghi che svettano fino alle [[Stars|stelle]], alberghi
+
+che coprono la superficie di villaggi, alberghi in numero moltitudinario come una
 
 
 
@@ -16293,6 +17347,176 @@ are modifications of this architectural plan, but they are generally
 
 approximations to it; it is the plan that seems to suit the social life
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+folla di monumenti babilonesi o assiri; ma anche gli alberghi non sono
+
+locande.
+
+In generale, non c'è che un unico albergo in [[America]]. Il suo modello,
+
+che è un modello assai razionale, si ripete in città remote l'una
+
+dall'altra quanto le capitali degli imperi europei. Potete trovare quell'albergo
+
+che si erge fra i rossi germogli dei tiepidi boschi di [[spring|primavera]] del Nebraska, o
+
+imbiancato dalle nevi canadesi presso l'eterno fragore del Niagara. E
+
+prima di toccare questo modello solido e semplice in sé, posso osservare
+
+che lo stesso sistema di simmetria attraversa tutti i particolari degli
+
+interni. Come un albergo è simile a un altro albergo, così un piano d'albergo è simile a
+
+un altro piano d'albergo. Se il corridoio fuori dalla porta della vostra camera, o
+
+l'andito come lo chiamano, contiene, poniamo, un tavolino con un
+
+vaso verde e un fenicottero impagliato, o qualche ninnolo del genere, potete
+
+essere perfettamente certi che vi sia esattamente lo stesso tavolino, vaso e
+
+fenicottero su ciascuno dei trentadue pianerottoli di quella torreggiante
+
+dimora. È qui forse che più differisce dai tortuosi
+
+pianerottoli e dai livelli inattesi delle vecchie locande inglesi, anche quando si
+
+chiamano alberghi. A me pareva esservi qualcosa di strano, come una [[Magic|magica]]
+
+moltiplicazione, nella squisita identità di queste suite. Sembrava
+
+suggerire l'immobile atmosfera di qualche inquietante racconto psicologico. Un tempo
+
+io stesso vagheggiai l'idea di un racconto, in cui a un uomo si dovesse
+
+impedire di entrare nella sua [[house|casa]] (il teatro di qualche delitto o sciagura)
+
+da parte di gente che dipingeva e arredava la [[house|casa]] accanto perché sembrasse esattamente come
+
+la sua; spingendo l'assimilazione fino ai limiti più fantastici, come
+
+l'alterare la numerazione delle case della via. Giunsi in [[America]] e
+
+trovai un albergo attrezzato e tappezzato in ogni sua parte per la messa in scena della mia
+
+fantasmatica truffa. Offro lo [[skeleton|scheletro]] del mio racconto con tutta [[Humility|umiltà]] ad
+
+alcune delle mirabili scrittrici di romanzi [[Detective|polizieschi]] d'[[America]], a
+
+Miss Carolyn Wells, o Miss Mary Roberts Rhinehart, o Mrs. A. K. Green
+
+dell'indimenticato Caso Leavenworth. Certo sarebbe possibile che lo
+
+sprovveduto Nimrod K. Moose, di Yellow Dog Flat, giunga a [[New York]]
+
+e resti in qualche modo impigliato in questa rete di ripetizioni o ricorrenze.
+
+Certo qualcosa mi dice che la sua bella figlia, la [[Rose|Rosa]] di Red
+
+Murder Gulch, potrebbe cercarlo invano fra le apparentemente
+
+inconfondibili suppellettili del trentaduesimo piano, mentre egli veniva
+
+quietamente macellato dall'inserviente di piano al trentatreesimo, un agente
+
+dell'Artiglio Verde (quella formidabile organizzazione); e tutto perché i
+
+due piani apparivano esattamente uguali al vergine occhio dell'Ovest. Il
+
+punto originario del mio racconto era che l'uomo da intrappolare entrava
+
+nella propria [[house|casa]] dopotutto, malgrado fosse diversamente dipinta
+
+e numerata, semplicemente perché era distratto e uso a compiere un
+
+certo numero di passi meccanici. Questo non funzionerebbe nell'albergo;
+
+perché un ascensore non ha abitudini. È tipico della vera mansuetudine del
+
+macchinario che, persino quando parliamo di un uomo che si volge meccanicamente, parliamo solo
+
+in senso metaforico; poiché è qualcosa che un meccanismo non può fare. Ma
+
+credo vi sia una sola vera obiezione al mio racconto del signor Moose nell'
+
+albergo di [[New York]]. E purtroppo è piuttosto fatale. È che
+
+lontano, nella remota desolazione di Yellow Dog, fra quelle sperdute
+
+e strampalate rocce che quasi paiono levarsi oltre il tramonto, c'è
+
+indubbiamente un albergo esattamente dello stesso genere, con tutti i suoi piani
+
+esattamente uguali.
+
+Comunque il piano generale dell'albergo americano è di solito lo stesso, e,
+
+come ho detto, è assai valido nei suoi limiti. Quando per la prima volta
+
+entrai in uno dei grandi alberghi di [[New York]], la prima impressione fu
+
+certamente la sua grandezza. Si chiamava il Biltmore; e mi domandai quanti
+
+umoristi nazionali avessero fatto l'ovvio commento di augurarsi che l'avessero
+
+costruito meno grande. Ma non era soltanto la babilonica mole e scala di simili
+
+cose, era il modo in cui vengono usate. Vengono usate quasi come
+
+strade pubbliche, o meglio come piazze pubbliche. La mia prima impressione fu
+
+d'essere in una sorta di corso o mercato durante un carnevale
+
+o una rivoluzione. Vero, la gente pareva piuttosto ricca per una rivoluzione
+
+e piuttosto [[Grave|grave]] per un carnevale; ma era stipata in grandi folle
+
+che si muovevano lente come gente che attraversa una stazione ferroviaria
+
+sovraffollata. Persino nelle vertiginose altezze di un simile grattacielo non poteva
+
+esserci posto per tutta quella gente da [[Sleep|dormire]] nell'albergo, e nemmeno da
+
+cenarvi. E, di fatto, non facevano proprio nulla se non
+
+affluirvi alla deriva e defluirne di nuovo. La maggior parte aveva a che fare con
+
+l'albergo non più di quanto io abbia a che fare con [[Buckingham]] Palace. Non sono mai stato a
+
+[[Buckingham]] Palace, e ben di rado, grazie a Dio, sono stato nei grandi
+
+alberghi di questo tipo che esistono a [[London|Londra]] o a [[Paris|Parigi]]. Ma non posso credere
+
+che le folle si riversino perpetuamente attraverso l'Hotel Cecil o il Savoy
+
+a questo modo, entrando placidamente da una porta e uscendo dall'
+
+altra. Ma questo fatto è parte della struttura fondamentale dell'
+
+albergo americano; è costruito su un compromesso che lo rende possibile.
+
+L'intero piano inferiore è aperto alle strade pubbliche ed
+
+è trattato come una piazza pubblica. Ma sopra di esso e tutt'intorno corre un altro
+
+piano a foggia di una sorta di profonda galleria, arredata più lussuosamente
+
+e affacciata sulle folle in movimento di sotto. Nessuno è ammesso su questo
+
+piano tranne gli ospiti o i clienti dell'albergo. Poiché io stesso sono stato uno
+
+di loro, confido non sia poco benevolo paragonarli ad attivi
+
+antropoidi che sanno arrampicarsi sugli alberi, e così guardare al sicuro giù verso le mandrie
+
+o i branchi di [[Animals|animali]] più selvaggi che vagano e si aggirano in basso. Naturalmente ci
+
+sono modificazioni di questo piano architettonico, ma sono in genere
+
+approssimazioni a esso; è il piano che par confarsi alla vita sociale
 
 
 
@@ -16470,6 +17694,178 @@ for American bathrooms; yet the connection of ideas, however
 inconsequent, does cover the part of social practice for which these
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+delle città americane. C'è di solito qualcosa come un pianterreno
+
+più pubblico, un mezzanino o galleria al di sopra più privato,
+
+e sopra ancora la mole del blocco delle camere, l'enorme alveare con le sue
+
+innumerevoli e identiche celle.
+
+La scala d'ascesa in questa torre è naturalmente il lift, o, come lo
+
+chiamano, l'elevatore. Con tutto quel che udiamo sulla foga e sulla fretta
+
+americana, è piuttosto strano che gli Americani sembrino amare più di noi
+
+indugiare sulle parole lunghe. E in effetti c'è un elemento di lentezza nella
+
+loro dizione e nel loro spirito, ben poco compreso, di cui potrò discutere
+
+altrove. Comunque dicono elevatore dove noi diciamo lift, proprio come dicono
+
+automobile dove noi diciamo motor e stenografo dove noi diciamo dattilografo, o
+
+talvolta (per lieve confusione) macchina da scrivere. Il che mi ricorda
+
+un altro racconto mai esistito, di un uomo accusato di aver
+
+assassinato e smembrato la sua segretaria quando aveva soltanto smontato la sua
+
+[[Machine|macchina]] da scrivere; ma non dobbiamo indugiare su queste digressioni. Gli
+
+Americani possono avere un'altra ragione per dare titoli lunghi e cerimoniosi
+
+al lift. Quando giunsi la prima volta fra loro ebbi il sospetto che essi
+
+possedessero e praticassero una nuova e segreta religione, che era il culto
+
+dell'elevatore. Immaginavo che adorassero il lift, o in ogni caso
+
+adorassero nel lift. I particolari o i dati di questo sospetto sarebbe
+
+ormai vano raccogliere, avendolo con rammarico abbandonato, se non nella
+
+misura in cui illustrano i principi sociali che stanno sotto il piano
+
+strutturale dell'edificio. Ora, un gentiluomo americano immancabilmente si toglie il
+
+cappello nel lift. Non si toglie il cappello nell'albergo, anche se esso
+
+è affollato di signore. Ma saluta sempre così una signora nell'elevatore;
+
+e ciò segna la differenza d'atmosfera. Il lift è una stanza, ma l'
+
+albergo è una strada. Ma durante la mia prima illusione, naturalmente, presunsi
+
+che egli si scoprisse in quel minuscolo tempio semplicemente perché era in chiesa.
+
+C'è qualcosa nella parola stessa elevatore che esprime gran
+
+parte della sua vaga ma idealistica religione. Forse quella cappella volante
+
+sarà infine decorata ritualisticamente come una cappella; magari
+
+con uno schema simbolico d'ali. Forse un breve ufficio religioso
+
+si terrà nell'elevatore mentre ascende; in poche [[Well|ben]] scelte parole
+
+che toccano l'Altissimo per il Sommo. Forse acconsentirebbe persino a
+
+chiamare l'elevatore un ascensore, se potesse chiamarlo un'ascensione. Non ci sarebbe
+
+difficoltà, tranne ciò che non posso non considerare il principale problema morale
+
+di tutto l'ottimistico modernismo. Intendo la difficoltà d'immaginare
+
+un ascensore libero di salire, se non è anche libero di scendere.
+
+Credo di conoscere i miei amici e conoscenti americani troppo [[Well|bene]] per
+
+scusarmi d'ogni leggerezza in queste illustrazioni. Gli Americani si fanno beffe delle
+
+proprie istituzioni; e il loro stesso giornalismo è pieno di simili
+
+fantasiose congetture. L'edificio alto è esso stesso artisticamente affine alla
+
+storia alta. La parola stessa grattacielo è un mirabile esempio di una
+
+menzogna americana. Ma posso testimoniare con pari zelo i solidi e
+
+sensati vantaggi dell'albergo simmetrico. Non è soltanto un motivo ricorrente
+
+di vasi e fenicotteri impagliati; è anche un motivo altrettanto preciso
+
+di armadi e bagni. È un'usanza dignitosa e umana avere un
+
+bagno annesso a ogni camera; e il mio impulso a cantarne le lodi
+
+mi trascinò almeno una volta in una complicazione piuttosto curiosa. Credo
+
+fosse nella [[City|città]] di Dayton; comunque ricordo che c'era una
+
+Convention delle Lavanderie in corso nello stesso albergo, in una sala assai
+
+patriotticamente e propriamente addobbata con le [[Stars|stelle]] e strisce, e
+
+senza dubbio colma di promesse per il futuro del lavaggio. Fui
+
+intervistato sul tetto, a portata d'orecchio di questo [[debate|dibattito]], e posso
+
+essere stato vittima di qualche associazione o confusione; comunque, dopo
+
+aver risposto alle solite domande sul Lavoro, sulla Società delle Nazioni, sulla
+
+lunghezza degli abiti femminili, e su altre grandi questioni, mi rifugiai in una
+
+rapsodia di calde e [[Well|ben]] meritate lodi dei bagni americani. Il
+
+redattore, mi risulta, scorrendo con occhio cupo la colonna del
+
+'pezzo' del suo collaboratore, e non vedendo altro che termini metafisici come
+
+giustizia, [[Freedom|libertà]], l'astratta disapprovazione dello sfruttamento, della truffa, e
+
+simili, si fermò infine sull'allusione abluzionale, e il suo occhio si
+
+illuminò. 'Ecco l'unico pezzo buono in tutto quanto,' disse, 'Una
+
+Vasca da Bagno in Ogni [[Home|Casa]].' Così queste parole apparvero in enormi lettere
+
+sopra il mio ritratto sul giornale. Si noterà che, come molte cose
+
+su cui gli uomini pratici tanto insistono, esse mancano il bersaglio. Ciò che
+
+avevo lodato come nuovo e nazionale era un bagno in ogni camera. Persino
+
+la feudale e muschiosa Inghilterra non ignora del tutto un'occasionale
+
+vasca da bagno in [[Home|casa]]. Ma ciò che mi diede grande gioia fu quel che seguì. Io
+
+scoprii con diletto che molti, gettando un rapido sguardo al mio
+
+ritratto con la sua prodigiosa didascalia, immaginavano che fosse una réclame
+
+commerciale, e che io fossi un [[Self|auto]]-pubblicitario commesso
+
+viaggiatore. Quando passeggiavo per le strade, si supponeva che io
+
+viaggiassi in vasche da bagno. Considerate la didascalia del ritratto, e
+
+vedrete quanto sia simile al vero slogan commerciale: 'Offriamo una
+
+Vasca da Bagno in Ogni [[Home|Casa]].' E questo delizioso equivoco fu senza dubbio suggellato
+
+dal fatto che ero stato colto ad aggirarmi nelle corti esterne del
+
+tempio dell'antica Corporazione dei Lavandai. Non seppi mai quanti condividessero
+
+l'impressione; mi duole dire che la rintracciai con certezza solo in
+
+due individui. Ma mi risulta che comprendesse l'idea che io fossi
+
+venuto in città per assistere alla Convention delle Lavanderie, e avessi tenuto un
+
+eloquente discorso a quel senato, esibendo senza [[Doubt|dubbio]] le mie vasche.
+
+Tale fu la pena d'un'ammirazione troppo appassionata e sfrenata
+
+per i bagni americani; eppure la connessione delle idee, per quanto
+
+incongruente, ricopre bene quella parte della pratica sociale per cui questi
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_09" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 9)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -16644,6 +18040,176 @@ is really new. I sometimes have a fancy that many of these new things in
 new countries are but the resurrections of old things which have been
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+istituzioni americane possono davvero essere lodate. In tutto ciò che riguarda
+
+il bucato o l'[[Water|acqua]] calda e fredda c'è non solo organizzazione, ma ciò che
+
+non sempre o forse non spesso l'accompagna, l'efficienza. Gli Americani sono
+
+meticolosi in queste cose dell'abito e del decoro; ed è una virtù
+
+che riconosco molto seriamente, per quanto la trovi assai ardua da emulare.
+
+Ma per loro è una virtù; non è una mera convenzione, ancor meno una
+
+mera moda. È davvero legata alla dignità umana più che alla
+
+superiorità sociale. La cosa davvero gloriosa dell'Americano è che
+
+egli non si veste da gentiluomo; si veste da cittadino o da
+
+uomo civile. La sua puritana meticolosità su certi punti è davvero
+
+staccabile da ogni definita ambizione sociale; queste cose non sono
+
+parte dell'entrare in società ma soltanto del tenersi fuori dalla barbarie.
+
+Quei milioni e milioni di persone mediocri, quell'enorme classe media
+
+specialmente del Middle West, non sono abbastanza vicine ad alcuna aristocrazia
+
+nemmeno per essere finti aristocratici, o veri snob. Ma i loro criteri
+
+sono saldi; e per quanto io non viaggi davvero in una vasca da bagno, né creda
+
+nella [[philosophy|filosofia]] e nella religione della vasca da bagno, su questa materia non
+
+arretrerò misantropicamente da loro: preferisco la tinozza di Dayton alla tinozza
+
+di Diogene. Su questi punti c'è davvero qualcosa un milione di volte
+
+migliore dell'efficienza, ed è qualcosa come l'uguaglianza.
+
+Insomma, l'albergo americano non è l'[[America]]; ma è americano. Per certi
+
+aspetti è americano quanto la locanda inglese è inglese. Ed è
+
+simbolico di quella società in questo fra le altre cose: che esso tende
+
+troppo all'uniformità; ma che quella stessa uniformità nasconde non
+
+poca naturale dignità. Gli antichi Romani si vantavano che la loro repubblica fosse una
+
+nazione di re. Se davvero camminassimo per un simile regno, potremmo
+
+assai [[Well|bene]] stancarci alla vista di una folla di re, di ogni uomo con
+
+una [[Crown|corona]] d'oro sul capo o uno scettro d'avorio in mano. Ma è
+
+sostenibile che non dovremmo stancarci della ripetizione di corone e
+
+scettri, più di quanto ci stanchiamo della ripetizione di [[Flowers|fiori]] e [[Stars|stelle]]. L'
+
+intero sforzo immaginativo di Walt Whitman fu davvero uno sforzo per assorbire
+
+e animare queste moltitudinarie ripetizioni moderne; e Walt Whitman
+
+sarebbe stato benissimo capace d'includere nella sua [[Lyric|lirica]] [[litany|litania]] d'ottimismo un
+
+elenco dei novecentonovantanove bagni identici. Non
+
+irrido al generoso sforzo del gigante; benché io pensi, a conti fatti,
+
+che sia una critica al macchinario moderno che lo sforzo debba
+
+essere gigantesco [[Well|oltre]] che generoso.
+
+Mentre c'è tanta ripetizione c'è poca quiete. È il
+
+motivo di un caleidoscopio più che di una carta da parati; un motivo di figure
+
+che corrono e persino balzano come le figure in uno zootropio. Ma persino nei
+
+gruppi dove non c'era foga c'era spesso qualcosa di
+
+senza patria. Non intendo semplicemente che non cenassero a [[Home|casa]];
+
+ma piuttosto che non fossero a [[Home|casa]] nemmeno mentre cenavano, e cenavano nel
+
+loro albergo preferito. Frequentemente sobbalzavano e schizzavano fuori dalla
+
+sala a un richiamo del telefono. Può essere stata una fantasia, ma io
+
+non potei fare a meno di sentire un soffio di [[Home|patria]], come da un lembo o uno sventolio della
+
+[[Cross|Croce]] di San Giorgio, quando per la prima volta mi sedetti in un'osteria canadese, e
+
+lessi l'annuncio che nessun richiamo telefonico o d'altro genere era
+
+consentito nella sala da pranzo. Può essere stata una coincidenza, e ci
+
+possono essere alberghi americani con questa misericordiosa clausola e alberghi canadesi
+
+senza; ma la cosa era simbolica anche se non probante. Mi
+
+sentii come se stessi davvero sul suolo inglese, in un luogo dove la gente
+
+amava consumare i pasti in pace.
+
+Il procedimento del richiamo si chiama 'paging,' e consiste nel mandare un
+
+ragazzino con una gran voce per tutte le sale e i corridoi dell'
+
+edificio, facendoli risuonare d'un nome. L'usanza è comune,
+
+naturalmente, nei club e negli alberghi anche in Inghilterra; ma in Inghilterra è un mero
+
+sussurro a paragone del lamento con cui il page americano ripete la
+
+formula di 'Si chiama il signor Tal dei Tali.' Ricordo un _parterre_ particolarmente affollato
+
+nell'atmosfera alquanto fumosa e opprimente di Pittsburg,
+
+per cui vagava un giovane con una voce la cui pari non ho
+
+mai udito nella terra dei vivi, una voce come il grido d'uno spirito
+
+perduto, che ripeteva ancora e ancora in eterno, 'Si chiama il signor Anderson.' Si
+
+sentiva che non avrebbe mai trovato il signor Anderson. Forse non c'era mai stato
+
+alcun signor Anderson da trovare. Forse egli e ogni altro vagavano in
+
+un abisso di scetticismo senza fondo; ed egli era soltanto la vittima di uno fra
+
+innumerevoli incubi dell'[[Eternity|eternità]], mentre vagava [[Shadow|ombra]] fra
+
+ombre e si lamentava presso fiumi invalicabili. Questa non è esattamente la mia
+
+[[philosophy|filosofia]], ma sono certo che era la sua. Ed è uno stato d'animo che può
+
+spesso visitare la mente nei centri di una civiltà industriale
+
+altamente attiva e prospera.
+
+Tali sono le prime oziose impressioni del grande albergo americano, ricavate
+
+sedendo per la prima [[Time|volta]] nella sua galleria e contemplandone le folle alla deriva
+
+con pensieri egualmente alla deriva. La prima impressione è di
+
+qualcosa di enorme e piuttosto innaturale, un'impressione che è gradualmente
+
+temperata dall'esperienza della cortesia e persino della mansuetudine di gran
+
+parte di quell'ordine sociale. Ma non registrerei le sensazioni
+
+con sincerità, se non toccassi di sfuggita la nota di qualcosa
+
+d'ultraterreno in quel vasto sistema per un viaggiatore insulare che lo vede per
+
+la prima [[Time|volta]]. È come se egli vagasse in un altro mondo fra le
+
+[[Stars|stelle]] fisse; o peggio ancora, in un'ideale Utopia del futuro.
+
+Eppure non sono certo; e forse la migliore di tutte le notizie è che nulla
+
+è davvero nuovo. Ho talvolta la fantasia che molte di queste cose nuove in
+
+paesi nuovi non siano che le resurrezioni di cose vecchie che sono state
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_10" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 10)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -16815,6 +18381,174 @@ He would see sights almost as fine as the flaming [[Sword|sword]] or the purple
 
 and peacock plumage of the seraphim; so long as he did not go near the
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+malvagiamente uccise o stupidamente atrofizzate in paesi vecchi. Ho contemplato
+
+il mare di tavolini in qualche luminoso e arioso caffè all'aperto; e i miei
+
+pensieri sono tornati alla semplice panca di legno e al tavolo di legno che
+
+sta solitario e intemperiato fuori da tante trascurate locande
+
+inglesi. Parliamo di sperimentare col caffè francese, come di qualche fresca e
+
+quasi sfrontata innovazione. Ma i nostri padri avevano il caffè francese, nel
+
+senso del tavolo alla buona al sole e all'aria. L'unica differenza
+
+era che alla [[Democracy|democrazia]] francese fu concesso di sviluppare il suo caffè, o di moltiplicare
+
+i suoi tavoli, mentre la plutocrazia inglese impedì ogni simile crescita popolare.
+
+Forse ci sono altri esempi di tipi e modelli antichi, perduti nella
+
+vecchia oligarchia e salvati nelle nuove democrazie. Mi perseguita un indizio
+
+che le nuove strutture non siano poi così nuove; e che mi ricordino
+
+qualcosa di molto antico. Mentre guardo dal piano del balcone le folle sembrano
+
+fluttuare via e i colori ammorbidirsi e impallidire, e so d'essere in
+
+una delle più semplici e ancestrali delle dimore umane. Sto
+
+guardando giù dalla vecchia galleria di legno sul cortile di una locanda.
+
+Questo nuovo modello architettonico, che ho descritto, è dopotutto uno
+
+dei più antichi modelli europei, ora trascurato in Europa e specialmente in
+
+Inghilterra. Era il teatro in cui venivano recitate innumerevoli commedie
+
+picaresche e drammi romanzeschi, con figure che vanno da Sancho Panza a
+
+[[Sam Weller]]. Serviva da apparato, come un gigantesco giocattolo eretto in
+
+mattoni e legname, per l'antico e forse eterno gioco della pallacorda.
+
+I termini stessi del gioco originario furono tratti dal cortile della locanda,
+
+e i giocatori segnavano i punti a seconda che colpissero lo sportello della dispensa o il
+
+tetto. Singolari congetture aleggiano nella mia mente mentre la scena si oscura e
+
+il quadrilatero di sotto comincia a svuotarsi nelle ultime ore della [[Night|notte]]. Un
+
+giorno forse questa enorme struttura si troverà ritta in una [[Solitude|solitudine]]
+
+come uno [[skeleton]]; e sarà lo [[skeleton]] dello Spotted Dog o del
+
+Blue Boar. Appassirà e [[Decay|decadrà]] finché non sarà degna infine d'essere una
+
+taverna. Non so se gli uomini giocheranno a pallacorda al suo pianterreno,
+
+con vari punteggi e premi per aver colpito il ventilatore elettrico, o il
+
+lift, o il primo cameriere. Forse le parole stesse rimarranno soltanto come
+
+parte di qualche siffatto gioco rustico. Forse il ventilatore elettrico non sarà più
+
+elettrico e l'elevatore non eleverà più, e il cameriere
+
+aspetterà soltanto d'essere colpito. Ma almeno è solo per il [[Decay|decadere]] della moderna
+
+plutocrazia, che sembra già cominciato, che il segreto della
+
+struttura persino di questo palazzo plutocratico può stare rivelato. E dopo
+
+lunghi anni, quando le sue luci saranno spente e solo le lunghe ombre
+
+abiteranno le sue sale e i suoi vestiboli, potrà giungere un nuovo rumore come
+
+un tuono; di D'Artagnan che bussa alla porta.
+
+_Una meditazione a Broadway_
+
+Quando ebbi guardato le luci di Broadway di [[Night|notte]], feci ai miei
+
+amici americani un'[[Innocent|innocente]] osservazione che per qualche ragione parve
+
+divertirli. Avevo guardato, non senza gioia, quel lungo caleidoscopio di
+
+luci colorate disposte in grandi lettere e sbracati marchi di fabbrica,
+
+che reclamizzavano ogni cosa, dal maiale ai pianoforti, mediante l'agenzia dei
+
+due più vividi e mistici dei doni di Dio; il colore e il [[Fire|fuoco]]. Io
+
+dissi loro, nella mia semplicità, 'Che glorioso [[Garden|giardino]] di meraviglie sarebbe
+
+questo, per chiunque avesse la fortuna d'essere incapace di leggere.'
+
+Qui esso non è che un testo per un'ulteriore suggestione. Ma supponiamo che
+
+davvero cammini giù per questa fiammeggiante avenue un contadino, del genere chiamato
+
+con disprezzo un contadino analfabeta; da quanti pensano che insistere che la
+
+gente legga e scriva sia il modo migliore per tenere fuori le spie che
+
+leggono in tutte le lingue e i falsari che scrivono con tutte le calligrafie. Su questo
+
+principio, in effetti, un contadino che conosce soltanto cose di poca
+
+utilità pratica per l'umanità, come arare, tagliar legna, o coltivare
+
+ortaggi, verrebbe assai probabilmente escluso; e non spetta a noi
+
+criticare dall'esterno la [[philosophy|filosofia]] di quanti terrebbero fuori
+
+il contadino e lascerebbero entrare il falsario. Ma supponiamo, non fosse che per
+
+amor di discussione, che il contadino stia camminando sotto i soli artificiali
+
+e le [[Stars|stelle]] di questa tremenda arteria; che sia fuggito nella
+
+terra della libertà per qualche vaga voce e [[Romance|leggenda]] della storia della
+
+sua liberazione, ma senza essere ancora capace di comprendere gli arbitrari
+
+segni del suo alfabeto. L'[[Soul|anima]] di un simile uomo si librerebbe certo più in alto
+
+dei grattacieli, e abbraccerebbe una fratellanza più larga di Broadway.
+
+Rendendosi conto d'essere arrivato in una sera d'eccezionale festa,
+
+degna d'essere blasonata con tutta questa ardente araldica, egli si
+
+compiacerebbe d'indovinare quale grande proclama o principio della Repubblica
+
+pendesse nel cielo come una costellazione o s'increspasse per la via come una
+
+cometa. Sarebbe abbastanza scaltro da indovinare che i tre festoni
+
+orlati di parole di fuoco di foggia alquanto simile stessero per
+
+'[[government|Governo]] del Popolo, Per il Popolo, Dal Popolo'; poiché deve
+
+ovviamente essere quello, se non fosse 'Libertà, Uguaglianza, Fraternità.' La sua
+
+scaltrezza sarebbe forse un po' scossa se sapesse che la triade
+
+stava per 'Tonico Tang Oggi; Tonico Tang Domani; Tonico Tang Tutto il
+
+[[Time|Tempo]].' Presto identificherà un'irrequieta striscia di lettere rosse, rovente
+
+e ribelle, come il detto, 'Datemi la libertà o datemi la [[Death|morte]].' Non
+
+riuscirà a identificarla come l'altrettanto famoso detto, 'Skyoline Ha
+
+Ridotto la Gotta a Brandelli.' Fu perciò che desiderai il contadino
+
+camminasse giù per quel boschetto d'alberi di fuoco, sotto tutto quel dorato fogliame,
+
+e frutti come mostruosi gioielli, [[Innocent|innocente]] come Adamo prima della Caduta.
+
+Vedrebbe visioni quasi belle quanto la [[Sword|spada]] fiammeggiante o il purpureo
+
+e pavonesco piumaggio dei serafini; purché non s'avvicinasse all'
 
 
 
@@ -16990,6 +18724,176 @@ peasant in Bulgaria. I cannot decide this issue, and indeed I did not
 introduce it to this end. I was led to it by a certain line of
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Albero della Conoscenza.
+
+In altre parole, se una volta andasse a scuola sarebbe tutto finito; e in verità
+
+[[Fear|temo]] che in ogni caso scoprirebbe presto il suo errore. Se stesse follemente
+
+sventolando il cappello per la libertà in mezzo alla [[Road|strada]] mentre Chunk Chutney
+
+si delineava in [[Stars|stelle]] di rubino sul cielo, intralcerebbe l'
+
+eccellente ma estremamente rigido sistema di traffico di [[New York]]. Se cadesse in
+
+ginocchio davanti a uno splendore di zaffiro, e cominciasse a dire un'Ave [[Maria]]
+
+per una sbagliata associazione, verrebbe condotto con gentilezza ma con fermezza da
+
+un poliziotto irlandese a un più autentico santuario. Ma per quanto la straniera
+
+semplicità potrebbe non sopravvivere a lungo a [[New York]], è proprio un errore
+
+supporre che tale straniera semplicità non possa entrare a [[New York]]. Egli può essere
+
+escluso per essere analfabeta, ma non può essere escluso per essere
+
+ignorante, né per essere [[Innocent|innocente]]. Meno che mai può essere escluso per
+
+essere più saggio nella sua [[innocence|innocenza]] di quanto il mondo lo sia nel suo sapere. C'è
+
+qui davvero più d'una distinzione da fare. [[New York]] è una
+
+[[City|città]] cosmopolita; ma non è una [[City|città]] di cosmopoliti. La maggior parte delle
+
+masse di [[New York]] ha una nazione, che sia o no la nazione a
+
+cui [[New York]] appartiene. Coloro che sono americanizzati sono americani, e
+
+molto patriotticamente americani. Coloro che non sono così nazionalizzati non sono
+
+affatto internazionalizzati. Semplicemente continuano a essere se stessi;
+
+gli Irlandesi sono irlandesi; gli Ebrei sono ebrei; e ogni sorta d'altre tribù
+
+porta avanti le tradizioni di remote valli europee quasi intatte. In
+
+breve, c'è una sorta di esile ponte fra il loro vecchio paese e il
+
+nuovo, che essi o [[Cross|attraversano]] o non [[Cross|attraversano]], ma che
+
+di rado semplicemente occupano. Sono esuli o sono cittadini; non c'è
+
+momento in cui siano cosmopoliti. Ma assai spesso gli esuli portano con
+
+sé non solo tradizioni radicate, ma verità radicate.
+
+In effetti è in gran parte il pensiero di queste strane anime in
+
+rozza veste americana che dà un significato alla mascherata di [[New York]].
+
+Nell'albergo dove alloggiavo il primo cameriere di una sala era un Boemo;
+
+e sono lieto di dire che si diceva Boemo. Ho già
+
+protestato a sufficienza, davanti a pubblici americani, contro la pedanteria
+
+del parlare perpetuamente di Cecoslovacchia. Suggerii ai miei amici
+
+americani che l'abbandono della parola Boemo nel suo senso storico
+
+potrebbe [[Well|bene]] estendersi al suo senso letterario e figurato. Ci si potrebbe
+
+aspettare che dicessimo, 'Temo che Henry abbia preso di recente abitudini assai
+
+cecoslovacche,' o 'Non disturbarti a vestirti in gala; è una faccenda del tutto
+
+cecoslovacca.' Comunque il mio Boemo non voleva saperne di simili sciocchezze;
+
+si diceva figlio della Boemia, e come tale parlava nelle sue critiche
+
+all'[[America]], che erano tanto favorevoli quanto sfavorevoli. Era un uomo tarchiato,
+
+di figura robusta e sorriso saldo; e i suoi occhi erano come
+
+pozze scure nella profondità di una foresta più scura, ma non credo che egli
+
+fosse mai stato ingannato dalle luci di Broadway.
+
+Ma trovai qualcosa come il mio vero [[Innocent|innocente]] all'estero, il mio vero contadino
+
+fra le insegne del cielo, in un'altra parte dello stesso stabilimento. Era un uomo
+
+assai più magro, egualmente scuro, con un naso adunco, viso affamato, e feroci
+
+baffi neri. Anch'egli era cameriere, e portava il costume da
+
+cameriere, che è un'edizione più elegante del costume da conferenziere. Mentre mi
+
+serviva la zuppa di vongole o qualcosa del genere, attaccai discorso
+
+con lui ed egli mi disse d'essere un Bulgaro. Dissi qualcosa come, 'Temo
+
+di non sapere sulla Bulgaria quanto dovrei. Suppongo che la maggior parte
+
+della vostra gente sia agricola, non è vero?' Non si scostò d'un pollice
+
+dal suo abituale contegno, ma abbassò lievemente la sua bassa voce e
+
+disse, 'Sì. Dalla terra veniamo e alla terra torniamo; quando
+
+la gente si allontana da questo è perduta.'
+
+Udire una cosa simile detta dal cameriere fu [[Alone|da solo]] un'epoca nella vita
+
+d'uno sventurato scrittore di romanzi fantastici. Vederlo sparecchiare la
+
+zuppa di vongole come un automa, e portarmi altra [[Water|acqua]] ghiacciata come un
+
+automa o come nulla al mondo tranne un cameriere americano (poiché ammucchiare
+
+ghiaccio è la fredda passione della loro vita), e tutto ciò dopo aver
+
+proferito qualcosa di così scuro e profondo, così crudamente incongruo e così
+
+sorprendentemente vero, fu cosa indescrivibile, ma assai simile all'immagine
+
+del contadino che ammira Broadway. Così egli passò, coi suoi artificiali
+
+abiti e modi, illuminato da tutta la spettrale luce artificiale dell'
+
+albergo, e da tutta la spettrale vita artificiale della [[City|città]]; e il suo cuore
+
+era come la sua remota e rocciosa valle, dove quelle immutabili parole
+
+erano scolpite come su una roccia.
+
+Non pretendo di discutere qui in modo adeguato la questione che questo
+
+solleva sull'[[americanisation|americanizzazione]] del Bulgaro. Ha molti aspetti, di
+
+alcuni dei quali la maggior parte degli Inglesi e persino alcuni Americani sono piuttosto
+
+inconsapevoli. Tanto per cominciare, un uomo con una così rude lealtà alla terra non poteva
+
+essere americanizzato a [[New York]]; ma non è così certo che egli non potesse
+
+essere americanizzato in [[America]]. Potremmo quasi dire che un contadiname è
+
+nascosto nel cuore dell'[[America]]. Per quanto giungono le nostre impressioni, è un
+
+segreto. È piuttosto un segreto di Pulcinella; che copre solo qualche migliaio di miglia
+
+quadrate d'aperta prateria. Ma per la maggior parte dei nostri connazionali è qualcosa di
+
+invisibile, inimmaginato e non visitato; la semplice [[Truth|verità]] che dove sono tutti
+
+quegli acri c'è agricoltura, e dove è tutta quell'agricoltura
+
+c'è considerevole tendenza verso una proprietà distributiva o decentemente
+
+equalizzata, come in un contadiname. D'altra parte, ci sono
+
+quanti dicono che il Bulgaro non sarà mai americanizzato, che egli viene solo
+
+a fare il cameriere in [[America]] per potersi permettere di tornare a fare il
+
+contadino in Bulgaria. Non posso decidere questa questione, e in verità non l'ho
+
+introdotta a questo fine. Vi fui condotto da una certa linea di
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_12" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 12)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -17157,6 +19061,170 @@ him also colour is symbolic. But where he sets up a candle to light the
 
 little shrine of St. Joseph, he finds it takes twelve hundred candles to
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+riflessione che corre lungo la Great White Way, e continuerò a
+
+seguirla. La critica, se sapessimo formularla nel modo giusto, non copre soltanto
+
+più di [[New York]] ma più dell'intero Nuovo Mondo. Qualunque argomento
+
+contro di essa vale altrettanto contro le città più grandi e ricche
+
+del Vecchio Mondo, contro [[London|Londra]] o Liverpool o Francoforte o Belfast. Ma
+
+è a [[New York]] che vediamo l'argomento più chiaramente, perché vediamo
+
+la cosa svettare così nelle proprie torri e prorompere nei propri
+
+fuochi d'artificio.
+
+Non condivido la condanna estetica della moderna [[City|città]] con i suoi
+
+grattacieli e le sue insegne luminose. Intendo quella che lamenta la perdita della [[Beauty|bellezza]]
+
+e il suo sacrificio all'utilità. Mi sembra l'esatto contrario della
+
+[[Truth|verità]]. Anni fa, quando si diceva che l'Esercito della Salvezza aveva senza dubbio
+
+buone intenzioni, ma che tutti dovevamo deplorarne i metodi, io facevo notare
+
+che è vero proprio il contrario. Il suo metodo, il metodo dei tamburi e
+
+dell'appello democratico, è quello dei Francescani o di qualsiasi altra marcia della
+
+Chiesa Militante. Erano precisamente i suoi fini a essere dubbi, con la loro
+
+[[morality|moralità]] dissenziente e la loro finanza dispotica. È un po' lo stesso con
+
+cose come le insegne luminose di Broadway. L'esteta non deve chiedermi di
+
+mescolare le mie [[Tears|lacrime]] alle sue, perché queste cose sono soltanto utili e
+
+brutte. Perché non sono particolarmente incline a ritenerle brutte; ma sono
+
+fortemente incline a ritenerle inutili. Come questione d'arte per l'arte,
+
+mi paiono piuttosto artistiche. Come forma di pratico lavoro sociale
+
+mi paiono puro, stupido spreco. Se il signor Bilge è tanto ricco da
+
+erigere una torre alta quattrocento piedi e darle una [[Crown|corona]] di falci
+
+dorate e [[Stars|stelle]] cremisi, per attirare l'attenzione sulla sua
+
+fabbricazione del Dentifricio Paradiso o del Sigaro Settimo Cielo, io
+
+non provo la minima disposizione a ringraziarlo per una qualche seria forma di
+
+servizio sociale. Non ho mai provato il Sigaro Settimo Cielo; anzi un
+
+presentimento mi spinge a credere che scenderò nella [[Dust|polvere]]
+
+senza averlo provato. Ho ogni ragione di [[Doubt|dubitare]] che faccia alcun
+
+bene particolare a chi lo fuma, o alcun bene a chiunque tranne
+
+a chi lo vende. Insomma l'utilità del signor Bilge consiste nell'essere
+
+utile al signor Bilge, e tutto il resto è illusione e sentimentalismo.
+
+Ma poiché so che Bilge è soltanto Bilge, dovrò abbassarmi alla
+
+empietà di dire che il [[Fire|fuoco]] è soltanto [[Fire|fuoco]]? Dovrò bestemmiare le
+
+[[Stars|stelle]] cremisi più di quanto faccia coi tramonti cremisi, o negare che quelle lune siano d'oro
+
+più di quanto lo sia questa erba verde? Se un [[Child|bambino]] vedesse queste luci colorate,
+
+[[Dance|danzerebbe]] con tanto diletto quanto davanti a qualsiasi altro
+
+balocco colorato; ed è dovere di ogni poeta, e persino di ogni critico,
+
+[[Dance|danzare]] in rispettosa [[Imitation|imitazione]] del [[Child|bambino]]. Anzi sono in uno stato d'animo di così
+
+grande simpatia per le luci fatate di questa [[City|città]] da pantomima, che
+
+quasi mi dispiacerebbe veder tornare il [[Sanity|buon senso]] sociale e un senso della proporzione
+
+a spegnerle. [[Fear|Temo]] che il giorno stia sorgendo, e che la piena
+
+luce del giorno della tradizione e dell'antica [[Truth|verità]] stia per porre fine a tutto questo
+
+delizioso [[nightmare|incubo]] di [[New York]] di [[Night|notte]]. Contadini e preti e ogni
+
+sorta di gente pratica e assennata stanno tornando al potere, e
+
+il loro severo realismo potrebbe far avvizzire tutte queste cose belle, inconsistenti,
+
+inutili. Non crederanno nel Sigaro Settimo Cielo, nemmeno
+
+quando lo vedranno splendere come con [[Stars|stelle]] nel settimo cielo. Non
+
+si lasceranno influenzare dalla pubblicità, più di quanto i preti e
+
+i contadini del Medioevo si sarebbero lasciati influenzare dalla pubblicità.
+
+Soltanto una generazione di uomini molto sciocca, sentimentale, e piuttosto servile
+
+potrebbe mai lasciarsi influenzare dalla pubblicità. Chi è
+
+un po' più concreto, spiritoso, e intellettualmente indipendente, coglie
+
+la battuta piuttosto semplice; e non si lascia impressionare da questa o da qualsiasi altra forma
+
+di [[Self|auto]]-elogio. Quasi ogni altro uomo in quasi ogni altra epoca avrebbe
+
+colto la battuta. Se aveste detto a un uomo dell'Età della Pietra, 'Ugg dice che Ugg
+
+fa le migliori asce di pietra,' egli avrebbe percepito una mancanza di
+
+distacco e disinteresse in quella testimonianza. Se aveste detto
+
+a un contadino medievale, 'Robert l'Arciere proclama, con tre squilli
+
+di corno, che fa buoni archi,' il contadino avrebbe detto, '[[Well|Beh]],
+
+certo che li fa,' e avrebbe pensato a qualcosa di più importante. È
+
+soltanto tra gente la cui mente è stata indebolita da una sorta di [[Mesmerism|mesmerismo]]
+
+che un trucco tanto trasparente come quello della pubblicità abbia mai potuto
+
+essere tentato. E se mai avremo di nuovo, come per altre ragioni non
+
+posso che [[Hope|sperare]] avremo, una distribuzione più democratica della proprietà e
+
+una base più agricola della vita nazionale, sembrerebbe a prima vista
+
+fin troppo probabile che tutta questa bella superstizione perisca, e
+
+che il paese delle fate di Broadway con tutti i suoi vari arcobaleni svanisca. Per
+
+tale gente il Sigaro Settimo Cielo, come la [[City|città]] ottocentesca,
+
+sarà finito in fumo. E persino il suo fumo sarà svanito.
+
+Ma lo stadio successivo della riflessione ci riporta al contadino che guarda
+
+le luci di Broadway. Non è vero, in senso stretto,
+
+che il contadino non abbia mai visto simili cose prima. La [[Truth|verità]] è che le ha
+
+viste su scala molto più piccola, ma per uno scopo molto più grande.
+
+Anche i contadini hanno il loro rituale e ornamento, ma è per adornare cose più
+
+reali. A parte la nostra prima fantasia sul contadino che non sapeva
+
+leggere, non c'è alcun [[Doubt|dubbio]] su ciò che apparirebbe a un contadino che
+
+sapesse leggere, e sapesse comprendere. Anche per lui il [[Fire|fuoco]] è sacro, per
+
+lui anche il colore è simbolico. Ma là dove egli accende una candela per illuminare il
+
+piccolo sacrario di San Giuseppe, scopre che ci vogliono milleduecento candele per
 
 
 
@@ -17334,6 +19402,178 @@ earth the most undemocratic. [[America]] is not [[Alone|alone]] in possessing th
 industrialism, but she is [[Alone|alone]] in emphasising the ideal that strives
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+illuminare il Sigaro Settimo Cielo. È abituato ai colori nelle vetrate
+
+delle chiese, rosso per i martiri o azzurro per le madonne; ma qui non può
+
+che concludere che tutti i colori dell'arcobaleno appartengono al signor Bilge.
+
+Ora sul versante estetico potrebbe [[Well|ben]] restare impressionato; ma è
+
+esattamente sul versante sociale e persino scientifico che ha il diritto di
+
+criticare. Se fosse un contadino cinese, per esempio, e venisse da una
+
+terra di fuochi d'artificio, supporrebbe naturalmente di essere per caso
+
+arrivato a un grande spettacolo pirotecnico in celebrazione di qualcosa; forse
+
+il compleanno del Sacro Imperatore, o piuttosto la sua notte natale. A poco a poco
+
+[[Dawn|albeggerebbe]] nel filosofo cinese che l'Imperatore non poteva certo nascere
+
+ogni [[Night|notte]]. E quando apprendesse la [[Truth|verità]] il filosofo, se era un
+
+filosofo, resterebbe un po' deluso ... forse un po'
+
+sdegnoso.
+
+Si confrontino, per esempio, questi fuochi d'artificio eterni con i mortaretti umidi
+
+e i falò morenti del Guy Fawkes Day. Quella bizzarra e persino strana
+
+festa nazionale va da qualche [[Time|tempo]] svanendo dalla vita inglese.
+
+Eppure era una festa nazionale, nel [[Double|duplice]] senso che
+
+rappresentava una sorta di spirito pubblico animato da una sorta di impulso
+
+popolare. La gente spendeva denaro nello spettacolo dei fuochi; non ne
+
+ricavava denaro. E chi spendeva denaro era spesso chi ne aveva
+
+pochissimo da spendere. Aveva qualcosa del glorioso e
+
+fanatico carattere di rendere il povero più povero. Non aveva, come le
+
+pubblicità, soltanto il gretto e materialistico carattere di rendere
+
+il ricco più ricco. Insomma, veniva dal popolo e si rivolgeva
+
+alla nazione. La causa storica e religiosa in cui ebbe origine non è
+
+la mia; e credo che sia perita in parte per essere legata a una
+
+teoria storica che non ha futuro. Credo che ciò sia
+
+illustrato dal fatto stesso che il cerimoniale è meramente negativo e
+
+distruttivo. La negazione e la distruzione sono cose nobilissime nella misura in cui
+
+vanno, e quando vanno nella direzione giusta; e la loro espressione
+
+popolare ha sempre qualcosa di caloroso e umano. Non
+
+porterò dunque alcuna critica fine o schizzinosa, letteraria
+
+o musicale, contro i ragazzini che trascinano in giro un
+
+cuscino e una maschera di carta, gridando
+
+     Guy Fawkes Guy
+
+     Colpiscilo nell'occhio.
+
+Ma ammetto che è uno svantaggio non avere un santo o un [[Hero|eroe]] da
+
+[[Crown|incoronare]] in effigie [[Well|tanto]] quanto un traditore da bruciare in effigie. Ammetto che
+
+il Protestantesimo popolare è diventato troppo puramente negativo perché si possano
+
+cingere di [[Flowers|fiori]] la statua del signor Kensit o persino del dottor [[Clifford]]. Non
+
+nascondo la mia preferenza per il Cattolicesimo popolare; che ha ancora
+
+statue che possono essere cinte di [[Flowers|fiori]]. Vorrei che la nostra festa nazionale di
+
+fuochi d'artificio ruotasse intorno a qualcosa di positivo e popolare. Vorrei che la
+
+[[Beauty|bellezza]] di una [[Wheel|ruota di Caterina]] fosse esibita alla gloria di Santa
+
+Caterina. Non mi lamenterei particolarmente se le candele romane fossero davvero
+
+candele romane. Ma questo carattere negativo non distrugge il carattere
+
+nazionale; che cominciò almeno in una [[Faith|fede]] disinteressata ed è finito
+
+almeno in un divertimento disinteressato. Non c'è nulla di disinteressato
+
+nei nuovi fuochi d'artificio commerciali. Non c'è nulla di così dignitoso come un lercio
+
+guy tra le luci di Broadway. In quella via, anzi, la stessa
+
+parola guy ha un altro e più mite significato. Un amico americano
+
+si congratulò con me per l'impressione che avevo prodotto su una intervistatrice,
+
+osservando, 'Dice che sei un regular guy.' Questo mi lasciò un po' perplesso
+
+sul [[Time|momento]]. 'La sua descrizione è senza [[Doubt|dubbio]] corretta,' dissi, 'ma confesso
+
+che non mi sarebbe mai parsa particolarmente lusinghiera.' Ma
+
+pare che sia uno dei più garbati complimenti, nell'
+
+originale americano. Un guy in [[America]] è un termine incolore per un essere
+
+umano. Tutti gli uomini sono guys, dotati dal loro Creatore di certi ...
+
+ma mi lascio sviare da un'altra associazione. E un regular guy significa,
+
+presumo, un guy affidabile o rispettabile. Il punto qui, tuttavia, è che
+
+il guy nel senso inglese [[Grotesque|grottesco]] rappresenta davvero il residuo
+
+malandato di una reale tradizione umana di simboleggiare reali ideali storici mediante
+
+il mistero sacramentale del [[Fire|fuoco]]. È una gran caduta dal più basso di
+
+questi umili falò al più alto delle moderne insegne luminose. La nuova
+
+illuminazione non sta affatto per alcun ideale nazionale; e ciò che è
+
+ancor più al punto, non nasce affatto da alcun entusiasmo
+
+popolare. Qui sta la differenza dal più angusto Protestantesimo nazionale
+
+dell'istituzione inglese. Le folle sono insorte a sostegno del No Popery; nessuna
+
+folla è probabile che insorga in difesa della New Puffery. Molti poveri pazzi
+
+Orangisti sono morti dicendo, 'Al diavolo il Papa'; è dubbio
+
+che alcun uomo mai, col suo ultimo respiro, formi le estatiche
+
+parole, 'Provate la Gomma da masticare Hugby.' Queste moderne e mercantili leggende
+
+ci sono imposte da una minoranza mercantile, e noi siamo meramente passivi
+
+alla suggestione. L'ipnotizzatore dell'alta finanza o dei grandi affari si limita a
+
+scrivere i suoi comandi nel cielo con un dito di [[Fire|fuoco]]. Tutti gli uomini sono davvero
+
+guys, nel senso di fantocci. Siamo solo le vittime della sua
+
+violenza pirotecnica; ed è lui che ci colpisce nell'occhio.
+
+Questa è la vera accusa contro quella società moderna che è simboleggiata da
+
+tale arte e architettura. Non è che stia crollando, ma che è
+
+sovraccarica in cima. Non è che sia volgare, ma piuttosto che non è
+
+popolare. In altre parole, l'ideale democratico di paesi come l'[[America]],
+
+pur essendo ancora in genere sincero e talora intenso, è in contrasto
+
+con un'altra tendenza, un progresso industriale che è la più antidemocratica
+
+di tutte le cose sulla terra. L'[[America]] non è [[Alone|sola]] nel possedere
+
+l'industrialismo, ma è [[Alone|sola]] nel dare risalto all'ideale che lotta
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_14" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 14)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -17509,6 +19749,178 @@ some testimony to its vivid importance that it was really the first I
 
 had to discuss on American soil with an American citizen. In a [[Double|double]]
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+con l'industrialismo. Il capitalismo industriale e la [[Democracy|democrazia]] ideale sono
+
+ovunque in controversia; ma forse solo qui sono in conflitto.
+
+La Francia ha un ideale democratico; ma la Francia non è industriale. L'Inghilterra e la
+
+[[Germany|Germania]] sono industriali; ma l'Inghilterra e la [[Germany|Germania]] non sono davvero
+
+democratiche. Naturalmente, quando parlo qui di industrialismo parlo di
+
+grandi aree industriali; c'è, come si noterà più avanti, un altro lato
+
+in tutti questi paesi; c'è nell'[[America]] stessa non solo una gran quantità
+
+di società agricola, ma una gran quantità di uguaglianza agricola;
+
+proprio come ci sono ancora contadini in [[Germany|Germania]] e un giorno potranno di nuovo esserci
+
+contadini in Inghilterra. Ma il punto è che l'ideale e il suo nemico, la
+
+realtà, sono qui schiacciati vicinissimi l'uno all'altro nell'alta, angusta
+
+[[City|città]]; e che il grattacielo è ben chiamato così perché la sua cima, torreggiante
+
+in tale insolenza, sta raschiando via le [[Stars|stelle]] dal cielo americano, il vero
+
+cielo dello spirito americano.
+
+Questo mi pare il tratto principale dell'intero problema. Nel primo
+
+capitolo di questo libro, ho sottolineato il fatto che l'uguaglianza è ancora
+
+l'ideale, benché non più la realtà dell'[[America]]. Vorrei
+
+concludere questo sottolineando il fatto che la realtà del moderno
+
+capitalismo sta minacciando quell'ideale con terrori e persino splendori che
+
+potrebbero [[Well|ben]] sconvolgere il vacillante e impressionabile spirito moderno. Dall'
+
+esito di quella lotta dipende la questione se questa nuova
+
+grande civiltà continuerà a esistere, e persino se a qualcuno importi che
+
+esista o no. Ho già usato la [[Parable|parabola]] della [[Flag|bandiera]] americana,
+
+e delle [[Stars|stelle]] che stanno per una moltitudinaria uguaglianza; potrei qui prendere
+
+il simbolo opposto di queste [[Stars|stelle]] artificiali e terrestri fiammeggianti sulla
+
+fronte della [[City|città]] commerciale; e notare il pericolo dell'ultima
+
+illusione, che è che le [[Stars|stelle]] artificiali possano sembrare riempire i
+
+cieli, e le vere [[Stars|stelle]] essere svanite dalla vista. Ma per il momento mi accontento
+
+di riaffermare il piacere meramente immaginativo di quelle
+
+vertiginose torri e di quei fuochi danzanti. Se quegli edifici da [[nightmare|incubo]] fossero
+
+stati davvero costruiti per nulla, come sarebbero nobili! Il fatto che
+
+siano stati davvero costruiti per qualcosa non deve deprimerci indebitamente per un
+
+momento, né trascinare in basso le nostre fantasie che si librano. C'è qualcosa in queste
+
+linee verticali che suggerisce una sorta di slancio verso l'alto, come di grandi
+
+cateratte capovolte. Ho parlato di fuochi d'artificio, ma qui dovrei
+
+piuttosto parlare di razzi. C'è soltanto qualcosa sotto la mente che
+
+mormora che nulla resta infine di un razzo fiammeggiante tranne un
+
+bastone che cade. Ho parlato di prospettive babilonesi, e di parole
+
+scritte con un dito di fuoco, come quell'enorme dito non umano che scrisse sul
+
+muro di Baldassarre.... Ma cosa scrisse sul muro di Baldassarre?... Mi
+
+accontento ancora una volta di finire su una nota di [[Doubt|dubbio]] e una simpatia piuttosto
+
+oscura per quei sistemi solari dai molti colori che ruotano così vertiginosamente, lassù
+
+nel divino vuoto della [[Night|notte]].
+
+'Dalla terra veniamo e alla terra torniamo; quando la gente si allontana
+
+da questo, si perde.'
+
+_Intervistatori irlandesi e altri_
+
+Ci si chiede spesso quale dovrebbe essere la prima cosa che un uomo vede quando
+
+sbarca in un paese straniero; ma io credo che dovrebbe essere la visione del suo
+
+proprio paese. Almeno quando entrai nel porto di [[New York]], una sorta di nuvola grigia
+
+e verde si frappose tra me e le torri dalle molteplici
+
+finestre, bianche nella luce del sole d'[[Winter|inverno]]; e vidi una vecchia [[house|casa]] bruna
+
+che si ergeva arretrata tra i faggi a [[Home|casa]], la [[house|casa]] di uno soltanto tra
+
+molti amici e vicini, ma uno in qualche modo così sprofondato nel cuore stesso
+
+dell'Inghilterra da essere inconsapevole della sua posizione imperiale o
+
+internazionale, e fuori dal suono dei suoi mari perigliosi. Ma ciò che rese più
+
+chiara la visione che mi tornò fu qualcos'altro. Prima che toccassimo
+
+terra gli uomini della mia stessa corporazione, i giornalisti e i cronisti, avevano già
+
+abbordato la [[Ship|nave]] come pirati. E uno di loro mi parlò con un accento
+
+che conoscevo; e mi ringraziò per tutto ciò che avevo fatto per l'Irlanda. E fu
+
+in quel momento che seppi con più viva chiarezza che ciò che volevo era fare
+
+qualcosa per l'Inghilterra.
+
+Poi, per caso, guardai dall'altra parte verso la statua della Libertà, e vidi
+
+che il grande bronzo luccicava verde nella luce del mattino. Avevo
+
+fatto tutte le battute ovvie sulla statua della Libertà. Trovavo che avesse un
+
+effetto calmante sui ferventi Proibizionisti a bordo insistere, come
+
+punto di dignità e delicatezza, che dovesse essere restituita ai
+
+Francesi, una razza viziosa abbandonata alla coltura della vite. Proposi
+
+che gli ultimi liquori a bordo fossero versati in una libagione pagana
+
+dinanzi a essa. E poi mi ricordai all'improvviso che questa Libertà stava ancora in
+
+un certo senso illuminando il mondo, o una parte del mondo; era una lampada
+
+per una certa specie di vagabondo, una stella per una certa specie di navigante. Per un
+
+popolo perseguitato almeno questa terra era stata davvero un asilo; anche se
+
+la recente legislazione (come ho detto) aveva fatto loro pensare che fosse un
+
+manicomio. L'avevano resa così tanto la loro [[Home|casa]] che il colore stesso del
+
+paese sembrava mutare con l'infusione; come il bronzo della grande
+
+statua assunse una parvenza del verde indossato.
+
+È un luogo comune che l'inglese sia stato stupido nei suoi rapporti
+
+con gli irlandesi; ma è stato assai più stupido nei suoi rapporti con
+
+gli americani sul tema degli irlandesi. La sua propaganda è stata peggiore
+
+della sua pratica; e la sua difesa più sconsiderata delle cose più
+
+indifendibili che era intesa a difendere. C'è in questa
+
+faccenda un curioso groviglio di [[Cross|contro]]propositi, che solo un esempio parallelo
+
+può rendere davvero chiaro. E annoterò il punto qui, perché è
+
+una qualche testimonianza della sua viva importanza il fatto che fu davvero il primo che
+
+dovetti discutere su suolo americano con un cittadino americano. In un [[Double|duplice]]
 
 
 
@@ -17688,6 +20100,180 @@ sympathise with us, if we would say frankly that we [[Fear|fear]] the Irish.
 Those who thus despise our pity might possibly even respect our [[Fear|fear]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+senso toccai l'Irlanda prima di giungere in [[America]]. Prenderò un
+
+esempio immaginario da un'altra controversia; per mostrare come l'
+
+apologia possa essere peggiore dell'azione. Il meglio che possiamo dire di noi stessi
+
+è peggiore del peggio che possiamo fare.
+
+Ci fu un [[Time|tempo]] in cui i poeti inglesi e altri pubblicisti potevano sempre essere
+
+ispirati a un'istantanea indignazione per gli ebrei perseguitati in
+
+[[Russia]]. Ne abbiamo sentito parlare meno da quando abbiamo sentito di più degli
+
+ebrei persecutori in [[Russia]]. [[Fear|Temo]] che ci siano già moltissimi inglesi della classe
+
+media che vorrebbero che Trotsky fosse stato perseguitato un po'
+
+di più. Ma persino in quei giorni gli inglesi dividevano la mente in un curioso
+
+modo; e distinguevano inconsciamente tra gli ebrei che non avevano
+
+mai visto, a Varsavia, e gli ebrei che avevano spesso visto a
+
+Whitechapel. Sembrava si desse per scontato che, per una curiosa coincidenza,
+
+la [[Russia]] possedesse non solo i peggiori Antisemiti ma anche i migliori
+
+Semiti. Un usuraio a [[London|Londra]] poteva essere come Giuda Iscariota; ma un
+
+usuraio a Mosca doveva essere come Giuda Maccabeo.
+
+Ciononostante rimaneva nel nostro senso comune una comprensione inconscia ma
+
+fondamentale dell'[[unity|unità]] di Israele; il senso che alcune
+
+cose si potevano dire, e altre non si potevano dire, sugli ebrei nel loro
+
+insieme. Supponiamo che persino in quei giorni, per non dire di questi, una
+
+protesta inglese contro l'Antisemitismo russo fosse stata risposta dagli
+
+Antisemiti russi, e supponiamo che la risposta fosse stata più o meno la
+
+seguente:--
+
+'Sta tutto molto [[Well|bene]] che gli stranieri si lamentino del nostro negare diritti
+
+civili ai nostri sudditi ebrei; ma noi conosciamo gli ebrei meglio di loro.
+
+Sono un popolo barbaro, del tutto primitivo, e molto simile ai
+
+semplici selvaggi che non sanno contare oltre il cinque sulle dita. È
+
+del tutto impossibile far loro comprendere i numeri ordinari, per non
+
+dire la semplice economia. Non colgono il significato né il
+
+valore del denaro. Nessun ebreo al mondo riesce a ficcarsi nella sua stupida
+
+testa la nozione di un affare, o di scambiare una cosa con un'altra.
+
+La loro disperata incapacità per il commercio o la finanza ritarderebbe il
+
+progresso del nostro popolo, impedirebbe la diffusione di ogni sorta di
+
+[[Education|educazione]] economica, terrebbe l'intero paese a un livello più basso di quello
+
+dei più preistorici metodi di baratto. Ciò di cui la [[Russia]] ha più bisogno è una
+
+classe media mercantile; ed è ingiusto chiederci di sommergerne i piccoli
+
+inizi in migliaia di questi rozzi tribali, che non sanno fare una somma di
+
+semplice addizione, né comprendere il carattere simbolico di una monetina da tre
+
+penny. Tanto [[Well|varrebbe]] chiederci di dare diritti civili a mucche e maiali quanto
+
+a questa infelice razza mezza scema che non sa contare più delle bestie
+
+dei campi. In ogni esercizio intellettuale sono irrimediabilmente
+
+incompetenti; nessun ebreo sa giocare a scacchi; nessun ebreo sa imparare lingue; nessun ebreo
+
+è mai apparso nella minima parte in alcuna rappresentazione teatrale; nessun
+
+ebreo sa dare o ricevere alcun piacere legato ad alcuno strumento musicale.
+
+Questa gente è nostra suddita; e noi la comprendiamo. Ci assumiamo piena
+
+responsabilità di trattare simili trogloditi alle nostre condizioni.'
+
+Non sarebbe del tutto convincente. Suonerebbe un po' forzato
+
+e irreale. Ma suonerebbe esattamente come le nostre affermazioni sugli
+
+irlandesi, come suonano a tutti gli americani, e piuttosto specialmente agli
+
+americani anti-irlandesi. Questa è esattamente l'impressione che produciamo sul
+
+popolo degli Stati Uniti quando diciamo, come in sostanza diciamo,
+
+qualcosa del genere: 'Non vogliamo alcun male ai poveri cari irlandesi, così sognatori,
+
+così irresponsabili, così incapaci di ordine o organizzazione. Se ci
+
+ritirassimo dal loro paese si limiterebbero a combattersi tra loro; non
+
+hanno alcuna nozione di come governarsi. C'è qualcosa di affascinante
+
+nella loro impraticità, nella loro stessa incapacità per il rozzo
+
+mestiere della politica. Ma per il loro stesso bene è impossibile lasciare
+
+questi visionari emotivi a rovinarsi nel tentativo di governare
+
+se stessi. Sono come bambini; ma sono i nostri stessi bambini, e
+
+noi li comprendiamo. Ci assumiamo piena responsabilità di agire da loro
+
+genitori e tutori.'
+
+Ora il punto non è solo che questa visione degli irlandesi è falsa, ma che
+
+è la particolare visione che gli americani sanno essere falsa. Mentre noi
+
+diciamo che gli irlandesi non saprebbero organizzarsi, gli americani si
+
+lamentano, spesso assai amaramente, del potere dell'organizzazione irlandese.
+
+Mentre noi diciamo che l'irlandese non saprebbe governare se stesso, gli americani
+
+dicono, più o meno scherzosamente, che l'irlandese governa loro. Un professore molto
+
+intelligente mi disse a Boston, 'Qui abbiamo risolto il problema
+
+irlandese; abbiamo un [[government|Governo]] irlandese del tutto indipendente.' Mentre
+
+noi ci lamentiamo, in maniera quasi appassionata, dell'impotenza di
+
+mere cricche di idealisti e sognatori, essi si lamentano, spesso in
+
+maniera assai indignata, del potere di grandi bande di capi e
+
+bulli. Ci sono moltissimi americani che compatiscono gli irlandesi, assai
+
+naturalmente e assai giustamente, per lo storico [[Martyrdom|martirio]] che il loro
+
+patriottismo ha sopportato. Ma ci sono moltissimi americani che non
+
+compatiscono affatto gli irlandesi. Sarebbero assai più propensi a compatire gli
+
+inglesi; solo che questo particolare modo di parlare tende piuttosto a far loro
+
+disprezzare gli inglesi. Così tanto gli amici dell'Irlanda quanto i nemici
+
+dell'Irlanda tendono a essere i nemici dell'Inghilterra. Ci facciamo una schiera di nemici con
+
+la nostra azione, e un'altra con la nostra apologia.
+
+È una cosa che di [[Time|tempo]] in [[Time|tempo]] si può trovare nella [[history|storia]]; un
+
+malinteso che ha davvero una morale. La scusa inglese avrebbe
+
+molto più peso se avesse più sincerità e più [[Humility|umiltà]]. C'è
+
+un numero considerevole di persone negli Stati Uniti che potrebbero
+
+simpatizzare con noi, se dicessimo francamente che [[Fear|temiamo]] gli irlandesi.
+
+Chi così disprezza la nostra pietà potrebbe forse persino rispettare la nostra [[Fear|paura]].
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_16" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 16)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -17863,6 +20449,178 @@ something that is somehow at once crazy and healthy. Now the foreigner
 
 commonly sees some feature that he thinks fantastic without seeing the
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'argomento che ho spesso usato in altri luoghi ritorna con
+
+prodigiosa e raddoppiata forza, dopo aver udito qualcosa dell'opinione
+
+americana; l'argomento che l'unica scusa ragionevole o rispettabile per
+
+gli inglesi è la scusa di un patriottico senso di pericolo; e che l'
+
+Unionista, se proprio deve essere Unionista, dovrebbe usare quella e nessun'altra. Quando
+
+l'Unionista ha detto che non osa scatenare contro se stesso un
+
+prigioniero cui ha fatto un torto così crudele, ha detto tutto ciò che ha da dire;
+
+tutto ciò che abbia mai avuto da dire; tutto ciò che avrà mai da dire. È
+
+come un uomo che ha mandato un rivale virile e piuttosto vendicativo ingiustamente
+
+ai lavori forzati; e che è connivente col protrarsi della condanna,
+
+non perché egli stesso sia particolarmente vendicativo, ma perché ha
+
+paura di ciò che il condannato farà quando uscirà di [[Prison|prigione]]. Questa
+
+non è esattamente una forza morale, ma è una debolezza molto umana; e questo
+
+è il massimo che se ne può dire. Ogni altro discorso, sulla frenesia celtica
+
+o la superstizione cattolica, è ipocrisia inventata per ingannare se stesso o per
+
+ingannare il mondo. Ma il punto vitale da cogliere è che è un'ipocrisia
+
+che non può in alcun modo ingannare il mondo americano. In materia di
+
+irlandesi l'americano non si lascia ingannare. Non è soltanto vero
+
+dire che egli ne sa di più. È altrettanto vero dire che ne sa di peggio.
+
+Conosce nell'irlandese vizi e mali del tutto nascosti alla
+
+nebbiosa visione dell'inglese. Sa che le nostre irreali calunnie sono
+
+incoerenti persino coi peccati reali. Per noi l'Irlanda è una nebbiosa Isola del
+
+Tramonto, come Atlantide, su cui possiamo inventare leggende. Per lui è
+
+un vero e proprio rione o parrocchia nel cuore delle sue enormi città, come
+
+Whitechapel; su cui neppure noi possiamo inventare leggende ma solo menzogne. E,
+
+come ho detto, ci sono alcune menzogne che non diciamo nemmeno su
+
+Whitechapel. Non diciamo che è abitata da ebrei troppo stupidi per contare
+
+o conoscere il valore di una moneta.
+
+La prima cosa che ogni onesto inglese dovrebbe mandare al di là del mare è
+
+questa; che gli inglesi non hanno la minima [[Shadow|ombra]] di idea di ciò con cui hanno
+
+a che fare in [[America]]. Non hanno mai nemmeno sentito parlare delle batterie di
+
+energia quasi brutale, di cui avevo così toccato un filo scoperto persino
+
+prima di sbarcare. La gente parla dell'ipocrisia dell'Inghilterra nel trattare
+
+con una piccola nazionalità. Ciò che mi colpisce è la stupidità dell'Inghilterra nel
+
+supporre di avere a che fare con una piccola nazionalità; quando in realtà
+
+ha a che fare con una nazionalità molto grande. Ha a che fare con una
+
+nazionalità che spesso minaccia, persino numericamente, di dominare tutte le
+
+altre nazionalità degli Stati Uniti. Gli irlandesi non stanno decadendo;
+
+non sono impratici; non sono quasi nemmeno dispersi; non sono
+
+nemmeno poveri. Sono la più potente e pratica combinazione mondiale
+
+con cui possiamo decidere di essere amici o nemici; ed ecco perché pensai
+
+per prima cosa a quella quieta e solida [[house|casa]] bruna nel Buckinghamshire, che si ergeva
+
+arretrata nell'[[Shadow|ombra]] degli alberi.
+
+Tra le mie impressioni dell'[[America]] ho deliberatamente messo per prima la figura
+
+dell'intervistatore irlandese-americano, ritto sulla riva più simbolico
+
+della statua della Libertà. L'importanza dell'intervistatore irlandese per gli
+
+inglesi stava nel fatto che era irlandese, ma c'era anche
+
+considerevole interesse nella circostanza che fosse un intervistatore.
+
+E come certi [[Birds|uccelli]] selvatici talvolta si spingono in volo lontano al largo e
+
+sono il primo segnale della riva, così i primi americani che il viaggiatore
+
+incontra sono spesso intervistatori americani; e sono in genere [[Birds|uccelli]] dello stesso
+
+piumaggio, e di certo volano in stormo. A questo riguardo, c'è una
+
+lieve differenza nell'etichetta del mestiere nei due paesi,
+
+che fui lieto di discutere coi miei colleghi d'arte. Se in
+
+quel momento avessi potuto volare indietro a Fleet Street sono felice di riflettere che
+
+nessuno al mondo desidererebbe minimamente intervistarmi. Non
+
+attirerei più attenzione del grifone di pietra di fronte al Palazzo di
+
+Giustizia; entrambi i mostri essendo [[Grotesque|grotteschi]] ma anche familiari. Ma supponendo
+
+per amor di discussione che qualcuno volesse davvero intervistarmi, è
+
+abbastanza certo che il fatto che un giornale pubblicasse una tale intervista
+
+impedirebbe piuttosto agli altri giornali di farlo. La ripetizione delle
+
+stesse opinioni dello stesso individuo in due luoghi sarebbe considerata
+
+un giornalismo piuttosto scadente; avrebbe un'aria di tuono rubato, per non
+
+dire di tuono da palcoscenico.
+
+Ma in [[America]] il fatto del mio sbarco e delle mie conferenze era evidentemente
+
+considerato nella stessa luce di un omicidio o di un grande [[Fire|incendio]], o di qualsiasi altra
+
+terribile ma incurabile catastrofe, una faccenda d'interesse per tutti i giornalisti
+
+che si occupano di eventi pratici. Una delle prime domande che mi furono poste
+
+fu come fossi disposto a spiegare l'ondata di crimini a [[New York]].
+
+Naturalmente risposi che poteva forse essere dovuta al numero di
+
+conferenzieri inglesi sbarcati di recente. Nell'umore del momento
+
+sembrava possibile che, se fossero stati tutti intervistati, deprecabili
+
+incidenti avrebbero forse potuto aver luogo. Ma questo era solo l'umore del
+
+momento, e persino come umore non durò più di un momento. E
+
+poiché ha attinenza con una concezione piuttosto comune e piuttosto ingiusta
+
+del giornalismo americano, credo sia [[Well|bene]] prenderla anzitutto come una fallacia da
+
+confutare, benché la confutazione possa richiedere un approccio piuttosto più lungo.
+
+Ho generalmente trovato che il viaggiatore non riesce a comprendere un paese
+
+straniero, trattandolo come una tendenza e non come un equilibrio. Ma se
+
+una cosa tendesse sempre in una sola direzione, tenderebbe presto alla
+
+distruzione. Tutto ciò che meramente progredisce alla fine perisce. Ogni
+
+nazione, come ogni famiglia, esiste su un compromesso, e comunemente un
+
+compromesso piuttosto eccentrico; usando la parola 'eccentrico' nel senso di
+
+qualcosa che è in qualche modo insieme folle e sano. Ora lo straniero
+
+comunemente vede qualche tratto che gli pare fantastico senza vedere il
 
 
 
@@ -18040,6 +20798,178 @@ hardly even live, and were already dying.
 All this moral and even metaphysical generalisation was most fairly and
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+tratto che lo bilancia. Gli esempi ordinari sono abbastanza ovvi. Un
+
+inglese che pranza dentro un albergo sui boulevard trova i francesi
+
+eccentrici nel rifiutarsi di aprire una [[Window|finestra]]. Ma non trova gli
+
+inglesi eccentrici nel rifiutarsi di portare sedie e tavoli fuori sul
+
+marciapiede a Ludgate Circus. Un inglese va a curiosare in
+
+piccoli villaggi svizzeri o italiani, tra selvagge [[Mountains|montagne]] o in remote
+
+isole, esigendo tè; e non riflette mai di essere come un cinese
+
+che entrasse in tutte le osterie di strada nel [[Kent]] e nel Sussex ed
+
+esigesse oppio. Ma il punto non è soltanto che esige ciò di cui non può
+
+aspettarsi di godere; è che ignora persino ciò di cui gode. Non
+
+coglie il [[Sublime|sublime]] e stellato [[Paradox|paradosso]] della locuzione, _vin
+
+ordinaire_, che per lui dovrebbe essere una gloriosa facezia come la frase
+
+'oro comune' o 'diamanti quotidiani.' Questi sono i semplici e [[Self|auto]]evidenti
+
+casi; ma ci sono molti casi più sottili della stessa cosa; della
+
+tendenza a vedere che la nazione colma la propria lacuna con il proprio
+
+surrogato; o corregge la propria stravaganza con la propria precauzione.
+
+L'antidoto nazionale generalmente cresce spontaneo nei boschi fianco a fianco
+
+col [[Poison|veleno]] nazionale. Se non fosse così, tutti i nativi sarebbero morti.
+
+Perché è così, come ho detto, che le nazioni muoiono necessariamente del
+
+[[Poison|veleno]] non diluito chiamato progresso.
+
+È così in questo tanto abusato e sovra-abusato esempio del
+
+giornalista americano. Gli intervistatori americani hanno davvero maniere estremamente
+
+buone ai fini del loro mestiere, ammesso che sia necessario
+
+esercitare il loro mestiere. E persino ciò che si chiama il loro metodo sbrigativo si può
+
+davvero dire che taglia da entrambe le parti, o sbriga da entrambe le parti; perché se sbrigano
+
+l'entrata, sbrigano anche l'uscita. Può non sembrare a prima vista il
+
+più caloroso dei complimenti a un gentiluomo congratularsi con lui del fatto che
+
+se ne va presto. Ma è davvero un tributo alla sua perfezione in una
+
+arte sociale delicatissima; e dico sul serio quando dico che sotto questo
+
+aspetto gli intervistatori sono artisti. Potrebbe essere più difficile per un
+
+inglese venire al punto, in particolare quel genere di punto a cui
+
+i giornalisti americani si suppone, con qualche esagerazione, mirino. Potrebbe
+
+essere più difficile per un inglese chiedere a un perfetto sconosciuto su due
+
+piedi l'esatta [[Inscription|iscrizione]] sulla [[Grave|tomba]] di sua madre; ma
+
+credo davvero che se un inglese arrivasse una volta a tanto andrebbe
+
+molto più lontano, e di certo continuerebbe molto più a lungo. L'inglese
+
+si avvicinerebbe al camposanto per un sentiero boschivo piuttosto più tortuoso;
+
+ma se una volta fosse arrivato alla [[Grave|tomba]] credo che avrebbe molta più
+
+disposizione, per così dire, a sedervisi sopra. Il nostro stesso temperamento
+
+nazionale troverebbe decisamente più difficile staccarsi quando
+
+le connessioni fossero davvero state stabilite. Forse è questa la ragione per cui
+
+il nostro temperamento nazionale non le stabilisce. Sospetto che la
+
+vera ragione per cui un inglese non parla sia che non riesce a smettere di
+
+parlare. Sospetto che i miei solitari connazionali, nascosti in separati
+
+scompartimenti ferroviari, non tanto si ritirino come una razza di Trappisti quanto
+
+sfuggano a una razza di chiacchieroni.
+
+Comunque sia, c'è ovviamente qualcosa di pratico vantaggio
+
+nella facilità con cui la farfalla americana svolazza di fiore in
+
+fiore. Egli può in un certo senso imporci la sua conoscenza, ma non
+
+impone se stesso a noi. Persino quando, per i nostri pregiudizi, sembra insistere nel
+
+conoscerci, almeno non insiste perché noi conosciamo lui. Può essere,
+
+per certe sensibilità, una brutta cosa che un perfetto sconosciuto parli come
+
+se fosse un amico, ma potrebbe forse essere peggio se insistesse nell'
+
+essere un amico prima di parlare come tale. A gran parte dell'
+
+intervistare, anzi la parte di gran lunga maggiore, persino questa critica
+
+non si applica; non c'è nulla che persino un inglese di estrema
+
+sensibilità potrebbe considerare particolarmente privato; le questioni in gioco
+
+sono generalmente del tutto pubbliche, e trattate con non poco spirito
+
+pubblico. Ma la mia sola ragione per dire qui ciò che si può dire persino per le
+
+peggiori eccezioni è additare questo principio generale e trascurato;
+
+che proprio la cosa di cui ci lamentiamo in uno straniero generalmente porta
+
+con sé la propria cura straniera. L'intervistare americano è generalmente molto
+
+ragionevole, ed è sempre molto rapido. E persino coloro per i quali parlare
+
+a un'intelligente creatura simile è orribile quanto farsi cavare un dente
+
+possono ancora ammettere che l'intervistare americano ha molte delle qualità dell'
+
+odontoiatria americana.
+
+Un altro effetto che ha dato origine a questa fallacia, questa esagerazione della
+
+volgarità e curiosità della stampa, è la distinzione tra gli
+
+articoli e i titoli; o piuttosto la tendenza a ignorare quella
+
+distinzione. Le poche cose davvero false e senza scrupoli che ho visto
+
+nelle 'storie' americane sono sempre state nei titoli. E i
+
+titoli sono scritti da qualcun altro; qualche solitario e feroce cinico
+
+rinchiuso nell'ufficio, che odia tutta l'umanità, e infuria e si vendica
+
+a casaccio, mentre il giornalista lindo, cortese e razionale può
+
+essere lasciato tranquillamente libero di vagare per la città.
+
+Per esempio, parlai con due colleghi giornalisti decisamente riflessivi
+
+immediatamente al mio arrivo in una città in cui c'erano stati alcuni disordini
+
+operai. Esposi loro la mia visione generale del Lavoro nel più ampio e
+
+forse più vago profilo storico; facendo notare che la sola grande
+
+[[Truth|verità]] da insegnare alle classi medie era che il Capitalismo era esso stesso
+
+una crisi, e una crisi passeggera; che non era tanto che stesse
+
+crollando quanto che non si era mai davvero retto in piedi. Le schiavitù potevano
+
+durare, e le società contadine potevano durare; ma le comunità salariate potevano
+
+a stento persino vivere, e stavano già morendo.
+
+Tutta questa generalizzazione morale e persino metafisica fu resa in modo più giusto e
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_18" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 18)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -18213,6 +21143,176 @@ pressman, who is a harmless clubman in private, and becomes a sort of
 
 highway-robber in print.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+e più fedelmente riprodotta dall'intervistatore, che l'aveva effettivamente udita
+
+pronunciare casualmente e oziosamente. Ma in cima a questa colonna di
+
+[[philosophy|filosofia]] politica campeggiava lo straordinario annuncio in lettere enormi,
+
+'Chesterton Prende Posizione nello Sciopero dei Tram.' Questo era inesatto. Quando
+
+parlai non solo non sapevo che ci fosse alcuno sciopero dei tram, ma
+
+non sapevo cosa fosse uno sciopero dei tram. Avrei avuto un'indistinta
+
+idea che un gran numero di cittadini si guadagnasse da vivere trasportando
+
+cose in giro su carriole a [[Wheel|ruota]], e che avessero desistito dalle
+
+benefiche attività. Chiunque non fosse per caso un giornalista, o non
+
+sapesse un po' di giornalismo, americano e inglese, avrebbe
+
+supposto che lo stesso uomo che scrisse l'articolo fosse d'improvviso impazzito
+
+e avesse scritto il titolo. Ma so che abbiamo qui a che fare con due
+
+tipi diversi di giornalisti; e l'uomo che scrive i titoli non
+
+oserò descrivere; poiché non l'ho visto se non in [[Dreams|sogno]].
+
+Un'altra [[Innocent|innocente]] complicazione è che l'intervistatore talvolta
+
+traduce le cose nella propria lingua madre. Non sembrerebbe strano che un
+
+intervistatore francese le traducesse in francese; ed è certo
+
+che l'intervistatore americano talvolta le traduce in americano.
+
+Chi immagina che le due lingue siano la stessa è più [[Innocent|innocente]]
+
+di qualsiasi intervistatore. Per prendere uno dei venti esempi, alcuni dei
+
+quali ho menzionato altrove, supponiamo che un intervistatore avesse detto che io
+
+avevo la reputazione di essere un nut. Sarei lusingato ma lievemente
+
+sorpreso da un simile tributo al mio abbigliamento e al mio brillante aspetto esteriore. Sarei
+
+poi rinsavito e illuminato scoprendo che in [[America]] un
+
+nut non significa un dandy ma una persona difettosa o imbecille. E poiché
+
+devo qui tradurre la loro frase americana in inglese, può essere
+
+assai difendibile che essi traducano le mie frasi inglesi in
+
+americano. Comunque sia, spesso le traducono davvero in americano. In risposta
+
+alla solita domanda sul Proibizionismo avevo dato la solita risposta,
+
+ovvia fino alla noia per chi è in contatto quotidiano con
+
+esso, che è una legge che i ricchi fanno sapendo di poterla sempre
+
+infrangere. Dall'intervista stampata risultava che io avessi detto,
+
+'Proibizionismo! Tutta questione di dollar sign.' Questa è quasi dichiarata
+
+[[Translation|traduzione]], come una [[Translation|traduzione]] francese. Nessuno può supporre che venga
+
+naturale a un inglese parlare di un dollaro, ancor meno di un
+
+dollar sign--qualunque cosa esso sia. È esattamente come se mi avesse fatto
+
+parlare del Teatrino di Cartone Skelt e Stevenson come 'un cent semplice, e due
+
+cent colorato' o condannato una politica parsimoniosa come saggia sui dime e
+
+sciocca sui dollari. Un altro intervistatore una volta mi chiese chi fosse il più grande
+
+scrittore americano. Ho dimenticato esattamente cosa dissi, ma dopo
+
+aver menzionato diversi nomi, dissi che il più grande genio naturale e la più grande
+
+forza artistica era probabilmente Walt Whitman. L'intervista stampata è più
+
+precisa; e gli studiosi del mio stile letterario e conversazionale saranno
+
+interessati a sapere che io dissi, 'Ascolta qua, Walt Whitman era il vostro unico
+
+vero uomo dal sangue rosso.' Anche qui difficilmente credo che la [[Translation|traduzione]] possa
+
+essere stata del tutto inconsapevole; la maggior parte dei miei intimi è invero consapevole che
+
+io non parlo così, ma immagino che lo stesso fatto sarebbe
+
+balenato al giornalista con cui avevo parlato. E persino questo
+
+banale particolare porta con sé le due verità che devono essere, [[Fear|temo]], la
+
+morale piuttosto monotona di queste pagine. La prima è che l'[[America]] e
+
+l'Inghilterra possono essere amiche assai migliori quando nettamente divise che quando
+
+informemente amalgamate. Questi due giornalisti erano falsi cronisti, ma
+
+erano veri traduttori. Non erano tanto intervistatori quanto
+
+interpreti. E la seconda è che in ogni tale differenza è spesso
+
+salutare cercare sotto la superficie una superiorità. Perché la capacità di
+
+tradurre implica pur sempre la capacità di comprendere; e molti di questi
+
+giornalisti comprendevano davvero. Credo ci siano molti giornalisti
+
+inglesi che sarebbero più sconcertati da un'idea tanto semplice quanto il
+
+plutocratico fondamento del Proibizionismo. Ma l'americano capì subito
+
+che intendevo dire che era una questione di dollar sign; probabilmente perché sapeva
+
+molto [[Well|bene]] che lo è.
+
+E poi ancora c'è una curiosa convenzione per cui l'intervistare americano
+
+si fa apparire molto peggiore di quanto sia. I resoconti sono assai più turbolenti
+
+e insolenti delle conversazioni. Questo è probabilmente parte del fatto
+
+che una certa vivacità, che ad alcuni pare vitalità e ad alcuni
+
+volgarità, non è solo un'[[Ambition|ambizione]] ma un ideale. Si deve sempre
+
+cogliere che questa volgarità è un ideale ancor più che una realtà.
+
+È un ideale quando non è una realtà. Un giovane molto quieto e intelligente,
+
+con un morbido cappello nero e occhiali di tartaruga, chiederà
+
+un'intervista con ineccepibile cortesia, aspetterà il suo vivente
+
+soggetto con ineccepibile pazienza, gli parlerà in modo assai sensato per
+
+venti minuti, e se ne andrà senza far rumore. Poi sul giornale del mattino
+
+seguente leggerete come sfondò la porta della camera da letto, e inseguì la sua
+
+vittima fin sul tetto o la trascinò da sotto il letto, e le strappò
+
+risposte a ogni sorta di crude e spietate domande stampate in grandi
+
+lettere nere. Fui spesso intervistato di sera, e non avevo nozione
+
+di quanto atrocemente fossi stato insultato finché non lo vidi sul giornale del mattino
+
+seguente. Non avevo nozione di essere stato sulla ruota di un inquisitore finché non lo
+
+vidi in nero su bianco; e allora naturalmente ci credetti, con una [[Faith|fede]]
+
+e una docilità ignote in ogni precedente epoca della [[history|storia]]. Un interessante
+
+[[Essay|saggio]] potrebbe essere scritto sui punti su cui le nazioni ostentano più vizi
+
+di quanti ne possiedano; e potrebbe trattare più a fondo del
+
+giornalista americano, che è un innocuo frequentatore di club in privato, e diventa una sorta di
+
+brigante da strada nella stampa.
 
 
 
@@ -18390,6 +21490,178 @@ Englishman has probably seen American posters and trade advertisements
 of a patchy and gaudy kind, in which a white [[house]] or a yellow motor-car
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ho trasformato questo capitolo in qualcosa come una difesa degli
+
+intervistatori, perché credo davvero che si faccia loro portare troppo del
+
+peso dei cattivi sviluppi del giornalismo moderno. Ma sono ben
+
+lungi dal voler suggerire che quei cattivi sviluppi non siano assai
+
+gravi. Tanto lungi dal voler minimizzare il male, in un senso reale
+
+preferirei ingigantirlo. Direi che il male stesso è cosa assai più vasta
+
+e più fondamentale; e che affrontarlo malmenando i poveri
+
+giornalisti, che compiono il loro particolare e forse peculiare dovere, è come
+
+curare una pestilenza strofinando una delle sue macchie. Ciò che non va
+
+nel mondo moderno non si raddrizzerà attribuendo l'intera
+
+malattia a ciascuno dei suoi sintomi a turno; prima alla taverna e poi
+
+al cinema e poi alla sala dei cronisti. Il male del giornalismo non è
+
+nei giornalisti. Non è nei poveri uomini ai livelli più bassi della
+
+professione, ma nei ricchi al vertice della professione; o
+
+piuttosto nei ricchi che stanno troppo al di sopra della professione perfino per
+
+appartenervi. Il guaio dei giornali è il Newspaper Trust, come il
+
+guaio potrebbe stare in un Wheat Trust, senza che ciò implichi la denigrazione di
+
+tutti coloro che coltivano il grano. È la plutocrazia americana e non la
+
+stampa americana. Ciò che c'è di sbagliato nel mondo moderno non sono i moderni
+
+titoli o i moderni film o i moderni macchinari. Ciò che c'è di sbagliato
+
+nel mondo moderno è il mondo moderno; e la cura verrà da
+
+altrove.
+
+_Alcune città americane_
+
+C'è un punto, quasi da chiamarsi un [[Paradox|paradosso]], da notare a proposito di New
+
+York; ed è che in un certo senso essa è davvero nuova. Il termine assai
+
+di rado ha attinenza con la realtà. La New Forest è quasi altrettanto antica
+
+quanto la Conquista, e la Nuova Teologia è quasi antica quanto il Credo.
+
+Mi sono state offerte come nuovo pensiero cose che più
+
+propriamente si direbbero vecchia sconsideratezza; e ciò che chiamiamo la
+
+Nuova Legge sui Poveri è già abbastanza vecchia da dover saper fare di meglio. Ma c'è un senso
+
+in cui [[New York]] è sempre nuova; nel senso che viene sempre
+
+rinnovata. Un forestiero potrebbe [[Well|ben]] dire che la principale industria dei
+
+cittadini consiste nel distruggere la loro [[City|città]]; ma presto si accorge che
+
+essi ricominciano sempre da capo con immutata energia e [[Hope|speranza]].
+
+Dapprima ebbi la fantasia che non finissero mai del tutto di innalzare un grande
+
+edificio senza sentire che era [[Time|tempo]] di abbatterlo di nuovo; e
+
+che qualcuno cominciasse a scavare le prime fondamenta mentre qualcun altro
+
+posava le ultime tegole. Questo riempie tutto questo brillante
+
+e sconcertante luogo di un'aria affatto unica e senza pari di rapida
+
+rovina. Le rovine [[spring|spuntano]] così all'improvviso come funghi, che da noi sono
+
+frutto dell'età come i muschi, tanto che quasi ci si aspetta di veder l'edera arrampicarsi
+
+in fretta sulle mura infrante come nell'[[nightmare|incubo]] della [[Time|Macchina]] [[Machine|del Tempo]], oppure
+
+in qualche cinema incredibilmente accelerato.
+
+Non v'è spettacolo in alcun paese che mi risollevi lo spirito quanto
+
+un'impalcatura. È una [[Tragedy|tragedia]] che tolgano sempre l'impalcatura
+
+e non ci lascino altro che un semplice edificio. Se solo togliessero
+
+l'edificio e ci lasciassero una bella impalcatura, nella maggior parte
+
+dei casi sarebbe un guadagno per la bellezza della terra. Se potessi analizzare ciò che
+
+solleva il cuore nella leggerezza e limpidezza di un così bianco
+
+e ligneo [[skeleton|scheletro]], potrei spiegare ciò che è davvero incantevole
+
+in [[New York]]; nonostante il suo [[Suffering|patire]] la maledizione del
+
+cosmopolitismo e perfino la provinciale superstizione del progresso. È
+
+in parte perché tutta questa distruzione e ricostruzione è un'inesausta
+
+energia artistica; ma è anche in parte perché è un'energia artistica
+
+che non si prende troppo sul serio. È anzitutto perché qui l'uomo è
+
+un falegname; e in secondo luogo perché è un falegname di scena. Anzi v'è
+
+in tutta la scena lo spirito del cambio di scena. Perciò
+
+tocca quel nervo in noi che fin dall'[[Childhood|infanzia]] ha fremuto per tutte
+
+le cose teatrali. Ma il quadro resterà imperfetto se non ci rendiamo conto di
+
+qualcosa che gli dà [[unity|unità]] e segna la sua principale differenza dal
+
+clima e dai colori dell'Europa occidentale. Possiamo dire che il fondale
+
+resta il medesimo. Il cielo rimaneva, e nel cuore dell'[[Winter|inverno]]
+
+sembrava azzurro d'[[Summer|estate]]; e così limpido che quasi mi
+
+lusingavo che le nuvole fossero prodotti inglesi come le primule. Un americano
+
+ribatterebbe probabilmente alla mia accusa di cambio di scena dicendo che
+
+almeno lui sposta solo le torri e le cupole della terra; e che in
+
+Inghilterra sono i cieli a essere mutevoli. E in verità abbiamo mutamenti
+
+di giorno in giorno che a lui parrebbero distinti come diverse
+
+diapositive di [[Magic|lanterna magica]]; una veduta mostra il Golfo di Napoli e la successiva
+
+il Polo Nord. Non voglio dire, s'intende, che non vi siano mutamenti nel
+
+tempo americano; ma quanto a proporzione è vero che la parte più
+
+instabile del nostro scenario è la parte più stabile del loro. Anzi
+
+quasi ci si potrebbe perdonare il vanto che la Britannia [[Alone|sola]] davvero
+
+possiede quella nobile cosa chiamata tempo atmosferico; dovendo la maggior parte degli altri paesi
+
+accontentarsi del clima. Bisogna però confessare che spesso
+
+se ne accontentano. E la [[Beauty|bellezza]] di [[New York]], che è notevole,
+
+si deve in gran parte alla limpidezza che fa risaltare i colori dei vari
+
+edifici contro il colore uniforme del cielo. Stranamente mi
+
+ritrovai a ripetere, davanti a questa veduta d'Occidente, due vividi versi in cui
+
+il signor W. B. Yeats ha evocato una visione d'Oriente:--
+
+     E colorati come gli [[Birds|uccelli]] d'oriente
+
+     A sera nei loro cieli senza pioggia.
+
+Per invocare un parallelo un po' meno poetico, perfino l'inglese che non ha mai
+
+viaggiato ha probabilmente visto manifesti e réclame commerciali americane
+
+d'un genere chiazzato e sgargiante, in cui una bianca [[house|casa]] o un'automobile gialla
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_20" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 20)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -18561,6 +21833,174 @@ theatrical upon ancient and quiet villages folded in the everlasting
 
 hills. Philadelphia and Boston and Baltimore are more like those quiet
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+sono ritagliate come nel cartone contro un cielo simile a marmo azzurro. Credevo
+
+che fosse soltanto Arte Nuova, ma ho scoperto che è davvero [[New York]].
+
+Non per nulla la stessa [[Nature|natura]] del carattere locale si è guadagnata
+
+il soprannome di colore locale. Il colore attraversa tutta la nostra esperienza;
+
+e tutti sappiamo che la nostra [[Childhood|infanzia]] trovava gemme talismaniche negli stessi
+
+colori della scatola dei colori, o perfino nei loro stessi nomi. E come il
+
+nome stesso di 'lacca cremisi' mi suggeriva davvero qualche sanguigno e
+
+misterioso stagno, cupo eppure rosso come il [[Blood|sangue]], così il nome stesso di 'terra
+
+di Siena bruciata' si intricò poi nella mia mente con l'idea di
+
+qualcosa di tradizionale e tragico; come se una simile aurea [[City|città]] italiana
+
+fosse stata davvero annerita da molti incendi nelle guerre della medievale
+
+[[Democracy|democrazia]]. Ora, se si avesse il capriccio di concepire una [[City|città]] esattamente
+
+contraria a una così bruciata e temprata dal [[Fire|fuoco]], il suo colore potrebbe essere
+
+evocato a una fantasia infantile dal solo nome di 'terra d'ombra cruda'; e una
+
+tale [[City|città]] è [[New York]]. Un tempo il nome di 'terra d'ombra cruda' mi lasciava perplesso,
+
+non riuscendo a immaginare l'effetto di una terra d'ombra fritta o stufata. Ma
+
+i colori di [[New York]] sono esattamente in quella tonalità; e potrebbero essere adombrati
+
+da frasi come rosa crudo o giallo crudo. È davvero in un certo senso come
+
+qualcosa di non cotto; o qualcosa che lo spirito satirico chiamerebbe
+
+mezzo crudo. Eppure l'effetto non è solo bello, è perfino
+
+delicato. Non avevo un nome per questa sfumatura; finché non vidi che qualcuno aveva
+
+scritto delle 'torri color pastello di [[New York]]'; e seppi che il
+
+nome era stato trovato. Non ci sono colori abbastanza asciutti per descrivere tutta quella
+
+luce asciutta; e non è una scatola di colori ma di pastelli. Se l'
+
+inglese che torna in Inghilterra si commuove alla vista di un pezzo di
+
+bianco [[chalk|gesso]], l'americano vede piuttosto un fascio di gessetti. Né riesco a
+
+immaginare nulla di più commovente. Si raccontano ai bambini fiabe di un
+
+paese dove gli alberi sono come bastoncini di zucchero e i laghi come
+
+melassa, ma la maggior parte dei bambini sarebbe quasi altrettanto ghiotta di un paese delle fate
+
+dove gli alberi fossero come pennellate di vernice verde e le colline fossero di
+
+gessetti colorati.
+
+Ma qui ciò che accentua questa arida freschezza è l'aspetto frammentario della
+
+continua ricostruzione e del continuo mutamento. La forte luce del giorno trova
+
+ovunque i bordi spezzati delle cose, e quel genere di tinte che vediamo nella
+
+terra appena rivoltata o nelle bianche sezioni degli alberi. Ed è in questo
+
+senso che il colore locale può letteralmente essere preso come carattere locale.
+
+Perché [[New York]] considerata in sé è anzitutto un luogo di inquietudine, e
+
+coloro che sinceramente l'[[Love|amano]], come molti fanno, l'[[Love|amano]] per il [[Romance|romanzesco]] della sua
+
+irrequietezza. Un uomo quasi guarda un edificio passandovi accanto per [[Wonder|domandarsi]]
+
+se sarà ancora là quando tornerà dalla passeggiata; e il [[Doubt|dubbio]]
+
+è parte di una nozione indescrivibile, come di un bianco [[nightmare|incubo]] di luce diurna,
+
+accresciuto dalla stessa numerazione delle strade, col suo groviglio
+
+di numeri che dapprima fa girare la testa a un inglese. Il dettaglio è
+
+solo un simbolo; e quando vi si è abituato può vedere che esso è, come
+
+le più monotone usanze umane, insieme peggiore e migliore delle proprie. '271
+
+West 52nd Street' è il più facile di tutti gli indirizzi da trovare, ma il
+
+più difficile di tutti da ricordare. Chi è, come me, così
+
+fatto da perdere immancabilmente ogni foglio di carta che ha particolare
+
+ragione di conservare, si ritroverà a desiderare che il luogo si chiamasse
+
+'Pine Crest' o 'Heather Crag' come una qualsiasi discreta villetta di Streatham.
+
+Ma il suo senso di una sorta di calcoli incalcolabili, come della
+
+visione di un matematico impazzito, ha radice in un'impressione più reale. La sua
+
+prima sensazione che la testa gli giri è dovuta a qualcosa di davvero
+
+vertiginoso nel movimento di una vita che gira vertiginosamente come una [[Wheel|ruota]]. Se
+
+c'è nella mente moderna qualcosa di paradossale che sa trovare pace nel
+
+mutamento, è qui che essa ha davvero costruito la propria dimora o piuttosto la
+
+sta ancora costruendo e disfacendo. Si potrebbe immaginare che essa muti in
+
+ogni cosa e che nulla perduri se non il suo invisibile nome; e perfino il suo
+
+nome, come ho detto, sembra vantarsi della novità.
+
+Questa è pressappoco una sincera prima impressione dell'atmosfera di
+
+[[New York]]. Coloro che credono sia quella l'atmosfera dell'[[America]] non sono mai
+
+andati oltre [[New York]]. Potremmo quasi dire che non sono mai
+
+entrati in [[America]], non più che se fossero stati trattenuti come
+
+stranieri indesiderabili a Ellis Island. E in verità vi sono parecchi
+
+stranieri indesiderabili trattenuti anche nell'isola di [[Manhattan]]. Ma di ciò non
+
+parlerò, essendo io stesso uno straniero senza particolari pretese di essere
+
+desiderabile. Comunque, tale è [[New York]]; ma tale non è il Nuovo Mondo. La
+
+grande Repubblica americana racchiude varietà assai considerevoli, e di
+
+queste varietà ho necessariamente visto troppo poco per potermi
+
+generalizzare. Ma dal poco che ho visto, azzarderei la
+
+generalizzazione che la gran parte dell'[[America]] è singolarmente e perfino
+
+sorprendentemente diversa da [[New York]]. Va da sé che [[New York]] è assai
+
+diversa dalle vaste pianure agricole e dalle piccole cittadine agricole del
+
+Middle West, che ho visto. Si può congetturare con una certa sicurezza
+
+che essa sia assai diversa da ciò che si chiama il Wild e talvolta il Woolly
+
+West, che non ho visto. Ma qui sto paragonando [[New York]], non con
+
+i più nuovi stati della prateria o delle [[Mountains|montagne]], ma con le altre
+
+più antiche città della costa atlantica. E [[New York]], a quanto mi pare, è
+
+vitalmente diversa dalle altre città storiche dell'[[America]]. È
+
+così diversa che per un momento le mostra tutte in una luce falsa, come
+
+un lungo bianco riflettore getta una luce fantastica e
+
+teatrale su antichi e quieti villaggi raccolti tra le eterne
+
+colline. Filadelfia e Boston e Baltimora somigliano più a quei quieti
 
 
 
@@ -18738,6 +22178,178 @@ never finish--
      If I ever go back to Baltimore
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+villaggi che a [[New York]].
+
+Se dovessi intitolare questo libro 'Le Antichità dell'[[America]]', darei
+
+adito a fraintendimenti e forse a fastidio. Eppure il [[Double|doppio]]
+
+senso di simili parole è per esse una sventura immeritata. Parliamo di
+
+Platone o del Partenone o della passione greca per la [[Beauty|bellezza]] come di cose
+
+antiche, ma non certo antiquate. Quando le diciamo antiche non è
+
+perché siano perite, ma piuttosto perché sono sopravvissute.
+
+Allo stesso modo udii alcuni newyorkesi riferirsi a Filadelfia o a
+
+Baltimora come 'città morte'. Intendono per città morta una città che ha avuto
+
+l'impudenza di non morire. Simili persone si stupiscono di trovare viva una cosa
+
+antica, proprio come ora si stupiscono, e sempre più si
+
+stupiranno, di trovare la Polonia o il Papato o la nazione francese ancora
+
+vivi. E ciò che intendo dicendo che Filadelfia e Baltimora sono vive è
+
+precisamente ciò che questa gente intende dicendole morte; è continuità;
+
+è la presenza della vita che vi fu insufflata all'inizio e dello
+
+scopo del loro essere; è la benedizione dei fondatori delle
+
+colonie e dei padri della repubblica. Questa tradizione va davvero
+
+chiamata vita; poiché la vita [[Alone|sola]] può congiungere passato e futuro. Significa semplicemente
+
+che come ciò che si fece ieri fa qualche differenza oggi, così
+
+ciò che si fa oggi farà qualche differenza domani. A [[New York]]
+
+è difficile sentire che un giorno qualsiasi farà differenza alcuna. Questi
+
+moderni non fanno che morire ogni giorno senza potere di risorgere dai morti. Ma posso
+
+dichiarare con verità che entrando in alcune di queste più stabili città degli
+
+Stati provai qualcosa di assai sincero di quell'emozione storica che
+
+trova appagamento nelle eterne città del Mediterraneo. Sentii in
+
+[[America]] ciò che molti americani suppongono si possa sentire solo in Europa. Di rado
+
+quel sentimento mi fu suscitato in modo più semplice e diretto che quando
+
+vidi da lontano, sopra il vasto grigio labirinto di Filadelfia, il grande
+
+Penn sul suo pinnacolo come la figura scolpita di un dio che avesse plasmato
+
+un nuovo mondo; e ricordai che il suo [[Body|corpo]] giaceva sepolto in un campo alla
+
+svolta di un viottolo, a una lega dalla mia stessa porta.
+
+Perché questo aspetto dell'[[America]] è piuttosto trascurato nei discorsi sull'
+
+elettricità e sui titoli di giornale. Inutile dirlo, la moderna volgarità dell'
+
+avarizia e della pubblicità si spande su tutta Filadelfia o Boston; ma
+
+così fa anche su Winchester o Canterbury. Ma quasi tutti sanno che
+
+c'è qualcos'altro da trovare a Canterbury o a Winchester; molti
+
+sanno che è piuttosto più interessante; e alcuni sanno
+
+che Alfredo può ancora camminare a Winchester e che san Tommaso a
+
+Canterbury fu ucciso ma non morì. È almeno altrettanto possibile per un
+
+abitante di Filadelfia sentire la presenza di Penn e Franklin quanto per un
+
+inglese vedere i [[Ghosts|fantasmi]] di Alfredo e di Becket. La tradizione non
+
+significa una città morta; non significa che i vivi siano morti ma che i
+
+morti sono vivi. Significa che conta ancora ciò che Penn fece duecento
+
+anni fa o ciò che Franklin fece cento anni fa; non riuscii mai a sentire
+
+a [[New York]] che contasse ciò che qualcuno aveva fatto un'ora prima. E queste
+
+cose contavano e contano. Il quaccherismo non è il mio credo prediletto; ma
+
+quel giorno in cui William Penn stette disarmato su quel luogo e strinse il suo
+
+trattato con i Pellirosse, il suo credo di umanità ebbe davvero un trionfo
+
+e un trionfo che non è tornato indietro. La lode a lui tributata non è una
+
+pedante finzione della nostra [[history|storia]] convenzionale, per quanto simili finzioni ne abbiano
+
+illogicamente ridotto la portata. I Nonconformisti sono stati piuttosto ingiusti verso
+
+Penn perfino nello scegliere le loro lodi; e in genere dimenticano che
+
+la tolleranza taglia da entrambe le parti e che una mente aperta è aperta su tutti i lati.
+
+Coloro che lo divinizzano per aver acconsentito a trattare con i selvaggi non possono
+
+perdonargli di aver acconsentito a trattare con gli Stuart. E lo stesso
+
+vale per l'altra [[City|città]], ancor più strettamente legata al tollerante
+
+esperimento degli Stuart. Lo stato del Maryland fu il primo
+
+esperimento di [[Freedom|libertà]] religiosa nella [[history|storia]] umana. Lord Baltimore e i suoi
+
+cattolici erano di una lunga marcia avanti a William Penn e ai suoi quaccheri su
+
+quella che oggi si chiama la via del progresso. Che la prima
+
+tolleranza religiosa mai concessa al mondo sia stata concessa da cattolici romani è
+
+uno di quei piccoli dettagli istruttivi di cui le nostre storie vittoriane
+
+non esattamente abbondavano. Ma quando entrai nel mio albergo a Baltimora e
+
+trovai due sacerdoti ad attendermi, fui commosso in un modo nuovo, perché
+
+sentii di toccare l'estremità di una catena vivente. Né l'impressione fu
+
+casuale; resterà sempre con me con un misto di gratitudine
+
+e dolore, poiché mi recavano un messaggio di benvenuto da un grande americano
+
+il cui nome conoscevo fin dall'[[Childhood|infanzia]] e la cui carriera volgeva alla
+
+fine; poiché furono solo pochi giorni dopo che lasciai la [[City|città]] che
+
+seppi che il cardinale Gibbons era morto.
+
+In cima a una [[Hill|collina]] da un lato della città sorgeva il primo monumento
+
+eretto dopo la Rivoluzione a Washington. Oltre esso c'era un nuovo monumento
+
+che salutava nel nome di Lafayette i soldati americani caduti
+
+combattendo in Francia nella Grande Guerra. Tra essi c'erano gradini e sedili
+
+di pietra, e mi sedetti su uno di essi e parlai a due bambini che
+
+si arrampicavano attorno alle basi del monumento. Provai una profonda e
+
+raggiante pace al pensiero che essi almeno non sarebbero venuti alla mia
+
+conferenza. Mi rendeva felice che in quel colloquio né loro né io avessimo
+
+nomi. Ero colmo di quell'indescrivibile visione a occhi aperti della stranezza
+
+della vita, e specialmente della stranezza dei luoghi; di come troviamo
+
+i luoghi e li perdiamo; e vediamo volti per un attimo in una terra lontana, ed
+
+è egualmente misterioso se ricordiamo e misterioso se dimentichiamo. Avevo
+
+perfino agitarmi in testa il suggerimento di certi versi che non
+
+finirò mai--
+
+     Se mai tornerò a Baltimora
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_22" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 22)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -18914,6 +22526,178 @@ breakfast-table than about the autocrat of the army and the people, the
 one great democratic despot of modern times; the Napoleon of the New
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La [[City|città]] del Maryland.
+
+Ma la poesia dovrebbe contenere troppe cose; perché pensavo a
+
+mille cose insieme; e mi domandavo come sarebbero stati i bambini
+
+vent'anni dopo e se avrebbero commerciato in biancheria o si sarebbero
+
+interessati al petrolio, e non ero insensibile (va detto) al fatto
+
+che una bottega vicina avesse fornito l'unico campione della sostanza
+
+chiamata 'tè' mai trovato sul continente americano; e davanti a me
+
+si slanciava nel cielo su ali di pietra la colonna di tutte quelle alte
+
+speranze dell'umanità di cento anni fa; e più in là c'erano candele
+
+accese nelle cappelle e preghiere nelle anticamere, dove forse
+
+già un Principe della Chiesa stava morendo. Solo in una pagina più avanti potrò
+
+anche solo tentare di districare un simile groviglio di contrasti, che è invero il
+
+groviglio dell'[[America]] e di questa vita mortale; ma seduto là su quel sedile
+
+di pietra sotto quel cielo quieto, ebbi qualche esperienza dei
+
+mille pensieri e cose viventi che si accalcano, chiassosi e innumerevoli come [[Birds|uccelli]],
+
+che danno la loro eterna vivacità e vitalità a una città morta.
+
+Visitai altre due città che possiedono questo particolare tipo di
+
+carattere tradizionale, l'una tipica del Nord e l'altra
+
+del Sud. Posso almeno prendere come comodi contro-tipi le città di
+
+Boston e St. Louis; e potremmo aggiungere Nashville come una sfumatura più
+
+genuinamente meridionale di St. Louis. All'estremo Sud, nel senso di
+
+ciò che si chiama la Black Belt, non andai affatto. Ora i viaggiatori
+
+inglesi si aspettano che il Sud sia alquanto tradizionale; ma non sono
+
+preparati agli aspetti di Boston nel Nord che lo sono ancor di più.
+
+Se volessimo solo un bizzarro gioco d'antitesi, potremmo dire che da un
+
+lato i luoghi sono più prosaici dei nomi e dall'altro i
+
+nomi sono più prosaici dei luoghi. St. Louis è una bella città, e
+
+riconosciamo un bell'istinto dell'[[Imagination|immaginazione]] che pose sulla [[Hill|collina]]
+
+che domina il [[River|fiume]] la statua di quel santo cavaliere che ha
+
+battezzato la [[City|città]]. Ma la [[City|città]] non è bella quanto il suo nome; non
+
+potrebbe esserlo. Anzi questi titoli fissano una misura cui le più
+
+splendide guglie e torrette non potrebbero elevarsi, e sotto la quale i
+
+commerciali camini e le insegne luminose vistosamente sprofondano. Ci parrebbe
+
+strano se Belfast avesse portato il nome di Giovanna d'Arco. Saremmo lievemente
+
+scandalizzati se la città di Johannesburg si trovasse a chiamarsi Gesù [[Christ|Cristo]].
+
+Ma pochi hanno notato una bestemmia, o anche una benedizione alquanto
+
+provocatoria, da rinvenire nel nome stesso di San Francisco.
+
+Ma d'altra parte un luogo come Boston è assai più bello del
+
+suo nome. E, come ho accennato, la cultura generale di un inglese,
+
+o mancanza di cultura, lo [[Leaves|lascia]] in una certa ignoranza del tipo di
+
+[[Beauty|bellezza]] che affiora in quel tipo di luogo. Ha sentito tanto parlare del
+
+Nord puramente commerciale in contrasto con il Sud agricolo e
+
+aristocratico, e le tradizioni di Boston e Filadelfia sono
+
+piuttosto troppo tenui e delicate per essere viste da oltre l'Atlantico. Ma
+
+anche qui vi sono tradizioni e una gran dose di tradizionalismo. La
+
+cerchia delle vecchie famiglie, che ancora si raduna con una certa esclusività
+
+a Filadelfia, è il genere di cosa che noi in Inghilterra ci aspetteremmo
+
+di trovare piuttosto a New Orleans. L'aristocrazia accademica di Boston, che
+
+[[Oliver]] Wendell Holmes chiamava i Bramini, è ancora una realtà benché
+
+sia stata sempre una minoranza e ora sia una minoranza assai esigua. Un [[Epigram|epigramma]],
+
+inventato da Yale a spese di Harvard, la descrive come assai piccola
+
+davvero:--
+
+     Ecco alla gaia vecchia Boston, [[Home|patria]] del fagiolo e del merluzzo,
+
+     Dove i Cabot parlano solo ai Lowell, e i Lowell parlano solo a Dio.
+
+Ma un'aristocrazia dev'essere una minoranza, ed è sostenibile che
+
+quanto più è piccola tanto meglio è. Debbo però dire che il
+
+distinto dottor Cabot, l'attuale rappresentante della famiglia, ruppe
+
+ogni tabù che possa legare i suoi affetti al Creatore e a Miss
+
+Amy Lowell, e allargò le sue simpatie così indiscriminatamente da mostrare
+
+gentilezza e ospitalità a un essere così perduto come un conferenziere inglese. Ma
+
+se la cosa è appena un limite, è assai viva come [[Memory|ricordo]]; e Boston
+
+sotto questo aspetto è proprio un luogo di ricordi. Le renderei un
+
+assai povero complimento dicendo soltanto che certe sue parti mi ricordavano l'
+
+Inghilterra; perché in verità mi ricordavano cose inglesi che sono in gran parte
+
+scomparse dall'Inghilterra. Vi sono vecchie case brune agli angoli di
+
+piazze e strade che sono come sprazzi della dimenticata
+
+[[Childhood|infanzia]] di un uomo; e quando vidi il lungo sentiero con i pali dove l'Autocrate
+
+si può supporre passeggiasse con la maestra, sentii di essere
+
+giunto nella terra dove le vecchie storie si avverano.
+
+Mi soffermo in questo luogo su questo particolare aspetto dell'[[America]] perché
+
+esso sfugge assai in un mero contrasto con l'Inghilterra. Non c'è bisogno che dica che
+
+se lo sentii perfino per esili figure della finzione, lo sentii ancor più
+
+per solide figure della [[history|storia]]. Simili [[Ghosts|fantasmi]] parevano particolarmente solidi negli
+
+Stati del Sud, proprio per la relativa quiete e
+
+l'agio dell'atmosfera del Sud. Non mi fu mai più vivido
+
+che entrando, in un'ora quieta della [[Night|notte]], nel
+
+relativamente quieto albergo di Nashville nel Tennessee, e salendo a un
+
+fioco e deserto piano superiore dove mi ritrovai davanti a un
+
+quadro sbiadito; e dalla tela scura si affacciava il volto di Andrew
+
+Jackson, vigile come un'aquila bianca.
+
+In quel momento, forse, ero in più d'un senso [[Alone|solo]]. La maggior parte degli
+
+inglesi conosce buona parte della narrativa americana, e nulla di nulla della
+
+[[history|storia]] americana. Sanno più dell'autocrate della
+
+tavola da colazione che dell'autocrate dell'esercito e del popolo, il
+
+solo grande despota democratico dei tempi moderni; il Napoleone del Nuovo
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_23" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 23)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -19087,6 +22871,176 @@ often beautiful. But whatever else they have built, they have built a
 
 great blue dome, the largest dome in the world. And the place does
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mondo. L'unica nozione che il pubblico inglese abbia mai avuto della politica
+
+americana la trasse da un [[Novel|romanzo]], _La capanna dello zio Tom_; e a dir
+
+poco, non fece eccezione al prevalere della finzione sul fatto.
+
+Centinaia di noi hanno sentito parlare di Tom Sawyer per uno che abbia sentito parlare di Charles
+
+Sumner; ed è probabile che i più di noi supererebbero un esame più dettagliato
+
+su Toddy e Budge che su [[Lincoln]] e Lee. Ma nel
+
+caso di Andrew Jackson può darsi che provassi uno speciale senso di
+
+isolamento individuale; poiché credo che siano perfino meno gli
+
+inglesi che gli americani a rendersi conto che l'energia di quel
+
+grande uomo fu in gran parte rivolta a salvarci dal male principale
+
+che oggi distrugge le nazioni. Egli cercò di abbattere, come con una
+
+[[Sword|spada]] di semplicità, la nuova e senza nome enormità della finanza; e
+
+dovette sapere, come per un lampo di [[Lightning|folgore]], che il popolo era dietro
+
+di lui, perché tutti i politici gli erano contro. La fine di quella
+
+lotta non è ancora giunta; ma se la banca è più forte della [[Sword|spada]] o dello
+
+scettro della sovranità popolare, la fine sarà la fine della [[Democracy|democrazia]]. Essa
+
+dovrà scegliere tra l'accettare un dittatore riconosciuto e
+
+l'accettare una dettatura che non osa riconoscere. Il processo sarà
+
+cominciato col dare potere a persone rifiutando di dar loro i titoli;
+
+e sarà finito col dare il potere a persone che rifiutano di darci i loro
+
+nomi.
+
+Ma ho una speciale ragione per chiudere questo capitolo sul nome del
+
+grande dittatore popolare che mosse guerra ai politici e ai
+
+finanzieri. Questo capitolo non pretende di toccare una su venti delle
+
+interessanti città dell'[[America]], nemmeno in questo particolare aspetto della
+
+loro relazione con la [[history|storia]] dell'[[America]], così trascurata in
+
+Inghilterra. Se così fosse, ci sarebbe molto da dire anche sulle
+
+più nuove di esse; Chicago, per esempio, è certo qualcosa di più
+
+del mero mattatoio di maiali che la tradizione inglese suggerisce; ed
+
+ha costruito un viale non indegno della sua splendida posizione sul
+
+suo splendido lago. Ma tutte queste città sono contaminate e perfino ammalate
+
+d'industrialismo. È giusto verso gli americani ricordare che essi
+
+hanno deliberatamente preservato una delle loro città da simile contaminazione e
+
+simile malattia. E questa è la [[City|città]] presidenziale, che nella
+
+mente americana rappresenta lo stesso ideale del Presidente; l'idea della
+
+Repubblica che si eleva al di sopra del moderno accumulo di denaro e perdura. Vi è
+
+stato davvero uno sforzo di mantenere bianca la Casa [[house|Bianca]]. Nessuna fabbrica è
+
+permessa in quella città; non più dei negozi necessari vi si tollerano. È
+
+una bella [[City|città]]; e conserva davvero qualcosa di quella classica
+
+serenità del diciottesimo secolo in cui si muovevano i Padri della
+
+Repubblica. Con tutto il rispetto per la località coloniale di quel nome, non
+
+suppongo che Wellington somigli particolarmente a Wellington. Ma Washington
+
+somiglia davvero a Washington.
+
+In questo, come in tante cose, non c'è male nel criticare noi gli
+
+stranieri, purché volessimo criticare anche noi stessi. In altre parole,
+
+il mondo avrebbe forse bisogno di anche meno della sua nuova [[Charity|carità]], se avesse un po'
+
+più della vecchia [[Humility|umiltà]]. Quando ci lamentiamo dell'[[Individualism|individualismo]] americano,
+
+dimentichiamo di averlo alimentato avendo noi stessi assai meno di questo
+
+ideale impersonale della Repubblica o del bene comune nel suo insieme. Quando ci
+
+lamentiamo, assai giustamente, per esempio, di grandi quadri che passano in
+
+possesso di magnati americani, dovremmo ricordare che aprimmo la
+
+strada permettendo che tutti si accumulassero nel possesso di
+
+magnati inglesi. È male che un tesoro pubblico sia in
+
+possesso di un privato in [[America]], ma noi facemmo il primo passo
+
+lasciando con leggerezza che sparisse nella collezione privata di un uomo in
+
+Inghilterra. So tutto della genuina tradizione nazionale che trattava
+
+l'aristocrazia come costitutiva dello stato; ma proprio questi acquisti
+
+stranieri provano che avremmo dovuto avere uno stato indipendente dall'
+
+aristocrazia. È vero che i ricchi americani talvolta agognano i
+
+monumenti della nostra cultura in un modo che a ragione ci ripugna come volgare
+
+e irrazionale. Si dice che talvolta vogliano portarsi via interi edifici
+
+con sé; e troppi di tali edifici sono privati e in vendita.
+
+Correvano storie ancor più folli di un milionario che desiderava trapiantare
+
+l'abbazia di Glastonbury e simili edifici come se fossero arbusti portatili
+
+in vaso. È ovvio che sia tanto insensato [[Well|quanto]] vandalico
+
+separare l'abbazia di Glastonbury da Glastonbury. Posso capire un uomo
+
+che la venera come rovina; e posso capire un uomo che la disprezza come un
+
+mucchio di rifiuti. Ma è insensato insultare una cosa per
+
+idolatrarla; è privo di senso profanare il santuario per
+
+adorarne le pietre. Quella sorta di cose è il lato cattivo dell'
+
+appetito e dell'[[Ambition|ambizione]] americana; e abbiamo perfettamente ragione a vederla non solo come
+
+una deliberata bestemmia ma come un'inconsapevole buffonaggine. Ma vi è
+
+un altro lato nella tradizione americana, che manca davvero troppo
+
+nella nostra tradizione. Ed è illustrato in questa idea di preservare
+
+Washington come una sorta di paradiso di politica impersonale senza commercio
+
+personale. Nessuno potrebbe comprare la Casa [[house|Bianca]] o il Washington Monument;
+
+si può insinuare (come da un abitante di Glastonbury) che nessuno lo
+
+voglia; ma nessuno potrebbe se pur lo volesse. C'è davvero una certa aria di
+
+serenità e sicurezza attorno al luogo, che manca in ogni altra città
+
+americana. È accresciuta, s'intende, dai limpidi cieli azzurri di quella
+
+provincia mezzo meridionale, da cui il fumo è stato bandito. L'effetto
+
+non sta tanto nei meri edifici, benché siano classici e
+
+spesso belli. Ma qualunque altra cosa abbiano costruito, hanno costruito una
+
+grande cupola azzurra, la più grande cupola del mondo. E il luogo
 
 
 
@@ -19262,6 +23216,176 @@ Something of this restlessness in the race may really be involved in the
 matter; but I think the deeper significance of the rocking-chair may
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+esprime qualcosa nell'incoerente idealismo di questo strano popolo;
+
+e qui almeno l'hanno innalzata più in alto di tutti i grattacieli,
+
+e l'hanno posta in un cielo immacolato.
+
+_Nella campagna americana_
+
+Il piacere più acuto di un viaggiatore sta nel trovare le cose che
+
+non si aspettava, ma che avrebbe potuto aspettarsi di aspettare. Intendo le
+
+cose che sono a un tempo così strane e così ovvie che devono essere
+
+state notate, eppure in qualche modo non sono state rilevate. Così avevo udito
+
+mille cose su Gerusalemme prima ancora di vederla; avevo udito
+
+rapsodie e denigrazioni d'ogni sorta. I moderni critici
+
+razionalisti, con caratteristica coerenza, la biasimavano per il suo
+
+accumulo di rifiuti e per il suo moderno restauro, per la sua antiquata
+
+superstizione e la sua volgarità al passo coi tempi. Ma in qualche modo l'unica
+
+impressione che non aveva mai trapassato le loro descrizioni era la
+
+semplice e sola impressione di una [[City|città]] su una [[Hill|collina]], con mura che giungono
+
+fino all'orlo stesso di pendii quasi ripidi come mura; la turrita
+
+[[City|città]] che corona una [[Hill|collina]] a forma di cono in tanti paesaggi medievali.
+
+Si supporrebbe che questo fosse a un tempo il più evidente e più
+
+pittoresco di tutti i fatti; eppure in qualche modo, nelle mie letture, l'avevo sempre
+
+perduto in una massa di fatti minori che erano meri dettagli. Sappiamo
+
+che una [[City|città]] posta su una [[Hill|collina]] non può rimanere nascosta; eppure parrebbe
+
+che sia proprio la [[Hill|collina]] a rimanere nascosta; benché forse sia nascosta soltanto
+
+ai saggi e agli intelligenti. Ebbi un'impressione simile e semplice
+
+quando scoprii l'[[America]]. Non posso evitare la frase; perché
+
+parrebbe davvero che ciascuno la scopra da sé.
+
+Così avevo sentito parlare molto, prima di vederli, degli alti e
+
+dominanti edifici di [[New York]]. Convengo che abbiano un effetto immediato
+
+sull'[[Imagination|immaginazione]]; effetto che credo accresciuto dalla posizione in cui
+
+sorgono, e da cui si sono levati. Sono tanto più
+
+imponenti perché la costruzione, pur essendo verticalmente così vasta, è
+
+orizzontalmente quasi angusta. [[New York]] è un'isola, e ha tutto l'
+
+intenso [[Romance|fascino]] di un'isola. È una cosa d'altezza quasi infinita
+
+su fondamenta assai finite. È quasi come un alto faro su
+
+una roccia solitaria. Ma questa storia dei grattacieli, che avevo spesso
+
+udito, darebbe da sola un'impressione curiosamente falsa della più fresca
+
+e curiosa caratteristica dell'architettura americana. Narrata solo in
+
+termini di queste grandi torri di pietra e mattone nelle grandi città
+
+industriali, la storia tenderebbe troppo a un'impressione di qualcosa di freddo
+
+e colossale come i monumenti dell'Asia. Suggerirebbe una moderna
+
+Babilonia del tutto troppo babilonese. Implicherebbe che un uomo del nuovo
+
+mondo fosse una sorta di nuovo Faraone, che costruiva non tanto una piramide quanto una
+
+pagoda di piramidi. Suggerirebbe case costruite da mammut a partire dalle
+
+[[Mountains|montagne]]; città erette da elefanti nella loro stessa elefantesca
+
+scuola d'architettura. E [[New York]] richiama davvero il più celebre di tutti i
+
+grattacieli--la torre di Babele. Lo richiama non di meno perché
+
+non c'è [[Doubt|dubbio]] sulla confusione delle lingue. Ma in [[Truth|verità]] è vero proprio il
+
+contrario per la maggior parte degli edifici d'[[America]]. Non appena
+
+fui uscito nei sobborghi di [[New York]] in viaggio verso Boston che
+
+cominciai a vedere qualcos'altro affatto contrario e assai più curioso. Vidi
+
+foreste su foreste di piccole case che si stendevano fino all'orizzonte come
+
+fanno le foreste vere; villaggi e cittadine e città. Ed erano, in
+
+un altro senso, letteralmente come foreste. Erano tutte fatte di legno. Era
+
+quasi tanto fantastico a un occhio inglese come se fossero state tutte fatte
+
+di cartone. Avevo da tempo superato la sciocca vecchia burla che dipingeva gli
+
+americani come se vivessero tutti nelle foreste sperdute. Ma, in un certo senso, se
+
+non vivono nei boschi, non ne sono ancora usciti.
+
+Non lo dico in alcun senso come critica. Si dà il caso che io sia
+
+particolarmente affezionato al legno. Di tutte le superstizioni che i nostri padri
+
+presero con abbastanza leggerezza da [[Love|amarle]], la più naturale mi pare l'idea che
+
+porti fortuna toccare il legno. Alcune di esse mi toccano meno come
+
+superstizioni, perché le sento come simboli. Se l'umanità avesse davvero
+
+ritenuto il venerdì sfortunato avrebbe parlato di cattivo venerdì invece che di
+
+venerdì santo. E per quanto senta il brivido del tredici a tavola, non
+
+sono così sicuro che sia la più misera di tutte le sorti umane occupare i
+
+posti dei Dodici Apostoli. Ma l'idea che vi fosse qualcosa di
+
+purificante o salutare nel toccare il legno mi pare una di
+
+quelle idee che sono veramente popolari, perché sono veramente poetiche. È
+
+abbastanza probabile che l'idea venisse in origine dalla salvezza
+
+del legno della [[Cross|Croce]]; ma ciò non fa che suggellare la divina coincidenza.
+
+È come quell'altra divina coincidenza che la Vittima fosse un
+
+falegname, che quasi avrebbe potuto costruire la propria [[Cross|croce]]. Che si accolga la
+
+spiegazione mistica o quella mitica, vi è ovviamente una assai profonda
+
+connessione tra il lavoro umano del legno e un simile schietto e patetico
+
+misticismo. Dà qualcosa come un tocco di santa fanciullaggine al
+
+racconto, come se quel terribile ordigno potesse essere un giocattolo. Allo stesso modo
+
+un [[Child|bambino]] immagina quel misterioso e sinistro [[Horse|cavallo]], che fu la
+
+rovina di Troia, come qualcosa di schietto e appariscente, e forse pezzato,
+
+come il suo [[Horse|cavallo]] a dondolo nella stanza dei bimbi.
+
+Si potrebbe dire simbolicamente che gli americani hanno un gusto per i
+
+cavalli a dondolo, come di certo hanno un gusto per le sedie a dondolo. Un
+
+critico frivolo potrebbe insinuare che scelgono le sedie a dondolo affinché,
+
+anche quando sono seduti, non debbano stare fermi.
+
+Qualcosa di questa irrequietezza della razza può davvero essere implicato nella
+
+faccenda; ma credo che il significato più profondo della sedia a dondolo
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_25" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 25)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -19436,6 +23560,176 @@ hobby of work; the one [[Doubt|doubt]] that did float across me was something
 like, 'Will all this be here at all in two hundred years?' That was the
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+si possa ancora trovare nel più profondo simbolismo del [[Horse|cavallo]] a dondolo. Credo
+
+che dietro tutto questo fresco e facile uso del legno vi sia un certo spirito
+
+fanciullesco nel buon senso della parola; qualcosa di
+
+[[Innocent|innocente]], e facile a contentarsi. Non è del tutto falso, e ancor meno
+
+è ostile, dire che il paesaggio sembra punteggiato di case di
+
+bambola. È la vera [[Tragedy|tragedia]] di ogni caduto figlio di Adamo l'esser
+
+cresciuto troppo per abitare in una casa di [[house|bambola]]. Queste cose paiono in qualche modo
+
+sfuggire all'ironia del [[Time|tempo]] non sfidandola nemmeno; sono troppo
+
+temporanee perfino per essere semplicemente temporali. Questa gente non costruisce
+
+tombe; non sta, come nella bella immagine della poesia della signora Meynell, semplicemente
+
+costruendo rovine. Non è facile immaginare le rovine di una casa di [[house|bambola]];
+
+ed è per questo che una casa di [[house|bambola]] è una dimora eterna. Fino a che punto
+
+prometta una permanenza politica è materia da ulteriore discussione; sto
+
+solo descrivendo lo stato d'animo della scoperta; in cui tutte queste casette costruite
+
+di assicelle, come i palazzi di una pantomima, sembravano davvero colorate come
+
+le nuvole del mattino; che sono a un tempo fuggevoli ed eterne.
+
+V'è anche in tutto ciò un'atmosfera che viene, in un altro senso, dalla
+
+stanza dei bimbi. Sentiamo dire molto che gli americani sono educati sulla letteratura
+
+inglese; ma credo che pochi americani si rendano conto di quanto i bambini inglesi
+
+siano stati educati sulla letteratura americana. È vero, ed è
+
+inevitabile, che possano essere educati solo su una letteratura americana piuttosto
+
+all'antica. Il signor Bernard [[Shaw]], in una delle sue commedie, notò con verità
+
+i limiti del giovane milionario americano, e specialmente la
+
+stantìa della sua cultura inglese; ma c'è necessariamente un altro lato
+
+della faccenda. Se l'americano parlava più di Macaulay che di Nietzsche, noi
+
+probabilmente parleremmo più di Emerson che di Ezra Pound. Se questa
+
+stantìa sia necessariamente uno svantaggio è, s'intende, un'altra
+
+questione. Ma, in ogni caso, è vero che i vecchi libri americani erano
+
+spesso i libri della nostra [[Childhood|infanzia]], perfino nel senso letterale dei libri
+
+della nostra stanza dei bimbi. Conosco pochi uomini in Inghilterra che non abbiano lasciato la loro
+
+fanciullezza in parte perduta e impigliata nelle foreste di _Huckleberry
+
+Finn_. Conosco poche donne in Inghilterra, dalla più rivoluzionaria
+
+suffragetta alla più accuratamente conservata early-vittoriana, che non
+
+confessino d'aver trascorso una felice [[Childhood|infanzia]] con le Piccole Donne di
+
+Miss Alcott. _Helen's Babies_ fu il primo e di gran lunga il miglior libro nelle
+
+moderne scritture del culto del neonato. E in tutta questa vecchia
+
+letteratura americana all'antica c'era un indefinibile sapore che appagava, e
+
+perfino nutriva, le nostre menti in crescita. Forse era l'odore delle cose che crescono;
+
+ma sono ben lungi dall'esser certo che non fosse semplicemente l'odore del legno. Ora
+
+che tutto il [[Memory|ricordo]] mi ritorna, sembra tornare greve in
+
+cento forme con la fragranza e il tatto del legname. C'era il
+
+perpetuo riferimento alla catasta di legna, il perpetuo sfondo dei
+
+boschi. C'era qualcosa di crudo e pulito in ogni cosa; qualcosa di
+
+fresco e strano in quelle case lontane, cui allora non potevo
+
+dare un nome. Anzi, molte cose divengono chiare in questa landa selvaggia di
+
+legno, che potevano esprimersi solo in simbolo e perfino in fantasia. Non
+
+mi spingerò fino a dire che abbreviasse il passaggio dalla Log
+
+Cabin alla Casa [[house|Bianca]]; come se la Casa [[house|Bianca]] fosse essa stessa fatta di bianco
+
+legno (come disse [[Oliver]] Wendell Holmes), 'che si taglia come [[cheese|formaggio]], ma dura
+
+come il ferro per cose come queste.' Ma dirò che l'esperienza
+
+illumina certi altri versi dello stesso Holmes:--
+
+     Poco chiedo, pochi sono i miei bisogni,
+
+     Chiedo soltanto una capanna di pietra.
+
+Non avrei saputo, in Inghilterra, che stava già chiedendo
+
+parecchio anche solo chiedendo quello. In presenza di questo mondo di legno
+
+la combinazione stessa delle parole pare quasi una contraddizione, come una capanna
+
+di marmo, o un tugurio d'oro.
+
+Fu perciò con un piacere quasi infantile che guardai tutta
+
+questa promettente distesa di legname fresco di taglio e pensai alla crisi degli
+
+alloggi in [[Home|patria]]. Non so per quale incongruo moto della mente
+
+mi attraversò, nello stesso momento, il pensiero di cose
+
+ancestrali e canute della luce di antiche albe. L'ultima guerra
+
+ha riportato l'armatura del [[Body|corpo]]; la prossima guerra potrebbe riportare archi e frecce.
+
+E d'un tratto ebbi un [[Memory|ricordo]] di vecchie case di legno a [[London|Londra]]; e un modello
+
+della città di Shakespeare.
+
+È invero possibile che simili ricordi elisabettiani ricevano un freno
+
+o un gelo quando il viaggiatore giunge, come talvolta accade, ai
+
+margini di uno di questi strani borghi di nuove case a intelaiatura, e si
+
+trova davanti a un cartello inscritto in enormi lettere, 'Guardaci
+
+Crescere.' Può sempre immaginare di vedere le travature gonfiarsi davanti
+
+ai suoi occhi come zucche in qualche super-tropicale [[Summer|estate]]. Ma può essersi
+
+formato la convinzione che nessun tale proclama si potrebbe trovare fuori dalla
+
+città di Shakespeare. E in verità c'è qui una seria critica, per chiunque
+
+conosca la [[history|storia]]; poiché le cose che crescono non sono sempre le
+
+cose che restano; e zucche di quella espansività hanno la tendenza
+
+a scoppiare. Mi si è sempre detto che gli americani erano aspri, frenetici, piuttosto
+
+rozzi e forse volgari; ma erano assai pratici e il futuro
+
+apparteneva a loro. Confesso di aver sentito una sottile sfumatura di differenza; mi piacevano
+
+gli americani; li trovavo cordiali, fantasiosi, e pieni di
+
+nobili entusiasmi; l'unica cosa su cui non sempre riuscivo a sentirmi sicuro era il
+
+loro futuro. Credo fossero più felici nelle loro case a intelaiatura di
+
+quanto lo sia la maggior parte della gente nella maggior parte delle case; avendo [[Democracy|democrazia]], buona [[Education|istruzione]], e un
+
+hobby del lavoro; l'unico [[Doubt|dubbio]] che mi attraversò era qualcosa
+
+come: 'Tutto questo sarà ancora qui fra duecento anni?' Quello era il
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_26" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 26)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -19609,6 +23903,176 @@ implement; I think it was a screw-driver. It seems to me a harmless
 
 request, but from the way people talked about it one might suppose he
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+prima impressione prodotta dalle case di legno che parevano i
+
+carri degli zingari; è un'impressione seria, ma ad essa vi è una
+
+risposta. È una risposta che si schiude al viaggiatore sempre più mentre egli
+
+procede verso ovest, e trova le cittadine sparse per le vaste praterie
+
+centrali. E la risposta è l'agricoltura. Le case di legno possono durare o no;
+
+ma le fattorie dureranno; e il coltivare durerà sempre.
+
+Le case possono sembrare carovane di zingari su una brughiera o un terreno comune; ma esse
+
+non stanno su una brughiera o un terreno comune. Stanno sulla terra più produttiva e
+
+prospera, forse, del mondo moderno. Le case potrebbero crollare
+
+come baracche, ma i campi rimarrebbero; e chiunque lavori
+
+quei campi conterà moltissimo nelle vicende dell'umanità.
+
+Contano già moltissimo, e forse fin troppo,
+
+nelle vicende dell'[[America]]. La vera critica al Middle West
+
+riguarda due fatti, nessuno dei quali è stato finora adeguatamente
+
+colto dalla classe istruita d'Inghilterra. Il primo è che è giunta la volta
+
+del mondo, e con essa quella dei paesi agricoli.
+
+Questo è il senso della [[Resurrection|risurrezione]] dell'Irlanda; questo è il
+
+senso della resa pratica degli ebrei bolscevichi ai contadini
+
+russi. L'altro è che nella maggior parte dei luoghi queste società contadine portano
+
+avanti quella che si può chiamare la tradizione cattolica. Il Middle West è forse
+
+l'unico luogo notevole in cui portano ancora avanti la tradizione
+
+puritana. Ma la tradizione puritana era in origine una tradizione della
+
+città; e la seconda [[Truth|verità]] sul Middle West dipende in gran parte dal suo
+
+rapporto morale con la città. Come suggerirò tra poco, vi è molto
+
+in comune tra questa società agricola dell'[[America]] e le grandi
+
+società agricole d'Europa. Essa tende, come quasi sempre fa la società
+
+agricola, a un certo dignitoso grado di [[Democracy|democrazia]]. La società
+
+agricola tende alla legge agraria. Ma nell'[[America]] puritana c'è un
+
+problema in più, che a stento posso spiegare senza una perifrasi.
+
+Vi fu un [[Time|tempo]] in cui il progresso delle città sembrava schernire la
+
+[[Decay|decadenza]] della campagna. È sempre più vero, credo, oggi, che è
+
+piuttosto la [[Decay|decadenza]] delle città a sembrar [[Poison|avvelenare]] il progresso e la
+
+promessa della campagna. Il cinema si vanta di essere un sostituto della
+
+taverna, ma lo ritengo un pessimo sostituto. E lo penso del tutto a prescindere
+
+dalla questione del liquore fermentato. Nessuno gode del cinema più
+
+di me, ma per goderne all'uomo basta guardare e nemmeno ascoltare,
+
+mentre in una taverna deve parlare. A volte, lo ammetto, deve battersi;
+
+ma al cinema non ha mai bisogno di muoversi. Così nella vera locanda del villaggio sta
+
+la vera politica del villaggio, mentre nell'altro c'è solo la remota e
+
+irreale politica metropolitana. E quella politica della [[City|città]] centrale non è
+
+solo politica cosmopolita ma politica corrotta. Corrompe tutto ciò
+
+che tocca, e questo è il vero punto di molte spinose
+
+questioni.
+
+Per esempio, per quanto mi riguarda, è tutto il nocciolo della questione
+
+del femminismo e della fabbrica. È in gran parte il nocciolo del femminismo
+
+e di molte altre professioni, apparentemente più colte della fabbrica, come
+
+il [[Court|tribunale]] e la tribuna politica. Quando vedo donne così follemente
+
+ansiose di legarsi a tutto questo macchinario della [[City|città]] moderna, il mio
+
+primo sentimento non è indignazione, ma quella specie di pietà cupa e sinistra
+
+con cui dovremmo guardare una folla che si precipita a imbarcarsi su una [[Ship|nave]] che fa acqua
+
+sotto una [[Storm|tempesta]] incombente. Quando vedo mogli e madri darsi al
+
+[[government|governo]] degli affari, non solo lo giudico un cattivo affare ma un affare
+
+in bancarotta. Mi pare proprio come se le donne contadine,
+
+poco prima della [[French Revolution|Rivoluzione francese]], avessero insistito per esser fatte duchesse
+
+o (come è del tutto altrettanto logico e probabile) per esser fatte duchi.
+
+È come se quelle donne cenciose, invece di gridare per il pane, avessero
+
+gridato per cipria e nei. Nel [[Time|tempo]] in cui li avessero indossati
+
+sarebbero state le uniche a indossarli. Perché cipria e nei presto
+
+passarono di moda, ma il pane non passa di moda. Allo stesso
+
+modo, se le donne [[Desert|abbandonano]] la famiglia per la fabbrica, potrebbero scoprire di averlo
+
+fatto per una fabbrica abbandonata. Sarebbe stato assai imprudente da parte
+
+dei ceti inferiori reclamare tutti i privilegi dei ceti superiori negli
+
+ultimi giorni della monarchia francese. Sarebbe stato assai faticoso
+
+imparare la scienza dell'araldica o le tavole di precedenza quando tutte queste
+
+cose erano insieme complicatissime e più che moribonde. Sarebbe
+
+stato tedioso farsi insegnare tutti quei trucchi proprio quando l'intero repertorio di trucchi
+
+stava per finire. Un satirico francese avrebbe potuto scrivere un bell'
+
+apologo su Jacques Bonhomme che sale a [[Paris|Parigi]] con i suoi zoccoli di legno
+
+e pretende di esser fatto Bastone d'Oro in Attesa nel nome di Libertà,
+
+Uguaglianza e Fraternità; ma [[Fear|temo]] che il bastone in attesa sarebbe
+
+ancora in attesa.
+
+Uno dei primi argomenti su cui sentii volgere la conversazione in [[America]]
+
+fu quello di un libro molto interessante intitolato _Main Street_, che coinvolge
+
+molte di queste questioni del moderno industriale e dell'eterno
+
+femminino. È semplicemente la storia, o forse più lo studio che la
+
+storia, di una giovane sposa in una delle innumerevoli cittadine
+
+delle grandi pianure centrali dell'[[America]]; e di una sorta di lotta
+
+tra la sua cultura più inquieta e la prosperità provinciale dei
+
+suoi vicini. Vi sono parecchi suggerimenti veri ed eloquenti nel
+
+libro, ma il tocco che trovai vibrante nella [[Memory|memoria]] di molti
+
+lettori era l'ultima frase, in cui il padrone di [[house|casa]], con
+
+salda semplicità, chiede semplicemente dove sia un certo arnese
+
+domestico; credo fosse un cacciavite. Mi pare una richiesta
+
+innocua, ma dal modo in cui la gente ne parlava si potrebbe supporre che egli
 
 
 
@@ -19790,6 +24254,182 @@ colonists as merely crude and prosaic. They at least have really kept
 something of the simplicity and, therefore, the dignity of [[Democracy|democracy]];
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+avesse chiesto un cacciavite per inchiodare la moglie nella sua bara. E
+
+moltissime persone avanzate ci direbbero che la [[house|casa]] di legno in cui
+
+ella viveva era davvero come una bara di legno. Ma questo mi pare
+
+prendere una visione alquanto funerea della vita dell'umanità.
+
+Perché, dopo tutto, almeno in apparenza, questa è semplicemente la vita
+
+dell'umanità, e persino la vita che tutti gli umanitari si sono sforzati di
+
+dare all'umanità. I rivoluzionari l'hanno trattata non solo come la norma
+
+ma perfino come l'ideale. Guerre rivoluzionarie sono state combattute per instaurare
+
+questo; eroi rivoluzionari hanno combattuto, e martiri rivoluzionari sono
+
+morti, solo per costruire una tale [[house|casa]] di legno per una così degna famiglia. Uomini
+
+hanno impugnato la [[Sword|spada]] e sono periti di [[Sword|spada]] affinché il povero
+
+gentiluomo avesse la libertà di cercare il suo cacciavite. Perché qui c'è
+
+un fatto sull'[[America]] quasi del tutto ignoto in Inghilterra.
+
+Gli inglesi non hanno minimamente compreso la vera forza dell'[[America]].
+
+Noi in Inghilterra sentiamo parlare molto, sentiamo parlare fin troppo, dell'
+
+energia economica dell'[[America]] industriale, del denaro di Mr. Morgan, o
+
+dei macchinari di Mr. Edison. Non ci accorgiamo mai che, mentre noi in Inghilterra
+
+soffriamo dello stesso genere di successi nel capitalismo e nel meccanismo, noi
+
+non abbiamo ciò che gli americani hanno; qualcosa almeno che lo controbilanci
+
+sotto forma di un'agricoltura libera, un vasto campo di libere fattorie disseminate
+
+di piccoli proprietari. Per la ragione che dirò tra un momento, essi
+
+non sono forse, nel senso più pieno e più fine, un contadinato. Ma essi
+
+sono, nel senso pratico e politico, un contadinato puro, in quanto la loro
+
+relativa uguaglianza è un vero contrappeso alla vacillante ingiustizia
+
+delle città.
+
+E, persino in luoghi come quello descritto come Main Street, quella relativa
+
+uguaglianza si può sentire subito. Gli uomini saranno anche provinciali, ma sono
+
+certamente cittadini; si consultano su una base comune. E ripeto
+
+che in questo, dopo tutto, essi realizzano ciò per cui molti profeti e
+
+uomini giusti sono morti. Questo semplice villaggio, discretamente
+
+prospero, discretamente uguale, non tassato da tiranni e non turbato da guerre, è
+
+dopo tutto il luogo che i riformatori hanno considerato come loro meta; ogniqualvolta
+
+i riformatori abbiano usato l'ingegno a sufficienza per avere una meta. La marcia
+
+verso l'Utopia, la marcia verso il Paradiso terrestre, la marcia verso la Nuova
+
+Gerusalemme, è stata in gran parte la marcia verso Main Street. E l'
+
+ultima sensazione moderna è un libro scritto per mostrare quanto sia miserabile
+
+viverci.
+
+Tutto ciò è vero, e credo che la signora potrebbe essere più contenta nella sua
+
+bara, che è arredata più comodamente della maggior parte delle bare
+
+in cui vivono i suoi simili. Nondimeno, vi è una risposta a
+
+questo, o almeno una sua attenuazione. Vi sono ragioni a favore della signora e
+
+ragioni contro il gentiluomo e il cacciavite. E quando avremo
+
+notato che cosa esso sia davvero, avremo notato il vero svantaggio in una
+
+situazione come quella dell'[[America]] moderna, e specialmente del Middle West.
+
+E con ciò torniamo alla [[Truth|verità]] da cui ho preso le mosse in questa
+
+speculazione; la [[Truth|verità]] che pochi hanno ancora colto, ma di cui io, per
+
+conto mio, sono sempre più convinto: che l'industrialismo si diffonde perché
+
+sta decadendo; che solo la [[Dust|polvere]] e le ceneri della sua dissoluzione
+
+soffocano ovunque la crescita delle cose naturali e mutano in grigio il verde
+
+del mondo.
+
+In questa relativa uguaglianza agricola gli americani del Middle West
+
+sono assai più avanti degli inglesi del ventesimo secolo. Non è
+
+colpa loro se sono ancora alcuni secoli indietro rispetto agli inglesi del
+
+dodicesimo secolo. Ma il difetto per cui non giungono a essere un vero
+
+contadinato è che non producono il proprio cibo spirituale, nello
+
+stesso senso in cui producono il proprio cibo materiale. Non creano, come alcuni
+
+contadinati, altre specie di cultura oltre a quella chiamata
+
+agricoltura. La loro cultura viene dalle grandi città; ed è di là
+
+che viene tutto il male.
+
+Se un uomo avesse attraversato l'Inghilterra nel Medioevo, o persino
+
+l'Europa in tempi più recenti, avrebbe trovato una cultura che mostrava
+
+la propria vitalità nella propria varietà. Conosciamo le avventure dei tre
+
+fratelli nelle vecchie fiabe che attraversavano la pianura sconfinata da
+
+[[City|città]] a [[City|città]], e trovavano un regno governato da un mago e un altro devastato
+
+da un drago, un popolo che viveva in castelli di cristallo e un altro seduto
+
+presso fontane di vino. Questi non sono che ingrandimenti leggendari delle reali
+
+avventure di un viaggiatore che passa da una zona di contadinato a
+
+un'altra, e trova donne che portano strani copricapi e uomini che cantano
+
+nuove [[songs|canzoni]].
+
+Un viaggiatore in [[America]] sarebbe alquanto sorpreso se trovasse la
+
+gente della [[City|città]] di St. Louis tutta con corone e armature crociate in
+
+[[Honour|onore]] del loro santo patrono. Potrebbe persino provare qualche lieve sorpresa
+
+se trovasse tutti i cittadini di Philadelphia vestiti di un costume
+
+composito, che unisse quello di un quacchero a quello di un pellerossa, in [[Honour|onore]]
+
+del nobile trattato di William Penn. Eppure queste sono il genere di cose locali e
+
+tradizionali che davvero si troverebbero a dar varietà alle
+
+valli dell'Europa medievale. Io stesso provai un'esaltazione perfettamente genuina e
+
+generosa di [[Freedom|libertà]] e di nuova intraprendenza in luoghi nuovi come
+
+l'Oklahoma. Ma difficilmente si troverebbe in Oklahoma ciò che si trovava a
+
+Oberammergau. Ciò che va in Oklahoma non è la sacra rappresentazione contadina, ma il
+
+cinema. E l'obiezione al cinema non è tanto che esso va in
+
+Oklahoma, quanto che non viene dall'Oklahoma. In altre parole, questa
+
+gente ha, sul lato economico, un accesso molto più vicino del nostro alla
+
+[[Freedom|libertà]] economica. Non sta a noi, che abbiamo lasciato che la nostra terra fosse
+
+rubata dagli squire e poi volgarizzata da falsi squire, sogghignare su tali
+
+coloni come se fossero solo rozzi e prosaici. Essi almeno hanno davvero conservato
+
+qualcosa della semplicità e, dunque, della dignità della [[Democracy|democrazia]];
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_28" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 28)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -19965,6 +24605,178 @@ think that the bird, if not imperial, was at least rather imperious. But
 
 I am not discussing those exceptional details here. It is equally
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+e quella [[Democracy|democrazia]] potrà ancora salvare il loro paese perfino dalle calamità
+
+della ricchezza e della scienza.
+
+Ma, mentre questi agricoltori non hanno bisogno di diventare industriali per
+
+diventare industriosi, essi tendono a diventare industriali nella misura in cui
+
+diventano intellettuali. La loro cultura, e in gran parte anche il loro
+
+credo, arrivano lungo le ferrovie dai grandi centri urbani moderni,
+
+e portano con sé una raffica di [[Death|morte]] e un lezzo di cose putrescenti. È
+
+quell'influenza che [[Alone|sola]] impedisce al Middle West di progredire
+
+verso il Medioevo.
+
+Perché, dopo tutto, intrecciato in cento leggende del Medioevo, si può
+
+trovare un motivo simbolico di martelli e chiodi e seghe; e non c'è
+
+ragione perché non si dovessero anche santificare i cacciaviti. Non c'è
+
+ragione perché il cacciavite che parve una tale inezia all'
+
+autore non si dovesse portare in trionfo lungo Main Street come una
+
+[[Sword|spada]] di stato, in qualche corteo della Gilda di San Giuseppe dei
+
+Falegnami o di San Dunstano dei Fabbri. Fu la poesia e la pietà cattolica
+
+a colmare la vita comune di qualcosa che manca alla
+
+degna e virile [[Democracy|democrazia]] dell'Occidente. Né gli americani
+
+d'ingegno ne sono così ignari come alcuni potrebbero supporre. Vi è un'
+
+ammirevole società chiamata i Medievalisti a Chicago; il cui nome e
+
+indirizzo colpiranno molti come suggerimento di una certa lotta dell'[[Soul|anima]]
+
+contro l'ambiente. Con la cordialità nazionale essi blasonano la loro
+
+carta da lettere con l'araldica e le tinte delle vetrate gotiche; con l'
+
+esuberanza nazionale assumono il costume in maschera dei frati; ma chiunque
+
+[[Essay|tentasse]] di ridere di loro invece che con loro scoprirebbe
+
+il proprio errore. Perché molti di loro sanno davvero moltissimo di
+
+medievalismo; assai più di me, o della maggior parte degli altri uomini cresciuti su un'
+
+isola che è affollata di cattedrali. Qualcosa dello stesso spirito
+
+si può vedere nei bei nuovi progetti ed edifici di Yale,
+
+deliberatamente modellati non sull'armonia classica ma sull'
+
+irregolarità e la sorpresa gotiche. La grazia e l'energia dell'architettura
+
+medievale risuscitata da un uomo come Mr. R. A. Cram di Boston ha
+
+dietro di sé un entusiasmo non solo artistico ma storico ed etico; un
+
+entusiasmo per il credo cattolico che fece la civiltà medievale.
+
+Persino sulle immense pianure puritane del Middle West l'influenza si aggira
+
+nel modo più strano. Ed è notevole che tra i pessimistici
+
+epitaffi della Spoon [[River]] Anthology, in quel cimitero al cui confronto
+
+la maggior parte dei cimiteri è allegra, tra i suicidi e i segreti
+
+beoni e i monomaniaci e gli orridi ipocriti di quel felice villaggio,
+
+quasi l'unico segno di rispetto e di riconoscimento di più ampie speranze è
+
+dedicato al prete cattolico.
+
+Ma Main Street è Main Street nel complesso. Main Street è Modern Street
+
+nella sua molteplicità di persone blandamente semicolte; e tutte queste
+
+cose storiche sono lontane mille miglia da loro. Essi non hanno udito l'
+
+antico frastuono né delle arti né delle armi; la costruzione della [[Cathedral|cattedrale]] o
+
+la marcia della crociata. Ma almeno non hanno deliberatamente
+
+calunniato la crociata e sfregiato la [[Cathedral|cattedrale]]. E se non hanno
+
+prodotto le arti contadine, possono ancora produrre i mestieri contadini.
+
+Possono seminare e arare e mietere e vivere di queste cose eterne;
+
+né saranno smosse le fondamenta del loro stato. E la [[Memory|memoria]] di
+
+quei campi colossali, di quei fecondi deserti, mi tornò tanto più
+
+prontamente alla mente perché terminai queste riflessioni nel cuore stesso
+
+di una moderna [[Industrial City|città industriale]], se si può dire che ne abbia uno. Era
+
+in effetti una [[Industrial City|città industriale]] inglese, ma mi colpì che potesse
+
+essere [[Well|benissimo]] una americana. E mi colpì anche che noi cediamo piuttosto
+
+troppo facilmente all'[[America]] la polverosa palma dell'impresa industriale, e proviamo
+
+fin troppo poca apprensione per verdure più verdi e più fresche. C'è
+
+una storia di un americano che studiò con cura tutte le attrattive di [[London|Londra]]
+
+o di Roma o di [[Paris|Parigi]], e giunse alla conclusione che 'non aveva nulla in più di
+
+Minneapolis.' A me pare che Minneapolis non abbia nulla in più di Manchester.
+
+Vi erano le stesse grigie prospettive di negozi pieni di pneumatici di gomma e
+
+di apparecchi metallici; un uomo sentiva che avrebbe potuto camminare un giorno senza vedere
+
+un filo d'erba; l'intero orizzonte era così infinito di efficienza. Le
+
+ciminiere delle fabbriche potevano essere Pittsburg; le insegne luminose potevano
+
+essere [[New York]]. Si alzava lo sguardo in una sorta di [[Despair|disperazione]] verso il cielo, non per un'
+
+insegna luminosa ma, in un certo senso, per un segno, per qualche frase di significato
+
+e giudizio; per quell'istinto che spinge ogni uomo in una tale scena a cercare
+
+l'unica cosa che non sia stata fatta dagli uomini. Ma persino quello era
+
+illogico, perché era [[Night|notte]], e potevo solo aspettarmi di vedere le [[Stars|stelle]],
+
+che avrebbero potuto ricordarmi Old Glory; ma non era quello il segno
+
+che mi opprimeva. Tutto il suolo era un deserto di pietra e tutti gli
+
+edifici una foresta di mattoni; ero addentro a un labirinto di
+
+cose senza vita. Solo, guardando in alto, tra due nere ciminiere e un
+
+palo del telegrafo, vidi vasto e lontano e fioco, come lo videro i primi uomini,
+
+l'argenteo disegno del Grande Carro.
+
+_L'uomo d'affari americano_
+
+È un luogo comune che gli uomini siano tutti d'accordo nell'usare i simboli, e tutti
+
+discordino sul significato dei simboli. È ovvio che un repubblicano russo
+
+potrebbe arrivare a identificare l'aquila come uccello dell'impero e
+
+perciò uccello da preda. Ma quando alla fine fosse fuggito nella terra
+
+dei liberi, potrebbe trovare lo stesso uccello sulla moneta americana figurare
+
+come uccello di [[Freedom|libertà]]. Senza dubbio, potrebbe trovare molte altre cose
+
+a sorprenderlo nella terra dei liberi, e molte calcolate per fargli
+
+pensare che l'uccello, se non imperiale, era perlomeno piuttosto imperioso. Ma
+
+non sto discutendo qui quei dettagli eccezionali. È del pari
 
 
 
@@ -20146,6 +24958,182 @@ ostentatious fur coats, with all the fur outside.
 Now an Englishman has a number of atmospheric but largely accidental
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+ovvio che un reazionario russo potrebbe [[Cross|attraversare]] il mondo con un voto di
+
+vendetta contro la [[Flag|bandiera]] rossa. Ma quell'autoritario potrebbe avere qualche
+
+difficoltà con le autorità, se sparasse a un uomo per aver usato la
+
+[[Flag|bandiera]] rossa sulla ferrovia tra Willesden e Clapham Junction.
+
+Ma, naturalmente, la difficoltà dei simboli è in genere molto più
+
+sottile che in questi casi semplici. Ho osservato altrove che la
+
+prima cosa di cui un viaggiatore dovrebbe scrivere è la cosa di cui
+
+non ha letto. Può essere una cosa piccola o secondaria, ma è una
+
+cosa che egli ha visto e non semplicemente si aspettava di vedere.
+
+Ho fatto l'esempio della grande moltitudine di case di legno in [[America]];
+
+potremmo dire di città di legno e metropoli di legno. Ma dopo che ha visto
+
+tali cose, il suo dovere seguente è vederne il significato; e qui è
+
+possibile moltissima complicazione e controversia. La cosa
+
+probabilmente non significa ciò che egli suppone da principio che significhi in
+
+apparenza; ma anche in apparenza, potrebbe significare molte cose diverse e persino
+
+opposte.
+
+Per esempio, una [[house|casa]] di legno potrebbe suggerire una [[Solitude|solitudine]] quasi selvaggia; una
+
+rozza baracca messa insieme da un pioniere in una foresta; oppure potrebbe significare una
+
+soluzione molto recente e rapida del problema abitativo, condotta a poco prezzo
+
+e dunque su scala molto vasta. Una [[house|casa]] di legno potrebbe suggerire la
+
+cosa più nuova in [[America]] o una delle cose più antiche in
+
+Inghilterra. Potrebbe significare una grigia rovina a Stratford o una bianca esposizione a
+
+Earl's [[Court]].
+
+È quando giungiamo a questa interpretazione dei simboli internazionali che
+
+commettiamo la maggior parte degli errori internazionali. Senza il minimo errore
+
+di dettaglio, prometto di dimostrare che le donne orientali sono indipendenti
+
+perché portano i pantaloni, o che gli uomini orientali sono soggetti perché portano
+
+le gonne. Solo per applicarlo a questo caso, prenderò l'esempio di due
+
+oggetti molto comuni e banali della vita moderna: un bastone da passeggio e
+
+una pelliccia.
+
+Come volle il caso, viaggiai per l'[[America]] con due bastoni, come un
+
+nobile giapponese con le sue due spade. [[Fear|Temo]] che il paragone sia troppo solenne.
+
+Rassomigliavo più a uno storpio con due stampelle o a una versione assai
+
+inefficace del diavolo su due bastoni. Li portavo entrambi
+
+perché entrambi mi erano cari, e non volevo rischiare di perdere l'uno o l'
+
+altro nei miei viaggi erratici. Uno è un bastone grigio molto semplice, dei
+
+boschi del Buckinghamshire, ma poiché lo portai con me in Palestina esso
+
+partecipa del carattere del bastone di un [[Pilgrim|pellegrino]]. Quando potrò dire di
+
+aver portato lo stesso bastone a Gerusalemme e a Chicago, penso che il bastone
+
+ed io potremo entrambi riposarci. L'altro, che ho ancor più caro, mi fu
+
+donato dai Cavalieri di [[Columbus]] a Yale, e vorrei poter pensare
+
+che il loro titolo cavalleresco mi consentisse di considerarlo una [[Sword|spada]].
+
+Ora, non so se gli americani che incontrai, colpiti dalla ricercata
+
+civetteria del mio abito e del mio aspetto, conclusero che è usanza degli
+
+eleganti dandy inglesi portare due bastoni da passeggio. Ma so bene che
+
+è molto meno comune tra gli americani che tra gli inglesi portarne
+
+anche uno solo. Il punto, tuttavia, non è semplicemente che più bastoni sono portati
+
+dagli inglesi che dagli americani; è che i bastoni che sono portati
+
+dagli americani stanno per qualcosa di interamente diverso.
+
+In [[America]] un bastone è comunemente chiamato cane, e ha attorno a sé
+
+qualcosa dell'atmosfera che il poeta descrisse come il garbato maneggio
+
+del bastone screziato. Sarebbe un'esagerazione dire che quando i
+
+cittadini degli Stati Uniti vedono un uomo che porta un bastone leggero,
+
+ne deducono che se fa quello non fa nient'altro. Ma vi è attorno ad esso
+
+un lieve sapore di lusso e di poltroneria, e la maggior parte degli energici
+
+cittadini di questa energica società lo evita per istinto.
+
+Ora, in un inglese come me, portare un bastone può implicare poltroneria,
+
+ma non implica lusso, e posso dire con una certa fermezza che non
+
+implica dandismo. In moltissimi inglesi significa proprio l'
+
+opposto perfino della poltroneria. Per uno di quei fantastici paradossi che
+
+sono il mistero della nazionalità, un bastone da passeggio spesso significa davvero
+
+camminare. Suggerisce di frequente proprio il contrario del bello con il suo
+
+bastone screziato; non suggerisce un tipo cittadino, ma piuttosto specialmente un
+
+tipo campagnolo. Implica piuttosto quel genere d'inglese che va vagando
+
+per viottoli e prati e decapita i cardi. Suggerisce
+
+il tipo d'uomo che ha portato il bastone attraverso i suoi boschi natii, e
+
+forse l'ha persino tagliato nei suoi boschi natii.
+
+Vi sono in abbondanza questi vigorosi poltroni, senza [[Doubt|dubbio]], nelle parti
+
+rurali dell'[[America]], ma l'idea di un bastone da passeggio non li
+
+suggerirebbe particolarmente agli americani; non evocherebbe tali figure come una
+
+bacchetta fatata. Sarebbe facile far risalire la differenza a molte
+
+origini inglesi, forse a origini aristocratiche, all'idea del
+
+vecchio squire, un uomo vigoroso e persino rustico, ma addestrato a reggere un
+
+inutile bastone piuttosto che un utile arnese. Si potrebbe suggerire che
+
+i cittadini americani almeno [[Love|amino]] la [[Freedom|libertà]] al punto da gradire di avere
+
+le mani libere. Si potrebbe suggerire, d'altra parte, che essi
+
+tengano le mani per le manopole di molte macchine. E che la mano su
+
+una manopola sia meno libera della mano su un bastone o persino su un arnese. Ma queste
+
+sono di nuovo questioni controverse e io sto solo annotando un fatto.
+
+Se un inglese volesse immaginare più o meno esattamente quale sia l'
+
+impressione, e quanto sia fuorviante, potrebbe trovare qualcosa come un
+
+parallelo in ciò che egli stesso prova riguardo a una pelliccia. Quando mi trovai per la prima volta
+
+tra la folla al piano principale di un albergo di [[New York]], la mia impressione piuttosto
+
+esagerata del lusso del luogo era in gran parte prodotta
+
+dal numero di uomini in pelliccia, e per giunta pellicce che considereremmo piuttosto
+
+ostentate, con tutto il pelo all'esterno.
+
+Ora un inglese ha una serie di associazioni atmosferiche ma in gran parte accidentali
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_30" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 30)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -20319,6 +25307,176 @@ of why they are mentioned. It certainly does not mean merely a [[Love|love]] of
 
 money; and if it did, a [[Love|love]] of money may mean a great many very
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+associazioni in rapporto a una pelliccia. Non dirò che egli
+
+pensi che un uomo in pelliccia debba essere un uomo ricco e malvagio; ma dico
+
+che nella sua stessa visione ideale e perfetta un uomo ricco e malvagio
+
+indosserebbe una pelliccia. Così ebbi la sensazione di trovarmi in una tumultuosa
+
+calca di milionari americani, o persino di milionari africani; perché i
+
+milionari di Chicago devono essere come i Cavalieri della Tavola Rotonda
+
+a confronto con i milionari di Johannesburg.
+
+Ma, di fatto, l'uomo in pelliccia non era nemmeno un
+
+milionario americano, ma semplicemente un americano. Non significava lusso,
+
+ma piuttosto necessità, e persino una necessità dura e quasi eroica.
+
+Orson probabilmente indossava una pelliccia; ed era stato allevato dagli orsi, ma non
+
+dagli orsi di Wall Street. Gli eschimesi sono generalmente rappresentati come un popolo
+
+peloso; ma non sono necessariamente impegnati in delicate operazioni
+
+finanziarie, nemmeno nella tipica e appropriata occupazione chiamata
+
+congelamento del rivale. E se l'americano non è esattamente un viaggiatore artico
+
+che corre da polo a polo, almeno spesso fugge letteralmente da
+
+ghiaccio a ghiaccio. Deve fare una distinzione molto estrema tra l'abbigliamento da esterno
+
+e quello da interno. Deve vivere in una ghiacciaia all'esterno e in una
+
+serra all'interno; così calda che si può dire costruisca una ghiacciaia
+
+dentro di essa. Si trasforma in una ghiacciaia e si scalda contro
+
+il freddo finché non è abbastanza caldo da mangiare gelati. Ma il punto è che la
+
+stessa pelliccia che in Inghilterra indicherebbe la vita del sibarita può
+
+qui [[Well|benissimo]] indicare la vita strenua; proprio come lo stesso bastone
+
+che qui suggerirebbe un poltrone in Inghilterra suggerirebbe un
+
+arrancante e quasi un [[Pilgrim|pellegrino]].
+
+E questi due nonnulla sono tipi che vorrei porre, a titolo di
+
+clausola e scusa, proprio all'inizio di ogni tentativo di resoconto di
+
+qualsiasi impressione di una società straniera. Servono soltanto a illustrare
+
+l'impressione più importante di tutte, l'impressione di quanto false tutte le
+
+impressioni possano essere. Sospetto che la maggior parte delle impressioni più false
+
+sia venuta dall'accurata registrazione di fatti verissimi. Sono venute
+
+dal fatale potere di osservare i fatti senza essere capaci di
+
+osservare la [[Truth|verità]]. Sono venute dal vedere il simbolo con la più viva
+
+chiarezza ed essere ciechi a tutto ciò che esso simboleggia. È come se un uomo che
+
+non sapesse il greco immaginasse di poter leggere un'[[Inscription|iscrizione]] greca
+
+perché ha preso la R greca per una P inglese o la lunga E greca per un'
+
+H inglese. Non menziono questo semplicemente come critica alle impressioni altrui
+
+sull'[[America]], ma come critica alle mie proprie. Desidero che si
+
+comprenda che sono [[Well|ben]] consapevole che tutte le mie vedute sono soggette a questa
+
+sorta di potenziale critica, e che persino quando sono certo dei
+
+fatti non pretendo di essere certo delle deduzioni.
+
+In questo capitolo [[Hope|spero]] di mostrare come un fraintendimento di questo genere
+
+influenzi l'impressione comune, non del tutto infondata, che gli
+
+americani parlino di dollari. Ma per il momento sono soltanto ansioso di
+
+evitare un simile fraintendimento quando parlo degli americani. Sui
+
+dogmi della [[Democracy|democrazia]], sul diritto di un popolo ai propri simboli,
+
+siano essi monete o costumi, sono convinto, e non più da
+
+smuovere. Ma sul significato di quei simboli, in argento o altre
+
+sostanze, sono sempre aperto alla correzione. Quell'errore è il prezzo che
+
+paghiamo per la grande gloria della nazionalità. E in questo senso sono del tutto
+
+pronto, fin dall'inizio, a mettere in guardia i miei stessi lettori contro le mie stesse opinioni.
+
+Il fatto senza la [[Truth|verità]] è futile; anzi il fatto senza la [[Truth|verità]]
+
+è falso. Ho già notato che questo è particolarmente vero riguardo alle nostre
+
+osservazioni di un paese straniero; ed è certamente vero riguardo a un
+
+piccolo fatto che si è gonfiato in una grande [[Fable|favola]]. Intendo la [[Fable|favola]] sull'
+
+[[America]] comunemente riassunta nella frase sull'Onnipotente Dollaro. Non
+
+penso che il dollaro sia onnipotente in [[America]]; immagino che molte cose siano
+
+più potenti, compresi molti ideali e alcuni ideali piuttosto folli. Ma
+
+penso che si potrebbe sostenere che il dollaro ha un altro degli
+
+attributi della divinità. Se non è onnipotente è in un certo senso
+
+onnipresente. Qualunque cosa gli americani pensino dei dollari, è, credo,
+
+relativamente vero che parlano di dollari. Se un mero registro
+
+meccanico potesse essere colto dai moderni macchinari dei dittafoni e della
+
+stenografia, non penso sia probabile che la mera parola 'dollari'
+
+ricorrerebbe più spesso in un dato numero di conversazioni americane
+
+di quanto la mera parola 'sterline' o 'scellini' in un numero simile di
+
+conversazioni inglesi. E queste statistiche, come quasi tutte le statistiche,
+
+sarebbero del tutto inutili e persino fondamentalmente false. È come se
+
+dovessimo calcolare che la parola 'elefante' è stata menzionata un certo
+
+numero di volte in una particolare strada di [[London|Londra]], o così tante volte più
+
+spesso di quanto la parola 'fulmine' sia stata usata a Stoke Poges.
+
+Senza dubbio vi sono statistici capaci di raccogliere con cura anche quelle
+
+statistiche; e senza dubbio vi sono scientifici riformatori sociali
+
+capaci di legiferare sulla loro base. Probabilmente argomenterebbero
+
+dall'immaginario elefantesco della strada di [[London|Londra]] che una tale e tale
+
+percentuale dei capifamiglia erano megalomani e richiedevano cure
+
+mediche e coercizione poliziesca. E senza dubbio i loro calcoli, come quasi
+
+tutti tali calcoli, tralascerebbero l'unico punto importante; come che
+
+la strada fosse nell'immediata vicinanza dello Zoo, o fosse per giunta
+
+più felicemente situata sotto la benigna [[Shadow|ombra]] dell'Elephant and
+
+[[Castle]]. E allo stesso modo il calcolo meccanico sulla menzione
+
+dei dollari è del tutto inutile a meno che non abbiamo qualche comprensione morale
+
+del perché siano menzionati. Certamente non significa semplicemente un [[Love|amore]] per il
+
+denaro; e se lo significasse, un [[Love|amore]] per il denaro può significare moltissime cose
 
 
 
@@ -20498,6 +25656,180 @@ wealth. In the English case, at least, it lies very deep in the English
 spirit. Many of the greatest English things have had this lighter and
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+diverse e persino contrarie. L'[[Love|amore]] per il denaro è molto diverso
+
+in un contadino o in un pirata, in un avaro o in un giocatore, in un grande
+
+finanziere o in un uomo che fa qualche lavoro pratico e produttivo. Ora questa
+
+differenza nella conversazione degli uomini d'affari americani e inglesi
+
+nasce, credo, da certe cose molto più profonde nell'americano che
+
+generalmente non sono comprese dall'inglese. Nasce anche da cose molto
+
+più profonde nell'inglese, delle quali l'inglese è ancor più
+
+ignaro.
+
+Tanto per cominciare, immagino che l'americano, del tutto a prescindere da ogni [[Love|amore]] per il
+
+denaro, abbia un grande [[Love|amore]] per la misurazione. Menzionerà l'esatta dimensione
+
+o il peso delle cose, in un modo che a noi appare irrilevante. È
+
+come se dovessimo dire che un uomo è venuto a trovarci portando tre piedi di
+
+bastone da passeggio e quattro pollici di sigaro. È così in casi che non hanno alcun
+
+possibile legame con qualsivoglia avarizia o [[Greed|avidità]] di guadagno. Un americano
+
+loderà la prodiga generosità di qualche altro uomo nel cedere la propria
+
+tenuta per il bene dei poveri. Ma generalmente dirà che il
+
+filantropo ha donato loro un parco di 200 acri, dove un inglese
+
+riterrebbe del tutto sufficiente dire che ha donato loro un parco. Vi è
+
+qualcosa in questa precisione che pare adatto all'atmosfera
+
+americana; alla dura luce del sole, e ai cieli senza nubi, e allo
+
+scintillante dettaglio dell'architettura e del paesaggio; proprio come la
+
+più vaga versione inglese è consona al nostro scenario più nebuloso e più
+
+impressionista. È anche connesso forse con qualcosa di più
+
+fanciullesco nella civiltà più giovane; e corrisponde all'appassionata
+
+particolarità con cui un ragazzo distingue le uniformi dei
+
+reggimenti, l'attrezzatura delle navi, o persino i colori dei biglietti del tram. È
+
+un certo appetito divino per le cose, in quanto distinte dai pensieri.
+
+Ma vi è anche, naturalmente, una causa molto più profonda della differenza; e
+
+la si può facilmente dedurre notando la vera [[Nature|natura]] della differenza
+
+stessa. Quando due uomini d'affari su un treno parlano di dollari non sono
+
+così sciocco da aspettarmi che parlino della [[philosophy|filosofia]] di
+
+san Tommaso d'[[aquinas|Aquino]]. Ma se fossero due uomini d'affari inglesi non mi
+
+aspetterei che parlino di affari. Probabilmente sarebbe di
+
+qualche sport; e molto probabilmente qualche sport a cui essi stessi non
+
+sognarono mai di dedicarsi. La differenza approssimativa è che l'americano
+
+parla del suo lavoro e l'inglese delle sue vacanze. Il suo ideale non è
+
+il lavoro ma l'ozio. Come ogni altra caratteristica nazionale, questa
+
+non è primariamente un motivo di lode o di biasimo; in essenza non implica
+
+né l'uno né l'altro e in effetti implica entrambi. È certamente connessa con
+
+quello snobismo che è il grande peccato della società inglese. L'
+
+inglese [[Love|ama]] concepirsi come una sorta di gentiluomo di campagna;
+
+e i suoi castelli in aria sono tutti castelli in Scozia piuttosto che in
+
+Spagna. Perché, come ideale, un [[Castle|castello]] scozzese è tanto inglese quanto un rarebit
+
+gallese o uno stufato irlandese. E se parla meno di denaro [[Fear|temo]] sia
+
+talvolta perché in un certo senso ne pensa di più. Il denaro è un mistero
+
+nel senso antico e letterale di qualcosa di troppo sacro per la parola. L'oro è
+
+un dio; e come il dio di certi agnostici non ha nome ed è adorato
+
+solo nelle sue opere. È vero in un certo senso che il gentiluomo inglese
+
+desidera avere denaro a sufficienza per poterlo dimenticare. Ma si può
+
+mettere in dubbio che lo dimentichi interamente. Contro questa debolezza
+
+l'americano è riuscito, al prezzo di moltissima rozzezza e
+
+frastuono, a rendere generale un rispetto molto reale per il lavoro. Ha in parte
+
+disincantato il pericoloso fascino del gentiluomo, e in quel senso
+
+ha raggiunto un certo grado di [[Democracy|democrazia]]; che è la conquista più difficile
+
+del mondo.
+
+D'altra parte, vi è un lato buono nel sogno a occhi aperti dell'inglese sull'
+
+ozio, e uno che lo spirito americano tende a mancare. Lo si può
+
+esprimere nella parola 'vacanza' o meglio ancora nella parola 'hobby.' L'
+
+inglese, nel suo carattere di [[Robin Hood]], ha davvero due corde
+
+al suo arco. Anzi l'inglese è davvero [[Well|ben]] rappresentato da Robin
+
+Hood; perché vi è sempre qualcosa in lui che si può letteralmente
+
+dire fuorilegge, nel senso di essere extra-legale o fuori dalle regole.
+
+Un francese disse di Browning che il suo centro non era nel mezzo; e
+
+si può dire di più di un inglese che il suo cuore non è dove è il suo
+
+tesoro. Browning espresse un sentimento molto inglese quando disse:--
+
+     Mi piace sapere che un macellaio dipinge,
+
+     un fornaio verseggia per suo diletto,
+
+     il fabbricante di candelieri molto avvezza
+
+     la sua [[Soul|anima]] al [[Song|canto]], o forse muto
+
+     si fa saltare le cervella sul flauto.
+
+Stevenson toccò lo stesso sentimento insulare quando disse che molti
+
+uomini che conosceva, che erano venditori di carne all'occhio esterno, potrebbero nella
+
+vita della contemplazione sedere con i santi. Ora lo straordinario
+
+risultato del venditore di carne americano è che il suo entusiasmo poetico
+
+può davvero essere per le vendite di carne; non per il denaro ma per la carne. Un
+
+commesso viaggiatore americano mi chiese, con un [[Fire|fuoco]] religioso negli occhi,
+
+se non pensassi che il commercio potesse essere un'arte. In Inghilterra
+
+vi sono molti venditori sinceramente appassionati d'arte; ma di rado dell'
+
+arte del vendere. Per loro l'arte è un hobby; una cosa di ozio e
+
+libertà. Ecco perché il viaggiatore inglese parla, se non d'arte, allora di
+
+sport. Ecco perché i due uomini della [[City|City]] sul treno di [[London|Londra]], se non
+
+parlano di golf, potrebbero parlare di giardinaggio. Se non
+
+parlano di dollari, o dell'equivalente dei dollari, la ragione sta
+
+molto più in profondità di qualsiasi superficiale lode o biasimo che tocchi il [[Desire|desiderio]] di
+
+ricchezza. Nel caso inglese, almeno, sta molto in profondità nello spirito
+
+inglese. Molte delle più grandi cose inglesi hanno avuto questo carattere più leggero e
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_32" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 32)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -20670,6 +26002,174 @@ wholly insincere even when it drives him to what some of us would call
 stealing; any more than the duellist's [[Honour|honour]] was insincere when it
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+e più sciolto carattere di un hobby o di un esperimento delle vacanze. Persino un capolavoro
+
+è stato spesso un sottoprodotto. Le opere di Shakespeare vengono fuori così
+
+casualmente che possono essere attribuite alle persone più improbabili; persino
+
+a Bacone. I sonetti di Shakespeare vengono raccolti in seguito come se da
+
+un cestino della carta straccia. L'[[Immortality|immortalità]] del dottor Johnson non poggia sulle
+
+[[Leaves|pagine]] scritte che raccolse, ma interamente sulle parole che sprecò,
+
+le parole che disperse ai venti. Una cosa tanto grande quanto il [[Pickwick]] è
+
+quasi una sorta di incidente; cominciò come qualcosa di secondario e crebbe in
+
+qualcosa di primario e preminente. Cominciò con mere parole scritte per
+
+illustrare le immagini di qualcun altro; e si gonfiò come un [[Epic|poema epico]] dilatato
+
+da un [[Epigram|epigramma]]. Si potrebbe quasi dire che nel caso del [[Pickwick]]
+
+l'autore cominciò come il servo dell'[[artist|artista]]. Ma, come nella stessa storia
+
+del [[Pickwick]], il servo divenne più grande del padrone. Questa
+
+incalcolabile e accidentale qualità, come tutte le qualità nazionali, ha
+
+la sua forza e la sua debolezza; ma rappresenta davvero un certo fondo di riserva
+
+di interessi nella vita dell'inglese; e lo distingue dall'
+
+altro tipo estremo, del milionario che lavora fino a crollare, o che
+
+crolla perché smette di lavorare. È il grande merito della civiltà
+
+americana che in quel paese non è davvero ipocrisia parlare
+
+della dignità del lavoro. Vi è qualcosa che potrebbe quasi chiamarsi
+
+la santità del lavoro; ma è soggetta alla profonda legge che quando
+
+qualcosa di meno che il sommo diviene una santità, tende anche a
+
+diventare una superstizione. Quando il fabbricante di candelieri non si fa saltare le
+
+cervella sul flauto vi è sempre il pericolo che se le faccia saltare
+
+altrove, a causa delle condizioni depresse nel mercato dei candelieri.
+
+Ora certamente una delle prime impressioni dell'[[America]], o in ogni caso
+
+di [[New York]], che non è affatto la stessa cosa dell'[[America]], è quella di
+
+una sorta di calca di uomini d'affari, che si comportano in molti modi in una foggia molto
+
+diversa da quella degli sciami di uomini della [[City|City]] di [[London|Londra]] che ogni giorno salgono
+
+alla [[City|City]]. Se ne stanno seduti in gruppi con gravità da pellerossa, come se
+
+si passassero la pipa della pace; benché, di fatto, la maggior parte di loro stia fumando
+
+sigari e alcuni di loro stiano mangiando sigari. Quest'ultima cosa mi colpisce come uno
+
+dei più peculiari gusti transatlantici, più peculiare di quello del
+
+masticare gomma. Un uomo se ne starà seduto per ore consumando un sigaro come se fosse un
+
+bastoncino di zucchero; ma lo immaginerei un bastoncino di zucchero molto
+
+sgradevole. Perché tenti di godersi un sigaro senza accenderlo non lo
+
+so; se sia un modo più economico di portare un mero simbolo
+
+di conversazione commerciale; o se qualcosa della stessa strana
+
+e bizzarra [[morality|moralità]] che traccia una tale distinzione tra la birra e la
+
+ginger beer tracci una distinzione altrettanto etica tra il toccare il
+
+tabacco e l'accenderlo. Per il resto, sarebbe facile fare un semplice
+
+[[Sketch|schizzo]] esteriore pieno di cose ugualmente strane; perché questo si può sempre
+
+fare in un paese straniero. Tengo conto del fatto che tutti gli stranieri
+
+si somigliano; ma immagino che tutte quelle facce dai lineamenti duri, con
+
+occhiali e mascelle rasate, si somiglino piuttosto, perché a tutti loro piace
+
+rendere dure le proprie facce. E con la menzione del loro atteggiamento mentale
+
+ci rendiamo conto della futilità di ogni tale [[Sketch|schizzo]] esteriore. Se non riusciamo a vedere
+
+che questi sono qualcosa di più che uomini che fumano sigari e parlano di
+
+dollari faremmo molto meglio a non vederli affatto.
+
+È consuetudine condannare l'americano come materialista a causa del suo
+
+culto del [[success|successo]]. Ma in verità proprio questo culto, come ogni culto,
+
+persino il culto del diavolo, lo dimostra piuttosto un mistico che un materialista. Il
+
+francese che si ritira dagli affari quando ha denaro a sufficienza per bere
+
+il suo vino e mangiare la sua omelette in pace potrebbe assai più plausibilmente essere
+
+chiamato materialista da coloro che non preferiscono chiamarlo un uomo di
+
+buon senso. Ma gli americani adorano davvero il [[success|successo]] nell'astratto, come una sorta di
+
+visione ideale. Seguono il [[success|successo]] piuttosto che il denaro; seguono il denaro
+
+piuttosto che il cibo e la bevanda. Se la loro vita nazionale in un senso è una
+
+perpetua partita a poker, essi giocano eccitati per fiche o
+
+gettoni tanto [[Well|quanto]] per monete. E secondo la prova ultima del godimento
+
+materiale, come il godimento di un'omelette, persino una moneta è essa stessa un
+
+gettone. Lo yankee non può mangiare le fiche come il francese può mangiare le patatine
+
+fritte; ma nemmeno può [[Swallow|inghiottire]] rossi centesimi come il francese inghiotte
+
+rosso vino. Così quando la gente dice di uno yankee che adora il dollaro,
+
+gli fanno un complimento alla sua fine spiritualità più vero e delicato
+
+di quanto immaginino. Il dollaro è un idolo perché è un'immagine; ma è
+
+un'immagine di [[success|successo]] e non di godimento.
+
+Che questo [[Romance|romanzo]] sia anche una religione è mostrato dal fatto che vi è
+
+una strana sorta di [[morality|moralità]] connessa ad esso. Il parallelo più prossimo ad esso è
+
+qualcosa come il senso dell'[[Honour|onore]] negli antichi giorni dei duelli. Vi è
+
+non un sapore materiale ma un sapore distintamente morale nell'implicito
+
+obbligo di raccogliere dollari o di raccogliere fiche. Sentiamo troppo in
+
+Inghilterra la frase sul 'making good'; perché nessun inglese assennato
+
+favorisce il superfluo infarcire l'inglese di frammenti di lingue
+
+straniere. Ma benché non significhi nulla in inglese, significa qualcosa
+
+di molto particolare in americano. Vi è una fine sfumatura di distinzione
+
+tra il riuscire e il making good, precisamente perché deve sempre esservi
+
+una sorta di eco etica nella parola good. L'[[America]] sente vagamente un
+
+uomo che fa good come qualcosa di analogo a un uomo che è buono o a un uomo
+
+che fa il bene. È connesso con il suo serio rispetto di [[Self|sé]] e con il suo senso
+
+di essere degno di coloro che ama. Né questo curioso e rozzo idealismo è
+
+del tutto insincero anche quando lo spinge a ciò che alcuni di noi chiamerebbero
+
+rubare; non più di quanto l'[[Honour|onore]] del duellante fosse insincero quando
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_33" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 33)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -20841,6 +26341,174 @@ afterwards told by many Americans that my impression was quite correct;
 
 that American unpunctuality was really very prevalent, and extended to
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+lo spinse a ciò che alcuni chiamerebbero omicidio. Una commedia americana assai arguta
+
+che una volta vidi rappresentata conteneva un modello compiuto e funzionante di questa
+
+[[morality|moralità]]. Una fanciulla era fedele, ma tormentata, al suo fidanzamento con un
+
+giovane sul quale gravava una sorta di nube d'umiliazione. L'
+
+atmosfera era esattamente quella che sarebbe stata in Inghilterra se egli fosse stato
+
+accusato di codardia o di baro alle carte. E non c'era assolutamente nulla
+
+che non andasse nel povero giovane, salvo che una qualche pessima miniera
+
+in Arizona non aveva 'fatto fortuna.' Ora in Inghilterra noi saremmo o al di sotto
+
+o al di sopra di quell'ideale del bene. Se fossimo snob, ci accontenteremmo di
+
+sapere che era un gentiluomo di buone parentele, forse troppo
+
+avvezzo alle rendite private perché ci si aspettasse da lui spirito d'affari. Se
+
+fossimo persone di mente un po' più larga, sapremmo che egli poteva essere tanto
+
+saggio quanto Socrate e splendido quanto Baiardo, e tuttavia inadatto, anzi forse
+
+si dovrebbe dire proprio perciò inadatto, al gioco tetro e sudicio
+
+del commercio moderno. Ma sia che fossimo abbastanza snob da ammirarlo
+
+perché ozioso, sia che fossimo abbastanza cavallereschi da ammirarlo perché
+
+fuorilegge, in nessuno dei due casi lo disprezzeremmo mai davvero, in cuor nostro,
+
+per essere un fallito. Poiché è questo verdetto interiore d'un istintivo
+
+idealismo il punto in questione. Certo non v'è nulla di nuovo, o
+
+di peculiare al nuovo mondo, nel fatto che il fidanzamento d'un uomo naufraghi
+
+per il suo fallimento finanziario. Una ragazza inglese potrebbe facilmente lasciare un uomo
+
+perché povero, oppure restargli accanto fedelmente e con orgogliosa sfida
+
+benché fosse povero. Il punto è che questa ragazza era fedele ma
+
+non sfidante; vale a dire, non era fiera. Tutta la psicologia della
+
+situazione stava nel fatto che ella condivideva lo strambo idealismo mondano della sua famiglia,
+
+e ne era ferita come il suo patriottismo sarebbe stato ferito se egli avesse
+
+tradito il proprio paese. A voler render loro giustizia, nulla mostrava che
+
+avrebbero nutrito un vero rispetto per un duca reale che avesse ereditato
+
+milioni; ciò che quei semplici barbari volevano era un uomo capace di 'far
+
+fortuna.' Che il processo del far fortuna probabilmente lo trascinasse attraverso
+
+il fango d'ogni sorta di male, che egli avrebbe fatto fortuna bluffando, mentendo,
+
+truffando e macinando i volti dei poveri, non pareva turbarli
+
+minimamente. Contro questo [[Fanaticism|fanatismo]] sta questa [[Shadow|ombra]] di [[Truth|verità]]
+
+perfino nella finzione dell'aristocrazia; che a un gentiluomo sia almeno
+
+concesso d'essere buono senza doversi affannare a renderlo tale.
+
+Un'altra obiezione alla frase sull'onnipotente dollaro è che essa è
+
+una frase onnipotente, e perciò una seccatura onnipotente. Voglio dire che essa
+
+è fatta per spiegare tutto, e per spiegare tutto fin troppo [[Well|bene]];
+
+vale a dire, fin troppo facilmente. In realtà non aiuta la gente a capire un
+
+paese straniero; ma le dà la fatale illusione di
+
+capirlo. I dollari stavano per l'[[America]] come le rane stavano per la Francia;
+
+perché era necessario collegare determinati stranieri a
+
+qualcosa, altrimenti sarebbe stato fin troppo facile confondere un moro con un montenegrino
+
+o un russo con un pellerossa. L'unica cura per questa sorta di soddisfatta
+
+familiarità è l'urto di qualcosa di davvero estraneo. Quando la gente non riesce a
+
+vedere nulla nella [[Democracy|democrazia]] americana se non uno yankee che corre dietro a un
+
+dollaro, allora l'unica cosa da fare è farla inciampare mentre corre dietro
+
+allo yankee, o mandare a monte la sua nozione dello yankee, con l'ostacolo
+
+di certi fatti strani e ostinati che non hanno alcun rapporto con quella nozione.
+
+E, di fatto, vi sono parecchi ostacoli del genere a qualsiasi
+
+simile generalizzazione; parecchi fatti notevoli che devono in qualche modo essere
+
+conciliati con le nostre nozioni precedenti. A questo scopo non importa
+
+se i fatti siano favorevoli o sfavorevoli, o se le
+
+qualità siano meriti o difetti; tanto più che non li comprendiamo neppure
+
+abbastanza da dire quale delle due cose siano. Il punto è che siamo
+
+costretti a una sosta, e obbligati a tentare di comprenderli un po'
+
+meglio di quanto facciamo. Abbiamo trovato l'unica cosa che non ci aspettavamo;
+
+e perciò l'unica cosa che non sappiamo spiegare. E siamo spinti a
+
+uno sforzo, probabilmente vano, per spiegarla.
+
+Per esempio, gli americani sono assai poco puntuali. È l'ultima cosa che
+
+s'aspetta un critico venuto a condannarli per la loro fretta, il loro mercanteggiare e la loro
+
+volgare [[Ambition|ambizione]]. Eppure è quasi il primo fatto che colpisce lo
+
+spettatore sul posto. La differenza principale tra il monotono uomo d'affari inglese
+
+e il frenetico uomo d'affari americano è che il frenetico
+
+uomo d'affari americano è sempre in ritardo. Certo, v'è una gran
+
+differenza tra l'arrivare in ritardo e l'arrivare troppo tardi. Ma notai questa
+
+usanza dapprima a proposito delle mie conferenze; riguardo alle quali
+
+potrei di gran cuore raccomandare l'abitudine di arrivare troppo tardi. Potevo facilmente
+
+capire che una folla di americani d'affari non venisse affatto
+
+alle mie conferenze; ma c'era qualcosa di strano nel loro venire in folla, e nel fatto che la
+
+folla dovesse presentarsi un certo [[Time|tempo]] dopo l'ora fissata. I
+
+gestori di queste conferenze (continuo a chiamarle conferenze per
+
+cortesia verso me stesso) mi spiegavano spesso che era del tutto inutile
+
+cominciare sul serio prima di circa mezz'ora dopo l'[[Time|ora]]. Spesso la gente
+
+arrivava ancora tre quarti d'ora o perfino un'ora dopo l'[[Time|ora]] stabilita.
+
+Non che io me ne dolessi, come si dice facciano certi conferenzieri; mi pareva
+
+una gradevole rottura della monotonia; ma come tratto caratteristico d'un
+
+popolo dedito per lo più agli affari pratici, mi colpiva come cosa curiosa e
+
+interessante. Mi sono abituato a essere la persona meno pratica negli affari
+
+in qualunque compagnia mi trovi; e mi diede una sorta di vertiginosa esaltazione
+
+scoprire di non essere la persona meno puntuale di quella compagnia. Mi fu
+
+poi detto da molti americani che la mia impressione era del tutto esatta;
+
+che l'impuntualità americana era davvero assai diffusa, e si estendeva a
 
 
 
@@ -21016,6 +26684,176 @@ purposes; it would be quite capable of asking Blake to take his tiger
 and his golden lions round as a sort of Barnum's Show, or Shelley to
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+a cose molto più importanti. Ma almeno non mi accontentai di ammucchiare questo
+
+insieme a ogni sorta di cose contrarie che per caso non mi piacevano,
+
+e chiamarlo [[America]]. Non son certo di che cosa significhi davvero, ma piuttosto
+
+sospetto che, per quanto possa sembrare l'esatto contrario della frenesia, esso abbia
+
+la medesima origine della frenesia. L'americano non è puntuale perché
+
+non è puntiglioso. È impulsivo, e ha tanto un impulso a restare [[Well|quanto]]
+
+un impulso ad andarsene. Poiché, dopo tutto, la puntualità appartiene al medesimo
+
+ordine di idee della punteggiatura; e non c'è punteggiatura nei
+
+telegrammi. L'ordine degli orologi e delle ore fisse che gli affari inglesi hanno
+
+sempre osservato è una buona cosa a suo modo; anzi credo che in un
+
+senso più ampio sia migliore dell'altro modo. Ma è migliore perché
+
+è una protezione contro la frenesia, non una sua promozione. In altre
+
+parole, è migliore perché è più civile; come era più civile un grande
+
+principe mercante veneziano vestito di drappo d'oro; o come un vecchio
+
+mercante inglese che sorseggia porto in una stanza rivestita di quercia era più
+
+civile; o come è più civile un piccolo bottegaio francese che chiude bottega per giocare
+
+a domino. E la ragione è che l'americano ha il
+
+[[Romance|romanzesco]] degli affari ed è monomaniaco, mentre il francese ha il
+
+[[Romance|romanzesco]] della vita ed è sano di mente. Ma il [[Romance|romanzesco]] degli affari è davvero un
+
+[[Romance|romanzo]], e gli americani ne sono davvero romantici. E quel
+
+[[Romance|romanzesco]], per quanto ruoti attorno al maiale o alla benzina, è davvero simile a una
+
+storia d'[[Love|amore]] in questo: che comporta non solo lo slancio ma anche
+
+l'indugio.
+
+L'americano è troppo indaffarato per avere abitudini d'affari. È anche troppo
+
+in ardore per avere regole d'affari. Se vogliamo comprenderlo, dobbiamo
+
+paragonarlo non al bottegaio francese quando gioca a domino, ma
+
+allo stesso bottegaio francese quando serve i cannoni o presidia le
+
+trincee come soldato di leva. Chiunque sia avvezzo al puntiglioso
+
+standard prussiano di uniforme e parata ha notato la rozzezza e
+
+l'apparente trascuratezza del soldato francese, la sciatteria delle sue vesti, la
+
+goffaggine del suo pesante zaino, in breve la sua inferiorità in ogni
+
+dettaglio del mestiere della guerra, tranne che nel combattere. Lì è troppo
+
+rapido per essere elegante. È troppo pratico per essere preciso. Per una strana
+
+illusione che può innalzare l'inscatolamento del maiale quasi al livello del patriottismo,
+
+l'americano ha il medesimo ritmo libero nel suo [[Romance|romanzesco]] degli affari. Egli
+
+varia la sua condotta non per adattarsi all'[[Clock|orologio]] ma al caso. Egli dà
+
+più [[Time|tempo]] alle cose più importanti e meno [[Time|tempo]] a quelle meno importanti; e
+
+si costruisce l'orario del proprio [[Time|tempo]] man mano che procede. Supponiamo abbia tre
+
+appuntamenti; il primo, diciamo, è una mera inezia: erigere una
+
+torre alta venti piani ed esibirne un'insegna luminosa in cima;
+
+il secondo è una discussione d'affari sulla possibilità di stampare
+
+réclame di bibite sui tovaglioli di un ristorante; il
+
+terzo è partecipare a un congresso per decidere come si possa impedire alla plebe di
+
+usare la gomma da masticare e come i fabbricanti possano ciononostante riuscire
+
+a venderla. Si accontenterà di gettare un'occhiata all'insegna luminosa mentre
+
+passa in tram o in automobile; poi si dedicherà
+
+alla discussione col suo socio sui tovaglioli, ciascun oratore
+
+indulgendo a turno in lunghi monologhi; una peculiarità di gran parte della conversazione
+
+americana. Ora, se nel bel mezzo di uno di questi monologhi egli
+
+pensa a un tratto che lo spazio vuoto sullo sparato del cameriere potrebbe
+
+anch'esso servire a reclamizzare lo Gee Whiz Ginger Champagne, egli
+
+seguirà all'istante la nuova idea in tutti i suoi aspetti e possibilità,
+
+in un monologo ancor più lungo; e non penserà mai a guardare l'
+
+orologio mentre contempla estasiato il suo cameriere. La conseguenza è
+
+che arriverà in ritardo al grande movimento sociale contro
+
+la gomma da masticare, dove un inglese sarebbe probabilmente giunto all'
+
+ora giusta. Ma per quanto la condotta dell'inglese sia più corretta, non per questo
+
+è per forza più pratica sotto ogni riguardo. Le regole dell'inglese sono migliori
+
+per gli affari della vita, ma non necessariamente per la vita degli affari.
+
+Ed è vero che per molti di questi americani gli affari sono gli
+
+affari della vita. Sono davvero anche, come ho detto, il [[Romance|romanzesco]] della
+
+vita. Ammireremo o deploreremo questo spirito, a seconda che ci rallegri
+
+vedere il commercio irradiato di tanta poesia, o ci rincresca vedere tanta
+
+poesia sprecata nel commercio. Ma esso rende felici molti, come qualunque
+
+altro passatempo; e si è propensi ad aggiungere che riempie le loro
+
+immaginazioni come qualunque altra illusione. Poiché la vera critica di tutto questo
+
+[[Romance|romanzesco]] commerciale comporterebbe una critica di questa fase storica del
+
+commercio. Costoro costruiscono sulla sabbia, per quanto essa splenda come
+
+oro, e per loro come oro fatato; ma il mondo ricorderà la
+
+leggenda dell'oro fatato. Metà delle operazioni finanziarie che seguono trattano
+
+cose che nemmeno esistono; poiché in tal senso ogni finanza è una
+
+fiaba. Molti di loro comprano e vendono cose che non fanno altro che
+
+danno; ma fa loro bene comprarle e venderle. La pretesa del
+
+venditore romantico è meglio giustificata di quanto egli creda. Gli affari sono davvero
+
+[[Romance|romanzo]]; poiché non sono realtà.
+
+V'è un reale vantaggio che l'[[America]] ha sull'Inghilterra, dovuto in gran parte
+
+al suo ideale più vivace e più impressionabile. L'[[America]] non pensa
+
+che la stupidità sia pratica. Non pensa che le idee siano meramente
+
+cose distruttive. Non pensa che un genio sia soltanto una persona a cui
+
+dire di andarsene e di farsi saltar fuori le cervella; anzi aprirebbe tutti i suoi
+
+macchinari al genio e lo pregherebbe di farsele saltar dentro. Potrebbe
+
+tentare di usare una forza naturale come Blake o Shelley per fini assai
+
+ignobili; sarebbe capacissima di chiedere a Blake di portare in giro la sua tigre
+
+e i suoi leoni d'oro come una sorta di baraccone alla Barnum, o a Shelley di
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_35" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 35)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -21187,6 +27025,174 @@ countries, can be explained by any practical example. Let us suppose
 
 that great social [[Reform|reform]], The Compulsory Haircutting Act, has just begun
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+appendere le sue [[Stars|stelle]] e le sue nubi aureolate tra le luci di Broadway. Ma non
+
+presumerebbe che una forza naturale sia inutile, non più di quanto
+
+il Niagara sia inutile. E qui v'è una distinzione ben precisa
+
+riguardo all'intelligenza del mercante, qualunque cosa si possa pensare dell'una o dell'altra
+
+via riguardo all'intelligenza dell'[[artist|artista]]. Una cosa è che
+
+[[Apollo]] sia impiegato da Admeto, benché sia un dio. È tutt'
+
+altra cosa che [[Apollo]] venga sempre licenziato da Admeto, perché
+
+è un dio. Ora in Inghilterra, in gran parte per l'accidente di una rivalità e
+
+quindi di un confronto con la Francia, sorse verso la fine del
+
+diciottesimo secolo una nozione straordinaria: che vi fosse una sorta di
+
+connessione tra l'ottusità e il [[success|successo]]. Ciò che gli americani chiamano un
+
+testa di legno divenne ciò che gli inglesi chiamano un uomo dalla testa dura. I mercanti
+
+di [[London|Londra]] manifestarono il loro disprezzo per i fantasiosi logici di [[Paris|Parigi]]
+
+vivendo in un permanente stato di terrore che qualcuno potesse dar
+
+[[Fire|fuoco]] al Tamigi. In questo come in molto altro è assai più facile comprendere
+
+gli americani se li accostiamo ai francesi, che furono loro alleati,
+
+anziché agli inglesi, che furono loro nemici. Vi sono moltissime
+
+somiglianze franco-americane che i pratici anglosassoni sono
+
+naturalmente troppo di testa dura (o di legno) per vedere. La [[history|storia]] americana è
+
+infestata dall'[[Shadow|ombra]] del Presidente plebiscitario; essi hanno una
+
+tradizione di architettura classica per gli edifici pubblici. Le loro città
+
+sono disegnate sulle piazze di [[Paris|Parigi]] e non sul labirinto di
+
+[[London|Londra]]. Chiamano le loro città Corinto e Siracusa, come i francesi
+
+chiamavano i loro cittadini Epaminonda e Timoleone. I loro soldati portavano il
+
+kepì francese; e fanno il caffè in modo ammirevole, e non fanno affatto il tè.
+
+Ma di tutti gli elementi francesi in [[America]] il più francese è questa reale
+
+concretezza. Sanno che in certi momenti la più pratica di
+
+tutte le qualità è 'l'audace, et encore de l'audace, et toujours de
+
+l'audace.' L'editore può indurre il poeta a scrivere un'opera alimentare; ma l'
+
+editore permetterebbe di buon grado al poeta di dar
+
+[[Fire|fuoco]] al Mississippi, se ciò facesse bollire la sua particolare pentola. Non è tanto che
+
+gli inglesi siano stupidi, quanto che hanno paura d'essere intelligenti; e non è
+
+tanto che gli americani siano intelligenti, quanto che non cercano d'essere più
+
+stupidi di quanto siano. Il [[Fire|fuoco]] della [[logic|logica]] francese l'ha bruciato via dall'
+
+[[America]] come l'ha bruciato via dall'Europa, e da quasi ogni luogo
+
+tranne l'Inghilterra. Questo è uno dei pochi punti su cui l'insularità
+
+inglese è davvero uno svantaggio. È la fatale nozione che l'
+
+unica specie di buonsenso si trovi nel compromesso, e che l'unica
+
+specie di compromesso si trovi nella confusione. Ciò va nettamente
+
+distinto dal luogo comune secondo cui il mondo utilitario non
+
+s'innalza ai valori invisibili del genio. Sotto questa [[philosophy|filosofia]] l'
+
+utilitarista non vede l'utilità del genio, anche quando è del tutto
+
+visibile. Non la vede, non perché sia un utilitarista, ma
+
+perché è un idealista il cui ideale è l'ottusità. Per un certo [[Time|tempo]] gli
+
+inglesi aspirarono a essere stupidi, pregarono e sperarono con svettante
+
+[[Ambition|ambizione]] spirituale d'essere stupidi. Ma con tutto il loro culto del [[success|successo]], non
+
+riuscirono a essere stupidi. I talenti naturali di una grande e
+
+tradizionale nazione irrompevano sempre a loro dispetto. A dispetto
+
+dei mercanti di [[London|Londra]], Turner diede davvero [[Fire|fuoco]] al Tamigi. A dispetto
+
+della nostra più volte spiegata preferenza per il realismo anziché il [[Romance|romanzesco]], l'Europa
+
+seguitò a risuonare del nome di Byron. E proprio quando avevamo
+
+reso perfettamente chiaro ai francesi che disprezzavamo tutti i loro
+
+sgargianti artifici, che eravamo un popolo schietto e prosaico e che non v'era
+
+in noi alcuna gloria fantastica o cavalleria, il dardo stesso che scagliammo contro
+
+di loro brillò del nome di Nelson, una stella cadente e fulgente.
+
+_Presidenti e problemi_
+
+Tutti i bravi americani desiderano combattere i rappresentanti che hanno scelto.
+
+Tutti i bravi inglesi desiderano dimenticare i rappresentanti che hanno scelto.
+
+Questa differenza, profonda e forse ineradicabile nei temperamenti dei
+
+due popoli, spiega mille cose nella loro letteratura e nelle
+
+loro leggi. Il poeta nazionale americano lodò il suo popolo per la sua
+
+prontezza a '_insorgere_ contro l'incessante audacia delle persone
+
+elette.' L'inno nazionale inglese si accontenta di dire con calore, ma
+
+quasi in fretta, 'Sconvolgi la loro politica,' e poi, più allegramente, come
+
+cambiando argomento, 'Dio salvi il [[King|Re]].' Poiché questo è specialmente il
+
+segreto del monarca o primo magistrato nei due paesi. Essi armano
+
+il Presidente dei poteri di un [[King|Re]], affinché sia una seccatura in
+
+politica. Noi priviamo il [[King|Re]] persino dei poteri di un Presidente, per timore che
+
+ci rammenti un politico. Noi [[Desire|desideriamo]] dimenticare l'incessante
+
+audacia delle persone elette; e da noi perciò essa davvero non ha mai
+
+fine. Questa è l'obiezione pratica alla nostra abitudine di cambiare
+
+argomento, invece di cambiare il ministero. Il [[King|Re]], come osservò il motto
+
+irlandese, non è un suddito; ma in tal senso la testa coronata inglese
+
+non è un [[King|Re]]. È una figura popolare destinata a rammentarci l'
+
+Inghilterra che i politici non ricordano; l'Inghilterra dei cavalli e delle
+
+navi e dei giardini e della buona compagnia. Gli americani non hanno un
+
+simile simbolo puramente sociale; ed è piuttosto la radice che il risultato di questo
+
+il fatto che il loro lusso sociale, e specialmente il loro sport, manchino un poco
+
+di umanità e di [[Humour|umorismo]]. È l'americano, assai più dell'
+
+inglese, a prendersi i suoi piaceri tristemente, per non dire selvaggiamente.
+
+La genuina popolarità dei monarchi costituzionali, nei paesi
+
+parlamentari, può spiegarsi con qualsiasi esempio pratico. Supponiamo
+
+che quella grande [[Reform|riforma]] sociale, la Legge sul Taglio Obbligatorio dei Capelli, abbia appena cominciato
 
 
 
@@ -21364,6 +27370,178 @@ because the [[Crown|crown]] was a trophy, not because it was a trifle. And
 President Wilson was deposed because he had used a power which is such,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+a essere applicata. La Legge sul Taglio Obbligatorio dei Capelli, come ogni buon cittadino
+
+sa, è uno statuto che permette a chiunque di farsi crescere i capelli a qualsiasi
+
+lunghezza, in qualsiasi foggia bizzarra o meravigliosa, purché sia iscritto presso
+
+un parrucchiere che chiede uno scellino. Ma impone una universale
+
+rasatura a zero (come quella ritenuta tanto igienica durante una curativa
+
+detenzione a Dartmoor) a tutti coloro che sono iscritti soltanto presso un barbiere che
+
+chiede tre pence. Così, mentre le classi ornamentali possono continuare a
+
+ornare la strada con favoriti alla Piccadilly o barbe al mento, se così
+
+scelgono, le classi lavoratrici dimostrano la cura con cui lo Stato
+
+le protegge andando in giro in una condizione più fresca, più ariosa e più
+
+pulita; una condizione che ha l'ulteriore vantaggio di rivelare a colpo
+
+d'occhio quel profilo del cranio criminale, così comune fra
+
+loro. La Legge sul Taglio Obbligatorio dei Capelli è così, sotto ogni aspetto, un compatto e
+
+comodo esempio di tutte le nostre leggi correnti sull'[[Education|istruzione]], lo sport,
+
+gli alcolici e la libertà in generale. [[Well|Ebbene]], la legge è passata e le masse,
+
+insensibili al suo valore scientifico, ancora mormorano contro di essa. L'
+
+ignorante fanciulla contadina è avversa a una moda così estrema di accorciarsi i
+
+capelli; e non vede come possa perfino fare la ragazza svolazzante alla moda senza aver nulla da
+
+sventolare. Suo padre, la mente già avvelenata dai bolscevichi, comincia a
+
+[[Wonder|chiedersi]] chi diavolo faccia queste cose, e perché. Nella misura in cui
+
+conosce il mondo d'oggi, indovina che la vera origine può essere del tutto
+
+oscura, o il vero movente del tutto corrotto. La pressione può essere venuta
+
+da chiunque abbia in qualche modo acquisito potere o denaro. Può venire dal
+
+milionario straniero che possiede tutti i costosi saloni di parrucchiere;
+
+può venire da qualche truffatore nel commercio della coltelleria che s'è impegnato a
+
+vendere un milione di cattivi rasoi. Perciò il poveretto si guarda intorno con
+
+sospetto per la strada; sapendo che il più vile furfante o il più sguaiato
+
+snob che vede potrebbe dirigere il [[government|governo]] del suo paese. Chiunque può
+
+aver a che fare con la politica; e cose di questo genere sono politica. All'improvviso
+
+scorge una folla, si ferma, e comincia ad acclamare freneticamente una
+
+carrozza che passa. La carrozza contiene l'unica persona che
+
+di certo non ha dato origine ad alcuna grande [[Reform|riforma]] scientifica. È l'unica
+
+persona nel commonwealth a cui non è permesso tagliare i capelli
+
+altrui, o togliere le libertà altrui. Egli almeno è tenuto fuori
+
+dalla politica; e gli uomini lo levano in alto come facevano con una vittima immacolata per
+
+placare l'ira degli dèi. Egli è il loro [[King|Re]], e l'unico uomo che essi
+
+sappiano non essere il loro governante. Non dobbiamo stupirci che sia popolare,
+
+sapendo come vengono governati.
+
+La popolarità di un Presidente in [[America]] è esattamente l'opposto. La
+
+Repubblica americana è l'ultima monarchia medievale. Si vuole che
+
+il Presidente governi, e si assuma tutti i rischi del governare. Se i capelli
+
+vengono tagliati, è lui il tagliacapelli, il magistrato che non porta invano il
+
+rasoio. Tutti i Presidenti popolari, Jackson e [[Lincoln]] e Roosevelt,
+
+hanno agito da despoti democratici, ma decisamente non da
+
+monarchi costituzionali. In breve, i nomi si sono curiosamente
+
+scambiati; e come realtà storica è il Presidente che dovrebbe
+
+essere chiamato [[King|Re]].
+
+Ma non è vero soltanto che il Presidente potrebbe correttamente essere chiamato
+
+[[King|Re]]. È anche vero che il [[King|Re]] potrebbe correttamente essere chiamato
+
+Presidente. Difficilmente potremmo trovare di lui una descrizione più esatta che
+
+chiamarlo Presidente. Ciò che ai tempi moderni ci si aspetta da un moderno
+
+monarca costituzionale è decisamente che egli presieda. Ci aspettiamo
+
+che egli assuma il trono esattamente come se assumesse la presidenza d'assemblea. Il
+
+presidente d'assemblea non propone la mozione o la risoluzione, tanto meno la vota; non
+
+dovrebbe nemmeno favorirla. Ci si aspetta che accontenti tutti
+
+non favorendo nessuno. I requisiti primari di un Presidente o Presidente d'assemblea sono
+
+che sia trattato con rispetto cerimoniale, che sia
+
+popolare nella sua persona e tuttavia impersonale nelle sue opinioni, e che
+
+sia effettivamente un anello di congiunzione fra tutte le altre persone proprio per l'essere
+
+diverso da tutte loro. Questo è esattamente ciò che si richiede al
+
+monarca costituzionale ai tempi moderni. È esattamente l'opposto della
+
+posizione americana; in cui il Presidente non presiede affatto.
+
+Egli muove; e la cosa che muove può davvero chiamarsi una mozione; poiché l'
+
+idea nazionale è il moto perpetuo. Tecnicamente si chiama messaggio;
+
+e potrebbe spesso a buon diritto chiamarsi minaccia. Così possiamo davvero dire che
+
+il [[King|Re]] presiede e il Presidente regna. Alcuni preferirebbero dire
+
+che il Presidente governa; e alcuni Senatori e membri del Congresso
+
+preferirebbero dire che si ribella. Ma non v'è alcun [[Doubt|dubbio]] che egli si muova;
+
+egli non prende la sedia né lo sgabello, ma piuttosto il palco del comizio.
+
+Certuni paiono supporre che la caduta del Presidente Wilson fosse una
+
+negazione di questo ideale quasi dispotico in [[America]]. In realtà
+
+ne fu la più forte affermazione possibile. L'idea è che il
+
+Presidente si assuma responsabilità e rischio; e responsabilità significa
+
+essere biasimato, e rischio significa il rischio d'essere biasimato. La teoria è
+
+che le cose sono fatte dal Presidente; e se le cose vanno male, o si
+
+sostiene che vadano male, è colpa del Presidente. Ciò non
+
+invalida, ma piuttosto ratifica il confronto con i veri monarchi, quali
+
+i monarchi medievali. I principi costituzionali sono di rado deposti;
+
+ma i despoti erano spesso deposti. Fra le razze più semplici di terre più assolate,
+
+come la Turchia, venivano comunemente assassinati. Anche nella nostra [[history|storia]]
+
+un [[King|Re]] riceveva spesso il medesimo rispettoso tributo alla responsabilità
+
+e alla realtà della sua carica. Ma [[King John|Re Giovanni]] fu attaccato perché era
+
+forte, non perché fosse debole. [[Richard|Riccardo]] II perse la [[Crown|corona]]
+
+perché la [[Crown|corona]] era un trofeo, non perché fosse un'inezia. E
+
+il Presidente Wilson fu deposto perché aveva usato un potere che è tale,
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_37" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 37)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -21538,6 +27716,176 @@ expansion of the nineteenth century; for a firm [[Faith|faith]] in the profit an
 progress of its great and growing cities, its division of labour, its
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+per sua [[Nature|natura]], che un uomo deve usarlo a rischio di deposizione. In
+
+verità, naturalmente, è facile esagerare la reale impopolarità del
+
+signor Wilson, e ancor più facile esagerare il reale fallimento del
+
+signor Wilson. Vi sono moltissime persone in [[America]] che lo giustificano e
+
+lo applaudono; e, cosa ancor più interessante, che lo giustificano non su
+
+basi pacifiste e idealistiche, ma su basi patriottiche e persino militari.
+
+Alcuni insistono in particolare che la sua dimostrazione, che parve
+
+futile come minaccia contro il Messico, fu una preparazione assai lungimirante
+
+per la minaccia contro la Prussia. Ma nella misura in cui la [[Democracy|democrazia]]
+
+dissentì da lui, ciò fu soltanto il risultato occasionale e inevitabile della
+
+teoria per cui il despota deve anticipare la [[Democracy|democrazia]].
+
+Così il [[King|Re]] americano e il Presidente inglese sono l'esatto opposto
+
+l'uno dell'altro; eppure sono entrambi le svariate e assai nazionali
+
+manifestazioni della medesima [[Truth|verità]] contemporanea. È la grande stanchezza
+
+e il disprezzo che sono caduti sulla politica ordinaria in entrambi i paesi. Si
+
+potrebbe rispondere, con una certa parvenza di [[Truth|verità]], che il nuovo Presidente
+
+americano rappresenta un ritorno alla politica ordinaria; e che in tal senso
+
+egli segna un vero rimprovero all'ultimo Presidente e alla sua politica più
+
+fuori dal comune. Ed è vero che molti di quelli che portarono al potere il signor Harding lo considerano
+
+il simbolo di qualcosa che chiamano normalcy; che si può
+
+grossolanamente tradurre in inglese con la parola normalità. E con ciò
+
+intendono, più o meno, il ritorno al vago conservatorismo capitalista
+
+del diciannovesimo secolo. Potrebbero definire il signor Harding un
+
+vittoriano, se solo avessero mai vissuto sotto Vittoria. Forse costoro
+
+coltivano davvero la straordinaria nozione che il diciannovesimo secolo fosse
+
+normale. Ma son pochissimi a pensarlo, e anche quei pochi non lo
+
+penseranno a lungo. Lo sbaglio è l'origine di quasi tutti i nostri presenti
+
+guai. Il diciannovesimo secolo fu l'esatto contrario del normale. Esso
+
+patì una tensione assai innaturale nella combinazione dell'uguaglianza politica
+
+in teoria con l'estrema disuguaglianza economica in pratica.
+
+Il capitalismo non era una normalità ma un'anormalità. La proprietà è normale, ed
+
+è tanto più normale quanto più è universale. La [[Slavery|schiavitù]] può essere normale
+
+e perfino naturale, nel senso in cui un cattivo vizio può essere una seconda [[Nature|natura]].
+
+Ma il capitalismo non fu mai qualcosa di tanto umano come un'abitudine; possiamo dire che non fu
+
+mai qualcosa di tanto buono come un cattivo vizio. Non fu mai una consuetudine; poiché gli uomini
+
+non vi si abituarono mai. Non fu mai nemmeno conservatore; poiché prima ancora
+
+che fosse creato uomini saggi avevano compreso che non poteva essere
+
+conservato. Fu fin dal principio un problema; e coloro che non vogliono nemmeno
+
+ammettere il problema capitalista meritano di ottenere la soluzione bolscevica. Tutto
+
+considerato, non so dire di loro nulla di peggio.
+
+La recente elezione presidenziale conservò qualche traccia del vecchio Sistema
+
+dei Partiti d'[[America]]; ma la sua tradizione s'è quasi del tutto sbiadita come quella
+
+del Sistema dei Partiti d'Inghilterra. È facile per un inglese confessare
+
+di non aver mai ben capito il Sistema dei Partiti americano. Sarebbe
+
+forse più coraggioso da parte sua, e più istruttivo, confessare che
+
+non ha mai davvero capito il Sistema dei Partiti britannico. Gli assi delle
+
+due piattaforme americane possono facilmente apparire assai sconnessi e
+
+sgangherati; ma il nostro stesso partito era altrettanto rappezzato, anzi
+
+credo persino di più. Tutti sanno che le due fazioni americane erano
+
+chiamate 'Democratica' e 'Repubblicana.' Non rende affatto conto della situazione
+
+identificare la prima coi Liberali e la seconda coi Conservatori. I
+
+Democratici sono il partito del Sud e hanno una certa autentica tradizione derivante dall'
+
+aristocrazia meridionale e dalla difesa della Secessione e dei Diritti degli Stati.
+
+I Repubblicani [[Rose|sorsero]] nel Nord come il partito di [[Lincoln]], condannando in gran parte
+
+la [[Slavery|schiavitù]]. Ma i Repubblicani sono anche il partito delle Tariffe,
+
+e sono quantomeno accusati d'essere il partito dei Trust. I Democratici sono
+
+il partito del Libero Scambio; e, nel grande movimento di vent'anni fa,
+
+il partito dell'Argento Libero. I Democratici sono anche il partito degli irlandesi;
+
+e le pietre che scagliano contro i Trust ricevono in risposta pietre scagliate contro
+
+Tammany. È facile vedere tutte queste cose come curiosamente sporadiche e
+
+sconcertanti; ma sono incline a pensare che nel complesso siano più
+
+coerenti e razionali della nostra vecchia divisione tra Liberali e
+
+Conservatori. V'è oggi ancor più [[Doubt|dubbio]] su quale sia il
+
+nesso che collega i diversi punti dei vecchi programmi dei partiti
+
+britannici. Non sono mai riuscito a capire perché l'essere a favore della
+
+Protezione dovesse aver qualcosa a che fare con l'essere contrari all'[[Home]] Rule;
+
+tanto più che la maggior parte delle persone che avrebbero ricevuto l'[[Home]] Rule erano
+
+esse stesse a favore della Protezione. Non ho mai capito che cosa avesse a che fare il dare alla gente
+
+pane a buon mercato col proibirle la birra a buon mercato; o perché il partito
+
+che simpatizza con l'Irlanda non possa simpatizzare con la Polonia. Non riesco
+
+a capire perché i Liberali non liberassero le osterie o i Conservatori
+
+non conservassero i piccoli fittavoli. Non comprendo il principio secondo cui le
+
+cause venivano scelte da entrambe le parti; e sono incline a pensare che fosse
+
+con l'imparziale scopo di distribuire equamente le assurdità da entrambe le
+
+parti. Il cielo sa che c'è abbastanza assurdità anche nella politica americana;
+
+assurdità torreggiante e tropicale come un ciclone o un terremoto. Ma quando
+
+tutto è detto, sono incline a pensare che vi fosse maggiore coesione spirituale e
+
+atmosferica nelle diverse parti del partito americano che
+
+in quelle del partito inglese; e credo che questa [[unity|unità]] fosse tanto più
+
+reale in quanto più difficile da definire. Il partito repubblicano
+
+in origine rappresentava il trionfo del Nord, e il Nord rappresentava
+
+il diciannovesimo secolo; vale a dire la caratteristica espansione commerciale
+
+del diciannovesimo secolo; una ferma [[Faith|fede]] nel profitto e nel
+
+progresso delle sue grandi e crescenti città, nella sua divisione del lavoro, nella sua
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_38" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 38)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -21705,6 +28053,170 @@ as foreign policy distinct from domestic policy. They are so large as to
 
 be inside as [[Well|well]] as outside the state. From an English standpoint the
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+scienza industriale, e nella sua [[Reform|riforma]] evolutiva. Il partito democratico
+
+rappresentava più vagamente tutti gli elementi che dubitavano se questo
+
+sviluppo fosse democratico o desiderabile; tutto ciò che guardava indietro all'
+
+idealismo jeffersoniano e alle serene astrazioni del diciottesimo
+
+secolo, o avanti all'idealismo bryaniano e a qualche Utopia semplificata
+
+fondata sul grano piuttosto che sull'oro. Con ciò andava, per nulla
+
+innaturalmente, l'ultimo e persistente sentimento degli squire meridionali,
+
+che ricordavano una civiltà più rurale che al confronto pareva
+
+romantica. Con ciò andavano, del tutto logicamente, le passioni e il
+
+pathos degli irlandesi, essi stessi una civiltà rurale, la cui base è una
+
+religione o ciò che il diciannovesimo secolo tendeva a chiamare una superstizione.
+
+Soprattutto, era perfettamente naturale che questo modo di pensare
+
+favorisse le libertà locali, e persino una rivolta in nome delle libertà locali,
+
+e diffidasse dell'enorme [[Machine|macchina]] di potere centralizzato chiamata l'
+
+[[Union|Unione]]. In breve, qualcosa di assai vicino alla [[Truth|verità]] fu detto da un oratore repubblicano
+
+suicidamente sciocco, che sosteneva Blaine per la Presidenza, quando
+
+denunciò il partito democratico come sostenuto da 'Roma, rum e
+
+ribellione.' Mi paiono tre cose eccellenti, ciascuna al suo posto;
+
+ed è per questo che sospetto che sarei appartenuto al partito
+
+democratico, se fossi nato in [[America]] quando c'era un partito democratico.
+
+Ma immagino che col [[Time|tempo]] anche questa distinzione generale sia divenuta
+
+assai fioca. Se fossi stato un americano vent'anni fa, al [[Time|tempo]] della
+
+grande campagna dell'Argento Libero, di certo non avrei esitato per
+
+un istante circa le mie simpatie o la mia parte. I miei sentimenti sarebbero stati
+
+esattamente quelli nobilmente espressi dal signor Vachell Lindsay, in una poesia
+
+che porta il caratteristico titolo di 'Bryan, Bryan, Bryan, Bryan.' E,
+
+a proposito, nessuno può cominciare a simpatizzare con l'[[America]] se la sua [[Soul|anima]] non
+
+comincia in qualche misura a oscillare e a [[Dance|danzare]] al ritmo dei tamburi e dei gong della
+
+grande orchestra del signor Vachell Lindsay; la quale ha la nota della sua intera
+
+nazione in questo: che una persona raffinata può ingiuriarla cento volte
+
+come violenta e sfrontata e barbara e assurda, ma non come insincera;
+
+c'è qualcosa in essa, e quel qualcosa è l'[[Soul|anima]] di molti milioni di
+
+uomini. Ma il poeta stesso, nella poesia politica cui si è accennato, parla della
+
+caduta di Bryan sull'Argento Libero come della 'sconfitta della mia fanciullezza, sconfitta del mio
+
+sogno'; ed è fin troppo probabile che la causa sia caduta tanto [[Well|quanto]]
+
+il candidato. Il William Jennings Bryan degli anni successivi non è l'uomo
+
+che avrei visto nella mia giovinezza, con gli occhi visionari del signor
+
+Vachell Lindsay. È divenuto un banale Pacifista, il che è per sua
+
+[[Nature|natura]] l'esatto opposto di un rivoluzionario; poiché se gli uomini combattono
+
+piuttosto che sacrificare l'umanità su una [[Cross|croce]] d'oro, non può essere sbagliato per
+
+loro resistere al suo essere sacrificata a una [[Cross|croce]] di ferro. Venni in
+
+contatto assai indiretto col signor Bryan quando ero in [[America]], in un modo che
+
+mi fece capire quanto sia divenuto difficile ricuperare le illusioni di un
+
+bryaniano. Credo che il mio agente per le conferenze fosse ansioso di organizzare un
+
+[[debate|dibattito]], e lanciai una sorta di vaga sfida nel senso che
+
+il suffragio femminile aveva indebolito la posizione della donna; e mentre ero
+
+via nelle terre selvagge dell'Oklahoma il mio agente (un uomo di [[Blood|sangue]] freddo, di un
+
+[[Courage|coraggio]] agghiacciante e intraprendenza) chiese al signor Bryan di [[debate|dibattere]] con me. Ora il signor Bryan
+
+è uno dei più grandi oratori della [[history|storia]] moderna, e non v'è
+
+concepibile ragione per cui dovrebbe scomodarsi a [[debate|dibattere]] con un conferenziere
+
+girovago. Ma in realtà si espresse nei termini più
+
+magnanimi e cortesi riguardo alla mia posizione personale, ma disse (per
+
+quanto capii) che sarebbe stato sconveniente [[debate|dibattere]] sul suffragio femminile giacché
+
+era già parte del sistema politico. E quando udii ciò, non
+
+potei trattenere un sospiro; poiché riconobbi qualcosa che conoscevo fin troppo
+
+[[Well|bene]] sui banchi di prima fila della mia stessa amata terra. Il grande e glorioso
+
+demagogo era degenerato in uno statista. Non mi ero mai aspettato per un
+
+istante che il grande oratore si scomodasse minimamente a [[debate|dibattere]] con me;
+
+ma non mi era mai venuto in mente, come principio morale generale, che due
+
+uomini colti fossero per sempre proibiti dal ragionare con senno su un particolare
+
+argomento, perché un mucchio d'altre persone vi aveva già votato sopra. Ciò che
+
+non va in quell'atteggiamento è la perdita della [[Freedom|libertà]] della mente.
+
+Non può esservi libertà di pensiero se non è pronta a rimettere in discussione ciò che
+
+è stato deciso di recente, tanto [[Well|quanto]] ciò che è stato deciso da tempo. Ci viene
+
+perpetuamente detto sui giornali che ciò che serve è un uomo forte
+
+che faccia le cose. Ciò che serve è un uomo forte che disfaccia le cose;
+
+e quella sarà una vera prova di forza.
+
+Comunque, avremmo potuto credere, al [[Time|tempo]] della lotta per l'Argento Libero,
+
+che il partito democratico fosse democratico con la d minuscola. Nel signor Wilson
+
+esso fu trasfigurato, direbbero i suoi amici in qualcosa di più alto e i suoi nemici
+
+in qualcosa di più nebuloso. E la reazione repubblicana contro di lui, anche dove
+
+è stata salutare, è stata anche nebulosa. Anzi, è stata non tanto
+
+la vittoria di un partito politico quanto una ricaduta nel riposo dopo
+
+certe passioni politiche; e in tal senso v'è una [[Truth|verità]] nella
+
+strana frase sulla normalcy; nel senso che non v'è nulla di più
+
+normale dell'andare a [[Sleep|dormire]]. Ma una [[Truth|verità]] ancor più grande è questa: è assai
+
+probabile che l'[[America]] non sia più affatto concentrata su queste lotte tra fazioni,
+
+ma stia considerando certi grandi problemi sui quali quelle fazioni
+
+s'erano a stento date pena di schierarsi. Sono troppo grandi persino per essere classificati
+
+come politica estera distinta dalla politica interna. Sono così grandi da
+
+essere dentro tanto [[Well|quanto]] fuori dello Stato. Da un punto di vista inglese il
 
 
 
@@ -21879,6 +28391,176 @@ or something was leaving her undefended, or finding her indefensible.
 
 The burden of that hearty [[Chorus|chorus]] was that England was not so black as
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+esempio più ovvio è quello irlandese; poiché il problema irlandese non è un
+
+problema britannico, ma anche un problema americano. E ciò vale perfino per
+
+il grande enigma esterno del Giappone. La questione giapponese può essere parte
+
+della politica estera per l'[[America]], ma è parte della politica interna per la
+
+California. E lo stesso vale per quell'altro intenso e intelligente
+
+popolo orientale, il cui genio e i cui limiti hanno turbato il
+
+mondo tanto più a lungo. Ciò che i giapponesi sono in California, gli ebrei lo sono in
+
+[[America]]. Vale a dire, sono un pezzo di politica estera che è divenuto
+
+incastonato nella politica interna; qualcosa che si trova dentro ma che pur
+
+sempre va guardato dall'esterno. Su queste grandi questioni
+
+internazionali [[Doubt|dubito]] che gli americani abbiano avuto molta guida dal loro sistema dei partiti;
+
+tanto più che la maggior parte di queste questioni è cresciuta assai di recente e
+
+rapidamente fino a dimensioni enormi. Gli uomini sono lasciati liberi di giudicarle con menti
+
+fresche. Ed è questa la [[Truth|verità]] contenuta nell'affermazione che la Conferenza
+
+di Washington ha aperto le porte di un mondo nuovo.
+
+Sui rapporti con l'Inghilterra e l'Irlanda non tenterò di soffermarmi
+
+adeguatamente qui. Ho già osservato che il mio primo colloquio fu con
+
+un irlandese, e che la mia prima impressione da quel colloquio fu un vivo senso
+
+dell'importanza dell'Irlanda nei rapporti anglo-americani; e ho
+
+detto qualcosa del problema irlandese, prematuramente e fuori dal suo giusto
+
+ordine, sotto l'assillo di quel senso d'urgenza. Qui aggiungerò soltanto
+
+due osservazioni sui due paesi rispettivamente. Moltissimi giornalisti
+
+britannici hanno di recente immaginato di versare olio sulle
+
+acque agitate, mentre piuttosto versavano olio per rendere più liscia la
+
+china discendente; e per mutare l'ampia [[Road|strada]] verso la perdizione in uno
+
+scivolo di burro. Paiono non avere alcuna nozione di che cosa fare, se non dire
+
+ciò che immaginano il più stupido dei loro lettori sarebbe lieto
+
+di udire, e nascondere tutto ciò che il più intelligente dei loro lettori
+
+vorrebbe probabilmente sapere. Informarono perciò il pubblico che
+
+'la maggioranza degli americani' aveva abbandonato ogni simpatia per l'Irlanda,
+
+a causa della sua presunta simpatia per la [[Germany|Germania]]; e che questa maggioranza di
+
+americani ora provava un'ardente simpatia per i suoi fratelli inglesi di là
+
+dal mare. Ora, tanto per cominciare, simili critici non hanno alcuna nozione di ciò che
+
+dicono quando parlano della maggioranza degli americani. A chiunque
+
+abbia avuto occasione di fare un salto, mettiamo, nella [[City|città]] di Omaha, nel Nebraska, l'
+
+osservazione avrà in sé qualcosa di enorme e schiacciante. È
+
+come dire che la maggioranza degli abitanti della Cina concorderebbe
+
+con l'Ambasciatore cinese nel preferire di cenare al Savoy
+
+piuttosto che al Ritz. Vi sono milioni e milioni di persone che vivono
+
+in quelle grandi pianure centrali del Continente nordamericano delle quali
+
+sarebbe più vicino alla [[Truth|verità]] dire che non hanno mai sentito parlare dell'
+
+Inghilterra, né dell'Irlanda, che dire che il loro primo moto
+
+emotivo sia un [[Desire|desiderio]] di correre in soccorso dell'una o dell'altra. È
+
+perfettamente vero che il tipo più monomaniaco di Sinn Feiner potrebbe
+
+talvolta irritare questo spirito americano [[Innocent|innocente]] e isolato con l'essere
+
+filo-irlandese. È altrettanto vero che un tradizionale bostoniano o virginiano
+
+potrebbe irritarlo con l'essere filo-inglese. L'unica differenza è che
+
+gran numero di puri irlandesi sono sparsi in quei luoghi lontani, e
+
+gran numero di puri inglesi non lo sono. Ma la cosa più vera di tutte è dire
+
+che né l'Inghilterra né l'Irlanda sfiorano nemmeno la mente della maggior parte di
+
+loro una volta ogni sei mesi. Dipingere grandi insegne di 'Guardateci Crescere,'
+
+far denaro coltivando coi macchinari, insieme a un'occasionale
+
+rapina a mano armata con revolver a sei colpi e fotografie di una bella assassina o
+
+divorziata, riempiono il giro delle loro buone e felici esistenze, e fanno scorrere il
+
+[[Time|tempo]] spensieratamente come nell'[[Golden Age|età dell'oro]].
+
+Ma lasciando da parte tutta questa vasta e lontana [[Democracy|democrazia]], che è la vera
+
+'maggioranza degli americani,' e limitandoci a quella cultura più antica
+
+della costa orientale che i critici probabilmente avevano in mente,
+
+troveremo il caso più confortante ma non tale da ammantarsi di un conforto vile e
+
+falso. Ora è perfettamente vero che qualunque inglese giunga a questa
+
+costa orientale, come feci io, si trova non solo accolto assai calorosamente come
+
+ospite, ma assai cordialmente complimentato in quanto inglese. Gli uomini rammentano
+
+con [[Pride|orgoglio]] i rami della propria famiglia che appartengono all'Inghilterra o alle
+
+contee inglesi in cui affondavano le radici; e vi sono entusiasmi per la
+
+letteratura inglese e la [[history|storia]] inglese che sono spontanei quanto il patriottismo
+
+stesso. Qualcosa di ciò può attribuirsi a una certa prontezza e
+
+flessibilità propria di ogni cortesia americana, che non è mai abbastanza greve
+
+da potersi chiamare buona [[Nature|natura]]. L'inglese talvolta si [[Wonder|chiede]] se,
+
+fosse stato un russo, i suoi ospiti non avrebbero rammentato remoti
+
+zii e zie russi e non avrebbero riesumato una bisnonna moscovita;
+
+oppure se, fosse venuto dall'Islanda, non avrebbero saputo altrettanto
+
+delle saghe islandesi e non si sarebbero mostrati altrettanto solidali circa l'assenza di
+
+serpenti in Islanda. Ma con un equo esame delle proporzioni del caso
+
+egli scarterà questa congettura, e giungerà alla conclusione che un
+
+certo numero di americani colti si mostrano assai calorosamente e sinceramente solidali
+
+con l'Inghilterra.
+
+Ciò che cominciai a sentire, con un certo brivido strisciante, fu che essi erano
+
+fin troppo solidali con l'Inghilterra. La parola solidale ha talvolta
+
+piuttosto un [[Double|doppio]] senso. L'impressione che ricevetti fu che tutti questi
+
+cavallereschi meridionali e uomini raddolciti da memorie bostoniane si stessero
+
+_stringendo_ attorno all'Inghilterra. Erano sulla difensiva; ed era la povera vecchia
+
+Inghilterra che difendevano. Il loro atteggiamento sottintendeva che qualcuno
+
+o qualcosa la lasciava indifesa, o la trovava indifendibile.
+
+Il ritornello di quel caloroso [[Chorus|coro]] era che l'Inghilterra non era così nera come
 
 
 
@@ -22056,6 +28738,178 @@ When I was in Detroit I had the pleasure of meeting Mr. Ford, and it
 really was a pleasure. He is a man quite capable of views which I think
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+veniva dipinta; sembrava chiaro che in un modo o nell'altro la si stava
+
+dipingendo piuttosto di nero. Ma c'era qualcos'altro che mi metteva a
+
+disagio; non era soltanto la sensazione di essere alquanto chiassosamente
+
+perdonato; era anche qualcosa che chiamava in causa questioni di potere [[Well|oltre]] che di
+
+[[morality|moralità]]. Poi mi parve che una sensazione nuova mi facesse avvampare e
+
+raggelare; e provai qualcosa che mai prima avevo provato in terra straniera.
+
+Mai mio padre o mio nonno avevano conosciuto quella sensazione; mai, durante
+
+la grande e complessa e forse perigliosa espansione della nostra potenza e del nostro
+
+commercio negli ultimi cent'anni, un inglese aveva udito esattamente quella
+
+nota in una voce umana. L'Inghilterra era _compatita_. Io, come inglese,
+
+non solo venivo perdonato, ma compatito. Il mio paese cominciava a essere
+
+un oggetto di compassione, come la Polonia o la Spagna. La mia prima emozione, colma
+
+dell'umore e dello slancio di cent'anni, fu di collera furiosa. Ma
+
+la collera ha ceduto il posto all'inquietudine; e l'inquietudine non è ancora giunta al suo
+
+termine.
+
+Non è mio compito qui esporre la mia visione della politica inglese, e ancor
+
+meno della politica europea o della politica del mondo; ma mettere per iscritto
+
+qualche impressione di viaggio in America. Su molti punti della politica
+
+europea l'impressione sarà puramente negativa; sono certo che la maggior parte degli
+
+americani non ha alcuna nozione della posizione della Francia o della posizione della
+
+Polonia. Ma se i lettori inglesi vogliono la [[Truth|verità]], sono certo che questa è la
+
+[[Truth|verità]] sulla loro nozione della posizione dell'Inghilterra. Si domandano,
+
+o coloro che osservano si domandano, se il termine del suo [[success|successo]]
+
+sia giunto e se ella stia scendendo per l'oscura [[Road|strada]] dietro la Prussia. Molti sono
+
+dispiaciuti se è così; alcuni sono lieti se è così; ma tutti stanno seriamente
+
+considerando la probabilità che sia così. E in ciò stava specialmente
+
+l'orribile follia del nostro terrorismo dei Black-and-Tan sul popolo irlandese.
+
+Ho osservato che i giornali ci dicevano che l'[[America]] si era raffreddata
+
+nelle sue simpatie irlandesi a causa del distacco irlandese durante la guerra. È la
+
+dolorosa [[Truth|verità]] che qualunque vantaggio avremmo potuto trarne, noi
+
+stessi procedemmo subito a distruggerlo. L'Irlanda _avrebbe potuto_ mettersi
+
+dalla parte del torto con l'[[America]] per il suo atteggiamento sul Belgio, se l'Inghilterra non
+
+avesse subito proceduto a mettersi ancor più dalla parte del torto col suo atteggiamento
+
+verso l'Irlanda. È verissimo che due neri non fanno un bianco;
+
+ma non si può mandare un nero a rimproverare la gente perché tollera il
+
+nero; e ciò è altrettanto vero quando l'uno è un Black Brunswicker e
+
+l'altro un Black-and-Tan. È vero che da allora l'Inghilterra ha fatto
+
+concessioni sorprendentemente ampie; concessioni così vaste da accrescere
+
+lo stupore che il rifiuto fosse durato tanto a lungo. Ma
+
+sfortunatamente la combinazione delle due cose piuttosto suggella l'idea
+
+del nostro declino. Se la concessione fosse venuta prima del terrore, sarebbe
+
+sembrata un tentativo di emancipare, e probabilmente sarebbe
+
+riuscita. Venendo così bruscamente dopo il terrore, sembrò soltanto un
+
+tentativo di tiranneggiare, e un tentativo fallito. Era in parte un'
+
+eredità di una stupida tradizione, che cercava di combinare ciò che essa
+
+chiamava fermezza con ciò che chiamava conciliazione; come se, quando ci
+
+risolvevamo a placare un uomo con un biglietto da cinque sterline, avessimo sempre cura di
+
+disfare la nostra stessa azione dandogli [[Well|pure]] un calcio. Il politico inglese
+
+ha spesso fatto proprio questo; benché di un tale [[Fool|sciocco]] non ci sia nulla da dire,
+
+se non che ha sprecato cinque sterline. Ma in questo caso egli diede prima il
+
+calcio, ne ricevette uno in cambio, e _poi_ cedette il denaro; e
+
+agli astanti era difficile dire alcunché, se non che era stato
+
+malamente battuto. La combinazione e la sequenza degli eventi sembra quasi come se
+
+fosse disposta a suggerire l'oscuro e sinistro parallelo. La prima
+
+azione somigliava fin troppo all'invasione del Belgio, e la seconda
+
+all'evacuazione del Belgio. Sicché quella vasta e silenziosa folla dell'Ovest
+
+guardava l'Impero Britannico, come si guarda una grande torre che ha
+
+cominciato a pendere. Fu così che, pur provando un piacere sincero, non potei
+
+trovare piena consolazione nei sinceri complimenti rivolti al mio
+
+paese da tanti americani colti; nei loro ricordi di angoli
+
+familiari di contee storiche dalle quali venivano i loro padri, della
+
+[[Cathedral|cattedrale]] che rimpicciolisce la città, o della locanda alla svolta della [[Road|strada]].
+
+C'era qualcosa nelle loro voci e nello sguardo dei loro occhi che
+
+fin dal principio mi turbava. Così ho udito bravi inglesi, che poi
+
+morirono della [[Death|morte]] dei soldati, esclamare ad alta voce nel 1914: 'Sembra
+
+impossibile, di quei gioviali bavaresi!' oppure: 'Non lo crederò mai,
+
+quando penso al [[Time|tempo]] che passai a Heidelberg!'
+
+Ma vi sono altre cose oltre al parallelo con la Prussia o al
+
+problema dell'Irlanda. La stampa americana è assai più libera della nostra; il
+
+pubblico americano ha assai più dimestichezza con la discussione della corruzione
+
+del nostro; ed è assai più consapevole della corruzione della nostra
+
+politica di quanto lo siamo noi. Quasi ogni uomo in [[America]] può parlare del Caso
+
+Marconi; molti uomini in Inghilterra non sanno nemmeno che cosa significhi. Molti
+
+immaginano che avesse a che fare con la liceità per i politici di
+
+speculare in Borsa. Cosicché significa moltissimo, per gli
+
+americani, dire che una figura di quel dramma governa l'India e
+
+un'altra governa la Palestina. E questo mi conduce a un altro problema,
+
+anch'esso trattato assai più apertamente in [[America]] che in Inghilterra. Lo
+
+menziono qui solo perché è un modello perfetto dei
+
+malintesi del mondo moderno. Se qualcuno chiede un esempio
+
+di come esattamente la parte importante di ogni storia venga tralasciata, e persino
+
+la parte riferita non venga compresa, difficilmente potrebbe trovare un
+
+caso più forte della storia di Henry Ford di Detroit.
+
+Quando ero a Detroit ebbi il piacere di incontrare il signor Ford, e fu
+
+davvero un piacere. È un uomo del tutto capace di opinioni che io ritengo
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_41" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 41)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -22230,6 +29084,176 @@ The talk of prejudice against the Japs is not unlike the talk of
 prejudice against the Jews. Only in this case our indifference has
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+sciocche fino alla follia; ma non è il volgare benevolo
+
+padrone. Bisogna ammettere che è un milionario; ma non lo si può davvero
+
+accusare di essere un filantropo. Non è un uomo che voglia semplicemente
+
+dirigere la gente; sono piuttosto le sue idee a dirigere lui, e forse a trascinarlo
+
+via con sé. Ha un volto distinto e sensibile; ha davvero inventato
+
+cose lui stesso, a differenza della maggior parte di chi lucra sulle invenzioni; è
+
+in parte un [[artist|artista]] e non poco un combattente. Un uomo di quel tipo
+
+è sempre capace di sbagliarsi clamorosamente, specie nell'atmosfera settaria
+
+dell'[[America]]; e il signor Ford si è sbagliato in passato e può
+
+sbagliarsi ora. È noto in Inghilterra soprattutto per un progetto che ritengo
+
+assai assurdo; quello della [[Ship|Nave]] della Pace, che venne in Europa durante
+
+la guerra. Ma non è affatto noto in Inghilterra in relazione a una
+
+campagna assai più importante, che ha condotto assai più di recente e
+
+con assai maggior [[success|successo]]; una campagna contro gli ebrei simile a una delle
+
+campagne antisemite del Continente. Ora, chiunque conosca qualcosa
+
+dell'[[America]] sa esattamente come dovesse essere la [[Ship|Nave]] della Pace. Fu una
+
+combinazione nazionale di [[Imagination|immaginazione]] e ignoranza, che possiede almeno
+
+un po' della [[Beauty|bellezza]] dell'[[innocence|innocenza]]. Gli uomini che vivono in quelle immense, disadorne
+
+pianure interne non sanno nulla di frontiere o della [[Tragedy|tragedia]] di una lotta per la
+
+[[Freedom|libertà]]; non sanno nulla di allarmi e armamenti o del pericolo di un'
+
+alta civiltà librata come una preziosa statua a portata di un pugno
+
+corazzato. Sono avvezzi a una cittadinanza cosmopolita, in cui uomini di
+
+ogni sangue si mescolano e in cui uomini di ogni credo sono considerati uguali.
+
+Il loro più alto vanto morale è l'[[Humanitarianism|umanitarismo]]; il loro più alto vanto intellettuale
+
+è l'illuminismo. In una parola, sono gli ultimi uomini al mondo che
+
+sembrerebbero disposti a [[Pride|vantarsi]] di un pregiudizio contro gli ebrei.
+
+Non hanno una religione in particolare, tranne un sincero sentimento che
+
+chiamerebbero 'vero [[Christianity|cristianesimo]],' e che vieta in modo speciale un
+
+attacco agli ebrei. Hanno un patriottismo che si vanta di
+
+assimilare ogni tipo, ebrei compresi. Il signor Ford è un puro prodotto
+
+di questo mondo pacifico, come fu sufficientemente provato dal suo pacifismo. Se un
+
+uomo di tal fatta ha scoperto che esiste un problema ebraico, è
+
+perché un problema ebraico esiste. Non è certo perché vi sia
+
+un pregiudizio antiebraico. Poiché se vi fosse stata una qualsiasi misura di tale
+
+pregiudizio razziale e religioso, egli sarebbe stato pressoché l'ultimo
+
+tipo d'uomo ad averlo. La sua particolare parte del mondo sarebbe stata
+
+l'ultimo luogo a produrlo. Possiamo [[Well|pure]] ridere della [[Ship|Nave]] della Pace,
+
+della sua rotta folle e del suo inevitabile naufragio; ma si ricordi che proprio quella
+
+follia era un tentativo di navigare quanto più lontano possibile dal [[Castle|castello]] di
+
+Front-de-Boeuf. Tutto ciò che lo rendeva contro la guerra avrebbe dovuto
+
+impedirgli di essere antisemita. Possiamo deriderlo perché folle per la
+
+pace; ma non possiamo dire che fosse tanto folle per la pace da muovere guerra a
+
+Israele.
+
+Accadde che, quando ero in [[America]], avevo appena pubblicato alcuni
+
+studi sulla Palestina; e fui assediato da rabbini che lamentavano il mio
+
+'pregiudizio.' Feci notare che avevano afferrato la parola
+
+sbagliata, anche se non avevano afferrato l'uomo sbagliato. Come punto di
+
+autobiografia personale, non mi trovo a essere un uomo che detesta gli ebrei;
+
+benché creda che alcuni lo facciano. Ho avuto ebrei tra i miei più
+
+intimi e fedeli amici sin dalla fanciullezza, e [[Hope|spero]] di averli
+
+finché non morrò. Ma anche se provassi avversione per gli ebrei, sarebbe
+
+illogico chiamare quell'avversione un pregiudizio. Pregiudizio è una parola latina assai
+
+lucida che designa l'inclinazione che un uomo ha prima di esaminare un caso.
+
+Si potrebbe dire che io ho un pregiudizio contro un Ainu peloso a causa del suo
+
+nome, poiché non ho mai avuto con lui un'intimità tale da
+
+correggere i miei preconcetti. Ma se, dopo essermi aggirato per il mondo moderno
+
+e aver incontrato ebrei, conosciuto ebrei, trattato affari con ebrei, e aver letto
+
+e sentito parlare di ebrei, giungessi alla conclusione che gli ebrei non mi
+
+piacciono, la mia conclusione non sarebbe di certo un pregiudizio. Sarebbe semplicemente
+
+un'opinione; e per giunta un'opinione che avrei pienamente diritto di avere; anche se in
+
+verità non la sostengo. Nessuna stravaganza d'odio che segua semplicemente
+
+all'_esperienza_ degli ebrei può propriamente chiamarsi pregiudizio.
+
+Ora, il punto è che questo nuovo antisemitismo americano scaturisce
+
+dall'esperienza e da null'altro che dall'esperienza. Non c'è pregiudizio da cui esso possa
+
+[[spring|scaturire]]. O piuttosto il pregiudizio va tutto nel senso opposto. Tutte le
+
+tradizioni di quella [[Democracy|democrazia]], e tradizioni assai lodevoli per giunta, sono a
+
+favore della tolleranza e di una sorta di idealistica indifferenza. Le
+
+simpatie nelle quali questa gente ottocentesca fu allevata erano tutte
+
+contro Front-de-Boeuf e in favore di Rebecca. Ereditarono un
+
+pregiudizio contro l'antisemitismo; un pregiudizio di anti-antisemitismo.
+
+Questa gente delle pianure ha trovato il problema ebraico esattamente come
+
+avrebbe potuto trovare il petrolio; perché è _lì_, e nemmeno perché lo
+
+cercasse. La loro visione del problema, come il loro uso del
+
+petrolio, non è sempre soddisfacente; e con parti di essa sono in totale
+
+disaccordo. Ma il punto è che la cosa che io chiamo problema, e che
+
+altri chiamano pregiudizio, è ora comparsa alla piena luce del giorno in un nuovo
+
+paese dove non c'è clericalismo, né feudalesimo, né antica
+
+superstizione a spiegarla. È comparsa perché _è_ un problema;
+
+e i migliori amici degli ebrei, compresi molti ebrei
+
+stessi, sono coloro che cercano di trovare una soluzione. Questo è il significato
+
+dell'episodio del signor Henry Ford di Detroit; e difficilmente ne udrete una
+
+parola intelligibile in Inghilterra.
+
+Il discorso del pregiudizio contro i giapponesi non è dissimile dal discorso del
+
+pregiudizio contro gli ebrei. Solo che in questo caso la nostra indifferenza ha
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_42" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 42)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -22401,6 +29425,174 @@ unconscious seriousness. Flippancy is a flower whose roots are often
 
 underground in the subconsciousness. Many a man talks sense when he
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+davvero la scusa dell'ignoranza. Un tempo facevamo prediche ai russi perché
+
+opprimevano gli ebrei, prima di udire la parola bolscevico e cominciare a
+
+far loro prediche perché oppressi dagli ebrei. Allo stesso modo abbiamo
+
+a lungo fatto prediche ai californiani perché opprimevano i giapponesi, senza tener conto
+
+della possibilità che essi prevedano che l'oppressione presto potrebbe volgersi
+
+nel verso opposto. Come nell'altro caso, può essere una persecuzione ma non è
+
+un pregiudizio. I californiani sanno dei giapponesi più di quanto ne sappiamo
+
+noi; e i nostri stessi coloni, quando si trovano nella medesima posizione,
+
+generalmente dicono la stessa cosa. Non tenterò di trattare adeguatamente qui
+
+i vasti problemi internazionali e diplomatici che sorgono col
+
+nome della nuova potenza dell'Estremo Oriente. È possibile che il Giappone, avendo
+
+imitato il militarismo europeo, imiti il pacifismo europeo. Non posso
+
+onestamente pretendere di sapere che cosa i giapponesi intendano con l'uno più di quanto sappia
+
+con l'altro. Ma quando degli inglesi, specialmente liberali inglesi come
+
+me, assumono un atteggiamento superiore e censorio verso gli americani e
+
+specialmente i californiani, mi sento spinto a fare un'ultima osservazione. Quando un
+
+considerevole numero di inglesi parla delle [[Grave|gravi]] e contrastanti ragioni della
+
+nostra [[Friendship|amicizia]] col Giappone e della nostra [[Friendship|amicizia]] con l'[[America]], quando
+
+alla fine tendono, in una sorta di conclusione, a soffermarsi sulle superiori virtù del
+
+Giappone, mi sia permesso fare un solo commento.
+
+Annoiamo perpetuamente il mondo e noi stessi con discorsi sui
+
+legami che ci uniscono all'[[America]]. Proclamiamo perpetuamente ad alta voce che
+
+l'Inghilterra e l'[[America]] si somigliano moltissimo, specialmente l'Inghilterra. Noi
+
+insistiamo sempre che le due sono identiche in tutte le cose in cui
+
+più palesemente differiscono. Diciamo sempre che entrambe rappresentano la
+
+[[Democracy|democrazia]], quando non acconsentiremmo a sopportare la loro [[Democracy|democrazia]] per mezza
+
+giornata. Diciamo sempre che almeno siamo tutti anglosassoni, quando
+
+noi discendiamo da romani e normanni e britanni e danesi, ed essi
+
+discendono da irlandesi e italiani e slavi e tedeschi. Diciamo a
+
+un popolo la cui stessa esistenza è una rivolta contro la [[Crown|Corona]] britannica che
+
+esso è appassionatamente devoto alla Costituzione britannica. Diciamo a una
+
+nazione la cui intera politica è stata isolamento e indipendenza che con
+
+noi essa può portare sicura il Fardello dell'Uomo Bianco dell'impero universale. Diciamo
+
+a un continente gremito di irlandesi di ringraziare Dio che il sassone possa
+
+sempre governare il celta. Diciamo a una popolazione le cui stesse virtù sono senza legge
+
+che insieme sosteniamo il Regno della Legge. Riconosciamo il nostro
+
+carattere rispettoso della legge in gente che fa leggi che né essi né
+
+chiunque altro può sopportare. Ci congratuliamo con loro per l'aggrapparsi a tutto ciò che
+
+hanno gettato via, e per l'imitare tutto ciò che vennero al mondo per
+
+insultare. E quando abbiamo stabilito tutte queste insensate
+
+analogie con una nazione inesistente, aspettiamo finché non c'è una crisi in
+
+cui siamo davvero tutt'uno con l'[[America]], e allora vacilliamo e minacciamo
+
+di venirle meno. In una battaglia in cui siamo davvero di un solo [[Blood|sangue]], il [[Blood|sangue]] della
+
+grande razza bianca in tutto il mondo, quando abbiamo davvero una sola
+
+lingua, l'alfabeto fondamentale di Cadmo e la scrittura di Roma,
+
+quando rappresentiamo davvero lo stesso regno della legge, la comune [[Conscience|coscienza]]
+
+della Cristianità e la morale di uomini battezzati, quando abbiamo davvero una
+
+[[Faith|fede]] implicita e un [[Honour|onore]] e un tipo di [[Freedom|libertà]] tali da chiamare a raccolta le nostre anime come
+
+a suon di trombe--_allora_ molti di noi cominciano a indebolirsi e a esitare e a [[Wonder|domandarsi]]
+
+se non ci sia qualcosa di assai grazioso negli omini gialli, le cui
+
+storie eroiche ruotano attorno alla poligamia e al [[suicide|suicidio]], e i cui eroi portavano
+
+due spade e adoravano gli antenati del Mikado.
+
+_Il proibizionismo tra realtà e fantasia_
+
+Andai in [[America]] con una certa intenzione di non discutere del proibizionismo. Ma
+
+presto scoprii che gli americani [[Well|agiati]] erano fin troppo lieti di discuterne
+
+davanti alle noci e al vino. Erano persino disposti, se necessario, a
+
+fare a meno delle noci. Sono ben lungi dal deridere ciò; avendo una generale
+
+[[philosophy|filosofia]] che qui non occorre esporre, ma che può essere simboleggiata
+
+col dire che le scimmie possono godere delle noci ma solo gli uomini possono godere del vino. Ma
+
+se devo occuparmi del proibizionismo, non v'è [[Doubt|dubbio]] su quale sia la prima cosa
+
+da dirne. La prima cosa da dirne è che esso non
+
+esiste. È in una certa misura applicato tra i poveri; in ogni caso
+
+si intendeva applicarlo tra i poveri; benché anche tra loro
+
+immagini che venga molto eluso. Non è di certo applicato tra i ricchi;
+
+e [[Doubt|dubito]] che lo si intendesse. Sospetto che ciò sia
+
+sempre accaduto ogni volta che questa nozione negativa si è impadronita di qualche
+
+particolare provincia o tribù. Il proibizionismo non proibisce mai. Non l'ha mai fatto
+
+nella [[history|storia]]; nemmeno nella [[history|storia]] musulmana; e mai lo farà. Maometto
+
+aveva almeno l'argomento di un clima e non l'interesse di una classe. Ma
+
+se occorre una prova, si consideri quale parte della cultura musulmana sia passata
+
+stabilmente nella nostra stessa cultura moderna. Troverete che l'unico
+
+poema musulmano che ha davvero fatto breccia è un poema musulmano in lode del vino. La
+
+[[Crown|corona]] di tutte le vittorie della Mezzaluna è che nessuno legge il
+
+Corano e tutti leggono le Rubaiyat.
+
+Molti di noi ricordano con soddisfazione una vecchia vignetta di _Punch_,
+
+che raffigura un festoso vecchio signore in stato di collasso sul
+
+marciapiede, e una filantropica vecchia signora che con ansia richiama l'attenzione
+
+di un [[cabman|vetturino]] sulla calamità. La vecchia signora dice: 'Sono certa che questo povero
+
+signore è malato,' e il [[cabman|vetturino]] risponde con fervore: 'Malato! Magari avessi io
+
+la metà del suo malanno.'
+
+Parliamo di [[Humour|umorismo]] inconscio; ma esiste anche una cosa quale la
+
+serietà inconscia. La leggerezza è un fiore le cui radici sono spesso
+
+sepolte nel subconscio. Molti dicono cose sensate quando
 
 
 
@@ -22578,6 +29770,178 @@ with equal [[logic]] and clearness; and in these days of intellectual fog
 that [[Alone|alone]] is like a ray of sunshine.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+crede di dire sciocchezze; sfiora un conflitto di idee come se
+
+fosse solo una contraddizione di linguaggio, o traccia davvero un parallelo quando
+
+intende solo fare un gioco di parole. Alcune delle battute di _Punch_ del miglior
+
+periodo ne sono esempi; e quella citata sopra ne è un fortissimo
+
+esempio. Il [[cabman|vetturino]] intendeva ciò che disse; ma disse assai
+
+più di quanto intendesse. Le sue parole contenevano sottili dottrine filosofiche
+
+e distinzioni delle quali forse non era del tutto consapevole. Lo
+
+spirito della lingua inglese, la [[Tragedy|tragedia]] e la [[Comedy|commedia]] della condizione
+
+del popolo inglese, parlarono attraverso di lui come il dio parlava attraverso una
+
+testa di teraphìm o bronzea maschera d'oracolo. E l'oracolo è un presagio; e in
+
+un certo senso un presagio di rovina.
+
+Si osservi, per cominciare, la sobrietà del [[cabman|vetturino]]. Si noti la sua misura,
+
+la sua moderazione; o per usare il termine ancor più veritiero, la sua temperanza. Egli
+
+desidera solo avere metà del malanno del vecchio signore. Al vecchio signore è
+
+lasciata volentieri l'altra metà, insieme a tutte le altre pompe e lussi
+
+della sua superiore condizione sociale. Non c'è nulla di bolscevico e nemmeno di
+
+comunista nel temperante [[cabman|vetturino]]. Lo si potrebbe quasi definire
+
+distributista, nel senso che egli desidera distribuire il malanno del vecchio
+
+signore più equamente tra il vecchio signore e
+
+sé stesso. E, naturalmente, i rapporti sociali ivi rappresentati sono assai
+
+più fedeli alla realtà di quanto sia di moda ammettere. Col realismo di
+
+questa vignetta il signor Punch fece ammenda di alcune vignette più snob, dalla
+
+morale sociale opposta. Resterà in eterno tra le sue vere
+
+glorie l'aver esibito una vignetta in cui il [[cabman|vetturino]] era sobrio e
+
+il signore era ubriaco. Malgrado molte idee contrarie, era
+
+enfaticamente una scena di vita reale. La [[Truth|verità]] è soggetta al
+
+più semplice di tutti i possibili criteri. Se il [[cabman|vetturino]] fosse davvero e veramente
+
+ubriaco non sarebbe un [[cabman|vetturino]], poiché non saprebbe guidare la carrozza. Se avesse
+
+l'intero malanno del vecchio signore, siederebbe beato
+
+sul marciapiede accanto al vecchio signore; simbolo di un'eguaglianza sociale
+
+finalmente raggiunta, e del livellamento di tutte le classi dell'umanità. Non dico
+
+che non sia mai esistito un tale [[Monster|mostro]] quale un [[cabman|vetturino]] ubriaco; non
+
+dico che il conducente non possa talvolta essersi imprudentemente avvicinato
+
+ai tre quarti del malanno, invece di attenersi alla sua severa
+
+ma saggia concezione della metà di esso. Ma dico che la maggior parte degli uomini di
+
+mondo, se parlassero con sincerità, potrebbe testimoniare più esempi di
+
+signori disperatamente ubriachi messi dentro le carrozze che di disperatamente ubriachi
+
+conducenti a cassetta. I filantropi e i funzionari, che non guardano mai le
+
+persone ma solo le carte, hanno probabilmente una massa di statistiche sociali a
+
+riprova del contrario; fondate sul semplice fatto che i vetturini possono essere
+
+[[Cross|contro]]interrogati sulle loro abitudini mentre i signori no. Gli assistenti sociali
+
+hanno probabilmente l'intera faccenda elaborata in sezioni e compartimenti,
+
+che mostrano come l'estrema ebbrezza dei vetturini si raffronti con la
+
+parallela ebbrezza dei fruttivendoli ambulanti; o che misurano l'ubriachezza di uno
+
+spazzino contro l'ubriachezza di uno scopino di incroci. Ma vi è
+
+più esperienza pratica racchiusa nel parlare pratico degli
+
+inglesi; e nel proverbio che dice 'ubriaco come un lord.'
+
+Ora il proibizionismo, sia come proposta in Inghilterra sia come finzione in
+
+[[America]], significa semplicemente che l'uomo che ha bevuto meno non avrà da
+
+bere, e l'uomo che ha bevuto di più avrà tutto da bere. Significa
+
+che il vecchio signore sarà portato a [[Home|casa]] in carrozza più ubriaco che
+
+mai; ma che, per rendere del tutto sicuro per lui bere fino all'
+
+eccesso, all'uomo che lo conduce sarà proibito bere anche con
+
+moderazione. Questo è ciò che significa; è tutto ciò che significa; è tutto ciò che
+
+mai significherà. Tende a ciò nei paesi musulmani; dove i
+
+gaudenti e progrediti bevono champagne, mentre i poveri e fanatici
+
+bevono [[Water|acqua]]. Significa ciò nell'[[America]] moderna; dove i ricchi stanno tutti
+
+in questo momento sorseggiando i loro cocktail, e discutendo di quanto più duramente
+
+si possano far lavorare gli operai purché li si tenga lontani dalla festa.
+
+Questo è ciò che significa e tutto ciò che significa; e gli uomini si dividono su di esso
+
+a seconda che credano o no in un certo concetto trascendentale
+
+chiamato 'giustizia,' espresso in un più mistico [[Paradox|paradosso]] come l'eguaglianza
+
+degli uomini. Finché non credete nella giustizia, e finché siete
+
+ricchi e davvero sicuri di restarlo, potete avere il proibizionismo ed
+
+essere ubriachi quanto vi pare.
+
+Vedo che alcune osservazioni del reverendo R. J. Campbell, riguardanti le condizioni sociali
+
+in [[America]], sono riferite dalla stampa. Comprendono alcune
+
+osservazioni sul Sinn Féin nelle quali, come nella maggior parte delle allusioni del signor Campbell
+
+all'Irlanda, non è difficile scorgere la sua tetra origine,
+
+o l'acre odore del fumo di Belfast. Ma le osservazioni sull'
+
+[[America]] sono preziose in senso oggettivo, al di là della loro
+
+[[philosophy|filosofia]]. Egli crede che il proibizionismo sopravvivrà e sarà un [[success|successo]],
+
+né egli stesso pare guardare a tale prospettiva con particolare
+
+sfavore. Ma egli attesta francamente e liberamente la [[Truth|verità]] che ho
+
+affermato; che il proibizionismo non proibisce, per quanto riguarda i
+
+ricchi. Egli attesta di vedere costantemente vino in tavola, come
+
+attesterà ogni altro grato ospite della generosa ospitalità dell'[[America]]; ed
+
+egli lascia intendere con umorismo di non aver fatto domande sulla storia raccontatagli
+
+delle vecchie scorte nelle cantine. Dunque non v'è disputa sui
+
+fatti; e torniamo come prima ai principi. Il signor Campbell è
+
+soddisfatto di un proibizionismo che è un altro nome per privilegio? Se è così,
+
+egli ha semplicemente assorbito insieme alla sua nuova teologia una nuova [[morality|moralità]] che
+
+è diversa dalla mia. Ma egli espone entrambi i lati della disuguaglianza
+
+con eguale [[logic|logica]] e chiarezza; e in questi giorni di nebbia intellettuale
+
+ciò [[Alone|soltanto]] è come un raggio di sole.
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_44" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 44)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -22747,6 +30111,172 @@ is not in the least a question of drawing the line between liberty and
 
 licence. If this is licence, there is no such thing as liberty. It is
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora la mia obiezione principale al proibizionismo non si fonda su alcun argomento
+
+contro di esso, ma sull'unico argomento a suo favore. Non mi occorre nulla di più per la sua
+
+condanna della sola cosa che si dice in sua difesa. È detta
+
+dai capitalisti in tutta l'[[America]]; ed è riferita in modo assai chiaro e corretto
+
+dallo stesso signor Campbell. L'argomento è che i dipendenti lavorano
+
+più duramente, e perciò i datori di lavoro si arricchiscono. Che questa idea sia
+
+accolta con calma, di per sé, come il criterio di un problema di libertà, è di
+
+per sé una prova definitiva della presenza della [[Slavery|schiavitù]]. Mostra che la
+
+gente ha completamente dimenticato che esista un qualsiasi altro criterio all'infuori di quello
+
+servile. I datori di lavoro sono disposti a che gli operai facciano esercizio,
+
+poiché ciò può aiutarli a fare più lavoro. Sono persino disposti a che gli operai
+
+abbiano tempo libero; poiché i capitalisti più intelligenti vedono che
+
+anche questo in realtà significa che possono fare più lavoro. Ma non sono in
+
+alcun modo disposti a che gli operai si divertano; poiché il divertimento accresce solo la
+
+felicità e non l'utilità del lavoratore. Il divertimento è [[Freedom|libertà]]; e in tal
+
+senso è un fine in sé. Riguarda l'uomo non come lavoratore ma come
+
+cittadino, o persino come [[Soul|anima]]; e l'[[Soul|anima]] in tal senso è un fine in
+
+sé. Che un uomo abbia una ragionevole quantità di [[Comedy|commedia]] e poesia
+
+e persino di fantasia nella sua vita è parte della sua salute spirituale, che è
+
+al servizio di Dio; e non soltanto della sua salute meccanica, che
+
+ora è vincolata al servizio dell'uomo. Il criterio stesso adottato ha tutta l'
+
+implicazione servile; il criterio di ciò che possiamo cavare da lui, invece di
+
+quello di ciò che egli può cavare dalla vita.
+
+Si riferisce che il signor Campbell abbia suggerito, senza dubbio più come una
+
+congettura che come una profezia, che l'Inghilterra possa trovar necessario divenire
+
+astemia per competere commercialmente con l'efficienza e
+
+l'economia dell'[[America]] astemia. [[Well|Ebbene]], nel Settecento e nei primi
+
+decenni dell'Ottocento vi era in [[America]] una delle più economiche ed
+
+efficienti di tutte le forme di lavoro. Non risultò essere praticabile per
+
+gli inglesi competere con essa copiandola. C'erano tanti
+
+pregiudizi umanitari in giro a quei tempi. Ma economicamente
+
+non sembra esserci ragione per cui un uomo non avrebbe potuto profetizzare che l'Inghilterra
+
+sarebbe stata costretta ad adottare la [[Slavery|schiavitù]] americana allora, come è esortata ad adottare
+
+il proibizionismo americano ora. Forse un tal [[Prophet|profeta]] avrebbe profetizzato
+
+giustamente. Di certo non è impossibile che la [[Slavery|schiavitù]] universale possa
+
+essere stata la visione di Calhoun come il proibizionismo universale sembra essere la
+
+visione di Campbell. La vecchia Inghilterra del 1830 avrebbe detto che una tale
+
+difesa della [[Slavery|schiavitù]] era mostruosa; ma che cosa avrebbe detto di una difesa
+
+del bere [[Water|acqua]] imposto per legge? Nondimeno, il più nobile Stato Servile di
+
+Calhoun crollò prima di potersi diffondere in Europa. E c'è sempre
+
+la [[Hope|speranza]] che lo stesso possa accadere alla ben più materialistica Utopia
+
+del signor Campbell e delle bibite analcoliche.
+
+La [[morality|moralità]] astratta è assai importante; e può [[Well|bene]] schiarire la mente
+
+considerare quale sarebbe l'effetto del proibizionismo in [[America]], se vi fosse
+
+introdotto. Sarebbe, naturalmente, una decisa deviazione dalla
+
+tradizione della Dichiarazione d'Indipendenza. Coloro che lo negano non sono
+
+abbastanza seri da meritare attenzione. Basti dire che essi
+
+sono ridotti a sminuire quel documento in difesa del proibizionismo,
+
+esattamente come i proprietari di schiavi furono ridotti a sminuirlo in difesa della
+
+[[Slavery|schiavitù]]. Sono ridotti a dire che i Padri della Repubblica
+
+non intendevano altro se non che non sarebbero stati governati da un [[King|re]]. E sono
+
+ovviamente esposti alla risposta che [[Lincoln]] diede a Douglas sulla [[Slavery|schiavitù]]
+
+questione; che se quella grande carta era limitata a certi eventi del
+
+Settecento, non valeva granché la pena di farne tanto scalpore nell'
+
+Ottocento--o nel Novecento. Ma sono anche esposti a un'altra
+
+risposta ancor più pertinente, quando pretendono che
+
+il famoso preambolo di Jefferson intenda dire soltanto che la monarchia è un male.
+
+Sostengono che Jefferson intendesse dire soltanto qualcosa che egli
+
+non dice affatto. Il grande preambolo non dice che ogni
+
+[[government|governo]] monarchico debba essere ingiusto; al contrario, esso piuttosto implica
+
+che la maggior parte dei [[government|governi]] sia giusta. Esso parla dei governi umani in generale
+
+come giustificati dalla necessità di difendere certi diritti personali. Non
+
+vedo alcuna ragione al mondo per supporre che non includerebbe qualsiasi regio
+
+[[government|governo]] che difenda davvero quei diritti. Ancor meno [[Doubt|dubito]] di ciò che esso
+
+direbbe di un [[government|governo]] repubblicano che distrugga quei diritti.
+
+Ma quali sono quei diritti? I sofisti possono sempre [[debate|discutere]] del loro
+
+grado; ma nemmeno i sofisti possono [[debate|discutere]] della loro direzione. Nessuno che sia
+
+in sé negherà che la [[Democracy|democrazia]] jeffersoniana volesse dare alla
+
+legge un controllo generale nelle cose più pubbliche, ma ai cittadini una più
+
+generale libertà nelle cose private. Ovunque tracciamo il confine, la libertà
+
+può essere solo libertà personale; e le libertà più personali devono almeno
+
+essere le ultime libertà che perdiamo. Ma oggi sono le prime
+
+libertà che perdiamo. Non è questione di tracciare il confine nel posto
+
+giusto, ma di cominciare dal capo sbagliato. Quali sono i diritti dell'uomo, se
+
+non includono il normale diritto di regolare la propria salute, in
+
+relazione ai normali rischi della dieta e della vita quotidiana? Nessuno può pretendere
+
+che la birra sia un [[Poison|veleno]] come l'acido prussico è un [[Poison|veleno]]; che tutti i milioni
+
+di uomini civili che la bevvero caddero tutti morti stecchiti non appena l'ebbero
+
+toccata. Il suo uso e abuso è ovviamente questione di giudizio; e non può
+
+esservi libertà personale, se non è questione di giudizio privato. Non
+
+è affatto una questione di tracciare il confine tra libertà e
+
+licenza. Se questa è licenza, allora la libertà non esiste. È
 
 
 
@@ -22920,6 +30450,174 @@ policy be founded on something analogous to flinging a gauntlet or
 uttering a battle-cry. We might as [[Well|well]] expect all the Yale students to
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+palesemente impossibile trovare un diritto più individuale o intimo. Dire
+
+che un uomo ha diritto a un voto, ma non a una voce nella
+
+scelta della propria cena, è come dire che ha diritto al proprio cappello ma
+
+non alla propria testa.
+
+Il proibizionismo, dunque, viola palesemente i diritti dell'uomo, ammesso che vi siano
+
+diritti dell'uomo. Ciò che i suoi sostenitori intendono davvero è che non ve ne sono
+
+affatto. E nel suggerire ciò, essi hanno tutti i vantaggi che ogni
+
+scettico ha quando sostiene una negazione. Quella sorta di scetticismo
+
+estremo può solo essere ritorto su sé stesso, e possiamo far notare
+
+loro che essi non possono provare il diritto della [[City|città]] di essere oppressiva
+
+più di quanto noi possiamo provare il diritto del cittadino di essere libero. Nella metafisica
+
+primaria di una tale pretesa, sarebbe di certo più facile dimostrarla
+
+per una singola [[Soul|anima]] consapevole che per un'artificiale combinazione sociale.
+
+Se non vi sono diritti degli uomini, quali sono i diritti delle nazioni? Forse una
+
+nazione non ha diritto all'[[Self|auto]][[government|governo]]. Forse non ha diritto a un buon
+
+[[government|governo]]. Forse non ha diritto a nessun tipo di [[government|governo]] o a nessun
+
+tipo di indipendenza. Forse diranno che _ciò_ non è implicito nella
+
+Dichiarazione d'Indipendenza. Ma senza addentrarmi nelle mie ragioni per
+
+credere nei diritti naturali, o piuttosto nei diritti [[Supernatural|soprannaturali]] (e
+
+Jefferson di certo li enuncia come [[Supernatural|soprannaturali]]), mi accontento qui di
+
+notare che il modo in cui un uomo tratta il proprio [[Body|corpo]], in relazione alle tradizionali
+
+e ordinarie occasioni di eccesso corporeo, è vicino al suo
+
+rispetto di [[Self|sé]] quanto più la coercizione sociale possa spingersi; e che quando ciò è
+
+venuto meno non resta nulla. Se la coercizione si applica a ciò, si applica a
+
+tutto; e nel futuro di questa controversia ovviamente si
+
+applicherà a tutto. Quando ero in [[America]], la gente già lo applicava
+
+al tabacco. Non riesco proprio a vedere perché non dovrebbero applicarlo al parlare.
+
+Il parlare spesso accompagna il tabacco come accompagna la birra; e ciò che più
+
+conta, il parlare può spesso condurre sia alla birra sia al tabacco. Il parlare spesso
+
+spinge un uomo a bere, sia negativamente sotto forma di brontolii sia
+
+positivamente sotto forma di cattive compagnie. Se il puritano americano è tanto
+
+ansioso di fare il _censor morum_, dovrebbe ovviamente porre fine alle
+
+malvage comunicazioni che davvero corrompono i buoni costumi. Dovrebbe
+
+reintrodurre la Briglia della Bisbetica tra le altre Leggi Blu per una terra di
+
+diavoli blu. Dovrebbe imbavagliare tutti gli allegri ingannatori e i plausibili cinici;
+
+dovrebbe recidere tutte le labbra adulatrici e la lingua che proferisce cose
+
+superbe. Nessuno può [[Doubt|dubitare]] che nove decimi del male nel mondo si
+
+facciano semplicemente parlando. Jefferson e i vecchi democratici lasciavano che la gente
+
+parlasse, non perché ignorassero questo fatto, ma perché
+
+erano incatenati a quella loro vecchia fantasia sulla [[Freedom|libertà]] e sui diritti
+
+dell'uomo. Ma poiché abbiamo già abbandonato quella dottrina in modo
+
+definitivo, non vedo perché il nuovo principio non debba essere applicato
+
+intelligentemente; e in tal caso sarebbe applicato al controllo della
+
+conversazione. Lo Stato ci fornirebbe moduli già compilati
+
+con gli argomenti a noi consoni da discutere a colazione; forse
+
+concedendo a ciascuno un numero limitato di epigrammi. Forse dovremmo
+
+inoltrare una formale domanda scritta, per poterci permettere una battuta che
+
+ci fosse appena venuta in mente durante la conversazione. E il comitato la
+
+esaminerebbe a tempo debito. Forse la cosa si attuerebbe in modo più
+
+pratico, e i privati cittadini verrebbero chiusi come venivano chiuse le
+
+osterie. Forse porterebbero tutti dei bavagli, che il
+
+poliziotto rimuoverebbe a ore stabilite; e le loro bocche verrebbero aperte
+
+dall'una alle tre, come ora in Inghilterra persino le osterie sono di
+
+[[Time|tempo]] in [[Time|tempo]] accessibili al pubblico. Ad alcuni ciò suonerà
+
+fantastico; ma non tanto fantastico quanto Jefferson avrebbe ritenuto il
+
+proibizionismo. Ma vi è un senso in cui è davvero fantastico, poiché
+
+per ipotesi esso [[Leaves|tralascia]] il favoritismo che è il fondamento dell'
+
+intera faccenda. L'unico senso in cui possiamo dire che la [[logic|logica]] non
+
+si spingerà mai fin qui è che la [[logic|logica]] non arriverà mai al punto dell'
+
+eguaglianza. È perfettamente possibile che le stesse forze che hanno
+
+proibito la birra proseguano proibendo il tabacco. Ma esse, in un senso speciale
+
+e limitato, proibiranno il tabacco--ma non i sigari. O comunque non i
+
+sigari costosi. In [[America]], dove gran numero di uomini comuni fuma
+
+sigari piuttosto comuni, vi sarebbe senza dubbio una buona occasione per
+
+penalizzare un piacere assai comune. Ma gli avana del milionario
+
+andranno benissimo. Così sarà se mai i puritani riporteranno la
+
+Briglia della Bisbetica e il [[Silence|silenzio]] imposto per legge alla plebe. Sarà solo
+
+la plebe a tacere. I politici continueranno a parlare.
+
+Questi credo siano i fatti generali del problema del proibizionismo; ma
+
+non sarebbe leale lasciarlo senza menzionare due altre cause
+
+che, se non difese, sono almeno scuse. La prima è che
+
+il proibizionismo fu in gran parte approvato in una sorta di fervore o febbre di
+
+[[Self-Sacrifice|abnegazione]], che era parte dell'appassionato patriottismo dell'[[America]]
+
+nella guerra. Come ho osservato altrove, coloro che hanno una qualche nozione di
+
+come fosse quell'unanimità nazionale sorrideranno nel vedere l'[[America]]
+
+eretta a modello di mero idealismo internazionale. Il proibizionismo fu in parte una
+
+sorta di patriottica [[Renunciation|rinuncia]]; poiché l'istinto popolare, come ogni
+
+istinto poetico, tende sempre nelle grandi crisi a grandi gesti di
+
+[[Renunciation|rinuncia]]. Ma questo stesso fatto, se rende l'inumanità assai più
+
+umana, la rende assai meno definitiva e convincente. Gli uomini non possono restare
+
+impettiti in tali atteggiamenti simbolici; né una politica permanente può
+
+fondarsi su qualcosa di analogo al gettare un guanto di sfida o al
+
+lanciare un grido di battaglia. Tanto varrebbe [[Well|pure]] aspettarci che tutti gli studenti di Yale
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_46" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 46)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -23087,6 +30785,170 @@ indicate elsewhere, that anything like a positive case for [[Slavery|slavery]]
 
 became possible. Now among the many problems of the presence of an alien
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+restino per tutta la vita con la bocca aperta, esattamente come erano quando
+
+lanciarono il grido del college. Sarebbe altrettanto ragionevole aspettarci
+
+che restino per tutta la vita con la bocca chiusa, mentre la coppa di vino
+
+che è stata il sacramento di tutti i poeti e gli [[lovers|amanti]] passa di mano tra
+
+tutta la gioventù del mondo. Questo punto apparve assai chiaramente in una
+
+discussione che ebbi con un critico americano assai riflessivo e cordiale,
+
+un ecclesiastico che scriveva in una rivista anglo-cattolica. Egli espose il sentimento
+
+di questi più sani proibizionisti, che tanto ebbe a che fare con l'
+
+approvazione del proibizionismo, domandando: 'Non si può forse chiedere a un uomo cui si chiede di dare
+
+il suo [[Blood|sangue]] per la patria di rinunciare alla sua birra per la
+
+patria?' E questa frase illumina chiaramente tutti i limiti del
+
+caso. Non ho mai negato, in linea di principio, che in qualche anomala
+
+crisi possa essere lecito per un [[government|governo]] mettere sotto chiave la birra, o mettere sotto chiave il
+
+pane. In tal senso sono del tutto pronto a trattare il sacrificio della birra
+
+allo stesso modo del sacrificio del [[Blood|sangue]]. Ma il mio critico americano è
+
+davvero pronto a trattare il sacrificio del [[Blood|sangue]] allo stesso modo del
+
+sacrificio della birra? Lo spargimento di sangue dev'essere tanto prolungato e protratto quanto il
+
+proibizionismo? Il normale non combattente deve versare il suo sangue tanto spesso quanto
+
+si priva del suo bere? Posso immaginare gente che si sottomette a una speciale
+
+regolamentazione, come posso immaginarla servire in una particolare guerra. Disprezzo
+
+davvero la furfanteria politica che deliberatamente approva le regolamentazioni sulle bevande
+
+come misure di guerra e poi le conserva come misure di pace.
+
+Ma questa non è una questione se il bere e l'ubriachezza siano un male,
+
+bensì se il mentire e il truffare siano un male. Ma non ho mai negato che
+
+possa esservi bisogno di sacrifici eccezionali per occasioni eccezionali;
+
+e la guerra è per sua [[Nature|natura]] un'eccezione. Solo che, se la guerra è l'eccezione,
+
+perché il proibizionismo dovrebbe essere la regola? Se la rinuncia alla birra è degna
+
+di essere paragonata allo spargimento del [[Blood|sangue]], allora il [[Blood|sangue]] dovrebbe
+
+scorrere per sempre come una fontana nelle pubbliche piazze di Filadelfia
+
+e [[New York]]. Se il mio critico vuole completare il suo parallelo, deve stilare
+
+un programma piuttosto notevole per la vita quotidiana dei comuni
+
+cittadini. Deve supporre che, per tutta la loro vita, essi vengano
+
+schierati ogni giorno all'[[Time|ora]] di pranzo e pungolati con le baionette per dimostrare che
+
+verseranno il loro [[Blood|sangue]] per la patria. Deve supporre che ogni
+
+sera, dopo un leggero pasto di gas [[Poison|velenoso]] e shrapnel, vengano
+
+mandati a [[Sleep|dormire]] in una trincea sotto una permanente pioggerella di [[Fire|fuoco]] d'artiglieria. È
+
+di certo ovvio che se questa fosse la vita normale del cittadino, il
+
+cittadino non avrebbe vita normale. Il buon senso della cosa è che
+
+sacrifici di tal sorta sono ammirevoli ma anomali. Non è normale che
+
+lo Stato regolamenti perpetuamente le nostre giornate con la disciplina di un
+
+reggimento in battaglia; e non è normale che lo Stato regolamenti perpetuamente
+
+la nostra dieta con la disciplina di una carestia. Dire che ogni
+
+cittadino debba essere soggetto a controllo in tali cose corporee è come dire
+
+che ogni cristiano dovrebbe dilaniarsi con tenaglie roventi perché
+
+i martiri cristiani fecero il loro dovere in [[Time|tempo]] di persecuzione. Un uomo ha
+
+diritto di controllare il proprio [[Body|corpo]], benché in [[Time|tempo]] di [[Martyrdom|martirio]] possa dare il proprio
+
+[[Body|corpo]] alle fiamme; e un uomo ha diritto di controllare la propria salute corporea,
+
+benché in stato d'assedio possa dare il proprio [[Body|corpo]] alla fame. Così,
+
+benché la difesa patriottica fosse una difesa sincera, è una difesa che
+
+ricade sui difensori come un boomerang. Poiché prova soltanto che
+
+il proibizionismo dovrebbe essere [[ephemeral|effimero]], a meno che la guerra non debba essere eterna.
+
+L'altra scusa è assai meno romantica e assai più realistica. Ho
+
+già detto abbastanza della causa che è davvero realistica. Il vero
+
+potere dietro il proibizionismo è semplicemente il potere plutocratico degli intraprendenti
+
+datori di lavoro che vogliono cavare l'ultimo centimetro di lavoro dai loro operai.
+
+Ma prima che il progresso della moderna plutocrazia raggiungesse questo stadio,
+
+vi era una causa predeterminante per la quale c'era un caso assai migliore.
+
+L'intera faccenda cominciò col problema del lavoro dei neri. Non ho
+
+tentato in questo libro di trattare adeguatamente la questione del
+
+negro. Me ne sono astenuto per una ragione che può sembrare alquanto sensazionale;
+
+e cioè che non credo di avere nulla di particolarmente valido da dire o
+
+suggerire. Non pretendo di comprendere questa faccenda singolarmente oscura e
+
+intricata; e non vedo alcuna utilità in uomini che, non avendo soluzione, colmino
+
+il vuoto col sentimentalismo. La cosa principale che mi colpì delle
+
+persone di colore che vidi fu la loro incantevole e sorprendente allegria.
+
+Il mio senso del pathos fu toccato assai più dai Pellerossa; e
+
+in verità vorrei avere qui più spazio per rendere giustizia ai Pellerossa.
+
+Prestarono eroico servizio nella guerra; e più che giustificarono il loro
+
+glorioso posto nei [[Dreams|sogni]] a occhi aperti e negli incubi della nostra fanciullezza. Ma il
+
+problema del negro esige di certo più studio di quanto un turista potesse
+
+dedicargli; e questo libro è già abbastanza polemico sulle cose che ho
+
+davvero ponderato, senza permettergli di esibirmi come un turista
+
+che spara a vista. Ma credo che sia sempre stato terreno comune per le
+
+persone di buon senso che l'asservimento e l'importazione dei negri
+
+fossero stati il crimine e la catastrofe della [[history|storia]] americana. L'unica
+
+differenza era in origine che una parte pensava che, commesso il
+
+crimine, l'unica riparazione fosse la loro [[Freedom|libertà]]; mentre l'altra
+
+pensava che, commesso il crimine, l'unica sicurezza fosse la loro
+
+[[Slavery|schiavitù]]. Fu solo relativamente di recente, per un processo che dovrò
+
+indicare altrove, che qualcosa come un caso positivo a favore della [[Slavery|schiavitù]]
+
+divenne possibile. Ora, tra i molti problemi della presenza di un elemento alieno
 
 
 
@@ -23264,6 +31126,178 @@ ground of things that are meant to be funny. The sense of [[Humour|humour]] is
 generally very national; perhaps that is why the internationalists are
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+e figura almeno di recente barbara tra i cittadini, esisteva un
+
+problema assai reale, quello del bere. Il bere ha certamente un effetto eccezionalmente
+
+distruttivo sui negri nei loro paesi d'origine; e si sosteneva che avesse
+
+un effetto particolarmente demoralizzante sui negri negli
+
+Stati Uniti; che ridestasse le passioni che sono la particolare
+
+[[Temptation|tentazione]] della razza e conducesse a delitti spaventosi seguiti
+
+da spaventose vendette popolari. Comunque stiano le cose, molti
+
+degli stati dell'[[Union|Unione]] americana, che per primi proibirono i liquori ai
+
+cittadini, intendevano semplicemente proibirli ai negri. Ma non ebbero il
+
+[[Courage|coraggio]] morale di negare che i negri siano cittadini. Su tutti i loro
+
+espedienti politici gravava necessariamente il fardello che pesa così greve sulla
+
+politica moderna: l'ipocrisia. La razza superiore doveva governare per mezzo di una sorta di
+
+società segreta organizzata contro l'inferiore. I politici americani
+
+non osavano privare del voto i negri; e così costrinsero tutti in teoria
+
+e solo i negri in pratica. Il bere degli uomini bianchi divenne
+
+una cospirazione non meno delle sparatorie dei cavalieri bianchi del
+
+Ku-Klux Klan. E a questo proposito si può osservare di sfuggita che
+
+il paragone illustra l'idiozia di supporre che il senso morale
+
+del genere umano appoggerà mai la proibizione del bere come se fosse
+
+qualcosa di simile alla proibizione dello sparare. Sparare in [[America]] è
+
+soggetto ad assumere una forma libera, e talora una forma orribilissima; come quando
+
+furono assoldati bravi prezzolati per uccidere operai negli interessi capitalistici
+
+di quel puro patrono del disarmo, Carnegie. Ma quando alcuni dei ricchi
+
+americani ci dicono gravemente che nel loro bere non si può interferire,
+
+perché stanno soltanto esaurendo le scorte di vino già esistenti, possiamo
+
+[[Well|bene]] essere disposti a sorridere. Quando io ero là, in ogni caso, le stavano
+
+esaurendo assai in fretta; e senza apparenti timori circa l'approvvigionamento.
+
+Ma se il Ku-Klux Klan avesse cominciato improvvisamente a sparare a chiunque
+
+non gli piacesse in pieno giorno, e avesse blandamente spiegato che stava
+
+soltanto esaurendo le scorte delle sue munizioni, avanzate dalla Guerra
+
+Civile, sembra probabile che vi sarebbe stata almeno un po' di
+
+curiosità su quante ne fossero rimaste. Vi sarebbero state almeno
+
+occasionali indagini su quanto a lungo la cosa sarebbe probabilmente durata. È perfino
+
+concepibile che si sarebbero presi dei provvedimenti per fermarla.
+
+Nessun provvedimento si prende per fermare il bere dei ricchi, principalmente perché
+
+i ricchi ora fanno tutte le regole e quindi tutte le eccezioni, ma
+
+in parte perché nessuno poté mai sentire la piena gravità morale di questa
+
+particolare regola. E la [[Truth|verità]] è, come ho accennato, che essa fu
+
+originariamente istituita come eccezione e non come regola. Il
+
+negro emancipato era un'eccezione nella comunità, e un certo piano
+
+fu, a torto o a ragione, adottato per far fronte al suo caso. Una legge fu fatta
+
+dichiaratamente per tutti e in pratica solo per lui. Il Proibizionismo è
+
+importante solo in quanto segna la transizione mediante la quale il trucco, sperimentato
+
+con successo sul lavoro nero, poteva estendersi a tutto il lavoro. Noi in
+
+Inghilterra non abbiamo alcun diritto di fare i farisei a spese degli americani in
+
+questa faccenda; perché abbiamo tentato lo stesso trucco in cento forme. La
+
+vera difesa filosofica della moderna oppressione dei poveri sarebbe
+
+dire francamente che li abbiamo governati così male da renderli inadatti a
+
+governare se stessi. Ma nessun oligarca moderno è abbastanza uomo da dire questo.
+
+Poiché, come ogni virile cinismo, avrebbe un elemento di [[Humility|umiltà]]; il quale
+
+non si mescolerebbe col necessario elemento d'ipocrisia. E così procediamo,
+
+proprio come fanno gli americani, a fare una legge per tutti e poi a eluderla
+
+per noi stessi. Non abbiamo l'onestà di dire che i ricchi possono scommettere
+
+perché possono permetterselo; e così proibiamo a ogni uomo di scommettere in qualsiasi luogo;
+
+e poi diciamo che un luogo non è un luogo. È esattamente come se vi fosse
+
+una legge americana che consente di assassinare un negro perché non è un uomo
+
+ai sensi dell'Atto. Non abbiamo l'onestà di spingere i poveri
+
+a scuola perché sono ignoranti; e così fingiamo di spingervi tutti;
+
+e poi mandiamo ispettori nei bassifondi ma non nelle vie eleganti. Noi
+
+applichiamo lo stesso ingenuo principio; e siamo altrettanto antidemocratici quanto
+
+la [[Democracy|democrazia]] occidentale. Nondimeno vi è un elemento nel caso americano
+
+che non può essere presente nel nostro; e questo capitolo può [[Well|bene]] concludersi su
+
+un mutamento tanto importante.
+
+L'[[America]] può ora dire con [[Pride|orgoglio]] di aver abolito la barriera del colore. In
+
+questa faccenda il lavoratore bianco e il lavoratore nero sono stati finalmente
+
+posti su un piede sociale d'uguaglianza. Il lavoro bianco è schiavizzato tanto quanto
+
+il lavoro nero; ed è di fatto schiavizzato da un metodo e da un
+
+modello destinati solo al lavoro nero. Potremmo trovare piuttosto strano se
+
+le precise norme sulla fustigazione dei negri fossero riprodotte come piano
+
+per punire gli scioperanti; o se l'arbitrato industriale emettesse i suoi rapporti
+
+nella precisa terminologia della Legge sugli Schiavi Fuggitivi. Ma questo è in
+
+sostanza ciò che è accaduto; e si potrebbe quasi immaginare una qualche orgia negra
+
+di trionfo, col battere dei gong e tutta la segreta violenza del
+
+Voodoo, che grida a gran voce a qualche ancestrale Mumbo Jumbo che la Poor White
+
+Trash veniva trattata secondo il suo nome.
+
+_Mode e opinione pubblica_
+
+Uno straniero è un uomo che ride di ogni cosa tranne che delle facezie. Egli è
+
+perfettamente in diritto di ridere di qualsiasi cosa, purché si renda conto, in
+
+spirito riverente e religioso, che egli stesso è ridicolo. Io ero uno
+
+straniero in [[America]]; e posso affermare con verità che il senso della mia
+
+ridicola posizione non mi abbandonò mai. Ma quando l'indigeno e lo straniero
+
+hanno finito di vedere il buffo l'uno dell'altro in cose che vogliono
+
+essere serie, entrambi si accostano al terreno assai più delicato e pericoloso
+
+delle cose che vogliono essere buffe. Il senso dell'[[Humour|umorismo]] è
+
+generalmente molto nazionale; forse è per questo che gli internazionalisti sono
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_48" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 48)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -23431,6 +31465,170 @@ fantastic. And indeed it is very difficult to believe that some of it is
 
 meant to be serious. But whether or no there is a joke, there is
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+così attenti a purgarsene. Ebbi occasione durante la guerra di
+
+considerare i torti e le ragioni di certi contrasti che si diceva fossero
+
+sorti tra i soldati inglesi e americani al fronte. E,
+
+a torto o a ragione, giunsi alla conclusione che nascessero dall'
+
+incapacità di capire quando uno straniero è serio e quando è
+
+faceto. Ed è nella [[Nature|natura]] stessa della migliore specie di scherzo essere
+
+la peggiore specie d'insulto se non è preso come uno scherzo.
+
+I tipi d'[[Humour|umorismo]] inglese e americano sono per un verso direttamente
+
+opposti. La specie più americana di comicità implica un'[[Imagination|immaginazione]] che spicca il volo,
+
+impilando una [[house|casa]] sull'altra in una torre come quella d'un grattacielo. Il
+
+più inglese [[Humour|umorismo]] consiste in una sorta di bathos, d'un uomo che ritorna alla
+
+terra sua madre in maniera casalinga; come quando si siede all'improvviso
+
+su una scivolata di burro. La farsa inglese descrive un uomo come cacciato in un buco.
+
+La fantasia americana, nel suo spirito più ambizioso, descrive un uomo come arrampicato
+
+su un albero. La prima si trova nelle [[songs|canzoni]] comiche cockney che
+
+si occupano di stendere il bucato o di tornare a [[Home|casa]] col
+
+latte. La seconda si trova in quelle fantastiche fandonie su macchine
+
+che trasformano maiali vivi in borsette di pelle di maiale o su città in fiamme che servono a
+
+covare un uovo. Ma sarà inevitabile, quando i due entrano per la prima volta in
+
+contatto, che il bathos suoni come volgarità e la stravaganza
+
+suoni come vanteria.
+
+Supponiamo che un soldato americano dicesse a un soldato inglese nelle trincee:
+
+«Il Kaiser vorrà magari un posto al sole; ma scommetto che non avrà un posto
+
+nel sistema solare quando cominceremo a darci da fare». Il soldato inglese
+
+si formerà assai probabilmente l'impressione che questa sia arroganza; un'impressione
+
+fondata sullo straordinario presupposto che l'americano intenda ciò che
+
+dice. L'americano si è semplicemente concesso un po' d'arte per l'arte,
+
+e un'astratta avventura dell'[[Imagination|immaginazione]]; ha raccontato un breve racconto
+
+americano. Ma l'inglese, non capendo ciò, penserà che l'altro
+
+si stia vantando, e faccia dell'ironia sull'insufficienza dello sforzo
+
+inglese. È assai probabile che il soldato inglese dica qualcosa come: «Oh,
+
+prima di allora vorrai tornare a [[Home|casa]] dalla tua vecchia, e chiedere
+
+un'aringa affumicata col tè». Ed è assai probabile che l'americano
+
+si offenda a sua volta nel vedere il suo arabesco d'astratta [[Beauty|bellezza]]
+
+corrisposto in maniera così personale. Essendo americano, avrà probabilmente
+
+un fine e cavalleresco rispetto per la moglie; e potrà avere da ridire nel sentirla
+
+chiamare una vecchia. Forse a sua volta sarà in preda allo
+
+straordinario inganno che parlare della vecchia significhi davvero che
+
+la donna è vecchia. Forse pensa che la misteriosa richiesta d'un'aringa
+
+rechi con sé qualche accusa di maltrattare la moglie; cosa che il suo nazionale
+
+senso dell'[[Honour|onore]] risente prontamente. Ma i veri [[Cross|equivoci]] vengono
+
+dalla direzione contraria delle due esagerazioni: l'americano rende
+
+la vita più selvaggia e impossibile di quanto sia, e l'inglese la rende
+
+più piatta e farsesca di quanto sia; l'uno evadendo dalla [[house|casa]] della
+
+vita da un lucernario e l'altro da una botola.
+
+Questa difficoltà dei diversi umori è assai pratica per la
+
+gente pratica. La maggior parte di coloro che professano di rimuovere tutte le
+
+differenze internazionali non sono gente pratica. La maggior parte delle frasi offerte per
+
+la [[Reconciliation|riconciliazione]] di popoli separatamente patriottici sono frasi del tutto serie
+
+e perfino solenni. Ma la conversazione umana non si conduce in
+
+quelle frasi. L'uomo normale in nove casi su dieci è piuttosto un
+
+uomo frivolo. E l'uomo normale è quasi sempre l'uomo nazionale.
+
+Il patriottismo è la più popolare di tutte le virtù. La specie più arida di
+
+democratici che lo disprezzano ha contro di sé la [[Democracy|democrazia]] in ogni
+
+paese del mondo. Perciò i loro sforzi internazionali di rado vanno più in
+
+là dell'effettuare una [[Reconciliation|riconciliazione]] internazionale di tutti gli
+
+internazionalisti. Ma non abbiamo risolto il problema normale e popolare
+
+finché non avremo una [[Reconciliation|riconciliazione]] internazionale di tutti i nazionalisti.
+
+È molto difficile vedere come l'[[Humour|umorismo]] possa in genere essere tradotto. Quando
+
+[[Sam Weller]] è nella [[Prison|Prigione]] della Fleet e la signora Weller e il signor Stiggins siedono
+
+ai due lati del focolare e piangono e gemono di compassione, il vecchio signor
+
+Weller osserva: «Bè, Sammy, [[Hope|spero]] che tu trovi i tuoi spiriti [[Rose|risollevati]] da questa
+
+vispa visitina». Non ho mai cercato questo passo nella popolare
+
+e fortunata versione francese di _Pickwick_; ma confesso d'esser curioso
+
+di sapere quale participio passato francese renda il preciso effetto della parola
+
+«[[Rose|rose]]». Un traduttore deve dare non solo la giusta [[Translation|traduzione]] della
+
+parola giusta ma la giusta [[Translation|traduzione]] della parola sbagliata. E allo stesso
+
+modo sono ben disposto a sospettare che vi siano scherzi inglesi di cui un
+
+inglese deve godere nella propria ricca e romantica [[Solitude|solitudine]], senza
+
+chiedere la compassione d'un americano. Ma gli inglesi sono generalmente
+
+fin troppo inclini a rivendicare questa fine percezione, senza vedere che il
+
+suo filo tagliente taglia da entrambe le parti. Ho cominciato questo capitolo sulla nota dell'
+
+[[Humour|umorismo]] nazionale perché desidero rendere ben chiaro che mi rendo conto di quanto
+
+facilmente uno straniero possa prendere sul serio qualcosa che non è serio.
+
+Quando penso che qualcosa in [[America]] sia davvero sciocco, può darsi che sia io a esser
+
+reso [[Fool|sciocco]]. È il primo dovere d'un viaggiatore tenerne conto;
+
+ma sembra essere l'ultimissima cosa che venga in mente a certi viaggiatori.
+
+Ma quando cerco di dire qualcosa di quello che si può chiamare il lato
+
+fantastico dell'[[America]], ammetto in anticipo che parte di esso può essere voluto
+
+fantastico. E in verità è assai difficile credere che parte di esso sia
+
+voluto serio. Ma che vi sia o no uno scherzo, vi è
 
 
 
@@ -23601,6 +31799,172 @@ of his chin, especially, of course, by always being completely
 
 clean-shaven. It would be obviously inconsistent with Personality to
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+certamente un'incoerenza; ed è un'incoerenza nella struttura morale
+
+dell'[[America]] che al tempo stesso mi sconcerta e mi diverte.
+
+Il pericolo della [[Democracy|democrazia]] non è l'anarchia ma la convenzione. Vi è perfino una
+
+sorta di [[Double|doppio]] senso nella parola «convenzione»; poiché essa è usata anche per
+
+la specie più informale e popolare di parlamento; un parlamento non
+
+convocato da alcun [[King|re]]. Gli americani si riuniscono assai facilmente senza
+
+alcun [[King|re]]; ma il loro riunirsi è in ogni senso una convenzione, e
+
+perfino una convenzione assai convenzionale. In una [[Democracy|democrazia]] il tumulto è piuttosto
+
+l'eccezione e la rispettabilità certamente la regola. E benché un
+
+superficiale turista debba esitare dinanzi a tutte queste generalizzazioni,
+
+e certamente debba fare la tara di enormi eccezioni ad esse, egli riceve
+
+davvero un'impressione generale di [[unity|unità]] rasente l'uniformità. Così
+
+gli americani vestono tutti [[Well|bene]]; si potrebbe quasi dire che le donne americane tutte
+
+appaiono [[Well|bene]]; ma non appaiono, in confronto agli europei, molto
+
+diverse. Sono alla moda; troppo alla moda perfino per essere
+
+vistosamente alla moda. Naturalmente vi sono chiazze, tanto boemienne
+
+quanto babiloniche, per cui ciò non è vero, ma sto parlando del
+
+tono generale d'un'intera [[Democracy|democrazia]]. Ho detto che c'è più
+
+rispettabilità che tumulto; ma in verità, in un senso più profondo, lo stesso spirito
+
+sta dietro sia il tumulto sia la rispettabilità. È la stessa forza sociale che
+
+rende possibile ai rispettabili di boicottare un uomo e ai
+
+tumultuosi di linciarlo. Non ho nulla in contrario che la si chiami «l'istinto
+
+del gregge», purché ci rendiamo conto che è una metafora e non una
+
+spiegazione.
+
+L'opinione pubblica può essere un [[Fire|incendio]] di prateria. Divora tutto ciò che le si
+
+oppone; e vi è tanto la grandiosità [[Well|quanto]] i [[Grave|gravi]] svantaggi d'una
+
+catastrofe naturale in quella [[unity|unità]] nazionale. I pacifisti che si lamentavano in
+
+Inghilterra dell'intolleranza del patriottismo non hanno idea di ciò che
+
+il patriottismo possa essere. Se fossero stati in [[America]], dopo che l'[[America]] era
+
+entrata in guerra, avrebbero visto qualcosa che hanno sempre
+
+forse inconsciamente temuto, e che allora, al di là di tutti i loro
+
+peggiori [[Dreams|sogni]], avrebbero detestato; e il suo nome è [[Democracy|democrazia]]. Avrebbero
+
+scoperto che vi sono svantaggi nel radunarsi insieme degli [[Birds|uccelli]] dello stesso
+
+piumaggio; e che uno di essi segue a un troppo compiaciuto sventolare della
+
+penna bianca. La [[Truth|verità]] è che una certa flessibile simpatia verso
+
+gli eccentrici di questa specie è piuttosto uno dei vantaggi d'una
+
+tradizione aristocratica. La [[Imprisonment|carcerazione]] del signor Debs, il
+
+pacifista americano, che davvero fu prolungata e oppressiva, sarebbe probabilmente stata
+
+abbreviata in Inghilterra, dove le sue opinioni erano condivise da aristocratici
+
+come il signor Bertrand Russell e il signor Ponsonby. Un uomo come Lord Hugh Cecil
+
+poteva essere spinto alla difesa degli obiettori di coscienza, in parte da un
+
+vero istinto di cavalleria; ma in parte anche dal sentimento generale che un
+
+gentiluomo può assai probabilmente avere zie e zii altrettanto matti.
+
+Egli prende la cosa personalmente, nel senso d'essere capace d'immaginare
+
+la psicologia delle persone. Ma la [[Democracy|democrazia]] non ha riguardo per le persone.
+
+Non ne ha riguardo, né nel senso cattivo e servile né in quello buono
+
+e comprensivo. E Debs non era nulla per la [[Democracy|democrazia]]. Non era che uno
+
+dei milioni. Questo è un problema reale, o questione in bilico,
+
+che tocca diverse forme di [[government|governo]]; la quale è, naturalmente, del tutto
+
+trascurata dagli idealisti che si limitano a ripetere paroloni. Vi fu
+
+durante la guerra una società chiamata [[Union]] of Democratic Control, la quale
+
+sarebbe stata istantaneamente distrutta ovunque la [[Democracy|democrazia]] avesse un qualche
+
+controllo, o dove vi fosse una qualsiasi [[Union|unione]]. E in questo senso gli Stati
+
+Uniti hanno assai enfaticamente un'[[Union|unione]]. Nondimeno penso che vi sia
+
+qualcosa di piuttosto più sottile di questa semplice solidità popolare dietro
+
+l'assimilazione dei cittadini americani gli uni agli altri. Vi è qualcosa
+
+perfino negli ideali individuali che spinge verso questa simpatia sociale.
+
+Ed è qui che dobbiamo ricordare che le fantasie biologiche come l'
+
+istinto del gregge sono soltanto figure retoriche, e non possono davvero coprire
+
+nulla di umano. Poiché gli americani sono per certi versi un popolo assai consapevole di [[Self|sé]].
+
+Paragonare il loro entusiasmo sociale a una fuga precipitosa di bestiame è
+
+chiederci di credere in un toro che scrive un diario o in una vacca che si guarda in uno
+
+specchio. Intensamente sensibili per la loro stessa vitalità, essi sono
+
+certamente consci della critica e non solo d'un cieco e brutale
+
+appetito. Ma il punto peculiare che li riguarda è che è proprio questa
+
+vividezza nel [[Self|sé]] a produrre spesso la somiglianza. Può darsi che
+
+quando sono inconsapevoli siano simili a tori e vacche. Ma è quando
+
+sono consapevoli di [[Self|sé]] che sono simili l'uno all'altro.
+
+L'[[Individualism|individualismo]] è la [[Death|morte]] dell'individualità. Lo è, non fosse che perché
+
+è un «ismo». Molti americani divengono quasi impersonali nel loro culto
+
+della personalità. Là dove i loro io naturali potrebbero differire, i loro io
+
+ideali tendono a essere identici. Chiunque può vedere ciò che intendo in quelle vigorose
+
+fotografie consapevoli di [[Self|sé]] di uomini d'affari americani che si vedono in
+
+qualsiasi rivista americana. Ciascuno può concepirsi come un solitario
+
+Napoleone che medita a Sant'[[Helena|Elena]]; ma il risultato è una moltitudine di
+
+Napoleoni che meditano dappertutto. Ciascuno di essi deve avere gli occhi
+
+d'un mesmerista; ma la persona più debole di mente non può essere mesmerizzata da
+
+più d'un milionario alla [[Time|volta]]. Ciascuno dei milionari deve
+
+protendere in avanti la mascella, offrendosi (se posso dir così) di combattere il mondo
+
+con la stessa arma di Sansone. Ciascuno di essi deve accentuare la lunghezza
+
+del proprio mento, specialmente, si capisce, mostrandosi sempre completamente
+
+sbarbato. Sarebbe evidentemente incoerente con la Personalità
 
 
 
@@ -23774,6 +32138,174 @@ favourable to [[Sanity|sanity]], to make the next point about [[America]] very m
 a puzzle. It seems to me a very real problem, to which I have never seen
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+preferire di portare la barba. Questi sono naturalmente esempi fantastici ai
+
+margini della vita americana; ma stanno pur sempre per una certa assimilazione,
+
+non attraverso la bruta gregarietà, ma piuttosto attraverso il sognare isolato.
+
+E benché non sempre sia spinto tanto oltre quanto questo, penso proprio che sia
+
+spinto troppo oltre. Non c'è abbastanza inconsapevolezza per produrre
+
+una vera individualità. C'è una sorta di culto della forza di volontà nell'
+
+astratto, tanto che la gente pensa davvero a come possa volere,
+
+più che a ciò che vuole. A questo penso proprio che un certo correttivo
+
+si potrebbe trovare nella [[Nature|natura]] dell'eccentricità inglese. Ogni uomo nel suo
+
+[[Humour|umore]] è più interessante quando è inconsapevole del suo [[Humour|umore]]; o almeno
+
+quando è in uno stadio intermedio tra l'[[Humour|umore]] nel vecchio
+
+senso di stranezza e in quello nuovo di ironia. Molto si dice in questi
+
+giorni contro la [[morality|morale]] negativa; e certamente la maggior parte degli americani mostrerebbe
+
+una positiva preferenza per la [[morality|morale]] positiva. Le virtù che venerano
+
+collettivamente sono virtù assai attive; allegria e [[Courage|coraggio]] e vim,
+
+ossia zip, e anche pep e cose simili. Ma talora si
+
+dimentica che la [[morality|morale]] negativa è più libera della [[morality|morale]] positiva.
+
+La [[morality|morale]] negativa è una rete d'un disegno più ampio e più aperto, di cui
+
+le linee o le corde stringono a intervalli più lunghi. Un uomo come il Dr. Johnson
+
+poteva crescere a modo suo fino alla propria statura nella rete dei Dieci
+
+Comandamenti; proprio perché era convinto che ce ne fossero soltanto dieci
+
+in tutto. Non era compresso nello stampo della [[Beauty|bellezza]] positiva, come
+
+quello dell'[[Apollo]] del Belvedere o del cittadino americano.
+
+Questa critica è talora vera anche della donna americana, che è
+
+certamente una persona assai più deliziosa del mesmerico milionario
+
+con la sua mascella rasata. Gli intervistatori negli Stati Uniti mi chiedevano di continuo
+
+cosa pensassi delle donne americane, e confessavo un'avversione per tali
+
+generalizzazioni che non sono riuscito a perdere. Gli americani, che sono
+
+il popolo più cavalleresco del mondo, forse potranno capirmi; ma
+
+non posso fare a meno di sentire che c'è qualcosa di poligamo nel
+
+parlare affatto delle donne al plurale; qualcosa d'indegno d'ogni
+
+americano tranne un mormone. Nondimeno, penso che l'esagerazione che
+
+suggerisco si estenda in minor grado alle donne americane, per quanto affascinanti
+
+esse siano. Penso che anch'esse tendano troppo a questo culto dell'impersonale
+
+personalità. È una descrizione facile a esagerarsi anche col più tenue
+
+accento; poiché tutte queste cose sono sottili e soggette a notevoli
+
+eccezioni individuali. Lagnarsi della gente perché è coraggiosa e brillante
+
+e gentile e intelligente può non irragionevolmente apparire irragionevole. E
+
+eppure c'è qualcosa sullo sfondo che può essere espresso soltanto da un
+
+simbolo, qualcosa che non è superficialità ma una trascuratezza del
+
+subconscio e degli impulsi più vaghi e più lenti; qualcosa che può
+
+andar perduto in mezzo a tutta quella risata e quella luce, sotto quei
+
+candelabri stellati degli ideali delle virtù felici. Talora mi assaliva,
+
+in un'ondata senza parole, il desiderio di vedere una donna imbronciata. Come
+
+camminerebbe in [[Beauty|bellezza]] come la [[Night|notte]], e rivelerebbe più silenziosi spazi colmi
+
+di più antiche [[Stars|stelle]]! Queste cose non si possono trasmettere nella loro delicata
+
+proporzione nemmeno nella più distaccata descrizione. Ma la stessa cosa
+
+era nella mente d'un vecchio dalla barba bianca che incontrai a [[New York]], un
+
+[[Exile|esule]] irlandese e un meraviglioso parlatore, che fissava in alto la torre di gallerie dorate
+
+del grande albergo, e diceva con quel movimento spontaneo di
+
+stile che a stento si ode se non dai parlatori irlandesi: «E io sono stato
+
+in un villaggio sui [[Mountains|monti]] dove la gente sapeva a stento leggere o
+
+scrivere; ma tutti gli uomini erano come soldati, e tutte le donne avevano [[Pride|orgoglio]]».
+
+Suona come una poesia su un Paradiso Terrestre dire che in questa terra
+
+le vecchie possono essere più belle delle giovani. Anzi, penso che Walt
+
+Whitman, il poeta nazionale, abbia da qualche parte un verso quasi precisamente in
+
+tal senso. Suona come una [[Parody|parodia]] dell'Utopia, e l'immagine del
+
+[[Lion|leone]] che si corica accanto all'[[Lamb|agnello]], dire che è un luogo dove un uomo potrebbe
+
+quasi provare [[Love|amore]] per la propria suocera. Ma non c'è nulla in
+
+cui il lato più fine della gravità e del buon sentimento americani si esibisca più
+
+onorevolmente che in una certa atmosfera intorno alle donne più
+
+anziane. Non è una frase fatta dire che invecchiano con grazia; poiché
+
+invecchiano davvero. In questo l'ottimismo nazionale ha davvero in sé
+
+il [[Courage|coraggio]] nazionale. Le vecchie non vestono come le giovani; si
+
+vestono soltanto meglio. C'è un altro lato di questa dignità femminile nelle
+
+vecchie, talora un poco perduto nelle giovani, di cui mi occuperò
+
+fra poco. Il punto per il momento è che perfino la visione veramente poetica
+
+che Whitman ha delle belle vecchie soffre un poco di quella sconcertante
+
+molteplicità e ricorrenza che è invero l'intero tema di Whitman.
+
+È come la verde [[Eternity|eternità]] di [[Leaves]] of Grass. Quando penso alle
+
+eccentriche zitelle e alle incorreggibili nonne del mio stesso paese, io
+
+non riesco a immaginare che una qualsiasi di esse possa mai essere scambiata per
+
+un'altra, anche a un'occhiata. E in confronto mi sento come se avessi
+
+viaggiato in un Paradiso Terrestre di armonie più decorative; e
+
+ricordo soltanto una vasta nube di grigio e di rosa come il piumaggio di
+
+cherubini in un vecchio quadro. Ma ripensandoci, penso che ciò possa essere
+
+soltanto l'inevitabile effetto del visitare un qualsiasi paese in modo rapido e
+
+superficiale; e che la nube grigia e rosa sia probabilmente un'
+
+illusione, come le praterie roteanti disperse dalla [[Wheel|ruota]] del
+
+treno.
+
+Comunque c'è abbastanza di questa uguaglianza, e d'una certa [[unity|unità]] sociale
+
+favorevole alla [[Sanity|sanità mentale]], da fare del prossimo punto sull'[[America]] un vero e proprio
+
+rompicapo. Mi sembra un problema assai reale, al quale non ho mai visto
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_51" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 51)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -23945,6 +32477,174 @@ the worst thing in the seventeenth-century aberration was not so much
 
 by subdivision. It not only broke religion into small pieces, but it was
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+una risposta nemmeno quale quella che tenterò qui, del perché una [[Democracy|democrazia]] debba
+
+produrre manie; e perché, dove c'è un senso tanto genuino della dignità
+
+umana, debba esservi tanta impossibile piccola tirannide. Io non
+
+mi riferisco unicamente o nemmeno specialmente al Proibizionismo, che discuto
+
+altrove. Il Proibizionismo è almeno una superstizione, e perciò a un passo
+
+da una religione; ha una qualche immaginabile connessione con questioni
+
+morali, come l'hanno la [[Slavery|schiavitù]] o il sacrificio umano. Ma coloro che ci chiedono di
+
+modellarci sugli Stati che puniscono il peccato del bere dimenticano che
+
+vi sono Stati che puniscono l'egualmente svergognato peccato di fumare una
+
+sigaretta all'aria aperta. La stessa atmosfera americana che permette
+
+il Proibizionismo permette che le persone siano punite per essersi baciate. In
+
+altre parole, vi sono Stati psicologicamente capaci di rendere un uomo un
+
+detenuto per aver portato una cravatta blu o avuto una porta d'ingresso verde, o
+
+qualsiasi altra cosa che a chiunque salti in mente. Vi è un'atmosfera
+
+americana in cui le persone potranno un giorno essere fucilate per essersi strette la mano, o
+
+impiccate per aver scritto una cartolina.
+
+Quanto alla specie di cose cui mi riferisco, i giornali americani ne sono
+
+pieni e non c'è altro nome per essa se non pura [[Madness|follia]]. Anzi, essa non è
+
+soltanto folle, ma si proclama folle. Per menzionare un solo esempio fra
+
+molti, ci si vantava davvero che certi pazzi insegnassero ai bambini
+
+a prendersi cura della propria salute. E si aggiungeva con orgoglio che i bambini
+
+erano «pazzi per la salute». Che non sia esattamente lo scopo di ogni
+
+igiene mentale rendere folli le persone non venne loro in mente; e possono essere ancora
+
+impegnati nelle loro serie fatiche a insegnare ai lattanti a essere valetudinari
+
+e ipocondriaci allo scopo di renderli sani. In casi simili, possiamo
+
+dire che il mondo moderno è troppo ridicolo per essere ridicolizzato. Non si può
+
+fare la caricatura d'una caricatura. Immaginate cosa avrebbe fatto un satirico di giorni più sani
+
+della vita quotidiana d'un [[Child|bambino]] di sei anni, che era davvero ammesso
+
+essere pazzo sul tema della propria salute. Questi non sono giorni in cui
+
+quella grande stravaganza potrebbe essere scritta; ma ne intravedo confusamente alcuni
+
+episodi come [[Dreams|sogni]] incompiuti. Vedo il [[Child|bambino]] che s'arresta nel mezzo
+
+d'una [[Wheel|ruota]], o quando ne ha eseguiti tre quarti d'una
+
+[[Wheel|ruota]], e consulta un taccuino circa la quantità di
+
+esercizio per diem. Lo vedo che s'arresta a metà d'un albero, o quando ne ha
+
+scalato esattamente un terzo; e poi tira fuori un termometro
+
+clinico per misurarsi la temperatura. Ma a che gioverebbe una
+
+[[logic|logica]] fantasiosa a provare la [[Madness|follia]] di tali persone, quando esse
+
+stesse la lodano per essere folle?
+
+C'è anche il culto del Fenomeno Infantile, di cui Dickens si fece
+
+beffe e di cui i pedagoghi fanno gran chiasso. Quando ero in [[America]]
+
+un altro giornale presentò un meraviglioso [[Child|bambino]] di sei anni che aveva l'
+
+intelletto d'un [[Child|bambino]] di dodici. L'unica prova fornita, e apparentemente quella
+
+su cui verteva l'esperimento, era che le si poteva far comprendere
+
+e perfino impiegare la parola «annientare». Richiesta di dire qualcosa
+
+che lo provasse, la felice infante offrì il forbito [[Aphorism|aforisma]]: «Quando
+
+entra il buon senso, la superstizione è annientata». In risposta a ciò,
+
+per mostrare che anch'io sono intelligente quanto un [[Child|bambino]] di dodici anni,
+
+e che non c'è in me alcuno sviluppo arrestato, dirò nella stessa
+
+elegante dizione: «Quando entra l'[[Education|educazione]] psicologica, il buon senso è
+
+annientato». Tutti sembrano sedere attorno a questo [[Child|bambino]] in maniera
+
+adorante. A nessuno sembrò venire in mente che noi non
+
+desideriamo particolarmente che nemmeno un [[Child|bambino]] di dodici anni parli d'annientare la
+
+superstizione; che non desideriamo che un [[Child|bambino]] di sei parli come un [[Child|bambino]] di
+
+dodici, o un [[Child|bambino]] di dodici parli come un uomo di cinquanta, o perfino un uomo
+
+di cinquanta parli come uno [[Fool|sciocco]]. E sul principio di sperare che una
+
+bambina di sei anni abbia un cervello massiccio e maturo, c'è ogni
+
+ragione di sperare che un bambino di sei anni faccia crescere una magnifica e
+
+folta barba.
+
+Ora, c'è ogni quantità di questa insensatezza che spunta tra gli esaltati
+
+americani. Chiunque può proporre d'istituire un'[[Eugenics|eugenetica]] coercitiva; o d'imporre
+
+la psicoanalisi — cioè imporre la confessione senza l'assoluzione. E
+
+confesso di non poter collegare questo tratto col genuino spirito democratico
+
+della massa. Posso solo suggerire, concludendo questo capitolo, due
+
+possibili cause piuttosto peculiari all'[[America]], che possono aver reso questa
+
+grande [[Democracy|democrazia]] così diversa da tutte le altre democrazie, e in ciò così
+
+manifestamente ostile all'intera idea democratica.
+
+La prima causa storica è il [[Puritanism|puritanesimo]]; ma non il [[Puritanism|puritanesimo]] soltanto nel
+
+senso del Proibizionismo. La [[Truth|verità]] è che le proibizioni avrebbero potuto
+
+fare assai meno danno come proibizioni, se un vago legame non fosse
+
+sorto, in qualche cupo giorno dell'irragionevolezza umana, tra proibizione e
+
+progresso. E fu il progresso a fare il danno, non la
+
+proibizione. Gli uomini possono godere della vita sotto considerevoli limitazioni, se
+
+possono essere certi dei loro piaceri limitati; ma sotto il
+
+[[Puritanism|puritanesimo]] progressista non possiamo mai essere certi di nulla. La sua maledizione non è la
+
+limitazione; è la limitazione illimitata. Il male non sta nella
+
+restrizione; ma nel fatto che nulla può mai restringere la
+
+restrizione. Le proibizioni sono destinate a progredire punto per punto; sempre
+
+più diritti e piaceri umani devono per necessità essere tolti; poiché
+
+è nella [[Nature|natura]] di questo futurismo che l'ultima mania sia la [[Faith|fede]] del
+
+futuro, e la mania più fantastica inevitabilmente detta il passo. Così
+
+la cosa peggiore nell'aberrazione del diciassettesimo secolo non fu tanto
+
+il [[Puritanism|puritanesimo]] quanto il settarismo. Cercava la [[Truth|verità]] non per sintesi ma
+
+per suddivisione. Non solo spezzava la religione in piccoli pezzi, ma era
 
 
 
@@ -24119,6 +32819,176 @@ too much power over [[Education|education]] will seem like objecting to a hen ha
 
 too much to do with eggs. She has already been given an almost
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+costretto a scegliere il pezzo più piccolo. C'è in [[America]], credo, un
+
+grande [[Body|corpo]] religioso che ha ritenuto giusto separarsi dalla
+
+Cristianità perché non può credere nella [[morality|moralità]] del portare
+
+bottoni. Non so come sorse lo scisma; ma è facile supporre,
+
+per amor d'argomento, che fosse originariamente esistito qualche
+
+[[Body|corpo]] puritano che condannava la frivolezza dei nastri sebbene non dei bottoni. Io
+
+stavo per dire dei distintivi ma non dei bottoni; ma a ben riflettere non
+
+riesco a indurmi a credere che un qualsiasi americano, per quanto folle, obietterebbe
+
+a portare distintivi. Ma il punto è che come lo spirito santo della
+
+profezia progressista posava sulla prima setta perché aveva inventato una
+
+nuova obiezione ai nastri, così quello spirito santo passerebbe poi da essa alla
+
+nuova setta che inventò un'ulteriore obiezione ai bottoni. E da essi
+
+deve inevitabilmente passare a ogni [[Rebel|ribelle]] fra loro che scelga d'alzarsi
+
+e a dire che disapprova i pantaloni per via dell'esistenza dei
+
+bottoni dei pantaloni. Ogni secessione a sua volta deve aver ragione perché è
+
+recente, e il progresso deve progredire facendosi sempre più piccolo. Questa
+
+è la teoria progressista, il lascito del settarismo del diciassettesimo
+
+secolo, il dogma implicito in molta politica moderna, ed il palese
+
+nemico della [[Democracy|democrazia]]. La [[Democracy|democrazia]] è rimproverata di dire che la
+
+maggioranza ha sempre ragione. Ma il progresso dice che la minoranza ha sempre
+
+ragione. I progressisti sono profeti; e per fortuna non tutte le persone sono
+
+profeti. Così nell'atmosfera di questo settarismo che lentamente muore
+
+chiunque scelga di profetare e proibire può tiranneggiare il
+
+popolo. Se sceglie di dire che il bere è sempre male, o che
+
+il baciarsi è sempre male, o che portare bottoni è sempre male, le persone
+
+hanno paura di contraddirlo per [[Fear|timore]] di contraddire il loro
+
+stesso pronipote. Poiché la loro superstizione è un'inversione del
+
+culto degli antenati della Cina; e invece di appellarsi invano a qualcosa
+
+che è morto, si appellano a qualcosa che potrebbe non nascere mai.
+
+C'è un'altra causa di questa strana malattia servile nella
+
+[[Democracy|democrazia]] americana. La si trova nel femminismo americano, e l'[[America]] femminista
+
+è cosa del tutto diversa dall'[[America]] femminile. Direi che
+
+la stragrande maggioranza delle ragazze americane ride delle proprie
+
+politiche donne almeno quanto la maggioranza degli uomini americani disprezza
+
+i propri politici uomini. Ma benché le femministe aggressive siano una
+
+minoranza, esse sono in questa atmosfera che ho cercato d'analizzare; l'
+
+atmosfera in cui c'è una sorta di santità attorno alla minoranza. Ed
+
+è questa superstizione della serietà a costituire il più solido
+
+ostacolo ed eccezione alla generale e quasi convenzionale pressione
+
+dell'opinione pubblica. Quando una mania è francamente sentita come antinazionale, come
+
+lo fu l'Abolizionismo prima della Guerra Civile, o il Germanofilismo nella Grande
+
+Guerra, o l'idea della mescolanza razziale nel Sud in ogni tempo,
+
+allora la mania incontra assai minor [[Mercy|pietà]] che in qualsiasi altro luogo del mondo; è
+
+sepolta sotto la neve e spazzata via. Ma quando essa non sfida così direttamente
+
+il patriottismo o le idee popolari, un curioso alone di speranzosa
+
+solennità la circonda, semplicemente perché è una mania, ma soprattutto se è
+
+una mania femminile. La zelante dama-riformatrice che davvero pronuncia un ammonimento
+
+contro il male sociale della birra o dei bottoni è vista camminare vestita
+
+di luce, come una profetessa. Forse è qualcosa della santa aureola
+
+che l'Oriente vede risplendere attorno a un idiota.
+
+Ma penso che vi sia un'altra spiegazione, femminile piuttosto che femminista,
+
+e che proviene da donne normali e non da idiote anormali. È
+
+qualcosa che implica una vecchia controversia, ma una su cui io
+
+non ho, come tanti politici, cambiato opinione. Riguarda il
+
+particolare modo in cui le donne tendono a considerare, o piuttosto a
+
+trascurare, i formali e legali diritti del cittadino. Nella misura in cui questo
+
+è una tendenza, è una tendenza nella direzione direttamente opposta a quella ora
+
+leggermente asserita. C'è in giro una sorta di [[history|storia]] malcreata,
+
+secondo la quale le donne in passato sono sempre state nella posizione di
+
+schiave. È assai più pertinente notare che le donne sono sempre state
+
+nella posizione di despoti. Sono state dispotiche perché regnavano
+
+in un ambito dove avevano troppo buon senso per tentare d'essere
+
+costituzionali. Non si può concedere una costituzione a una stanza dei bambini; né i
+
+lattanti possono radunarsi come baroni ed estorcere una Magna Charta. Tommy non può
+
+invocare un Habeas Corpus contro l'andare a letto; e un neonato non può essere
+
+giudicato da altri dodici neonati prima d'essere messo in castigo nell'angolo. E poiché
+
+non possono esservi leggi né libertà in una stanza dei bambini, l'estensione del
+
+femminismo significa che non vi saranno più leggi o libertà in uno stato
+
+di quante ve ne siano in una stanza dei bambini. La donna non considera davvero gli uomini come
+
+cittadini ma come bambini. Ella può, se è una filantropa, [[Love|amare]] tutta
+
+l'umanità; ma non la rispetta. Ancor meno rispetta i suoi
+
+voti. Ora, un uomo dev'essere assai cieco al giorno d'oggi per non vedere che c'è un
+
+pericolo che una sorta di scienza dilettantesca o pseudoscienza sia fatta
+
+scusa per ogni trucco di tirannide e ingerenza. Chiunque non sia
+
+un anarchico è d'accordo nell'avere un poliziotto all'angolo della strada;
+
+ma il pericolo al presente è quello di trovare il poliziotto a metà
+
+del camino o perfino sotto il letto. In altre parole, è un pericolo di
+
+trasformare il poliziotto in una sorta di benevolo scassinatore. Contro ciò
+
+già si levano proteste, e sempre più se ne leveranno, se gli uomini
+
+conservano un qualsiasi istinto d'indipendenza o di dignità. Ma lagnarsi
+
+della donna che s'immischia nella [[Home|casa]] suonerà sempre come lagnarsi
+
+dell'ostrica che s'intrude nel guscio dell'ostrica. Obiettare che ella ha
+
+troppo potere sull'[[Education|educazione]] parrà come obiettare che una gallina abbia
+
+troppo a che fare con le uova. Le è già stato dato un quasi
 
 
 
@@ -24298,6 +33168,180 @@ mystery, however, his first few sentences offered a provisional
 explanation. In answer to his question, touching my business in
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+irresponsabile potere su una regione limitata in queste cose; e se quel
+
+potere è reso infinito sarà ancor più irresponsabile. Se ella aggiunge
+
+al proprio potere nella famiglia tutte queste manie aliene esterne alla
+
+famiglia, il suo potere non solo sarà irresponsabile ma folle. Ella sarà
+
+qualcosa che può [[Well|bene]] essere chiamato un [[nightmare|incubo]] della stanza dei bambini; una
+
+madre folle. Ma il punto è che sarà folle per le altre stanze dei bambini così
+
+[[Well|come]] per la propria, o forse invece della propria. I risultati saranno
+
+interessanti; ma almeno è certo che sotto questa influenza
+
+ammorbidente il [[government|governo]] del popolo, da parte del popolo, per il popolo,
+
+assai sicuramente perirà dalla terra.
+
+Ma c'è sempre un'altra possibilità. Se ne possono notare cenni qua
+
+e là come attutiti gong del fato. L'altro giorno certe persone
+
+che predicavano un qualche basso espediente, per fuggire dalla gloria della
+
+maternità, furono improvvisamente zittite a [[New York]]; da una voce di profondo e
+
+democratico volume. I saccenti che gironzolano per le grandi pianure sono
+
+pigmei che danzano intorno a un gigante addormentato. Ciò che dorme, per quanto
+
+li riguarda, è l'immane potere dell'unanimità e dell'intolleranza umane
+
+nell'[[Soul|anima]] dell'[[America]]. Al presente le masse del Middle West sono
+
+indifferenti a tali fantasie o debolmente attratte da esse, come mode di
+
+cultura provenienti dalle grandi città. Ma un giorno qualsiasi può non essere così; qualche
+
+pazzo può tagliare attraverso i loro diritti economici o la loro strana e sepolta
+
+religione; e allora egli vedrà qualcosa. Si troverà a correre
+
+come un negro che ha fatto torto a una donna bianca o un uomo che ha dato
+
+[[Fire|fuoco]] alla prateria. Vedrà qualcosa che i politici attizzano nel suo
+
+[[Sleep|sonno]] e lusingano col nome di popolo, che molti reazionari
+
+hanno maledetto col nome di plebaglia, ma che in ogni caso ha avuto
+
+sotto i piedi le corone di molti re. Fu detto che la voce del
+
+popolo è la voce di Dio; e questo almeno è certo, che essa
+
+può essere la voce di Dio ai malvagi. E le ultime buffonate della loro
+
+arroganza s'irrigidiranno dinanzi a qualcosa d'enorme, come torreggia nelle
+
+ultime parole che Giobbe udì dal turbine; e una voce che essi mai
+
+conobbero dirà loro che il suo nome è Leviatano, ed egli è signore su tutti
+
+i figli dell'[[Pride|orgoglio]].
+
+_Lo straordinario americano_
+
+Quando ero in [[America]] avevo la sensazione che fosse assai più straniera
+
+della Francia o perfino dell'Irlanda. E per straniera intendo affascinante
+
+piuttosto che ripugnante. Intendo quell'elemento di stranezza che segna
+
+la frontiera d'ogni fiaba, o dà al viaggiatore stesso il
+
+titolo quasi inquietante di straniero. E vi vidi più chiaramente che in
+
+paesi ritenuti più remoti da noi, per razza o religione, un [[Paradox|paradosso]]
+
+che è una delle grandi verità del viaggio.
+
+Non abbiamo mai nemmeno cominciato a capire un popolo finché non abbiamo trovato
+
+qualcosa che non capiamo. Finché troviamo il carattere
+
+facile da leggere, vi stiamo leggendo il nostro proprio carattere. Se, quando vediamo
+
+un evento, sappiamo prontamente fornire una spiegazione, possiamo essere quasi
+
+certi d'aver noi stessi preparato la spiegazione prima di vedere l'
+
+evento. Ne consegue che il miglior ritratto d'un popolo straniero
+
+si può probabilmente trovare in un quadro-rebus. Se riusciamo a trovare un evento di
+
+cui il significato ci è davvero oscuro, esso probabilmente getterà un po' di
+
+luce sulla [[Truth|verità]]. Prenderò perciò dalle mie esperienze americane
+
+un incidente isolato, che di certo non sarebbe potuto accadere in alcun
+
+altro paese su cui abbia mai posato gli occhi. Non ho davvero idea di
+
+cosa significasse. Ho udito perfino da americani circa cinque diverse
+
+congetture sul suo significato. Ma benché io non lo capisca,
+
+credo sinceramente che se lo capissi, capirei
+
+l'[[America]].
+
+Accadde nella [[City|città]] di Oklahoma, che richiederebbe un libro a sé,
+
+anche considerata solo come sfondo. Lo Stato dell'Oklahoma è un
+
+distretto nel sud-ovest da poco strappato al territorio dei Pellirosse
+
+indiani. Ciò che molti, del tutto scorrettamente, immaginano di tutta l'[[America]] è
+
+davvero vero dell'Oklahoma. Va fiera di non avere [[history|storia]]. Risplende
+
+del senso d'avere un grande futuro — e nient'altro. Le persone sono
+
+propense a vantarsi d'un vecchio edificio a Nashville quanto a Norwich;
+
+la gente è fiera delle vecchie famiglie a Boston quanto a Bath. Ma in
+
+Oklahoma i cittadini indicano davvero una struttura colossale, affermando con arroganza
+
+che la settimana scorsa non c'era. Fu contro i colori di
+
+questa rozza scenografia, come d'una [[City|città]] da pantomima di cartone, che la
+
+fantastica figura apparve che ancora mi perseguita come un ambulante punto
+
+interrogativo. Passeggiavo lungo la via principale della [[City|città]], e
+
+guardavo un'edicola viva delle notizie di delitti, quando uno
+
+straniero mi rivolse la parola; e mi chiese, assai educatamente ma con un curioso
+
+piglio d'aver l'autorità di porre la domanda, cosa facessi in quella
+
+[[City|città]].
+
+Era un uomo magro e abbronzato, con piuttosto l'aria d'uno sciatto viaggiatore
+
+tropicale, coi baffi grigi e un occhio vivace e attento. Ma la
+
+cosa più singolare in lui era che il davanti della sua giacca era coperto
+
+d'una moltitudine di lucenti emblemi metallici foggiati a forma di [[Stars|stelle]]
+
+e mezzelune. Ero [[Well|bene]] avvezzo a questo [[Time|punto]] agli americani che ornano
+
+i risvolti delle giacche con piccoli simboli di varie società; è
+
+parte della passione americana per il rituale del [[Comradeship|cameratismo]]. Non
+
+c'è nulla che un americano ami tanto quanto avere una società segreta
+
+e non farne mistero. Ma in questo caso, se posso dir così, l'
+
+eruzione di simbolismo pareva essere scoppiata su tutto l'uomo, in una
+
+maniera che indicava come la febbre fosse assai avanzata. Di questo minore
+
+mistero, tuttavia, le sue prime poche frasi offrirono una provvisoria
+
+spiegazione. In risposta alla sua domanda, circa i miei affari in
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_54" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 54)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -24474,6 +33518,178 @@ whether he was a sheriff acting for the law, or a conspirator against
 the law, or a lunatic entirely outside the law, I agree with the former
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Oklahoma, risposi con ritegno che tenevo conferenze. Al che egli
+
+rispose senza alcun ritegno, ma piuttosto con un espansivo e raggiante
+
+[[Pride|orgoglio]], «Anch'io tengo conferenze. Tengo conferenze di astronomia.»
+
+Fin qui una certa selvaggia razionalità pareva illuminare la faccenda. Sapevo
+
+che era insolito, nel mio paese, che l'Astronomo Reale passeggiasse lungo
+
+lo Strand con la giacca tutta ricoperta del Sistema Solare.
+
+In verità, era insolito che un qualunque conferenziere astronomico inglese
+
+reclamizzasse il soggetto delle sue conferenze in tal foggia. Ma per quanto
+
+fosse insolito, non sarebbe necessariamente irragionevole. Anzi,
+
+penso potrebbe aggiungere colore e varietà alla vita, se gli specialisti
+
+adottassero questa sorta di araldica scientifica. Mi piacerebbe poter
+
+riconoscere a colpo d'occhio un entomologo dai ragni decorativi e dagli
+
+scarafaggi che gli brulicano sulla giacca e sul panciotto. Mi piacerebbe
+
+vedere un conchigliologo in un semplice costume di conchiglie. Un osteopata,
+
+immagino, sarebbe gradevolmente dipinto così da somigliare a uno [[skeleton|scheletro]], mentre
+
+un botanico ravviverebbe la strada con l'aspetto di un
+
+Jack-in-the-Green. Così, mentre consideravo il conferenziere astronomico dalla
+
+giacca astronomica come una figura distinguibile, per un alto grado di
+
+differenziazione, dagli ingenui astronomi della mia isolana [[Home|patria]] (basta
+
+a me la loro semplice avvenenza) non vedevo in lui nulla di illogico, ma
+
+piuttosto un immaginoso estremo di [[logic|logica]]. E poi venne un altro giro
+
+della [[Wheel|ruota]] del capovolgimento, e tutta la [[logic|logica]] fu dispersa al
+
+[[Wind|vento]].
+
+Dilatando il petto stellato e piantandosi a gambe larghe, con l'aria di chi
+
+possedeva la strada, lo strano essere proseguì: «Sì, tengo conferenze
+
+di astronomia, antropologia, archeologia, paleontologia, embriologia,
+
+escatologia,» e così via in un rullo tonante di scienze teoriche
+
+apparentemente al di là della portata di una singola università, [[Alone|per non dire]] di un singolo
+
+professore. Essendosi così presentato, tuttavia, venne al
+
+dunque. Si scusò con genuina cortesia americana per avermi
+
+interrogato affatto, e lo giustificò adducendo le proprie esigenti
+
+responsabilità. Immaginai intendesse la responsabilità di
+
+occupare simultaneamente le cattedre di tutte le facoltà già
+
+menzionate. Ma queste erano evidentemente inezie per lui, e qualcosa di ben
+
+più serio gli rannuvolava la fronte.
+
+«Sento che è mio dovere,» disse, «prendere conoscenza di ogni
+
+forestiero che visiti questa [[City|città]]; ed è un piacere ulteriore dare il benvenuto
+
+qui a un membro degli Upper Ten.» Gli assicurai con fervore che non sapevo
+
+nulla degli Upper Ten, salvo che non ne facevo parte; mi
+
+parve, non senza allarme, che gli Upper Ten potessero essere un'altra società
+
+segreta. Egli scartò con un gesto la mia negazione e proseguì: «Ho una grande
+
+responsabilità nel vegliare su questa [[City|città]]. Il mio amico sindaco ed io
+
+abbiamo una grande responsabilità.» E allora accadde una cosa straordinaria.
+
+Tuffando d'improvviso la mano nel taschino del petto, mi fece balenare qualcosa
+
+davanti agli occhi come uno [[Mirror|specchietto]] a mano; qualcosa che scomparve di nuovo
+
+quasi non appena apparve. In quel bagliore potei solo vedere che
+
+era una sorta di piastra di metallo lucido, con certe lettere incise sopra
+
+come un monogramma. Ma la ricompensa di una vita studiosa e virtuosa, spesa
+
+principalmente nella lettura di storie [[Detective|poliziesche]] americane,
+
+rifulse per me in quell'ora di prova; ricevetti finalmente il premio
+
+di una profonda erudizione in materia di omicidi immaginari su
+
+riviste di decim'ordine. Ricordai chi fosse colui che, nel racconto
+
+[[Detective|poliziesco]] yankee, fa balenare davanti agli occhi di Slim Jim o del Lone Hand
+
+Crook un distintivo di metallo talvolta chiamato scudo. Assumendo tutta la
+
+disperata compostezza di Slim Jim in persona, risposi: «Vuoi dire che sei
+
+collegato con le autorità di polizia qui, non è così? [[Well|Ebbene]], se commetto
+
+un omicidio qui, te lo farò sapere.» Al che quell'uomo sbalorditivo agitò
+
+una mano in segno di dissenso, s'inchinò in congedo con la grazia di un maestro
+
+di ballo; e disse: «Oh, quelle non sono cose che ci aspettiamo dai membri
+
+degli Upper Ten.»
+
+Poi quella costellazione semovente si allontanò, sparendo nelle oscure
+
+maree dell'umanità, come la visione svanì giù per le oscure maree da
+
+Sir Galahad e, simile a stella, si mescolò con le [[Stars|stelle]].
+
+Questo è il problema che porrei a tutti gli americani, e a tutti coloro che pretendono
+
+di comprendere l'[[America]]. Chi e che cosa era quell'uomo? Era un astronomo?
+
+Era un [[Detective|investigatore]]? Era un lunatico errante? Se era un lunatico che
+
+si credeva astronomo, perché aveva un distintivo a provare che era un
+
+[[Detective|investigatore]]? Se era un [[Detective|investigatore]] che fingeva d'essere astronomo, perché
+
+disse a un perfetto sconosciuto d'essere un [[Detective|investigatore]] due minuti dopo
+
+aver detto d'essere astronomo? Se desiderava vegliare sulla [[City|città]] in modo
+
+quieto e discreto, perché si blasonava tutto quanto con
+
+tutte le [[Stars|stelle]] del cielo, e professava di tenere conferenze pubbliche su tutte le
+
+materie del mondo? Ogni saggio e [[Well|ben]] educato studioso di storie
+
+di omicidi conosce la nozione del poliziotto in borghese.
+
+Ma nessuno potrebbe mai dire che questo signore fosse in borghese.
+
+Perché non indossare l'uniforme, se era risoluto a mostrare a ogni forestiero per
+
+strada il suo distintivo? Forse dopotutto non aveva uniforme; poiché queste
+
+terre erano fino a poco fa una selvaggia frontiera rozzamente governata da comitati
+
+di vigilanza. Alcuni americani mi suggerirono che fosse lo Sceriffo; il
+
+classico Sceriffo cavalcatore accanito e sparatore libero di Bret Harte e dei
+
+[[Dreams|sogni]] della mia fanciullezza. Altri suggerirono che fosse un agente del Ku-Klux
+
+Klan, quella grande innominata rivoluzione della cui rinascita correvano
+
+voci in quel [[Time|tempo]]; e che il simbolo da lui esibito fosse il loro. Ma
+
+che fosse uno sceriffo operante per la legge, o un cospiratore contro
+
+la legge, o un lunatico interamente al di fuori della legge, concordo con le prime
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_55" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 55)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -24647,6 +33863,176 @@ our food is being poisoned by all these baronets?' They do not murmur in
 
 indignation, 'If bishops will go on burgling like this, something must
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+congetture su un punto. Sono perfettamente certo che avesse qualcos'altro
+
+in tasca oltre a un distintivo. E sono perfettamente certo che in
+
+certe circostanze l'avrebbe impugnato all'istante, e mi avrebbe abbattuto
+
+tra l'allegra bancarella di libri e i tram affollati. Ed è questo il
+
+tocco finale alla complessità; poiché, sebbene in quel paese spesso paia
+
+che la legge sia fatta da un lunatico, non sai mai quando il lunatico possa
+
+spararti per averla rispettata. Solo alla presenza di quel cittadino di
+
+Oklahoma sento di trovarmi di fronte alla pienezza e alla profondità del
+
+mistero dell'[[America]]. Poiché nulla comprendo, riconosco la cosa
+
+che chiamiamo nazione; e saluto la [[Flag|bandiera]].
+
+Ma anche a proposito di questa misteriosa figura c'è una morale
+
+che offre un'altra ragione per menzionarlo. Che fosse uno
+
+sceriffo o un fuorilegge, c'era certamente qualcosa in lui che
+
+suggeriva l'avventurosa violenza dell'antica vita di frontiera dell'[[America]];
+
+e che fosse collegato o no con la polizia, c'era certamente
+
+violenza a sufficienza nel suo ambiente da soddisfare il più ardente poliziotto.
+
+I manifesti nell'edicola erano tappezzati del verdetto del
+
+processo Hamon; una _cause célèbre_ che raggiunse il suo culmine in Oklahoma
+
+mentre mi trovavo là. Il senatore Hamon era stato ucciso da una ragazza a cui aveva
+
+fatto torto, e la sua vedova reclamava giustizia, o ciò che a buon diritto si potrebbe chiamare
+
+vendetta. Vi fu grandissima eccitazione culminante nell'assoluzione
+
+della ragazza. Né il caso Hamon pareva essere del tutto eccezionale in
+
+quella ventosa terra di confine. Nel momento in cui la città ebbe ricevuto la notizia che
+
+Clara [[smith|Smith]] era libera, gli strilloni si precipitarono per la strada gridando: «[[Double|Duplice]]
+
+accoltellamento efferato presso Oklahoma,» oppure «Banchiere sgozzato in Main
+
+Street,» riprendendo altrimenti il loro consueto modo di vivere. Era quasi
+
+come dire: «Non immaginate che le nostre energie locali si esauriscano nello
+
+sparare a un senatore,» oppure «Suvvia, il mondo è giovane, anche se Clara
+
+[[smith|Smith]] è assolta, e l'entusiasmo dell'Oklahoma non si è ancora raffreddato.»
+
+Ma la mia particolare ragione per menzionare la faccenda è questa. Nonostante le
+
+mistiche osservazioni del mio amico sugli Upper Ten, egli viveva in un'atmosfera
+
+di qualcosa che era per lo meno l'esatto contrario di un rispetto delle
+
+persone. Anzi, c'era qualcosa nella rozzezza stessa del suo complimento
+
+sociale che sapeva, per quanto strano, di quel suolo egualitario. In
+
+un paese vagamente aristocratico come l'Inghilterra, la gente non si sognerebbe mai
+
+di dire a un perfetto sconosciuto che è membro degli Upper Ten. Per
+
+prima cosa, avrebbero paura che potesse esserlo. Il vero snobismo non è
+
+mai volgare; poiché è inteso a compiacere i raffinati. Nessuno lecca gli
+
+stivali di un duca, non foss'altro perché al duca non piace che i suoi stivali
+
+vengano puliti a quel modo. Nessuno abbraccia le ginocchia di un marchese, perché
+
+ciò imbarazzerebbe quel nobile. E nessuno gli dice che è membro
+
+degli Upper Ten, perché ci si aspetta che tutti lo sappiano. Ma c'è una
+
+specie di snobismo assai più sottile che pervade l'atmosfera di qualunque
+
+processo mondano in Inghilterra. E la prima cosa che mi colpì fu la
+
+totale assenza di quell'atmosfera nel processo in Oklahoma. Il signor Hamon era
+
+presumibilmente membro degli Upper Ten, ammesso che una tal cosa esista. Era
+
+membro del Senato ovvero Camera [[house|Alta]] del Parlamento americano; era un
+
+milionario e un pilastro del partito repubblicano, che si potrebbe chiamare
+
+il partito rispettabile; si dice fosse stato menzionato come possibile
+
+presidente. E le arringhe del difensore di Clara [[smith|Smith]], noto col
+
+titolo deliziosamente oklahomita di Wild Bill McLean, furono abbastanza selvagge
+
+in tutta [[Conscience|coscienza]]; ma lasciarono ben poco dell'illusione del mio amico
+
+che i membri degli Upper Ten non potessero essere accusati di delitti. Nerone e
+
+il Borgia erano persone assai presentabili al confronto col senatore Hamon quando
+
+Wild Bill McLean ebbe finito con lui. Ma la differenza era più profonda, e
+
+persino in un certo senso più delicata di questo. C'è un certo tono nei
+
+processi inglesi, che almeno esordisce con un certo scetticismo
+
+sul fatto che persone eminenti nella vita pubblica siano abominevoli nella vita privata.
+
+La gente vagamente [[Doubt|dubita]] della criminalità di «un uomo in quella posizione»;
+
+vale a dire, la posizione della marchesa de Brinvilliers o del marchese de
+
+Sade. _Prima facie_, sarebbe un vantaggio per il marchese de Sade
+
+l'essere un marchese. Ma andava certamente contro Hamon l'essere un
+
+milionario. Wild Bill non lo sminuì come un fallito o un
+
+avventuriero; insistette sulla solidità e la mole della sua fortuna, fece
+
+[[Mountains|montagne]] dei «milioni Hamon,» come se rendessero la cosa assai
+
+peggiore; come in effetti credo facciano. Ma ciò è perché mi accade di condividere
+
+una certa [[philosophy|filosofia]] politica con Wild Bill e altri bufali selvaggi
+
+delle praterie. In altre parole, è realmente presente qui un
+
+istinto democratico contro il dominio della ricchezza. Non
+
+impedisce alla ricchezza di dominare; ma impedisce che il dominio sia
+
+riguardato con un qualche affetto o lealtà. Nonostante l'uomo dalla
+
+giacca stellata, gli americani non hanno in realtà alcuna illusione sugli Upper
+
+Ten. McLean si appellava a un'implicita opinione pubblica quando tempestava
+
+il senatore col suo oro.
+
+Ma c'è di più in gioco. Divenni consapevole, come lo sono stato
+
+leggendo i romanzi criminali d'[[America]], che il milionario
+
+era preso come un tipo e non come un individuo. Questa è la grande differenza;
+
+che l'[[America]] riconosce i furfanti ricchi come una _classe_. Ogni inglese potrebbe
+
+riconoscerli come individui. Ogni [[Romance|romanzo]] inglese può imperniarsi su un delitto
+
+nell'alta società; in cui si scopre che il baronetto ha avvelenato la moglie,
+
+o che l'inafferrabile scassinatore risulta essere il vescovo. Ma gli inglesi non
+
+vanno sempre dicendo, sia nel [[Romance|romanzo]] sia nella realtà: «Che si deve fare, se
+
+il nostro cibo viene avvelenato da tutti questi baronetti?» Non mormorano con
+
+indignazione: «Se i vescovi continueranno a scassinare così, qualcosa deve
 
 
 
@@ -24822,6 +34208,176 @@ superstitious ever put it in religious pictures. They publish a portrait
 of the Missing Link as if he were the Missing Man, for whom the police
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+fare.» L'intero punto del [[Romance|romanzo]] inglese è il carattere eccezionale
+
+di un delitto nell'alta società. Non è questo il tono dei romanzi
+
+americani, né dei giornali americani, né dei processi americani come il processo in
+
+Oklahoma. Gli americani possono eccitarsi quando un furfante milionario viene catturato,
+
+come quando qualunque altro furfante viene catturato; ma è per la sua cattura, non per
+
+la sua scoperta. Per dirla in breve, l'Inghilterra riconosce una
+
+classe criminale in [[Bottom|fondo]] alla scala sociale. Anche l'[[America]]
+
+riconosce una classe criminale in cima alla scala sociale. In entrambe, per
+
+varie ragioni, può essere difficile che i criminali vengano condannati;
+
+ma in [[America]] la classe alta dei criminali è riconosciuta. In entrambe,
+
+[[America]] e Inghilterra, naturalmente, essa esiste.
+
+Questo è un presupposto sul fondo della mente americana che fa una
+
+gran differenza in molti modi; e a mio parere una differenza in
+
+meglio. Poc'anzi scrivevo solo per fantasia di vescovi scassinatori;
+
+ma c'è una storia a [[New York]], che lo illustra, la quale davvero
+
+in un certo senso attribuisce uno scasso a un vescovo. La storia era che un
+
+Lord Spirituale anglicano, della scuola pomposa e ormai piuttosto antiquata,
+
+stava spingendo la porta di un povero casamento americano con tutta
+
+la placida degnazione dello squire e del rettore in visita ai contadini,
+
+quando un gigantesco poliziotto irlandese svoltò l'angolo e gli assestò una
+
+manganellata in capo nel presupposto che fosse uno
+
+[[house|scassinatore]]. [[Hope|Spero]] che coloro i quali ridono della storia vedano che la
+
+risata non è del tutto contro il poliziotto; e che non è solo
+
+il poliziotto, ma piuttosto il vescovo, ad aver mancato di riconoscere certe
+
+sottili distinzioni logiche. Il vescovo, essendo un dotto, potrebbe [[Well|bene]]
+
+essere chiamato (quando si fosse sufficientemente ripreso dal colpo in
+
+testa) a definire quale sia l'esatta differenza tra uno [[house|scassinatore]]
+
+e un visitatore [[Home|domiciliare]]; e perché il visitatore [[Home|domiciliare]] non debba essere considerato uno
+
+[[house|scassinatore]] quando non vuol comportarsi da ospite. Un'intelligenza
+
+imparziale sarà assai meno scandalizzata dalla mancanza di rispetto del poliziotto verso
+
+il visitatore [[Home|domiciliare]] che dalla mancanza di rispetto del visitatore [[Home|domiciliare]] verso la [[Home|casa]].
+
+Ma quella storia sa del suolo occidentale, precisamente a causa dell'
+
+elemento di brutalità che vi è in essa. In Inghilterra lo snobismo e l'oppressione
+
+sociale sono assai più sottili e morbidi; le loro manifestazioni per lo
+
+meno sono più pacate e umane. Al confronto c'è davvero
+
+qualcosa che la gente chiama spietato nell'aria dell'[[America]],
+
+specialmente delle città americane. Il vescovo può spingere la porta
+
+senza scusarsi, ma non sfonderebbe la porta con un
+
+manganello; ma il manganello del poliziotto irlandese colpisce in entrambi i sensi. Può essere
+
+brutale con l'inquilino del casamento [[Well|così]] come col vescovo; ma la
+
+differenza e distinzione è che potrebbe davvero essere brutale col
+
+vescovo. È perché c'è dopotutto, sul fondo di tutta quella
+
+barbarie, una sorta di negativa fede nella fratellanza degli uomini, un oscuro
+
+senso democratico che gli uomini sono davvero uomini e nulla più, che la
+
+burocrazia rozza e persino corrotta non è detestata esattamente come
+
+sono detestate le burocrazie oligarchiche. C'è un senso in cui
+
+la corruzione non è così angusta come il nepotismo. È su questa strana cinica
+
+[[Charity|carità]], e persino [[Humility|umiltà]], che è stato possibile innalzare così in alto
+
+e sorreggere così a lungo quella torre di bronzo, Tammany Hall. Il moderno sistema
+
+di polizia è nello spirito il più disumano della [[history|storia]], e il suo male appartiene
+
+a un'epoca e non a una nazione. Ma certi metodi della polizia americana sono malvagi
+
+oltre ogni paragone; e l'[[Detective|investigatore]] può essere più storto di cento
+
+furfanti. Ma negli Stati non solo è possibile che il poliziotto sia
+
+peggiore del condannato, non è affatto certo che egli pensi di essere
+
+in qualcosa migliore. Nei racconti popolari di O. Henry vi sono leggere
+
+allusioni a vagabondi cacciati a calci dagli alberghi che indurranno ogni
+
+cristiano a cercar sollievo in un linguaggio forte e in una fiducia nel cielo... per non
+
+dire nell'inferno. Eppure libri ancor più popolari di quelli di O. Henry sono quelli
+
+della «confraternita del singhiozzo» che nuota in laghi lacrimosi dietro le [[Love|amorosamente]] derelitte
+
+zitelle, le quali passano la vita a recuperare e consolare tali vagabondi.
+
+Vi sono in questo popolo due filoni di brutalità e sentimentalismo
+
+che non comprendo, specie là dove si mescolano; ma sono abbastanza
+
+sicuro che entrambi risalgano alla fosca origine democratica. Il poliziotto
+
+irlandese non si limita schizzinosamente a bastonare vescovi;
+
+il suo manganello trova molte teste di povera gente da colpire; eppure
+
+credo sulla mia [[Soul|anima]] che egli abbia una sorta di simpatia per i poveri non riscontrabile
+
+nella polizia di stati più aristocratici. Credo che egli legga anche
+
+e pianga sulle storie delle zitelle e dei vagabondi redenti; anzi,
+
+c'è molto di tale pathos in una rivista americana (mia unica
+
+compagna in molti felici viaggi in ferrovia) che non è solo dedicata a
+
+storie [[Detective|poliziesche]], ma a quanto pare curata da investigatori. In queste storie
+
+vi è pure l'onesto, popolare stupore verso gli Upper Ten
+
+espresso dall'astronomico [[Detective|investigatore]], se davvero era un [[Detective|investigatore]]
+
+e non un demone delle oscure foreste dei Pellirosse che sfumavano verso
+
+l'orizzonte alle sue spalle. Ma l'ho posto a capo e a tema di questo
+
+capitolo perché con questi elementi del Terzo Grado di diavoleria e
+
+del Settimo Cielo di sentimentalismo tocco elementi che non
+
+comprendo; e quando non comprendo, lo dico.
+
+_Il repubblicano tra le rovine_
+
+Il pagano nella sua cecità si prostra al legno e alla pietra; specialmente a
+
+una xilografia o a una pietra litografica. La gente moderna ripone la sua fiducia nelle
+
+immagini, specie le immagini scientifiche, quanto i più
+
+superstiziosi la riposero mai nelle immagini religiose. Pubblicano un ritratto
+
+dell'Anello Mancante come se fosse l'Uomo Scomparso, per cui la polizia
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_57" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 57)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -24993,6 +34549,174 @@ latest born that were the first to die. If in this sense she is praised
 
 as young, it may be answered that the young have died young, and have
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+sta sempre lanciando appelli; proprio come se l'antropoide fosse stato
+
+fotografato prima di darsi alla macchia. Il diagramma scientifico può essere un'
+
+ipotesi; può essere una fantasia; può essere un falso. Ma è sempre un
+
+idolo nel vero senso di un'immagine; e un'immagine nel vero senso di una
+
+cosa che soggioga l'[[Imagination|immaginazione]] e non la ragione. Il potere di queste
+
+immagini talismaniche è quasi ipnotico per l'umanità moderna. Non possiamo mai
+
+dimenticare d'aver visto un ritratto dell'Anello Mancante; benché
+
+coglieremmo all'istante la ricaduta della [[logic|logica]] nella superstizione, se ci
+
+dicessero che gli antichi agnostici greci avevano fatto una statua del Dio Ignoto.
+
+Ma c'è un modo ancor più strano in cui cadiamo vittime dello
+
+stesso inganno della fantasia. Accettiamo in uno spirito cieco e letterale, non solo
+
+immagini di speculazione, ma persino figure retoriche. Il diciannovesimo
+
+secolo si vantava d'aver perduto la sua [[Faith|fede]] nei miti, e procedette
+
+a riporre tutta la sua [[Faith|fede]] nelle metafore. Congedò le antiche dottrine sulla
+
+via della vita e la luce del mondo; e poi procedette a
+
+parlare come se la luce della [[Truth|verità]] fosse realmente e letteralmente una luce, che
+
+potesse essere assorbita col semplice aprire gli occhi; o come se il sentiero del
+
+progresso fosse realmente e veramente un sentiero, da trovarsi semplicemente seguendo
+
+il proprio naso. Così il fine di Dio è un'idea, vera o falsa; ma il
+
+fine della [[Nature|Natura]] è soltanto una metafora; poiché ovviamente se non c'è Dio
+
+non c'è fine. Eppure, mentre gli uomini, per istinto immaginativo, parlavano del
+
+fine di Dio con un grandioso agnosticismo, come di qualcosa troppo grande per
+
+essere visto, qualcosa che si protende verso mondi e verso [[eternities|eternità]], parlano
+
+del fine della [[Nature|Natura]] in problemi particolari e pratici come curare
+
+i neonati o sezionare i conigli. Questo potere della metafora moderna deve essere
+
+compreso, a mo' d'introduzione, se vogliamo comprendere uno dei
+
+principali errori, insieme evasivi e pervasivi, che intricano il
+
+problema dell'[[America]].
+
+Dell'[[America]] si parla sempre come di una nazione giovane; e che questa sia o no
+
+una metafora preziosa e suggestiva, pochissimi notano che è una
+
+metafora affatto. Se qualcuno dicesse che una certa meritevole [[Charity|opera benefica]] avesse
+
+appena messo i pantaloni, riconosceremmo che si tratta di una figura
+
+retorica, e forse una figura retorica piuttosto sorprendente. Se qualcuno
+
+dicesse che un quotidiano si è di recente raccolto i capelli in su, sapremmo che
+
+può essere solo una metafora, e forse una metafora piuttosto forzata. Eppure
+
+queste frasi significherebbero l'unica cosa che possa mai intendersi
+
+chiamando «giovane» un'associazione collettiva di ogni sorta di persone; ossia,
+
+che una certa istituzione è esistita solo per un certo [[Time|tempo]]. Non sto
+
+ora negando che una tale nazionalità collettiva possa per caso avere una
+
+psicologia comparativamente analoga alla psicologia della giovinezza. Non
+
+nego neppure che l'[[America]] la abbia. Faccio solo notare, tanto per cominciare,
+
+che dobbiamo liberarci dalla tirannia talismanica di una metafora
+
+che non riconosciamo come metafora. Gli uomini si resero conto che le antiche
+
+dottrine mistiche erano mistiche; non si rendono conto che le nuove
+
+metafore sono metaforiche. Hanno una sorta di vaga nozione che
+
+la società americana debba essere in crescita, debba essere promettente, debba avere le
+
+virtù della [[Hope|speranza]] o i difetti dell'ignoranza, semplicemente _perché_ ha avuto
+
+un'esistenza separata solo dal diciottesimo secolo. E ciò
+
+equivale esattamente a dire che una cappella nuova debba crescere in altezza, o che una
+
+società a responsabilità limitata metterà presto i denti da adulto.
+
+Ora, in [[Truth|verità]], questa particolare concezione della speranzosità americana sarebbe
+
+tutt'altro che promettente per l'[[America]]. Se l'argomento fosse davvero, come si
+
+suppone ancora vagamente, che l'[[America]] debba avere una lunga vita dinanzi
+
+a sé, perché iniziò solo nel diciottesimo secolo, troveremmo una
+
+risposta assai fatale guardando agli altri sistemi politici che
+
+iniziarono nel diciottesimo secolo. Il diciottesimo secolo fu chiamato l'
+
+Età della Ragione; e c'è un senso assai reale in cui gli altri sistemi
+
+furono davvero avviati in uno spirito di ragione. Ma il partire dalla ragione non li ha
+
+salvati dalla rovina. Se osserviamo l'Europa di oggi con vera
+
+chiarezza e comprensione storica, vedremo che sono precisamente
+
+le creazioni più recenti e più razionalistiche a essere state
+
+rovinate. I due grandi Stati che più decisamente ed enfaticamente
+
+meritarono d'esser chiamati stati moderni furono la Prussia e la [[Russia]]. Non vi fu
+
+una vera Prussia prima di Federico il Grande; nessun vero Impero Russo prima di
+
+Pietro il Grande. Entrambi quegli innovatori si riconoscevano come
+
+razionalisti che recavano una nuova ragione e un nuovo ordine in un'indeterminata
+
+barbarie; e facevano per i barbari ciò che i barbari non sapevano fare
+
+da sé. Essi non ereditarono, come i re d'Inghilterra o di Francia o di
+
+Spagna o di Scozia, uno scettro che era il simbolo di un popolo storico
+
+e patriottico. In questo senso non vi era una [[Russia]] ma solo un
+
+Imperatore di [[Russia]]. In questo senso la Prussia fu un regno prima d'essere una
+
+nazione; ammesso che sia mai stata una nazione. Ma comunque entrambi gli uomini erano particolarmente
+
+moderni nell'intero umore e nella mente. Erano moderni al punto di
+
+essere non solo anti-tradizionali, ma quasi anti-patriottici. Pietro impose
+
+la scienza dell'Occidente alla [[Russia]] con rammarico di molti russi.
+
+Federico parlava il francese di Voltaire e non il tedesco di Lutero.
+
+I due esperimenti furono interamente nello spirito del razionalismo
+
+volterriano; furono edificati in pieno giorno da uomini che non credevano in
+
+nulla se non nella luce del giorno comune; e già il loro giorno è concluso.
+
+Se dunque la promessa dell'[[America]] stesse nel fatto che essa è una delle
+
+ultime nate del progresso, faremmo notare che sono esattamente i
+
+nati per ultimi a essere i primi a morire. Se in questo senso essa è lodata
+
+come giovane, si può rispondere che i giovani sono morti giovani, e non hanno
 
 
 
@@ -25342,6 +35066,172 @@ all it must be treated as a ruin. But surely their own pagan temple of
 political liberty is now much more of a ruin than the other; and I fancy
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+conservano, come in un modello perfetto, qualche particolare epoca del passato,
+
+e persino del passato remoto. Si potrebbe studiare il Medioevo a
+
+[[Lincoln]] [[Well|così]] come a Rouen; a Canterbury [[Well|così]] come a Colonia. Persino
+
+del [[Renaissance|Rinascimento]] lo stesso è vero, almeno sul versante letterario; se
+
+Shakespeare fu più tardo fu anche più grande di Ronsard. Ma il punto è
+
+che lo spirito e la [[philosophy|filosofia]] di quelle epoche erano presenti in pienezza
+
+e in [[Freedom|libertà]]. I membri delle corporazioni erano cristiani in Inghilterra tanto quanto lo erano
+
+ovunque; i poeti erano pagani in Inghilterra tanto quanto lo erano ovunque.
+
+Personalmente non ammetto che gli uomini che servirono i mecenati fossero più liberi
+
+di quelli che servirono i santi patroni. Ma ogni foggia aveva la sua propria specie
+
+di [[Freedom|libertà]]; e il punto è che gli inglesi, in ciascun caso, ebbero la
+
+pienezza di quella specie di [[Freedom|libertà]]. Ma vi era un altro ideale di [[Freedom|libertà]]
+
+che gli inglesi non ebbero mai affatto; o, comunque, non espressero mai affatto.
+
+Vi era un altro ideale, l'[[Soul|anima]] di un'altra epoca, attorno a cui non erigemmo
+
+monumenti e non scrivemmo capolavori. Non ne troverete traccia in
+
+Inghilterra; ma le troverete in [[America]].
+
+La cosa che intendo era la vera religione del diciottesimo secolo. La sua
+
+religione, nel senso più definito, era generalmente il Deismo, come in
+
+Robespierre o Jefferson. Nel modo più generale della morale e dell'
+
+atmosfera era piuttosto lo Stoicismo, come nel [[suicide|suicidio]] di Wolfe Tone. Aveva
+
+certi ideali assai nobili e, come alcuni direbbero, impossibili; come
+
+che un politico dovrebbe essere povero, e dovrebbe essere fiero d'essere povero. Esso
+
+conosceva il latino; e perciò insisteva sulla strana fantasia che la
+
+Repubblica dovesse essere una cosa pubblica. La sua repubblicana semplicità era
+
+tutt'altro che una posa sciocca; a meno che ogni [[Martyrdom|martirio]] non sia una posa sciocca. Persino
+
+dei presuntuosi e dei fanatici delle Rivoluzioni americana e francese possiamo
+
+spesso dire, come Stevenson disse di un americano, che «la parsimonia e il [[Courage|coraggio]]
+
+ardevano in lui.» E la sua virtù e il suo valore per noi sta nell'aver ricordato
+
+le cose che ora più tendiamo a dimenticare; dalla dignità della libertà al
+
+pericolo del lusso. Credeva davvero nell'[[Self|autodeterminazione]], nell'
+
+[[Self|autodeterminazione]] dell'[[Self|io]], [[Well|così]] come dello stato. E la sua
+
+determinazione era davvero determinata. In breve, credeva nel
+
+[[Self|rispetto di sé]]; ed è rigorosamente vero anche dei suoi ribelli e regicidi
+
+che desideravano soprattutto essere rispettabili. Ma vi erano in esso i
+
+segni della religione [[Well|così]] come della rispettabilità; aveva un credo; aveva una
+
+crociata. Uomini morirono cantando i suoi [[songs|canti]]; uomini si lasciarono morire di fame piuttosto che scrivere
+
+contro i suoi principi. E i suoi principi erano libertà, uguaglianza e
+
+fraternità, ovvero i dogmi della Dichiarazione d'Indipendenza. Questa fu
+
+l'idea che riscattò le tetre negazioni del diciottesimo secolo;
+
+e vi sono ancora angoli di Philadelphia o Boston o Baltimora dove
+
+possiamo sentire così d'improvviso nel [[Silence|silenzio]] la sua semplice veste e i suoi formali
+
+modi, che il [[Ghost|fantasma]] errante di Jefferson difficilmente ci sorprenderebbe.
+
+Non c'è [[Ghost|nemmeno l'ombra]] di una tal cosa in Inghilterra. In Inghilterra la vera
+
+religione del diciottesimo secolo non trovò mai [[Freedom|libertà]] o spazio. Non
+
+sgombrò mai uno spazio in cui edificare quel freddo e classico edificio
+
+chiamato il Campidoglio. Non fece mai posto a quella libera se pur talvolta
+
+frigida figura chiamata il Cittadino.
+
+Nell'Inghilterra del diciottesimo secolo egli fu spinto fuori, in parte forse dalle
+
+reliquie di cose migliori del passato, ma in gran parte almeno dalla
+
+presenza di cose assai peggiori nel presente. Le cose peggiori tenevano fuori
+
+le cose migliori del diciottesimo secolo. Il terreno era occupato da
+
+finzioni giuridiche; da una chiesa erastiana senza Dio e da un impotente re
+
+[[King|hannoveriano]]. Le sue realtà erano un'aristocrazia di dandy della Reggenza, in costumi
+
+fatti per intonarsi al Padiglione di Brighton; un paganesimo non frigido ma florido. Fu
+
+un tocco di questo spreco aristocratico in Fox a impedire a quel grand'
+
+uomo d'essere una gloriosa eccezione. È perciò [[Well|bene]] per noi
+
+renderci conto che c'è qualcosa nella [[history|storia]] che non sperimentammo;
+
+e perciò probabilmente qualcosa negli americani che non comprendiamo.
+
+Vi era questo idealismo al principio stesso del loro [[Individualism|individualismo]].
+
+Vi era una nota di eroica pubblicità e onorevole [[Poverty|povertà]] che
+
+indugia nel nome stesso di Cincinnati.
+
+Ma ho un'altra e speciale ragione per notare questo fatto storico;
+
+il fatto che noi inglesi non facemmo mai nulla sul modello di un
+
+campidoglio, mentre possiamo rivaleggiare con chiunque col modello di una [[Cathedral|cattedrale]]. È
+
+tutt'altro che improbabile che quest'ultimo modello possa di nuovo essere un modello operante.
+
+Poiché io stesso ho provato, naturalmente e per lungo [[Time|tempo]], una calda simpatia
+
+per entrambi quegli ideali del passato, che ad alcuni paiono così incompatibili. Ho
+
+sentito l'attrazione del berretto rosso [[Well|così]] come della [[Cross|croce]] rossa, della
+
+Marsigliese [[Well|così]] come del Magnificat. E anche quando erano in
+
+furioso conflitto non ho mai del tutto perduto la mia simpatia per l'uno o per l'altro.
+
+Ma nel conflitto tra la Repubblica[1] e la Chiesa, il punto
+
+spesso sollevato contro la Chiesa mi sembra assai più un punto contro
+
+la Repubblica. È enfaticamente la Repubblica e non la Chiesa ciò che io
+
+venero come qualcosa di bello ma appartenente al passato. Anzi,
+
+provo esattamente la stessa sorta di triste rispetto per l'ideale repubblicano che
+
+molti liberi pensatori medio-vittoriani provavano per l'ideale religioso. I più
+
+sinceri poeti di quel periodo erano in gran parte divisi tra coloro che
+
+insistevano, come Arnold e Clough, che il [[Christianity|Cristianesimo]] potesse essere una rovina, ma
+
+che dopotutto andasse trattato come una rovina pittoresca; e coloro, come
+
+Swinburne, che insistevano che potesse essere una rovina pittoresca, ma che
+
+dopotutto andasse trattato come una rovina. Ma sicuramente il loro proprio tempio pagano della
+
+libertà politica è ora assai più una rovina dell'altro; e immagino
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_60" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 60)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -25522,6 +35412,182 @@ with the momentum of the peculiar nineteenth-century notion of progress;
 of certain very simple tendencies perpetually increasing and needing no
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+sono uno dei pochi che ancora si tolgono il cappello in quel tempio in rovina.
+
+Ecco perché andai in giro in cerca delle sbiadenti tracce di quella causa
+
+perduta, nell'atmosfera d'antico mondo del nuovo mondo.
+
+Ma non sento, di fatto, che la [[Cathedral|cattedrale]] sia una rovina; [[Doubt|dubito]] che lo
+
+sentirei anche se desiderassi ridurla in rovine. [[Doubt|Dubito]] che il signor
+
+M'Cabe pensi davvero che il Cattolicesimo stia morendo, benché possa illudersi
+
+fino a dirlo. Nessuno potrebbe essere naturalmente indotto a dire che la
+
+affollata [[Cathedral|cattedrale]] di San Patrizio a [[New York]] sia una rovina, o persino che
+
+l'incompiuta [[Cathedral|cattedrale]] anglo-cattolica a Washington sia una rovina, benché
+
+non sia ancora una chiesa; o che ci sia alcunché di perduto o di attardato
+
+nelle splendide e animose chiese gotiche che sorgono sotto l'
+
+ispirazione del signor Cram di Boston. Come questione di sentimento, come questione
+
+di fatto, come questione del tutto a parte dalla teoria o dall'opinione, non è nei
+
+centri religiosi che ora abbiamo la sensazione di qualcosa
+
+di bello ma che recede, di qualcosa di amato ma perduto. È esattamente negli
+
+spazi sgombrati e spianati dall'[[America]] per la vasta e sobria
+
+religione del diciottesimo secolo; è là dove una vecchia [[house|casa]] a
+
+Philadelphia racchiude un vecchio ritratto di Franklin, o dove gli uomini del
+
+Maryland innalzarono sopra la loro [[City|città]] il primo monumento a Washington. È
+
+là che mi sento come chi calca [[Alone|solitario]] una sala del banchetto deserta,
+
+le cui luci sono fuggite, le cui ghirlande sono morte, e tutti tranne lui partiti. È
+
+allora che mi sento come se fossi l'ultimo Repubblicano.
+
+Ma quando dico che la Repubblica dell'Età della Ragione è ora una rovina,
+
+dovrei piuttosto dire che nel suo meglio è una rovina. Nel suo peggio è
+
+crollata in una trappola [[Death|mortale]] o marcisce come un letamaio. Che cos'è la
+
+reale Repubblica dei nostri giorni distinta dalla ideale Repubblica dei nostri
+
+padri, se non un mucchio di capitalismo corrotto brulicante di vermi; con
+
+quei parassiti, i politici di professione? Stavo rileggendo
+
+l'amara ma non ignobile poesia di Swinburne, «Davanti a un Crocifisso,» in cui
+
+egli intima al [[Christ|Cristo]], o all'immagine ecclesiastica del [[Christ|Cristo]], di togliersi di
+
+mezzo alla marcia in avanti di un idealismo politico rappresentato dall'
+
+[[Italy|Italia]] unita o dalla Repubblica francese. Fui colpito dalla strana e ironica
+
+esattezza con cui ogni frecciata che egli scaglia contro la degradazione del
+
+vecchio ideale divino si attaglierebbe ora alla degradazione del suo proprio ideale umano.
+
+Il [[Time|tempo]] è già venuto in cui possiamo chiedere alla sua Dea della Libertà, quale
+
+rappresentata dagli attuali liberali: «Hai _tu_ colmato le
+
+anime affamate degli uomini; hai _tu_ portato la [[Freedom|libertà]] sulla terra?» Poiché ogni
+
+congegno in cui questi vecchi liberi pensatori fermamente e fiduciosamente confidarono
+
+è esso stesso divenuto un congegno di oppressione e persino di oppressione di classe.
+
+Il suo libero parlamento è divenuto un'oligarchia. La sua libera stampa è divenuta un
+
+monopolio. Se la pura Chiesa è stata corrotta nel corso di due
+
+mila anni, che dire della pura Repubblica che è marcita in una
+
+lurida plutocrazia in meno di cento?
+
+     O nascosto volto dell'uomo, su cui
+
+     gli anni hanno tessuto un velo invisibile,
+
+     se davvero fosti [[Lover|amante]] dell'uomo,
+
+     a che valse il tuo [[Love|amore]] o il tuo [[Blood|sangue]]?
+
+     Del tuo [[Blood|sangue]] i sacerdoti fanno [[Poison|veleno]];
+
+     e in aurei sicli coniano il tuo [[Love|amore]].
+
+Chi ha più a che fare coi sicli oggigiorno, i sacerdoti o i
+
+politici? Possiamo dire in qualche senso speciale al giorno d'oggi che gli ecclesiastici, in quanto
+
+tali, facciano un [[Poison|veleno]] del [[Blood|sangue]] dei martiri? Possiamo dirlo in
+
+un senso simile a quello reale, in cui diciamo che i giornalisti scandalistici
+
+fanno un [[Poison|veleno]] del [[Blood|sangue]] dei soldati?
+
+Ma comprendo come si sentì Swinburne di fronte all'immagine del
+
+[[Christ|Cristo]] scolpito e, perplesso dinanzi al contrasto tra le sue pretese e le sue
+
+conseguenze, gli rivolse il suo strano addio, in fretta invero, ma
+
+non senza rammarico, e nemmeno davvero senza rispetto. Provai lo stesso
+
+io stesso quando guardai per l'ultima [[Time|volta]] la Statua della Libertà.
+
+NOTA:
+
+[1] Nella conclusione di questo capitolo intendo per Repubblica
+
+non solo la Repubblica americana, ma l'intero moderno sistema
+
+rappresentativo, come in Francia o persino in Inghilterra.
+
+_L'Atlantico si sta restringendo?_
+
+Un certo tipo di domanda viene posta assai seriamente ai nostri [[Time|tempi]]. A causa
+
+di una certa qualità logica in essa, connessa con premesse e dati,
+
+è assai difficile rispondervi. Così la gente chiederà quale sia la nascosta
+
+debolezza nella razza celtica che la fa dappertutto fallire o dileguarsi
+
+via; oppure come i tedeschi siano riusciti a portare tutta la loro organizzazione in
+
+uno stato di così perfetta efficienza; e quale fosse il significato della
+
+recente vittoria della Prussia. Oppure chiederanno per quali stadi il mondo
+
+moderno abbia abbandonato ogni fede nei miracoli; e i giornali moderni
+
+abbiano cessato di stampare qualsiasi notizia di omicidi. Chiederanno perché la politica inglese
+
+sia libera dalla corruzione; o attraverso quale addestramento mentale e morale certi
+
+milionari siano stati messi in grado di riuscire per pura forza di carattere; in
+
+breve, chiederanno perché i plutocrati governino [[Well|bene]] e come mai i porci
+
+volino, spiegando le loro rosee ali alla brezza o deliziandoci mentre
+
+cinguettano e svolazzano d'albero in albero. La difficoltà logica di
+
+rispondere a queste domande è connessa con una vecchia storia su Carlo
+
+Secondo e una boccia di pesci rossi, e con un altro aneddoto su un
+
+gentiluomo a cui fu chiesto: «Quando ha smesso di picchiare sua moglie?» Ma
+
+c'è qualcosa di analogo a ciò nelle presenti discussioni sulle
+
+forze che avvicinano Inghilterra e [[America]]. Sembra quasi che i
+
+ragionatori non risalgano abbastanza indietro nel loro argomento, o non si diano
+
+abbastanza pena di districare i loro presupposti. Si muovono ancora
+
+con lo slancio della peculiare nozione ottocentesca di progresso;
+
+di certe tendenze assai semplici che aumentano perpetuamente e non abbisognano di
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_61" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 61)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -25698,6 +35764,178 @@ the sense of slang. Take, for instance, the delightful [[Sketch|sketch]] in the
 causerie of [[Oliver]] Wendell Holmes; the character of the young man called
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+analisi speciale. Così è per il _rapprochement_ internazionale che devo
+
+considerare qui.
+
+Altrove mi sono azzardato a esprimere un [[Doubt|dubbio]] sul fatto che le nazioni
+
+possano essere unite da un'antica diceria sulle razze; da una sorta di
+
+chiacchiericcio preistorico o dai pettegolezzi dell'Età della Pietra. Mi sono spinto
+
+oltre; e ho perfino espresso un [[Doubt|dubbio]] sul fatto che debbano essere unite,
+
+o piuttosto trascinate insieme, dalla bruta violenza dei
+
+congegni della scienza e della [[Speed|velocità]]. Ma c'è ancora un altro orribile [[Doubt|dubbio]]
+
+che infesta la mia mente morbosa, e che per la mia costituzione sarà meglio
+
+confessare francamente. Ed è il [[Doubt|dubbio]] sul fatto che esse siano davvero
+
+avvicinate le une alle altre.
+
+È da tempo un luogo comune da conversazione fra le persone illuminate che
+
+tutti i paesi si avvicinino sempre di più gli uni agli altri. Era un
+
+luogo comune da conversazione fra le persone illuminate, all'incirca intorno
+
+all'anno 1913, che tutte le guerre si ritirassero sempre più lontano in un
+
+passato barbarico. C'è qualcosa in questi detti che sembra semplice
+
+e familiare e del tutto soddisfacente quando li pronunciamo; sono di
+
+quella sorta consolante che possiamo pronunciare senza alcuna [[Pain|pena]] mentale nel
+
+pensare a ciò che stiamo dicendo. Ma se volgiamo la nostra attenzione dalle
+
+frasi che usiamo ai fatti di cui parliamo, ci accorgeremo almeno
+
+che vi sono parecchi fatti dall'altra parte ed esempi
+
+che indicano la direzione opposta. Per esempio, capita di tanto in tanto, di
+
+[[Time|tempo]] in [[Time|tempo]], che si parli dell'Irlanda. Sarebbe un umanitario assai
+
+ilare colui che sostenesse che l'Irlanda e l'Inghilterra si sono
+
+sempre più assimilate nel corso degli ultimi cent'anni. Il nome stesso
+
+di Sinn Fein ne è una risposta, e la lingua stessa in cui
+
+quella frase è pronunciata. Curran e Sheil non avrebbero mai sognato di
+
+pronunciare la parola d'ordine del 'Repeal' in gaelico, come non l'avrebbero pronunciata in
+
+zulù. Grattan a stento avrebbe potuto convincersi che il vero
+
+repeal dell'[[Union|Unione]] sarebbe stato firmato a [[London|Londra]] in una strana
+
+grafia remota quanto l'ornamento serpentino delle croci celtiche. Sarebbe
+
+parso come Washington che firma la Dichiarazione d'Indipendenza nella
+
+scrittura pittografica dei Pellerossa. L'Irlanda si è chiaramente allontanata
+
+dall'Inghilterra; e la sua lingua, la sua letteratura e il suo tipo di patriottismo sono
+
+assai meno inglesi di quanto fossero. D'altro canto, nessuno pretenderà
+
+che la massa degli inglesi moderni sia molto più vicina a parlare gaelico o
+
+a decorare croci celtiche. Cent'anni fa era perfettamente naturale
+
+che Byron e Moore passeggiassero per strada a braccetto. Persino la
+
+vista del signor Rudyard Kipling e del signor W. B. Yeats che passeggiano per strada
+
+a braccetto susciterebbe oggi qualche commento.
+
+Potrei fornire un numero qualsiasi di altri esempi dello stesso nuovo straniamento
+
+fra le nazioni. Potrei citare i fatti evidenti che la Norvegia e la Svezia si sono
+
+separate non molto tempo fa, che l'Austria e l'Ungheria sono di nuovo divenute
+
+stati separati. Potrei indicare la folla di nuove nazioni che sono
+
+sorte dopo la guerra; il fatto che i grandi imperi sono ormai
+
+quasi tutti smembrati; che l'Impero russo non dirige più la Polonia,
+
+che l'Impero austriaco non dirige più la Boemia, che l'Impero turco
+
+non dirige più la Palestina. Sinn Fein è il separatismo degli
+
+irlandesi. Il sionismo è il separatismo degli ebrei. Ma c'è un esempio semplice
+
+e bastevole, che qui è più consono al mio scopo, ed è almeno
+
+altrettanto sufficiente. Ed è la sempre più profonda differenza nazionale
+
+fra gli americani e gli inglesi.
+
+Lasciatemi verificarlo anzitutto con la mia esperienza personale in materia di
+
+letteratura. Da ragazzo leggevo un libro come _The Autocrat of the
+
+Breakfast-Table_ esattamente come leggevo un altro libro come _The Book of
+
+Snobs_. Non lo consideravo un libro americano, ma semplicemente un libro.
+
+Il suo spirito e il suo idioma erano come quelli della tradizione letteraria inglese; e
+
+i suoi pochi tocchi di colore locale parevano meramente accidentali, come quelli di
+
+un inglese che si trovasse a vivere in Svizzera o in Svezia. Mio
+
+padre e gli amici di mio padre erano giustamente entusiasti del libro;
+
+sicché mi pareva pervenirmi per eredità come _Gulliver's Travels_
+
+o _Tristram Shandy_. La sua lingua era inglese quanto Ruskin, e assai
+
+più inglese di Carlyle. [[Well|Ebbene]], negli anni successivi ho visto una
+
+popolarità quasi altrettanto vasta e [[Well|ben]] meritata dei racconti di O.
+
+Henry. Ma mai per un solo istante io, o chiunque altro leggendoli, avrei potuto
+
+dimenticare che erano racconti di un americano sull'[[America]]. Il
+
+primo fatto che li riguarda è che sono narrati con accento americano,
+
+vale a dire, negli inconfondibili toni di un affascinante e brillante
+
+straniero. E lo stesso vale per ogni altra opera recente la cui
+
+fama sia riuscita a [[Cross|varcare]] l'Atlantico. Non dicevamo che _The Spoon
+
+[[River]] Anthology_ fosse un libro nuovo, ma che fosse un libro nuovo dall'
+
+[[America]]. Era esattamente come se un notevole [[Novel|romanzo]] realistico venisse riferito
+
+dalla [[Russia]] o dall'[[Italy|Italia]]. Non correvamo il rischio di confonderlo con l'
+
+'[[Elegy|Elegia]] in un cimitero di campagna.' Chi in Inghilterra sentiva parlare di Main
+
+Street non era portato a identificarla con una High Street; con la
+
+arteria principale di una qualsiasi cittadina del Berkshire o del
+
+Buckinghamshire. Ma da ragazzo io identificavo praticamente la
+
+[[house|pensione]] dell'Autocrat con una qualsiasi [[house|pensione]] che mi capitasse di
+
+conoscere a Brompton o Brighton. Senza [[Doubt|dubbio]] c'erano differenze; ma il
+
+punto è che le differenze non trafiggevano la coscienza né pungevano
+
+l'illusione. Dicevo a me stesso: 'La gente è così nelle
+
+pensioni', non 'La gente è così a Boston.'
+
+Ciò si può vedere anche nella semplice questione della lingua, specialmente nel
+
+senso dello slang. Si prenda, per esempio, il delizioso [[Sketch|schizzo]] nella
+
+causerie di [[Oliver]] Wendell Holmes; il personaggio del giovane chiamato
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_62" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 62)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -25869,6 +36107,174 @@ This is an example of ordinary language being quite adequate; but there
 
 is a further difficulty that even wild slang comes to sound like
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+John. È il tipo assai moderno che in ogni paese moderno si
+
+specializza nello slang. È il giovanotto che è qualcosa nella
+
+[[City]]; il giovane di tutti i giorni della [[Song|canzone]] gilbertiana, con un bastone e una
+
+pipa e un bastardino black-and-tan. In ogni paese è insieme arguto
+
+e banale. In ogni paese, perciò, tende sia alla
+
+vivacità sia alla volgarità dello slang. Ma quando comparve nel libro di Holmes,
+
+il suo linguaggio non era molto diverso da quello che sarebbe stato
+
+in una [[house|pensione]] di Brighton anziché di Boston; o, in breve, se il
+
+giovane chiamato John fosse stato più comunemente chiamato 'Arry. Se fosse
+
+comparso in un libro americano moderno, il suo linguaggio sarebbe stato quasi
+
+letteralmente incomprensibile. Come minimo un inglese avrebbe dovuto
+
+leggere due volte alcune delle frasi migliori, come talvolta deve leggere le
+
+vertiginose e contorte metafore di O. Henry. Né vale come risposta che questo
+
+dipendesse dalle personalità dei singoli scrittori. Un confronto
+
+fra il giornalismo reale del [[Time|tempo]] di Holmes e il giornalismo reale
+
+del [[Time|tempo]] di Henry rivela la stessa cosa. È l'
+
+espansione di una lieve differenza di stile in una lussureggiante differenza di
+
+idioma; e il processo, protratto indefinitamente, produrrebbe di certo una
+
+lingua totalmente diversa. Dopo qualche secolo le firme degli
+
+ambasciatori americani apparirebbero fantastiche quanto il gaelico, e il nome stesso
+
+della Repubblica strano quanto Sinn Fein.
+
+È vero che in superficie c'è stato un certo dare
+
+e avere; o almeno, per quanto riguarda gli inglesi, un avere
+
+più che un dare. Ma è vero che un tempo era tutto il contrario; e
+
+in effetti l'una cosa è qualcosa come una giusta nemesi dell'altra.
+
+Invero, la storia del capovolgimento è alquanto singolare, se ci mettiamo a
+
+pensarci. Cominciò in una certa atmosfera e in un certo spirito di certe
+
+persone [[Well|ben]] intenzionate che parlavano della razza di lingua inglese; ed erano
+
+apparentemente indifferenti a come l'inglese fosse parlato, se con l'
+
+accento di un negro giamaicano o di un galeotto di Botany Bay. Era loro
+
+logica tendenza dire che [[Dante]] era un Dago. Era loro logica
+
+punizione dire che Disraeli era un inglese. Ora, può esservi stato
+
+un periodo in cui questa amalgama anglo-americana includeva elementi più o
+
+meno paritari dall'Inghilterra e dall'[[America]]. Non incluse mai gli
+
+elementi più grandi, o gli elementi più preziosi, dell'una o dell'altra. Ma, nel
+
+complesso, credo sia vero dire che non fu una spartizione bensì uno
+
+scambio di parti; e che le cose andarono dapprima tutte in un senso e poi
+
+tutte nell'altro. La gente cominciò col dire agli americani che dovevano tutti
+
+i loro passati trionfi all'Inghilterra; il che era falso. Finirono col
+
+dire agli inglesi che avrebbero dovuto tutti i loro futuri trionfi all'
+
+[[America]]; il che è, se possibile, ancora più falso. Poiché scegliemmo di
+
+dimenticare che [[New York]] era stata New Amsterdam, corriamo ora il rischio di
+
+dimenticare che [[London|Londra]] non è [[New York]]. Poiché insistemmo che Chicago
+
+era solo una pia [[Imitation|imitazione]] di Chiswick, potremmo ancora vedere Chiswick
+
+inferiore [[Imitation|imitazione]] di Chicago. I nostri storici anglosassoni tentarono quella
+
+conquista in cui Howe e Burgoyne avevano fallito, e con infinitamente minor
+
+giustificazione dalla loro parte. Tentarono il grande crimine dell'
+
+anglicizzazione dell'[[America]]. Hanno attirato su di sé la punizione dell'
+
+[[americanisation|americanizzazione]] dell'Inghilterra. Non dobbiamo mormorare; ma è una pesante
+
+punizione.
+
+Può tuttavia alleggerire un poco il suo carico, se la guardiamo più da
+
+vicino; scopriremo allora che, per quanto ci stia molto addosso,
+
+sta soltanto in cima. In tal senso questa [[americanisation|americanizzazione]], per quanto ve ne sia, è assai
+
+superficiale. Per esempio, c'è una certa quantità di slang americano
+
+raccolto a casaccio; compare in certi tipi di giornalismo intraprendente
+
+e nel teatro. Ma potremmo facilmente indugiare troppo su questa [[Tragedy|tragedia]]; di gente
+
+che non ha mai parlato inglese e comincia a parlare americano. Sono ben lungi dal
+
+suggerire che l'americano, come ogni altra lingua straniera, non possa
+
+spesso contribuire alla cultura comune del mondo con frasi per
+
+le quali non c'è sostituto; vi sono frasi francesi così usate in
+
+Inghilterra e frasi inglesi in Francia. La parola 'high-brow', per
+
+esempio, è una vera scoperta e rivelazione, un nome nuovo e necessario
+
+per qualcosa che camminava senza nome ma enorme nel mondo moderno, un
+
+fascio di luce e un colpo di [[Lightning|fulmine]]. Viene dall'[[America]] e
+
+appartiene al mondo, tanto quanto '[[The Raven]]' o _The Scarlet Letter_ o
+
+i romanzi di Henry James appartengono al mondo. Anzi, posso immaginare
+
+Henry James che la conia negli spasimi dell'[[Self|auto]]-espressione, e
+
+tira fuori una parola come 'high-browed', con una sorta di gentile scatto, alla
+
+fine di frasi indaganti che brancolavano sensibilmente finché trovavano
+
+la frase giusta. Ma la maggior parte dello slang americano che viene preso in prestito pare essere
+
+presa in prestito senza alcun motivo particolare. O non ha alcun senso, o il senso
+
+va perduto nella [[Translation|traduzione]] in un altro contesto e cultura. O è
+
+qualcosa che non ha bisogno di alcuna descrizione [[Grotesque|grottesca]] ed esagerata,
+
+o di cui esiste già una descrizione [[Grotesque|grottesca]] ed
+
+esagerata più nativa alla nostra lingua e al nostro suolo. Per
+
+esempio, non vedo come la forte e semplice espressione 'Now it is
+
+for you to pull the police magistrate's nose' sia in alcun modo rafforzata
+
+dal dire 'Now it is up to you to pull the police magistrate's nose.'
+
+Quando Tennyson dice degli uomini della Light Brigade 'Theirs but to do and
+
+die', l'espressione mi pare perfettamente limpida. 'Up to them to do and
+
+die' altererebbe il metro senza chiarire granché il significato.
+
+Questo è un esempio di linguaggio ordinario del tutto adeguato; ma c'è
+
+un'ulteriore difficoltà, che perfino lo slang più sfrenato finisce col suonare come
 
 
 
@@ -26044,6 +36450,176 @@ watching him, even if the watching were inevitably a little too like
 watching a wild beast in a cage or an insect under a glass case. Urban
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+linguaggio ordinario. Assai spesso gli inglesi hanno già un idioma altrettanto umoristico e
+
+fantasioso, salvo che per abitudine ha perduto il suo
+
+[[Humour|umorismo]]. Quando Keats scrisse il verso 'What pipes and timbrels, what wild
+
+ecstasy!' sono disposto a credere che l'umorista americano avrebbe
+
+espresso lo stesso sentimento cominciando la frase con 'Some
+
+pipe!' Quando lo si disse per la prima volta, da qualche parte fra le terre selvagge del Colorado,
+
+era davvero buffo; implicava un potente understatement e il suggerimento
+
+di un semplice campione. Se una zitella ci ha informati di tenere un uccello,
+
+e scopriamo che è uno struzzo, ci sarà notevole arguzia nel
+
+satirico del Colorado che chiede, indagatore, 'Some bird?' come se ci
+
+offrisse una piccola fetta di un piccolo piviere. Ma se torniamo a questa
+
+radice e ragione di una battuta, la lingua inglese contiene già
+
+una battuta altrettanto buona. Non è necessario dire 'Some bird'; c'è
+
+un'ironia assai più fine nella vecchia espressione 'Something like a bird.' Essa
+
+suggerisce che chi parla scorge qualcosa di debolmente e stranamente uccellesco
+
+in un uccello; che gli ricorda remotamente e quasi irrazionalmente un
+
+uccello; e che nelle piume di struzzo lunghe una iarda c'è qualcosa come
+
+le tenui e delicate tracce di una piuma. Ha ogni qualità dell'
+
+ironia immaginativa, salvo che nessuno immagina nemmeno che sia ironica.
+
+Tutto ciò che accade è che la gente si stanca di quella locuzione, adotta
+
+una frase straniera e si stanca anche di quella, senza cogliere il senso
+
+dell'una o dell'altra. Tutto ciò che accade è che un certo numero di persone stanche che usavano
+
+dire 'Something like a bird' ora dicono 'Some bird', con immutata
+
+stanchezza. Ma potrebbero altrettanto [[Well|bene]] usare un inglese scialbo e dignitoso; poiché
+
+in entrambi i casi stanno solo usando un linguaggio scherzoso senza cogliere la
+
+battuta.
+
+C'è invero un considerevole commercio nel trapianto di queste
+
+battute americane in Inghilterra, di questi tempi. Generalmente languono e muoiono nel nostro
+
+clima, oppure sono già morte prima di arrivare; ma non possiamo essere certi
+
+che non siano mai state vive. C'è una sorta di fregio senza fine o
+
+rotolo di motivi decorativi srotolato incessantemente davanti al pubblico
+
+britannico, su un marito succube della moglie, che all'occhio è indistinguibile
+
+da un vero motivo [[Self|auto]]-ripetentesi come quello della greca,
+
+ma che viene importato come se fosse prezioso e insostituibile quanto i
+
+Marmi di Elgin. La pubblicità e la sindacazione fanno [[Mountains|montagne]] dei
+
+più buffi piccoli monticelli; ma senza [[Doubt|dubbio]] i monticelli sono
+
+abbastanza pittoreschi nel loro paesaggio. In ogni caso non c'è nulla
+
+di tanto nazionale quanto l'[[Humour|umorismo]]; e molte cose, come molte persone, possono essere
+
+abbastanza divertenti quando sono a [[Home|casa]] loro. Ma queste battute americane vengono
+
+strombazzate con la stessa solennità delle religioni americane; e i loro sostenitori gravemente
+
+testimoniano che sono divertenti, senza coglierne il divertimento nemmeno per un istante.
+
+Questo è forse in parte lo spirito dell'istituzionalismo spontaneo della
+
+[[Democracy|democrazia]] americana, che erompe nel posto sbagliato. Fanno dell'[[Humour|umorismo]] un'
+
+istituzione; e un uomo verrà messo a raccontare un aneddoto come a suonare il
+
+violino. Ma quando la storia è raccontata in [[America]] è davvero spassosa; e
+
+quando queste battute vengono ristampate in Inghilterra spesso non sono nemmeno
+
+intelligibili. Con tutta la stupidità del milionario e del
+
+monopolista, l'intraprendente proprietario stampa in Inghilterra battute che
+
+sono necessariamente incomprensibili a quasi ogni inglese; battute
+
+che si riferiscono a condizioni domestiche e locali del tutto peculiari all'[[America]]. Ne
+
+vidi l'altro giorno una di queste caricature narrative in cui l'intera
+
+battuta (per quel poco che c'era) verteva sullo stupore di una
+
+casalinga davanti all'assurda idea di non avere una ghiacciaia. È perfettamente
+
+vero che quasi ogni comune casalinga americana possiede una ghiacciaia.
+
+Una comune casalinga inglese non si aspetterebbe di possedere una
+
+ghiacciaia più di quanto si aspetterebbe di possedere un iceberg. E sarebbe sensato press'a poco quanto
+
+rimorchiare un iceberg fino a un porto inglese tutto il tragitto dal Polo Nord,
+
+trascinare quell'unica pallida e gelida battuta fino a Fleet Street tutto il tragitto dai
+
+giornali di [[New York]]. Lo stesso vale per un centinaio di altre pubblicità e
+
+adattamenti. Ho già confessato di aver provato notevole diletto
+
+nelle danzanti illuminazioni di Broadway--a Broadway. Là tutto
+
+è adatto ad esse, la vasta e interminabile arteria, le case
+
+traballanti, lo spirito vertiginoso e irrequieto dell'intera [[City|città]]. È una [[City|città]] di
+
+vedute che si dissolvono, e si può quasi dire una [[City|città]] in perpetua
+
+dissoluzione. Ma non ammiro in modo particolare un ardente [[Fragment|frammento]] di
+
+Broadway appiccicato di fronte alla vecchia curva georgiana di Regent Street. Esprimerei
+
+altrettanto volentieri la mia simpatia per la Repubblica di Svizzera
+
+erigendo una piccola Alpe, con [[Snow|neve]] d'[[Imitation|imitazione]], in mezzo a St. James's
+
+Park.
+
+Ma tutta questa imitazione commerciale è assai superficiale; e soprattutto,
+
+non copia mai nulla che valga davvero la pena di copiare. Le nazioni non
+
+_imparano_ mai nulla l'una dall'altra in questo modo. Abbiamo molte cose da
+
+imparare dall'[[America]]; ma diamo ascolto solo a quegli americani che devono ancora
+
+impararle. Così, per esempio, non importiamo la piccola fattoria bensì
+
+solo il grande negozio. In altre parole, non udiamo nulla della [[Democracy|democrazia]] del
+
+Middle West, ma tutto della plutocrazia dell'intermediario, che
+
+è probabilmente tanto impopolare nel Middle West quanto il mugnaio nel
+
+Medioevo. Se il signor Elihu K. Pike potesse essere trapiantato di peso dai
+
+dintorni della sua città [[Home|natale]] di Marathon, Neb., con la sua fattoria e la sua
+
+[[house|casa di legno]] e tutti i suoi arredi, e li si potesse collocare esattamente nel
+
+punto ora occupato da Selfridge's (che si potrebbe facilmente sgomberare
+
+allo scopo), credo che potremmo trarne davvero gran giovamento
+
+osservandolo, anche se l'osservazione somiglierebbe inevitabilmente un po' troppo all'
+
+osservare una bestia feroce in gabbia o un insetto sotto una teca di vetro. Folle
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_64" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 64)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -26218,6 +36794,176 @@ become clear to him if (by a simple [[Reform|reform]]) the chickens were called
 Then he would remember all about it. The [[Pilgrim]] Fathers were champions
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+urbane potrebbero radunarsi ogni giorno dietro una barriera o una ringhiera, e osservare
+
+il signor Pike che gironzola tutto il giorno nelle sue antiche e autoctone
+
+occupazioni. Potremmo vederlo coltivare il granturco con tutta la gravità
+
+di un indiano; benché sia impossibile immaginare la signora Pike che benedice il
+
+campo di mais alla maniera di Minnehaha. Come ho detto, c'è una certa
+
+mancanza di mito e misticismo umani in questo contadinato puritano. Ma
+
+potremmo vederlo trasformare il mais in pop-corn, che è un rituale e passatempo
+
+domestico assai piacevole, ed è l'equivalente americano
+
+della gloria di arrostire le castagne. Soprattutto, molti di noi imparerebbero per
+
+la prima [[Time|volta]] che un uomo può davvero vivere e camminare su qualcosa
+
+di più produttivo di un marciapiede; e che quando lo fa può davvero
+
+essere un uomo libero, e non avere altro signore che la legge. Invece, l'[[America]]
+
+non può dare a [[London|Londra]] altro che quei molteplici negozi moderni, di cui essa
+
+ne ha già troppi. So che molti coltivano l'[[Innocent|innocente]]
+
+illusione che i grandi negozi siano più efficienti dei piccoli; ma questo
+
+solo perché le grandi combinazioni hanno il monopolio della pubblicità oltre
+
+che [[Well|del]] commercio. Il grande negozio non è affatto notevole per
+
+efficienza; è solo troppo grande per essere biasimato per la sua inefficienza. È
+
+sicuro della sua fama di licenziare sempre l'uomo sbagliato. Un grande negozio,
+
+considerato come luogo in cui fare acquisti, è semplicemente un villaggio di piccoli negozi
+
+coperti da un tetto per tenere fuori la luce e l'aria; e in cui nessuno dei
+
+negozianti è davvero responsabile del proprio negozio. Se qualcuno nutre
+
+dubbi in proposito, dato che l'ho menzionato, consideri questo
+
+fatto: che in pratica non applichiamo mai questo metodo di combinazione
+
+commerciale a nulla che importi molto. Non ci rechiamo al
+
+reparto di chirurgia dei Grandi Magazzini per farci asportare una porzione di cervello
+
+con una delicata operazione; per poi passare al reparto di avvocatura per
+
+assoldare uno qualsiasi dei suoi legali, quando siamo in temporaneo pericolo di
+
+essere impiccati. Ci rivolgiamo a uomini che possiedono i propri strumenti e sono responsabili
+
+dell'uso dei propri talenti. E la stessa [[Truth|verità]] vale per quell'
+
+altro moderno metodo pubblicitario, che pure è calato così ampiamente
+
+su di noi come la gigantesca [[Shadow|ombra]] dell'[[America]]. Le nazioni non si
+
+armano per una lotta mortale ricordando quale tipo di sommergibile
+
+abbiano visto più spesso sui cartelloni. Possono farlo con
+
+qualcosa come il sapone, proprio perché una nazione non perirà per il
+
+fatto di avere un tipo di sapone di second'ordine, come potrebbe per un tipo di
+
+sommergibile di second'ordine. Una nazione può invero perire lentamente per il fatto di avere un
+
+tipo di cibo o bevanda o medicina di second'ordine; ma questa è un'altra e
+
+assai più lunga storia, e la storia non è ancora finita. Ma nessuno vince una
+
+grande battaglia in una grande crisi perché qualcuno gli ha detto che
+
+Cadgerboy's Cavalry Is the Best. Può darsi che l'impresa commerciale
+
+finisca col coprire anche questi campi, e gli agenti pubblicitari
+
+forniscano gli strumenti del chirurgo e le armi del soldato.
+
+Quando ciò accadrà, gli eserciti saranno sconfitti e i pazienti
+
+moriranno. Ma per quanto noi gente moderna siamo davvero pazienti, nel senso di
+
+essere meramente ricettivi e di accettare le cose con stupefacente pazienza,
+
+non siamo ancora morti; e abbiamo persistenti barlumi di [[Sanity|sanità mentale]].
+
+Perché le cose migliori non viaggiano. Poiché qui mi presento come viaggiatore,
+
+posso dire con ogni modestia che nemmeno le persone migliori viaggiano. Sia
+
+in Inghilterra sia in [[America]] le persone normali sono le persone nazionali; e
+
+ripeto che le ritengo sempre più nazionali. Non
+
+credo che l'abisso venga colmato da teorie cosmopolite; e sono certo
+
+di non volerlo colmato da tutto questo giornalismo slang e da questa sfacciata
+
+pubblicità. Ho chiamato tutta quella pubblicità commerciale la gigantesca
+
+[[Shadow|ombra]] dell'[[America]]. Sarà pure l'[[Shadow|ombra]] dell'[[America]], ma non è la
+
+luce dell'[[America]]. La luce giace assai più lontano, una luce piana sulle
+
+terre del tramonto, dove risplende su ampi spazi pieni di un popolo assai semplice
+
+e assai felice; e chi vorrebbe vederla deve cercarla.
+
+_Lincoln e le cause perdute_
+
+È già stato osservato qui che gli inglesi sanno moltissimo
+
+della letteratura americana del passato, ma nulla della [[history|storia]] americana del passato.
+
+Non conoscono nemmeno l'una, s'intende, così [[Well|bene]] come conoscono l'attuale
+
+pubblicità americana, che è la meno importante delle tre. Ma
+
+vale la pena di notare ancora una volta quanto poco conoscano della [[history|storia]], e con quanta
+
+illogicità quel poco sia scelto. Hanno sentito, senza [[Doubt|dubbio]], della
+
+fama e della [[Greatness|grandezza]] di Henry Clay. È un sigaro. Ma sarebbe
+
+imprudente [[Cross|interrogare]] a fondo un inglese, che potrebbe consumare quel lusso
+
+in quel momento, sul Compromesso del Missouri o sulle controversie con
+
+Andrew Jackson. E proprio come lo statista del Kentucky è un sigaro, così lo
+
+stato della Virginia è una sigaretta. Ma c'è forse un'eccezione, o
+
+mezza eccezione, a questo semplice schema. Sarebbe forse un'esagerazione
+
+dire che la Plymouth Rock è un pollo. Qualsiasi inglese che allevi
+
+polli, ed è interessato soprattutto alle Plymouth Rock considerate come
+
+polli, avrebbe nondimeno una vaga sensazione di aver visto la
+
+parola da qualche parte in precedenza. Sentirebbe, nel subconscio, che la Plymouth
+
+Rock non era sempre stata un pollo. Invero, il nome connota qualcosa
+
+non solo di solido ma di antiquato; e non è perciò un nome molto delicato
+
+per un pollo. Sorgerebbe davanti a lui qualcosa di memorabile nella
+
+foschia che egli chiama la sua [[history|storia]]; e vedrebbe i libri di [[history|storia]]
+
+della sua fanciullezza e vecchie incisioni di uomini con cappelli a punta
+
+alle prese con le onde del mare o coi Pellerossa. L'intera faccenda gli diverrebbe d'un tratto
+
+chiara se (con una semplice [[Reform|riforma]]) i polli venissero chiamati
+
+Padri [[Pilgrim|Pellegrini]].
+
+Allora ricorderebbe tutto. I Padri [[Pilgrim|Pellegrini]] erano campioni
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_65" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 65)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -26387,6 +37133,172 @@ things in immediate abolition, as [[Lincoln]] did in abolitionism. He will
 
 not call all business men brutes, any more than [[Lincoln]] would call all
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+della libertà religiosa; ed essi scoprirono l'[[America]]. È vero che egli
+
+ha anche sentito di un uomo chiamato Cristoforo [[Columbus|Colombo]]; ma questo in
+
+connessione con un uovo. Ha anche sentito di qualcuno noto come Sir
+
+Walter Raleigh; e benché il suo principale possesso fosse un mantello, è
+
+anche vero che aveva una patata, per non dire una pipa di tabacco. È
+
+possibile che l'abbia portata dalla Virginia, da dove vengono le sigarette?
+
+Gradualmente i ricordi torneranno e si comporranno insieme
+
+per la comune pollivendola che imparò la [[history|storia]] nelle scuole elementari
+
+inglesi, e che ora ha qualcosa di meglio da fare. Anche quando la narrazione
+
+diventa consequenziale, non diventerà necessariamente corretta. Non è
+
+strettamente vero dire che i Padri [[Pilgrim|Pellegrini]] scoprirono l'[[America]]. Ma è
+
+altrettanto vero quanto dire che erano campioni della libertà
+
+religiosa. Se dicessimo che erano martiri che sarebbero morti
+
+eroicamente fra i tormenti piuttosto che tollerare una qualsiasi libertà religiosa, staremmo
+
+dicendo qualcosa di sensato su di loro, e raccontando la vera
+
+[[Truth|verità]] che è loro dovuta. L'intero movimento puritano, dal Solemn
+
+League and Covenant all'[[Last Stand|ultima resistenza]] degli ultimi Stuart, fu una
+
+lotta _contro_ la tolleranza religiosa, o ciò che essi avrebbero chiamato
+
+indifferenza religiosa. La prima uguaglianza religiosa sulla terra fu
+
+stabilita da un cavaliere cattolico nel Maryland. Ora, non c'è nulla in
+
+questo che diminuisca la dignità che spetta a qualsiasi reale virtù e
+
+virilità dei Padri [[Pilgrim|Pellegrini]]; al contrario, va piuttosto a
+
+credito della loro coerenza e convinzione. Ma non c'è [[Doubt|dubbio]] che
+
+la nota del loro intero esperimento nel [[New England|New England]] fosse l'intolleranza, e
+
+perfino l'[[Inquisition|Inquisizione]]. E non c'è [[Doubt|dubbio]] che il [[New England|New England]] fosse allora solo
+
+il più nuovo e non il più antico di questi esperimenti coloniali. Almeno
+
+due Cavalieri erano stati in campo prima di qualsiasi puritano. Ed essi avevano
+
+portato con sé assai più dell'atmosfera e della [[Nature|natura]] del normale
+
+inglese di quanto qualsiasi puritano potesse mai portare. L'avevano stabilita
+
+specialmente in Virginia, che era stata fondata da un grande elisabettiano
+
+e chiamata così in onore della grande Elisabetta. Prima che vi fosse un [[New England|New England]] al
+
+Nord, c'era qualcosa di molto simile alla Vecchia Inghilterra al Sud.
+
+Relativamente parlando, c'è ancora.
+
+Ogni volta che ricorre l'anniversario del _Mayflower_, c'è un
+
+[[Chorus|coro]] di congratulazioni e [[Comradeship|cameratismo]] anglo-americani, come se questa almeno
+
+fosse una questione su cui tutti possono concordare. Ma sapevo abbastanza dell'
+
+[[America]], persino prima di andarci, da sapere che vi sono parecchie
+
+persone laggiù che comunque non vi concordano. Molto tempo fa scrissi una
+
+protesta in cui chiedevo perché gli inglesi avessero dimenticato il grande stato della
+
+Virginia, il primo per fondazione e a lungo il primo per leadership; e
+
+perché pochi arcigni anticonformisti dovessero avere il diritto di cancellare un annale
+
+che comincia con Raleigh e finisce con Lee, e per inciso include
+
+Washington. Il grande stato della Virginia fu la spina dorsale dell'[[America]]
+
+finché non fu spezzato nella Guerra Civile. Dalla Virginia vennero i primi grandi
+
+Presidenti e la maggior parte dei Padri della Repubblica. La sua adesione
+
+alla parte meridionale nella guerra la rese una grande guerra, e per lungo [[Time|tempo]] una
+
+guerra dall'esito incerto. E nel condottiero degli eserciti del Sud produsse quella che
+
+è forse l'unica figura moderna che possa giungere a splendere come San Luigi
+
+nella battaglia perduta, o come [[Hector|Ettore]] morente davanti alla sacra Troia.
+
+Di nuovo, è caratteristico che, mentre gli inglesi moderni non sanno nulla
+
+di Lee, sappiano qualcosa di [[Lincoln]]; e quasi tutto ciò che
+
+sanno è sbagliato. Non sanno nulla dei suoi legami con il Sud, nulla della
+
+sua considerevole simpatia per il Sud, nulla del significato della sua
+
+moderazione di fronte al problema della [[Slavery|schiavitù]], ora leggermente trattato come
+
+[[Self|auto]]-evidente. Soprattutto, non sanno nulla dell'aspetto per cui
+
+[[Lincoln]] era del tutto non inglese, era anzi l'esatto rovescio dell'inglese;
+
+e lo si può comprendere meglio se lo pensiamo come un francese, poiché
+
+pare così arduo per alcuni di noi credere che fosse un americano. Intendo
+
+la sua brama di [[logic|logica]] fine a se stessa, e il modo in cui teneva le verità
+
+matematiche nella mente come le [[Stars|stelle]] fisse. Era così lungi dall'essere un
+
+uomo meramente pratico, insofferente delle astrazioni accademiche, che
+
+passava in rassegna e si crogiolava nelle astrazioni accademiche, pur non potendo
+
+applicarle alla vita pratica. Amava ripetere che la [[Slavery|schiavitù]] era
+
+intollerabile mentre la tollerava, e dimostrare che qualcosa andava
+
+fatto mentre era impossibile farlo. Questo era probabilmente assai
+
+sconcertante per i suoi confratelli politici; poiché i politici imbiancano sempre
+
+ciò che non distruggono. Ma nonostante tutto questa incoerente coerenza
+
+batté i politici al loro stesso gioco, e questa astratta [[logic|logica]] si rivelò
+
+la più pratica di tutte. Perché quando l'occasione venne davvero di fare qualcosa,
+
+non ci fu [[Doubt|dubbio]] su ciò che andava fatto. La folgore cadde
+
+dalle limpide altezze del cielo; non era stata sballottata e smarrita
+
+come un comune proiettile nella piazza del mercato. La questione merita
+
+di essere menzionata, perché ha una morale per una questione moderna assai più ampia. L'
+
+atteggiamento di un uomo saggio verso il capitalismo industriale sarà molto simile
+
+all'atteggiamento di [[Lincoln]] verso la [[Slavery|schiavitù]]. Ossia, riuscirà a sopportare
+
+il capitalismo; ma non sopporterà una difesa del capitalismo. Egli
+
+riconoscerà il valore non solo del sapere ciò che sta facendo, ma
+
+del sapere ciò che vorrebbe fare. Riconoscerà l'importanza di
+
+avere una cosa chiaramente etichettata nella propria mente come cattiva, molto prima che
+
+giunga l'occasione di abolirla. Potrà riconoscere il rischio di cose ancora
+
+peggiori in un'abolizione immediata, come [[Lincoln]] fece con l'abolizionismo. Non
+
+chiamerà bruti tutti gli uomini d'affari, non più di quanto [[Lincoln]] chiamerebbe tutti
 
 
 
@@ -26562,6 +37474,176 @@ ruffians; and who will not, I regret to say, by any means enjoy even
 being classed with Fenians and Sinn Feiners.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+demoni tutti i piantatori; perché sa che non lo sono. Considererà molte
+
+alternative al capitalismo come rozze e disumane, come [[Lincoln]] considerava
+
+l'incursione di John Brown; perché lo sono. Ma ripulirà la sua _mente_ dalle
+
+ipocrisie sul capitalismo; non avrà alcun [[Doubt|dubbio]] su quale sia la [[Truth|verità]] riguardo ai
+
+Trust e ai Cartelli Commerciali e alla concentrazione del capitale; ed è
+
+la [[Truth|verità]] che essi perdurano sotto uno degli ironici silenzi del cielo,
+
+al di sopra dei fasti e dei fugaci trionfi dell'inferno.
+
+Ma il nome di [[Lincoln]] ha un riferimento più immediato alle
+
+questioni internazionali che qui sto considerando. Il suo nome è stato molto
+
+invocato da politici e giornalisti inglesi in connessione con la
+
+contesa con l'Irlanda. E se studiamo la questione, difficilmente ammireremo
+
+il tatto e la saggezza di quei giornalisti e politici.
+
+La [[history|storia]] è un eterno groviglio di [[Cross|equivoci]]; e non potremmo prendere un
+
+caso più chiaro, o piuttosto un caso più complicato, di un simile groviglio, dei
+
+fatti che stanno dietro un parallelo politico recentemente menzionato da molti
+
+politici. Intendo il parallelo tra il movimento per l'indipendenza
+
+irlandese e il tentativo di secessione della Confederazione del Sud in
+
+[[America]]. Superficialmente chiunque potrebbe dire che il paragone è abbastanza
+
+naturale; e che c'è molto in comune tra la contesa del
+
+Nord e del Sud in Irlanda e la contesa del Nord e del Sud in
+
+[[America]]. In entrambi i casi il Sud era nel complesso agricolo, il
+
+Nord nel complesso industriale. Vero, il parallelo esagera la
+
+posizione di Belfast; per completarlo dobbiamo supporre che l'intero sistema Federale
+
+sia consistito in Pittsburg. In entrambi la parte che ebbe più
+
+successo fu avvertita da molti come meno attraente. In entrambi si usarono gli stessi
+
+termini politici, come il termine '[[Union|Unione]]' e 'Unionismo.' Un
+
+inglese comune giunge in [[America]], conoscendo queste linee principali della
+
+[[history|storia]] americana, e sapendo che l'americano conosce le simili linee principali
+
+della [[history|storia]] irlandese. Sa che vi sono strenui campioni dell'
+
+Irlanda in [[America]]; forse sa anche che vi sono campioni assai genuini
+
+dell'Inghilterra in [[America]]. Per ogni possibile analogia storica,
+
+si aspetterebbe naturalmente di trovare i filo-irlandesi al Sud e i
+
+filo-inglesi al Nord. Di fatto, trova quasi esattamente
+
+l'opposto. Trova Boston governata da irlandesi, e Nashville
+
+abitata da gente più filo-inglese degli inglesi. Trova virginiani
+
+non solo di [[Blood|sangue]] britannico, come George Washington, ma di opinioni britanniche
+
+quasi degne di Giorgio III.
+
+Ma non dico questo, come si vedrà tra un istante, come critica del
+
+comparativo torismo del Sud. Lo dico come critica della
+
+superlativa stupidità della propaganda inglese. In un'altra pagina osservo
+
+la necessità di un nuovo tipo di propaganda inglese; una propaganda che sia
+
+davvero inglese e abbia qualche remoto riferimento all'Inghilterra. Ora, se si
+
+trattasse di far sentire agli stranieri i veri umori e le vere umanità
+
+dell'Inghilterra, non ci sono americani tanto capaci o disposti a farlo quanto gli
+
+americani degli Stati del Sud. Come ho già accennato, alcuni di loro
+
+sono così leali verso le umanità inglesi, che ritengono loro dovere
+
+difendere perfino le disumanità inglesi. Il [[New England|New England]] si sta trasformando in Nuova
+
+Irlanda. Ma la Vecchia Inghilterra può ancora essere debolmente rintracciata nella Vecchia Dixie. Essa
+
+contiene alcune delle cose migliori che l'Inghilterra stessa ha avuto, e
+
+perciò (naturalmente) le cose che l'Inghilterra stessa ha perduto, o sta
+
+cercando di perdere. Ma soprattutto, come ho detto, vi sono persone in questi
+
+luoghi le cui memorie storiche e tradizioni familiari le legano davvero a
+
+noi, non per alleanza ma per affetto. Anzi, hanno l'affetto
+
+a dispetto dell'alleanza. Ci [[Love|amano]] a dispetto dei nostri complimenti e
+
+delle nostre cortesie e delle mani tese oltre il mare; tutti i nostri saluti e discorsi
+
+ambasciatoriali non possono uccidere il loro [[Love|amore]]. Riescono perfino a rispettarci
+
+a dispetto dei loschi agenti di cambio ebrei che mandiamo loro come inviati inglesi, o
+
+degli uomini 'efficienti', che vengono spediti a essere diplomatici con gli stranieri
+
+perché sono stati troppo indiplomatici con i sindacalisti. Questo tipo di
+
+americano tradizionale, del Nord o del Sud, ha davvero alcune tradizioni
+
+che lo legano all'Inghilterra; e benché sia ora in una piccolissima
+
+minoranza, non riesco a immaginare perché l'Inghilterra dovrebbe voler renderla più piccola.
+
+L'Inghilterra un tempo simpatizzò con il Sud. Il Sud simpatizza ancora
+
+con l'Inghilterra. Sembrerebbe che il Sud, o alcuni elementi del
+
+Sud, avessero piuttosto un vantaggio su di noi in fermezza e fedeltà
+
+politica; ma non ne consegue che quella fedeltà reggerà ogni
+
+urto. E in questo momento, e in questa faccenda, tra tutte le cose al
+
+mondo, i nostri propagandisti politici devono cercare di puntellare l'Imperialismo
+
+britannico prendendo a calci la Secessione del Sud ora che è a terra. I
+
+politici inglesi fanno ansiosamente notare che saremo giustificati nello
+
+schiacciare l'Irlanda esattamente come Sumner e Stevens schiacciarono la parte più inglese
+
+dell'[[America]]. Non pare venir loro in mente che questo paragone
+
+tra il trionfo unionista in [[America]] e un trionfo unionista in
+
+Gran Bretagna è piuttosto duro verso i nostri particolari simpatizzanti, che non
+
+trionfarono. Quando l'Inghilterra esulta per la vittoria di [[Lincoln]] sui suoi nemici, sta
+
+esultando per la sua vittoria sui propri amici. Se la sua diplomazia continua
+
+delicata e cavalleresca com'è al presente, essi potrebbero presto essere i suoi
+
+soli amici. L'Inghilterra si starà difendendo a spese dei suoi
+
+soli difensori. Ma comunque stiano le cose, è [[Well|bene]] recare testimonianza
+
+di alcuni elementi della mia stessa esperienza; e posso garantire almeno
+
+questo, che vi sono alcune persone nel Sud che non saranno
+
+liete di essere spazzate nel mucchio d'immondizia della [[history|storia]] come ribelli e
+
+furfanti; e che non gradiranno affatto, mi rincresce dirlo, nemmeno
+
+l'essere classificate con i Feniani e i Sinn Feiner.
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_67" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 67)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -26731,6 +37813,172 @@ different. And indeed the whole conversation is rather like some such
 
 [[Cross|cross]]-purposes about some such word as '[[Lincoln]]'; in which one party
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, quanto all'effettivo paragone tra la conquista della
+
+Confederazione e la conquista dell'Irlanda, vi sono, naturalmente, parecchie
+
+cose da dire che non ci si può aspettare che i politici
+
+comprendano. Strano a dirsi, non è certo che una causa perduta non
+
+valesse mai la pena di essere vinta; e sarebbe facile sostenere che il mondo perse
+
+moltissimo invero quando quella particolare causa fu perduta. Non sono giorni, questi,
+
+in cui sia proprio ovvio che una società agricola fosse più
+
+pericolosa di una industriale. E persino la [[Slavery|schiavitù]] del Sud aveva questo unico
+
+merito morale, di essere decadente; ha questo unico vantaggio storico,
+
+di essere morta. La [[Slavery|schiavitù]] del Nord, la [[Slavery|schiavitù]] industriale, o ciò che si
+
+chiama [[Slavery|schiavitù]] salariale, non sta decadendo ma aumentando; e la sua fine
+
+non è ancora giunta. Ma in ogni caso, sarebbe [[Well|bene]] che ci rendessimo conto che il
+
+rimprovero di somigliare alla Confederazione non risuona in tutte le orecchie come una
+
+condanna inconfutabile. È a stento un argomento [[Self|auto]]-evidente o sufficiente,
+
+per alcuni ascoltatori, anche solo a dimostrare che gli inglesi sono tanto
+
+delicati e filantropici quanto Sherman, e ancor meno che gli irlandesi sono tanto
+
+criminali e senza legge quanto Lee. Né placherà ogni singola [[Soul|anima]] sul
+
+continente americano dire che la vittoria inglese in Irlanda sarà
+
+seguita da una ricostruzione, come la ricostruzione mostrata nel
+
+film intitolato 'The Birth of a Nation.' E, invero, c'è un'ulteriore
+
+deduzione da quel bel panorama delle imprese del Ku-Klux Klan.
+
+Sarebbe facile, come dico, volgere l'argomento interamente a favore della
+
+Confederazione. Sarebbe facile trarne la morale, non che gli
+
+irlandesi del Sud abbiano torto quanto gli Stati del Sud, ma che gli
+
+Stati del Sud avessero ragione quanto gli irlandesi del Sud. Ma nel complesso,
+
+non sono incline ad accettare il parallelo in quel senso più di quanto lo accetti nel
+
+senso opposto. Per ragioni che ho già dato altrove,
+
+credo che nel complesso [[Abraham Lincoln]] avesse ragione. Ma ragione in che cosa?
+
+Se [[Lincoln]] aveva ragione, aveva ragione nell'intuire che non c'era
+
+davvero una nazione del Nord e una nazione del Sud, ma solo un'unica nazione
+
+americana. E se gli è stata data ragione, gli è stata data ragione dal
+
+fatto che gli uomini del Sud, come [[Well|pure]] quelli del Nord, provano ora un
+
+patriottismo per quella nazione americana. La sua saggezza, se davvero fu
+
+saggezza, fu giustificata non dal fatto che i suoi avversari furono conquistati, ma dal loro
+
+essere convertiti. Ora, se i politici inglesi devono insistere su questo
+
+parallelo, dovrebbero vedere che il parallelo è fatale a loro stessi.
+
+La prova stessa che diede ragione a [[Lincoln]] ha dato loro torto. Il giudizio
+
+stesso che può averlo giustificato, senza dubbio li condanna
+
+senza appello. Abbiamo conquistato l'Irlanda ancora e ancora, e non ci siamo mai avvicinati di un
+
+pollice a convertire l'Irlanda. Non abbiamo avuto una sola Gettysburg, ma
+
+venti Gettysburg; ma non abbiamo avuto alcuna [[Union|Unione]]. Ed è qui che, come ho
+
+osservato, è pertinente ricordare quella volante fantastica visione
+
+sulla pellicola che disse a tante persone ciò che nessuna storia ha detto loro.
+
+Udii, quando ero in [[America]], voci della locale ricomparsa del
+
+Ku-Klux Klan; ma la piccolezza e mitezza della manifestazione,
+
+paragonata al vecchio caso del Sud o al nuovo caso irlandese, è da [[Alone|sola]] un
+
+esempio sufficiente dell'eccezione che conferma la regola. Per avvicinarsi
+
+a una qualche somiglianza con i recenti eventi irlandesi, dobbiamo immaginare il Ku-Klux
+
+Klan che cavalca di nuovo in più dei terrori di quella visione, selvaggio come il
+
+[[Wind|vento]], bianco come la [[Moon|luna]], terribile come un esercito con le sue insegne. Se ci fosse
+
+davvero un simile risorgere dell'azione del Sud, ci sarebbe del pari un
+
+risorgere dell'argomento del Sud. Sarebbe chiaro che Lee aveva ragione
+
+e [[Lincoln]] torto; che gli Stati del Sud erano nazionali ed erano
+
+indistruttibili quanto le nazioni. Se il Sud fosse tanto ribelle quanto
+
+l'Irlanda, il Nord avrebbe torto quanto l'Inghilterra.
+
+Ma io [[Desire|desidero]] una nuova diplomazia inglese che esibisca, non le cose
+
+in cui l'Inghilterra ha torto, ma le cose in cui l'Inghilterra ha ragione. E
+
+l'Inghilterra ha ragione in Inghilterra, proprio com'ha torto in Irlanda; ed è
+
+esattamente quella rettitudine di una vera nazione in se stessa che è insieme
+
+più difficile e più desiderabile spiegare agli stranieri. Ora l'
+
+irlandese, e in una certa misura l'americano, è rimasto estraneo all'
+
+Inghilterra, in gran parte perché non comprende davvero che l'inglese
+
+ama l'Inghilterra, e ancor meno può davvero immaginare perché l'inglese ami
+
+l'Inghilterra. Ecco perché insisto sulla stupidità dell'ignorare e insultare
+
+le opinioni di quei pochi virginiani e altri meridionali che davvero
+
+hanno una qualche nozione ereditata del perché gli inglesi [[Love|amino]] l'Inghilterra; e la [[Love|amino]]
+
+perfino essi stessi in qualcosa dello stesso modo. I politici che non
+
+riconoscono lo spirito inglese quando lo vedono in [[Home|patria]], non ci si può naturalmente
+
+aspettare che lo riconoscano all'estero. I pubblicisti stanno eloquentemente lodando
+
+[[Abraham Lincoln]], per tutte le ragioni sbagliate; ma fondamentalmente per quella
+
+peggiore e più vile di tutte le ragioni--che ebbe successo. Nessuno di loro pare
+
+avere la minima nozione di come cercare l'Inghilterra in Inghilterra; ed
+
+vedrebbero qualcosa di fantastico nella figura di un viaggiatore che la trovasse
+
+altrove, o ovunque tranne che nel [[New England|New England]]. Ed è [[Well|bene]], forse, che
+
+non abbiano ancora trovato l'Inghilterra là dov'è nascosta in Inghilterra; poiché se
+
+la trovassero, la ucciderebbero.
+
+Tutto ciò di cui mi preme trattare qui è l'inevitabile fallimento di questo
+
+genere di propaganda anglo-americana nel creare un'[[Friendship|amicizia]]. Lodare
+
+[[Lincoln]] come inglese è più o meno appropriato quanto se lodassimo
+
+[[Lincoln]] come una città inglese. Stiamo parlando di qualcosa di totalmente
+
+diverso. E invero l'intera conversazione somiglia piuttosto a un qualche simile
+
+[[Cross|equivoco]] su una qualche simile parola come '[[Lincoln]]'; in cui una parte
 
 
 
@@ -26906,6 +38154,176 @@ arms against each other. They could get there very quickly when Nelson
 went down by that Burford Inn to embark for Trafalgar; they could get
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+dovrebbe parlare del Presidente e l'altro della [[Cathedral|cattedrale]].
+
+È come un delirante smarrimento da farsa, con un uomo che si domanda come
+
+un Presidente possa avere una guglia di chiesa, e l'altro che si domanda come una
+
+chiesa possa avere un pizzetto. E la morale è la morale sulla quale io
+
+insisterei ovunque in questo libro; che il rimedio si trova nel
+
+districare i due e non nell'ingarbugliarli ulteriormente. Non si potrebbe
+
+produrre un democratico del tipo logico di [[Lincoln]] semplicemente con i
+
+materiali morali che oggi compongono una città con [[Cathedral|cattedrale]] inglese, come quella su
+
+cui Old Tom di [[Lincoln]] volge lo sguardo. Ma d'altro canto, è del tutto
+
+certo che cento Abraham Lincoln, lavorando per cento anni,
+
+non potrebbero costruire la [[Cathedral|cattedrale]] di [[Lincoln]]. E la farsesca [[Allegory|allegoria]] di un
+
+tentativo di far abbracciare Old Tom e Old Abe alla gloria della
+
+illogica lingua anglosassone non è che un simbolo di qualcosa che viene
+
+sempre tentato, e sempre tentato invano. Non è tramite
+
+la reciproca [[Imitation|imitazione]] che può nascere la comprensione. Non è erigendo
+
+grattacieli di [[New York]] a [[London|Londra]] che [[New York]] può apprendere il sacro
+
+significato delle torri di [[Lincoln]]. Non è tramite duchi inglesi
+
+che importano le figlie dei milionari americani che l'Inghilterra può cogliere
+
+un qualche barlume della dignità democratica degli uomini americani. Ho le migliori
+
+di tutte le ragioni per sapere che uno straniero può essere accolto in [[America]];
+
+e proprio come in quel paese viene trattato con cortesia in quanto straniero, così
+
+egli dovrebbe sempre aver cura di trattarlo come una terra straniera. Quella sorta di
+
+rispetto immaginativo, come per qualcosa di diverso e persino distante, è il
+
+solo inizio di qualsiasi legame tra popoli patriottici. Il
+
+viaggiatore inglese può portare con sé almeno una parola della propria grande lingua
+
+e letteratura; e ogni volta che è incline a dire di qualcosa 'Questo è
+
+oltremodo strano', può ricordare che fu un non trascurabile
+
+inglese ad apporvi la risposta, 'E dunque come a uno straniero
+
+dàgli il benvenuto.'
+
+_Wells e lo Stato Mondiale_
+
+Vi fu di recente un consesso assai illustre per celebrare i
+
+passati, presenti e soprattutto futuri trionfi dell'aviazione. Alcuni tra gli
+
+uomini più brillanti dell'epoca, come il signor H. G. Wells e il signor J. L.
+
+Garvin, tennero discorsi interessanti e importanti, e molti scienziati
+
+aviatori discussero luminosamente la nuova scienza. Tra le loro garbate
+
+felicitazioni e le loro [[Grave|gravi]] e pacate analisi fu detta una parola, o suonata una nota
+
+che io stesso non riesco mai a udire, nemmeno nel più innocuo
+
+discorso da dopocena, senza l'impulso di balzare in piedi e urlare, e fracassare
+
+le caraffe e devastare la tavola.
+
+Molto tempo fa, quando ero ragazzo, la udii con furia; e mai da allora sono
+
+riuscito a capire come un uomo libero possa udirla senza furia. La udii
+
+quando Bloch, e i vecchi profeti del pacifismo per panico, predicavano che la guerra
+
+sarebbe divenuta troppo orribile perché i patrioti la sopportassero. Mi suonava come
+
+il dire che uno strumento di tortura veniva preparato dal mio dentista,
+
+tale da guarirmi finalmente dall'amare il mio cane. E lo provai di nuovo quando
+
+tutte queste persone sagge e [[Well|bene]]-intenzionate cominciarono a parlare dell'
+
+inevitabile effetto dell'aviazione nel gettare un ponte sull'Atlantico, e stabilire
+
+alleanza e affetto tra l'Inghilterra e l'[[America]].
+
+Mi indispone l'idea che una [[Machine|macchina]] possa rendermi cattivo. Ma mi indispone
+
+in egual misura l'idea che una [[Machine|macchina]] possa rendermi buono. Potrebbe
+
+essere l'infelice fatto che un raffreddamento fosse sorto tra me e
+
+il signor Fitzarlington Blenkinsop, che abita la villa suburbana e il [[Garden|giardino]]
+
+accanto ai miei; e potrei persino esserne in gran parte colpevole. Ma se
+
+qualcuno mi dicesse che un nuovo tipo di tosaerba è appena stato inventato,
+
+di struttura tanto ingegnosa da costringermi a diventare un
+
+amico del cuore del signor Blenkinsop, che mi garbasse o no, ne sarei
+
+molto seccato. Sarei spinto a dire che, se quello fosse l'unico
+
+modo di tagliare la mia erba, non taglierei la mia erba, ma continuerei a tagliare il mio
+
+vicino. O si supponga che il dissidio fosse ancor meno difendibile; si supponga
+
+che un uomo avesse patito un banale battibecco con la moglie. E si supponga
+
+che qualcuno gli dicesse che l'introduzione di un aspirapolvere
+
+del tutto nuovo lo costringerebbe a una riluttante [[Reconciliation|riconciliazione]] con la
+
+moglie. Si scoprirebbe, immagino, che la [[Nature|natura]] umana aborre quel vuoto.
+
+Esseri umani ragionevolmente animosi non si lasceranno comandare da biciclette
+
+e macchine da cucire; e un uomo sano di mente non sarà reso buono, e tanto [[Alone|meno]]
+
+cattivo, dalle cose che egli stesso ha fatto. Ho talvolta dettato a
+
+una macchina da scrivere, ma non mi farò dettar legge da una macchina da scrivere, foss'anche del
+
+più nuovo e complicato meccanismo; né ho mai incontrato una macchina da scrivere,
+
+per quanto complessa, che tentasse una simile tirannia.
+
+Eppure questo e null'altro è ciò che è sottinteso in tutti questi discorsi sull'
+
+aeroplano che annienta le distinzioni così [[Well|come]] le distanze; e su un'
+
+aviazione internazionale che abolisce le nazionalità. Questo e null'altro
+
+era davvero sottinteso nella previsione di un oratore, secondo cui tale aviazione
+
+renderà quasi necessaria un'[[Friendship|amicizia]] anglo-americana. Per inciso, posso
+
+osservare, non è un'affermazione vera nemmeno in senso pratico e
+
+materialistico; e la frase dell'oratore confutava l'argomento
+
+dell'oratore. Egli disse che le relazioni internazionali devono essere più amichevoli
+
+quando gli uomini possono andare dall'Inghilterra all'[[America]] in un giorno. [[Well|Ebbene]], gli uomini possono già
+
+andare dall'Inghilterra alla [[Germany|Germania]] in un giorno; e il risultato fu un reciproco
+
+invito le cui formalità durarono cinque anni. Gli uomini potevano andare
+
+dalla costa dell'Inghilterra alla costa della Francia molto rapidamente, attraverso
+
+quasi tutte le epoche durante le quali quelle due coste erano irte di
+
+armi l'una contro l'altra. Potevano arrivarci molto rapidamente quando Nelson
+
+scese fino a quella locanda Burford per imbarcarsi verso Trafalgar; potevano arrivare
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_69" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 69)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -27077,6 +38495,174 @@ American States have such a peace, and by adding, truly enough, that
 
 another turn of [[history]] might easily have seen them broken up by war.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+arrivarci molto rapidamente quando Napoleone sedeva nella sua tenda in quel campo a
+
+Boulogne che riempì l'Inghilterra di allarmi d'invasione. Sono queste le
+
+amabili e pacifiche relazioni che uniranno l'Inghilterra e l'[[America]], quando
+
+gli inglesi potranno raggiungere l'[[America]] in un giorno? L'accorciarsi della distanza
+
+sembra altrettanto probabile, per quel che vale quell'argomento, che agevoli quell'
+
+interminabile guerriglia che infuriava attraverso gli stretti mari nel
+
+Medioevo; quando gli invasori francesi portarono via [[The Bells|le campane]] di Rye, e gli
+
+uomini di quelle pianure dell'East Sussex gloriosamente li inseguirono e le recuperarono.
+
+Non so se i corsari americani, sbarcando a Liverpool,
+
+porterebbero via qualcuna delle più eleganti ciminiere di fabbrica in sostituzione
+
+dei simboli superstiziosi del passato. Non so se gli inglesi, dopo
+
+matura riflessione, si [[Essay|cimenterebbero]] con qualche entusiasmo nel riaverle. Ma
+
+in ogni caso è tutt'altro che [[Self|auto]]-evidente che i popoli non possano combattersi
+
+l'un l'altro perché sono vicini l'un l'altro; e se fosse vero, non vi
+
+sarebbe mai stata al mondo una cosa come la guerra di confine. Di
+
+fatto, la guerra di confine è stata spesso l'unica specie di guerra che
+
+era più difficile tenere sotto controllo. E la nostra stessa tradizionale
+
+posizione di fronte a questa nuova [[logic|logica]] è alquanto sconcertante. Ci siamo
+
+sempre creduti più sicuri perché eravamo insulari e quindi
+
+isolati. Ci siamo congratulati con noi stessi per secoli di aver
+
+goduto la pace perché eravamo tagliati fuori dai nostri vicini. E ora essi
+
+ci dicono che godremo la pace solo quando saremo congiunti ai
+
+nostri vicini. Abbiamo compatito le povere nazioni con frontiere, perché
+
+una frontiera produce solo scontri; e ora ci affidiamo a una frontiera
+
+come all'unica cosa che produrrà [[Friendship|amicizia]]. Ma, a dire il
+
+vero, e per una ragione assai più profonda e spirituale, una frontiera non
+
+produrrà [[Friendship|amicizia]]. Solo la cordialità produce [[Friendship|amicizia]]. E dobbiamo
+
+guardare assai più a fondo nell'[[Soul|anima]] dell'uomo per ciò che produce
+
+la cordialità.
+
+Ma a parte questa fallacia sui fatti, provo, come dico, una forte
+
+collera astratta contro l'idea, o ciò che alcuni chiamerebbero l'ideale. Se
+
+fosse vero che gli uomini possono essere istruiti e ammansiti dalle macchine, anche
+
+se fossero istruiti alla saggezza o ammansiti all'amabilità, lo riterrei la
+
+più tragica [[Truth|verità]] del mondo. Un uomo così migliorato starebbe, in un
+
+senso oltremodo brutto, perdendo la propria [[Soul|anima]] per salvarla. Ma in [[Truth|verità]] egli
+
+non può essere così completamente costretto al bene; e nella misura in cui è
+
+costretto in modo incompleto, è altrettanto probabile che sia costretto al male. Dei
+
+personaggi della finanza che figurano come filantropi e filosofi
+
+in casi simili, è rigorosamente vero dire che il loro bene è male. La
+
+luce nei loro corpi è tenebra, e i più alti fini di tali uomini
+
+sono i più bassi fini degli uomini comuni. La loro pace è mera sicurezza,
+
+la loro [[Friendship|amicizia]] è mero commercio; la loro [[Friendship|amicizia]] internazionale è mero
+
+commercio internazionale. Il meglio che possiamo dire di quella scuola di capitalismo è
+
+che fallirà. Ha ogni altro vizio, ma non è
+
+pratica. Ha almeno l'impossibilità dell'idealismo; e per quanto
+
+la lontananza possa portarla, quell'Inferno è davvero un'Utopia. Tutte le
+
+manifestazioni visibili di questi uomini sono materialistiche; ma almeno
+
+le loro visioni non si materializzeranno. Il peggio lo patiamo; ma il meglio
+
+in ogni caso lo scamperemo. Possiamo continuare a sopportare le realtà del
+
+capitalismo cosmopolita; ma ci saranno risparmiati i suoi ideali.
+
+Ma non è dei plutocrati che m'interesso in primo luogo, la cui visione assume
+
+una forma tanto volgare. M'interesso della stessa cosa quando assume una forma assai
+
+più sottile, in uomini di genio e di genuino entusiasmo sociale come
+
+il signor H. G. Wells. Sarebbe assai ingiusto verso un uomo come il signor Wells
+
+insinuare che nella sua visione l'inglese e l'americano debbano
+
+abbracciarsi soltanto nel senso di aggrapparsi l'uno all'altro nel terrore. È un
+
+uomo che comprende che cosa sia l'[[Friendship|amicizia]], e che sa godere dei
+
+variopinti umori dell'umanità. Ma la ricostruzione politica che egli
+
+propone è troppo determinata da questo vecchio [[nightmare|incubo]] del
+
+necessitarismo. Ci dice che le nostre dignità e differenze
+
+nazionali devono essere fuse nell'enorme stampo di uno Stato Mondiale, oppure
+
+(e credo siano quasi le sue stesse parole) saremo distrutti dagli
+
+strumenti e dai macchinari che noi stessi abbiamo fatto. In effetti, gli uomini
+
+devono abbandonare il patriottismo o saranno assassinati dalla scienza. Dopo di ciò,
+
+certo nessuno può accusare il signor Wells di un'indebita tenerezza verso l'istruzione scientifica
+
+rispetto ad altri tipi d'istruzione. Il greco può essere una buona cosa o no; ma
+
+nessuno dice che se l'erudizione greca è spinta oltre un certo punto,
+
+tutti saranno fatti a pezzi come Orfeo, o arsi come Semele,
+
+o avvelenati come Socrate. La [[philosophy|filosofia]], la teologia e la [[logic|logica]] possono o meno
+
+essere oziosi studi accademici; ma nessuno suppone che lo studio della
+
+[[philosophy|filosofia]], o persino della teologia, costringa in ultimo i suoi studenti a
+
+fabbricare cavalletti e schiacciapollici contro la loro volontà; o che persino
+
+i logici debbano essere così allarmantemente logici. La scienza sembra essere
+
+l'unico ramo del sapere in cui si deve respingere la gente dalla
+
+perfezione come da una pestilenza. Ma non è dei pericoli scientifici
+
+che allarmano il signor Wells che mi occupo, bensì del rimedio che egli
+
+propone per essi; o piuttosto della relazione di quel rimedio con il
+
+fondamento e il futuro dell'[[America]]. Ora non è troppo dire che
+
+il signor Wells trova il suo modello nell'[[America]]. Lo Stato Mondiale dev'essere gli
+
+Stati Uniti del Mondo. Egli risponde a quasi tutte le obiezioni sulla
+
+praticabilità di una simile pace tra Stati, facendo notare che gli
+
+Stati americani hanno una simile pace, e aggiungendo, abbastanza veracemente, che
+
+un altro corso della [[history|storia]] avrebbe potuto facilmente vederli disgregati dalla guerra.
 
 
 
@@ -27252,6 +38838,176 @@ admire them as the World State is quite another. The attempt of Mr.
 Wells to make [[America]] a sort of model for the federation of all the free
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il modello dello Stato Mondiale è da rinvenirsi nel Nuovo Mondo.
+
+Stranamente, a quanto mi pare, egli propone conquiste quasi cosmiche per
+
+la Costituzione americana, tralasciando la cosa di maggior successo
+
+in quella Costituzione. Il punto emerse in risposta a una domanda che
+
+molti, come me, devono aver posto in questa faccenda; la questione del
+
+dispotismo e della [[Democracy|democrazia]]. Non riesco a capire un democratico che non veda il
+
+pericolo di un sistema di [[government|governo]] tanto distante e indiretto. È già
+
+abbastanza difficile ovunque far sì che i rappresentanti rappresentino. È già abbastanza difficile
+
+far sì che un piccolo consiglio comunale esaudisca i desideri di una piccola città,
+
+anche quando i cittadini incontrano i consiglieri comunali ogni giorno per
+
+strada, e potrebbero prenderli a calci giù per la strada se volessero. Come sarebbero gli stessi
+
+consiglieri comunali se governassero tutti i loro
+
+simili dal Polo Nord o dalla Nuova Gerusalemme, è una visione
+
+di dispotismo orientale al di là delle torreggianti fantasie di Tamerlano. Questa
+
+difficoltà in ogni [[government|governo]] rappresentativo si avverte dappertutto, e non
+
+meno che in [[America]]. Ma credo che se c'è una [[Truth|verità]] evidente in
+
+una simile scelta di mali, è che la monarchia è almeno migliore dell'
+
+oligarchia; e che dove dobbiamo agire su vasta scala, la più
+
+genuina popolarità può raccogliersi attorno a una persona particolare come un Papa o un
+
+Presidente degli Stati Uniti, o persino un dittatore come Cesare o
+
+Napoleone, piuttosto che attorno a un comitato più o meno corrotto che
+
+può solo definirsi un'oscura oligarchia. E in tal senso ogni oligarchia
+
+è oscura. Perché la gente continui a fidarsi di ventisette uomini è
+
+necessario, come formalità preliminare, che la gente abbia sentito parlare di
+
+loro. E non vi sono ventisette uomini di cui tutti abbiano sentito parlare come
+
+tutti in Francia avevano sentito parlare di Napoleone, come tutti i cattolici hanno sentito parlare
+
+del Papa o tutti gli americani hanno sentito parlare del Presidente. Credo che la
+
+massa degli americani comuni elegga davvero il proprio Presidente; e anche
+
+dove non possono controllarlo almeno lo sorvegliano, e alla
+
+lunga lo giudicano. Credo, dunque, che la Costituzione americana
+
+abbia una vera istituzione popolare nella Presidenza. Ma il signor Wells
+
+parrebbe volere la Costituzione americana senza la Presidenza. Se
+
+comprendo bene le sue parole, sembra volere la grande [[Democracy|democrazia]]
+
+senza la sua istituzione popolare. Alludendo a questo pericolo, che lo
+
+Stato Mondiale possa essere una tirannia mondiale, egli sembra intendere la tirannia interamente
+
+nel senso di autocrazia. Chiede se il Presidente dello Stato
+
+Mondiale non sarebbe una persona piuttosto troppo formidabile, e sembra suggerire
+
+in risposta che non occorra nemmeno una simile persona. Sembra sottintendere
+
+che il comitato che controlla il pianeta possa riunirsi quasi senza alcuno
+
+alla presidenza, di certo senza alcuno sul trono. Non riesco a
+
+immaginare nulla di più manifestamente fatto per essere una tirannia di una simile
+
+aristocrazia acefala. Ma per quanto la decisione del signor Wells mi paia
+
+strana, la sua ragione per essa mi pare ancor più straordinaria.
+
+Egli suggerisce che nessun simile dittatore sarà necessario nel suo Stato Mondiale
+
+perché 'non vi saranno guerre né diplomazia.' Uno Stato Mondiale dovrebbe
+
+senza dubbio girare attorno al mondo; e girare attorno al mondo sembra essere un
+
+buon esercizio per argomentare in circolo. Ovviamente non vi saranno guerre
+
+né diplomazia di guerra se qualcosa ha il potere d'impedirle; e non
+
+possiamo dedurne che quel qualcosa non vorrà alcun potere. È piuttosto
+
+come se qualcuno, sostenendo che i tedeschi potessero essere sconfitti solo
+
+unendo i comandi alleati sotto il maresciallo Foch, avesse detto che dopotutto
+
+ciò non doveva offendere i generali britannici perché la supremazia francese
+
+sarebbe stata solo una finzione, essendo i tedeschi sconfitti. Diremmo naturalmente
+
+che la sconfitta tedesca sarebbe stata una realtà solo perché il comando
+
+alleato non era una finzione. Così la pace universale sarebbe una
+
+realtà solo se lo Stato Mondiale non fosse una finzione. E non potrebbe essere nemmeno
+
+uno Stato se non fosse un [[government|governo]]. Questo argomento equivale a dire,
+
+primo che lo Stato Mondiale sarà necessario perché è forte, e
+
+poi che può tranquillamente essere debole perché non sarà necessario.
+
+L'internazionalismo è in ogni caso ostile alla [[Democracy|democrazia]]. Non dico che sia
+
+incompatibile con essa; ma qualunque combinazione dei due sarà un
+
+compromesso tra i due. L'unico [[government|governo]] puramente popolare è locale,
+
+e fondato sulla conoscenza locale. I cittadini possono governare la [[City|città]] perché
+
+conoscono la [[City|città]]; ma sarà sempre un tipo eccezionale di cittadino
+
+colui che ha o pretende il diritto di governare dieci città, e queste remote
+
+e del tutto estranee città. Tutti gli irlandesi conoscono grosso modo lo stesso genere
+
+di cose sull'Irlanda; ma è assurdo dire che conoscano tutti le stesse
+
+cose sull'Islanda, quando tra loro vi possono essere uno studioso imbevuto di
+
+saghe islandesi o un marinaio che è stato in Islanda. Rendere tutta la
+
+politica cosmopolita significa creare un'aristocrazia di giramondo. Se
+
+la tua visione politica abbraccia davvero le Isole dei Cannibali, dipendi
+
+di necessità da una minoranza superiore e scelta di coloro che sono
+
+stati alle Isole dei Cannibali; o piuttosto dalla minoranza ancora più piccola e più
+
+selezionata di coloro che ne sono tornati.
+
+Data questa difficoltà riguardo a una [[Democracy|democrazia]] del tutto diretta su vaste aree,
+
+penso che la cosa più vicina alla [[Democracy|democrazia]] sia il dispotismo. In ogni caso penso
+
+che sia una sorta di monarchia più o meno indipendente, come quella che Andrew
+
+Jackson creò in [[America]]. E credo sia vero dire che i due
+
+uomini che il mondo moderno davvero e quasi con riluttanza guarda con
+
+rispetto impersonale, come rivestiti dalla loro carica di qualcosa di storico
+
+e onorevole, sono il Papa e il Presidente degli Stati Uniti.
+
+Ma ammirare gli Stati Uniti come gli Stati Uniti è una cosa. Ammirarli
+
+come lo Stato Mondiale è tutt'altra. Il tentativo del signor
+
+Wells di fare dell'[[America]] una sorta di modello per la federazione di tutte le libere
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_71" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 71)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -27424,6 +39180,174 @@ peasants. The Capitalists are quite likely to call in Labour Leaders to
 whitewash their compromise as social [[Reform|reform]] or even Socialism. The
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+nazioni della terra, benché internazionale nell'intenzione, è in realtà
+
+tanto grettamente nazionale, nel senso cattivo, quanto il [[Desire|desiderio]] del signor Kipling di
+
+coprire il mondo con l'imperialismo britannico, o del professor Treitschke di
+
+coprirlo con il pangermanesimo prussiano. Non essendo scolaretti, non
+
+crediamo più che tutto si possa risolvere dipingendo di rosso la carta geografica. Né
+
+credo si possa fare dipingendola di blu con macchie bianche, anche se
+
+le chiamano [[Stars|stelle]]. L'insufficienza dell'imperialismo britannico non
+
+risiede nel fatto che sia sempre stato applicato con la forza delle armi. Di
+
+fatto, non lo è stato. È stato realizzato in gran parte dal commercio, dalla
+
+colonizzazione di luoghi comparativamente vuoti, dalla scoperta geografica
+
+e dal patto diplomatico. Che lo si consideri lode o biasimo, è
+
+certamente la [[Truth|verità]] che fra tutte le cose che si sono
+
+chiamate imperi, quello britannico è stato forse il meno puramente
+
+militare, e ha meno tanto della speciale [[Guilt|colpa]] quanto della speciale gloria
+
+che accompagnano il militarismo. L'insufficienza dell'imperialismo britannico
+
+non è che sia imperiale, e tanto [[Alone|meno]] militare. L'insufficienza dell'
+
+imperialismo britannico è che è britannico; quando non è meramente ebraico.
+
+È che proprio come un uomo non è più di un uomo, così una nazione non è più
+
+di una nazione; e nessuna nazione è adeguata come modello internazionale.
+
+Ogni Stato appare piccolo quando occupa l'intera terra. Ogni ordinamento è
+
+angusto non appena è largo quanto il mondo. Sarebbe esattamente lo stesso
+
+se l'Irlanda cominciasse a dipingere di verde la carta o il Montenegro la dipingesse
+
+di nero. L'obiezione allo spargere qualcosa su tutto il mondo è che,
+
+tra le altre cose, si è costretti a spanderla assai sottile.
+
+Ma l'[[America]], che il signor Wells prende come modello, è in un altro senso
+
+piuttosto un monito. Il signor Wells dice con molta verità che vi fu un momento nella
+
+[[history|storia]] in cui l'[[America]] avrebbe [[Well|ben]] potuto disgregarsi in Stati indipendenti
+
+come quelli d'Europa. Sembra dare per scontato che sia stato per ogni
+
+riguardo un vantaggio che ciò sia stato evitato. Eppure vi è di certo un argomento,
+
+per quanto blandamente lo poniamo, a favore di una certa importanza nel mondo che ancora
+
+si annette all'Europa. Vi è chi trova la Francia interessante quanto la
+
+Florida; e chi pensa di poter apprendere altrettanto sulla [[history|storia]] e sull'umanità
+
+nelle città di marmo del Mediterraneo quanto nelle città di legno del
+
+Medio West. L'Europa sarà stata divisa, ma non fu certamente
+
+distrutta; né la sua peculiare posizione nella cultura del mondo è stata
+
+distrutta. Nulla è ancora comparso capace di eclissarla completamente,
+
+né nella sua estensione in [[America]] né nella sua [[Imitation|imitazione]] in Giappone. Ma
+
+il punto immediato qui è forse più importante. Non vi è oggi
+
+alcun credo accolto come incarnazione del senso comune di tutta l'Europa, come il
+
+credo cattolico era accolto come sua incarnazione nei tempi medievali. Non vi è
+
+alcuna cultura largamente superiore a tutte le altre, come la cultura mediterranea
+
+era superiore a quella dei barbari in epoca romana. Se l'Europa fosse
+
+unificata in tempi moderni, sarebbe probabilmente per la vittoria di uno dei
+
+suoi tipi sugli altri, forse su tutti gli altri. E quando l'[[America]]
+
+fu unificata infine nel diciannovesimo secolo, lo _fu_ per la vittoria di
+
+uno dei suoi tipi sugli altri. Non è ancora certo che questa vittoria
+
+sia stata una buona cosa. Non è ancora certo che il mondo starà meglio
+
+per il trionfo del Nord sulle tradizioni del Sud dell'[[America]].
+
+Potrebbe ancora rivelarsi tanto infausto quanto un trionfo dei
+
+tedeschi del Nord sulle tradizioni del Sud della [[Germany|Germania]] e d'Europa.
+
+Gli uomini che non vogliono affrontare questo fatto sono uomini le cui menti non sono libere.
+
+Sono più schiacciati dal Progresso di qualsiasi pietista dalla [[Providence|Provvidenza]]. Non
+
+è loro concesso di dubitare che tutto quel che è recentemente accaduto fosse tutto
+
+per il meglio. Ora il Progresso è la [[Providence|Provvidenza]] senza Dio. Cioè, è una
+
+teoria secondo cui tutto è sempre perpetuamente andato per il verso giusto per caso. È
+
+una sorta di ottimismo ateo, fondato su una coincidenza perenne assai
+
+più miracolosa di un miracolo. Se non vi è alcun disegno, o se il
+
+disegno consente il libero arbitrio umano, allora in entrambi i casi è quasi
+
+follemente improbabile che vi sia nella [[history|storia]] un periodo di costante e
+
+ininterrotto progresso; ovvero, in altre parole, un periodo in cui la povera
+
+sconcertata umanità si muove in un caos di complicazioni, senza commettere
+
+un solo errore. Ciò che va martellato nella testa della maggior parte dei normali
+
+lettori di giornali oggi è che l'Uomo ha commesso moltissimi errori.
+
+L'Uomo moderno ha commesso moltissimi errori. Anzi, nel caso di quel
+
+carattere progressista e pioniere, si è talvolta tentati di dire
+
+che non ha commesso altro che errori. Il calvinismo fu un errore, e
+
+il capitalismo fu un errore, e il teutonismo e l'adulazione delle tribù
+
+nordiche furono errori. Nei francesi la persecuzione del cattolicesimo da parte
+
+dei politici fu un errore, come scoprirono nella Grande Guerra; quando
+
+il [[Memory|ricordo]] diede ai cattolici irlandesi o italiani un pretesto per tirarsi indietro.
+
+In Inghilterra la perdita dell'agricoltura e quindi dell'approvvigionamento alimentare in guerra,
+
+e della capacità di sostenere un assedio, fu un errore. E in [[America]] l'
+
+introduzione dei negri fu un errore; ma potrebbe ancora scoprirsi che
+
+il sacrificio dell'uomo bianco del Sud in loro favore fu un errore ancora
+
+maggiore.
+
+La ragione di questo [[Doubt|dubbio]] è in una parola. Non abbiamo ancora visto la fine dell'
+
+intero esperimento industriale; e vi sono già segni che esso
+
+va a finir male. Può finire nel bolscevismo. È più probabile che finisca
+
+nello Stato Servile. Anzi, le due cose non sono così diverse come
+
+alcuni suppongono, e diventano meno diverse ogni giorno. I bolscevichi
+
+hanno già chiamato i capitalisti ad aiutarli a schiacciare i liberi
+
+contadini. È assai probabile che i capitalisti chiamino i leader sindacali a
+
+imbiancare il loro compromesso come [[Reform|riforma]] sociale o persino socialismo. I
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_72" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 72)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -27595,6 +39519,174 @@ by making it larger. And for this reason [[Alone|alone]] I should reject this
 
 second method of uniting England and [[America]]; which is not only
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+ebrei cosmopoliti che sono i comunisti in Oriente non troveranno poi così
+
+difficile venire a patti con gli ebrei cosmopoliti che sono
+
+capitalisti in Occidente. Gli ebrei occidentali sarebbero disposti ad ammettere un
+
+socialismo nominale. Gli ebrei orientali hanno già ammesso che il loro
+
+socialismo è nominale. Fu lo stesso capo bolscevico a dire,
+
+'La [[Russia]] è di nuovo un paese capitalista.' Ma chiunque stipuli il patto,
+
+e qualunque ne sia il preciso carattere, la sua sostanza sarà
+
+servile. Sarà servile nell'unico senso razionale e attendibile;
+
+vale a dire, un accordo per cui a una massa di uomini sono assicurati riparo e
+
+sostentamento, in cambio dell'essere sottoposti a una legge che li obbliga a
+
+continuare a lavorare. Naturalmente non sarà chiamato lo Stato Servile;
+
+è assai probabile che sarà chiamato lo Stato Socialista. Ma
+
+nessuno pare rendersi conto di quanto tutti i paesi industriali gli siano
+
+vicini. In qualsiasi momento può presentarsi nella semplice forma dell'arbitrato
+
+obbligatorio; poiché l'arbitrato obbligatorio applicato a datori di lavoro privati
+
+è per definizione [[Slavery|schiavitù]]. Quando gli operai ricevono un sussidio di disoccupazione, e nel
+
+medesimo [[Time|tempo]] suscitano sempre maggiore irritazione scioperando, può
+
+sembrare naturalissimo dar loro il sussidio di disoccupazione per sempre e vietar
+
+loro lo sciopero per sempre; e la combinazione di queste due cose è per
+
+definizione [[Slavery|schiavitù]]. E Trockij può battere qualsiasi magnate dei trust come un
+
+crumiro; poiché non pretende nemmeno che il suo lavoro obbligatorio
+
+sia un libero patto. Se Trockij e il magnate dei trust giungono a un compromesso
+
+operante, quel compromesso sarà uno Stato Servile. Ma sarà anche
+
+il supremo e di gran lunga il più costruttivo e conclusivo risultato del
+
+movimento industriale nella [[history|storia]]; del potere del macchinario o del denaro;
+
+delle enormi popolazioni delle città moderne; delle invenzioni scientifiche
+
+e delle risorse; di tutte le cose davanti a cui la società agricola
+
+della Confederazione del Sud crollò. Ma anche coloro che non riescono a vedere
+
+che il commercialismo possa finire nel trionfo della [[Slavery|schiavitù]] possono vedere che la
+
+vittoria del Nord è in gran parte finita nel trionfo del
+
+commercialismo. E il punto al momento è che ciò significò senza dubbio,
+
+anche al [[Time|tempo]], il trionfo di un tipo americano su un altro
+
+tipo americano; proprio quanto qualsiasi guerra europea potrebbe significare il trionfo
+
+di un tipo europeo su un altro. Una vittoria dell'Inghilterra sulla Francia
+
+sarebbe una vittoria di mercanti su contadini; e la vittoria dei
+
+nordisti sui sudisti fu una vittoria di mercanti su possidenti terrieri. Cosicché
+
+quella stessa [[unity|unità]], che il signor Wells contrappone così favorevolmente alla guerra,
+
+non solo era essa stessa dovuta a una guerra, ma a una guerra che ebbe uno dei più
+
+discutibili e persino perigliosi risultati della guerra. Quel risultato fu un
+
+mutamento nell'equilibrio di potere, la predominanza di un particolare
+
+socio, l'esaltazione di un particolare esempio, l'eclissi di
+
+eccellenti tradizioni quando gli sconfitti persero la loro influenza
+
+internazionale. In breve, fece esattamente lo stesso genere di differenza di
+
+cui parliamo quando diciamo che il 1870 fu un disastro per l'Europa, o che
+
+fu necessario combattere la Prussia affinché non prussianizzasse il mondo
+
+intero. L'[[America]] sarebbe stata assai diversa se la guida fosse
+
+rimasta alla Virginia. Il mondo sarebbe stato assai diverso se
+
+l'[[America]] fosse stata assai diversa. È del tutto ragionevole rallegrarsi che
+
+la questione sia andata come è andata; anzi, come ho spiegato altrove, per
+
+altre ragioni me ne rallegro nel complesso. Ma non è certo
+
+[[Self|auto]]-evidente che sia un motivo di gioia. Un tipo di Stato
+
+americano conquistò e soggiogò un altro tipo di Stato americano; e le
+
+virtù e il valore di quest'ultimo andarono in gran parte perduti per il mondo. Così
+
+se il signor Wells insiste sul parallelo di uno Stati Uniti d'Europa,
+
+deve accettare il parallelo di una Guerra Civile d'Europa. Deve supporre che
+
+i paesi contadini schiaccino i paesi industriali o viceversa; e
+
+che l'uno o l'altro di essi diventi la tradizione europea a scapito
+
+dell'altro. La situazione che pare soddisfarlo così pienamente in
+
+[[America]] è, dopotutto, la situazione che risulterebbe in Europa se gli
+
+Imperi germanici, poniamo, avessero interamente arrestato lo speciale
+
+sviluppo degli slavi; o se l'influenza della Francia si fosse davvero
+
+spezzata di netto sotto un colpo della Britannia. Il Vecchio Sud aveva qualità
+
+di umana civiltà che non sono sopravvissute a sufficienza; o in ogni
+
+caso non si sono diffuse a sufficienza. È vero che il declino del
+
+Sud agricolo è stato considerevolmente bilanciato dalla crescita dell'
+
+West agricolo. È vero, come ho occasione di sottolineare in
+
+un altro luogo, che il West dà davvero alla Nuova [[America]] qualcosa che è
+
+quasi un contadinato normale, come contrappeso alle città industriali. Ma
+
+questa non è una risposta; è piuttosto un rafforzamento dell'argomento. Nella
+
+misura in cui l'[[America]] è salva, è salva per il suo essere a chiazze; e sarebbe
+
+rovinata se la chiazza occidentale avesse la stessa sorte della chiazza meridionale.
+
+Tutto sommato, dunque, i vantaggi dell'unificazione americana non sono
+
+così certi da poterli applicare a un'unificazione mondiale. Il [[Doubt|dubbio]]
+
+potrebbe esprimersi in moltissimi modi e con moltissimi esempi.
+
+Del resto, si avverte già che la supremazia del
+
+Medio West in politica sta infliggendo ad altre località esattamente il
+
+genere d'ingiustizia locale che trasforma le province in nazioni che lottano per
+
+essere libere. Ha già inflitto ciò che equivale a una persecuzione religiosa,
+
+ovvero l'imposizione di una [[morality|moralità]] estranea, alla civiltà vinicola
+
+della California. In una parola, il sistema americano è buono per quel che
+
+sono i governi; ma è troppo grande, e il mondo non sarà migliorato
+
+rendendolo più grande. E per questa ragione [[Alone|soltanto]] respingerei questo
+
+secondo metodo di unire l'Inghilterra e l'[[America]]; che non solo
 
 
 
@@ -27770,6 +39862,176 @@ the Swiss climb [[Mountains|mountains]] better than the Dutch build dykes; just 
 nobody can argue about whether a triangle is more triangular than a
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+americanizza l'Inghilterra, ma americanizza ogni altra cosa.
+
+Ma la ragione essenziale è che un tipo di cultura ebbe la meglio in
+
+[[America]] e in Inghilterra nel diciannovesimo secolo, che non può e non
+
+sarebbe tollerato al vertice del mondo. Unire tutti i sistemi al
+
+vertice, senza migliorare e semplificare la loro organizzazione sociale in basso,
+
+sarebbe legare insieme tutte le cime degli alberi là dove si levano
+
+sopra una giungla fitta e velenosa, e rendere la giungla più buia di
+
+prima. Creare una simile piattaforma politica cosmopolita significherebbe
+
+costruire un tetto sopra le nostre teste per escludere la luce del sole, sul quale solo
+
+usurai e cospiratori vestiti d'oro potrebbero passeggiare al sole. Questo
+
+non è un momento in cui l'intellettualismo industriale possa infliggere al mondo una simile
+
+artificiale oppressione. L'industrialismo stesso comincia a
+
+vedere giorni cupi, e il suo futuro è assai incerto. È spaccato da un capo all'
+
+altro da scioperi e lotte per la vita economica, in cui i poveri non
+
+solo lamentano di morire di fame, ma persino i ricchi possono solo lamentare di
+
+essere in bancarotta. I contadinati diventano non solo più prosperi
+
+ma più efficaci politicamente; il mužik russo ha tenuto in scacco il
+
+[[government|Governo]] bolscevico di Mosca e Pietroburgo; un'enorme concessione è
+
+stata fatta dall'Inghilterra all'Irlanda; la Società delle Nazioni ha deciso a favore della
+
+Polonia contro la Prussia. Non è certo che l'industrialismo non
+
+appassisca persino nel suo stesso campo; è certo che le sue idee intellettuali
+
+non saranno lasciate coprire ogni campo; e questa sorta di cultura
+
+cosmopolita è una delle sue idee. L'industrialismo stesso può perire; oppure
+
+d'altro canto l'industrialismo stesso può sopravvivere, mediante qualche profonda e
+
+scientifica [[Reform|riforma]] che garantisca davvero la sicurezza economica a tutti.
+
+Può davvero purgarsi dei mali accidentali dell'anarchia e della
+
+carestia; e continuare come [[Machine|macchina]], ma almeno come una comparativamente pulita
+
+e umanamente protetta [[Machine|macchina]]; in ogni caso non più come una mangia-uomini
+
+[[Machine|macchina]]. Il capitalismo può liberarsi delle sue peggiori corruzioni con quella
+
+[[Reform|riforma]] che gli è accessibile; creando condizioni umane e salubri per il
+
+lavoro, e ponendo le classi lavoratrici a operare sotto una legge lucida e
+
+riconosciuta. Può fare di Pittsburgh una vasta fabbrica modello per tutti coloro che
+
+si modelleranno sulle fabbriche; e può dare a tutti gli uomini e le donne
+
+alle sue dipendenze uno status sociale chiaro in cui possano essere contenti
+
+e sicuri. E nel giorno in cui quella sicurezza sociale sarà stabilita per
+
+le masse, quando il capitalismo industriale avrà conseguito questa più ampia e più
+
+logica organizzazione e trovato pace alfine, uno strano, ombroso e
+
+ironico trionfo, come una scusa astratta, aleggerà di certo su tutte
+
+quelle tombe nella Wilderness dove giacevano le ossa di tanti valorosi
+
+gentiluomini; uomini che avevano anch'essi conosciuto e sostenuto fin dalla giovinezza una simile
+
+stratificazione sociale, che ebbero il [[Courage|coraggio]] di chiamare una vanga una vanga e uno
+
+schiavo uno schiavo.
+
+_Un nuovo Martin Chuzzlewit_
+
+Lo scopo di questo libro, se ne ha uno, è suggerire questa tesi; che il
+
+modo peggiore in assoluto di favorire l'[[Friendship|amicizia]] anglo-americana è essere un
+
+anglo-americano. Vi è una sola cosa più bassa, naturalmente, ossia essere
+
+un anglosassone. È più bassa, perché almeno gli inglesi esistono e
+
+gli americani esistono; ed è forse possibile, benché ripugnante, immaginare
+
+un americano e un inglese in qualche modo fusi insieme. Ma se
+
+gli Angli e i Sassoni mai esistettero, sono tutti fortunatamente morti ora; e
+
+la più sfrenata [[Imagination|immaginazione]] non può formarsi la più debole idea di che sorta di
+
+[[Monster|mostro]] risulterebbe dal mescolare l'uno con l'altro. Ma la mia tesi è
+
+che tutta la [[Hope|speranza]], e l'unica [[Hope|speranza]], sta non nel mescolare due cose
+
+insieme, ma piuttosto nel reciderle nettamente l'una dall'altra. Questo è il
+
+solo modo in cui due cose possono riuscire sufficientemente a uscire l'una fuori dall'
+
+altra per apprezzarsi e ammirarsi a vicenda. Finché sono
+
+diverse e tuttavia si presumono uguali, non può esservi altro che una
+
+mente divisa e un equilibrio vacillante. Può darsi che nel primo
+
+crepuscolo del [[Time|tempo]] l'uomo e la donna andassero attorno come un solo quadrupede. Ma se
+
+così fu, sono certo che era un quadrupede che s'impennava e scalciava e sparava
+
+calci in aria. Poi la fiammeggiante [[Sword|spada]] di qualche angelo li divise, ed
+
+essi si [[Love|innamorarono]] l'uno dell'altra.
+
+Qualora il lettore richieda un esempio un po' più entro la portata
+
+storica, o un po' più soggetto a verifiche critiche, del suddetto
+
+aneddoto preistorico (che, inutile dirlo, mi fu rivelato in una
+
+visione) sarebbe abbastanza facile fornirne sia in forma ipotetica
+
+sia in forma storica. È abbastanza ovvio in generale che se
+
+cominciamo a sottoporre paesi diversi a una prova identica, non vi sarà
+
+solo rivalità, ma ciò che è assai più letale e disastroso,
+
+superiorità. Se istituiamo una gara tra l'Olanda e la
+
+Svizzera quanto alla relativa grazia e agilità delle loro guide
+
+alpine, sarà chiaro che il verdetto è sproporzionatamente facile;
+
+sarà anche chiaro che certi fatti sulla configurazione dell'
+
+Olanda sono sfuggiti al nostro occhio internazionale. Se stabiliamo un confronto
+
+tra esse quanto ad abilità e operosità nell'arte di costruire dighe contro
+
+il mare, sarà egualmente chiaro che l'ingiustizia cade dall'altra
+
+parte; sarà anche chiaro che la posizione della Svizzera sulla carta
+
+ha ricevuto uno studio insufficiente. In entrambi i casi non vi sarà solo
+
+rivalità ma una rivalità assai squilibrata e ingiusta; in entrambi i casi,
+
+dunque, non vi sarà solo inimicizia ma un'inimicizia assai aspra o insolente
+
+inimicizia. Ma finché i due sono nettamente divisi non può esservi
+
+inimicizia perché non può esservi rivalità. Nessuno può disputare se
+
+gli svizzeri scalino le [[Mountains|montagne]] meglio di quanto gli olandesi costruiscano dighe; proprio come
+
+nessuno può disputare se un triangolo sia più triangolare di quanto un
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_74" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 74)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -27944,6 +40206,176 @@ to admire the refreshments at Mugby Junction; but he might admire the
 refreshment at one of the Pickwickian inns, especially if it contained
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+cerchio sia rotondo.
+
+Questo esempio di fantasia è alfabeticamente e in verità artificiosamente semplice;
+
+ma, avendolo usato per comodità, potrei facilmente addurre esempi simili
+
+non di fantasia ma di fatto. Ebbi occasione di recente di presenziare alla
+
+festività natalizia di un club a [[London|Londra]] per gli esuli di una delle
+
+nazioni scandinave. Quando entrai nella sala la prima cosa che
+
+mi colpì l'occhio, e mi risollevò grandemente lo spirito, fu che la sala era
+
+punteggiata dai colori dei costumi contadini e dagli esemplari dell'artigianato
+
+contadino. Vi erano, s'intende, altri costumi e altri manufatti in
+
+vista; vi erano uomini vestiti come me (solo meglio) nell'abbigliamento
+
+delle moderne classi medie; vi erano mobili come i mobili di
+
+qualsiasi altra sala di [[London|Londra]]. Ora, secondo la formula ideale dell'
+
+internazionalista comune, queste cose che avevamo in comune avrebbero dovuto
+
+commuovermi a un senso della parentela di tutta la civiltà. Avrei dovuto
+
+sentire che, poiché il gentiluomo scandinavo portava colletto e cravatta, e
+
+anch'io portavo colletto e cravatta, eravamo fratelli e nulla poteva frapporsi
+
+tra noi. Avrei dovuto sentire che sostenevamo gli stessi
+
+princìpi di [[Truth|verità]] perché indossavamo lo stesso paio di pantaloni;
+
+o piuttosto, per parlare con più precisione, paia di pantaloni simili.
+
+Comunque sia, il paio di pantaloni, quel vessillo biforcuto, avrebbe dovuto sventolare
+
+nella fantasia sopra il mio capo come il gonfalone d'Europa o della Società delle Nazioni.
+
+Sono costretto a confessare che nessuna simile ondata di emozioni mi sopraffece;
+
+e il tema dei pantaloni non mi attraversò affatto la mente. Per quel che
+
+riguardava quelle cose, sarei potuto rimanere in uno stato d'animo di mortale
+
+inimicizia, e allegramente aver sparato o pugnalato il gentiluomo meglio vestito della
+
+sala. Ciò che invece mi scaldò il cuore con un'improvvisa tenerezza per quella
+
+nazione nordica fu proprio la cosa che manca del tutto e invero lamentevolmente
+
+alla mia stessa nazione. Era qualcosa che corrispondeva all'unica
+
+grande lacuna nella [[history|storia]] inglese, corrispondente all'unica grande macchia sulla
+
+civiltà inglese. Era la presenza spirituale di un contadinato,
+
+vestito secondo la propria dignità, ed esprimentesi mediante le proprie
+
+creazioni.
+
+Lo [[Sketch|schizzo]] dell'[[America]] lasciato da Charles Dickens è generalmente considerato
+
+qualcosa da usare come scherno oppure da coprire con una
+
+scusa. Senza dubbio fu indebitamente critico, persino verso l'[[America]] di quel
+
+tempo; eppure, per quanto curioso, potrebbe [[Well|ben]] essere il testo per una vera
+
+[[Reconciliation|riconciliazione]] ai giorni nostri. È vero che in questo, come in altre
+
+cose, l'esagerazione dickensiana è essa stessa esagerata. È anche
+
+vero che, mentre è sovraccentuata, non se ne tiene conto. Dickens
+
+tendeva troppo a descrivere gli Stati Uniti come un vasto manicomio;
+
+ma in parte perché aveva un'ispirazione naturale e un'[[Imagination|immaginazione]] adatte
+
+alla descrizione dei manicomi. Come fu la sua più fine fantasia poetica
+
+a creare un pazzo oltre il muro del [[Garden|giardino]], così fu la sua fantasia a
+
+creare un pazzo oltre il mare occidentale. A leggere alcune delle lagnanze,
+
+si penserebbe che Dickens avesse deliberatamente inventato una bassa e
+
+farsesca [[America]] come contrasto alla sua alta ed esaltata Inghilterra. Si
+
+sostiene che egli mostrò l'[[America]] come piena di turbolenti prepotenti come Hannibal
+
+Chollop, o ridicoli sacchi di [[Wind|vento]] come Elijah Pogram, mentre l'Inghilterra era
+
+piena di spiriti raffinati e sinceri come [[Jonas Chuzzlewit]], Chevy Slime,
+
+[[Montague Tigg]], e il signor Pecksniff. Se _Martin Chuzzlewit_ fa dell'[[America]] un
+
+manicomio, che cosa mai fa dell'Inghilterra? Possiamo solo dire
+
+un manicomio criminale. La [[Truth|verità]] è, naturalmente, che Dickens li
+
+descrisse così perché aveva un genio per quel genere di descrizione; per
+
+la creazione di grotteschi quasi maniacali dello stesso tipo di Quilp o
+
+[[Fagin]]. Rese questi americani assurdi perché era un [[artist|artista]] dell'
+
+assurdo; e nessun [[artist|artista]] può fare a meno di trovare ovunque spunti per la propria
+
+peculiare arte. In una parola, creò un Pogram risibile per la stessa
+
+ragione per cui creò un Pecksniff risibile; e ciò fu solo perché
+
+nessun'altra creatura avrebbe potuto crearli.
+
+Si dice spesso che impariamo ad [[Love|amare]] i personaggi dei romanzi come se
+
+fossero personaggi della vita reale. Vorrei che talvolta potessimo [[Love|amare]] i
+
+personaggi della vita reale come [[Love|amiamo]] i personaggi dei romanzi. Vi sono
+
+moltissime anime umane che accetteremmo più benevolmente, e persino
+
+apprezzeremmo più chiaramente, se semplicemente le pensassimo come persone di una
+
+storia. _Martin Chuzzlewit_ è di per sé invero un esempio insoddisfacente e persino
+
+infelice; poiché è, tra le altre opere del suo autore, una storia piuttosto
+
+insolitamente aspra e ostile. Non suggerisco che dovremmo provare
+
+verso un amico americano quell'esatta sfumatura o tinta di tenerezza che
+
+proviamo verso il signor Hannibal Chollop. Il nostro godimento dello straniero
+
+dovrebbe somigliare più al nostro godimento di [[Pickwick]] che al nostro godimento di
+
+Pecksniff. Ma vi è questa dose di pertinenza persino nel
+
+particolare esempio; che Dickens mostrò davvero in entrambi i paesi come gli uomini possano
+
+essere resi divertenti l'uno per l'altro. Fin qui il punto non è che si fece beffe
+
+dell'[[America]], ma che trasse divertimento dall'[[America]]. E, come ho già
+
+fatto notare, applicò esattamente lo stesso metodo di selezione ed
+
+esagerazione all'Inghilterra. Nelle altre storie inglesi, scritte in uno stato d'animo più
+
+amabile, lo applicò in modo più amabile; ma poteva applicarlo
+
+anche a un americano, quando scriveva in quello stato d'animo e in quel modo. Possiamo
+
+vederlo nella critica arguta e fulminante pronunciata dal viaggiatore
+
+yankee nella stantia sala ristoro di Mugby Junction; un genuino
+
+esempio di un genuinamente americano brio e [[Freedom|libertà]] che satireggia una genuinamente
+
+britannica sussiegosità e snobismo. Nessuno si aspetta che il viaggiatore americano
+
+ammiri i ristori di Mugby Junction; ma potrebbe ammirare i
+
+ristori di una delle locande pickwickiane, specialmente se contenessero
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_75" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 75)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -28115,6 +40547,174 @@ or to criticise. I do not insist on his admitting that Hannibal Chollop
 
 was as great a [[Hero|hero]] as Hannibal, or that Elijah Pogram was as true a
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Pickwick]]. Nessuno si aspetta che [[Pickwick]] simpatizzi con Pogram; ma potrebbe piacergli l'
+
+Americano che si fece beffe di Mugby Junction. Ma il punto è che, mentre lo
+
+sosteneva nel farsi beffe, lo troverebbe anche buffo. I due
+
+personaggi comici potrebbero ammirarsi a vicenda, ma si divertirebbero anche
+
+l'uno dell'altro. E l'Americano troverebbe l'Inglese buffo perché
+
+era inglese; e per un'ottima ragione, per giunta. L'Inglese troverebbe
+
+l'Americano divertente perché era americano; né riesco a immaginare miglior
+
+motivo per il suo divertimento.
+
+Ora, molti [[debate|discuteranno]] sulla possibilità psicologica di una simile
+
+[[Friendship|amicizia]] fondata sul ridicolo reciproco, o piuttosto su una [[Comedy|commedia]] di
+
+confronti. Ma di questa armonia di umori dirò ciò che il signor H. G.
+
+Wells dice della sua armonia di stati nell'[[unity|unità]] del suo Stato Mondiale. Se
+
+è davvero impossibile avere una simile pace, allora non c'è nulla di
+
+possibile se non la guerra. Se non possiamo avere amici a questo modo, allora
+
+prima o poi avremo nemici in qualche altro modo. Non c'è alcuna
+
+[[Hope|speranza]] nelle pompose impersonalità dell'internazionalismo.
+
+E questo ci conduce all'errore reale e pertinente di Dickens. Non stava
+
+nel ritenere buffi i suoi Americani, ma nel ritenerli sciocchi
+
+perché erano buffi. In questo senso si noterà che gli schizzi americani
+
+di Dickens sono quasi dichiaratamente superficiali; sono descrizioni
+
+della vita pubblica e non della vita privata. Il signor Jefferson Brick non aveva vita
+
+privata. Ma il signor [[Jonas Chuzzlewit]] aveva senza dubbio una vita privata; e ne
+
+teneva perfino alcune parti oltremodo private. Anche il signor Pecksniff era un
+
+personaggio domestico; così pure il signor Quilp. Il signor Pecksniff e il signor Quilp avevano
+
+modi leggermente diversi di sorprendere le proprie famiglie; il signor Pecksniff
+
+osservando scherzosamente 'Boh!' quando tornava a [[Home|casa]]; il signor Quilp col tornare a [[Home|casa]]
+
+affatto. Ma non riusciamo a farci un'idea di come il signor Hannibal Chollop sorprendesse
+
+scherzosamente la sua famiglia; forse sparando loro; forse non
+
+sparando loro. Possiamo solo dire che ci sorprenderebbe piuttosto
+
+per l'avere una famiglia. Non sappiamo come la Madre dei Gracchi Moderni
+
+gestisse i Gracchi Moderni; giacché la sua maternità era un ufficio piuttosto
+
+pubblico che privato. Non abbiamo romantiche scene al chiaro di luna del
+
+[[Love|corteggiamento]] di Elijah Pogram, da contrapporre alla storia d'[[Love|amore]] di Seth
+
+Pecksniff. Queste figure sono tutte, in senso speciale, teatrali; tutte
+
+rivolte in un'unica direzione e illuminate da una ribalta pubblica. I loro caratteri
+
+ridicoli sono staccabili dai loro caratteri reali, ammesso che abbiano
+
+caratteri reali. E l'autore potrebbe [[Well|benissimo]] aver ragione su ciò che
+
+è ridicolo, e torto su ciò che è reale. Potrebbe aver tanta ragione nel
+
+sorridere dei Pogram e dei Brick quanta nel sorridere dei Pickwick e dei
+
+Boffin. E potrebbe pur sempre aver tanto torto nel vedere il signor Pogram come un
+
+ipocrita quanto il grande Buzfuz ebbe torto nel vedere il signor [[Pickwick]] come un
+
+[[Monster|mostro]] di rivoltante insensibilità e sistematica scelleratezza. Potrebbe
+
+pur avere tanto torto nel credere Jefferson Brick un ciarlatano e un truffatore quanto
+
+l'ebbe quella grande discepola di Lavater, la signora Wilfer, nel rintracciare ogni
+
+ruga di malvagia astuzia sul volto della signora Boffin. Poiché gli occhiali e le ghette
+
+del signor [[Pickwick]] e le cuffie e il boudoir della signora Boffin sono in fin dei conti
+
+scherzi superficiali; e potrebbero vedersi [[Well|altrettanto]] bene qualunque cosa vedessimo
+
+sotto di essi. Un uomo può sorridere e sorridere ed essere un [[Villain|malvagio]]; ma un uomo può
+
+anche farci sorridere e non essere un [[Villain|malvagio]]. Può farci sorridere e non
+
+essere neppure uno [[Fool|sciocco]]. Può farci scoppiare a ridere ed essere un uomo straordinariamente
+
+saggio.
+
+Ora, questo è il [[Paradox|paradosso]] dell'[[America]] che Dickens non scoprì mai.
+
+Elijah Pogram era assai più fantastico di quanto il suo satireggiatore credesse; e il
+
+tratto più [[Grotesque|grottesco]] di Brick e Chollop gli restava celato. La
+
+cosa davvero strana era che Pogram probabilmente diceva sul serio: 'Rozzo sarà pure.
+
+Così son pure i nostri orsi. Selvaggio sarà pure. Così son pure i nostri bufali,' e tuttavia era un
+
+cittadino perfettamente intelligente e animato da spirito civico mentre lo diceva. La
+
+cosa straordinaria è che Jefferson Brick può davvero aver detto: 'La
+
+libagione della [[Freedom|Libertà]] deve talvolta tracannarsi nel [[Blood|sangue]],' e tuttavia
+
+Jefferson Brick può aver servito la [[Freedom|libertà]], resistendo fino al [[Blood|sangue]]. C'è
+
+stata davvero una florida scuola di retorica negli Stati Uniti che
+
+ha reso del tutto possibile che uomini seri e assennati dicessero simili
+
+cose. È divertente semplicemente come è sempre divertente una differenza
+
+di idioma o di costume; proprio come l'idioma inglese e il costume inglese sono divertenti per gli
+
+Americani. Ma su questo genere di differenza non può esservi alcun genere di
+
+[[Doubt|dubbio]]. Un materialista tanto robusto per non dire greve come Ingersoll poté dire
+
+di un politico finanziario tanto scadente per non dire losco come Blaine: 'Come un
+
+guerriero in armi, come un cavaliere dal pennacchio, James G. Blaine avanzò a grandi passi lungo la
+
+sala del Congresso, e scagliò la sua lancia piena e diritta contro lo scudo di
+
+ogni nemico del suo paese e di ogni calunniatore del suo buon nome.'
+
+In confronto a ciò, il passo sugli orsi e i bufali, che il signor
+
+Pogram pronunciò in difesa del direttore delle poste inadempiente, è davvero una
+
+dichiarazione assai ragionevole e appropriata. Poiché gli orsi e i bufali sono
+
+selvaggi e rozzi e in quel senso liberi; mentre i cavalieri dal pennacchio non scagliano
+
+le loro lance in giro come gli assegai degli Zulù. E il direttore delle poste
+
+inadempiente era almeno una persona altrettanto degna di lode a quel modo quanto
+
+James G. Blaine della Little Rock Railway. Ma chiunque avesse trattato
+
+Ingersoll o Blaine semplicemente come uno [[Fool|sciocco]] e uno zimbello si sarebbe assai
+
+rapidamente accorto del proprio errore. Ma Dickens non conobbe Brick o Chollop
+
+abbastanza a lungo da accorgersi del proprio errore. Non occorre negare che, perfino
+
+dopo una piena comprensione, avrebbe potuto pur sempre trovare cose su cui sorridere
+
+o da criticare. Non insisto perché ammetta che Hannibal Chollop
+
+fosse un [[Hero|eroe]] tanto grande quanto Annibale, o che Elijah Pogram fosse un vero
 
 
 
@@ -28290,6 +40890,176 @@ used in that most lawful lawlessness. It is perfectly true that the
 libation of [[Freedom|freedom]] must sometimes be drunk in [[Blood|blood]], and never more
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+[[Prophet|profeta]] tanto autentico quanto Elia. Ma dico assai seriamente che avevano qualcosa
+
+nella loro atmosfera e situazione che rendeva possibile una sorta di
+
+[[Heroism|eroismo]] e perfino una sorta di profezia che erano davvero meno naturali in
+
+quel periodo in quella Allegra Inghilterra la cui [[Comedy|commedia]] e il cui buon senso riassumiamo
+
+sotto il nome di Dickens. Quando scherziamo sul nome di Hannibal
+
+Chollop, dovremmo ricordare di quale nazione fosse il generale che congedò
+
+i suoi soldati sconfitti ad Appomattox con parole che lo storico ha
+
+giustamente dichiarato degne di Annibale: 'Abbiamo combattuto insieme questa
+
+guerra fino in fondo. Ho fatto del mio meglio per voi.' Non è giusto dimenticare
+
+Jefferson, e neppure Jefferson Davis, interamente a favore di Jefferson
+
+Brick.
+
+Poiché tutte e tre queste cose, buona, cattiva e indifferente, concorrono a
+
+formare qualcosa che Dickens non colse, semplicemente perché l'Inghilterra del suo
+
+[[Time|tempo]] la mancava nel modo più disastroso. In questo caso, come in ogni caso, l'
+
+unico modo di misurare con giustizia l'eccesso di un paese straniero è misurare
+
+il difetto del nostro paese. Poiché in questa materia la mente umana è la
+
+vittima di un curioso piccolo trucco inconscio, causa di quasi tutte le
+
+antipatie internazionali. Un uomo tratta i propri difetti come [[Original Sin|peccato originale]] e
+
+li suppone sparsi ovunque insieme al seme di Adamo. Suppone
+
+che gli uomini abbiano poi aggiunto i propri vizi stranieri al solido e semplice
+
+fondamento dei propri vizi privati. Lo sbalordirebbe rendersi conto
+
+che essi hanno in realtà, per il loro strano cammino erratico, evitato i suoi
+
+vizi [[Well|non meno]] che le sue virtù. I propri difetti sono cose con cui egli si trova
+
+tanto a [[Home|casa]] che a un tempo li dimentica e li presuppone all'estero. Ne è
+
+così debolmente consapevole in sé che non è nemmeno consapevole
+
+della loro assenza nelle altre persone. Presume che siano lì al punto
+
+che non vede che non ci sono. L'Inglese dà
+
+per scontato che un Francese abbia tutti i difetti inglesi. Poi
+
+si adira seriamente col Francese per aver osato
+
+complicarli coi difetti francesi. L'idea che il Francese abbia
+
+i difetti francesi e _non_ i difetti inglesi è un [[Paradox|paradosso]] troppo folle per
+
+[[Cross|attraversargli]] la mente.
+
+È come un vecchio Cinese che ridesse degli Europei per il fatto che portano
+
+ridicoli cilindri e vi arrotolano dentro il codino; perché
+
+ovviamente tutti gli uomini hanno il codino, come tutte le scimmie hanno la coda. Oppure è
+
+come una vecchia dama cinese che giustamente deridesse le scarpe col tacco alto
+
+dell'Occidente, considerandole un'aggiunta superflua alla già sufficientemente
+
+stretta e sicura fasciatura del piede; poiché, naturalmente, tutte le donne si fasciano
+
+i piedi, come tutte le donne si legano i capelli. Ciò a cui questi Celesti
+
+pensatori non penserebbero, né darebbero credito, è la folle possibilità che
+
+noi non abbiamo il codino benché abbiamo i cilindri, o che le nostre
+
+dame non siano tanto sciocche da avere piedi cinesi, benché siano abbastanza sciocche
+
+da avere scarpe col tacco alto. Né ci saremmo necessariamente avvicinati di un
+
+pollice alle stravaganze cinesi anche se il cappello a cilindro
+
+si [[Rose|innalzasse]] più di una ciminiera di fabbrica o i tacchi alti si fossero evoluti in una
+
+sorta di trampoli. Per la stessa fallacia l'Inglese non soltanto maledirà
+
+il contadino francese come un avaro, ma cercherà anche di dargli la mancia come a un mendicante.
+
+Vale a dire, dapprima si lagnerà che l'uomo abbia la scontrosità di un
+
+uomo indipendente, e poi lo accuserà di avere la servilità di un
+
+uomo dipendente. Proprio come il Cinese ipotetico non riesce a credere che noi
+
+abbiamo i cilindri ma non il codino, così l'Inglese non riesce a credere che i
+
+contadini non siano snob anche quando sono selvaggi. Oppure vede che un
+
+giornale di [[Paris|Parigi]] è violento e scandalistico; e allora suppone che qualche
+
+milionario possieda venti giornali simili e li gestisca come un trust della stampa.
+
+Di certo la Stampa Gialla è presente ovunque a tingere di giallo la mappa,
+
+come l'Impero Britannico a tingerla di rosso. A un simile critico non viene mai in mente
+
+che il giornale francese è violento perché è personale, e personale
+
+perché appartiene a una persona reale e responsabile, e non a una consorteria
+
+di milionari senza nome. È un libello, e non un libello
+
+anonimo. In cento altri casi si potrebbe illustrare la stessa [[Truth|verità]];
+
+la situazione in cui l'uomo nero dapprima presume che tutta l'umanità sia
+
+nera, e poi accusa gli altri del vizio artificiale di tingersi
+
+il volto di rosso e giallo, o dell'ipocrisia di imbiancarsi
+
+alla maniera dei sepolcri imbiancati. Il caso particolare
+
+che ora abbiamo davanti è quello del fraintendimento inglese dell'[[America]];
+
+ed esso si fonda, come in tutti questi casi, sul fraintendimento inglese
+
+dell'Inghilterra.
+
+Poiché la [[Truth|verità]] è che l'Inghilterra ha sofferto di recente per non aver avuto
+
+abbastanza della libera sparatoria di Hannibal Chollop; per non aver compreso
+
+abbastanza che la libagione della [[Freedom|Libertà]] deve talvolta tracannarsi nel [[Blood|sangue]].
+
+L'Inglese prospero non vorrà ammetterlo; ma d'altronde l'Inglese prospero
+
+non vorrà ammettere di aver sofferto di alcunché. È di questo
+
+che egli [[Suffering|soffre]]. Almeno fino a poco fa si rifiutava di rendersi conto
+
+che molte delle sue abitudini moderne erano state cattive abitudini, la peggiore
+
+delle quali era l'appagamento. Poiché ogni reale virtù nell'appagamento evapora,
+
+quando l'appagamento è solo soddisfazione e la soddisfazione è solo
+
+[[Self|autocompiacimento]]. Ora è perfettamente vero che l'[[America]] e non l'Inghilterra
+
+ha visto le più palesi e oltraggiose negazioni ufficiali della libertà.
+
+Ma è altrettanto vero che ha visto il più palese sbeffeggiamento di
+
+simili assurdità ufficiali, assai più palese di qualsiasi analoga elusione in
+
+Inghilterra. E nessuno che conosca la violenza subconscia del carattere
+
+americano si stupirebbe mai se le armi di Chollop cominciassero a essere
+
+usate in quella legalissima illegalità. È perfettamente vero che la
+
+libagione della [[Freedom|Libertà]] deve talvolta bersi nel [[Blood|sangue]], e mai più
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_77" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 77)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -28463,6 +41233,176 @@ was nothing the matter with him beyond a mistaken choice of the
 
 theatrical profession. Surely there are here the elements of a play, not
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+(verrebbe da pensare) di quando dei milionari folli proibiscono che si beva nella
+
+birra. Ma l'[[America]], in confronto all'Inghilterra, è il paese in cui si
+
+può ancora immaginare uomini che ottengono la libagione della birra per mezzo della libagione del
+
+[[Blood|sangue]]. La volgare plutocrazia è quasi onnipotente in entrambi i paesi; ma
+
+credo che ora vi sia più scatto di reazione contro di essa in [[America]] che in
+
+Inghilterra. Gli Americani possono impazzire quando fanno le leggi; ma recuperano
+
+la ragione quando le disobbediscono. Vorrei poter credere che vi
+
+fosse altrettanto di quel pentimento distruttivo in Inghilterra; come in effetti ve ne
+
+fu certamente quando scriveva Cobbett. Sbiadì gradualmente come un [[Fire|fuoco]] morente
+
+attraverso l'era vittoriana; e fu una delle pochissime realtà che
+
+Dickens non comprese. Ma chiunque la comprenda saprà
+
+che i giorni di Cobbett videro l'ultima battaglia perduta per la [[Democracy|democrazia]] inglese;
+
+e che se fosse stato a quella svolta della [[Road|strada]] storica, avrebbe
+
+augurato una sorte migliore ai distruttori di telai e al furore contro le
+
+prime macchine, e fortuna ai fuochi luddisti.
+
+Comunque, ciò che occorre è un nuovo [[Martin Chuzzlewit]], narrato da un Mark
+
+Tapley più saggio. È tipico di qualcosa di cupo e a tratti stantìo nell'
+
+umore di Dickens quando scrisse quel libro, che il servo comico non sia
+
+in realtà molto comico. [[Mark Tapley]] è un'[[Shadow|ombra]] assai esile di [[Sam Weller]]. Ma
+
+se Dickens l'avesse scritto in un umore più lieto, vi sarebbe potuto essere un
+
+significato più vero nella felicità di [[Mark Tapley]]. Poiché è vero che questo
+
+illogico buon [[Humour|umore]] tra irragionevolezza e disordine è una delle reali
+
+virtù del popolo inglese. È il reale vantaggio che essi hanno in
+
+quell'avventura per tutto il mondo, che di recente e
+
+con riluttanza furono indotti a chiamare Impero. Quel ridicolo ricettivo rimane
+
+con loro come un piacere segreto quando sono coloni--o forzati.
+
+Dickens avrebbe potuto scrivere un'altra versione del grande [[Romance|romanzo]], e una
+
+in cui l'[[America]] fosse vista davvero allegramente da Mark anziché tetramente da
+
+Martin. [[Mark Tapley]] avrebbe potuto davvero trarre il meglio dall'[[America]]. Allora
+
+l'[[America]] avrebbe vissuto e danzato dinanzi a noi come l'Inghilterra di [[Pickwick]], un
+
+paese delle fate di lieti folli e mostri amabili, e avremmo potuto pur
+
+simpatizzare tanto con la retorica di Lafayette Kettle quanto con
+
+la retorica di [[Wilkins Micawber]], o con la violenza di Chollop quanto
+
+con la violenza di Boythorn. Quel nuovo [[Martin Chuzzlewit]] non sarà mai
+
+scritto; e la sua perdita è più tragica della perdita di _Edwin
+
+Drood_. Ma ogni uomo che abbia viaggiato in [[America]] ha visto scorci ed
+
+episodi di quel racconto non narrato; e lontano, sulle frontiere dei Pellirosse
+
+o nei villaggi tra le colline della Pennsylvania, vi sono persone che
+
+ho incontrato per poche ore o per pochi istanti, che ciò nondimeno sinceramente
+
+apprezzo e rispetto pur non potendo fare a meno di sorridere pensando a loro. Ma il
+
+contrario è pure vero; probabilmente mi hanno dimenticato; ma se
+
+mi ricordano, ridono.
+
+_Lo spirito d'America_
+
+Suggerisco che i diplomatici della scuola internazionalista dovrebbero spendere
+
+parte del loro denaro nel mettere in scena farse e commedie di intenti [[Cross|contrastanti]],
+
+fondate sulla curiosa e diffusa idea che l'Inghilterra e l'[[America]] abbiano
+
+la stessa lingua. So, naturalmente, che entrambi ereditiamo la gloriosa
+
+lingua di Shakespeare, per non parlare dell'aria dei bicchieri musicali;
+
+ma vi sono stati momenti in cui ho pensato che se noi parlassimo greco e
+
+loro parlassero latino ci intenderemmo meglio. Poiché il greco e il
+
+latino sono almeno fissi, mentre l'americano almeno è ancora assai fluido. Non
+
+conosco la lingua americana, e perciò non pretendo di
+
+distinguere tra la lingua americana e lo slang americano. Ma
+
+so che sviluppi altamente teatrali potrebbero seguire dal prendere le
+
+parole come parte dello slang inglese o della lingua inglese. Ho
+
+già fatto l'esempio del chiamare una persona 'a regular guy,' che negli
+
+Stati Uniti è una garbata espressione di rispetto e stima, ma che sulla
+
+scena, ben manovrata, potrebbe di certo aprire la strada a un [[divorce|divorzio]]
+
+o a un duello o a qualcosa di vivace. Talvolta la coincidenza non fa che suggellare un
+
+errore, come tanto spesso suggella un refuso. Ogni correttore di bozze sa
+
+che il peggior refuso non è quello che produce un nonsenso ma quello che
+
+produce senso; non quello che è palesemente errato ma quello che è
+
+orribilmente giusto. Chi ha tentato di scrivere 'he got the book,' e l'ha
+
+visto reso misteriosamente come 'he got the boob' si rassegna
+
+pensieroso. È quando viene reso assai lucidamente come 'he got the boot'
+
+che egli è spinto a un più appassionato stato di rammarico. Ho avuto
+
+conversazioni in cui questo genere di incidente mi avrebbe interamente
+
+sviato, se un altro incidente non fosse venuto in soccorso. Un amico americano
+
+mi raccontava delle sue avventure come produttore cinematografico giù nel
+
+sud-ovest dove veri Pellirosse erano reperibili. Disse che
+
+certi Indiani erano 'very bad actors.' A me parve un'osservazione assai
+
+ordinaria su una deficienza assai ordinaria o naturale. Non
+
+sembrerebbe una critica schiacciante dire che qualche selvaggio capo arabo
+
+non fosse molto bravo a imitare un'aia; o che il Gran Lama del
+
+Tibet fosse piuttosto maldestro nel fare barchette di carta. Ma l'osservazione potrebbe essere
+
+naturale in un uomo che viaggia su barchette di carta, o gira in tournée con un'aia
+
+invisibile per serraglio. Poiché il mio amico era un produttore cinematografico,
+
+supposi che intendesse dire che gli Indiani erano cattivi attori cinematografici. Ma la
+
+frase ha in realtà un alto e austero significato morale, che la mia leggerezza aveva
+
+interamente mancato. Un 'bad actor' indica un uomo le cui azioni sono cattive o moralmente
+
+riprovevoli. Cosicché avrei potuto abbracciare un Pellerossa che grondava
+
+sangue, o coperto di crimini atroci, immaginando che non ci
+
+fosse nulla di male in lui oltre a una scelta sbagliata della
+
+professione teatrale. Di certo qui vi sono gli elementi di una commedia, per non
 
 
 
@@ -28640,6 +41580,178 @@ there is something in it distinct from a mere embarrassment at admitting
 enthusiasm. He might admit the enthusiasm if the object seemed to
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+parlare di un film. Di certo una fanciulla di villaggio del [[New England]] potrebbe trovarsi
+
+tra i wigwam in balìa del formidabile e diabolico
+
+'Piccolo Bisonte Azzurro,' semplicemente per la sua malriposta simpatia verso il suo
+
+fallimento finanziario come Star del Cinema. L'idea mi offre scorci d'ogni
+
+sorta di vedute in dissolvenza di foreste primeve e teatri fiammeggianti;
+
+ma questo impulso a una produzione teatrale irrilevante va frenato.
+
+Vi è tuttavia un esempio di questa complicazione della lingua realmente
+
+usata in sensi contrari, a proposito del quale si può usare la stessa figura per
+
+illustrare un fatto più serio.
+
+Supponiamo che, in un simile intermezzo internazionale, una ragazza inglese e una
+
+ragazza americana parlino del fidanzato della prima, che sta per venire
+
+in visita. La ragazza inglese sarà altera e aristocratica (sulla
+
+scena), la ragazza americana avrà naturalmente i capelli e le gonne corti e
+
+sarà cinica; essendo gli Americani più completamente immuni dal cinismo di
+
+qualunque popolo al mondo. È la grande gloria degli Americani che essi
+
+non siano cinici; del resto, gli aristocratici inglesi non sono quasi mai
+
+alteri; comprendono il gioco assai meglio di così. Ma sulla
+
+scena, comunque, la ragazza americana potrà dire, riferendosi al
+
+fidanzato dell'amica, con un cinico gesto della sigaretta: 'Suppongo che sia bound to
+
+come and see you.' E a ciò il [[Blood|sangue]] blu dei Vere de Vere
+
+ribollirà; la dama inglese sarà profondamente ferita e offesa dall'
+
+insinuazione che il suo [[Lover|innamorato]] venga a trovarla solo perché è costretto a
+
+farlo. Ne seguirà allora uno strabiliante litigio scenico, e le cose andranno
+
+di male in peggio; fino all'arrivo di un Interprete che sa parlare tanto
+
+inglese quanto americano. Sta tra le due dame agitando due
+
+dizionari tascabili, e spiega l'errore su cui verte il litigio. È
+
+molto semplice; come il seme di tutte le tragedie. In inglese 'he is bound to
+
+come and see you' significa che è obbligato o costretto a venire a
+
+trovarti. In americano no. In americano significa che è deciso
+
+a venire a trovarti, che è irrevocabilmente risoluto a farlo, e
+
+supererà ogni ostacolo per riuscirci. Le due giovani dame allora si abbracceranno
+
+mentre cala il sipario.
+
+Ora, quando tenevo conferenze in [[America]] mi si diceva spesso, in modo radioso e
+
+congratulatorio, che questa o quella persona era bound to come and
+
+hear me lecture. Sembrava una forma assai crudele di coscrizione, e non
+
+riuscivo a capire quale autorità potesse averla resa obbligatoria. Nel
+
+corso dello scoprire il mio errore, tuttavia, mi parve di cominciare a
+
+comprendere certe idee e istinti americani che stanno dietro questo
+
+idiotismo americano. Poiché, come ho sostenuto prima, e sosterrò spesso ancora,
+
+la [[Road|strada]] verso l'[[Friendship|amicizia]] internazionale passa per la reale comprensione
+
+delle facezie. In un certo senso passa per il prendere sul serio le facezie. È del tutto
+
+legittimo ridere di un uomo che cammina per la strada con tre cappelli bianchi
+
+e una vestaglia verde, perché è insolito; ma in fin dei conti
+
+l'uomo ha _qualche_ ragione per ciò che fa; e finché non conosciamo la ragione
+
+non comprendiamo la storia, né comprendiamo la facezia. Così
+
+lo straniero sembrerà sempre strambo nell'uso o nel costume; ma le relazioni
+
+serie dipendono dal nostro andare oltre il fatto della differenza fino alle
+
+cose in cui essa differisce. Una buona figura simbolica di tutto ciò si può
+
+trovare tra la gente che dice, forse con una [[Self|auto]]-rivelatrice
+
+semplicità, che sono bound to andare a una conferenza.
+
+Se mi si chiedesse una singola figura simbolica che riassuma tutto ciò
+
+che sembra eccentrico e interessante dell'[[America]] a un Inglese,
+
+mi accontenterei di scegliere quella dama che si lagnò della conferenza
+
+della signora Asquith e rivoleva indietro i suoi soldi. Non intendo che fosse
+
+tipicamente americana nel lagnarsi; tutt'altro. Io, per parte mia, ho una grande
+
+e colpevole conoscenza di tutto ciò che gli amabili pubblici americani sopportano
+
+senza lamentarsi. Non intendo che fosse tipicamente americana nel
+
+volere i suoi soldi; tutt'al contrario. Quel genere di Americano spende
+
+il denaro anziché accumularlo; e quando li condanniamo per volgarità li
+
+assolviamo dall'avarizia. Là dove era tipicamente americana, riassumendo una
+
+[[Truth|verità]] individuale e indescrivibile in ogni altro modo, è che usò
+
+queste parole: 'Mi sono alzata da un letto di malata per venire a sentirla, e
+
+rivoglio i miei soldi.'
+
+L'elemento in ciò che davvero diverte un Inglese è precisamente quello
+
+che, analizzato a dovere, dovrebbe indurlo ad ammirare un Americano.
+
+Ma il mio punto è che solo attraversando il divertimento egli può giungere
+
+all'ammirazione. Il divertimento sta nella visione di un tragico sacrificio per
+
+quello che è dichiaratamente un oggetto piuttosto insignificante. La signora Asquith è una dama candida
+
+e di considerevole [[Humour|spirito]]; e sono certo che non consideri l'
+
+esperienza di sentirla leggere il suo diario un'estasi per la quale i
+
+malati dovrebbero così patire il [[Martyrdom|martirio]]. Anch'essa è inglese; e non aveva altra
+
+pretesa se non divertire gli Americani ed eventualmente essere divertita da loro. Stando
+
+così le cose, è piuttosto come se qualcuno dicesse: 'Ho rischiato la vita tra
+
+[[Fire|fuoco]] e pestilenza per farmi strada fino al music hall,' oppure: 'Ho
+
+digiunato quaranta giorni nel deserto sostenuto dalla [[Hope|speranza]] di vedere
+
+Totty Toddles eseguire il suo nuovo [[Dance|ballo]].' E vi è qualcosa di piuttosto più
+
+sottile qui in gioco. Vi è qualcosa in un Inglese che lo
+
+farebbe sentire vagamente in imbarazzo a dire di aver digiunato per sentire
+
+Totty Toddles, o essersi alzato da un letto di malato per sentire la signora Asquith. Egli
+
+sentirebbe indegno confessare di aver desiderato un mero
+
+divertimento così tanto; e forse di aver desiderato qualsiasi cosa così tanto. Egli
+
+non gradirebbe, per così dire, essere visto precipitarsi per la strada dietro
+
+Totty Toddles, o dietro la signora Asquith, o forse dietro chiunque. Ma
+
+vi è in ciò qualcosa di distinto da un mero imbarazzo nell'ammettere
+
+l'entusiasmo. Potrebbe ammettere l'entusiasmo se l'oggetto sembrasse
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_79" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 79)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -28814,6 +41926,176 @@ trifle. He does not say, even in the American sense, that he was bound
 to smash the windows. He does not say that he had risen from a sick-bed
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+giustificarlo; potrebbe [[Well|benissimo]] essere serio riguardo a una cosa seria.
+
+Ma non riesce a capire che una persona sia orgogliosa di seri sacrifici per
+
+ciò che non è una cosa seria. Non gli piace ammettere che una piccola
+
+cosa possa eccitarlo; che possa perdere il fiato correndo, o perdere
+
+l'equilibrio nel protendersi verso qualcosa che si potrebbe dire sciocco.
+
+Ora, è qui che l'Americano è fondamentalmente diverso. Per lui l'
+
+entusiasmo stesso è meritorio. Per lui l'eccitazione stessa è
+
+dignitosa. Reputa parte della sua virilità digiunare o combattere o alzarsi
+
+da un letto di malattia per qualcosa, o magari per qualsiasi cosa. Il suo
+
+ideale non è essere una serratura che solo una chiave degna può aprire, ma un 'filo
+
+scoperto' che qualsiasi cosa può toccare e chiunque può usare. In una parola, vi è una
+
+differenza nella definizione stessa di virilità e perciò di virtù. Un
+
+filo scoperto non è solo attivo, è anche sensibile. Così la sensibilità
+
+diventa in effetti una parte della virilità. È in gioco qualcosa di più della
+
+volgare semplificazione dell'Americano come forza irresistibile e dell'
+
+Inglese come palo inamovibile. Di fatto, coloro che parlano di simili
+
+cose oggigiorno intendono generalmente per qualcosa di irresistibile qualcosa di
+
+semplicemente inamovibile, o almeno qualcosa di inalterabile, immoto perfino nel
+
+moto, come una palla di cannone; poiché una palla di cannone è morta quanto un cannone.
+
+Il militarismo prussiano fu lodato a quel modo--finché non incontrò una forza francese
+
+grande circa la metà sulle rive della Marna. Ma non è questo ciò che
+
+un Americano intende per energia; quel genere di energia prussiana è solo
+
+monotonia senza riposo. L'energia americana non è una [[Machine|macchina]] senz'anima; poiché
+
+il punto è tutto qui, che egli vi mette la sua [[Soul|anima]]. È una scatola assai
+
+piccola per una cosa tanto grande; ma non è una scatola vuota. Ma il punto è
+
+che egli non è solo orgoglioso della sua energia, è orgoglioso della sua eccitazione.
+
+Non si vergogna della sua emozione, del [[Fire|fuoco]] o perfino della lacrima nel suo
+
+virile occhio, quando ti racconta che la grande [[Wheel|ruota]] della sua [[Machine|macchina]] frantuma
+
+quattro miliardi di farfalle all'ora.
+
+È questo il punto dello sport americano; che non è per nulla
+
+giocoso. È perché non è molto giocoso che talvolta diciamo che non è
+
+molto sportivo. Ha i vizi di una religione. Ha tutto il
+
+[[Paradox|paradosso]] del [[Original Sin|peccato originale]] al servizio di una [[Faith|fede]] aborigena. È
+
+talvolta menzognero perché è sincero. È talvolta infido
+
+perché è leale. Gli uomini mentono e imbrogliano per esso come mentivano per i loro
+
+signori in una congiura feudale, o imbrogliavano per i loro capi in una
+
+faida delle Highland. Possiamo dire che il vassallo prontamente commetteva tradimento; ma
+
+è altrettanto vero che prontamente sopportava la tortura. Così fa l'atleta
+
+americano nel sopportare la tortura. Non solo l'[[Self-Sacrifice|abnegazione]] ma la solennità dell'
+
+atleta americano è come quella dell'Indiano d'America. Gli atleti
+
+negli Stati Uniti hanno l'atteggiamento degli atleti tra gli Spartani, la
+
+grande nazione storica priva di senso dell'[[Humour|umorismo]]. Si sottopongono a un
+
+regime [[ascetic|ascetico]] non eguagliabile in alcun monachesimo e a stento in alcun
+
+militarismo. Se qualche tradizione di queste cose sopravvivrà in un'età più sana,
+
+essi saranno probabilmente ricordati come un misterioso ordine religioso di
+
+fachiri o dervisci danzanti, che si rasavano il capo e digiunavano in [[Honour|onore]]
+
+di Ercole o di Castore e Polluce. E questa è davvero l'atmosfera
+
+spirituale benché gli dèi siano svaniti; e la religione è
+
+subconscia e perciò irrazionale. Poiché il problema del mondo
+
+moderno è che ha continuato a essere religioso quando ha cessato di essere
+
+razionale. Gli Americani davvero digiunerebbero per vincere a un tiro alle noci di cocco. Essi
+
+digiunerebbero o sanguinerebbero per vincere una gara di barchette di carta su uno stagno. Si
+
+alzerebbero da un letto di malato per ascoltare la signora Asquith.
+
+Ma è la vera ragione che qui m'interessa. Non è certo
+
+che gli Americani siano tanto stupidi da non sapere che le noci di cocco sono solo
+
+noci di cocco e le barchette di carta fatte solo di carta. Gli Americani sono, in
+
+media, piuttosto più intelligenti degli Inglesi; e sono [[Well|ben]]
+
+consapevoli che Ercole è un mito e che la signora Asquith è una specie di
+
+mitologa. Non è che non sappiano che l'oggetto è piccolo in
+
+sé; è che credono davvero che l'entusiasmo sia grande
+
+in sé. Ammirano le persone per la loro impressionabilità. Ammirano
+
+le persone per la loro eccitazione. Un Americano che così si affanna per qualche
+
+sproporzionata inezia (come una delle mie conferenze) sente davvero in modo
+
+mistico di aver ragione, perché tutta la sua [[morality|moralità]] consiste nell'essere
+
+ardente. Finché desidera qualcosa intensamente, qualunque cosa sia, sente
+
+di avere la sua [[Conscience|coscienza]] dalla sua parte, e il comune sentimento della società
+
+dalla sua parte, e Dio e l'intero universo dalla sua parte. Incastrato su una gamba
+
+in una calca soffocante a una conferenza insignificante, ha [[Self|rispetto]] di sé; la sua dignità
+
+è in pace. È questo che intende quando dice di essere bound to venire alla
+
+conferenza.
+
+Ora, l'Inglese è amante delle occasionali bravate. Ma queste cose non sono
+
+bravate; né sono occasionali. È l'essenza della bravata dell'Inglese
+
+che egli la ritenga una bravata; che ne rida perfino
+
+mentre la compie. Essendo io stesso inglese, mi piace; ma essendo io stesso inglese,
+
+so che è connessa a debolezze [[Well|non meno]] che a meriti. Nella sua
+
+ironia vi è condiscendenza e perciò imbarazzo. Questa protezione
+
+è imparentata col patrono, e il patrono è imparentato con la tradizione
+
+aristocratica della società. Le bravate sono una variante della pigrizia dovuta all'
+
+ozio; e l'ozio è una variante della sicurezza e perfino della supremazia
+
+del gentiluomo. Quando uno studente di [[Oxford]] fracassa una cinquantina di
+
+finestre è [[Well|ben]] consapevole che l'incidente è una mera inezia. Ci si può
+
+fidare che spieghi ai genitori e ai tutori che era una mera
+
+inezia. Non dice, nemmeno nel senso americano, di essere stato bound
+
+to fracassare le finestre. Non dice di essersi alzato da un letto di malato
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_80" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 80)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -28985,6 +42267,174 @@ himself. For men are not only affected by what they are; but still more,
 
 when they are fools, by what they think they are; and when they are
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+per fracassare le finestre. Non pensa affatto, in particolare, di essersi alzato;
+
+sa di essere disceso (benché con diletto, come chi si tuffa o
+
+scivola giù dal corrimano) a qualcosa di piatto e farsesco e pieno del
+
+gusto inglese per il bathos. È crollato in qualcosa di
+
+interamente banale; benché i proprietari delle finestre forse non la
+
+pensino così. Questo elemento piuttosto indescrivibile attraversa cento
+
+cose inglesi, come nell'[[Love|amore]] per il bathos mostrato perfino nel suono dei
+
+nomi propri; sicché perfino l'[[Lover|innamorato]] anelante in una [[Lyric|lirica]] anela a
+
+una di nome Sally piuttosto che [[Salome|Salomè]], e a un luogo chiamato Wapping
+
+piuttosto che a un luogo chiamato Westermain. Perfino nella ricaduta nella
+
+turbolenza vi è una sorta di ricaduta nella comodità. Vi è anche ciò che è
+
+parte tanto grande della comodità; la noncuranza. Lo studente rompe le
+
+finestre perché non gli importa delle finestre, non perché gli importi
+
+di più aria fresca come un igienista, o di più luce come un poeta
+
+tedesco. Ancor meno fracassa eroicamente cento finestre perché
+
+si frappongono tra lui e la voce della signora Asquith. Ma meno di tutto lo
+
+fa perché si vanti seriamente dell'energia a prescindere dal suo
+
+scopo, e della forza di volontà che la porta a termine. Non è 'bound' a
+
+fracassare le finestre, neppure nel senso di esservi deciso. Non è
+
+affatto vincolato ma piuttosto rilassato; e la sua violenza non è solo un
+
+rilassamento ma un allentamento. Infine, ciò si mostra nel fatto che egli fracassa le
+
+finestre soltanto quando è in vena di fracassare finestre; quando qualche
+
+fortunata congiunzione di [[Stars|astri]] e tutte le tinte e sfumature della [[Nature|natura]]
+
+gli sussurrano che sarebbe [[Well|bene]] fracassare finestre. Ma l'Americano
+
+è sempre pronto, in qualsiasi momento, a sprecare le sue energie nell'impresa più folle e
+
+più suicida di andare alle conferenze. E questo perché per lui
+
+tale eccitazione non è una vena ma un ideale morale. Come noto in un altro
+
+contesto, gran parte del mistero inglese sarebbe chiara agli Americani se
+
+comprendessero la parola 'mood.' Gli Inglesi sono molto lunatici, specialmente
+
+quando fracassano finestre. Ma [[Doubt|dubito]] che molti Americani comprendano
+
+esattamente ciò che intendiamo per 'mood'; specialmente il mood passivo.
+
+È solo cercando di farsi un'idea di tutto ciò che un Inglese
+
+può godere della [[Crown|corona]] finale e del frutto di ogni [[Friendship|amicizia]] internazionale;
+
+che è il gradire davvero che un Americano sia americano. Se pensiamo soltanto che
+
+parti di lui sono eccellenti perché parti di lui sono inglesi, sarebbe
+
+assai più sensato restare a [[Home|casa]] e magari godere della compagnia di un
+
+Inglese intero e completo. Ma chiunque comprenda ciò può trarre
+
+lo stesso piacere dal fatto che un Americano sia americano quanto ne trae dal fatto che un
+
+fulmine sia rapido e un barometro sia sensibile. Può vedere che
+
+una viva sensibilità e vigilanza si irradiano davvero verso l'esterno attraverso tutte le
+
+ramificazioni del macchinario e perfino del materialismo. Può vedere che
+
+l'Americano usa i suoi grandi poteri pratici per pochissima
+
+provocazione; ma può anche vedere che vi è una sorta di senso dell'
+
+[[Honour|onore]], come quello di un duellante, nella sua prontezza a lasciarsi provocare.
+
+In effetti, vi è un certo parallelo tra l'uomo d'azione americano,
+
+per quanto volgari i suoi scopi, e l'antica idea feudale del gentiluomo con la
+
+[[Sword|spada]] al fianco. Il gentiluomo poteva essere fiero di essere forte o
+
+robusto; poteva troppo spesso essere fiero di essere ottuso; ma non
+
+era fiero di essere insensibile. Al contrario, era fiero di essere
+
+suscettibile. Anch'egli riteneva seriamente che la sensibilità fosse una
+
+parte della mascolinità. Può essere assai assurdo leggere di due gentiluomini
+
+irlandesi che cercano di uccidersi a vicenda per delle inezie, o di due
+
+milionari irlandesi-americani che cercano di rovinarsi a vicenda per delle cianfrusaglie. Ma la
+
+meschinità stessa del pretesto e perfino dello scopo illustra la stessa
+
+concezione; che si può chiamare la virtù dell'eccitabilità. Ed è
+
+davvero questa, e non qualche fandonia sulla ferrea forza di volontà e la mentalità
+
+dominatrice, a riscattare con la [[Romance|poesia]] il loro cosmo a orologeria e i suoi
+
+ideali industriali. Essere un filo scoperto non significa che i nervi
+
+debbano essere come fili; ma piuttosto che i fili stessi debbano essere come
+
+nervi.
+
+Un'altra approssimazione alla [[Truth|verità]] sarebbe dire che un Americano
+
+davvero non si vergogna della curiosità. Non è così semplice come sembra. Gli
+
+uomini mascherano la curiosità con vari tipi di risate e spavalderia,
+
+proprio come mascherano l'ubriachezza o la bancarotta. Ma pochissime
+
+persone sono davvero fiere di giacere su una soglia, e pochissime persone sono
+
+davvero fiere di [[Longing|bramare]] di guardare attraverso un buco della serratura. Non parlo del
+
+guardarci attraverso, che coinvolge questioni d'[[Honour|onore]] e di [[Self|autocontrollo]];
+
+ma poche persone sentono che perfino il [[Desire|desiderio]] sia dignitoso. Ora, immagino che l'
+
+Americano, almeno in confronto all'Inglese, senta davvero che la sua
+
+curiosità è coerente con la sua dignità, perché la dignità è coerente
+
+con la vivacità. Sente che non è meramente la curiosità di Paul Pry, ma
+
+la curiosità di Cristoforo [[Columbus|Colombo]]. Non è una spia ma un esploratore;
+
+e sente la sua [[Greatness|grandezza]] crescere piuttosto col suo rifiuto di tornare indietro, come
+
+un viaggiatore potrebbe sentirsi sempre più alto man mano che si avvicina alla sorgente del
+
+Nilo o al Passaggio a Nord-Ovest. Più d'un Inglese ha provato quella sensazione
+
+riguardo a scoperte in continenti oscuri; ma non l'ha spesso
+
+riguardo a scoperte nella vita quotidiana. L'un tipo crede nell'
+
+indegnità e l'altro nella dignità dell'[[Detective|investigatore]]. Non ha nulla
+
+a che fare con l'etica nel senso meramente esteriore. Non implica alcun
+
+particolare confronto in fatto di morale e maniere pratiche. È qualcosa
+
+nell'intero portamento e postura del [[Self|sé]]; nel modo in cui un uomo si
+
+comporta. Poiché gli uomini non sono influenzati solo da ciò che sono; ma ancor più,
+
+quando sono sciocchi, da ciò che credono di essere; e quando sono
 
 
 
@@ -29162,6 +42612,178 @@ I have by this [[Time|time]] heard a great deal about the necessity of saving
 Anglo-American [[Friendship|friendship]], a necessity which I myself feel rather too
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+saggi, da ciò che desiderano essere.
+
+Vi sono verità che sono quasi divenute false col divenire menzognere.
+
+Vi sono affermazioni tanto spesso stantìe e insincere che si esita a
+
+usarle, anche quando stanno per qualcosa di più sottile. Questo punto
+
+sulla curiosità non è la convenzionale lagnanza contro l'intervistatore
+
+americano. Non è la solita facezia contro il [[Child|bambino]] americano. E
+
+allo stesso modo sento il pericolo che venga identificato col luogo comune
+
+sulla 'giovane nazione' se dico che possiede alcune delle attrattive, non
+
+dell'[[Childhood|infanzia]] americana, ma della vera [[Childhood|infanzia]]. Vi è qualche [[Truth|verità]] nella
+
+tradizione secondo cui i figli degli Americani facoltosi tendono a essere troppo
+
+precoci e sfarzosi. Ma vi è un senso in cui possiamo davvero
+
+dire che se i bambini sono come adulti, gli adulti sono come bambini.
+
+E quel senso è nel senso migliore in assoluto dell'[[Childhood|infanzia]]. È qualcosa
+
+che il mondo moderno non comprende. È qualcosa che gli Americani
+
+moderni non comprendono, anche quando lo possiedono; ma credo che lo
+
+possiedano davvero.
+
+Il diavolo sa citare le Scritture a suo vantaggio; e il testo delle Scritture
+
+che ora cita più comunemente è: 'Il regno dei cieli è dentro
+
+di voi.' Quel testo è stato il sostegno e l'appoggio di più Farisei e
+
+presuntuosi e prepotenti spirituali [[Self|compiaciuti]] di sé di quanti tutti i dogmi del
+
+creato; è servito a identificare l'auto-[[Self|compiacimento]] con la pace
+
+che sorpassa ogni intendimento. E il testo da citare in risposta a esso
+
+è quello che dichiara che nessun uomo può ricevere il regno se non come un
+
+piccolo [[Child|bambino]]. Ciò che dobbiamo avere dentro è lo spirito fanciullesco; ma
+
+lo spirito fanciullesco non si cura interamente di ciò che è dentro. È
+
+il primo segno del possederlo che ci si interessi a ciò che è
+
+fuori. La cosa più fanciullesca in un [[Child|bambino]] è la sua curiosità e il suo
+
+appetito e la sua capacità di [[Wonder|meravigliarsi]] del mondo. Potremmo quasi dire che
+
+l'intero vantaggio dell'avere il regno dentro è che lo cerchiamo
+
+altrove.
+
+_Lo spirito d'Inghilterra_
+
+Nove volte su dieci l'apertura mentale di un uomo è necessariamente la cosa
+
+più angusta di lui. Ciò non è particolarmente paradossale; è,
+
+a ben pensarci, del tutto inevitabile. La sua visione del proprio
+
+villaggio può davvero essere piena di varietà; e perfino la sua visione della propria
+
+nazione può avere una grossolana somiglianza con la realtà. Ma la sua visione del
+
+mondo è probabilmente più piccola del mondo. La sua visione dell'universo
+
+è certamente assai più piccola dell'universo. Quindi non è mai tanto
+
+inadeguato come quando è universale; non è mai tanto limitato come quando
+
+generalizza. Questa è la fallacia nei molti tentativi moderni di un
+
+credo senza credo, di qualcosa variamente descritto come cristianesimo
+
+[[Christianity|essenziale]] o religione aconfessionale o una [[Faith|fede]] mondiale che abbracci
+
+tutte le fedi del mondo. È che ogni settario è più
+
+settario nel suo antisettarismo di quanto lo sia nella sua setta. L'emancipazione
+
+di un Battista è un'emancipazione assai battista. La [[Charity|carità]] di un Buddista
+
+è una [[Charity|carità]] assai buddista, e assai diversa dalla [[Charity|carità]] cristiana.
+
+Quando una [[philosophy|filosofia]] abbraccia tutto generalmente stritola tutto,
+
+e lo stritola deformandolo; quando digerisce necessariamente
+
+assimila. Quando un teosofo assorbe il [[Christianity|cristianesimo]] è piuttosto come un
+
+cannibale che assorbe i missionari cristiani. In questo senso è perfino
+
+possibile che la cosa più grande sia inghiottita dalla più piccola; e che gli
+
+uomini si muovano non solo in una setta di Clapham ma in un cosmo di Clapham
+
+sotto una [[Moon|luna]] e [[Stars|stelle]] di Clapham.
+
+Ma se questo pericolo esiste per tutti gli uomini, esiste specialmente per l'
+
+Inglese. L'Inglese non è mai tanto insulare come quando è imperiale;
+
+salvo, invero, quando è internazionale. Nella vita privata è un buon
+
+amico e nella politica pratica generalmente un buon alleato. Ma la politica
+
+teorica è più pratica della politica pratica. E nella politica teorica
+
+l'Inglese è il peggior alleato che il mondo abbia mai visto. Ciò è
+
+tanto più curioso in quanto ha trascorso gran parte della sua vita storica
+
+nel ruolo di alleato. È stato in venti grandi alleanze
+
+e non ne ha mai compresa una. Non è mai stato tanto lontano dalla
+
+politica europea come quando combatteva eroicamente nel fitto di
+
+essa. Io stesso penso che questo splendido isolamento sia talvolta davvero
+
+splendido; finché è isolamento e non s'immagina di essere
+
+imperialismo o internazionalismo. Con l'idea di essere internazionale,
+
+con l'idea di essere imperiale, giunge la frenetica e farsesca idea di
+
+essere imparziale. In generale, gli uomini non sono mai tanto meschini e falsi e
+
+ipocriti come quando sono occupati a essere imparziali. Stanno
+
+compiendo la prima e più tipica di tutte le azioni del diavolo;
+
+rivendicano il trono di Dio. Anche quando non è ipocrisia ma
+
+solo confusione mentale, è sempre una confusione sempre più
+
+confusa. Lo vediamo negli storici imparziali dell'Età Vittoriana,
+
+che ora sembrano assai più vittoriani degli storici parziali. Hallam
+
+scrisse del Medioevo; ma Hallam era assai meno medievale di
+
+Macaulay; poiché Macaulay era almeno un combattente. Huxley aveva più simpatie
+
+medievali di Herbert Spencer per la stessa ragione; che Huxley era un
+
+combattente. Entrambi combatterono in molti modi per i limiti della propria
+
+epoca razionalistica; ma erano più vicini alla [[Truth|verità]] degli uomini che
+
+semplicemente assumevano quei limiti come razionali. La guerra dei
+
+polemisti era cosa più ampia della pace degli arbitri.
+
+E allo stesso modo l'Inglese non fa mai una figura meno convincente
+
+dinanzi alle altre nazioni di quando cerca di arbitrare tra di esse.
+
+A questo [[Time|punto]] ho sentito parlare a lungo della necessità di salvare
+
+l'[[Friendship|amicizia]] anglo-americana, una necessità che io stesso avverto piuttosto troppo
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_82" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 82)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -29338,6 +42960,178 @@ sense national. A description of English life must be a description of
 private life. In that sense there is no public life. In that sense there
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+profondamente per accontentarsi dello stile ambasciatorio ed editoriale con cui
+
+conseguirlo. Ho già detto che lo stile peggiore di tutti è quello di essere
+
+anglo-americani; o, come si esprimerebbero i più illetterati, di essere
+
+anglosassoni. Sono sempre più convinto che il modo in cui l'
+
+inglese deve farlo è essere inglese; ma sapere di essere inglese e
+
+non anche tutto il resto [[Well|del pari]]. Così l'unica risposta sincera al nazionalismo
+
+irlandese è il nazionalismo inglese, che è una realtà; e non l'
+
+imperialismo inglese, che è una finzione reazionaria, né l'
+
+internazionalismo inglese, che ne è una rivoluzionaria.
+
+Perché gli inglesi sono vituperati per il loro imperialismo proprio perché non sono
+
+imperialisti. Esso non piace loro, ed è la vera ragione per cui lo fanno
+
+male; e lo fanno male, ed è la vera ragione per cui sono
+
+malvisti quando lo fanno. Nessuno chiama imperialista la Francia perché ha
+
+assorbito la Bretagna. Ma tutti chiamano imperialista l'Inghilterra perché
+
+non ha assorbito l'Irlanda. L'inglese è fissato e congelato per
+
+sempre nell'atteggiamento di un conquistatore spietato; non perché abbia
+
+conquistato quei popoli, ma perché non li ha conquistati; eppure sta
+
+sempre tentando di conquistarli con un [[Heroism|eroismo]] degno di causa migliore.
+
+Perché la parte davvero autoctona e vigorosa di ciò che purtroppo si chiama
+
+Impero Britannico non è affatto un impero, e non consiste affatto di
+
+queste province conquistate. Non è un impero ma un'avventura;
+
+che è probabilmente cosa assai più bella. Non era il potere di rendere
+
+paesi stranieri simili al nostro, ma semplicemente il piacere di vedere
+
+paesi stranieri perché erano diversi dal nostro. L'
+
+avventuriero infatti, come il terzo figlio, partiva in cerca di fortuna,
+
+ma non anzitutto per mutare le fortune altrui; desiderava commerciare
+
+con la gente piuttosto che governarla. Ma come gli altri popoli rimanevano
+
+diversi da lui, così egli rimaneva diverso da loro. L'avventuriero
+
+vedeva mille cose strane e restava uno straniero. Era il
+
+Robinson Crusoe su cento isole [[Desert|deserte]]; e su ciascuna restava tanto
+
+insulare quanto sulla propria isola.
+
+Ciò che occorre oggi alla causa dell'Inghilterra è un inglese con
+
+abbastanza [[Imagination|immaginazione]] da [[Love|amare]] il proprio paese dal di fuori [[Well|non meno]] che dal di
+
+dentro. Vale a dire, ci serve qualcuno che faccia per gli inglesi ciò che non è
+
+mai stato fatto per loro, ma che si fa per qualunque contadinanza esotica
+
+o perfino per qualunque tribù selvaggia. Vogliamo gente capace di rendere l'Inghilterra
+
+attraente; del tutto a prescindere dalle dispute se l'Inghilterra sia forte o
+
+debole. Vogliamo qualcuno che spieghi, non che l'Inghilterra sia dappertutto, ma
+
+che cosa sia l'Inghilterra in qualsiasi luogo; non se l'Inghilterra stia davvero morendo o no,
+
+ma perché non vogliamo che muoia. A tal fine i complimenti ufficiali e
+
+convenzionali, o le rivendicazioni, non possono mai andare oltre
+
+pompose astrazioni sulla Legge e la Giustizia e la [[Truth|Verità]]; gli ideali che l'
+
+Inghilterra accetta come ogni stato civile li accetta, e viola come
+
+ogni stato civile li viola. Non è questo il modo in cui il
+
+ritratto di un popolo sia mai stato dipinto sulla partecipe
+
+[[Imagination|immaginazione]] del mondo. Gli entusiasti del vecchio Giappone non ci dicevano che
+
+i giapponesi riconoscevano l'esistenza di una [[morality|moralità]] astratta; ma che
+
+vivevano in case di carta o scrivevano lettere col pennello. Gli uomini che
+
+volevano interessarci agli arabi non si limitavano a dire che
+
+sono monoteisti o moralisti; riempivano i nostri romanzi con l'
+
+impeto dei destrieri arabi o i colori di strane tende o tappeti. Ciò che
+
+vogliamo è qualcuno che faccia per l'inglese col suo [[Garden|giardinetto]] d'ingresso
+
+ciò che si è fatto per il giapponese e la sua [[house|casa]] di carta; che comprenda l'
+
+inglese col suo cane [[Well|non meno]] dell'arabo col suo [[Horse|cavallo]]. In una parola,
+
+ciò che nessuno ha davvero tentato di fare è l'unica cosa che davvero va
+
+fatta. È rendere l'Inghilterra attraente come nazionalità, e perfino come
+
+piccola nazionalità.
+
+Perché è pura follia supporre che le nazioni si [[Love|ameranno]] a vicenda
+
+perché sono simili. Non lo faranno mai davvero se non sono
+
+davvero identiche; e allora non saranno nazioni. Le nazioni possono [[Love|amarsi]] a
+
+vicenda come si [[Love|amano]] uomini e donne, non perché sono simili ma
+
+perché sono diverse. Si può facilmente dimostrare, credo, che in
+
+ogni caso in cui una vera simpatia pubblica si è destata per qualche sventurato
+
+popolo straniero, essa si è sempre accompagnata a un interesse particolare e
+
+positivo per i loro costumi più estranei e i loro più estranei
+
+aspetti esteriori. Chi fece un [[Romance|romanzo]] del montanaro scozzese fece un
+
+[[Romance|romanzo]] del suo kilt e perfino del suo pugnale; l'amico dei Pellirosse
+
+s'interessava alla scrittura per immagini e aveva una certa tendenza a
+
+interessarsi allo scotennamento. Per fare un esempio più serio, nazioni come
+
+la Serbia erano state raccomandate all'attenzione internazionale in gran parte dallo
+
+studio delle epopee serbe, o dei [[songs|canti]] serbi. L'epoca dell'emancipazione
+
+dei negri fu anche l'epoca delle melodie negre. Chi pianse su
+
+Zio Tom rise anche su Zio Remo. E come l'ammirazione per il
+
+Pellerossa quasi divenne un'apologia dello scotennamento, la misteriosa
+
+fascinazione dell'africano talora quasi ci ha condotti ai margini
+
+della nera foresta del Voodoo. Ma quella specie di interesse che si prova
+
+perfino per il cacciatore di scalpi e il cannibale, il torturatore e l'
+
+adoratore del diavolo, quella specie di interesse non è mai stata provata per l'
+
+inglese.
+
+E ciò è tanto più straordinario perché l'inglese è davvero molto
+
+interessante. È interessante in grado speciale in questo speciale
+
+modo; è interessante perché è individuale. Nessun uomo al mondo
+
+è più travisato da tutto ciò che è ufficiale o anche nel senso ordinario
+
+nazionale. Una descrizione della vita inglese dev'essere una descrizione della
+
+vita privata. In quel senso non c'è vita pubblica. In quel senso non c'è
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_83" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 83)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -29512,6 +43306,176 @@ much more insignificant English travellers in [[America]], with some of whom
 I am myself acquainted. I myself have the luck to be a little more
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+non c'è opinione pubblica. Non ci sono mai stati quegli incendi di prateria dell'
+
+opinione pubblica in Inghilterra che spesso dilagano per l'[[America]]. In ogni caso,
+
+non ci sono mai state simili rivoluzioni popolari dalle rivoluzioni
+
+popolari del Medioevo. Gli inglesi sono una nazione di dilettanti;
+
+sono perfino una nazione di eccentrici. Un inglese non è mai più
+
+inglese di quando è considerato un pazzo dagli altri inglesi.
+
+Lo si vede chiaramente in una figura come il dottor Johnson, che è divenuto
+
+nazionale non per essere normale ma per essere straordinario. Esprimere questo
+
+popolo misterioso, spiegare o suggerire perché amino le siepi alte e le
+
+colazioni abbondanti e le strade tortuose e i piccoli giardini con grandi steccati,
+
+e perché essi [[Alone|soli]] fra i cristiani abbiano conservato con piena coerenza la
+
+grande gloria cristiana del focolare aperto, ecco che sarebbe una strana e
+
+stimolante occasione per uno qualunque degli artisti della parola, che studiano le
+
+anime dei popoli strani. Quello sarebbe il vero modo di creare un'
+
+[[Friendship|amicizia]] tra l'Inghilterra e l'[[America]], o tra l'Inghilterra e qualunque
+
+altra cosa; sì, perfino tra l'Inghilterra e l'Irlanda. Perché questa giustizia almeno
+
+è già stata resa all'Irlanda; e da patriota indignato esigo un
+
+trattamento più equo per le due nazioni.
+
+Ho già rilevato il luogo comune secondo cui per insegnare l'
+
+internazionalismo dobbiamo parlare di nazionalismo. Dobbiamo rendere le nazioni in quanto
+
+nazioni meno odiose o misteriose le une alle altre. Non si fa [[Love|amare]] gli uomini
+
+tra loro descrivendo un [[Monster|mostro]] con un milione di braccia e gambe, ma
+
+descrivendo gli uomini come uomini, con le loro emozioni distinte e perfino
+
+solitarie. Poiché ciò si applica in particolare alle emozioni dell'
+
+inglese, tornerò ancora una volta sull'argomento. Ora, gli americani hanno un
+
+potere che è l'[[Soul|anima]] e il [[success|successo]] della [[Democracy|democrazia]], il potere dell'
+
+organizzazione sociale spontanea. Il loro brio, i loro ideali umanitari
+
+sono davvero creativi, abbondano di istituzioni ufficiose; potremmo
+
+quasi dire di un ufficialismo ufficioso. Nessuno che abbia sentito la presenza
+
+di tutte quelle leghe e corporazioni e circoli universitari negherà che Whitman
+
+fosse nazionale quando disse che avrebbe costruito stati e città con l'
+
+[[Love|amore]] dei compagni. Quando tutto questo entusiasmo comunitario si scontra con l'
+
+inglese, troppo spesso sembra letteralmente lasciarlo freddo. Dicono che sia
+
+riservato; forse pensano che sia scortese. E l'inglese, essendogli stata
+
+insegnata tutta sbagliata la propria [[history|storia]], è fin troppo incline a prendere la
+
+critica come un complimento. Ammette d'essere riservato perché è
+
+severo e forte; o perfino d'essere scortese perché è accorto e
+
+schietto. Ma di fatto non è scortese né particolarmente riservato;
+
+almeno il riserbo non è il senso della sua ritrosia. La vera differenza
+
+sta, credo, nel fatto che il brio americano non è solo alto
+
+ma piano; che lo spirito ilare americano è come un altopiano, e lo
+
+spirito umoristico inglese come una frastagliata catena di monti.
+
+L'inglese è lunatico; il che non significa affatto che l'
+
+inglese sia tetro. Dickens, come tutti sentiamo leggendo i suoi libri, era
+
+chiassosamente inglese. Dickens era d'umore quando scrisse _Oliver Twist_;
+
+ma era d'umore anche quando scrisse _Pickwick_. Cioè, era in
+
+un altro e assai più sano umore. Quell'umore gli era normale nel senso
+
+che nove volte su dieci sentiva e scriveva in quell'umore umoristico e
+
+ilare. Ma era, se mai ve ne fu uno, un uomo d'umori; e
+
+tanto più un inglese tipico proprio per essere uomo d'umori. Ma fu
+
+per questo, quasi interamente, che ebbe un malinteso
+
+con l'[[America]].
+
+In [[America]] non ci sono umori, o c'è un solo umore. È lo stesso
+
+che lo si chiami frenesia o elevazione; che lo si consideri come l'
+
+eroico [[Love|amore]] dei compagni o l'ultima isteria dell'istinto del gregge. È
+
+stato detto dei tipici aristocratici inglesi degli uffici del [[government|Governo]]
+
+che somigliano a certe fontane ornamentali e zampillano dalle
+
+dieci alle quattro; ed è vero che un inglese, perfino un
+
+[[aristocrat|aristocratico]] inglese, non è sempre incline a divertirsi più di quanto lo sia a lavorare. Ma
+
+la socievolezza americana non è come le fontane di Trafalgar. È come il
+
+Niagara. Non si ferma mai, sotto le silenziose [[Stars|stelle]] o le tempeste [[rolling|rombanti]].
+
+Pare esserci sempre lo stesso calore e la stessa pressione umana dietro; è
+
+come il riscaldamento centralizzato degli alberghi quale è spiegato nelle réclame
+
+e negli avvisi. La temperatura può essere regolata; ma non lo è. Ed
+
+è sempre piuttosto soverchiante per un inglese, il cui umore muta
+
+come il suo stesso cielo mutevole e cangiante. L'umore inglese assomiglia molto al
+
+tempo inglese; è una seccatura e una necessità nazionale.
+
+Se qualcuno vuole comprendere la lite tra Dickens e gli
+
+americani, si volga a quel capitolo di _Martin Chuzzlewit_, in cui il
+
+giovane Martin deve ricevere interminabili sfilate e delegazioni di perfetti
+
+sconosciuti ciascuno annunciato per nome ed esigente un saluto formale. Vi
+
+sono parecchie cose da notare su questo episodio. Tanto per cominciare, esso
+
+non accadde a [[Martin Chuzzlewit]]; ma accadde davvero a Charles
+
+Dickens. Dickens incorpora quasi senza alterazione un passo
+
+di un diario nel mezzo di una storia; come fece quando incluse l'
+
+ammirevole resoconto della supplica dalla [[Prison|prigione]] di John Dickens come la supplica dalla [[Prison|prigione]]
+
+di [[Wilkins Micawber]]. Non c'è ragione particolare perché anche i
+
+gregari americani affollino tanto le porte di un passeggero di terza classe del tutto
+
+oscuro come il giovane Chuzzlewit. C'era ogni ragione perché
+
+affollassero le porte dell'autore di _Pickwick_ e di _Oliver
+
+Twist_. E senza [[Doubt|dubbio]] lo fecero. Se mi è concessa l'immagine aleatoria,
+
+ci scommetti che lo fecero. Simili schiere di socievoli esseri umani hanno visitato
+
+viaggiatori inglesi assai più insignificanti in [[America]], con alcuni dei quali
+
+io stesso ho conoscenza. Io stesso ho la fortuna di essere un po' più
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_84" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 84)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -29679,6 +43643,170 @@ individual. But [[Individualism|individualism]] is still the foe of individualit
 
 men are trying to compete with each other they are trying to copy each
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+greve e meno sensibile di molti miei connazionali; e certamente meno
+
+sensibile di Dickens. Ma so cosa fu a irritarlo in
+
+quel flusso incessante e immutabile di visitatori americani; fu il
+
+flusso incessante e immutabile di socievolezza e brio americani.
+
+Un popolo che vive su un tavolato tanto elevato ma piano non comprende
+
+gli alti e bassi del temperamento inglese; l'indole di una nazione di
+
+eccentrici o (come si diceva un tempo) di umoristi. C'è
+
+qualcosa di molto nazionale nel titolo stesso della vecchia commedia _Every Man
+
+in His Humour_. Ma la commedia più spesso recitata nella vita reale è 'Every Man
+
+Out of His [[Humour|Umore]].' È vero, come disse Matthew Arnold, che un
+
+inglese vuol fare come gli pare; ma non è sempre vero neppure che
+
+gli piaccia ciò che gli pare. Un inglese può essere cordiale e tuttavia non sentirsi
+
+cordiale. O può essere cordiale e tuttavia non sentirsi ospitale. O può
+
+sentirsi ospitale e tuttavia non accogliere coloro che davvero ama. Può
+
+pensare, quasi con [[Tears|lacrime]] di tenerezza, a persone lontane che
+
+sarebbero noiose se entrassero dalla porta.
+
+La socievolezza americana spazza via ogni simile sottigliezza. Non le si può
+
+chiedere di comprendere il [[Paradox|paradosso]] o la perversità dell'inglese, che
+
+così può sentirsi cordiale ed evitare gli amici. Ecco la [[Truth|verità]] contenuta nell'
+
+insinuazione che Dickens fosse sentimentale. Significa che probabilmente si sentiva
+
+più socievole quando era solitario. In tutti questi tentativi di descrivere
+
+l'indescrivibile, di indicare le differenze reali ma inconsce
+
+tra i due popoli, ho cercato di bilanciare le mie parole senza il
+
+pregiudizio irrilevante della lode e del biasimo. Entrambi i caratteri tagliano sempre da
+
+due lati. Da un lato questo [[Comradeship|cameratismo]] rende possibile un certo
+
+[[Courage|coraggio]] comunitario, una derisione democratica dei ricchi ai posti alti,
+
+che non è facile nella nostra più piccola e più stratificata società. D'
+
+altro canto l'inglese ha certamente più libertà, se meno uguaglianza
+
+e fratellanza. Ma la più ricca compensazione dell'inglese non sta
+
+nemmeno nella parola 'libertà', bensì nella parola 'poesia'. Quell'[[Humour|umore]]
+
+di fuga o di ritiro, quella geniale solitudine, quel risanamento dell'
+
+[[Friendship|amicizia]] ferita mediante ciò che la Scienza Cristiana chiamerebbe cura a distanza, ecco
+
+l'atmosfera migliore di tutte per la creazione di grande poesia; e da
+
+quella vennero 'nudi cori in rovina dove un tempo i dolci [[Birds|uccelli]] cantavano' e
+
+'Tu non fosti fatto per la [[Death|morte]], uccello immortale'. In questo senso è
+
+davvero vero che la poesia è emozione ricordata nella tranquillità; il che si può
+
+estendere fino a significare affetto ricordato nella [[Loneliness|solitudine]]. Vi è in essa uno
+
+spirito non solo di distacco ma perfino di distanza; uno spirito che
+
+[[Desire|desidera]], come nella vecchia filastrocca inglese, essere non solo oltre i colli ma
+
+anche lontano lontano. In altre parole, nella misura in cui è vero che l'
+
+inglese è un'eccezione alla grande [[Truth|verità]] di Aristotele, ciò è
+
+perché non è tanto vicino ad Aristotele quanto lo è a Omero. Nella misura in cui
+
+non è per [[Nature|natura]] un animale politico, è perché è un animale
+
+poetico. Lo vediamo nei suoi rapporti con gli altri [[Animals|animali]]; il suo bizzarro e
+
+quasi illogico [[Love|amore]] per i [[dogs|cani]] e i cavalli e i dipendenti i cui diritti politici
+
+non possono in alcun modo essere definiti dalla [[logic|logica]]. Molte forme di caccia o
+
+di pesca non sono che un pretesto per la stessa cosa che lo spudorato
+
+uomo di lettere fa senza alcun pretesto. Lo sport è poesia muta. Sarebbe
+
+facile per uno straniero, prendendosi qualche libertà con i fatti,
+
+fare una [[Satire|satira]] su quella specie di silenzioso Shelley che decide infine
+
+di sparare all'allodola. Sarebbe facile rispondere a questi poetici
+
+suggerimenti dicendo che egli stesso potrebbe essere responsabile della rovina dei
+
+cori dove un tempo i dolci [[Birds|uccelli]] cantavano, o che l'uccello immortale
+
+rischiava d'essere mortale quando egli usciva col fucile. Ma queste
+
+satire internazionali non sono mai giuste; e i veri rapporti tra un
+
+inglese e un uccello inglese sono assai più delicati. Sarebbe
+
+altrettanto facile e altrettanto ingiusto proporre una simile [[Satire|satira]] contro la
+
+[[Democracy|democrazia]] americana; e rappresentare gli americani come meri [[Birds|uccelli]] della stessa piuma
+
+che non sanno far altro che stormire insieme. Ma questo tralascerebbe il fatto
+
+che almeno non è la piuma bianca; che la [[Democracy|democrazia]] è capace di
+
+sfida e di [[Death|morte]] per un'idea. Toccando le anime delle grandi nazioni,
+
+queste critiche sono generalmente false proprio perché sono critiche.
+
+Ma quando siamo ben sicuri di gioire della forza di una nazione, allora
+
+e non prima siamo giustificati nel giudicarne la debolezza. Sono ben sicuro
+
+di gioire di ogni [[success|successo]] democratico senza _arrière pensée_; e
+
+nessuno che mi conosca mi attribuirà un ghigno recondito verso l'uguaglianza
+
+civica. E ammesso ciò, penso davvero che vi sia un pericolo nella
+
+gregarietà della società americana. Il pericolo della [[Democracy|democrazia]] non è
+
+l'anarchia; al contrario, è la monotonia. Ed è a questo proposito che
+
+tutta la mia esperienza ha accresciuto la mia convinzione che gran parte di ciò che
+
+si chiama emancipazione femminile non è stata che l'incremento della convenzione
+
+femminile. Ora, i maschi di ogni comunità sono fin troppo convenzionali;
+
+erano le femmine a essere individuali e a criticare le convenzioni della
+
+tribù. Se anche le femmine diventano convenzionali, c'è il pericolo che l'
+
+individualità vada perduta. Ciò invero non è peculiare dell'[[America]]; è
+
+comune all'intero mondo industriale moderno, e a tutto ciò che
+
+sostituisce l'atmosfera impersonale dello Stato all'atmosfera personale della
+
+[[Home|casa]]. Ma in [[America]] è accentuato dalla curiosa
+
+contraddizione che gli americani in teoria apprezzano e perfino venerano l'
+
+individuo. Ma l'[[Individualism|individualismo]] resta il nemico dell'individualità. Dove gli
+
+uomini cercano di competere l'uno con l'altro cercano di copiarsi l'un l'
 
 
 
@@ -29850,6 +43978,172 @@ right about the future; but we can be almost certain of being wrong
 about the future, if we are wrong about the past. The other thing that
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+altro. Diventano privi di tratti proprio 'rappresentando' la stessa parte.
+
+La personalità, divenendo un ideale conscio, diventa un ideale comune. Sotto
+
+questo aspetto forse c'è davvero qualcosa da imparare dall'
+
+inglese con la sua piega o torsione in direzione della vita privata.
+
+Chi ha viaggiato in modo tale da vedere tutti gli alberghi americani e
+
+nessuna delle case americane è talora spinto all'
+
+eccesso di dire che gli americani non hanno vita privata. Ma anche se
+
+l'esagerazione ha un'ombra di [[Truth|verità]], dobbiamo bilanciarla con la
+
+[[Truth|verità]] corrispondente; che gli inglesi non hanno vita pubblica. Essi dal canto
+
+loro devono ancora imparare il significato della cosa pubblica, la repubblica;
+
+e quanto grandi siano i pericoli di viltà e corruzione quando lo Stato
+
+stesso è divenuto un segreto di Stato.
+
+Gli inglesi sono patriottici; ma il patriottismo è la forma inconscia del
+
+nazionalismo. È essere nazionali senza comprendere il significato di una
+
+nazione. Gli americani sono nel complesso troppo consci di [[Self|sé]], tenuti in moto
+
+troppo al ritmo della vita pubblica, con tutte le sue tentazioni alla
+
+superficialità e alla moda; troppo consapevoli dell'opinione altrui e con
+
+troppo appetito per la critica altrui. Ma gli inglesi sono fin troppo
+
+inconsapevoli; e trarrebbero giovamento da un aumento di molte forme di
+
+coscienza, compresa la coscienza del peccato. Ma perfino il loro peccato è
+
+ignoranza della loro vera virtù. Le cose inglesi più ammirevoli non sono
+
+le cose più ammirate dagli inglesi, o per le quali gli
+
+inglesi ammirano sé stessi. Sono cose ora ciecamente trascurate e in
+
+quotidiano pericolo d'essere distrutte. Ed è tanto peggio che siano
+
+distrutte, perché non c'è davvero nulla di simile a esse al mondo. Ecco
+
+perché ho suggerito una nota di nazionalismo piuttosto che di patriottismo per gli
+
+inglesi; il potere di vedere la loro nazione come una nazione e non come la
+
+[[Nature|natura]] delle cose. Diciamo di qualche ballata dei Balcani o di qualche costume
+
+contadino dei Paesi Bassi che è unico; ma le cose belle dell'
+
+Inghilterra sono davvero uniche. Proprio il nostro isolamento dalle guerre continentali e dalle
+
+ricostruzioni rivoluzionarie le ha mantenute uniche. La particolare specie
+
+di [[Beauty|bellezza]] che c'è in un villaggio inglese, la particolare specie di [[Humour|umorismo]]
+
+che c'è in una [[house|taverna]] pubblica inglese, sono cose che non si trovano in
+
+terre dove il villaggio è governato assai più semplicemente ed equamente, o
+
+dove la vite è servita e lodata assai più onorevolmente. Eppure non le
+
+salveremo semplicemente sprofondando in esse con quella specie conservatrice di
+
+contentezza, anche se la rapacità commerciale delle nostre riforme plutocratiche
+
+ce lo consentisse. Dobbiamo in un certo senso allontanarci molto dall'Inghilterra per
+
+poterla contemplare; dobbiamo elevarci al di sopra del patriottismo per essere
+
+praticamente patriottici; dobbiamo avere un certo senso di cose più varie e remote
+
+prima che queste virtù svanenti possano essere viste d'improvviso per ciò che
+
+sono; quasi come si potrebbe immaginare che un uomo debba salire alle
+
+più vertiginose altezze della comprensione divina prima di vedere, come da una
+
+vetta ben sopra un gorgo, quanto sia preziosa la sua [[Soul|anima]] peritura.
+
+_Il Futuro della Democrazia_
+
+Il titolo di questo capitolo finale richiede una scusa. Non ho bisogno che mi si
+
+rammenti, ahimè, che l'intero libro richiede una scusa. È scritto
+
+in conformità a un rito o a un'usanza in cui non vedevo nulla di particolarmente
+
+nocivo, e che mi dà un soggetto molto interessante, ma un'usanza che
+
+non sarebbe del tutto facile giustificare secondo [[logic|logica]]. Chiunque vada
+
+in [[America]] per breve [[Time|tempo]] è tenuto a scrivere un libro; e quasi
+
+tutti lo fanno. Un uomo che si prende una vacanza a Trouville o a Dieppe non è
+
+affrontato al ritorno con la domanda: 'Quando esce il tuo libro sulla Francia
+
+?' Un uomo che si reca in Svizzera per gli
+
+sport [[Winter|invernali]] non viene subito inchiodato dall'affermazione: 'Suppongo che la tua
+
+[[history|Storia]] della Repubblica Elvetica esca questa [[spring|primavera]]?' Tenere conferenze,
+
+almeno il mio genere di conferenze, non è molto più serio o meritorio
+
+dello sciare o del bagnarsi in mare; e per giunta offre al villeggiante
+
+assai minore occasione di vedere la vita quotidiana della gente. Di tutto ciò
+
+sono fin troppo [[Well|bene]] consapevole; e la mia sola difesa è che sono almeno
+
+sincero nel mio godimento e apprezzamento dell'[[America]], e altrettanto sincero
+
+nel mio interesse per il suo problema più serio, che ritengo un problema davvero
+
+serio; il problema della [[Democracy|democrazia]] nel mondo moderno. La [[Democracy|democrazia]]
+
+può essere una faccenda molto ovvia e facile per plutocrati e politici
+
+che devono solo usarla come termine retorico. Ma la [[Democracy|democrazia]] è un
+
+problema molto serio per i democratici. Non mi scuso certo per la parola
+
+[[Democracy|democrazia]]; ma mi scuso per la parola futuro. Non sono un futurista; e
+
+ogni congettura che faccio va presa con quel granello di sale che è
+
+invero il sale della terra; la decorosa e moderata [[Humility|umiltà]] che
+
+viene dalla fede nel libero arbitrio. Quella [[Faith|fede]] è in sé un divino
+
+[[Doubt|dubbio]]. Non credo a nessuna delle previsioni scientifiche sull'
+
+umanità; noto che esse mancano sempre di prevedere alcuno dei puramente
+
+umani sviluppi degli uomini; noto anche che perfino i loro successi provano
+
+la stessa [[Truth|verità]] dei loro fallimenti; perché le loro previsioni riuscite non
+
+riguardano gli uomini ma le macchine. Ma ci sono due cose che un uomo
+
+può ragionevolmente fare, nell'esporre le probabilità di un problema, che non
+
+implicano alcuna pretesa d'essere un [[Prophet|profeta]]. La prima è dire la [[Truth|verità]],
+
+e specialmente la [[Truth|verità]] trascurata, sulle tendenze che si sono
+
+già accumulate nella [[history|storia]] umana; ogni errore di calcolo sulle quali
+
+deve almeno fuorviarci in ogni caso. Non possiamo essere certi di avere
+
+ragione sul futuro; ma possiamo essere quasi certi di avere torto
+
+sul futuro, se abbiamo torto sul passato. L'altra cosa che
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_86" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 86)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -30019,6 +44313,172 @@ the modern tendency, as compared with the main stream of scepticism
 
 which was destroying [[Democracy|democracy]]. Evolution became more and more a vision
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+può fare è notare quali idee necessariamente vadano insieme per loro
+
+[[Nature|natura]]; quali idee trionferanno insieme o cadranno insieme. Ne
+
+consegue che questo capitolo finale deve constare di due cose. La prima è
+
+un riepilogo di ciò che è realmente accaduto all'idea di [[Democracy|democrazia]] nei tempi
+
+recenti; la seconda un'indicazione della dottrina fondamentale che è
+
+necessaria al suo trionfo in ogni [[Time|tempo]].
+
+Gli ultimi cent'anni hanno visto un generale declino dell'idea
+
+democratica. Se resta qualcuno a cui questa [[Truth|verità]] storica appaia un
+
+[[Paradox|paradosso]], è solo perché durante quel periodo a nessuno è stata insegnata la
+
+[[history|storia]], meno che mai la [[history|storia]] delle idee. Se fosse stata istituita una sorta di
+
+[[Inquisition|Inquisizione]] intellettuale, per la definizione e differenziazione
+
+delle eresie, si sarebbe trovato che l'ortodossia repubblicana
+
+originaria aveva sofferto sempre più di secessioni, scismi e
+
+ricadute. Il punto più alto dell'idealismo e della convinzione democratica
+
+fu verso la fine del Settecento, quando la Repubblica
+
+Americana fu 'consacrata al principio che tutti gli uomini sono uguali'. Fu
+
+allora che il maggior numero di uomini ebbe la più seria specie di
+
+convinzione che il problema politico potesse essere risolto dal voto dei
+
+popoli anziché dal potere arbitrario di principi e ordini privilegiati.
+
+Questi uomini incontrarono varie difficoltà e fecero vari compromessi
+
+in rapporto alla politica pratica del loro [[Time|tempo]]; in Inghilterra
+
+conservarono l'aristocrazia; in [[America]] conservarono la [[Slavery|schiavitù]]. Ma benché
+
+avessero più difficoltà, avevano meno dubbi. Dal loro [[Time|tempo]] la
+
+[[Democracy|democrazia]] è stata costantemente disgregata dai dubbi; e questi dubbi politici
+
+sono stati contemporanei e spesso identici ai dubbi
+
+religiosi. Questo fatto potrebbe seguirsi su quasi tutto il campo del
+
+mondo moderno; in questa sede sarà più appropriato prendere il
+
+grande esempio americano della [[Slavery|schiavitù]]. Ho trovato tracce in ogni sorta di
+
+ambienti intelligenti di una straordinaria idea secondo cui tutti i Padri della
+
+Repubblica possedevano uomini neri come bestie da soma perché non sapevano far di
+
+meglio, finché la luce della libertà fu loro rivelata da John Brown
+
+e dalla signora Beecher Stowe. Uno dei migliori settimanali d'Inghilterra ha detto
+
+di recente che perfino coloro che redassero la Dichiarazione d'Indipendenza non
+
+inclusero i negri nella sua generalizzazione sull'umanità. Ciò è del tutto
+
+coerente con la convenzione corrente, in cui tutti siamo stati allevati;
+
+la teoria che il cuore dell'umanità si allarga in cerchi sempre più ampi di
+
+fratellanza, finché passiamo dall'abbracciare un uomo nero all'adorare un nero
+
+scarafaggio. Purtroppo è del tutto incoerente con i fatti della
+
+[[history|storia]] americana. I fatti mostrano che, in questo problema del Vecchio Sud,
+
+il Settecento era _più_ liberale dell'Ottocento.
+
+C'era _più_ simpatia per il negro nella scuola di Jefferson che
+
+nella scuola di Jefferson Davis. Jefferson, nell'oscura condizione del suo
+
+semplice deismo, disse che la vista della [[Slavery|schiavitù]] nel suo paese lo faceva tremare,
+
+ricordando che Dio è giusto. I suoi conterranei del Sud, dopo un secolo di
+
+progresso del mondo, dicevano che la [[Slavery|schiavitù]] in sé era buona, quando non si
+
+spingevano oltre a dire che i negri in sé erano cattivi. Ed erano
+
+sorretti in ciò dal grande e crescente sospetto moderno che la
+
+[[Nature|natura]] sia ingiusta. Le difficoltà parevano inevitabilmente ritardare la giustizia, alla
+
+mente di Jefferson; ma altrettanto facevano alla mente di [[Lincoln]]. Ma che lo
+
+schiavo fosse umano e la servitù disumana—questo era, semmai,
+
+più chiaro a Jefferson che a [[Lincoln]]. Il fatto è che la totale
+
+separazione e subordinazione del nero come una bestia era un _progresso_;
+
+era una crescita dell'illuminismo e della sperimentazione ottocenteschi; un
+
+trionfo della scienza sulla superstizione. Era 'il verso in cui il mondo
+
+andava', come Matthew Arnold osservò reverente in qualche contesto;
+
+forse come parte di una definizione di Dio. Comunque, non era la definizione
+
+di Dio secondo Jefferson. Egli immaginava, nel suo remoto modo patriarcale, un Padre
+
+che aveva reso tutti gli uomini fratelli; e per quanto brutalmente poco fraterna fosse la
+
+pratica, simili deisti democratici non sognarono mai di negare la teoria.
+
+Non fu se non quando cominciarono i sofismi scientifici che la fratellanza fu
+
+davvero contestata. Gobineau, che avviò gran parte del discorso moderno sulla
+
+superiorità e inferiorità dei ceppi razziali, fu avidamente afferrato dai
+
+meno generosi tra gli schiavisti e sbandierato come una nuova [[Truth|verità]] della
+
+scienza e una nuova difesa della [[Slavery|schiavitù]]. Non fu davvero se non all'[[Dawn|alba]]
+
+del darwinismo, quando tutte le nostre relazioni sociali cominciarono a puzzare di
+
+[[house|serraglio]] di scimmie, che gli uomini pensarono al barbaro solo come a un primo e al
+
+babbuino come a un secondo cugino. La piena [[philosophy|filosofia]] servile è stata una cosa moderna
+
+e perfino recente; foggiata in un'epoca la cui divinità invisibile era l'
+
+Anello Mancante. L'Anello Mancante era una vera metafora in più modi di
+
+uno; e soprattutto nella sua allusione a una catena.
+
+Per una simbolica coincidenza, invero, la [[Slavery|schiavitù]] si fece più sfrontata e brutale
+
+sotto l'incoraggiamento di più d'un movimento di stampo
+
+progressista. La sua giovinezza le fu rinnovata dalla prosperità industriale del
+
+Lancashire; e sotto quell'influsso divenne una cosa commerciale e
+
+competitiva anziché patriarcale e consuetudinaria. Possiamo dire
+
+senza ironia esagerata che i patroni inconsapevoli della [[Slavery|schiavitù]] furono
+
+Huxley e Cobden. Le macchine di Manchester fabbricavano assai
+
+più cose di quante i fabbricanti sapessero o volessero sapere; ma
+
+fabbricavano di certo i ceppi dello schiavo, senza dubbio col
+
+migliore acciaio e ferro. Ma questa è un'illustrazione minore della
+
+tendenza moderna, rispetto alla corrente principale dello scetticismo
+
+che stava distruggendo la [[Democracy|democrazia]]. L'evoluzione divenne sempre più una visione
 
 
 
@@ -30191,6 +44651,174 @@ monkey in a mitre. That is the point about Christian and Catholic
 
 [[Democracy|democracy]]; it is not that it is necessarily at any moment more
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+della disgregazione della nostra fratellanza, finché sul finire dell'
+
+Ottocento il genio del suo più grande romanziere scientifico la vide finire nelle
+
+antropofaghe pagliacciate della [[Machine|Macchina]] del [[Time|Tempo]]. Ben lungi dal sollevarci
+
+l'evoluzione al di sopra dell'idea di rendere schiavi gli uomini, essa ci forniva almeno
+
+un argomento logico e potenziale per mangiarli. Nel caso dei
+
+negri americani, si può notare, essa consente in ogni caso il
+
+preliminare procedimento di arrostirli. Tutto questo indurimento materialistico,
+
+che rimpiazzò il rimorso di Jefferson, faceva parte del crescente
+
+sospetto evoluzionistico che i selvaggi non fossero parte della razza umana,
+
+o meglio che non esistesse affatto una cosa come la razza umana. Il
+
+Sud aveva cominciato acconsentendo con riluttanza all'asservimento degli uomini. Il
+
+Sud finì acconsentendo con eguale riluttanza all'emancipazione delle
+
+scimmie.
+
+Ecco cosa era accaduto all'ideale democratico in cent'anni.
+
+Chiunque può verificarlo confrontando la fase finale, non dirò con
+
+l'ideale di Jefferson, ma con l'ideale di Johnson. C'era assai
+
+più orrore della [[Slavery|schiavitù]] in un Tory del Settecento come il dottor Johnson
+
+che in un democratico dell'Ottocento come Stephen Douglas. Stephen
+
+Douglas può essere menzionato perché è un tipo molto rappresentativo dell'
+
+età dell'evoluzione e dell'espansione; un uomo che pensava per continenti, come Cecil
+
+Rhodes, umano e fiducioso in un modo davvero americano, e di
+
+conseguenza freddo e noncurante piuttosto che ostile in fatto delle
+
+vecchie dottrine mistiche dell'uguaglianza. A lui 'non importava se la [[Slavery|schiavitù]] fosse
+
+votata a favore o contro'. Al suo grande avversario [[Lincoln]] importava invece
+
+moltissimo. Ma era una convinzione individuale intensa in [[Lincoln]]
+
+esattamente come lo era in Johnson. [[Doubt|Dubito]] che lo spirito del tempo non fosse
+
+assai più dietro Douglas e la sua espansione verso ovest della razza bianca. Sono
+
+sicuro che sempre più uomini venivano a trovarsi nella particolare
+
+condizione mentale di Douglas; uomini in cui i vecchi ideali morali e mistici
+
+erano stati minati dal [[Doubt|dubbio]] ma solo con un effetto negativo di
+
+indifferenza. Le loro convinzioni positive riguardavano tutte ciò che
+
+alcuni chiamavano progresso e altri imperialismo. È vero che ci fu un
+
+sincero entusiasmo settoriale contro la [[Slavery|schiavitù]] nel Nord; e che gli
+
+schiavi furono effettivamente emancipati nell'Ottocento. Ma [[Doubt|dubito]]
+
+che gli abolizionisti avrebbero mai ottenuto l'Abolizione. L'Abolizione
+
+fu un sottoprodotto della Guerra Civile; che fu combattuta per tutt'altre
+
+ragioni. Comunque, se la [[Slavery|schiavitù]] fosse in qualche modo sopravvissuta all'età di Rhodes
+
+e di Roosevelt e dell'imperialismo evoluzionistico, [[Doubt|dubito]] che gli schiavi
+
+sarebbero mai stati emancipati affatto. Di certo, se fosse sopravvissuta fino al
+
+moderno movimento per lo Stato Servile, non sarebbero mai stati
+
+emancipati affatto. Perché il mondo dovrebbe togliere le [[Chains|catene]] all'uomo
+
+nero mentre stava appunto mettendole al bianco? E nella misura in cui dobbiamo
+
+il mutamento a [[Lincoln]], lo dobbiamo a Jefferson. Proprio ciò che conferisce la sua
+
+vera dignità alla figura di [[Lincoln]] è che egli sta lì a invocare un
+
+primitivo primo principio dell'età dell'[[innocence|innocenza]], e a levare in alto le
+
+tavole di un'antica legge, _contro_ la corrente dell'Ottocento;
+
+ripetendo: 'Riteniamo queste verità di per [[Self|sé]] evidenti; che tutti gli uomini sono
+
+creati uguali, che sono dotati dal loro Creatore, ecc.', a una
+
+generazione sempre più disposta a dire qualcosa del genere:
+
+'Riteniamo queste verità abbastanza probabili per i pragmatisti; che tutte le
+
+cose che sembrano uomini si sono in qualche modo evolute, essendo dotate dall'eredità
+
+e dall'ambiente di nessun eguale diritto, ma di ben ineguali torti', e così
+
+via. Non credo che quel credo, lasciato a sé, avrebbe mai fondato
+
+uno stato; e sono abbastanza certo che, lasciato a sé, non avrebbe mai
+
+rovesciato uno stato schiavista. Ciò che invece fece, come ho detto, fu
+
+produrre alcuni straordinari voli letterari e artistici di scettica
+
+[[Imagination|immaginazione]]. Il mondo ebbe davvero nuove visioni, se pur erano visioni di
+
+mostri nella [[Moon|Luna]] e di marziani che incedevano come ragni alti quanto il
+
+cielo, e degli operai e dei capitalisti che diventavano due specie separate,
+
+sì che l'una potesse divorare l'altra allegramente e avidamente come un gatto
+
+divora un uccello. Nessuno ha reso giustizia al significato del signor Wells e
+
+della sua originale novità nella narrativa fantastica; a questi incubi che
+
+furono l'ultima [[Apocalypse|apocalisse]] dell'Ottocento. Significavano che il
+
+[[Bottom|fondo]] era infine caduto dalla mente, che il ponte della
+
+fratellanza era crollato nel cervello moderno, lasciando salire dagli
+
+abissi questa luce infernale come un'[[Dawn|alba]]. Tutto era divenuto vertiginoso di gradi
+
+e di relatività; sicché non ci sarebbe stata poi gran differenza
+
+tra mangiare un cane e mangiare un moro, o tra mangiare un moro e
+
+mangiare un tanghero. C'erano diverse specie di scimmie; ma non c'era [[Doubt|dubbio]]
+
+che noi fossimo la specie superiore.
+
+Contro tutta questa forza irresistibile stava un palo immobile. Contro
+
+tutta questa [[Dance|danza]] di [[Doubt|dubbio]] e di gradi stava qualcosa che meglio si può
+
+simboleggiare con un semplice esempio. Una scimmia non può essere prete, ma un negro
+
+può essere prete. Il tipo dogmatico di [[Christianity|Cristianesimo]], specialmente il
+
+tipo cattolico di [[Christianity|Cristianesimo]], si era saldato irrevocabilmente alla
+
+umanità di tutti gli uomini. Là dove la sua [[Faith|fede]] era fissata da credi e concili
+
+non poteva salvarsi nemmeno con la resa. Non poteva diluire gradualmente la
+
+[[Democracy|democrazia]], come poteva un democratico meramente scettico o laico. Là stava,
+
+in atto o in potenza, la solida e sorridente figura di un vescovo
+
+nero. Ed egli era o un uomo che rivendicava i più torreggianti privilegi
+
+spirituali di un uomo, oppure era la mera buffoneria e bestemmia di una
+
+scimmia in mitria. Ecco il punto riguardo alla cristiana e cattolica
+
+[[Democracy|democrazia]]: non è che essa sia necessariamente in ogni momento più
 
 
 
@@ -30366,6 +44994,176 @@ democratic Deist of the eighteenth century? What has become of all that
 purely human hierarchy of chivalry, with its punctilious pattern of the
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+democratica; è che il suo indistruttibile minimo di [[Democracy|democrazia]] è davvero
+
+indistruttibile. E per la [[Nature|natura]] delle cose quella mistica [[Democracy|democrazia]] era
+
+destinata a sopravvivere, quando ogni altra specie di [[Democracy|democrazia]] era libera di
+
+distruggere sé stessa. E ogniqualvolta la [[Democracy|democrazia]] che distrugge sé stessa è d'improvviso
+
+spinta a salvarsi, si aggrappa sempre a qualche brandello di quell'antica
+
+tradizione che [[Alone|sola]] è sicura di sé. Centinaia hanno udito la storia
+
+del demagogo medievale che andava ripetendo la rima
+
+     Quando Adamo vangava ed Eva filava,
+
+     chi era allora il gentiluomo?
+
+Molti hanno senza dubbio offerto la risposta ovvia alla domanda: 'Il
+
+Serpente'. Ma pochi paiono aver notato quale sarebbe la risposta più moderna
+
+alla domanda, se quell'[[Innocent|innocente]] agitatore andasse in giro proponendo
+
+la questione. 'Adamo non vangò mai ed Eva non filò mai, per la semplice ragione che
+
+non esisterono mai. Sono frammenti di un mito caldeo-babilonese,
+
+e Adamo è solo una lieve variante di Tag-Tug, pronunciato Uttu. Per il
+
+vero principio dell'umanità vi rimandiamo all'_Origine delle
+
+Specie_ di Darwin'. E poi l'uomo moderno proseguirebbe giustificando la plutocrazia all'
+
+uomo medievale col parlare della Lotta per la Vita e della
+
+[[Survival|Sopravvivenza]] del Più Adatto; e di come l'uomo più forte si impadronì dell'autorità per
+
+mezzo dell'anarchia, e dimostrò d'essere un gentiluomo comportandosi da mascalzone.
+
+Ora, io non fondo le mie credenze sulla teologia di John Ball, né sulla
+
+lettura letterale e materialistica del testo della Genesi; benché ritenga
+
+la storia di Adamo ed Eva infinitamente meno assurda e improbabile di quella
+
+del preistorico 'uomo più forte' che poteva battersi con cento uomini. Ma
+
+noto il fatto che l'idealismo del livellatore poteva essere posto nella
+
+forma di un appello alla Scrittura, e non poteva essere posto nella forma di un
+
+appello alla Scienza. E noto anche che i democratici erano ancora spinti
+
+a fare lo stesso appello perfino nel secolo stesso della Scienza. Tennyson
+
+era, se mai ve ne fu uno, un evoluzionista nella sua visione e un
+
+[[aristocrat|aristocratico]] nelle sue simpatie. Si vantava sempre che John Bull fosse
+
+evoluzionario e non rivoluzionario, a differenza di quei francesi. Non
+
+pretendeva d'avere alcun credo oltre il fioco confidare nella più ampia [[Hope|speranza]]. Ma
+
+quando la dignità umana è davvero in pericolo, John Bull deve usare lo stesso
+
+vecchio argomento di John Ball. Dice a Lady Clara Vere de Vere che 'il
+
+giardiniere Adamo e sua moglie sorridono alla pretesa di lunga discendenza'; ché la loro
+
+propria discendenza non è affatto lunga. Lady Clara avrebbe di certo potuto segnare
+
+un bel punto contro di lui citando da 'Maud' e 'In Memoriam' sull'
+
+evoluzione e sul tritone che fu signore di valle e [[Hill|colle]]. Ma Tennyson ha
+
+evidentemente dimenticato tutto di Darwin e della lunga discendenza dell'uomo. Se
+
+ciò era vero di un evoluzionista come Tennyson, era naturalmente dieci
+
+volte più vero di un rivoluzionario come Jefferson. La Dichiarazione d'
+
+Indipendenza fonda dogmaticamente tutti i diritti sul fatto che Dio creò
+
+tutti gli uomini uguali; ed è giusto; perché se non furono creati uguali,
+
+furono certamente evoluti disuguali.
+
+Non c'è fondamento per la [[Democracy|democrazia]] se non in un dogma sulla divina
+
+origine dell'uomo. È un fatto perfettamente semplice che il mondo moderno
+
+scoprirà sempre più essere un fatto. Ogni altro fondamento è una sorta di
+
+confusione sentimentale, piena di echi meramente verbali dei credi più antichi.
+
+Quelle associazioni verbali sono sempre vane per il fine vitale di
+
+costringere il [[Tyrant|tiranno]]. Un idealista può dire a un capitalista: 'Non ti
+
+capita talora di sentire, nel ricco crepuscolo, quando le luci brillano dal
+
+lontano [[Hamlet|villaggio]] tra i colli, che tutta l'umanità è una sacra famiglia?' Ma è
+
+del pari possibile che il capitalista risponda con brevità e
+
+decisione: 'No, non mi capita', e non c'è più da disputarne oltre
+
+di quanto si disputi della [[Beauty|bellezza]] di una nube che sfuma. E il mondo moderno degli umori
+
+è un mondo di nubi, anche se alcune di esse sono nubi di tempesta.
+
+Perché ho preso qui soltanto, come comodo modello di lavoro, il caso della
+
+[[Slavery|schiavitù]] dei negri; perché fu a lungo peculiare dell'[[America]] ed è popolarmente
+
+associata a essa. È sempre più evidente che la linea non corre
+
+più tra bianco e nero ma tra ricco e povero. Come ho
+
+già notato nel caso del Proibizionismo, gli stessissimi argomenti
+
+dell'inevitabile [[suicide|suicidio]] degli ignoranti, dell'impossibilità della
+
+[[Freedom|libertà]] per gli inadatti, che un tempo si applicavano ai barbari portati
+
+dall'Africa, ora si applicano ai cittadini nati in [[America]]. Si sostiene
+
+perfino da industriali che l'industrialismo ha prodotto una classe sommersa
+
+al di sotto della condizione dell'umanità emancipata. Lasciano intendere che l'Anello
+
+Mancante non manca più, nemmeno in Inghilterra o negli Stati del Nord, e
+
+che le fabbriche hanno fabbricato le proprie scimmie. Le ipotesi
+
+scientifiche sul debole di mente e sul tipo criminale forniranno ai
+
+padroni del mondo moderno sempre più scuse per negare il
+
+dogma dell'uguaglianza nel caso del lavoro bianco [[Well|non meno]] che nero. E ogni
+
+uomo che conosce il mondo sa perfettamente [[Well|bene]] che dire ai
+
+milionari, o ai loro servi, che stanno deludendo i
+
+sentimenti di Thomas Jefferson, o trascurando un credo composto nel
+
+Settecento, sarà press'a poco efficace quanto dir loro che
+
+non osservano il credo di sant'Atanasio o non custodiscono la regola di san
+
+Benedetto.
+
+Il mondo non sa custodire i propri ideali. L'ordine secolare non sa render
+
+sicura alcuna delle sue nobili e naturali concezioni di perfezione
+
+secolare. Questo si rivelerà, col passare del [[Time|tempo]], l'ultimo argomento
+
+a favore di una Chiesa indipendente dal mondo e dall'ordine secolare. Che ne è
+
+stato di tutte quelle figure ideali, dal Saggio degli Stoici al
+
+deista democratico del Settecento? Che ne è stato di tutta quella
+
+gerarchia puramente umana della cavalleria, col suo puntiglioso modello del
+
 
 
 <span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_89" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 89)" data-chapter="Story 10 The Spirit Of England 281" data-kind="excerpt"></span>
@@ -30468,3 +45266,104 @@ existence may have no origin and no end; but it was far back in the land
 of legends, where instincts find their true images, that the cry went
 
 forth that [[Freedom|freedom]] is an eagle, whose glory is gazing at the sun.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+buon cavaliere, la sua ardente [[Ambition|ambizione]] nel giovane scudiero? Lo stesso nome di
+
+cavaliere è giunto a rappresentare il meschino trionfo di un profittatore, e la
+
+stessa parola scudiero la meschina tirannia di un latifondista. Che ne è stato di tutta
+
+quella dorata liberalità degli Umanisti, che trovarono sugli alti
+
+altipiani della cultura dell'Ellade quel medesimo equilibrio di quiete nella [[Beauty|bellezza]]
+
+che più manca al mondo moderno? La stessa lingua greca che
+
+essi amavano è divenuta una mera etichetta per professori intabaccati e snob, e un
+
+mero bersaglio per utilitaristi dozzinali e mezzi istruiti, che ne fanno un
+
+simbolo di superstizione e reazione. Siamo vissuti fino a vedere un [[Time|tempo]] in cui
+
+la leggenda eroica della Repubblica e del Cittadino, che pareva a
+
+Jefferson l'eterna giovinezza del mondo, ha cominciato a invecchiare a sua
+
+volta. Non possiamo riconquistare la condizione terrena della cavalleria, alla quale tutti
+
+i colori e le complicazioni dell'araldica parevano freschi e naturali come
+
+[[Flowers|fiori]]. Non possiamo rivivere le esperienze intellettuali degli
+
+Umanisti, per i quali la grammatica greca era come il [[Song|canto]] di un uccello in
+
+[[spring|primavera]]. Più si considera la questione, più chiaro apparirà che
+
+queste antiche esperienze sono ormai vive soltanto là dove hanno trovato
+
+ricovero nella tradizione cattolica della Cristianità, e si sono fatte
+
+amiche per sempre. San Francesco è l'unico trovatore superstite. San
+
+Tommaso Moro è l'unico Umanista superstite. San Luigi è l'unico
+
+cavaliere superstite.
+
+Sarebbe dunque la peggiore specie di insincerità concludere anche
+
+un abbozzo così vago di una materia tanto grande e maestosa come l'esperimento
+
+democratico americano, senza testimoniare la mia convinzione che anche a questo
+
+verrà la medesima prova ultima. Nella misura in cui quella [[Democracy|democrazia]] diverrà o
+
+rimarrà cattolica e cristiana, quella [[Democracy|democrazia]] rimarrà democratica.
+
+Nella misura in cui non lo farà, diverrà selvaggiamente e malvagiamente
+
+antidemocratica. I suoi ricchi gozzoviglieranno con una brutale indifferenza ben oltre
+
+il debole feudalesimo che serba qualche [[Shadow|ombra]] di responsabilità o almeno
+
+di patronato. I suoi schiavi-salariati o sprofonderanno in una pagana
+
+[[Slavery|schiavitù]], o cercheranno sollievo in teorie che sono distruttive non solo nel
+
+metodo ma nel fine; poiché non sono che le negazioni degli umani
+
+appetiti di proprietà e di personalità. Gli ideali del Settecento,
+
+formulati nel linguaggio del Settecento, non hanno più in sé
+
+il potere di trattenere tutte quelle passioni pagane. Persino quei documenti
+
+dipendevano dal Deismo; la loro vera forza sopravvivrà negli uomini che sono
+
+ancora Deisti; e gli uomini che sono ancora Deisti sono più che Deisti. Gli uomini
+
+si renderanno sempre più conto che non v'è senso nella [[Democracy|democrazia]] se
+
+non v'è senso in nulla; e che non v'è senso in
+
+nulla se l'universo non ha un centro di significato e un'
+
+autorità che è l'autore dei nostri diritti. V'è [[Truth|verità]] in ogni
+
+antica [[Fable|favola]], e ve n'è qui persino qualcosa nella fantasia che
+
+trova il simbolo della Repubblica nell'uccello che recava i fulmini di
+
+Giove. Gufi e pipistrelli vaghino pure dove vogliono nelle tenebre, e per loro
+
+come per gli scettici l'universo può non avere centro; nibbi e avvoltoi
+
+indugino pure a piacere sulle carogne, e per loro come per i plutocrati
+
+l'esistenza può non avere origine né fine; ma fu là, lontano nella terra
+
+delle leggende, dove gli istinti trovano le loro immagini vere, che si levò il grido
+
+che la [[Freedom|libertà]] è un'aquila, la cui gloria è fissare il sole.

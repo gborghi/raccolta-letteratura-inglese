@@ -1437,6 +1437,111 @@ promise to ask a certain question which may or may not be answered--
 unless you think that by this means they possess control.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ho udito da quasi tutti i socialisti che ho conosciuto
+la frase che il signor [[Shaw]] con caratteristica
+scaltrezza ha evitato, una frase che credo tutti concorderanno
+essere comune alla [[philosophy|filosofia]] collettivista, e la frase è questa:
+"che i mezzi di produzione dovrebbero essere posseduti dalla comunità."
+Vi chiedo di notare quella frase, perché è davvero su di essa
+che l'intera questione ruota.
+
+Ora, c'è un senso in cui concordo con il signor Bernard [[Shaw]].
+C'è un punto fino al quale concorderei con quella formula.
+Per quanto è possibile in condizioni umane io [[Desire|desidererei]]
+che la comunità—o, come la chiamavamo nell'antica lingua inglese,
+i Comuni—possedesse i mezzi di produzione. Fin qui, dico,
+il signor Bernard [[Shaw]] e io camminiamo di fatto fianco a fianco
+nei prati fioriti... Ma dopo di ciò, ahimè! avviene un mutamento.
+Il mutamento è dovuto alla vasta superiorità del signor [[Shaw]], al suo
+potente intelletto. Non è colpa mia se egli è rimasto giovane,
+mentre io sono divenuto in confronto rugoso e sciupato,
+vecchio ed esperto, e a conoscenza dei fatti elementari
+della vita umana.
+
+Ora, la prima cosa che voglio notare è questa. Quando dite che la
+comunità dovrebbe possedere i mezzi di produzione, che cosa intendete?
+È tutto qui il punto. Vi fu un [[Time|tempo]] in cui il signor [[Shaw]] avrebbe probabilmente
+detto in tutta sincerità che qualunque cosa posseduta dallo Stato
+o dal [[government|Governo]] sarebbe di fatto posseduta dai Comuni:
+in altre parole, dalla comunità. Non intendo sfidare
+il signor [[Shaw]] su sue osservazioni più recenti, ma [[Doubt|dubito]] che il signor [[Shaw]],
+nella sua eterna giovinezza, creda ancora nella [[democracy|democrazia]] in quel senso.
+Ammetto senz'altro che egli ha una prospettiva più speranzosa e più cordiale sotto certi aspetti,
+ed è giunto perfino a dire che se la [[democracy|democrazia]]
+non va bene per il genere umano, forse andrà bene per qualche altra
+creatura diversa dal genere umano. Ha quasi proposto di inventare
+un nuovo animale, che si supponga viva per 300 anni.
+Sono incline a pensare che se il signor [[Shaw]] vivesse per 300 anni—
+e di cuore [[Hope|spero]] che lo farà—non ho mai conosciuto uomo più propenso a farlo—
+egli certamente concorderebbe con me. Mi impegnerei perfino
+a dimostrarlo dalla storia [[history|effettiva]] degli ultimi 300 anni,
+ma benché lo ritenga probabile non insisterò su ciò.
+Come ha detto un profondissimo filosofo, "Non si può mai sapere."
+E può darsi che l'immortale potere del signor [[Shaw]] di dire sciocchezze
+sopravviva perfino a quei 300 anni, ed egli resterebbe ancora fisso
+nelle sue innaturali teorie in materia.
+
+Ora io non credo, da parte mia, che il signor [[Shaw]] pensi che la comunità,
+nel senso di quello stato che possiede e governa, la cosa
+che emette francobolli e provvede poliziotti, non
+credo che egli pensi che quella comunità sia ora, in questo momento,
+identica ai Comuni, e non credo che egli pensi davvero
+che nel suo stesso stato socialista essa sarebbe identica.
+Sono lieto perciò che egli abbia sufficiente disordinato buon senso
+da percepire che, in effetti, quando avete vasti sistemi,
+per quanto giusti e per quanto ragionevolmente controllati, indirettamente, da un elaborato
+apparato di funzionari e altre cose, di fatto scoprite che
+quelli che governano sono i pochi. Può essere una buona cosa o una cattiva cosa,
+ma non è vero che tutto il popolo controlli direttamente.
+Il collettivismo ha messo tutte le uova in un solo paniere.
+Non credo che il signor [[Shaw]] creda, o che chiunque creda,
+che 12.000.000 di uomini, diciamo, portino il paniere, o si occupino del paniere,
+o abbiano un qualche reale controllo distribuito sulle uova nel paniere.
+Credo che esso sia controllato dal centro da poche persone.
+Possono avere del tutto ragione o essere del tutto necessarie. Un certo limite
+a quel genere di controllo ogni uomo sano riconoscerà come necessario:
+non è la stessa cosa che i Comuni controllino i mezzi di produzione.
+Sono pochi oligarchi o pochi funzionari che di fatto controllano
+tutti i mezzi di produzione.
+
+Ciò che il signor [[Shaw]] intende non è che tutto il popolo controlli i mezzi
+di produzione, ma che il prodotto sia distribuito tra
+la vasta massa dei Comuni, e questa è una cosa ben diversa.
+Non è affatto controllare i mezzi di produzione. Se tutti i cittadini
+avessero semplicemente una quota uguale del reddito dello Stato, non
+avrebbero alcun controllo sul capitale. Ecco in che cosa G. K. Chesterton
+differisce da George Bernard [[Shaw]]. Io comincio dall'altro capo.
+Non credo che una comunità ordinata secondo i principi del
+[[Distributism|Distributismo]] e nient'altro sarebbe una comunità perfetta.
+Tutti ammettono che la società che proponiamo è più una questione
+di proporzione e disposizione che un sistema perfettamente chiaro in
+cui tutta la produzione è messa in comune e il risultato distribuito in salari.
+Ma ciò che dico è questo: mettiamo, per quanto è possibile nelle
+complicate faccende dell'umanità, nelle mani dei Comuni
+il controllo dei mezzi di produzione—e un controllo reale.
+L'uomo che possiede un pezzo di terra lo controlla in senso diretto e reale.
+Egli possiede davvero i mezzi di produzione. Lo stesso vale per l'uomo
+che possiede un pezzo di macchinario. Può usarlo o non usarlo.
+Perfino un uomo che possiede i propri arnesi o lavora nella propria officina,
+in tale misura possiede e controlla i mezzi di produzione.
+
+Ma se stabilite proprio in mezzo allo Stato una
+enorme [[Machine|Macchina]], se girate la manovella di quella [[Machine|Macchina]],
+e qualcuno, che dev'essere un funzionario, e perciò un governante,
+distribuisce a tutti in parti uguali il cibo o qualunque altra cosa sia prodotta
+da quella [[Machine|Macchina]], senza che nessuno riceva
+più di qualsiasi altra singola persona, ma tutti frammenti uguali:
+ciò adempie un definito ideale di uguaglianza, eppure nessuno
+di quei cittadini ha alcun controllo sui mezzi di produzione.
+Non hanno alcun controllo—a meno che non pensiate che la prospettiva
+di votare all'incirca una volta ogni cinque anni per il signor Vanboodle—
+allora un membro socialista—con la prospettiva che egli farà o non farà
+una promessa a un'assemblea politica, o che egli porrà o non
+porrà una certa domanda che può o non può ricevere risposta—
+a meno che non pensiate che con questo mezzo essi possiedano il controllo.
+
 
 
 <span class="atom-split" data-atom="story_03_cecil_palmer--part_04" data-title="Do We Agree? — Cecil Palmer (part 4)" data-chapter="Story 03 Cecil Palmer" data-kind="excerpt"></span>
