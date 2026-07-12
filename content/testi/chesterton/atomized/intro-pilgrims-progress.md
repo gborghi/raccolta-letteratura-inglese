@@ -473,6 +473,101 @@ than the whole contemporary culture of the great [[Renaissance]],
 founded on three generation of the worship of learning and art.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nessuno sonderà mai le vere profondità e il significato di quella cosa
+straordinaria che fu il movimento puritano inglese. Perché gli inglesi,
+la cui [[Nature|natura]] è quella d'essere particolarmente felici e
+particolarmente confusionari, dovessero essere l'unico popolo d'Europa a
+venire influenzato in modo tanto sorprendente dall'amarezza e dalla
+[[logic|logica]] di Calvino, deve restare un [[Riddle|enigma]]. Deve
+restare un [[Riddle|enigma]] per due ragioni. Primo, che era una cosa
+religiosa e perciò imperscrutabile; e secondo, che era una cosa riuscita,
+e perciò ne siamo tutti gli eredi; la stiamo guardando attraverso i
+nostri occhiali puritani, e ne parliamo attraverso i nostri nasi
+puritani. Ma qualunque altra cosa fosse la rivoluzione puritana, c'è una
+cosa che essa non fu, ed è ciò che una vasta massa di opinioni
+costantemente sostiene che fosse. Non fu un passo verso un maggiore
+razionalismo, o verso ciò che scegliamo di chiamare progresso; non fu un
+avanzamento nell'indagine; e non fu, nel senso comune, un avanzamento
+nella civiltà. Per dirla in breve, essa non fu enfaticamente una
+continuazione del [[Renaissance|Rinascimento]]. Semmai, fu una reazione
+contro il [[Renaissance|Rinascimento]]. Fu essenzialmente una cosa
+barbarica, un'eruzione della parte feroce e misteriosa dell'uomo. Aveva
+assai meno in comune con la moderna compostezza anticonformista. Aveva
+assai più in comune con qualche religione primitiva, che batte gong e
+mugghia a un'eclissi della [[Moon|Luna]]. Era la voce di quella cosa
+velata dentro di noi che è così segreta e intrattabile che gli uomini non
+hanno mai davvero saputo se sia la bestia, misticamente intronizzata, o il
+Dio che siede negli inferi. La parola "selvaggio" qui usata potrebbe forse
+essere fraintesa come un'insinuazione contro il puritanesimo; io uso la
+parola come un elogio. Poiché penso che la probabilità della faccenda fosse
+in realtà questa, che il [[Puritanism|puritanesimo]] fosse una protesta cieca
+ed eroica contro un mondo che si faceva sempre più razionale. Vediamo
+almeno che dopo la caduta del [[Puritanism|puritanesimo]], quando la
+"giusta Repubblica" di Cromwell era rovinata a terra, ci ritroviamo
+d'improvviso in un mondo di lindo buon senso, un mondo perfettamente
+miscredente, perfettamente moderno. Può darsi che Bunyan fosse l'ultimo
+grido del misticismo inglese sotto il piede di Hobbes. La religione fu
+invero predicata dai Cavalieri, sia prima sia dopo la grande guerra: prima
+di essa, come un nobilissimo disegno di civiltà nazionale; dopo di essa,
+come un ingegnosissimo ingranaggio nella costituzione politica. Tra i due
+si erge il [[Puritanism|puritanesimo]], un gigante nudo e ruggente, che
+proclama che la religione non è un [[Wheel|ingranaggio]] in nessuna politica,
+una parte di nessuna civiltà; una cosa antica quanto la [[Fear|paura]], e
+rapace di [[Love|amore]]; che la religione è ciò che realmente è, un terrore,
+uno splendore, una necessità e una seccatura.
+
+Questa impressione è, in ogni caso, confermata da uno strano fenomeno
+letterario, che ognuno deve aver notato in rapporto alla letteratura del
+[[Puritanism|puritanesimo]]. Lo si può notare anche in rapporto alla
+letteratura della [[French Revolution|Rivoluzione francese]], e di quasi
+tutte le altre guerre religiose di tal genere. Se leggiamo la letteratura
+di alta classe immediatamente precedente al movimento puritano, o che se
+ne tiene in disparte, restiamo sorpresi di trovarla tanto più recente e
+simile a noi della letteratura del [[Puritanism|puritanesimo]]. Il
+[[Puritanism|puritanesimo]] sembra vecchio di migliaia di anni, qualcosa
+accaduto nell'Età della Pietra, con le sue strane grida, le sue strane
+visioni, le sue strane [[Tears|lacrime]], la sua strana felicità. Ha nel
+suo registro un insieme di cose indescrivibilmente grandi e primitive: la
+messa a morte di un [[King|re]], un libro sacro, disgustosi massacri, e un
+immortale [[Epic|poema epico]]. Tornate indietro di qualche anno prima, e
+prendete in mano George Herbert o Herrick, e vi ritroverete a leggere una
+sorta di gentiluomo perfettamente moderno e assennato. Ciò produce sulla
+mente una peculiare impressione. È come se ci venisse detto che Herbert
+Spencer visse prima di Giuda Maccabeo. Il medesimo singolare effetto si
+può, come ho detto, notare a proposito della
+[[French Revolution|Rivoluzione francese]]. Danton e Marat sono figure
+lontane e gigantesche nell'[[Dawn|alba]] della terra, e talvolta si stenta
+a ricordare che indossassero alcun vestito. Quando ricordiamo che essi
+vissero un [[Time|tempo]] considerevole dopo la pubblicazione de "I
+rivali" e all'incirca all'[[Time|epoca]] dell'invenzione del cilindro, ci
+sentiamo girare la testa sottosopra.
+
+Questi grandi nuovi scoppi dell'elementare nell'uomo diventano d'improvviso
+vecchi di secoli. E questa deve, io penso, essere la vera descrizione del
+[[Puritanism|puritanesimo]] inglese: che l'[[Soul|anima]] di un antico
+popolo, che un tempo era stato profondamente religioso, il cui paese era
+stato chiamato il [[Garden|Giardino]] di Maria, e l'Isola dei Santi, sentì
+per quel sesto senso, che solo i semplici possiedono, la terra vibrare
+sotto l'elefante avanzante della Ragione. Accecato da una densa ignoranza,
+smarrito in un'epoca anarchica, furiosamente sospettoso di filosofi e
+collegi e re, esso afferrò il primo selvaggio brandello di nuova teologia
+che gli capitò a portata di mano e fece guerra per la religione, per
+l'eterno selvaggio e l'eterno [[Child|fanciullo]]. Non aveva cultura, né
+guida, né tradizione, né dignità, né maniere. I Puritani colpivano le
+persone di gusto del loro [[Time|tempo]] semplicemente come una sorta di
+neri folletti dalle grandi orecchie. Ma contro ogni ostacolo di miseria e
+volgarità, una via fu aperta dalla divina energia del loro odio per la
+saggezza del mondo. Prima che i Puritani fossero spazzati via dalla scena
+per sempre, avevano fatto due cose straordinarie. Avevano fatto a pezzi in
+aperta battaglia, su un prato inglese, la cavalleria di una grande nazione,
+allevata sin dalla gioventù alle armi. E avevano tratto fuori dalla loro
+agonia un piccolo libro, intitolato "Il [[Pilgrim|Viaggio del pellegrino]]",
+che era letteratura più grande di tutta la cultura contemporanea del grande
+[[Renaissance|Rinascimento]], fondata su tre generazioni di culto del
+sapere e dell'arte.
+
 
 
 <span class="atom-split" data-atom="part--part_03" data-title="intro-pilgrims-progress (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
@@ -545,3 +640,75 @@ or religious point of view.  For such people there is, I suppose,
 still waiting untried that inevitable mood of which a man may stand
 amid a fields of [[Flowers|flowers]] in the quiet sunlight and realize that of
 all conceivable things the most dangerous thing is to be alive.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il "[[Pilgrim|Viaggio del pellegrino]]" mostra certamente tutti i segni di
+una simile rinascita di potenza e mistero primitivi. La sua somiglianza con
+la [[Bible|Bibbia]] non è una mera [[Imitation|imitazione]] di stile; è anche
+una coincidenza di stato d'animo. Bunyan, che fu un soldato nell'esercito
+di Cromwell, era stato egli stesso gettato in un mondo quasi feroce quanto
+quello di Gedeone, o dei Maccabei, ed era davvero sotto l'influsso del
+medesimo tipo di emozione. Ciò accadeva semplicemente perché, come ho detto,
+il [[Puritanism|puritanesimo]] era una cosa barbarica, e perciò eterna. In
+nessun luogo, forse, tranne che in Omero, vi è una descrizione così perfetta
+resa con l'uso di parole meramente semplici. La descrizione, in Bunyan, di
+come Mosè venne su per la [[Road|strada]] come un [[Wind|vento]], e non fu
+che una parola e un colpo; o di come Apollion si piantò a gambe larghe per
+tutta la larghezza della via e imprecò per la sua tana infernale: queste
+sono cose che possono trovare paragone solo in improvvise e splendide frasi
+tratte da Omero o dalla [[Bible|Bibbia]], come le frasi sulle mostruose e
+micidiali mani di [[Achilles|Achille]], o sul [[Horse|destriero]] da guerra
+che ride allo scuotersi della lancia.
+
+Vi è un altro aspetto di Bunyan e del movimento puritano che non può essere
+trascurato, perché getta una luce tanto grande sull'opera particolare di
+Bunyan. In misura assai considerevole è possibile identificare persino il
+più importante movimento teologico e filosofico semplicemente con stati
+d'animo. Il peculiare stato d'animo del [[Puritanism|puritanesimo]] era un
+senso del mortale pericolo dell'esistenza. L'intera tendenza dell'Inghilterra
+e della maggior parte dell'Europa durante il sedicesimo secolo era verso la
+sistemazione di ogni cosa; verso una piacevole pietà, un sapere appagante,
+una politica bene ordinata, una filosofia autentica, e così via. Era
+caratteristico di un'epoca in cui, per la prima [[Time|volta]], comode case
+private cominciarono a essere costruite. Proprio come venivano costruite
+case comode, così venivano costruite comode costituzioni, e comode chiese.
+Ma nessuno per cui il nome di Bunyan sia qualcosa di più di un nome può mai
+dimenticare l'impressione di quel tremendo capitolo di "Grace Abounding", in
+cui il peccatore si rifugia in un luogo dopo l'altro solo per aspettarsi che
+un tetto dopo l'altro gli crolli addosso, e che egli non è al sicuro in
+nessun luogo se l'Universo stesso che eredita appartiene a uno che è suo
+nemico. Né alcuno dimenticherà il capitolo in cui il peccatore si riconcilia
+con l'Universo, e cammina per i campi e non può trattenersi dal parlare agli
+[[Birds|uccelli]] della grande [[Mercy|misericordia]] di Dio. È questo
+generale e acuto senso del pericolo che è l'[[Soul|anima]] del
+[[Puritanism|puritanesimo]], e l'[[Soul|anima]] del "[[Pilgrim|Viaggio del
+pellegrino]]".
+
+Vi è un'innumerevole schiera di figure buone e pittoresche nel
+"[[Pilgrim|Viaggio del pellegrino]]". C'è l'uomo scuro vestito di
+lucente paramento (quell'ammirevole persona), c'è il signor Saggio-secondo-
+il-mondo, la cui conversazione è indistinguibile da quella di un moderno
+filantropo. C'è Apollion, la cui eloquenza è come la più nobile eloquenza
+del diciassettesimo secolo. C'è il Gigante [[Despair|Disperazione]], che non
+ha bisogno di presentazioni nel moderno mondo illuminato. Ma nessuna figura
+nell'intera storia afferra l'[[Imagination|immaginazione]], a un tempo
+pittorica e spirituale, quanto la figura con cui inizia l'intera grafica
+[[Parable|parabola]]. La selvaggia figura del [[Pilgrim|Pellegrino]] stesso
+con il fardello sulla schiena, e le dita nelle orecchie, che corre come un
+pazzo fuori dalla [[City|città]] clamorosa e sprezzante e beffarda, che è
+chiamata la [[City]] della Distruzione: questa è certamente l'incarnazione
+dell'effettiva energia letteraria di Bunyan.
+
+Vi potranno essere alcuni "non so se ve ne siano" che saranno tanto
+alienati dall'apparato secentesco della grande storia, tanto poco in
+sintonia con gli interminabili ragionamenti sull'Espiazione, tanto insensibili
+al significato dei nomi e dei titoli scritturali, tanto stanchi dei vecchi
+testi, tanto sprezzanti delle vecchie dottrine, da immaginare che questa
+antica poesia puritana del pericolo sia interessante solo da un punto di
+vista letterario e per nulla da un punto di vista filosofico o religioso. Per
+tali persone vi è, suppongo, ancora in attesa e non provato quell'inevitabile
+stato d'animo in cui un uomo può stare in mezzo a un campo di
+[[Flowers|fiori]] nella quieta luce del sole e rendersi conto che, di tutte
+le cose concepibili, la cosa più pericolosa è essere vivi.

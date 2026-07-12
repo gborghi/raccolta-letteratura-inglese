@@ -1037,6 +1037,41 @@ is the man who has no [[history]]; and Mr. Facing-Both-Ways in
 The [[Pilgrim]]'s Progress is that man."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CECIL PALMER  
+
+[[London|Londra]], 1928
+
+* * *
+SIAMO D'ACCORDO?
+
+IL SIGNOR BELLOC:  Sono qui per presiedere il [[debate|dibattito]] fra due uomini che voi [[Desire|desiderate]] ascoltare più di quanto possiate mai [[Desire|desiderare]] di ascoltare me. Essi discuteranno se sono d'accordo o non sono d'accordo. Da quel che so dei tentativi di accordo tra esseri umani, c'è la prospettiva di una lite assai graziosa. Quando gli uomini discutono di accordi fra le nazioni, allora potete star certi che una guerra disastrosa è all'orizzonte. Faccio un'eccezione per la Società delle Nazioni, di cui non so nulla. Se la Società delle Nazioni riuscisse a fare una guerra, sarebbe l'unica cosa che abbia mai fatto.
+
+Non so che cosa dirà il signor Chesterton. Non so che cosa dirà il signor [[Shaw]]. E se lo sapessi, non lo direi al posto loro. Da quel che ho sentito arguisco vagamente che cercheranno di scoprire un principio: se gli uomini debbano essere liberi di possedere mezzi privati, come lo è il signor [[Shaw]], come lo è il signor Chesterton; oppure debbano essere, come me, una persona indigente, un manovale al servizio degli editori. Potrei dirvelo io; ma ho la bocca cucita. Non mi è consentito dire ciò che penso. In ogni caso, discuteranno di questo genere di cose. Non so che altro dire. Stanno per discutere. Voi state per ascoltare. Io sto per sogghignare.
+
+IL SIGNOR [[Shaw|SHAW]]:  Signor Belloc, e Signore e Signori. Il nostro tema di questa sera, "Siamo d'accordo?", è stato un'ispirazione del signor Chesterton. Alcuni di voi potrebbero ragionevolmente [[Wonder|domandarsi]], se siamo d'accordo, di che cosa mai discuteremo. Ma sospetto che a voi non importi granché di che cosa discutiamo, purché vi intratteniamo parlando alle nostre maniere caratteristiche.
+
+La ragione di ciò, benché forse non lo sappiate—ed è compito mio dirvelo—è che il signor Chesterton e io siamo due pazzi. Invece di fare un lavoro onesto e rispettabile e di comportarci come cittadini ordinari, andiamo in giro per il mondo posseduti da uno strano dono delle lingue—nel mio caso quasi esclusivamente limitato alla lingua inglese—pronunciando ogni sorta di opinioni straordinarie senza alcuna ragione.
+
+Il signor Chesterton racconta e stampa le menzogne più stravaganti. Prende gli incidenti ordinari della vita umana—la vita comune della classe media—e conferisce loro un contorno mostruoso, strano e gigantesco. Riempie i giardini di periferia dei più impossibili omicidi, e non solo inventa gli omicidi, ma riesce anche a scoprire l'assassino che gli omicidi non li ha mai commessi. Io faccio più o meno lo stesso genere di cose. Diffondo menzogne sotto forma di commedie; ma mentre il signor Chesterton prende eventi che voi ritenete ordinari e li rende giganteschi e colossali per rivelarne l'essenziale miracolosità, io sono piuttosto incline a prendere queste cose nella loro assoluta banalità, eppure a introdurre tra esse idee oltraggiose che scandalizzano lo spettatore comune e lo mandano via a domandarsi se abbia camminato sulla testa per tutta la vita, o se sia io a camminare sulla mia.
+
+Un uomo va a vedere una delle mie commedie e siede accanto alla moglie. Sul palco viene detta qualcosa in apparenza ordinaria, e sua moglie gli dice: "Aha! Che ne pensi?" Due minuti dopo viene detta un'altra cosa in apparenza ordinaria, e l'uomo si volge alla moglie e le dice: "Aha! Che ne pensi?"
+
+Curioso, non è vero, che noi andiamo in giro a fare queste cose e veniamo tollerati e persino ampiamente ammirati per il fatto di farle? In questi ultimi anni potrei dire di essere stato quasi venerato per il fatto di farle.
+
+Evidentemente siamo pazzi; e in Oriente saremmo venerati come pazzi. La saggezza dell'Oriente dice: "Ascoltiamo attentamente questi uomini; ma non dimentichiamo che sono pazzi."
+
+In questo paese dicono: "Ascoltiamo questi tipi divertenti. Sono perfettamente sani di mente, cosa che noi evidentemente non siamo." Ora, ci deve pur essere qualche ragione per mostrarci tutta questa considerazione. Ci deve essere qualche forza nella [[Nature|natura]] che...
+
+(A questo punto il [[debate|dibattito]] fu interrotto da un insistente bussare alle porte da parte dei possessori di biglietto che, per un qualche malinteso, erano rimasti chiusi fuori. Su intervento del presidente le porte furono aperte, e l'ordine fu ripristinato. Il signor [[Shaw]] proseguì allora.)
+
+Signore e Signori, devo continuare perché, come vedete, se non comincio a parlare io, comincia chiunque altro. Ebbene, parlavo del curioso rispetto in cui i pazzi sono tenuti in Oriente e in questo paese. Ciò a cui volevo arrivare è questo: che conta assai poco su quali punti essi divergano; hanno ogni sorta di aberrazioni che sorgono dalle loro circostanze personali, dalla loro educazione, dalla loro conoscenza o ignoranza. Ma se li ascoltate attentamente e trovate che su certi punti concordano, allora avete qualche ragione per supporre che qui stia trapelando lo spirito del tempo, che vi dà un messaggio ispirato. Respingete tutte le cose contraddittorie che dicono e concentrate la vostra attenzione sulle cose sulle quali concordano, e potreste star ascoltando la voce della rivelazione.
+
+Farete [[Well|bene]] questa [[Night|notte]] ad ascoltare con attenzione, perché probabilmente ciò che ci spinge a queste dichiarazioni non è qualcosa di personale a noi stessi, ma qualche conclusione verso cui tutta l'umanità si muove per ragione o per ispirazione. Il mero fatto che il signor Chesterton e io possiamo concordare su un qualche punto può non impedirci affatto di dibatterlo appassionatamente. Trovo che le persone che si battono contro di me generalmente sostengono le medesime idee che io cerco di esprimere. Non so se sia perché risentono della libertà che mi prendo, o perché non gradiscono le parole che uso o la piega della mia mente; ma sono proprio loro le persone che più litigano con me.
+
+Avete in questo momento un tipico [[debate|dibattito]] che infuria sulla Stampa. Avete una controversia assai graziosa in corso nella Chiesa d'Inghilterra fra l'Arcivescovo di Canterbury e il Vescovo di Birmingham. [[Hope|Spero]] che abbiate letto tutti l'ammirevole lettera dell'Arcivescovo di Canterbury. Quella lettera piace a tutti. Ha l'enorme pregio di essere interamente bonaria, di cercare di fare la pace, di evitare di seminare zizzania: una popolare virtù inglese che fa onore alla razza inglese. Ma ha un'altra qualità inglese un po' più discutibile, ed è la qualità di essere interamente anti-intellettuale. La lettera è un accorato appello all'ambiguità. Potete immaginare l'Arcivescovo di Canterbury, se proseguisse la controversia in privato, dire al Vescovo di Birmingham: "Ora, mio caro Barnes, permettete che vi raccomandi di leggere quel meraviglioso libro, il [[Pilgrim|Pilgrim]]'s Progress. Leggete la [[history|storia]] dell'[[Hero|eroe]], Christian, senza [[Doubt|dubbio]] un tipo assai splendido, e dal punto di vista letterario l'unico [[Hero|eroe]] della narrativa romantica che somigli a un uomo reale. Ma egli è sempre in lotta. Esce da un guaio per entrare in un altro. Conduce una vita terribile. Quanto diverso da quel grande Paciere, il signor Guardadaentrambeleparti! Il signor Guardadaentrambeleparti non ha [[history|storia]]. Felice il paese che non ha [[history|storia]]; e felice, potreste dire, l'uomo che non ha [[history|storia]]; e il signor Guardadaentrambeleparti nel The [[Pilgrim|Pilgrim]]'s Progress è quell'uomo."
+
 
 
 <span class="atom-split" data-atom="story_03_cecil_palmer--part_02" data-title="Do We Agree? — Cecil Palmer (part 2)" data-chapter="Story 03 Cecil Palmer" data-kind="excerpt"></span>
@@ -1166,6 +1201,131 @@ of property in the modern world is a monstrosity and a blasphemy.
 Thus I come to the important stage of the proceedings.
 I claim that I might agree with Mr. [[Shaw]] a step farther.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Bunyan, per inciso, non menziona neppure la straordinaria impresa
+storica del signor Facing-Both-Ways, quella di redigere il Ventisettesimo
+Articolo della Chiesa d'Inghilterra.  Trovandosi Elisabetta alle prese
+con certe persone assai moleste — cattolici e puritani, per esempio,
+in lite sulla Transustanziazione — il signor Facing-Both-Ways redasse
+un Articolo in due paragrafi.  Il primo paragrafo affermava
+la dottrina della Transustanziazione.  Il secondo paragrafo diceva
+che essa era un'oziosa superstizione.  Allora [[Queen Elizabeth|la regina Elisabetta]] poté dire:
+«Ora siete tutti soddisfatti; e dovete tutti frequentare la Chiesa
+d'Inghilterra.  Se non lo fate, vi mando in [[Prison|prigione]]».
+
+Ma non ho la minima intenzione di [[debate|dibattere]] la dottrina
+della Transustanziazione.  La menziono solo per mostrare, mediante la controversia
+tra l'Arcivescovo e il Vescovo, che nella maggior parte dei dibattiti
+si trovano due tipi di mente che giocano con lo stesso soggetto.
+C'è un tipo di mente che credo sia il mio.
+A volte la chiamo la mente irlandese, in contrapposizione a quella inglese.
+Ma è solo per far rizzare le orecchie a inglesi e irlandesi.
+Spengler non parla di menti irlandese e inglese, bensì della mente greca,
+o grecanica, e della mente gotica — la mente faustiana, come lui,
+essendo tedesco, la chiama.  E in questa controversia si scopre
+che ciò che muove il Vescovo Barnes è un'avversione grecana per il non
+sapere che cosa creda, e dall'altra parte un istintivo sentire gotico
+per cui forse è altrettanto [[Well|bene]] non sapere
+troppo distintamente.  Non sto dicendo quale sia il tipo di mente migliore.
+Credo che, nel complesso, entrambi siano piuttosto utili.
+Ma a me piace sempre sapere che cosa sto predicando.
+Questo mi mette nei guai in Inghilterra, dove la gente dice: «Perché
+addentrarsi in queste faccende?  Perché volete pensare con tanta precisione
+e acutezza?»  Posso solo rispondere che la mia testa è fatta così;
+ma protesto di non rivendicare alcuna superiorità morale
+per il fatto che, quando io so ciò che intendo, gli altri non sanno
+ciò che intendono, e molto spesso non sanno ciò che intendo io.
+E un argomento su cui so ciò che intendo è l'opinione che
+è inevitabilmente andata crescendo negli ultimi cento anni circa,
+non tanto un'opinione quanto una rivolta contro l'iniqua distribuzione,
+la palesemente mostruosa e anomala iniqua distribuzione della ricchezza
+sotto ciò che chiamiamo il sistema capitalista.
+
+Da quando ho fatto chiarezza sul tema del Socialismo, ho sempre detto:
+non mettete in primo piano la nazionalizzazione dei mezzi
+di produzione, distribuzione e scambio: non ci arriverete mai
+se cominciate da quelli.  Dovete cominciare dalla questione
+della distribuzione della ricchezza.
+
+L'altro giorno è morto un uomo e il [[government|Governo]] ha prelevato quattro
+milioni e mezzo di sterline come imposta di [[Death|successione]] sul suo patrimonio.
+Quell'uomo aveva fatto tutto il suo denaro con il lavoro di uomini che ricevevano
+ventisei scellini a settimana dopo anni di apprendistato per il loro mestiere.
+Era questa una distribuzione ragionevole della ricchezza tra loro?
+Stiamo tutti giungendo all'opinione che non fosse ragionevole.
+Che cosa ne pensa il signor Chesterton?  Voglio saperlo,
+non solo per l'importanza pubblica delle sue opinioni,
+ma perché ho sempre seguito il signor Chesterton con
+straordinario interesse e diletto, e il suo assenso a una qualsiasi mia
+tesi è un grande piacere personale, perché sono molto affezionato
+al signor Chesterton.
+
+Il signor Chesterton ha respinto nominalmente il Socialismo, probabilmente perché
+è una parola piuttosto stupida.  Ma è un distributista, il che oggi significa
+un Ridistributista.  È giunto per la sua strada alla mia stessa posizione.
+(Risate.) Non vedo perché dobbiate ridere: non riesco a immaginare
+nulla di più naturale.
+
+Ma ora viene la domanda su cui chiederò al signor Chesterton
+se è d'accordo con me o no.  Nel momento in cui mi convinsi
+che l'attuale distribuzione della ricchezza fosse sbagliata,
+la peculiare costituzione del mio cervello mi obbligò a scoprire
+esattamente fin dove fosse sbagliata e quale sia la distribuzione giusta.
+Passai in rassegna tutte le proposte mai avanzate e tutti gli
+argomenti usati a giustificazione della distribuzione esistente;
+e li trovai del tutto insensati e [[Grotesque|grotteschi]].
+
+Alla fine mi convinsi che dovremmo essere tolleranti
+verso ogni sorta di delitto, tranne l'iniqua distribuzione del reddito.
+Nella società organizzata si pone sempre la questione a quale punto
+siamo giustificati a uccidere per il bene della comunità.
+Io risponderei così.  Se tu prendi due scellini come
+tua parte e un altro uomo ne vuole due e sei pence,
+uccidilo.  Analogamente, se un uomo accetta due scellini mentre tu
+ne hai due e sei pence, uccidilo.
+
+Allo scoccare dell'ora, chiedo al signor Chesterton: «Siete
+d'accordo con questo?»
+
+IL SIGNOR CHESTERTON:  Signore e signori.  La risposta è negativa.
+Non sono d'accordo.  E neppure lo è il signor [[Shaw]].  Egli non pensa,
+più di quanto lo pensi io, che tutte le persone in questa sala, che hanno
+già creato una certa confusione, debbano accrescere la confusione
+uccidendosi a vicenda e frugandosi le tasche l'un l'altro per vedere
+se vi si trovi mezza [[Crown|corona]] o due scellini.
+Quanto alla questione generale, ciò che voglio dire è questo:
+vorrei dire, per cominciare, che non ho alcuna intenzione di
+seguire il signor [[Shaw]] in una discussione che sarebbe assai sconveniente da
+parte mia sulla condizione della Chiesa d'Inghilterra.  Ma poiché egli mi ha
+esplicitamente sfidato sul punto, dirò — e lui non sarà d'accordo —
+che il signor [[Shaw]] è davvero un paciere e ha riconciliato entrambe le parti.
+Perché se l'Arcivescovo è anti-intellettuale, non ci sarà nessuno
+a fingere che il Vescovo sia intellettuale.
+
+UNA VOCE:  Sì che lo è.
+
+IL SIGNOR CHESTERTON:  Ora, quanto alla questione molto più interessante,
+riguardo a una persona molto più interessante del Vescovo Barnes — intendo
+il signor [[Shaw]] — vorrei dire che, in un certo senso, posso essere d'accordo
+con lui, nel qual caso egli può rivendicare una completa vittoria.
+Questa non è una vera controversia o [[debate|dibattito]].  È un'indagine,
+e [[Hope|spero]] un'indagine proficua e interessante.  Fino a un certo punto
+sono del tutto d'accordo con lui, perché cominciai proprio col trovarmi
+d'accordo con lui, dato che molti anni fa iniziai essendo socialista,
+proprio come lui era socialista.  A parte una certa differenza d'età,
+eravamo nella medesima posizione.  Crescemmo in [[Beauty|bellezza]] fianco a fianco.
+Non dirò che, letteralmente, riempimmo una [[Home|casa]] di allegria:
+ma credo davvero che abbiamo riempito di allegria un discreto numero di case.
+Se tra quelle case rientrino anche i nostri personali focolari,
+spetta ad altri dirlo.  Ma fino a un certo punto ero d'accordo con il signor [[Shaw]]
+nell'essere socialista, ed ero d'accordo su terreni ch'egli ha esposto
+con critica giustezza e lucidità, terreni su cui non riesco a
+immaginare nessuno tanto [[Fool|sciocco]] da negarli: la distribuzione
+della proprietà nel mondo moderno è una mostruosità e una bestemmia.
+Così giungo alla fase importante del procedimento.
+Sostengo che potrei essere d'accordo con il signor [[Shaw]] un passo più in là.
 
 
 

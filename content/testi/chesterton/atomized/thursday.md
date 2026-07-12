@@ -19443,7 +19443,7 @@ FINE
 
                   L'UOMO CHE FU [[thursday|GIOVEDÌ]]
 
-di G. K. Chesterton
+			     di G. K. Chesterton
 
               autore dei racconti di [[Father Brown]]
 

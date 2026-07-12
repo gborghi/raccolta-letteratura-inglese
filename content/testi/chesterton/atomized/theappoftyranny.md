@@ -5561,6 +5561,176 @@ for the third.
 My Dear ------
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+malvagità, più dissimili di qualunque altra coppia di uomini presi a caso dalla
+
+grande famiglia europea. Sono opposti fin dalle radici della loro [[history|storia]],
+
+anzi, della loro geografia. È un eufemismo dire che la Britannia è insulare.
+
+La Britannia non è solo un'isola, ma un'isola incisa dal mare fino a
+
+quasi spezzarsi in tre isole; e persino le Midlands sanno quasi sentire l'odore
+
+del sale. La [[Germany|Germania]] è un paese interno potente, bello e fertile,
+
+che riesce a raggiungere il mare solo per uno o due sentieri stretti e tortuosi, come
+
+si raggiunge un lago sotterraneo. Così la Marina britannica è davvero nazionale
+
+perché è naturale; si è coagulata da centinaia di avventure fortuite
+
+di navi e marinai prima del [[Time|tempo]] di Chaucer e dopo di esso. Ma la
+
+Marina tedesca è una cosa artificiale; artificiale come lo sarebbe un'Alpe costruita
+
+in Inghilterra. Guglielmo II ha semplicemente copiato la Marina britannica come
+
+Federico II copiò l'Esercito francese: e questa assiduità, da giapponesi o da formiche,
+
+nell'[[Imitation|imitazione]] è una delle cento qualità che i Tedeschi
+
+hanno e gli Inglesi decisamente non hanno. Vi sono altre superiorità
+
+tedesche che sono davvero molto superiori. Le una o due cose davvero piacevoli
+
+che i Tedeschi possiedono sono precisamente le cose che gli Inglesi
+
+non hanno: in particolare una vera consuetudine di musica popolare e degli antichi [[songs|canti]]
+
+del popolo, non semplicemente diffusi dalle città o appresi dai
+
+professionisti. In questo i Tedeschi somigliano piuttosto ai Gallesi: benché il cielo
+
+sa che ne sia del Teutonismo se è così. Ma la differenza tra i
+
+Tedeschi e gli Inglesi va più a fondo di tutti questi segni; essi differiscono
+
+più di qualunque altra coppia di Europei nella normale postura della mente. Soprattutto,
+
+differiscono in ciò che è il più inglese di tutti i tratti inglesi; quella
+
+vergogna che i Francesi forse a ragione chiamano "la cattiva vergogna"; poiché è
+
+certamente mescolata con l'[[Pride|orgoglio]] e il sospetto, il cui esito noi chiamiamo
+
+timidezza. Persino la scortesia di un Inglese affonda spesso le radici nel suo essere
+
+imbarazzato. Ma la scortesia di un Tedesco affonda le radici nel suo non essere mai
+
+imbarazzato. Mangia e fa l'[[Love|amore]] rumorosamente. Non sente mai che un discorso o un
+
+[[Song|canto]] o un sermone o un lauto pasto siano ciò che gli Inglesi chiamano "fuori luogo"
+
+in determinate circostanze. Quando i Tedeschi sono patriottici e religiosi
+
+non hanno reazioni contro il patriottismo e la religione come le hanno gli Inglesi e
+
+i Francesi. Anzi, l'errore della [[Germany|Germania]] nell'odierno disastro nacque in gran parte
+
+dai fatti che essa credeva l'Inghilterra semplice mentre l'Inghilterra è
+
+assai sottile. Credeva che, poiché la nostra politica è divenuta in gran parte
+
+finanziaria, fosse divenuta interamente finanziaria; che, poiché i nostri
+
+aristocratici erano divenuti piuttosto cinici, fossero divenuti interamente
+
+corrotti. Non riuscivano a cogliere la sottigliezza per cui un gentiluomo inglese piuttosto logoro
+
+potrebbe vendere una corona nobiliare pur non vendendo una fortezza;
+
+potrebbe abbassare gli standard pubblici e tuttavia rifiutarsi di ammainare la [[Flag|bandiera]]. In
+
+breve, i Tedeschi sono ben certi di comprenderci interamente, perché
+
+non ci comprendono affatto. Forse se cominciassero a comprenderci
+
+potrebbero odiarci ancora di più: ma preferirei essere odiato per una piccola
+
+ma reale ragione, che inseguito con [[Love|amore]] a causa di ogni sorta di qualità
+
+che non possiedo e che non [[Desire|desidero]]. E quando i Tedeschi coglieranno
+
+il primo autentico scorcio di com'è l'Inghilterra moderna,
+
+scopriranno che l'Inghilterra ha un senso assai frammentario, tardivo e inadeguato
+
+di avere un obbligo verso l'Europa, ma nessun senso di sorta di avere alcun
+
+obbligo verso il Teutonismo.
+
+Questa è l'ultima e la più forte delle qualità prussiane che qui abbiamo
+
+considerato. Vi è in una stupidità di questo genere una strana e sfuggente
+
+forza: perché può essere non solo fuori dalle regole ma fuori dalla ragione. L'
+
+uomo che davvero non riesce a vedere di contraddirsi ha un grande
+
+vantaggio nella controversia; benché il vantaggio crolli quando egli cerca di
+
+ridurlo a una semplice addizione, agli scacchi, o al gioco chiamato guerra. È
+
+lo stesso per la stupidità della parentela unilaterale. L'ubriaco che è
+
+ben certo che un perfetto sconosciuto sia il suo fratello perduto da tempo ha un vantaggio maggiore
+
+finché non si giunge alle questioni di dettaglio. "Dobbiamo avere il caos dentro di noi"
+
+disse Nietzsche, "perché possiamo dare alla luce una stella danzante."
+
+In queste brevi note ho accennato ai principali punti di forza del
+
+carattere prussiano. Un difetto di [[Honour|onore]] che equivale quasi a un difetto
+
+di [[Memory|memoria]]: un'egomania che è onestamente cieca al fatto che l'altra
+
+parte è un io; e, soprattutto, un vero prurito di tirannia e
+
+d'ingerenza, il demone che ovunque tormenta gli oziosi e i superbi.
+
+A questi va aggiunta una certa informità mentale che può dilatarsi o
+
+contrarsi senza riguardo alla ragione o alla memoria dei fatti; una potenziale infinità di
+
+scuse. Se gli Inglesi fossero stati dalla parte tedesca, i professori tedeschi
+
+avrebbero rilevato quali irresistibili energie avessero fatto evolvere i Teutoni. Poiché gli
+
+Inglesi sono dall'altra parte, i professori tedeschi diranno che questi
+
+Teutoni non erano sufficientemente evoluti. Oppure diranno che erano
+
+evoluti quel tanto che basta a dimostrare che non erano Teutoni. Probabilmente
+
+diranno entrambe le cose. Ma la [[Truth|verità]] è che tutto ciò che chiamano evoluzione dovrebbe
+
+piuttosto chiamarsi evasione. Ci dicono che stanno spalancando finestre di
+
+illuminazione e porte di progresso. La [[Truth|verità]] è che stanno smantellando
+
+l'intera [[house|casa]] dell'intelletto umano, per potersene svignare in qualunque
+
+direzione. Vi è un parallelo sinistro e quasi mostruoso tra la
+
+posizione dei loro filosofi sopravvalutati e dei loro
+
+soldati comparativamente sottovalutati. Poiché ciò che i loro professori chiamano vie del progresso sono
+
+in realtà vie di fuga.
+
+LETTERE A UN VECCHIO GARIBALDINO
+
+[[Italy|Italia]], due volte hai parlato; e il [[Time|tempo]] è assetato
+
+della terza.
+
+                             --SWINBURNE.
+
+Mio caro ------
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="TheAppOfTyranny — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
@@ -6761,6 +6931,192 @@ copying, distributing, performing, displaying or creating derivative
 works based on the work as long as all references to Project Gutenberg
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+monarchia nudamente universale.
+
+C'è sempre stato qualcosa di comune agli uomini civili, sia che essi
+
+lo chiamassero l'essere semplicemente un cittadino, o l'essere semplicemente un peccatore. C'è
+
+sempre stato qualcosa che i vostri antenati chiamavano _Verecundia_; che è al
+
+tempo stesso [[Humility|umiltà]] e dignità. Quali che siano le nostre colpe, non facciamo esattamente come
+
+fanno i Prussiani. Non berciamo giorno e [[Night|notte]] per attirare l'attenzione sul nostro
+
+severo [[Silence|silenzio]]. Non lodiamo noi stessi solo perché nessun altro
+
+ci loderà. Io, per parte mia, dico alla fine di queste lettere, come dissi al
+
+principio, che in queste questioni internazionali ho spesso dissentito
+
+dai miei connazionali; ho spesso dissentito da me stesso. Non pretenderò
+
+la completezza di questa sciocca creatura di cui discutiamo. Non risponderò alle sue
+
+vanterie con vanterie, ma con colpi.
+
+La mia porta d'ingresso viene sfondata e abbattuta all'improvviso. Non vedo nulla fuori,
+
+salvo una specie di commesso viaggiatore sorridente, dai capelli color paglia, con un taccuino
+
+aperto, che dice: "Mi scusi, io sono un essere impeccabile, ho persuaso
+
+la Polonia; posso contare sui miei rispettosi Alleati in Alsazia. Sono semplicemente amato in
+
+Lorena. _Quae reggio in terris_ ... Qual è il luogo sulla terra dove
+
+il nome della Prussia non sia il segnale di preghiere fiduciose e gioiose
+
+danze? Sono quel Tedesco che ha civilizzato il Belgio, e ha delicatamente ritoccato
+
+le frontiere della [[Denmark|Danimarca]]. E posso dirvi, con la pienezza della
+
+convinzione, che non ho mai fallito, e mai fallirò in nulla.
+
+Permettetemi, dunque, di benedire la vostra [[house|casa]] col passaggio dei miei bei
+
+stivali; affinché io possa svaligiare la [[house|casa]] accanto."
+
+E allora qualcosa di Europeo che è più fiero dell'[[Pride|orgoglio]] si leverà in me;
+
+e io risponderò:--
+
+"Io sono quell'Inglese che ha torturato l'Irlanda, che è stato torturato dal
+
+Sudafrica; che conosce tutti i suoi errori, che è gravato da tutti i suoi peccati.
+
+E ti dice, Essere Impeccabile, con una [[Truth|verità]] profonda quanto la sua stessa [[Guilt|colpa]],
+
+e imperitura quanto il suo stesso ricordo, che tu non passerai per questa via."
+
+Fine di The Appetite of Tyranny del Project Gutenberg, di G.K. Chesterton
+
+*** FINE DI QUESTO EBOOK PROJECT GUTENBERG THE APPETITE OF TYRANNY ***
+
+***** Questo file dovrebbe chiamarsi 11605-8.txt o 11605-8.zip *****
+
+This and all associated files of various formats will be found in:
+
+        http://www.gutenberg.net/1/1/6/0/11605/
+
+Prodotto da Robert Shimmin, Piotr Przemyslaw Karwasz e i PG Distributed
+
+Proofreaders
+
+Updated editions will replace the previous one--the old editions
+
+will be renamed.
+
+Creating the works from public domain print editions means that no
+
+one owns a United States copyright in these works, so the Foundation
+
+(and you!) can copy and distribute it in the United States without
+
+permission and without paying copyright royalties.  Special rules,
+
+set forth in the General Terms of Use part of this license, apply to
+
+copying and distributing Project Gutenberg-tm electronic works to
+
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+
+Gutenberg is a registered trademark, and may not be used if you
+
+charge for the eBooks, unless you receive specific permission.  If you
+
+do not charge anything for copies of this eBook, complying with the
+
+rules is very easy.  You may use this eBook for nearly any purpose
+
+such as creation of derivative works, reports, performances and
+
+research.  They may be modified and printed and given away--you may do
+
+practically ANYTHING with public domain eBooks.  Redistribution is
+
+subject to the trademark license, especially commercial
+
+redistribution.
+
+*** INIZIO: LICENZA COMPLETA ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+
+distribution of electronic works, by using or distributing this work
+
+(or any other work associated in any way with the phrase "Project
+
+Gutenberg"), you agree to comply with all the terms of the Full Project
+
+Gutenberg-tm License (available with this file or online at
+
+http://gutenberg.net/license).
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+
+electronic work, you indicate that you have read, understand, agree to
+
+and accept all the terms of this license and intellectual property
+
+accordo (di marchio/copyright).  Se non acconsentite a rispettare tutti
+
+i termini del presente accordo, dovete cessare l'uso e restituire o distruggere
+
+tutte le copie delle opere elettroniche Project Gutenberg-tm in vostro possesso.
+
+Se avete pagato una tariffa per ottenere una copia di, o l'accesso a, un'opera
+
+elettronica Project Gutenberg-tm e non acconsentite a essere vincolati dai
+
+termini del presente accordo, potete ottenere il rimborso dalla persona o
+
+dall'ente al quale avete versato la tariffa, secondo quanto stabilito al paragrafo 1.E.8.
+
+1.B.  «Project Gutenberg» è un marchio registrato.  Può essere
+
+usato o associato in qualsiasi modo a un'opera elettronica soltanto da persone che
+
+acconsentono a essere vincolate dai termini del presente accordo.  Vi sono alcune
+
+cose che potete fare con la maggior parte delle opere elettroniche Project Gutenberg-tm
+
+anche senza attenervi ai termini integrali del presente accordo.  Si veda il
+
+paragrafo 1.C più sotto.  Vi sono molte cose che potete fare con le opere elettroniche
+
+Project Gutenberg-tm se seguite i termini del presente accordo
+
+e contribuite a preservare il libero accesso futuro alle opere elettroniche
+
+Project Gutenberg-tm.  Si veda il paragrafo 1.E più sotto.
+
+1.C.  La Project Gutenberg Literary Archive Foundation («la Fondazione»
+
+o PGLAF) detiene un copyright di raccolta sulla collezione di opere elettroniche
+
+Project Gutenberg-tm.  Quasi tutte le singole opere della
+
+collezione sono di pubblico dominio negli Stati Uniti.  Se una
+
+singola opera è di pubblico dominio negli Stati Uniti e voi vi
+
+trovate negli Stati Uniti, non rivendichiamo alcun diritto di impedirvi di
+
+copiare, distribuire, eseguire, esporre o creare opere derivate
+
+basate sull'opera, purché siano rimossi tutti i riferimenti a Project Gutenberg.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_10" data-title="TheAppOfTyranny — Chapter 4 (part 10)" data-chapter="Chapter 05" data-kind="excerpt"></span>
@@ -6950,6 +7306,192 @@ that
 
 - You comply with all other terms of this agreement for free
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Naturalmente, [[Hope|speriamo]] che vorrete sostenere la missione
+
+Project Gutenberg-tm di promuovere il libero accesso alle opere elettroniche
+
+condividendo liberamente le opere Project Gutenberg-tm nel rispetto dei termini del
+
+presente accordo, così da mantenere il nome Project Gutenberg-tm associato
+
+all'opera.  Potete facilmente attenervi ai termini del presente accordo
+
+conservando quest'opera nel medesimo formato con l'allegata Licenza integrale Project
+
+Gutenberg-tm quando la condividete gratuitamente con altri.
+
+1.D.  Anche le leggi sul copyright del luogo in cui vi trovate disciplinano
+
+ciò che potete fare con quest'opera.  Le leggi sul copyright della maggior parte dei paesi sono in
+
+un costante stato di mutamento.  Se vi trovate fuori dagli Stati Uniti, controllate
+
+le leggi del vostro paese oltre ai termini del presente accordo
+
+prima di scaricare, copiare, esporre, eseguire, distribuire o
+
+creare opere derivate basate su quest'opera o su qualsiasi altra opera Project
+
+Gutenberg-tm.  La Fondazione non rilascia alcuna dichiarazione riguardo
+
+allo stato di copyright di qualsivoglia opera in qualsivoglia paese fuori dagli Stati
+
+Uniti.
+
+1.E. A meno che non abbiate rimosso tutti i riferimenti a Project Gutenberg:
+
+1.E.1.  La seguente frase, con collegamenti attivi a, o altro accesso immediato
+
+a, la Licenza integrale Project Gutenberg-tm deve comparire in evidenza
+
+ogniqualvolta qualsiasi copia di un'opera Project Gutenberg-tm (qualsiasi opera su cui la
+
+locuzione «Project Gutenberg» compaia, o alla quale la locuzione «Project
+
+Gutenberg» sia associata) venga consultata, esposta, eseguita, visualizzata,
+
+copiata o distribuita:
+
+Questo eBook è destinato all'uso di chiunque, ovunque, senza alcun costo e con
+
+quasi nessuna restrizione di sorta.  Potete copiarlo, regalarlo o
+
+riutilizzarlo secondo i termini della Licenza Project Gutenberg inclusa
+
+con questo eBook o online all'indirizzo www.gutenberg.net
+
+1.E.2.  Se una singola opera elettronica Project Gutenberg-tm deriva
+
+dal pubblico dominio (non contiene un avviso che indichi che essa è
+
+pubblicata con il permesso del titolare del copyright), l'opera può essere copiata
+
+e distribuita a chiunque negli Stati Uniti senza pagare alcuna tariffa
+
+o onere.  Se ridistribuite o fornite l'accesso a un'opera
+
+alla quale sia associata, o sulla quale compaia, la locuzione «Project Gutenberg»,
+
+dovete attenervi o ai requisiti dei paragrafi da 1.E.1
+
+a 1.E.7 oppure ottenere il permesso per l'uso dell'opera e del
+
+marchio Project Gutenberg-tm secondo quanto stabilito ai paragrafi 1.E.8 o
+
+1.E.9.
+
+1.E.3.  Se una singola opera elettronica Project Gutenberg-tm è pubblicata
+
+con il permesso del titolare del copyright, il vostro uso e la vostra distribuzione
+
+devono attenersi sia ai paragrafi da 1.E.1 a 1.E.7 sia a qualsiasi ulteriore
+
+termine imposto dal titolare del copyright.  I termini aggiuntivi saranno collegati
+
+alla Licenza Project Gutenberg-tm per tutte le opere pubblicate con il
+
+permesso del titolare del copyright, reperibile all'inizio di quest'opera.
+
+1.E.4.  Non scollegate né staccate né rimuovete i termini integrali della Licenza
+
+Project Gutenberg-tm da quest'opera, o da qualsiasi file contenente una parte di quest'
+
+opera o qualsiasi altra opera associata a Project Gutenberg-tm.
+
+1.E.5.  Non copiate, esponete, eseguite, distribuite o ridistribuite questa
+
+opera elettronica, o qualsiasi parte di questa opera elettronica, senza
+
+esporre in evidenza la frase stabilita al paragrafo 1.E.1 con
+
+collegamenti attivi o accesso immediato ai termini integrali della Licenza
+
+Project Gutenberg-tm.
+
+1.E.6.  Potete [[convert|convertire]] e distribuire quest'opera in qualsiasi forma binaria,
+
+compressa, marcata, non proprietaria o proprietaria, ivi compresa qualsiasi
+
+forma di elaborazione di testo o di ipertesto.  Tuttavia, se fornite l'accesso a, o
+
+distribuite copie di, un'opera Project Gutenberg-tm in un formato diverso dal
+
+«Plain Vanilla ASCII» o da altro formato usato nella versione ufficiale
+
+pubblicata sul sito web ufficiale Project Gutenberg-tm (www.gutenberg.net),
+
+dovete, senza costo, tariffa o spesa aggiuntivi per l'utente, fornire una
+
+copia, un mezzo per esportare una copia, o un mezzo per ottenere una copia su
+
+richiesta, dell'opera nel suo originale «Plain Vanilla ASCII» o altra
+
+forma.  Qualsiasi formato alternativo deve includere la Licenza integrale Project Gutenberg-tm
+
+come specificato al paragrafo 1.E.1.
+
+1.E.7.  Non applicate una tariffa per l'accesso a, la visualizzazione, l'esposizione,
+
+l'esecuzione, la copia o la distribuzione di qualsiasi opera Project Gutenberg-tm
+
+a meno che non vi atteniate al paragrafo 1.E.8 o 1.E.9.
+
+1.E.8.  Potete applicare una tariffa ragionevole per le copie di, o per la fornitura di
+
+l'accesso a o distribuire le opere elettroniche Project Gutenberg-tm a condizione  
+
+che  
+
+- Paghiate una tassa di diritti d'autore pari al 20% dei profitti lordi che ricavate
+
+     dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
+
+     che già usate per calcolare le vostre imposte applicabili.  La tassa è  
+
+     dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
+
+     ha acconsentito a donare i diritti previsti da questo paragrafo alla  
+
+     Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
+
+     devono essere versati entro 60 giorni successivi a ciascuna data in cui  
+
+     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
+
+     fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
+
+     inviati alla Project Gutenberg Literary Archive Foundation all'  
+
+     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
+
+     Project Gutenberg Literary Archive Foundation.»  
+
+- Forniate un rimborso completo di ogni somma pagata da un utente che vi notifichi
+
+     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
+
+     non accetta i termini della completa  
+
+     Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
+
+     distrugga tutte le copie delle opere possedute su supporto fisico  
+
+     e cessi ogni uso di e ogni accesso ad altre copie delle  
+
+     opere Project Gutenberg-tm.  
+
+- Forniate, in conformità al paragrafo 1.F.3, un rimborso completo di ogni
+
+     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
+
+     opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
+
+     dal ricevimento dell'opera.  
+
+- Rispettiate tutti gli altri termini di questo accordo per la libera
 
 
 
@@ -7142,6 +7684,194 @@ throughout numerous locations.  Its business office is located at
 
 809 North 1500 West, Salt Lake [[City]], UT 84116, (801) 596-1887, email
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+distribuzione delle opere Project Gutenberg-tm.  
+
+1.E.9.  Se desiderate far pagare una tassa o distribuire un'opera elettronica  
+
+Project Gutenberg-tm o un gruppo di opere a termini diversi da quelli  
+
+esposti in questo accordo, dovete ottenere il permesso per iscritto da  
+
+sia la Project Gutenberg Literary Archive Foundation sia [[Michael]]  
+
+Hart, il titolare del marchio Project Gutenberg-tm.  Contattate la  
+
+Fondazione come esposto nella Sezione 3 più sotto.  
+
+1.F.
+
+1.F.1.  I volontari e i dipendenti di Project Gutenberg dedicano considerevole  
+
+impegno a identificare, svolgere ricerche sul copyright, trascrivere e correggere  
+
+le opere di pubblico dominio nel creare la raccolta  
+
+Project Gutenberg-tm.  Nonostante questi sforzi, le opere elettroniche  
+
+Project Gutenberg-tm, e il supporto su cui possono essere archiviate, possono contenere  
+
+«Difetti», quali, ma non solo, dati incompleti, inesatti o  
+
+corrotti, errori di trascrizione, una violazione di copyright o altra proprietà  
+
+intellettuale, un disco o altro supporto difettoso o danneggiato, un  
+
+virus informatico, o codici informatici che danneggiano o non possono essere letti dalla  
+
+vostra apparecchiatura.  
+
+1.F.2.  GARANZIA LIMITATA, ESCLUSIONE DI DANNI - Salvo il «Diritto  
+
+di Sostituzione o Rimborso» descritto nel paragrafo 1.F.3, la Project  
+
+Gutenberg Literary Archive Foundation, il titolare del marchio Project  
+
+Gutenberg-tm, e qualsiasi altra parte che distribuisca un'opera elettronica  
+
+Project Gutenberg-tm secondo questo accordo, declinano ogni  
+
+responsabilità verso di voi per danni, costi e spese, comprese le spese  
+
+legali.  ACCETTATE DI NON AVERE ALCUN RIMEDIO PER NEGLIGENZA, RESPONSABILITÀ  
+
+OGGETTIVA, VIOLAZIONE DI GARANZIA O INADEMPIMENTO CONTRATTUALE SALVO QUELLI  
+
+PREVISTI NEL PARAGRAFO F3.  ACCETTATE CHE LA FONDAZIONE, IL  
+
+TITOLARE DEL MARCHIO, E QUALSIASI DISTRIBUTORE SECONDO QUESTO ACCORDO NON SARANNO  
+
+RESPONSABILI VERSO DI VOI PER DANNI EFFETTIVI, DIRETTI, INDIRETTI, CONSEQUENZIALI, PUNITIVI O  
+
+INCIDENTALI ANCHE SE AVVISATE DELLA POSSIBILITÀ DI TALE  
+
+DANNO.  
+
+1.F.3.  DIRITTO LIMITATO DI SOSTITUZIONE O RIMBORSO - Se scoprite un  
+
+difetto in quest'opera elettronica entro 90 giorni dal riceverla, potete  
+
+ricevere un rimborso della somma (se pagata) versata per essa inviando una  
+
+spiegazione scritta alla persona da cui avete ricevuto l'opera.  Se  
+
+avete ricevuto l'opera su supporto fisico, dovete restituire il supporto con  
+
+la vostra spiegazione scritta.  La persona o entità che vi ha fornito  
+
+l'opera difettosa può scegliere di fornire una copia sostitutiva in luogo d'un  
+
+rimborso.  Se avete ricevuto l'opera per via elettronica, la persona o entità  
+
+che ve la fornisce può scegliere di darvi una seconda opportunità di  
+
+ricevere l'opera per via elettronica in luogo d'un rimborso.  Se anche la seconda copia  
+
+è difettosa, potete esigere un rimborso per iscritto senza ulteriori  
+
+opportunità di risolvere il problema.  
+
+1.F.4.  Salvo il diritto limitato di sostituzione o rimborso esposto  
+
+al paragrafo 1.F.3, quest'opera vi è fornita 'COSÌ COM'È', SENZA ALCUN'ALTRA
+
+GARANZIA DI ALCUN GENERE, ESPRESSA O IMPLICITA, COMPRESE MA NON SOLO LE  
+
+GARANZIE DI COMMERCIABILITÀ O IDONEITÀ A QUALSIASI SCOPO.  
+
+1.F.5.  Alcuni stati non consentono l'esclusione di certe garanzie  
+
+implicite o l'esclusione o limitazione di certi tipi di danni.  
+
+Se una qualsiasi esclusione o limitazione esposta in questo accordo viola la  
+
+legge dello stato applicabile a questo accordo, l'accordo sarà  
+
+interpretato in modo da attuare la massima esclusione o limitazione consentita dalla  
+
+legge statale applicabile.  L'invalidità o l'inapplicabilità di una qualsiasi  
+
+disposizione di questo accordo non annullerà le restanti disposizioni.  
+
+1.F.6.  MANLEVA - Accettate di indennizzare e tenere indenni la Fondazione, il  
+
+titolare del marchio, qualsiasi agente o dipendente della Fondazione, chiunque  
+
+fornisca copie delle opere elettroniche Project Gutenberg-tm in conformità  
+
+a questo accordo, e qualsiasi volontario associato alla produzione,  
+
+promozione e distribuzione delle opere elettroniche Project Gutenberg-tm,  
+
+da ogni responsabilità, costo e spesa, comprese le spese legali,  
+
+che sorgano direttamente o indirettamente da una qualsiasi delle seguenti cose che voi fate  
+
+o causate: (a) distribuzione di questa o di qualsiasi opera Project Gutenberg-tm  
+
+opera, (b) alterazione, modifica, o aggiunte o cancellazioni a qualsiasi  
+
+opera Project Gutenberg-tm, e (c) qualsiasi Difetto che causate.  
+
+Sezione 2. Informazioni sulla Missione del Project Gutenberg-tm
+
+Project Gutenberg-tm è sinonimo di libera distribuzione di  
+
+opere elettroniche in formati leggibili dalla più ampia varietà di computer  
+
+compresi i computer obsoleti, vecchi, di mezza età e nuovi. Esiste
+
+grazie all'impegno di centinaia di volontari e alle donazioni di
+
+persone di ogni ceto sociale.
+
+I volontari e il sostegno finanziario necessario a fornire ai volontari
+
+l'assistenza di cui hanno bisogno sono essenziali per il raggiungimento
+
+degli obiettivi di Project Gutenberg-tm e per garantire che la raccolta
+
+di Project Gutenberg-tm resti liberamente disponibile per le generazioni a venire. Nel 2001 fu costituita la Project
+
+Gutenberg Literary Archive Foundation al fine di assicurare un futuro sicuro
+
+e duraturo a Project Gutenberg-tm e alle generazioni future.
+
+Per saperne di più sulla Project Gutenberg Literary Archive Foundation
+
+e su come il vostro impegno e le vostre donazioni possano essere d'aiuto, si vedano le Sezioni 3 e 4
+
+e la pagina web della Fondazione all'indirizzo http://www.pglaf.org.
+
+Sezione 3. Informazioni sulla Project Gutenberg Literary Archive
+
+Foundation
+
+La Project Gutenberg Literary Archive Foundation è una società senza scopo di lucro
+
+di tipo 501(c)(3), a carattere educativo, costituita secondo le leggi dello
+
+stato del Mississippi e riconosciuta esente da imposte dall'Internal
+
+Revenue Service. Il numero EIN, ossia il codice fiscale federale della Fondazione,
+
+è 64-6221541. La sua lettera 501(c)(3) è pubblicata all'indirizzo
+
+http://pglaf.org/fundraising. Le contribuzioni alla Project Gutenberg
+
+Literary Archive Foundation sono deducibili dalle imposte nella misura massima
+
+consentita dalle leggi federali statunitensi e dalle leggi del vostro stato.
+
+La sede principale della Fondazione si trova al 4557 Melan Dr. S.
+
+Fairbanks, AK, 99712., ma i suoi volontari e dipendenti sono sparsi
+
+in numerose località. I suoi uffici amministrativi si trovano al
+
+809 North 1500 West, Salt Lake [[City|City]], UT 84116, (801) 596-1887, email
 
 
 
@@ -7371,9 +8101,9 @@ Vi preghiamo di consultare le pagine web di Project Gutenberg per conoscere gli 
 
 metodi e indirizzi per le donazioni. Le donazioni sono accettate in svariati altri
 
-modi, inclusi assegni, pagamenti online e donazioni con carta
+modi inclusi assegni, pagamenti online e donazioni con carta di
 
-di credito. Per donare, visitare: http://pglaf.org/donate
+credito.  Per donare, visitate: http://pglaf.org/donate
 
 Sezione 5. Informazioni Generali sulle opere elettroniche di Project
 
@@ -7395,19 +8125,19 @@ a meno che non sia incluso un avviso di copyright. Pertanto, non necessariamente
 
 manteniamo gli eBook conformi a una particolare edizione cartacea.
 
-Ogni eBook si trova in una sottodirectory che porta lo stesso numero del suo
+Ogni eBook si trova in una sottodirectory dello stesso numero del
 
-numero di eBook, spesso in vari formati, inclusi ASCII puro e semplice,
+numero dell'eBook, spesso in vari formati inclusi plain vanilla ASCII,
 
-compresso (zip), HTML e altri.
+compresso (zippato), HTML e altri.
 
 Le EDIZIONI corrette dei nostri eBook sostituiscono il vecchio file e ne assumono
 
-il vecchio nome e numero etext. Il vecchio file sostituito viene rinominato.
+il vecchio nome di file e il numero etext.  Il vecchio file sostituito viene rinominato.
 
-Le VERSIONI basate su fonti separate sono trattate come nuovi eBook e ricevono
+Le VERSIONI basate su fonti separate sono trattate come nuovi eBook che ricevono
 
-nuovi nomi di file e numeri etext.
+nuovi nomi di file e nuovi numeri etext.
 
 La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
 
@@ -7423,11 +8153,11 @@ abbonarsi alla nostra newsletter via email per essere informati sui nuovi eBook.
 
 Gli eBook pubblicati prima del novembre 2003, con numeri di eBook INFERIORI a #10000,
 
-sono archiviati in directory basate sulla loro data di rilascio. Se si vuole
+sono archiviati in directory basate sulla loro data di pubblicazione.  Se volete
 
-scaricare direttamente uno di questi eBook, anziché usare il consueto
+scaricare uno qualsiasi di questi eBook direttamente, invece di usare il consueto
 
-sistema di ricerca, si possono utilizzare i seguenti indirizzi e semplicemente
+sistema di ricerca potete utilizzare i seguenti indirizzi e semplicemente
 
 scaricare per anno etext. Per esempio:
 
@@ -7437,21 +8167,21 @@ scaricare per anno etext. Per esempio:
 
      98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
 
-Gli eBook pubblicati dal novembre 2003 in poi, con numeri etext SUPERIORI a #10000, sono
+Gli eBook pubblicati dal novembre 2003, con numeri etext SUPERIORI a #10000, sono
 
-archiviati in modo diverso. L'anno della data di rilascio non fa più parte
+archiviati in modo diverso.  L'anno di una data di pubblicazione non fa più parte
 
-del percorso della directory. Il percorso si basa sul numero etext (che è
+del percorso della directory.  Il percorso è basato sul numero etext (che è
 
-identico al nome del file). Il percorso del file è composto dalle singole
+identico al nome del file).  Il percorso del file è composto da singole
 
-cifre corrispondenti a tutte tranne l'ultima cifra del nome del file. Per
+cifre corrispondenti a tutte tranne l'ultima cifra del nome del file.  Per
 
-esempio, un eBook con nome di file 10234 si troverebbe in:
+esempio un eBook con nome di file 10234 si troverebbe in:
 
      http://www.gutenberg.net/1/0/2/3/10234
 
-oppure il nome di file 24689 si troverebbe in:
+o il nome di file 24689 si troverebbe in:
 
      http://www.gutenberg.net/2/4/6/8/24689
 

@@ -240,6 +240,26 @@ Leicester Square to-day. You hailed me outside Euston Station, and you
 said ..." "Are you mad, or am I?"  I asked with scientific calm.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lo Straordinario [[cabman|Vetturino]]
+
+di G.K. Chesterton
+
+Da: il Daily News di [[London|Londra]] e Tremendous Trifles
+
+----------------------------------------------------------------------------
+
+Di [[Time|tempo]] in [[Time|tempo]] ho introdotto in questa rubrica di giornale la narrazione di episodi realmente accaduti. Non intendo insinuare che, sotto questo aspetto, essa stia [[Alone|sola]] tra le rubriche dei giornali. Intendo soltanto che ho scoperto come il mio pensiero fosse meglio espresso da qualche pratica [[Parable|parabola]] tratta dalla vita quotidiana che da ogni altro metodo; perciò mi propongo di narrare l'episodio dello straordinario [[cabman|vetturino]], che mi capitò appena tre giorni fa, e che, per quanto in apparenza lieve, suscitò in me un momento di genuina emozione rasente la [[Despair|disperazione]].
+
+Il giorno in cui incontrai lo strano [[cabman|vetturino]] avevo pranzato in un piccolo ristorante di Soho in compagnia di tre o quattro dei miei migliori amici. I miei migliori amici sono tutti o scettici senza fondo o credenti del tutto incontrollabili, sicché la nostra discussione a pranzo si volse verso le idee più ultime e terribili. E l'intera disputa si ridusse infine a questo: se un uomo possa essere certo di alcunché. Io credo che possa esserlo, poiché se (come dissi al mio amico, brandendo furiosamente una bottiglia vuota) è intellettualmente impossibile ammettere la certezza, che cos'è questa certezza che è impossibile ammettere? Se non ho mai sperimentato una cosa come la certezza, non posso nemmeno dire che una cosa non sia certa. Similmente, se non ho mai sperimentato una cosa come il verde, non posso nemmeno dire che il mio naso non sia verde. Per quanto ne so, potrebbe essere verde quanto è possibile, se davvero non ho alcuna esperienza della verdezza. Così ci gridavamo l'un l'altro e facevamo tremare la stanza; perché la metafisica è l'unica cosa pienamente emotiva. E la differenza tra noi era assai profonda, perché era una differenza quanto all'oggetto di quell'intera cosa chiamata apertura mentale, o l'aprirsi dell'intelletto. Il mio amico infatti diceva di aprire il proprio intelletto come il sole apre i ventagli di una palma, aprendo per il gusto di aprire, aprendo all'infinito per sempre. Ma io dicevo che aprivo il mio intelletto come aprivo la bocca, allo scopo di richiuderla su qualcosa di solido. E lo stavo facendo in quel momento. E, come giustamente osservai, avrei un'aria straordinariamente sciocca se continuassi ad aprire la bocca all'infinito, per sempre e sempre.
+
+[Nota dell'editore — Da altri scritti di Chesterton sappiamo che l'amico "dalla mente aperta" cui qui si allude è H.G. Wells. Inoltre apprendiamo, dal paragrafo che segue, che Hilaire Belloc era un altro dei presenti a quell'incontro di Soho. Ed è del tutto possibile, anzi probabile, che anche George Bernard [[Shaw]] fosse nella comitiva.]
+
+Ora, quando questa disputa fu finita, o almeno quando fu troncata (perché non sarà mai finita), me ne andai con uno dei miei compagni, il quale, nella confusione e nella relativa follia di elezioni generali, era in qualche modo divenuto membro del Parlamento, e con lui viaggiai in una carrozza dall'angolo di Leicester Square fino all'ingresso dei membri della [[house|Camera]] dei Comuni, dove la polizia mi ricevette con una tolleranza del tutto insolita. Se pensassero che lui fosse il mio guardiano o che io fossi il suo, è una questione, tra noi, che ancora prosegue.
+
+È necessario, in questo racconto, conservare la massima esattezza dei particolari. Dopo aver lasciato il mio amico alla [[house|Camera]], presi la carrozza per qualche centinaio di iarde fino a un ufficio in Victoria Street che dovevo visitare. Poi scesi e gli offrii più della sua tariffa. La guardò, ma non con quel torvo [[Doubt|dubbio]] e quella generale disposizione a tentare il colpo che non è ignota tra i vetturini normali. Ma questo non era un vetturino normale, forse nemmeno umano, questo [[cabman|vetturino]]. La guardò con uno stupore ottuso e infantile, chiaramente del tutto genuino. «Sa, signore,» disse, «lei mi ha dato solo 1s. 8d?» Osservai, con una certa sorpresa, che lo sapevo. «Ora, sa, signore,» disse con fare gentile, supplichevole e ragionevole, «lei sa che non è la tariffa da Euston.» «Euston,» ripetei vagamente, perché quella parola, in quel momento, mi suonava come Cina o Arabia. «Che diavolo c'entra Euston?» «Mi ha chiamato proprio fuori dalla stazione di Euston,» cominciò l'uomo con stupefacente precisione, «e poi lei ha detto...» «Di che cosa in nome del Tartaro stai parlando?» dissi con cristiana sopportazione; «ti ho preso all'angolo sud-ovest di Leicester Square.» «Leicester Square,» esclamò, sciogliendo una specie di cateratta di disprezzo, «ma se oggi non siamo neanche stati vicino a Leicester Square. Mi ha chiamato fuori dalla stazione di Euston, e ha detto...» «Sei matto tu, o lo sono io?» chiesi con scientifica calma.
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="cabman (part 2)" data-chapter="part 02" data-kind="excerpt"></span>

@@ -243,6 +243,98 @@ or even on the day that he would personally prefer; God forbid!--
 or, rather (as the Bolshevists would say), Godlessness forbid!
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Sull'abolire la [[Sunday|domenica]]
+
+Da Come to Think of It di G.K. Chesterton
+
+XXXIV.  Sull'abolire la [[Sunday|domenica]]
+
+LA notizia che il [[government|Governo]] bolscevico avesse abolito la [[Sunday|domenica]]
+poteva essere letta in vari modi.  Alcuni bolscevichi erano
+di quella stirpe da cui ci si sarebbe potuto aspettare la sostituzione col sabato.
+Altri hanno una marcata affinità intellettuale con la grande religione che,
+per quanto strano, sceglie il venerdì.  Il giorno di riposo dei musulmani è il venerdì;
+e, quando mi trovavo a Gerusalemme, dal cadere delle tre festività religiose nei tre giorni successivi
+scaturivano talvolta esiti assai bizzarri.
+Ci si lamentava che gli Ebrei traessero un vantaggio sleale dal fatto
+che il loro Sabato cessa al tramonto; ma, comunque sia, era altamente
+significativo di un bisogno umano universale che le tre grandi
+comunioni cosmopolite, che pur non concordavano affatto sulla scelta di un
+giorno sacro, concordassero tutte nell'averne uno.  Si erano combattute e perseguitate
+e oppresse e sfruttate a vicenda in ogni sorta di modi.
+Ma tutte possedevano il profondo istinto umano di una Tregua di Dio,
+in cui gli uomini dovessero, se possibile, cessare di combattere, e persino
+(se il pensiero è concepibile) cessare di sfruttare.
+
+Se i bolscevichi hanno davvero dichiarato guerra all'idea intrinseca di un
+comune Giorno di Riposo, non è forse il primo punto in cui si sono
+dimostrati assai più stupidi di Ebrei, Turchi, infedeli ed eretici.
+Tutti tendiamo a parlare con naturalezza di pedanteria antiquata.  Ma il più
+pedante fra i pedanti è colui che è troppo limitato per essere antiquato.
+Egli è tagliato fuori dall'antichità e perciò dall'umanità; nulla imparerà
+dalle cose, ma solo dalle teorie; e, proprio nell'atto
+di pretendere di insegnare per mezzo dell'esperimento, rifiuta di imparare per mezzo dell'esperienza.
+Difficilmente vi potrebbe essere esempio più forte di questa sorta di sorda e ottusa
+insofferenza che un atteggiamento meramente distruttivo verso i Sabati
+e i giorni speciali.  Il fatto che gli uomini li abbiano sempre sentiti necessari
+non fa che rendere questo genere di saccente più certo che siano superflui.
+La loro universalità, pur nella varietà, dovrebbe avvertirlo che ha
+a che fare con qualcosa di profondo e delicato: qualcosa insieme sottile
+e ostinato.  Non dico che egli sia tenuto a considerarli giusti;
+ma è tenuto a considerarli.  E non li considera mai,
+perché trova che condannarli sia la via di minor resistenza.
+Gli basta quasi che l'umanità abbia sempre desiderato qualcosa;
+si metterà all'istante all'opera per liberare l'umanità da tutto ciò che essa
+ha sempre desiderato.  Prima o poi, non ne [[Doubt|dubiteremo]] meno, vedremo un movimento
+per liberare gli uomini dall'antica e barbara usanza di mangiare il cibo.
+Del resto abbiamo già visto qualcosa di simile a un movimento
+per liberarli dalla fantastica abitudine di bere le bevande.
+Vedremo rivoluzionari denunciare la degradante necessità
+di andare a letto la [[Night|notte]].  In fondo, la postura prostrata potrebbe
+essere considerata servile o toccata dalle superstizioni del supplice.
+Dal cittadino davvero attivo, vigile e rispettoso di [[Self|sé]] ci si può ragionevolmente
+aspettare che se ne stia ritto in piedi per ventiquattro ore di fila.
+Al filosofo progressista si potrà richiedere di camminare nel [[Sleep|sonno]],
+e persino di parlare nel [[Sleep|sonno]]; e, considerando ciò che dice e
+dove cammina, la cosa pare abbastanza probabile.  Comunque, lo stesso genere
+di [[philosophy|filosofia]] disumanizzata che distrugge il ricorrere di un giorno
+ogni sette può [[Well|ben]] disprezzare il ricorrere di sei ore ogni ventiquattro.
+Potremo vedere una vasta rivolta intellettuale contro la [[Slavery|Schiavitù]] del [[Sleep|Sonno]].
+Riesco a immaginare vividamente gli opuscoli e i manifesti; le elaborate
+statistiche che mostrano come, se la gente non smettesse mai di lavorare, produrrebbe
+più di quanto produca al presente; i lucidi diagrammi che espongono
+la perdita per il lavoro dovuta al fatto che pochi uomini sono effettivamente
+al lavoro nelle loro fabbriche mentre dormono nei loro letti.
+Queste dimostrazioni scientifiche sono sempre così serrate e stringenti.
+Riesco quasi a vedere le file di cifre che mostrano via via, nel
+caso del carbone, del cotone, del burro, dei lacci da scarpe, del maiale e della ghisa,
+che in ogni singolo esempio si compirebbe più lavoro se ogni
+[[Body|corpo]] potesse solo continuare a lavorare.  È vero che questo genere
+di argomentazione torna generalmente di massima utilità ultima al Capitalismo.
+Ma così è anche del Bolscevismo.
+
+Ma questi veri amici del Capitalismo, che ancora si dicono
+Comunisti, non intendono affatto, si capisce, che nessuno debba avere
+alcun tempo libero, così come non intendono che nessuno debba avere [[Sleep|sonno]].
+I Comunisti direbbero che dovrebbero esserci turni di lavoro,
+e frequenti ricorrenze di riposo; ma così direbbero anche i capitalisti.
+Direbbero che il lavoro dovrebbe essere organizzato per tutti,
+e il riposo concesso a turno a ciascun individuo; ma così
+direbbero anche i Capitalisti.  Non vi è in realtà gran differenza
+nel piano generale del sistema di fabbrica presieduto
+dal collettivismo di Mosca e dall'[[Individualism|individualismo]] di Detroit.
+È giusto dire che il signor Ford ha dimenticato che cosa mai qualcuno abbia
+inteso con [[Individualism|Individualismo]], tanto completamente quanto i capi bolscevichi
+hanno dimenticato che cosa essi stessi intendessero in origine con Bolscevismo.
+La vacanza è concessa all'individuo, ma non vi è nulla
+di individuale in essa.  È concessa da un potere impersonale mediante una
+rotazione meccanica, sulla quale l'individuo stesso non ha alcun potere.
+Non gli è concessa nel giorno del suo compleanno, o nel giorno del suo santo patrono,
+o nemmeno nel giorno che egli personalmente preferirebbe; Dio non voglia!—
+o, piuttosto (come direbbero i bolscevichi), l'assenza di Dio non voglia!
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="On_Abolishing_Sunday (part 2)" data-chapter="part 02" data-kind="excerpt"></span>

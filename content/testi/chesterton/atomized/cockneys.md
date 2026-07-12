@@ -414,6 +414,83 @@ correctly stated by saying that, even if the man is the head of the [[house]],
 he knows he is the figure-head.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Credo fermamente nel valore di tutte le nozioni volgari, e in special
+modo delle barzellette volgari. Quando avete afferrato una barzelletta
+volgare, potete essere certi di aver afferrato un'idea sottile e
+spirituale. Gli uomini che fecero la battuta videro qualcosa di profondo
+che non riuscivano a esprimere se non con qualcosa di sciocco ed
+enfatico. Videro qualcosa di delicato che potevano esprimere solo con
+qualcosa di indelicato. Ricordo che il signor Max Beerbohm (il quale
+possiede ogni merito tranne quello della [[democracy|democrazia]])
+tentò di analizzare le facezie di cui ride la folla. Le divise in tre
+categorie: le facezie sull'umiliazione corporea, le facezie sulle cose
+straniere, come gli stranieri, e le facezie sul [[cheese|formaggio]]
+andato a male. Il signor Max Beerbohm credeva di comprendere le prime
+due forme; ma non sono sicuro che le comprendesse. Per capire
+l'[[Humour|umorismo]] volgare non basta essere spiritosi. Bisogna anche
+essere volgari, come lo sono io. E nel primo caso è senz'altro evidente
+che non ridiamo (come confido facciamo) semplicemente per il fatto che
+qualcosa si fa male, quando un Primo Ministro si siede sul proprio
+cappello. Se fosse così dovremmo ridere ogni volta che vediamo un
+funerale. Non ridiamo del semplice fatto che qualcosa cade; non vi è
+nulla di comico nelle [[Leaves|foglie]] che cadono o nel sole che
+tramonta. Quando la nostra [[house|casa]] crolla non ridiamo. Tutti gli
+[[Birds|uccelli]] del cielo potrebbero piovere intorno a noi in un
+acquazzone perpetuo come una grandinata senza destare un sorriso. Se
+davvero vi chiedete perché ridiamo di un uomo che si siede
+all'improvviso in mezzo alla strada, scoprirete che la ragione non è
+soltanto recondita, ma in ultima analisi religiosa. Tutte le facezie
+sugli uomini che si siedono sul proprio cappello sono in verità facezie
+teologiche; riguardano la duplice [[Nature|natura]] dell'uomo. Si
+riferiscono a quel [[Paradox|paradosso]] primario per cui l'uomo è
+superiore a tutte le cose che lo circondano e tuttavia è alla loro
+[[Mercy|mercé]].
+
+Del tutto egualmente sottile e spirituale è l'idea che sta dietro al
+ridere degli stranieri. Riguarda l'ilarità quasi tormentosa di una cosa
+che è simile a se stessi e tuttavia dissimile da se stessi. Nessuno ride
+di ciò che è interamente straniero; nessuno ride di una palma. Ma è
+buffo vedere la familiare immagine di Dio travestita dietro la barba
+nera di un francese o il volto nero di un negro. Non c'è nulla di comico
+nei suoni che sono del tutto disumani, l'ululato delle bestie feroci o
+del [[Wind|vento]]. Ma se un uomo comincia a parlare come noi, e però
+tutte le sillabe gli escono diverse, allora, se si è uomini, si sente
+l'inclinazione a ridere, sebbene, se si è gentiluomini, si resista
+all'inclinazione.
+
+Il signor Max Beerbohm, lo ricordo, dichiarava di comprendere le prime due forme dello spirito popolare, ma diceva che la terza lo lasciava del tutto perplesso. Non riusciva a capire perché ci dovesse essere alcunché di buffo nel [[cheese|formaggio]] andato a male. Posso spiegarglielo all'istante. Gli è sfuggita l'idea perché essa è sottile e filosofica, mentre egli cercava qualcosa d'ignorante e sciocco. Il [[cheese|formaggio]] andato a male è buffo perché è (come lo straniero o l'uomo caduto sul selciato) il tipo del passaggio o della trasgressione attraverso un grande confine mistico. Il [[cheese|formaggio]] andato a male simboleggia il mutamento dall'inorganico all'organico. Il [[cheese|formaggio]] andato a male simboleggia lo strabiliante prodigio della materia che assume vitalità. Simboleggia l'origine stessa della vita. Ed è soltanto su faccende solenni come l'origine della vita che la [[democracy|democrazia]] si degna di scherzare. Così, per esempio, la [[democracy|democrazia]] scherza sul [[Marriage|matrimonio]], perché il [[Marriage|matrimonio]] è una parte del genere umano. Ma la [[democracy|democrazia]] non si degnerebbe mai di scherzare sul Libero [[Love|Amore]], perché il Libero [[Love|Amore]] è un pezzo di saccenteria.
+
+In effetti, si troverà generalmente che la barzelletta popolare non è
+vera alla lettera, ma è vera nello spirito. La barzelletta volgare è di
+solito, nel modo più strano, la [[Truth|verità]] e tuttavia non il fatto.
+Per esempio, non è affatto vero che le suocere siano come categoria
+oppressive e intollerabili; la maggior parte di esse sono al tempo
+stesso devote e utili. Tutte le suocere che io abbia mai avuto erano
+ammirevoli. Eppure la leggenda dei giornali umoristici è profondamente
+vera. Richiama l'attenzione sul fatto che è assai più difficile essere
+una buona suocera che essere buoni in qualsiasi altra concepibile
+relazione della vita. Le caricature hanno rappresentato la peggiore
+suocera come un [[Monster|mostro]], per esprimere il fatto che la
+migliore suocera è un problema. Lo stesso vale per le perpetue facezie
+dei giornali umoristici sulle mogli bisbetiche e sui mariti succubi. È
+tutta una frenetica esagerazione, ma è l'esagerazione di una
+[[Truth|verità]]; mentre tutte le moderne tirate sulle donne oppresse
+sono le esagerazioni di una menzogna. Se leggete anche i migliori
+intellettuali di oggi li troverete affermare che nella massa della
+[[democracy|democrazia]] la donna è la proprietà del suo signore, come
+la sua vasca o il suo letto. Ma se leggete la letteratura umoristica
+della [[democracy|democrazia]] troverete che è il signore a nascondersi
+sotto il letto per sfuggire all'ira della sua proprietà. Questo non è il
+fatto, ma è molto più vicino alla [[Truth|verità]]. Ogni uomo sposato sa
+[[Well|bene]] non solo che non considera la propria moglie una proprietà,
+ma che nessun uomo può concepibilmente averlo mai fatto. La barzelletta
+sta per una [[Truth|verità]] ultima, e questa è una [[Truth|verità]]
+sottile. Non è affatto facile enunciarla correttamente. La si può forse
+enunciare nel modo più corretto dicendo che, anche se l'uomo è il capo
+della [[house|casa]], egli sa di esserne la polena.
+
 
 
 <span class="atom-split" data-atom="part--part_03" data-title="cockneys (part 3)" data-chapter="part 03" data-kind="excerpt"></span>

@@ -125,6 +125,118 @@ And man be matter, and not with Thee?
 --G.K.Chesterton
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+LE TORRI DEL [[Time|TEMPO]]  
+
+Sotto quale luce lebbrosa e avvizzente  
+L'erba stessa come chioma è grigia,  
+Erba nelle crepe dei cortili lastricati  
+Di dèi che scolpimmo solo ieri.  
+Senato, repubblica, impero, a tutto  
+Appoggiammo le spalle come a un muro  
+E benedicemmo come forte e biasimammo come stolido--  
+Possono esser questi a vacillare e cadere?  
+	E cos'è questo come uno [[Ghost|Spettro]] che ritorna,  
+	[[A Dream|Un sogno]] fatto forte nella forte luce del giorno?  
+	L'abbandonato da tutti, il non dimenticato,  
+	Il sempre-alle-spalle e fuori dalla vista.  
+	Volgemmo le spalle e la nostra cieca carne lo sentì  
+	Crescere e crescere, una torre in altezza.  
+
+Ah, non [[Alone|soltanto]] lo splendore malvagio  
+E non le armi insolenti [[Alone|soltanto]]  
+Spezzano con lo scovolo, rigido e fragile,  
+Lo scettro del trono nordico;  
+Ma cose di più virile rinomanza  
+Vacillano nel naufragio di trono e [[Crown|corona]],  
+Con tirannica tirannia, tirannica lealtà,  
+Tirannica libertà, tutto crollato.  
+
+(Non c'è mai una crepa nella torre d'avorio  
+Né un cardine che gema nella [[house|casa]] d'oro  
+Né una foglia della [[Rose|rosa]] al [[Wind|vento]] ad appassire  
+Ed ella ringiovanisce mentre il mondo invecchia.  
+Una Donna vestita di sole che ritorna  
+a rivestire il sole quando il sole è freddo.)  
+
+Ah, chi avrebbe immaginato che in un istante  
+La grande Libertà che sciolse le tribù,  
+la Repubblica delle battaglie dei giovani  
+Si facesse stantia e puzzasse delle tangenti dei vecchi;  
+E là dove la vedemmo sorridere nel potere  
+Una statua come una torre stellata  
+il volto di pietra sogghigna come in un [[nightmare|incubo]]  
+Giù su un mondo che i vermi divorano.  
+	(Arcaiche incredibili morte albe che rompono  
+	Fonde nei deserti e nelle lande e nei boschi,  
+	Dove i morti gridano forte a Nostra Signora delle Vittorie,  
+	[[Queen|Regina]] delle Aquile, alta sopra gli scudi,  
+	E il sole è sorto sulla Legione Tonante  
+	Sulle strade di Roma verso i Campi di Battaglia.)  
+
+Ah, chi avrebbe saputo, chi non avesse visto  
+Come lieve e improvvisa sulla fama  
+Delle mie nobilissime navi inglesi  
+Giunse la luce di tramonto di Cartagine  
+E la cosa che mai avevo sognato potesse essere  
+Nella [[house|casa]] dei miei padri venne a me  
+Attraverso la muraglia marina fenduta, la nuvola e il buio,  
+Una voce divisa, un mare incerto.  
+	(La luce è chiara sulla Torre di Davide,  
+	La sera  risplende della stella del mattino  
+	Nei cieli rivolti indietro e nei giorni che ritornano  
+	Ella cammina così vicina, lei che aveva errato lontano  
+	E nel cuore delle spade, sette volte ferita,  
+	Non fu mai stanca come lo sono i nostri cuori.)  
+
+Come rapide, quasi con un cadere di [[Snow|neve]]  
+Le cose nuove incanutiscono alla luce.  
+Vediamo le rughe strisciare come serpi  
+Sulla nuova immagine dinanzi a noi.  
+Le linee che si levarono tese e ardite  
+Cedono come antichi mostri primordiali,  
+Sprofondano nei bassorilievi del fossile  
+E la lenta terra le inghiotte, piega su piega,  
+Ma lievi sono i piedi sui colli del mattino  
+Degli agnelli che balzano alla Sposa del Sole,  
+E rapidi sono gli [[Birds|uccelli]] come le farfalle guizzanti  
+E improvvisi come il riso corrono i ruscelli  
+E improvvisa per sempre come il [[Lightning|lampo]] d'[[Summer|estate]]  
+la luce è chiara sul mondo appena cominciato.  
+
+Tu non ti spezzerai come noi ci siamo spezzati  
+Le torri che erigemmo per rivaleggiare con Te.  
+Più fedele all'Inghilterra degli inglesi  
+Più giusto verso la [[Freedom|Libertà]] dei liberi.  
+O tromba dell'intollerante [[Truth|Verità]]  
+Tu sei più colmo di grazia e di pietà  
+Per le speranze del mondo che il mondo che le fece,  
+Il mondo che uccise gli amori della nostra giovinezza.  
+	Tu sei più benigno verso i nostri [[Dreams|Sogni]], Madre Nostra,  
+	Dei saggi che ci tesserono i [[Dreams|Sogni]] per ombra.  
+	Dio è più buono verso gli dèi che Lo schernirono  
+	Di quanto gli uomini siano buoni verso gli dèi che fecero.  
+	Più tenero coi balocchi di un fanciullo fattosi brutale,  
+	Che spezza i pupazzi con cui giocava.  
+
+Quali sono i [[Flowers|Fiori]] che il [[Garden|Giardino]] non custodisce  
+E come, se non qui, potrebbero i [[Dreams|Sogni]] ritornare?  
+E come su focolari fatti freddi dalla rovina  
+ardono le ceneri disperse dal vasto [[Wind|Vento]]--  
+Qual è la [[Home|Casa]] del cuore reso libero,  
+E dov'è il nido della libertà,  
+E dove dal mondo potrà il mondo trovare riparo  
+E l'uomo essere materia, e non con Te?  
+	La Sapienza siede sul suo trono di tuono,  
+	Lo [[Mirror|Specchio]] della Giustizia  acceca il giorno--  
+	Dove sono le torri che non sono della [[City|Città]],  
+	Trofei e squilli di tromba, dove sono?  
+	Dove sopra il labirinto del mondo ritornando  
+	I sentieri secondari piegano verso la strada maestra del [[King|Re]].  
+
+--G.K.Chesterton
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="towers-of-time (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
@@ -237,5 +349,118 @@ And man be matter, and not with Thee?
 	Trophies and trumpetings, where are they?  
 	Where over the maze of the world returning  
 	The bye-ways bend to the [[King]]'s highway.  
+
+--G.K.Chesterton
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LE TORRI DEL [[Time|TEMPO]]  
+
+Sotto quale luce lebbrosa e avvizzente  
+L'erba stessa come chioma è grigia,  
+Erba nelle crepe dei cortili lastricati  
+Di dèi che scolpimmo solo ieri.  
+Senato, repubblica, impero, a tutto  
+Appoggiammo le spalle come a un muro  
+E benedicemmo come forte e biasimammo come stolido--  
+Possono esser questi a vacillare e cadere?  
+	E cos'è questo come uno [[Ghost|Spettro]] che ritorna,  
+	[[A Dream|Un sogno]] fatto forte nella forte luce del giorno?  
+	L'abbandonato da tutti, il non dimenticato,  
+	Il sempre-alle-spalle e fuori dalla vista.  
+	Volgemmo le spalle e la nostra cieca carne lo sentì  
+	Crescere e crescere, una torre in altezza.  
+
+Ah, non [[Alone|soltanto]] lo splendore malvagio  
+E non le armi insolenti [[Alone|soltanto]]  
+Spezzano con lo scovolo, rigido e fragile,  
+Lo scettro del trono nordico;  
+Ma cose di più virile rinomanza  
+Vacillano nel naufragio di trono e [[Crown|corona]],  
+Con tirannica tirannia, tirannica lealtà,  
+Tirannica libertà, tutto crollato.  
+
+(Non c'è mai una crepa nella torre d'avorio  
+Né un cardine che gema nella [[house|casa]] d'oro  
+Né una foglia della [[Rose|rosa]] al [[Wind|vento]] ad appassire  
+Ed ella ringiovanisce mentre il mondo invecchia.  
+Una Donna vestita di sole che ritorna  
+a rivestire il sole quando il sole è freddo.)  
+
+Ah, chi avrebbe immaginato che in un istante  
+La grande Libertà che sciolse le tribù,  
+la Repubblica delle battaglie dei giovani  
+Si facesse stantia e puzzasse delle tangenti dei vecchi;  
+E là dove la vedemmo sorridere nel potere  
+Una statua come una torre stellata  
+il volto di pietra sogghigna come in un [[nightmare|incubo]]  
+Giù su un mondo che i vermi divorano.  
+	(Arcaiche incredibili morte albe che rompono  
+	Fonde nei deserti e nelle lande e nei boschi,  
+	Dove i morti gridano forte a Nostra Signora delle Vittorie,  
+	[[Queen|Regina]] delle Aquile, alta sopra gli scudi,  
+	E il sole è sorto sulla Legione Tonante  
+	Sulle strade di Roma verso i Campi di Battaglia.)  
+
+Ah, chi avrebbe saputo, chi non avesse visto  
+Come lieve e improvvisa sulla fama  
+Delle mie nobilissime navi inglesi  
+Giunse la luce di tramonto di Cartagine  
+E la cosa che mai avevo sognato potesse essere  
+Nella [[house|casa]] dei miei padri venne a me  
+Attraverso la muraglia marina fenduta, la nuvola e il buio,  
+Una voce divisa, un mare incerto.  
+	(La luce è chiara sulla Torre di Davide,  
+	La sera  risplende della stella del mattino  
+	Nei cieli rivolti indietro e nei giorni che ritornano  
+	Ella cammina così vicina, lei che aveva errato lontano  
+	E nel cuore delle spade, sette volte ferita,  
+	Non fu mai stanca come lo sono i nostri cuori.)  
+
+Come rapide, quasi con un cadere di [[Snow|neve]]  
+Le cose nuove incanutiscono alla luce.  
+Vediamo le rughe strisciare come serpi  
+Sulla nuova immagine dinanzi a noi.  
+Le linee che si levarono tese e ardite  
+Cedono come antichi mostri primordiali,  
+Sprofondano nei bassorilievi del fossile  
+E la lenta terra le inghiotte, piega su piega,  
+Ma lievi sono i piedi sui colli del mattino  
+Degli agnelli che balzano alla Sposa del Sole,  
+E rapidi sono gli [[Birds|uccelli]] come le farfalle guizzanti  
+E improvvisi come il riso corrono i ruscelli  
+E improvvisa per sempre come il [[Lightning|lampo]] d'[[Summer|estate]]  
+la luce è chiara sul mondo appena cominciato.  
+
+Tu non ti spezzerai come noi ci siamo spezzati  
+Le torri che erigemmo per rivaleggiare con Te.  
+Più fedele all'Inghilterra degli inglesi  
+Più giusto verso la [[Freedom|Libertà]] dei liberi.  
+O tromba dell'intollerante [[Truth|Verità]]  
+Tu sei più colmo di grazia e di pietà  
+Per le speranze del mondo che il mondo che le fece,  
+Il mondo che uccise gli amori della nostra giovinezza.  
+	Tu sei più benigno verso i nostri [[Dreams|Sogni]], Madre Nostra,  
+	Dei saggi che ci tesserono i [[Dreams|Sogni]] per ombra.  
+	Dio è più buono verso gli dèi che Lo schernirono  
+	Di quanto gli uomini siano buoni verso gli dèi che fecero.  
+	Più tenero coi balocchi di un fanciullo fattosi brutale,  
+	Che spezza i pupazzi con cui giocava.  
+
+Quali sono i [[Flowers|Fiori]] che il [[Garden|Giardino]] non custodisce  
+E come, se non qui, potrebbero i [[Dreams|Sogni]] ritornare?  
+E come su focolari fatti freddi dalla rovina  
+ardono le ceneri disperse dal vasto [[Wind|Vento]]--  
+Qual è la [[Home|Casa]] del cuore reso libero,  
+E dov'è il nido della libertà,  
+E dove dal mondo potrà il mondo trovare riparo  
+E l'uomo essere materia, e non con Te?  
+	La Sapienza siede sul suo trono di tuono,  
+	Lo [[Mirror|Specchio]] della Giustizia  acceca il giorno--  
+	Dove sono le torri che non sono della [[City|Città]],  
+	Trofei e squilli di tromba, dove sono?  
+	Dove sopra il labirinto del mondo ritornando  
+	I sentieri secondari piegano verso la strada maestra del [[King|Re]].  
 
 --G.K.Chesterton

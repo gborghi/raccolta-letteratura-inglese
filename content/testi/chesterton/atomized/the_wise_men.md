@@ -85,7 +85,7 @@ And we are little children walking
 
 I RE MAGI  
 
-	      di G.K. Chesterton  
+di G.K. Chesterton
 
 Cammina lieve, sotto [[Snow|neve]] o pioggia,  
   per trovare il luogo dove gli uomini possono pregare;  
@@ -221,7 +221,7 @@ And we are little children walking
 
 I RE MAGI  
 
-	      di G.K. Chesterton  
+di G.K. Chesterton
 
 Cammina lieve, sotto [[Snow|neve]] o pioggia,  
   per trovare il luogo dove gli uomini possono pregare;  

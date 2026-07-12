@@ -273,6 +273,89 @@ It is caddish because it is irrelevant.  The pure modernist is merely
 a snob; he cannot bear to be a month behind the fashion.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+-=[ IN DIFESA DELL'[[ephemeral|EFFIMERO]] ]=-
+
+[Tratto da ALL THINGS CONSIDERED di G. K. Chesterton; un etext
+in corso d'opera, da un'edizione della John Lane Company, [[New York]], 1909.
+
+Questo etext è stato battuto a macchina da Rob Szarka.]
+
+Non riesco a comprendere le persone che prendono la letteratura sul
+serio; ma posso [[Love|amarle]], e le amo. Per [[Love|amore]] le avverto di
+tenersi alla larga da questo libro. È una raccolta di scritti grezzi e
+informi su argomenti attuali o piuttosto volanti; e devono essere
+pubblicati più o meno così come sono. Furono scritti, di regola,
+all'ultimo momento; furono consegnati un istante prima che fosse troppo
+tardi, e non credo che il bene comune sarebbe stato scosso nelle sue
+fondamenta se fossero stati consegnati un istante dopo. Devono uscire
+ora, con tutte le loro imperfezioni sul capo, o piuttosto sul mio;
+poiché i loro vizi sono troppo vitali per essere emendati con una matita
+blu, o con qualsiasi altra cosa mi venga in mente, tranne che con la
+dinamite.
+
+Il loro vizio principale è che tanti di essi sono molto seri; perché non
+ho avuto [[Time|tempo]] di renderli frivoli. È così facile essere solenni;
+è così difficile essere frivoli. Che ogni lettore onesto chiuda gli
+occhi per qualche istante e, avvicinandosi al segreto tribunale della
+propria [[Soul|anima]], si chieda se davvero preferirebbe che gli venisse
+chiesto, nelle prossime due ore, di scrivere la prima pagina del TIMES,
+che è piena di lunghi articoli di fondo, oppure la prima pagina di
+TIT-BITS, che è piena di battute brevi. Se il lettore è il bravo e
+coscienzioso individuo che lo credo, risponderà subito che preferirebbe,
+su due piedi, scrivere dieci articoli del TIMES piuttosto che una sola
+battuta di TIT-BITS. La responsabilità, una pesante e cauta
+responsabilità del discorso, è la cosa più facile del mondo; chiunque
+può farlo. Ecco perché tanti uomini stanchi, anziani e facoltosi si
+danno alla politica. Sono responsabili, perché non hanno più la forza
+d'animo per essere irresponsabili. È più dignitoso starsene fermi che
+[[Dance|ballare]] il Barn [[Dance]]. Ed è anche più facile. Così in queste
+facili pagine mi mantengo nel complesso al livello del TIMES: è solo di
+tanto in tanto che spicco un balzo verso l'alto quasi fino al livello di
+TIT-BITS.
+
+Riprendo la difesa di questo libro indifendibile. Questi articoli hanno
+un altro svantaggio derivante dalla fretta con cui furono scritti: sono
+troppo prolissi ed elaborati. Uno dei grandi svantaggi della fretta è
+che richiede tanto [[Time|tempo]]. Se devo partire per Highgate fra una
+settimana da oggi, forse prenderò la via più breve. Se devo partire in
+questo istante, prenderò quasi certamente la più lunga. In questi saggi
+(mentre li rileggo) mi sento tremendamente irritato con me stesso per
+non essere andato al punto più rapidamente; ma non avevo abbastanza agio
+per essere rapido. Vi sono parecchi casi esasperanti in cui ho impiegato
+due o tre pagine nel tentare di descrivere un atteggiamento la cui
+essenza avrebbe potuto essere espressa in un [[Epigram|epigramma]]; solo
+che non c'era [[Time|tempo]] per gli epigrammi. Non mi pento di una sola
+sfumatura delle opinioni qui espresse; ma sento che avrebbero potuto
+essere espresse in modo tanto più breve e preciso. Per esempio, queste
+pagine contengono una sorta di ricorrente protesta contro il vanto di
+certi scrittori di essere semplicemente recenti. Si vantano che la loro
+[[philosophy|filosofia]] dell'universo sia l'ultima [[philosophy|filosofia]]
+o la nuova [[philosophy|filosofia]], o la [[philosophy|filosofia]] avanzata e
+progressista. Ho detto molto contro il mero modernismo. Quando uso la
+parola "modernismo", non alludo in modo particolare all'attuale disputa
+nella [[Catholic Church|Chiesa cattolica romana]], per quanto io sia certo
+stupito che un qualsiasi gruppo intellettuale accetti un nome così debole
+e antifilosofico. Mi è incomprensibile che un pensatore possa
+tranquillamente definirsi un modernista; tanto varrebbe che si definisse
+un giovediista. Ma a parte del tutto quella particolare agitazione, sono
+consapevole di una generale irritazione espressa contro le persone che
+si vantano del proprio progresso e della propria modernità nella
+discussione della religione. Ma non sono mai riuscito a dire la cosa del
+tutto chiara ed evidente che è realmente il difetto del modernismo. La
+vera obiezione al modernismo è semplicemente che esso è una forma di
+snobismo. È un tentativo di schiacciare un avversario razionale non con
+la ragione, ma con qualche misteriosa superiorità, insinuando di essere
+particolarmente aggiornati o particolarmente "dentro alle cose". Ostentare
+il fatto di aver ricevuto tutti gli ultimi libri dalla [[Germany|Germania]]
+è semplicemente volgare; come ostentare il fatto di aver ricevuto tutte
+le ultime cuffie da [[Paris|Parigi]]. Introdurre in una discussione
+filosofica un sogghigno sull'antichità di un credo è come introdurre un
+sogghigno sull'età di una signora. È da villani perché è irrilevante. Il
+modernista puro non è che uno snob; non sopporta di essere un mese
+indietro rispetto alla moda.
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="ephemeral (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
@@ -371,3 +454,99 @@ minutes longer than most of the philosophies that it attacks.
 In the end it will not matter to us whether we wrote [[Well|well]] or ill;
 whether we fought with flails or reeds.  It will matter to us
 greatly on which side we fought.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Analogamente trovo di aver tentato in queste pagine di esprimere la vera
+obiezione ai filantropi, e di non esserci riuscito. Non ho colto la
+semplicissima obiezione alle cause perorate da certi facoltosi idealisti;
+cause di cui quella detta astinenzialismo è il caso più forte. Ho usato
+molti termini ingiuriosi a proposito della cosa, chiamandola
+[[Puritanism|puritanesimo]], o supponenza, o aristocrazia; ma non ho colto
+né enunciato la semplicissima obiezione alla filantropia; ossia che essa
+è persecuzione religiosa. La persecuzione religiosa non consiste in
+strumenti di tortura o nei roghi di Smithfield; l'essenza della
+persecuzione religiosa è questa: che l'uomo il quale per caso detiene il
+potere materiale nello Stato, sia per ricchezza sia per posizione
+ufficiale, governi i propri concittadini non secondo la loro religione o
+[[philosophy|filosofia]], ma secondo la propria. Se, per esempio, esiste
+una cosa come una morale [[vegetarian|vegetariana]], allora dico, con le
+enfatiche parole dell'arrogante marchese francese prima della
+[[French Revolution|Rivoluzione francese]], "Che mangino l'erba". Forse
+quell'oligarca francese era un umanitario; la maggior parte degli
+oligarchi lo è. Forse quando disse ai contadini di mangiare l'erba stava
+raccomandando loro l'igienica semplicità di un ristorante
+[[vegetarian|vegetariano]]. Ma questa è una speculazione irrilevante,
+benché affascinantissima. Il punto qui è che se una nazione è davvero
+[[vegetarian|vegetariana]] il suo [[government|governo]] le imponga tutto
+l'orribile peso del vegetarianismo. Che il suo [[government|governo]] offra
+agli ospiti nazionali un banchetto [[vegetarian|vegetariano]] di Stato. Che
+il suo [[government|governo]], nel senso più letterale e tremendo delle
+parole, dia loro fagioli. Quella specie di tirannia va benissimo; perché
+è il popolo che tiranneggia tutte le persone. Ma i "riformatori della
+temperanza" sono come un piccolo gruppo di vegetariani che agissero in
+silenzio e sistematicamente su un presupposto etico del tutto estraneo
+alla massa del popolo. Regalerebbero sempre titoli nobiliari agli
+erbivendoli. Nominerebbero sempre Commissioni parlamentari per indagare
+sulla vita privata dei macellai. Ogni volta che trovassero un uomo del
+tutto alla loro [[Mercy|mercé]], come un miserabile o un galeotto o un
+folle, lo costringerebbero ad aggiungere il tocco finale al suo disumano
+isolamento facendolo diventare [[vegetarian|vegetariano]]. Tutti i pasti
+per i bambini delle scuole saranno pasti [[vegetarian|vegetariani]]. Tutte
+le osterie di Stato saranno osterie [[vegetarian|vegetariane]]. Vi è un
+argomento assai più forte a favore del vegetarianismo rispetto
+all'astinenzialismo. Bere un bicchiere di birra non può, per nessuna
+[[philosophy|filosofia]], essere ubriachezza; ma uccidere un animale può,
+per questa [[philosophy|filosofia]], essere omicidio. L'obiezione a
+entrambi i procedimenti non è che i due credi, astinenziale e
+[[vegetarian|vegetariano]], siano inammissibili; è semplicemente che non
+sono ammessi. La cosa è persecuzione religiosa perché non è fondata sulla
+religione esistente della [[democracy|democrazia]]. Costoro chiedono ai
+poveri di accettare nella pratica ciò che sanno benissimo che i poveri
+non accetterebbero in teoria. Questa è la definizione stessa della
+persecuzione religiosa. Ero contrario al tentativo dei Tory di imporre
+agli inglesi comuni una teologia cattolica in cui non credono. Sono
+ancora più contrario al tentativo di imporre loro una morale maomettana
+che essi attivamente rinnegano.
+
+Di nuovo, nel caso del giornalismo anonimo mi pare di aver detto molto
+senza far emergere il punto con grande chiarezza. Il giornalismo anonimo
+è pericoloso, ed è velenoso nella nostra vita presente semplicemente
+perché essa sta così rapidamente diventando una vita anonima. È questa la
+cosa orribile della nostra atmosfera contemporanea. La società sta
+diventando una società segreta. Il moderno [[Tyrant|tiranno]] è malvagio a
+causa della sua inafferrabilità. È più senza nome del suo schiavo. Non è
+più prepotente del [[Tyrant|tiranno]] del passato; ma è più codardo. Il
+ricco editore può trattare il povero poeta meglio o peggio di come il
+vecchio maestro artigiano trattava il vecchio apprendista. Ma
+l'apprendista fuggiva e il maestro gli correva dietro. Oggigiorno è il
+poeta che insegue e tenta invano di fissare il fatto della
+responsabilità. È l'editore che fugge. L'impiegato del signor Solomon
+viene licenziato; anche la bella schiava greca del sultano Solimano viene
+messa nel sacco; o è il sacco a mettere lei. Ma sebbene ella sia celata
+sotto le onde nere del Bosforo, almeno il suo distruttore non è celato.
+Egli procede dietro trombe d'oro cavalcando un elefante bianco. Ma nel
+caso dell'impiegato è quasi altrettanto difficile sapere da dove venga il
+licenziamento quanto sapere dove vada l'impiegato. Può essere il signor
+Solomon o il direttore del signor Solomon, o la ricca zia del signor
+Solomon a Cheltenham, o il ricco creditore del signor Solomon a Berlino.
+L'elaborato macchinario che un tempo serviva a rendere gli uomini
+responsabili ora è usato unicamente per scaricare la responsabilità. Si
+parla dell'[[Pride|orgoglio]] dei tiranni; ma noi in quest'epoca non
+[[Suffering|soffriamo]] dell'[[Pride|orgoglio]] dei tiranni.
+[[Suffering|Soffriamo]] della timidezza dei tiranni; della schiva modestia
+dei tiranni. Perciò non dobbiamo incoraggiare gli articolisti a essere
+timidi; non dobbiamo infiammare la loro già esagerata modestia. Piuttosto
+dobbiamo tentare di adescarli a essere vanitosi e ostentatori; così che
+attraverso l'ostentazione possano infine trovare la via dell'onestà.
+
+L'ultima accusa contro questo libro è la peggiore di tutte. È
+semplicemente questa: che se tutto andrà [[Well|bene]] questo libro sarà un
+farfugliamento inintelligibile. Poiché esso si occupa perlopiù di
+attaccare atteggiamenti che sono per loro [[Nature|natura]] accidentali e
+incapaci di durare. Per quanto breve sia la carriera di un libro come
+questo, esso potrà durare giusto venti minuti più a lungo della maggior
+parte delle filosofie che attacca. Alla fine non ci importerà se
+scrivemmo [[Well|bene]] o male; se combattemmo con correggiati o con canne.
+Ci importerà grandemente da quale parte combattemmo.

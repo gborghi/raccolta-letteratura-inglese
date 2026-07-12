@@ -309,6 +309,40 @@ and even as I paused a burst of red sparks broke past.
 "Yes," he replied.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[diabolist|Diabolista]]
+
+di G.K. Chesterton
+
+Di tanto in tanto ho introdotto nei miei saggi un elemento di [[Truth|verità]]. Sono state menzionate cose realmente accadute, come l'incontro col presidente Kruger o l'essere stato scaraventato fuori da una carrozza. Ciò che ora devo raccontare accadde davvero; eppure non conteneva alcun elemento di politica pratica né di pericolo personale. Fu semplicemente una tranquilla conversazione che ebbi con un altro uomo. Ma quella tranquilla conversazione fu di gran lunga la cosa più terribile che mi sia mai accaduta in vita mia. Accadde tanto tempo fa che non posso essere certo delle parole esatte del dialogo, ma solo delle sue domande e risposte principali; c'è però una frase, in esso, di cui posso rispondere in modo assoluto e parola per parola. Era una frase tanto tremenda che non potrei dimenticarla nemmeno volendo. Fu l'ultima frase pronunciata; e non fu pronunciata a me.
+
+* * *
+
+La cosa mi capitò nei giorni in cui frequentavo una scuola d'arte. Una scuola d'arte differisce da quasi tutte le altre scuole o collegi in questo: che, essendo di nuova e rozza creazione e di lassa disciplina, presenta un contrasto particolarmente forte tra gli industriosi e gli oziosi. Chi frequenta una scuola d'arte o svolge una quantità atroce di lavoro o non lavora affatto. Io appartenevo, insieme ad altre persone deliziose, a quest'ultima classe; e ciò mi gettava spesso nella società di uomini assai diversi da me, e che erano oziosi per ragioni assai diverse dalle mie. Io ero ozioso perché ero molto occupato; ero impegnato, in quel [[Time|periodo]], a scoprire, con mia estrema e duratura sorpresa, che non ero ateo. Ma c'erano anche altri sbandati impegnati a scoprire ciò che Carlyle chiamava (credo con inutile delicatezza) il fatto che lo zenzero è piccante in bocca.
+
+Insomma, apprezzo quel [[Time|periodo]] perché mi rese familiare un buon numero rappresentativo di canaglie. A questo proposito ci sono due cose assai curiose che il critico della vita umana può osservare. La prima è il fatto che c'è una vera differenza tra uomini e donne; che le donne preferiscono parlare a due a due, mentre gli uomini preferiscono parlare a tre a tre. La seconda è che quando trovi (come spesso accade) tre giovani mascalzoni e idioti che vanno in giro insieme e si ubriacano insieme ogni giorno, generalmente scopri che uno dei tre mascalzoni e idioti è (per qualche straordinaria ragione) non un mascalzone e non un idiota. In questi piccoli gruppi votati a una bavosa dissipazione c'è quasi sempre un uomo che sembra essersi degnato di scendere alla propria compagnia; un uomo che, pur sapendo scambiare una turpe banalità con i suoi compari, sa anche parlare di politica con un socialista, o di [[philosophy|filosofia]] con un cattolico.
+
+Fu proprio un uomo simile che giunsi a conoscere [[Well|bene]]. Era strano, forse, che gli piacesse la sua sudicia e ubriaca compagnia; era ancor più strano, forse, che gli piacesse la mia compagnia. Per ore del giorno mi parlava di [[Milton]] o di architettura gotica; per ore della [[Night|notte]] andava dove non ho alcun desiderio di seguirlo, nemmeno con la speculazione. Era un uomo dal viso lungo e ironico, e dai capelli fitti e rossi; era di classe un gentiluomo, e sapeva camminare come tale, ma preferiva, per qualche ragione, camminare come uno stalliere che porta due secchi. Aveva l'aria di una specie di super-fantino; come se qualche arcangelo si fosse dato all'ippica. E non dimenticherò mai la mezz'ora in cui lui e io discutemmo di cose reali per la prima e l'ultima [[Time|volta]].
+
+* * *
+
+Lungo la facciata del grande edificio di cui la nostra scuola era parte correva un'enorme rampa di gradini di pietra, più alta, credo, di quelli che salgono alla [[Cathedral|Cattedrale]] di San Paolo. In una nera sera invernale lui e io vagavamo su quelle fredde alture, che parevano tetre come una piramide sotto le [[Stars|stelle]]. L'unica cosa visibile sotto di noi, nell'oscurità, era un [[Fire|fuoco]] che ardeva e soffiava; poiché qualche giardiniere (suppongo) stava bruciando qualcosa nel parco, e di [[Time|tanto]] in [[Time|tanto]] le rosse scintille ci sfrecciavano accanto come uno sciame di scarlatti [[Insects|insetti]] nel buio. Anche sopra di noi era tenebra; ma se si fissava abbastanza a lungo quell'oscurità superiore, si vedevano strisce verticali di grigio nel nero, e allora si diveniva consapevoli della colossale facciata dell'edificio dorico, spettrale eppure tale da riempire il cielo, come se il Cielo fosse ancora colmo del gigantesco [[Ghost|fantasma]] del Paganesimo.
+
+* * *
+
+L'uomo mi chiese bruscamente perché stessi diventando ortodosso. Finché non lo disse, non avevo davvero saputo di esserlo; ma nel momento in cui lo disse seppi che era letteralmente vero. E il processo era stato tanto lungo e pieno che gli risposi subito, attingendo alle scorte di spiegazione già esistenti.
+
+"Sto diventando ortodosso," dissi, "perché sono giunto, a torto o a ragione, dopo aver teso il cervello fino a farlo scoppiare, all'antica convinzione che l'eresia sia peggiore perfino del peccato. Un errore è più minaccioso di un delitto, perché un errore genera delitti. Un imperialista è peggio di un pirata. Perché un imperialista tiene una scuola per pirati; insegna la pirateria disinteressatamente e senza uno stipendio adeguato. Un [[Lover|Libero Amatore]] è peggio di un dissoluto. Perché un dissoluto è serio e temerario perfino nel suo più breve [[Love|amore]]; mentre un [[Lover|Libero Amatore]] è cauto e irresponsabile perfino nella sua più lunga devozione. Odio il [[Doubt|dubbio]] moderno perché è pericoloso."
+
+"Vuoi dire pericoloso per la [[morality|morale]]," disse con voce di meravigliosa dolcezza. "Immagino che tu abbia ragione. Ma perché ti importa della [[morality|morale]]?"
+
+Gli lanciai una rapida occhiata al viso. Aveva sporto il collo, come aveva l'abitudine di fare; e così aveva portato bruscamente il viso nella luce del falò dal basso, come un volto alla ribalta. Il suo lungo mento e i suoi alti zigomi erano illuminati infernalmente da sotto; sicché pareva un demonio che fissa in giù dentro la fossa fiammeggiante. Ebbi un'insensata sensazione di essere tentato in un deserto; e proprio mentre indugiavo un getto di rosse scintille scoppiò accanto.
+
+"Non sono splendide quelle scintille?" dissi.
+
+"Sì," rispose.
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="diabolist (part 2)" data-chapter="part 02" data-kind="excerpt"></span>

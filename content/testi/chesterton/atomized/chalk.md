@@ -270,6 +270,31 @@ in like sunbeams and came out like [[Apollo]].
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un pezzo di [[chalk|gesso]]
+
+Di:  G. K. Chesterton
+
+Trascritto da John Ainsworth ainsje00@wfu.edu
+
+(Pubblicato in «Tremendous Trifles», Methuen and Co Ltd, [[London|Londra]], 1909.
+Apparso originariamente sul DAILY NEWS, 4 novembre 1905.)
+
+Ricordo uno splendido mattino, tutto azzurro e argento, durante le vacanze [[Summer|estive]], in cui a malincuore mi strappai dal compito di non far nulla in particolare, mi misi un cappello di qualche foggia, presi un bastone da passeggio e infilai in tasca sei gessetti dai colori assai vivaci. Entrai poi nella cucina (che, insieme al resto della [[house|casa]], apparteneva a una donna assai quadrata e assennata di un villaggio del Sussex), e chiesi alla proprietaria e occupante della cucina se avesse della carta da pacchi. Ne aveva in gran quantità; anzi, ne aveva troppa; e fraintese lo scopo e la ragion d'essere della carta da pacchi. Pareva avere l'idea che, se una persona voleva della carta da pacchi, doveva volerne per legare pacchi; il che era l'ultima cosa che desiderassi fare; è anzi una cosa che ho scoperto essere al di là delle mie capacità mentali. Perciò ella si soffermò a lungo sulle diverse qualità di robustezza e [[Endurance|resistenza]] del materiale. Le spiegai che volevo soltanto disegnarci sopra, e che non desideravo affatto che durasse; e che dal mio punto di vista, dunque, non era questione di tenace consistenza, ma di superficie recettiva, cosa relativamente irrilevante in un pacco. Quando comprese che volevo disegnare, si offrì di sommergermi di carta da lettere, supponendo evidentemente che facessi i miei appunti e la mia corrispondenza su vecchi involucri di carta da pacchi per motivi di economia.
+
+Cercai allora di spiegare la sfumatura logica piuttosto delicata: che non solo mi piace la carta da pacchi, ma mi piaceva la qualità della bruneità nella carta, proprio come mi piaceva la qualità della bruneità nei boschi d'ottobre, o nella birra, o nei ruscelli torbosi del Nord. La carta da pacchi rappresenta il crepuscolo primordiale della prima fatica della creazione, e con uno o due [[chalk|gessetti]] dai colori vivaci vi si possono far spiccare punti di [[Fire|fuoco]], scintille d'oro, e rosso [[Blood|sangue]], e verde marino, come le prime feroci [[Stars|stelle]] che balzarono fuori dalla divina oscurità. Tutto questo dissi (con noncuranza) alla vecchia; e riposi in tasca la carta da pacchi insieme ai gessetti, e forse ad altre cose. Suppongo che ognuno debba aver riflettuto su quanto siano primordiali e poetiche le cose che si portano in tasca; il temperino, per esempio, il prototipo di tutti gli utensili umani, l'infante della [[Sword|spada]]. Un tempo progettai di scrivere un libro di [[Poems|poesie]] interamente sulle cose che avevo in tasca. Ma scoprii che era troppo lungo e che l'età dei grandi poemi epici è tramontata.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Con il mio bastone, il mio coltello, i miei gessetti e la mia carta da pacchi, uscii sulle grandi colline erbose. Strisciai attraverso quei contorni colossali che esprimono la miglior qualità dell'Inghilterra, perché sono al [[Time|tempo]] stesso morbidi e forti. La loro levigatezza ha lo stesso significato della levigatezza dei grandi cavalli da tiro, o della levigatezza del faggio; proclama, a dispetto delle nostre teorie timide e crudeli, che i potenti sono misericordiosi. Mentre il mio occhio spaziava sul paesaggio, il paesaggio era benevolo quanto una qualsiasi delle sue casette, ma quanto a potenza era come un terremoto. I villaggi nell'immensa valle erano al sicuro, si vedeva, per secoli: eppure il sollevarsi dell'intera terra era come il sollevarsi di un'unica enorme onda pronta a spazzarli tutti via.
+
+Attraversai un'ondata di zolla viva dopo l'altra, cercando un luogo dove sedermi a disegnare. Per amor del cielo, non immaginate che stessi per [[Sketch|ritrarre]] [[Nature|dal vero]]. Stavo per disegnare diavoli e serafini, e vecchi dèi ciechi che gli uomini adoravano prima dell'[[Dawn|alba]] del diritto, e santi in vesti di cremisi iracondo, e mari di uno strano verde, e tutti i simboli sacri o mostruosi che stanno così [[Well|bene]], a colori vivaci, sulla bruna carta da disegno. Valgono assai più la pena di essere disegnati della [[Nature|Natura]]; e per giunta sono assai più facili da disegnare. Quando una mucca passò dinoccolata in un campo accanto a me, un semplice [[Artist|artista]] avrebbe potuto ritrarla; ma io sbaglio sempre le zampe posteriori dei quadrupedi. Così disegnai l'[[Soul|anima]] della mucca; che vedevo là chiaramente camminare davanti a me nella luce del sole; e l'[[Soul|anima]] era tutta di porpora e d'argento, e aveva sette corna e il mistero che appartiene a tutte le bestie. Ma sebbene con un pastello non riuscissi a trarre il meglio dal paesaggio, non ne consegue che il paesaggio non traesse il meglio da me. E questo, credo, è l'errore che la gente commette a proposito dei vecchi poeti vissuti prima di Wordsworth, i quali si supponeva non si curassero molto della [[Nature|Natura]] perché non la descrivevano granché.
+
+Preferivano scrivere di grandi uomini piuttosto che di grandi colline; ma sedevano sulle grandi colline per scriverne. Davano assai meno riguardo alla [[Nature|Natura]], ma forse la bevevano assai di più. Dipingevano le bianche vesti delle loro sante vergini con la [[Snow|neve]] accecante, che avevano fissato tutto il giorno. Blasonavano gli scudi dei loro paladini con la porpora e l'oro di molti tramonti araldici. La verdezza di mille verdi [[Leaves|foglie]] si addensava nella viva figura verde di [[Robin Hood]]. L'azzurro di una ventina di cieli dimenticati divenne le vesti azzurre della Vergine. L'ispirazione entrava come raggi di sole e usciva come [[Apollo]].
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="chalk (part 2)" data-chapter="part 02" data-kind="excerpt"></span>

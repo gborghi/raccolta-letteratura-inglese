@@ -581,4 +581,4 @@ delle mie esperienze di lui, che una [[Double|doppia]] incapacità mi rende muto
 Un ritratto è impossibile; come amico mi è troppo vicino, e come [[Hero|eroe]]
 troppo lontano.
 
-                                                  G. K. CHESTERTON.
+G. K. CHESTERTON.

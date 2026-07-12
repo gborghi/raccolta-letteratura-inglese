@@ -246,6 +246,95 @@ A special [[Providence|providence]] watching over a bat would be a far more real
 notion than such a run of luck as that.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Sul darwinismo e il mistero
+
+Sul darwinismo e il mistero
+
+di G. K. Chesterton, Illustrated [[London]] News 21 agosto 1920
+
+(Fonte: G. K. Chesterton, Collected Works, Volume xxxii,
+The Illustrated [[London]] News 1920-1922, Ignatius Press, 1989, pp. 74-77)
+
+Il signor Edward Clodd [Nota 1], illustre studioso di folklore,
+mi ha posto una domanda a proposito di un passo apparso su questo giornale.
+Egli scriveva riferendosi alla più ampia questione del darwinismo,
+alla quale potrò tornare più diffusamente in qualche altro [[Time|momento]].  Ma poiché la frase
+che egli ha citato da queste colonne è alquanto a sé stante, può essere opportuno
+trattarla separatamente.  Le parole che egli desidera veder spiegate più a fondo sono:
+"Persino l'evoluzionista è ormai timido nello spiegare l'Evoluzione.
+Oggi il temperamento scientifico è... [[Doubt|dubbio]] scientifico della scienza,
+non [[Doubt|dubbio]] scientifico della religione." In particolare desidera sapere
+che cosa io intenda con la frase "[[Doubt|dubbio]] scientifico della religione."
+
+Ora, ritengo che la mia affermazione negativa sia almeno abbastanza evidente;
+intendo che i più recenti suggerimenti scientifici rivoluzionari
+non gettano per caso alcun [[Doubt|dubbio]] su alcuna religione.
+Il Libro della Genesi non dice che Dio formò la sostanza
+del mondo a partire dagli atomi, e perciò uno scienziato non può essere
+rimproverato come demolitore della [[Bible|Bibbia]] se dice che essa è formata non di atomi,
+ma di elettroni.  Il Concilio della Chiesa che stabilì il dogma
+della co[[Eternity|eternità]] del Padre e del Figlio non stabilì alcun dogma
+sulla Conservazione dell'Energia.  Perciò la signora Curie [Nota
+2] non potrebbe essere arsa come eretica anche se, come alcuni dissero,
+la sua scoperta turbasse le nostre idee sulla Conservazione dell'Energia.
+Il Credo atanasiano non dice che le rette parallele
+non s'incontrano mai, sicché non ne sarebbe intaccato se il professor Einstein dicesse,
+ammesso che lo dica davvero, che esse non sono parallele né tantomeno rette.
+I profeti non profetizzarono che l'uomo non avrebbe mai volato,
+e non sono, perciò, screditati quando egli vola davvero.  I santi
+certamente non dissero mai che non esistesse cosa alcuna come il parlare senza parole,
+e perciò non hanno nulla da ritrattare se esiste una cosa come
+la telegrafia senza fili.  Per molti versi sarebbe assai più facile sostenere
+che le invenzioni moderne hanno verificato gli antichi miracoli.
+Ora, in questi esempi tecnici e utilitari resta pur sempre
+vero dire che, se essi non turbano le dottrine religiose,
+non turbano nemmeno le dottrine scientifiche.  Ma la classe precedente
+di scoperte più teoriche turba invece le dottrine scientifiche.
+Sono le dottrine sulla gravità e sull'energia, sugli atomi e sull'etere,
+sui fondamenti stessi dell'universo puramente scientifico,
+a essere state intaccate o minacciate dalla ricerca puramente scientifica.
+
+Di qui fui indotto a dire che gli uomini di scienza stanno smontando pezzo per pezzo
+il loro stesso universo scientifico.  Fu in rapporto a questo che
+dissi come essi non fossero ora primariamente occupati del [[Doubt|dubbio]] sulla religione.
+La frase (in senso positivo, distinto da quello relativo)
+si riferisce, s'intende, a varie idee spirituali e teleologiche
+che si supponeva, a torto o a ragione, fossero turbate da una
+fase precedente della scienza.  Alcuni sembrano supporre che io stia qui
+argomentando in favore di queste dottrine; ma è un completo equivoco.
+Delle dottrine pre-darwiniane del protestantesimo popolare in Inghilterra,
+ve ne sono alcune che credo e alcune che di tutto cuore non credo;
+ma nessuna di cui abbia fatto la base delle mie osservazioni sul darwinismo.
+Esse si fondano sulle incongruenze e le illogicità
+degli stessi darwinisti.  Molti critici sinceri sembrano trovare
+assai difficile crederlo.  Uno di loro mi chiese in modo alquanto
+brusco perché l'ala del pipistrello non fosse stata divinamente disegnata
+con le penne come le ali del gufo—quasi che io stesso
+avessi colpevolmente trascurato di provvedere l'animale del giusto piumaggio.
+Tutto ciò significa mancare completamente il mio scopo in questa particolare discussione.
+Se io personalmente credo nel disegno, è per ragioni alquanto più profonde,
+che nulla hanno a che fare con le ali dei pipistrelli; e di certo
+non mi sognai mai di dimostrarlo dalle ali dei pipistrelli.
+Non ho mai preteso di rintracciare affatto le cause di queste cose.
+Non ho scritto un libro intitolato "L'origine delle specie." Non ho
+condotto ricerche minuziose né proclamato conclusioni dogmatiche.
+Non conosco la vera ragione per cui un pipistrello non ha penne;
+so soltanto che Darwin ha dato una falsa ragione del suo avere ali.
+E più i darwinisti spiegano, più divento certo
+che il darwinismo era errato.  Tutte le loro spiegazioni ignorano il fatto
+che il darwinismo suppone che un tratto animale compaia dapprima non semplicemente
+in uno stadio incompleto, ma in uno stadio quasi impercettibile.
+Il membro di una sorta di famiglia di topi, destinato a fondare la famiglia dei pipistrelli,
+avrebbe potuto differire dai suoi fratelli topi soltanto per qualche minuscola
+traccia di membrana; e perché mai ciò dovrebbe averlo messo in grado di sfuggire
+a un naturale massacro di topi?  O anche ammettendo che servisse
+a qualche altro scopo, ciò potrebbe essere solo per una coincidenza; e questo
+significa immaginare un milione di coincidenze a render conto di ogni creatura.
+Una speciale [[Providence|provvidenza]] che vegliasse su un pipistrello sarebbe una nozione assai più realistica
+di una simile serie di fortune.
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="On_Darwinism_and_Mystery (part 2)" data-chapter="part 02" data-kind="excerpt"></span>

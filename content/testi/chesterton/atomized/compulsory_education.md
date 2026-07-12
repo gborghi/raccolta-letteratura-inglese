@@ -324,7 +324,7 @@ than the wild Fundamentalists of Tennessee.
 
 [[Education|Istruzione]] obbligatoria e il Processo della Scimmia
 
-di G. K. Chesterton
+			     di G. K. Chesterton
 
 Pubblicato originariamente su The Illustrated [[London]] News, 8 agosto 1925.
 

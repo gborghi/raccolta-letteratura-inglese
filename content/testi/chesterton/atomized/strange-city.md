@@ -183,3 +183,26 @@ Even if it were in some sense found to be in everything, it would
 still be in everything and not merely in all.
 
 ----------------------------------------------------------------------------
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Su una Strana [[City|Città]]
+
+G. K. Chesterton  
+
+Da [[Common Man|The Common Man]]
+(Originariamente in The New Witness, 25-11-21)
+----------------------------------------------------------------------------
+
+Ognuno ha la propria selezione privata e quasi segreta tra gli esempi del misterioso potere delle parole, il potere che una certa combinazione verbale esercita sulle emozioni e persino sull'[[Soul|anima]]. È luogo comune che la letteratura possieda un incanto, non soltanto nel senso dell'incanto di una donna, ma degli incantesimi di una [[Witch|strega]]. Gli studiosi di storia si domandano come l'ignorante [[Imagination|immaginazione]] dei Secoli Bui abbia deformato il poeta Virgilio in un mago. Una risposta alla domanda, forse, è che lo fosse davvero. Teologi e filosofi [[debate|dibattono]] sull'ispirazione delle scritture, ma forse l'argomento più filosofico, per affermare che certi detti scritturali sono ispirati, è semplicemente che ne hanno il suono. I grandi versi dei poeti sono come paesaggi o visioni, ma la stessa strana luce si può trovare non solo negli alti luoghi della poesia, bensì anche in angoli assai oscuri della prosa.
+
+Non so esprimere ciò che intendo se non dicendo che è la parte finita dell'immagine a suggerire davvero l'infinito. Le persone più degne e serie, invece di dire il luogo spirituale, direbbero il mondo spirituale. Certe persone tetre e disgustose, invece di dire il luogo spirituale, direbbero il piano spirituale. L'immediato gelo e disincanto di questo mutamento è dovuto a una vaga ma vivida sensazione che la cosa spirituale sia divenuta meno reale. Un mondo suona come un diagramma astronomico, e un piano suona come un diagramma geometrico. Entrambi sono astrazioni, ma un luogo non è un'astrazione, bensì una realtà. Il brivido spirituale è tutto nell'idea che il luogo sia un luogo, per quanto spirituale, che sia una qualche strana [[City|città]] dove il cielo tocca la terra, o dove l'[[Eternity|eternità]] riesce in qualche modo a sopravvivere: la terra di confine del [[Time|tempo]] e dello spazio.
+
+Nella mente dell'uomo, se non nella [[Nature|natura]] delle cose, pare esservi un qualche legame tra concentrazione e realtà. Quando vogliamo chiedere, nel linguaggio naturale, se una cosa esista davvero oppure no, domandiamo se sia davvero "lì" oppure no. Diciamo "lì", anche se non comprendiamo chiaramente dove. Un uomo non può entrare in una [[house|casa]] da cinque porte insieme; potrebbe farlo se fosse un'atmosfera. Ma non vuole essere un'atmosfera. Ha una testarda convinzione subconscia che un animale sia più grande di un'atmosfera. Man mano che una cosa sale nella scala degli esseri, tende a localizzare e persino a restringere le sue funzioni naturali. Un uomo non può assorbire il proprio nutrimento attraverso tutti i pori, come una spugna o certi organismi marini inferiori; non può assumere un'atmosfera di manzo, o un'astratta essenza di focacce. Qualsiasi focaccia gli sia gettata, come all'orso allo zoo, dev'essere lanciata con tale abilità da colpire un particolare foro nella sua testa. Nella [[Nature|natura]], in un certo senso, c'è scelta ancor prima che vi sia volontà. La pianta o il bulbo si restringe e perfora in un punto piuttosto che in un altro, e ogni crescita è un disegno di simili cunei verdi. Ma comunque stiano le cose con questi esseri inferiori, vi è sempre stata questa selezione e concentrazione simile a una lancia nella concezione umana delle cose superiori. In confronto a ciò, c'è qualcosa non soltanto di vago ma di volgare in gran parte dei discorsi sull'infinito. Il panteista ha ragione fino a un certo punto, ma ce l'ha anche la spugna.
+
+Sia vitalmente sia verbalmente, questo infinito è il nemico di tutto ciò che è fine. Simili punti filologici sono talvolta più che pedanterie o meri giochi di parole. Ed è più di un pedante gioco di parole dire che gran parte delle cose fini sono finite. Ne diamo testimonianza quando parliamo di una cosa bella che ha raffinatezza o rifinitura. Essa è portata a compimento come la lama di una bella [[Sword|spada]], non solo al suo fine nel senso della sua cessazione, ma al suo fine nel senso del suo scopo. Tutte le cose fini sono in questo senso finite, anche quando sono eterne.
+
+La poesia è votata a questa concentrazione tanto quanto la religione: il paese delle fate è sempre stato tanto locale, si potrebbe dire tanto parrocchiale, quanto il Cielo. E se la religione fosse rimossa domani, i poeti comincerebbero soltanto ad agire come agivano i pagani. Comincerebbero a dire "Ecco, qui" ed "Ecco, là", per l'inguaribile prurito dell'idea che qualcosa debba pur essere in qualche luogo, e non semplicemente ovunque. Anche se in un certo senso si scoprisse che è in ogni cosa, sarebbe pur sempre in ogni cosa e non semplicemente in tutto.
+
+----------------------------------------------------------------------------

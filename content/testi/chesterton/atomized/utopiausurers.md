@@ -8261,6 +8261,180 @@ THE ESCAPE
      We watched you building, stone by stone,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IX. LA MASCHERA DEL SOCIALISMO
+
+Lo scopo principale di tutti gli onesti socialisti in questo momento è impedire l'avvento
+
+del socialismo. Non lo dico come dileggio, ma, al contrario, come un
+
+complimento; un complimento al loro istinto politico e al loro spirito civico.
+
+Ammetto che lo si può chiamare un'esagerazione; ma esiste davvero una sorta di
+
+socialismo fasullo che i politici moderni potrebbero benissimo accordarsi per
+
+instaurare; e se riescono a instaurarlo, la battaglia per i poveri è
+
+perduta.
+
+Dobbiamo notare, anzitutto, una [[Truth|verità]] generale sul curioso [[Time|tempo]] in cui
+
+viviamo. Non sarà così difficile come alcuni potrebbero supporre far sì che
+
+lo Stato Servile assomigli piuttosto al socialismo, specialmente agli occhi del più
+
+pedante tipo di socialista. La ragione è questa. Il vecchio, lucido e
+
+tagliente espositore del socialismo, come Blatchford o [[Fred]] Henderson,
+
+descrive sempre il potere economico dei plutocrati come consistente nella
+
+proprietà privata. Certo, in un senso, questo è del tutto vero; benché essi
+
+troppo spesso manchino il punto che la proprietà privata, come tale, non è la stessa cosa
+
+della proprietà ristretta a pochi. Ma la [[Truth|verità]] è che la situazione è
+
+divenuta assai più sottile; forse troppo sottile, per non dire troppo folle, per
+
+teorici dal pensiero diretto come Blatchford. Il ricco oggi non
+
+governa soltanto usando la proprietà privata; governa anche trattando
+
+la proprietà pubblica come se fosse proprietà privata. Un uomo come Lord Murray
+
+tirava i fili, specialmente i cordoni della borsa; ma tutto il senso della
+
+sua posizione era che ogni sorta di fili si era ingarbugliata. La segreta
+
+forza del denaro che deteneva non stava semplicemente nel fatto che fosse
+
+il suo denaro. Stava precisamente nel fatto che nessuno aveva un'idea chiara
+
+se fosse il suo denaro, o il denaro del suo successore, o il denaro di suo fratello,
+
+o il denaro della Marconi Company, o il denaro del Partito Liberale,
+
+o il denaro della Nazione inglese. Era un tesoro sepolto; ma non era
+
+proprietà privata. Era l'acme della plutocrazia proprio perché non era
+
+proprietà privata. Ora, seguendo questo precedente, questa spregiudicata
+
+vaghezza circa i denari ufficiali e non ufficiali, con l'allegra abitudine di
+
+confondere sempre il denaro in tasca con il denaro nella cassa,
+
+sarebbe del tutto possibile mantenere i ricchi ricchi come sempre in pratica,
+
+benché in teoria abbiano subìto la confisca. Il signor Lloyd George
+
+ha quattrocento sterline l'anno come deputato; ma non solo ne ottiene molte di più come
+
+Ministro, ma potrebbe in qualsiasi [[Time|momento]] ottenerne incommensurabilmente di più speculando
+
+su [[Secrets|segreti]] di Stato che gli sono necessariamente noti. Alcuni dicono che abbia
+
+persino tentato qualcosa del genere. Ora, sarebbe del tutto possibile
+
+ridurre il signor George, non a quattrocento sterline l'anno, ma a quattro pence al
+
+giorno; e lasciargli comunque tutte queste altre ed enormi superiorità
+
+finanziarie. Va ricordato che uno Stato socialista, in qualunque modo
+
+assomigli a uno Stato moderno, per quanto egualitario possa essere, deve avere la
+
+gestione di somme ingenti, e il godimento di grandi comodità; non è
+
+improbabile che gli stessi uomini gestiscano e godano press'a poco allo stesso
+
+modo, benché in teoria lo facciano in quanto strumenti, e non in quanto
+
+individui. Per esempio, il Primo Ministro ha una [[house|casa]] privata, che
+
+è anche (mi duole informare quell'eminente puritano) una [[house|casa]] pubblica. Si
+
+presume sia una sorta di ufficio [[government|governativo]]; benché la gente non
+
+generalmente dia feste per bambini, né vada a dormire, in un ufficio [[government|governativo]].
+
+Non so dove viva il signor Herbert Samuel; ma non ho alcun [[Doubt|dubbio]] che
+
+si tratti [[Well|bene]] in fatto di decorazioni e mobilio. Sul
+
+parallelo ufficiale esistente non c'è bisogno di spostare alcuna di queste
+
+cose per socializzarle. Non c'è bisogno di togliere un solo
+
+chiodo dalla testa di diamante dal tappeto; o un solo cucchiaino d'oro dal
+
+vassoio. È solo necessario chiamarla residenza ufficiale, come
+
+il numero 10 di Downing Street. Penso che non sia affatto improbabile che questa
+
+plutocrazia, fingendosi burocrazia, sarà tentata o
+
+conseguita. I nostri ricchi governanti saranno nella posizione che i brontoloni
+
+nel mondo dello sport talvolta attribuiscono ad alcuni dei "gentiluomini"
+
+giocatori. Costoro sostengono che alcuni di essi sono pagati come qualsiasi professionista;
+
+solo che la loro paga è chiamata rimborso spese. Questo sistema potrebbe correre fianco a
+
+fianco con una teoria dei salari uguali, assoluta quanto quella un tempo enunciata dal
+
+signor Bernard [[Shaw]]. Secondo la teoria dello Stato, il signor Herbert Samuel e il signor
+
+Lloyd George potrebbero essere umili cittadini, sgobbando per i loro quattro pence
+
+al giorno; e non più agiati di facchini e scaricatori di carbone. Se ci fosse
+
+presentata ai nostri meri sensi quella che sembrasse la figura del signor Herbert
+
+Samuel in un cappotto di astrakan e su un'automobile, troveremmo la registrazione
+
+della spesa (se mai riuscissimo a trovarla) sotto la voce
+
+"Commissione d'inchiesta sull'estensione del limite di [[Speed|velocità]]." Se ci capitasse di
+
+scorgere (con l'occhio della carne) quel che sembrasse il signor Lloyd George
+
+disteso in un'amaca e intento a fumare un costoso sigaro, sapremmo che la
+
+spesa sarebbe ripartita tra il "Dipartimento d'indagine sullo stato di corde e reti
+
+", e lo "Stato del commercio del tabacco cubano:
+
+Relazione dell'Ispettore Imperiale."
+
+Tale è la società che penso costruiranno a meno che non riusciamo a demolirla
+
+con la stessa rapidità con cui la costruiscono. Ogni cosa in essa, tollerabile o intollerabile,
+
+avrà un solo uso; e quell'uso è ciò che i nostri antenati usavano
+
+chiamare usanza o usura. La sua arte potrà essere buona o cattiva, ma sarà una
+
+réclame per usurai; la sua letteratura potrà essere buona o cattiva, ma
+
+si appellerà al patrocinio degli usurai; la sua selezione scientifica
+
+selezionerà secondo i bisogni degli usurai; la sua religione sarà
+
+caritatevole quel tanto che basta a perdonare gli usurai; il suo sistema penale sarà
+
+crudele quel tanto che basta a schiacciare tutti i critici degli usurai: la sua [[Truth|verità]] sarà
+
+la [[Slavery|Schiavitù]]: e il suo titolo potrà benissimo essere Socialismo.
+
+LA FUGA
+
+     Vi guardavamo costruire, pietra su pietra,
+
 
 
 <span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_02" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 2)" data-chapter="Story 13 THE MASK OF SOCIALISM" data-kind="excerpt"></span>

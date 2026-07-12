@@ -4239,6 +4239,123 @@ was now [[Well|well]] fitted to pass any medical examination, and returned
 with all his own energy to the scene of yesterday's labors.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+III.  IL MISTERO DEL [[Well|POZZO]]
+
+Cyprian Paynter non sapeva che cosa si aspettasse di veder salire
+dal [[Well|pozzo]]--il cadavere dell'uomo assassinato o soltanto lo spirito
+della fonte.  Comunque, nessuno dei due [[Rose|sorse]] da esso,
+e dopo un istante riconobbe che questo era, in fondo,
+forse il corso più naturale delle cose.  Ancora una volta si
+riprese, camminò fino all'orlo del [[Well|pozzo]] e guardò giù.
+Vide, come prima, un fioco luccichio d'[[Water|acqua]], a quella profondità non
+più chiaro dell'inchiostro; gli parve di udire ancora una debole convulsione
+e un mormorio, ma a poco a poco si spense in una immobilità assoluta.
+A meno di tuffarsi dentro suicidandosi, non c'era nulla da fare.
+Si rese conto che, con tutta la sua attrezzatura, non aveva nemmeno portato qualcosa
+come una corda o un cesto, e alla fine decise di tornare a prenderli.
+Mentre rifaceva i suoi passi verso l'ingresso, tornò a rimuginare, e fece
+il bilancio, delle sue scoperte più solide.  Qualcuno era entrato nel bosco,
+aveva ucciso lo Squire e l'aveva gettato nel [[Well|pozzo]], ma non ammetteva
+neppure per un momento che fosse il suo amico poeta; eppure, se quest'ultimo era
+stato realmente visto uscire dal bosco, la faccenda era grave.
+Mentre camminava, il crepuscolo rapidamente calante era squarciato da
+bagliori rossi, che per un momento quasi gli fecero immaginare che qualche
+fantastico criminale avesse appiccato il [[Fire|fuoco]] alla minuscola foresta nella fuga.
+Una seconda occhiata non gli mostrò altro che uno di quei tramonti rossi
+in cui giornate così serene talvolta si chiudono.
+
+Uscendo dal cupo cancello di alberi nel pieno bagliore, vide
+una figura scura ferma immobile tra la felce oscura, nel punto
+in cui aveva lasciato il [[Woodcutter|taglialegna]].  Non era il [[Woodcutter|taglialegna]].
+
+Era sormontata da un alto cappello nero di foggia funebre, e l'intera
+figura si stagliava così nera contro il campo di [[Fire|fuoco]] cremisi che bordava
+la linea del cielo che per un istante non riuscì a comprenderla né a riconoscerla.
+Quando vi riuscì, fu con uno strano mutamento in tutto il corso
+dei suoi pensieri.
+
+"Dottor Brown!" gridò.  "Ma come, che cosa fa quassù?"
+
+"Ho parlato con il povero Martin," rispose il dottore,
+e fece un gesto piuttosto impacciato con la mano verso la [[Road|strada]]
+che scendeva al villaggio.  Seguendo il gesto, Paynter vide vagamente
+un'altra figura scura scendere a valle nella distanza rosso [[Blood|sangue]].
+Vide anche che la mano che indicava era davvero nera, e non
+soltanto in [[Shadow|ombra]]; e, avvicinandosi, trovò che l'abito del dottore
+era davvero funereo, fin nel dettaglio dei guanti scuri.
+Ciò diede all'americano un piccolo ma strano brivido, come se costui fosse davvero
+un becchino salito a seppellire il cadavere che non si riusciva a trovare.
+
+"Il povero Martin cercava la sua accetta," osservò il dottor Brown,
+"ma gli ho detto che l'avevo raccolta e gliela tenevo da parte.
+Detto tra noi, non credo proprio che gli si possa affidare
+con fiducia."  Poi, notando l'occhiata al suo abito nero, aggiunse:
+"Sono appena stato a un funerale.  Sapeva che c'è stata un'altra perdita?
+La povera moglie di Jake il pescatore, giù nel casolare sulla riva,
+lei sa.  Questa febbre infernale, naturalmente."
+
+Mentre entrambi si voltavano, di fronte alla luce rossa della sera, Paynter istintivamente
+fece uno studio più attento, non soltanto degli abiti del dottore, ma del
+dottore.  Il dottor Burton Brown era un uomo alto, sveglio, vestito con cura,
+che altrimenti avrebbe avuto un'aria quasi militare, se non fosse stato per gli
+occhiali e per un intellettualismo quasi doloroso nel magro volto bruno
+e nella fronte calva.  Il contrasto era rimarcato dal fatto che,
+mentre il suo volto era del tipo [[ascetic]] generalmente concepito
+come sbarbato, egli aveva una striscia di baffi scuri tagliata troppo corta
+perché la potesse mordere, eppure una bocca che spesso si muoveva come se cercasse
+di morderla.  Avrebbe potuto essere un chirurgo militare molto intelligente,
+ma aveva più l'aria di un ingegnere o di uno di quei corpi
+che uniscono un [[Silence|silenzio]] militare a una scienza più che militare.
+Paynter aveva sempre rispettato nell'uomo qualcosa di rudemente affidabile,
+e dopo una breve esitazione gli raccontò tutte le scoperte.
+
+Il dottore prese in mano il cappello del defunto Squire,
+e lo esaminò con attenzione aggrottata.  Infilò un dito
+nel foro della [[Crown|calotta]] e lo mosse meditabondo.
+E Paynter comprese quanto fantasiosa dovesse averlo reso la sua stessa stanchezza;
+poiché una cosa così sciocca come quel dito nero che si agitava attraverso
+lo squarcio in quella logora reliquia bianca lo infastidiva senza ragione.
+Il dottore fece presto la stessa scoperta con acume professionale,
+e la applicò molto più a fondo.  Poiché quando Paynter cominciò a raccontargli
+dell'[[Water|acqua]] in movimento nel [[Well|pozzo]], lo guardò un momento attraverso
+gli occhiali, e poi disse:
+
+"Ha pranzato?"
+
+Per la prima [[Time|volta]] Paynter si rese conto che, di fatto, aveva
+lavorato e pensato furiosamente tutto il giorno senza cibo.
+
+"La prego, non creda che intenda che ha pranzato troppo," disse l'uomo di medicina,
+con umorismo lugubre.  "Al contrario, intendo che ha pranzato troppo poco.
+Credo che lei sia un po' sfinito, e i suoi nervi ingigantiscono le cose.
+Comunque, mi permetta di consigliarle di non fare altro sta[[Night|notte]]. Non c'è
+nulla da fare senza corde o qualche sorta di attrezzatura da pesca,
+ammesso che basti; ma credo di poterle procurare qualcuno di quegli
+uncini da traino che usano i pescatori per dragare.  Il povero Jake
+ne ha, lo so; glieli porto domattina.
+Il fatto è che sto lì da lui per un po', dato che è piuttosto sconvolto,
+e credo sia meglio che sia io a chiedere le cose e non un estraneo.
+Sono certo che capirà."
+
+Paynter capì abbastanza da acconsentire, e a stento seppe perché
+rimase a guardare vacuo il dottore farsi strada giù per la ripida
+[[Road|strada]] verso la riva e il casolare del pescatore.  Poi scacciò
+pensieri che non aveva esaminato, né mai coscientemente accolto,
+e tornò lentamente e piuttosto pesantemente verso il Vane Arms.
+
+Il dottore, ancora funereo nei modi, benché non più nel vestito,
+comparve puntualmente sotto l'insegna di legno il mattino seguente,
+carico di ciò che aveva promesso; un apparato di ganci e una
+rete pendente per issare qualsiasi cosa affondata a una profondità ragionevole.
+Stava per proseguire nel suo giro professionale, e non disse
+altro per dissuadere l'americano dal procedere nel proprio
+esperimento del tutto non professionale come [[Detective|detective]].  Quel brioso dilettante
+aveva in effetti recuperato gran parte, se non tutta, della brio del giorno prima,
+era ora [[Well|ben]] in grado di superare qualsiasi visita medica, e tornò
+con tutta la propria energia alla scena delle fatiche del giorno prima.
+
 
 
 <span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_02" data-title="trees of pride — THE MYSTERY OF THE WELL (part 2)" data-chapter="Story 05 THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
@@ -4380,6 +4497,143 @@ Which brings me back to the one point in your remarks which I happen
 to think perfectly true."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Può [[Well|ben]] darsi che ad allietare e a rendere più briosa la sua seconda giornata di fatica
+concorresse il fatto che egli avesse non solo la luce del sole e il canto degli uccelli nel boschetto,
+per non dire di un apparato più scientifico con cui lavorare,
+ma anche compagnia umana, e di quella del tipo più intelligente.
+Dopo aver lasciato il dottore e prima di lasciare il villaggio si era
+rammentato di cercare la piccola [[Court|corte]] o piazza dove sorgeva
+la tranquilla [[house|casa]] bruna di Andrew Ashe, avvocato, e le operazioni
+di dragaggio furono condotte a [[Double|doppio]] tiro.  Due teste erano chine
+sul [[Well|pozzo]] nel bosco:  una dai capelli gialli, magra e ansiosa;
+l'altra dai capelli rossi, greve e riflessiva; e se è vero che due teste
+sono meglio di una, è ancor più vero che quattro mani sono meglio di due.
+In ogni caso, i loro sforzi uniti e ripetuti diedero infine frutto,
+se qualcosa di così duro e misero e desolato può essere chiamato frutto.
+Pesava mollemente nella rete mentre veniva sollevato, e rotolò fuori
+sul bordo erboso del [[Well|pozzo]]; era un osso.
+
+Ashe lo raccolse e rimase con esso in mano, aggrottando la fronte.
+
+"Abbiamo bisogno del dottor Brown qui," disse.  "Questo potrebbe essere l'osso
+di qualche animale.  Un cane o una pecora potrebbero cadere in un [[Well|pozzo]] nascosto."
+Poi si interruppe, poiché il suo compagno stava già staccando un secondo
+osso dalla rete.
+
+Dopo un'altra mezz'ora di sforzi Paynter ebbe occasione di osservare:
+"Doveva essere un cane piuttosto grosso."  C'era già un mucchio
+di simili frammenti bianchi ai suoi piedi.
+
+"Non ho ancora visto niente," disse Ashe, parlando più chiaramente.
+"Questo è certamente un osso umano."  "Temo che questo debba essere un osso umano,"
+disse l'americano.
+
+E si voltò un poco mentre porgeva all'altro un teschio.
+
+Non c'era [[Doubt|dubbio]] su quale sorta di teschio; c'era l'unica
+curva singolare che racchiude il mistero della ragione, e sotto di essa i due neri
+fori che avevano contenuto occhi umani.  Ma proprio sopra di essi, a sinistra,
+c'era un altro foro nero, più piccolo, che non era un occhio.
+
+Allora l'avvocato disse, con qualcosa come uno sforzo:
+"Possiamo ammettere che sia un uomo senza ammettere che sia--un uomo in particolare.
+Potrebbe esserci qualcosa, dopo tutto, in quella diceria sull'ubriacone;
+può darsi che sia caduto nel [[Well|pozzo]].  In certe condizioni,
+dopo certi processi naturali, immagino, le ossa potrebbero essere
+scarnificate in questo modo, anche senza l'abilità di alcun assassino.
+Abbiamo di nuovo bisogno del dottore."
+
+Poi aggiunse d'improvviso, e il suono stesso della sua voce suggeriva
+che egli stentava a credere alle proprie parole.
+
+"Non ha lì il cappello del povero Vane?"
+
+Lo prese dalla mano del silenzioso americano, e con una sorta di fretta
+lo calzò sulla testa ossuta.
+
+"Non lo faccia!" disse l'altro suo malgrado.
+
+L'avvocato aveva infilato il dito, come aveva fatto il dottore, nel foro
+del cappello, ed esso si posava esattamente sul foro nel teschio.
+
+"Io ho più diritto di ritrarmi," disse fermamente, ma con voce
+vibrante.  "Credo di essere l'amico più antico."
+
+Paynter annuì senza parlare, accettando l'identificazione definitiva.
+L'ultimo [[Doubt|dubbio]], o [[Hope|speranza]], era svanito, ed egli si volse all'apparato
+di dragaggio, e non parlò finché non ebbe fatto l'ultima scoperta.
+
+Il canto degli [[Birds|uccelli]] sembrava crescere intorno a loro,
+e la [[Dance|danza]] delle verdi [[Leaves|foglie]] d'[[Summer|estate]] si ripeteva più oltre
+nella [[Dance|danza]] del verde mare d'[[Summer|estate]].  Solo le grandi radici
+dei misteriosi alberi si potevano vedere, il resto essendo assai in alto,
+e tutt'intorno era un bosco di piccole cose vivaci e felici.
+Avrebbero potuto essere due naturalisti [[Innocent|innocenti]], o persino due bambini
+a pescare anguille o spinarelli in quella vacanza d'[[Summer|estate]] quando Paynter
+tirò su qualcosa che pesava nella rete più di qualsiasi osso.
+Per poco non spezzò le maglie, e ricadde contro una pietra muscosa
+con un clangore.
+
+"La [[Truth|verità]] giace in fondo a un [[Well|pozzo]]," gridò l'americano, con slancio
+nella voce.  "L'ascia del taglialegna."
+
+Giaceva, infatti, piatta e luccicante nell'erba presso il [[Well|pozzo]]
+nel bosco, proprio come era giaciuta nella boscaglia dove il taglialegna
+l'aveva gettata all'inizio di tutte queste cose.  Ma su un angolo
+della lama lucente c'era una opaca macchia bruna.
+
+"Capisco," disse Ashe, "l'ascia del taglialegna, e dunque il Taglialegna.
+Le sue deduzioni sono rapide."
+
+"Le mie deduzioni sono ragionevoli," disse Paynter, "Guardi qui,
+signor Ashe; so che cosa sta pensando.  So che diffida di Treherne;
+ma sono certo che sarà comunque giusto.  Tanto per cominciare, di sicuro la
+prima ipotesi è che l'ascia del taglialegna sia usata dal Taglialegna.
+Che cosa ha da obiettare?"
+
+"Dico 'No'," rispose l'avvocato.  "L'ultima arma che un taglialegna
+userebbe sarebbe l'ascia di un taglialegna; ammesso che sia un uomo sano di mente."
+
+"Non lo è," disse Paynter con calma; "lei ha detto poco fa che voleva il parere
+del dottore.  Il parere del dottore su questo punto è il medesimo
+del mio.  Lo abbiamo trovato entrambi a vagare là fuori;
+è evidente che questa faccenda gli ha dato alla testa, in ogni caso.
+Se l'assassino fosse un uomo d'affari come lei,
+ciò che dice potrebbe reggere.  Ma questo assassino è un mistico.
+Era spinto da qualche fanatica fissazione riguardo agli alberi.  È del tutto
+probabile che pensasse ci fosse qualcosa di solenne e sacrificale nell'
+ascia, e che avrebbe voluto mozzare la testa a Vane davanti a una folla,
+come a Carlo I. Sta ancora cercando l'ascia, e probabilmente la crede
+una sacra reliquia."
+
+"Ragion per cui," disse Ashe, sorridendo, "l'ha immediatamente scaraventata
+in un [[Well|pozzo]]."
+
+Paynter rise.
+
+"Qui mi ha di certo colto in fallo," disse.  "Ma credo che lei abbia
+qualcos'altro in mente.  Dirà, suppongo, che noi
+stavamo tutti sorvegliando il bosco; ma era così?  Francamente, potrei quasi
+immaginare che gli alberi-pavone mi colpissero con una sorta di malattia--
+una malattia del sonno."
+
+"[[Well|Ebbene]]," ammise Ashe, "anche qui mi ha colto in fallo.  Temo di
+non poter giurare di essere stato sveglio tutto il [[Time|tempo]]; ma non lo attribuisco
+ad alberi [[Magic|magici]]--soltanto a un privato passatempo di andare a letto la [[Night|notte]].
+Ma guardi qui, signor Paynter; c'è un altro e migliore argomento
+contro l'ipotesi che qualche [[Outsider|estraneo]] del villaggio o della campagna abbia
+commesso il delitto.  Ammesso che sia riuscito in qualche modo a passarci accanto,
+e sia andato a cercare lo Squire.  Ma perché avrebbe dovuto cercarlo nel bosco?
+Come sapeva che era nel bosco?  Ricorda con quanta improvvisità
+il povero vecchio vi si precipitò, su quale impulso momentaneo.
+È l'ultimo luogo in cui normalmente si cercherebbe un uomo simile,
+nel cuore della [[Night|notte]].  No, è brutto a dirsi, ma noi,
+il gruppo intorno a quel tavolo da [[Garden|giardino]], eravamo le uniche persone che lo sapevano.
+Il che mi riporta all'unico punto delle sue osservazioni che mi accade
+di ritenere perfettamente vero."
+
 
 
 <span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_03" data-title="trees of pride — THE MYSTERY OF THE WELL (part 3)" data-chapter="Story 05 THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
@@ -4509,6 +4763,131 @@ It sharpened when the girl looked up from the table and smiled
 on seeing them.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"E quale sarebbe?" chiese l'altro.
+
+"Che l'assassino era un mistico," disse Ashe.  "Ma un mistico più astuto
+del povero vecchio Martin."
+
+Paynter emise un mormorio di protesta, e poi tacque.
+
+"Parliamo chiaro," riprese l'avvocato.  "Treherne aveva tutti
+quei folli moventi che lei stesso ammette contro il [[Woodcutter|taglialegna]].
+Aveva conoscenza di dove si trovasse Vane, cosa che nessuno può
+in alcun modo attribuire al [[Woodcutter|taglialegna]].  Ma aveva molto di più.
+Chi punzecchiò e istigò lo Squire a entrare nel bosco,
+prima di tutto?  Treherne.  Chi praticamente profetizzò, come un infernale
+astrologo ciarlatano, che gli sarebbe accaduto qualcosa se fosse davvero entrato
+nel bosco?  Treherne.  Chi era, per qualche ragione, non importa quale,
+palesemente ardente di rabbia e irrequietezza per tutta quella [[Night|notte]], scalciando
+impaziente avanti e indietro sulla scogliera, e prorompendo in parole
+selvagge sul fatto che presto sarebbe tutto finito?  Treherne.  E oltre a tutto questo,
+quando mi avvicinai al bosco, chi vidi sgusciarne fuori rapido
+e silenzioso come un'[[Shadow|ombra]], voltando però una volta il viso verso la [[Moon|luna]]?
+Sul mio onore e sul mio giuramento--Treherne."
+
+"È terribile," disse Paynter, come un uomo stordito.  "Ciò che dice
+è semplicemente terribile."
+
+"Sì," disse Ashe gravemente, "molto terribile, ma molto semplice.
+Treherne sapeva dove l'ascia era stata originariamente gettata.  Lo vidi,
+quel giorno in cui pranzò qui la prima volta, fissarla come un lupo,
+mentre la signorina Vane gli parlava.  In quella terribile [[Night|notte]]
+avrebbe potuto facilmente raccoglierla mentre entrava nel bosco.
+Conosceva l'esistenza del [[Well|pozzo]], senza [[Doubt|dubbio]]; chi mai era più probabile conoscesse le vecchie
+tradizioni sugli alberi-pavone?  Nascose il cappello tra gli alberi,
+dove forse sperava (benché il punto sia irrilevante)
+che nessuno osasse guardare.  Comunque lo nascose, semplicemente perché era
+l'unica cosa che non sarebbe affondata nel [[Well|pozzo]].  Signor Paynter,
+crede che io direi questo di un uomo per mera meschina antipatia?
+Potrebbe un uomo dirlo di un altro uomo a meno che il caso non fosse completo,
+come questo è completo?"
+
+"È completo," disse Paynter, pallidissimo.  "Non mi resta nulla
+contro di esso se non un debole, irrazionale sentimento; il sentimento che,
+in un modo o nell'altro, se il povero Vane potesse stare vivo davanti a noi in questo
+momento, potrebbe raccontare un'altra e ancor più incredibile storia."
+
+Ashe fece un gesto luttuoso.
+
+"Possono queste aride ossa rivivere?" disse.
+
+"Signore, Tu lo sai," rispose l'altro meccanicamente.
+"Persino queste aride ossa--"
+
+E si fermò di colpo con la bocca aperta, una luce accecante
+di [[Wonder|stupore]] nei suoi occhi pallidi.
+
+"Guardi qui," disse rauco e in fretta.  "Lei ha pronunciato la parola.
+Che cosa significa?  Che cosa può significare?  Aride?  Perché queste ossa sono aride?"
+
+L'avvocato trasalì e fissò il mucchio dall'alto.
+
+"Il suo caso completo!" gridò Paynter, in crescente eccitazione.
+"Dov'è l'[[Water|acqua]] nel [[Well|pozzo]]?  L'[[Water|acqua]] che vidi guizzare come una fiamma?
+Perché guizzò?  Dove se n'è andata?  Completo!  Siamo
+sepolti sotto gli enigmi."
+
+Ashe si chinò, raccolse un osso e lo guardò.
+
+"Ha ragione," disse, con voce bassa e scossa:
+"quest'osso è arido--quanto un osso."
+
+"Sì, ho ragione," rispose Cyprian.  "E il suo mistico è ancora
+misterioso quanto un mistico."
+
+Ci fu un lungo [[Silence|silenzio]].  Ashe depose l'osso, raccolse l'ascia
+e la studiò più da vicino.  Oltre l'opaca macchia all'angolo
+dell'acciaio non c'era nulla di insolito in essa, salvo un largo cencio
+bianco avvolto intorno al manico, forse per dare una presa migliore.
+L'avvocato ritenne comunque degno di nota che il cencio fosse certamente
+più nuovo e pulito dell'accetta.  Ma entrambi erano del tutto asciutti.
+
+"Signor Paynter," disse infine, "ammetto che lei ha segnato un punto,
+nello spirito se non nella lettera.  In stretta [[logic|logica]], questo più grande
+enigma non è una risposta al mio caso.  Se quest'ascia non è stata immersa
+nell'[[Water|acqua]], è stata immersa nel [[Blood|sangue]]; e l'[[Water|acqua]] che schizza fuori dal
+[[Well|pozzo]] non è una spiegazione del poeta che schizza fuori dal bosco.
+Ma ammetto che moralmente e praticamente fa una differenza vitale.
+Non ci troviamo di fronte a una colossale contraddizione, e non
+sappiamo fin dove si estenda.  Il [[Body|corpo]] potrebbe essere stato smembrato
+o bollito fino alle ossa dall'assassino, benché
+possa essere difficile collegarlo alle condizioni del delitto.
+Potrebbe concepibilmente essere stato così ridotto da qualche proprietà dell'[[Water|acqua]]
+e del suolo, poiché la decomposizione varia enormemente con queste cose.
+Non liquiderei il mio forte caso prima facie contro la persona più probabile
+a causa di queste difficoltà.  Ma qui abbiamo qualcosa
+di interamente diverso.  Che le ossa stesse rimangano asciutte
+in un [[Well|pozzo]] pieno d'[[Water|acqua]], o in un [[Well|pozzo]] che ieri era pieno d'[[Water|acqua]]--
+questo ci porta all'orlo di qualcosa oltre il quale non possiamo fare
+alcuna congettura.  C'è un fattore nuovo, enorme e del tutto ignoto.
+Finché non riusciamo a mettere insieme fatti così prodigiosi, non possiamo mettere
+insieme un caso contro Treherne o contro chiunque altro.  No; c'è
+una sola cosa da fare adesso.  Poiché non possiamo accusare Treherne,
+dobbiamo appellarci a lui.  Dobbiamo esporgli il caso a suo carico francamente,
+davanti a lui, e confidare che egli abbia una spiegazione--e che la dia.
+Suggerisco di tornare indietro e di farlo ora."
+
+Paynter, cominciando a seguirlo, esitò un momento, e poi disse:
+"Mi perdoni per una specie di licenza; come lei dice, è un più antico
+amico della famiglia.  Sono pienamente d'accordo col suo suggerimento,
+ma prima che lei agisca sui suoi presenti sospetti, sa,
+credo che la signorina Vane andrebbe un po' avvertita?  Ho piuttosto [[Fear|paura]] che tutto
+questo sarà per lei un nuovo colpo."
+
+"Va [[Well|benissimo]]," disse Ashe, dopo averlo guardato fermamente per un istante.
+"Andiamo prima da lei."
+
+Dall'imboccatura del bosco potevano vedere Barbara Vane che scriveva
+al tavolo da [[Garden|giardino]], ingombro di corrispondenza,
+e il maggiordomo dal viso giallo che attendeva dietro la sua sedia.
+Man mano che i tratti d'erba si accorciavano tra loro, e il piccolo
+gruppo al tavolo si faceva più grande e più nitido nella luce del sole,
+Paynter ebbe la penosa sensazione di far parte di un'ambasceria di sventura.
+Essa si acuì quando la ragazza alzò lo sguardo dal tavolo e sorrise
+vedendoli.
+
 
 
 <span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_04" data-title="trees of pride — THE MYSTERY OF THE WELL (part 4)" data-chapter="Story 05 THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
@@ -4629,6 +5008,123 @@ must keep our common sense.  There are reasons for everything,
 and when my old friend lies butchered do not come to me with even
 the most beautiful fairy tales about a saint and his enchanted grove."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Vorrei parlarle in modo piuttosto particolare, se posso,"
+disse l'avvocato, con un tocco di autorità nel suo rispetto;
+e quando il maggiordomo fu congedato le espose l'intera faccenda,
+parlando con partecipazione, ma senza tralasciare nulla,
+dalla strana fuga del poeta dal bosco fino all'ultimo
+dettaglio delle ossa asciutte tratte dal [[Well|pozzo]].  Non si poteva trovare
+alcun difetto in nessuno dei suoi toni o delle sue frasi, eppure Cyprian,
+fremente in ogni nervo per la squisita delicatezza della sua nazione
+verso l'altro sesso, sentiva come se lei fosse posta di fronte a un inquisitore.
+Se ne stava a disagio, osservava le poche nubi colorate nel cielo
+limpido e i luminosi [[Birds|uccelli]] che saettavano intorno al bosco, e desiderava
+ardentemente di essere di nuovo sull'albero.
+
+Presto, tuttavia, il modo in cui la ragazza accolse la cosa cominciò a muoverlo
+a perplessità più che a pietà.  Non somigliava a nulla di ciò che si era aspettato,
+eppure non sapeva dar nome alla sfumatura di differenza.  L'identificazione
+definitiva del teschio del padre, per il foro nel cappello,
+la fece impallidire un poco, ma la lasciò composta; ciò era, forse,
+spiegabile, dato che ella aveva fin dall'inizio assunto il punto di vista pessimistico.
+Ma per tutto il resto del racconto si posò sulle sue larghe sopracciglia, sotto
+le spire ramate dei suoi capelli, uno spirito assorto che era esso stesso un mistero.
+Egli poté solo dirsi che ella era meno semplicemente ricettiva,
+sia fermamente sia debolmente, di quanto si sarebbe aspettato.
+Era come se ella rimuginasse, non il loro problema, ma il proprio.
+Rimase in [[Silence|silenzio]] a lungo, e disse infine:
+
+"Grazie, signor Ashe, le sono davvero molto grata per questo.
+Dopo tutto, porta le cose al punto a cui dovevano prima o poi
+arrivare."  Guardò sognante il bosco e il mare, e proseguì:
+"Non avevo solo me stessa da considerare, vede; ma se lei sta davvero
+pensando QUELLO, è [[Time|ora]] che io parli, senza chiedere il permesso a nessuno.
+Lei dice, come se fosse qualcosa di terribile, 'Il signor Treherne era
+nel bosco quella [[Night|notte]].'  [[Well|Ebbene]], non è poi così terribile per me,
+vede, perché io so che c'era.  Anzi, eravamo lì insieme."
+
+"Insieme!" ripeté l'avvocato.
+
+"Eravamo insieme," disse ella con calma, "perché avevamo il diritto
+di essere insieme."
+
+"Vuol dire," balbettò Ashe, tratto fuori di sé dalla sorpresa,
+"che eravate fidanzati?"
+
+"No, no," disse ella.  "Eravamo sposati."
+
+Poi, in mezzo a un [[Silence|silenzio]] sbigottito, aggiunse, come una sorta di ripensamento:
+
+"Anzi, lo siamo ancora."
+
+Per quanto salda fosse la sua compostezza, l'avvocato si abbandonò sulla sedia con una
+sorta di solida stupefazione di cui Paynter non poté fare a meno di sorridere.
+
+"Lei mi chiederà, naturalmente," proseguì Barbara con lo stesso tono misurato,
+"perché ci dovessimo sposare in segreto, così che nemmeno il mio povero padre lo
+sapesse.  [[Well|Ebbene]], le rispondo con tutta franchezza per cominciare; perché, se lui
+lo avesse saputo, mi avrebbe certamente diseredata con uno scellino.  Non
+gli piaceva mio marito, e immagino che non piaccia neppure a lei.
+E quando le dico questo, so perfettamente [[Well|bene]] che cosa dirà--
+il solito avventuriero che mette le mani sulla solita ereditiera.
+È del tutto ragionevole e, come càpita, del tutto sbagliato.
+Se avessi ingannato mio padre per amore del denaro, o persino per
+amore di un uomo, mi vergognerei un poco a parlargliene.
+E credo che possa vedere che non me ne vergogno."
+
+"Sì," disse l'americano, con un [[Grave|grave]] cenno, "sì, lo vedo."
+
+Ella lo guardò pensosa per un momento, come cercando le parole
+per una faccenda oscura, e poi disse:
+
+"Si ricorda, signor Paynter, di quel giorno in cui pranzò qui la prima volta
+e ci parlò degli alberi africani?  [[Well|Ebbene]], era il mio compleanno;
+intendo il mio primo compleanno.  Nacqui allora, o mi svegliai, o qualcosa del genere.
+Avevo camminato in questo [[Garden|giardino]] come una sonnambula al sole.
+Credo che ci siano molti simili sonnambuli nel nostro ambiente e nella nostra società;
+storditi di salute, drogati di buone maniere, tanto ben calati nel loro
+ambiente da non essere vivi.  [[Well|Ebbene]], in qualche modo mi risvegliai;
+e lei sa quanto profonde siano in noi le cose che percepiamo per la prima volta quando
+eravamo bambini e cominciammo a osservare.  Cominciai a osservare.
+Una delle prime cose che notai fu la sua stessa storia, signor Paynter.
+Mi sembra di aver udito di San Securis come i bambini odono di Babbo Natale,
+e come se quel grande albero fosse uno spauracchio in cui ancora credevo.  Perché io credo ancora
+in cose simili, o meglio ci credo sempre di più;
+sono certa che il mio povero padre si sia arenato sugli scogli per la sua incredulità,
+e voi tutti gli correte dietro verso la rovina.  Ecco perché desidero onestamente
+la tenuta, ed ecco perché non mi vergogno di desiderarla.
+Sono perfettamente certa, signor Paynter, che nessuno può salvare questa
+terra morente e questa gente morente se non chi comprende.
+Intendo chi comprende un migliaio di piccoli segni e guide nel suolo stesso
+e nella conformazione del terreno, e tracce che sono quasi calpestate via.
+Mio marito comprende, e io ho cominciato a comprendere; mio padre
+non avrebbe mai compreso.  Ci sono potenze, c'è lo spirito
+di un luogo, ci sono presenze che non si possono scacciare.
+Oh, non creda che io sia sentimentale e rimpianga i bei vecchi tempi.
+I vecchi tempi non erano tutti buoni; è proprio questo il punto,
+e dobbiamo comprendere abbastanza da saper distinguere il bene dal male.
+Dobbiamo comprendere abbastanza da salvare le tracce di un santo o di una
+sacra tradizione, oppure, là dove è stato adorato un dio malvagio,
+per distruggere il suo altare e abbattere il suo bosco sacro."
+
+"Il suo bosco sacro," disse Paynter automaticamente, e guardò
+verso il boschetto, dove volavano gli [[Birds|uccelli]] radiosi di sole.
+
+"Signora Treherne," disse Ashe, con una formidabile quiete, "non
+sono così poco partecipe di tutto questo come forse lei suppone.
+Non dirò nemmeno che sia tutta luna di miele, perché è qualcosa di meglio.
+È, se posso dir così, luna-di-miele lunata.  Non negherò mai il detto
+che essa fa girare il mondo, se fa girare anche la testa alla gente.
+Ma ci sono altri sentimenti, signora, e altri doveri.
+Non ho bisogno di dirle che suo padre era un buon uomo, e che ciò che
+gli è capitato sarebbe pietoso, persino come sorte di un malvagio.
+Questa è una cosa orribile, ed è soprattutto in mezzo agli orrori che dobbiamo
+conservare il nostro buon senso.  Ci sono ragioni per ogni cosa,
+e quando il mio vecchio amico giace macellato non venga da me nemmeno
+con le più belle favole su un santo e il suo bosco incantato."
 
 
 
@@ -4754,6 +5250,126 @@ No, if a man is concealing his crime, why should he go out of his
 way to apologize for it?"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"[[Well|Ebbene]], e lei!" gridò ella, e [[Rose|si levò]] radiosa e rapida.
+"Con che sorta di favole viene lei da me?
+In quali boschi incantati sta passeggiando LEI?  Viene a dirmi
+che il signor Paynter ha trovato un [[Well|pozzo]] dove l'[[Water|acqua]] danzava e
+poi è scomparsa; ma naturalmente i miracoli sono tutti luna di miele!
+Mi dice che lei stesso ha pescato ossa da sotto quella stessa [[Water|acqua]],
+e ogni osso era asciutto come un biscotto; ma per amor del cielo non
+diciamo nulla che faccia girare la testa a qualcuno!  Davvero, signor Ashe,
+deve sforzarsi di conservare il suo buon senso!"
+
+Ella sorrideva, ma con occhi fiammeggianti; e Ashe si alzò in piedi
+con un involontario riso di resa.
+
+"[[Well|Ebbene]], dobbiamo andare," disse.  "Posso dire che un tributo è
+davvero dovuto al suo nuovo addestramento trascendentale?  Se posso dir così,
+ho sempre saputo che lei aveva cervello; e ha imparato a usarlo."
+
+I due detective dilettanti tornarono per il momento al bosco,
+affinché Ashe potesse considerare la rimozione delle spoglie dell'infelice Squire.
+Come egli fece notare, era ormai legalmente possibile tenere un'inchiesta e,
+persino a quello stadio iniziale delle indagini, era favorevole
+a tenerla subito.
+
+"Sarò io il coroner," disse, "e credo che sarà un caso
+di 'una o più persone ignote.'  Non si sorprenda;
+lo si fa spesso per dare ai colpevoli una falsa sicurezza.
+Non è la prima [[Time|volta]] che la polizia trova conveniente
+fare prima l'inchiesta e l'indagine dopo."
+
+Ma Paynter aveva prestato poca attenzione al punto; poiché il suo grande dono
+d'entusiasmo, a lungo sprecato in arti e affettazioni, era sollevato a
+ispirazione dal [[Romance|romanzesco]] della vita reale in cui era appena entrato.
+Era davvero un grande critico; aveva un genio per l'ammirazione,
+e la sua ammirazione variava a proposito con tutto ciò che ammirava.
+
+"Una splendida ragazza e una splendida storia," gridò.  "Mi sento come se
+fossi di nuovo innamorato io stesso, non tanto di lei quanto di Eva o di [[Helen|Elena]]
+di Troia, o di qualche simile torre di [[Beauty|bellezza]] nel mattino del mondo.
+Non ama tutte le cose eroiche, quella gravità e quella grande sincerità,
+e il modo in cui ella ha fatto un passo da una sorta di trono per stare in un
+deserto accanto a un vagabondo?  Oh, mi creda, è lei la poetessa;
+è lei ad avere la ragione superiore, e l'onore e il valore riposano
+nella sua [[Soul|anima]]."
+
+"In breve, è straordinariamente carina," rispose Ashe, con un po' di cinismo.
+"Ho conosciuto piuttosto [[Well|bene]] una assassina che le somigliava moltissimo,
+e aveva proprio quei capelli di quel colore."
+
+"Parla come se un assassino potesse essere colto con i capelli rossi invece
+che con le mani rosse," ribatté Paynter.  "Ma come, in questo preciso istante,
+lei stesso potrebbe essere colto con i capelli rossi.  È forse un assassino,
+per caso?"
+
+Ashe alzò lo sguardo di scatto, e poi sorrise.
+
+"Temo di essere un intenditore di assassini, come lei lo è di poeti," rispose,
+"e le assicuro che sono di ogni colore nei capelli come [[Well|anche]] nel
+temperamento.  Suppongo sia disumano, ma il mio è un mestiere mostruosamente
+interessante, anche in un posticino come questo.  Quanto a quella
+ragazza, naturalmente la conosco da tutta la vita, e--ma--ma è proprio
+questa la questione.  L'ho conosciuta per tutta la vita?  L'ho conosciuta
+affatto?  Era anche lì, da conoscere?  Lei la ammira per aver detto
+la [[Truth|verità]]; e così ha fatto, per Dio, quando ha detto che certe persone si svegliano
+tardi, dopo non aver mai vissuto prima.  Sappiamo che cosa potrebbero
+fare--noi, che le abbiamo viste solo addormentate?"
+
+"Santo cielo!" gridò Paynter.  "Non oserà suggerire che ella--"
+
+"No, non lo faccio," disse l'avvocato, con compostezza, "ma ci
+sono altre ragioni.... Non suggerisco nulla di definitivo,
+finché non avremo avuto il nostro colloquio con questo suo poeta.
+Credo di sapere dove trovarlo."
+
+Lo trovarono, di fatto, prima di quanto se lo aspettassero, seduto sulla panca
+fuori dal Vane Arms, a bere un boccale di sidro e ad attendere il ritorno
+del suo amico americano; sicché non fu difficile avviare la conversazione
+con lui.  Né egli evitò in alcun modo l'argomento della [[Tragedy|tragedia]];
+e l'avvocato, sedendosi anch'egli sulla lunga panca che fronteggiava
+la piccola piazza del mercato, prese presto a esporre gli ultimi sviluppi
+con la stessa lucidità con cui li aveva esposti a Barbara.
+
+"[[Well|Ebbene]]," disse Treherne infine, appoggiandosi all'indietro e aggrottando la fronte verso l'insegna,
+con gli [[Birds|uccelli]] colorati e i delfini, proprio sopra la sua testa;
+"supponiamo che qualcuno abbia ucciso lo Squire.  Aveva ucciso parecchia
+gente con la sua igiene e il suo illuminato spirito di proprietario terriero."
+
+Paynter era assai a disagio per questo esordio allarmante;
+ma il poeta proseguì con la massima freddezza, con le mani in tasca
+e i piedi allungati fuori nella strada.
+
+"Quando un uomo ha il potere di un Sultano di Turchia, e lo usa con
+le idee di una zitella di Tooting, mi [[Wonder|domando]] spesso come mai nessuno gli
+pianti un coltello addosso.  Vorrei che ci fosse più comprensione per gli assassini, in qualche modo.
+Sono molto dispiaciuto io stesso che il povero vecchio se ne sia andato; ma voi signori
+sembrate sempre dimenticare che al mondo c'è anche altra gente.
+Lui sta bene; era un brav'uomo, e la sua [[Soul|anima]], immagino,
+è andata nel più felice paradiso di tutti."
+
+L'ansioso americano non riuscì a leggere nulla dell'effetto di questo
+nel volto scuro e napoleonico dell'avvocato, che si limitò a dire:
+"Che cosa intende?"
+
+"Il paradiso degli [[Fool|sciocchi]]," disse Treherne, e vuotò il suo boccale di sidro.
+
+L'avvocato [[Rose|si levò]].  Non guardò Treherne, né gli parlò;
+ma guardò e parlò dritto oltre lui all'americano, che trovò
+quella dichiarazione non poco inaspettata.
+
+"Signor Paynter," disse Ashe, "lei ha pensato che fosse piuttosto morboso da parte mia
+collezionare assassini; ma è una fortuna per la sua stessa visione
+del caso che io lo faccia.  Potrebbe sorprenderla sapere che il signor Treherne
+si è ormai, ai miei occhi, del tutto scagionato dal sospetto.
+Ho avuto rapporti intimi con parecchi assassini, come ho osservato;
+ma c'è una cosa che nessuno di loro ha mai fatto.  Non ho mai conosciuto un assassino
+che parlasse del delitto, e poi subito lo negasse e lo difendesse.
+No, se un uomo sta nascondendo il proprio delitto, perché dovrebbe darsi la
+pena di scusarlo?"
+
 
 
 <span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_06" data-title="trees of pride — THE MYSTERY OF THE WELL (part 6)" data-chapter="Story 05 THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
@@ -4862,6 +5478,111 @@ patiently to hang the wrong man."
 his shoulders, sprawling on the ale bench, and played with
 his empty pot.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"[[Well|Ebbene]]," disse Paynter, con la sua pronta capacità di apprezzamento, "ho sempre detto
+che lei era un uomo notevole; e questa è certamente un'idea notevole."
+
+"Devo capire," chiese il poeta, battendo i tacchi sui ciottoli,
+"che entrambi voi signori mi avete gentilmente indirizzato
+verso la forca?"
+
+"No," disse Paynter pensieroso.  "Non l'ho mai creduta colpevole;
+e anche ammettendo che lo avessi fatto, se mi capisce, non avrei
+mai pensato che fosse così colpevole essere colpevoli.
+Non sarebbe stato per denaro o per qualche cosa meschina, ma per qualcosa
+di un po' più selvaggio e più degno di un uomo di genio.  Dopo tutto,
+suppongo, il poeta ha passioni come grandi appetiti ultraterreni;
+e il mondo ha sempre giudicato più benevolmente i suoi peccati.
+Ma ora che il signor Ashe ammette la sua [[innocence|innocenza]], posso onestamente dire di
+averla sempre affermata."
+
+Anche il poeta [[Rose|si levò]].  "[[Well|Ebbene]], sono [[Innocent|innocente]], per quanto strano," disse.
+"Credo di poter azzardare un'ipotesi sul vostro [[Well|pozzo]] scomparso,
+ma della [[Death|morte]] e delle ossa asciutte non ne so più di quanto ne sappia il morto;
+se pure altrettanto.  E, a proposito, mio caro Paynter"--e volse due
+occhi brillanti sul critico d'arte--"la dispenserò dal dispensarmi
+per tutte le cose che non ho fatto; e lei, spero, mi dispenserà
+se dissento del tutto da lei circa la [[morality|moralità]] dei poeti.
+Come lei suggerisce, è una visione alla moda, ma credo che sia un'illusione.
+Nessun uomo ha meno diritto di essere fuorilegge di un uomo di [[Imagination|immaginazione]].
+Poiché egli ha avventure spirituali, e può prendersi le sue vacanze quando vuole.
+Potrei immaginare il povero Squire portato via nel regno degli elfi ogni volta che volevo
+che venisse portato via, e a quel bosco non serviva alcun delitto per rendermelo malvagio.
+Quel rosso tramonto l'altra [[Night|sera]] fu tutto ciò che un delitto sarebbe
+stato per molti uomini.  No, signor Ashe; mostri, la prossima volta che siederà
+a giudizio, un po' di [[Mercy|misericordia]] a qualche disgraziato che beve e ruba
+perché deve bere birra per assaporarla, e prenderla per berla.  Abbia
+compassione della prossima infornata di poveri ladri, che devono impossessarsi
+delle cose per averle.  Ma se mai mi troverà a rubare
+un solo minimo soldo, quando posso chiudere gli occhi e vedere la [[City|città]]
+di El Dorado, allora"--e sollevò il capo come un falco--"non
+mi mostri alcuna [[Mercy|misericordia]], poiché non ne meriterò alcuna."
+
+"[[Well|Ebbene]]," osservò Ashe, dopo una pausa, "devo andare a organizzare le cose
+per l'inchiesta.  Signor Treherne, il suo atteggiamento è singolarmente interessante;
+davvero quasi vorrei poterla aggiungere alla mia collezione di assassini.
+Sono un insieme vario e straordinario."
+
+"Le è mai venuto in mente," chiese Paynter, "che forse gli uomini
+che non hanno mai commesso un delitto siano un insieme vario e assai straordinario?
+Forse la vita di ogni uomo comune racchiude il vero mistero, il segreto
+dei peccati evitati."
+
+"Possibile," rispose Ashe.  "Sarebbe una lunga faccenda fermare il prossimo
+uomo per strada e chiedergli quali delitti non ha mai commesso e perché no.
+E il caso vuole che io sia occupato, quindi mi scuserà."
+
+"Qual è," chiese l'americano, quando lui e il poeta furono [[Alone|soli]],
+"questa sua ipotesi sull'[[Water|acqua]] scomparsa?"
+
+"[[Well|Ebbene]], non sono sicuro di volerglielo ancora dire," rispose Treherne,
+con qualcosa della vecchia malizia che gli tornava negli occhi scuri.
+"Ma le dirò qualcos'altro, che forse è collegato a questo;
+qualcosa che non potevo dire finché mia moglie non le avesse parlato del nostro
+incontro nel bosco."  Il suo viso si era fatto di nuovo [[Grave|grave]], ed egli riprese
+dopo una pausa:
+
+"Quando mia moglie si mise a seguire suo padre le consigliai di tornare
+prima alla [[house|casa]], di uscirne da un'altra porta e di incontrarmi nel
+bosco dopo mezz'ora.  Ci davamo spesso questi appuntamenti, naturalmente,
+e in genere li trovavamo grande spasso, ma questa [[Time|volta]] la questione
+era seria, e non volevo che si facesse la cosa sbagliata in fretta.
+Era una questione di sapere se si potesse fare qualcosa per disfare un esperimento
+che entrambi vagamente sentivamo pericoloso, e lei in particolare pensava,
+dopo riflessione, che intervenire avrebbe peggiorato le cose.
+Ella pensava che il vecchio sportivo, essendo stato sfidato a fare qualcosa,
+non si sarebbe di certo lasciato dissuadere proprio dall'uomo che l'aveva sfidato
+o da una donna che egli considerava una [[Child|bambina]].  Mi lasciò infine in una
+sorta di [[Despair|disperazione]], ma io indugiai con un'ultima [[Hope|speranza]] di fare qualcosa,
+e mi avvicinai incerto al cuore del bosco; e là,
+invece del [[Silence|silenzio]] che mi aspettavo, udii una voce.  Sembrava
+come se lo Squire dovesse parlare da solo, e ebbi la spiacevole
+impressione che avesse già perso la ragione in quel bosco di stregoneria.
+Ma presto scoprii che, se parlava, parlava con due voci.
+Altre fantasie mi assalirono, come che l'altra fosse la voce dell'albero
+o le voci dei tre alberi che parlavano insieme, senza alcun uomo vicino.
+Ma non era la voce dell'albero.  Un istante dopo riconobbi
+la voce, poiché l'avevo udita venti volte attraverso il tavolo.
+Era la voce di quel suo dottore; la udii con la stessa certezza
+con cui lei ode la mia voce ora."
+
+Dopo un momento di [[Silence|silenzio]], riprese:  "Uscii dal bosco, a stento
+sapevo perché, e con sentimenti selvaggi e sconvolti; e mentre uscivo
+nella fioca luce lunare vidi quel vecchio avvocato in piedi in silenzio,
+ma che mi fissava come un gufo.  Almeno, la luce sfiorava
+i suoi capelli rossi di [[Fire|fuoco]], ma il suo quadrato vecchio viso era in [[Shadow|ombra]].
+Ma sapevo, se solo avessi potuto leggerlo, che era il viso di
+un giudice che manda alla forca."
+
+Si gettò di nuovo sulla panca, sorrise un poco, e aggiunse:
+"Soltanto che, come parecchi giudici da forca, immagino, egli aspettava
+pazientemente di impiccare l'uomo sbagliato."
+
+"E l'uomo giusto--" disse Paynter meccanicamente.  Treherne scrollò
+le spalle, sdraiandosi sulla panca da osteria, e giocherellò con
+il suo boccale vuoto.
 
 
 
@@ -4985,6 +5706,125 @@ and that his [[Death|death]] would be a good riddance for everybody.
 I only stop now to tell you that the other gentleman was Dr. Burton Brown,
 the medical man of this village.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IV.  LA CACCIA ALLA [[Truth|VERITÀ]]
+
+Qualche [[Time|tempo]] dopo l'inchiesta, che si era conclusa con il verdetto
+inconcludente che il signor Andrew Ashe aveva egli stesso predetto e ottenuto,
+Paynter sedeva di nuovo sulla panca fuori dalla locanda del villaggio,
+avendo sul piccolo tavolo davanti a sé un alto bicchiere di birra chiara,
+che gustava assai più come colore locale che come bevanda.
+Aveva un solo compagno sulla panca, e per giunta nuovo,
+poiché la piccola piazza del mercato era vuota a quell'ora, ed egli era stato di recente,
+per il resto, molto [[Alone|solo]].  Non era infelice, poiché somigliava
+al suo grande connazionale, Walt Whitman, nel portarsi appresso una sorta di universo
+come un ombrello aperto; ma non era soltanto [[Alone|solo]], era solitario.
+Poiché Ashe era partito bruscamente per [[London|Londra]], e dopo il suo ritorno era stato
+occupato oscuramente in faccende legali, che senza dubbio riguardavano il delitto.
+E Treherne aveva da tempo assunto apertamente la sua posizione,
+alla [[Great House|grande casa]], come marito della gran signora,
+e lui e lei erano occupati in radicali riforme sulla tenuta.
+La signora specialmente, essendo di quella specie i cui stessi [[Dreams|sogni]] "puntano
+alla pratica," faceva del giardinaggio paesaggistico con i gesti di una gigantessa.
+Era naturale, dunque, che uno spirito così socievole come Paynter
+attaccasse discorso con l'unico altro forestiero che si trovava per caso ad alloggiare
+alla locanda, evidentemente un uccello di passo come lui.  Quest'uomo,
+che fumava una pipa sulla panca accanto a lui, con lo zaino davanti a sé
+sul tavolo, era un [[artist|artista]] venuto a [[Sketch|disegnare]] su quella costa romantica;
+un uomo alto in giacca di velluto, con una zazzera di capelli color stoppa,
+una lunga barba bionda, ma occhi di un bruno scuro, il cui effetto
+di contrasto ricordava vagamente a Paynter, non sapeva bene perché, un russo.
+Il forestiero portava il suo zaino in molti angoli pittoreschi;
+ottenne il permesso di piantare il cavalletto in quell'alto [[Garden|giardino]]
+dove il defunto Squire aveva tenuto i suoi banchetti all'aperto.
+Ma Paynter non aveva mai avuto occasione di giudicare l'opera dell'[[artist|artista]],
+né trovava facile indurre l'[[artist|artista]] anche solo a parlare della sua arte.
+Cyprian stesso era sempre pronto a parlare di qualsiasi arte, e ne parlava
+in modo eccellente, ma con poco riscontro.  Diede le proprie
+ragioni per preferire i Cubisti al culto di Picasso,
+ma il suo nuovo amico sembrava avere solo un debole interesse per l'uno o per l'altro.
+Insinuò che forse i Neo-Primitivi stavano dopo tutto solo
+assottigliando la loro linea, mentre i veri Primitivi la stavano piuttosto irrigidendo;
+ma il forestiero sembrò accogliere l'insinuazione senza alcuna
+marcata reazione di sentimento.  Quando Paynter fu persino risalito così indietro
+nel passato fino ai Post-Impressionisti per trovare un terreno comune,
+e non l'ebbe trovato, altri ricordi cominciarono a insinuarsi di nuovo nella sua mente.
+Stava giusto riflettendo, piuttosto cupamente, che dopo tutto la storia
+degli alberi-pavone aveva bisogno di un misterioso forestiero per completarsi,
+e quest'uomo aveva molto l'aria di esserne uno, quando il misterioso
+forestiero stesso disse d'improvviso:
+
+"[[Well|Ebbene]], credo sia meglio che le mostri il lavoro che sto facendo quaggiù."
+
+Aveva lo zaino davanti a sé sul tavolo, e sorrise in modo piuttosto
+torvo mentre cominciava a slacciarlo.  Paynter osservava con cortesi
+espressioni d'interesse, ma rimase assai sorpreso quando l'[[artist|artista]]
+disimballò e depose sul tavolo, non un'opera d'arte riconoscibile,
+neppure della più cubista fattura, ma (primo) un fascicolo di carta protocollo
+fittamente vergato di note in inchiostro nero e rosso, e (secondo), con estremo
+stupore dell'americano, la vecchia ascia del taglialegna con l'involucro di lino,
+che egli stesso aveva trovato nel [[Well|pozzo]] tanto tempo prima.
+
+"Mi scusi se le ho fatto prendere un colpo, signore," disse il [[artist|artista]] russo,
+con un marcato accento di [[London|Londra]].  "Ma è meglio che le spieghi subito
+che sono un poliziotto."
+
+"Non ne ha l'aria," disse Paynter.
+
+"Non devo averla," rispose l'altro.  "Il signor Ashe mi ha portato
+quaggiù da Scotland Yard per indagare; ma mi ha detto di riferire
+a lei quando avessi qualcosa su cui basarmi.  Vuole entrare nel
+merito della questione adesso?
+
+"Quando ho assunto questa faccenda," spiegò il [[Detective|detective]], "l'ho fatto
+su richiesta del signor Ashe, e in gran parte, naturalmente, sulle linee del signor Ashe.
+Il signor Ashe è un grande penalista; con un cervello magnifico, signore,
+pieno come il Calendario di Newgate.  Ho preso, come ipotesi di lavoro,
+la sua tesi che soltanto voi cinque signori intorno al tavolo nel [[Garden|giardino]]
+dello Squire foste al corrente dei movimenti dello Squire.  Ma voi signori,
+se posso dir così, avete l'abitudine di dimenticare certe altre cose
+e certe altre persone che a noi è piuttosto insegnato a cercare per prime.
+E mentre seguivo le indagini del signor Ashe attraverso le fasi che lei
+già conosce, attraverso certi sospetti che non ho bisogno di discutere perché sono
+stati lasciati cadere, ho trovato che la cosa prendeva forma dopo tutto verso qualcosa,
+alla fine, che credo avremmo dovuto considerare fin dal principio.
+Ora, tanto per cominciare, non è vero che intorno al tavolo ci fossero cinque uomini.
+Erano sei."
+
+Le raccapriccianti condizioni di quella veglia nel [[Garden|giardino]] tornarono vagamente su Paynter;
+ed egli pensò a un [[Ghost|fantasma]], o a qualcosa di più innominabile di un [[Ghost|fantasma]].
+Ma il posato discorso del [[Detective|detective]] presto lo illuminò.
+
+"C'erano sei uomini e cinque signori, se vuole metterla così,"
+proseguì.  "Quel Miles, il maggiordomo, vide lo Squire svanire
+altrettanto chiaramente di lei; e presto scoprii che Miles era un uomo degno
+di parecchia attenzione."
+
+Una luce di comprensione albeggiò sul viso di Paynter.  "Così era questo,
+dunque!" mormorò.
+
+"Tutto il nostro mistero mitologico finisce con un poliziotto che acciuffa
+un maggiordomo?  [[Well|Ebbene]], concordo con lei che è ben lungi dall'essere un maggiordomo ordinario,
+persino a vederlo; e la colpa nell'[[Imagination|immaginazione]] è mia.
+Come molte colpe dell'[[Imagination|immaginazione]], era semplicemente snobismo."
+
+"Non andiamo così in fretta," osservò l'ufficiale,
+in modo impassibile.  "Ho solo detto che ho trovato l'indagine
+indirizzarsi verso Miles; e che era [[Well|ben]] degno di attenzione.
+Egli era assai più nella confidenza del vecchio Squire di quanto molte
+persone supponessero; e quando lo interrogai a fondo mi disse parecchie cose
+che valeva la pena di sapere.  Ho messo tutto per iscritto in queste note qui;
+ma per il momento la disturberò con un solo dettaglio.
+Una [[Night|notte]] questo maggiordomo si trovava proprio fuori dalla porta della sala da pranzo dello Squire,
+quando udì il rumore di un violento litigio.  Lo Squire era un
+signore violento, di [[Time|tanto]] in [[Time|tanto]]; ma la cosa curiosa di questa
+scena era che l'altro signore era il più violento dei due.
+Miles lo udì dire ripetutamente che lo Squire era una pubblica calamità,
+e che la sua [[Death|morte]] sarebbe stata una liberazione per tutti.
+Mi fermo solo ora a dirle che l'altro signore era il dottor Burton Brown,
+l'uomo di medicina di questo villaggio.
 
 
 

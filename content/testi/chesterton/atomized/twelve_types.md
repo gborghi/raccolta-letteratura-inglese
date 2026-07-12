@@ -7079,6 +7079,228 @@ benefit a man practically. Without understanding his case and his
 merits, we cannot even hurt him.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+il prossimo ignorando tutti i meriti particolari che gli danno modo
+
+di calpestarci. È diventato una scorrettezza d'etichetta lodare il
+
+nemico; mentre, quando il nemico è forte, ogni esploratore onesto dovrebbe
+
+lodare il nemico. È impossibile sconfiggere un esercito senza avere un
+
+resoconto completo della sua forza. È impossibile fare la satira di un uomo senza
+
+avere un resoconto completo delle sue virtù. È fin troppo costume, in
+
+politica, descrivere un avversario come del tutto disumano, del tutto
+
+incurante del suo paese, del tutto cinico: cosa che nessun uomo mai
+
+è stato dall'inizio del mondo. Questo genere d'invettiva può spesso
+
+avere un grande [[success|successo]] superficiale: può cogliere l'umore del momento;
+
+può suscitare eccitazione e applausi; può impressionare milioni. Ma c'è
+
+un uomo, fra tutti quei milioni, che essa non impressiona, che a
+
+malapena sfiora: ed è l'uomo contro cui è diretta. La
+
+sola persona per cui l'intera [[Satire|satira]] è stata scritta invano è l'uomo
+
+che è l'unico scopo dell'istituzione stessa della [[Satire|satira]] raggiungere. Egli
+
+sa che una simile descrizione di sé non è vera. Sa di non essere
+
+del tutto antipatriottico, né del tutto [[Self|egoista]], né del tutto barbaro
+
+e vendicativo. Sa di essere un uomo comune, e di poter
+
+contare tanti ricordi gentili, tanti istinti umani, tante ore
+
+di lavoro onesto e responsabilità quanto ogni altro uomo comune. Ma dietro
+
+tutto questo egli ha le sue debolezze vere, le vere ironie della sua [[Soul|anima]]:
+
+dietro tutti questi meriti comuni giacciono i meschini compromessi, i vili
+
+silenzi, le vanità imbronciate, le brutalità segrete, le indegne
+
+visioni di [[Revenge|vendetta]]. È a queste che la [[Satire|satira]] dovrebbe giungere, se vuole
+
+toccare l'uomo a cui mira. E per raggiungerle deve oltrepassare e
+
+salutare un intero esercito di virtù.
+
+Se ci volgiamo ai grandi satirici inglesi del Seicento e del
+
+Settecento, per esempio, scopriamo che avevano questa rozza ma
+
+salda presa sulla statura e la forza, sul valore e sui pregi migliori del
+
+loro avversario. Dryden, prima di fare a pezzi Achitofel, offre un
+
+splendido e vivace ritratto del valore folle e dell'astuzia ispirata
+
+dell'
+
+    'ardito pilota nell'estremità,'
+
+che era più infido nella bonaccia che nella [[Storm|tempesta]], e
+
+    'Sfiorò troppo gli scogli per vantare il suo ingegno.'
+
+Il tutto è, per quanto vale, una versione fondata e pittoresca del
+
+grande Shaftesbury. Potrebbe, per molti versi, servire da assai fondato e
+
+pittoresco ritratto di Lord Randolph Churchill. Ma qui entra assai
+
+puntualmente la differenza tra i nostri moderni tentativi di [[Satire|satira]] e
+
+l'antica sua realizzazione. Gli avversari di Lord Randolph Churchill,
+
+tanto liberali quanto conservatori, non lo satireggiarono nobilmente e onestamente,
+
+come uno di quei grandi ingegni imparentati con la [[Madness|follia]]. Lo rappresentarono
+
+come un mero cucciolo, uno sciocco e irriverente arrivista la cui impudenza suppliva
+
+alla mancanza di politica e carattere. Churchill aveva [[Grave|gravi]] e persino grossolani
+
+difetti, una certa rozzezza, una certa dura arroganza fanciullesca, una
+
+certa mancanza di magnanimità, una certa peculiare volgarità patrizia. Ma
+
+era un uomo assai più grande di quanto la [[Satire|satira]] lo dipingesse, e perciò la
+
+[[Satire|satira]] non poté e non riuscì a travolgerlo. Ed ecco la causa
+
+del fallimento della [[Satire|satira]] contemporanea: che non ha magnanimità, vale a
+
+dire, nessuna pazienza. Non sopporta che le si dica che il suo avversario
+
+ha i suoi punti di forza, così come il signor Chamberlain non sopportava che gli si
+
+dicesse che i Boeri avevano un esercito regolare. Non sa accontentarsi di nulla
+
+se non del persuadersi che il suo avversario è del tutto cattivo o del tutto
+
+stupido — cioè che è ciò che non è e ciò che nessun altro è. Se
+
+prendiamo un qualsiasi politico eminente del giorno — come, per esempio, Sir
+
+William Harcourt — troveremo che è questo il punto in cui ogni
+
+invettiva di partito fallisce. La [[Satire|satira]] tory a spese di Sir William
+
+Harcourt si sforza sempre disperatamente di rappresentarlo come
+
+inetto, come uno che si rende [[Fool|ridicolo]], come sgradevole e
+
+vergognoso e inaffidabile. Il difetto di tutto ciò è che tutti
+
+sappiamo che è falso. Ognuno sa che Sir William Harcourt non è
+
+inetto, ma è quasi il più abile parlamentare oggi vivente. Ognuno
+
+sa che non è sgradevole né vergognoso, ma un gentiluomo della
+
+vecchia scuola, in ottimi rapporti sociali con i suoi antagonisti.
+
+Ognuno sa che non è inaffidabile, ma un uomo d'inattaccabile
+
+[[Honour|onore]], di cui molto ci si fida. Soprattutto, lo sa lui stesso, ed è
+
+perciò colpito dalla [[Satire|satira]] esattamente come lo sarebbe ognuno di noi se
+
+fossimo accusati di essere neri o di tenere una bottega per la ricettazione di
+
+merce rubata. Potremmo adirarci per la calunnia, ma non per la [[Satire|satira]]; poiché
+
+un uomo si adira per una calunnia perché è falsa, ma per una [[Satire|satira]] perché
+
+è vera.
+
+Il signor Henley e i suoi giovani amano molto l'invettiva e la [[Satire|satira]]: se
+
+vogliono conoscere la ragione del loro fallimento in queste cose, non hanno che da
+
+volgersi all'esordio del superbo attacco di Pope contro Addison. L'idea
+
+henleyana di fare la satira di un uomo è esprimere un violento disprezzo
+
+per lui, e con l'ardore di questo persuadere gli altri e sé stesso che
+
+l'uomo è spregevole. Ricordo d'aver letto un attacco satirico contro il signor Gladstone
+
+da parte di uno dei giovani tory anarchici, che cominciava affermando che il signor
+
+Gladstone era un cattivo oratore. Se costoro volessero, come ho
+
+detto, andare tranquilli a leggere l''Attico' di Pope, vedrebbero come un grande
+
+satirico si avvicina a un grande nemico:
+
+    'Pace a tutti costoro! Ma se vi fosse un uomo i cui fuochi
+
+    vero genio accende, e bella fama ispira,
+
+    benedetto d'ogni talento, e d'ogni arte del piacere,
+
+    e nato per scrivere, conversare e vivere con agio.
+
+    Un uomo simile dovrebbe—'
+
+E poi segue il torrente di quella terribile critica. Pope non era
+
+tanto [[Fool|sciocco]] da cercare di far credere che Addison fosse uno [[Fool|sciocco]]. Sapeva che
+
+Addison non era uno [[Fool|sciocco]], e sapeva che Addison lo sapeva. Ma l'odio, nel
+
+caso di Pope, era divenuto così grande e, stavo quasi per dire, così
+
+puro, da illuminare ogni cosa, come l'[[Love|amore]] illumina ogni cosa. Egli
+
+disse cosa fosse davvero sbagliato in Addison; e con calmi, chiari ed
+
+eterni colori dipinse il quadro del male del temperamento
+
+letterario:
+
+    'Tollerare, come il Turco, nessun fratello presso il trono,
+
+    guardarlo con occhi sprezzanti, eppure gelosi,
+
+    e odiare per le arti che innalzarono lui stesso.
+
+           *       *       *       *       *
+
+    Come Catone dettare leggi al suo piccolo Senato,
+
+    e sedere attento al proprio applauso.
+
+    Mentre gli arguti e i templari esaltano ogni frase,
+
+    e si [[Wonder|meravigliano]] con sciocca faccia di lode.'
+
+Questo è il genere di cosa che davvero colpisce il segno a cui
+
+mira. È intriso di dolore e di una sorta di reverenza, ed è
+
+rivolto direttamente a un uomo. Non è un finto torneo per guadagnare
+
+l'applauso della folla. È un duello mortale sulla riva solitaria del mare.
+
+Nel materialismo politico corrente vige ovunque l'assunto
+
+che, senza capir nulla del suo caso o dei suoi meriti, possiamo
+
+giovare a un uomo in pratica. Senza capire il suo caso e i suoi
+
+meriti, non possiamo nemmeno fargli del male.
+
 
 
 <span class="atom-split" data-atom="story_05_francis--part_01" data-title="Twelve Types — FRANCIS (part 1)" data-chapter="Story 05 FRANCIS" data-kind="excerpt"></span>
@@ -7256,6 +7478,180 @@ out; nor does it fully bring out the character of Francis. It has rather
 
 the tone of a devotional book. A devotional book is an excellent thing,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+FRANCESCO
+
+L'ascetismo è cosa che, nella sua stessa [[Nature|natura]], tendiamo di questi tempi a
+
+fraintendere. L'ascetismo, in senso religioso, è il ripudio
+
+della gran massa delle gioie umane in nome della suprema gioiosità dell'
+
+unica gioia, la gioia religiosa. Ma l'ascetismo non è affatto limitato
+
+all'ascetismo religioso: c'è un ascetismo scientifico che afferma
+
+che la [[Truth|verità]] [[Alone|sola]] appaga: c'è un ascetismo estetico che
+
+afferma che l'arte [[Alone|sola]] appaga: c'è un ascetismo amoroso che
+
+afferma che l'[[Love|amore]] [[Alone|solo]] appaga. C'è persino un ascetismo epicureo,
+
+che afferma che birra e birilli [[Alone|soli]] appagano.
+
+Ovunque il modo di lodare qualcosa implichi l'affermazione che
+
+chi parla potrebbe vivere di quella cosa [[Alone|sola]], lì sta il germe e
+
+l'essenza dell'ascetismo. Quando William Morris, per esempio, dice che l'[[Love|amore]]
+
+'basta', è ovvio che con quelle parole afferma che l'arte,
+
+la scienza, la politica, l'[[Ambition|ambizione]], il denaro, le case, le carrozze, i concerti, i guanti,
+
+i bastoni da passeggio, i battenti, le stazioni ferroviarie, le cattedrali e qualsiasi
+
+altra cosa si voglia elencare sono superflui. Quando Omar
+
+Khayyam dice:
+
+    'Un libro di versi sotto il ramo,
+
+    una pagnotta, una brocca di vino e tu
+
+    seduta accanto a me nel deserto —
+
+    oh, il deserto sarebbe Paradiso abbastanza.'
+
+È chiaro che egli parla in tono tanto ascetico quanto
+
+estetico. Fa una lista di cose e dice che non vuole di più.
+
+Lo stesso fece un monaco medievale. Gli esempi potrebbero, certo,
+
+moltiplicarsi cento volte. Uno dei più genuinamente poetici dei nostri
+
+poeti più giovani dice, come l'unica cosa certa, che
+
+    'Dalla quieta [[Home|casa]] e dal primo inizio
+
+      verso i confini inesplorati —
+
+    nulla vale la fatica del conquistare
+
+      se non il riso e l'[[Love|amore]] degli amici.'
+
+Qui abbiamo un esempio perfetto del fatto principale e importante, che ogni vera
+
+gioia si esprime in termini di ascetismo.
+
+Ma se per caso dovesse accadere che una classe o una generazione perda
+
+il senso del particolare tipo di gioia che si sta celebrando,
+
+subito prende a chiamare chi gode di quella gioia tetro e
+
+[[Self|autodistruttivo]]. I più formidabili filosofi liberali hanno chiamato
+
+i [[Monks|monaci]] [[Melancholy|malinconici]] perché si negavano i piaceri della
+
+libertà e del [[Marriage|matrimonio]]. Potrebbero [[Well|altrettanto]] chiamare i gitanti d'un giorno di
+
+festa [[Melancholy|malinconici]] perché si negano, di regola, i
+
+piaceri del [[Silence|silenzio]] e della meditazione. Un esempio più semplice e forte è,
+
+tuttavia, a portata di mano. Se mai dovesse accadere che il sistema dell'atletica
+
+inglese svanisse dalle public school e dalle università, se
+
+la scienza fornisse qualche modo nuovo e non competitivo di perfezionare
+
+il fisico, se l'etica pubblica virasse verso un atteggiamento di assoluto
+
+disprezzo e indifferenza verso il sentimento chiamato sport, allora è
+
+facile vedere cosa accadrebbe. Gli storici futuri direbbero semplicemente
+
+che nei cupi giorni della [[Queen|regina]] Vittoria i giovani a [[Oxford]] e
+
+Cambridge erano sottoposti a una orribile specie di tortura religiosa. Era
+
+proibito loro, da fantastiche regole monastiche, concedersi vino o
+
+tabacco durante certi periodi di [[Time|tempo]] fissati arbitrariamente, prima di certe
+
+brutali contese e feste. I bigotti insistevano perché si alzassero a
+
+ore impossibili e corressero furiosamente attorno ai campi senza scopo. Molti
+
+uomini rovinarono la salute in quelle tane di superstizione, molti vi morirono.
+
+Tutto questo è perfettamente vero e inconfutabile. L'atletismo in Inghilterra è un
+
+ascetismo, tanto quanto le regole monastiche. Gli uomini si sono sforzati
+
+oltre misura e si sono uccisi con l'atletismo inglese. C'è
+
+una differenza e una sola: noi sentiamo l'[[Love|amore]] dello sport; non sentiamo
+
+l'[[Love|amore]] degli uffici religiosi. Vediamo solo il prezzo nell'un
+
+caso e solo l'acquisto nell'altro.
+
+L'unica domanda che resta è quale fosse la gioia degli antichi asceti
+
+cristiani, di cui il loro ascetismo era soltanto il prezzo d'acquisto. La
+
+mera possibilità della domanda è uno straordinario esempio del modo in
+
+cui manchiamo i punti principali della [[history|storia]] umana. Stiamo guardando
+
+l'umanità troppo da vicino, e vediamo solo i dettagli e non i vasti e
+
+dominanti lineamenti. Guardiamo il sorgere del [[Christianity|Cristianesimo]], e lo concepiamo
+
+come un sorgere di [[Self|abnegazione]] e quasi di pessimismo. Non ci
+
+viene in mente che la mera affermazione che questo universo furioso e sconcertante
+
+è governato da giustizia e [[Mercy|misericordia]] è un pezzo di sbalorditivo ottimismo atto
+
+a far saltellare tutti gli uomini. Il dettaglio per cui questi [[Monks|monaci]] impazzirono di
+
+gioia era l'universo stesso; l'unica cosa davvero degna di essere goduta.
+
+La bianca luce del giorno splendeva su tutto il mondo, le foreste sconfinate si ergevano
+
+nel loro ordine. Il [[Lightning|fulmine]] si destava e l'albero cadeva e il mare
+
+si raccoglieva in [[Mountains|montagne]] e la [[Ship|nave]] colava a picco, e tutti questi
+
+oggetti sconnessi e insensati e terribili erano tutti parte di una
+
+cupa e paurosa congiura di bontà, di uno spietato disegno di [[Mercy|misericordia]].
+
+Che questo disegno della [[Nature|Natura]] non fosse esatto o [[Well|ben]] fondato è perfettamente
+
+sostenibile, ma di certo non è sostenibile che non fosse ottimistico. Noi
+
+insistiamo, tuttavia, nel trattare questa faccenda a rovescio. Insistiamo che
+
+gli asceti fossero pessimisti perché rinunciarono a sessant'anni e
+
+dieci per un'[[Eternity|eternità]] di felicità. Dimentichiamo che la nuda proposizione
+
+di un'[[Eternity|eternità]] di felicità è per sua stessa [[Nature|natura]] diecimila volte
+
+più ottimistica di diecimila saturnali pagani.
+
+La vita di Francesco d'Assisi del signor Adderley non fa, certo, emergere
+
+questo; né fa emergere pienamente il carattere di Francesco. Ha piuttosto
+
+il tono di un libro devozionale. Un libro devozionale è cosa eccellente,
 
 
 
@@ -7447,6 +7843,192 @@ be found in it. If you had taken him to the loneliest star that the
 the features of a new friend.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+ma non vi cerchiamo il ritratto di un uomo, per la stessa ragione
+
+per cui non cerchiamo in un [[Sonnet|sonetto]] d'[[Love|amore]] il ritratto di una donna,
+
+perché gli uomini in tali condizioni di mente non solo attribuiscono tutte le virtù
+
+al loro idolo, ma tutte le virtù in eguali quantità. Non c'è contorno,
+
+perché l'[[artist|artista]] non sopporta di tracciare una linea nera. Questo bagliore di
+
+benedizione, questo conflitto tra luci, ha il suo posto nella poesia, non
+
+nella [[Biography|biografia]]. Gli esempi riusciti se ne trovano, per esempio,
+
+nelle odi più idealistiche di Spenser. Il disegno è a volte quasi
+
+indecifrabile, poiché il poeta disegna in argento sul bianco.
+
+È naturale, certo, che il signor Adderley veda Francesco anzitutto
+
+come il fondatore dell'Ordine francescano. Sospettiamo che questa fosse solo una,
+
+forse una minore, delle cose che egli fu; sospettiamo che una
+
+delle cose minori che [[Christ|Cristo]] fece fu fondare il [[Christianity|Cristianesimo]]. Ma la vasta
+
+opera pratica di Francesco non va di certo ignorata, poiché questo
+
+fanciullo sorprendentemente ultraterreno e quasi esasperantemente ingenuo fu uno
+
+degli uomini più costantemente vittoriosi che mai abbiano combattuto con questo
+
+amaro mondo. È costume dire che il segreto di tali uomini è
+
+la loro profonda fede in sé stessi, e questo è vero, ma non tutta la
+
+[[Truth|verità]]. Gli ospizi e i manicomi sono affollati di uomini che credono
+
+in sé stessi. Di Francesco è assai più vero dire che il segreto del suo
+
+[[success|successo]] fu la sua profonda fede negli altri, ed è la mancanza di
+
+questa che è stata comunemente la maledizione di questi oscuri Napoleoni.
+
+Francesco dava sempre per scontato che ognuno fosse ansioso quanto lui per il loro
+
+comune parente, il topo d'[[Water|acqua]], quanto lo era lui. Progettò una visita all'
+
+Imperatore per richiamarne l'attenzione sui bisogni delle 'sue sorelline
+
+allodole'. Soleva parlare a qualsiasi ladro e brigante incontrasse della loro
+
+sventura di non poter dare sfogo al loro [[Desire|desiderio]] di santità. Era
+
+un'[[Innocent|innocente]] abitudine, e senza dubbio i briganti spesso lo 'raggiravano',
+
+come si suol dire. Altrettanto spesso, tuttavia, scoprivano che li aveva
+
+'raggirati' lui, e scoprivano l'altro lato, il lato di una segreta
+
+nobiltà.
+
+Concependo San Francesco anzitutto come il fondatore dell'Ordine
+
+francescano, il signor Adderley apre la sua narrazione con un ammirevole [[Sketch|schizzo]] della
+
+[[history|storia]] del Monachesimo in Europa, che è certamente la cosa migliore del
+
+libro. Egli distingue con chiarezza ed equità tra l'ideale manicheo
+
+che sta alla base di tanto Monachesimo orientale e l'ideale di
+
+[[Self|autodisciplina]] che non svanì mai del tutto dalla forma cristiana. Ma
+
+non getta alcuna luce su quello che dev'essere per l'[[Outsider|estraneo]] il
+
+problema avvincente di questo ascetismo cattolico, per l'eccellente ragione
+
+che, non essendo un [[Outsider|estraneo]], non lo trova affatto un problema.
+
+Per la maggior parte della gente, tuttavia, c'è un'affascinante incoerenza nella
+
+posizione di San Francesco. Egli espresse, in un linguaggio più alto e audace di
+
+quello di ogni pensatore terreno, la concezione che il riso è divino quanto le [[Tears|lacrime]].
+
+Chiamava i suoi [[Monks|monaci]] i saltimbanchi di Dio. Non dimenticava mai di prender
+
+piacere in un uccello che gli sfrecciava accanto, o in una goccia d'[[Water|acqua]] che cadeva
+
+dal suo dito: fu, forse, il più felice dei figli degli uomini. Eppure
+
+quest'uomo fondò senza dubbio l'intero suo ordinamento sulla negazione di ciò che noi
+
+riteniamo le più imperiose necessità; nei suoi tre voti di [[Poverty|povertà]],
+
+castità e obbedienza, negò a sé stesso e a coloro che più amava
+
+la proprietà, l'[[Love|amore]] e la libertà. Perché mai gli spiriti più magnanimi e
+
+poetici di quell'età trovarono l'atmosfera loro più congeniale in
+
+queste tremende rinunce? Perché colui che amava là dove tutti gli uomini erano
+
+ciechi cercò di accecarsi là dove tutti gli uomini amavano? Perché fu monaco, e
+
+non trovatore? Queste domande sono di gran lunga troppo vaste per ricevere piena risposta
+
+qui, ma in una qualsiasi vita di Francesco avrebbero almeno dovuto essere poste;
+
+abbiamo il sospetto che, se ricevessero risposta, scopriremmo d'un tratto
+
+che anche molto dell'enigma di questo nostro cupo [[Time|tempo]] avrebbe risposta.
+
+Così fu con i [[Monks|monaci]]. I due grandi partiti nelle faccende umane sono
+
+soltanto il partito che vede la vita nera contro il bianco, e il partito che
+
+la vede bianca contro il nero, il partito che si macera e si annerisce
+
+col sacrificio perché lo sfondo è pieno del fulgore di una
+
+[[Mercy|misericordia]] universale, e il partito che si corona di [[Flowers|fiori]] e
+
+si illumina di torce nuziali perché si staglia contro una nera
+
+cortina di [[Night|notte]] incalcolabile. I gaudenti sono vecchi, e i [[Monks|monaci]] sono
+
+giovani. Furono i [[Monks|monaci]] gli scialacquatori della felicità, e noi
+
+ne siamo gli avari.
+
+Senza dubbio, come appare dal libro del signor Adderley, la limpida e
+
+tranquilla vita dei Tre Voti ebbe un effetto fine e delicato sul
+
+genio di Francesco. Egli fu anzitutto un poeta. La perfezione del suo
+
+istinto letterario si mostra nel chiamare il [[Fire|fuoco]] 'fratello', e l'
+
+[[Water|acqua]] 'sorella', nella bizzarra destrezza demagogica dell'appello, nel
+
+sermone ai pesci, 'che essi [[Alone|soli]] furono salvati nel Diluvio'. Nella
+
+sorprendentemente minuta e vivida drammatizzazione della vita, delle delusioni
+
+e delle scuse di qualsiasi arbusto o bestia a cui gli capitasse di rivolgersi,
+
+il suo genio ha una curiosa somiglianza con quello di Burns. Ma se evitò
+
+la debolezza dei versi di Burns agli [[Animals|animali]], l'occasionale morbosità,
+
+l'enfasi e il moraleggiare su sé stesso, il merito va di certo a una
+
+vita più pulita e più trasparente.
+
+L'atteggiamento generale di San Francesco, come quello del suo Maestro, incarnava una
+
+specie di terribile buon senso. La celebre battuta del Bruco in
+
+'Alice nel Paese delle Meraviglie' — 'Perché no?' — ci colpisce come il suo motto generale. Egli
+
+non vedeva perché non dovesse essere in buoni rapporti con tutte le cose. La
+
+pompa della guerra e dell'[[Ambition|ambizione]], il grande impero del Medioevo e tutti
+
+i suoi simili cominciano a sembrare pacchiani e traballanti, sotto la razionalità di
+
+quello sguardo [[Innocent|innocente]]. Le sue domande erano fulminanti e devastanti, come
+
+le domande di un [[Child|bambino]]. Non avrebbe avuto paura nemmeno degli
+
+incubi della cosmogonia, poiché non aveva [[Fear|paura]] in sé. Per lui il mondo era
+
+piccolo, non perché avesse qualche idea sulle sue dimensioni, ma per la ragione
+
+per cui le dame pettegole lo trovano piccolo, perché vi si trovavano tanti
+
+parenti. Se lo aveste condotto alla stella più solitaria che la
+
+[[Madness|follia]] di un astronomo possa concepire, egli vi avrebbe scorto soltanto
+
+i lineamenti di un nuovo amico.
+
 
 
 <span class="atom-split" data-atom="story_07_charles_ii--part_01" data-title="Twelve Types — CHARLES II (part 1)" data-chapter="Story 07 CHARLES II" data-kind="excerpt"></span>
@@ -7623,6 +8205,178 @@ also for the return of the virtue of politeness, for that also is a
 nameless thing ignored by logical codes. Politeness has indeed about it
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CARLO II
+
+Vi sono moltissimi legami che ancora ci connettono a Carlo II,
+
+uno degli uomini più oziosi di una delle epoche più oziose. Tra le altre cose
+
+Carlo II rappresentò una cosa assai rara e assai
+
+appagante: fu uno scettico vero e coerente. Lo scetticismo, tanto nei suoi
+
+vantaggi quanto negli svantaggi, è assai frainteso nel nostro [[Time|tempo]]. C'è
+
+in giro una curiosa idea, che lo scetticismo abbia qualche legame con
+
+teorie come il materialismo, l'ateismo e il laicismo. Questo è naturalmente un
+
+errore; il vero scettico non ha nulla a che fare con queste teorie, semplicemente
+
+perché sono teorie. Il vero scettico è tanto spiritualista quanto
+
+è materialista. Egli ritiene che il selvaggio che danza attorno a un idolo
+
+africano abbia esattamente le stesse probabilità di aver ragione di Darwin. Ritiene
+
+che il misticismo sia razionale in tutto e per tutto quanto il razionalismo. Ha in verità
+
+i più profondi dubbi sul fatto che San Matteo abbia scritto il proprio vangelo.
+
+Ma ha dubbi altrettanto profondi sul fatto che l'albero che sta
+
+guardando sia un albero e non un rinoceronte.
+
+Questo è il vero significato di quel mistero che appare così in evidenza nelle
+
+vite dei grandi scettici, che appare con speciale evidenza nella
+
+vita di Carlo II. Intendo la loro costante oscillazione tra
+
+l'ateismo e il cattolicesimo romano. Il cattolicesimo romano è, sì, un grande e
+
+fisso e formidabile sistema, ma lo è anche l'ateismo. L'ateismo è in verità il
+
+più ardito di tutti i dogmi, più ardito della visione di un palpabile giorno
+
+del giudizio. Poiché è l'affermazione di una negazione universale; per un uomo
+
+dire che non c'è Dio nell'universo è come dire che non ci
+
+sono [[Insects|insetti]] in nessuna delle [[Stars|stelle]].
+
+Così fu con quel salubre e sistematico scettico, Carlo II. Quando
+
+prese il Sacramento secondo i riti della Chiesa romana nella sua
+
+ultima ora, agiva coerentemente da filosofo. L'ostia poteva
+
+non essere Dio; allo stesso modo poteva non essere un'ostia. Per il genuino e
+
+poetico scettico il mondo intero è incredibile, con le sue bulbose
+
+[[Mountains|montagne]] e i suoi alberi fantastici. L'intero ordine delle cose è
+
+oltraggioso quanto qualsiasi miracolo che presumesse di violarlo.
+
+La transustanziazione poteva essere [[A Dream|un sogno]], ma se lo era, era di certo un
+
+sogno dentro [[A Dream|un sogno]]. Carlo II cercò di premunirsi dall'inferno e dal suo
+
+[[Fire|fuoco]] perché non riusciva a pensare l'inferno stesso più fantastico del
+
+mondo quale la scienza lo rivelava. Il prete salì furtivo per la scala,
+
+le porte furono chiuse, i pochi fedeli presenti si acquietarono
+
+rispettosamente, e così, con ogni circostanza di segretezza e
+
+santità, con la [[Cross|croce]] levata e le preghiere effuse, fu
+
+consumato l'ultimo grande atto di logica miscredenza.
+
+Il problema di Carlo II consiste in questo, che egli non ha quasi una
+
+sola virtù morale al suo attivo, eppure ci attrae moralmente. Sentiamo che
+
+alcune virtù sono state omesse negli elenchi compilati da tutti i
+
+santi e i saggi, e che Carlo II riuscì in modo preminente in
+
+queste selvagge e innominabili virtù. La vera [[Truth|verità]] di questa faccenda e
+
+il vero rapporto di Carlo II con l'ideale morale meritano uno studio alquanto
+
+più esauriente.
+
+È un luogo comune che il movimento della Restaurazione possa comprendersi solo
+
+se considerato come una reazione contro il [[Puritanism|Puritanesimo]]. Ma è
+
+insufficientemente compreso che la tirannia che frustrò a metà tutta la
+
+buona opera del [[Puritanism|Puritanesimo]] fu di specie assai peculiare. Non fu il [[Fire|fuoco]]
+
+del [[Puritanism|Puritanesimo]], l'esultanza nella sobrietà, la frenesia di una costrizione,
+
+a passare; quello arde ancora nel cuore dell'Inghilterra, per essere spento solo
+
+dal mare finale e travolgente. Ma di rado si ricorda che
+
+i Puritani furono ai loro giorni enfaticamente dei prepotenti intellettuali, che
+
+si affidavano tronfi alla necessità logica del calvinismo, che
+
+legavano l'onnipotenza stessa nelle [[Chains|catene]] del sillogismo. I Puritani
+
+caddero per il fatto dannoso che avevano una teoria completa della vita,
+
+per l'eterno [[Paradox|paradosso]] che una spiegazione soddisfacente non può mai
+
+soddisfare. Come [[Brutus|Bruto]] e i logici Romani, come i logici Giacobini
+
+francesi, come i logici utilitaristi inglesi, insegnarono la lezione
+
+che i bisogni degli uomini hanno sempre avuto ragione e i loro argomenti sempre
+
+torto. La ragione è sempre una specie di forza bruta; coloro che si appellano alla
+
+testa piuttosto che al cuore, per quanto pallidi e cortesi, sono necessariamente
+
+uomini di violenza. Parliamo di 'toccare' il cuore di un uomo, ma alla sua testa
+
+non possiamo far altro che colpirla. La tirannia dei Puritani sui
+
+corpi degli uomini fu, in confronto, un'inezia; picche, proiettili e
+
+conflagrazioni sono, in confronto, un'inezia. La loro vera tirannia fu la
+
+tirannia della ragione aggressiva sullo spirito umano intimidito e
+
+demoralizzato. Il loro rimuginare e delirare può essere perdonato, può in [[Truth|verità]] essere amato
+
+e riverito, poiché è l'umanità in [[Fire|fiamme]]; l'odio può essere gioviale,
+
+la [[Madness|follia]] può essere familiare. I Puritani caddero non perché fossero
+
+fanatici, ma perché erano razionalisti.
+
+Quando consideriamo queste cose, quando ricordiamo che il [[Puritanism|Puritanesimo]], che
+
+ai nostri giorni significa un atteggiamento morale e quasi temperamentale, significava in
+
+quel giorno un atteggiamento logico singolarmente arrogante, comprenderemo un
+
+poco meglio il granello di bene che stava nella volgarità e trivialità
+
+della Restaurazione. La Restaurazione, di cui Carlo II fu un
+
+tipo preminente, fu in parte una rivolta di tutte le parti caotiche e senza
+
+classe della [[Nature|natura]] umana, le parti che restano, e sempre resteranno,
+
+escluse da ogni sistema razionalistico di vita. Questo non spiega soltanto
+
+la rivolta dei vizi e di quella vuota temerarietà e
+
+buffoneria che a volte è più irritante di qualsiasi vizio. Spiega
+
+anche il ritorno della virtù della cortesia, poiché anche quella è una
+
+cosa senza nome, ignorata dai codici logici. La cortesia ha in verità in sé
+
 
 
 <span class="atom-split" data-atom="story_07_charles_ii--part_02" data-title="Twelve Types — CHARLES II (part 2)" data-chapter="Story 07 CHARLES II" data-kind="excerpt"></span>
@@ -7797,6 +8551,176 @@ which belongs to the great, that this admiring student of Stevenson can
 number and marshal all the master's work and distribute praise and blame
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+qualcosa di mistico; come la religione, è compresa ovunque e
+
+definita in nessun luogo. Carlo non è del tutto da disprezzare perché, come
+
+tipo di questo movimento, si lasciò galleggiare su questa nuova marea di
+
+cortesia. C'era un qualche valore morale e sociale nella sua perfezione nelle
+
+piccole cose. Non seppe osservare i Dieci Comandamenti, ma osservò i
+
+diecimila comandamenti. Il suo nome non è legato ad alcun grande atto
+
+di dovere o di sacrificio, ma è legato a moltissimi di quegli
+
+atti di magnanima cortesia, di una specie di drammatica delicatezza, che
+
+giacciono sull'oscuro confine tra la [[morality|moralità]] e l'arte. 'Carlo II', disse
+
+Thackeray, con infallibile brevità, 'era un mascalzone ma non uno snob'. A differenza
+
+di Giorgio IV era un gentiluomo, e un gentiluomo è un uomo che obbedisce a
+
+strani statuti, introvabili in qualsiasi manuale di morale, e pratica
+
+strane virtù senza nome dall'inizio del mondo.
+
+Tanto può dirsi e deve dirsi a favore della Restaurazione, che essa fu
+
+la rivolta di qualcosa di umano, foss'anche solo il detrito della [[Nature|natura]] umana. Ma
+
+di più non si può dire. Fu enfaticamente una caduta e non un'ascesa, un
+
+arretramento e non un avanzamento, un'improvvisa debolezza e non un'improvvisa forza.
+
+Che l'arco della [[Nature|natura]] umana fosse stato dal [[Puritanism|Puritanesimo]] teso incommensurabilmente troppo
+
+oltre, che avesse sforzato l'[[Soul|anima]] tendendola all'altezza di un
+
+idealismo quasi orribile, rende il crollo della Restaurazione
+
+infinitamente più scusabile, ma non lo rende affatto meno un
+
+crollo. Nulla può cancellare la distinzione essenziale, che il [[Puritanism|Puritanesimo]]
+
+fu uno dei grandi sforzi del mondo verso la scoperta del vero
+
+ordine, mentre fu l'essenza della Restaurazione il non comportare
+
+sforzo alcuno. È vero che la Restaurazione non fu, come si è
+
+largamente supposto, l'epoca più immorale della nostra [[history|storia]]. I suoi vizi non possono
+
+reggere il confronto, sotto questo riguardo, con le mostruose tragedie e
+
+le quasi soffocanti segretezze e scelleratezze della [[Court|corte]] di Giacomo I. Ma
+
+il tracannare liquori e lo sfregiare nasi dei saturnali di Carlo II
+
+sembrano a un tempo più umani e più detestabili delle passioni e dei
+
+veleni del [[Renaissance|Rinascimento]], press'a poco allo stesso modo in cui una scimmia appare
+
+inevitabilmente più umana e più detestabile di una tigre. In confronto
+
+al [[Renaissance|Rinascimento]], c'è qualcosa di plebeo londinese nella Restaurazione. Non
+
+solo fu troppo indolente per una grande [[morality|moralità]], fu troppo indolente persino
+
+per una grande arte. Le mancava quella serietà che serve persino al
+
+perseguimento del piacere, quella disciplina che è essenziale persino a una partita
+
+di tennis su prato. Sarebbe parso ai poeti di Carlo II altrettanto
+
+arduo scrivere il '[[Paradise Lost|Paradiso perduto]]' quanto riconquistare il Paradiso.
+
+Tutte le lingue antiche e vigorose abbondano di immagini e metafore, che,
+
+benché usate con leggerezza e casualità, sono in [[Truth|verità]] [[Poems|poesie]] in sé, e
+
+[[Poems|poesie]] di ordine alto e sorprendente. Forse nessuna frase è così terribilmente
+
+significativa quanto la frase 'ammazzare il [[Time|tempo]]'. È un'immagine tremenda e
+
+poetica, l'immagine di una specie di parricidio cosmico. C'è sulla
+
+terra una razza di gaudenti che, sotto tutta la loro esuberanza,
+
+considerano in fondo il [[Time|tempo]] un nemico. Di questi furono Carlo II e gli
+
+uomini della Restaurazione. Quali che fossero i loro meriti, e come
+
+abbiamo detto riteniamo che meriti ne avessero, non potranno mai avere un posto
+
+tra i grandi rappresentanti della gioia di vivere, poiché appartenevano
+
+a quei più bassi epicurei che ammazzano il [[Time|tempo]], in contrapposizione a quei più alti
+
+epicurei che fanno vivere il [[Time|tempo]].
+
+Di un popolo in tale disposizione Carlo II fu il naturale e legittimo
+
+capo. Sarà pure stato un [[King|re]] da pantomima, ma fu un [[King|re]], e con tutta
+
+la sua gioialità non lasciò che nessuno lo dimenticasse. Non fu, in verità, l'ozioso
+
+flâneur senza scopo che è stato rappresentato. Fu un politico paziente e
+
+astuto, che mascherò la sua saggezza sotto una così perfetta maschera di follia
+
+da ingannare non solo i suoi alleati e avversari, ma da aver ingannato
+
+quasi tutti gli storici che gli sono venuti dopo. Ma se Carlo fu,
+
+come enfaticamente fu, l'unico Stuart che davvero conseguì il dispotismo,
+
+ciò fu in gran parte dovuto all'indole della nazione e dell'età. Il dispotismo è
+
+il più facile di tutti i governi, per lo meno per i governati.
+
+È in verità una forma di [[Slavery|schiavitù]], ed è il despota a essere lo schiavo.
+
+Gli uomini in stato di decadenza assoldano professionisti che combattano per loro,
+
+professionisti che [[Dance|danzino]] per loro, e un professionista che li governi.
+
+Quasi tutti i volti nei ritratti di quel [[Time|tempo]] paiono, per così dire,
+
+maschere applicate artificialmente insieme alla parrucca. Una strana irrealtà
+
+aleggia sul periodo. Distratti come siamo da misteri e problemi civici,
+
+possiamo permetterci di rallegrarci. Le nostre [[Tears|lacrime]] sono meno desolate del
+
+loro riso, le nostre costrizioni sono più ampie della loro libertà.
+
+STEVENSON[A]
+
+Un recente episodio ci ha finalmente convinti che Stevenson era, come
+
+sospettavamo, un grande uomo. Sapevamo da libri recenti che abbiamo recensito,
+
+dal disprezzo di 'Ephemera Critica' e del signor George Moore, che Stevenson
+
+aveva la prima qualifica essenziale di un grande uomo: quella di essere
+
+frainteso dai suoi avversari. Ma dal libro che i signori Chatto &
+
+Windus hanno pubblicato, nella stessa rilegatura delle opere di Stevenson, 'Robert
+
+Louis Stevenson', del signor H. Bellyse Baildon, apprendiamo che egli
+
+possiede l'altra qualifica essenziale, quella di essere frainteso dai
+
+suoi ammiratori. Il signor Baildon ha molte cose interessanti da dirci su
+
+Stevenson stesso, che conobbe al college. Né le sue critiche sono in
+
+alcun modo prive di valore. Quella sulle pièce, specie 'Beau Austin', è
+
+notevolmente ponderata e vera. Ma è un fatto assai singolare, e vale
+
+molto, come diciamo, a provare che Stevenson aveva quella insondabile qualità
+
+che appartiene ai grandi, che questo ammirato studioso di Stevenson sa
+
+enumerare e ordinare tutta l'opera del maestro e distribuire lode e biasimo
+
 
 
 <span class="atom-split" data-atom="story_07_charles_ii--part_03" data-title="Twelve Types — CHARLES II (part 3)" data-chapter="Story 07 CHARLES II" data-kind="excerpt"></span>
@@ -7968,6 +8892,174 @@ versatility, not, as is loosely said, by not doing every department [[Well|well]
 
 enough, but by doing every department too [[Well|well]]. As [[Child|child]], cockney,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+con decisione e persino severità, senza mai pensare per un istante ai
+
+principi d'arte ed etica che ci sarebbero parsi proprio le cose
+
+che Stevenson quasi si uccise per esprimere.
+
+Il signor Baildon, per esempio, non fa che rimproverare a Stevenson il suo
+
+'pessimismo'; di certo una strana accusa contro l'uomo che ha fatto più
+
+di ogni [[artist|artista]] moderno per far vergognare gli uomini della loro vergogna della vita. Ma
+
+egli lamenta che, in 'The Master of Ballantrae' e 'Dr Jekyll e Mr
+
+Hyde', Stevenson conceda al male una vittoria finale sul bene. Ora, se c'era
+
+un punto che Stevenson più costantemente e appassionatamente sottolineò
+
+più d'ogni altro, era che dobbiamo adorare il bene per il suo proprio valore e
+
+la sua [[Beauty|bellezza]], senza alcun riferimento a vittoria o sconfitta nello spazio
+
+e nel [[Time|tempo]]. 'Qualunque cosa siamo destinati a fare', disse, 'non siamo
+
+destinati a riuscire.' Che le [[Stars|stelle]] nei loro corsi combattano contro
+
+la virtù, che l'umanità sia per sua [[Nature|natura]] una [[Hope|speranza]] perduta, questo fu proprio lo
+
+spirito che, per tutta l'opera di Stevenson, fece squillare una tromba per
+
+tutti i coraggiosi. La storia di Henry Durie è abbastanza cupa, ma potrebbe qualcuno
+
+stare accanto alla [[Grave|tomba]] di quel monomaniaco inzuppato e non rispettarlo? È
+
+strano che gli uomini vedano [[Sublime|sublime]] ispirazione nelle rovine di una
+
+vecchia chiesa e non ne vedano alcuna nelle rovine di un uomo.
+
+L'autore ha idee del tutto straordinarie sui racconti di [[Blood|sangue]] e di
+
+bottino di Stevenson; pare pensare che provino che Stevenson ebbe (per usare
+
+la frase stessa del signor Baildon) una specie di 'mania omicida'. 'Egli
+
+(Stevenson) approda press'a poco al [[Paradox|paradosso]] che ci si possa a malapena
+
+occupare meglio che nel togliere la vita.' Il signor Baildon potrebbe [[Well|altrettanto]] dire che
+
+il Dr Conan Doyle si diletti a commettere delitti inspiegabili, che il signor Clark
+
+Russell sia un notorio pirata, e che il signor Wilkie Collins pensasse che
+
+ci si potesse a malapena occupare meglio che nel rubare pietre di luna e
+
+falsificare registri di [[Marriage|matrimonio]]. Ma il signor Baildon non è certo [[Alone|solo]] in questo
+
+errore: pochi hanno compreso a dovere la truculenza di Stevenson.
+
+Stevenson era essenzialmente il robusto scolaro che disegna scheletri e
+
+forche sulla sua grammatica latina. Non che prendesse piacere nella [[Death|morte]],
+
+ma che prendeva piacere nella vita, in ogni azione muscolare ed enfatica
+
+della vita, anche se fosse un'azione che toglieva la vita a un altro.
+
+Supponiamo che un gentiluomo scagli un coltello contro un altro gentiluomo
+
+e lo inchiodi al muro. Non c'è quasi bisogno di osservare che vi
+
+sono in questa transazione due punti di vista personali alquanto diversi.
+
+Il punto di vista dell'uomo inchiodato è il punto di vista tragico e morale,
+
+e questo Stevenson mostrò chiaramente di comprenderlo in racconti
+
+come 'The Master of Ballantrae' e 'Weir of Hermiston'. Ma c'è
+
+un'altra veduta della faccenda — quella in cui l'intero atto è un'improvvisa
+
+e brillante esplosione di vitalità corporea, come spaccare una roccia con un
+
+colpo di martello, o superare d'un balzo un cancello a cinque traverse. Questo è il
+
+punto di vista del [[Romance|romanzesco]], ed è l'[[Soul|anima]] di 'Treasure Island' e di 'The
+
+Wrecker'. Non era, in verità, che Stevenson amasse meno gli uomini, ma che
+
+amasse di più i randelli e le pistole. Aveva, in [[Truth|verità]], nel divorante
+
+universalismo della sua [[Soul|anima]], un positivo [[Love|amore]] per gli oggetti inanimati quale
+
+non si conosceva da quando San Francesco chiamò il sole fratello e il [[Well|pozzo]]
+
+sorella. Sentiamo che egli era davvero [[Love|innamorato]] della stampella di legno
+
+che Silver scagliò sibilante nella luce del sole, della cassa che Billy Bones
+
+lasciò all''Admiral Benbow', del coltello che Wicks conficcò attraverso
+
+la propria mano e il tavolo. C'è sempre nella sua opera una certa
+
+netta angolosità che ci fa ricordare come amasse tagliare la
+
+legna con un'ascia.
+
+Il nuovo biografo di Stevenson, tuttavia, non sa fare alcuna concessione a questa
+
+radicata poesia della mera vista e del mero tatto. Non fa che imputare
+
+a Stevenson come colpa qualcosa che Stevenson in realtà professava come
+
+scopo. Dice di quel glorioso tripudio d'orrore, 'The Destroying Angel',
+
+in 'The Dynamiter', che è 'altamente fantastico e mette a dura prova
+
+la nostra credulità'. Il che è un po' come descrivere i viaggi del Barone
+
+di Münchhausen come 'poco convincenti'. L'intera storia di 'The Dynamiter' è una
+
+specie di [[nightmare|incubo]] umoristico, e persino in quella storia 'The Destroying
+
+Angel' è supposto essere una menzogna stravagante inventata lì per lì al
+
+momento. È [[A Dream|un sogno]] dentro [[A Dream|un sogno]], e accusarlo d'inverosimiglianza
+
+è come accusare il cielo di essere azzurro. Ma il signor Baildon, sia per
+
+lettura frettolosa sia per naturale differenza di gusto, non riesce minimamente a
+
+comprendere la ricca e romantica ironia dei racconti [[London|londinesi]] di Stevenson. Egli
+
+dice addirittura di quel portentoso monumento di [[Humour|umorismo]], il Principe [[Florizel]] di
+
+Boemia, che, 'benché evidentemente ammirato dal suo creatore, è per me nel
+
+complesso una presenza piuttosto irritante'. Da ciò siamo quasi spinti
+
+a credere (benché disperatamente e contro la nostra volontà) che il signor Baildon
+
+pensi che il Principe [[Florizel]] vada preso sul serio, come se fosse un
+
+uomo nella vita reale. Quanto a noi, il Principe [[Florizel]] è quasi il nostro personaggio
+
+prediletto nella narrativa; ma aggiungiamo volentieri la riserva che, se lo
+
+incontrassimo nella vita reale, lo uccideremmo.
+
+Il fatto è che l'intera massa delle virtù spirituali e
+
+intellettuali di Stevenson è stata in parte frustrata da una virtù
+
+in più — quella della destrezza artistica. Se avesse gessato il suo grande
+
+messaggio su un muro, come Walt Whitman, in lettere grandi e sparse,
+
+avrebbe fatto sussultare gli uomini come una bestemmia. Ma scrisse i suoi
+
+paradossi sventati in una grafia da bella copia così scorrevole che ognuno
+
+supponeva dovessero essere sentimenti da libro di bella copia. Soffrì della sua
+
+versatilità, non, come vagamente si dice, per non fare ogni cosa abbastanza [[Well|bene]]
+
+in ciascun campo, ma per far ogni cosa troppo [[Well|bene]] in ciascun campo. Come [[Child|bambino]], come londinese popolano,
 
 
 
@@ -10119,6 +11211,194 @@ the work.  You can easily comply with the terms of this agreement by
 keeping this work in the same format with its attached full Project
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+pensare.
+
+Dei difetti di Scott come [[artist|artista]] non è molto necessario parlare,
+
+poiché i difetti in genere si additano con facilità, mentre non esiste ancora
+
+un'adeguata valutazione delle varietà e dei contrasti della virtù. Abbiamo
+
+compilato una completa classificazione botanica delle erbacce nel
+
+[[Garden|giardino]] poetico, ma i [[Flowers|fiori]] fioriscono ancora trascurati e senza nome.
+
+È vero, per esempio, che Scott aveva un modo incomparabilmente rigido e
+
+pedante di trattare le sue eroine: faceva sì che una vivace ragazza di
+
+diciotto anni rifiutasse una proposta nel linguaggio del Dr Johnson. Per lui, come per
+
+la maggior parte degli uomini del suo [[Time|tempo]], la donna non era un individuo, ma un'
+
+istituzione: un brindisi che si levava qualche [[Time|tempo]] dopo quello alla Chiesa e al
+
+[[King|Re]]. Ma è assai meglio considerare la differenza piuttosto come un
+
+merito speciale, in quanto egli rappresentava tutti quei limpidi e tonificanti scossoni
+
+d'evento che restano intatti dalla passione o dalla debolezza, per una certa
+
+scapolaggine spensierata, quasi essenziale alla letteratura
+
+d'avventura. Con tutti i suoi difetti, e tutti i suoi trionfi, egli rappresenta la
+
+grande massa di virilità naturale che dev'essere assorbita nell'arte se non si vuole
+
+che l'arte sia un mero lusso e capriccio. Un apprezzamento di Scott potrebbe essere
+
+fatto quasi una prova di decadenza. Se mai perdessimo il contatto con questo
+
+scrittore tra i più temerari e difettosi, sarà per noi la prova che
+
+abbiamo eretto intorno a noi un falso cosmo, un mondo di menzognera e
+
+orribile perfezione, lasciandone fuori Walter Scott e quel
+
+strano vecchio mondo che è tanto confuso e tanto indifendibile e tanto
+
+ispiratore e tanto sano quanto lui.
+
+Fine dell'eBook Project Gutenberg di Dodici tipi, di G.K. Chesterton
+
+*** FINE DI QUESTO EBOOK PROJECT GUTENBERG DODICI TIPI ***
+
+***** Questo file dovrebbe chiamarsi 12491.txt o 12491.zip *****
+
+This and all associated files of various formats will be found in:
+
+        http://www.gutenberg.net/1/2/4/9/12491/
+
+Prodotto da Robert Shimmin, Stephen [[Hope]] e il Team Distribuito Online di
+
+Correzione Bozze.
+
+Updated editions will replace the previous one--the old editions
+
+will be renamed.
+
+Creating the works from public domain print editions means that no
+
+one owns a United States copyright in these works, so the Foundation
+
+(and you!) can copy and distribute it in the United States without
+
+permission and without paying copyright royalties.  Special rules,
+
+set forth in the General Terms of Use part of this license, apply to
+
+copying and distributing Project Gutenberg-tm electronic works to
+
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+
+Gutenberg is a registered trademark, and may not be used if you
+
+charge for the eBooks, unless you receive specific permission.  If you
+
+do not charge anything for copies of this eBook, complying with the
+
+rules is very easy.  You may use this eBook for nearly any purpose
+
+such as creation of derivative works, reports, performances and
+
+research.  They may be modified and printed and given away--you may do
+
+practically ANYTHING with public domain eBooks.  Redistribution is
+
+subject to the trademark license, especially commercial
+
+redistribution.
+
+*** INIZIO: LICENZA COMPLETA ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+
+distribution of electronic works, by using or distributing this work
+
+(or any other work associated in any way with the phrase "Project
+
+Gutenberg"), you agree to comply with all the terms of the Full Project
+
+Gutenberg-tm License (available with this file or online at
+
+http://gutenberg.net/license).
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+
+electronic work, you indicate that you have read, understand, agree to
+
+and accept all the terms of this license and intellectual property
+
+accordo (di marchio/copyright).  Se non acconsentite a rispettare tutti
+
+i termini del presente accordo, dovete cessare l'uso e restituire o distruggere
+
+tutte le copie delle opere elettroniche Project Gutenberg-tm in vostro possesso.
+
+Se avete pagato una tariffa per ottenere una copia di, o l'accesso a, un'opera
+
+elettronica Project Gutenberg-tm e non acconsentite a essere vincolati dai
+
+termini del presente accordo, potete ottenere il rimborso dalla persona o
+
+dall'ente al quale avete versato la tariffa, secondo quanto stabilito al paragrafo 1.E.8.
+
+1.B.  «Project Gutenberg» è un marchio registrato.  Può essere
+
+usato o associato in qualsiasi modo a un'opera elettronica soltanto da persone che
+
+acconsentono a essere vincolate dai termini del presente accordo.  Vi sono alcune
+
+cose che potete fare con la maggior parte delle opere elettroniche Project Gutenberg-tm
+
+anche senza attenervi ai termini integrali del presente accordo.  Si veda il
+
+paragrafo 1.C più sotto.  Vi sono molte cose che potete fare con le opere elettroniche
+
+Project Gutenberg-tm se seguite i termini del presente accordo
+
+e contribuite a preservare il libero accesso futuro alle opere elettroniche
+
+Project Gutenberg-tm.  Si veda il paragrafo 1.E più sotto.
+
+1.C.  La Project Gutenberg Literary Archive Foundation («la Fondazione»
+
+o PGLAF) detiene un copyright di raccolta sulla collezione di opere elettroniche
+
+Project Gutenberg-tm.  Quasi tutte le singole opere della
+
+collezione sono di pubblico dominio negli Stati Uniti.  Se una
+
+singola opera è di pubblico dominio negli Stati Uniti e voi vi
+
+trovate negli Stati Uniti, non rivendichiamo alcun diritto di impedirvi di
+
+copiare, distribuire, eseguire, esporre o creare opere derivate
+
+basate sull'opera, purché siano rimossi tutti i riferimenti a Project Gutenberg.
+
+Naturalmente, [[Hope|speriamo]] che vorrete sostenere la missione
+
+Project Gutenberg-tm di promuovere il libero accesso alle opere elettroniche
+
+condividendo liberamente le opere Project Gutenberg-tm nel rispetto dei termini del
+
+presente accordo, così da mantenere il nome Project Gutenberg-tm associato
+
+all'opera.  Potete facilmente attenervi ai termini del presente accordo
+
+conservando quest'opera nel medesimo formato con l'allegata Licenza integrale Project
+
 
 
 <span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_05" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 5)" data-chapter="Story 11 THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
@@ -10310,6 +11590,194 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gutenberg-tm quando la condividete gratuitamente con altri.
+
+1.D.  Anche le leggi sul copyright del luogo in cui vi trovate disciplinano
+
+ciò che potete fare con quest'opera.  Le leggi sul copyright della maggior parte dei paesi sono in
+
+un costante stato di mutamento.  Se vi trovate fuori dagli Stati Uniti, controllate
+
+le leggi del vostro paese oltre ai termini del presente accordo
+
+prima di scaricare, copiare, esporre, eseguire, distribuire o
+
+creare opere derivate basate su quest'opera o su qualsiasi altra opera Project
+
+Gutenberg-tm.  La Fondazione non rilascia alcuna dichiarazione riguardo
+
+allo stato di copyright di qualsivoglia opera in qualsivoglia paese fuori dagli Stati
+
+Uniti.
+
+1.E. A meno che non abbiate rimosso tutti i riferimenti a Project Gutenberg:
+
+1.E.1.  La seguente frase, con collegamenti attivi a, o altro accesso immediato
+
+a, la Licenza integrale Project Gutenberg-tm deve comparire in evidenza
+
+ogniqualvolta qualsiasi copia di un'opera Project Gutenberg-tm (qualsiasi opera su cui la
+
+locuzione «Project Gutenberg» compaia, o alla quale la locuzione «Project
+
+Gutenberg» sia associata) venga consultata, esposta, eseguita, visualizzata,
+
+copiata o distribuita:
+
+Questo eBook è destinato all'uso di chiunque, ovunque, senza alcun costo e con
+
+quasi nessuna restrizione di sorta.  Potete copiarlo, regalarlo o
+
+riutilizzarlo secondo i termini della Licenza Project Gutenberg inclusa
+
+con questo eBook o online all'indirizzo www.gutenberg.net
+
+1.E.2.  Se una singola opera elettronica Project Gutenberg-tm deriva
+
+dal pubblico dominio (non contiene un avviso che indichi che essa è
+
+pubblicata con il permesso del titolare del copyright), l'opera può essere copiata
+
+e distribuita a chiunque negli Stati Uniti senza pagare alcuna tariffa
+
+o onere.  Se ridistribuite o fornite l'accesso a un'opera
+
+alla quale sia associata, o sulla quale compaia, la locuzione «Project Gutenberg»,
+
+dovete attenervi o ai requisiti dei paragrafi da 1.E.1
+
+a 1.E.7 oppure ottenere il permesso per l'uso dell'opera e del
+
+marchio Project Gutenberg-tm secondo quanto stabilito ai paragrafi 1.E.8 o
+
+1.E.9.
+
+1.E.3.  Se una singola opera elettronica Project Gutenberg-tm è pubblicata
+
+con il permesso del titolare del copyright, il vostro uso e la vostra distribuzione
+
+devono attenersi sia ai paragrafi da 1.E.1 a 1.E.7 sia a qualsiasi ulteriore
+
+termine imposto dal titolare del copyright.  I termini aggiuntivi saranno collegati
+
+alla Licenza Project Gutenberg-tm per tutte le opere pubblicate con il
+
+permesso del titolare del copyright, reperibile all'inizio di quest'opera.
+
+1.E.4.  Non scollegate né staccate né rimuovete i termini integrali della Licenza
+
+Project Gutenberg-tm da quest'opera, o da qualsiasi file contenente una parte di quest'
+
+opera o qualsiasi altra opera associata a Project Gutenberg-tm.
+
+1.E.5.  Non copiate, esponete, eseguite, distribuite o ridistribuite questa
+
+opera elettronica, o qualsiasi parte di questa opera elettronica, senza
+
+esporre in evidenza la frase stabilita al paragrafo 1.E.1 con
+
+collegamenti attivi o accesso immediato ai termini integrali della Licenza
+
+Project Gutenberg-tm.
+
+1.E.6.  Potete [[convert|convertire]] e distribuire quest'opera in qualsiasi forma binaria,
+
+compressa, marcata, non proprietaria o proprietaria, ivi compresa qualsiasi
+
+forma di elaborazione di testo o di ipertesto.  Tuttavia, se fornite l'accesso a, o
+
+distribuite copie di, un'opera Project Gutenberg-tm in un formato diverso dal
+
+«Plain Vanilla ASCII» o da altro formato usato nella versione ufficiale
+
+pubblicata sul sito web ufficiale Project Gutenberg-tm (www.gutenberg.net),
+
+dovete, senza costo, tariffa o spesa aggiuntivi per l'utente, fornire una
+
+copia, un mezzo per esportare una copia, o un mezzo per ottenere una copia su
+
+richiesta, dell'opera nel suo originale «Plain Vanilla ASCII» o altra
+
+forma.  Qualsiasi formato alternativo deve includere la Licenza integrale Project Gutenberg-tm
+
+come specificato al paragrafo 1.E.1.
+
+1.E.7.  Non applicate una tariffa per l'accesso a, la visualizzazione, l'esposizione,
+
+l'esecuzione, la copia o la distribuzione di qualsiasi opera Project Gutenberg-tm
+
+a meno che non vi atteniate al paragrafo 1.E.8 o 1.E.9.
+
+1.E.8.  Potete applicare una tariffa ragionevole per le copie di, o per la fornitura di
+
+l'accesso a o distribuire le opere elettroniche Project Gutenberg-tm a condizione  
+
+che  
+
+- Paghiate una tassa di diritti d'autore pari al 20% dei profitti lordi che ricavate
+
+     dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
+
+     che già usate per calcolare le vostre imposte applicabili.  La tassa è  
+
+     dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
+
+     ha acconsentito a donare i diritti previsti da questo paragrafo alla  
+
+     Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
+
+     devono essere versati entro 60 giorni successivi a ciascuna data in cui  
+
+     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
+
+     fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
+
+     inviati alla Project Gutenberg Literary Archive Foundation all'  
+
+     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
+
+     Project Gutenberg Literary Archive Foundation.»  
+
+- Forniate un rimborso completo di ogni somma pagata da un utente che vi notifichi
+
+     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
+
+     non accetta i termini della completa  
+
+     Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
+
+     distrugga tutte le copie delle opere possedute su supporto fisico  
+
+     e cessi ogni uso di e ogni accesso ad altre copie delle  
+
+     opere Project Gutenberg-tm.  
+
+- Forniate, in conformità al paragrafo 1.F.3, un rimborso completo di ogni
+
+     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
+
+     opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
+
+     dal ricevimento dell'opera.  
+
+- Rispettiate tutti gli altri termini di questo accordo per la libera
+
+     distribuzione delle opere Project Gutenberg-tm.  
+
+1.E.9.  Se desiderate far pagare una tassa o distribuire un'opera elettronica  
+
+Project Gutenberg-tm o un gruppo di opere a termini diversi da quelli  
+
+esposti in questo accordo, dovete ottenere il permesso per iscritto da  
+
+sia la Project Gutenberg Literary Archive Foundation sia [[Michael]]  
+
+Hart, il titolare del marchio Project Gutenberg-tm.  Contattate la  
+
+Fondazione come esposto nella Sezione 3 più sotto.
 
 
 
@@ -10509,6 +11977,200 @@ Literary Archive Foundation
 Project Gutenberg-tm depends upon and cannot survive without wide
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+1.F.
+
+1.F.1.  I volontari e i dipendenti di Project Gutenberg dedicano considerevole  
+
+impegno a identificare, svolgere ricerche sul copyright, trascrivere e correggere  
+
+le opere di pubblico dominio nel creare la raccolta  
+
+Project Gutenberg-tm.  Nonostante questi sforzi, le opere elettroniche  
+
+Project Gutenberg-tm, e il supporto su cui possono essere archiviate, possono contenere  
+
+«Difetti», quali, ma non solo, dati incompleti, inesatti o  
+
+corrotti, errori di trascrizione, una violazione di copyright o altra proprietà  
+
+intellettuale, un disco o altro supporto difettoso o danneggiato, un  
+
+virus informatico, o codici informatici che danneggiano o non possono essere letti dalla  
+
+vostra apparecchiatura.  
+
+1.F.2.  GARANZIA LIMITATA, ESCLUSIONE DI DANNI - Salvo il «Diritto  
+
+di Sostituzione o Rimborso» descritto nel paragrafo 1.F.3, la Project  
+
+Gutenberg Literary Archive Foundation, il titolare del marchio Project  
+
+Gutenberg-tm, e qualsiasi altra parte che distribuisca un'opera elettronica  
+
+Project Gutenberg-tm secondo questo accordo, declinano ogni  
+
+responsabilità verso di voi per danni, costi e spese, comprese le spese  
+
+legali.  ACCETTATE DI NON AVERE ALCUN RIMEDIO PER NEGLIGENZA, RESPONSABILITÀ  
+
+OGGETTIVA, VIOLAZIONE DI GARANZIA O INADEMPIMENTO CONTRATTUALE SALVO QUELLI  
+
+PREVISTI NEL PARAGRAFO F3.  ACCETTATE CHE LA FONDAZIONE, IL  
+
+TITOLARE DEL MARCHIO, E QUALSIASI DISTRIBUTORE SECONDO QUESTO ACCORDO NON SARANNO  
+
+RESPONSABILI VERSO DI VOI PER DANNI EFFETTIVI, DIRETTI, INDIRETTI, CONSEQUENZIALI, PUNITIVI O  
+
+INCIDENTALI ANCHE SE AVVISATE DELLA POSSIBILITÀ DI TALE  
+
+DANNO.  
+
+1.F.3.  DIRITTO LIMITATO DI SOSTITUZIONE O RIMBORSO - Se scoprite un  
+
+difetto in quest'opera elettronica entro 90 giorni dal riceverla, potete  
+
+ricevere un rimborso della somma (se pagata) versata per essa inviando una  
+
+spiegazione scritta alla persona da cui avete ricevuto l'opera.  Se  
+
+avete ricevuto l'opera su supporto fisico, dovete restituire il supporto con  
+
+la vostra spiegazione scritta.  La persona o entità che vi ha fornito  
+
+l'opera difettosa può scegliere di fornire una copia sostitutiva in luogo d'un  
+
+rimborso.  Se avete ricevuto l'opera per via elettronica, la persona o entità  
+
+che ve la fornisce può scegliere di darvi una seconda opportunità di  
+
+ricevere l'opera per via elettronica in luogo d'un rimborso.  Se anche la seconda copia  
+
+è difettosa, potete esigere un rimborso per iscritto senza ulteriori  
+
+opportunità di risolvere il problema.  
+
+1.F.4.  Salvo il diritto limitato di sostituzione o rimborso esposto  
+
+al paragrafo 1.F.3, quest'opera vi è fornita 'COSÌ COM'È', SENZA ALCUN'ALTRA
+
+GARANZIA DI ALCUN GENERE, ESPRESSA O IMPLICITA, COMPRESE MA NON SOLO LE  
+
+GARANZIE DI COMMERCIABILITÀ O IDONEITÀ A QUALSIASI SCOPO.  
+
+1.F.5.  Alcuni stati non consentono l'esclusione di certe garanzie  
+
+implicite o l'esclusione o limitazione di certi tipi di danni.  
+
+Se una qualsiasi esclusione o limitazione esposta in questo accordo viola la  
+
+legge dello stato applicabile a questo accordo, l'accordo sarà  
+
+interpretato in modo da attuare la massima esclusione o limitazione consentita dalla  
+
+legge statale applicabile.  L'invalidità o l'inapplicabilità di una qualsiasi  
+
+disposizione di questo accordo non annullerà le restanti disposizioni.  
+
+1.F.6.  MANLEVA - Accettate di indennizzare e tenere indenni la Fondazione, il  
+
+titolare del marchio, qualsiasi agente o dipendente della Fondazione, chiunque  
+
+fornisca copie delle opere elettroniche Project Gutenberg-tm in conformità  
+
+a questo accordo, e qualsiasi volontario associato alla produzione,  
+
+promozione e distribuzione delle opere elettroniche Project Gutenberg-tm,  
+
+da ogni responsabilità, costo e spesa, comprese le spese legali,  
+
+che sorgano direttamente o indirettamente da una qualsiasi delle seguenti cose che voi fate  
+
+o causate: (a) distribuzione di questa o di qualsiasi opera Project Gutenberg-tm  
+
+opera, (b) alterazione, modifica, o aggiunte o cancellazioni a qualsiasi  
+
+opera Project Gutenberg-tm, e (c) qualsiasi Difetto che causate.  
+
+Sezione 2. Informazioni sulla Missione del Project Gutenberg-tm
+
+Project Gutenberg-tm è sinonimo di libera distribuzione di  
+
+opere elettroniche in formati leggibili dalla più ampia varietà di computer  
+
+compresi i computer obsoleti, vecchi, di mezza età e nuovi. Esiste
+
+grazie all'impegno di centinaia di volontari e alle donazioni di
+
+persone di ogni ceto sociale.
+
+I volontari e il sostegno finanziario necessario a fornire ai volontari
+
+l'assistenza di cui hanno bisogno sono essenziali per il raggiungimento
+
+degli obiettivi di Project Gutenberg-tm e per garantire che la raccolta
+
+di Project Gutenberg-tm resti liberamente disponibile per le generazioni a venire. Nel 2001 fu costituita la Project
+
+Gutenberg Literary Archive Foundation al fine di assicurare un futuro sicuro
+
+e duraturo a Project Gutenberg-tm e alle generazioni future.
+
+Per saperne di più sulla Project Gutenberg Literary Archive Foundation
+
+e su come il vostro impegno e le vostre donazioni possano essere d'aiuto, si vedano le Sezioni 3 e 4
+
+e la pagina web della Fondazione all'indirizzo http://www.pglaf.org.
+
+Sezione 3. Informazioni sulla Project Gutenberg Literary Archive
+
+Foundation
+
+La Project Gutenberg Literary Archive Foundation è una società senza scopo di lucro
+
+di tipo 501(c)(3), a carattere educativo, costituita secondo le leggi dello
+
+stato del Mississippi e riconosciuta esente da imposte dall'Internal
+
+Revenue Service. Il numero EIN, ossia il codice fiscale federale della Fondazione,
+
+è 64-6221541. La sua lettera 501(c)(3) è pubblicata all'indirizzo
+
+http://pglaf.org/fundraising. Le contribuzioni alla Project Gutenberg
+
+Literary Archive Foundation sono deducibili dalle imposte nella misura massima
+
+consentita dalle leggi federali statunitensi e dalle leggi del vostro stato.
+
+La sede principale della Fondazione si trova al 4557 Melan Dr. S.
+
+Fairbanks, AK, 99712., ma i suoi volontari e dipendenti sono sparsi
+
+in numerose località. I suoi uffici amministrativi si trovano al
+
+809 North 1500 West, Salt Lake [[City|City]], UT 84116, (801) 596-1887, email
+
+business@pglaf.org. I collegamenti per il contatto via email e le informazioni di contatto
+
+aggiornate si possono trovare sul sito web della Fondazione e sulla sua pagina
+
+ufficiale all'indirizzo http://pglaf.org
+
+Per ulteriori informazioni di contatto:
+
+     Dr. Gregory B. Newby
+
+     Chief Executive and Director
+
+     gbnewby@pglaf.org
+
+Sezione 4. Informazioni sulle Donazioni alla Project Gutenberg
+
+Literary Archive Foundation
+
+Project Gutenberg-tm dipende da un ampio sostegno pubblico e dalle donazioni,
+
 
 
 <span class="atom-split" data-atom="story_11_the_position_of_sir_walter_scott--part_07" data-title="Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 7)" data-chapter="Story 11 THE POSITION OF SIR WALTER SCOTT" data-kind="excerpt"></span>
@@ -10697,9 +12359,9 @@ Vi preghiamo di consultare le pagine web di Project Gutenberg per conoscere gli 
 
 metodi e indirizzi per le donazioni. Le donazioni sono accettate in svariati altri
 
-modi, inclusi assegni, pagamenti online e donazioni con carta
+modi inclusi assegni, pagamenti online e donazioni con carta di
 
-di credito. Per donare, visitare: http://pglaf.org/donate
+credito.  Per donare, visitate: http://pglaf.org/donate
 
 Sezione 5. Informazioni Generali sulle opere elettroniche di Project
 
@@ -10721,19 +12383,19 @@ a meno che non sia incluso un avviso di copyright. Pertanto, non necessariamente
 
 manteniamo gli eBook conformi a una particolare edizione cartacea.
 
-Ogni eBook si trova in una sottodirectory che porta lo stesso numero del suo
+Ogni eBook si trova in una sottodirectory dello stesso numero del
 
-numero di eBook, spesso in vari formati, inclusi ASCII puro e semplice,
+numero dell'eBook, spesso in vari formati inclusi plain vanilla ASCII,
 
-compresso (zip), HTML e altri.
+compresso (zippato), HTML e altri.
 
 Le EDIZIONI corrette dei nostri eBook sostituiscono il vecchio file e ne assumono
 
-il vecchio nome e numero etext. Il vecchio file sostituito viene rinominato.
+il vecchio nome di file e il numero etext.  Il vecchio file sostituito viene rinominato.
 
-Le VERSIONI basate su fonti separate sono trattate come nuovi eBook e ricevono
+Le VERSIONI basate su fonti separate sono trattate come nuovi eBook che ricevono
 
-nuovi nomi di file e numeri etext.
+nuovi nomi di file e nuovi numeri etext.
 
 La maggior parte delle persone comincia dal nostro sito web, che ha la principale funzione di ricerca PG:
 
@@ -10749,11 +12411,11 @@ abbonarsi alla nostra newsletter via email per essere informati sui nuovi eBook.
 
 Gli eBook pubblicati prima del novembre 2003, con numeri di eBook INFERIORI a #10000,
 
-sono archiviati in directory basate sulla loro data di rilascio. Se si vuole
+sono archiviati in directory basate sulla loro data di pubblicazione.  Se volete
 
-scaricare direttamente uno di questi eBook, anziché usare il consueto
+scaricare uno qualsiasi di questi eBook direttamente, invece di usare il consueto
 
-sistema di ricerca, si possono utilizzare i seguenti indirizzi e semplicemente
+sistema di ricerca potete utilizzare i seguenti indirizzi e semplicemente
 
 scaricare per anno etext. Per esempio:
 
@@ -10763,21 +12425,21 @@ scaricare per anno etext. Per esempio:
 
      98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
 
-Gli eBook pubblicati dal novembre 2003 in poi, con numeri etext SUPERIORI a #10000, sono
+Gli eBook pubblicati dal novembre 2003, con numeri etext SUPERIORI a #10000, sono
 
-archiviati in modo diverso. L'anno della data di rilascio non fa più parte
+archiviati in modo diverso.  L'anno di una data di pubblicazione non fa più parte
 
-del percorso della directory. Il percorso si basa sul numero etext (che è
+del percorso della directory.  Il percorso è basato sul numero etext (che è
 
-identico al nome del file). Il percorso del file è composto dalle singole
+identico al nome del file).  Il percorso del file è composto da singole
 
-cifre corrispondenti a tutte tranne l'ultima cifra del nome del file. Per
+cifre corrispondenti a tutte tranne l'ultima cifra del nome del file.  Per
 
-esempio, un eBook con nome di file 10234 si troverebbe in:
+esempio un eBook con nome di file 10234 si troverebbe in:
 
      http://www.gutenberg.net/1/0/2/3/10234
 
-oppure il nome di file 24689 si troverebbe in:
+o il nome di file 24689 si troverebbe in:
 
      http://www.gutenberg.net/2/4/6/8/24689
 

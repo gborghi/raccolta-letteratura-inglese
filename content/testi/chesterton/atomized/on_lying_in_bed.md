@@ -228,6 +228,92 @@ early in the morning.  It is upon the whole part of practical wisdom;
 but there is nothing good about it or bad about its opposite.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Sullo starsene a letto
+
+Sullo starsene a letto
+
+Starsene a letto sarebbe un'esperienza del tutto perfetta e suprema
+se solo si avesse una matita colorata abbastanza lunga da disegnare sul soffitto.
+Questo, però, non fa in genere parte del
+corredo domestico presente in casa.  Ritengo io stesso che la cosa
+si potrebbe gestire con qualche secchio di Aspinall e una scopa.
+Solo che, se si lavorasse in modo davvero ampio e magistrale, e si stendesse
+il colore a grandi campiture, esso potrebbe ricolare giù sul proprio volto
+in fiotti di ricco e commisto colore come una strana pioggia fatata;
+e ciò avrebbe i suoi svantaggi.  Temo che sarebbe necessario
+attenersi al bianco e nero in questa forma di composizione artistica.
+A tale scopo, in verità, il soffitto bianco sarebbe della maggiore
+utilità possibile; anzi, è l'unico uso a cui io pensi che un soffitto bianco
+possa essere destinato.
+
+Se non fosse per il bell'esperimento dello starsene a letto, non l'avrei forse mai
+scoperto.  Da anni andavo cercando qualche spazio bianco
+in una [[house|casa]] moderna su cui disegnare.  La carta è troppo piccola per un disegno
+davvero allegorico; come dice Cyrano de Bergerac, "Il me faut des géants."
+Ma quando cercai di trovare questi begli spazi limpidi nelle stanze
+moderne quali sono quelle in cui tutti viviamo, restai di continuo deluso.
+Trovai un interminabile motivo e un'intricata complicazione di piccoli oggetti
+appesi come una tenda di sottili maglie fra me e il mio [[Desire|desiderio]].
+Esaminai le pareti; le trovai con mia sorpresa già coperte
+di carta da parati, e trovai la carta da parati già coperta
+di immagini prive d'interesse, tutte recanti una ridicola somiglianza l'una con l'altra.
+Non riuscivo a capire perché un simbolo arbitrario (un simbolo apparentemente
+del tutto privo di qualsiasi significato religioso o filosofico)
+dovesse così essere spruzzato su tutte le mie belle pareti come una sorta
+di vaiolo.  La [[Bible|Bibbia]] deve alludere alle carte da parati, credo,
+quando dice: "Non usate vane ripetizioni, come fanno i pagani."
+Trovai il tappeto di Turchia una massa di colori senza senso, piuttosto come
+l'Impero Turco, o come quel dolciume chiamato Delizia Turca.
+Non so esattamente che cosa sia in realtà la Delizia Turca; ma suppongo
+sia Massacri Macedoni.  Ovunque andassi sconsolato,
+con la mia matita o il mio pennello, trovavo che altri mi avevano
+inspiegabilmente preceduto, guastando le pareti, le tende
+e i mobili coi loro disegni infantili e barbari.
+
+In nessun luogo trovai uno spazio davvero limpido per schizzare finché in questa occasione
+prolungai oltre il debito limite il processo dello starmene disteso supino
+a letto.  Allora la luce di quel bianco cielo irruppe sulla mia vista,
+quell'ampiezza di puro bianco che è in verità quasi la definizione
+del Paradiso, poiché significa purezza e significa anche [[Freedom|libertà]].
+Ma ahimè!  Come tutti i cieli, ora che è visto lo si trova
+[[Unattainable|irraggiungibile]]; appare più austero e più distante
+del cielo azzurro fuori dalla [[Window|finestra]].  Poiché la mia proposta di dipingervi
+con l'estremità setolosa di una scopa è stata scoraggiata—non
+importa da chi; da una persona esclusa da ogni diritto politico—
+e persino la mia minore proposta di mettere l'altra estremità della scopa nel
+[[Fire|fuoco]] della cucina e ridurla a carbone non è stata concessa.
+Eppure sono certo che fu da persone nella mia posizione che venne tutta
+l'ispirazione originale per ricoprire i soffitti dei palazzi
+e delle cattedrali con un tripudio di angeli caduti o dèi vittoriosi.
+Sono sicuro che fu soltanto perché Michelangelo era intento
+all'antica e onorevole occupazione dello starsene a letto che egli mai
+si rese conto di come il soffitto della Cappella Sistina potesse essere fatto
+in una tremenda [[Imitation|imitazione]] di un dramma divino che poteva essere recitato
+soltanto nei cieli.
+
+Il tono comunemente assunto oggi verso la pratica dello starsene a letto
+è ipocrita e malsano.  Fra tutti i segni della modernità
+che paiono significare una sorta di decadenza, non ve n'è alcuno più minaccioso
+e pericoloso dell'esaltazione di questioni di condotta molto piccole e secondarie
+a spese di quelle molto grandi e primarie,
+a spese dei legami eterni e della tragica [[morality|moralità]] umana.
+Se c'è una cosa peggiore del moderno indebolimento delle morali maggiori,
+è il moderno rafforzamento delle morali minori.  Così si considera
+più annientante accusare un uomo di cattivo gusto che di cattiva etica.
+La pulizia non è più vicina alla santità di questi tempi, poiché la pulizia
+è resa essenziale e la santità è ritenuta un'offesa.
+Un drammaturgo può attaccare l'istituzione del [[Marriage|matrimonio]] purché non
+travisi i costumi della società, e ho incontrato pessimisti ibseniani
+che ritenevano sbagliato prendere birra ma giusto prendere acido prussico.
+Ciò vale specialmente in materia d'igiene; segnatamente questioni
+come lo starsene a letto.  Invece di essere considerato, come dovrebbe essere,
+una questione di comodità e di regolazione personale, è giunto a essere
+considerato da molti come se fosse parte delle morali essenziali alzarsi
+presto al mattino.  Nel complesso è parte della saggezza pratica;
+ma non vi è nulla di buono in esso né di cattivo nel suo opposto.
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="On_Lying_In_Bed (part 2)" data-chapter="part 02" data-kind="excerpt"></span>

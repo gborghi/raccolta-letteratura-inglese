@@ -259,6 +259,103 @@ as little to do with the point of it as Companionate [[Marriage]] has
 to do with either [[Marriage|marriage]] or companionship.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# sui malvagi eufemismi
+
+SUI MALVAGI EUFEMISMI
+
+G. K. Chesterton  
+
+Pubblicato in "G. K. Chesterton:  Stories, Essays, & [[Poems]]",
+(Everyman's Library - 913), J. M. Dent & Sons Ltd., [[London]], ristampa 1946
+dell'edizione 1935, pp208-211. Apparso originariamente in "Come to think
+of It", 1930.
+
+Qualcuno mi ha mandato un libro sul [[Marriage|Matrimonio]] Compagnesco;
+così chiamato perché le persone coinvolte non sono sposate e assai
+rapidamente cesseranno di essere compagni.  Non ho intenzione
+di discutere qui quel progetto coloniale alquanto rozzo.
+Dirò soltanto che qui è accompagnato da sottotitoli e altre
+dichiarazioni sulla generazione che avanza e la rivolta della gioventù.
+E mi sembra straordinariamente buffo che, proprio quando la generazione
+che avanza si vanta di non essere sentimentale, quando parla di essere
+molto scientifica e sociologica—proprio in quel momento tutti
+sembrano aver dimenticato del tutto quale fosse l'uso sociale del
+[[Marriage|matrimonio]] e pensare unicamente ed esclusivamente al sentimentale.
+Gli scopi pratici menzionati come le prime due ragioni del [[Marriage|matrimonio]],
+nel rito [[Marriage|matrimoniale]] anglicano, sembrano essere del tutto usciti di
+vista per certune persone, che ne parlano come se non vi fosse nulla se non una versione
+piuttosto sfrenata della terza, che si può relativamente dire romantica.
+E questo, per favore, si suppone sia un'emancipazione dal
+sentimentalismo vittoriano e dal [[Romance|Romanticismo]].
+
+Ma menziono questa faccenda soltanto come una fra molte, e come una che
+illustra una contraddizione ancora più curiosa in questa pretesa moderna.
+Ci viene perpetuamente detto che questa generazione che avanza è molto franca
+e libera, e che il suo intero ideale sociale è la franchezza e la [[Freedom|Libertà]].
+Ora, io non ho affatto paura della franchezza.  Ciò di cui ho paura
+è la volubilità.  E c'è una [[Truth|verità]] nell'antico nesso proverbiale
+fra ciò che è volubile e ciò che è falso.  Vi è nei titoli stessi
+e nella terminologia di tutta questa sorta di cose un elemento pervasivo
+di falsità.  Ogni cosa va chiamata con qualcosa che essa non è;
+come nell'esempio caratteristico del [[Marriage|Matrimonio]] Compagnesco.
+Ogni cosa va raccomandata al pubblico con una sorta di sinonimo
+che è in realtà uno pseudonimo.  È un talento che va di pari passo col [[Time|tempo]]
+delle campagne elettorali e della pubblicità e dei titoli di giornale;
+ma qualunque altra cosa un simile [[Time|tempo]] possa essere, di certo non è specialmente
+un [[Time|tempo]] di [[Truth|verità]].
+
+In breve, questi amici della franchezza dipendono quasi interamente dall'Eufemismo.
+Introducono le loro orribili eresie sotto nomi nuovi e accuratamente
+lusinghieri; come le Furie erano chiamate le Eumenidi.
+I nomi sono sempre adulazione; i nomi sono anche insensatezza.
+Il nome di Controllo delle Nascite, per esempio, è pura insensatezza.
+Tutti hanno sempre esercitato il controllo delle nascite; anche quando
+erano tanto paradossali da permettere che il processo si concludesse in una nascita.
+Tutti hanno sempre conosciuto il controllo delle nascite, anche se prese la forma selvaggia
+e impensabile dell'[[Self|autocontrollo]]. La questione in gioco riguarda
+differenti forme di prevenzione delle nascite; e non ho intenzione di [[debate|dibatterne]]
+qui.  Ma se la [[debate|dibattessi]], la chiamerei col suo nome.
+Lo stesso vale per un più antico pezzo di sentimentalismo cui indulgono i franchi
+e liberi:  l'espressione 'Libero [[Love|Amore]].'  Anche quello è un Eufemismo;
+vale a dire, è un rifiuto della gente di dire ciò che intende.
+In quel senso, è impossibile impedire all'[[Love|AMORE]] di essere libero, ma il
+problema morale posto in causa riguarda non le passioni, ma la volontà.
+Vi è un gran numero di altri esempi di questa sorta di finzione garbata;
+questi rispettabili travestimenti adottati da chi si scaglia sempre
+contro la rispettabilità.  Nell'immediato futuro ve ne saranno probabilmente
+ancora di più.  Non sembra esservi in realtà limite necessario al processo;
+e per quanto lontano possa spingersi l'anarchia dell'etica, essa potrà sempre
+essere accompagnata da questo curioso e pomposo cerimoniale.
+Il sensibile giovane del futuro non sarà mai chiamato ad accettare
+la Falsificazione come Falsificazione.  Sarà facile abbastanza chiamarla Omeografia
+o Assimilazione della Scrittura o qualcos'altro che suggerisca,
+al semplice o al superficiale, che nulla vi è in gioco se non
+una sorta di socializzazione o unificazione della grafia individuale.
+Non dovremmo, come il più onesto signor [[Fagin]], insegnare ai ragazzini
+a borseggiare; poiché il signor [[Fagin]] diventa assai meno onesto quando diventa
+il professor Faginski, il grande sociologo, dell'Università di Jena.
+Ma dovremmo chiamarlo con qualche nome che implichi il trasferimento di qualcosa;
+non riesco al momento a ricordare il greco né per tasca
+né per fazzoletto da tasca. Quanto alla giustificazione sociale dell'omicidio,
+essa è già cominciata; e i pensatori seri farebbero meglio a cominciare subito
+a pensare a un bel nome inoffensivo per esso.  Il caso a favore dell'omicidio,
+secondo l'etica moderna, relativista ed evoluzionista, è del tutto schiacciante.
+Non c'è quasi uno di noi che non riconosca, guardandosi attorno nella propria
+cerchia sociale, qualche persona chiacchierona o qualche energico carattere
+mondano la cui scomparsa, senza troppo trambusto o congedo,
+sarebbe un lieto evento per tutti noi.  Né è vero che una simile persona
+sia pericolosa soltanto perché brandisce ingiusti poteri legali o sociali.
+Il problema è spesso puramente psicologico, e per nulla legale;
+e nessuna emancipazione legale lo risolverebbe.  Nulla lo risolverebbe
+se non l'introduzione di quella nuova forma di libertà che potremo convenire
+di chiamare, forse, la pratica della Sottrazione Sociale.  Oppure, se ci piace,
+possiamo modellare il nuovo nome sugli altri nomi che ho menzionato.
+Possiamo chiamarlo Controllo della Vita o Libera [[Death|Morte]]; o qualunque altra cosa che abbia
+tanto poco a che fare col suo punto quanto il [[Marriage|Matrimonio]] Compagnesco ha
+a che fare col [[Marriage|matrimonio]] o con la compagnia.
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="on_evil_euphemisms (part 2)" data-chapter="part 02" data-kind="excerpt"></span>

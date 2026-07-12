@@ -72,7 +72,7 @@ G.K.C.
 
 A HILAIRE BELLOC  
 
-	      di G.K. Chesterton  
+di G.K. Chesterton
 
 Per ogni minuscola città o luogo  
 Dio fece le [[Stars|stelle]] apposta;  
@@ -186,7 +186,7 @@ G.K.C.
 
 A HILAIRE BELLOC  
 
-	      di G.K. Chesterton  
+di G.K. Chesterton
 
 Per ogni minuscola città o luogo  
 Dio fece le [[Stars|stelle]] apposta;  

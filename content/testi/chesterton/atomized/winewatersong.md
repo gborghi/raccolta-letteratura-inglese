@@ -3322,6 +3322,192 @@ electronic work or group of works on different terms than are set
 forth in this agreement, you must obtain permission in writing from
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+all'opera.  Potete facilmente attenervi ai termini del presente accordo
+
+conservando quest'opera nel medesimo formato con l'allegata Licenza integrale Project
+
+Gutenberg-tm quando la condividete gratuitamente con altri.
+
+1.D.  Anche le leggi sul copyright del luogo in cui vi trovate disciplinano
+
+ciò che potete fare con quest'opera.  Le leggi sul copyright della maggior parte dei paesi sono in
+
+un costante stato di mutamento.  Se vi trovate fuori dagli Stati Uniti, controllate
+
+le leggi del vostro paese oltre ai termini del presente accordo
+
+prima di scaricare, copiare, esporre, eseguire, distribuire o
+
+creare opere derivate basate su quest'opera o su qualsiasi altra opera Project
+
+Gutenberg-tm.  La Fondazione non rilascia alcuna dichiarazione riguardo
+
+allo stato di copyright di qualsivoglia opera in qualsivoglia paese fuori dagli Stati
+
+Uniti.
+
+1.E. A meno che non abbiate rimosso tutti i riferimenti a Project Gutenberg:
+
+1.E.1.  La seguente frase, con collegamenti attivi a, o altro accesso immediato
+
+a, la Licenza integrale Project Gutenberg-tm deve comparire in evidenza
+
+ogniqualvolta qualsiasi copia di un'opera Project Gutenberg-tm (qualsiasi opera su cui la
+
+locuzione «Project Gutenberg» compaia, o alla quale la locuzione «Project
+
+Gutenberg» sia associata) venga consultata, esposta, eseguita, visualizzata,
+
+copiata o distribuita:
+
+Questo eBook è destinato all'uso di chiunque, ovunque, senza alcun costo e con
+
+quasi nessuna restrizione di sorta.  Potete copiarlo, regalarlo o
+
+riutilizzarlo secondo i termini della Licenza Project Gutenberg inclusa
+
+con questo eBook o online all'indirizzo www.gutenberg.net
+
+1.E.2.  Se una singola opera elettronica Project Gutenberg-tm deriva
+
+dal pubblico dominio (non contiene un avviso che indichi che essa è
+
+pubblicata con il permesso del titolare del copyright), l'opera può essere copiata
+
+e distribuita a chiunque negli Stati Uniti senza pagare alcuna tariffa
+
+o onere.  Se ridistribuite o fornite l'accesso a un'opera
+
+alla quale sia associata, o sulla quale compaia, la locuzione «Project Gutenberg»,
+
+dovete attenervi o ai requisiti dei paragrafi da 1.E.1
+
+a 1.E.7 oppure ottenere il permesso per l'uso dell'opera e del
+
+marchio Project Gutenberg-tm secondo quanto stabilito ai paragrafi 1.E.8 o
+
+1.E.9.
+
+1.E.3.  Se una singola opera elettronica Project Gutenberg-tm è pubblicata
+
+con il permesso del titolare del copyright, il vostro uso e la vostra distribuzione
+
+devono attenersi sia ai paragrafi da 1.E.1 a 1.E.7 sia a qualsiasi ulteriore
+
+termine imposto dal titolare del copyright.  I termini aggiuntivi saranno collegati
+
+alla Licenza Project Gutenberg-tm per tutte le opere pubblicate con il
+
+permesso del titolare del copyright, reperibile all'inizio di quest'opera.
+
+1.E.4.  Non scollegate né staccate né rimuovete i termini integrali della Licenza
+
+Project Gutenberg-tm da quest'opera, o da qualsiasi file contenente una parte di quest'
+
+opera o qualsiasi altra opera associata a Project Gutenberg-tm.
+
+1.E.5.  Non copiate, esponete, eseguite, distribuite o ridistribuite questa
+
+opera elettronica, o qualsiasi parte di questa opera elettronica, senza
+
+esporre in evidenza la frase stabilita al paragrafo 1.E.1 con
+
+collegamenti attivi o accesso immediato ai termini integrali della Licenza
+
+Project Gutenberg-tm.
+
+1.E.6.  Potete [[convert|convertire]] e distribuire quest'opera in qualsiasi forma binaria,
+
+compressa, marcata, non proprietaria o proprietaria, ivi compresa qualsiasi
+
+forma di elaborazione di testo o di ipertesto.  Tuttavia, se fornite l'accesso a, o
+
+distribuite copie di, un'opera Project Gutenberg-tm in un formato diverso dal
+
+«Plain Vanilla ASCII» o da altro formato usato nella versione ufficiale
+
+pubblicata sul sito web ufficiale Project Gutenberg-tm (www.gutenberg.net),
+
+dovete, senza costo, tariffa o spesa aggiuntivi per l'utente, fornire una
+
+copia, un mezzo per esportare una copia, o un mezzo per ottenere una copia su
+
+richiesta, dell'opera nel suo originale «Plain Vanilla ASCII» o altra
+
+forma.  Qualsiasi formato alternativo deve includere la Licenza integrale Project Gutenberg-tm
+
+come specificato al paragrafo 1.E.1.
+
+1.E.7.  Non applicate una tariffa per l'accesso a, la visualizzazione, l'esposizione,
+
+l'esecuzione, la copia o la distribuzione di qualsiasi opera Project Gutenberg-tm
+
+a meno che non vi atteniate al paragrafo 1.E.8 o 1.E.9.
+
+1.E.8.  Potete applicare una tariffa ragionevole per le copie di, o per la fornitura di
+
+l'accesso a o distribuire le opere elettroniche Project Gutenberg-tm a condizione  
+
+che  
+
+- Paghiate una tassa di diritti d'autore pari al 20% dei profitti lordi che ricavate
+
+     dall'uso delle opere Project Gutenberg-tm calcolati col metodo  
+
+     che già usate per calcolare le vostre imposte applicabili.  La tassa è  
+
+     dovuta al titolare del marchio Project Gutenberg-tm, ma egli  
+
+     ha acconsentito a donare i diritti previsti da questo paragrafo alla  
+
+     Project Gutenberg Literary Archive Foundation.  I pagamenti dei diritti  
+
+     devono essere versati entro 60 giorni successivi a ciascuna data in cui  
+
+     preparate (o siete legalmente tenuti a preparare) le vostre dichiarazioni  
+
+     fiscali periodiche.  I pagamenti dei diritti devono essere chiaramente indicati come tali e  
+
+     inviati alla Project Gutenberg Literary Archive Foundation all'  
+
+     indirizzo specificato nella Sezione 4, «Informazioni sulle donazioni alla  
+
+     Project Gutenberg Literary Archive Foundation.»  
+
+- Forniate un rimborso completo di ogni somma pagata da un utente che vi notifichi
+
+     per iscritto (o via e-mail) entro 30 giorni dal ricevimento che egli/ella  
+
+     non accetta i termini della completa  
+
+     Licenza Project Gutenberg-tm.  Dovete esigere che tale utente restituisca o  
+
+     distrugga tutte le copie delle opere possedute su supporto fisico  
+
+     e cessi ogni uso di e ogni accesso ad altre copie delle  
+
+     opere Project Gutenberg-tm.  
+
+- Forniate, in conformità al paragrafo 1.F.3, un rimborso completo di ogni
+
+     somma pagata per un'opera o una copia sostitutiva, se un difetto nell'  
+
+     opera elettronica viene scoperto e segnalato a voi entro 90 giorni  
+
+     dal ricevimento dell'opera.  
+
+- Rispettiate tutti gli altri termini di questo accordo per la libera
+
+     distribuzione delle opere Project Gutenberg-tm.  
+
+1.E.9.  Se desiderate far pagare una tassa o distribuire un'opera elettronica  
+
+Project Gutenberg-tm o un gruppo di opere a termini diversi da quelli  
+
+esposti in questo accordo, dovete ottenere il permesso per iscritto da
+
 
 
 <span class="atom-split" data-atom="part--part_07" data-title="WineWaterSong (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
@@ -3674,9 +3860,9 @@ Vi preghiamo di consultare le pagine web di Project Gutenberg per conoscere gli 
 
 metodi e indirizzi per le donazioni. Le donazioni sono accettate in svariati altri
 
-modi, inclusi assegni, pagamenti online e donazioni con carta
+modi inclusi assegni, pagamenti online e donazioni con carta di
 
-di credito. Per donare, visitare: http://pglaf.org/donate
+credito.  Per donare, visitate: http://pglaf.org/donate
 
 Sezione 5. Informazioni Generali sulle opere elettroniche di Project
 

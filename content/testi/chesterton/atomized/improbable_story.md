@@ -504,3 +504,38 @@ And bowing slightly to the mustard-pot, the man in
 the restaurant withdrew.
 
 ------------------------------------------------------------------------
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+«No, intendo un'altra strada andata a male», e disse, pesante e tranquillo, «ma poiché suppongo che ciò non vi spieghi gran che, credo che dovrò raccontarvi la storia. Lo faccio con tanta minore responsabilità in quanto so che non mi crederete. Per quarant'anni della mia vita ho invariabilmente lasciato il mio ufficio, che è in Leadenhall Street, alle cinque e mezza del pomeriggio, portando con me un ombrello nella mano destra e una borsa nella sinistra. Per quarant'anni, due mesi e quattro giorni sono uscito dalla porta laterale dell'ufficio, ho percorso la strada sul lato sinistro, ho preso la prima svolta a sinistra e la terza a destra, di là dove compravo un giornale della sera, ho seguito la [[Road|via]] sul lato destro attorno a due angoli ottusi, e sono sbucato proprio fuori da una stazione della Metropolitana, dove prendevo un treno per [[Home|casa]]. Per quarant'anni, due mesi e quattro giorni ho compiuto questo tragitto per abitudine accumulata: non era una strada lunga quella che percorrevo, e mi ci volevano circa quattro minuti e mezzo a farla. Dopo quarant'anni, due mesi e quattro giorni, il quinto giorno uscii nel medesimo modo, con l'ombrello nella mano destra e la borsa nella sinistra, e cominciai ad accorgermi che il camminare lungo la strada familiare mi stancava un po' più del solito; e quando la svoltai fui convinto d'aver imboccato quella sbagliata. Poiché ora la strada saliva con una pendenza assai ripida, come se ne vedono soltanto nelle parti collinose di [[London|Londra]], e in quel quartiere non v'erano colline affatto. Eppure non era la strada sbagliata; il nome scritto su di essa era il medesimo; le botteghe con le imposte chiuse erano le medesime; i lampioni e l'intero aspetto della prospettiva erano i medesimi; solo che era inclinata all'insù come un coperchio sollevato. Dimenticando ogni fastidio d'affanno o di fatica corsi furiosamente in avanti, e raggiunsi la seconda delle mie svolte consuete, che avrebbe dovuto portarmi quasi in vista della stazione. E come svoltai quell'angolo per poco non caddi sul marciapiede. Poiché ora la strada saliva dritta davanti alla mia faccia come una ripida scalinata o il fianco di una piramide. Non v'era, per miglia all'intorno di quel luogo, tanto quanto una salita simile a quella di Ludgate [[Hill]]. E questa era una salita come quella del Cervino. L'intera strada si era sollevata come una singola onda, eppure ogni granello e ogni particolare di essa era il medesimo, e vidi in alto, in lontananza, come alla sommità di un passo alpino, spiccare in lettere rosa il nome sopra la mia edicola.
+
+«Corsi avanti e avanti, ormai alla cieca, oltrepassando tutte le botteghe e giungendo a un tratto della [[Road|via]] dove v'era una lunga fila grigia di case private. Avevo, non so perché, l'irrazionale sensazione d'essere su un lungo ponte di ferro nello spazio vuoto. Un impulso mi afferrò, e sollevai la botola di ferro di una carbonaia. Guardando giù attraverso di essa vidi lo spazio vuoto e le stelle.
+
+«Quando alzai di nuovo lo sguardo, un uomo se ne stava nel suo [[Garden|giardino]] antistante, essendo a quanto pareva uscito dalla sua [[house|casa]]; era appoggiato alla ringhiera e mi fissava. Eravamo tutti [[Alone|soli]] su quella [[Road|strada]] da [[nightmare|incubo]]; il suo volto era nell'[[Shadow|ombra]]; il suo abito era scuro e comune; ma quando lo vidi star fermo così perfettamente, seppi in qualche modo che egli non era di questo mondo. E le [[Stars|stelle]] dietro il suo capo erano più grandi e più fiere di quanto possano sopportare gli occhi degli uomini.
+
+«"Se sei un angelo benigno", dissi, "o un diavolo saggio, o hai qualcosa in comune col genere umano, dimmi che cos'è questa strada posseduta dai demoni".
+
+«Dopo un lungo [[Silence|silenzio]] disse: "Che cosa dici tu che sia?".
+
+«"È Bumpton Street, naturalmente", scattai. "Va alla stazione di Oldgate".
+
+«"Sì", ammise con gravità; "va là qualche volta. Proprio ora, però, sta andando in cielo".
+
+«"In cielo?", dissi. "Perché?".
+
+«"Sta andando in cielo per ottenere giustizia", rispose. «Devi averla trattata male. Ricòrdati sempre che c'è una cosa che nessuno e niente può sopportare. Quell'unica cosa insopportabile è essere sovraccaricati di lavoro e insieme trascurati. Per esempio, puoi sovraccaricare le donne di lavoro: lo fanno tutti. Ma non puoi trascurare le donne: ti sfido a farlo. Al [[Time|tempo]] stesso, puoi trascurare i vagabondi e gli zingari e tutto l'apparente rifiuto dello Stato, purché non lo sovraccarichi di lavoro. Ma nessuna bestia dei campi, nessun [[Horse|cavallo]], nessun cane può sopportare a lungo che gli si chieda di fare più del suo lavoro e insieme di avere meno del suo [[Honour|onore]]. Lo stesso vale per le strade. Tu hai sfruttato questa strada fino alla [[Death|morte]], eppure non ti sei mai ricordato della sua esistenza. Se tu avessi una sana [[democracy|democrazia]], anche solo di pagani, avrebbero adornato questa strada di ghirlande e le avrebbero dato il nome di un dio. Allora sarebbe andata via quieta. Ma almeno la strada si è stancata della tua instancabile insolenza; e s'impenna e leva il capo verso il cielo. Non sei mai stato in sella a un [[Horse|cavallo]] che s'impenna?".
+
+«Guardai la lunga strada grigia, e per un momento mi parve esattamente simile al lungo collo grigio di un [[Horse|cavallo]] lanciato verso il cielo. Ma in un attimo la mia [[Sanity|ragione]] ritornò, e dissi: "Ma questa è tutta un'assurdità. Le strade vanno al luogo dove devono andare. Una strada deve sempre giungere alla sua fine".
+
+«"Perché la pensi così di una strada?", chiese, restando immobilissimo.
+
+«"Perché l'ho sempre vista fare la medesima cosa", risposi, in ragionevole collera. "Giorno dopo giorno, anno dopo anno, è sempre andata alla stazione di Oldgate; giorno dopo...".
+
+«Mi fermai, perché egli aveva levato il capo con la furia della [[Road|strada]] in rivolta.
+
+«"E tu?", gridò terribilmente. "Che cosa pensi che la [[Road|strada]] pensi di te? Pensa forse la [[Road|strada]] che tu sia vivo? Sei tu vivo? Giorno dopo giorno, anno dopo anno, sei andato alla stazione di Oldgate...". Da allora ho rispettato le cose dette inanimate».
+
+E inchinandosi leggermente al vasetto della senape, l'uomo nel ristorante si ritirò.
+
+------------------------------------------------------------------------
