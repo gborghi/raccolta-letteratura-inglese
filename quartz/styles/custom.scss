@@ -342,6 +342,16 @@ table.lt-table tr:hover td {
   color: var(--gray);
   font-size: 0.82rem;
 }
+// Mobile: the works table's numeric columns (Links, Flesch, Grade, Fog) overflow
+// a phone viewport — and are empty for verse/letters anyway. Hide them; keep
+// Title / Author / Cluster. Belt-and-suspenders horizontal scroll on the wrapper.
+#opere-table { overflow-x: auto; }
+@media (max-width: 640px) {
+  #opere-table table.lt-table th:nth-child(n + 4),
+  #opere-table table.lt-table td:nth-child(n + 4) {
+    display: none;
+  }
+}
 .lt-pager {
   display: flex;
   gap: 0.4rem;
@@ -716,44 +726,8 @@ details.cerca-facet > summary {
   padding: 0.25rem 0.2rem;
   color: var(--gray);
 }
-.cerca-results table.lt-table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 0.9rem;
-}
-.cerca-results th,
-.cerca-results td {
-  text-align: left;
-  padding: 0.45rem 0.6rem;
-  border-bottom: 1px solid var(--lightgray);
-  vertical-align: top;
-}
-.cerca-results th.lt-th {
-  cursor: pointer;
-  user-select: none;
-  white-space: nowrap;
-  color: var(--gray);
-  font-weight: 600;
-}
-.cerca-results th.sorted-asc::after {
-  content: " \2191";
-  color: var(--secondary);
-}
-.cerca-results th.sorted-desc::after {
-  content: " \2193";
-  color: var(--secondary);
-}
-.cerca-results td.lt-num,
-.cerca-results th.lt-num {
-  text-align: center;
-}
-.cerca-results tr:hover td {
-  background: var(--highlight);
-}
-.cerca-results .lt-cluster {
-  color: var(--gray);
-  font-size: 0.82rem;
-}
+// cerca's results table carries class "lt-table", so the global table.lt-table
+// rules above already style it — no .cerca-results-scoped duplicate needed.
 
 // ----- RadialWheel -----
 .radial-wheel {
@@ -1011,43 +985,6 @@ ul.tags {
     overflow-wrap: normal;
     word-break: keep-all;
   }
-}
-
-// ---- per-page language toggle (EN <-> IT sibling) ----
-.sb-langswitch {
-  display: flex;
-  justify-content: flex-end;
-  margin: 0 0 0.4rem;
-}
-.sb-lang-btn {
-  display: inline-block;
-  font-size: 0.8rem;
-  font-weight: 600;
-  line-height: 1;
-  padding: 0.3rem 0.7rem;
-  border: 1px solid var(--lightgray);
-  border-radius: 999px;
-  color: var(--secondary);
-  background: var(--light);
-  text-decoration: none;
-  white-space: nowrap;
-}
-.sb-lang-btn::before {
-  content: "🌐 ";
-}
-.sb-lang-btn:hover {
-  background: var(--secondary);
-  color: var(--light);
-  border-color: var(--secondary);
-}
-
-// in-place bilingual toggle: keep the hidden language block collapsed
-.sb-lang[hidden] {
-  display: none !important;
-}
-.sb-lang-btn {
-  cursor: pointer;
-  font-family: inherit;
 }
 
 // ---- qlang bilingual switch (OlimpiadiMatematica pattern) ----

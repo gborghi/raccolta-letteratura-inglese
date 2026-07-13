@@ -12,7 +12,7 @@
 import fs from "fs"
 import path from "path"
 
-const OUT = process.argv[2] || "E:/giovanni/quartz-build/fisica-public"
+const OUT = process.argv[2] || "public"
 const ci = path.join(OUT, "static", "contentIndex.json")
 const tagsHtml = path.join(OUT, "tags", "index.html")
 

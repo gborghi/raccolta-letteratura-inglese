@@ -368,13 +368,6 @@ function normWorkKey(s) {
     .trim()
 }
 
-// Sort key that ignores a leading article (for tables/listings).
-function sortKeyNoArticle(s) {
-  return String(s)
-    .toLowerCase()
-    .replace(/^\s*(the|a|an)\s+/, "")
-    .trim()
-}
 
 function prettyFromFilename(name) {
   return name
@@ -1227,23 +1220,8 @@ async function main() {
   const clusters = [...new Set(works.map((w) => w.cluster).filter(Boolean))].sort()
 
   // ---------- Home (editorial landing) ----------
-  const authorBlurb = {
-    Shakespeare: "Plays, sonnets, the whole canon of the English stage.",
-    Keats: "Odes, sonnets and the Romantic pursuit of beauty.",
-    Dickinson: "The compressed lyric interior — death, faith, the self.",
-    Eliot: "Modernist fragments, the metropolis, spiritual drought.",
-    Chesterton: "Essays, paradox, ballads and Christian wit.",
-    Dickens: "The social novel, the city, the common life.",
-    Austen: "Irony, manners and the marriage plot.",
-    Bronte: "Passion, the gothic and the moral interior.",
-    Poe: "Terror, the grotesque and the architecture of dread.",
-    Wilde: "Epigram, aestheticism and the comedy of surfaces.",
-    Coleridge: "Imagination, the supernatural and the One Life.",
-    Whitman: "The open road, democracy and the body electric.",
-  }
   const authorCounts = {}
   for (const w of works) authorCounts[w.author] = (authorCounts[w.author] || 0) + 1
-  void authorBlurb
 
   const topClustersAll = clusters
     .map((c) => ({ c, n: works.filter((w) => w.cluster === c).length }))

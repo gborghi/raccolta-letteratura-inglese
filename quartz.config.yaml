@@ -163,7 +163,7 @@ plugins:
       # settings, topoi, clusters, historical references, etc. "tags" also hidden.
       # Passed as a stringified arrow fn: the plugin serializes filterFn via
       # .toString() and the client rebuilds it with new Function().
-      filterFn: '(node) => node.slugSegment !== "tags" && node.slugSegment !== "testi" && node.slugSegment !== "works"'
+      filterFn: '(node) => node.slugSegment !== "tags" && node.slugSegment !== "testi" && node.slugSegment !== "works" && node.slugSegment !== "404"'
       folderDefaultState: collapsed
       folderClickBehavior: link
     layout:
@@ -240,8 +240,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/gborghi/raccolta-letteratura-inglese
+        Quartz: https://quartz.jzhao.xyz/
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer

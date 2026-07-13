@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Compute an NLP 'literary footprint' per author from the atomized corpus.
 Metrics: works, total words, vocabulary, lexical richness (TTR + root-TTR),
-avg sentence length, avg word length, top distinctive words (TF-IDF across the 13
+avg sentence length, avg word length, top distinctive words (TF-IDF across the
 authors), and top graph concepts/motifs/topoi (from Work-note tags). Writes
 quartz/static/author_stats.json for the author landing pages."""
 import os, re, glob, json, math
