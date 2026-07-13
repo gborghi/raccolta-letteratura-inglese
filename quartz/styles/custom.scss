@@ -1209,16 +1209,18 @@ ul.tags {
 // site's left sidebar is redundant. Collapse its grid column and hide it by
 // default; the reader's ☰ button re-opens it as a slide-in drawer.
 body.reading-page {
+  // #quartz-body sits under .page, not directly under body — use a descendant
+  // combinator, not a child one.
   @media all and (min-width: 1200px) {
-    & > #quartz-body { grid-template-columns: 0 auto 320px; }
+    & #quartz-body { grid-template-columns: 0 auto 320px; }
   }
   @media all and (min-width: 800px) and (max-width: 1199.98px) {
-    & > #quartz-body { grid-template-columns: 0 auto; }
+    & #quartz-body { grid-template-columns: 0 auto; }
   }
   @media (min-width: 800px) {
-    & > #quartz-body > .sidebar.left { display: none; }
+    & #quartz-body > .sidebar.left { display: none; }
   }
-  &.left-open > #quartz-body > .sidebar.left {
+  &.left-open #quartz-body > .sidebar.left {
     display: flex;
     position: fixed;
     inset: 0 auto 0 0;
