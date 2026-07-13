@@ -351,8 +351,9 @@ async function init() {
         av = Number(av)
         bv = Number(bv)
       } else {
-        av = String(av).toLowerCase()
-        bv = String(bv).toLowerCase()
+        // strip a leading article so "The Waste Land" sorts under W, matching /opere
+        av = String(av).toLowerCase().replace(/^\s*(the|a|an)\s+/, "")
+        bv = String(bv).toLowerCase().replace(/^\s*(the|a|an)\s+/, "")
       }
       if (av < bv) return -sortDir
       if (av > bv) return sortDir

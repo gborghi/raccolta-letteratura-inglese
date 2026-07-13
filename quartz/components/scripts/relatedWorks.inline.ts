@@ -12,14 +12,6 @@ interface WorkRel {
   author: string
   shared?: number
 }
-interface ChapterRel {
-  href: string
-  title: string
-  work: string
-  shared: number
-  plot: string
-}
-
 const caches: Record<string, Record<string, unknown[]> | undefined> = {}
 const promises: Record<string, Promise<Record<string, unknown[]>> | undefined> = {}
 function load(prefix: string, file: string): Promise<Record<string, unknown[]>> {
@@ -61,10 +53,14 @@ async function init() {
   // a capital-W check silently sent every work page to the chapter index and
   // suppressed "Opere correlate".
   const isWork = slug.toLowerCase().startsWith("works/")
+  // Only work-node pages get "Opere correlate" (related.json) here. Reading pages
+  // (testi/*) render per-atom "Capitoli correlati" via atomRouter's own per-work
+  // shard, so relatedWorks must NOT fetch the chapter index on them.
+  if (!isWork) return
 
   let data: Record<string, unknown[]>
   try {
-    data = await load(prefix, isWork ? "related.json" : "chapter_related.json")
+    data = await load(prefix, "related.json")
   } catch {
     return
   }
@@ -74,36 +70,19 @@ async function init() {
   if ((document.body.dataset.slug || "") !== slug) return
   if (article.querySelector(".related-works")) return
 
-  if (isWork) {
-    const { section, ul } = makeSection("Opere correlate")
-    for (const r of rels as WorkRel[]) {
-      const li = document.createElement("li")
-      li.appendChild(link(prefix, r.href, r.title))
-      if (r.author) {
-        const span = document.createElement("span")
-        span.className = "rw-author"
-        span.textContent = " — " + r.author
-        li.appendChild(span)
-      }
-      ul.appendChild(li)
+  const { section, ul } = makeSection("Opere correlate")
+  for (const r of rels as WorkRel[]) {
+    const li = document.createElement("li")
+    li.appendChild(link(prefix, r.href, r.title))
+    if (r.author) {
+      const span = document.createElement("span")
+      span.className = "rw-author"
+      span.textContent = " — " + r.author
+      li.appendChild(span)
     }
-    article.appendChild(section)
-  } else {
-    const { section, ul } = makeSection("Capitoli correlati")
-    for (const r of rels as ChapterRel[]) {
-      const li = document.createElement("li")
-      li.className = "rw-chapter"
-      li.appendChild(link(prefix, r.href, r.title))
-      if (r.plot) {
-        const p = document.createElement("div")
-        p.className = "rw-plot"
-        p.textContent = r.plot
-        li.appendChild(p)
-      }
-      ul.appendChild(li)
-    }
-    article.appendChild(section)
+    ul.appendChild(li)
   }
+  article.appendChild(section)
 }
 
 // Bilingual language switch (the OlimpiadiMatematica/qlang pattern). preprocess

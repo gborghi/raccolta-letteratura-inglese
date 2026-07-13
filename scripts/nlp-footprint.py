@@ -52,12 +52,16 @@ def author_atoms(author):
 
 AUTHORS = [d for d in os.listdir(AUTHORS_DIR) if os.path.isdir(f"{AUTHORS_DIR}/{d}")]
 
-# author -> token list, doc freq for TF-IDF
+# author -> token list, doc freq for TF-IDF. Read+clean each author's atoms ONCE
+# and cache them (reused below for the sentence split).
 tokens = {}
 tf = {}
+atoms_by_au = {}
 for au in AUTHORS:
+    ats = author_atoms(au)
+    atoms_by_au[au] = ats
     toks = []
-    for t in author_atoms(au):
+    for t in ats:
         toks += [w.lower() for w in WORD.findall(t) if len(w) > 2]
     tokens[au] = toks
     tf[au] = Counter(w for w in toks if w not in STOP)
@@ -88,8 +92,8 @@ for au in AUTHORS:
     # root TTR (Guiraud) — stable across text length
     rttr = round(vocab / math.sqrt(n), 1)
     ttr = round(vocab / n, 4)
-    # sentences: approximate from joined cleaned text
-    full = " ".join(author_atoms(au))
+    # sentences: approximate from joined cleaned text (reuse the cached atoms)
+    full = " ".join(atoms_by_au[au])
     sents = [s for s in re.split(r"[.!?]+", full) if len(WORD.findall(s)) > 0]
     ns = max(1, len(sents))
     avg_sent = round(n / ns, 1)

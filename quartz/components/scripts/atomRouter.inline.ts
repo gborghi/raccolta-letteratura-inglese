@@ -131,8 +131,9 @@ function build(reader: HTMLElement) {
   const workSlug = reader.dataset.work || ""
   const BP = (document.body && (document.body as HTMLElement).dataset.basepath) || ""
   let relatedData: Record<string, Array<Record<string, unknown>>> | null = null
-  fetch(`${BP}/static/chapter_related.json`)
-    .then((r) => r.json())
+  // Per-work shard (few KB) instead of the whole ~7MB index; 404 = no related cards.
+  fetch(`${BP}/static/chapter_related/${workSlug.replace(/\//g, "__")}.json`)
+    .then((r) => (r.ok ? r.json() : {}))
     .then((d) => {
       relatedData = d
       render(shownId)

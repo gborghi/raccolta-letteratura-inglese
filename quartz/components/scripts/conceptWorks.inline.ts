@@ -122,12 +122,13 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
     ["summary", "Abstract"],
   ]
 
+  const noArt = (v: unknown) => String(v).toLowerCase().replace(/^\s*(the|a|an)\s+/, "")
   function cmp(a: Work, b: Work): number {
-    let av = String(a[sortKey]).toLowerCase()
-    let bv = String(b[sortKey]).toLowerCase()
+    const av = noArt(a[sortKey])
+    const bv = noArt(b[sortKey])
     if (av < bv) return -sortDir
     if (av > bv) return sortDir
-    return a.title.toLowerCase() < b.title.toLowerCase() ? -1 : 1
+    return noArt(a.title) < noArt(b.title) ? -1 : 1
   }
   function filtered(): Work[] {
     const q = filter.toLowerCase()
