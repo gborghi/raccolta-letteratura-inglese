@@ -439,6 +439,9 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
   const unitHref = new Map()
   const excerpts = []
   const excerptsKw = {}
+  const readHrefByWork = new Map() // work-node href -> reading-page (SPA) slug, so the
+  // works table + search + emblems link to the READER (atoms + EN/IT toggle), not the
+  // bare KG metadata node.
   const workUnits = new Map() // work href -> [{ slug, title, relU }] reading units (TOC)
   const workContainers = new Map() // work href -> { slug, title, relU } full-text page (single-essay fallback)
   const workParts = new Map() // work href -> [{ slug, order, relU }] flat "part_NN" excerpts (no chapter layer)
@@ -526,6 +529,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
         // ---- SPA mode: emit ONE page per work (atoms behind atom-split markers) ----
         if (SPA) {
           const workSlug = sluggify(`${TESTI_REL}/${author}/${sub}/${workDir}`)
+          if (parentWorkHref) readHrefByWork.set(parentWorkHref, workSlug)
           const wt = workTitle(author, workDir)
           const workLabel = wt || workDir.replace(/_/g, " ")
           const atomIdOf = (it) =>
@@ -768,7 +772,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
       }
     }
   }
-  return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers, workParts, atomMeta }
+  return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers, workParts, atomMeta, readHrefByWork }
 }
 
 async function main() {
@@ -867,7 +871,7 @@ async function main() {
   }
 
   // ---- Publish atomized excerpts / play scenes / long-poem sections ----
-  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts, atomMeta } = await publishUnits(rawSourceToWork, translations)
+  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts, atomMeta, readHrefByWork } = await publishUnits(rawSourceToWork, translations)
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "excerpts.json"),
     JSON.stringify(excerpts),
@@ -1009,6 +1013,10 @@ async function main() {
     written++
   }
 
+  // Point each work at its reading page (reader) where one exists; the works table,
+  // faceted search and emblems use readHref so selecting a work opens the atoms +
+  // EN/IT toggle instead of the bare KG metadata node.
+  for (const rec of works) rec.readHref = readHrefByWork.get(rec.href) || ""
   await fs.mkdir(path.dirname(STATIC_JSON), { recursive: true })
   await fs.writeFile(STATIC_JSON, JSON.stringify(works))
   await fs.writeFile(KW_JSON, JSON.stringify(kwIndex))

@@ -34,13 +34,20 @@ def clean(t):
 
 def author_atoms(author):
     base = f"{AUTHORS_DIR}/{author}"
-    texts = []
-    for p in glob.glob(base + "/**/*.md", recursive=True):
-        if p.endswith(".it.md") or "/_raw/" in p.replace("\\", "/"): continue
-        b = os.path.basename(p)[:-3]; d = os.path.basename(os.path.dirname(p))
-        if b == d or os.path.isdir(os.path.join(os.path.dirname(p), b)): continue  # skip aggregates
-        try: texts.append(clean(open(p, encoding="utf-8", errors="replace").read()))
-        except Exception: pass
+    def scan(raw_only):
+        out = []
+        for p in glob.glob(base + "/**/*.md", recursive=True):
+            if p.endswith(".it.md"): continue
+            is_raw = "/_raw/" in p.replace("\\", "/")
+            if raw_only != is_raw: continue
+            b = os.path.basename(p)[:-3]; d = os.path.basename(os.path.dirname(p))
+            if b == d or os.path.isdir(os.path.join(os.path.dirname(p), b)): continue  # skip aggregates
+            try: out.append(clean(open(p, encoding="utf-8", errors="replace").read()))
+            except Exception: pass
+        return out
+    texts = scan(False)                 # normal: atomized/Long tree, skip _raw
+    if not texts:                       # poet with no atomized tree (e.g. Dickinson):
+        texts = scan(True)              # her individual _raw poem files ARE the atoms
     return texts
 
 AUTHORS = [d for d in os.listdir(AUTHORS_DIR) if os.path.isdir(f"{AUTHORS_DIR}/{d}")]

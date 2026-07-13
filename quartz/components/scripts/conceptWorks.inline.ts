@@ -5,6 +5,7 @@
 
 interface Work {
   href: string
+  readHref?: string
   title: string
   author: string
   cluster: string
@@ -168,7 +169,7 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
       slice
         .map(
           (r) =>
-            `<tr><td><a href="${prefix}${esc(r.href)}">${highlight(r.title, q)}</a></td>` +
+            `<tr><td><a href="${prefix}${esc(r.readHref || r.href)}">${highlight(r.title, q)}</a></td>` +
             `<td>${esc(r.author)}</td>` +
             `<td class="cw-summary">${highlight(r.summary || "", q)}</td></tr>`,
         )

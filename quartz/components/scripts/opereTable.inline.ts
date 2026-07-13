@@ -4,6 +4,7 @@
 
 interface Work {
   href: string
+  readHref?: string
   title: string
   author: string
   cluster: string
@@ -183,7 +184,7 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
       slice
         .map(
           (r) =>
-            `<tr><td><a href="${prefix}${esc(r.href)}">${esc(r.title)}</a></td>` +
+            `<tr><td><a href="${prefix}${esc(r.readHref || r.href)}">${esc(r.title)}</a></td>` +
             `<td>${esc(r.author)}</td>` +
             `<td class="lt-cluster">${esc(r.cluster)}</td>` +
             `<td class="lt-num">${esc(r.nconnections)}</td>` +
