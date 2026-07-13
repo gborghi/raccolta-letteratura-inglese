@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="0109_by_a_flower_by_a_letter" data-title="109. By a flower — By a letter —" data-chapter="" data-kind="intro"></span>
 
 
-By a flower — By a letter —  
+By a flower — By a [[Letter|letter]] —  
 By a nimble [[Love|love]] —  
 If I weld the Rivet faster —  
 Final fast — above —  

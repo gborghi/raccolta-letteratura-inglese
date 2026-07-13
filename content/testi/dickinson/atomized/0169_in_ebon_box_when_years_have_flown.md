@@ -19,7 +19,7 @@ To reverently peer,
 Wiping away the velvet [[Dust|dust]]  
 Summers have sprinkled there!  
 
-To hold a letter to the light —  
+To hold a [[Letter|letter]] to the light —  
 Grown Tawny now, with [[Time|time]] —  
 To con the faded syllables  
 That quickened us like Wine!  

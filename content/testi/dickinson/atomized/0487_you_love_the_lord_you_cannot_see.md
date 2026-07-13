@@ -19,7 +19,7 @@ You write Him — every day —
 A little note — when you awake —  
 And further in the Day.  
 
-An Ample Letter — How you miss —  
+An Ample [[Letter]] — How you miss —  
 And would delight to see —  
 But then His [[house|House]] — is but a Step —  
 And Mine's — in Heaven — You see.

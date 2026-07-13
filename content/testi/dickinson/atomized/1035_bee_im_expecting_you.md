@@ -24,7 +24,7 @@ Are settled, and at work —
 [[Birds]], mostly back —  
 The Clover warm and thick —  
 
-You'll get my Letter by  
+You'll get my [[Letter]] by  
 The seventeenth; Reply  
 Or better, be with me —  
 Yours, Fly.

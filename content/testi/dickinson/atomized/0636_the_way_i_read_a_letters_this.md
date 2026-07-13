@@ -14,14 +14,14 @@ tags:
 <span class="atom-split" data-atom="0636_the_way_i_read_a_letters_this" data-title="636. The Way I read a Letter's — this —" data-chapter="" data-kind="intro"></span>
 
 
-The Way I read a Letter's — this —  
+The Way I read a [[Letter]]'s — this —  
 'Tis first — I lock the [[Door]] —  
 And push it with my fingers — next —  
 For transport it be sure —  
 
 And then I go the furthest off  
 To counteract a knock —  
-Then draw my little Letter forth  
+Then draw my little [[Letter]] forth  
 And slowly pick the lock —  
 
 Then — glancing narrow, at the Wall —  

@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="1459_belshazzar_had_a_letter" data-title="1459. Belshazzar had a Letter —" data-chapter="" data-kind="intro"></span>
 
 
-Belshazzar had a letter, —  
+Belshazzar had a [[Letter|letter]], —  
 He never had but one ;  
 Belshazzar's correspondent  
 Concluded and begun  

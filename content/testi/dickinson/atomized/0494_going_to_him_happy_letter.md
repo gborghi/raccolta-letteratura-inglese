@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="0494_going_to_him_happy_letter" data-title="494. Going to Him! Happy letter!" data-chapter="" data-kind="intro"></span>
 
 
-Going to Him! Happy letter!  
+Going to Him! Happy [[Letter|letter]]!  
 Tell Him —  
 Tell Him the page I didn't write —  
 Tell Him — I only said the Syntax —  
@@ -39,5 +39,5 @@ And you — got sleepy — and begged to be ended —
 What could it hinder so — to say?  
 Tell Him — just how she sealed you — Cautious!  
 But — if He ask where you are hid  
-Until tomorrow — Happy letter!  
+Until tomorrow — Happy [[Letter|letter]]!  
 Gesture Coquette — and shake your Head!
